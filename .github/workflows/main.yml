@@ -23,3 +23,10 @@ jobs:
         run: wget https://raw.githubusercontent.com/lbellomo/opa/master/main.py
       - name: Run script
         run: python main.py
+      - name: Commit changes
+        run: |
+          git config --global user.name 'Archive bot'
+          git config --global user.email 'Archive@bot.com'
+          git add -A
+          git commit -m "bump portals"
+          git push
