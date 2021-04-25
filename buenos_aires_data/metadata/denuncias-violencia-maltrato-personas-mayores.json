@@ -1,0 +1,161 @@
+{
+  "author": "Ministerio de Desarrollo Humano y Hábitat",
+  "author_email": "datosabiertos@buenosaires.gob.ar",
+  "creator_user_id": "931fac92-738f-4472-b1c1-f5c2f6e46af3",
+  "extras": [
+    {
+      "key": "Documentación",
+      "value": ""
+    },
+    {
+      "key": "accrualPeriodicity",
+      "value": "eventual"
+    },
+    {
+      "key": "country",
+      "value": "ARG"
+    },
+    {
+      "key": "district",
+      "value": ""
+    },
+    {
+      "key": "home_featured",
+      "value": "false"
+    },
+    {
+      "key": "issued",
+      "value": "2020-11-17T12:42:12.805534"
+    },
+    {
+      "key": "language",
+      "value": "[\"spa\"]"
+    },
+    {
+      "key": "modified",
+      "value": "2021-03-01T14:57:57.912396"
+    },
+    {
+      "key": "province",
+      "value": ""
+    },
+    {
+      "key": "source",
+      "value": "Ministerio de Desarrollo Humano y Hábitat"
+    },
+    {
+      "key": "spatial",
+      "value": "ARG"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"SOCI\"]"
+    },
+    {
+      "key": "temporal",
+      "value": ""
+    }
+  ],
+  "groups": [
+    {
+      "description": "Datos abiertos relacionados al Desarrollo Humano",
+      "display_name": "Desarrollo Humano",
+      "id": "9d791ab5-130b-4bdb-bebf-b14cf2528781",
+      "image_display_url": "https://data.buenosaires.gob.ar/uploads/group/2020-01-31-175946.842561desarrollo-humano.png",
+      "name": "desarrollo-humano",
+      "title": "Desarrollo Humano"
+    }
+  ],
+  "id": "a3543265-5810-40d2-ac4a-bd6d069ee6ce",
+  "isopen": true,
+  "license_id": "CC-BY-2.5-AR",
+  "license_title": "Atribucion 2.5 Argentina (CC BY 2.5 AR)",
+  "license_url": "https://creativecommons.org/licenses/by/2.5/ar ",
+  "maintainer": "Gerencia Operativa de Ingeniería de Datos. DG Arquitectura de Datos. SS de Políticas Públicas Basadas en Evidencia. Secretaría de Innovación y Transformación Digital. Jefatura de Gabinete de Ministros",
+  "maintainer_email": "datosabiertos@buenosaires.gob.ar",
+  "metadata_created": "2020-11-17T15:42:08.280870",
+  "metadata_modified": "2021-03-01T17:57:58.066423",
+  "name": "denuncias-violencia-maltrato-personas-mayores",
+  "notes": "Datos de llamados reportando actos de violencia, abuso o maltrato a personas mayores en la Ciudad de Buenos Aires desde el año 2019.",
+  "num_resources": 1,
+  "num_tags": 3,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-11-15T19:18:53.945883",
+    "description": "",
+    "id": "34394b51-682c-472d-8428-7491610d5c06",
+    "image_url": "",
+    "is_organization": true,
+    "name": "ministerio-de-desarrollo-humano-y-habitat",
+    "revision_id": "19f3f41b-56e8-4dc5-a760-eb39818806b2",
+    "state": "active",
+    "title": "Ministerio de Desarrollo Humano y Hábitat",
+    "type": "organization"
+  },
+  "owner_org": "34394b51-682c-472d-8428-7491610d5c06",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "",
+      "accessURL_field": "",
+      "attributesDescription": "[{\"title\":\"Genero\",\"description\":\"Genero\",\"type\":\"string\"},{\"title\":\"Edad\",\"description\":\"Edad\",\"type\":\"string\"},{\"title\":\"Canal de Ingreso\",\"description\":\"Canal de Ingreso\",\"type\":\"string\"},{\"title\":\"Tipos de Maltrato\",\"description\":\"Tipos de Maltrato\",\"type\":\"string\"},{\"title\":\"Modalidad Violencia\",\"description\":\"Modalidad Violencia\",\"type\":\"string\"},{\"title\":\"Riesgo del Caso\",\"description\":\"Riesgo del Caso\",\"type\":\"string\"},{\"title\":\"Barrio\",\"description\":\"Barrio\",\"type\":\"string\"},{\"title\":\"Comuna\",\"description\":\"Comuna\",\"type\":\"string\"},{\"title\":\"Fecha de ingreso del caso\",\"description\":\"Fecha de ingreso del caso\",\"type\":\"string\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2020-11-17T15:49:10.441817",
+      "datastore_active": false,
+      "description": "Datos de llamados reportando actos de violencia, abuso o maltrato a personas mayores en la Ciudad de Buenos Aires desde el año 2019.",
+      "fileName": "",
+      "format": "CSV",
+      "has-uploaded-file": "",
+      "hash": "",
+      "icon_url": "",
+      "id": "9c723b5f-d638-4a73-a635-fd5d7329ac00",
+      "issued": "2020-11-17T15:49:10.441817",
+      "last_modified": "2020-11-17T00:00:00",
+      "license_id": "CC-BY-4.0",
+      "mimetype": "text/csv",
+      "mimetype_inner": null,
+      "modified": "2020-11-17T12:53:31.865187",
+      "name": "Denuncias de violencia y maltrato a personas mayores en la Ciudad",
+      "package_id": "a3543265-5810-40d2-ac4a-bd6d069ee6ce",
+      "position": 0,
+      "resource_type": "file",
+      "revision_id": "ad63a421-32b3-4ef5-8bc9-195fd565fcf2",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/desarrollo-humano-y-habitat/denuncias-violencia-maltrato-personas-mayores/violencia_maltrato_personas_mayores.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "81478931-4869-4319-a85e-14912736362c",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "denuncias",
+      "id": "e0886978-b8a2-4c11-b8d8-c0b5948cf034",
+      "name": "denuncias",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "mayores",
+      "id": "4b064f0b-77c8-4089-b12d-4718061ebc93",
+      "name": "mayores",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "violencia",
+      "id": "cfcf87a5-ff64-4c8a-ba2d-37a213cc395d",
+      "name": "violencia",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Denuncias de violencia y maltrato a personas mayores en la Ciudad",
+  "type": "dataset",
+  "url": "https://data.buenosaires.gob.ar/dataset/denuncias-violencia-maltrato-personas-mayores",
+  "version": null
+}

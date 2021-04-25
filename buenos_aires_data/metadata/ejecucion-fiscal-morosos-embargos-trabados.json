@@ -1,0 +1,202 @@
+{
+  "author": "Ministerio de Economía y Finanzas. Administración Gubernamental de Ingresos Públicos (AGIP)",
+  "author_email": "gobiernoabierto@buenosaires.gob.ar",
+  "creator_user_id": "e4546f46-e966-493c-b2f1-57318502c41b",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P6M"
+    },
+    {
+      "key": "issued",
+      "value": "2019-01-08T14:50:48.398860"
+    },
+    {
+      "key": "language",
+      "value": "[\"SPA\"]"
+    },
+    {
+      "key": "modified",
+      "value": "2019-04-23T15:12:41.299146"
+    },
+    {
+      "key": "source",
+      "value": "Ministerio de Economía y Finanzas. Administración Gubernamental de Ingresos Públicos (AGIP)"
+    },
+    {
+      "key": "spatial",
+      "value": "02"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"ECON\"]"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Datasets relacionados con la economía y las finanzas",
+      "display_name": "Economía y Finanzas",
+      "id": "64da4336-6da7-4494-80c0-365016597e9e",
+      "image_display_url": "https://data.buenosaires.gob.ar/uploads/group/2019-11-16-144934.521128economia.png",
+      "name": "economia-y-finanzas",
+      "title": "Economía y Finanzas"
+    }
+  ],
+  "id": "juqdkmgo-80",
+  "isopen": true,
+  "license_id": "CC-BY-2.5-AR",
+  "license_title": "Atribucion 2.5 Argentina (CC BY 2.5 AR)",
+  "license_url": "https://creativecommons.org/licenses/by/2.5/ar ",
+  "maintainer": "Secretaría General y Relaciones Internacionales. Subsecretaría Gestión Estratégica y Calidad Institucional. Dirección General Calidad Institucional y Gobierno Abierto",
+  "maintainer_email": "gobiernoabierto@buenosaires.gob.ar",
+  "metadata_created": "2019-12-11T18:22:08.495502",
+  "metadata_modified": "2020-12-17T16:06:17.585765",
+  "name": "ejecucion-fiscal-morosos-embargos-trabados",
+  "notes": "Listado de las ejecuciones fiscales a contribuyentes morosos y embargos trabados llevados a cabo por la Agencia Gubernamental de Ingresos Públicos (AGIP)",
+  "num_resources": 4,
+  "num_tags": 3,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-11-15T19:18:53.185953",
+    "description": "",
+    "id": "8ff6e21b-7ebc-45b7-8e50-3629f26d0414",
+    "image_url": "",
+    "is_organization": true,
+    "name": "administracion-gubernamental-de-ingresos-publicos",
+    "revision_id": "18ec9402-5011-4f5d-9acf-c8ba3ce157f9",
+    "state": "active",
+    "title": "Administración Gubernamental de Ingresos Públicos (AGIP)",
+    "type": "organization"
+  },
+  "owner_org": "8ff6e21b-7ebc-45b7-8e50-3629f26d0414",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/ejecucion-fiscal-morosos-y-embargos-trabados",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-01-08T14:50:48.398860",
+      "datastore_active": false,
+      "description": "Nombre y número del demandado y fecha de inicio, de las ejecuciones fiscales a contribuyentes morosos.",
+      "fileName": "ejecucion-fiscal.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "juqdkmgo-801-resource",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Ejecución fiscal",
+      "package_id": "juqdkmgo-80",
+      "position": 0,
+      "resource_type": "file",
+      "revision_id": "76aaaecb-9cf6-4578-ac2c-95627d4eaa58",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/ejecucion-fiscal-morosos-y-embargos-trabados/ejecucion-fiscal.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/ejecucion-fiscal-morosos-y-embargos-trabados",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-01-08T14:50:48.398860",
+      "datastore_active": false,
+      "description": "Nombre del demandado, fecha de inicio y monto del embargo, número de expediente e información sobre el proceso judicial de los embargos trabados por la Subdirección General de Cobranzas.",
+      "fileName": "embargos-trabados.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "juqdkmgo-802-resource",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Embargos trabados",
+      "package_id": "juqdkmgo-80",
+      "position": 1,
+      "resource_type": "file",
+      "revision_id": "9487f283-c215-495b-b9e3-3fd2a31278fd",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/ejecucion-fiscal-morosos-y-embargos-trabados/embargos-trabados.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/ejecucion-fiscal-morosos-y-embargos-trabados",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-01-08T14:50:48.398860",
+      "datastore_active": false,
+      "description": "Nombre y número del demandado y fecha de inicio, de las ejecuciones fiscales a contribuyentes morosos.",
+      "fileName": "ejecucion-fiscal.xlsx",
+      "format": "XLSX",
+      "hash": "",
+      "id": "juqdkmgo-801-resource-xlsx",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Ejecución fiscal (XLSX)",
+      "package_id": "juqdkmgo-80",
+      "position": 2,
+      "resource_type": "file",
+      "revision_id": "f1c189ac-f4ac-4bce-8bce-116b0c13effe",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/ejecucion-fiscal-morosos-y-embargos-trabados/ejecucion-fiscal.xlsx",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/ejecucion-fiscal-morosos-y-embargos-trabados",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-01-08T14:50:48.398860",
+      "datastore_active": false,
+      "description": "Nombre del demandado, fecha de inicio y monto del embargo, número de expediente e información sobre el proceso judicial de los embargos trabados por la Subdirección General de Cobranzas.",
+      "fileName": "embargos-trabados.xlsx",
+      "format": "XLSX",
+      "hash": "",
+      "id": "juqdkmgo-802-resource-xlsx",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Embargos trabados (XLSX)",
+      "package_id": "juqdkmgo-80",
+      "position": 3,
+      "resource_type": "file",
+      "revision_id": "5a90d705-d7f0-4130-a594-864abec60f47",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/ejecucion-fiscal-morosos-y-embargos-trabados/embargos-trabados.xlsx",
+      "url_type": null
+    }
+  ],
+  "revision_id": "7a8175dc-cc9b-4d4f-9163-d940dc6f0b69",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "AGIP",
+      "id": "e4c7f4ea-e64a-4669-9ca8-f0325726a9e2",
+      "name": "AGIP",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "impuestos",
+      "id": "9d24ad30-2cc3-45dd-b44c-d6a1fbb1d323",
+      "name": "impuestos",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "recaudación",
+      "id": "72274696-3f12-4ea7-8ee3-595a765f10ea",
+      "name": "recaudación",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Ejecución fiscal morosos y embargos trabados",
+  "type": "dataset",
+  "url": "https://data.buenosaires.gob.ar/dataset/ejecucion-fiscal-morosos-embargos-trabados",
+  "version": null
+}

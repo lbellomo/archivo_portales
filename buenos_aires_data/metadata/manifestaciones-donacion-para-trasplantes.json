@@ -1,0 +1,233 @@
+{
+  "author": "Ministerio de Salud",
+  "author_email": "gobiernoabierto@buenosaires.gob.ar",
+  "creator_user_id": "e4546f46-e966-493c-b2f1-57318502c41b",
+  "extras": [
+    {
+      "key": "Documentación",
+      "value": ""
+    },
+    {
+      "key": "accrualPeriodicity",
+      "value": "eventual"
+    },
+    {
+      "key": "country",
+      "value": "None"
+    },
+    {
+      "key": "district",
+      "value": ""
+    },
+    {
+      "key": "home_featured",
+      "value": "false"
+    },
+    {
+      "key": "issued",
+      "value": "2019-01-08T17:30:53.083880"
+    },
+    {
+      "key": "language",
+      "value": "[]"
+    },
+    {
+      "key": "modified",
+      "value": "2020-12-04T11:18:05.769297"
+    },
+    {
+      "key": "province",
+      "value": ""
+    },
+    {
+      "key": "source",
+      "value": "Ministerio de Salud"
+    },
+    {
+      "key": "spatial",
+      "value": "None"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"HEAL\"]"
+    },
+    {
+      "key": "temporal",
+      "value": ""
+    }
+  ],
+  "groups": [
+    {
+      "description": "",
+      "display_name": "Salud",
+      "id": "0be192e9-f1b7-4308-bb9a-f362e2ff44a6",
+      "image_display_url": "https://data.buenosaires.gob.ar/uploads/group/2019-11-16-145030.020776salud.png",
+      "name": "salud",
+      "title": "Salud"
+    }
+  ],
+  "id": "c1db59c5-375e-463f-8b22-0e5cd366aa24",
+  "isopen": true,
+  "license_id": "CC-BY-2.5-AR",
+  "license_title": "Atribucion 2.5 Argentina (CC BY 2.5 AR)",
+  "license_url": "https://creativecommons.org/licenses/by/2.5/ar ",
+  "maintainer": "Gerencia Operativa de Ingeniería de Datos. DG Arquitectura de Datos. SS de Políticas Públicas Basadas en Evidencia. Secretaría de Innovación y Transformación Digital. Jefatura de Gabinete de Ministros",
+  "maintainer_email": "gobiernoabierto@buenosaires.gob.ar",
+  "metadata_created": "2019-12-11T18:32:54.103577",
+  "metadata_modified": "2020-12-17T16:35:28.512103",
+  "name": "manifestaciones-donacion-para-trasplantes",
+  "notes": "Información correspondiente a la Campaña de Promoción “Hoy también elegís ser donante de órganos” organizada por el Instituto de Trasplante de la Ciudad de Buenos Aires en el marco de la jornada electoral PASO 2017 dando cumplimiento a la Ley 2508/07. Se realizó en 62 establecimientos autorizados por la Justicia Electoral de la Ciudad de Buenos Aires.",
+  "num_resources": 4,
+  "num_tags": 4,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-11-15T19:17:04.156344",
+    "description": "",
+    "id": "c055e91b-2714-47e4-b47e-6bb063f32776",
+    "image_url": "",
+    "is_organization": true,
+    "name": "ministerio-de-salud",
+    "revision_id": "b72e4fc3-266f-4a53-bbd7-690b4ccff688",
+    "state": "active",
+    "title": "Ministerio de Salud",
+    "type": "organization"
+  },
+  "owner_org": "c055e91b-2714-47e4-b47e-6bb063f32776",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/c1db59c5-375e-463f-8b22-0e5cd366aa24/resource/6e84230f-599e-46a8-8e8d-a5c548b9efb7",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-01-08T14:31:22.028844",
+      "datastore_active": false,
+      "description": "Ubicación de los establecimientos autorizados para las Elecciones Legislativas de Octubre 2017.",
+      "fileName": "establecimentos-elecciones-2017.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "6e84230f-599e-46a8-8e8d-a5c548b9efb7",
+      "last_modified": "2019-01-08T14:31:22.028844",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Establecimentos - Elecciones 2017",
+      "package_id": "c1db59c5-375e-463f-8b22-0e5cd366aa24",
+      "position": 0,
+      "resource_type": "file",
+      "revision_id": "4b4b5d1c-2e6f-44fd-8694-ad8538fbe5af",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/manifestaciones-a-la-donacion-para-trasplantes/establecimentos-elecciones-2017.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/c1db59c5-375e-463f-8b22-0e5cd366aa24/resource/587e347e-958b-4316-bf9d-0bd626d81562",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-01-08T14:32:28.505343",
+      "datastore_active": false,
+      "description": "Personas que decidieron sobre la donación de órganos y tejidos en la CABA durante las Elecciones PASO 2017.",
+      "fileName": "manifestaciones-a-la-donacion-para-trasplantes.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "587e347e-958b-4316-bf9d-0bd626d81562",
+      "last_modified": "2019-01-08T14:32:28.505343",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Manifestaciones a la donación para trasplantes",
+      "package_id": "c1db59c5-375e-463f-8b22-0e5cd366aa24",
+      "position": 1,
+      "resource_type": "file",
+      "revision_id": "dacae74f-5164-4e18-a390-2de748654699",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/manifestaciones-a-la-donacion-para-trasplantes/manifestaciones-a-la-donacion-para-trasplantes.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/c1db59c5-375e-463f-8b22-0e5cd366aa24/resource/6e84230f-599e-46a8-8e8d-a5c548b9efb7",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-01-08T14:31:22.028844",
+      "datastore_active": false,
+      "description": "Ubicación de los establecimientos autorizados para las Elecciones Legislativas de Octubre 2017.",
+      "fileName": "establecimentos-elecciones-2017.xlsx",
+      "format": "XLSX",
+      "hash": "",
+      "id": "6e84230f-599e-46a8-8e8d-a5c548b9efb7-xlsx",
+      "last_modified": "2019-01-08T14:31:22.028844",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Establecimentos - Elecciones 2017 (XLSX)",
+      "package_id": "c1db59c5-375e-463f-8b22-0e5cd366aa24",
+      "position": 2,
+      "resource_type": "file",
+      "revision_id": "1f0ac8f9-066e-4e66-8778-bc12e7e31443",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/manifestaciones-a-la-donacion-para-trasplantes/establecimentos-elecciones-2017.xlsx",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/c1db59c5-375e-463f-8b22-0e5cd366aa24/resource/587e347e-958b-4316-bf9d-0bd626d81562",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-01-08T14:32:28.505343",
+      "datastore_active": false,
+      "description": "Personas que decidieron sobre la donación de órganos y tejidos en la CABA durante las Elecciones PASO 2017.",
+      "fileName": "manifestaciones-a-la-donacion-para-trasplantes.xlsx",
+      "format": "XLSX",
+      "hash": "",
+      "id": "587e347e-958b-4316-bf9d-0bd626d81562-xlsx",
+      "last_modified": "2019-01-08T14:32:28.505343",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Manifestaciones a la donación para trasplantes (XLSX)",
+      "package_id": "c1db59c5-375e-463f-8b22-0e5cd366aa24",
+      "position": 3,
+      "resource_type": "file",
+      "revision_id": "8c0b9401-6f1e-40a5-9865-0e3c5815737e",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/manifestaciones-a-la-donacion-para-trasplantes/manifestaciones-a-la-donacion-para-trasplantes.xlsx",
+      "url_type": null
+    }
+  ],
+  "revision_id": "71b74eaf-3d35-413c-bfc2-711a7df6f742",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "donación",
+      "id": "d580e338-b2f7-4987-b858-6c60588767bc",
+      "name": "donación",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "salud",
+      "id": "92c7f3e1-f781-4b82-a933-7408e37b3687",
+      "name": "salud",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "tejidos",
+      "id": "88b1c0f3-f186-4a1a-832b-baf2b2eb4179",
+      "name": "tejidos",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "órganos",
+      "id": "57f89251-9535-46fe-ba9b-ae42da19796f",
+      "name": "órganos",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Manifestaciones a la donación para trasplantes",
+  "type": "dataset",
+  "url": "http://data.buenosaires.gob.ar/dataset/manifestaciones-a-la-donacion-para-trasplantes",
+  "version": null
+}

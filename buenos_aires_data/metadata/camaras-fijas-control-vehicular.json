@@ -1,0 +1,197 @@
+{
+  "author": "Ministerio de Desarrollo Urbano y Transporte. SEC de Transporte. DG Cuerpo de Agentes de Control de Transito y Seguridad Vial",
+  "author_email": "gobiernoabierto@buenosaires.gob.ar",
+  "creator_user_id": "e4546f46-e966-493c-b2f1-57318502c41b",
+  "extras": [
+    {
+      "key": "Documentación",
+      "value": ""
+    },
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P1M"
+    },
+    {
+      "key": "country",
+      "value": "None"
+    },
+    {
+      "key": "district",
+      "value": ""
+    },
+    {
+      "key": "home_featured",
+      "value": "false"
+    },
+    {
+      "key": "issued",
+      "value": "2019-01-08T15:00:27.245015"
+    },
+    {
+      "key": "language",
+      "value": "[]"
+    },
+    {
+      "key": "modified",
+      "value": "2020-03-16T12:56:17.469535"
+    },
+    {
+      "key": "province",
+      "value": ""
+    },
+    {
+      "key": "source",
+      "value": "Ministerio de Desarrollo Urbano y Transporte. SEC de Transporte. DG Cuerpo de Agentes de Control de Transito y Seguridad Vial"
+    },
+    {
+      "key": "spatial",
+      "value": "None"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"TRAN\"]"
+    },
+    {
+      "key": "temporal",
+      "value": ""
+    }
+  ],
+  "groups": [
+    {
+      "description": "",
+      "display_name": "Movilidad",
+      "id": "e616e02e-64d8-4fb0-b55d-08e75eb58376",
+      "image_display_url": "https://data.buenosaires.gob.ar/uploads/group/2019-11-16-145017.234366movilidad.png",
+      "name": "movilidad",
+      "title": "Movilidad"
+    }
+  ],
+  "id": "juqdkmgo-31",
+  "isopen": true,
+  "license_id": "CC-BY-2.5-AR",
+  "license_title": "Atribucion 2.5 Argentina (CC BY 2.5 AR)",
+  "license_url": "https://creativecommons.org/licenses/by/2.5/ar ",
+  "maintainer": "Secretaría General y Relaciones Internacionales. Subsecretaría Gestión Estratégica y Calidad Institucional. Dirección General Calidad Institucional y Gobierno Abierto",
+  "maintainer_email": "gobiernoabierto@buenosaires.gob.ar",
+  "metadata_created": "2019-12-11T18:15:45.043657",
+  "metadata_modified": "2020-12-17T15:36:39.334090",
+  "name": "camaras-fijas-control-vehicular",
+  "notes": "Listado con ubicación geográfica de las cámaras de control vehicular ubicadas en la Ciudad. No están incluidas aquellas que tienen por objetivo el control del uso correcto de carriles exclusivos establecidos para la circulación de transporte público; como así también el cumplimiento del ingreso vehicular dispuesto a un área restringida.",
+  "num_resources": 3,
+  "num_tags": 2,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-11-15T19:19:49.916928",
+    "description": "",
+    "id": "56b60b46-a47c-48fb-9bd4-c2ad0e05fef2",
+    "image_url": "",
+    "is_organization": true,
+    "name": "transporte-y-obras-publicas",
+    "revision_id": "c33c86a3-e197-468f-8b66-5b943b3bf106",
+    "state": "active",
+    "title": "Secretaría de Transporte y Obras Públicas",
+    "type": "organization"
+  },
+  "owner_org": "56b60b46-a47c-48fb-9bd4-c2ad0e05fef2",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/camaras-fijas-de-control-vehicular",
+      "attributesDescription": "[{\"title\": \"x\", \"type\": \"string\", \"description\": \"C\\u00f3digo para geolocalizaci\\u00f3n\"}, {\"title\": \"y\", \"type\": \"string\", \"description\": \"C\\u00f3digo para geolocalizaci\\u00f3n\"}, {\"title\": \"id\", \"type\": \"integer\", \"description\": \"Identificador \\u00fanico de cada registro\"}, {\"title\": \"tipo\", \"type\": \"string\", \"description\": \"Tipo de c\\u00e1mara\"}, {\"title\": \"calle_auto\", \"type\": \"string\", \"description\": \"Calle o autopista donde est\\u00e1 la c\\u00e1mara\"}, {\"title\": \"altura\", \"type\": \"integer\", \"description\": \"Altura de Calle/Autopista\"}, {\"title\": \"km\", \"type\": \"string\", \"description\": \"Kilometro de autopista donde est\\u00e1 la c\\u00e1mara\"}, {\"title\": \"intersecci\", \"type\": \"string\", \"description\": \"Calle que intersecta a la calle principal\"}, {\"title\": \"velocidad\", \"type\": \"string\", \"description\": \"Velocidad m\\u00e1xima permitida\"}, {\"title\": \"direccion\", \"type\": \"string\", \"description\": \"Direcci\\u00f3n normalizada utilizada para geocodificar\"}, {\"title\": \"calle_norm\", \"type\": \"string\", \"description\": \"Calle normalizada sobre la que est\\u00e1 puesta la c\\u00e1mara\"}, {\"title\": \"intersec_1\", \"type\": \"string\", \"description\": \"Calle que intersecta a la calle principal\"}, {\"title\": \"codigo_pos\", \"type\": \"integer\", \"description\": \"C\\u00f3digo postal de ubicaci\\u00f3n de la c\\u00e1mara\"}, {\"title\": \"codigo_p_1\", \"type\": \"string\", \"description\": \"C\\u00f3digo postal argentino de ubicaci\\u00f3n de la c\\u00e1mara\"}, {\"title\": \"lat_wgs84\", \"type\": \"string\", \"description\": \"Coordenada de latitud en WGS84 proporcionada por la fuente\"}, {\"title\": \"long_wgs84\", \"type\": \"string\", \"description\": \"Coordenada de longitud en WGS84 proporcionada por la fuente\"}, {\"title\": \"barrio\", \"type\": \"string\", \"description\": \"Barrio al que pertenece\"}, {\"title\": \"comuna\", \"type\": \"string\", \"description\": \"Comuna a la que pertenece\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-04-23T17:01:12.091844",
+      "datastore_active": false,
+      "description": "Ubicación geográfica de las cámaras de control vehicular ubicadas en la Ciudad de Buenos Aires excepto aquellas que tienen por objetivo el control del uso correcto de carriles exclusivos.",
+      "fileName": "camaras-fijas-de-control-vehicular.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "juqdkmgo-311-resource",
+      "last_modified": "2019-04-23T17:01:12.091844",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Cámaras fijas de control vehicular",
+      "package_id": "juqdkmgo-31",
+      "position": 0,
+      "resource_type": "file",
+      "revision_id": "92cb178d-1d89-43d4-ae56-f72542b10177",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/camaras-fijas-de-control-vehicular/camaras-fijas-de-control-vehicular.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/camaras-fijas-de-control-vehicular",
+      "attributesDescription": "[{\"title\": \"x\", \"type\": \"string\", \"description\": \"C\\u00f3digo para geolocalizaci\\u00f3n (latitud)\"}, {\"title\": \"y\", \"type\": \"string\", \"description\": \"C\\u00f3digo para geolocalizaci\\u00f3n (longitud)\"}, {\"title\": \"id\", \"type\": \"integer\", \"description\": \"Identificador \\u00fanico de cada registro\"}, {\"title\": \"tipo\", \"type\": \"string\", \"description\": \"Tipo de c\\u00e1mara\"}, {\"title\": \"calle_auto\", \"type\": \"string\", \"description\": \"Calle o autopista donde est\\u00e1 la c\\u00e1mara\"}, {\"title\": \"altura\", \"type\": \"number\", \"description\": \"Altura de Calle/Autopista\"}, {\"title\": \"km\", \"type\": \"string\", \"description\": \"Kilometro de autopista donde est\\u00e1 la c\\u00e1mara\"}, {\"title\": \"intersecci\", \"type\": \"string\", \"description\": \"Calle que intersecta a la calle principal\"}, {\"title\": \"velocidad\", \"type\": \"string\", \"description\": \"Velocidad m\\u00e1xima permitida\"}, {\"title\": \"direccion\", \"type\": \"string\", \"description\": \"Direcci\\u00f3n normalizada utilizada para geocodificar\"}, {\"title\": \"calle_norm\", \"type\": \"string\", \"description\": \"Calle normalizada sobre la que est\\u00e1 puesta la c\\u00e1mara\"}, {\"title\": \"intersec_1\", \"type\": \"string\", \"description\": \"Calle que intersecta a la calle principal\"}, {\"title\": \"codigo_pos\", \"type\": \"integer\", \"description\": \"C\\u00f3digo postal de ubicaci\\u00f3n de la c\\u00e1mara\"}, {\"title\": \"codigo_p_1\", \"type\": \"string\", \"description\": \"C\\u00f3digo postal argentino de ubicaci\\u00f3n de la c\\u00e1mara\"}, {\"title\": \"LAT_WGS84\", \"type\": \"string\", \"description\": \"Coordenada de latitud en WGS84 proporcionada por la fuente\"}, {\"title\": \"LONG_WGS84\", \"type\": \"string\", \"description\": \"Coordenada de longitud en WGS84 proporcionada por la fuente\"}, {\"title\": \"barrio\", \"type\": \"string\", \"description\": \"Barrio al que pertenece\"}, {\"title\": \"comuna\", \"type\": \"string\", \"description\": \"Comuna a la que pertenece\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-04-23T17:01:22.331936",
+      "datastore_active": false,
+      "description": "Archivo shapefile de las cámaras fijas de control vehicular.",
+      "fileName": "camaras-fijas-de-control-vehicular-zip.zip",
+      "format": "ZIP",
+      "hash": "",
+      "id": "juqdkmgo-312-resource",
+      "last_modified": "2019-04-23T17:01:22.331936",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Cámaras fijas de control vehicular (SHP)",
+      "package_id": "juqdkmgo-31",
+      "position": 1,
+      "resource_type": "file",
+      "revision_id": "2be9aa1e-aaf7-4367-a81f-9eb153fd8325",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/camaras-fijas-de-control-vehicular/camaras-fijas-de-control-vehicular-zip.zip",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/camaras-fijas-de-control-vehicular",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-04-23T17:01:12.091844",
+      "datastore_active": false,
+      "description": "Ubicación geográfica de las cámaras de control vehicular ubicadas en la Ciudad de Buenos Aires excepto aquellas que tienen por objetivo el control del uso correcto de carriles exclusivos.",
+      "fileName": "camaras-fijas-de-control-vehicular.xlsx",
+      "format": "XLSX",
+      "hash": "",
+      "id": "juqdkmgo-311-resource-xlsx",
+      "last_modified": "2019-04-23T17:01:12.091844",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Cámaras fijas de control vehicular (XLSX)",
+      "package_id": "juqdkmgo-31",
+      "position": 2,
+      "resource_type": "file",
+      "revision_id": "29d74396-cb0f-44d5-9ce4-245aae0652ad",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/camaras-fijas-de-control-vehicular/camaras-fijas-de-control-vehicular.xlsx",
+      "url_type": null
+    }
+  ],
+  "revision_id": "14dc2636-27a9-4035-9f7e-1beaa88a9c91",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "infraestructura-obra-pública",
+      "id": "995fa168-b7e5-4a95-b67e-a175912c9ba7",
+      "name": "infraestructura-obra-pública",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "transito urbanismo",
+      "id": "768e13ae-95cb-4238-9872-6a1b6b38fa62",
+      "name": "transito urbanismo",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Cámaras fijas de control vehicular",
+  "type": "dataset",
+  "url": "https://data.buenosaires.gob.ar/dataset/camaras-fijas-control-vehicular",
+  "version": null
+}

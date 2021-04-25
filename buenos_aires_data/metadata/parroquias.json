@@ -1,0 +1,192 @@
+{
+  "author": "Secretaría General y Relaciones Internacionales. Subsecretaría de Relaciones Internacionales e Institucionales. DG de Culto",
+  "author_email": "gobiernoabierto@buenosaires.gob.ar",
+  "creator_user_id": "e4546f46-e966-493c-b2f1-57318502c41b",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "eventual"
+    },
+    {
+      "key": "issued",
+      "value": "2019-01-08T14:59:27.771920"
+    },
+    {
+      "key": "language",
+      "value": "[\"SPA\"]"
+    },
+    {
+      "key": "modified",
+      "value": "2019-05-27T14:19:28.039034"
+    },
+    {
+      "key": "source",
+      "value": "Ministerio de Educación e Innovación. Secretaría de Ciencia, Tecnología e Innovación. SS de Ciudad Inteligente y Tecnología Educativa. DG Ciencias de la Información. Unidad de Sistemas de Información Geográfica (USIG)"
+    },
+    {
+      "key": "spatial",
+      "value": "02"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"EDUC\"]"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Datasets relacionados con la cultura y el turismo",
+      "display_name": "Cultura y Turismo",
+      "id": "db2c0965-c659-4f94-8de9-41fce10f91a9",
+      "image_display_url": "https://data.buenosaires.gob.ar/uploads/group/2019-11-16-144908.071423cultura.png",
+      "name": "cultura-y-turismo",
+      "title": "Cultura y Turismo"
+    }
+  ],
+  "id": "juqdkmgo-157",
+  "isopen": true,
+  "license_id": "CC-BY-2.5-AR",
+  "license_title": "Atribucion 2.5 Argentina (CC BY 2.5 AR)",
+  "license_url": "https://creativecommons.org/licenses/by/2.5/ar ",
+  "maintainer": "Secretaría General y Relaciones Internacionales. Subsecretaría Gestión Estratégica y Calidad Institucional. Dirección General Calidad Institucional y Gobierno Abierto",
+  "maintainer_email": "gobiernoabierto@buenosaires.gob.ar",
+  "metadata_created": "2019-12-11T18:34:47.913626",
+  "metadata_modified": "2020-12-17T16:48:47.116201",
+  "name": "parroquias",
+  "notes": "Listado y ubicación geográfica de las parroquias situadas en la Ciudad de Buenos Aires",
+  "num_resources": 3,
+  "num_tags": 5,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-11-15T19:16:33.772140",
+    "description": "",
+    "id": "8862c931-b89e-44c6-9567-79a33d0174e3",
+    "image_url": "",
+    "is_organization": true,
+    "name": "secretaria-general-y-relaciones-internacionales",
+    "revision_id": "7607a9d6-dd19-4643-bf63-3a43148dab03",
+    "state": "active",
+    "title": "Secretaría General y Relaciones Internacionales",
+    "type": "organization"
+  },
+  "owner_org": "8862c931-b89e-44c6-9567-79a33d0174e3",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/parroquias",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-01-08T14:59:27.771920",
+      "datastore_active": false,
+      "description": "Listado de Parroquias de la Ciudad de Buenos Aires con nombre, ubicación geográfica, teléfono, mail.",
+      "fileName": "parroquias.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "juqdkmgo-1571-resource",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Parroquias",
+      "package_id": "juqdkmgo-157",
+      "position": 0,
+      "resource_type": "file",
+      "revision_id": "971a2fb9-3b74-4842-8f59-3cae2e1423d2",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/parroquias/parroquias.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/parroquias",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-01-08T14:59:27.771920",
+      "datastore_active": false,
+      "description": "Archivo shapefile con las parroquias de la Ciudad.",
+      "fileName": "parroquias-zip.zip",
+      "format": "ZIP",
+      "hash": "",
+      "id": "juqdkmgo-1572-resource",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Parroquias (SHP)",
+      "package_id": "juqdkmgo-157",
+      "position": 1,
+      "resource_type": "file",
+      "revision_id": "297b1daf-998d-447d-ac5b-ed07af1b712a",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/parroquias/parroquias-zip.zip",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/parroquias",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-01-08T14:59:27.771920",
+      "datastore_active": false,
+      "description": "Listado de Parroquias de la Ciudad de Buenos Aires con nombre, ubicación geográfica, teléfono, mail.",
+      "fileName": "parroquias.xlsx",
+      "format": "XLSX",
+      "hash": "",
+      "id": "juqdkmgo-1571-resource-xlsx",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Parroquias (XLSX)",
+      "package_id": "juqdkmgo-157",
+      "position": 2,
+      "resource_type": "file",
+      "revision_id": "f0cca0c0-68ea-41da-91f0-92aa684035e3",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/parroquias/parroquias.xlsx",
+      "url_type": null
+    }
+  ],
+  "revision_id": "74216d8c-23b0-4f28-916b-8a31f2a3242e",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "basilicas",
+      "id": "624c9e18-41b0-449d-9a28-5af2a2420776",
+      "name": "basilicas",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "csv",
+      "id": "f9980424-8dbf-4a4b-8a2f-0d9741810d82",
+      "name": "csv",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "iglesias",
+      "id": "8db63320-63ac-4ca2-be3b-306592d324a9",
+      "name": "iglesias",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "parroquias",
+      "id": "425d1eeb-f4cb-4ab9-86e2-ccb071e774bc",
+      "name": "parroquias",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "urbanismo",
+      "id": "17ac67e7-699b-470d-b0dd-5b8752c1fb73",
+      "name": "urbanismo",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Parroquias",
+  "type": "dataset",
+  "url": "https://data.buenosaires.gob.ar/dataset/parroquias",
+  "version": null
+}

@@ -1,0 +1,290 @@
+{
+  "author": "Ministerio de Educación e Innovación. Secretaría de Ciencia, Tecnología e Innovación. SS de Ciudad Inteligente y Tecnología Educativa. DG Ciencias de la Información. Unidad de Sistemas de Información Geográfica (USIG)",
+  "author_email": "datosabiertos@buenosaires.gob.ar",
+  "creator_user_id": "e4546f46-e966-493c-b2f1-57318502c41b",
+  "extras": [
+    {
+      "key": "Documentación",
+      "value": ""
+    },
+    {
+      "key": "accrualPeriodicity",
+      "value": "eventual"
+    },
+    {
+      "key": "country",
+      "value": "None"
+    },
+    {
+      "key": "district",
+      "value": ""
+    },
+    {
+      "key": "home_featured",
+      "value": "false"
+    },
+    {
+      "key": "issued",
+      "value": "2019-01-08T14:56:24.927289"
+    },
+    {
+      "key": "language",
+      "value": "[]"
+    },
+    {
+      "key": "modified",
+      "value": "2021-03-05T09:54:15.682009"
+    },
+    {
+      "key": "province",
+      "value": ""
+    },
+    {
+      "key": "source",
+      "value": "Ministerio de Educación e Innovación. Secretaría de Ciencia, Tecnología e Innovación. SS de Ciudad Inteligente y Tecnología Educativa. DG Ciencias de la Información. Unidad de Sistemas de Información Geográfica (USIG)"
+    },
+    {
+      "key": "spatial",
+      "value": "None"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"REGI\"]"
+    },
+    {
+      "key": "temporal",
+      "value": ""
+    }
+  ],
+  "groups": [
+    {
+      "description": "Datasets relacionados con urbanismo y territorio",
+      "display_name": "Urbanismo y Territorio",
+      "id": "63e162a0-3f4a-446a-a60b-601d16f36200",
+      "image_display_url": "https://data.buenosaires.gob.ar/uploads/group/2019-11-16-145056.781692urba.png",
+      "name": "urbanismo-y-territorio",
+      "title": "Urbanismo y Territorio"
+    }
+  ],
+  "id": "juqdkmgo-19",
+  "isopen": true,
+  "license_id": "CC-BY-2.5-AR",
+  "license_title": "Atribucion 2.5 Argentina (CC BY 2.5 AR)",
+  "license_url": "https://creativecommons.org/licenses/by/2.5/ar ",
+  "maintainer": "Secretaría General y Relaciones Internacionales. Subsecretaría Gestión Estratégica y Calidad Institucional. Dirección General Calidad Institucional y Gobierno Abierto",
+  "maintainer_email": "datosabiertos@buenosaires.gob.ar",
+  "metadata_created": "2019-12-11T18:27:05.334741",
+  "metadata_modified": "2021-03-05T12:54:15.701465",
+  "name": "barrios",
+  "notes": "Límites y ubicación geográfica de los barrios de la Ciudad.",
+  "num_resources": 6,
+  "num_tags": 5,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-11-15T19:18:19.762924",
+    "description": "",
+    "id": "da366597-5061-4955-9ca6-e93785956e0e",
+    "image_url": "",
+    "is_organization": true,
+    "name": "ministerio-de-educacion",
+    "revision_id": "1b6c27ee-7324-4554-a172-3d2f068e290a",
+    "state": "active",
+    "title": "Ministerio de Educación",
+    "type": "organization"
+  },
+  "owner_org": "da366597-5061-4955-9ca6-e93785956e0e",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/barrios",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-01-08T14:56:24.927289",
+      "datastore_active": false,
+      "description": "Localización y límites geográficos de los barrios de la Ciudad.",
+      "fileName": "barrios.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "juqdkmgo-191-resource",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Barrios",
+      "package_id": "juqdkmgo-19",
+      "position": 0,
+      "resource_type": "file",
+      "revision_id": "24dcc417-7315-4a10-9393-98cf33e2ad2b",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/barrios/barrios.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/barrios",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-01-08T14:56:24.927289",
+      "datastore_active": false,
+      "description": "Archivo shapefile de los barrios de la Ciudad.",
+      "fileName": "barrios-zip.zip",
+      "format": "ZIP",
+      "hash": "",
+      "id": "juqdkmgo-192-resource",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Barrios (SHP)",
+      "package_id": "juqdkmgo-19",
+      "position": 1,
+      "resource_type": "file",
+      "revision_id": "54bb03dd-cecf-499a-b45c-d7e03bcde36f",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/barrios/barrios-zip.zip",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/19/resource/1c3d185b-fdc9-474b-b41b-9bd960a3806e",
+      "attributesDescription": "[{\"title\": \"BARRIO\", \"type\": \"string\", \"description\": \"Nombre del barrio.\"}, {\"title\": \"COMUNA\", \"type\": \"integer\", \"description\": \"N\\u00famero de la comuna.\"}, {\"title\": \"PERIMETRO\", \"type\": \"number\", \"description\": \"Per\\u00edmetro en metros.\"}, {\"title\": \"AREA\", \"type\": \"number\", \"description\": \"Superficie en metros cuadrados.\"}, {\"title\": \"geometry\", \"type\": \"any\", \"description\": \"Tipo de geometr\\u00eda y coordenadas.\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-07-25T13:00:13.860746",
+      "datastore_active": false,
+      "description": "Archivo GeoJSON con la localización de los barrios de la Ciudad.",
+      "fileName": "barrios.geojson",
+      "format": "GeoJSON",
+      "hash": "",
+      "id": "1c3d185b-fdc9-474b-b41b-9bd960a3806e",
+      "last_modified": "2019-07-25T13:00:13.860746",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Barrios (GeoJSON)",
+      "package_id": "juqdkmgo-19",
+      "position": 2,
+      "resource_type": "file",
+      "revision_id": "20aa21fa-eecc-4435-897a-6d635e6f2c88",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/barrios/barrios.geojson",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/19/resource/7ac3ebfa-2f32-41d4-ae39-ae6f5ba15070",
+      "attributesDescription": "[{\"title\": \"BARRIO\", \"type\": \"string\", \"description\": \"Nombre del barrio.\"}, {\"title\": \"COMUNA\", \"type\": \"integer\", \"description\": \"N\\u00famero de comuna al cual pertenece.\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-04-24T10:42:12.307419",
+      "datastore_active": false,
+      "description": "Archivo que menciona el número de comuna al que pertenece cada barrio.",
+      "fileName": "barrios_comunas_p_Ciencia_de_Datos_y_PP.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "7ac3ebfa-2f32-41d4-ae39-ae6f5ba15070",
+      "last_modified": "2019-04-24T10:42:12.307419",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Barrios por Comuna",
+      "package_id": "juqdkmgo-19",
+      "position": 3,
+      "resource_type": "file",
+      "revision_id": "20bf05d9-1129-4f0d-b9ed-5bec4a405091",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/barrios/barrios_comunas_p_Ciencia_de_Datos_y_PP.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/barrios",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-01-08T14:56:24.927289",
+      "datastore_active": false,
+      "description": "Localización y límites geográficos de los barrios de la Ciudad.",
+      "fileName": "barrios.xlsx",
+      "format": "XLSX",
+      "hash": "",
+      "id": "juqdkmgo-191-resource-xlsx",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Barrios (XLSX)",
+      "package_id": "juqdkmgo-19",
+      "position": 4,
+      "resource_type": "file",
+      "revision_id": "1eb2f47c-5f93-4078-b996-17b53ffd4e43",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/barrios/barrios.xlsx",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/19/resource/7ac3ebfa-2f32-41d4-ae39-ae6f5ba15070",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-04-24T10:42:12.307419",
+      "datastore_active": false,
+      "description": "Archivo que menciona el número de comuna al que pertenece cada barrio.",
+      "fileName": "barrios_comunas_p_Ciencia_de_Datos_y_PP.xlsx",
+      "format": "XLSX",
+      "hash": "",
+      "id": "7ac3ebfa-2f32-41d4-ae39-ae6f5ba15070-xlsx",
+      "last_modified": "2019-04-24T10:42:12.307419",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Barrios por Comuna (XLSX)",
+      "package_id": "juqdkmgo-19",
+      "position": 5,
+      "resource_type": "file",
+      "revision_id": "700a546f-93f3-4bb4-8d6b-9dd0ac06b73f",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/barrios/barrios_comunas_p_Ciencia_de_Datos_y_PP.xlsx",
+      "url_type": null
+    }
+  ],
+  "revision_id": "9e03c840-0bfb-4c29-b795-25f10b8376e5",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "USIG",
+      "id": "aee9194d-357a-4be9-92dc-231569313d87",
+      "name": "USIG",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "barrios",
+      "id": "f5dbf628-7288-43d6-b40a-61a3d0bdd91c",
+      "name": "barrios",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "división-territorial",
+      "id": "f55cbbf9-9051-43ad-ab2a-16fdf56b6a99",
+      "name": "división-territorial",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "infraestructura",
+      "id": "b1579d63-b172-474a-9365-606cf90bae7c",
+      "name": "infraestructura",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "lugares",
+      "id": "6a7f76c4-9f13-49eb-b694-bfbf3ded8bf8",
+      "name": "lugares",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Barrios",
+  "type": "dataset",
+  "url": "https://data.buenosaires.gob.ar/dataset/barrios",
+  "version": null
+}

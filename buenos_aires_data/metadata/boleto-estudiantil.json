@@ -1,0 +1,168 @@
+{
+  "author": "Jefatura de Gabinete de Ministros. SS de Demanda Ciudadana, Calidad y Cercanía. DG de Defensa al Consumidor",
+  "author_email": "gobiernoabierto@buenosaires.gob.ar",
+  "creator_user_id": "e4546f46-e966-493c-b2f1-57318502c41b",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P1Y"
+    },
+    {
+      "key": "issued",
+      "value": "2019-01-08T14:51:41.396229"
+    },
+    {
+      "key": "language",
+      "value": "[\"SPA\"]"
+    },
+    {
+      "key": "modified",
+      "value": "2019-05-27T14:49:23.936014"
+    },
+    {
+      "key": "source",
+      "value": "Jefatura de Gabinete de Ministros. SS de Demanda Ciudadana, Calidad y Cercanía. DG de Defensa al Consumidor"
+    },
+    {
+      "key": "spatial",
+      "value": "02"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"EDUC\"]"
+    }
+  ],
+  "groups": [
+    {
+      "description": "",
+      "display_name": "Educación",
+      "id": "6e8e33f7-a0c9-4730-bb10-38eeeb717982",
+      "image_display_url": "https://data.buenosaires.gob.ar/uploads/group/2019-11-19-182154.334786educ.png",
+      "name": "educacion",
+      "title": "Educación"
+    }
+  ],
+  "id": "juqdkmgo-25",
+  "isopen": true,
+  "license_id": "CC-BY-2.5-AR",
+  "license_title": "Atribucion 2.5 Argentina (CC BY 2.5 AR)",
+  "license_url": "https://creativecommons.org/licenses/by/2.5/ar ",
+  "maintainer": "Secretaría General y Relaciones Internacionales. Subsecretaría Gestión Estratégica y Calidad Institucional. Dirección General Calidad Institucional y Gobierno Abierto",
+  "maintainer_email": "gobiernoabierto@buenosaires.gob.ar",
+  "metadata_created": "2019-12-11T18:04:46.170695",
+  "metadata_modified": "2020-12-17T15:34:36.535205",
+  "name": "boleto-estudiantil",
+  "notes": "Listado con ubicación geográfica de las oficinas para gestionar el boleto estudiantil según lo establecido por la Ley 3173.",
+  "num_resources": 2,
+  "num_tags": 5,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-11-15T19:14:53.415795",
+    "description": "",
+    "id": "8add5417-3519-49b8-bd4c-6621d32ff5eb",
+    "image_url": "",
+    "is_organization": true,
+    "name": "jefatura-de-gabinete-de-ministros",
+    "revision_id": "971d791d-b46e-4427-8a5a-b737fa264515",
+    "state": "active",
+    "title": "Jefatura de Gabinete de Ministros",
+    "type": "organization"
+  },
+  "owner_org": "8add5417-3519-49b8-bd4c-6621d32ff5eb",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/boleto-estudiantil",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-01-08T14:51:41.396229",
+      "datastore_active": true,
+      "description": "Línea, empresa, dirección día y horario de las oficinas para gestionar el boleto estudiantil.",
+      "fileName": "oficinas-boleto-estudiantil.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "juqdkmgo-251-resource",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Oficinas boleto estudiantil",
+      "package_id": "juqdkmgo-25",
+      "position": 0,
+      "resource_type": "file",
+      "revision_id": "8545d72d-0d2a-4e13-aa94-372e2cff4e02",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/boleto-estudiantil/oficinas-boleto-estudiantil.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/boleto-estudiantil",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-01-08T14:51:41.396229",
+      "datastore_active": true,
+      "description": "Línea, empresa, dirección día y horario de las oficinas para gestionar el boleto estudiantil.",
+      "fileName": "oficinas-boleto-estudiantil.xlsx",
+      "format": "XLSX",
+      "hash": "",
+      "id": "juqdkmgo-251-resource-xlsx",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Oficinas boleto estudiantil (XLSX)",
+      "package_id": "juqdkmgo-25",
+      "position": 1,
+      "resource_type": "file",
+      "revision_id": "c980752d-4484-488e-859d-f9d756274ce1",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/boleto-estudiantil/oficinas-boleto-estudiantil.xlsx",
+      "url_type": null
+    }
+  ],
+  "revision_id": "01ec3c0b-6673-4c7b-9f83-20897bcd2c95",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "boleto",
+      "id": "c6862d6e-8b01-41bf-8541-224e83ea6668",
+      "name": "boleto",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "colectivo",
+      "id": "ae4b7f2d-5c45-43e4-b110-d50e8d783dd2",
+      "name": "colectivo",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "educación",
+      "id": "a9032209-2807-4797-98a8-640d053d0064",
+      "name": "educación",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "estudiantes",
+      "id": "c5ccbec9-60c4-4da2-9a44-11ba8d90e5ff",
+      "name": "estudiantes",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "transporte",
+      "id": "aff133f8-2f33-4d2c-a531-6d632bd4efbb",
+      "name": "transporte",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Boleto Estudiantil",
+  "type": "dataset",
+  "url": "https://data.buenosaires.gob.ar/dataset/boleto-estudiantil",
+  "version": null
+}

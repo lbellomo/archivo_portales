@@ -1,0 +1,236 @@
+{
+  "author": "Ministerio de Hacienda y Finanzas",
+  "author_email": "",
+  "creator_user_id": "554feb25-14a3-4d23-8779-2d39172eb2d7",
+  "extras": [
+    {
+      "key": "Documentación",
+      "value": ""
+    },
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P1W"
+    },
+    {
+      "key": "country",
+      "value": "ARG"
+    },
+    {
+      "key": "district",
+      "value": ""
+    },
+    {
+      "key": "home_featured",
+      "value": "false"
+    },
+    {
+      "key": "issued",
+      "value": "2020-05-14T14:24:48.586035"
+    },
+    {
+      "key": "language",
+      "value": "[\"spa\"]"
+    },
+    {
+      "key": "modified",
+      "value": "2020-08-06T20:04:28.108549"
+    },
+    {
+      "key": "province",
+      "value": "02"
+    },
+    {
+      "key": "source",
+      "value": ""
+    },
+    {
+      "key": "spatial",
+      "value": "ARG,02"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"GOVE\",\"HEAL\"]"
+    },
+    {
+      "key": "temporal",
+      "value": ""
+    }
+  ],
+  "groups": [
+    {
+      "description": "",
+      "display_name": "Administración Pública",
+      "id": "8cb134a8-90ea-4e69-a96d-c03449917dc9",
+      "image_display_url": "https://data.buenosaires.gob.ar/uploads/group/2019-11-16-144810.360383adminpublica.png",
+      "name": "administracion-publica",
+      "title": "Administración Pública"
+    },
+    {
+      "description": "Datasets relacionados a COVID-19",
+      "display_name": "COVID-19",
+      "id": "0f30f631-df60-4d33-aedb-96c9a48a2332",
+      "image_display_url": "https://data.buenosaires.gob.ar/uploads/group/2020-07-23-165939.349779iconocovid19.png",
+      "name": "covid-19",
+      "title": "COVID-19"
+    },
+    {
+      "description": "",
+      "display_name": "Salud",
+      "id": "0be192e9-f1b7-4308-bb9a-f362e2ff44a6",
+      "image_display_url": "https://data.buenosaires.gob.ar/uploads/group/2019-11-16-145030.020776salud.png",
+      "name": "salud",
+      "title": "Salud"
+    }
+  ],
+  "id": "293adf1e-b7bb-444b-a3a0-e4a7a599dd43",
+  "isopen": true,
+  "license_id": "CC-BY-2.5-AR",
+  "license_title": "Atribucion 2.5 Argentina (CC BY 2.5 AR)",
+  "license_url": "https://creativecommons.org/licenses/by/2.5/ar ",
+  "maintainer": "Subsecretaría de Políticas Públicas Basadas en Evidencia. DG Arquitectura de Datos",
+  "maintainer_email": "datosabiertos@buenosaires.gob.ar",
+  "metadata_created": "2020-05-14T17:24:48.612144",
+  "metadata_modified": "2020-12-17T16:10:02.626817",
+  "name": "entrevistas-designaciones-personal-covid",
+  "notes": "Cantidad de entrevistas y designaciones de trabajadores de la Salud como medida de fortalecimiento del sistema sanitario en el contexto de la pandemia covid-19",
+  "num_resources": 2,
+  "num_tags": 7,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-11-15T19:19:36.584582",
+    "description": "",
+    "id": "6627a918-f475-43bb-b167-11de01ae62df",
+    "image_url": "",
+    "is_organization": true,
+    "name": "ministerio-de-economia-y-finanzas",
+    "revision_id": "57d30234-7d4b-4b19-a2fa-1a57afc0e03b",
+    "state": "active",
+    "title": "Ministerio de Hacienda y Finanzas",
+    "type": "organization"
+  },
+  "owner_org": "6627a918-f475-43bb-b167-11de01ae62df",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "",
+      "accessURL_field": "",
+      "attributesDescription": "[{\"title\":\"perfil\",\"description\":\"Tipo de perfil de personal de salud\",\"type\":\"string\"},{\"title\":\"fecha\",\"description\":\"fecha de registro\",\"type\":\"date\"},{\"title\":\"entrevistas_realizadas\",\"description\":\"cantidad acumulada de entrevistas realizadas\",\"type\":\"integer\"},{\"title\":\"entrevistas_aprobadas\",\"description\":\"cantidad acumulada de entrevistas aprobadas\",\"type\":\"integer\"},{\"title\":\"designados\",\"description\":\"cantidad acumulada de designaciones\",\"type\":\"integer\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2020-05-14T17:34:26.662175",
+      "datastore_active": false,
+      "description": "Listado con la información de la cantidad de entrevistas y designaciones de personal sanitario en el marco de la pandemia covid-19",
+      "fileName": "recursos_humanos_salud.csv",
+      "format": "CSV",
+      "has-uploaded-file": "",
+      "hash": "",
+      "icon_url": "",
+      "id": "d80e52a0-d770-4414-aead-004160c6ee53",
+      "issued": "2020-05-14T14:34:26.614709",
+      "last_modified": null,
+      "license_id": "CC-BY-2.5-AR",
+      "mimetype": "text/csv",
+      "mimetype_inner": null,
+      "modified": "2020-05-14T14:34:26.614709",
+      "name": "Entrevistas y designaciones de personal sanitario covid-19",
+      "package_id": "293adf1e-b7bb-444b-a3a0-e4a7a599dd43",
+      "position": 0,
+      "resource_type": "file",
+      "revision_id": "14214efe-a69e-4de0-8257-11293fbd3f0f",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/entrevistas-y-designaciones-de-personal-sanitario-covid-19/recursos_humanos_salud.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "",
+      "accessURL_field": "",
+      "attributesDescription": "[{\"title\":\"perfil\",\"description\":\"tipo de perfil de personal de salud\",\"type\":\"string\"},{\"title\":\"fecha\",\"description\":\"fecha de registro\",\"type\":\"date\"},{\"title\":\"entrevistas_realizadas\",\"description\":\"cantidad acumulada de entrevistas realizadas\",\"type\":\"integer\"},{\"title\":\"entrevistas_aprobadas\",\"description\":\"cantidad acumulada de entrevistas aprobadas\",\"type\":\"integer\"},{\"title\":\"designados\",\"description\":\"cantidad acumulada de designaciones \",\"type\":\"integer\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2020-05-14T17:36:20.774279",
+      "datastore_active": false,
+      "description": "Listado con la información de la cantidad de entrevistas y designaciones de personal sanitario en el marco de la pandemia covid-19",
+      "fileName": "recursos_humanos_salud.xlsx",
+      "format": "XLSX",
+      "has-uploaded-file": "",
+      "hash": "",
+      "icon_url": "",
+      "id": "c50e7c96-2133-4d4a-88fb-f92ab4704186",
+      "issued": "2020-05-14T14:36:20.726219",
+      "last_modified": null,
+      "license_id": "CC-BY-2.5-AR",
+      "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "mimetype_inner": null,
+      "modified": "2020-05-14T14:36:20.726219",
+      "name": "Entrevistas y designaciones de personal sanitario covid-19 (XLSX)",
+      "package_id": "293adf1e-b7bb-444b-a3a0-e4a7a599dd43",
+      "position": 1,
+      "resource_type": "file",
+      "revision_id": "6041de4c-7fd1-47f3-9b0d-c9981719c2a8",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/entrevistas-y-designaciones-de-personal-sanitario-covid-19/recursos_humanos_salud.xlsx",
+      "url_type": null
+    }
+  ],
+  "revision_id": "46670d6b-4772-4b8c-ab15-ef7a8a7eab3d",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "cobertura salud",
+      "id": "52b0aab4-98cc-4bae-82e4-2439582715cb",
+      "name": "cobertura salud",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "coronavirus",
+      "id": "efeebfc4-0eaf-47bc-9d00-435b9c600fa1",
+      "name": "coronavirus",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "covid",
+      "id": "660b8ba0-37fd-48fc-84c8-2090dd260137",
+      "name": "covid",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "covid19",
+      "id": "95ef89f7-217b-4107-b6ee-61e74304c44e",
+      "name": "covid19",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "designaciones",
+      "id": "91935e70-1c3e-4c2b-b1cc-c1c8113d1113",
+      "name": "designaciones",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "entrevistas",
+      "id": "a2fce4e1-2586-4666-bb23-cf02d9646362",
+      "name": "entrevistas",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "rrhh",
+      "id": "c558c620-9433-4505-befa-c655baf12c34",
+      "name": "rrhh",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Entrevistas y designaciones de personal sanitario covid-19",
+  "type": "dataset",
+  "url": "https://data.buenosaires.gob.ar/dataset/entrevistas-designaciones-personal-covid",
+  "version": null
+}

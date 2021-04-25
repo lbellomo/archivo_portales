@@ -1,0 +1,247 @@
+{
+  "author": "Ministerio de Espacio Público e Higiene Urbana. SS De Higiene Urbana. DG Limpieza",
+  "author_email": "datosabiertos@buenosaires.gob.ar",
+  "creator_user_id": "e4546f46-e966-493c-b2f1-57318502c41b",
+  "extras": [
+    {
+      "key": "Documentación",
+      "value": ""
+    },
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P1Y"
+    },
+    {
+      "key": "country",
+      "value": "None"
+    },
+    {
+      "key": "district",
+      "value": ""
+    },
+    {
+      "key": "home_featured",
+      "value": "false"
+    },
+    {
+      "key": "issued",
+      "value": "2019-05-09T18:36:19.795446"
+    },
+    {
+      "key": "language",
+      "value": "[]"
+    },
+    {
+      "key": "modified",
+      "value": "2021-03-05T11:40:15.315388"
+    },
+    {
+      "key": "province",
+      "value": ""
+    },
+    {
+      "key": "source",
+      "value": "Ministerio de Ambiente y Espacio Público. SS Higiene Urbana. DG de Limpieza."
+    },
+    {
+      "key": "spatial",
+      "value": "None"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"ENVI\",\"REGI\"]"
+    },
+    {
+      "key": "temporal",
+      "value": ""
+    }
+  ],
+  "groups": [
+    {
+      "description": "",
+      "display_name": "Medioambiente",
+      "id": "a99c1197-8379-4a60-a6eb-8737cab5ec4f",
+      "image_display_url": "https://data.buenosaires.gob.ar/uploads/group/2019-11-16-145003.550663medioambiente.png",
+      "name": "medioambiente",
+      "title": "Medioambiente"
+    }
+  ],
+  "id": "afa41357-6eaa-4289-b3cd-600e048cf32b",
+  "isopen": true,
+  "license_id": "CC-BY-2.5-AR",
+  "license_title": "Atribucion 2.5 Argentina (CC BY 2.5 AR)",
+  "license_url": "https://creativecommons.org/licenses/by/2.5/ar ",
+  "maintainer": "Secretaría General y Relaciones Internacionales. Subsecretaría Gestión Estratégica y Calidad Institucional. Dirección General Calidad Institucional y Gobierno Abierto",
+  "maintainer_email": "datosabiertos@buenosaires.gob.ar",
+  "metadata_created": "2019-12-11T18:07:38.775433",
+  "metadata_modified": "2021-03-05T14:40:15.332082",
+  "name": "rutas-recoleccion-residuos-humedos",
+  "notes": "Recorridos de recolección de residuos húmedos, con ubicación geográfica, por comuna, barrio y empresa",
+  "num_resources": 4,
+  "num_tags": 5,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-11-15T19:17:37.520435",
+    "description": "",
+    "id": "c16da01e-12a6-4b99-9509-c35b37138493",
+    "image_url": "",
+    "is_organization": true,
+    "name": "subsecretaria-de-higiene-urbana",
+    "revision_id": "b04e62bf-6883-4fe8-864b-3861f35cf6fe",
+    "state": "active",
+    "title": "Subsecretaria de Higiene Urbana",
+    "type": "organization"
+  },
+  "owner_org": "c16da01e-12a6-4b99-9509-c35b37138493",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/afa41357-6eaa-4289-b3cd-600e048cf32b/resource/042095f1-a2eb-4a01-a417-2607bc403c80",
+      "accessURL_field": "",
+      "attributesDescription": "[{\"title\":\"wkt\",\"description\":\"Líneas geoespaciales de los recorridos expresadas en formato wkt\",\"type\":\"number\"},{\"title\":\"id\",\"description\":\"Número unico\",\"type\":\"number\"},{\"title\":\"codigo\",\"description\":\"Código de conjunto de calles con el mismo nombre\",\"type\":\"number\"},{\"title\":\"nomoficial\",\"description\":\"Nombre de la calle\",\"type\":\"string\"},{\"title\":\"alt_izqini\",\"description\":\"Altura inicial izquierda\",\"type\":\"number\"},{\"title\":\"alt_izqfin\",\"description\":\"Altura final izquierda\",\"type\":\"number\"},{\"title\":\"alt_derini\",\"description\":\"Altura inicial derecha\",\"type\":\"integer\"},{\"title\":\"alt_derfin\",\"description\":\"Altura final derecha\",\"type\":\"number\"},{\"title\":\"tipo_c\",\"description\":\"Tipo de calle\",\"type\":\"string\"},{\"title\":\"long_\",\"description\":\"Longitud de cada segmento de calle (en metros)\",\"type\":\"number\"},{\"title\":\"sentido\",\"description\":\"Sentido de la calle\",\"type\":\"string\"},{\"title\":\"comuna\",\"description\":\"Número de comuna\",\"type\":\"string\"},{\"title\":\"barrio\",\"description\":\"Nombre de Barrio\",\"type\":\"string\"},{\"title\":\"zona\",\"description\":\"Nro de Zona de Recolección DGLIM\",\"type\":\"string\"},{\"title\":\"empresa\",\"description\":\"Nombre de la empresa de Limpieza\",\"type\":\"string\"},{\"title\":\"cod_ruta\",\"description\":\"Número de ruta de Recoleccion de contenedores\",\"type\":\"number\"},{\"title\":\"nom_servic\",\"description\":\"Nombre completo del servicio\",\"type\":\"string\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-05-20T17:24:03.963293",
+      "datastore_active": false,
+      "description": "Recorridos realizados por las empresas de recolección de residuos húmedos de la Ciudad de Buenos Aires",
+      "fileName": "",
+      "format": "CSV",
+      "has-uploaded-file": "",
+      "hash": "",
+      "icon_url": "",
+      "id": "042095f1-a2eb-4a01-a417-2607bc403c80",
+      "issued": "2019-05-20T17:24:03.963293",
+      "last_modified": "2019-05-20T17:24:03.963293",
+      "license_id": "CC-BY-4.0",
+      "mimetype": "text/csv",
+      "mimetype_inner": null,
+      "modified": "2020-10-13T18:51:33.577866",
+      "name": "Rutas de recolección de residuos húmedos",
+      "package_id": "afa41357-6eaa-4289-b3cd-600e048cf32b",
+      "position": 0,
+      "resource_type": "file",
+      "revision_id": "73d2c6a8-0b8a-4743-aa44-53bbb5264b7b",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/recorridos-recoleccion-residuos-humedos/rutas_recoleccion_residuos_humedos.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/afa41357-6eaa-4289-b3cd-600e048cf32b/resource/7bf4f6ad-bf09-4f6a-bd90-9dc21d18dabc",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-05-09T16:13:02.870872",
+      "datastore_active": false,
+      "description": "Archivo shapefile con las rutas de recolección de residuos húmedos",
+      "fileName": "rutas_recoleccion_residuos_humedos.zip",
+      "format": "ZIP",
+      "hash": "",
+      "id": "7bf4f6ad-bf09-4f6a-bd90-9dc21d18dabc",
+      "last_modified": "2019-05-09T16:13:02.870872",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Rutas de recolección de residuos húmedos (SHP)",
+      "package_id": "afa41357-6eaa-4289-b3cd-600e048cf32b",
+      "position": 1,
+      "resource_type": "file",
+      "revision_id": "294b16bb-8210-432b-be8b-dea04f6afc38",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/recorridos-recoleccion-residuos-humedos/rutas_recoleccion_residuos_humedos.zip",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/afa41357-6eaa-4289-b3cd-600e048cf32b/resource/fdd1c753-3ccf-45f5-854b-8f051e539c65",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-05-09T17:08:40.071022",
+      "datastore_active": false,
+      "description": "Archivo KMZ con las rutas de recolección de residuos húmedos",
+      "fileName": "rutas-de-recoleccion-residuos-humedos.kmz",
+      "format": "KMZ",
+      "hash": "",
+      "id": "fdd1c753-3ccf-45f5-854b-8f051e539c65",
+      "last_modified": "2019-05-09T17:08:40.071022",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Rutas de recolección de residuos húmedos (KMZ)",
+      "package_id": "afa41357-6eaa-4289-b3cd-600e048cf32b",
+      "position": 2,
+      "resource_type": "file",
+      "revision_id": "02c5a501-a520-4688-a3cf-9df874b5cff8",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/recorridos-recoleccion-residuos-humedos/rutas-de-recoleccion-residuos-humedos.kmz",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/afa41357-6eaa-4289-b3cd-600e048cf32b/resource/042095f1-a2eb-4a01-a417-2607bc403c80",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-05-20T17:24:03.963293",
+      "datastore_active": false,
+      "description": "Recorridos realizados por las empresas de recolección de residuos húmedos de la Ciudad de Buenos Aires",
+      "fileName": "rutas_recoleccion_residuos_humedos.xlsx",
+      "format": "XLSX",
+      "hash": "",
+      "id": "042095f1-a2eb-4a01-a417-2607bc403c80-xlsx",
+      "last_modified": "2019-05-20T17:24:03.963293",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Rutas de recolección de residuos húmedos (XLSX)",
+      "package_id": "afa41357-6eaa-4289-b3cd-600e048cf32b",
+      "position": 3,
+      "resource_type": "file",
+      "revision_id": "e91db95b-694f-4c7d-bc11-bc0b1ec9f9f8",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/recorridos-recoleccion-residuos-humedos/rutas_recoleccion_residuos_humedos.xlsx",
+      "url_type": null
+    }
+  ],
+  "revision_id": "f4804002-065d-488f-b245-ca16c41ca510",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "basura",
+      "id": "b81ced62-2964-4a41-9f08-7f5a61596213",
+      "name": "basura",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "cambio climático",
+      "id": "a6836452-912d-41c2-b324-4eddc98a75c2",
+      "name": "cambio climático",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "empresas",
+      "id": "87418922-d17d-45e4-bad9-bd9523ee67f3",
+      "name": "empresas",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "recorridos",
+      "id": "38aa7cec-8789-4351-ac4b-c5168ac37ee0",
+      "name": "recorridos",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "residuos",
+      "id": "fcfa4e4f-6ce7-42d9-9af5-f03a59545778",
+      "name": "residuos",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Rutas de recolección de residuos húmedos",
+  "type": "dataset",
+  "url": "https://data.buenosaires.gob.ar/dataset/rutas-de-recoleccion-de-residuos-humedos",
+  "version": null
+}

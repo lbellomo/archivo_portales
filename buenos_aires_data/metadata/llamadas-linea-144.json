@@ -1,0 +1,207 @@
+{
+  "author": "Dirección General de Estadísticas y Censos",
+  "author_email": "datosabiertos@buenosaires.gob.ar",
+  "creator_user_id": "931fac92-738f-4472-b1c1-f5c2f6e46af3",
+  "extras": [
+    {
+      "key": "Documentación",
+      "value": ""
+    },
+    {
+      "key": "accrualPeriodicity",
+      "value": "eventual"
+    },
+    {
+      "key": "country",
+      "value": "ARG"
+    },
+    {
+      "key": "district",
+      "value": ""
+    },
+    {
+      "key": "home_featured",
+      "value": "false"
+    },
+    {
+      "key": "issued",
+      "value": "2020-08-03T14:58:10.820823"
+    },
+    {
+      "key": "language",
+      "value": "[\"spa\"]"
+    },
+    {
+      "key": "modified",
+      "value": "2021-03-05T09:45:57.093771"
+    },
+    {
+      "key": "province",
+      "value": ""
+    },
+    {
+      "key": "source",
+      "value": "Dirección General de Estadísticas y Censos"
+    },
+    {
+      "key": "spatial",
+      "value": "ARG"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"JUST\"]"
+    },
+    {
+      "key": "temporal",
+      "value": ""
+    }
+  ],
+  "groups": [
+    {
+      "description": "",
+      "display_name": "Administración Pública",
+      "id": "8cb134a8-90ea-4e69-a96d-c03449917dc9",
+      "image_display_url": "https://data.buenosaires.gob.ar/uploads/group/2019-11-16-144810.360383adminpublica.png",
+      "name": "administracion-publica",
+      "title": "Administración Pública"
+    },
+    {
+      "description": "",
+      "display_name": "Género",
+      "id": "3d97d3f5-206f-4719-8a06-54c709a25893",
+      "image_display_url": "https://data.buenosaires.gob.ar/uploads/group/2019-11-19-182128.307764genero720.png",
+      "name": "genero",
+      "title": "Género"
+    }
+  ],
+  "id": "51bdf85e-f6ec-4ccd-b4a6-c3dc9a6eebbb",
+  "isopen": true,
+  "license_id": "CC-BY-2.5-AR",
+  "license_title": "Atribucion 2.5 Argentina (CC BY 2.5 AR)",
+  "license_url": "https://creativecommons.org/licenses/by/2.5/ar ",
+  "maintainer": "Subsecretaría de Políticas Públicas Basadas en Evidencia. DG Arquitectura de Datos",
+  "maintainer_email": "datosabiertos@buenosaires.gob.ar",
+  "metadata_created": "2020-08-03T17:56:54.548866",
+  "metadata_modified": "2021-03-05T12:45:57.110322",
+  "name": "llamadas-linea-144",
+  "notes": "Llamadas atendidas en los servicios telefónicos de la Dirección General de la Mujer",
+  "num_resources": 2,
+  "num_tags": 4,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-11-15T19:18:36.747317",
+    "description": "",
+    "id": "800664f9-ab56-4482-a6c8-0a1d316bf35b",
+    "image_url": "",
+    "is_organization": true,
+    "name": "direccion-general-de-estadisticas-y-censos",
+    "revision_id": "62a8b16c-0849-419d-a339-8e14d1b4a010",
+    "state": "active",
+    "title": "Dirección General de Estadísticas y Censos",
+    "type": "organization"
+  },
+  "owner_org": "800664f9-ab56-4482-a6c8-0a1d316bf35b",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "",
+      "accessURL_field": "",
+      "attributesDescription": "[{\"title\":\"Año\",\"description\":\"Año de medición\",\"type\":\"integer\"},{\"title\":\"Total llamadas servicios telefonicos\",\"description\":\"Total de llamadas recibidas al 144 por las 3 líneas de ayuda: Te Ayudo, Línea de Violencia Familiar y  Línea de Información General y Salud Integral.\",\"type\":\"integer\"},{\"title\":\"Total linea violencia familiar\",\"description\":\"Total de llamadas recibidas en la Línea de Violencia Familiar\",\"type\":\"integer\"},{\"title\":\"informacion general\",\"description\":\"Total de llamadas recibidas para recibir información general en la Línea de Violencia Familiar\",\"type\":\"integer\"},{\"title\":\"casos maltrato fisico emocional\",\"description\":\"Total de llamadas recibidas por motivos de maltrato fisico y/o emocional en la Línea de Violencia Familiar\",\"type\":\"integer\"},{\"title\":\"emergencia\",\"description\":\"Total de llamadas recibidas de emergencia en la Línea de Violencia Familiar\",\"type\":\"integer\"},{\"title\":\"total linea te ayudo\",\"description\":\"Total de llamadas recibidas en la Línea Te ayudo.\",\"type\":\"integer\"},{\"title\":\"asesoramiento\",\"description\":\"Total de llamadas recibidas para recibir asesoramiento en la Línea Te Ayudo\",\"type\":\"integer\"},{\"title\":\"casos maltrato infanto-juvenil y abuso sexual\",\"description\":\"Total de llamadas recibidas por motivos de maltrato infanto juvenil y/o abuso sexual en la Línea Te Ayudo\",\"type\":\"integer\"},{\"title\":\"adolecente violento\",\"description\":\"Total de llamadas recibidas por motivo de adolecente violento en la Línea Te Ayudo\",\"type\":\"integer\"},{\"title\":\"noviazgo violento\",\"description\":\"Total de llamadas recibidas por motivo de noviazgo violento en la Línea Te Ayudo\",\"type\":\"integer\"},{\"title\":\"emergencia\",\"description\":\"Total de llamadas recibidas por motivo de emergencia en la Línea Te Ayudo\",\"type\":\"integer\"},{\"title\":\"total linea de informacion general y salud integral\",\"description\":\"Total de llamadas recibidas en la Línea de Información General y Salúd Integral\",\"type\":\"integer\"},{\"title\":\"informacion general\",\"description\":\"Total de llamadas recibidas para obtención de información general en la Línea de Información General y Salúd Integral\",\"type\":\"integer\"},{\"title\":\"casos pap mamas derecho a la saluda\",\"description\":\"Total de llamadas recibidas para obtención de información de derecho a la salud en la Línea de Información General y Salúd Integral\",\"type\":\"integer\"},{\"title\":\"otras problematicas\",\"description\":\"Total de llamadas recibidas por otros motivos en la Línea de Información General y Salúd Integral\",\"type\":\"integer\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2020-08-03T18:01:40.613365",
+      "datastore_active": false,
+      "description": "Llamadas atendidas en los servicios telefónicos de la Dirección General de la Mujer",
+      "fileName": "llamadas_linea_144.csv",
+      "format": "CSV",
+      "has-uploaded-file": "",
+      "hash": "",
+      "icon_url": "",
+      "id": "72a45383-d48d-468a-a39b-051cc3ec239c",
+      "issued": "2020-08-03T18:01:40.613365",
+      "last_modified": "2020-08-03T00:00:00",
+      "license_id": "CC-BY-4.0",
+      "mimetype": "text/csv",
+      "mimetype_inner": null,
+      "modified": "2020-08-04",
+      "name": "Llamadas linea 144",
+      "package_id": "51bdf85e-f6ec-4ccd-b4a6-c3dc9a6eebbb",
+      "position": 0,
+      "resource_type": "file",
+      "revision_id": "cbad5335-2c14-46ef-b3ad-465869d2b2d3",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/direccion-general-de-estadisticas-y-censos/llamadas-linea-144/llamadas_linea_144.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "",
+      "accessURL_field": "",
+      "attributesDescription": "[{\"title\":\"Año\",\"description\":\"Año de medición\",\"type\":\"integer\"},{\"title\":\"Total llamadas servicios telefonicos\",\"description\":\"Total de llamadas recibidas al 144 por las 3 líneas de ayuda: Te Ayudo, Línea de Violencia Familiar y  Línea de Información General y Salud Integral.\",\"type\":\"integer\"},{\"title\":\"Total linea violencia familiar\",\"description\":\"Total de llamadas recibidas en la Línea de Violencia Familiar\",\"type\":\"integer\"},{\"title\":\"informacion general\",\"description\":\"Total de llamadas recibidas para recibir información general en la Línea de Violencia Familiar\",\"type\":\"integer\"},{\"title\":\"casos maltrato fisico emocional\",\"description\":\"Total de llamadas recibidas por motivos de maltrato fisico y/o emocional en la Línea de Violencia Familiar\",\"type\":\"integer\"},{\"title\":\"emergencia\",\"description\":\"Total de llamadas recibidas de emergencia en la Línea de Violencia Familiar\",\"type\":\"integer\"},{\"title\":\"total linea te ayudo\",\"description\":\"Total de llamadas recibidas en la Línea Te ayudo.\",\"type\":\"integer\"},{\"title\":\"asesoramiento\",\"description\":\"Total de llamadas recibidas para recibir asesoramiento en la Línea Te Ayudo\",\"type\":\"integer\"},{\"title\":\"casos maltrato infanto-juvenil y abuso sexual\",\"description\":\"Total de llamadas recibidas por motivos de maltrato infanto juvenil y/o abuso sexual en la Línea Te Ayudo\",\"type\":\"integer\"},{\"title\":\"adolecente violento\",\"description\":\"Total de llamadas recibidas por motivo de adolecente violento en la Línea Te Ayudo\",\"type\":\"integer\"},{\"title\":\"noviazgo violento\",\"description\":\"Total de llamadas recibidas por motivo de noviazgo violento en la Línea Te Ayudo\",\"type\":\"integer\"},{\"title\":\"emergencia\",\"description\":\"Total de llamadas recibidas por motivo de emergencia en la Línea Te Ayudo\",\"type\":\"integer\"},{\"title\":\"total linea de informacion general y salud integral\",\"description\":\"Total de llamadas recibidas en la Línea de Información General y Salúd Integral\",\"type\":\"integer\"},{\"title\":\"informacion general\",\"description\":\"Total de llamadas recibidas para obtención de información general en la Línea de Información General y Salúd Integral\",\"type\":\"integer\"},{\"title\":\"casos pap mamas derecho a la saluda\",\"description\":\"Total de llamadas recibidas para obtención de información de derecho a la salud en la Línea de Información General y Salúd Integral\",\"type\":\"integer\"},{\"title\":\"otras problematicas\",\"description\":\"Total de llamadas recibidas por otros motivos en la Línea de Información General y Salúd Integral\",\"type\":\"integer\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2020-08-03T18:01:45.396120",
+      "datastore_active": false,
+      "description": "Llamadas atendidas en los servicios telefónicos de la Dirección General de la Mujer",
+      "fileName": "llamadas_linea_144.xlsx",
+      "format": "XLSX",
+      "has-uploaded-file": "",
+      "hash": "",
+      "icon_url": "",
+      "id": "6a51e0f5-b50e-4d7d-aa34-a368de9fd5e0",
+      "issued": "2020-08-03T18:01:45.396120",
+      "last_modified": "2020-08-03T00:00:00",
+      "license_id": "CC-BY-4.0",
+      "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "mimetype_inner": null,
+      "modified": "2020-08-04",
+      "name": "Llamadas linea 144 (XLSX)",
+      "package_id": "51bdf85e-f6ec-4ccd-b4a6-c3dc9a6eebbb",
+      "position": 1,
+      "resource_type": "file",
+      "revision_id": "87509cc1-11ec-4f84-8fff-f7eb58980a50",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/direccion-general-de-estadisticas-y-censos/llamadas-linea-144/llamadas_linea_144.xlsx",
+      "url_type": null
+    }
+  ],
+  "revision_id": "1a07fda4-d615-4c2c-bdc1-f1c8dba17223",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "144",
+      "id": "159d24c2-cdc6-4382-a919-16865e7a4798",
+      "name": "144",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "atención a la mujer",
+      "id": "4faf27b1-0d52-47d8-a7a6-5ecde1e65aab",
+      "name": "atención a la mujer",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "genero",
+      "id": "21b2d7ce-8cbc-4852-aa06-cea4bc73567f",
+      "name": "genero",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "llamados",
+      "id": "d273d17e-5bc8-46f9-b145-50e8cc4b2170",
+      "name": "llamados",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Llamadas linea 144",
+  "type": "dataset",
+  "url": "https://data.buenosaires.gob.ar/dataset/llamadas-linea-144",
+  "version": null
+}

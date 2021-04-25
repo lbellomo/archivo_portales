@@ -1,0 +1,206 @@
+{
+  "author": "Secretaría General y Relaciones Internacionales. SS de Gestión Estratégica y Calidad Institucional. DG de Calidad Institucional y Gobierno Abierto",
+  "author_email": "gobiernoabierto@buenosaires.gob.ar",
+  "creator_user_id": "e4546f46-e966-493c-b2f1-57318502c41b",
+  "extras": [
+    {
+      "key": "Documentación",
+      "value": ""
+    },
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P1M"
+    },
+    {
+      "key": "country",
+      "value": "None"
+    },
+    {
+      "key": "district",
+      "value": ""
+    },
+    {
+      "key": "home_featured",
+      "value": "false"
+    },
+    {
+      "key": "issued",
+      "value": "2019-01-08T14:59:12.541858"
+    },
+    {
+      "key": "language",
+      "value": "[]"
+    },
+    {
+      "key": "modified",
+      "value": "2020-09-18"
+    },
+    {
+      "key": "province",
+      "value": ""
+    },
+    {
+      "key": "source",
+      "value": "Secretaría General y Relaciones Internacionales. SS de Gestión Estratégica y Calidad Institucional. DG de Calidad Institucional y Gobierno Abierto"
+    },
+    {
+      "key": "spatial",
+      "value": "None"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"GOVE\"]"
+    },
+    {
+      "key": "temporal",
+      "value": ""
+    }
+  ],
+  "groups": [
+    {
+      "description": "Datasets relacionados con urbanismo y territorio",
+      "display_name": "Urbanismo y Territorio",
+      "id": "63e162a0-3f4a-446a-a60b-601d16f36200",
+      "image_display_url": "https://data.buenosaires.gob.ar/uploads/group/2019-11-16-145056.781692urba.png",
+      "name": "urbanismo-y-territorio",
+      "title": "Urbanismo y Territorio"
+    }
+  ],
+  "id": "juqdkmgo-18",
+  "isopen": true,
+  "license_id": "CC-BY-2.5-AR",
+  "license_title": "Atribucion 2.5 Argentina (CC BY 2.5 AR)",
+  "license_url": "https://creativecommons.org/licenses/by/2.5/ar ",
+  "maintainer": "Secretaría General y Relaciones Internacionales. Subsecretaría Gestión Estratégica y Calidad Institucional. Dirección General Calidad Institucional y Gobierno Abierto",
+  "maintainer_email": "gobiernoabierto@buenosaires.gob.ar",
+  "metadata_created": "2019-12-11T18:34:18.016070",
+  "metadata_modified": "2020-12-17T12:39:50.410253",
+  "name": "ba-obras",
+  "notes": "Información de las obras públicas realizadas en la Ciudad.",
+  "num_resources": 2,
+  "num_tags": 5,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-11-15T19:16:33.772140",
+    "description": "",
+    "id": "8862c931-b89e-44c6-9567-79a33d0174e3",
+    "image_url": "",
+    "is_organization": true,
+    "name": "secretaria-general-y-relaciones-internacionales",
+    "revision_id": "7607a9d6-dd19-4643-bf63-3a43148dab03",
+    "state": "active",
+    "title": "Secretaría General y Relaciones Internacionales",
+    "type": "organization"
+  },
+  "owner_org": "8862c931-b89e-44c6-9567-79a33d0174e3",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/ba-obras",
+      "accessURL_field": "",
+      "attributesDescription": "[{\"title\":\"id\",\"description\":\"Indica el ID en función del número de obra en la Plataforma Integral de Gestión (PIG)\",\"type\":\"integer\"},{\"title\":\"entorno\",\"description\":\"Agrupación de obras para creación de páginas internas\",\"type\":\"string\"},{\"title\":\"nombre\",\"description\":\"Nombre de la obra\",\"type\":\"string\"},{\"title\":\"etapa\",\"description\":\"Indica el estado de evolución de la obra\",\"type\":\"string\"},{\"title\":\"tipo\",\"description\":\"Indica el tipo de obra\",\"type\":\"string\"},{\"title\":\"area_responsable\",\"description\":\"Indica a qué área de gobierno pertenece la obra\",\"type\":\"string\"},{\"title\":\"descripcion\",\"description\":\"Detalla las tareas de cada obra\",\"type\":\"string\"},{\"title\":\"monto_contrato\",\"description\":\"Monto en pesos por el cual se firmó el contrato\",\"type\":\"integer\"},{\"title\":\"comuna\",\"description\":\"Indica el número de la comuna en la que se encuentra ubicada la obra\",\"type\":\"integer\"},{\"title\":\"barrio\",\"description\":\"Indica el barrio en el que se localiza la obra\",\"type\":\"string\"},{\"title\":\"calle_1\",\"description\":\"Calle donde se localiza la obra\",\"type\":\"string\"},{\"title\":\"seccion\",\"description\":\"Numero de la sección\",\"type\":\"string\"},{\"title\":\"manzana\",\"description\":\"Número de la manzana\",\"type\":\"string\"},{\"title\":\"parcela\",\"description\":\"Denominación alfanumérica de la parcela\",\"type\":\"string\"},{\"title\":\"direccion\",\"description\":\"Indica la dirección concreta en la que se localiza la obra\",\"type\":\"string\"},{\"title\":\"latitud\",\"description\":\"Latitud de la obra\",\"type\":\"number\"},{\"title\":\"longitud\",\"description\":\"Longitud de la obra\",\"type\":\"number\"},{\"title\":\"fecha_inicio\",\"description\":\"Fecha de inicio de la obra\",\"type\":\"date\"},{\"title\":\"fecha_finalizacion\",\"description\":\"Fecha de finalización real\",\"type\":\"date\"},{\"title\":\"plazo_meses\",\"description\":\"Plazo en el que se concretará la obra según acta de adjudicación\",\"type\":\"integer\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-04-23T16:52:40.794607",
+      "datastore_active": false,
+      "description": "Información sobre empresa constructora, CUIT, fecha de inicio y fin, monto, descripción, ubicación y ministerio responsable de las obras públicas realizadas por el Gobierno de la Ciudad.",
+      "fileName": "",
+      "format": "CSV",
+      "has-uploaded-file": "",
+      "hash": "",
+      "icon_url": "",
+      "id": "juqdkmgo-181-resource",
+      "issued": "2019-04-23T16:52:40.794607",
+      "last_modified": "2019-04-23T16:52:40.794607",
+      "license_id": "CC-BY-4.0",
+      "mimetype": "text/csv",
+      "mimetype_inner": null,
+      "modified": "2020-12-17T09:39:19.141283",
+      "name": "Obras Públicas",
+      "package_id": "juqdkmgo-18",
+      "position": 0,
+      "resource_type": "file",
+      "revision_id": "1ca625f6-690b-446d-9a8a-f69319d2a312",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-general-y-relaciones-internacionales/ba-obras/observatorio-de-obras-urbanas.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/ba-obras",
+      "accessURL_field": "",
+      "attributesDescription": "[]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-04-23T16:52:40.794607",
+      "datastore_active": false,
+      "description": "Información sobre empresa constructora, CUIT, fecha de inicio y fin, monto, descripción, ubicación y ministerio responsable de las obras públicas realizadas por el Gobierno de la Ciudad.",
+      "fileName": "",
+      "format": "XLSX",
+      "has-uploaded-file": "",
+      "hash": "",
+      "icon_url": "",
+      "id": "juqdkmgo-181-resource-xlsx",
+      "issued": "2019-04-23T16:52:40.794607",
+      "last_modified": "2019-04-23T16:52:40.794607",
+      "license_id": "CC-BY-4.0",
+      "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "mimetype_inner": null,
+      "modified": "2020-12-17T09:39:50.313354",
+      "name": "Obras Públicas (XLSX)",
+      "package_id": "juqdkmgo-18",
+      "position": 1,
+      "resource_type": "file",
+      "revision_id": "db9375f0-390e-4a51-bc1f-087593631111",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-general-y-relaciones-internacionales/ba-obras/observatorio-de-obras-urbanas.xlsx",
+      "url_type": null
+    }
+  ],
+  "revision_id": "12c90b3c-96f2-4a67-a989-3c6d7c5abcb8",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "infraestructura-urbana",
+      "id": "9a838ab2-e2a7-443d-b532-e4344d852abe",
+      "name": "infraestructura-urbana",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "obras",
+      "id": "0a47fdfe-85d2-4a40-ac76-a643f3274d0f",
+      "name": "obras",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "obras-urbanas",
+      "id": "1dd24ff5-a536-4290-8dac-468d24ffca37",
+      "name": "obras-urbanas",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "observatorio",
+      "id": "5d8c7b7e-62ed-439d-8a1c-b185e6dca123",
+      "name": "observatorio",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "registro",
+      "id": "26743a06-4bdd-418b-a604-e17fe4aa1635",
+      "name": "registro",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "BA Obras",
+  "type": "dataset",
+  "url": "https://data.buenosaires.gob.ar/dataset/ba-obras",
+  "version": null
+}

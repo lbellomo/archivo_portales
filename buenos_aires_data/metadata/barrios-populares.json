@@ -1,0 +1,276 @@
+{
+  "author": "Ministerio de Desarrollo Humano y Hábitat",
+  "author_email": "datosabiertos@buenosaires.gob.ar",
+  "creator_user_id": "931fac92-738f-4472-b1c1-f5c2f6e46af3",
+  "extras": [
+    {
+      "key": "Documentación",
+      "value": ""
+    },
+    {
+      "key": "accrualPeriodicity",
+      "value": "eventual"
+    },
+    {
+      "key": "country",
+      "value": "ARG"
+    },
+    {
+      "key": "district",
+      "value": ""
+    },
+    {
+      "key": "home_featured",
+      "value": "false"
+    },
+    {
+      "key": "issued",
+      "value": "2020-07-17T14:48:55.784266"
+    },
+    {
+      "key": "language",
+      "value": "[\"spa\"]"
+    },
+    {
+      "key": "modified",
+      "value": "2021-02-26T18:04:40.661511"
+    },
+    {
+      "key": "province",
+      "value": ""
+    },
+    {
+      "key": "source",
+      "value": "Ministerio de Desarrollo Humano y Hábitat"
+    },
+    {
+      "key": "spatial",
+      "value": "ARG"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"HEAL\",\"SOCI\"]"
+    },
+    {
+      "key": "temporal",
+      "value": ""
+    }
+  ],
+  "groups": [
+    {
+      "description": "Datos abiertos relacionados al Desarrollo Humano",
+      "display_name": "Desarrollo Humano",
+      "id": "9d791ab5-130b-4bdb-bebf-b14cf2528781",
+      "image_display_url": "https://data.buenosaires.gob.ar/uploads/group/2020-01-31-175946.842561desarrollo-humano.png",
+      "name": "desarrollo-humano",
+      "title": "Desarrollo Humano"
+    },
+    {
+      "description": "Datasets relacionados con urbanismo y territorio",
+      "display_name": "Urbanismo y Territorio",
+      "id": "63e162a0-3f4a-446a-a60b-601d16f36200",
+      "image_display_url": "https://data.buenosaires.gob.ar/uploads/group/2019-11-16-145056.781692urba.png",
+      "name": "urbanismo-y-territorio",
+      "title": "Urbanismo y Territorio"
+    }
+  ],
+  "id": "3efa3e4c-93e9-48e9-aac9-ee63c4dae8e2",
+  "isopen": true,
+  "license_id": "CC-BY-2.5-AR",
+  "license_title": "Atribucion 2.5 Argentina (CC BY 2.5 AR)",
+  "license_url": "https://creativecommons.org/licenses/by/2.5/ar ",
+  "maintainer": "Subsecretaría de Políticas Públicas Basadas en Evidencia. DG Arquitectura de Datos",
+  "maintainer_email": "datosabiertos@buenosaires.gob.ar",
+  "metadata_created": "2020-07-08T18:59:08.646358",
+  "metadata_modified": "2021-02-26T21:04:40.726690",
+  "name": "barrios-populares",
+  "notes": "Información sobre la ubicación de los Barrios Populares de la Ciudad",
+  "num_resources": 4,
+  "num_tags": 5,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-11-15T19:18:53.945883",
+    "description": "",
+    "id": "34394b51-682c-472d-8428-7491610d5c06",
+    "image_url": "",
+    "is_organization": true,
+    "name": "ministerio-de-desarrollo-humano-y-habitat",
+    "revision_id": "19f3f41b-56e8-4dc5-a760-eb39818806b2",
+    "state": "active",
+    "title": "Ministerio de Desarrollo Humano y Hábitat",
+    "type": "organization"
+  },
+  "owner_org": "34394b51-682c-472d-8428-7491610d5c06",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "",
+      "accessURL_field": "",
+      "attributesDescription": "[{\"title\":\"NOMBRE\",\"description\":\"Denominación oficial según Min de Desarrollo Humano y Hábitat \",\"type\":\"string\"},{\"title\":\"NOM_MAPA \",\"description\":\"Nombre abreviado y utilizado para los Mapas \",\"type\":\"string\"},{\"title\":\"TIPO_ASENT \",\"description\":\"Tipo de registro: Villa, Asentamiento precario, Barrio municipal, Barrio urbanizado, Conjunto habitacional, Núcleo habitacional transitorio. Son categorías definidas según el Ministerio de Desarrollo \",\"type\":\"string\"},{\"title\":\"ALIAS \",\"description\":\"Otros nombres utilizados para denominar a ese registro \",\"type\":\"string\"},{\"title\":\"SUPERFICIE \",\"description\":\"Área que abarca el polígono \",\"type\":\"number\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2020-07-17T17:49:57.985026",
+      "datastore_active": false,
+      "description": "Capa que contiene el registro de los denominados barrios poulares de la Ciudad Autonoma de Buenos Aires. Dichos barrios son considerados las zonas precarias y vulnerables.",
+      "fileName": "barrios-populares-badata.zip",
+      "format": "ZIP",
+      "has-uploaded-file": "",
+      "hash": "",
+      "icon_url": "",
+      "id": "3d0f5f8d-6fb2-42f1-91d4-85b347c05e76",
+      "issued": "2020-07-17T17:49:57.985026",
+      "last_modified": "2020-07-17T00:00:00",
+      "license_id": "CC-BY-4.0",
+      "mimetype": "application/zip",
+      "mimetype_inner": null,
+      "modified": "2020-07-30",
+      "name": "Barrios populares (SHP)",
+      "package_id": "3efa3e4c-93e9-48e9-aac9-ee63c4dae8e2",
+      "position": 0,
+      "resource_type": "file",
+      "revision_id": "0938eb49-1677-496a-ab11-74392725a46f",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/desarrollo-humano-y-habitat/barrios-populares/barrios-populares-badata.zip",
+      "url_type": null
+    },
+    {
+      "accessURL": "",
+      "accessURL_field": "",
+      "attributesDescription": "[{\"title\":\"NOMBRE\",\"description\":\"Denominación oficial según Min de Desarrollo Humano y Hábitat\",\"type\":\"string\"},{\"title\":\"NOM_MAPA\",\"description\":\"Nombre abreviado y utilizado para los Mapas\",\"type\":\"string\"},{\"title\":\"TIPO_ASENT\",\"description\":\"Tipo de registro: Villa, Asentamiento precario, Barrio municipal, Barrio urbanizado, Conjunto habitacional, Núcleo habitacional transitorio. Son categorías definidas según el Ministerio de Desarrollo y Hábitat en Junio de 2020.\",\"type\":\"string\"},{\"title\":\"ALIAS\",\"description\":\"Otros nombres utilizados para denominar a ese registro\",\"type\":\"string\"},{\"title\":\"SUPERFICIE\",\"description\":\"Área que abarca el polígono\",\"type\":\"number\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2020-07-17T17:54:58.577673",
+      "datastore_active": false,
+      "description": "Capa que contiene el registro de los denominados barrios poulares de la Ciudad Autonoma de Buenos Aires. Dichos barrios son considerados las zonas precarias y vulnerables.",
+      "fileName": "barrios_populares_badata_WGS84.geojson",
+      "format": "GeoJSON",
+      "has-uploaded-file": "",
+      "hash": "",
+      "icon_url": "",
+      "id": "599fae27-5cd2-4748-b7e1-09a0f2e147a3",
+      "issued": "2020-07-17T17:54:58.577673",
+      "last_modified": "2020-07-17T00:00:00",
+      "license_id": "CC-BY-4.0",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "modified": "2020-07-30",
+      "name": "Barrios populares (GeoJSON)",
+      "package_id": "3efa3e4c-93e9-48e9-aac9-ee63c4dae8e2",
+      "position": 1,
+      "resource_type": "file",
+      "revision_id": "52c046d3-ce3c-4299-880f-eee5e0b80674",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/desarrollo-humano-y-habitat/barrios-populares/barrios_populares_badata_WGS84.geojson",
+      "url_type": null
+    },
+    {
+      "accessURL": "",
+      "accessURL_field": "",
+      "attributesDescription": "[{\"title\":\"WKT\",\"description\":\" \",\"type\":\"any\"},{\"title\":\"NOMBRE\",\"description\":\"Denominación oficial según Min de Desarrollo Humano y Hábitat\",\"type\":\"string\"},{\"title\":\"NOM_MAPA\",\"description\":\"Nombre abreviado y utilizado para los Mapas\",\"type\":\"string\"},{\"title\":\"TIPO_ASENT\",\"description\":\"Tipo de registro: Villa, Asentamiento precario, Barrio municipal, Barrio urbanizado, Conjunto habitacional, Núcleo habitacional transitorio. Son categorías definidas según el Ministerio de Desarrollo y Hábitat en Junio de 2020.\",\"type\":\"string\"},{\"title\":\"ALIAS\",\"description\":\"Otros nombres utilizados para denominar a ese registro\",\"type\":\"string\"},{\"title\":\"SUPERFICIE\",\"description\":\"Área que abarca el polígono\",\"type\":\"number\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2020-07-17T18:44:52.598246",
+      "datastore_active": false,
+      "description": "Capa que contiene el registro de los denominados barrios poulares de la Ciudad Autonoma de Buenos Aires. Dichos barrios son considerados las zonas precarias y vulnerables.",
+      "fileName": "barrios_populares_badata_WGS84.csv",
+      "format": "CSV",
+      "has-uploaded-file": "",
+      "hash": "",
+      "icon_url": "",
+      "id": "6a854f1d-bee3-451e-9236-45d8646b9e90",
+      "issued": "2020-07-17T18:44:52.598246",
+      "last_modified": "2020-07-17T00:00:00",
+      "license_id": "CC-BY-4.0",
+      "mimetype": "text/csv",
+      "mimetype_inner": null,
+      "modified": "2020-07-30",
+      "name": "Barrios populares",
+      "package_id": "3efa3e4c-93e9-48e9-aac9-ee63c4dae8e2",
+      "position": 2,
+      "resource_type": "file",
+      "revision_id": "b9302eb9-5708-485a-95ed-ef311aeb525b",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/desarrollo-humano-y-habitat/barrios-populares/barrios_populares_badata_WGS84.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "",
+      "accessURL_field": "",
+      "attributesDescription": "[{\"title\":\"ALT_2013\",\"description\":\"Identifica la altura en metros de cada volumen edificado, según la restitución del año 2013.\",\"type\":\"number\"},{\"title\":\"AREA\",\"description\":\"superficie del volumen edificado o envolvente del núcleo habitacional\",\"type\":\"number\"},{\"title\":\"SMP\",\"description\":\"indica la nomenclatura catastral la sección, manzana y parcela de cada volumen edificado o área\",\"type\":\"string\"},{\"title\":\"ALT_2017\",\"description\":\"Identifica la altura en metros de la cada volumen edificado, según la restitución del año 2017\",\"type\":\"number\"},{\"title\":\"EXTR_2017\",\"description\":\"Campo que indica la altura en metros de cada volumen edificado tanto de los volúmenes actualizados y no actualizados.\",\"type\":\"number\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2020-12-22T15:39:43.686276",
+      "datastore_active": false,
+      "description": "La cobertura gráfica correspondiente a la envolvente de los Barrios Populares, realizada a partir de los Vuelos Aerofotogramétricos de 2013 y 2017.",
+      "fileName": "",
+      "format": "ZIP",
+      "has-uploaded-file": "",
+      "hash": "",
+      "icon_url": "",
+      "id": "67784ad2-212c-4275-be08-33d4bd76cb38",
+      "issued": "2020-12-22T15:39:43.686276",
+      "last_modified": "2020-12-22T00:00:00",
+      "license_id": "CC-BY-4.0",
+      "mimetype": "application/zip",
+      "mimetype_inner": null,
+      "modified": "2020-12-22T12:48:48.866734",
+      "name": "Tejido urbanos de los Barrios Populares",
+      "package_id": "3efa3e4c-93e9-48e9-aac9-ee63c4dae8e2",
+      "position": 3,
+      "resource_type": "file",
+      "revision_id": "df329c8e-ec8b-4c05-9883-cc36c15116f3",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/desarrollo-humano-y-habitat/barrios-populares/NHT_2017.zip",
+      "url_type": null
+    }
+  ],
+  "revision_id": "64d44554-a311-40e1-bb05-77a2c5dfd46b",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "asentamientos",
+      "id": "ff28800f-ed6e-457a-927c-8cc002daadb6",
+      "name": "asentamientos",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "barrios",
+      "id": "f5dbf628-7288-43d6-b40a-61a3d0bdd91c",
+      "name": "barrios",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "barrios populares",
+      "id": "9ac5a341-c919-4be4-ada0-24d463df4b77",
+      "name": "barrios populares",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "cur3d",
+      "id": "bf125fc5-008f-4671-b9f1-e3552eb052dd",
+      "name": "cur3d",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "villas",
+      "id": "f7517caa-fc3a-49c7-acb0-3509fd348bf7",
+      "name": "villas",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Barrios Populares",
+  "type": "dataset",
+  "url": "https://data.buenosaires.gob.ar/dataset/barrios-populares",
+  "version": null
+}

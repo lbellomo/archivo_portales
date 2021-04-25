@@ -1,0 +1,168 @@
+{
+  "author": "Ministerio de Cultura. SS de Gestión Cultural. DG de Música",
+  "author_email": "gobiernoabierto@buenosaires.gob.ar",
+  "creator_user_id": "e4546f46-e966-493c-b2f1-57318502c41b",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P6M"
+    },
+    {
+      "key": "issued",
+      "value": "2019-01-08T14:50:20.260446"
+    },
+    {
+      "key": "language",
+      "value": "[\"SPA\"]"
+    },
+    {
+      "key": "modified",
+      "value": "2019-04-23T14:33:13.420168"
+    },
+    {
+      "key": "source",
+      "value": "Ministerio de Cultura. SS de Gestión Cultural. DG de Música"
+    },
+    {
+      "key": "spatial",
+      "value": "02"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"EDUC\"]"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Datasets relacionados con la cultura y el turismo",
+      "display_name": "Cultura y Turismo",
+      "id": "db2c0965-c659-4f94-8de9-41fce10f91a9",
+      "image_display_url": "https://data.buenosaires.gob.ar/uploads/group/2019-11-16-144908.071423cultura.png",
+      "name": "cultura-y-turismo",
+      "title": "Cultura y Turismo"
+    }
+  ],
+  "id": "juqdkmgo-105",
+  "isopen": true,
+  "license_id": "CC-BY-2.5-AR",
+  "license_title": "Atribucion 2.5 Argentina (CC BY 2.5 AR)",
+  "license_url": "https://creativecommons.org/licenses/by/2.5/ar ",
+  "maintainer": "Secretaría General y Relaciones Internacionales. Subsecretaría Gestión Estratégica y Calidad Institucional. Dirección General Calidad Institucional y Gobierno Abierto",
+  "maintainer_email": "gobiernoabierto@buenosaires.gob.ar",
+  "metadata_created": "2019-12-11T18:11:43.451281",
+  "metadata_modified": "2020-12-17T16:15:07.324824",
+  "name": "estudio-urbano",
+  "notes": "Información sobre los cursos de capacitación realizados dentro del programa Estudio Urbano sobre oficios vinculados por la música y las herramientas para la gestión de proyectos artísticos.",
+  "num_resources": 2,
+  "num_tags": 5,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-11-15T19:18:00.924241",
+    "description": "",
+    "id": "247e42eb-6f1b-4c63-8d1a-41794d0ab40d",
+    "image_url": "",
+    "is_organization": true,
+    "name": "ministerio-de-cultura",
+    "revision_id": "6b85d99d-281d-4098-b229-bbf2ac1834d9",
+    "state": "active",
+    "title": "Ministerio de Cultura",
+    "type": "organization"
+  },
+  "owner_org": "247e42eb-6f1b-4c63-8d1a-41794d0ab40d",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/estudio-urbano",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-01-08T14:50:20.260446",
+      "datastore_active": false,
+      "description": "Cursos ofrecidos por la Dirección General de Música a través del Estudio Urbano por cuatrimestre pasado.",
+      "fileName": "cursos-del-estudio-urbano.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "juqdkmgo-1051-resource",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Cursos del Estudio Urbano",
+      "package_id": "juqdkmgo-105",
+      "position": 0,
+      "resource_type": "file",
+      "revision_id": "a4b908a8-59ed-4b7b-a5b8-d55815e0738e",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/estudio-urbano/cursos-del-estudio-urbano.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/estudio-urbano",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-01-08T14:50:20.260446",
+      "datastore_active": false,
+      "description": "Cursos ofrecidos por la Dirección General de Música a través del Estudio Urbano por cuatrimestre pasado.",
+      "fileName": "cursos-del-estudio-urbano.xlsx",
+      "format": "XLSX",
+      "hash": "",
+      "id": "juqdkmgo-1051-resource-xlsx",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Cursos del Estudio Urbano (XLSX)",
+      "package_id": "juqdkmgo-105",
+      "position": 1,
+      "resource_type": "file",
+      "revision_id": "71125db7-30ef-4ebd-bd0d-9896ee6baa69",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/estudio-urbano/cursos-del-estudio-urbano.xlsx",
+      "url_type": null
+    }
+  ],
+  "revision_id": "cdceeae8-2605-4024-afaa-9aeca495bd54",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "capacitación",
+      "id": "1fbaaea3-ffd2-4d0b-a8c0-22ffc221222b",
+      "name": "capacitación",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "cultura",
+      "id": "858c2db7-dc24-4528-befd-726d218675e0",
+      "name": "cultura",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "cultura-recreación",
+      "id": "bad4ecb7-dd8b-4c33-8730-a7f038f13a0f",
+      "name": "cultura-recreación",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "cursos",
+      "id": "9bef05d5-f595-4810-8168-8f5f58942e73",
+      "name": "cursos",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "música",
+      "id": "890d0f84-1862-4c01-9a91-6667f8ab98b7",
+      "name": "música",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Estudio Urbano",
+  "type": "dataset",
+  "url": "https://data.buenosaires.gob.ar/dataset/estudio-urbano",
+  "version": null
+}

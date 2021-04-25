@@ -1,0 +1,221 @@
+{
+  "author": "Ministerio de Salud",
+  "author_email": "datosabiertos@buenosaires.gob.ar",
+  "creator_user_id": "931fac92-738f-4472-b1c1-f5c2f6e46af3",
+  "extras": [
+    {
+      "key": "Documentación",
+      "value": ""
+    },
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P1D"
+    },
+    {
+      "key": "country",
+      "value": "ARG"
+    },
+    {
+      "key": "district",
+      "value": ""
+    },
+    {
+      "key": "home_featured",
+      "value": "false"
+    },
+    {
+      "key": "issued",
+      "value": "2020-07-08T13:34:34.429048"
+    },
+    {
+      "key": "language",
+      "value": "[\"spa\"]"
+    },
+    {
+      "key": "modified",
+      "value": "2021-04-25"
+    },
+    {
+      "key": "province",
+      "value": ""
+    },
+    {
+      "key": "source",
+      "value": "Ministerio de Salud"
+    },
+    {
+      "key": "spatial",
+      "value": "ARG"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"HEAL\"]"
+    },
+    {
+      "key": "temporal",
+      "value": ""
+    }
+  ],
+  "groups": [
+    {
+      "description": "Datasets relacionados a COVID-19",
+      "display_name": "COVID-19",
+      "id": "0f30f631-df60-4d33-aedb-96c9a48a2332",
+      "image_display_url": "https://data.buenosaires.gob.ar/uploads/group/2020-07-23-165939.349779iconocovid19.png",
+      "name": "covid-19",
+      "title": "COVID-19"
+    },
+    {
+      "description": "",
+      "display_name": "Salud",
+      "id": "0be192e9-f1b7-4308-bb9a-f362e2ff44a6",
+      "image_display_url": "https://data.buenosaires.gob.ar/uploads/group/2019-11-16-145030.020776salud.png",
+      "name": "salud",
+      "title": "Salud"
+    }
+  ],
+  "id": "0b191937-1dc4-43c8-83a9-a281a2edbaca",
+  "isopen": true,
+  "license_id": "CC-BY-2.5-AR",
+  "license_title": "Atribucion 2.5 Argentina (CC BY 2.5 AR)",
+  "license_url": "https://creativecommons.org/licenses/by/2.5/ar ",
+  "maintainer": "Gerencia Operativa de Ingeniería de Datos. DG Arquitectura de Datos. SS de Políticas Públicas Basadas en Evidencia. Secretaría de Innovación y Transformación Digital. Jefatura de Gabinete de Ministros",
+  "maintainer_email": "datosabiertos@buenosaires.gob.ar",
+  "metadata_created": "2020-07-08T13:23:00.349793",
+  "metadata_modified": "2021-04-25T04:00:11.318851",
+  "name": "llamados-107-covid",
+  "notes": "Llamados diarios realizados a la línea de emergencias 107 con motivo de la pandemia COVID-19",
+  "num_resources": 2,
+  "num_tags": 6,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-11-15T19:17:04.156344",
+    "description": "",
+    "id": "c055e91b-2714-47e4-b47e-6bb063f32776",
+    "image_url": "",
+    "is_organization": true,
+    "name": "ministerio-de-salud",
+    "revision_id": "b72e4fc3-266f-4a53-bbd7-690b4ccff688",
+    "state": "active",
+    "title": "Ministerio de Salud",
+    "type": "organization"
+  },
+  "owner_org": "c055e91b-2714-47e4-b47e-6bb063f32776",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "",
+      "accessURL_field": "",
+      "attributesDescription": "[{\"title\":\"fecha\",\"description\":\"fecha del contacto\",\"type\":\"date\"},{\"title\":\"covid_llamados\",\"description\":\"cantidad de contactos realizados por covid\",\"type\":\"integer\"},{\"title\":\"casos_sospechosos\",\"description\":\"cantidad de casos sospechosos de covid\",\"type\":\"integer\"},{\"title\":\"casos_descartados\",\"description\":\"cantidad de casos descartados\",\"type\":\"integer\"},{\"title\":\"traslados\",\"description\":\"cantidad de traslados solicitados\",\"type\":\"integer\"},{\"title\":\"derivados\",\"description\":\"cantidad de casos derivados\",\"type\":\"integer\"},{\"title\":\"hospital\",\"description\":\"hospital relacionado al registro\",\"type\":\"integer\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2020-07-14T20:24:42.297691",
+      "datastore_active": false,
+      "description": "Listado con informacion de contactos al SAME en relacion a COVID-19, incluyendo sospechosos, confirmados, derivados y descartados",
+      "fileName": "llamados_107_covid.csv",
+      "format": "CSV",
+      "has-uploaded-file": "",
+      "hash": "",
+      "icon_url": "",
+      "id": "dcab7439-af1b-42e6-bb97-67c0d0c1f8b8",
+      "issued": "2020-07-14T20:24:42.297691",
+      "last_modified": "2020-07-14T00:00:00",
+      "license_id": "CC-BY-4.0",
+      "mimetype": "text/csv",
+      "mimetype_inner": null,
+      "modified": "2021-04-25",
+      "name": "Llamados 107 COVID-19",
+      "package_id": "0b191937-1dc4-43c8-83a9-a281a2edbaca",
+      "position": 0,
+      "resource_type": "file",
+      "revision_id": "dab85175-4476-4efe-9173-c112ecdf7a10",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/salud/llamados-107-covid/llamados_107_covid.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "",
+      "accessURL_field": "",
+      "attributesDescription": "[{\"title\":\"fecha\",\"description\":\"fecha del contacto\",\"type\":\"date\"},{\"title\":\"covid_llamados\",\"description\":\"cantidad de contactos realizados por covid\",\"type\":\"integer\"},{\"title\":\"casos_sospechosos\",\"description\":\"cantidad de casos sospechosos de covid\",\"type\":\"integer\"},{\"title\":\"casos_descartados\",\"description\":\"cantidad de casos descartados\",\"type\":\"integer\"},{\"title\":\"traslados\",\"description\":\"cantidad de traslados solicitados\",\"type\":\"integer\"},{\"title\":\"derivados\",\"description\":\"cantidad de casos derivados\",\"type\":\"integer\"},{\"title\":\"hospital\",\"description\":\"hospital relacionado al registro\",\"type\":\"integer\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2020-07-23T01:00:57.494068",
+      "datastore_active": false,
+      "description": "Listado con informacion de contactos al SAME en relacion a COVID-19, incluyendo sospechosos, confirmados, derivados y descartados",
+      "fileName": "llamados_107_covid.xlsx",
+      "format": "XLSX",
+      "has-uploaded-file": "",
+      "hash": "",
+      "icon_url": "",
+      "id": "c6464d4c-207b-4321-aa9f-5de7587aa7d3",
+      "issued": "2020-07-23T01:00:57.494068",
+      "last_modified": "2020-07-23T00:00:00",
+      "license_id": "CC-BY-4.0",
+      "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "mimetype_inner": null,
+      "modified": "2021-04-25",
+      "name": "Llamados 107 COVID-19 (xlsx)",
+      "package_id": "0b191937-1dc4-43c8-83a9-a281a2edbaca",
+      "position": 1,
+      "resource_type": "file",
+      "revision_id": "02a7f63e-f7cc-4bcf-b6c7-a88e6e787f19",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/salud/llamados-107-covid/llamados_107_covid.xlsx",
+      "url_type": null
+    }
+  ],
+  "revision_id": "c9232e32-c589-4f82-9e9a-e34a2ca8836c",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "107",
+      "id": "6db60a6c-2dfd-4a02-97de-544d1f71a69d",
+      "name": "107",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "COVID-19",
+      "id": "931486a5-526e-433d-a642-4768937b65d8",
+      "name": "COVID-19",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "atencion",
+      "id": "95e0634d-ffa2-4e43-9f76-39530b518870",
+      "name": "atencion",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "coronavirus",
+      "id": "efeebfc4-0eaf-47bc-9d00-435b9c600fa1",
+      "name": "coronavirus",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "llamados",
+      "id": "d273d17e-5bc8-46f9-b145-50e8cc4b2170",
+      "name": "llamados",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "salud",
+      "id": "92c7f3e1-f781-4b82-a933-7408e37b3687",
+      "name": "salud",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Llamados 107 COVID-19",
+  "type": "dataset",
+  "url": "https://data.buenosaires.gob.ar/dataset/llamados-107-covid",
+  "version": null
+}

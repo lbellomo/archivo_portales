@@ -1,0 +1,222 @@
+{
+  "author": "Ministerio de Desarrollo Urbano y Transporte. SS de Movilidad Sustentable y Segura",
+  "author_email": "gobiernoabierto@buenosaires.gob.ar",
+  "creator_user_id": "e4546f46-e966-493c-b2f1-57318502c41b",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P3M"
+    },
+    {
+      "key": "issued",
+      "value": "2019-01-08T15:00:25.059031"
+    },
+    {
+      "key": "language",
+      "value": "[\"SPA\"]"
+    },
+    {
+      "key": "modified",
+      "value": "2019-07-05T15:48:56.471583"
+    },
+    {
+      "key": "source",
+      "value": "Ministerio de Educación e Innovación. Secretaría de Ciencia, Tecnología e Innovación. SS de Ciudad Inteligente y Tecnología Educativa. DG Ciencias de la Información. Unidad de Sistemas de Información Geográfica (USIG)"
+    },
+    {
+      "key": "spatial",
+      "value": "02"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"TRAN\"]"
+    }
+  ],
+  "groups": [
+    {
+      "description": "",
+      "display_name": "Movilidad",
+      "id": "e616e02e-64d8-4fb0-b55d-08e75eb58376",
+      "image_display_url": "https://data.buenosaires.gob.ar/uploads/group/2019-11-16-145017.234366movilidad.png",
+      "name": "movilidad",
+      "title": "Movilidad"
+    }
+  ],
+  "id": "juqdkmgo-24",
+  "isopen": true,
+  "license_id": "CC-BY-2.5-AR",
+  "license_title": "Atribucion 2.5 Argentina (CC BY 2.5 AR)",
+  "license_url": "https://creativecommons.org/licenses/by/2.5/ar ",
+  "maintainer": "Secretaría General y Relaciones Internacionales. Subsecretaría Gestión Estratégica y Calidad Institucional. Dirección General Calidad Institucional y Gobierno Abierto",
+  "maintainer_email": "gobiernoabierto@buenosaires.gob.ar",
+  "metadata_created": "2019-12-11T18:17:21.928409",
+  "metadata_modified": "2020-12-17T15:29:21.657880",
+  "name": "bicicleteros-via-publica",
+  "notes": "Listado con ubicación geográficade los bicicleteros instalados en la Ciudad.",
+  "num_resources": 3,
+  "num_tags": 9,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-11-15T19:19:49.916928",
+    "description": "",
+    "id": "56b60b46-a47c-48fb-9bd4-c2ad0e05fef2",
+    "image_url": "",
+    "is_organization": true,
+    "name": "transporte-y-obras-publicas",
+    "revision_id": "c33c86a3-e197-468f-8b66-5b943b3bf106",
+    "state": "active",
+    "title": "Secretaría de Transporte y Obras Públicas",
+    "type": "organization"
+  },
+  "owner_org": "56b60b46-a47c-48fb-9bd4-c2ad0e05fef2",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/bicicleteros-en-via-publica",
+      "attributesDescription": "[{\"title\": \"id\", \"type\": \"integer\", \"description\": \"N\\u00famero unico de identificaci\\u00f3n\"}, {\"title\": \"latitud\", \"type\": \"string\", \"description\": \"C\\u00f3digo de geolocalizaci\\u00f3n\"}, {\"title\": \"longitud\", \"type\": \"string\", \"description\": \"C\\u00f3digo de geolocalizaci\\u00f3n\"}, {\"title\": \"nombre\", \"type\": \"string\", \"description\": \"Nombre de referencia o lugar donde est\\u00e1 ubicado el\\nbicicletero.\"}, {\"title\": \"anio_de_in\", \"type\": \"integer\", \"description\": \"A\\u00f1o de Instalaci\\u00f3n del Bicicletero\"}, {\"title\": \"tipo\", \"type\": \"string\", \"description\": \"Indica el tipo o formato de Bicicletero\"}, {\"title\": \"cantidad\", \"type\": \"string\", \"description\": \"Cantidad de Bicicleteros colocados\"}, {\"title\": \"ubicacion\", \"type\": \"string\", \"description\": \"Direcci\\u00f3n en la que se encuentra el bicicletero\"}, {\"title\": \"clasificac\", \"type\": \"string\", \"description\": \"Tipo de lugar donde se encuentra el Bicicletero (V\\u00eda p\\u00fablica o\\ninterior del establecimiento).\"}, {\"title\": \"direccion\", \"type\": \"string\", \"description\": \"Direcci\\u00f3n en la que se encuentra el bicicletero\"}, {\"title\": \"calle\", \"type\": \"string\", \"description\": \"Calle en la que se encuentra el Bicicletero\"}, {\"title\": \"altura\", \"type\": \"integer\", \"description\": \"Altura de calle en la que se encuentra el bicicletero.\"}, {\"title\": \"calle2\", \"type\": \"string\", \"description\": \"Calle intersecci\\u00f3n en la que se encuentra el Bicicletero\"}, {\"title\": \"direccion\", \"type\": \"string\", \"description\": \"Direcci\\u00f3n normalizada en la que se encuentra el Bicicletero\"}, {\"title\": \"barrio\", \"type\": \"string\", \"description\": \"Barrio en el que se encuentra el Bicicletero.\"}, {\"title\": \"comuna\", \"type\": \"string\", \"description\": \"Comuna en la que se encuentra el Bicicletero.\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-04-23T17:01:34.391310",
+      "datastore_active": false,
+      "description": "Listado con ubicación geográfica de los bicicleteros instalados en la vía pública.",
+      "fileName": "bicicleteros.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "juqdkmgo-241-resource",
+      "last_modified": "2019-04-23T17:01:34.391310",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Bicicleteros",
+      "package_id": "juqdkmgo-24",
+      "position": 0,
+      "resource_type": "file",
+      "revision_id": "20a9f2a0-612c-4511-b55e-5bee481b51b0",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/bicicleteros-en-via-publica/bicicleteros.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/bicicleteros-en-via-publica",
+      "attributesDescription": "[{\"title\": \"id\", \"type\": \"integer\", \"description\": \"N\\u00famero unico de identificaci\\u00f3n.\"}, {\"title\": \"latitud\", \"type\": \"string\", \"description\": \"C\\u00f3digo de geolocalizaci\\u00f3n\"}, {\"title\": \"longitud\", \"type\": \"string\", \"description\": \"C\\u00f3digo de geolocalizaci\\u00f3n\"}, {\"title\": \"nombre\", \"type\": \"string\", \"description\": \"Nombre de referencia o lugar donde est\\u00e1 ubicado el\\nbicicletero\"}, {\"title\": \"anio_de_in\", \"type\": \"integer\", \"description\": \"A\\u00f1o de Instalaci\\u00f3n del Bicicletero.\"}, {\"title\": \"tipo\", \"type\": \"string\", \"description\": \"Indica el tipo o formato de Bicicletero.\"}, {\"title\": \"cantidad\", \"type\": \"string\", \"description\": \"Cantidad de Bicicleteros colocados.\"}, {\"title\": \"ubicacion\", \"type\": \"string\", \"description\": \"Direcci\\u00f3n en la que se encuentra el bicicletero\"}, {\"title\": \"clasificac\", \"type\": \"string\", \"description\": \"Tipo de lugar donde se encuentra el Bicicletero (V\\u00eda p\\u00fablica o\\ninterior del establecimiento).\"}, {\"title\": \"direccion\", \"type\": \"string\", \"description\": \"Direcci\\u00f3n en la que se encuentra el bicicletero.\"}, {\"title\": \"calle\", \"type\": \"string\", \"description\": \"Calle en la que se encuentra el Bicicletero.\"}, {\"title\": \"altura\", \"type\": \"integer\", \"description\": \"Altura de calle en la que se encuentra el bicicletero.\"}, {\"title\": \"calle2\", \"type\": \"string\", \"description\": \"Calle intersecci\\u00f3n en la que se encuentra el Bicicletero.\"}, {\"title\": \"direccion\", \"type\": \"string\", \"description\": \"Direcci\\u00f3n normalizada en la que se encuentra el Bicicletero.\"}, {\"title\": \"barrio\", \"type\": \"string\", \"description\": \"Barrio en el que se encuentra el Bicicletero.\"}, {\"title\": \"comuna\", \"type\": \"string\", \"description\": \"Comuna en la que se encuentra el Bicicletero.\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-04-23T17:01:45.669714",
+      "datastore_active": false,
+      "description": "Archivo shapefile de los bicicletereos de la Ciudad.",
+      "fileName": "bicicleteros-zip.zip",
+      "format": "ZIP",
+      "hash": "",
+      "id": "juqdkmgo-242-resource",
+      "last_modified": "2019-04-23T17:01:45.669714",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Bicicleteros (SHP)",
+      "package_id": "juqdkmgo-24",
+      "position": 1,
+      "resource_type": "file",
+      "revision_id": "dbb81082-865b-410b-9b8d-f570568e3546",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/bicicleteros-en-via-publica/bicicleteros-zip.zip",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/bicicleteros-en-via-publica",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-04-23T17:01:34.391310",
+      "datastore_active": false,
+      "description": "Listado con ubicación geográfica de los bicicleteros instalados en la vía pública.",
+      "fileName": "bicicleteros.xlsx",
+      "format": "XLSX",
+      "hash": "",
+      "id": "juqdkmgo-241-resource-xlsx",
+      "last_modified": "2019-04-23T17:01:34.391310",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Bicicleteros (XLSX)",
+      "package_id": "juqdkmgo-24",
+      "position": 2,
+      "resource_type": "file",
+      "revision_id": "0c47e3d4-167c-4376-9ca5-d6871838ba17",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/bicicleteros-en-via-publica/bicicleteros.xlsx",
+      "url_type": null
+    }
+  ],
+  "revision_id": "2ee0d221-f881-4d66-adb2-9291ddc2e3f5",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "USIG",
+      "id": "aee9194d-357a-4be9-92dc-231569313d87",
+      "name": "USIG",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "bicicletas",
+      "id": "d1306c12-7770-4de8-88d9-94612421176e",
+      "name": "bicicletas",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "estacionamientos",
+      "id": "24d13a96-9d45-46d0-a528-8f93716100cf",
+      "name": "estacionamientos",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "mapa",
+      "id": "2c83da8e-2e03-47e6-aee4-bb965600000d",
+      "name": "mapa",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "mobiliario-urbano",
+      "id": "5a69a5bd-d924-4a56-a8e8-15d514d0b33f",
+      "name": "mobiliario-urbano",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "movilidad",
+      "id": "6fda14a0-403a-4fd4-bc7f-e5742514badc",
+      "name": "movilidad",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "servicios",
+      "id": "5fd98d91-e466-49b9-9b08-8a43e2068a8b",
+      "name": "servicios",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "transporte",
+      "id": "aff133f8-2f33-4d2c-a531-6d632bd4efbb",
+      "name": "transporte",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "tránsito",
+      "id": "ce981a9c-943f-414e-b531-5810ae74c546",
+      "name": "tránsito",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Bicicleteros en Vía Pública",
+  "type": "dataset",
+  "url": "https://data.buenosaires.gob.ar/dataset/bicicleteros-via-publica",
+  "version": null
+}

@@ -1,0 +1,228 @@
+{
+  "author": "Ministerio de Desarrollo Humano y Hábitat",
+  "author_email": "datosabiertos@buenosaires.gob.ar",
+  "creator_user_id": "5e48167a-a081-4c9d-9f47-6b928bbb899c",
+  "extras": [
+    {
+      "key": "Documentación",
+      "value": ""
+    },
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P1Y"
+    },
+    {
+      "key": "country",
+      "value": "None"
+    },
+    {
+      "key": "district",
+      "value": ""
+    },
+    {
+      "key": "home_featured",
+      "value": "false"
+    },
+    {
+      "key": "issued",
+      "value": "2021-04-09T16:11:51.734657"
+    },
+    {
+      "key": "language",
+      "value": "[]"
+    },
+    {
+      "key": "modified",
+      "value": "2021-04-09"
+    },
+    {
+      "key": "province",
+      "value": ""
+    },
+    {
+      "key": "source",
+      "value": "Subgerencia de Información Geoespacial. DG Ciencias de la Información. SS de Políticas Públicas Basadas en Evidencia. Secretaría de Innovación y Transformación Digital. Jefatura de Gabinete de Ministros"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"GOVE\",\"SOCI\"]"
+    },
+    {
+      "key": "temporal",
+      "value": ""
+    }
+  ],
+  "groups": [
+    {
+      "description": "Datos abiertos relacionados al Desarrollo Humano",
+      "display_name": "Desarrollo Humano",
+      "id": "9d791ab5-130b-4bdb-bebf-b14cf2528781",
+      "image_display_url": "https://data.buenosaires.gob.ar/uploads/group/2020-01-31-175946.842561desarrollo-humano.png",
+      "name": "desarrollo-humano",
+      "title": "Desarrollo Humano"
+    }
+  ],
+  "id": "fab59569-8695-42fe-b10c-b2a78e7fd97d",
+  "isopen": true,
+  "license_id": "CC-BY-4.0",
+  "license_title": "Creative Commons Attribution 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "maintainer": "Gerencia Operativa de Ingeniería de Datos. DG Arquitectura de Datos. SS de Políticas Públicas Basadas en Evidencia. Secretaría de Innovación y Transformación Digital. Jefatura de Gabinete de Ministros",
+  "maintainer_email": "",
+  "metadata_created": "2021-04-09T18:09:24.021958",
+  "metadata_modified": "2021-04-09T19:31:03.468801",
+  "name": "centros-de-accion-familiar",
+  "notes": "Información sobre los centros que promueven el desarrollo integral de niñas, niños y adolescentes mediante su inclusión en espacios institucionales de socialización, a través de talleres participativos culturales, educativos, lúdico-expresivos, recreativos y deportivos, reforzando el rol de la familia en su proceso de desarrollo. Los destinatarios son niñas y niños desde 45 días hasta 12 años de edad, adolescentes, jóvenes y sus familias.",
+  "num_resources": 4,
+  "num_tags": 0,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-11-15T19:18:53.945883",
+    "description": "",
+    "id": "34394b51-682c-472d-8428-7491610d5c06",
+    "image_url": "",
+    "is_organization": true,
+    "name": "ministerio-de-desarrollo-humano-y-habitat",
+    "revision_id": "19f3f41b-56e8-4dc5-a760-eb39818806b2",
+    "state": "active",
+    "title": "Ministerio de Desarrollo Humano y Hábitat",
+    "type": "organization"
+  },
+  "owner_org": "34394b51-682c-472d-8428-7491610d5c06",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "",
+      "accessURL_field": "",
+      "attributesDescription": "[{\"title\":\"WKT\",\"description\":\"WKT\",\"type\":\"string\"},{\"title\":\"id_usig\",\"description\":\"id_usig\",\"type\":\"string\"},{\"title\":\"direccion\",\"description\":\"direccion\",\"type\":\"string\"},{\"title\":\"categoria\",\"description\":\"categoria\",\"type\":\"string\"},{\"title\":\"tipo\",\"description\":\"tipo\",\"type\":\"string\"},{\"title\":\"nombre_org\",\"description\":\"nombre_org\",\"type\":\"string\"},{\"title\":\"nombre\",\"description\":\"nombre\",\"type\":\"string\"},{\"title\":\"telefono\",\"description\":\"telefono\",\"type\":\"string\"},{\"title\":\"mail\",\"description\":\"mail\",\"type\":\"string\"},{\"title\":\"horario\",\"description\":\"horario\",\"type\":\"string\"},{\"title\":\"link_web\",\"description\":\"link_web\",\"type\":\"string\"},{\"title\":\"direccion_\",\"description\":\"direccion_\",\"type\":\"string\"},{\"title\":\"barrio\",\"description\":\"barrio\",\"type\":\"string\"},{\"title\":\"comuna\",\"description\":\"comuna\",\"type\":\"string\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2021-04-09T19:11:57.374591",
+      "datastore_active": false,
+      "description": "Información georreferenciada de los centros, incluida su dirección, tipo de establecimiento y nombre del organismos responsable.",
+      "fileName": "",
+      "format": "CSV",
+      "has-uploaded-file": "",
+      "hash": "",
+      "icon_url": "",
+      "id": "4091fb48-e4dd-4cee-9bd0-9314f73f8323",
+      "issued": "2021-04-09T19:11:57.374591",
+      "last_modified": "2021-04-09T00:00:00",
+      "license_id": "CC-BY-4.0",
+      "mimetype": "text/csv",
+      "mimetype_inner": null,
+      "modified": "2021-04-09T16:30:36.393685",
+      "name": "Centros de acción familiar",
+      "package_id": "fab59569-8695-42fe-b10c-b2a78e7fd97d",
+      "position": 0,
+      "resource_type": "file",
+      "revision_id": "aad4fdc8-66f1-496e-ac69-51d5ab77e833",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/ministerio-de-desarrollo-humano-y-habitat/centros-de-accion-familiar/centros_de_accion_familiar.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "",
+      "accessURL_field": "",
+      "attributesDescription": "[{\"title\":\"WKT\",\"description\":\"WKT\",\"type\":\"string\"},{\"title\":\"id_usig\",\"description\":\"id_usig\",\"type\":\"string\"},{\"title\":\"direccion\",\"description\":\"direccion\",\"type\":\"string\"},{\"title\":\"categoria\",\"description\":\"categoria\",\"type\":\"string\"},{\"title\":\"tipo\",\"description\":\"tipo\",\"type\":\"string\"},{\"title\":\"nombre_org\",\"description\":\"nombre_org\",\"type\":\"string\"},{\"title\":\"nombre\",\"description\":\"nombre\",\"type\":\"string\"},{\"title\":\"telefono\",\"description\":\"telefono\",\"type\":\"string\"},{\"title\":\"mail\",\"description\":\"mail\",\"type\":\"string\"},{\"title\":\"horario\",\"description\":\"horario\",\"type\":\"string\"},{\"title\":\"link_web\",\"description\":\"link_web\",\"type\":\"string\"},{\"title\":\"direccion_\",\"description\":\"direccion_\",\"type\":\"string\"},{\"title\":\"barrio\",\"description\":\"barrio\",\"type\":\"string\"},{\"title\":\"comuna\",\"description\":\"comuna\",\"type\":\"string\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2021-04-09T19:11:59.336366",
+      "datastore_active": false,
+      "description": "Información georreferenciada de los centros, incluida su dirección, tipo de establecimiento y nombre del organismos responsable.",
+      "fileName": "",
+      "format": "GeoJSON",
+      "has-uploaded-file": "",
+      "hash": "",
+      "icon_url": "",
+      "id": "6d48233f-8594-4571-ad3e-9ea2ab8f77c4",
+      "issued": "2021-04-09T19:11:59.336366",
+      "last_modified": "2021-04-09T00:00:00",
+      "license_id": "CC-BY-4.0",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "modified": "2021-04-09T16:30:46.125957",
+      "name": "Centros de acción familiar (GEOJSON)",
+      "package_id": "fab59569-8695-42fe-b10c-b2a78e7fd97d",
+      "position": 1,
+      "resource_type": "file",
+      "revision_id": "9e7365bc-7d08-4cde-801a-56a2e3f32e03",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/ministerio-de-desarrollo-humano-y-habitat/centros-de-accion-familiar/centros_de_accion_familiar.geojson",
+      "url_type": null
+    },
+    {
+      "accessURL": "",
+      "accessURL_field": "",
+      "attributesDescription": "[{\"title\":\"WKT\",\"description\":\"WKT\",\"type\":\"string\"},{\"title\":\"id_usig\",\"description\":\"id_usig\",\"type\":\"string\"},{\"title\":\"direccion\",\"description\":\"direccion\",\"type\":\"string\"},{\"title\":\"categoria\",\"description\":\"categoria\",\"type\":\"string\"},{\"title\":\"tipo\",\"description\":\"tipo\",\"type\":\"string\"},{\"title\":\"nombre_org\",\"description\":\"nombre_org\",\"type\":\"string\"},{\"title\":\"nombre\",\"description\":\"nombre\",\"type\":\"string\"},{\"title\":\"telefono\",\"description\":\"telefono\",\"type\":\"string\"},{\"title\":\"mail\",\"description\":\"mail\",\"type\":\"string\"},{\"title\":\"horario\",\"description\":\"horario\",\"type\":\"string\"},{\"title\":\"link_web\",\"description\":\"link_web\",\"type\":\"string\"},{\"title\":\"direccion_\",\"description\":\"direccion_\",\"type\":\"string\"},{\"title\":\"barrio\",\"description\":\"barrio\",\"type\":\"string\"},{\"title\":\"comuna\",\"description\":\"comuna\",\"type\":\"string\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2021-04-09T19:12:00.278368",
+      "datastore_active": false,
+      "description": "Información georreferenciada de los centros, incluida su dirección, tipo de establecimiento y nombre del organismos responsable.",
+      "fileName": "",
+      "format": "XLSX",
+      "has-uploaded-file": "",
+      "hash": "",
+      "icon_url": "",
+      "id": "d012f00d-441d-4df0-a268-85e5468a9b0b",
+      "issued": "2021-04-09T19:12:00.278368",
+      "last_modified": "2021-04-09T00:00:00",
+      "license_id": "CC-BY-4.0",
+      "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "mimetype_inner": null,
+      "modified": "2021-04-09T16:30:54.834190",
+      "name": "Centros de acción familiar (XLSX)",
+      "package_id": "fab59569-8695-42fe-b10c-b2a78e7fd97d",
+      "position": 2,
+      "resource_type": "file",
+      "revision_id": "1611ad8d-ab34-4628-8e5d-8b7c18a8c74e",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/ministerio-de-desarrollo-humano-y-habitat/centros-de-accion-familiar/centros_de_accion_familiar.xlsx",
+      "url_type": null
+    },
+    {
+      "accessURL": "",
+      "accessURL_field": "",
+      "attributesDescription": "[{\"title\":\"WKT\",\"description\":\"WKT\",\"type\":\"string\"},{\"title\":\"id_usig\",\"description\":\"id_usig\",\"type\":\"string\"},{\"title\":\"direccion\",\"description\":\"direccion\",\"type\":\"string\"},{\"title\":\"categoria\",\"description\":\"categoria\",\"type\":\"string\"},{\"title\":\"tipo\",\"description\":\"tipo\",\"type\":\"string\"},{\"title\":\"nombre_org\",\"description\":\"nombre_org\",\"type\":\"string\"},{\"title\":\"nombre\",\"description\":\"nombre\",\"type\":\"string\"},{\"title\":\"telefono\",\"description\":\"telefono\",\"type\":\"string\"},{\"title\":\"mail\",\"description\":\"mail\",\"type\":\"string\"},{\"title\":\"horario\",\"description\":\"horario\",\"type\":\"string\"},{\"title\":\"link_web\",\"description\":\"link_web\",\"type\":\"string\"},{\"title\":\"direccion_\",\"description\":\"direccion_\",\"type\":\"string\"},{\"title\":\"barrio\",\"description\":\"barrio\",\"type\":\"string\"},{\"title\":\"comuna\",\"description\":\"comuna\",\"type\":\"string\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2021-04-09T19:12:02.155948",
+      "datastore_active": false,
+      "description": "Información georreferenciada de los centros, incluida su dirección, tipo de establecimiento y nombre del organismos responsable.",
+      "fileName": "",
+      "format": "ZIP",
+      "has-uploaded-file": "",
+      "hash": "",
+      "icon_url": "",
+      "id": "bc44fd76-897d-46dd-8126-1fe156c703e5",
+      "issued": "2021-04-09T19:12:02.155948",
+      "last_modified": "2021-04-09T00:00:00",
+      "license_id": "CC-BY-4.0",
+      "mimetype": "application/zip",
+      "mimetype_inner": null,
+      "modified": "2021-04-09T16:31:03.447968",
+      "name": "Centros de acción familiar",
+      "package_id": "fab59569-8695-42fe-b10c-b2a78e7fd97d",
+      "position": 3,
+      "resource_type": "file",
+      "revision_id": "c6c369d0-4d52-41a8-8f75-b774d3ffeb74",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/ministerio-de-desarrollo-humano-y-habitat/centros-de-accion-familiar/centros_de_accion_familiar.zip",
+      "url_type": null
+    }
+  ],
+  "revision_id": "1f32e6fe-629b-4182-aff2-1edf0a3d29eb",
+  "state": "active",
+  "tags": [],
+  "title": "Centros de acción familiar",
+  "type": "dataset",
+  "url": "https://data.buenosaires.gob.ar/dataset/centros-de-accion-familiar",
+  "version": null
+}

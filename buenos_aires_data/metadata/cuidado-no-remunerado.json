@@ -1,0 +1,284 @@
+{
+  "author": "Ministerio de Economía y Finanzas. Dirección General de Estadística y Censos",
+  "author_email": "datosabiertos@buenosaires.gob.ar",
+  "creator_user_id": "e4546f46-e966-493c-b2f1-57318502c41b",
+  "extras": [
+    {
+      "key": "Documentación",
+      "value": ""
+    },
+    {
+      "key": "accrualPeriodicity",
+      "value": "eventual"
+    },
+    {
+      "key": "country",
+      "value": "None"
+    },
+    {
+      "key": "district",
+      "value": ""
+    },
+    {
+      "key": "home_featured",
+      "value": "false"
+    },
+    {
+      "key": "issued",
+      "value": "2019-04-08T18:26:33.422939"
+    },
+    {
+      "key": "language",
+      "value": "[]"
+    },
+    {
+      "key": "modified",
+      "value": "2021-02-26T17:41:34.378813"
+    },
+    {
+      "key": "province",
+      "value": ""
+    },
+    {
+      "key": "source",
+      "value": "Ministerio de Economía y Finanzas. Dirección General de Estadística y Censos"
+    },
+    {
+      "key": "spatial",
+      "value": "None"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"ECON\",\"SOCI\"]"
+    },
+    {
+      "key": "temporal",
+      "value": ""
+    }
+  ],
+  "groups": [
+    {
+      "description": "",
+      "display_name": "Género",
+      "id": "3d97d3f5-206f-4719-8a06-54c709a25893",
+      "image_display_url": "https://data.buenosaires.gob.ar/uploads/group/2019-11-19-182128.307764genero720.png",
+      "name": "genero",
+      "title": "Género"
+    }
+  ],
+  "id": "06f7b677-ea1d-4fed-b69e-30a3adce4e06",
+  "isopen": true,
+  "license_id": "CC-BY-2.5-AR",
+  "license_title": "Atribucion 2.5 Argentina (CC BY 2.5 AR)",
+  "license_url": "https://creativecommons.org/licenses/by/2.5/ar ",
+  "maintainer": "Secretaría General y Relaciones Internacionales. Subsecretaría Gestión Estratégica y Calidad Institucional. Dirección General Calidad Institucional y Gobierno Abierto",
+  "maintainer_email": "datosabiertos@buenosaires.gob.ar",
+  "metadata_created": "2019-12-11T18:25:40.804175",
+  "metadata_modified": "2021-02-26T20:41:34.565303",
+  "name": "cuidado-no-remunerado",
+  "notes": "Estadísticas sobre cantidad de horas destinadas a actividades de cuidado no remunerado la población de la Ciudad de Buenos Aires",
+  "num_resources": 6,
+  "num_tags": 4,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-11-15T19:18:36.747317",
+    "description": "",
+    "id": "800664f9-ab56-4482-a6c8-0a1d316bf35b",
+    "image_url": "",
+    "is_organization": true,
+    "name": "direccion-general-de-estadisticas-y-censos",
+    "revision_id": "62a8b16c-0849-419d-a339-8e14d1b4a010",
+    "state": "active",
+    "title": "Dirección General de Estadísticas y Censos",
+    "type": "organization"
+  },
+  "owner_org": "800664f9-ab56-4482-a6c8-0a1d316bf35b",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/06f7b677-ea1d-4fed-b69e-30a3adce4e06/resource/52b1697d-37e5-46df-9b75-f82ef4d14192",
+      "attributesDescription": "[{\"title\": \"anio\", \"type\": \"integer\", \"description\": \"A\\u00f1o de la observaci\\u00f3n\"}, {\"title\": \"sexo\", \"type\": \"string\", \"description\": \"Sexo de la observaci\\u00f3n\"}, {\"title\": \"grupo_edad\", \"type\": \"string\", \"description\": \"Grupo de edad de la observaci\\u00f3n\"}, {\"title\": \"promedio_hs_diarias\", \"type\": \"string\", \"description\": \"Promedio de horas diarias de la observaci\\u00f3n\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-04-22T10:53:54.750652",
+      "datastore_active": false,
+      "description": "Cantidad de horas diarias promedio que las personas declaran dedicar a actividades de cuidado no remunerado según grupo de edad",
+      "fileName": "prom_t_simul_cuid_16_sexo__annio__g_edad_limpio.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "52b1697d-37e5-46df-9b75-f82ef4d14192",
+      "last_modified": "2019-04-22T10:53:54.750652",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Actividades de cuidado no remunerado según grupo de edad",
+      "package_id": "06f7b677-ea1d-4fed-b69e-30a3adce4e06",
+      "position": 0,
+      "resource_type": "file",
+      "revision_id": "0c7ea371-68b4-4a03-85ac-60f0062cd2e9",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/SIGBA/Cuidado_no_remunerado/prom_t_simul_cuid_16_sexo__annio__g_edad_limpio.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/06f7b677-ea1d-4fed-b69e-30a3adce4e06/resource/33a049bb-5211-476f-9b0b-9b42cef8cea1",
+      "attributesDescription": "[{\"title\": \"anio\", \"type\": \"integer\", \"description\": \"A\\u00f1o de la observaci\\u00f3n\"}, {\"title\": \"sexo\", \"type\": \"string\", \"description\": \"Sexo de la observaci\\u00f3n\"}, {\"title\": \"nivel_instruccion\", \"type\": \"string\", \"description\": \"Nivel de instrucci\\u00f3n de la observaci\\u00f3n\"}, {\"title\": \"promedio_hs_diarias\", \"description\": \"Promedio de horas diarias de la observaci\\u00f3n\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-04-10T14:28:14.007163",
+      "datastore_active": false,
+      "description": "Cantidad de horas diarias promedio que las personas declaran dedicar a actividades de cuidado no remunerado según nivel de instrucción",
+      "fileName": "prom_t_simul_cuid_16_sexo__annio__n_instruc_limpio.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "33a049bb-5211-476f-9b0b-9b42cef8cea1",
+      "last_modified": "2019-04-10T14:28:14.007163",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Actividades de cuidado no remunerado según nivel de instrucción",
+      "package_id": "06f7b677-ea1d-4fed-b69e-30a3adce4e06",
+      "position": 1,
+      "resource_type": "file",
+      "revision_id": "8af2123e-4f06-4be4-b5f6-2ff58f5aea09",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/SIGBA/Cuidado_no_remunerado/prom_t_simul_cuid_16_sexo__annio__n_instruc_limpio.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/06f7b677-ea1d-4fed-b69e-30a3adce4e06/resource/bc904883-098a-4258-948d-4e415aea5519",
+      "attributesDescription": "[{\"title\": \"anio\", \"type\": \"integer\", \"description\": \"A\\u00f1o de la observaci\\u00f3n\"}, {\"title\": \"sexo\", \"type\": \"string\", \"description\": \"Sexo de la observaci\\u00f3n\"}, {\"title\": \"quintil_ing_familiar\", \"type\": \"string\", \"description\": \"Quintil de ingreso familiar de la observaci\\u00f3n\"}, {\"title\": \"promedio_hs_diarias\", \"type\": \"string\", \"description\": \"Promedio de horas diarias de la observaci\\u00f3n\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-04-10T14:31:18.525972",
+      "datastore_active": false,
+      "description": "Cantidad de horas diarias promedio que las personas declaran dedicar a actividades de cuidado no remunerado según quintil de ingreso familiar",
+      "fileName": "prom_t_simul_cuid_16_sexo__annio__quin_ingr_fliar_limpio.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "bc904883-098a-4258-948d-4e415aea5519",
+      "last_modified": "2019-04-10T14:31:18.525972",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Actividades de cuidado no remunerado según quintil de ingreso familiar",
+      "package_id": "06f7b677-ea1d-4fed-b69e-30a3adce4e06",
+      "position": 2,
+      "resource_type": "file",
+      "revision_id": "b3e0cd9f-12df-457e-b869-950595e418c2",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/SIGBA/Cuidado_no_remunerado/prom_t_simul_cuid_16_sexo__annio__quin_ingr_fliar_limpio.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/06f7b677-ea1d-4fed-b69e-30a3adce4e06/resource/52b1697d-37e5-46df-9b75-f82ef4d14192",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-04-22T10:53:54.750652",
+      "datastore_active": false,
+      "description": "Cantidad de horas diarias promedio que las personas declaran dedicar a actividades de cuidado no remunerado según grupo de edad",
+      "fileName": "prom_t_simul_cuid_16_sexo__annio__g_edad_limpio.xlsx",
+      "format": "XLSX",
+      "hash": "",
+      "id": "52b1697d-37e5-46df-9b75-f82ef4d14192-xlsx",
+      "last_modified": "2019-04-22T10:53:54.750652",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Actividades de cuidado no remunerado según grupo de edad  (XLSX)",
+      "package_id": "06f7b677-ea1d-4fed-b69e-30a3adce4e06",
+      "position": 3,
+      "resource_type": "file",
+      "revision_id": "bf570239-2332-4d6e-9457-0b3763c525f1",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/SIGBA/Cuidado_no_remunerado/prom_t_simul_cuid_16_sexo__annio__g_edad_limpio.xlsx",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/06f7b677-ea1d-4fed-b69e-30a3adce4e06/resource/33a049bb-5211-476f-9b0b-9b42cef8cea1",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-04-10T14:28:14.007163",
+      "datastore_active": false,
+      "description": "Cantidad de horas diarias promedio que las personas declaran dedicar a actividades de cuidado no remunerado según nivel de instrucción",
+      "fileName": "prom_t_simul_cuid_16_sexo__annio__n_instruc_limpio.xlsx",
+      "format": "XLSX",
+      "hash": "",
+      "id": "33a049bb-5211-476f-9b0b-9b42cef8cea1-xlsx",
+      "last_modified": "2019-04-10T14:28:14.007163",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Actividades de cuidado no remunerado según nivel de instrucción (XLSX)",
+      "package_id": "06f7b677-ea1d-4fed-b69e-30a3adce4e06",
+      "position": 4,
+      "resource_type": "file",
+      "revision_id": "971baef9-42b7-4b91-9cf8-b18405774479",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/SIGBA/Cuidado_no_remunerado/prom_t_simul_cuid_16_sexo__annio__n_instruc_limpio.xlsx",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/06f7b677-ea1d-4fed-b69e-30a3adce4e06/resource/bc904883-098a-4258-948d-4e415aea5519",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-04-10T14:31:18.525972",
+      "datastore_active": false,
+      "description": "Cantidad de horas diarias promedio que las personas declaran dedicar a actividades de cuidado no remunerado según quintil de ingreso familiar",
+      "fileName": "prom_t_simul_cuid_16_sexo__annio__quin_ingr_fliar_limpio.xlsx",
+      "format": "XLSX",
+      "hash": "",
+      "id": "bc904883-098a-4258-948d-4e415aea5519-xlsx",
+      "last_modified": "2019-04-10T14:31:18.525972",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Actividades de cuidado no remunerado según quintil de ingreso familiar (XLSX)",
+      "package_id": "06f7b677-ea1d-4fed-b69e-30a3adce4e06",
+      "position": 5,
+      "resource_type": "file",
+      "revision_id": "98074c94-46b5-4bb0-afe3-aa2f0a399a12",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/SIGBA/Cuidado_no_remunerado/prom_t_simul_cuid_16_sexo__annio__quin_ingr_fliar_limpio.xlsx",
+      "url_type": null
+    }
+  ],
+  "revision_id": "7f623534-a2a8-46b9-b78c-9a116350e5fa",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "actividades-domésticas",
+      "id": "29876a84-e6ea-4c76-bb56-e5fa6d778173",
+      "name": "actividades-domésticas",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "cuidado",
+      "id": "0b8ae100-6376-4110-9391-bf434f59c2a4",
+      "name": "cuidado",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "trabajo no remunerado",
+      "id": "8ddfeefb-21aa-4da3-a148-d6c06964582f",
+      "name": "trabajo no remunerado",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "trabajos de cuidado",
+      "id": "97bd9c47-1afc-41b0-b2fe-ef48097eaeb0",
+      "name": "trabajos de cuidado",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Cuidado no remunerado",
+  "type": "dataset",
+  "url": "https://data.buenosaires.gob.ar/dataset/cuidado-no-remunerado",
+  "version": null
+}

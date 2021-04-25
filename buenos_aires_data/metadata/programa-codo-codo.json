@@ -1,0 +1,235 @@
+{
+  "author": "Ministerio de Economía y Finanzas. Dirección General de Estadística y Censos",
+  "author_email": "datosabiertos@buenosaires.gob.ar",
+  "creator_user_id": "e4546f46-e966-493c-b2f1-57318502c41b",
+  "extras": [
+    {
+      "key": "Documentación",
+      "value": ""
+    },
+    {
+      "key": "accrualPeriodicity",
+      "value": "eventual"
+    },
+    {
+      "key": "country",
+      "value": "None"
+    },
+    {
+      "key": "district",
+      "value": ""
+    },
+    {
+      "key": "home_featured",
+      "value": "false"
+    },
+    {
+      "key": "issued",
+      "value": "2019-04-22T11:47:48.172761"
+    },
+    {
+      "key": "language",
+      "value": "[]"
+    },
+    {
+      "key": "modified",
+      "value": "2021-03-05T11:49:13.249632"
+    },
+    {
+      "key": "province",
+      "value": ""
+    },
+    {
+      "key": "source",
+      "value": "Ministerio de Economía y Finanzas. Dirección General de Estadística y Censos"
+    },
+    {
+      "key": "spatial",
+      "value": "None"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"EDUC\",\"GOVE\"]"
+    },
+    {
+      "key": "temporal",
+      "value": ""
+    }
+  ],
+  "groups": [
+    {
+      "description": "",
+      "display_name": "Género",
+      "id": "3d97d3f5-206f-4719-8a06-54c709a25893",
+      "image_display_url": "https://data.buenosaires.gob.ar/uploads/group/2019-11-19-182128.307764genero720.png",
+      "name": "genero",
+      "title": "Género"
+    }
+  ],
+  "id": "0a42abb4-cf80-4d67-ab21-78772f1ad26d",
+  "isopen": true,
+  "license_id": "CC-BY-2.5-AR",
+  "license_title": "Atribucion 2.5 Argentina (CC BY 2.5 AR)",
+  "license_url": "https://creativecommons.org/licenses/by/2.5/ar ",
+  "maintainer": "Secretaría General y Relaciones Internacionales. Subsecretaría Gestión Estratégica y Calidad Institucional. Dirección General Calidad Institucional y Gobierno Abierto",
+  "maintainer_email": "datosabiertos@buenosaires.gob.ar",
+  "metadata_created": "2019-12-11T18:24:04.804079",
+  "metadata_modified": "2021-03-05T14:49:13.262874",
+  "name": "programa-codo-codo",
+  "notes": "Información sobre cantidad de asistentes al programa \"Codo a Codo\" de los Ministerios de Educación y Modernización de la Ciudad de Buenos Aires",
+  "num_resources": 4,
+  "num_tags": 4,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-11-15T19:18:36.747317",
+    "description": "",
+    "id": "800664f9-ab56-4482-a6c8-0a1d316bf35b",
+    "image_url": "",
+    "is_organization": true,
+    "name": "direccion-general-de-estadisticas-y-censos",
+    "revision_id": "62a8b16c-0849-419d-a339-8e14d1b4a010",
+    "state": "active",
+    "title": "Dirección General de Estadísticas y Censos",
+    "type": "organization"
+  },
+  "owner_org": "800664f9-ab56-4482-a6c8-0a1d316bf35b",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/0a42abb4-cf80-4d67-ab21-78772f1ad26d/resource/97c0f87e-61a9-4989-8b75-03589eff7267",
+      "attributesDescription": "[{\"title\": \"anio\", \"type\": \"integer\", \"description\": \"A\\u00f1o de la observaci\\u00f3n\"}, {\"title\": \"sexo\", \"type\": \"string\", \"description\": \"Sexo de la observaci\\u00f3n\"}, {\"title\": \"cant_personas\", \"type\": \"integer\", \"description\": \"Cantidad de personas de la observaci\\u00f3n\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-04-11T14:41:08.229379",
+      "datastore_active": false,
+      "description": "Cantidad de vecinos mujeres y varones, asistentes en el programa \"Codo a Codo\"",
+      "fileName": "prog_cac_sexo__annio_limpio.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "97c0f87e-61a9-4989-8b75-03589eff7267",
+      "last_modified": "2019-04-11T14:41:08.229379",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Asistentes al programa \"Codo a Codo\"",
+      "package_id": "0a42abb4-cf80-4d67-ab21-78772f1ad26d",
+      "position": 0,
+      "resource_type": "file",
+      "revision_id": "1541a496-e44b-4111-8e91-75adea202470",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/SIGBA/Programa_Codo_a_Codo/prog_cac_sexo__annio_limpio.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/0a42abb4-cf80-4d67-ab21-78772f1ad26d/resource/19215cf1-e54e-44f3-a86e-c0e2449fa346",
+      "attributesDescription": "[{\"title\": \"anio\", \"type\": \"integer\", \"description\": \"A\\u00f1o de la observaci\\u00f3n\"}, {\"title\": \"indice_femenidad\", \"type\": \"number\", \"description\": \"Indice de feminidad de la observaci\\u00f3n\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-04-11T14:43:15.798170",
+      "datastore_active": false,
+      "description": "Número de mujeres, por cada 100 varones, asistentes en el programa \"Codo a Codo\"",
+      "fileName": "ind_fem_cac_annio_limpio.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "19215cf1-e54e-44f3-a86e-c0e2449fa346",
+      "last_modified": "2019-04-11T14:43:15.798170",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Mujeres asistentes al programa \"Codo a Codo\"",
+      "package_id": "0a42abb4-cf80-4d67-ab21-78772f1ad26d",
+      "position": 1,
+      "resource_type": "file",
+      "revision_id": "6aafd54c-b6a3-4935-9270-5624614f6a90",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/SIGBA/Programa_Codo_a_Codo/ind_fem_cac_annio_limpio.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/0a42abb4-cf80-4d67-ab21-78772f1ad26d/resource/97c0f87e-61a9-4989-8b75-03589eff7267",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-04-11T14:41:08.229379",
+      "datastore_active": false,
+      "description": "Cantidad de vecinos mujeres y varones, asistentes en el programa \"Codo a Codo\"",
+      "fileName": "prog_cac_sexo__annio_limpio.xlsx",
+      "format": "XLSX",
+      "hash": "",
+      "id": "97c0f87e-61a9-4989-8b75-03589eff7267-xlsx",
+      "last_modified": "2019-04-11T14:41:08.229379",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Asistentes al programa \"Codo a Codo\" (XLSX)",
+      "package_id": "0a42abb4-cf80-4d67-ab21-78772f1ad26d",
+      "position": 2,
+      "resource_type": "file",
+      "revision_id": "5d8a3fe2-b1d4-4c5e-81b1-6f023d1b3c94",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/SIGBA/Programa_Codo_a_Codo/prog_cac_sexo__annio_limpio.xlsx",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/0a42abb4-cf80-4d67-ab21-78772f1ad26d/resource/19215cf1-e54e-44f3-a86e-c0e2449fa346",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-04-11T14:43:15.798170",
+      "datastore_active": false,
+      "description": "Número de mujeres, por cada 100 varones, asistentes en el programa \"Codo a Codo\"",
+      "fileName": "ind_fem_cac_annio_limpio.xlsx",
+      "format": "XLSX",
+      "hash": "",
+      "id": "19215cf1-e54e-44f3-a86e-c0e2449fa346-xlsx",
+      "last_modified": "2019-04-11T14:43:15.798170",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Mujeres asistentes al programa \"Codo a Codo\" (XLSX)",
+      "package_id": "0a42abb4-cf80-4d67-ab21-78772f1ad26d",
+      "position": 3,
+      "resource_type": "file",
+      "revision_id": "89ceeb07-2579-49df-8189-172da6d2862c",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/SIGBA/Programa_Codo_a_Codo/ind_fem_cac_annio_limpio.xlsx",
+      "url_type": null
+    }
+  ],
+  "revision_id": "12ac50ca-247e-41c2-a5d8-6ede2f13ece9",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "capacitación",
+      "id": "1fbaaea3-ffd2-4d0b-a8c0-22ffc221222b",
+      "name": "capacitación",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "cursos",
+      "id": "9bef05d5-f595-4810-8168-8f5f58942e73",
+      "name": "cursos",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "educación",
+      "id": "a9032209-2807-4797-98a8-640d053d0064",
+      "name": "educación",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "programación",
+      "id": "0b15bb25-c601-4aea-ad9f-991aa1aa6273",
+      "name": "programación",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Programa Codo a Codo",
+  "type": "dataset",
+  "url": "https://data.buenosaires.gob.ar/dataset/programa-codo-a-codo",
+  "version": null
+}

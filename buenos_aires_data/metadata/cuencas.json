@@ -1,0 +1,274 @@
+{
+  "author": "Secretaría de Desarrollo Urbano. Jefatura de Gabinete de Ministros",
+  "author_email": "gobiernoabierto@buenosaires.gob.ar",
+  "creator_user_id": "e4546f46-e966-493c-b2f1-57318502c41b",
+  "extras": [
+    {
+      "key": "Documentación",
+      "value": ""
+    },
+    {
+      "key": "accrualPeriodicity",
+      "value": "eventual"
+    },
+    {
+      "key": "country",
+      "value": "None"
+    },
+    {
+      "key": "district",
+      "value": ""
+    },
+    {
+      "key": "home_featured",
+      "value": "false"
+    },
+    {
+      "key": "issued",
+      "value": "2019-05-28T12:00:00.288149"
+    },
+    {
+      "key": "language",
+      "value": "[]"
+    },
+    {
+      "key": "modified",
+      "value": "2020-12-11T13:32:55.567021"
+    },
+    {
+      "key": "province",
+      "value": ""
+    },
+    {
+      "key": "source",
+      "value": "Secretaría de Desarrollo Urbano. Jefatura de Gabinete de Ministros"
+    },
+    {
+      "key": "spatial",
+      "value": "None"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"ENVI\",\"REGI\"]"
+    },
+    {
+      "key": "temporal",
+      "value": ""
+    }
+  ],
+  "groups": [
+    {
+      "description": "",
+      "display_name": "Medioambiente",
+      "id": "a99c1197-8379-4a60-a6eb-8737cab5ec4f",
+      "image_display_url": "https://data.buenosaires.gob.ar/uploads/group/2019-11-16-145003.550663medioambiente.png",
+      "name": "medioambiente",
+      "title": "Medioambiente"
+    },
+    {
+      "description": "Datasets relacionados con urbanismo y territorio",
+      "display_name": "Urbanismo y Territorio",
+      "id": "63e162a0-3f4a-446a-a60b-601d16f36200",
+      "image_display_url": "https://data.buenosaires.gob.ar/uploads/group/2019-11-16-145056.781692urba.png",
+      "name": "urbanismo-y-territorio",
+      "title": "Urbanismo y Territorio"
+    }
+  ],
+  "id": "b15e3296-cf8f-4dfd-be23-904d46bd3470",
+  "isopen": true,
+  "license_id": "CC-BY-2.5-AR",
+  "license_title": "Atribucion 2.5 Argentina (CC BY 2.5 AR)",
+  "license_url": "https://creativecommons.org/licenses/by/2.5/ar ",
+  "maintainer": "Subgerencia de Información Geoespacial. DG Ciencias de la Información. SS de Políticas Públicas Basadas en Evidencia. Secretaría de Innovación y Transformación Digital. Jefatura de Gabinete de Ministros",
+  "maintainer_email": "gobiernoabierto@buenosaires.gob.ar",
+  "metadata_created": "2019-12-11T18:13:50.372276",
+  "metadata_modified": "2020-12-17T16:00:34.731556",
+  "name": "cuencas",
+  "notes": "Delimitación de las Cuencas que atraviesan la Ciudad Autónoma de Buenos Aires.",
+  "num_resources": 3,
+  "num_tags": 12,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-11-15T19:19:23.733985",
+    "description": "",
+    "id": "eddbd148-4cef-40e1-87f7-94345c709aad",
+    "image_url": "",
+    "is_organization": true,
+    "name": "secretaria-de-desarrollo-urbano",
+    "revision_id": "14b2ab11-275f-4466-b2f4-4b60ff08fa3e",
+    "state": "active",
+    "title": "Secretaría de Desarrollo Urbano",
+    "type": "organization"
+  },
+  "owner_org": "eddbd148-4cef-40e1-87f7-94345c709aad",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/b15e3296-cf8f-4dfd-be23-904d46bd3470/resource/6f44817c-3dbe-438d-bdee-b4fdf9364519",
+      "attributesDescription": "[{\"title\": \"wkt\", \"type\": \"string\", \"description\": \"WKT de los pol\\u00edgonos con las delimitaciones de las cuencas\"}, {\"title\": \"nombre\", \"type\": \"string\", \"description\": \"Nombre de la cuenca\"}, {\"title\": \"area_ha\", \"type\": \"number\", \"description\": \"Tama\\u00f1o en hect\\u00e1reas de la cuenca\"}, {\"title\": \"objeto\", \"type\": \"string\", \"description\": \"Tipo de objeto\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-05-28T12:02:05.911579",
+      "datastore_active": false,
+      "description": "Listado con las delimitaciones de las cuencas de la Ciudad. Incluye wkt, área y nombre.",
+      "fileName": "cuencas.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "6f44817c-3dbe-438d-bdee-b4fdf9364519",
+      "last_modified": "2019-05-28T12:02:05.911579",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Cuencas",
+      "package_id": "b15e3296-cf8f-4dfd-be23-904d46bd3470",
+      "position": 0,
+      "resource_type": "file",
+      "revision_id": "5f49aabd-2886-4c3a-8e41-1c537a2ee8b2",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/cuencas/cuencas.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/b15e3296-cf8f-4dfd-be23-904d46bd3470/resource/3beb2019-ee27-4ae4-ac6b-911f932037b9",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-05-28T12:02:45.452081",
+      "datastore_active": false,
+      "description": "Archivo shapefile con las cuencas de la Ciudad.",
+      "fileName": "cuencas.zip",
+      "format": "ZIP",
+      "hash": "",
+      "id": "3beb2019-ee27-4ae4-ac6b-911f932037b9",
+      "last_modified": "2019-05-28T12:02:45.452081",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Cuencas (SHP)",
+      "package_id": "b15e3296-cf8f-4dfd-be23-904d46bd3470",
+      "position": 1,
+      "resource_type": "file",
+      "revision_id": "0fa9a494-249d-4e4e-86b4-1a447198374b",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/cuencas/cuencas.zip",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/b15e3296-cf8f-4dfd-be23-904d46bd3470/resource/6f44817c-3dbe-438d-bdee-b4fdf9364519",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-05-28T12:02:05.911579",
+      "datastore_active": false,
+      "description": "Listado con las delimitaciones de las cuencas de la Ciudad. Incluye wkt, área y nombre.",
+      "fileName": "cuencas.xlsx",
+      "format": "XLSX",
+      "hash": "",
+      "id": "6f44817c-3dbe-438d-bdee-b4fdf9364519-xlsx",
+      "last_modified": "2019-05-28T12:02:05.911579",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Cuencas (XLSX)",
+      "package_id": "b15e3296-cf8f-4dfd-be23-904d46bd3470",
+      "position": 2,
+      "resource_type": "file",
+      "revision_id": "1cb321f3-47e2-4f6d-953e-95da3caddd8e",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/cuencas/cuencas.xlsx",
+      "url_type": null
+    }
+  ],
+  "revision_id": "f93f3fc9-6a5c-4a08-bb3b-2fb484e5f94e",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "arroyos",
+      "id": "91ce16a2-c894-4055-bdfe-ab123d62d0b2",
+      "name": "arroyos",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "atmósfera",
+      "id": "ba77b7ba-5a1b-4c01-843f-419e8f357c00",
+      "name": "atmósfera",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "biomas",
+      "id": "16b7ddfd-1507-47d7-97ae-1042d3ae3622",
+      "name": "biomas",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "cuencas",
+      "id": "7807b2ca-79f2-4c8a-811b-8cd6345f4b80",
+      "name": "cuencas",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "desagües",
+      "id": "5ed74997-dbdc-47a9-901d-59fc7fdb7cb4",
+      "name": "desagües",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "geografía",
+      "id": "e6394f96-7794-4ec8-bb46-3894de556557",
+      "name": "geografía",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "geología",
+      "id": "33ff338b-a82a-4b77-beda-c44fba819b65",
+      "name": "geología",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "hidrología",
+      "id": "87794260-c6df-4bef-9bdd-3c5b79574783",
+      "name": "hidrología",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "hidráulica",
+      "id": "8c3d5178-f534-4c88-ad72-93469d6103f7",
+      "name": "hidráulica",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "hidráulico",
+      "id": "5b94a59a-a1d1-4000-afca-cf25e19b758b",
+      "name": "hidráulico",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "planeamiento urbano",
+      "id": "a3ee4868-8eaa-4f12-9ed4-34d518fcea24",
+      "name": "planeamiento urbano",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "ríos",
+      "id": "706b9b8b-a53b-4b70-96ef-4e59ee03952a",
+      "name": "ríos",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Cuencas",
+  "type": "dataset",
+  "url": "https://data.buenosaires.gob.ar/dataset/cuencas",
+  "version": null
+}

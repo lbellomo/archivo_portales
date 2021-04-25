@@ -1,0 +1,185 @@
+{
+  "author": "Ministerio de Economía y Finanzas. SS Gestión de Recursos Humanos. DG de Administración de Bienes. DO de Patrimonio Inmobiliario",
+  "author_email": "gobiernoabierto@buenosaires.gob.ar",
+  "creator_user_id": "e4546f46-e966-493c-b2f1-57318502c41b",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P1Y"
+    },
+    {
+      "key": "issued",
+      "value": "2019-01-08T14:55:59.478484"
+    },
+    {
+      "key": "language",
+      "value": "[\"SPA\"]"
+    },
+    {
+      "key": "modified",
+      "value": "2019-04-23T15:19:30.186834"
+    },
+    {
+      "key": "source",
+      "value": "Ministerio de Educación e Innovación. Secretaría de Ciencia, Tecnología e Innovación. SS de Ciudad Inteligente y Tecnología Educativa. DG Ciencias de la Información. Unidad de Sistemas de Información Geográfica (USIG)"
+    },
+    {
+      "key": "spatial",
+      "value": "02"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"GOVE\"]"
+    }
+  ],
+  "groups": [
+    {
+      "description": "",
+      "display_name": "Administración Pública",
+      "id": "8cb134a8-90ea-4e69-a96d-c03449917dc9",
+      "image_display_url": "https://data.buenosaires.gob.ar/uploads/group/2019-11-16-144810.360383adminpublica.png",
+      "name": "administracion-publica",
+      "title": "Administración Pública"
+    }
+  ],
+  "id": "juqdkmgo-77",
+  "isopen": true,
+  "license_id": "CC-BY-2.5-AR",
+  "license_title": "Atribucion 2.5 Argentina (CC BY 2.5 AR)",
+  "license_url": "https://creativecommons.org/licenses/by/2.5/ar ",
+  "maintainer": "Secretaría General y Relaciones Internacionales. Subsecretaría Gestión Estratégica y Calidad Institucional. Dirección General Calidad Institucional y Gobierno Abierto",
+  "maintainer_email": "gobiernoabierto@buenosaires.gob.ar",
+  "metadata_created": "2019-12-11T18:21:11.303837",
+  "metadata_modified": "2020-12-17T16:06:03.821105",
+  "name": "edificios-publicos",
+  "notes": "Listado con ubicación geográfica de los edificios destinados al Gobierno de la Ciudad de Buenos Aires.",
+  "num_resources": 3,
+  "num_tags": 4,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-11-15T19:19:36.584582",
+    "description": "",
+    "id": "6627a918-f475-43bb-b167-11de01ae62df",
+    "image_url": "",
+    "is_organization": true,
+    "name": "ministerio-de-economia-y-finanzas",
+    "revision_id": "57d30234-7d4b-4b19-a2fa-1a57afc0e03b",
+    "state": "active",
+    "title": "Ministerio de Hacienda y Finanzas",
+    "type": "organization"
+  },
+  "owner_org": "6627a918-f475-43bb-b167-11de01ae62df",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/edificios-publicos-del-gcba",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-01-08T14:55:59.478484",
+      "datastore_active": false,
+      "description": "Bienes inmuebles dominio de la Ciudad Autónoma de Buenos Aires o alquilados que están siendo utilizados como dependencias públicas del Gobierno de la Ciudad.",
+      "fileName": "edificios-publicos-del-gcba.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "juqdkmgo-771-resource",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Edificios Publicos del GCBA",
+      "package_id": "juqdkmgo-77",
+      "position": 0,
+      "resource_type": "file",
+      "revision_id": "1677d5f2-2053-4a6c-9445-8371df24d729",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/edificios-publicos-del-gcba/edificios-publicos-del-gcba.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/edificios-publicos-del-gcba",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-01-08T14:55:59.478484",
+      "datastore_active": false,
+      "description": "Archivo shapefile de los edificios públicos del Gobierno de la Ciudad de Buenos Aires.",
+      "fileName": "edificios-publicos-del-gcba-zip.zip",
+      "format": "ZIP",
+      "hash": "",
+      "id": "juqdkmgo-772-resource",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Edificios Publicos del GCBA (SHP)",
+      "package_id": "juqdkmgo-77",
+      "position": 1,
+      "resource_type": "file",
+      "revision_id": "4f486a72-e75a-4a6d-8141-78f811ec9b4e",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/edificios-publicos-del-gcba/edificios-publicos-del-gcba-zip.zip",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/edificios-publicos-del-gcba",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-01-08T14:55:59.478484",
+      "datastore_active": false,
+      "description": "Bienes inmuebles dominio de la Ciudad Autónoma de Buenos Aires o alquilados que están siendo utilizados como dependencias públicas del Gobierno de la Ciudad.",
+      "fileName": "edificios-publicos-del-gcba.xlsx",
+      "format": "XLSX",
+      "hash": "",
+      "id": "juqdkmgo-771-resource-xlsx",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Edificios Publicos del GCBA (XLSX)",
+      "package_id": "juqdkmgo-77",
+      "position": 2,
+      "resource_type": "file",
+      "revision_id": "b70702dd-a945-4e53-ad84-8db3d116c90f",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/edificios-publicos-del-gcba/edificios-publicos-del-gcba.xlsx",
+      "url_type": null
+    }
+  ],
+  "revision_id": "9d3ec688-5409-4d85-a162-1723bd56683d",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "mapa",
+      "id": "2c83da8e-2e03-47e6-aee4-bb965600000d",
+      "name": "mapa",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "sedes",
+      "id": "d5a9204e-f632-4048-9083-ce5f37d22f14",
+      "name": "sedes",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "transparencia",
+      "id": "c76a2fc9-7271-4068-ab0e-27c83cab96e1",
+      "name": "transparencia",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "urbanismo",
+      "id": "17ac67e7-699b-470d-b0dd-5b8752c1fb73",
+      "name": "urbanismo",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Edificios Públicos",
+  "type": "dataset",
+  "url": "https://data.buenosaires.gob.ar/dataset/edificios-publicos",
+  "version": null
+}

@@ -1,0 +1,242 @@
+{
+  "author": "Secretaría de Transporte y Obras Públicas. Jefatura de Gabinete de Ministros",
+  "author_email": "gobiernoabierto@buenosaires.gob.ar",
+  "creator_user_id": "e4546f46-e966-493c-b2f1-57318502c41b",
+  "extras": [
+    {
+      "key": "Documentación",
+      "value": ""
+    },
+    {
+      "key": "accrualPeriodicity",
+      "value": "eventual"
+    },
+    {
+      "key": "country",
+      "value": "None"
+    },
+    {
+      "key": "district",
+      "value": ""
+    },
+    {
+      "key": "home_featured",
+      "value": "false"
+    },
+    {
+      "key": "issued",
+      "value": "2019-09-13T17:41:03.416817"
+    },
+    {
+      "key": "language",
+      "value": "[]"
+    },
+    {
+      "key": "modified",
+      "value": "2020-12-04T14:27:54.538507"
+    },
+    {
+      "key": "province",
+      "value": ""
+    },
+    {
+      "key": "source",
+      "value": "Secretaría de Transporte y Obras Públicas. Jefatura de Gabinete de Ministros"
+    },
+    {
+      "key": "spatial",
+      "value": "None"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"REGI\",\"TRAN\"]"
+    },
+    {
+      "key": "temporal",
+      "value": ""
+    }
+  ],
+  "groups": [
+    {
+      "description": "",
+      "display_name": "Movilidad",
+      "id": "e616e02e-64d8-4fb0-b55d-08e75eb58376",
+      "image_display_url": "https://data.buenosaires.gob.ar/uploads/group/2019-11-16-145017.234366movilidad.png",
+      "name": "movilidad",
+      "title": "Movilidad"
+    },
+    {
+      "description": "Datasets relacionados con urbanismo y territorio",
+      "display_name": "Urbanismo y Territorio",
+      "id": "63e162a0-3f4a-446a-a60b-601d16f36200",
+      "image_display_url": "https://data.buenosaires.gob.ar/uploads/group/2019-11-16-145056.781692urba.png",
+      "name": "urbanismo-y-territorio",
+      "title": "Urbanismo y Territorio"
+    }
+  ],
+  "id": "0e946339-6e20-4e20-b499-339b1fbd5466",
+  "isopen": true,
+  "license_id": "CC-BY-2.5-AR",
+  "license_title": "Atribucion 2.5 Argentina (CC BY 2.5 AR)",
+  "license_url": "https://creativecommons.org/licenses/by/2.5/ar ",
+  "maintainer": "Subgerencia de Información Geoespacial. DG Ciencias de la Información. SS de Políticas Públicas Basadas en Evidencia. Secretaría de Innovación y Transformación Digital. Jefatura de Gabinete de Ministros",
+  "maintainer_email": "gobiernoabierto@buenosaires.gob.ar",
+  "metadata_created": "2019-12-11T18:16:51.151857",
+  "metadata_modified": "2020-12-17T15:36:27.171558",
+  "name": "cajones-para-estacionamiento-motos",
+  "notes": "Ubicación de los cajones para el estacionamiento de motos en la vía pública en la Ciudad.",
+  "num_resources": 4,
+  "num_tags": 4,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-11-15T19:19:49.916928",
+    "description": "",
+    "id": "56b60b46-a47c-48fb-9bd4-c2ad0e05fef2",
+    "image_url": "",
+    "is_organization": true,
+    "name": "transporte-y-obras-publicas",
+    "revision_id": "c33c86a3-e197-468f-8b66-5b943b3bf106",
+    "state": "active",
+    "title": "Secretaría de Transporte y Obras Públicas",
+    "type": "organization"
+  },
+  "owner_org": "56b60b46-a47c-48fb-9bd4-c2ad0e05fef2",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/0e946339-6e20-4e20-b499-339b1fbd5466/resource/ed6961f5-6470-4085-9400-b3bca8f45576",
+      "attributesDescription": "[{\"title\": \"long\", \"type\": \"string\", \"description\": \"Longitud del par de coordenadas\"}, {\"title\": \"lat\", \"type\": \"string\", \"description\": \"Latitud del par de coordenadas\"}, {\"title\": \"calle\", \"type\": \"string\", \"description\": \"Calle donde se ubica el caj\\u00f3n\"}, {\"title\": \"altura\", \"type\": \"integer\", \"description\": \"Altura de la calle donde se ubica el caj\\u00f3n\"}, {\"title\": \"barrio\", \"type\": \"string\", \"description\": \"Barrio donde se ubica el caj\\u00f3n\"}, {\"title\": \"comuna\", \"type\": \"string\", \"description\": \"Comuna donde se ubica el caj\\u00f3n\"}, {\"title\": \"codigo_postal\", \"type\": \"integer\", \"description\": \"C\\u00f3digo postal correspondiente a la ubicaci\\u00f3n del caj\\u00f3n\"}, {\"title\": \"codigo_postal_argentino\", \"type\": \"string\", \"description\": \"C\\u00f3digo postal argentino correspondiente a la ubicaci\\u00f3n del caj\\u00f3n\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-09-13T17:46:15.421585",
+      "datastore_active": false,
+      "description": "Ubicación de los cajones para estacionamiento de motos en la Ciudad. Incluye su información geográfica.",
+      "fileName": "cajones-para-estacionamiento-de-motos.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "ed6961f5-6470-4085-9400-b3bca8f45576",
+      "last_modified": "2019-09-13T17:46:15.421585",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Cajones para Estacionamiento de Motos",
+      "package_id": "0e946339-6e20-4e20-b499-339b1fbd5466",
+      "position": 0,
+      "resource_type": "file",
+      "revision_id": "3a7b5d30-f27d-46fe-b714-1beba6fdf03f",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/cajones-para-estacionamiento-de-motos/cajones-para-estacionamiento-de-motos.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/0e946339-6e20-4e20-b499-339b1fbd5466/resource/13231ff7-773c-43de-9bf0-99245cdc3fcd",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-09-13T17:47:02.981334",
+      "datastore_active": false,
+      "description": "Archivo shapefile de los cajones para estacionamiento de motos",
+      "fileName": "cajones-para-estacionamiento-de-motos.zip",
+      "format": "ZIP",
+      "hash": "",
+      "id": "13231ff7-773c-43de-9bf0-99245cdc3fcd",
+      "last_modified": "2019-09-13T17:47:02.981334",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Cajones para estacionamiento de Motos",
+      "package_id": "0e946339-6e20-4e20-b499-339b1fbd5466",
+      "position": 1,
+      "resource_type": "file",
+      "revision_id": "413a95df-7da4-43ba-85d5-6f91f8bedf0e",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/cajones-para-estacionamiento-de-motos/cajones-para-estacionamiento-de-motos.zip",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/0e946339-6e20-4e20-b499-339b1fbd5466/resource/d274f460-debe-4253-b663-7e69976abb4d",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-09-13T17:48:02.391225",
+      "datastore_active": false,
+      "description": "Archivo GeoJSON correspondiente a los Cajones para Estacionamiento de Motos.",
+      "fileName": "cajones-para-estacionamiento-de-motos.geojson",
+      "format": "GeoJSON",
+      "hash": "",
+      "id": "d274f460-debe-4253-b663-7e69976abb4d",
+      "last_modified": "2019-09-13T17:48:02.391225",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Cajones para Estacionamiento de Motos (GeoJSON)",
+      "package_id": "0e946339-6e20-4e20-b499-339b1fbd5466",
+      "position": 2,
+      "resource_type": "file",
+      "revision_id": "c9ac96dc-dfe7-495c-a85a-815591985c94",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/cajones-para-estacionamiento-de-motos/cajones-para-estacionamiento-de-motos.geojson",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/0e946339-6e20-4e20-b499-339b1fbd5466/resource/ed6961f5-6470-4085-9400-b3bca8f45576",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-09-13T17:46:15.421585",
+      "datastore_active": false,
+      "description": "Ubicación de los cajones para estacionamiento de motos en la Ciudad. Incluye su información geográfica.",
+      "fileName": "cajones-para-estacionamiento-de-motos.xlsx",
+      "format": "XLSX",
+      "hash": "",
+      "id": "ed6961f5-6470-4085-9400-b3bca8f45576-xlsx",
+      "last_modified": "2019-09-13T17:46:15.421585",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Cajones para Estacionamiento de Motos (XLSX)",
+      "package_id": "0e946339-6e20-4e20-b499-339b1fbd5466",
+      "position": 3,
+      "resource_type": "file",
+      "revision_id": "b9af64bd-91c5-4d0a-9e4b-5da01a3ec5e8",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/cajones-para-estacionamiento-de-motos/cajones-para-estacionamiento-de-motos.xlsx",
+      "url_type": null
+    }
+  ],
+  "revision_id": "c311882b-6d2d-49a7-a408-578a80d64b24",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "cajones",
+      "id": "703a2923-fd4e-4a47-a8d2-6aadbfc022c4",
+      "name": "cajones",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "estacionamiento",
+      "id": "61e4ecc8-7f9c-404a-963a-0b1240a8be36",
+      "name": "estacionamiento",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "movilidad",
+      "id": "6fda14a0-403a-4fd4-bc7f-e5742514badc",
+      "name": "movilidad",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "movilidad-transporte",
+      "id": "d0b6b57a-fca8-4bfc-b51e-814936533def",
+      "name": "movilidad-transporte",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Cajones para estacionamiento de motos",
+  "type": "dataset",
+  "url": "https://data.buenosaires.gob.ar/dataset/cajones-para-estacionamiento-de-motos",
+  "version": null
+}

@@ -1,0 +1,230 @@
+{
+  "author": "Ministerio de Educación e Innovación. Secretaría de Ciencia, Tecnología e Innovación. SS de Ciudad Inteligente. DG Gobierno Digital y Sensorización",
+  "author_email": "gobiernoabierto@buenosaires.gob.ar",
+  "creator_user_id": "e4546f46-e966-493c-b2f1-57318502c41b",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P1M"
+    },
+    {
+      "key": "issued",
+      "value": "2019-01-08T14:56:27.436239"
+    },
+    {
+      "key": "language",
+      "value": "[\"SPA\"]"
+    },
+    {
+      "key": "modified",
+      "value": "2019-04-23T15:25:22.117637"
+    },
+    {
+      "key": "source",
+      "value": "Ministerio de Educación e Innovación. Secretaría de Ciencia, Tecnología e Innovación. SS de Ciudad Inteligente. DG Gobierno Digital y Sensorización"
+    },
+    {
+      "key": "spatial",
+      "value": "02"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"GOVE\"]"
+    }
+  ],
+  "groups": [
+    {
+      "description": "",
+      "display_name": "Administración Pública",
+      "id": "8cb134a8-90ea-4e69-a96d-c03449917dc9",
+      "image_display_url": "https://data.buenosaires.gob.ar/uploads/group/2019-11-16-144810.360383adminpublica.png",
+      "name": "administracion-publica",
+      "title": "Administración Pública"
+    }
+  ],
+  "id": "juqdkmgo-73",
+  "isopen": true,
+  "license_id": "CC-BY-2.5-AR",
+  "license_title": "Atribucion 2.5 Argentina (CC BY 2.5 AR)",
+  "license_url": "https://creativecommons.org/licenses/by/2.5/ar ",
+  "maintainer": "Secretaría General y Relaciones Internacionales. Subsecretaría Gestión Estratégica y Calidad Institucional. Dirección General Calidad Institucional y Gobierno Abierto",
+  "maintainer_email": "gobiernoabierto@buenosaires.gob.ar",
+  "metadata_created": "2019-12-11T18:27:46.151528",
+  "metadata_modified": "2020-12-17T16:04:09.993681",
+  "name": "descargas-aplicaciones",
+  "notes": "Cantidad de descargas de las aplicaciones oficiales del Gobierno de la Ciudad según el sistema operativo utilizado.",
+  "num_resources": 4,
+  "num_tags": 7,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-11-15T19:18:19.762924",
+    "description": "",
+    "id": "da366597-5061-4955-9ca6-e93785956e0e",
+    "image_url": "",
+    "is_organization": true,
+    "name": "ministerio-de-educacion",
+    "revision_id": "1b6c27ee-7324-4554-a172-3d2f068e290a",
+    "state": "active",
+    "title": "Ministerio de Educación",
+    "type": "organization"
+  },
+  "owner_org": "da366597-5061-4955-9ca6-e93785956e0e",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/descargas-de-aplicaciones",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-01-08T14:56:27.436239",
+      "datastore_active": false,
+      "description": "Cantidad de descargas de las aplicaciones oficiales del Gobierno de la Ciudad según el sistema operativo utilizado.",
+      "fileName": "descargas-de-aplicaciones.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "juqdkmgo-731-resource",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Descargas de Aplicaciones",
+      "package_id": "juqdkmgo-73",
+      "position": 0,
+      "resource_type": "file",
+      "revision_id": "f18a2b87-e7d9-4827-9b5e-ecf74cb76cc8",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/descargas-de-aplicaciones/descargas-de-aplicaciones.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/descargas-de-aplicaciones",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-01-08T14:56:27.436239",
+      "datastore_active": false,
+      "description": "Cantidad de descargas de aplicaciones del GCBA por sistema operativo y dispositivo.",
+      "fileName": "descargas-de-aplicaciones-por-dispositivo.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "juqdkmgo-732-resource",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Descargas de Aplicaciones por Dispositivo",
+      "package_id": "juqdkmgo-73",
+      "position": 1,
+      "resource_type": "file",
+      "revision_id": "ccdafdcc-6c94-41b9-9c7d-6fcd6b2f0331",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/descargas-de-aplicaciones/descargas-de-aplicaciones-por-dispositivo.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/descargas-de-aplicaciones",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-01-08T14:56:27.436239",
+      "datastore_active": false,
+      "description": "Cantidad de descargas de las aplicaciones oficiales del Gobierno de la Ciudad según el sistema operativo utilizado.",
+      "fileName": "descargas-de-aplicaciones.xlsx",
+      "format": "XLSX",
+      "hash": "",
+      "id": "juqdkmgo-731-resource-xlsx",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Descargas de Aplicaciones (XLSX)",
+      "package_id": "juqdkmgo-73",
+      "position": 2,
+      "resource_type": "file",
+      "revision_id": "8b163853-1bd5-4224-8968-6654bd2084e3",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/descargas-de-aplicaciones/descargas-de-aplicaciones.xlsx",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/descargas-de-aplicaciones",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-01-08T14:56:27.436239",
+      "datastore_active": false,
+      "description": "Cantidad de descargas de aplicaciones del GCBA por sistema operativo y dispositivo.",
+      "fileName": "descargas-de-aplicaciones-por-dispositivo.xlsx",
+      "format": "XLSX",
+      "hash": "",
+      "id": "juqdkmgo-732-resource-xlsx",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Descargas de Aplicaciones por Dispositivo (XLSX)",
+      "package_id": "juqdkmgo-73",
+      "position": 3,
+      "resource_type": "file",
+      "revision_id": "734e940a-6bb6-4460-9997-786de4f79ff1",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/descargas-de-aplicaciones/descargas-de-aplicaciones-por-dispositivo.xlsx",
+      "url_type": null
+    }
+  ],
+  "revision_id": "7b289bd4-a8c4-46a4-9ac3-67c203e676a4",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "android",
+      "id": "4eb3ae02-da81-4c2a-ba7f-0f4b13f456d4",
+      "name": "android",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "aplicaciones",
+      "id": "174c5592-497c-472e-bc0f-e277ee50613e",
+      "name": "aplicaciones",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "app",
+      "id": "1ca13b50-8d0a-491e-83db-62ac55c29520",
+      "name": "app",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "blackberry",
+      "id": "3377c338-d98c-44dc-97ba-57e16ecd5faf",
+      "name": "blackberry",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "descargas",
+      "id": "3e8aeb06-4d2c-4911-926f-2914ee64f688",
+      "name": "descargas",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "oficiales",
+      "id": "75972beb-df70-4d2c-a48c-23f036a34cac",
+      "name": "oficiales",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "windows-phone",
+      "id": "bd521c8b-1be2-4d0e-8d1b-7bc58d9c32a5",
+      "name": "windows-phone",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Descargas de Aplicaciones",
+  "type": "dataset",
+  "url": "https://data.buenosaires.gob.ar/dataset/descargas-aplicaciones",
+  "version": null
+}

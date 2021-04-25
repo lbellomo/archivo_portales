@@ -1,0 +1,268 @@
+{
+  "author": "Jefatura de Gabinete de Ministros. Secretaria de Transporte y Obras Públicas",
+  "author_email": "gobiernoabierto@buenosaires.gob.ar",
+  "creator_user_id": "e4546f46-e966-493c-b2f1-57318502c41b",
+  "extras": [
+    {
+      "key": "Documentación",
+      "value": ""
+    },
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P3M"
+    },
+    {
+      "key": "country",
+      "value": "None"
+    },
+    {
+      "key": "district",
+      "value": ""
+    },
+    {
+      "key": "home_featured",
+      "value": "false"
+    },
+    {
+      "key": "issued",
+      "value": "2019-01-08T15:00:31.546559"
+    },
+    {
+      "key": "language",
+      "value": "[]"
+    },
+    {
+      "key": "modified",
+      "value": "2020-10-28T14:56:42.657984"
+    },
+    {
+      "key": "province",
+      "value": ""
+    },
+    {
+      "key": "source",
+      "value": "Ministerio de Educación e Innovación. Secretaría de Ciencia, Tecnología e Innovación. SS de Ciudad Inteligente y Tecnología Educativa. DG Ciencias de la Información. Unidad de Sistemas de Información Geográfica (USIG)"
+    },
+    {
+      "key": "spatial",
+      "value": "None"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"TRAN\"]"
+    },
+    {
+      "key": "temporal",
+      "value": ""
+    }
+  ],
+  "groups": [
+    {
+      "description": "",
+      "display_name": "Movilidad",
+      "id": "e616e02e-64d8-4fb0-b55d-08e75eb58376",
+      "image_display_url": "https://data.buenosaires.gob.ar/uploads/group/2019-11-16-145017.234366movilidad.png",
+      "name": "movilidad",
+      "title": "Movilidad"
+    }
+  ],
+  "id": "juqdkmgo-50",
+  "isopen": true,
+  "license_id": "CC-BY-2.5-AR",
+  "license_title": "Atribucion 2.5 Argentina (CC BY 2.5 AR)",
+  "license_url": "https://creativecommons.org/licenses/by/2.5/ar ",
+  "maintainer": "Secretaría General y Relaciones Internacionales. Subsecretaría Gestión Estratégica y Calidad Institucional. Dirección General Calidad Institucional y Gobierno Abierto",
+  "maintainer_email": "gobiernoabierto@buenosaires.gob.ar",
+  "metadata_created": "2019-12-11T18:17:19.404684",
+  "metadata_modified": "2020-10-28T17:56:42.672093",
+  "name": "ciclovias",
+  "notes": "Referencia geográfica de las ciclovías de la Ciudad",
+  "num_resources": 4,
+  "num_tags": 5,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-11-15T19:19:49.916928",
+    "description": "",
+    "id": "56b60b46-a47c-48fb-9bd4-c2ad0e05fef2",
+    "image_url": "",
+    "is_organization": true,
+    "name": "transporte-y-obras-publicas",
+    "revision_id": "c33c86a3-e197-468f-8b66-5b943b3bf106",
+    "state": "active",
+    "title": "Secretaría de Transporte y Obras Públicas",
+    "type": "organization"
+  },
+  "owner_org": "56b60b46-a47c-48fb-9bd4-c2ad0e05fef2",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "",
+      "accessURL_field": "",
+      "attributesDescription": "[{\"title\":\"id\",\"description\":\"Identificador único de cada registro\",\"type\":\"integer\"},{\"title\":\"CODIGO\",\"description\":\"Código de cada calle\",\"type\":\"integer\"},{\"title\":\"NOMOFICIAL\",\"description\":\"Nombre de calle según Boletín Oficial\",\"type\":\"string\"},{\"title\":\"ALT_IZQINI\",\"description\":\"Altura de calle inicial a mano izquierda\",\"type\":\"integer\"},{\"title\":\"ALT_IZQFIN\",\"description\":\"Altura de calle final a mano izquierda\",\"type\":\"integer\"},{\"title\":\"ALT_DERINI\",\"description\":\"Altura de calle inicial a mano derecha\",\"type\":\"integer\"},{\"title\":\"ALT_DERFIN\",\"description\":\"Altura de calle final a mano derecha\",\"type\":\"integer\"},{\"title\":\"NOMANTER\",\"description\":\"Nombre anterior de la calle\",\"type\":\"string\"},{\"title\":\"TIPO_C\",\"description\":\"Tipo de arteria: calle, avenida, peatonal, etc.\",\"type\":\"string\"},{\"title\":\"OBSERVA\",\"description\":\"Observaciones particulares de cada calle.\",\"type\":\"string\"},{\"title\":\"LONG\",\"description\":\"Largo de la calle.\",\"type\":\"integer\"},{\"title\":\"NOM_MAPA\",\"description\":\"Nombre de la calle acotado, para el etiquetado de mapas.\",\"type\":\"string\"},{\"title\":\"SENTIDO\",\"description\":\"Sentido de tránsito de la calle (Doble, Creciente, Decreciente, Peatonal)\",\"type\":\"string\"},{\"title\":\"COD_SENT\",\"description\":\"Código numérico asignado a la calle según su sentido.\",\"type\":\"integer\"},{\"title\":\"BICISENDA\",\"description\":\"Tipo de senda. ciclovía, en obra, proyectada,  bicisenda, puesta en valor o carril preferencial. (Aclaración: la categoría Bicisenda representa los tramos de la misma que son preexistentes a esta Gestión pero que no son tenidos en cuenta por la misma, a diferencia de las Bicisendas Preexistentes, que sí son tenidas en cuenta)En Enero de 2018 se agregó la categoría Interrumpida opr Obras para diferenciar Ciclovías existentes terminadas que están interrumpidas o inutilizables por otro tipo de obra.\",\"type\":\"string\"},{\"title\":\"LADO_CICLO\",\"description\":\"Mano en que se encuentra la Ciclovía (derecha o izquierda)\",\"type\":\"string\"},{\"title\":\"RECORRIDO_X\",\"description\":\"Calle o vereda, según corresponda\",\"type\":\"string\"},{\"title\":\"CICLO_OBSE\",\"description\":\"Observaciones. Se agregó en Noviembre de 2016 a este campo el dato y momento de Construcción de la Ciclovía. Fuente Moviidad Sustentable.\",\"type\":\"string\"},{\"title\":\"TOOLTIP_BI\",\"description\":\"Nombre para el etiquetado.\",\"type\":\"string\"},{\"title\":\"RED_JERARQ\",\"description\":\" \",\"type\":\"string\"},{\"title\":\"RED_TP\",\"description\":\"Indica si pertenece ese sector a la Red de Tránsito Pesado\",\"type\":\"string\"},{\"title\":\"COMUNA\",\"description\":\"Comuna a la que pertenece cada eje de calles.\",\"type\":\"integer\"},{\"title\":\"COM_PAR\",\"description\":\"En ejes de calles que comparten comunas, se corresponde con el lado izquierdo de la calle, siguiendo el sentido creciente de las alturas.\",\"type\":\"integer\"},{\"title\":\"COM_IMPAR\",\"description\":\"En ejes de calles que comparten comunas, se corresponde con el lado derecho de la calle, siguiendo el sentido creciente de las alturas.\",\"type\":\"integer\"},{\"title\":\"BARRIO\",\"description\":\"Barrio al que pertenece cada eje de calles.\",\"type\":\"string\"},{\"title\":\"BARRIO_PAR\",\"description\":\"En ejes de calles que comparten barrios, se corresponde con el lado izquierdo de la calle, siguiendo el sentido creciente de las alturas.\",\"type\":\"string\"},{\"title\":\"BARRIO_IMPAR\",\"description\":\"En ejes de calles que comparten comunas, se corresponde con el lado derecho de la calle, siguiendo el sentido creciente de las alturas.\",\"type\":\"string\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2020-09-03T18:14:35.716262",
+      "datastore_active": false,
+      "description": "Referencia geografica de las ciclovias.",
+      "fileName": "ciclovias.xlsx",
+      "format": "XLSX",
+      "has-uploaded-file": "",
+      "hash": "",
+      "icon_url": "",
+      "id": "552872f0-6521-4173-86bb-e38b50fac602",
+      "issued": "2020-09-03T18:14:35.716262",
+      "last_modified": "2020-09-03T00:00:00",
+      "license_id": "CC-BY-4.0",
+      "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "mimetype_inner": null,
+      "modified": "2020-09-29",
+      "name": "Ciclovias (XLSX)",
+      "package_id": "juqdkmgo-50",
+      "position": 0,
+      "resource_type": "file",
+      "revision_id": "7c2793bc-aad0-4179-bd65-908710b901bc",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/transporte/ciclovias/ciclovia.xlsx",
+      "url_type": null
+    },
+    {
+      "accessURL": "",
+      "accessURL_field": "",
+      "attributesDescription": "[{\"title\":\"id\",\"description\":\"Identificador único de cada registro\",\"type\":\"integer\"},{\"title\":\"CODIGO\",\"description\":\"Código de cada calle\",\"type\":\"integer\"},{\"title\":\"NOMOFICIAL\",\"description\":\"Nombre de calle según Boletín Oficial\",\"type\":\"string\"},{\"title\":\"ALT_IZQINI\",\"description\":\"Altura de calle inicial a mano izquierda\",\"type\":\"integer\"},{\"title\":\"ALT_IZQFIN\",\"description\":\"Altura de calle final a mano izquierda\",\"type\":\"integer\"},{\"title\":\"ALT_DERINI\",\"description\":\"Altura de calle inicial a mano derecha\",\"type\":\"integer\"},{\"title\":\"ALT_DERFIN\",\"description\":\"Altura de calle final a mano derecha\",\"type\":\"integer\"},{\"title\":\"NOMANTER\",\"description\":\"Nombre anterior de la calle\",\"type\":\"string\"},{\"title\":\"TIPO_C\",\"description\":\"Tipo de arteria: calle, avenida, peatonal, etc.\",\"type\":\"string\"},{\"title\":\"OBSERVA\",\"description\":\"Observaciones particulares de cada calle.\",\"type\":\"string\"},{\"title\":\"LONG\",\"description\":\"Largo de la calle.\",\"type\":\"integer\"},{\"title\":\"NOM_MAPA\",\"description\":\"Nombre de la calle acotado, para el etiquetado de mapas.\",\"type\":\"string\"},{\"title\":\"SENTIDO\",\"description\":\"Sentido de tránsito de la calle (Doble, Creciente, Decreciente, Peatonal)\",\"type\":\"string\"},{\"title\":\"COD_SENT\",\"description\":\"Código numérico asignado a la calle según su sentido.\",\"type\":\"integer\"},{\"title\":\"BICISENDA\",\"description\":\"Tipo de senda. ciclovía, en obra, proyectada,  bicisenda, puesta en valor o carril preferencial. (Aclaración: la categoría Bicisenda representa los tramos de la misma que son preexistentes a esta Gestión pero que no son tenidos en cuenta por la misma, a diferencia de las Bicisendas Preexistentes, que sí son tenidas en cuenta)En Enero de 2018 se agregó la categoría Interrumpida opr Obras para diferenciar Ciclovías existentes terminadas que están interrumpidas o inutilizables por otro tipo de obra.\",\"type\":\"string\"},{\"title\":\"LADO_CICLO\",\"description\":\"Mano en que se encuentra la Ciclovía (derecha o izquierda)\",\"type\":\"string\"},{\"title\":\"RECORRIDO_X\",\"description\":\"Calle o vereda, según corresponda\",\"type\":\"string\"},{\"title\":\"CICLO_OBSE\",\"description\":\"Observaciones. Se agregó en Noviembre de 2016 a este campo el dato y momento de Construcción de la Ciclovía. Fuente Moviidad Sustentable.\",\"type\":\"string\"},{\"title\":\"TOOLTIP_BI\",\"description\":\"Nombre para el etiquetado.\",\"type\":\"string\"},{\"title\":\"RED_JERARQ\",\"description\":\" \",\"type\":\"string\"},{\"title\":\"RED_TP\",\"description\":\"Indica si pertenece ese sector a la Red de Tránsito Pesado\",\"type\":\"string\"},{\"title\":\"COMUNA\",\"description\":\"Comuna a la que pertenece cada eje de calles.\",\"type\":\"integer\"},{\"title\":\"COM_PAR\",\"description\":\"En ejes de calles que comparten comunas, se corresponde con el lado izquierdo de la calle, siguiendo el sentido creciente de las alturas.\",\"type\":\"integer\"},{\"title\":\"COM_IMPAR\",\"description\":\"En ejes de calles que comparten comunas, se corresponde con el lado derecho de la calle, siguiendo el sentido creciente de las alturas.\",\"type\":\"integer\"},{\"title\":\"BARRIO\",\"description\":\"Barrio al que pertenece cada eje de calles.\",\"type\":\"string\"},{\"title\":\"BARRIO_PAR\",\"description\":\"En ejes de calles que comparten barrios, se corresponde con el lado izquierdo de la calle, siguiendo el sentido creciente de las alturas.\",\"type\":\"string\"},{\"title\":\"BARRIO_IMPAR\",\"description\":\"En ejes de calles que comparten comunas, se corresponde con el lado derecho de la calle, siguiendo el sentido creciente de las alturas.\",\"type\":\"string\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2020-09-03T18:14:40.269220",
+      "datastore_active": false,
+      "description": "Referencia geografica de las ciclovias.",
+      "fileName": "ciclovias_WGS84.csv",
+      "format": "CSV",
+      "has-uploaded-file": "",
+      "hash": "",
+      "icon_url": "",
+      "id": "7f6dc044-35a5-452f-84de-c0c621fa31eb",
+      "issued": "2020-09-03T18:14:40.269220",
+      "last_modified": "2020-09-03T00:00:00",
+      "license_id": "CC-BY-4.0",
+      "mimetype": "text/csv",
+      "mimetype_inner": null,
+      "modified": "2020-09-29",
+      "name": "Ciclovias",
+      "package_id": "juqdkmgo-50",
+      "position": 1,
+      "resource_type": "file",
+      "revision_id": "a31d63cf-34f3-40f1-b6db-ba4c75e1bb3b",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/transporte/ciclovias/ciclovias_WGS84.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "",
+      "accessURL_field": "",
+      "attributesDescription": "[{\"title\":\"id\",\"description\":\"Identificador único de cada registro\",\"type\":\"integer\"},{\"title\":\"CODIGO\",\"description\":\"Código de cada calle\",\"type\":\"integer\"},{\"title\":\"NOMOFICIAL\",\"description\":\"Nombre de calle según Boletín Oficial\",\"type\":\"string\"},{\"title\":\"ALT_IZQINI\",\"description\":\"Altura de calle inicial a mano izquierda\",\"type\":\"integer\"},{\"title\":\"ALT_IZQFIN\",\"description\":\"Altura de calle final a mano izquierda\",\"type\":\"integer\"},{\"title\":\"ALT_DERINI\",\"description\":\"Altura de calle inicial a mano derecha\",\"type\":\"integer\"},{\"title\":\"ALT_DERFIN\",\"description\":\"Altura de calle final a mano derecha\",\"type\":\"integer\"},{\"title\":\"NOMANTER\",\"description\":\"Nombre anterior de la calle\",\"type\":\"string\"},{\"title\":\"TIPO_C\",\"description\":\"Tipo de arteria: calle, avenida, peatonal, etc.\",\"type\":\"string\"},{\"title\":\"OBSERVA\",\"description\":\"Observaciones particulares de cada calle.\",\"type\":\"string\"},{\"title\":\"LONG\",\"description\":\"Largo de la calle.\",\"type\":\"integer\"},{\"title\":\"NOM_MAPA\",\"description\":\"Nombre de la calle acotado, para el etiquetado de mapas.\",\"type\":\"string\"},{\"title\":\"SENTIDO\",\"description\":\"Sentido de tránsito de la calle (Doble, Creciente, Decreciente, Peatonal)\",\"type\":\"string\"},{\"title\":\"COD_SENT\",\"description\":\"Código numérico asignado a la calle según su sentido.\",\"type\":\"integer\"},{\"title\":\"BICISENDA\",\"description\":\"Tipo de senda. ciclovía, en obra, proyectada,  bicisenda, puesta en valor o carril preferencial. (Aclaración: la categoría Bicisenda representa los tramos de la misma que son preexistentes a esta Gestión pero que no son tenidos en cuenta por la misma, a diferencia de las Bicisendas Preexistentes, que sí son tenidas en cuenta)En Enero de 2018 se agregó la categoría Interrumpida opr Obras para diferenciar Ciclovías existentes terminadas que están interrumpidas o inutilizables por otro tipo de obra.\",\"type\":\"string\"},{\"title\":\"LADO_CICLO\",\"description\":\"Mano en que se encuentra la Ciclovía (derecha o izquierda)\",\"type\":\"string\"},{\"title\":\"RECORRIDO_X\",\"description\":\"Calle o vereda, según corresponda\",\"type\":\"string\"},{\"title\":\"CICLO_OBSE\",\"description\":\"Observaciones. Se agregó en Noviembre de 2016 a este campo el dato y momento de Construcción de la Ciclovía. Fuente Moviidad Sustentable.\",\"type\":\"string\"},{\"title\":\"TOOLTIP_BI\",\"description\":\"Nombre para el etiquetado.\",\"type\":\"string\"},{\"title\":\"RED_JERARQ\",\"description\":\" \",\"type\":\"string\"},{\"title\":\"RED_TP\",\"description\":\"Indica si pertenece ese sector a la Red de Tránsito Pesado\",\"type\":\"string\"},{\"title\":\"COMUNA\",\"description\":\"Comuna a la que pertenece cada eje de calles.\",\"type\":\"integer\"},{\"title\":\"COM_PAR\",\"description\":\"En ejes de calles que comparten comunas, se corresponde con el lado izquierdo de la calle, siguiendo el sentido creciente de las alturas.\",\"type\":\"integer\"},{\"title\":\"COM_IMPAR\",\"description\":\"En ejes de calles que comparten comunas, se corresponde con el lado derecho de la calle, siguiendo el sentido creciente de las alturas.\",\"type\":\"integer\"},{\"title\":\"BARRIO\",\"description\":\"Barrio al que pertenece cada eje de calles.\",\"type\":\"string\"},{\"title\":\"BARRIO_PAR\",\"description\":\"En ejes de calles que comparten barrios, se corresponde con el lado izquierdo de la calle, siguiendo el sentido creciente de las alturas.\",\"type\":\"string\"},{\"title\":\"BARRIO_IMPAR\",\"description\":\"En ejes de calles que comparten comunas, se corresponde con el lado derecho de la calle, siguiendo el sentido creciente de las alturas.\",\"type\":\"string\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2020-09-03T18:14:45.094249",
+      "datastore_active": false,
+      "description": "Referencia geografica de las ciclovias.",
+      "fileName": "ciclovias_WGS84.geojson",
+      "format": "GeoJSON",
+      "has-uploaded-file": "",
+      "hash": "",
+      "icon_url": "",
+      "id": "1f978736-9ef7-47e1-ab07-cccf8bafe0a6",
+      "issued": "2020-09-03T18:14:45.094249",
+      "last_modified": "2020-09-03T00:00:00",
+      "license_id": "CC-BY-4.0",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "modified": "2020-09-29",
+      "name": "Ciclovias (GeoJson)",
+      "package_id": "juqdkmgo-50",
+      "position": 2,
+      "resource_type": "file",
+      "revision_id": "b3d5f32e-c5d7-4733-b29a-171b43da9da9",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/transporte/ciclovias/ciclovias_WGS84.geojson",
+      "url_type": null
+    },
+    {
+      "accessURL": "",
+      "accessURL_field": "",
+      "attributesDescription": "[{\"title\":\"id\",\"description\":\"Identificador único de cada registro\",\"type\":\"integer\"},{\"title\":\"CODIGO\",\"description\":\"Código de cada calle\",\"type\":\"integer\"},{\"title\":\"NOMOFICIAL\",\"description\":\"Nombre de calle según Boletín Oficial\",\"type\":\"string\"},{\"title\":\"ALT_IZQINI\",\"description\":\"Altura de calle inicial a mano izquierda\",\"type\":\"integer\"},{\"title\":\"ALT_IZQFIN\",\"description\":\"Altura de calle final a mano izquierda\",\"type\":\"integer\"},{\"title\":\"ALT_DERINI\",\"description\":\"Altura de calle inicial a mano derecha\",\"type\":\"integer\"},{\"title\":\"ALT_DERFIN\",\"description\":\"Altura de calle final a mano derecha\",\"type\":\"integer\"},{\"title\":\"NOMANTER\",\"description\":\"Nombre anterior de la calle\",\"type\":\"string\"},{\"title\":\"TIPO_C\",\"description\":\"Tipo de arteria: calle, avenida, peatonal, etc.\",\"type\":\"string\"},{\"title\":\"OBSERVA\",\"description\":\"Observaciones particulares de cada calle.\",\"type\":\"string\"},{\"title\":\"LONG\",\"description\":\"Largo de la calle.\",\"type\":\"integer\"},{\"title\":\"NOM_MAPA\",\"description\":\"Nombre de la calle acotado, para el etiquetado de mapas.\",\"type\":\"string\"},{\"title\":\"SENTIDO\",\"description\":\"Sentido de tránsito de la calle (Doble, Creciente, Decreciente, Peatonal)\",\"type\":\"string\"},{\"title\":\"COD_SENT\",\"description\":\"Código numérico asignado a la calle según su sentido.\",\"type\":\"integer\"},{\"title\":\"BICISENDA\",\"description\":\"Tipo de senda. ciclovía, en obra, proyectada,  bicisenda, puesta en valor o carril preferencial. (Aclaración: la categoría Bicisenda representa los tramos de la misma que son preexistentes a esta Gestión pero que no son tenidos en cuenta por la misma, a diferencia de las Bicisendas Preexistentes, que sí son tenidas en cuenta)En Enero de 2018 se agregó la categoría Interrumpida opr Obras para diferenciar Ciclovías existentes terminadas que están interrumpidas o inutilizables por otro tipo de obra.\",\"type\":\"string\"},{\"title\":\"LADO_CICLO\",\"description\":\"Mano en que se encuentra la Ciclovía (derecha o izquierda)\",\"type\":\"string\"},{\"title\":\"RECORRIDO_X\",\"description\":\"Calle o vereda, según corresponda\",\"type\":\"string\"},{\"title\":\"CICLO_OBSE\",\"description\":\"Observaciones. Se agregó en Noviembre de 2016 a este campo el dato y momento de Construcción de la Ciclovía. Fuente Moviidad Sustentable.\",\"type\":\"string\"},{\"title\":\"TOOLTIP_BI\",\"description\":\"Nombre para el etiquetado.\",\"type\":\"string\"},{\"title\":\"RED_JERARQ\",\"description\":\" \",\"type\":\"string\"},{\"title\":\"RED_TP\",\"description\":\"Indica si pertenece ese sector a la Red de Tránsito Pesado\",\"type\":\"string\"},{\"title\":\"COMUNA\",\"description\":\"Comuna a la que pertenece cada eje de calles.\",\"type\":\"integer\"},{\"title\":\"COM_PAR\",\"description\":\"En ejes de calles que comparten comunas, se corresponde con el lado izquierdo de la calle, siguiendo el sentido creciente de las alturas.\",\"type\":\"integer\"},{\"title\":\"COM_IMPAR\",\"description\":\"En ejes de calles que comparten comunas, se corresponde con el lado derecho de la calle, siguiendo el sentido creciente de las alturas.\",\"type\":\"integer\"},{\"title\":\"BARRIO\",\"description\":\"Barrio al que pertenece cada eje de calles.\",\"type\":\"string\"},{\"title\":\"BARRIO_PAR\",\"description\":\"En ejes de calles que comparten barrios, se corresponde con el lado izquierdo de la calle, siguiendo el sentido creciente de las alturas.\",\"type\":\"string\"},{\"title\":\"BARRIO_IMPAR\",\"description\":\"En ejes de calles que comparten comunas, se corresponde con el lado derecho de la calle, siguiendo el sentido creciente de las alturas.\",\"type\":\"string\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2020-09-03T18:14:49.034452",
+      "datastore_active": false,
+      "description": "Archivo shapefile de las ciclovias",
+      "fileName": "ciclovias_zip.zip",
+      "format": "ZIP",
+      "has-uploaded-file": "",
+      "hash": "",
+      "icon_url": "",
+      "id": "31229224-c359-4f8c-9efc-5b841806e0f9",
+      "issued": "2020-09-03T18:14:49.034452",
+      "last_modified": "2020-09-03T00:00:00",
+      "license_id": "CC-BY-4.0",
+      "mimetype": "application/zip",
+      "mimetype_inner": null,
+      "modified": "2020-09-29",
+      "name": "Ciclovias (SHP)",
+      "package_id": "juqdkmgo-50",
+      "position": 3,
+      "resource_type": "file",
+      "revision_id": "5699e6a6-bdca-48e7-866a-20f19aa7780f",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/transporte/ciclovias/ciclovias_zip.zip",
+      "url_type": null
+    }
+  ],
+  "revision_id": "cd427dac-c7c7-4f94-a0fa-4709cba033ee",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "bicicletas",
+      "id": "d1306c12-7770-4de8-88d9-94612421176e",
+      "name": "bicicletas",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "bicisendas",
+      "id": "5921f697-a792-4a50-8fdf-ff31bd614d73",
+      "name": "bicisendas",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "cambio climático",
+      "id": "a6836452-912d-41c2-b324-4eddc98a75c2",
+      "name": "cambio climático",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "movilidad",
+      "id": "6fda14a0-403a-4fd4-bc7f-e5742514badc",
+      "name": "movilidad",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "transporte",
+      "id": "aff133f8-2f33-4d2c-a531-6d632bd4efbb",
+      "name": "transporte",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Ciclovías",
+  "type": "dataset",
+  "url": "https://data.buenosaires.gob.ar/dataset/ciclovias",
+  "version": null
+}

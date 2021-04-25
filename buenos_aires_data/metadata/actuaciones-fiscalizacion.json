@@ -1,0 +1,195 @@
+{
+  "author": "Ministerio de Economía y Finanzas. DG de Rentas. SD General de Fiscalización",
+  "author_email": "gobiernoabierto@buenosaires.gob.ar",
+  "creator_user_id": "e4546f46-e966-493c-b2f1-57318502c41b",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P3M"
+    },
+    {
+      "key": "issued",
+      "value": "2019-01-08T14:55:37.058030"
+    },
+    {
+      "key": "language",
+      "value": "[\"SPA\"]"
+    },
+    {
+      "key": "modified",
+      "value": "2019-05-03T11:58:08.928952"
+    },
+    {
+      "key": "source",
+      "value": "Ministerio de Economía y Finanzas. DG de Rentas. SD General de Fiscalización"
+    },
+    {
+      "key": "spatial",
+      "value": "02"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"ECON\"]"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Datasets relacionados con la economía y las finanzas",
+      "display_name": "Economía y Finanzas",
+      "id": "64da4336-6da7-4494-80c0-365016597e9e",
+      "image_display_url": "https://data.buenosaires.gob.ar/uploads/group/2019-11-16-144934.521128economia.png",
+      "name": "economia-y-finanzas",
+      "title": "Economía y Finanzas"
+    }
+  ],
+  "id": "juqdkmgo-2",
+  "isopen": true,
+  "license_id": "CC-BY-2.5-AR",
+  "license_title": "Atribucion 2.5 Argentina (CC BY 2.5 AR)",
+  "license_url": "https://creativecommons.org/licenses/by/2.5/ar ",
+  "maintainer": "Secretaría General y Relaciones Internacionales. Subsecretaría Gestión Estratégica y Calidad Institucional. Dirección General Calidad Institucional y Gobierno Abierto",
+  "maintainer_email": "gobiernoabierto@buenosaires.gob.ar",
+  "metadata_created": "2019-12-11T18:55:36.886384",
+  "metadata_modified": "2020-12-17T15:14:40.325979",
+  "name": "actuaciones-fiscalizacion",
+  "notes": "Listado de los contribuyentes que se encuentran bajo proceso de inspección",
+  "num_resources": 4,
+  "num_tags": 2,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-11-15T19:18:53.185953",
+    "description": "",
+    "id": "8ff6e21b-7ebc-45b7-8e50-3629f26d0414",
+    "image_url": "",
+    "is_organization": true,
+    "name": "administracion-gubernamental-de-ingresos-publicos",
+    "revision_id": "18ec9402-5011-4f5d-9acf-c8ba3ce157f9",
+    "state": "active",
+    "title": "Administración Gubernamental de Ingresos Públicos (AGIP)",
+    "type": "organization"
+  },
+  "owner_org": "8ff6e21b-7ebc-45b7-8e50-3629f26d0414",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/actuaciones-de-fiscalizacion",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-01-08T14:55:37.058030",
+      "datastore_active": true,
+      "description": "Listado de contribuyentes que se encuentran bajo proceso de inspección fiscal por la Subdirección General de Fiscalización. Razón socia, CUIT, fecha de inicio e inspector.",
+      "fileName": "contribuyentes-bajo-inspeccion-3-trimestre-2015.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "juqdkmgo-21-resource",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Contribuyentes bajo inspección 3 Trimestre 2015",
+      "package_id": "juqdkmgo-2",
+      "position": 0,
+      "resource_type": "file",
+      "revision_id": "2a4280e8-8f3d-417f-b705-db65cf4496d7",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/actuaciones-de-fiscalizacion/contribuyentes-bajo-inspeccion-3-trimestre-2015.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/actuaciones-de-fiscalizacion",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-01-08T14:55:37.058030",
+      "datastore_active": true,
+      "description": "Listado de contribuyentes que se encuentran bajo proceso de inspección fiscal por la Subdirección General de Fiscalización. Período Razón socia, CUIT, fecha de inicio e inspector.",
+      "fileName": "historial-de-contribuyentes-bajo-inspeccion.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "juqdkmgo-22-resource",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Historial de contribuyentes bajo inspección",
+      "package_id": "juqdkmgo-2",
+      "position": 1,
+      "resource_type": "file",
+      "revision_id": "20104015-3657-48e6-bf59-52e850b46a44",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/actuaciones-de-fiscalizacion/historial-de-contribuyentes-bajo-inspeccion.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/actuaciones-de-fiscalizacion",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-01-08T14:55:37.058030",
+      "datastore_active": true,
+      "description": "Listado de contribuyentes que se encuentran bajo proceso de inspección fiscal por la Subdirección General de Fiscalización. Razón socia, CUIT, fecha de inicio e inspector.",
+      "fileName": "contribuyentes-bajo-inspeccion-3-trimestre-2015.xlsx",
+      "format": "XLSX",
+      "hash": "",
+      "id": "juqdkmgo-21-resource-xlsx",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Contribuyentes bajo inspección 3 Trimestre 2015 (XLSX)",
+      "package_id": "juqdkmgo-2",
+      "position": 2,
+      "resource_type": "file",
+      "revision_id": "ded06d14-bee6-47f1-b7da-d705f2002397",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/actuaciones-de-fiscalizacion/contribuyentes-bajo-inspeccion-3-trimestre-2015.xlsx",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/actuaciones-de-fiscalizacion",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-01-08T14:55:37.058030",
+      "datastore_active": true,
+      "description": "Listado de contribuyentes que se encuentran bajo proceso de inspección fiscal por la Subdirección General de Fiscalización. Período Razón socia, CUIT, fecha de inicio e inspector.",
+      "fileName": "historial-de-contribuyentes-bajo-inspeccion.xlsx",
+      "format": "XLSX",
+      "hash": "",
+      "id": "juqdkmgo-22-resource-xlsx",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Historial de contribuyentes bajo inspección (XLSX)",
+      "package_id": "juqdkmgo-2",
+      "position": 3,
+      "resource_type": "file",
+      "revision_id": "d31b765f-5f59-4164-a6c0-382f3442db13",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/actuaciones-de-fiscalizacion/historial-de-contribuyentes-bajo-inspeccion.xlsx",
+      "url_type": null
+    }
+  ],
+  "revision_id": "e204558d-fc8b-4d36-afe5-a89b0bc24fef",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "AGIP",
+      "id": "e4c7f4ea-e64a-4669-9ca8-f0325726a9e2",
+      "name": "AGIP",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "recaudación",
+      "id": "72274696-3f12-4ea7-8ee3-595a765f10ea",
+      "name": "recaudación",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Actuaciones de fiscalización",
+  "type": "dataset",
+  "url": "https://data.buenosaires.gob.ar/dataset/actuaciones-fiscalizacion",
+  "version": null
+}

@@ -1,0 +1,276 @@
+{
+  "author": "Dirección General de Estadísticas y Censos",
+  "author_email": "datosabiertos@buenosaires.gob.ar",
+  "creator_user_id": "931fac92-738f-4472-b1c1-f5c2f6e46af3",
+  "extras": [
+    {
+      "key": "Documentación",
+      "value": ""
+    },
+    {
+      "key": "accrualPeriodicity",
+      "value": "eventual"
+    },
+    {
+      "key": "country",
+      "value": "ARG"
+    },
+    {
+      "key": "district",
+      "value": ""
+    },
+    {
+      "key": "home_featured",
+      "value": "false"
+    },
+    {
+      "key": "issued",
+      "value": "2020-08-03T14:58:12.930811"
+    },
+    {
+      "key": "language",
+      "value": "[\"spa\"]"
+    },
+    {
+      "key": "modified",
+      "value": "2021-02-26T17:44:40.030689"
+    },
+    {
+      "key": "province",
+      "value": ""
+    },
+    {
+      "key": "source",
+      "value": "Dirección General de Estadísticas y Censos"
+    },
+    {
+      "key": "spatial",
+      "value": "ARG"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"JUST\",\"SOCI\"]"
+    },
+    {
+      "key": "temporal",
+      "value": ""
+    }
+  ],
+  "groups": [
+    {
+      "description": "",
+      "display_name": "Administración Pública",
+      "id": "8cb134a8-90ea-4e69-a96d-c03449917dc9",
+      "image_display_url": "https://data.buenosaires.gob.ar/uploads/group/2019-11-16-144810.360383adminpublica.png",
+      "name": "administracion-publica",
+      "title": "Administración Pública"
+    },
+    {
+      "description": "",
+      "display_name": "Género",
+      "id": "3d97d3f5-206f-4719-8a06-54c709a25893",
+      "image_display_url": "https://data.buenosaires.gob.ar/uploads/group/2019-11-19-182128.307764genero720.png",
+      "name": "genero",
+      "title": "Género"
+    }
+  ],
+  "id": "57fad5f5-dd2a-4fc2-a496-e1520b1aa281",
+  "isopen": true,
+  "license_id": "CC-BY-2.5-AR",
+  "license_title": "Atribucion 2.5 Argentina (CC BY 2.5 AR)",
+  "license_url": "https://creativecommons.org/licenses/by/2.5/ar ",
+  "maintainer": "Subsecretaría de Políticas Públicas Basadas en Evidencia. DG Arquitectura de Datos",
+  "maintainer_email": "datosabiertos@buenosaires.gob.ar",
+  "metadata_created": "2020-08-03T17:57:54.529364",
+  "metadata_modified": "2021-02-26T20:44:40.044740",
+  "name": "casos-penales-contravencionales",
+  "notes": "Corresponde a la cantidad de casos ingresados a las fiscalías de CABA provenientes de las denuncias realizadas a las Fiscalías, denuncias y/o intervenciones de las fuerzas de seguridad y de otros organismos que presentan delitos y contravenciones asociados a situaciones de  violencia de género, doméstica y ambas, de acuerdo a lo establecido en la Ley Nac.N° 26.485 de Protección Integral a las Mujeres.",
+  "num_resources": 4,
+  "num_tags": 5,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-11-15T19:18:36.747317",
+    "description": "",
+    "id": "800664f9-ab56-4482-a6c8-0a1d316bf35b",
+    "image_url": "",
+    "is_organization": true,
+    "name": "direccion-general-de-estadisticas-y-censos",
+    "revision_id": "62a8b16c-0849-419d-a339-8e14d1b4a010",
+    "state": "active",
+    "title": "Dirección General de Estadísticas y Censos",
+    "type": "organization"
+  },
+  "owner_org": "800664f9-ab56-4482-a6c8-0a1d316bf35b",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "",
+      "accessURL_field": "",
+      "attributesDescription": "[{\"title\":\"Lugar\",\"description\":\"Nombre del lugar\",\"type\":\"string\"},{\"title\":\"Año\",\"description\":\"Año de medición\",\"type\":\"integer\"},{\"title\":\"Comuna\",\"description\":\"Id de comuna\",\"type\":\"integer\"},{\"title\":\"Casos Penales\",\"description\":\"Cantidad de casos penales en ese año\",\"type\":\"integer\"},{\"title\":\"Casos Contravencionales\",\"description\":\"Cantidad de casos contravencionales en ese año\",\"type\":\"integer\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2020-08-03T18:01:21.294295",
+      "datastore_active": false,
+      "description": "Casos penales con indice de violencia de genero",
+      "fileName": "",
+      "format": "CSV",
+      "has-uploaded-file": "",
+      "hash": "",
+      "icon_url": "",
+      "id": "5a0509fe-d1c1-48e9-8cbd-5d005bede379",
+      "issued": "2020-08-03T18:01:21.294295",
+      "last_modified": "2020-08-03T00:00:00",
+      "license_id": "CC-BY-4.0",
+      "mimetype": "text/csv",
+      "mimetype_inner": null,
+      "modified": "2020-08-04T10:22:50.567598",
+      "name": "Casos penales con indice de violencia de genero",
+      "package_id": "57fad5f5-dd2a-4fc2-a496-e1520b1aa281",
+      "position": 0,
+      "resource_type": "file",
+      "revision_id": "2b03c1fc-451b-472b-8587-fa0b3caf81d9",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/direccion-general-de-estadisticas-y-censos/casos-penales-contravencionales/casos_penales_contrav_con_ind_violencia_genero.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "",
+      "accessURL_field": "",
+      "attributesDescription": "[{\"title\":\"Lugar\",\"description\":\"Nombre del lugar\",\"type\":\"string\"},{\"title\":\"Año\",\"description\":\"Año de medición\",\"type\":\"integer\"},{\"title\":\"Comuna\",\"description\":\"Id de comuna\",\"type\":\"integer\"},{\"title\":\"Casos Penales\",\"description\":\"Cantidad de casos penales en ese año\",\"type\":\"integer\"},{\"title\":\"Casos Contravencionales\",\"description\":\"Cantidad de casos contravencionales en ese año\",\"type\":\"integer\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2020-08-03T18:01:25.848840",
+      "datastore_active": false,
+      "description": "Casos penales con indice de violencia de genero",
+      "fileName": "",
+      "format": "XLSX",
+      "has-uploaded-file": "",
+      "hash": "",
+      "icon_url": "",
+      "id": "2a33f4c5-078d-4df0-9954-6ddca145d944",
+      "issued": "2020-08-03T18:01:25.848840",
+      "last_modified": "2020-08-03T00:00:00",
+      "license_id": "CC-BY-4.0",
+      "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "mimetype_inner": null,
+      "modified": "2020-08-04T10:23:37.843186",
+      "name": "Casos penales con indice de violencia de genero (XLSX)",
+      "package_id": "57fad5f5-dd2a-4fc2-a496-e1520b1aa281",
+      "position": 1,
+      "resource_type": "file",
+      "revision_id": "51e3785e-cb60-4836-b4b1-5a1fa79faccc",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/direccion-general-de-estadisticas-y-censos/casos-penales-contravencionales/casos_penales_contrav_con_ind_violencia_genero.xlsx",
+      "url_type": null
+    },
+    {
+      "accessURL": "",
+      "accessURL_field": "",
+      "attributesDescription": "[{\"title\":\"Año\",\"description\":\"Año de medición\",\"type\":\"integer\"},{\"title\":\"Cuatrimestre\",\"description\":\"Número de cuatrimestre del año\",\"type\":\"integer\"},{\"title\":\"Tipo\",\"description\":\"Tipo de caso (penal/contravencional)\",\"type\":\"string\"},{\"title\":\"Total\",\"description\":\"Total de casos de ese cutrimestre\",\"type\":\"integer\"},{\"title\":\"Sin ind de violencia de genero y/o violencia domestica\",\"description\":\"Total de casos sin indicadores de violencia de género en ese cuatrimestre\",\"type\":\"integer\"},{\"title\":\"Con ind de violencia de genero y/o violencia domestica\",\"description\":\"Total de casos con indicadores de violencia de género en ese cuatrimestre\",\"type\":\"integer\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2020-08-03T18:01:30.350641",
+      "datastore_active": false,
+      "description": "Porcentaje de casos penales y contravencionales asociados a indicadores de violencia de género y/o doméstica en el total de casos ingresados a las Fiscalias de CABA",
+      "fileName": "",
+      "format": "CSV",
+      "has-uploaded-file": "",
+      "hash": "",
+      "icon_url": "",
+      "id": "69a5f1a9-936f-4b9d-a831-28308b12a4fd",
+      "issued": "2020-08-03T18:01:30.350641",
+      "last_modified": "2020-08-03T00:00:00",
+      "license_id": "CC-BY-4.0",
+      "mimetype": "text/csv",
+      "mimetype_inner": null,
+      "modified": "2020-08-04T10:32:25.695114",
+      "name": "Casos penales violencia de genero",
+      "package_id": "57fad5f5-dd2a-4fc2-a496-e1520b1aa281",
+      "position": 2,
+      "resource_type": "file",
+      "revision_id": "accee0a0-b219-4fda-9374-a883982244fe",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/direccion-general-de-estadisticas-y-censos/casos-penales-contravencionales/casos_penales_contravencionales_violencia_de_genero.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "",
+      "accessURL_field": "",
+      "attributesDescription": "[{\"title\":\"Año\",\"description\":\"Año de medición\",\"type\":\"integer\"},{\"title\":\"Cuatrimestre\",\"description\":\"Número de cuatrimestre del año\",\"type\":\"integer\"},{\"title\":\"Tipo\",\"description\":\"Tipo de caso (penal/contravencional)\",\"type\":\"string\"},{\"title\":\"Total\",\"description\":\"Total de casos de ese cutrimestre\",\"type\":\"integer\"},{\"title\":\"Sin ind de violencia de genero y/o violencia domestica\",\"description\":\"Total de casos sin indicadores de violencia de género en ese cuatrimestre\",\"type\":\"integer\"},{\"title\":\"Con ind de violencia de genero y/o violencia domestica\",\"description\":\"Total de casos con indicadores de violencia de género en ese cuatrimestre\",\"type\":\"integer\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2020-08-03T18:01:35.312653",
+      "datastore_active": false,
+      "description": "Porcentaje de casos penales y contravencionales asociados a indicadores de violencia de género y/o doméstica en el total de casos ingresados a las Fiscalias de CABA",
+      "fileName": "",
+      "format": "XLSX",
+      "has-uploaded-file": "",
+      "hash": "",
+      "icon_url": "",
+      "id": "f1e3de1c-a987-4bd2-b943-81851776d30d",
+      "issued": "2020-08-03T18:01:35.312653",
+      "last_modified": "2020-08-03T00:00:00",
+      "license_id": "CC-BY-4.0",
+      "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "mimetype_inner": null,
+      "modified": "2020-08-04T10:32:39.243432",
+      "name": "Casos penales violencia de genero (XLSX)",
+      "package_id": "57fad5f5-dd2a-4fc2-a496-e1520b1aa281",
+      "position": 3,
+      "resource_type": "file",
+      "revision_id": "96b53f8c-e3f6-49a4-a69e-70d9ccf76778",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/direccion-general-de-estadisticas-y-censos/casos-penales-contravencionales/casos_penales_contravencionales_violencia_de_genero.xlsx",
+      "url_type": null
+    }
+  ],
+  "revision_id": "ab29f859-495e-4ba6-816c-74cd956bc094",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "casos",
+      "id": "86a18f94-e5cd-46c9-9f60-5cdd88a5af7a",
+      "name": "casos",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "contravencionales",
+      "id": "e40c9a24-b75b-4789-96c1-aacac9b003d9",
+      "name": "contravencionales",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "género",
+      "id": "983afd4b-d371-4cfb-add2-467b355c0578",
+      "name": "género",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "oficina-violencia-doméstica",
+      "id": "e2a65124-405b-4978-b811-e257184a5fd4",
+      "name": "oficina-violencia-doméstica",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "penales",
+      "id": "e9307fd9-da10-4bc7-a6d0-251b762e43f1",
+      "name": "penales",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Casos penales contravencionales violencia de genero",
+  "type": "dataset",
+  "url": "https://data.buenosaires.gob.ar/dataset/casos-penales-contravencionales",
+  "version": null
+}

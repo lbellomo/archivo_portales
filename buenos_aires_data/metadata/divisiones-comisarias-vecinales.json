@@ -1,0 +1,207 @@
+{
+  "author": "Ministerio de Justicia y Seguridad. Secretaría Seguridad. SS de Seguridad Ciudadana. DG de Seguridad y Prevención del Delito",
+  "author_email": "gobiernoabierto@buenosaires.gob.ar",
+  "creator_user_id": "e4546f46-e966-493c-b2f1-57318502c41b",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "eventual"
+    },
+    {
+      "key": "issued",
+      "value": "2019-01-08T14:58:12.649421"
+    },
+    {
+      "key": "language",
+      "value": "[\"SPA\"]"
+    },
+    {
+      "key": "modified",
+      "value": "2019-05-14T11:35:43.584653"
+    },
+    {
+      "key": "source",
+      "value": "Ministerio de Educación e Innovación. Secretaría de Ciencia, Tecnología e Innovación. SS de Ciudad Inteligente y Tecnología Educativa. DG Ciencias de la Información. Unidad de Sistemas de Información Geográfica (USIG)"
+    },
+    {
+      "key": "spatial",
+      "value": "02"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"REGI\"]"
+    }
+  ],
+  "groups": [
+    {
+      "description": "",
+      "display_name": "Seguridad",
+      "id": "b656bb3f-230a-414f-acce-19d0d98e01df",
+      "image_display_url": "https://data.buenosaires.gob.ar/uploads/group/2019-11-16-145044.366204segu.png",
+      "name": "seguridad",
+      "title": "Seguridad"
+    },
+    {
+      "description": "Datasets relacionados con urbanismo y territorio",
+      "display_name": "Urbanismo y Territorio",
+      "id": "63e162a0-3f4a-446a-a60b-601d16f36200",
+      "image_display_url": "https://data.buenosaires.gob.ar/uploads/group/2019-11-16-145056.781692urba.png",
+      "name": "urbanismo-y-territorio",
+      "title": "Urbanismo y Territorio"
+    }
+  ],
+  "id": "juqdkmgo-184",
+  "isopen": true,
+  "license_id": "CC-BY-2.5-AR",
+  "license_title": "Atribucion 2.5 Argentina (CC BY 2.5 AR)",
+  "license_url": "https://creativecommons.org/licenses/by/2.5/ar ",
+  "maintainer": "Secretaría General y Relaciones Internacionales. Subsecretaría Gestión Estratégica y Calidad Institucional. Dirección General Calidad Institucional y Gobierno Abierto",
+  "maintainer_email": "gobiernoabierto@buenosaires.gob.ar",
+  "metadata_created": "2019-12-11T18:30:37.132785",
+  "metadata_modified": "2020-12-17T16:05:46.693475",
+  "name": "divisiones-comisarias-vecinales",
+  "notes": "Mapa de límites y área de las comisarías vecinales de la Ciudad.",
+  "num_resources": 3,
+  "num_tags": 6,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-11-15T19:17:53.819720",
+    "description": "",
+    "id": "e2eed892-7682-45f9-b137-74d2acc7e119",
+    "image_url": "",
+    "is_organization": true,
+    "name": "ministerio-de-justicia-y-seguridad",
+    "revision_id": "f34a7336-3a80-4154-9a35-d044f096a2b6",
+    "state": "active",
+    "title": "Ministerio de Justicia y Seguridad",
+    "type": "organization"
+  },
+  "owner_org": "e2eed892-7682-45f9-b137-74d2acc7e119",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/divisiones-comisarias-vecinales",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-05-14T11:34:12.531676",
+      "datastore_active": false,
+      "description": "Mapa de las secciones policiales. Incluye nombre, perímetro, comuna, departamento y división.",
+      "fileName": "divisiones-comisarias-vecinales.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "juqdkmgo-1841-resource",
+      "last_modified": "2019-05-14T11:34:12.531676",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Divisiones Comisarías Vecinales",
+      "package_id": "juqdkmgo-184",
+      "position": 0,
+      "resource_type": "file",
+      "revision_id": "6452f26c-0220-491f-8503-c65c1cef4ede",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/divisiones-comisarias-vecinales/divisiones-comisarias-vecinales.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/divisiones-comisarias-vecinales",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-05-14T11:35:23.150546",
+      "datastore_active": false,
+      "description": "Archivo shapefile con las divisiones de las comisarías vecinales",
+      "fileName": "divisiones-comisarias-vecinales.zip",
+      "format": "ZIP",
+      "hash": "",
+      "id": "juqdkmgo-1842-resource",
+      "last_modified": "2019-05-14T11:35:23.150546",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Divisiones Comisarías Vecinales (SHP)",
+      "package_id": "juqdkmgo-184",
+      "position": 1,
+      "resource_type": "file",
+      "revision_id": "0f07d901-932a-4791-a544-dd1e8adc0d3a",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/divisiones-comisarias-vecinales/divisiones-comisarias-vecinales.zip",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/divisiones-comisarias-vecinales",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-05-14T11:34:12.531676",
+      "datastore_active": false,
+      "description": "Mapa de las secciones policiales. Incluye nombre, perímetro, comuna, departamento y división.",
+      "fileName": "divisiones-comisarias-vecinales.xlsx",
+      "format": "XLSX",
+      "hash": "",
+      "id": "juqdkmgo-1841-resource-xlsx",
+      "last_modified": "2019-05-14T11:34:12.531676",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Divisiones Comisarías Vecinales (XLSX)",
+      "package_id": "juqdkmgo-184",
+      "position": 2,
+      "resource_type": "file",
+      "revision_id": "18be21dd-4e78-4d71-b517-2dbbd7168dbf",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/divisiones-comisarias-vecinales/divisiones-comisarias-vecinales.xlsx",
+      "url_type": null
+    }
+  ],
+  "revision_id": "4942ec42-e090-40d0-840a-d7eae6e574a7",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "comisarias",
+      "id": "29a58de9-4e0e-46bb-b5eb-109e62b251c8",
+      "name": "comisarias",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "división-territorial",
+      "id": "f55cbbf9-9051-43ad-ab2a-16fdf56b6a99",
+      "name": "división-territorial",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "policía",
+      "id": "6f858ad5-f92a-4057-92dd-9ffd89950a6d",
+      "name": "policía",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "secciones policiales",
+      "id": "72cdeb54-25b6-4f2b-a1a0-7f8414cff2dd",
+      "name": "secciones policiales",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "servicios",
+      "id": "5fd98d91-e466-49b9-9b08-8a43e2068a8b",
+      "name": "servicios",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "urbanismo",
+      "id": "17ac67e7-699b-470d-b0dd-5b8752c1fb73",
+      "name": "urbanismo",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Divisiones comisarías vecinales",
+  "type": "dataset",
+  "url": "https://data.buenosaires.gob.ar/dataset/secciones-policiales",
+  "version": null
+}

@@ -1,0 +1,279 @@
+{
+  "author": "Secretaría de Transporte y Obras Públicas. Jefatura de Gabinete de Ministros",
+  "author_email": "datosabiertos@buenosaires.gob.ar",
+  "creator_user_id": "931fac92-738f-4472-b1c1-f5c2f6e46af3",
+  "extras": [
+    {
+      "key": "Documentación",
+      "value": "https://www.buenosaires.gob.ar/desarrollourbano/transporte/apitransporte/api-doc"
+    },
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P1D"
+    },
+    {
+      "key": "country",
+      "value": "ARG"
+    },
+    {
+      "key": "district",
+      "value": ""
+    },
+    {
+      "key": "home_featured",
+      "value": "false"
+    },
+    {
+      "key": "issued",
+      "value": "2020-07-22T12:02:39.942756"
+    },
+    {
+      "key": "language",
+      "value": "[\"spa\"]"
+    },
+    {
+      "key": "modified",
+      "value": "2021-04-25"
+    },
+    {
+      "key": "province",
+      "value": ""
+    },
+    {
+      "key": "source",
+      "value": "Secretaría de Transporte y Obras Públicas. Jefatura de Gabinete de Ministros"
+    },
+    {
+      "key": "spatial",
+      "value": "ARG"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"TRAN\"]"
+    },
+    {
+      "key": "temporal",
+      "value": ""
+    }
+  ],
+  "groups": [
+    {
+      "description": "Datasets relacionados a COVID-19",
+      "display_name": "COVID-19",
+      "id": "0f30f631-df60-4d33-aedb-96c9a48a2332",
+      "image_display_url": "https://data.buenosaires.gob.ar/uploads/group/2020-07-23-165939.349779iconocovid19.png",
+      "name": "covid-19",
+      "title": "COVID-19"
+    },
+    {
+      "description": "",
+      "display_name": "Movilidad",
+      "id": "e616e02e-64d8-4fb0-b55d-08e75eb58376",
+      "image_display_url": "https://data.buenosaires.gob.ar/uploads/group/2019-11-16-145017.234366movilidad.png",
+      "name": "movilidad",
+      "title": "Movilidad"
+    }
+  ],
+  "id": "7e2a15b8-1f61-4106-9a31-9c3463e91857",
+  "isopen": true,
+  "license_id": "CC-BY-2.5-AR",
+  "license_title": "Atribucion 2.5 Argentina (CC BY 2.5 AR)",
+  "license_url": "https://creativecommons.org/licenses/by/2.5/ar ",
+  "maintainer": "Gerencia Operativa de Ingeniería de Datos. DG Arquitectura de Datos. SS de Políticas Públicas Basadas en Evidencia. Secretaría de Innovación y Transformación Digital. Jefatura de Gabinete de Ministros",
+  "maintainer_email": "datosabiertos@buenosaires.gob.ar",
+  "metadata_created": "2020-07-08T19:06:07.729958",
+  "metadata_modified": "2021-04-25T04:00:31.330951",
+  "name": "sube",
+  "notes": "Cantidad de viajes diarios realizados en transporte público de la ciudad según modo de transporte. Información disponible en la API de Transporte de la Ciudad.",
+  "num_resources": 4,
+  "num_tags": 6,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-11-15T19:19:49.916928",
+    "description": "",
+    "id": "56b60b46-a47c-48fb-9bd4-c2ad0e05fef2",
+    "image_url": "",
+    "is_organization": true,
+    "name": "transporte-y-obras-publicas",
+    "revision_id": "c33c86a3-e197-468f-8b66-5b943b3bf106",
+    "state": "active",
+    "title": "Secretaría de Transporte y Obras Públicas",
+    "type": "organization"
+  },
+  "owner_org": "56b60b46-a47c-48fb-9bd4-c2ad0e05fef2",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "",
+      "accessURL_field": "",
+      "attributesDescription": "[{\"title\":\"TIPO_TRANSPORTE\",\"description\":\"Tipo del transporte (colectivo, subte, tren)\",\"type\":\"string\"},{\"title\":\"DIA\",\"description\":\"Dia y hora\",\"type\":\"date\"},{\"title\":\"PARCIAL\",\"description\":\"La información recibida de SUBE puede ser parcial ya que no todos los transportes reportan diariamente los datos, sino que lo hacen durante la semana. \",\"type\":\"boolean\"},{\"title\":\"CANTIDAD\",\"description\":\"Cantidad\",\"type\":\"integer\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2020-07-22T15:04:06.242149",
+      "datastore_active": false,
+      "description": "Cantidad de viajes diarios realizados en transporte público de la ciudad según modo de transporte. Incluye tipo de transporte, día, si la información es parcial o completa y cantidad de viajes.",
+      "fileName": "",
+      "format": "CSV",
+      "has-uploaded-file": "",
+      "hash": "",
+      "icon_url": "",
+      "id": "b88f4c3d-325d-4397-93ff-c54657357092",
+      "issued": "2020-07-22T15:04:06.242149",
+      "last_modified": "2020-07-22T00:00:00",
+      "license_id": "CC-BY-2.5-AR",
+      "mimetype": "text/csv",
+      "mimetype_inner": null,
+      "modified": "2021-03-18T12:53:49.353236",
+      "name": "Viajes en Transporte Público",
+      "package_id": "7e2a15b8-1f61-4106-9a31-9c3463e91857",
+      "position": 0,
+      "resource_type": "file",
+      "revision_id": "270f30f4-9f0f-4d08-8d27-30578f933828",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/transporte/sube/dataset_viajes_sube.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "",
+      "accessURL_field": "",
+      "attributesDescription": "[{\"title\":\"TIPO_TRANSPORTE\",\"description\":\"Tipo del transporte (colectivo, subte, tren)\",\"type\":\"string\"},{\"title\":\"DIA\",\"description\":\"Dia y hora\",\"type\":\"date\"},{\"title\":\"PARCIAL\",\"description\":\"La información recibida de SUBE puede ser parcial ya que no todos los transportes reportan diariamente los datos, sino que lo hacen durante la semana. \",\"type\":\"boolean\"},{\"title\":\"CANTIDAD\",\"description\":\"Cantidad\",\"type\":\"integer\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2020-07-22T15:04:10.805405",
+      "datastore_active": false,
+      "description": "Cantidad de viajes realizados diaramente para cada linea de transporte de la Ciudad. Incluye tipo de transporte, día, si la información es parcial o completa y cantidad de viajes.",
+      "fileName": "",
+      "format": "XLSX",
+      "has-uploaded-file": "",
+      "hash": "",
+      "icon_url": "",
+      "id": "1b762d6b-9a34-4ed1-a089-651a465fb4af",
+      "issued": "2020-07-22T15:04:10.805405",
+      "last_modified": "2020-07-22T00:00:00",
+      "license_id": "CC-BY-2.5-AR",
+      "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "mimetype_inner": null,
+      "modified": "2021-03-18T12:54:13.390960",
+      "name": "Viajes en Transporte Público (xlsx)",
+      "package_id": "7e2a15b8-1f61-4106-9a31-9c3463e91857",
+      "position": 1,
+      "resource_type": "file",
+      "revision_id": "2e9e14f4-4435-4d71-9c58-cae91e638eea",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/transporte/sube/dataset_viajes_sube.xlsx",
+      "url_type": null
+    },
+    {
+      "accessURL": "",
+      "accessURL_field": "",
+      "attributesDescription": "[{\"title\": \"TIPO_TRANSPORTE\", \"description\": \"Tipo del transporte (colectivo, subte, tren)\", \"type\": \"string\"}, {\"title\": \"DIA\", \"description\": \"Dia y hora\", \"type\": \"date\"}, {\"title\": \"PARCIAL\", \"description\": \"Parcial\", \"type\": \"boolean\"}, {\"title\": \"CANTIDAD\", \"description\": \"Cantidad\", \"type\": \"integer\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2021-03-19T04:00:30.295369",
+      "datastore_active": false,
+      "description": "\"Cantidad de viajes realizados diaramente para cada l\\u00ednea de transporte de la Ciudad\"",
+      "fileName": "dataset_viajes_sube.csv",
+      "format": "CSV",
+      "has-uploaded-file": "",
+      "hash": "",
+      "icon_url": "",
+      "id": "581ba1fa-6852-4cba-b954-7b7cba52dd78",
+      "last_modified": "2021-03-19T00:00:00",
+      "mimetype": "text/csv",
+      "mimetype_inner": null,
+      "modified": "2021-04-25",
+      "name": "Transacciones SUBE",
+      "package_id": "7e2a15b8-1f61-4106-9a31-9c3463e91857",
+      "position": 2,
+      "resource_type": "file",
+      "revision_id": "44b6987f-8b05-4a9d-8d16-658750588f16",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/transporte/sube/dataset_viajes_sube.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "",
+      "accessURL_field": "",
+      "attributesDescription": "[{\"title\": \"TIPO_TRANSPORTE\", \"description\": \"Tipo del transporte (colectivo, subte, tren)\", \"type\": \"string\"}, {\"title\": \"DIA\", \"description\": \"Dia y hora\", \"type\": \"date\"}, {\"title\": \"PARCIAL\", \"description\": \"Parcial\", \"type\": \"boolean\"}, {\"title\": \"CANTIDAD\", \"description\": \"Cantidad\", \"type\": \"integer\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2021-03-19T04:00:32.353375",
+      "datastore_active": false,
+      "description": "\"Cantidad de viajes realizados diaramente para cada l\\u00ednea de transporte de la Ciudad\"",
+      "fileName": "dataset_viajes_sube.xlsx",
+      "format": "XLSX",
+      "has-uploaded-file": "",
+      "hash": "",
+      "icon_url": "",
+      "id": "2432d87b-03b4-4958-b83d-8e3f55f08025",
+      "last_modified": "2021-03-19T00:00:00",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "modified": "2021-04-25",
+      "name": "Transacciones SUBE (XLSX)",
+      "package_id": "7e2a15b8-1f61-4106-9a31-9c3463e91857",
+      "position": 3,
+      "resource_type": "file",
+      "revision_id": "fd0aa4cd-742a-4e97-99c9-7ea8a42eb460",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/transporte/sube/dataset_viajes_sube.xlsx",
+      "url_type": null
+    }
+  ],
+  "revision_id": "f2f85a7b-f1d8-4942-a072-dae755b0ba60",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "colectivos",
+      "id": "b6cbff9d-f7d3-4805-b72c-a42cd153b704",
+      "name": "colectivos",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "sube",
+      "id": "8ad05e9d-845b-4033-bab5-fb0d31520541",
+      "name": "sube",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "subte",
+      "id": "d21f4689-9652-43c9-8cae-53e4e2abc76d",
+      "name": "subte",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "transporte público",
+      "id": "7cbe4a40-f26d-4baf-9fb8-725da73270a5",
+      "name": "transporte público",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "trenes",
+      "id": "9a56c40f-eeb0-422c-857f-e21a6efccb57",
+      "name": "trenes",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "viajes",
+      "id": "659408af-c525-460d-9fa4-f43324d02ffd",
+      "name": "viajes",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Viajes en Transporte Público",
+  "type": "dataset",
+  "url": "https://data.buenosaires.gob.ar/dataset/sube",
+  "version": null
+}

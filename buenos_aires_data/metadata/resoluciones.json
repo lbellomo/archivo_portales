@@ -1,0 +1,266 @@
+{
+  "author": "Ministerio de Gobierno. Subsecretaría de Reforma Política y Asuntos Legislativos. Dirección General Asuntos Legislativos.",
+  "author_email": "datosabiertos@buenosaires.gob.ar",
+  "creator_user_id": "e4546f46-e966-493c-b2f1-57318502c41b",
+  "extras": [
+    {
+      "key": "Documentación",
+      "value": ""
+    },
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P1Y"
+    },
+    {
+      "key": "country",
+      "value": "None"
+    },
+    {
+      "key": "district",
+      "value": ""
+    },
+    {
+      "key": "home_featured",
+      "value": "false"
+    },
+    {
+      "key": "issued",
+      "value": "2019-07-23T17:12:45.745104"
+    },
+    {
+      "key": "language",
+      "value": "[]"
+    },
+    {
+      "key": "modified",
+      "value": "2021-03-05T11:40:07.952239"
+    },
+    {
+      "key": "province",
+      "value": ""
+    },
+    {
+      "key": "source",
+      "value": "Ministerio de Gobierno. Subsecretaría de Reforma Política y Asuntos Legislativos. Dirección General Asuntos Legislativos."
+    },
+    {
+      "key": "spatial",
+      "value": "None"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"GOVE\"]"
+    },
+    {
+      "key": "temporal",
+      "value": ""
+    }
+  ],
+  "groups": [
+    {
+      "description": "",
+      "display_name": "Administración Pública",
+      "id": "8cb134a8-90ea-4e69-a96d-c03449917dc9",
+      "image_display_url": "https://data.buenosaires.gob.ar/uploads/group/2019-11-16-144810.360383adminpublica.png",
+      "name": "administracion-publica",
+      "title": "Administración Pública"
+    }
+  ],
+  "id": "54f7b8b3-850c-41e3-89a9-ce3e3e3100a1",
+  "isopen": true,
+  "license_id": "CC-BY-2.5-AR",
+  "license_title": "Atribucion 2.5 Argentina (CC BY 2.5 AR)",
+  "license_url": "https://creativecommons.org/licenses/by/2.5/ar ",
+  "maintainer": "Secretaría General y Relaciones Internacionales. Subsecretaría Gestión Estratégica y Calidad Institucional. Dirección General Calidad Institucional y Gobierno Abierto",
+  "maintainer_email": "datosabiertos@buenosaires.gob.ar",
+  "metadata_created": "2019-12-11T18:29:04.447425",
+  "metadata_modified": "2021-03-05T14:40:08.031095",
+  "name": "resoluciones",
+  "notes": "Expedientes aprobados por la legislatura con objeto: rechazo de solicitudes de particulares; otorgamiento de acuerdos; adopción de medidas relativas a la composición u organización interna del Poder Legislativo de CABA; reformas al reglamento interno de la Legislatura; y toda disposición de carácter imperativo que pueda adoptar por sí, sin impacto normativo por fuera de su ámbito. También se aprueban mediante resoluciones los pedidos de informes al Poder Ejecutivo, indicando plazo de respuesta.",
+  "num_resources": 5,
+  "num_tags": 5,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-11-15T19:18:05.034032",
+    "description": "",
+    "id": "d5fcd0f4-b12b-464b-b41f-2b47de9848a6",
+    "image_url": "",
+    "is_organization": true,
+    "name": "ministerio-de-gobierno",
+    "revision_id": "ce729574-7d1e-4984-8eae-c36169571556",
+    "state": "active",
+    "title": "Ministerio de Gobierno",
+    "type": "organization"
+  },
+  "owner_org": "d5fcd0f4-b12b-464b-b41f-2b47de9848a6",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/54f7b8b3-850c-41e3-89a9-ce3e3e3100a1/resource/4f15fa3f-7d3a-4757-813e-ff75ce41ad55",
+      "attributesDescription": "[{\"title\": \"numero\", \"type\": \"integer\", \"description\": \"N\\u00famero asignado por orden de llegada a la Mesa de Entradas de la DGALE. No es un dato que identifique al expediente.\"}, {\"title\": \"sancion\", \"type\": \"date\", \"description\": \"Fecha en la cual el Poder Legislativo aprob\\u00f3 la Resoluci\\u00f3n en el recinto. Luego es comunicado al Poder Ejecutivo mediante un expediente en formato papel en la Mesa de Entradas de la DGALE.\"}, {\"title\": \"pedido_informe\", \"type\": \"string\", \"description\": \"Indica con \\\"SI\\\" a aquellas Resoluciones que representan solicitudes de informaci\\u00f3n al Ejecutivo sobre alg\\u00fan asunto en cuesti\\u00f3n.\"}, {\"title\": \"numero_expediente\", \"type\": \"string\", \"description\": \"N\\u00famero de Expediente Electr\\u00f3nico generado por la Mesa de Entradas de la DGALE. Con esta acci\\u00f3n se comunica a las reparticiones del Ejecutivo apeladas por pedido de informes, para responderlos.\"}, {\"title\": \"fecha_envio_a_pe\", \"type\": \"date\", \"description\": \"Fecha en la cual se digitaliza el expediente enviado por el Poder Legislativo y se confecciona el EE en la DGALE, para ser enviado a las reparticiones del Poder Ejecutivo correspondientes al caso.\"}, {\"title\": \"contestado\", \"type\": \"string\", \"description\": \"Identifica como \\u201cSI\\u201d a aquellas resoluciones que tuvieron respuesta definitiva del PE. Cabe aclarar que estas respuestas no necesariamente se refieren a expedientes que son Pedidos de Informes.\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-07-18T12:18:48.328041",
+      "datastore_active": false,
+      "description": "Resoluciones correspondientes al año 2018. Incluye número, fecha de sanción, pedido de informe, número de expediente, fecha de envío al Poder Ejecutivo y si fue contestado.",
+      "fileName": "resoluciones-2018.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "4f15fa3f-7d3a-4757-813e-ff75ce41ad55",
+      "last_modified": "2019-07-18T12:18:48.328041",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Resoluciones 2018",
+      "package_id": "54f7b8b3-850c-41e3-89a9-ce3e3e3100a1",
+      "position": 0,
+      "resource_type": "file",
+      "revision_id": "ccf882b7-0d64-4260-b7ba-2911dc8eb483",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/resoluciones/resoluciones-2018.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/54f7b8b3-850c-41e3-89a9-ce3e3e3100a1/resource/c0b7d30d-8bae-4615-b7b3-b3af546cdf73",
+      "attributesDescription": "[{\"title\": \"numero\", \"type\": \"integer\", \"description\": \"N\\u00famero asignado por orden de llegada a la Mesa de Entradas de la DGALE. No es un dato que identifique al expediente.\"}, {\"title\": \"sancion\", \"type\": \"date\", \"description\": \"Fecha en la cual el Poder Legislativo aprob\\u00f3 la Resoluci\\u00f3n en el recinto. Luego es comunicado al Poder Ejecutivo mediante un expediente en formato papel en la Mesa de Entradas de la DGALE.\"}, {\"title\": \"pedido_informe\", \"type\": \"string\", \"description\": \"Indica con \\\"SI\\\" a aquellas Resoluciones que representan solicitudes de informaci\\u00f3n al Ejecutivo sobre alg\\u00fan asunto en cuesti\\u00f3n.\"}, {\"title\": \"numero_expediente\", \"type\": \"string\", \"description\": \"N\\u00famero de Expediente Electr\\u00f3nico generado por la Mesa de Entradas de la DGALE. Con esta acci\\u00f3n se comunica a las reparticiones del Ejecutivo apeladas por pedido de informes, para responderlos.\"}, {\"title\": \"fecha_envio_a_pe\", \"type\": \"date\", \"description\": \"Fecha en la cual se digitaliza el expediente enviado por el Poder Legislativo y se confecciona el EE en la DGALE, para ser enviado a las reparticiones del Poder Ejecutivo correspondientes al caso.\"}, {\"title\": \"contestado\", \"type\": \"string\", \"description\": \"Identifica como \\u201cSI\\u201d a aquellas resoluciones que tuvieron respuesta definitiva del PE. Cabe aclarar que estas respuestas no necesariamente se refieren a expedientes que son Pedidos de Informes.\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-07-18T12:18:27.871824",
+      "datastore_active": false,
+      "description": "Resoluciones correspondientes al año 2017. Incluye número, fecha de sanción, pedido de informe, número de expediente, fecha de envío al Poder Ejecutivo y si fue contestado.",
+      "fileName": "resoluciones-2017.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "c0b7d30d-8bae-4615-b7b3-b3af546cdf73",
+      "last_modified": "2019-07-18T12:18:27.871824",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Resoluciones 2017",
+      "package_id": "54f7b8b3-850c-41e3-89a9-ce3e3e3100a1",
+      "position": 1,
+      "resource_type": "file",
+      "revision_id": "bcac7e50-0920-4011-b6d4-600ca1c35a66",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/resoluciones/resoluciones-2017.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/54f7b8b3-850c-41e3-89a9-ce3e3e3100a1/resource/1be3e944-1759-4b7a-b4f4-a49084218a9f",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-07-24T12:07:17.033470",
+      "datastore_active": false,
+      "description": "Informe descriptivo sobre la tasa de respuesta del Poder Ejecutivo a los pedidos de informes del Poder Legislativo",
+      "fileName": "Tasa_respuesta.pdf",
+      "format": "PDF",
+      "hash": "",
+      "id": "1be3e944-1759-4b7a-b4f4-a49084218a9f",
+      "last_modified": "2019-07-24T12:07:17.033470",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Tasa de respuesta a pedidos de informe",
+      "package_id": "54f7b8b3-850c-41e3-89a9-ce3e3e3100a1",
+      "position": 2,
+      "resource_type": "file",
+      "revision_id": "10c4b392-eb1f-4617-bb41-2261151adc81",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/resoluciones/Tasa_respuesta.pdf",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/54f7b8b3-850c-41e3-89a9-ce3e3e3100a1/resource/4f15fa3f-7d3a-4757-813e-ff75ce41ad55",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-07-18T12:18:48.328041",
+      "datastore_active": false,
+      "description": "Resoluciones correspondientes al año 2018. Incluye número, fecha de sanción, pedido de informe, número de expediente, fecha de envío al Poder Ejecutivo y si fue contestado.",
+      "fileName": "resoluciones-2018.xlsx",
+      "format": "XLSX",
+      "hash": "",
+      "id": "4f15fa3f-7d3a-4757-813e-ff75ce41ad55-xlsx",
+      "last_modified": "2019-07-18T12:18:48.328041",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Resoluciones 2018 (XLSX)",
+      "package_id": "54f7b8b3-850c-41e3-89a9-ce3e3e3100a1",
+      "position": 3,
+      "resource_type": "file",
+      "revision_id": "24b3f4c5-b446-4561-b614-0d174dacd93d",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/resoluciones/resoluciones-2018.xlsx",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/54f7b8b3-850c-41e3-89a9-ce3e3e3100a1/resource/c0b7d30d-8bae-4615-b7b3-b3af546cdf73",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-07-18T12:18:27.871824",
+      "datastore_active": false,
+      "description": "Resoluciones correspondientes al año 2017. Incluye número, fecha de sanción, pedido de informe, número de expediente, fecha de envío al Poder Ejecutivo y si fue contestado.",
+      "fileName": "resoluciones-2017.xlsx",
+      "format": "XLSX",
+      "hash": "",
+      "id": "c0b7d30d-8bae-4615-b7b3-b3af546cdf73-xlsx",
+      "last_modified": "2019-07-18T12:18:27.871824",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Resoluciones 2017 (XLSX)",
+      "package_id": "54f7b8b3-850c-41e3-89a9-ce3e3e3100a1",
+      "position": 4,
+      "resource_type": "file",
+      "revision_id": "185932b4-fc1c-4f54-b017-784c99b55c71",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/resoluciones/resoluciones-2017.xlsx",
+      "url_type": null
+    }
+  ],
+  "revision_id": "1e0e078e-2d4d-4cd3-9381-30409175b731",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "disposiciones",
+      "id": "528306f3-8e5a-46cb-87c9-742cffff5885",
+      "name": "disposiciones",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "expedientes",
+      "id": "a5a8393a-ac39-411c-8108-c82646daac57",
+      "name": "expedientes",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "legislación",
+      "id": "17f698a4-c4ee-481d-9da2-3cdf9a5efaac",
+      "name": "legislación",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "legislatura",
+      "id": "abc09ef1-f3c4-4731-9ec4-90e5fc45d5e9",
+      "name": "legislatura",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "resoluciones",
+      "id": "85ecc88d-3268-44c2-aa19-9adc92051202",
+      "name": "resoluciones",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Resoluciones",
+  "type": "dataset",
+  "url": "https://data.buenosaires.gob.ar/dataset/resoluciones",
+  "version": null
+}

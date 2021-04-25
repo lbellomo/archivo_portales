@@ -1,0 +1,195 @@
+{
+  "author": "Ministerio de Ambiente y Espacio Público",
+  "author_email": "datosabiertos@buenosaires.gob.ar",
+  "creator_user_id": "e4546f46-e966-493c-b2f1-57318502c41b",
+  "extras": [
+    {
+      "key": "Documentación",
+      "value": ""
+    },
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P1Y"
+    },
+    {
+      "key": "country",
+      "value": "None"
+    },
+    {
+      "key": "district",
+      "value": ""
+    },
+    {
+      "key": "home_featured",
+      "value": "false"
+    },
+    {
+      "key": "issued",
+      "value": "2019-01-08T14:52:31.046499"
+    },
+    {
+      "key": "language",
+      "value": "[]"
+    },
+    {
+      "key": "modified",
+      "value": "2021-03-05T10:27:58.173574"
+    },
+    {
+      "key": "province",
+      "value": ""
+    },
+    {
+      "key": "source",
+      "value": "Subgerencia de Información Geoespacial. DG Ciencias de la Información. SS de Políticas Públicas Basadas en Evidencia. Secretaría de Innovación y Transformación Digital. Jefatura de Gabinete de Ministros"
+    },
+    {
+      "key": "spatial",
+      "value": "None"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"REGI\"]"
+    },
+    {
+      "key": "temporal",
+      "value": ""
+    }
+  ],
+  "groups": [
+    {
+      "description": "Datasets relacionados con urbanismo y territorio",
+      "display_name": "Urbanismo y Territorio",
+      "id": "63e162a0-3f4a-446a-a60b-601d16f36200",
+      "image_display_url": "https://data.buenosaires.gob.ar/uploads/group/2019-11-16-145056.781692urba.png",
+      "name": "urbanismo-y-territorio",
+      "title": "Urbanismo y Territorio"
+    }
+  ],
+  "id": "juqdkmgo-181",
+  "isopen": true,
+  "license_id": "CC-BY-2.5-AR",
+  "license_title": "Atribucion 2.5 Argentina (CC BY 2.5 AR)",
+  "license_url": "https://creativecommons.org/licenses/by/2.5/ar ",
+  "maintainer": "Gerencia Operativa de Ingeniería de Datos. DG Arquitectura de Datos. SS de Políticas Públicas Basadas en Evidencia. Secretaría de Innovación y Transformación Digital. Jefatura de Gabinete de Ministros",
+  "maintainer_email": "datosabiertos@buenosaires.gob.ar",
+  "metadata_created": "2019-12-11T18:05:39.432543",
+  "metadata_modified": "2021-03-05T13:27:58.185831",
+  "name": "relojes-solares",
+  "notes": "Ubicación geográfica de los relojes solares instalados en la vía pública.",
+  "num_resources": 3,
+  "num_tags": 2,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-11-15T19:16:29.440170",
+    "description": "",
+    "id": "d3293f04-e51f-4235-95ca-ee4566322496",
+    "image_url": "",
+    "is_organization": true,
+    "name": "ministerio-de-espacio-publico-e-higiene-urbana",
+    "revision_id": "d10fc1d4-0543-46ca-b027-a9ebc285c6b3",
+    "state": "active",
+    "title": "Ministerio de Espacio Público e Higiene Urbana",
+    "type": "organization"
+  },
+  "owner_org": "d3293f04-e51f-4235-95ca-ee4566322496",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/relojes-solares",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-01-08T14:52:31.046499",
+      "datastore_active": true,
+      "description": "Ubicación geográfica de los relojes solares instalados en la vía pública.",
+      "fileName": "relojes-solares.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "juqdkmgo-1811-resource",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Relojes Solares",
+      "package_id": "juqdkmgo-181",
+      "position": 0,
+      "resource_type": "file",
+      "revision_id": "addcc49f-4a5d-4877-b12d-6ccacfc2e1e4",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/relojes-solares/relojes-solares.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/relojes-solares",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-01-08T14:52:31.046499",
+      "datastore_active": false,
+      "description": "Archivo shapefile con la ubicación geográfica de los relojes solares.",
+      "fileName": "relojes-solares-zip.zip",
+      "format": "ZIP",
+      "hash": "",
+      "id": "juqdkmgo-1812-resource",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Relojes solares (SHP)",
+      "package_id": "juqdkmgo-181",
+      "position": 1,
+      "resource_type": "file",
+      "revision_id": "7dd3c732-e327-4338-b2dc-2326e5f30b15",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/relojes-solares/relojes-solares-zip.zip",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/relojes-solares",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-01-08T14:52:31.046499",
+      "datastore_active": true,
+      "description": "Ubicación geográfica de los relojes solares instalados en la vía pública.",
+      "fileName": "relojes-solares.xlsx",
+      "format": "XLSX",
+      "hash": "",
+      "id": "juqdkmgo-1811-resource-xlsx",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Relojes Solares (XLSX)",
+      "package_id": "juqdkmgo-181",
+      "position": 2,
+      "resource_type": "file",
+      "revision_id": "a92d6327-9b16-4c2a-bdeb-b9a7771c8475",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/relojes-solares/relojes-solares.xlsx",
+      "url_type": null
+    }
+  ],
+  "revision_id": "6239c9ee-afe4-468c-a4d0-459828cee9c3",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "mapa",
+      "id": "2c83da8e-2e03-47e6-aee4-bb965600000d",
+      "name": "mapa",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "urbanismo",
+      "id": "17ac67e7-699b-470d-b0dd-5b8752c1fb73",
+      "name": "urbanismo",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Relojes solares",
+  "type": "dataset",
+  "url": "https://data.buenosaires.gob.ar/dataset/relojes-solares",
+  "version": null
+}

@@ -1,0 +1,205 @@
+{
+  "author": "Ministerio de Gobierno. DG de Registro del Estado Civil y Capacidad de las Personas",
+  "author_email": "gobiernoabierto@buenosaires.gob.ar",
+  "creator_user_id": "e4546f46-e966-493c-b2f1-57318502c41b",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P3M"
+    },
+    {
+      "key": "issued",
+      "value": "2019-05-28T20:17:14.745281"
+    },
+    {
+      "key": "language",
+      "value": "[\"SPA\"]"
+    },
+    {
+      "key": "modified",
+      "value": "2019-07-31T12:31:11.297201"
+    },
+    {
+      "key": "source",
+      "value": "Ministerio de Gobierno. DG de Registro del Estado Civil y Capacidad de las Personas"
+    },
+    {
+      "key": "spatial",
+      "value": "02"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"HEAL\", \"SOCI\"]"
+    }
+  ],
+  "groups": [
+    {
+      "description": "",
+      "display_name": "Administración Pública",
+      "id": "8cb134a8-90ea-4e69-a96d-c03449917dc9",
+      "image_display_url": "https://data.buenosaires.gob.ar/uploads/group/2019-11-16-144810.360383adminpublica.png",
+      "name": "administracion-publica",
+      "title": "Administración Pública"
+    },
+    {
+      "description": "",
+      "display_name": "Género",
+      "id": "3d97d3f5-206f-4719-8a06-54c709a25893",
+      "image_display_url": "https://data.buenosaires.gob.ar/uploads/group/2019-11-19-182128.307764genero720.png",
+      "name": "genero",
+      "title": "Género"
+    }
+  ],
+  "id": "8406cbca-5e1c-448b-b23e-07a484567ae5",
+  "isopen": true,
+  "license_id": "CC-BY-2.5-AR",
+  "license_title": "Atribucion 2.5 Argentina (CC BY 2.5 AR)",
+  "license_url": "https://creativecommons.org/licenses/by/2.5/ar ",
+  "maintainer": "Secretaría General y Relaciones Internacionales. Subsecretaría Gestión Estratégica y Calidad Institucional. Dirección General Calidad Institucional y Gobierno Abierto",
+  "maintainer_email": "gobiernoabierto@buenosaires.gob.ar",
+  "metadata_created": "2019-12-11T18:28:56.792904",
+  "metadata_modified": "2020-12-17T16:00:54.488672",
+  "name": "defunciones",
+  "notes": "Defunciones registradas en la Ciudad Autónoma de Buenos Aires",
+  "num_resources": 4,
+  "num_tags": 2,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-11-15T19:18:05.034032",
+    "description": "",
+    "id": "d5fcd0f4-b12b-464b-b41f-2b47de9848a6",
+    "image_url": "",
+    "is_organization": true,
+    "name": "ministerio-de-gobierno",
+    "revision_id": "ce729574-7d1e-4984-8eae-c36169571556",
+    "state": "active",
+    "title": "Ministerio de Gobierno",
+    "type": "organization"
+  },
+  "owner_org": "d5fcd0f4-b12b-464b-b41f-2b47de9848a6",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/8406cbca-5e1c-448b-b23e-07a484567ae5/resource/e8a0cb20-d8f9-4ca2-aafd-967a36d6b182",
+      "attributesDescription": "[{\"title\": \"fecha_defuncion\", \"type\": \"date\", \"description\": \"A\\u00f1o, mes, d\\u00eda y hora de la defunci\\u00f3n\"}, {\"title\": \"genero\", \"type\": \"string\", \"description\": \"G\\u00e9nero femenino o masculino de la persona\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-05-28T17:19:36.735354",
+      "datastore_active": false,
+      "description": "Información sobre las defunciones del 2018, según fecha y género",
+      "fileName": "defunciones_2018.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "e8a0cb20-d8f9-4ca2-aafd-967a36d6b182",
+      "last_modified": "2019-05-28T17:19:36.735354",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Defunciones por día del 2018",
+      "package_id": "8406cbca-5e1c-448b-b23e-07a484567ae5",
+      "position": 0,
+      "resource_type": "file",
+      "revision_id": "4b73c375-6365-4654-9e1c-92a66f957616",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/defunciones/defunciones_2018.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/8406cbca-5e1c-448b-b23e-07a484567ae5/resource/e545e2c2-bb21-4f61-9116-36a1dc95b585",
+      "attributesDescription": "[{\"title\": \"fecha_defuncion\", \"type\": \"date\", \"description\": \"Fecha de defunci\\u00f3n\"}, {\"title\": \"genero\", \"type\": \"string\", \"description\": \"G\\u00e9nero de la persona difunta\"}, {\"title\": \"descripcion_subtipo\", \"type\": \"string\", \"description\": \"Subtipo de defunci\\u00f3n\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-07-31T12:11:09.972468",
+      "datastore_active": false,
+      "description": "Información sobre las defunciones del 2019, según fecha y género",
+      "fileName": "defunciones-2019.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "e545e2c2-bb21-4f61-9116-36a1dc95b585",
+      "last_modified": "2019-07-31T12:11:09.972468",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Defunciones por día del 2019",
+      "package_id": "8406cbca-5e1c-448b-b23e-07a484567ae5",
+      "position": 1,
+      "resource_type": "file",
+      "revision_id": "c66bab42-f365-4bc0-a838-552df6f8f7c2",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/defunciones/defunciones-2019.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/8406cbca-5e1c-448b-b23e-07a484567ae5/resource/e8a0cb20-d8f9-4ca2-aafd-967a36d6b182",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-05-28T17:19:36.735354",
+      "datastore_active": false,
+      "description": "Información sobre las defunciones del 2018, según fecha y género",
+      "fileName": "defunciones_2018.xlsx",
+      "format": "XLSX",
+      "hash": "",
+      "id": "e8a0cb20-d8f9-4ca2-aafd-967a36d6b182-xlsx",
+      "last_modified": "2019-05-28T17:19:36.735354",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Defunciones por día del 2018 (XLSX)",
+      "package_id": "8406cbca-5e1c-448b-b23e-07a484567ae5",
+      "position": 2,
+      "resource_type": "file",
+      "revision_id": "71b2d493-d401-4fce-82f0-d9307d0fe628",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/defunciones/defunciones_2018.xlsx",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/8406cbca-5e1c-448b-b23e-07a484567ae5/resource/e545e2c2-bb21-4f61-9116-36a1dc95b585",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-07-31T12:11:09.972468",
+      "datastore_active": false,
+      "description": "Información sobre las defunciones del 2019, según fecha y género",
+      "fileName": "defunciones-2019.xlsx",
+      "format": "XLSX",
+      "hash": "",
+      "id": "e545e2c2-bb21-4f61-9116-36a1dc95b585-xlsx",
+      "last_modified": "2019-07-31T12:11:09.972468",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Defunciones por día del 2019 (XLSX)",
+      "package_id": "8406cbca-5e1c-448b-b23e-07a484567ae5",
+      "position": 3,
+      "resource_type": "file",
+      "revision_id": "14bf8e45-97cc-4dd9-8d61-5fd6297c107f",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/defunciones/defunciones-2019.xlsx",
+      "url_type": null
+    }
+  ],
+  "revision_id": "1a1b7a00-31c2-4fdc-be8e-cb7955362403",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "defunciones",
+      "id": "0d372608-5947-4b49-b0ad-f9ce7f02fcab",
+      "name": "defunciones",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "registro civil",
+      "id": "2837b8f0-9bb6-4d0b-b799-bf3d468bd273",
+      "name": "registro civil",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Defunciones",
+  "type": "dataset",
+  "url": "https://data.buenosaires.gob.ar/dataset/defunciones",
+  "version": null
+}

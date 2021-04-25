@@ -1,0 +1,161 @@
+{
+  "author": "Ministerio de Desarrollo Urbano y Transporte",
+  "author_email": "gobiernoabierto@buenosaires.gob.ar",
+  "creator_user_id": "e4546f46-e966-493c-b2f1-57318502c41b",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P6M"
+    },
+    {
+      "key": "issued",
+      "value": "2019-01-08T15:00:29.361716"
+    },
+    {
+      "key": "language",
+      "value": "[\"SPA\"]"
+    },
+    {
+      "key": "modified",
+      "value": "2019-07-05T14:24:06.678404"
+    },
+    {
+      "key": "source",
+      "value": "Ministerio de Desarrollo Urbano y Transporte"
+    },
+    {
+      "key": "spatial",
+      "value": "02"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"TRAN\"]"
+    }
+  ],
+  "groups": [
+    {
+      "description": "",
+      "display_name": "Movilidad",
+      "id": "e616e02e-64d8-4fb0-b55d-08e75eb58376",
+      "image_display_url": "https://data.buenosaires.gob.ar/uploads/group/2019-11-16-145017.234366movilidad.png",
+      "name": "movilidad",
+      "title": "Movilidad"
+    }
+  ],
+  "id": "juqdkmgo-35",
+  "isopen": true,
+  "license_id": "CC-BY-2.5-AR",
+  "license_title": "Atribucion 2.5 Argentina (CC BY 2.5 AR)",
+  "license_url": "https://creativecommons.org/licenses/by/2.5/ar ",
+  "maintainer": "Secretaría General y Relaciones Internacionales. Subsecretaría Gestión Estratégica y Calidad Institucional. Dirección General Calidad Institucional y Gobierno Abierto",
+  "maintainer_email": "gobiernoabierto@buenosaires.gob.ar",
+  "metadata_created": "2019-12-11T18:17:25.145150",
+  "metadata_modified": "2020-12-17T15:40:07.145602",
+  "name": "carteles-luminosos",
+  "notes": "Listado con ubicación geográfica de los carteles luminosos que informan a través de mensajes el estado de tránsito.",
+  "num_resources": 2,
+  "num_tags": 4,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-11-15T19:19:49.916928",
+    "description": "",
+    "id": "56b60b46-a47c-48fb-9bd4-c2ad0e05fef2",
+    "image_url": "",
+    "is_organization": true,
+    "name": "transporte-y-obras-publicas",
+    "revision_id": "c33c86a3-e197-468f-8b66-5b943b3bf106",
+    "state": "active",
+    "title": "Secretaría de Transporte y Obras Públicas",
+    "type": "organization"
+  },
+  "owner_org": "56b60b46-a47c-48fb-9bd4-c2ad0e05fef2",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/carteles-luminosos",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-01-08T15:00:29.361716",
+      "datastore_active": false,
+      "description": "Ubicación de los Carteles Luminosos de la Ciudad.",
+      "fileName": "carteles-luminosos.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "juqdkmgo-351-resource",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Carteles Luminosos",
+      "package_id": "juqdkmgo-35",
+      "position": 0,
+      "resource_type": "file",
+      "revision_id": "2bf3063e-bc67-41cb-bfe0-a707af04e4fd",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/carteles-luminosos/carteles-luminosos.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/carteles-luminosos",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-01-08T15:00:29.361716",
+      "datastore_active": false,
+      "description": "Ubicación de los Carteles Luminosos de la Ciudad.",
+      "fileName": "carteles-luminosos.xlsx",
+      "format": "XLSX",
+      "hash": "",
+      "id": "juqdkmgo-351-resource-xlsx",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Carteles Luminosos (XLSX)",
+      "package_id": "juqdkmgo-35",
+      "position": 1,
+      "resource_type": "file",
+      "revision_id": "a598e50a-5b08-4d52-a3d8-58fa9fe3a0c8",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/carteles-luminosos/carteles-luminosos.xlsx",
+      "url_type": null
+    }
+  ],
+  "revision_id": "5108f63d-318e-4bab-9e2a-0ac89c1dfde6",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "calles",
+      "id": "bba7a357-37d0-4bd1-95c9-ae5ff4d1f6e7",
+      "name": "calles",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "carteles",
+      "id": "871dc636-9695-42ea-9d28-8dd416d18ae0",
+      "name": "carteles",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "luminosos",
+      "id": "e71e590a-0b59-4cd6-821a-95f073af7652",
+      "name": "luminosos",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "vía-pública",
+      "id": "ab72a7d8-9915-4eef-a586-261e58fa65a9",
+      "name": "vía-pública",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Carteles Luminosos",
+  "type": "dataset",
+  "url": "https://data.buenosaires.gob.ar/dataset/carteles-luminosos",
+  "version": null
+}

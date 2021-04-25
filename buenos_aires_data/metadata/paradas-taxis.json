@@ -1,0 +1,185 @@
+{
+  "author": "Ministerio de Desarrollo Urbano y Transporte. SS de Tránsito y Transporte",
+  "author_email": "gobiernoabierto@buenosaires.gob.ar",
+  "creator_user_id": "e4546f46-e966-493c-b2f1-57318502c41b",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P3M"
+    },
+    {
+      "key": "issued",
+      "value": "2019-01-08T15:00:59.541913"
+    },
+    {
+      "key": "language",
+      "value": "[\"SPA\"]"
+    },
+    {
+      "key": "modified",
+      "value": "2019-04-23T15:30:15.005242"
+    },
+    {
+      "key": "source",
+      "value": "Ministerio de Desarrollo Urbano y Transporte. SS de Tránsito y Transporte"
+    },
+    {
+      "key": "spatial",
+      "value": "02"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"TRAN\"]"
+    }
+  ],
+  "groups": [
+    {
+      "description": "",
+      "display_name": "Movilidad",
+      "id": "e616e02e-64d8-4fb0-b55d-08e75eb58376",
+      "image_display_url": "https://data.buenosaires.gob.ar/uploads/group/2019-11-16-145017.234366movilidad.png",
+      "name": "movilidad",
+      "title": "Movilidad"
+    }
+  ],
+  "id": "juqdkmgo-155",
+  "isopen": true,
+  "license_id": "CC-BY-2.5-AR",
+  "license_title": "Atribucion 2.5 Argentina (CC BY 2.5 AR)",
+  "license_url": "https://creativecommons.org/licenses/by/2.5/ar ",
+  "maintainer": "Secretaría General y Relaciones Internacionales. Subsecretaría Gestión Estratégica y Calidad Institucional. Dirección General Calidad Institucional y Gobierno Abierto",
+  "maintainer_email": "gobiernoabierto@buenosaires.gob.ar",
+  "metadata_created": "2019-12-11T18:17:44.747067",
+  "metadata_modified": "2020-12-17T16:42:49.173224",
+  "name": "paradas-taxis",
+  "notes": "Ubicación geográfica y cantidad de vehículos de las paradas de Taxi habilitadas en la Ciudad.",
+  "num_resources": 3,
+  "num_tags": 4,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-11-15T19:19:49.916928",
+    "description": "",
+    "id": "56b60b46-a47c-48fb-9bd4-c2ad0e05fef2",
+    "image_url": "",
+    "is_organization": true,
+    "name": "transporte-y-obras-publicas",
+    "revision_id": "c33c86a3-e197-468f-8b66-5b943b3bf106",
+    "state": "active",
+    "title": "Secretaría de Transporte y Obras Públicas",
+    "type": "organization"
+  },
+  "owner_org": "56b60b46-a47c-48fb-9bd4-c2ad0e05fef2",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/paradas-de-taxis",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-05-22T16:44:30.464660",
+      "datastore_active": false,
+      "description": "Ubicación de las paradas de Taxis por cantidad de vehículos en la Ciudad de Buenos Aires.",
+      "fileName": "paradas-de-taxis.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "juqdkmgo-1551-resource",
+      "last_modified": "2019-05-22T16:44:30.464660",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Paradas de Taxis",
+      "package_id": "juqdkmgo-155",
+      "position": 0,
+      "resource_type": "file",
+      "revision_id": "a6883781-3b86-4afc-833b-4f7808e9c48f",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/paradas-de-taxis/paradas-de-taxis.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/paradas-de-taxis",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-01-08T15:00:59.541913",
+      "datastore_active": false,
+      "description": "Archivo shapefile con las paradas de Taxis de la Ciudad.",
+      "fileName": "paradas-de-taxis-zip.zip",
+      "format": "ZIP",
+      "hash": "",
+      "id": "juqdkmgo-1552-resource",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Paradas de Taxis (SHP)",
+      "package_id": "juqdkmgo-155",
+      "position": 1,
+      "resource_type": "file",
+      "revision_id": "25b2dca1-f0d6-4d92-9461-3ad690111d2c",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/paradas-de-taxis/paradas-de-taxis-zip.zip",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/paradas-de-taxis",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-05-22T16:44:30.464660",
+      "datastore_active": false,
+      "description": "Ubicación de las paradas de Taxis por cantidad de vehículos en la Ciudad de Buenos Aires.",
+      "fileName": "paradas-de-taxis.xlsx",
+      "format": "XLSX",
+      "hash": "",
+      "id": "juqdkmgo-1551-resource-xlsx",
+      "last_modified": "2019-05-22T16:44:30.464660",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Paradas de Taxis (XLSX)",
+      "package_id": "juqdkmgo-155",
+      "position": 2,
+      "resource_type": "file",
+      "revision_id": "8a965345-969a-4b0c-8ad2-56bc2a04d4cb",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/paradas-de-taxis/paradas-de-taxis.xlsx",
+      "url_type": null
+    }
+  ],
+  "revision_id": "8b8e0fc6-8f97-43b1-8129-d54d19b00d18",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "autos",
+      "id": "a2cecddb-3395-4220-b42f-d22235ca8a74",
+      "name": "autos",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "paradas",
+      "id": "e47e1ac1-8bd2-4599-806e-8d127067897f",
+      "name": "paradas",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "taxis",
+      "id": "6f98c473-e05c-4ffa-8125-cac11258f160",
+      "name": "taxis",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "transporte",
+      "id": "aff133f8-2f33-4d2c-a531-6d632bd4efbb",
+      "name": "transporte",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Paradas de Taxis",
+  "type": "dataset",
+  "url": "https://data.buenosaires.gob.ar/dataset/paradas-taxis",
+  "version": null
+}

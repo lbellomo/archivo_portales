@@ -1,0 +1,147 @@
+{
+  "author": "Ministerio de Gobierno. SS de Trabajo, Industria y Comercio. DG de Protección del Trabajo",
+  "author_email": "gobiernoabierto@buenosaires.gob.ar",
+  "creator_user_id": "e4546f46-e966-493c-b2f1-57318502c41b",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P6M"
+    },
+    {
+      "key": "issued",
+      "value": "2019-01-08T14:57:02.090925"
+    },
+    {
+      "key": "language",
+      "value": "[\"SPA\"]"
+    },
+    {
+      "key": "modified",
+      "value": "2019-04-23T15:25:29.428182"
+    },
+    {
+      "key": "source",
+      "value": "Ministerio de Gobierno. SS de Trabajo, Industria y Comercio. DG de Protección del Trabajo"
+    },
+    {
+      "key": "spatial",
+      "value": "02"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"ECON\"]"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Datasets relacionados con la economía y las finanzas",
+      "display_name": "Economía y Finanzas",
+      "id": "64da4336-6da7-4494-80c0-365016597e9e",
+      "image_display_url": "https://data.buenosaires.gob.ar/uploads/group/2019-11-16-144934.521128economia.png",
+      "name": "economia-y-finanzas",
+      "title": "Economía y Finanzas"
+    }
+  ],
+  "id": "juqdkmgo-127",
+  "isopen": true,
+  "license_id": "CC-BY-2.5-AR",
+  "license_title": "Atribucion 2.5 Argentina (CC BY 2.5 AR)",
+  "license_url": "https://creativecommons.org/licenses/by/2.5/ar ",
+  "maintainer": "Secretaría General y Relaciones Internacionales. Subsecretaría Gestión Estratégica y Calidad Institucional. Dirección General Calidad Institucional y Gobierno Abierto",
+  "maintainer_email": "gobiernoabierto@buenosaires.gob.ar",
+  "metadata_created": "2019-12-11T18:29:38.130973",
+  "metadata_modified": "2020-12-17T16:33:11.631863",
+  "name": "inspectores-trabajo-industria-comercio",
+  "notes": "Información de los inspectores de Trabajo, Industria y Comercio.",
+  "num_resources": 2,
+  "num_tags": 2,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-11-15T19:18:05.034032",
+    "description": "",
+    "id": "d5fcd0f4-b12b-464b-b41f-2b47de9848a6",
+    "image_url": "",
+    "is_organization": true,
+    "name": "ministerio-de-gobierno",
+    "revision_id": "ce729574-7d1e-4984-8eae-c36169571556",
+    "state": "active",
+    "title": "Ministerio de Gobierno",
+    "type": "organization"
+  },
+  "owner_org": "d5fcd0f4-b12b-464b-b41f-2b47de9848a6",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/inspectores-de-trabajo-industria-y-comercio",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-01-08T14:57:02.090925",
+      "datastore_active": false,
+      "description": "Registro de los inspectores de trabajo, industria y comercio activos en la ciudad de Buenos Aires.",
+      "fileName": "inspectores-de-desarrollo-economico.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "juqdkmgo-1271-resource",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Inspectores de desarrollo económico",
+      "package_id": "juqdkmgo-127",
+      "position": 0,
+      "resource_type": "file",
+      "revision_id": "7ac4615a-aed5-4dfe-8b1d-a37c0413eb6a",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/inspectores-de-trabajo-industra-y-comercio/inspectores-de-desarrollo-economico.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/inspectores-de-trabajo-industria-y-comercio",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-01-08T14:57:02.090925",
+      "datastore_active": false,
+      "description": "Registro de los inspectores de trabajo, industria y comercio activos en la ciudad de Buenos Aires.",
+      "fileName": "inspectores-de-desarrollo-economico.xlsx",
+      "format": "XLSX",
+      "hash": "",
+      "id": "juqdkmgo-1271-resource-xlsx",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Inspectores de desarrollo económico (XLSX)",
+      "package_id": "juqdkmgo-127",
+      "position": 1,
+      "resource_type": "file",
+      "revision_id": "b21b18a1-48c7-4ce2-a3be-d91ab2a115e4",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/inspectores-de-trabajo-industra-y-comercio/inspectores-de-desarrollo-economico.xlsx",
+      "url_type": null
+    }
+  ],
+  "revision_id": "833405ec-a619-497e-b348-7a4f0573e2b4",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "económico",
+      "id": "4c608b71-6b19-4d62-b548-7c0ce830dbee",
+      "name": "económico",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "inspectores",
+      "id": "daf694fc-8721-4309-a458-36c1f088b891",
+      "name": "inspectores",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Inspectores de Trabajo, Industria y Comercio",
+  "type": "dataset",
+  "url": "https://data.buenosaires.gob.ar/dataset/inspectores-trabajo-industria-comercio",
+  "version": null
+}

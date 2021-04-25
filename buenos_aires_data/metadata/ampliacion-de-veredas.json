@@ -1,0 +1,276 @@
+{
+  "author": "Ministerio de Espacio Público e Higiene Urbana",
+  "author_email": "datosabiertos@buenosaires.gob.ar",
+  "creator_user_id": "931fac92-738f-4472-b1c1-f5c2f6e46af3",
+  "extras": [
+    {
+      "key": "Documentación",
+      "value": ""
+    },
+    {
+      "key": "accrualPeriodicity",
+      "value": "eventual"
+    },
+    {
+      "key": "country",
+      "value": "ARG"
+    },
+    {
+      "key": "district",
+      "value": ""
+    },
+    {
+      "key": "home_featured",
+      "value": "false"
+    },
+    {
+      "key": "issued",
+      "value": "2020-07-22T12:33:17.558816"
+    },
+    {
+      "key": "language",
+      "value": "[\"spa\"]"
+    },
+    {
+      "key": "modified",
+      "value": "2021-03-01T15:06:53.027410"
+    },
+    {
+      "key": "province",
+      "value": ""
+    },
+    {
+      "key": "source",
+      "value": "Ministerio de Espacio Público e Higiene Urbana"
+    },
+    {
+      "key": "spatial",
+      "value": "ARG"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"SOCI\"]"
+    },
+    {
+      "key": "temporal",
+      "value": ""
+    }
+  ],
+  "groups": [
+    {
+      "description": "Datasets relacionados a COVID-19",
+      "display_name": "COVID-19",
+      "id": "0f30f631-df60-4d33-aedb-96c9a48a2332",
+      "image_display_url": "https://data.buenosaires.gob.ar/uploads/group/2020-07-23-165939.349779iconocovid19.png",
+      "name": "covid-19",
+      "title": "COVID-19"
+    },
+    {
+      "description": "Datasets relacionados con urbanismo y territorio",
+      "display_name": "Urbanismo y Territorio",
+      "id": "63e162a0-3f4a-446a-a60b-601d16f36200",
+      "image_display_url": "https://data.buenosaires.gob.ar/uploads/group/2019-11-16-145056.781692urba.png",
+      "name": "urbanismo-y-territorio",
+      "title": "Urbanismo y Territorio"
+    }
+  ],
+  "id": "2babe00e-b231-477f-bda9-929605213ac3",
+  "isopen": true,
+  "license_id": "CC-BY-2.5-AR",
+  "license_title": "Atribucion 2.5 Argentina (CC BY 2.5 AR)",
+  "license_url": "https://creativecommons.org/licenses/by/2.5/ar ",
+  "maintainer": "Subsecretaría de Políticas Públicas Basadas en Evidencia. DG Arquitectura de Datos",
+  "maintainer_email": "datosabiertos@buenosaires.gob.ar",
+  "metadata_created": "2020-07-08T23:52:12.796505",
+  "metadata_modified": "2021-03-01T18:06:53.039698",
+  "name": "ampliacion-de-veredas",
+  "notes": "Información con las diferentes intervenciones en las veredas en relación al COVID-19",
+  "num_resources": 4,
+  "num_tags": 5,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-11-15T19:16:29.440170",
+    "description": "",
+    "id": "d3293f04-e51f-4235-95ca-ee4566322496",
+    "image_url": "",
+    "is_organization": true,
+    "name": "ministerio-de-espacio-publico-e-higiene-urbana",
+    "revision_id": "d10fc1d4-0543-46ca-b027-a9ebc285c6b3",
+    "state": "active",
+    "title": "Ministerio de Espacio Público e Higiene Urbana",
+    "type": "organization"
+  },
+  "owner_org": "d3293f04-e51f-4235-95ca-ee4566322496",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "",
+      "accessURL_field": "",
+      "attributesDescription": "[{\"title\":\"Eje\",\"description\":\"EJe\",\"type\":\"string\"},{\"title\":\"Tramo\",\"description\":\"Tramo\",\"type\":\"string\"},{\"title\":\"Ampliacion\",\"description\":\"ampliacion\",\"type\":\"string\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2020-07-23T18:06:46.118796",
+      "datastore_active": false,
+      "description": "Ampliaciones de veredas por COVID-19",
+      "fileName": "ampliaciones_de_veredas.csv",
+      "format": "CSV",
+      "has-uploaded-file": "",
+      "hash": "",
+      "icon_url": "",
+      "id": "c5cf58da-26eb-4a74-9ef9-e0ace13954cc",
+      "issued": "2020-07-23T18:06:46.118796",
+      "last_modified": "2020-07-23T00:00:00",
+      "license_id": "CC-BY-4.0",
+      "mimetype": "text/csv",
+      "mimetype_inner": null,
+      "modified": "2020-07-24",
+      "name": "Ampliaciones de veredas",
+      "package_id": "2babe00e-b231-477f-bda9-929605213ac3",
+      "position": 0,
+      "resource_type": "file",
+      "revision_id": "d64520ce-258c-4ac9-80b8-b6885377af7c",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/espacio-publico-e-higiene-urbana/ampliacion-de-veredas/ampliaciones_de_veredas.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "",
+      "accessURL_field": "",
+      "attributesDescription": "[{\"title\":\"Eje\",\"description\":\"EJe\",\"type\":\"string\"},{\"title\":\"Tramo\",\"description\":\"Tramo\",\"type\":\"string\"},{\"title\":\"Ampliacion\",\"description\":\"ampliacion\",\"type\":\"string\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2020-07-23T18:06:49.714878",
+      "datastore_active": false,
+      "description": "Ampliaciones de veredas por COVID-19",
+      "fileName": "ampliaciones_de_veredas.geojson",
+      "format": "GeoJSON",
+      "has-uploaded-file": "",
+      "hash": "",
+      "icon_url": "",
+      "id": "6eb27811-d919-47ab-955a-ff7d685b9765",
+      "issued": "2020-07-23T18:06:49.714878",
+      "last_modified": "2020-07-23T00:00:00",
+      "license_id": "CC-BY-4.0",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "modified": "2020-07-24",
+      "name": "Ampliaciones de veredas (GeoJSON)",
+      "package_id": "2babe00e-b231-477f-bda9-929605213ac3",
+      "position": 1,
+      "resource_type": "file",
+      "revision_id": "fbc061d6-eef2-406b-a410-3f1100a0895c",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/espacio-publico-e-higiene-urbana/ampliacion-de-veredas/ampliaciones_de_veredas.geojson",
+      "url_type": null
+    },
+    {
+      "accessURL": "",
+      "accessURL_field": "",
+      "attributesDescription": "[{\"title\":\"Eje\",\"description\":\"EJe\",\"type\":\"string\"},{\"title\":\"Tramo\",\"description\":\"Tramo\",\"type\":\"string\"},{\"title\":\"Ampliacion\",\"description\":\"ampliacion\",\"type\":\"string\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2020-07-23T18:06:53.117150",
+      "datastore_active": false,
+      "description": "Ampliaciones de veredas por COVID-19",
+      "fileName": "ampliaciones_de_veredas.xlsx",
+      "format": "XLSX",
+      "has-uploaded-file": "",
+      "hash": "",
+      "icon_url": "",
+      "id": "c681fefc-6cb7-42a6-b370-36f42ae707ea",
+      "issued": "2020-07-23T18:06:53.117150",
+      "last_modified": "2020-07-23T00:00:00",
+      "license_id": "CC-BY-4.0",
+      "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "mimetype_inner": null,
+      "modified": "2020-07-24",
+      "name": "Ampliaciones de veredas (XLSX)",
+      "package_id": "2babe00e-b231-477f-bda9-929605213ac3",
+      "position": 2,
+      "resource_type": "file",
+      "revision_id": "f92c9e38-548e-4fa0-a711-40a7749f7158",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/espacio-publico-e-higiene-urbana/ampliacion-de-veredas/ampliaciones_de_veredas.xlsx",
+      "url_type": null
+    },
+    {
+      "accessURL": "",
+      "accessURL_field": "",
+      "attributesDescription": "[{\"title\":\"Eje\",\"description\":\"EJe\",\"type\":\"string\"},{\"title\":\"Tramo\",\"description\":\"Tramo\",\"type\":\"string\"},{\"title\":\"Ampliacion\",\"description\":\"ampliacion\",\"type\":\"string\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2020-07-23T18:06:59.440253",
+      "datastore_active": false,
+      "description": "Ampliaciones de veredas por COVID-19",
+      "fileName": "ampliaciones_de_veredas.zip",
+      "format": "ZIP",
+      "has-uploaded-file": "",
+      "hash": "",
+      "icon_url": "",
+      "id": "910ced2c-60ba-4b46-971e-92e362a35a54",
+      "issued": "2020-07-23T18:06:59.440253",
+      "last_modified": "2020-07-23T00:00:00",
+      "license_id": "CC-BY-4.0",
+      "mimetype": "application/zip",
+      "mimetype_inner": null,
+      "modified": "2020-07-24",
+      "name": "Ampliaciones de veredas (SHP)",
+      "package_id": "2babe00e-b231-477f-bda9-929605213ac3",
+      "position": 3,
+      "resource_type": "file",
+      "revision_id": "53951625-2dfb-417e-822d-69d9fbd2ed32",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/espacio-publico-e-higiene-urbana/ampliacion-de-veredas/ampliaciones_de_veredas.zip",
+      "url_type": null
+    }
+  ],
+  "revision_id": "083676f4-41ab-402c-b0ea-b662f8132057",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "COVID-19",
+      "id": "931486a5-526e-433d-a642-4768937b65d8",
+      "name": "COVID-19",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "coronavirus",
+      "id": "efeebfc4-0eaf-47bc-9d00-435b9c600fa1",
+      "name": "coronavirus",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "distanciamiento social",
+      "id": "a13c5eff-310c-4604-b5aa-70f730a8e9a2",
+      "name": "distanciamiento social",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "espacio público",
+      "id": "4c9fc71e-3fac-4e2c-aace-8f532ef3adf5",
+      "name": "espacio público",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "veredas",
+      "id": "84d50fca-7f03-4dc9-9e2b-dc1aae0364eb",
+      "name": "veredas",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Ampliación de veredas",
+  "type": "dataset",
+  "url": "https://data.buenosaires.gob.ar/dataset/ampliacion-de-veredas",
+  "version": null
+}

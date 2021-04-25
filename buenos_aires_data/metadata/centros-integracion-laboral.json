@@ -1,0 +1,180 @@
+{
+  "author": "Ministerio de Gobierno. SS de Trabajo, Industria y Comercio. DG de Empleo",
+  "author_email": "gobiernoabierto@buenosaires.gob.ar",
+  "creator_user_id": "e4546f46-e966-493c-b2f1-57318502c41b",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P1Y"
+    },
+    {
+      "key": "issued",
+      "value": "2019-01-08T14:56:57.517130"
+    },
+    {
+      "key": "language",
+      "value": "[\"SPA\"]"
+    },
+    {
+      "key": "modified",
+      "value": "2019-04-23T14:25:31.473977"
+    },
+    {
+      "key": "source",
+      "value": "Ministerio de Educación e Innovación. Secretaría de Ciencia, Tecnología e Innovación. SS de Ciudad Inteligente y Tecnología Educativa. DG Ciencias de la Información. Unidad de Sistemas de Información Geográfica (USIG)"
+    },
+    {
+      "key": "spatial",
+      "value": "02"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"GOVE\"]"
+    }
+  ],
+  "groups": [
+    {
+      "description": "",
+      "display_name": "Administración Pública",
+      "id": "8cb134a8-90ea-4e69-a96d-c03449917dc9",
+      "image_display_url": "https://data.buenosaires.gob.ar/uploads/group/2019-11-16-144810.360383adminpublica.png",
+      "name": "administracion-publica",
+      "title": "Administración Pública"
+    }
+  ],
+  "id": "juqdkmgo-39",
+  "isopen": true,
+  "license_id": "CC-BY-2.5-AR",
+  "license_title": "Atribucion 2.5 Argentina (CC BY 2.5 AR)",
+  "license_url": "https://creativecommons.org/licenses/by/2.5/ar ",
+  "maintainer": "Secretaría General y Relaciones Internacionales. Subsecretaría Gestión Estratégica y Calidad Institucional. Dirección General Calidad Institucional y Gobierno Abierto",
+  "maintainer_email": "gobiernoabierto@buenosaires.gob.ar",
+  "metadata_created": "2019-12-11T18:29:32.191526",
+  "metadata_modified": "2020-12-17T15:43:42.948917",
+  "name": "centros-integracion-laboral",
+  "notes": "Listado con ubicación geográfica de las oficinas de empleo del Gobierno de la Ciudad de Buenos Aires.",
+  "num_resources": 3,
+  "num_tags": 3,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-11-15T19:18:05.034032",
+    "description": "",
+    "id": "d5fcd0f4-b12b-464b-b41f-2b47de9848a6",
+    "image_url": "",
+    "is_organization": true,
+    "name": "ministerio-de-gobierno",
+    "revision_id": "ce729574-7d1e-4984-8eae-c36169571556",
+    "state": "active",
+    "title": "Ministerio de Gobierno",
+    "type": "organization"
+  },
+  "owner_org": "d5fcd0f4-b12b-464b-b41f-2b47de9848a6",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/centro-de-integracion-laboral",
+      "attributesDescription": "[{\"title\": \"x\", \"type\": \"number\", \"description\": \"C\\u00f3digo para geocodificaci\\u00f3n\"}, {\"title\": \"y\", \"type\": \"number\", \"description\": \"C\\u00f3digo para geocodificaci\\u00f3n\"}, {\"title\": \"id\", \"type\": \"integer\", \"description\": \"Identificador \\u00fanico de cada registro\"}, {\"title\": \"nombre\", \"type\": \"string\", \"description\": \"Nombre del Centro de Integraci\\u00f3n Laboral\"}, {\"title\": \"objeto\", \"type\": \"integer\", \"description\": \"Tipo de Elemento\"}, {\"title\": \"direccion\", \"type\": \"string\", \"description\": \"Domicilio del CIL\"}, {\"title\": \"horario\", \"type\": \"string\", \"description\": \"Horario de atenci\\u00f3n al p\\u00fablico del CIL\"}, {\"title\": \"telefono\", \"type\": \"string\", \"description\": \"N\\u00famero de tel\\u00e9fono del CIL\"}, {\"title\": \"email\", \"type\": \"string\", \"description\": \"email del CIL\"}, {\"title\": \"web\", \"type\": \"string\", \"description\": \"P\\u00e1gina web del CIL\"}, {\"title\": \"direccion_normalizada\", \"type\": \"string\", \"description\": \"Domicilio del CIL normalizado\"}, {\"title\": \"calle\", \"type\": \"string\", \"description\": \"Calle principal en la que se encuentra el CIL\"}, {\"title\": \"calle2\", \"type\": \"string\", \"description\": \"Calle que intersecta la principal\"}, {\"title\": \"altura\", \"type\": \"integer\", \"description\": \"Altura sobre la calle principal\"}, {\"title\": \"barrio\", \"type\": \"string\", \"description\": \"Barrio al que pertence el CIL\"}, {\"title\": \"comuna\", \"type\": \"string\", \"description\": \"Comuna a la que pertenece el CIL\"}, {\"title\": \"codigo_postal\", \"type\": \"integer\", \"description\": \"C\\u00f3digo postal\"}, {\"title\": \"codigo_postal_argentino\", \"type\": \"string\", \"description\": \"C\\u00f3digo postal Argentino\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-04-23T16:43:22.693502",
+      "datastore_active": false,
+      "description": "Ubicación geográfica, horario de atención y teléfono de las oficinas de empleo del Gobierno de la Ciudad.",
+      "fileName": "centro-de-integracion-laboral.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "juqdkmgo-391-resource",
+      "last_modified": "2019-04-23T16:43:22.693502",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Centros de Integración Laboral",
+      "package_id": "juqdkmgo-39",
+      "position": 0,
+      "resource_type": "file",
+      "revision_id": "ff5d2fd1-97c2-4537-b511-5afdadee8653",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/centro-de-integracion-laboral/centro-de-integracion-laboral.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/centro-de-integracion-laboral",
+      "attributesDescription": "[{\"title\": \"x\", \"type\": \"number\", \"description\": \"C\\u00f3digo para geocodificaci\\u00f3n\"}, {\"title\": \"y\", \"type\": \"number\", \"description\": \"C\\u00f3digo para geocodificaci\\u00f3n\"}, {\"title\": \"id\", \"type\": \"integer\", \"description\": \"Identificador \\u00fanico de cada registro\"}, {\"title\": \"nombre\", \"type\": \"string\", \"description\": \"Nombre del Centro de Integraci\\u00f3n Laboral\"}, {\"title\": \"objeto\", \"type\": \"string\", \"description\": \"Tipo de Elemento\"}, {\"title\": \"direccion\", \"type\": \"string\", \"description\": \"Domicilio del CIL\"}, {\"title\": \"horario\", \"type\": \"string\", \"description\": \"Horario de atenci\\u00f3n al p\\u00fablico del CIL\"}, {\"title\": \"telefono\", \"type\": \"string\", \"description\": \"N\\u00famero de tel\\u00e9fono del CIL\"}, {\"title\": \"email\", \"type\": \"string\", \"description\": \"Email del CIL\"}, {\"title\": \"web\", \"type\": \"string\", \"description\": \"P\\u00e1gina Web del CIL\"}, {\"title\": \"direccion_normalizada\", \"type\": \"string\", \"description\": \"Domicilio del CIL normalizado\"}, {\"title\": \"calle\", \"type\": \"string\", \"description\": \"Calle principal en la que se encuentra el CIL\"}, {\"title\": \"calle2\", \"type\": \"string\", \"description\": \"Calle que intersecta la principal\"}, {\"title\": \"altura\", \"type\": \"integer\", \"description\": \"Altura sobre la calle principal\"}, {\"title\": \"barrio\", \"type\": \"string\", \"description\": \"Barrio al que pertence el CIL\"}, {\"title\": \"comuna\", \"type\": \"string\", \"description\": \"Comuna a la que pertenece el CIL\"}, {\"title\": \"codigo_postal\", \"type\": \"integer\", \"description\": \"C\\u00f3digo postal\"}, {\"title\": \"codigo_postal_argentino\", \"type\": \"string\", \"description\": \"C\\u00f3digo postal Argentino\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-04-23T16:43:38.787640",
+      "datastore_active": false,
+      "description": "Archivo shapefile de los Centros de Integración Laboral.",
+      "fileName": "centro-de-integracion-laboral-zip.zip",
+      "format": "ZIP",
+      "hash": "",
+      "id": "juqdkmgo-392-resource",
+      "last_modified": "2019-04-23T16:43:38.787640",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Centros de Integración Laboral (SHP)",
+      "package_id": "juqdkmgo-39",
+      "position": 1,
+      "resource_type": "file",
+      "revision_id": "38edb7d5-5e55-46d0-8495-940f21343205",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/centro-de-integracion-laboral/centro-de-integracion-laboral-zip.zip",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/centro-de-integracion-laboral",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-04-23T16:43:22.693502",
+      "datastore_active": false,
+      "description": "Ubicación geográfica, horario de atención y teléfono de las oficinas de empleo del Gobierno de la Ciudad.",
+      "fileName": "centro-de-integracion-laboral.xlsx",
+      "format": "XLSX",
+      "hash": "",
+      "id": "juqdkmgo-391-resource-xlsx",
+      "last_modified": "2019-04-23T16:43:22.693502",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Centros de Integración Laboral (XLSX)",
+      "package_id": "juqdkmgo-39",
+      "position": 2,
+      "resource_type": "file",
+      "revision_id": "aee01fb8-6386-4b0f-a80d-2fdc15941145",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/centro-de-integracion-laboral/centro-de-integracion-laboral.xlsx",
+      "url_type": null
+    }
+  ],
+  "revision_id": "689a2d0d-76a8-49a9-a709-f7ff378742e3",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "Centro de atención",
+      "id": "21befe04-008d-4152-b223-9ac695dcb63b",
+      "name": "Centro de atención",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "economía",
+      "id": "20a0f20c-f7ed-48f4-b223-e343db7f9ee8",
+      "name": "economía",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "trabajo",
+      "id": "b93600d4-0e5f-40ce-afbe-3631bd5e5dd2",
+      "name": "trabajo",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Centros de Integración Laboral",
+  "type": "dataset",
+  "url": "https://data.buenosaires.gob.ar/dataset/centro-integracion-laboral",
+  "version": null
+}

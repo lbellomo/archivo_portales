@@ -1,0 +1,246 @@
+{
+  "author": "Jefatura de Gabinete. Agencia de Sistemas de Información. GO de Redes",
+  "author_email": "datosabiertos@buenosaires.gob.ar",
+  "creator_user_id": "e4546f46-e966-493c-b2f1-57318502c41b",
+  "extras": [
+    {
+      "key": "Documentación",
+      "value": ""
+    },
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P6M"
+    },
+    {
+      "key": "country",
+      "value": "None"
+    },
+    {
+      "key": "district",
+      "value": ""
+    },
+    {
+      "key": "home_featured",
+      "value": "false"
+    },
+    {
+      "key": "issued",
+      "value": "2019-01-08T14:51:51.412014"
+    },
+    {
+      "key": "language",
+      "value": "[]"
+    },
+    {
+      "key": "modified",
+      "value": "2021-03-05T11:45:26.252821"
+    },
+    {
+      "key": "province",
+      "value": ""
+    },
+    {
+      "key": "source",
+      "value": "Ministerio de Educación e Innovación. Secretaría de Ciencia, Tecnología e Innovación. SS de Ciudad Inteligente y Tecnología Educativa. DG Ciencias de la Información. Unidad de Sistemas de Información Geográfica (USIG)"
+    },
+    {
+      "key": "spatial",
+      "value": "None"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"REGI\"]"
+    },
+    {
+      "key": "temporal",
+      "value": ""
+    }
+  ],
+  "groups": [
+    {
+      "description": "Datasets relacionados con urbanismo y territorio",
+      "display_name": "Urbanismo y Territorio",
+      "id": "63e162a0-3f4a-446a-a60b-601d16f36200",
+      "image_display_url": "https://data.buenosaires.gob.ar/uploads/group/2019-11-16-145056.781692urba.png",
+      "name": "urbanismo-y-territorio",
+      "title": "Urbanismo y Territorio"
+    }
+  ],
+  "id": "juqdkmgo-170",
+  "isopen": true,
+  "license_id": "CC-BY-2.5-AR",
+  "license_title": "Atribucion 2.5 Argentina (CC BY 2.5 AR)",
+  "license_url": "https://creativecommons.org/licenses/by/2.5/ar ",
+  "maintainer": "Secretaría General y Relaciones Internacionales. Subsecretaría Gestión Estratégica y Calidad Institucional. Dirección General Calidad Institucional y Gobierno Abierto",
+  "maintainer_email": "datosabiertos@buenosaires.gob.ar",
+  "metadata_created": "2019-12-11T18:04:48.100286",
+  "metadata_modified": "2021-03-05T14:45:26.265912",
+  "name": "puntos-wi-fi-publicos",
+  "notes": "Información y ubicación geográfica de los puntos de red de conexión a internet inalámbrica gratuita ubicados en plazas, parques, sedes comunales y bibliotecas de la Ciudad.",
+  "num_resources": 3,
+  "num_tags": 9,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-11-15T19:14:53.415795",
+    "description": "",
+    "id": "8add5417-3519-49b8-bd4c-6621d32ff5eb",
+    "image_url": "",
+    "is_organization": true,
+    "name": "jefatura-de-gabinete-de-ministros",
+    "revision_id": "971d791d-b46e-4427-8a5a-b737fa264515",
+    "state": "active",
+    "title": "Jefatura de Gabinete de Ministros",
+    "type": "organization"
+  },
+  "owner_org": "8add5417-3519-49b8-bd4c-6621d32ff5eb",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/puntos-de-wi-fi-publicos",
+      "attributesDescription": "[{\"title\": \"longitud\", \"type\": \"number\", \"description\": \"Latitud de localizaci\\u00f3n de la obra\"}, {\"title\": \"latitud\", \"type\": \"number\", \"description\": \"Longitud de localizaci\\u00f3n de la obra\"}, {\"title\": \"id\", \"type\": \"integer\", \"description\": \"Identificador \\u00fanico de cada registro\"}, {\"title\": \"nombre\", \"type\": \"string\", \"description\": \"Nombre de cada elemento de la tabla\"}, {\"title\": \"tipo\", \"type\": \"string\", \"description\": \"Tipo de elemento\"}, {\"title\": \"etapa\", \"type\": \"string\", \"description\": \"Etapa de inaguraci\\u00f3n de los puntos Wi-Fi\"}, {\"title\": \"etapa_obse\", \"type\": \"string\", \"description\": \"Nombre de la etapa mas observaciones secundarias\"}, {\"title\": \"estado\", \"type\": \"string\", \"description\": \"Referencia respecto a la disponibilizaci\\u00f3n del servicio\"}, {\"title\": \"subcategoria\", \"type\": \"string\", \"description\": \"Subcategor\\u00eda del sitio\"}, {\"title\": \"calle\", \"type\": \"string\", \"description\": \"Nombre de la calle principal\"}, {\"title\": \"altura\", \"type\": \"integer\", \"description\": \"Altura de calle\"}, {\"title\": \"calle2\", \"type\": \"string\", \"description\": \"Nombre de la calle que intercepta la calle principal\"}, {\"title\": \"direccion\", \"type\": \"string\", \"description\": \"Direcci\\u00f3n normalizada\"}, {\"title\": \"barrio\", \"type\": \"string\", \"description\": \"Barrio de localizaci\\u00f3n de la obra\"}, {\"title\": \"comuna\", \"type\": \"string\", \"description\": \"Comuna de localizaci\\u00f3n de la obra\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-04-23T16:53:56.052004",
+      "datastore_active": false,
+      "description": "Archivo shapefile con la información de los diferentes puntos de atención del Gobierno de la Ciudad de Buenos Aires.",
+      "fileName": "puntos-de-wifi-publicos-zip.zip",
+      "format": "ZIP",
+      "hash": "",
+      "id": "juqdkmgo-1701-resource",
+      "last_modified": "2019-04-23T16:53:56.052004",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Puntos de WiFi Públicos (SHP)",
+      "package_id": "juqdkmgo-170",
+      "position": 0,
+      "resource_type": "file",
+      "revision_id": "535d24c6-368e-41df-9972-7db366c12d39",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/puntos-de-wi-fi-publicos/puntos-de-wifi-publicos-zip.zip",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/puntos-de-wi-fi-publicos",
+      "attributesDescription": "[{\"title\": \"longitud\", \"type\": \"number\", \"description\": \"Latitud de localizaci\\u00f3n de la obra\"}, {\"title\": \"latitud\", \"type\": \"number\", \"description\": \"Longitud de localizaci\\u00f3n de la obra\"}, {\"title\": \"id\", \"type\": \"string\", \"description\": \"Identificador \\u00fanico de cada registro\"}, {\"title\": \"nombre\", \"type\": \"string\", \"description\": \"Nombre de cada elemento de la tabla\"}, {\"title\": \"tipo\", \"type\": \"string\", \"description\": \"Tipo de elemento\"}, {\"title\": \"etapa\", \"type\": \"string\", \"description\": \"Etapa de inaguraci\\u00f3n de los puntos Wi-Fi\"}, {\"title\": \"etapa_obse\", \"type\": \"string\", \"description\": \"Nombre de la etapa mas observaciones secundarias\"}, {\"title\": \"estado\", \"type\": \"string\", \"description\": \"Referencia respecto a la disponibilizaci\\u00f3n del servicio\"}, {\"title\": \"subcategoria\", \"type\": \"string\", \"description\": \"Subcategor\\u00eda del sitio\"}, {\"title\": \"calle\", \"type\": \"string\", \"description\": \"Nombre de la calle principal\"}, {\"title\": \"altura\", \"type\": \"integer\", \"description\": \"Altura de calle\"}, {\"title\": \"calle2\", \"type\": \"string\", \"description\": \"Nombre de la calle que intercepta la calle principal\"}, {\"title\": \"direccion\", \"type\": \"string\", \"description\": \"Direcci\\u00f3n normalizada\"}, {\"title\": \"barrio\", \"type\": \"string\", \"description\": \"Barrio de localizaci\\u00f3n de la obra\"}, {\"title\": \"comuna\", \"type\": \"string\", \"description\": \"Comuna de localizaci\\u00f3n de la obra\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-04-23T16:54:04.784193",
+      "datastore_active": true,
+      "description": "Listado de los puntos de WiFi instalados. Incluyendo dirección, latitud y longitud aproximadas.",
+      "fileName": "sitios-de-wifi.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "juqdkmgo-1702-resource",
+      "last_modified": "2019-04-23T16:54:04.784193",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Sitios de WiFi",
+      "package_id": "juqdkmgo-170",
+      "position": 1,
+      "resource_type": "file",
+      "revision_id": "0a10cb20-a940-46f7-95eb-a5e7538b8852",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/puntos-de-wi-fi-publicos/sitios-de-wifi.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/puntos-de-wi-fi-publicos",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-04-23T16:54:04.784193",
+      "datastore_active": true,
+      "description": "Listado de los puntos de WiFi instalados. Incluyendo dirección, latitud y longitud aproximadas.",
+      "fileName": "sitios-de-wifi.xlsx",
+      "format": "XLSX",
+      "hash": "",
+      "id": "juqdkmgo-1702-resource-xlsx",
+      "last_modified": "2019-04-23T16:54:04.784193",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Sitios de WiFi (XLSX)",
+      "package_id": "juqdkmgo-170",
+      "position": 2,
+      "resource_type": "file",
+      "revision_id": "ca050276-9aa8-434f-9f06-ce806baabbe0",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/puntos-de-wi-fi-publicos/sitios-de-wifi.xlsx",
+      "url_type": null
+    }
+  ],
+  "revision_id": "4285d75d-2223-4d3a-bbe1-7566498019ab",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "USIG",
+      "id": "aee9194d-357a-4be9-92dc-231569313d87",
+      "name": "USIG",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "comunicación",
+      "id": "18425ec7-cc5c-4a2f-8e2b-f9e54c7dd5f1",
+      "name": "comunicación",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "espacio-público",
+      "id": "dc33a7dc-62e2-4106-a8d7-743f46a3ffdb",
+      "name": "espacio-público",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "internet",
+      "id": "68af110e-c73b-4898-a3e7-aedacbd61712",
+      "name": "internet",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "mapa",
+      "id": "2c83da8e-2e03-47e6-aee4-bb965600000d",
+      "name": "mapa",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "servicios",
+      "id": "5fd98d91-e466-49b9-9b08-8a43e2068a8b",
+      "name": "servicios",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "turismo",
+      "id": "efc08f7b-8ca1-4064-a808-2a2403903c99",
+      "name": "turismo",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "urbanismo",
+      "id": "17ac67e7-699b-470d-b0dd-5b8752c1fb73",
+      "name": "urbanismo",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "wifi",
+      "id": "0e3ce1ae-d0e7-49c3-8483-6d7c690b5cda",
+      "name": "wifi",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Puntos de Wi-Fi Públicos",
+  "type": "dataset",
+  "url": "https://data.buenosaires.gob.ar/dataset/puntos-wi-fi-publicos",
+  "version": null
+}

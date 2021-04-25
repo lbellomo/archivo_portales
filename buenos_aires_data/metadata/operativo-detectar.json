@@ -1,0 +1,276 @@
+{
+  "author": "Ministerio de Salud",
+  "author_email": "datosabiertos@buenosaires.gob.ar",
+  "creator_user_id": "931fac92-738f-4472-b1c1-f5c2f6e46af3",
+  "extras": [
+    {
+      "key": "Documentación",
+      "value": ""
+    },
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P1M"
+    },
+    {
+      "key": "country",
+      "value": "ARG"
+    },
+    {
+      "key": "district",
+      "value": ""
+    },
+    {
+      "key": "home_featured",
+      "value": "false"
+    },
+    {
+      "key": "issued",
+      "value": "2020-07-22T12:32:51.076971"
+    },
+    {
+      "key": "language",
+      "value": "[\"spa\"]"
+    },
+    {
+      "key": "modified",
+      "value": "2021-02-26T17:39:09.557212"
+    },
+    {
+      "key": "province",
+      "value": ""
+    },
+    {
+      "key": "source",
+      "value": "Subgerencia de Información Geoespacial. DG Ciencias de la Información. SS de Políticas Públicas Basadas en Evidencia. Secretaría de Innovación y Transformación Digital. Jefatura de Gabinete de Ministros"
+    },
+    {
+      "key": "spatial",
+      "value": "ARG"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"HEAL\"]"
+    },
+    {
+      "key": "temporal",
+      "value": ""
+    }
+  ],
+  "groups": [
+    {
+      "description": "Datasets relacionados a COVID-19",
+      "display_name": "COVID-19",
+      "id": "0f30f631-df60-4d33-aedb-96c9a48a2332",
+      "image_display_url": "https://data.buenosaires.gob.ar/uploads/group/2020-07-23-165939.349779iconocovid19.png",
+      "name": "covid-19",
+      "title": "COVID-19"
+    },
+    {
+      "description": "",
+      "display_name": "Salud",
+      "id": "0be192e9-f1b7-4308-bb9a-f362e2ff44a6",
+      "image_display_url": "https://data.buenosaires.gob.ar/uploads/group/2019-11-16-145030.020776salud.png",
+      "name": "salud",
+      "title": "Salud"
+    }
+  ],
+  "id": "f3466775-43fc-4678-a490-3fb819f3e5ba",
+  "isopen": true,
+  "license_id": "CC-BY-2.5-AR",
+  "license_title": "Atribucion 2.5 Argentina (CC BY 2.5 AR)",
+  "license_url": "https://creativecommons.org/licenses/by/2.5/ar ",
+  "maintainer": "Gerencia Operativa de Ingeniería de Datos. DG Arquitectura de Datos. SS de Políticas Públicas Basadas en Evidencia. Secretaría de Innovación y Transformación Digital. Jefatura de Gabinete de Ministros",
+  "maintainer_email": "datosabiertos@buenosaires.gob.ar",
+  "metadata_created": "2020-07-08T13:28:38.573941",
+  "metadata_modified": "2021-02-26T20:39:09.601962",
+  "name": "operativo-detectar",
+  "notes": "Ubicación de los operativos DetectAR para testeo de COVID-19 en los barrios de la Ciudad",
+  "num_resources": 4,
+  "num_tags": 5,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-11-15T19:17:04.156344",
+    "description": "",
+    "id": "c055e91b-2714-47e4-b47e-6bb063f32776",
+    "image_url": "",
+    "is_organization": true,
+    "name": "ministerio-de-salud",
+    "revision_id": "b72e4fc3-266f-4a53-bbd7-690b4ccff688",
+    "state": "active",
+    "title": "Ministerio de Salud",
+    "type": "organization"
+  },
+  "owner_org": "c055e91b-2714-47e4-b47e-6bb063f32776",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "",
+      "accessURL_field": "",
+      "attributesDescription": "[{\"title\":\"X\",\"description\":\"Coordenada X\",\"type\":\"number\"},{\"title\":\"Y\",\"description\":\"Coordenada Y\",\"type\":\"number\"},{\"title\":\"id\",\"description\":\" \",\"type\":\"integer\"},{\"title\":\"lugar\",\"description\":\"lugar\",\"type\":\"string\"},{\"title\":\"direccion\",\"description\":\"direccion\",\"type\":\"string\"},{\"title\":\"calle\",\"description\":\"calle\",\"type\":\"string\"},{\"title\":\"altura\",\"description\":\"altura de calle\",\"type\":\"integer\"},{\"title\":\"calle2\",\"description\":\"calle 2\",\"type\":\"string\"},{\"title\":\"comuna\",\"description\":\"comuna\",\"type\":\"string\"},{\"title\":\"observac_1\",\"description\":\"observaciones\",\"type\":\"string\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2020-07-23T17:33:19.597075",
+      "datastore_active": false,
+      "description": "Listado con la información geográfica de los  operativos detectAR implementados en el marco de COVID-19",
+      "fileName": "operativo-detectar.csv",
+      "format": "CSV",
+      "has-uploaded-file": "",
+      "hash": "",
+      "icon_url": "",
+      "id": "41ff8d93-22b7-40c1-89c7-b11085278d82",
+      "issued": "2020-07-23T17:33:19.597075",
+      "last_modified": "2020-07-23T00:00:00",
+      "license_id": "CC-BY-4.0",
+      "mimetype": "text/csv",
+      "mimetype_inner": null,
+      "modified": "2021-01-04",
+      "name": "Operativo DetectAR",
+      "package_id": "f3466775-43fc-4678-a490-3fb819f3e5ba",
+      "position": 0,
+      "resource_type": "file",
+      "revision_id": "c7193238-3bad-49c4-83db-43c267c0065f",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/salud/operativo-detectar/operativo-detectar.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "",
+      "accessURL_field": "",
+      "attributesDescription": "[{\"title\":\"id\",\"description\":\" \",\"type\":\"integer\"},{\"title\":\"lugar\",\"description\":\"lugar\",\"type\":\"string\"},{\"title\":\"direccion\",\"description\":\"direccion\",\"type\":\"string\"},{\"title\":\"calle\",\"description\":\"calle\",\"type\":\"string\"},{\"title\":\"altura\",\"description\":\"altura de calle\",\"type\":\"integer\"},{\"title\":\"calle2\",\"description\":\"calle 2\",\"type\":\"string\"},{\"title\":\"comuna\",\"description\":\"comuna\",\"type\":\"string\"},{\"title\":\"observac_1\",\"description\":\"observaciones\",\"type\":\"string\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2020-07-23T17:33:23.433738",
+      "datastore_active": false,
+      "description": "Listado con la información geográfica de los  operativos detectAR implementados en el marco de COVID-19",
+      "fileName": "operativo-detectar.geojson",
+      "format": "GeoJSON",
+      "has-uploaded-file": "",
+      "hash": "",
+      "icon_url": "",
+      "id": "eecacc48-4afd-4376-b34c-e12b9c666a6e",
+      "issued": "2020-07-23T17:33:23.433738",
+      "last_modified": "2020-07-23T00:00:00",
+      "license_id": "CC-BY-4.0",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "modified": "2021-01-04",
+      "name": "Operativo DetectAR (GeoJSON)",
+      "package_id": "f3466775-43fc-4678-a490-3fb819f3e5ba",
+      "position": 1,
+      "resource_type": "file",
+      "revision_id": "67dff9bb-b6ae-4a7c-af48-48436e0291e2",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/salud/operativo-detectar/operativo-detectar.geojson",
+      "url_type": null
+    },
+    {
+      "accessURL": "",
+      "accessURL_field": "",
+      "attributesDescription": "[{\"title\":\"X\",\"description\":\"Coordenada X\",\"type\":\"number\"},{\"title\":\"Y\",\"description\":\"Coordenada Y\",\"type\":\"number\"},{\"title\":\"id\",\"description\":\" \",\"type\":\"integer\"},{\"title\":\"lugar\",\"description\":\"lugar\",\"type\":\"string\"},{\"title\":\"direccion\",\"description\":\"direccion\",\"type\":\"string\"},{\"title\":\"calle\",\"description\":\"calle\",\"type\":\"string\"},{\"title\":\"altura\",\"description\":\"altura de calle\",\"type\":\"integer\"},{\"title\":\"calle2\",\"description\":\"calle 2\",\"type\":\"string\"},{\"title\":\"comuna\",\"description\":\"comuna\",\"type\":\"string\"},{\"title\":\"observac_1\",\"description\":\"observaciones\",\"type\":\"string\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2020-07-23T17:33:28.192569",
+      "datastore_active": false,
+      "description": "Listado con la información geográfica de los  operativos detectAR implementados en el marco de COVID-19",
+      "fileName": "operativo-detectar.xlsx",
+      "format": "XLSX",
+      "has-uploaded-file": "",
+      "hash": "",
+      "icon_url": "",
+      "id": "fa04db68-998d-4e84-9345-467695835d5f",
+      "issued": "2020-07-23T17:33:28.192569",
+      "last_modified": "2020-07-23T00:00:00",
+      "license_id": "CC-BY-4.0",
+      "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "mimetype_inner": null,
+      "modified": "2021-01-04",
+      "name": "Operativo DetectAR (XLSX)",
+      "package_id": "f3466775-43fc-4678-a490-3fb819f3e5ba",
+      "position": 2,
+      "resource_type": "file",
+      "revision_id": "6d339fe2-a01a-4ca7-8e61-088b01efc50b",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/salud/operativo-detectar/operativo-detectar.xlsx",
+      "url_type": null
+    },
+    {
+      "accessURL": "",
+      "accessURL_field": "",
+      "attributesDescription": "[{\"title\":\"id\",\"description\":\" \",\"type\":\"integer\"},{\"title\":\"lugar\",\"description\":\"lugar\",\"type\":\"string\"},{\"title\":\"direccion\",\"description\":\"direccion\",\"type\":\"string\"},{\"title\":\"calle\",\"description\":\"calle\",\"type\":\"string\"},{\"title\":\"altura\",\"description\":\"altura de calle\",\"type\":\"integer\"},{\"title\":\"calle2\",\"description\":\"calle 2\",\"type\":\"string\"},{\"title\":\"comuna\",\"description\":\"comuna\",\"type\":\"string\"},{\"title\":\"observac_1\",\"description\":\"observaciones\",\"type\":\"string\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2020-07-23T17:33:31.918366",
+      "datastore_active": false,
+      "description": "Listado con la información geográfica de los  operativos detectAR implementados en el marco de COVID-19",
+      "fileName": "operativo-detectar.zip",
+      "format": "ZIP",
+      "has-uploaded-file": "",
+      "hash": "",
+      "icon_url": "",
+      "id": "3dd2b8c4-55d6-41c7-80dd-58ae81df5a94",
+      "issued": "2020-07-23T17:33:31.918366",
+      "last_modified": "2020-07-23T00:00:00",
+      "license_id": "CC-BY-4.0",
+      "mimetype": "application/zip",
+      "mimetype_inner": null,
+      "modified": "2021-01-04",
+      "name": "Operativo DetectAR (SHP)",
+      "package_id": "f3466775-43fc-4678-a490-3fb819f3e5ba",
+      "position": 3,
+      "resource_type": "file",
+      "revision_id": "54d8949b-5771-46b2-96e5-a813c3f7d21e",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/salud/operativo-detectar/operativo-detectar.zip",
+      "url_type": null
+    }
+  ],
+  "revision_id": "415e4cf2-ea64-4f33-84d9-f077c5566bf6",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "COVID-19",
+      "id": "931486a5-526e-433d-a642-4768937b65d8",
+      "name": "COVID-19",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "coronavirus",
+      "id": "efeebfc4-0eaf-47bc-9d00-435b9c600fa1",
+      "name": "coronavirus",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "detectar",
+      "id": "9bec806b-f8be-423c-a669-a4c329e52391",
+      "name": "detectar",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "hisopados",
+      "id": "ec54a356-d846-4244-9834-edba019b805b",
+      "name": "hisopados",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "operativo",
+      "id": "2027bcc2-bbad-430b-baba-7ed0624ea5ca",
+      "name": "operativo",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Operativo DetectAR",
+  "type": "dataset",
+  "url": "https://data.buenosaires.gob.ar/dataset/operativo-detectar",
+  "version": null
+}

@@ -1,0 +1,282 @@
+{
+  "author": "Subsecretaría de Registro, Interpretación y Catastro. Secretaría de Desarrollo Urbano. Jefatura de Gabinete de Ministros",
+  "author_email": "",
+  "creator_user_id": "931fac92-738f-4472-b1c1-f5c2f6e46af3",
+  "extras": [
+    {
+      "key": "Documentación",
+      "value": ""
+    },
+    {
+      "key": "accrualPeriodicity",
+      "value": "eventual"
+    },
+    {
+      "key": "country",
+      "value": "ARG"
+    },
+    {
+      "key": "district",
+      "value": ""
+    },
+    {
+      "key": "home_featured",
+      "value": "false"
+    },
+    {
+      "key": "issued",
+      "value": "2020-11-30T14:25:59.311126"
+    },
+    {
+      "key": "language",
+      "value": "[\"spa\"]"
+    },
+    {
+      "key": "modified",
+      "value": "2021-02-04T10:37:07.474388"
+    },
+    {
+      "key": "province",
+      "value": ""
+    },
+    {
+      "key": "source",
+      "value": "Subsecretaría de Registro, Interpretación y Catastro. Secretaría de Desarrollo Urbano. Jefatura de Gabinete de Ministros"
+    },
+    {
+      "key": "spatial",
+      "value": "ARG"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"GOVE\"]"
+    },
+    {
+      "key": "temporal",
+      "value": ""
+    }
+  ],
+  "groups": [
+    {
+      "description": "Datasets relacionados con urbanismo y territorio",
+      "display_name": "Urbanismo y Territorio",
+      "id": "63e162a0-3f4a-446a-a60b-601d16f36200",
+      "image_display_url": "https://data.buenosaires.gob.ar/uploads/group/2019-11-16-145056.781692urba.png",
+      "name": "urbanismo-y-territorio",
+      "title": "Urbanismo y Territorio"
+    }
+  ],
+  "id": "6aa84009-f026-4a03-849f-2384b594ee11",
+  "isopen": true,
+  "license_id": "CC-BY-2.5-AR",
+  "license_title": "Atribucion 2.5 Argentina (CC BY 2.5 AR)",
+  "license_url": "https://creativecommons.org/licenses/by/2.5/ar ",
+  "maintainer": "Gerencia Operativa de Ingeniería de Datos. DG Arquitectura de Datos. SS de Políticas Públicas Basadas en Evidencia. Secretaría de Innovación y Transformación Digital. Jefatura de Gabinete de Ministros",
+  "maintainer_email": "",
+  "metadata_created": "2020-11-30T13:14:21.236914",
+  "metadata_modified": "2021-02-04T13:37:07.488444",
+  "name": "banda-minima-edificable",
+  "notes": "Información sobre la banda mínima edificable del nuevo Código Urbanístico. ",
+  "num_resources": 4,
+  "num_tags": 7,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-11-15T19:19:23.733985",
+    "description": "",
+    "id": "eddbd148-4cef-40e1-87f7-94345c709aad",
+    "image_url": "",
+    "is_organization": true,
+    "name": "secretaria-de-desarrollo-urbano",
+    "revision_id": "14b2ab11-275f-4466-b2f4-4b60ff08fa3e",
+    "state": "active",
+    "title": "Secretaría de Desarrollo Urbano",
+    "type": "organization"
+  },
+  "owner_org": "eddbd148-4cef-40e1-87f7-94345c709aad",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "",
+      "accessURL_field": "",
+      "attributesDescription": "[{\"title\":\"id\",\"description\":\"id\",\"type\":\"string\"},{\"title\":\"sm\",\"description\":\"sm\",\"type\":\"string\"},{\"title\":\"fuente\",\"description\":\"fuente\",\"type\":\"string\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2021-02-03T15:24:27.684400",
+      "datastore_active": false,
+      "description": "Información georreferenciada de la banda mínima edificable del código urbanístico.",
+      "fileName": "",
+      "format": "CSV",
+      "has-uploaded-file": "",
+      "hash": "",
+      "icon_url": "",
+      "id": "28456351-1144-4af7-bf89-c881b3a807f2",
+      "issued": "2021-02-03T15:24:27.684400",
+      "last_modified": "2021-02-03T00:00:00",
+      "license_id": "CC-BY-4.0",
+      "mimetype": "text/csv",
+      "mimetype_inner": null,
+      "modified": "2021-02-03T12:29:07.074600",
+      "name": "Banda Mínima Edificable",
+      "package_id": "6aa84009-f026-4a03-849f-2384b594ee11",
+      "position": 0,
+      "resource_type": "file",
+      "revision_id": "78fd8e33-c83d-4a9d-8095-16e96bb9dd66",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/banda-minima-edificable/banda_minima.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "",
+      "accessURL_field": "",
+      "attributesDescription": "[{\"title\":\"id\",\"description\":\"id\",\"type\":\"string\"},{\"title\":\"sm\",\"description\":\"sm\",\"type\":\"string\"},{\"title\":\"fuente\",\"description\":\"fuente\",\"type\":\"string\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2021-02-03T15:24:35.112339",
+      "datastore_active": false,
+      "description": "Información georreferenciada de la banda mínima edificable del código urbanístico.",
+      "fileName": "",
+      "format": "GeoJSON",
+      "has-uploaded-file": "",
+      "hash": "",
+      "icon_url": "",
+      "id": "373196d2-8db6-4cdd-88f5-64f255414c7a",
+      "issued": "2021-02-03T15:24:35.112339",
+      "last_modified": "2021-02-03T00:00:00",
+      "license_id": "CC-BY-4.0",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "modified": "2021-02-03T12:29:21.993429",
+      "name": "Banda Mínima Edificable (GEOJSON)",
+      "package_id": "6aa84009-f026-4a03-849f-2384b594ee11",
+      "position": 1,
+      "resource_type": "file",
+      "revision_id": "cc40c42b-6499-4493-8277-0dbb539d806b",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/banda-minima-edificable/banda_minima.geojson",
+      "url_type": null
+    },
+    {
+      "accessURL": "",
+      "accessURL_field": "",
+      "attributesDescription": "[{\"title\":\"id\",\"description\":\"id\",\"type\":\"string\"},{\"title\":\"sm\",\"description\":\"sm\",\"type\":\"string\"},{\"title\":\"fuente\",\"description\":\"fuente\",\"type\":\"string\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2021-02-03T15:24:39.478485",
+      "datastore_active": false,
+      "description": "Información georreferenciada de la banda mínima edificable del código urbanístico.",
+      "fileName": "",
+      "format": "XLSX",
+      "has-uploaded-file": "",
+      "hash": "",
+      "icon_url": "",
+      "id": "1a6f68c4-4702-49e3-ba70-ba182ebda63f",
+      "issued": "2021-02-03T15:24:39.478485",
+      "last_modified": "2021-02-03T00:00:00",
+      "license_id": "CC-BY-4.0",
+      "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "mimetype_inner": null,
+      "modified": "2021-02-03T12:29:40.513908",
+      "name": "Banda Mínima Edificable (XLSX)",
+      "package_id": "6aa84009-f026-4a03-849f-2384b594ee11",
+      "position": 2,
+      "resource_type": "file",
+      "revision_id": "15dbd311-12e8-4820-852d-8b4c1e2a69e1",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/banda-minima-edificable/banda_minima.xlsx",
+      "url_type": null
+    },
+    {
+      "accessURL": "",
+      "accessURL_field": "",
+      "attributesDescription": "[{\"title\":\"id\",\"description\":\"id\",\"type\":\"string\"},{\"title\":\"sm\",\"description\":\"sm\",\"type\":\"string\"},{\"title\":\"fuente\",\"description\":\"fuente\",\"type\":\"string\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2021-02-03T15:24:44.970400",
+      "datastore_active": false,
+      "description": "Información georreferenciada de la banda mínima edificable del código urbanístico.",
+      "fileName": "",
+      "format": "ZIP",
+      "has-uploaded-file": "",
+      "hash": "",
+      "icon_url": "",
+      "id": "86a319a0-8150-45e5-9e0e-e49537191272",
+      "issued": "2021-02-03T15:24:44.970400",
+      "last_modified": "2021-02-03T00:00:00",
+      "license_id": "CC-BY-4.0",
+      "mimetype": "application/zip",
+      "mimetype_inner": null,
+      "modified": "2021-02-03T12:29:54.390330",
+      "name": "Banda Mínima Edificable",
+      "package_id": "6aa84009-f026-4a03-849f-2384b594ee11",
+      "position": 3,
+      "resource_type": "file",
+      "revision_id": "cea3c84c-37ba-467b-b2a3-dd51bb7579ae",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/banda-minima-edificable/banda_minima.zip",
+      "url_type": null
+    }
+  ],
+  "revision_id": "bd07ea35-87a9-4eb3-9da2-a04770360c04",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "banda",
+      "id": "d409378e-d63c-4b56-a4b9-4e6638eea059",
+      "name": "banda",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "ciudad 3d",
+      "id": "85a8900e-54ff-4888-9c8f-14432f167da2",
+      "name": "ciudad 3d",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "cur3d",
+      "id": "bf125fc5-008f-4671-b9f1-e3552eb052dd",
+      "name": "cur3d",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "edificable",
+      "id": "18d4e46c-1722-45c3-bfb7-b2eed588698a",
+      "name": "edificable",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "franja edificable",
+      "id": "f4fcbe04-a6ec-4e42-8cbb-9d1080e662ab",
+      "name": "franja edificable",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "minima",
+      "id": "b4ed6eee-09b6-4221-b41c-e30dc7b6aeb2",
+      "name": "minima",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "plano abierto",
+      "id": "2cf0ec73-4443-4d28-b693-b2e8d7d46375",
+      "name": "plano abierto",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Banda Mínima Edificable",
+  "type": "dataset",
+  "url": "https://data.buenosaires.gob.ar/dataset/banda-minima-edificable",
+  "version": null
+}

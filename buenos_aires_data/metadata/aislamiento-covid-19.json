@@ -1,0 +1,214 @@
+{
+  "author": "Secretaria de Atención Ciudadana y Gestión Comunal. Jefatura de Gabinete de Ministros",
+  "author_email": "datosabiertos@buenosaires.gob.ar",
+  "creator_user_id": "931fac92-738f-4472-b1c1-f5c2f6e46af3",
+  "extras": [
+    {
+      "key": "Documentación",
+      "value": ""
+    },
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P1W"
+    },
+    {
+      "key": "country",
+      "value": "ARG"
+    },
+    {
+      "key": "district",
+      "value": ""
+    },
+    {
+      "key": "home_featured",
+      "value": "false"
+    },
+    {
+      "key": "issued",
+      "value": "2020-07-14T12:11:30.006656"
+    },
+    {
+      "key": "language",
+      "value": "[\"spa\"]"
+    },
+    {
+      "key": "modified",
+      "value": "2021-03-23T10:16:11.775529"
+    },
+    {
+      "key": "province",
+      "value": ""
+    },
+    {
+      "key": "source",
+      "value": "Secretaria de Atención Ciudadana y Gestión Comunal. Jefatura de Gabinete de Ministros"
+    },
+    {
+      "key": "spatial",
+      "value": "ARG"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"HEAL\"]"
+    },
+    {
+      "key": "temporal",
+      "value": ""
+    }
+  ],
+  "groups": [
+    {
+      "description": "Datasets relacionados a COVID-19",
+      "display_name": "COVID-19",
+      "id": "0f30f631-df60-4d33-aedb-96c9a48a2332",
+      "image_display_url": "https://data.buenosaires.gob.ar/uploads/group/2020-07-23-165939.349779iconocovid19.png",
+      "name": "covid-19",
+      "title": "COVID-19"
+    },
+    {
+      "description": "",
+      "display_name": "Salud",
+      "id": "0be192e9-f1b7-4308-bb9a-f362e2ff44a6",
+      "image_display_url": "https://data.buenosaires.gob.ar/uploads/group/2019-11-16-145030.020776salud.png",
+      "name": "salud",
+      "title": "Salud"
+    }
+  ],
+  "id": "912ab612-b392-46d1-9b14-f08d02f0dc92",
+  "isopen": true,
+  "license_id": "CC-BY-2.5-AR",
+  "license_title": "Atribucion 2.5 Argentina (CC BY 2.5 AR)",
+  "license_url": "https://creativecommons.org/licenses/by/2.5/ar ",
+  "maintainer": "Subsecretaría de PolítiGerencia Operativa de Ingeniería de Datos. DG Arquitectura de Datos. SS de Políticas Públicas Basadas en Evidencia. Secretaría de Innovación y Transformación Digital. Jefatura de Gabinete de Ministroscas Públicas Basadas en Evidencia. DG Arquitectura de Datos",
+  "maintainer_email": "datosabiertos@buenosaires.gob.ar",
+  "metadata_created": "2020-07-07T14:51:46.604159",
+  "metadata_modified": "2021-03-23T13:16:11.789496",
+  "name": "aislamiento-covid-19",
+  "notes": "Información relativa a las personas aislados en dispositivos extra-hospitalarios",
+  "num_resources": 2,
+  "num_tags": 5,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-11-15T19:15:46.928623",
+    "description": "",
+    "id": "282bb408-f41f-41c1-b736-b612affc0af4",
+    "image_url": "",
+    "is_organization": true,
+    "name": "atencion-ciudadana",
+    "revision_id": "c4b9e00e-5f3b-47a8-9319-33e116724a83",
+    "state": "active",
+    "title": "Secretaria de Atención Ciudadana y Gestión Comunal",
+    "type": "organization"
+  },
+  "owner_org": "282bb408-f41f-41c1-b736-b612affc0af4",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "",
+      "accessURL_field": "",
+      "attributesDescription": "[{\"title\":\"fecha\",\"description\":\"fecha del registro\",\"type\":\"date\"},{\"title\":\"id_hotel\",\"description\":\"id del hotel\",\"type\":\"integer\"},{\"title\":\"origen\",\"description\":\"origen del traslado del aislado (ufu, repatriado)\",\"type\":\"string\"},{\"title\":\"género\",\"description\":\"género de la persona ingresante al hotel\",\"type\":\"string\"},{\"title\":\"cantidad_ingresos\",\"description\":\"cantidad de ingresantes al hotel\",\"type\":\"integer\"},{\"title\":\"cantidad_egresos\",\"description\":\"cantidad de egresos del hotel\",\"type\":\"integer\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2020-07-14T20:24:33.473335",
+      "datastore_active": false,
+      "description": "Listado con informacion de los ingresos de los aislados en dispositivos extra-hospitalarios por COVID-19. Incluye id del dipositivo, origen, género, cantidad de ingresantes y cantidad de egresantes.",
+      "fileName": "distanciamiento_covid19.csv",
+      "format": "CSV",
+      "has-uploaded-file": "",
+      "hash": "",
+      "icon_url": "",
+      "id": "40b77bd8-dd39-42f4-bb46-da76b6befe2a",
+      "issued": "2020-07-14T20:24:33.473335",
+      "last_modified": "2020-07-14T00:00:00",
+      "license_id": "CC-BY-4.0",
+      "mimetype": "text/csv",
+      "mimetype_inner": null,
+      "modified": "2021-02-25T11:36:30.832578",
+      "name": "Aislados en hoteles",
+      "package_id": "912ab612-b392-46d1-9b14-f08d02f0dc92",
+      "position": 0,
+      "resource_type": "file",
+      "revision_id": "54b90454-890c-4945-9992-e2fd6fcdd940",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/atencion-ciudadana/aislamiento-covid-19/distanciamiento_covid19.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "",
+      "accessURL_field": "",
+      "attributesDescription": "[{\"title\":\"fecha\",\"description\":\"fecha del registro\",\"type\":\"date\"},{\"title\":\"id_hotel\",\"description\":\"id del hotel\",\"type\":\"integer\"},{\"title\":\"origen\",\"description\":\"origen del traslado del aislado (ufu, repatriado)\",\"type\":\"string\"},{\"title\":\"género\",\"description\":\"género de la persona ingresante al hotel\",\"type\":\"string\"},{\"title\":\"cantidad_ingresos\",\"description\":\"cantidad de ingresantes al hotel\",\"type\":\"integer\"},{\"title\":\"cantidad_egresos\",\"description\":\"cantidad de egresos del hotel\",\"type\":\"integer\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2020-07-22T01:00:12.957894",
+      "datastore_active": false,
+      "description": "Listado con informacion de los ingresos de los aislados en dispositivos extra-hospitalarios por COVID-19. Incluye id del dipositivo, origen, género, cantidad de ingresantes y cantidad de egresantes.",
+      "fileName": "distanciamiento_covid19.xlsx",
+      "format": "XLSX",
+      "has-uploaded-file": "",
+      "hash": "",
+      "icon_url": "",
+      "id": "693605a0-1acc-4e7b-a494-5efc29427e65",
+      "issued": "2020-07-22T01:00:12.957894",
+      "last_modified": "2020-07-22T00:00:00",
+      "license_id": "CC-BY-4.0",
+      "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "mimetype_inner": null,
+      "modified": "2021-02-25T11:36:36.503613",
+      "name": "Aislados en hoteles (xlsx)",
+      "package_id": "912ab612-b392-46d1-9b14-f08d02f0dc92",
+      "position": 1,
+      "resource_type": "file",
+      "revision_id": "48d6a70f-5239-4207-9d72-99cc26917834",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/atencion-ciudadana/aislamiento-covid-19/distanciamiento_covid19.xlsx",
+      "url_type": null
+    }
+  ],
+  "revision_id": "7381f810-45cb-4b84-a22b-aa88e7baf196",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "COVID-19",
+      "id": "931486a5-526e-433d-a642-4768937b65d8",
+      "name": "COVID-19",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "aislamiento",
+      "id": "7565d7df-5aca-471f-85dc-2892404dbd48",
+      "name": "aislamiento",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "coronavirus",
+      "id": "efeebfc4-0eaf-47bc-9d00-435b9c600fa1",
+      "name": "coronavirus",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "dispositivos extrahospitalarios",
+      "id": "4c358cdb-45ab-4e9b-b6dd-6cee73c0a67d",
+      "name": "dispositivos extrahospitalarios",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "hoteles",
+      "id": "f5e3471a-35d9-4717-b959-1cd7ffe5e86b",
+      "name": "hoteles",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Aislamiento COVID-19",
+  "type": "dataset",
+  "url": "https://data.buenosaires.gob.ar/dataset/aislamiento-covid-19",
+  "version": null
+}

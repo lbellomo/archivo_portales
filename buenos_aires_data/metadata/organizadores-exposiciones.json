@@ -1,0 +1,195 @@
+{
+  "author": "Secretaría General y Relaciones Internacionales. Ente de Turismo (ENTUR)",
+  "author_email": "gobiernoabierto@buenosaires.gob.ar",
+  "creator_user_id": "e4546f46-e966-493c-b2f1-57318502c41b",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P1Y"
+    },
+    {
+      "key": "issued",
+      "value": "2019-01-08T14:51:36.240807"
+    },
+    {
+      "key": "language",
+      "value": "[\"SPA\"]"
+    },
+    {
+      "key": "modified",
+      "value": "2019-04-23T15:14:19.702451"
+    },
+    {
+      "key": "source",
+      "value": "Secretaría General y Relaciones Internacionales. Ente de Turismo (ENTUR)"
+    },
+    {
+      "key": "spatial",
+      "value": "02"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"SOCI\"]"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Datasets relacionados con la cultura y el turismo",
+      "display_name": "Cultura y Turismo",
+      "id": "db2c0965-c659-4f94-8de9-41fce10f91a9",
+      "image_display_url": "https://data.buenosaires.gob.ar/uploads/group/2019-11-16-144908.071423cultura.png",
+      "name": "cultura-y-turismo",
+      "title": "Cultura y Turismo"
+    }
+  ],
+  "id": "juqdkmgo-153",
+  "isopen": true,
+  "license_id": "CC-BY-2.5-AR",
+  "license_title": "Atribucion 2.5 Argentina (CC BY 2.5 AR)",
+  "license_url": "https://creativecommons.org/licenses/by/2.5/ar ",
+  "maintainer": "Secretaría General y Relaciones Internacionales. Subsecretaría Gestión Estratégica y Calidad Institucional. Dirección General Calidad Institucional y Gobierno Abierto",
+  "maintainer_email": "gobiernoabierto@buenosaires.gob.ar",
+  "metadata_created": "2019-12-11T18:35:12.442285",
+  "metadata_modified": "2020-12-17T16:42:44.498341",
+  "name": "organizadores-exposiciones",
+  "notes": "Información de organizadores de congresos y exposiciones-operadores de predios feriales y centros de convenciones. Según la ley Nº 600, Art. Nº14 la inscripción al dicho registro es de carácter voluntario.",
+  "num_resources": 4,
+  "num_tags": 2,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-11-15T19:16:12.037004",
+    "description": "",
+    "id": "718be5cd-c364-407d-979d-7e16732b41bc",
+    "image_url": "",
+    "is_organization": true,
+    "name": "ente-de-turismo",
+    "revision_id": "073586d0-2c46-490b-b828-d2e6a975ff1f",
+    "state": "active",
+    "title": "Ente de Turismo (ENTUR)",
+    "type": "organization"
+  },
+  "owner_org": "718be5cd-c364-407d-979d-7e16732b41bc",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/organizadores-de-exposiciones",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-01-08T14:51:36.240807",
+      "datastore_active": false,
+      "description": "Espacios disponibles para exposiciones. Incluye nombre dirección, teléfono, correo electrónico, página web y georeferencia",
+      "fileName": "organizadores-de-exposiciones.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "juqdkmgo-1531-resource",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Organizadores de Exposiciones",
+      "package_id": "juqdkmgo-153",
+      "position": 0,
+      "resource_type": "file",
+      "revision_id": "cc2f3fd5-1307-466e-80a4-9971f7edbda0",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/organizadores-de-exposiciones/organizadores-de-exposiciones.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/organizadores-de-exposiciones",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-01-08T14:51:36.240807",
+      "datastore_active": false,
+      "description": "Registro histórico acumulado de organizadores de exposiciones.",
+      "fileName": "registro-historico-acumulado-de-organizadores-de-exposiciones.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "juqdkmgo-1532-resource",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Registro Histórico Acumulado de Organizadores de Exposiciones",
+      "package_id": "juqdkmgo-153",
+      "position": 1,
+      "resource_type": "file",
+      "revision_id": "cd8059a2-09a9-4b7f-943b-0438f1b537ce",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/organizadores-de-exposiciones/registro-historico-acumulado-de-organizadores-de-exposiciones.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/organizadores-de-exposiciones",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-01-08T14:51:36.240807",
+      "datastore_active": false,
+      "description": "Espacios disponibles para exposiciones. Incluye nombre dirección, teléfono, correo electrónico, página web y georeferencia",
+      "fileName": "organizadores-de-exposiciones.xlsx",
+      "format": "XLSX",
+      "hash": "",
+      "id": "juqdkmgo-1531-resource-xlsx",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Organizadores de Exposiciones (XLSX)",
+      "package_id": "juqdkmgo-153",
+      "position": 2,
+      "resource_type": "file",
+      "revision_id": "c0549dcd-e74f-454b-94e3-2a4665821b12",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/organizadores-de-exposiciones/organizadores-de-exposiciones.xlsx",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/organizadores-de-exposiciones",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-01-08T14:51:36.240807",
+      "datastore_active": false,
+      "description": "Registro histórico acumulado de organizadores de exposiciones.",
+      "fileName": "registro-historico-acumulado-de-organizadores-de-exposiciones.xlsx",
+      "format": "XLSX",
+      "hash": "",
+      "id": "juqdkmgo-1532-resource-xlsx",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Registro Histórico Acumulado de Organizadores de Exposiciones (XLSX)",
+      "package_id": "juqdkmgo-153",
+      "position": 3,
+      "resource_type": "file",
+      "revision_id": "dbbb8af6-2a5e-4d81-9f72-2f64e5ddbf22",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/organizadores-de-exposiciones/registro-historico-acumulado-de-organizadores-de-exposiciones.xlsx",
+      "url_type": null
+    }
+  ],
+  "revision_id": "ee88b004-251a-47bc-a1b7-2c8ba43540f5",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "cultura",
+      "id": "858c2db7-dc24-4528-befd-726d218675e0",
+      "name": "cultura",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "servicios",
+      "id": "5fd98d91-e466-49b9-9b08-8a43e2068a8b",
+      "name": "servicios",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Organizadores de Exposiciones",
+  "type": "dataset",
+  "url": "https://data.buenosaires.gob.ar/dataset/organizadores-exposiciones",
+  "version": null
+}

@@ -1,0 +1,256 @@
+{
+  "author": "Ministerio de Educación e Innovación. Secretaría de Ciencia, Tecnología e Innovación. DG Emprendedores e Industrias basadas en el conocimiento",
+  "author_email": "datosabiertos@buenosaires.gob.ar",
+  "creator_user_id": "e4546f46-e966-493c-b2f1-57318502c41b",
+  "extras": [
+    {
+      "key": "Documentación",
+      "value": ""
+    },
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P3M"
+    },
+    {
+      "key": "country",
+      "value": "None"
+    },
+    {
+      "key": "district",
+      "value": ""
+    },
+    {
+      "key": "home_featured",
+      "value": "false"
+    },
+    {
+      "key": "issued",
+      "value": "2019-01-08T14:56:47.658660"
+    },
+    {
+      "key": "language",
+      "value": "[]"
+    },
+    {
+      "key": "modified",
+      "value": "2021-03-05T11:30:55.256751"
+    },
+    {
+      "key": "province",
+      "value": ""
+    },
+    {
+      "key": "source",
+      "value": "Ministerio de Educación e Innovación. Secretaría de Ciencia, Tecnología e Innovación. DG Emprendedores e Industrias basadas en el conocimiento"
+    },
+    {
+      "key": "spatial",
+      "value": "None"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"EDUC\"]"
+    },
+    {
+      "key": "temporal",
+      "value": ""
+    }
+  ],
+  "groups": [
+    {
+      "description": "Datasets relacionados con la cultura y el turismo",
+      "display_name": "Cultura y Turismo",
+      "id": "db2c0965-c659-4f94-8de9-41fce10f91a9",
+      "image_display_url": "https://data.buenosaires.gob.ar/uploads/group/2019-11-16-144908.071423cultura.png",
+      "name": "cultura-y-turismo",
+      "title": "Cultura y Turismo"
+    }
+  ],
+  "id": "juqdkmgo-192",
+  "isopen": true,
+  "license_id": "CC-BY-2.5-AR",
+  "license_title": "Atribucion 2.5 Argentina (CC BY 2.5 AR)",
+  "license_url": "https://creativecommons.org/licenses/by/2.5/ar ",
+  "maintainer": "Secretaría General y Relaciones Internacionales. Subsecretaría Gestión Estratégica y Calidad Institucional. Dirección General Calidad Institucional y Gobierno Abierto",
+  "maintainer_email": "datosabiertos@buenosaires.gob.ar",
+  "metadata_created": "2019-12-11T18:55:40.486977",
+  "metadata_modified": "2021-03-05T14:30:55.269024",
+  "name": "set-filmaciones",
+  "notes": "Información de los permisos solicitados para filmación en vía pública a través del sistema BAset.",
+  "num_resources": 4,
+  "num_tags": 7,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-11-15T19:18:19.762924",
+    "description": "",
+    "id": "da366597-5061-4955-9ca6-e93785956e0e",
+    "image_url": "",
+    "is_organization": true,
+    "name": "ministerio-de-educacion",
+    "revision_id": "1b6c27ee-7324-4554-a172-3d2f068e290a",
+    "state": "active",
+    "title": "Ministerio de Educación",
+    "type": "organization"
+  },
+  "owner_org": "da366597-5061-4955-9ca6-e93785956e0e",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/set-filmaciones",
+      "attributesDescription": "[{\"title\": \"lat\", \"type\": \"string\", \"description\": \"C\\u00f3digo para geocodificaci\\u00f3n\"}, {\"title\": \"lng\", \"type\": \"string\", \"description\": \"C\\u00f3digo para geocodificaci\\u00f3n\"}, {\"title\": \"trimestre\", \"type\": \"string\", \"description\": \"Per\\u00eddo de uso del set\"}, {\"title\": \"titulo\", \"type\": \"string\", \"description\": \"titulo del proyecto\"}, {\"title\": \"razon_social\", \"type\": \"string\", \"description\": \"Raz\\u00f3n social de la productora encargada del proyecto\"}, {\"title\": \"tipo_produccion\", \"type\": \"string\", \"description\": \"Tipo de producci\\u00f3n\"}, {\"title\": \"fecha\", \"type\": \"date\", \"description\": \"Fecha del rodaje del proyecto\"}, {\"title\": \"calle\", \"type\": \"string\", \"description\": \"Calle normalizada\"}, {\"title\": \"altura\", \"type\": \"integer\", \"description\": \"Altura normalizada\"}, {\"title\": \"barrio\", \"type\": \"string\", \"description\": \"Barrio de la locaci\\u00f3n\"}, {\"title\": \"comuna\", \"type\": \"string\", \"description\": \"Comuna de la locaci\\u00f3n\"}, {\"title\": \"codigo_postal\", \"type\": \"integer\", \"description\": \"C\\u00f3digo Postal de la locaci\\u00f3n\"}, {\"title\": \"codigo_postal_argentino\", \"type\": \"string\", \"description\": \"C\\u00f3digo Postal Argentino de la locaci\\u00f3n\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-07-01T17:48:10.270541",
+      "datastore_active": true,
+      "description": "Permisos solicitados trimestralmente para filmar en la Ciudad de Buenos Aires.",
+      "fileName": "baset-2019.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "juqdkmgo-1921-resource",
+      "last_modified": "2019-07-01T17:48:10.270541",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "BAset 2019",
+      "package_id": "juqdkmgo-192",
+      "position": 0,
+      "resource_type": "file",
+      "revision_id": "a159cc52-5e9c-4b1a-b68c-5f4c1e3f865e",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/set-filmaciones/baset-2019.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/set-filmaciones",
+      "attributesDescription": "[{\"title\": \"x\", \"type\": \"string\", \"description\": \"C\\u00f3digo para geocodificaci\\u00f3n\"}, {\"title\": \"y\", \"type\": \"string\", \"description\": \"C\\u00f3digo para geocodificaci\\u00f3n\"}, {\"title\": \"periodo\", \"type\": \"string\", \"description\": \"Per\\u00eddo de uso del set\"}, {\"title\": \"titulo_proyecto\", \"type\": \"string\", \"description\": \"T\\u00edtulo de la proyecto\"}, {\"title\": \"productora_razon_social\", \"type\": \"string\", \"description\": \"Raz\\u00f3n social de la productora encargada del proyecto\"}, {\"title\": \"tipo_produccion\", \"type\": \"string\", \"description\": \"Tipo de producci\\u00f3n\"}, {\"title\": \"fecha_rodaje\", \"type\": \"date\", \"description\": \"Fecha del rodaje del proyecto\"}, {\"title\": \"calle\", \"type\": \"string\", \"description\": \"Calle de la locacion\"}, {\"title\": \"altura\", \"type\": \"integer\", \"description\": \"Altura de la locaci\\u00f3n\"}, {\"title\": \"barrio\", \"type\": \"integer\", \"description\": \"Barrio de la locaci\\u00f3n\"}, {\"title\": \"comuna\", \"type\": \"string\", \"description\": \"Comuna de la locaci\\u00f3n\"}, {\"title\": \"cp\", \"type\": \"integer\", \"description\": \"C\\u00f3digo Postal de la locaci\\u00f3n\"}, {\"title\": \"cpa\", \"type\": \"string\", \"description\": \"C\\u00f3digo Postal Argentino de la locaci\\u00f3n\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-04-23T17:00:14.443310",
+      "datastore_active": false,
+      "description": "Registro histórico de los permisos solicitados.",
+      "fileName": "baset-historico.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "juqdkmgo-1922-resource",
+      "last_modified": "2019-04-23T17:00:14.443310",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "BAset Histórico",
+      "package_id": "juqdkmgo-192",
+      "position": 1,
+      "resource_type": "file",
+      "revision_id": "d7de6c9d-ef43-40d1-a515-b8f9c9806787",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/set-filmaciones/baset-historico.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/set-filmaciones",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-07-01T17:48:10.270541",
+      "datastore_active": true,
+      "description": "Permisos solicitados trimestralmente para filmar en la Ciudad de Buenos Aires.",
+      "fileName": "baset-2019.xlsx",
+      "format": "XLSX",
+      "hash": "",
+      "id": "juqdkmgo-1921-resource-xlsx",
+      "last_modified": "2019-07-01T17:48:10.270541",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "BAset 2019 (XLSX)",
+      "package_id": "juqdkmgo-192",
+      "position": 2,
+      "resource_type": "file",
+      "revision_id": "2719b06b-3d48-4a7c-a0c3-9b5a17b42627",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/set-filmaciones/baset-2019.xlsx",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/set-filmaciones",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-04-23T17:00:14.443310",
+      "datastore_active": true,
+      "description": "Registro histórico de los permisos solicitados.",
+      "fileName": "baset-historico.xlsx",
+      "format": "XLSX",
+      "hash": "",
+      "id": "juqdkmgo-1922-resource-xlsx",
+      "last_modified": "2019-04-23T17:00:14.443310",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "BAset Histórico (XLSX)",
+      "package_id": "juqdkmgo-192",
+      "position": 3,
+      "resource_type": "file",
+      "revision_id": "71845860-0f23-407c-bd79-6daea148f7ff",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/set-filmaciones/baset-historico.xlsx",
+      "url_type": null
+    }
+  ],
+  "revision_id": "23c03248-6f1c-4c99-bc3d-0d6807e47291",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "arte",
+      "id": "3a5b2d93-997d-455b-a554-82199c0d5d81",
+      "name": "arte",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "audiovisual",
+      "id": "079520bb-1536-4d30-ac01-13ace3603d3c",
+      "name": "audiovisual",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "cine",
+      "id": "4d2bea79-cc2c-443f-a26c-62ebb1b2b08f",
+      "name": "cine",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "economía",
+      "id": "20a0f20c-f7ed-48f4-b223-e343db7f9ee8",
+      "name": "economía",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "industrias",
+      "id": "85dda63a-08c8-4b7f-afdb-a823ef82a409",
+      "name": "industrias",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "mapa",
+      "id": "2c83da8e-2e03-47e6-aee4-bb965600000d",
+      "name": "mapa",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "registros",
+      "id": "ac385387-032a-46f2-ba38-abb16529c234",
+      "name": "registros",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Set Filmaciones",
+  "type": "dataset",
+  "url": "https://data.buenosaires.gob.ar/dataset/set-filmaciones",
+  "version": null
+}

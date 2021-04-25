@@ -1,0 +1,241 @@
+{
+  "author": "Ministerio de Educación",
+  "author_email": "gobiernoabierto@buenosaires.gob.ar",
+  "creator_user_id": "e4546f46-e966-493c-b2f1-57318502c41b",
+  "extras": [
+    {
+      "key": "Documentación",
+      "value": ""
+    },
+    {
+      "key": "accrualPeriodicity",
+      "value": "eventual"
+    },
+    {
+      "key": "country",
+      "value": "None"
+    },
+    {
+      "key": "district",
+      "value": ""
+    },
+    {
+      "key": "home_featured",
+      "value": "false"
+    },
+    {
+      "key": "issued",
+      "value": "2019-01-08T14:52:56.635463"
+    },
+    {
+      "key": "language",
+      "value": "[]"
+    },
+    {
+      "key": "modified",
+      "value": "2020-12-11T13:35:32.467432"
+    },
+    {
+      "key": "province",
+      "value": ""
+    },
+    {
+      "key": "source",
+      "value": "Ministerio de Educación"
+    },
+    {
+      "key": "spatial",
+      "value": "None"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"REGI\"]"
+    },
+    {
+      "key": "temporal",
+      "value": ""
+    }
+  ],
+  "groups": [
+    {
+      "description": "Datasets relacionados con urbanismo y territorio",
+      "display_name": "Urbanismo y Territorio",
+      "id": "63e162a0-3f4a-446a-a60b-601d16f36200",
+      "image_display_url": "https://data.buenosaires.gob.ar/uploads/group/2019-11-16-145056.781692urba.png",
+      "name": "urbanismo-y-territorio",
+      "title": "Urbanismo y Territorio"
+    }
+  ],
+  "id": "juqdkmgo-61",
+  "isopen": true,
+  "license_id": "CC-BY-2.5-AR",
+  "license_title": "Atribucion 2.5 Argentina (CC BY 2.5 AR)",
+  "license_url": "https://creativecommons.org/licenses/by/2.5/ar ",
+  "maintainer": "Subgerencia de Información Geoespacial. DG Ciencias de la Información. SS de Políticas Públicas Basadas en Evidencia. Secretaría de Innovación y Transformación Digital. Jefatura de Gabinete de Ministros",
+  "maintainer_email": "gobiernoabierto@buenosaires.gob.ar",
+  "metadata_created": "2019-12-11T18:27:03.960688",
+  "metadata_modified": "2020-12-17T15:55:55.240055",
+  "name": "comunas",
+  "notes": "Información geográfica de la locación (perímetro y área) de las comunas de la Ciudad establecidas a partir de la Ley Orgánica de Comunas (Ley Nº 1777/2005).",
+  "num_resources": 4,
+  "num_tags": 5,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-11-15T19:18:19.762924",
+    "description": "",
+    "id": "da366597-5061-4955-9ca6-e93785956e0e",
+    "image_url": "",
+    "is_organization": true,
+    "name": "ministerio-de-educacion",
+    "revision_id": "1b6c27ee-7324-4554-a172-3d2f068e290a",
+    "state": "active",
+    "title": "Ministerio de Educación",
+    "type": "organization"
+  },
+  "owner_org": "da366597-5061-4955-9ca6-e93785956e0e",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/comunas",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-07-30T14:57:38.391800",
+      "datastore_active": false,
+      "description": "Comunas de la Ciudad incluyendo los barrios que la componen.",
+      "fileName": "comunas.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "Juqdkmgo-612221-resource",
+      "last_modified": "2019-07-30T14:57:38.391800",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Comunas",
+      "package_id": "juqdkmgo-61",
+      "position": 0,
+      "resource_type": "file",
+      "revision_id": "f9f5b205-a5e3-4b78-afbe-8029d730f073",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/comunas/comunas.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/comunas",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-01-08T14:52:56.635463",
+      "datastore_active": false,
+      "description": "Archivo shapefile con las comunas de la Ciudad.",
+      "fileName": "comunas-zip.zip",
+      "format": "ZIP",
+      "hash": "",
+      "id": "Juqdkmgo-612222-resource",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Comunas (SHP)",
+      "package_id": "juqdkmgo-61",
+      "position": 1,
+      "resource_type": "file",
+      "revision_id": "4c4691dc-51ee-4392-97ac-3d7bf76e55ca",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/comunas/comunas-zip.zip",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/61/resource/b0b627ac-5b47-4574-89ac-6999b63598ee",
+      "attributesDescription": "[{\"title\": \"barrios\", \"type\": \"string\", \"description\": \"Nombre de los barrios que integra la comuna.\"}, {\"title\": \"perimetro\", \"type\": \"number\", \"description\": \"Per\\u00edmetro en metros.\"}, {\"title\": \"area\", \"type\": \"number\", \"description\": \"Superficie en metros cuadrados.\"}, {\"title\": \"geometry\", \"type\": \"any\", \"description\": \"Tipo de geometr\\u00eda y coordenadas.\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-04-24T11:18:41.378681",
+      "datastore_active": false,
+      "description": "Archivo GeoJSON con la localización de las comunas de la Ciudad.",
+      "fileName": "CABA_comunas.geojson",
+      "format": "GeoJSON",
+      "hash": "",
+      "id": "b0b627ac-5b47-4574-89ac-6999b63598ee",
+      "last_modified": "2019-04-24T11:18:41.378681",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Comunas (GeoJSON)",
+      "package_id": "juqdkmgo-61",
+      "position": 2,
+      "resource_type": "file",
+      "revision_id": "67eb615f-de96-48a4-b3df-6ede9fe99281",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/comunas/CABA_comunas.geojson",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/comunas",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-07-30T14:57:38.391800",
+      "datastore_active": false,
+      "description": "Comunas de la Ciudad incluyendo los barrios que la componen.",
+      "fileName": "comunas.xlsx",
+      "format": "XLSX",
+      "hash": "",
+      "id": "Juqdkmgo-612221-resource-xlsx",
+      "last_modified": "2019-07-30T14:57:38.391800",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Comunas (XLSX)",
+      "package_id": "juqdkmgo-61",
+      "position": 3,
+      "resource_type": "file",
+      "revision_id": "ae658889-5cd7-4d56-8cfe-b2b262726889",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/comunas/comunas.xlsx",
+      "url_type": null
+    }
+  ],
+  "revision_id": "1f5b99df-1076-4f1e-8d2c-488c21732c20",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "CGP",
+      "id": "1d1a000f-ec90-47f2-8675-5c235e26bbb4",
+      "name": "CGP",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "centros-comunales",
+      "id": "6574a926-9eec-4c51-8223-468b23f16208",
+      "name": "centros-comunales",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "distritos",
+      "id": "5c2ab567-1a18-479d-819e-9463722973a2",
+      "name": "distritos",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "división-territorial",
+      "id": "f55cbbf9-9051-43ad-ab2a-16fdf56b6a99",
+      "name": "división-territorial",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "urbanismo",
+      "id": "17ac67e7-699b-470d-b0dd-5b8752c1fb73",
+      "name": "urbanismo",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Comunas",
+  "type": "dataset",
+  "url": "https://data.buenosaires.gob.ar/dataset/comunas",
+  "version": null
+}

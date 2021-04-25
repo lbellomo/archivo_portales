@@ -1,0 +1,182 @@
+{
+  "author": "Subsecretaría de Registro, Interpretación y Catastro. Secretaría de Desarrollo Urbano. Jefatura de Gabinete de Ministros",
+  "author_email": "",
+  "creator_user_id": "8d145753-992e-42a2-8db1-dad6e691981e",
+  "extras": [
+    {
+      "key": "Documentación",
+      "value": ""
+    },
+    {
+      "key": "accrualPeriodicity",
+      "value": "eventual"
+    },
+    {
+      "key": "country",
+      "value": "ARG"
+    },
+    {
+      "key": "district",
+      "value": ""
+    },
+    {
+      "key": "home_featured",
+      "value": "false"
+    },
+    {
+      "key": "issued",
+      "value": "2021-02-03T14:20:11.441348"
+    },
+    {
+      "key": "language",
+      "value": "[\"spa\"]"
+    },
+    {
+      "key": "modified",
+      "value": "2021-02-04"
+    },
+    {
+      "key": "province",
+      "value": ""
+    },
+    {
+      "key": "source",
+      "value": "Subsecretaría de Registro, Interpretación y Catastro. Secretaría de Desarrollo Urbano. Jefatura de Gabinete de Ministros"
+    },
+    {
+      "key": "spatial",
+      "value": "ARG"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"GOVE\"]"
+    },
+    {
+      "key": "temporal",
+      "value": ""
+    }
+  ],
+  "groups": [
+    {
+      "description": "Datasets relacionados con urbanismo y territorio",
+      "display_name": "Urbanismo y Territorio",
+      "id": "63e162a0-3f4a-446a-a60b-601d16f36200",
+      "image_display_url": "https://data.buenosaires.gob.ar/uploads/group/2019-11-16-145056.781692urba.png",
+      "name": "urbanismo-y-territorio",
+      "title": "Urbanismo y Territorio"
+    }
+  ],
+  "id": "62237414-68bf-421d-bd8c-695be2282a78",
+  "isopen": true,
+  "license_id": "CC-BY-2.5-AR",
+  "license_title": "Atribucion 2.5 Argentina (CC BY 2.5 AR)",
+  "license_url": "https://creativecommons.org/licenses/by/2.5/ar ",
+  "maintainer": "Gerencia Operativa de Ingeniería de Datos. DG Arquitectura de Datos. SS de Políticas Públicas Basadas en Evidencia. Secretaría de Innovación y Transformación Digital. Jefatura de Gabinete de Ministros",
+  "maintainer_email": "datosabiertos@buenosaires.gob.ar",
+  "metadata_created": "2021-02-03T16:26:31.086848",
+  "metadata_modified": "2021-02-04T18:17:18.807670",
+  "name": "linea-oficial",
+  "notes": "Información sobre las líneas oficiales en cada parcela de la Ciudad. ",
+  "num_resources": 1,
+  "num_tags": 6,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-11-15T19:19:23.733985",
+    "description": "",
+    "id": "eddbd148-4cef-40e1-87f7-94345c709aad",
+    "image_url": "",
+    "is_organization": true,
+    "name": "secretaria-de-desarrollo-urbano",
+    "revision_id": "14b2ab11-275f-4466-b2f4-4b60ff08fa3e",
+    "state": "active",
+    "title": "Secretaría de Desarrollo Urbano",
+    "type": "organization"
+  },
+  "owner_org": "eddbd148-4cef-40e1-87f7-94345c709aad",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "",
+      "accessURL_field": "",
+      "attributesDescription": "[{\"title\":\"WKT\",\"description\":\"Geometria para visualizar con software GIS o compatible\",\"type\":\"string\"},{\"title\":\"smp\",\"description\":\"Código de Sección - Manzana - Parcela\",\"type\":\"string\"},{\"title\":\"Calle\",\"description\":\"Calle\",\"type\":\"string\"},{\"title\":\"fuente\",\"description\":\"Fuente del dato\",\"type\":\"string\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2021-02-03T18:40:17.106875",
+      "datastore_active": false,
+      "description": "Línea que deslinda el lote de la vía pública actual o la línea señalada por el Gobierno para la futura vía pública",
+      "fileName": "linea_oficial.csv",
+      "format": "CSV",
+      "has-uploaded-file": "",
+      "hash": "",
+      "icon_url": "",
+      "id": "db21d4d0-02f3-41b7-bb44-a7544f5403c2",
+      "issued": "2021-02-03T15:40:17.067345",
+      "last_modified": null,
+      "license_id": "CC-BY-4.0",
+      "mimetype": "text/csv",
+      "mimetype_inner": null,
+      "modified": "2021-02-04",
+      "name": "Linea Oficial",
+      "package_id": "62237414-68bf-421d-bd8c-695be2282a78",
+      "position": 0,
+      "resource_type": "file",
+      "revision_id": "470922c2-4fdb-46a7-a68d-c45c27fbfad8",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/linea-oficial/linea_oficial.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "aa5906f0-0f74-4b6d-be1b-1529e77854bb",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "ciudad 3d",
+      "id": "85a8900e-54ff-4888-9c8f-14432f167da2",
+      "name": "ciudad 3d",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "cur3d",
+      "id": "bf125fc5-008f-4671-b9f1-e3552eb052dd",
+      "name": "cur3d",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "linea oficial",
+      "id": "5455768d-2bf5-4230-8d23-853d920f8a5b",
+      "name": "linea oficial",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "lineas",
+      "id": "169d7777-a2d5-424c-975a-76643edd0c2d",
+      "name": "lineas",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "mapa3d",
+      "id": "a13bfcbd-69e4-4505-9552-676da1aa7111",
+      "name": "mapa3d",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "plano abierto",
+      "id": "2cf0ec73-4443-4d28-b693-b2e8d7d46375",
+      "name": "plano abierto",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Linea Oficial",
+  "type": "dataset",
+  "url": "https://data.buenosaires.gob.ar/dataset/linea-oficial",
+  "version": null
+}

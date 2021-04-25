@@ -1,0 +1,373 @@
+{
+  "author": "Instituto de Vivienda de la Ciudad (IVC). Ministerio de Desarrollo Humano y Hábitat",
+  "author_email": "gobiernoabierto@buenosaires.gob.ar",
+  "creator_user_id": "e4546f46-e966-493c-b2f1-57318502c41b",
+  "extras": [
+    {
+      "key": "Documentación",
+      "value": ""
+    },
+    {
+      "key": "accrualPeriodicity",
+      "value": "eventual"
+    },
+    {
+      "key": "country",
+      "value": "None"
+    },
+    {
+      "key": "district",
+      "value": ""
+    },
+    {
+      "key": "home_featured",
+      "value": "false"
+    },
+    {
+      "key": "issued",
+      "value": "2019-11-27T17:25:49.002908"
+    },
+    {
+      "key": "language",
+      "value": "[]"
+    },
+    {
+      "key": "modified",
+      "value": "2020-12-04T10:25:10.197780"
+    },
+    {
+      "key": "province",
+      "value": ""
+    },
+    {
+      "key": "source",
+      "value": "Instituto de Vivienda de la Ciudad (IVC). Ministerio de Desarrollo Humano y Hábitat"
+    },
+    {
+      "key": "spatial",
+      "value": "None"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"GOVE\",\"REGI\"]"
+    },
+    {
+      "key": "temporal",
+      "value": ""
+    }
+  ],
+  "groups": [
+    {
+      "description": "",
+      "display_name": "Administración Pública",
+      "id": "8cb134a8-90ea-4e69-a96d-c03449917dc9",
+      "image_display_url": "https://data.buenosaires.gob.ar/uploads/group/2019-11-16-144810.360383adminpublica.png",
+      "name": "administracion-publica",
+      "title": "Administración Pública"
+    },
+    {
+      "description": "Datos abiertos relacionados al Desarrollo Humano",
+      "display_name": "Desarrollo Humano",
+      "id": "9d791ab5-130b-4bdb-bebf-b14cf2528781",
+      "image_display_url": "https://data.buenosaires.gob.ar/uploads/group/2020-01-31-175946.842561desarrollo-humano.png",
+      "name": "desarrollo-humano",
+      "title": "Desarrollo Humano"
+    },
+    {
+      "description": "Datasets relacionados con urbanismo y territorio",
+      "display_name": "Urbanismo y Territorio",
+      "id": "63e162a0-3f4a-446a-a60b-601d16f36200",
+      "image_display_url": "https://data.buenosaires.gob.ar/uploads/group/2019-11-16-145056.781692urba.png",
+      "name": "urbanismo-y-territorio",
+      "title": "Urbanismo y Territorio"
+    }
+  ],
+  "id": "12a9aa98-9051-44db-bf77-3f93c18a813d",
+  "isopen": true,
+  "license_id": "CC-BY-2.5-AR",
+  "license_title": "Atribucion 2.5 Argentina (CC BY 2.5 AR)",
+  "license_url": "https://creativecommons.org/licenses/by/2.5/ar ",
+  "maintainer": "Gerencia Operativa de Ingeniería de Datos. DG Arquitectura de Datos. SS de Políticas Públicas Basadas en Evidencia. Secretaría de Innovación y Transformación Digital. Jefatura de Gabinete de Ministros",
+  "maintainer_email": "gobiernoabierto@buenosaires.gob.ar",
+  "metadata_created": "2019-12-11T18:04:32.789969",
+  "metadata_modified": "2020-12-04T13:25:10.240880",
+  "name": "conjuntos-urbanos-cooperativas-ivc",
+  "notes": "Los conjuntos urbanos y las cooperativas son viviendas, edificios y complejos de edificios en los que tiene injerencia y trabaja el IVC en la creación, mantenimiento, escrituración, asignación de créditos y relocalización de distintos tipos de familias y beneficiarios. Se diferencian en que las cooperativas son sitios en los cuales existen cooperativas de intermediario, y son ellas quienes se encargan de asignar o identificar las personas/familias que serán beneficiarias.",
+  "num_resources": 8,
+  "num_tags": 8,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-11-15T19:14:10.756566",
+    "description": "",
+    "id": "7eb79ff7-df01-4517-9b0e-a7aabdab7ae6",
+    "image_url": "",
+    "is_organization": true,
+    "name": "instituto-de-vivienda",
+    "revision_id": "3c1abfb2-a3aa-4f29-9d19-051811602e20",
+    "state": "active",
+    "title": "Instituto de Vivienda de la Ciudad (IVC)",
+    "type": "organization"
+  },
+  "owner_org": "7eb79ff7-df01-4517-9b0e-a7aabdab7ae6",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "http://data.buenosaires.gob.ar/dataset/12a9aa98-9051-44db-bf77-3f93c18a813d/resource/a026f8ef-5a99-4399-97fa-cf8eb01e12cf",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-11-27T14:30:15.003024",
+      "datastore_active": true,
+      "description": "Información sobre los conjuntos urbanos de IVC. Incluye ubicación geográfica, id, código, nombre, dirección y tipo.",
+      "fileName": "conjuntos-urbanos-ivc.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "a026f8ef-5a99-4399-97fa-cf8eb01e12cf",
+      "last_modified": "2019-11-27T14:30:15.003024",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Conjuntos Urbanos IVC",
+      "package_id": "12a9aa98-9051-44db-bf77-3f93c18a813d",
+      "position": 0,
+      "resource_type": "file",
+      "revision_id": "1765e522-e04c-48b7-bd43-5220dba95ca6",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/conjuntos-urbanos-ivc/conjuntos-urbanos-ivc.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://data.buenosaires.gob.ar/dataset/12a9aa98-9051-44db-bf77-3f93c18a813d/resource/23d34d0e-bd60-41c8-ae41-7e327fcde25a",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-11-27T14:30:48.140777",
+      "datastore_active": true,
+      "description": "Archivo excel con la información sobre los conjuntos urbanos de IVC. Incluye ubicación geográfica, id, código, nombre, dirección y tipo.",
+      "fileName": "conjuntos-urbanos-ivc.xlsx",
+      "format": "XLSX",
+      "hash": "",
+      "id": "23d34d0e-bd60-41c8-ae41-7e327fcde25a",
+      "last_modified": "2019-11-27T14:30:48.140777",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Conjuntos Urbanos IVC (XLSX)",
+      "package_id": "12a9aa98-9051-44db-bf77-3f93c18a813d",
+      "position": 1,
+      "resource_type": "file",
+      "revision_id": "1765e522-e04c-48b7-bd43-5220dba95ca6",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/conjuntos-urbanos-ivc/conjuntos-urbanos-ivc.xlsx",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://data.buenosaires.gob.ar/dataset/12a9aa98-9051-44db-bf77-3f93c18a813d/resource/96098c8b-f9da-4f73-ba7f-18828fd15ac6",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-11-27T14:31:22.154321",
+      "datastore_active": false,
+      "description": "Archivo shapefile con la información sobre los conjuntos urbanos de IVC. Incluye ubicación geográfica, id, código, nombre, dirección y tipo.",
+      "fileName": "conjuntos-urbanos-ivc.zip",
+      "format": "ZIP",
+      "hash": "",
+      "id": "96098c8b-f9da-4f73-ba7f-18828fd15ac6",
+      "last_modified": "2019-11-27T14:31:22.154321",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Conjuntos Urbanos IVC (SHP)",
+      "package_id": "12a9aa98-9051-44db-bf77-3f93c18a813d",
+      "position": 2,
+      "resource_type": "file",
+      "revision_id": "1765e522-e04c-48b7-bd43-5220dba95ca6",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/conjuntos-urbanos-ivc/conjuntos-urbanos-ivc.zip",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://data.buenosaires.gob.ar/dataset/12a9aa98-9051-44db-bf77-3f93c18a813d/resource/ea403e98-b344-41ed-80ba-5e6a54f08ced",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-11-27T14:32:11.103193",
+      "datastore_active": false,
+      "description": "Archivo GeoJSON con la información sobre los conjuntos urbanos de IVC. Incluye ubicación geográfica, id, código, nombre, dirección y tipo.",
+      "fileName": "conjuntos-urbanos-ivc.geojson",
+      "format": "GeoJSON",
+      "hash": "",
+      "id": "ea403e98-b344-41ed-80ba-5e6a54f08ced",
+      "last_modified": "2019-11-27T14:32:11.103193",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Conjuntos Urbanos IVC (GeoJSON)",
+      "package_id": "12a9aa98-9051-44db-bf77-3f93c18a813d",
+      "position": 3,
+      "resource_type": "file",
+      "revision_id": "1765e522-e04c-48b7-bd43-5220dba95ca6",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/conjuntos-urbanos-ivc/conjuntos-urbanos-ivc.geojson",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://data.buenosaires.gob.ar/dataset/12a9aa98-9051-44db-bf77-3f93c18a813d/resource/92f6c03f-2c27-4e3f-988f-8eca7aa62546",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-11-28T16:15:13.654944",
+      "datastore_active": true,
+      "description": "Listado con las cooperativas con las que trabaja el IVC. Incluye ubicación geográfica, id, código, nombre, dirección y tipo.",
+      "fileName": "cooperativas-ivc.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "92f6c03f-2c27-4e3f-988f-8eca7aa62546",
+      "last_modified": "2019-11-28T16:15:13.654944",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Cooperativas IVC",
+      "package_id": "12a9aa98-9051-44db-bf77-3f93c18a813d",
+      "position": 4,
+      "resource_type": "file",
+      "revision_id": "1765e522-e04c-48b7-bd43-5220dba95ca6",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/cooperativas-ivc/cooperativas-ivc.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://data.buenosaires.gob.ar/dataset/12a9aa98-9051-44db-bf77-3f93c18a813d/resource/f1a9e464-37a6-4d92-b329-7e6cf04002b8",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-11-28T16:16:15.130666",
+      "datastore_active": true,
+      "description": "Archivo excel con el listado con las cooperativas con las que trabaja el IVC. Incluye ubicación geográfica, id, código, nombre, dirección y tipo.",
+      "fileName": "cooperativas-ivc.xlsx",
+      "format": "XLSX",
+      "hash": "",
+      "id": "f1a9e464-37a6-4d92-b329-7e6cf04002b8",
+      "last_modified": "2019-11-28T16:16:15.130666",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Cooperativas IVC (XLSX)",
+      "package_id": "12a9aa98-9051-44db-bf77-3f93c18a813d",
+      "position": 5,
+      "resource_type": "file",
+      "revision_id": "1765e522-e04c-48b7-bd43-5220dba95ca6",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/cooperativas-ivc/cooperativas-ivc.xlsx",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://data.buenosaires.gob.ar/dataset/12a9aa98-9051-44db-bf77-3f93c18a813d/resource/f737e44c-3c5a-457d-8f84-ea6dc0e18fc9",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-11-28T16:16:44.598549",
+      "datastore_active": false,
+      "description": "Archivo shapefile con las cooperativas del IVC.",
+      "fileName": "cooperativas-ivc.zip",
+      "format": "ZIP",
+      "hash": "",
+      "id": "f737e44c-3c5a-457d-8f84-ea6dc0e18fc9",
+      "last_modified": "2019-11-28T16:16:44.598549",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Cooperativas IVC (SHP)",
+      "package_id": "12a9aa98-9051-44db-bf77-3f93c18a813d",
+      "position": 6,
+      "resource_type": "file",
+      "revision_id": "1765e522-e04c-48b7-bd43-5220dba95ca6",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/cooperativas-ivc/cooperativas-ivc.zip",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://data.buenosaires.gob.ar/dataset/12a9aa98-9051-44db-bf77-3f93c18a813d/resource/9cd02994-a6ad-44c6-a209-0601bfbabaea",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-11-28T16:18:23.224284",
+      "datastore_active": false,
+      "description": "Archivo geoJSON con las cooperativas del IVC.",
+      "fileName": "cooperativas-ivc.geojson",
+      "format": "GeoJSON",
+      "hash": "",
+      "id": "9cd02994-a6ad-44c6-a209-0601bfbabaea",
+      "last_modified": "2019-11-28T16:18:23.224284",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Cooperativas IVC (GeoJSON)",
+      "package_id": "12a9aa98-9051-44db-bf77-3f93c18a813d",
+      "position": 7,
+      "resource_type": "file",
+      "revision_id": "1765e522-e04c-48b7-bd43-5220dba95ca6",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/cooperativas-ivc/cooperativas-ivc.geojson",
+      "url_type": null
+    }
+  ],
+  "revision_id": "2f9d44f4-271b-4fee-9133-62ecb42a343a",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "IVC",
+      "id": "acfd595b-f5ad-4fea-9bd3-8e165dbcab1f",
+      "name": "IVC",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Instituto de Vivienda de la Ciudad",
+      "id": "620c41f0-5788-4005-adb3-f40474d0d929",
+      "name": "Instituto de Vivienda de la Ciudad",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "conjunto urbano",
+      "id": "24bb9daa-f13e-4e4c-8e71-62c29279cfbb",
+      "name": "conjunto urbano",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "cooperativas",
+      "id": "a1d418ce-7520-4393-9c59-2a21512dc46b",
+      "name": "cooperativas",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "créditos",
+      "id": "75603e1d-5f27-4063-8828-aa4ac59200e4",
+      "name": "créditos",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "escrituración",
+      "id": "6605d1d1-a186-4a27-874b-abb12af6f32f",
+      "name": "escrituración",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "escrituras",
+      "id": "e2faea93-e190-4e9a-a7c5-914545573762",
+      "name": "escrituras",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "manzanas",
+      "id": "3232fd3d-10bf-4f0e-b236-6dfffa25c5b6",
+      "name": "manzanas",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Conjuntos Urbanos y Cooperativas IVC",
+  "type": "dataset",
+  "url": "http://data.buenosaires.gob.ar/dataset/conjuntos-urbanos-y-cooperativas-ivc",
+  "version": null
+}

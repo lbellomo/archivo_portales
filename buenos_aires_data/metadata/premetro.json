@@ -1,0 +1,274 @@
+{
+  "author": "Subterráneos Buenos Aires (SBASE)",
+  "author_email": "datosabiertos@buenosaires.gob.ar",
+  "creator_user_id": "e4546f46-e966-493c-b2f1-57318502c41b",
+  "extras": [
+    {
+      "key": "Documentación",
+      "value": ""
+    },
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P1Y"
+    },
+    {
+      "key": "country",
+      "value": "None"
+    },
+    {
+      "key": "district",
+      "value": ""
+    },
+    {
+      "key": "home_featured",
+      "value": "false"
+    },
+    {
+      "key": "issued",
+      "value": "2019-01-08T15:01:01.380923"
+    },
+    {
+      "key": "language",
+      "value": "[]"
+    },
+    {
+      "key": "modified",
+      "value": "2021-03-05T11:51:44.834872"
+    },
+    {
+      "key": "province",
+      "value": ""
+    },
+    {
+      "key": "source",
+      "value": "Ministerio de Educación e Innovación. Secretaría de Ciencia, Tecnología e Innovación. SS de Ciudad Inteligente y Tecnología Educativa. DG Ciencias de la Información. Unidad de Sistemas de Información Geográfica (USIG)"
+    },
+    {
+      "key": "spatial",
+      "value": "None"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"TRAN\"]"
+    },
+    {
+      "key": "temporal",
+      "value": ""
+    }
+  ],
+  "groups": [
+    {
+      "description": "",
+      "display_name": "Movilidad",
+      "id": "e616e02e-64d8-4fb0-b55d-08e75eb58376",
+      "image_display_url": "https://data.buenosaires.gob.ar/uploads/group/2019-11-16-145017.234366movilidad.png",
+      "name": "movilidad",
+      "title": "Movilidad"
+    }
+  ],
+  "id": "juqdkmgo-165",
+  "isopen": true,
+  "license_id": "CC-BY-2.5-AR",
+  "license_title": "Atribucion 2.5 Argentina (CC BY 2.5 AR)",
+  "license_url": "https://creativecommons.org/licenses/by/2.5/ar ",
+  "maintainer": "Secretaría General y Relaciones Internacionales. Subsecretaría Gestión Estratégica y Calidad Institucional. Dirección General Calidad Institucional y Gobierno Abierto",
+  "maintainer_email": "datosabiertos@buenosaires.gob.ar",
+  "metadata_created": "2019-12-11T18:19:06.314844",
+  "metadata_modified": "2021-03-05T14:51:44.848080",
+  "name": "premetro",
+  "notes": "Ubicación geográfica de las lineas y estaciones del premetro.",
+  "num_resources": 6,
+  "num_tags": 3,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-11-15T19:15:41.099199",
+    "description": "",
+    "id": "09f7efa5-e672-4313-948b-be911c134ad2",
+    "image_url": "",
+    "is_organization": true,
+    "name": "sbase",
+    "revision_id": "0e38cc92-c17c-4e05-8358-188341f4c3fc",
+    "state": "active",
+    "title": "Subterráneos de Buenos Aires (SBASE)",
+    "type": "organization"
+  },
+  "owner_org": "09f7efa5-e672-4313-948b-be911c134ad2",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/premetro",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-01-08T15:01:01.380923",
+      "datastore_active": false,
+      "description": "Referencia geográfica de las estaciones del premetro.",
+      "fileName": "estaciones-premetro.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "juqdkmgo-1651-resource",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Estaciones Premetro",
+      "package_id": "juqdkmgo-165",
+      "position": 0,
+      "resource_type": "file",
+      "revision_id": "fcc23c15-e4fb-40fc-abb3-2873fe5b288e",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/premetro/estaciones-premetro.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/premetro",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-01-08T15:01:01.380923",
+      "datastore_active": false,
+      "description": "Archivo shapefile de las estaciones del premetro",
+      "fileName": "estaciones-premetro-zip.zip",
+      "format": "ZIP",
+      "hash": "",
+      "id": "juqdkmgo-1652-resource",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Estaciones Premetro (SHP)",
+      "package_id": "juqdkmgo-165",
+      "position": 1,
+      "resource_type": "file",
+      "revision_id": "dc4a9db2-14fb-4f07-819b-e67f94c9ff68",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/premetro/estaciones-premetro-zip.zip",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/premetro",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-01-08T15:01:01.380923",
+      "datastore_active": false,
+      "description": "Referencia geográfica del recorrido del premetro.",
+      "fileName": "recorrido-premetro.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "juqdkmgo-1653-resource",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Recorrido Premetro",
+      "package_id": "juqdkmgo-165",
+      "position": 2,
+      "resource_type": "file",
+      "revision_id": "fbe98d3a-0515-42a2-badd-71d3a6ebe2fd",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/premetro/recorrido-premetro.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/premetro",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-01-08T15:01:01.380923",
+      "datastore_active": false,
+      "description": "Archivo shapefile del recorrido del premetro",
+      "fileName": "recorrido-premetro-zip.zip",
+      "format": "ZIP",
+      "hash": "",
+      "id": "juqdkmgo-1654-resource",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Recorrido Premetro (SHP)",
+      "package_id": "juqdkmgo-165",
+      "position": 3,
+      "resource_type": "file",
+      "revision_id": "2b2c2b8c-c3aa-4fff-b477-419d8ed11a81",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/premetro/recorrido-premetro-zip.zip",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/premetro",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-01-08T15:01:01.380923",
+      "datastore_active": false,
+      "description": "Referencia geográfica de las estaciones del premetro.",
+      "fileName": "estaciones-premetro.xlsx",
+      "format": "XLSX",
+      "hash": "",
+      "id": "juqdkmgo-1651-resource-xlsx",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Estaciones Premetro (XLSX)",
+      "package_id": "juqdkmgo-165",
+      "position": 4,
+      "resource_type": "file",
+      "revision_id": "1af88d5f-e30e-4d74-b4b4-dd735ffe8822",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/premetro/estaciones-premetro.xlsx",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/premetro",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-01-08T15:01:01.380923",
+      "datastore_active": false,
+      "description": "Referencia geográfica del recorrido del premetro.",
+      "fileName": "recorrido-premetro.xlsx",
+      "format": "XLSX",
+      "hash": "",
+      "id": "juqdkmgo-1653-resource-xlsx",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Recorrido Premetro (XLSX)",
+      "package_id": "juqdkmgo-165",
+      "position": 5,
+      "resource_type": "file",
+      "revision_id": "c9402a4e-50d1-4189-af8a-b2892f84bf8b",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/premetro/recorrido-premetro.xlsx",
+      "url_type": null
+    }
+  ],
+  "revision_id": "6c9b8177-62bb-4797-ba65-500669196451",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "movilidad",
+      "id": "6fda14a0-403a-4fd4-bc7f-e5742514badc",
+      "name": "movilidad",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "premetro",
+      "id": "552b94f6-89fa-4837-8c02-223ae3da684f",
+      "name": "premetro",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "transporte",
+      "id": "aff133f8-2f33-4d2c-a531-6d632bd4efbb",
+      "name": "transporte",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Premetro",
+  "type": "dataset",
+  "url": "https://data.buenosaires.gob.ar/dataset/premetro",
+  "version": null
+}

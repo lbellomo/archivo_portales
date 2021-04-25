@@ -1,0 +1,409 @@
+{
+  "author": "Jefatura de Gabinete de Ministros. SS Sistemas y Procesos. DG Adm. Base de Datos e Ingeniería de Proyectos",
+  "author_email": "datosabiertos@buenosaires.gob.ar",
+  "creator_user_id": "e4546f46-e966-493c-b2f1-57318502c41b",
+  "extras": [
+    {
+      "key": "Documentación",
+      "value": ""
+    },
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P1M"
+    },
+    {
+      "key": "country",
+      "value": "None"
+    },
+    {
+      "key": "district",
+      "value": ""
+    },
+    {
+      "key": "home_featured",
+      "value": "false"
+    },
+    {
+      "key": "issued",
+      "value": "2019-01-08T14:51:54.409490"
+    },
+    {
+      "key": "language",
+      "value": "[]"
+    },
+    {
+      "key": "modified",
+      "value": "2021-03-05T11:30:38.997923"
+    },
+    {
+      "key": "province",
+      "value": ""
+    },
+    {
+      "key": "source",
+      "value": "Jefatura de Gabinete de Ministros. SS Sistemas y Procesos. DG Adm. Base de Datos e Ingeniería de Proyectos"
+    },
+    {
+      "key": "spatial",
+      "value": "None"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"GOVE\"]"
+    },
+    {
+      "key": "temporal",
+      "value": ""
+    }
+  ],
+  "groups": [
+    {
+      "description": "",
+      "display_name": "Administración Pública",
+      "id": "8cb134a8-90ea-4e69-a96d-c03449917dc9",
+      "image_display_url": "https://data.buenosaires.gob.ar/uploads/group/2019-11-16-144810.360383adminpublica.png",
+      "name": "administracion-publica",
+      "title": "Administración Pública"
+    }
+  ],
+  "id": "juqdkmgo-194",
+  "isopen": true,
+  "license_id": "CC-BY-2.5-AR",
+  "license_title": "Atribucion 2.5 Argentina (CC BY 2.5 AR)",
+  "license_url": "https://creativecommons.org/licenses/by/2.5/ar ",
+  "maintainer": "Secretaría General y Relaciones Internacionales. Subsecretaría Gestión Estratégica y Calidad Institucional. Dirección General Calidad Institucional y Gobierno Abierto",
+  "maintainer_email": "datosabiertos@buenosaires.gob.ar",
+  "metadata_created": "2019-12-11T18:04:50.141597",
+  "metadata_modified": "2021-03-05T14:30:39.013971",
+  "name": "sistema-administracion-documentos-electronicos-pase-expedientes",
+  "notes": "Movimiento de expedientes según el Sistema de Administración de Documentos Electrónicos(SADE) que tiene por objeto digitalizar todos los trámites y comunicaciones del Poder Ejecutivo del Gobierno de la Ciudad de Buenos Aires.",
+  "num_resources": 9,
+  "num_tags": 12,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-11-15T19:14:53.415795",
+    "description": "",
+    "id": "8add5417-3519-49b8-bd4c-6621d32ff5eb",
+    "image_url": "",
+    "is_organization": true,
+    "name": "jefatura-de-gabinete-de-ministros",
+    "revision_id": "971d791d-b46e-4427-8a5a-b737fa264515",
+    "state": "active",
+    "title": "Jefatura de Gabinete de Ministros",
+    "type": "organization"
+  },
+  "owner_org": "8add5417-3519-49b8-bd4c-6621d32ff5eb",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/sistema-de-administracion-de-documentos-electronicos-pase-de-expedientes",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-01-08T14:51:54.409490",
+      "datastore_active": false,
+      "description": "Movimientos de los expedientes electrónicos, indicando emisor, destinatario, motivo, fecha de emisión y recepción del mismo. Los datos incluyen los pases realizados durante el año 2013.",
+      "fileName": "tabla-de-pases-2013.zip",
+      "format": "ZIP",
+      "hash": "",
+      "id": "juqdkmgo-1941-resource",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Tabla de pases 2013",
+      "package_id": "juqdkmgo-194",
+      "position": 0,
+      "resource_type": "file",
+      "revision_id": "1064fac0-05cf-4971-b744-ce34ee39b8d2",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/sistema-de-administracion-de-documentos-electronicos-pase-de-expedientes/tabla-de-pases-2013.zip",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/sistema-de-administracion-de-documentos-electronicos-pase-de-expedientes",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-01-08T14:51:54.409490",
+      "datastore_active": false,
+      "description": "Movimientos de los expedientes electrónicos, indicando emisor, destinatario, motivo, fecha de emisión y recepción del mismo. Los datos incluyen los pases realizados durante el año 2014.",
+      "fileName": "tabla-de-pases-2014.zip",
+      "format": "ZIP",
+      "hash": "",
+      "id": "juqdkmgo-1942-resource",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Tabla de pases 2014",
+      "package_id": "juqdkmgo-194",
+      "position": 1,
+      "resource_type": "file",
+      "revision_id": "e0895e82-dc5c-4098-a0a7-e4bb1a3592b4",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/sistema-de-administracion-de-documentos-electronicos-pase-de-expedientes/tabla-de-pases-2014.zip",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/sistema-de-administracion-de-documentos-electronicos-pase-de-expedientes",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-01-08T14:51:54.409490",
+      "datastore_active": false,
+      "description": "Movimientos de los expedientes electrónicos, indicando emisor, destinatario, motivo, fecha de emisión y recepción del mismo. Los datos incluyen los pases realizados durante el año 2015.",
+      "fileName": "tabla-de-pases-2015.zip",
+      "format": "ZIP",
+      "hash": "",
+      "id": "juqdkmgo-1943-resource",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Tabla de pases 2015",
+      "package_id": "juqdkmgo-194",
+      "position": 2,
+      "resource_type": "file",
+      "revision_id": "451322c8-a913-45be-a15c-4de0909401b1",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/sistema-de-administracion-de-documentos-electronicos-pase-de-expedientes/tabla-de-pases-2015.zip",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/sistema-de-administracion-de-documentos-electronicos-pase-de-expedientes",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-01-08T14:51:54.409490",
+      "datastore_active": false,
+      "description": "Movimientos de los expedientes electrónicos, indicando emisor, destinatario, motivo, fecha de emisión y recepción del mismo. Los datos incluyen los pases realizados durante el año 2016.",
+      "fileName": "tabla-de-pases-2016.zip",
+      "format": "ZIP",
+      "hash": "",
+      "id": "juqdkmgo-1944-resource",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Tabla de pases 2016",
+      "package_id": "juqdkmgo-194",
+      "position": 3,
+      "resource_type": "file",
+      "revision_id": "2171d05a-65ab-4858-a982-869a3f5f5162",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/sistema-de-administracion-de-documentos-electronicos-pase-de-expedientes/tabla-de-pases-2016.zip",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/sistema-de-administracion-de-documentos-electronicos-pase-de-expedientes",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-01-08T14:51:54.409490",
+      "datastore_active": false,
+      "description": "Movimientos de los expedientes electrónicos, indicando emisor, destinatario, motivo, fecha de emisión y recepción del mismo. Los datos incluyen los pases realizados durante el año 2017.",
+      "fileName": "tabla-de-pases-2017.zip",
+      "format": "ZIP",
+      "hash": "",
+      "id": "juqdkmgo-1945-resource",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Tabla de pases 2017",
+      "package_id": "juqdkmgo-194",
+      "position": 4,
+      "resource_type": "file",
+      "revision_id": "85b26213-0482-45f9-a34b-dc82c1d002d0",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/sistema-de-administracion-de-documentos-electronicos-pase-de-expedientes/tabla-de-pases-2017.zip",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/sistema-de-administracion-de-documentos-electronicos-pase-de-expedientes",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-01-08T14:51:54.409490",
+      "datastore_active": false,
+      "description": "Movimientos de los expedientes electrónicos, indicando emisor, destinatario, motivo, fecha de emisión y recepción del mismo. Los datos incluyen los pases realizados durante el año 2018.",
+      "fileName": "tabla-de-pases-2018.zip",
+      "format": "ZIP",
+      "hash": "",
+      "id": "juqdkmgo-1946-resource",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Tabla de pases 2018",
+      "package_id": "juqdkmgo-194",
+      "position": 5,
+      "resource_type": "file",
+      "revision_id": "b9554710-33e2-4bff-9d75-3a8e8c1e5bb0",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/sistema-de-administracion-de-documentos-electronicos-pase-de-expedientes/tabla-de-pases-2018.zip",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/sistema-de-administracion-de-documentos-electronicos-pase-de-expedientes",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-01-08T14:51:54.409490",
+      "datastore_active": true,
+      "description": "Movimientos de los expedientes electrónicos, indicando emisor, destinatario, motivo, fecha de emisión y recepción del mismo. Corresponde a un recorte de los datos para poder previsualizarlos.",
+      "fileName": "tabla-de-pases-previsualizacion.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "juqdkmgo-1947-resource",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Tabla de Pases (Previsualización)",
+      "package_id": "juqdkmgo-194",
+      "position": 6,
+      "resource_type": "file",
+      "revision_id": "76cad04d-dfc8-41ec-8336-64fd94ace1f7",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/sistema-de-administracion-de-documentos-electronicos-pase-de-expedientes/tabla-de-pases-previsualizacion.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/194/resource/52cd248e-e27d-44d2-8fe1-f564edbb3226",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-08-21T11:50:24.512458",
+      "datastore_active": false,
+      "description": "Movimientos de los expedientes electrónicos, indicando emisor, destinatario, motivo, fecha de emisión y recepción del mismo. Los datos incluyen los pases realizados durante el año 2019.",
+      "fileName": "tabla-de-pases-2019.zip",
+      "format": "ZIP",
+      "hash": "",
+      "id": "52cd248e-e27d-44d2-8fe1-f564edbb3226",
+      "last_modified": "2019-08-21T11:50:24.512458",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Tabla de pases 2019",
+      "package_id": "juqdkmgo-194",
+      "position": 7,
+      "resource_type": "file",
+      "revision_id": "089081e2-64a2-4b19-b127-de6dd8d7b72a",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/sistema-de-administracion-de-documentos-electronicos-pase-de-expedientes/tabla-de-pases-2019.zip",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/sistema-de-administracion-de-documentos-electronicos-pase-de-expedientes",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-01-08T14:51:54.409490",
+      "datastore_active": true,
+      "description": "Movimientos de los expedientes electrónicos, indicando emisor, destinatario, motivo, fecha de emisión y recepción del mismo. Corresponde a un recorte de los datos para poder previsualizarlos.",
+      "fileName": "tabla-de-pases-previsualizacion.xlsx",
+      "format": "XLSX",
+      "hash": "",
+      "id": "juqdkmgo-1947-resource-xlsx",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Tabla de Pases (Previsualización) (XLSX)",
+      "package_id": "juqdkmgo-194",
+      "position": 8,
+      "resource_type": "file",
+      "revision_id": "6abb1b56-f7d5-4cc1-8589-251f22f12532",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/sistema-de-administracion-de-documentos-electronicos-pase-de-expedientes/tabla-de-pases-previsualizacion.xlsx",
+      "url_type": null
+    }
+  ],
+  "revision_id": "f30bfd24-05f0-4f1c-a12a-76b5cdba8b3c",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "CCOO",
+      "id": "2f886a64-2fa0-48b4-acf5-3fad9dc3482c",
+      "name": "CCOO",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "GeDo",
+      "id": "0ac247b3-787d-493e-b1ce-1dbd5253e0d8",
+      "name": "GeDo",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "caratulación",
+      "id": "260f823e-5caf-4634-803c-bf8f264f6a61",
+      "name": "caratulación",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "comunicación",
+      "id": "18425ec7-cc5c-4a2f-8e2b-f9e54c7dd5f1",
+      "name": "comunicación",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "legajo",
+      "id": "d93e5865-94d4-45c3-864a-8bb164db72e5",
+      "name": "legajo",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "memorandos",
+      "id": "fb4bd1bc-cfb1-45d9-bca7-9dcfedb75d6f",
+      "name": "memorandos",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "normativa",
+      "id": "992fd5af-7e8b-4284-9648-7c94fb1969a6",
+      "name": "normativa",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "notas",
+      "id": "29e0b584-dfdf-4537-b052-c7f112e3d0f9",
+      "name": "notas",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "pases",
+      "id": "41d00bc5-a87d-41b4-aa24-6b719bbd84c6",
+      "name": "pases",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "remitos",
+      "id": "20e4dba6-4c4e-48d4-808c-c6eabe68ed57",
+      "name": "remitos",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "track",
+      "id": "c4765dfe-c668-4133-b106-005435c4756f",
+      "name": "track",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "trámites",
+      "id": "ae70f36c-1fa0-49ad-a098-797e085dcd15",
+      "name": "trámites",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Sistema de administración de documentos electrónicos: Pase de Expedientes",
+  "type": "dataset",
+  "url": "https://data.buenosaires.gob.ar/dataset/sistema-administracion-documentos-electronicos-pase-expedientes",
+  "version": null
+}

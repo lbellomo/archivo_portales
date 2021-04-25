@@ -1,0 +1,171 @@
+{
+  "author": "Ministerio de Economía y Finanzas. Administración Gubernamental de Ingresos Públicos (AGIP)",
+  "author_email": "datosabiertos@buenosaires.gob.ar",
+  "creator_user_id": "e4546f46-e966-493c-b2f1-57318502c41b",
+  "extras": [
+    {
+      "key": "Documentación",
+      "value": ""
+    },
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P1M"
+    },
+    {
+      "key": "country",
+      "value": "None"
+    },
+    {
+      "key": "district",
+      "value": ""
+    },
+    {
+      "key": "home_featured",
+      "value": "false"
+    },
+    {
+      "key": "issued",
+      "value": "2019-01-08T14:51:21.777542"
+    },
+    {
+      "key": "language",
+      "value": "[]"
+    },
+    {
+      "key": "modified",
+      "value": "2021-03-05T11:44:38.567419"
+    },
+    {
+      "key": "province",
+      "value": ""
+    },
+    {
+      "key": "source",
+      "value": "Ministerio de Economía y Finanzas. Administración Gubernamental de Ingresos Públicos (AGIP)"
+    },
+    {
+      "key": "spatial",
+      "value": "None"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"ECON\"]"
+    },
+    {
+      "key": "temporal",
+      "value": ""
+    }
+  ],
+  "groups": [
+    {
+      "description": "Datasets relacionados con la economía y las finanzas",
+      "display_name": "Economía y Finanzas",
+      "id": "64da4336-6da7-4494-80c0-365016597e9e",
+      "image_display_url": "https://data.buenosaires.gob.ar/uploads/group/2019-11-16-144934.521128economia.png",
+      "name": "economia-y-finanzas",
+      "title": "Economía y Finanzas"
+    }
+  ],
+  "id": "juqdkmgo-173",
+  "isopen": true,
+  "license_id": "CC-BY-2.5-AR",
+  "license_title": "Atribucion 2.5 Argentina (CC BY 2.5 AR)",
+  "license_url": "https://creativecommons.org/licenses/by/2.5/ar ",
+  "maintainer": "Secretaría General y Relaciones Internacionales. Subsecretaría Gestión Estratégica y Calidad Institucional. Dirección General Calidad Institucional y Gobierno Abierto",
+  "maintainer_email": "datosabiertos@buenosaires.gob.ar",
+  "metadata_created": "2019-12-11T18:21:20.395634",
+  "metadata_modified": "2021-03-05T14:44:38.605774",
+  "name": "recaudacion-impositiva",
+  "notes": "Información de los ingresos tributarios recaudados por la Dirección General de Rentas por tipo de impuesto.",
+  "num_resources": 2,
+  "num_tags": 2,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-11-15T19:18:53.185953",
+    "description": "",
+    "id": "8ff6e21b-7ebc-45b7-8e50-3629f26d0414",
+    "image_url": "",
+    "is_organization": true,
+    "name": "administracion-gubernamental-de-ingresos-publicos",
+    "revision_id": "18ec9402-5011-4f5d-9acf-c8ba3ce157f9",
+    "state": "active",
+    "title": "Administración Gubernamental de Ingresos Públicos (AGIP)",
+    "type": "organization"
+  },
+  "owner_org": "8ff6e21b-7ebc-45b7-8e50-3629f26d0414",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/recaudacion-impositiva",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-01-08T14:51:21.777542",
+      "datastore_active": false,
+      "description": "Recaudación impositiva mensual (millones de pesos) por concepto desde enero de 1997.",
+      "fileName": "recaudacion-impositiva.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "juqdkmgo-1731-resource",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Recaudación impositiva",
+      "package_id": "juqdkmgo-173",
+      "position": 0,
+      "resource_type": "file",
+      "revision_id": "66175f06-333f-4d7b-9198-d11821fc3f46",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/recaudacion-impositiva/recaudacion-impositiva.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/recaudacion-impositiva",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-01-08T14:51:21.777542",
+      "datastore_active": false,
+      "description": "Recaudación impositiva mensual (millones de pesos) por concepto desde enero de 1997.",
+      "fileName": "recaudacion-impositiva.xlsx",
+      "format": "XLSX",
+      "hash": "",
+      "id": "juqdkmgo-1731-resource-xlsx",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Recaudación impositiva (XLSX)",
+      "package_id": "juqdkmgo-173",
+      "position": 1,
+      "resource_type": "file",
+      "revision_id": "51c78da4-6ff6-4f02-98b2-4aad6c7f05ec",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/recaudacion-impositiva/recaudacion-impositiva.xlsx",
+      "url_type": null
+    }
+  ],
+  "revision_id": "b4548955-ed0d-4e30-adb6-5308f0d661a6",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "economía",
+      "id": "20a0f20c-f7ed-48f4-b223-e343db7f9ee8",
+      "name": "economía",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "impuestos",
+      "id": "9d24ad30-2cc3-45dd-b44c-d6a1fbb1d323",
+      "name": "impuestos",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Recaudación impositiva",
+  "type": "dataset",
+  "url": "https://data.buenosaires.gob.ar/dataset/recaudacion-impositiva",
+  "version": null
+}

@@ -1,0 +1,202 @@
+{
+  "author": "Dirección General de Atención Primaria. Subsecretaría de Atención Primaria, Ambulatoria y Comunitaria. Ministerio de Salud",
+  "author_email": "datosabiertos@buenosaires.gob.ar",
+  "creator_user_id": "e4546f46-e966-493c-b2f1-57318502c41b",
+  "extras": [
+    {
+      "key": "Documentación",
+      "value": ""
+    },
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P1Y"
+    },
+    {
+      "key": "country",
+      "value": "None"
+    },
+    {
+      "key": "district",
+      "value": ""
+    },
+    {
+      "key": "home_featured",
+      "value": "false"
+    },
+    {
+      "key": "issued",
+      "value": "2019-01-08T14:58:29.666080"
+    },
+    {
+      "key": "language",
+      "value": "[]"
+    },
+    {
+      "key": "modified",
+      "value": "2021-02-11T15:53:33.126819"
+    },
+    {
+      "key": "province",
+      "value": ""
+    },
+    {
+      "key": "source",
+      "value": "Subgerencia de Información Geoespacial. DG Ciencias de la Información. SS de Políticas Públicas Basadas en Evidencia. Secretaría de Innovación y Transformación Digital. Jefatura de Gabinete de Ministros"
+    },
+    {
+      "key": "spatial",
+      "value": "None"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"HEAL\"]"
+    },
+    {
+      "key": "temporal",
+      "value": ""
+    }
+  ],
+  "groups": [
+    {
+      "description": "",
+      "display_name": "Salud",
+      "id": "0be192e9-f1b7-4308-bb9a-f362e2ff44a6",
+      "image_display_url": "https://data.buenosaires.gob.ar/uploads/group/2019-11-16-145030.020776salud.png",
+      "name": "salud",
+      "title": "Salud"
+    }
+  ],
+  "id": "juqdkmgo-10",
+  "isopen": true,
+  "license_id": "CC-BY-2.5-AR",
+  "license_title": "Atribucion 2.5 Argentina (CC BY 2.5 AR)",
+  "license_url": "https://creativecommons.org/licenses/by/2.5/ar ",
+  "maintainer": "Gerencia Operativa de Ingeniería de Datos. DG Arquitectura de Datos. SS de Políticas Públicas Basadas en Evidencia. Secretaría de Innovación y Transformación Digital. Jefatura de Gabinete de Ministros",
+  "maintainer_email": "datosabiertos@buenosaires.gob.ar",
+  "metadata_created": "2019-12-11T18:32:31.200831",
+  "metadata_modified": "2021-02-11T18:53:33.168784",
+  "name": "areas-hospitalarias",
+  "notes": "Alcance geográfico de las áreas programáticas de salud, las cuales recaen sobre los Hospitales Generales de Agudos del Ministerio de Salud.",
+  "num_resources": 3,
+  "num_tags": 3,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-11-15T19:17:04.156344",
+    "description": "",
+    "id": "c055e91b-2714-47e4-b47e-6bb063f32776",
+    "image_url": "",
+    "is_organization": true,
+    "name": "ministerio-de-salud",
+    "revision_id": "b72e4fc3-266f-4a53-bbd7-690b4ccff688",
+    "state": "active",
+    "title": "Ministerio de Salud",
+    "type": "organization"
+  },
+  "owner_org": "c055e91b-2714-47e4-b47e-6bb063f32776",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/areas-hospitalarias",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-01-08T14:58:29.666080",
+      "datastore_active": false,
+      "description": "Polígonos de las áreas programáticas de salud.",
+      "fileName": "areas-hospitalarias.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "juqdkmgo-101-resource",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Áreas Hospitalarias",
+      "package_id": "juqdkmgo-10",
+      "position": 0,
+      "resource_type": "file",
+      "revision_id": "0feb9852-5f23-4487-841b-1cae8c89aae8",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/areas-hospitalarias/areas-hospitalarias.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/areas-hospitalarias",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-01-08T14:58:29.666080",
+      "datastore_active": false,
+      "description": "Archivo shapefile de las áreas programáticas de salud.",
+      "fileName": "areas-hospitalarias-zip.zip",
+      "format": "ZIP",
+      "hash": "",
+      "id": "juqdkmgo-102-resource",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Áreas Hospitalarias (SHP)",
+      "package_id": "juqdkmgo-10",
+      "position": 1,
+      "resource_type": "file",
+      "revision_id": "ad7f9284-9938-44a8-86d0-8b32d25f7d5e",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/areas-hospitalarias/areas-hospitalarias-zip.zip",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/areas-hospitalarias",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-01-08T14:58:29.666080",
+      "datastore_active": false,
+      "description": "Polígonos de las áreas programáticas de salud.",
+      "fileName": "areas-hospitalarias.xlsx",
+      "format": "XLSX",
+      "hash": "",
+      "id": "juqdkmgo-101-resource-xlsx",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Áreas Hospitalarias (XLSX)",
+      "package_id": "juqdkmgo-10",
+      "position": 2,
+      "resource_type": "file",
+      "revision_id": "87763bd1-28be-4856-bf13-0e02e9f40142",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/areas-hospitalarias/areas-hospitalarias.xlsx",
+      "url_type": null
+    }
+  ],
+  "revision_id": "530e019f-e0c0-47d6-bc28-2515c5636e22",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "división-territorial",
+      "id": "f55cbbf9-9051-43ad-ab2a-16fdf56b6a99",
+      "name": "división-territorial",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "hospitales",
+      "id": "98a2efc2-38ac-46c6-b847-361aa5cd15ef",
+      "name": "hospitales",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "salud",
+      "id": "92c7f3e1-f781-4b82-a933-7408e37b3687",
+      "name": "salud",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Áreas Hospitalarias",
+  "type": "dataset",
+  "url": "https://data.buenosaires.gob.ar/dataset/areas-hospitalarias",
+  "version": null
+}

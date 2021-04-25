@@ -1,0 +1,306 @@
+{
+  "author": "Ministerio de Justicia y Seguridad",
+  "author_email": "",
+  "creator_user_id": "e4546f46-e966-493c-b2f1-57318502c41b",
+  "extras": [
+    {
+      "key": "Documentación",
+      "value": ""
+    },
+    {
+      "key": "accrualPeriodicity",
+      "value": "eventual"
+    },
+    {
+      "key": "country",
+      "value": "ARG"
+    },
+    {
+      "key": "district",
+      "value": ""
+    },
+    {
+      "key": "home_featured",
+      "value": "false"
+    },
+    {
+      "key": "issued",
+      "value": "2020-03-05T16:32:02.638655"
+    },
+    {
+      "key": "language",
+      "value": "[\"spa\"]"
+    },
+    {
+      "key": "modified",
+      "value": "2020-12-11T14:02:41.010251"
+    },
+    {
+      "key": "province",
+      "value": "02"
+    },
+    {
+      "key": "source",
+      "value": "Ministerio de Justicia y Seguridad"
+    },
+    {
+      "key": "spatial",
+      "value": "ARG,02"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"JUST\"]"
+    },
+    {
+      "key": "temporal",
+      "value": ""
+    }
+  ],
+  "groups": [
+    {
+      "description": "",
+      "display_name": "Seguridad",
+      "id": "b656bb3f-230a-414f-acce-19d0d98e01df",
+      "image_display_url": "https://data.buenosaires.gob.ar/uploads/group/2019-11-16-145044.366204segu.png",
+      "name": "seguridad",
+      "title": "Seguridad"
+    }
+  ],
+  "id": "b8be3b7f-7455-415e-bee7-226310f5a404",
+  "isopen": true,
+  "license_id": "CC-BY-2.5-AR",
+  "license_title": "Atribucion 2.5 Argentina (CC BY 2.5 AR)",
+  "license_url": "https://creativecommons.org/licenses/by/2.5/ar ",
+  "maintainer": "Gerencia Operativa de Ingeniería de Datos. DG Arquitectura de Datos. SS de Políticas Públicas Basadas en Evidencia. Secretaría de Innovación y Transformación Digital. Jefatura de Gabinete de Ministros",
+  "maintainer_email": "gobiernoabierto@buenosaires.gob.ar",
+  "metadata_created": "2020-03-05T19:32:02.703530",
+  "metadata_modified": "2021-04-12T16:51:46.599989",
+  "name": "delitos",
+  "notes": "Contiene los homicidios, hurtos (sin violencia), lesiones y robos (con violencia) que ocurrieron en el ámbito de la Ciudad de Buenos Aires.",
+  "num_resources": 5,
+  "num_tags": 6,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-11-15T19:17:53.819720",
+    "description": "",
+    "id": "e2eed892-7682-45f9-b137-74d2acc7e119",
+    "image_url": "",
+    "is_organization": true,
+    "name": "ministerio-de-justicia-y-seguridad",
+    "revision_id": "f34a7336-3a80-4154-9a35-d044f096a2b6",
+    "state": "active",
+    "title": "Ministerio de Justicia y Seguridad",
+    "type": "organization"
+  },
+  "owner_org": "e2eed892-7682-45f9-b137-74d2acc7e119",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "",
+      "accessURL_field": "",
+      "attributesDescription": "[{\"title\":\"id\",\"description\":\"Identificación del hecho\",\"type\":\"integer\"},{\"title\":\"fecha\",\"description\":\"Fecha en la que ocurrió el delito\",\"type\":\"date\"},{\"title\":\"franja horaria\",\"description\":\"Horario en el que ocurrió el delito\",\"type\":\"integer\"},{\"title\":\"tipo_delito\",\"description\":\"Es el tipo de delito denunciado. Por ejemplo \\\"robo\\\", \\\"lesiones\\\", \\\"homicidio\\\".\",\"type\":\"string\"},{\"title\":\"subtipo_delito\",\"description\":\"Especificaciones del tipo de delito cometido. \",\"type\":\"string\"},{\"title\":\"cantidad_registrada\",\"description\":\"Cantidad del tipo de delito denunciado en un día y horario específico. \",\"type\":\"integer\"},{\"title\":\"comuna\",\"description\":\"Número de la comuna en donde se cometió el delito\",\"type\":\"integer\"},{\"title\":\"barrio\",\"description\":\"Barrio en el que se cometió el delito\",\"type\":\"string\"},{\"title\":\"lat\",\"description\":\"Latitud de la ubicación geográfica donde sucedió el delito\",\"type\":\"number\"},{\"title\":\"long\",\"description\":\"Longitud de la ubicación geográfica donde sucedió el delito\",\"type\":\"number\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2021-04-12T14:44:01.262043",
+      "datastore_active": false,
+      "description": "Fecha, hora y ubicación de los homicidios, hurtos (sin violencia), lesiones y robos (con violencia) que ocurrieron en el ámbito de la Ciudad de Buenos Aires durante el año 2020.",
+      "fileName": "",
+      "format": "CSV",
+      "has-uploaded-file": "",
+      "hash": "",
+      "icon_url": "",
+      "id": "6a789e14-f3fd-4eec-a69e-4163e5ea605e",
+      "issued": "2021-04-12T11:44:01.201668",
+      "last_modified": "2021-04-12T14:52:21.748988",
+      "license_id": "CC-BY-2.5-AR",
+      "mimetype": "text/csv",
+      "mimetype_inner": null,
+      "modified": "2021-04-12T13:51:46.528479",
+      "name": "Delitos 2020",
+      "package_id": "b8be3b7f-7455-415e-bee7-226310f5a404",
+      "position": 0,
+      "resource_type": "file",
+      "revision_id": "a181edfb-3cbf-475a-821f-b67e867a040b",
+      "size": 7512319,
+      "state": "active",
+      "url": "https://data.buenosaires.gob.ar/dataset/b8be3b7f-7455-415e-bee7-226310f5a404/resource/6a789e14-f3fd-4eec-a69e-4163e5ea605e/download/delitos_2020.csv",
+      "url_type": "upload"
+    },
+    {
+      "accessURL": "",
+      "accessURL_field": "",
+      "attributesDescription": "[{\"title\":\"id\",\"description\":\"id\",\"type\":\"integer\"},{\"title\":\"fecha\",\"description\":\"fecha\",\"type\":\"date\"},{\"title\":\"franja horaria\",\"description\":\"franja horaria\",\"type\":\"integer\"},{\"title\":\"tipo_delito\",\"description\":\"tipo_delito\",\"type\":\"string\"},{\"title\":\"subtipo_delito\",\"description\":\"subtipo_delito\",\"type\":\"string\"},{\"title\":\"cantidad_registrada\",\"description\":\"cantidad_registrada\",\"type\":\"integer\"},{\"title\":\"comuna\",\"description\":\"comuna\",\"type\":\"integer\"},{\"title\":\"barrio\",\"description\":\"barrio\",\"type\":\"string\"},{\"title\":\"lat\",\"description\":\"lat\",\"type\":\"number\"},{\"title\":\"long\",\"description\":\"long\",\"type\":\"number\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2020-03-05T19:36:20.143325",
+      "datastore_active": false,
+      "description": "Fecha, hora y ubicación de los homicidios, hurtos (sin violencia), lesiones y robos (con violencia)  que ocurrieron en el ámbito de la Ciudad de Buenos Aires durante el año 2019.",
+      "fileName": "delitos_2019.csv",
+      "format": "CSV",
+      "has-uploaded-file": "",
+      "hash": "",
+      "icon_url": "",
+      "id": "2928d01c-c186-4250-8998-4610abfef95b",
+      "issued": "2020-03-05T16:36:20.093891",
+      "last_modified": null,
+      "license_id": "CC-BY-2.5-AR",
+      "mimetype": "text/csv",
+      "mimetype_inner": null,
+      "modified": "2020-11-02T10:29:50.467018",
+      "name": "Delitos 2019",
+      "package_id": "b8be3b7f-7455-415e-bee7-226310f5a404",
+      "position": 1,
+      "resource_type": "file",
+      "revision_id": "ab777b41-55e1-4e32-adfd-f6e979c1f031",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/ministerio-de-justicia-y-seguridad/delitos/delitos_2019.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "",
+      "accessURL_field": "",
+      "attributesDescription": "[]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2020-03-05T19:35:44.952495",
+      "datastore_active": false,
+      "description": "Fecha, hora y ubicación de los homicidios, hurtos (sin violencia), lesiones y robos (con violencia)  que ocurrieron en el ámbito de la Ciudad de Buenos Aires durante el año 2018.",
+      "fileName": "",
+      "format": "CSV",
+      "has-uploaded-file": "",
+      "hash": "",
+      "icon_url": "",
+      "id": "5e0318c2-d5e9-4cd4-9fc0-10ed55678971",
+      "issued": "2020-03-05T16:35:44.900108",
+      "last_modified": null,
+      "license_id": "CC-BY-2.5-AR",
+      "mimetype": "text/csv",
+      "mimetype_inner": null,
+      "modified": "2020-06-29T15:49:15.874239",
+      "name": "Delitos 2018",
+      "package_id": "b8be3b7f-7455-415e-bee7-226310f5a404",
+      "position": 2,
+      "resource_type": "file",
+      "revision_id": "ab777b41-55e1-4e32-adfd-f6e979c1f031",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/mapa-del-delito/delitos_2018.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "",
+      "accessURL_field": "",
+      "attributesDescription": "[]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2020-03-05T19:35:11.116279",
+      "datastore_active": false,
+      "description": "Fecha, hora y ubicación de los homicidios, hurtos (sin violencia), lesiones y robos (con violencia)  que ocurrieron en el ámbito de la Ciudad de Buenos Aires durante el año 2017.",
+      "fileName": "",
+      "format": "CSV",
+      "has-uploaded-file": "",
+      "hash": "",
+      "icon_url": "",
+      "id": "039612c4-a0d9-4b64-a7d1-c31a9aa19ba4",
+      "issued": "2020-03-05T16:35:10.893130",
+      "last_modified": null,
+      "license_id": "CC-BY-4.0",
+      "mimetype": "text/csv",
+      "mimetype_inner": null,
+      "modified": "2020-06-29T15:49:01.102347",
+      "name": "Delitos 2017",
+      "package_id": "b8be3b7f-7455-415e-bee7-226310f5a404",
+      "position": 3,
+      "resource_type": "file",
+      "revision_id": "ab777b41-55e1-4e32-adfd-f6e979c1f031",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/mapa-del-delito/delitos_2017.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "",
+      "accessURL_field": "",
+      "attributesDescription": "[]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2020-03-05T19:34:21.826912",
+      "datastore_active": false,
+      "description": "Fecha, hora y ubicación de los homicidios, hurtos (sin violencia), lesiones y robos (con violencia)  que ocurrieron en el ámbito de la Ciudad de Buenos Aires durante el año 2016.",
+      "fileName": "",
+      "format": "CSV",
+      "has-uploaded-file": "",
+      "hash": "",
+      "icon_url": "",
+      "id": "ddac0e7d-8531-498b-ae66-f93c352505c8",
+      "issued": "2020-03-05T16:34:21.695270",
+      "last_modified": null,
+      "license_id": "CC-BY-2.5-AR",
+      "mimetype": "text/csv",
+      "mimetype_inner": null,
+      "modified": "2020-06-29T15:48:23.463495",
+      "name": "Delitos 2016",
+      "package_id": "b8be3b7f-7455-415e-bee7-226310f5a404",
+      "position": 4,
+      "resource_type": "file",
+      "revision_id": "ab777b41-55e1-4e32-adfd-f6e979c1f031",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/mapa-del-delito/delitos_2016.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "c9a16c34-cbeb-4ab0-a6c7-b210a858205b",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "Delito",
+      "id": "d3a18a48-e3d4-4769-b5ae-c4fcc9fbec72",
+      "name": "Delito",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Homicidios",
+      "id": "c3ac3795-779b-45fa-bfb0-bb85afb82dfb",
+      "name": "Homicidios",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Hurto",
+      "id": "54934048-aa68-4846-bcec-c5b347ccaf20",
+      "name": "Hurto",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Mapa",
+      "id": "f7c0b4a9-83ce-4fe0-9c85-e0f38210a028",
+      "name": "Mapa",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Robo",
+      "id": "6d69387c-bb0e-49e6-be41-427d675bb2c3",
+      "name": "Robo",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Seguridad",
+      "id": "017cac60-33c8-47e8-bdf3-f9e1b8989eb4",
+      "name": "Seguridad",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Delitos",
+  "type": "dataset",
+  "url": "https://data.buenosaires.gob.ar/dataset/delitos",
+  "version": null
+}

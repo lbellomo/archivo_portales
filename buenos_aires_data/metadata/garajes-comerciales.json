@@ -1,0 +1,249 @@
+{
+  "author": "Ministerio de Desarrollo Urbano y Transporte. Secretaría de Transporte. DG de Tránsito y Transporte",
+  "author_email": "datosabiertos@buenosaires.gob.ar",
+  "creator_user_id": "e4546f46-e966-493c-b2f1-57318502c41b",
+  "extras": [
+    {
+      "key": "Documentación",
+      "value": ""
+    },
+    {
+      "key": "accrualPeriodicity",
+      "value": "eventual"
+    },
+    {
+      "key": "country",
+      "value": "None"
+    },
+    {
+      "key": "district",
+      "value": ""
+    },
+    {
+      "key": "home_featured",
+      "value": "false"
+    },
+    {
+      "key": "issued",
+      "value": "2019-09-16T14:51:16.518868"
+    },
+    {
+      "key": "language",
+      "value": "[]"
+    },
+    {
+      "key": "modified",
+      "value": "2021-02-26T18:11:19.351178"
+    },
+    {
+      "key": "province",
+      "value": ""
+    },
+    {
+      "key": "source",
+      "value": "Ministerio de Educación e Innovación. Secretaría de Ciencia, Tecnología e Innovación. SS de Ciudad Inteligente y Tecnología Educativa. DG Ciencias de la Información. Unidad de Sistemas de Información Geográfica (USIG)"
+    },
+    {
+      "key": "spatial",
+      "value": "None"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"REGI\",\"TRAN\"]"
+    },
+    {
+      "key": "temporal",
+      "value": ""
+    }
+  ],
+  "groups": [
+    {
+      "description": "",
+      "display_name": "Movilidad",
+      "id": "e616e02e-64d8-4fb0-b55d-08e75eb58376",
+      "image_display_url": "https://data.buenosaires.gob.ar/uploads/group/2019-11-16-145017.234366movilidad.png",
+      "name": "movilidad",
+      "title": "Movilidad"
+    },
+    {
+      "description": "Datasets relacionados con urbanismo y territorio",
+      "display_name": "Urbanismo y Territorio",
+      "id": "63e162a0-3f4a-446a-a60b-601d16f36200",
+      "image_display_url": "https://data.buenosaires.gob.ar/uploads/group/2019-11-16-145056.781692urba.png",
+      "name": "urbanismo-y-territorio",
+      "title": "Urbanismo y Territorio"
+    }
+  ],
+  "id": "096d2eb9-53c7-4605-856c-fdc0c4ce7fe4",
+  "isopen": true,
+  "license_id": "CC-BY-2.5-AR",
+  "license_title": "Atribucion 2.5 Argentina (CC BY 2.5 AR)",
+  "license_url": "https://creativecommons.org/licenses/by/2.5/ar ",
+  "maintainer": "Secretaría General y Relaciones Internacionales. Subsecretaría Gestión Estratégica y Calidad Institucional. Dirección General Calidad Institucional y Gobierno Abierto",
+  "maintainer_email": "datosabiertos@buenosaires.gob.ar",
+  "metadata_created": "2019-12-11T18:16:38.919109",
+  "metadata_modified": "2021-02-26T21:11:19.428661",
+  "name": "garajes-comerciales",
+  "notes": "Ubicación de los garajes comerciales habilitados en la Ciudad",
+  "num_resources": 4,
+  "num_tags": 5,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-11-15T19:19:49.916928",
+    "description": "",
+    "id": "56b60b46-a47c-48fb-9bd4-c2ad0e05fef2",
+    "image_url": "",
+    "is_organization": true,
+    "name": "transporte-y-obras-publicas",
+    "revision_id": "c33c86a3-e197-468f-8b66-5b943b3bf106",
+    "state": "active",
+    "title": "Secretaría de Transporte y Obras Públicas",
+    "type": "organization"
+  },
+  "owner_org": "56b60b46-a47c-48fb-9bd4-c2ad0e05fef2",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/096d2eb9-53c7-4605-856c-fdc0c4ce7fe4/resource/bb4655bb-32c7-482a-a82c-fe5641d38d54",
+      "attributesDescription": "[{\"title\": \"long\", \"type\": \"string\", \"description\": \"Coordenada X del punto donde se localiza el caj\\u00f3n expresada en coordenadas planas\"}, {\"title\": \"lat\", \"type\": \"string\", \"description\": \"Coordenada Y del punto donde se localiza el caj\\u00f3n expresada en coordenadas planas\"}, {\"title\": \"smp\", \"type\": \"string\", \"description\": \"Secci\\u00f3n Manzana Parcela donde est\\u00e1 ubicado el garaje.\"}, {\"title\": \"calle_nombre\", \"type\": \"string\", \"description\": \"Nombre de calle donde se localiza el garaje\"}, {\"title\": \"calle_altura\", \"type\": \"integer\", \"description\": \"Altura de la calle donde se localiza el garaje\"}, {\"title\": \"tipo1_16\", \"type\": \"string\", \"description\": \"Abreviaci\\u00f3n del tipo de uso que se relev\\u00f3\"}, {\"title\": \"tipo2_16\", \"type\": \"string\", \"description\": \"Nombre completo del uso relevado\"}, {\"title\": \"pisos_16\", \"type\": \"integer\", \"description\": \"Cantidad de pisos del garaje\"}, {\"title\": \"nombre\", \"type\": \"string\", \"description\": \"Nombre otorgado al garaje\"}, {\"title\": \"barrio\", \"type\": \"string\", \"description\": \"Barrio donde se ubica el garaje\"}, {\"title\": \"comuna\", \"type\": \"string\", \"description\": \"Comuna donde se ubica el garaje\"}, {\"title\": \"codigo_postal\", \"type\": \"integer\", \"description\": \"C\\u00f3digo postal donde se ubica el garaje\"}, {\"title\": \"codigo_postal_argentino\", \"type\": \"string\", \"description\": \"C\\u00f3digo postal donde se ubica el garaje\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-09-16T15:05:55.456169",
+      "datastore_active": false,
+      "description": "Ubicación con información geográfica de los garajes comerciales habilitados en la Ciudad.",
+      "fileName": "garajes-comerciales.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "bb4655bb-32c7-482a-a82c-fe5641d38d54",
+      "last_modified": "2019-09-16T15:05:55.456169",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Garajes Comerciales",
+      "package_id": "096d2eb9-53c7-4605-856c-fdc0c4ce7fe4",
+      "position": 0,
+      "resource_type": "file",
+      "revision_id": "a0a98eff-ae9b-4e61-85b4-a4d85b39babf",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/garajes-comerciales/garajes-comerciales.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/096d2eb9-53c7-4605-856c-fdc0c4ce7fe4/resource/a69d948a-20b0-4271-aad0-c013d4772e47",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-09-16T15:09:06.921717",
+      "datastore_active": false,
+      "description": "Archivo shapefile de los garajes comerciales.",
+      "fileName": "garajes-comerciales.zip",
+      "format": "ZIP",
+      "hash": "",
+      "id": "a69d948a-20b0-4271-aad0-c013d4772e47",
+      "last_modified": "2019-09-16T15:09:06.921717",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Garajes Comerciales (SHP)",
+      "package_id": "096d2eb9-53c7-4605-856c-fdc0c4ce7fe4",
+      "position": 1,
+      "resource_type": "file",
+      "revision_id": "f668fa72-98d5-4f79-b15b-406e35809d27",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/garajes-comerciales/garajes-comerciales.zip",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/096d2eb9-53c7-4605-856c-fdc0c4ce7fe4/resource/882b99e7-ed57-4aa3-9bd2-964ade3c4e81",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-09-16T15:10:22.840151",
+      "datastore_active": false,
+      "description": "Archivo GeoJSON de los garajes comerciales habilitados en la Ciudad.",
+      "fileName": "garajes-comerciales.geojson",
+      "format": "GeoJSON",
+      "hash": "",
+      "id": "882b99e7-ed57-4aa3-9bd2-964ade3c4e81",
+      "last_modified": "2019-09-16T15:10:22.840151",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Garajes Comerciales (GeoJSON)",
+      "package_id": "096d2eb9-53c7-4605-856c-fdc0c4ce7fe4",
+      "position": 2,
+      "resource_type": "file",
+      "revision_id": "a2f4d6ea-72ff-43b6-85f3-24cf51a3058b",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/garajes-comerciales/garajes-comerciales.geojson",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/096d2eb9-53c7-4605-856c-fdc0c4ce7fe4/resource/bb4655bb-32c7-482a-a82c-fe5641d38d54",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-09-16T15:05:55.456169",
+      "datastore_active": false,
+      "description": "Ubicación con información geográfica de los garajes comerciales habilitados en la Ciudad.",
+      "fileName": "garajes-comerciales.xlsx",
+      "format": "XLSX",
+      "hash": "",
+      "id": "bb4655bb-32c7-482a-a82c-fe5641d38d54-xlsx",
+      "last_modified": "2019-09-16T15:05:55.456169",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Garajes Comerciales (XLSX)",
+      "package_id": "096d2eb9-53c7-4605-856c-fdc0c4ce7fe4",
+      "position": 3,
+      "resource_type": "file",
+      "revision_id": "f75de4f8-aa49-4a0f-95ec-53321e404af8",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/garajes-comerciales/garajes-comerciales.xlsx",
+      "url_type": null
+    }
+  ],
+  "revision_id": "49ccce21-8fad-4190-95ff-f494b01eb5f6",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "automotores",
+      "id": "f176dc76-499c-4d6c-b83a-d23fa9fc5eb3",
+      "name": "automotores",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "automóviles",
+      "id": "0a95c09e-7f00-45aa-87e7-2e5df6e71d78",
+      "name": "automóviles",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "estacionamiento",
+      "id": "61e4ecc8-7f9c-404a-963a-0b1240a8be36",
+      "name": "estacionamiento",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "garages",
+      "id": "ee76f8fc-9b98-427d-b780-d78827634750",
+      "name": "garages",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "garajes",
+      "id": "6bf7a2a2-6b15-449b-b4bd-d6298ac05367",
+      "name": "garajes",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Garajes Comerciales",
+  "type": "dataset",
+  "url": "https://data.buenosaires.gob.ar/dataset/garajes-comerciales",
+  "version": null
+}

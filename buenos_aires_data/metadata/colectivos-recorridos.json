@@ -1,0 +1,254 @@
+{
+  "author": "Ministerio de Desarrollo Urbano y Transporte. Secretaría de Transporte",
+  "author_email": "gobiernoabierto@buenosaires.gob.ar",
+  "creator_user_id": "e4546f46-e966-493c-b2f1-57318502c41b",
+  "extras": [
+    {
+      "key": "Documentación",
+      "value": ""
+    },
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P1Y"
+    },
+    {
+      "key": "country",
+      "value": "None"
+    },
+    {
+      "key": "district",
+      "value": ""
+    },
+    {
+      "key": "home_featured",
+      "value": "false"
+    },
+    {
+      "key": "issued",
+      "value": "2019-01-08T15:00:34.024143"
+    },
+    {
+      "key": "language",
+      "value": "[]"
+    },
+    {
+      "key": "modified",
+      "value": "2019-12-16T15:08:45.045464"
+    },
+    {
+      "key": "province",
+      "value": ""
+    },
+    {
+      "key": "source",
+      "value": "Ministerio de Desarrollo Urbano y Transporte. Secretaría de Transporte"
+    },
+    {
+      "key": "spatial",
+      "value": "None"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"TRAN\"]"
+    },
+    {
+      "key": "temporal",
+      "value": ""
+    }
+  ],
+  "groups": [
+    {
+      "description": "",
+      "display_name": "Movilidad",
+      "id": "e616e02e-64d8-4fb0-b55d-08e75eb58376",
+      "image_display_url": "https://data.buenosaires.gob.ar/uploads/group/2019-11-16-145017.234366movilidad.png",
+      "name": "movilidad",
+      "title": "Movilidad"
+    }
+  ],
+  "id": "juqdkmgo-56",
+  "isopen": true,
+  "license_id": "CC-BY-2.5-AR",
+  "license_title": "Atribucion 2.5 Argentina (CC BY 2.5 AR)",
+  "license_url": "https://creativecommons.org/licenses/by/2.5/ar ",
+  "maintainer": "Secretaría General y Relaciones Internacionales. Subsecretaría Gestión Estratégica y Calidad Institucional. Dirección General Calidad Institucional y Gobierno Abierto",
+  "maintainer_email": "gobiernoabierto@buenosaires.gob.ar",
+  "metadata_created": "2019-12-11T18:16:35.377208",
+  "metadata_modified": "2020-12-17T15:54:16.030685",
+  "name": "colectivos-recorridos",
+  "notes": "Referencia geográfica de los recorridos de los colectivos que circulan por la Ciudad.",
+  "num_resources": 4,
+  "num_tags": 3,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-11-15T19:19:49.916928",
+    "description": "",
+    "id": "56b60b46-a47c-48fb-9bd4-c2ad0e05fef2",
+    "image_url": "",
+    "is_organization": true,
+    "name": "transporte-y-obras-publicas",
+    "revision_id": "c33c86a3-e197-468f-8b66-5b943b3bf106",
+    "state": "active",
+    "title": "Secretaría de Transporte y Obras Públicas",
+    "type": "organization"
+  },
+  "owner_org": "56b60b46-a47c-48fb-9bd4-c2ad0e05fef2",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/colectivos",
+      "accessURL_field": "",
+      "attributesDescription": "[]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-09-16T17:10:33.233105",
+      "datastore_active": false,
+      "description": "Número de línea, ramal, sentido, tipo de servicio y recorrido de los colectivos que circulan por la Ciudad de Buenos Aires según información de la API de Transporte Público",
+      "fileName": "",
+      "format": "CSV",
+      "has-uploaded-file": "",
+      "hash": "",
+      "icon_url": "",
+      "id": "juqdkmgo-564-resource",
+      "issued": "2019-09-16T17:10:33.233105",
+      "last_modified": "2019-09-16T17:10:33.233105",
+      "license_id": "CC-BY-2.5-AR",
+      "mimetype": "text/csv",
+      "mimetype_inner": null,
+      "modified": "2019-12-16T15:06:43.934645",
+      "name": "Recorrido colectivos",
+      "package_id": "juqdkmgo-56",
+      "position": 0,
+      "resource_type": "file",
+      "revision_id": "19f41423-ca90-4e31-8598-abb84624ade4",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/colectivos/recorrido-colectivos.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/colectivos",
+      "accessURL_field": "",
+      "attributesDescription": "[]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-09-16T17:08:23.157103",
+      "datastore_active": false,
+      "description": "Archivo shapefile con el recorrido de los colectivos de la Ciudad.",
+      "fileName": "",
+      "format": "ZIP",
+      "has-uploaded-file": "",
+      "hash": "",
+      "icon_url": "",
+      "id": "juqdkmgo-565-resource",
+      "issued": "2019-09-16T17:08:23.157103",
+      "last_modified": "2019-09-16T17:08:23.157103",
+      "license_id": "CC-BY-2.5-AR",
+      "mimetype": "application/zip",
+      "mimetype_inner": null,
+      "modified": "2019-12-19T14:12:12.622415",
+      "name": "Recorrido colectivos (SHP)",
+      "package_id": "juqdkmgo-56",
+      "position": 1,
+      "resource_type": "file",
+      "revision_id": "1ed47435-3ed1-426e-ac92-e2a2b4a5ceda",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/colectivos/recorrido-colectivos.zip",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/56/resource/0f394a15-179f-400a-bf50-1331f4735b32",
+      "accessURL_field": "",
+      "attributesDescription": "[]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-09-16T17:12:27.730891",
+      "datastore_active": false,
+      "description": "Archivo GeoJSON con el recorrido de colectivos de la ciudad",
+      "fileName": "",
+      "format": "GeoJSON",
+      "has-uploaded-file": "",
+      "hash": "",
+      "icon_url": "",
+      "id": "0f394a15-179f-400a-bf50-1331f4735b32",
+      "issued": "2019-09-16T17:12:27.730891",
+      "last_modified": "2019-09-16T17:12:27.730891",
+      "license_id": "CC-BY-2.5-AR",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "modified": "2019-12-16T15:07:52.739619",
+      "name": "Recorrido colectivos (GeoJSON)",
+      "package_id": "juqdkmgo-56",
+      "position": 2,
+      "resource_type": "file",
+      "revision_id": "16226370-e5f3-4e0b-9c8f-6fd5d403976c",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/colectivos/recorrido-colectivos.geojson",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/colectivos",
+      "accessURL_field": "",
+      "attributesDescription": "[]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-09-16T17:09:28.796187",
+      "datastore_active": false,
+      "description": "Número de línea, ramal, sentido, tipo de servicio y recorrido de los colectivos que circulan por la Ciudad de Buenos Aires según información de la API de Transporte Público.",
+      "fileName": "",
+      "format": "KML",
+      "has-uploaded-file": "",
+      "hash": "",
+      "icon_url": "",
+      "id": "juqdkmgo-561-resource",
+      "issued": "2019-09-16T17:09:28.796187",
+      "last_modified": "2019-09-16T17:09:28.796187",
+      "license_id": "CC-BY-2.5-AR",
+      "mimetype": "application/vnd.google-earth.kml+xml",
+      "mimetype_inner": null,
+      "modified": "2019-12-16T15:07:18.483624",
+      "name": "Recorrido colectivos (KML)",
+      "package_id": "juqdkmgo-56",
+      "position": 3,
+      "resource_type": "file",
+      "revision_id": "d08c8b36-013a-42ef-9726-b98b23835476",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/colectivos/mapa-recorrido-colectivos.kml",
+      "url_type": null
+    }
+  ],
+  "revision_id": "f26203b1-2a46-4cb7-a756-d5e45de2b993",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "colectivos",
+      "id": "b6cbff9d-f7d3-4805-b72c-a42cd153b704",
+      "name": "colectivos",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "movilidad",
+      "id": "6fda14a0-403a-4fd4-bc7f-e5742514badc",
+      "name": "movilidad",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "transporte",
+      "id": "aff133f8-2f33-4d2c-a531-6d632bd4efbb",
+      "name": "transporte",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Colectivos: recorridos",
+  "type": "dataset",
+  "url": "https://data.buenosaires.gob.ar/dataset/colectivos",
+  "version": null
+}

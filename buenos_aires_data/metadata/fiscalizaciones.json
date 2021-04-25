@@ -1,0 +1,319 @@
+{
+  "author": "Ministerio de Justicia y Seguridad. Agencia Gubernamental de Control",
+  "author_email": "datosabiertos@buenosaires.gob.ar",
+  "creator_user_id": "e4546f46-e966-493c-b2f1-57318502c41b",
+  "extras": [
+    {
+      "key": "Documentación",
+      "value": ""
+    },
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P3M"
+    },
+    {
+      "key": "country",
+      "value": "None"
+    },
+    {
+      "key": "district",
+      "value": ""
+    },
+    {
+      "key": "home_featured",
+      "value": "false"
+    },
+    {
+      "key": "issued",
+      "value": "2019-04-09T15:58:19.823308"
+    },
+    {
+      "key": "language",
+      "value": "[]"
+    },
+    {
+      "key": "modified",
+      "value": "2021-03-05T10:23:31.804009"
+    },
+    {
+      "key": "province",
+      "value": ""
+    },
+    {
+      "key": "source",
+      "value": "Agencia Gubernamental de Control"
+    },
+    {
+      "key": "spatial",
+      "value": "None"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"GOVE\",\"JUST\"]"
+    },
+    {
+      "key": "temporal",
+      "value": ""
+    }
+  ],
+  "groups": [
+    {
+      "description": "",
+      "display_name": "Administración Pública",
+      "id": "8cb134a8-90ea-4e69-a96d-c03449917dc9",
+      "image_display_url": "https://data.buenosaires.gob.ar/uploads/group/2019-11-16-144810.360383adminpublica.png",
+      "name": "administracion-publica",
+      "title": "Administración Pública"
+    },
+    {
+      "description": "",
+      "display_name": "Seguridad",
+      "id": "b656bb3f-230a-414f-acce-19d0d98e01df",
+      "image_display_url": "https://data.buenosaires.gob.ar/uploads/group/2019-11-16-145044.366204segu.png",
+      "name": "seguridad",
+      "title": "Seguridad"
+    }
+  ],
+  "id": "a4a13870-cfe3-42b3-988c-90f1319b5923",
+  "isopen": true,
+  "license_id": "CC-BY-2.5-AR",
+  "license_title": "Atribucion 2.5 Argentina (CC BY 2.5 AR)",
+  "license_url": "https://creativecommons.org/licenses/by/2.5/ar ",
+  "maintainer": "Secretaría General y Relaciones Internacionales. Subsecretaría Gestión Estratégica y Calidad Institucional. Dirección General Calidad Institucional y Gobierno Abierto",
+  "maintainer_email": "datosabiertos@buenosaires.gob.ar",
+  "metadata_created": "2019-12-11T18:30:57.059292",
+  "metadata_modified": "2021-03-05T13:23:31.818600",
+  "name": "fiscalizaciones",
+  "notes": "Listado de inspecciones realizadas por la Agencia Gubernamental de Control a obras y establecimientos comerciales de la Ciudad de Buenos Aires.",
+  "num_resources": 6,
+  "num_tags": 6,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-11-15T19:17:36.258403",
+    "description": "",
+    "id": "913c691c-9cdc-42ea-a23b-ea8fc4845fac",
+    "image_url": "",
+    "is_organization": true,
+    "name": "agencia-gubernamental-de-control",
+    "revision_id": "d82ae964-d602-4eba-acd7-3cc67d1b741b",
+    "state": "active",
+    "title": "Agencia Gubernamental de Control (AGC)",
+    "type": "organization"
+  },
+  "owner_org": "913c691c-9cdc-42ea-a23b-ea8fc4845fac",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/a4a13870-cfe3-42b3-988c-90f1319b5923/resource/9ddd71f6-70d8-4aae-a3cc-9c1c0a157cc9",
+      "attributesDescription": "[{\"title\": \"tipo_inspeccion\", \"type\": \"string\", \"description\": \"tipo de inspecci\\u00f3n realizada\"}, {\"title\": \"fecha_inspeccion\", \"type\": \"date\", \"description\": \"a\\u00f1o, mes y d\\u00eda de la inspecci\\u00f3n\"}, {\"title\": \"direcci\\u00f3n_altura\", \"type\": \"integer\", \"description\": \"altura de la calle donde se realiz\\u00f3 la inspecci\\u00f3n\"}, {\"title\": \"direccion_calle\", \"type\": \"string\", \"description\": \"calle donde se realiz\\u00f3 la inspecci\\u00f3n\"}, {\"title\": \"direccion_completa\", \"type\": \"string\", \"description\": \"direcci\\u00f3n completa donde se realiz\\u00f3 la inspecci\\u00f3n\"}, {\"title\": \"long\", \"type\": \"number\", \"description\": \"longitud de la ubicaci\\u00f3n geogr\\u00e1fica donde se realiz\\u00f3 la inspecci\\u00f3n\"}, {\"title\": \"lat\", \"type\": \"number\", \"description\": \"latitud de la ubicaci\\u00f3n geogr\\u00e1fica donde se realiz\\u00f3 la inspecci\\u00f3n\"}, {\"title\": \"seccion_manzana_parcela\", \"type\": \"string\", \"description\": \"Identificador de la secci\\u00f3n, manzana y parcela donde se realiz\\u00f3 la inspecci\\u00f3n\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-04-09T13:08:50.695240",
+      "datastore_active": false,
+      "description": "Fiscalización de obras y locales comerciales de la Ciudad de Buenos Aires durante el 2018, según tipo de fiscalización.",
+      "fileName": "inspecciones_realizadas.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "9ddd71f6-70d8-4aae-a3cc-9c1c0a157cc9",
+      "last_modified": "2019-04-09T13:08:50.695240",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Fiscalizaciones 2018",
+      "package_id": "a4a13870-cfe3-42b3-988c-90f1319b5923",
+      "position": 0,
+      "resource_type": "file",
+      "revision_id": "832b5dea-bd99-471e-b1ec-073bedce1d2f",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/fiscalizaciones/inspecciones_realizadas.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/a4a13870-cfe3-42b3-988c-90f1319b5923/resource/56d5d023-920e-4138-b970-76dab4902cfb",
+      "attributesDescription": "[{\"title\": \"tipo_inspeccion\", \"type\": \"string\", \"description\": \"tipo de inspecci\\u00f3n realizada\"}, {\"title\": \"fecha_inspeccion\", \"type\": \"date\", \"description\": \"a\\u00f1o, mes y d\\u00eda de la inspecci\\u00f3n\"}, {\"title\": \"direcci\\u00f3n_altura\", \"type\": \"number\", \"description\": \"altura de la calle donde se realiz\\u00f3 la inspecci\\u00f3n\"}, {\"title\": \"direccion_calle\", \"type\": \"string\", \"description\": \"calle donde se realiz\\u00f3 la inspecci\\u00f3n\"}, {\"title\": \"direccion_completa\", \"type\": \"string\", \"description\": \"direcci\\u00f3n completa donde se realiz\\u00f3 la inspecci\\u00f3n\"}, {\"title\": \"long\", \"type\": \"number\", \"description\": \"longitud de la ubicaci\\u00f3n geogr\\u00e1fica donde se realiz\\u00f3 la inspecci\\u00f3n\"}, {\"title\": \"lat\", \"type\": \"number\", \"description\": \"latitud de la ubicaci\\u00f3n geogr\\u00e1fica donde se realiz\\u00f3 la inspecci\\u00f3n\"}, {\"title\": \"seccion_manzana_parcela\", \"type\": \"string\", \"description\": \"Identificador de la secci\\u00f3n, manzana y parcela donde se realiz\\u00f3 la inspecci\\u00f3n\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-10-17T10:21:14.910519",
+      "datastore_active": false,
+      "description": "Fiscalización de obras y locales comerciales de la Ciudad de Buenos Aires durante el 2019, según tipo de fiscalización",
+      "fileName": "inspecciones_realizadas_2019.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "56d5d023-920e-4138-b970-76dab4902cfb",
+      "last_modified": "2019-10-17T10:21:14.910519",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Fiscalizaciones 2019",
+      "package_id": "a4a13870-cfe3-42b3-988c-90f1319b5923",
+      "position": 1,
+      "resource_type": "file",
+      "revision_id": "b1152154-815c-4fad-8b69-b1967d93f009",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/fiscalizaciones/inspecciones_realizadas_2019.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "",
+      "accessURL_field": "",
+      "attributesDescription": "[{\"title\":\"direccion_completa\",\"description\":\"dirección completa donde se realizó la inspección\",\"type\":\"string\"},{\"title\":\"fecha_inspeccion\",\"description\":\"año, mes y día de la inspección\",\"type\":\"date\"},{\"title\":\"numero_ticket\",\"description\":\"Número de ticket\",\"type\":\"string\"},{\"title\":\"seccion_manzana_parcela\",\"description\":\"Identificador de la sección, manzana y parcela donde se realizó la inspección\",\"type\":\"string\"},{\"title\":\"tipo_inspeccion\",\"description\":\"tipo de inspección realizada\",\"type\":\"string\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2020-08-05T17:41:15.932127",
+      "datastore_active": false,
+      "description": "Fiscalización de obras y locales comerciales de la Ciudad de Buenos Aires durante el 2020, según tipo de fiscalización",
+      "fileName": "inspecciones_realizadas_2020.csv",
+      "format": "CSV",
+      "has-uploaded-file": "",
+      "hash": "",
+      "icon_url": "",
+      "id": "7f7c42b7-d4b5-42b6-aac8-e2f0c86e728b",
+      "issued": "2020-08-05T14:41:15.870791",
+      "last_modified": null,
+      "license_id": "CC-BY-2.5-AR",
+      "mimetype": "text/csv",
+      "mimetype_inner": null,
+      "modified": "2021-02-12",
+      "name": "Fiscalizaciones 2020",
+      "package_id": "a4a13870-cfe3-42b3-988c-90f1319b5923",
+      "position": 2,
+      "resource_type": "file",
+      "revision_id": "344848de-de53-4a66-b0e6-4f9e2bec0b38",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/agencia-gubernamental-de-control/fiscalizaciones/inspecciones_realizadas_2020.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/a4a13870-cfe3-42b3-988c-90f1319b5923/resource/9ddd71f6-70d8-4aae-a3cc-9c1c0a157cc9",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-04-09T13:08:50.695240",
+      "datastore_active": false,
+      "description": "Fiscalización de obras y locales comerciales de la Ciudad de Buenos Aires durante el 2018, según tipo de fiscalización.",
+      "fileName": "inspecciones_realizadas.xlsx",
+      "format": "XLSX",
+      "hash": "",
+      "id": "9ddd71f6-70d8-4aae-a3cc-9c1c0a157cc9-xlsx",
+      "last_modified": "2019-04-09T13:08:50.695240",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Fiscalizaciones 2018 (XLSX)",
+      "package_id": "a4a13870-cfe3-42b3-988c-90f1319b5923",
+      "position": 3,
+      "resource_type": "file",
+      "revision_id": "d7a41e6d-a1ed-48e6-ae40-e223174b0cf4",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/fiscalizaciones/inspecciones_realizadas.xlsx",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/a4a13870-cfe3-42b3-988c-90f1319b5923/resource/56d5d023-920e-4138-b970-76dab4902cfb",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-10-17T10:21:14.910519",
+      "datastore_active": false,
+      "description": "Fiscalización de obras y locales comerciales de la Ciudad de Buenos Aires durante el 2019, según tipo de fiscalización",
+      "fileName": "inspecciones_realizadas_2019.xlsx",
+      "format": "XLSX",
+      "hash": "",
+      "id": "56d5d023-920e-4138-b970-76dab4902cfb-xlsx",
+      "last_modified": "2019-10-17T10:21:14.910519",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Fiscalizaciones 2019 (XLSX)",
+      "package_id": "a4a13870-cfe3-42b3-988c-90f1319b5923",
+      "position": 4,
+      "resource_type": "file",
+      "revision_id": "63a6a15f-80e9-4569-a7be-ef27477a078a",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/fiscalizaciones/inspecciones_realizadas_2019.xlsx",
+      "url_type": null
+    },
+    {
+      "accessURL": "",
+      "accessURL_field": "",
+      "attributesDescription": "[]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2020-08-05T17:43:28.298422",
+      "datastore_active": false,
+      "description": "Archivo excel con fiscalización de obras y locales comerciales de la Ciudad de Buenos Aires durante el 2020, según tipo de fiscalización",
+      "fileName": "inspecciones_realizadas_2020.xlsx",
+      "format": "XLSX",
+      "has-uploaded-file": "",
+      "hash": "",
+      "icon_url": "",
+      "id": "2206a8aa-a733-42f8-922f-0727382448e6",
+      "issued": "2020-08-05T14:43:28.015818",
+      "last_modified": null,
+      "license_id": "CC-BY-2.5-AR",
+      "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "mimetype_inner": null,
+      "modified": "2021-02-12",
+      "name": "Fiscalizaciones 2020 (XLSX)",
+      "package_id": "a4a13870-cfe3-42b3-988c-90f1319b5923",
+      "position": 5,
+      "resource_type": "file",
+      "revision_id": "3a9faf6f-bbd3-464d-98f0-bc9f28a33d02",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/agencia-gubernamental-de-control/fiscalizaciones/inspecciones_realizadas_2020.xlsx",
+      "url_type": null
+    }
+  ],
+  "revision_id": "5cf76bc1-c2e8-44d7-a9a0-d19a279424c2",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "AGC",
+      "id": "d0523b0c-616a-4b1a-b7bf-96660cddc12e",
+      "name": "AGC",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "control",
+      "id": "66432773-c18c-48fd-80b1-39e727f62524",
+      "name": "control",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "fiscalizaciones",
+      "id": "477f6fd2-3d99-4977-84c3-0e3665bf9fc4",
+      "name": "fiscalizaciones",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "inspecciones",
+      "id": "6ca40f89-4765-4483-9b2e-1709569d3d4a",
+      "name": "inspecciones",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "locales comerciales",
+      "id": "456479aa-12c1-45d4-b236-54a593e461d5",
+      "name": "locales comerciales",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "obras",
+      "id": "0a47fdfe-85d2-4a40-ac76-a643f3274d0f",
+      "name": "obras",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Fiscalizaciones",
+  "type": "dataset",
+  "url": "https://data.buenosaires.gob.ar/dataset/fiscalizaciones",
+  "version": null
+}

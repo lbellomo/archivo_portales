@@ -1,0 +1,192 @@
+{
+  "author": "Secretaría Legal y Técnica",
+  "author_email": "datosabiertos@buenosaires.gob.ar",
+  "creator_user_id": "e4546f46-e966-493c-b2f1-57318502c41b",
+  "extras": [
+    {
+      "key": "Documentación",
+      "value": ""
+    },
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P1M"
+    },
+    {
+      "key": "country",
+      "value": "None"
+    },
+    {
+      "key": "district",
+      "value": ""
+    },
+    {
+      "key": "home_featured",
+      "value": "false"
+    },
+    {
+      "key": "issued",
+      "value": "2019-01-08T14:59:33.305899"
+    },
+    {
+      "key": "language",
+      "value": "[]"
+    },
+    {
+      "key": "modified",
+      "value": "2021-03-05T11:31:18.227778"
+    },
+    {
+      "key": "province",
+      "value": ""
+    },
+    {
+      "key": "source",
+      "value": "Secretaría Legal y Técnica"
+    },
+    {
+      "key": "spatial",
+      "value": "None"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"GOVE\"]"
+    },
+    {
+      "key": "temporal",
+      "value": ""
+    }
+  ],
+  "groups": [
+    {
+      "description": "",
+      "display_name": "Administración Pública",
+      "id": "8cb134a8-90ea-4e69-a96d-c03449917dc9",
+      "image_display_url": "https://data.buenosaires.gob.ar/uploads/group/2019-11-16-144810.360383adminpublica.png",
+      "name": "administracion-publica",
+      "title": "Administración Pública"
+    }
+  ],
+  "id": "juqdkmgo-191",
+  "isopen": true,
+  "license_id": "CC-BY-2.5-AR",
+  "license_title": "Atribucion 2.5 Argentina (CC BY 2.5 AR)",
+  "license_url": "https://creativecommons.org/licenses/by/2.5/ar ",
+  "maintainer": "Secretaría General y Relaciones Internacionales. Subsecretaría Gestión Estratégica y Calidad Institucional. Dirección General Calidad Institucional y Gobierno Abierto",
+  "maintainer_email": "datosabiertos@buenosaires.gob.ar",
+  "metadata_created": "2019-12-11T18:35:26.397549",
+  "metadata_modified": "2021-03-05T14:31:18.288323",
+  "name": "servicio-informacion-normativa",
+  "notes": "Normas publicadas por el Gobierno de la Ciudad Autónoma de Buenos Aires y la Municipalidad de la Ciudad de Buenos Aires, en el Boletín Municipal y en el Boletín Oficial desde el 6/8/1996.",
+  "num_resources": 2,
+  "num_tags": 4,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-11-15T19:15:57.596429",
+    "description": "",
+    "id": "1d57ae66-7d7a-4c3e-920a-80ea784d3b75",
+    "image_url": "",
+    "is_organization": true,
+    "name": "secretaria-legal-y-tecnica",
+    "revision_id": "f703cfd6-fadc-472b-8082-51dfb4a6b172",
+    "state": "active",
+    "title": "Secretaría Legal y Técnica",
+    "type": "organization"
+  },
+  "owner_org": "1d57ae66-7d7a-4c3e-920a-80ea784d3b75",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/normativa-20200413.csv",
+      "accessURL_field": "",
+      "attributesDescription": "[{\"title\":\"norma_id\",\"description\":\"Identificador único de cada normativa.\\nPermite acceder al texto completo de la\\nnorma a través de la web\",\"type\":\"integer\"},{\"title\":\"norma_tipo\",\"description\":\"Tipo de norma emitida por los Poderes\\nLegislativo/Ejecutivo/Judicial\",\"type\":\"string\"},{\"title\":\"norma_numero\",\"description\":\"Número con el que el Organismo registra la\\nnorma que emite\",\"type\":\"integer\"},{\"title\":\"norma_anio_sancion\",\"description\":\"Año en que el organismo emitió la norma\",\"type\":\"number\"},{\"title\":\"norma_anio_publicacion\",\"description\":\"Año en que se el Boletín Oficial/Municipal\\npublicó la norma\",\"type\":\"number\"},{\"title\":\"norma_organismo_emisor\",\"description\":\"Organismo que emitió la norma\",\"type\":\"string\"},{\"title\":\"norma_fecha_sancion\",\"description\":\"Fecha exacta en que el organismo emitió la\\nnorma\",\"type\":\"date\"},{\"title\":\"norma_fecha_publicacion\",\"description\":\"Fecha en que el Boletín Oficial/Municipal\\npublicó la norma\",\"type\":\"date\"},{\"title\":\"norma_alcance\",\"description\":\"Alcance de la normativa\",\"type\":\"string\"},{\"title\":\"norma_gestion\",\"description\":\"Gestión de gobierno en la que se emitió la\\nnormativa\",\"type\":\"string\"},{\"title\":\"norma_sintesis\",\"description\":\"Palabras clave de la norma\",\"type\":\"string\"},{\"title\":\"url\",\"description\":\"Dirección web de la norma\",\"type\":\"string\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-10-16T16:15:26.316227",
+      "datastore_active": false,
+      "description": "Listado de normativas sancionadas en el ámbito de la Ciudad Autónoma de Buenos Aires indicando tipo, número, año, gestión, organismo y sintesis de la misma.",
+      "fileName": "",
+      "format": "CSV",
+      "has-uploaded-file": "",
+      "hash": "",
+      "icon_url": "",
+      "id": "juqdkmgo-1911-resource",
+      "issued": "2019-10-16T16:15:26.316227",
+      "last_modified": "2019-10-16T16:15:26.316227",
+      "license_id": "CC-BY-4.0",
+      "mimetype": "text/csv",
+      "mimetype_inner": null,
+      "modified": "2020-04-13T18:45:20.798257",
+      "name": "Normativa",
+      "package_id": "juqdkmgo-191",
+      "position": 0,
+      "resource_type": "file",
+      "revision_id": "3d058416-e529-40e1-8e3a-f02e8519b1e3",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/servicio-de-informacion-normativa/normativa-20200406.CSV",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/servicio-de-informacion-normativa",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-10-16T16:15:26.316227",
+      "datastore_active": false,
+      "description": "Listado de normativas sancionadas en el ámbito de la Ciudad Autónoma de Buenos Aires indicando tipo, número, año, gestión, organismo y sintesis de la misma.",
+      "fileName": "normativa.xlsx",
+      "format": "XLSX",
+      "hash": "",
+      "id": "juqdkmgo-1911-resource-xlsx",
+      "last_modified": "2019-10-16T16:15:26.316227",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Normativa (XLSX)",
+      "package_id": "juqdkmgo-191",
+      "position": 1,
+      "resource_type": "file",
+      "revision_id": "7875f50d-1369-4c46-9329-4b8ff349188a",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/servicio-de-informacion-normativa/normativa.xlsx",
+      "url_type": null
+    }
+  ],
+  "revision_id": "d76b5caf-e76f-41a4-a28b-61bbb5a4cbdd",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "administración-pública-normativa",
+      "id": "1992ae49-e55a-4653-a551-3c6c6645631c",
+      "name": "administración-pública-normativa",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "decretos",
+      "id": "b52d2c2e-6419-46e4-888e-3c25181df954",
+      "name": "decretos",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "leyes",
+      "id": "9f30ae24-2abb-4a9e-b394-08fbb033fefa",
+      "name": "leyes",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "normativa",
+      "id": "992fd5af-7e8b-4284-9648-7c94fb1969a6",
+      "name": "normativa",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Servicio de información normativa",
+  "type": "dataset",
+  "url": "https://data.buenosaires.gob.ar/dataset/servicio-informacion-normativa",
+  "version": null
+}

@@ -1,0 +1,240 @@
+{
+  "author": "Secretaría de Transporte y Obras Públicas. Jefatura de Gabinete de Ministros",
+  "author_email": "gobiernoabierto@buenosaires.gob.ar",
+  "creator_user_id": "e4546f46-e966-493c-b2f1-57318502c41b",
+  "extras": [
+    {
+      "key": "Documentación",
+      "value": ""
+    },
+    {
+      "key": "accrualPeriodicity",
+      "value": "eventual"
+    },
+    {
+      "key": "country",
+      "value": "None"
+    },
+    {
+      "key": "district",
+      "value": ""
+    },
+    {
+      "key": "home_featured",
+      "value": "false"
+    },
+    {
+      "key": "issued",
+      "value": "2019-08-08T14:29:13.376309"
+    },
+    {
+      "key": "language",
+      "value": "[]"
+    },
+    {
+      "key": "modified",
+      "value": "2020-12-11T13:12:17.944816"
+    },
+    {
+      "key": "province",
+      "value": ""
+    },
+    {
+      "key": "source",
+      "value": "Secretaría de Transporte y Obras Públicas. Jefatura de Gabinete de Ministros"
+    },
+    {
+      "key": "spatial",
+      "value": "None"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"TRAN\"]"
+    },
+    {
+      "key": "temporal",
+      "value": ""
+    }
+  ],
+  "groups": [
+    {
+      "description": "",
+      "display_name": "Movilidad",
+      "id": "e616e02e-64d8-4fb0-b55d-08e75eb58376",
+      "image_display_url": "https://data.buenosaires.gob.ar/uploads/group/2019-11-16-145017.234366movilidad.png",
+      "name": "movilidad",
+      "title": "Movilidad"
+    }
+  ],
+  "id": "df8bb72e-7bd9-480e-8e65-59a149d57d02",
+  "isopen": true,
+  "license_id": "CC-BY-2.5-AR",
+  "license_title": "Atribucion 2.5 Argentina (CC BY 2.5 AR)",
+  "license_url": "https://creativecommons.org/licenses/by/2.5/ar ",
+  "maintainer": "Subgerencia de Información Geoespacial. DG Ciencias de la Información. SS de Políticas Públicas Basadas en Evidencia. Secretaría de Innovación y Transformación Digital. Jefatura de Gabinete de Ministros",
+  "maintainer_email": "gobiernoabierto@buenosaires.gob.ar",
+  "metadata_created": "2019-12-11T18:17:09.988214",
+  "metadata_modified": "2020-12-17T15:54:13.223282",
+  "name": "colectivos-paradas",
+  "notes": "Referencia geográfica de las paradas de los colectivos que circulan por AMBA.",
+  "num_resources": 4,
+  "num_tags": 5,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-11-15T19:19:49.916928",
+    "description": "",
+    "id": "56b60b46-a47c-48fb-9bd4-c2ad0e05fef2",
+    "image_url": "",
+    "is_organization": true,
+    "name": "transporte-y-obras-publicas",
+    "revision_id": "c33c86a3-e197-468f-8b66-5b943b3bf106",
+    "state": "active",
+    "title": "Secretaría de Transporte y Obras Públicas",
+    "type": "organization"
+  },
+  "owner_org": "56b60b46-a47c-48fb-9bd4-c2ad0e05fef2",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/df8bb72e-7bd9-480e-8e65-59a149d57d02/resource/d0e599d2-3e78-4fb2-9255-30a2be0525f8",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-08-08T11:30:09.089478",
+      "datastore_active": false,
+      "description": "Ubicación geográfica de las paradas de colectivo de la Ciudad de Buenos Aires.",
+      "fileName": "paradas-de-colectivo.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "d0e599d2-3e78-4fb2-9255-30a2be0525f8",
+      "last_modified": "2019-08-08T11:30:09.089478",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Paradas de Colectivo",
+      "package_id": "df8bb72e-7bd9-480e-8e65-59a149d57d02",
+      "position": 0,
+      "resource_type": "file",
+      "revision_id": "bbe4f5d4-a7ad-462c-b879-49bfbd45cf14",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/colectivos/paradas-de-colectivo.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/df8bb72e-7bd9-480e-8e65-59a149d57d02/resource/e51cde8e-da46-41b1-87fb-23d656487671",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-08-08T11:30:49.267753",
+      "datastore_active": false,
+      "description": "Archivo shapefile de las paradas de colectivo.",
+      "fileName": "paradas-de-colectivo-zip.zip",
+      "format": "ZIP",
+      "hash": "",
+      "id": "e51cde8e-da46-41b1-87fb-23d656487671",
+      "last_modified": "2019-08-08T11:30:49.267753",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Paradas de Colectivo (SHP)",
+      "package_id": "df8bb72e-7bd9-480e-8e65-59a149d57d02",
+      "position": 1,
+      "resource_type": "file",
+      "revision_id": "80baaaf9-eb81-41b9-a8f5-13b2be4539a1",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/colectivos/paradas-de-colectivo-zip.zip",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/df8bb72e-7bd9-480e-8e65-59a149d57d02/resource/e9699a48-7189-499f-ab3b-d164fd7a1730",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-08-08T11:32:37.809665",
+      "datastore_active": false,
+      "description": "Archivo GeoJSON de las paradas de colectivo.",
+      "fileName": "paradas-de-colectivo.geojson",
+      "format": "GeoJSON",
+      "hash": "",
+      "id": "e9699a48-7189-499f-ab3b-d164fd7a1730",
+      "last_modified": "2019-08-08T11:32:37.809665",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Paradas de Colectivo (GeoJSON)",
+      "package_id": "df8bb72e-7bd9-480e-8e65-59a149d57d02",
+      "position": 2,
+      "resource_type": "file",
+      "revision_id": "296d7fd4-ed37-4e0a-8b38-272d55b52c70",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/colectivos/paradas-de-colectivo.geojson",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/df8bb72e-7bd9-480e-8e65-59a149d57d02/resource/d0e599d2-3e78-4fb2-9255-30a2be0525f8",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-08-08T11:30:09.089478",
+      "datastore_active": false,
+      "description": "Ubicación geográfica de las paradas de colectivo de la Ciudad de Buenos Aires.",
+      "fileName": "paradas-de-colectivo.xlsx",
+      "format": "XLSX",
+      "hash": "",
+      "id": "d0e599d2-3e78-4fb2-9255-30a2be0525f8-xlsx",
+      "last_modified": "2019-08-08T11:30:09.089478",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Paradas de Colectivo (XLSX)",
+      "package_id": "df8bb72e-7bd9-480e-8e65-59a149d57d02",
+      "position": 3,
+      "resource_type": "file",
+      "revision_id": "e90f7371-8246-4b95-a26c-68a90989b6c5",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/colectivos/paradas-de-colectivo.xlsx",
+      "url_type": null
+    }
+  ],
+  "revision_id": "dd3514bf-2b32-4b51-9113-efdae7feab21",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "colectivos",
+      "id": "b6cbff9d-f7d3-4805-b72c-a42cd153b704",
+      "name": "colectivos",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "movilidad",
+      "id": "6fda14a0-403a-4fd4-bc7f-e5742514badc",
+      "name": "movilidad",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "paradas",
+      "id": "e47e1ac1-8bd2-4599-806e-8d127067897f",
+      "name": "paradas",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "transporte",
+      "id": "aff133f8-2f33-4d2c-a531-6d632bd4efbb",
+      "name": "transporte",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "transporte público",
+      "id": "7cbe4a40-f26d-4baf-9fb8-725da73270a5",
+      "name": "transporte público",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Colectivos: paradas",
+  "type": "dataset",
+  "url": "https://data.buenosaires.gob.ar/dataset/colectivos-paradas",
+  "version": null
+}

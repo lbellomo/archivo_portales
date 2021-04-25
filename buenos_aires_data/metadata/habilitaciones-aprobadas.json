@@ -1,0 +1,310 @@
+{
+  "author": "Ministerio de Justicia y Seguridad. Agencia Gubernamental de Control",
+  "author_email": "gobiernoabierto@buenosaires.gob.ar",
+  "creator_user_id": "e4546f46-e966-493c-b2f1-57318502c41b",
+  "extras": [
+    {
+      "key": "Documentación",
+      "value": ""
+    },
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P3M"
+    },
+    {
+      "key": "country",
+      "value": "None"
+    },
+    {
+      "key": "district",
+      "value": ""
+    },
+    {
+      "key": "home_featured",
+      "value": "false"
+    },
+    {
+      "key": "issued",
+      "value": "2019-04-16T13:48:09.142189"
+    },
+    {
+      "key": "language",
+      "value": "[]"
+    },
+    {
+      "key": "modified",
+      "value": "2020-08-12"
+    },
+    {
+      "key": "province",
+      "value": ""
+    },
+    {
+      "key": "source",
+      "value": "Ministerio de Justicia y Seguridad. Agencia Gubernamental de Control"
+    },
+    {
+      "key": "spatial",
+      "value": "None"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"ECON\",\"GOVE\",\"JUST\"]"
+    },
+    {
+      "key": "temporal",
+      "value": ""
+    }
+  ],
+  "groups": [
+    {
+      "description": "",
+      "display_name": "Administración Pública",
+      "id": "8cb134a8-90ea-4e69-a96d-c03449917dc9",
+      "image_display_url": "https://data.buenosaires.gob.ar/uploads/group/2019-11-16-144810.360383adminpublica.png",
+      "name": "administracion-publica",
+      "title": "Administración Pública"
+    },
+    {
+      "description": "",
+      "display_name": "Seguridad",
+      "id": "b656bb3f-230a-414f-acce-19d0d98e01df",
+      "image_display_url": "https://data.buenosaires.gob.ar/uploads/group/2019-11-16-145044.366204segu.png",
+      "name": "seguridad",
+      "title": "Seguridad"
+    }
+  ],
+  "id": "8518f9bc-e23b-46aa-9888-15535f4dd52b",
+  "isopen": true,
+  "license_id": "CC-BY-2.5-AR",
+  "license_title": "Atribucion 2.5 Argentina (CC BY 2.5 AR)",
+  "license_url": "https://creativecommons.org/licenses/by/2.5/ar ",
+  "maintainer": "Secretaría General y Relaciones Internacionales. Subsecretaría Gestión Estratégica y Calidad Institucional. Dirección General Calidad Institucional y Gobierno Abierto",
+  "maintainer_email": "gobiernoabierto@buenosaires.gob.ar",
+  "metadata_created": "2019-12-11T18:31:15.881449",
+  "metadata_modified": "2020-12-17T16:27:51.680484",
+  "name": "habilitaciones-aprobadas",
+  "notes": "Listado de habilitaciones otorgadas por la Agencia Gubernamental de Control a establecimientos comerciales de la Ciudad de Buenos Aires a partir de 2015.",
+  "num_resources": 6,
+  "num_tags": 5,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-11-15T19:17:36.258403",
+    "description": "",
+    "id": "913c691c-9cdc-42ea-a23b-ea8fc4845fac",
+    "image_url": "",
+    "is_organization": true,
+    "name": "agencia-gubernamental-de-control",
+    "revision_id": "d82ae964-d602-4eba-acd7-3cc67d1b741b",
+    "state": "active",
+    "title": "Agencia Gubernamental de Control (AGC)",
+    "type": "organization"
+  },
+  "owner_org": "913c691c-9cdc-42ea-a23b-ea8fc4845fac",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/8518f9bc-e23b-46aa-9888-15535f4dd52b/resource/21343579-cf7e-4fb8-a3bc-8d41710cb077",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-04-16T11:50:10.251095",
+      "datastore_active": false,
+      "description": "Habilitaciones aprobadas a establecimientos comerciales en la Ciudad durante 2019. Incluye superficie, fecha y hora de habilitación, descripción del rubro, ubicación geográfica, entre otros.",
+      "fileName": "habilitaciones-2019.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "21343579-cf7e-4fb8-a3bc-8d41710cb077",
+      "last_modified": "2019-04-16T11:50:10.251095",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Habilitaciones 2019",
+      "package_id": "8518f9bc-e23b-46aa-9888-15535f4dd52b",
+      "position": 0,
+      "resource_type": "file",
+      "revision_id": "2cf074a6-d416-457d-9ed5-dfd9eaf87ae3",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/habilitaciones-aprobadas/habilitaciones-2019.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/8518f9bc-e23b-46aa-9888-15535f4dd52b/resource/748176e8-298f-4bda-aa44-3ef4dc560c8c",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-04-16T11:50:44.283288",
+      "datastore_active": false,
+      "description": "Habilitaciones aprobadas a establecimientos comerciales en la Ciudad entre 2015 y 2018. Incluye superficie, fecha y hora de habilitación, descripción del rubro, dirección, entre otros.",
+      "fileName": "habilitaciones-2015-a-2018.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "748176e8-298f-4bda-aa44-3ef4dc560c8c",
+      "last_modified": "2019-04-16T11:50:44.283288",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Habilitaciones 2015-2018",
+      "package_id": "8518f9bc-e23b-46aa-9888-15535f4dd52b",
+      "position": 1,
+      "resource_type": "file",
+      "revision_id": "df0950f1-8f87-44f2-a72a-33f9e594a37d",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/habilitaciones-aprobadas/habilitaciones-2015-a-2018.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/8518f9bc-e23b-46aa-9888-15535f4dd52b/resource/21343579-cf7e-4fb8-a3bc-8d41710cb077",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-04-16T11:50:10.251095",
+      "datastore_active": false,
+      "description": "Habilitaciones aprobadas a establecimientos comerciales en la Ciudad durante 2019. Incluye superficie, fecha y hora de habilitación, descripción del rubro, ubicación geográfica, entre otros.",
+      "fileName": "habilitaciones-2019.xlsx",
+      "format": "XLSX",
+      "hash": "",
+      "id": "21343579-cf7e-4fb8-a3bc-8d41710cb077-xlsx",
+      "last_modified": "2019-04-16T11:50:10.251095",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Habilitaciones 2019 (XLSX)",
+      "package_id": "8518f9bc-e23b-46aa-9888-15535f4dd52b",
+      "position": 2,
+      "resource_type": "file",
+      "revision_id": "156bfc3a-9d57-4f25-a028-37a8f79c345f",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/habilitaciones-aprobadas/habilitaciones-2019.xlsx",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/8518f9bc-e23b-46aa-9888-15535f4dd52b/resource/748176e8-298f-4bda-aa44-3ef4dc560c8c",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-04-16T11:50:44.283288",
+      "datastore_active": false,
+      "description": "Habilitaciones aprobadas a establecimientos comerciales en la Ciudad entre 2015 y 2018. Incluye superficie, fecha y hora de habilitación, descripción del rubro, dirección, entre otros.",
+      "fileName": "habilitaciones-2015-a-2018.xlsx",
+      "format": "XLSX",
+      "hash": "",
+      "id": "748176e8-298f-4bda-aa44-3ef4dc560c8c-xlsx",
+      "last_modified": "2019-04-16T11:50:44.283288",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Habilitaciones 2015-2018 (XLSX)",
+      "package_id": "8518f9bc-e23b-46aa-9888-15535f4dd52b",
+      "position": 3,
+      "resource_type": "file",
+      "revision_id": "007f6939-8a8b-4a25-b91d-275a995e9485",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/habilitaciones-aprobadas/habilitaciones-2015-a-2018.xlsx",
+      "url_type": null
+    },
+    {
+      "accessURL": "",
+      "accessURL_field": "",
+      "attributesDescription": "[{\"title\":\"Solicitud\",\"description\":\"Solicitud\",\"type\":\"integer\"},{\"title\":\"TipoTramite\",\"description\":\"TipoTramite\",\"type\":\"string\"},{\"title\":\"TipoExpediente\",\"description\":\"TipoExpediente\",\"type\":\"string\"},{\"title\":\"SubTipoExpediente\",\"description\":\"SubTipoExpediente\",\"type\":\"string\"},{\"title\":\"Superficie\",\"description\":\"Superficie\",\"type\":\"integer\"},{\"title\":\"FechaHabilitacion\",\"description\":\"FechaHabilitacion\",\"type\":\"date\"},{\"title\":\"HoraHabilitacion\",\"description\":\"HoraHabilitacion\",\"type\":\"time\"},{\"title\":\"NumeroExp\",\"description\":\"NumeroExp\",\"type\":\"string\"},{\"title\":\"CodigoRubro\",\"description\":\"CodigoRubro\",\"type\":\"integer\"},{\"title\":\"DescripcionRubro\",\"description\":\"DescripcionRubro\",\"type\":\"string\"},{\"title\":\"CodigoSubRubro\",\"description\":\"CodigoSubRubro\",\"type\":\"integer\"},{\"title\":\"DescripcionSubRubro\",\"description\":\"DescripcionSubRubro\",\"type\":\"string\"},{\"title\":\"UnidadFuncional\",\"description\":\"UnidadFuncional\",\"type\":\"integer\"},{\"title\":\"Seccion\",\"description\":\"Seccion\",\"type\":\"integer\"},{\"title\":\"Manzana\",\"description\":\"Manzana\",\"type\":\"string\"},{\"title\":\"Parcela\",\"description\":\"Parcela\",\"type\":\"string\"},{\"title\":\"Partida_Matriz\",\"description\":\"Partida_Matriz\",\"type\":\"integer\"},{\"title\":\"PartidaHorizontal\",\"description\":\"PartidaHorizontal\",\"type\":\"integer\"},{\"title\":\"Calles\",\"description\":\"Calles\",\"type\":\"string\"},{\"title\":\"Titulares\",\"description\":\"Titulares\",\"type\":\"string\"},{\"title\":\"Cuits\",\"description\":\"Cuits\",\"type\":\"integer\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2020-08-12T19:03:20.653147",
+      "datastore_active": false,
+      "description": "Habilitaciones aprobadas a establecimientos comerciales en la Ciudad durante 2020. Incluye superficie, fecha y hora de habilitación, descripción del rubro, ubicación geográfica, entre otros.",
+      "fileName": "",
+      "format": "CSV",
+      "has-uploaded-file": "",
+      "hash": "",
+      "icon_url": "",
+      "id": "dd6760a4-92e5-4c43-83f5-33181bac37d8",
+      "issued": "2020-08-12T19:03:20.653147",
+      "last_modified": "2020-08-12T00:00:00",
+      "license_id": "CC-BY-4.0",
+      "mimetype": "text/csv",
+      "mimetype_inner": null,
+      "modified": "2020-08-12T16:07:41.911416",
+      "name": "Habilitaciones 2020",
+      "package_id": "8518f9bc-e23b-46aa-9888-15535f4dd52b",
+      "position": 4,
+      "resource_type": "file",
+      "revision_id": "b706c8f6-60d2-4b61-9e1e-52d533ff1436",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/agencia-gubernamental-de-control/habilitaciones-aprobadas/habilitaciones-aprobadas2020.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "",
+      "accessURL_field": "",
+      "attributesDescription": "[{\"title\":\"Solicitud\",\"description\":\"Solicitud\",\"type\":\"integer\"},{\"title\":\"TipoTramite\",\"description\":\"TipoTramite\",\"type\":\"string\"},{\"title\":\"TipoExpediente\",\"description\":\"TipoExpediente\",\"type\":\"string\"},{\"title\":\"SubTipoExpediente\",\"description\":\"SubTipoExpediente\",\"type\":\"string\"},{\"title\":\"Superficie\",\"description\":\"Superficie\",\"type\":\"integer\"},{\"title\":\"FechaHabilitacion\",\"description\":\"FechaHabilitacion\",\"type\":\"date\"},{\"title\":\"HoraHabilitacion\",\"description\":\"HoraHabilitacion\",\"type\":\"time\"},{\"title\":\"NumeroExp\",\"description\":\"NumeroExp\",\"type\":\"string\"},{\"title\":\"CodigoRubro\",\"description\":\"CodigoRubro\",\"type\":\"integer\"},{\"title\":\"DescripcionRubro\",\"description\":\"DescripcionRubro\",\"type\":\"string\"},{\"title\":\"CodigoSubRubro\",\"description\":\"CodigoSubRubro\",\"type\":\"integer\"},{\"title\":\"DescripcionSubRubro\",\"description\":\"DescripcionSubRubro\",\"type\":\"string\"},{\"title\":\"UnidadFuncional\",\"description\":\"UnidadFuncional\",\"type\":\"integer\"},{\"title\":\"Seccion\",\"description\":\"Seccion\",\"type\":\"integer\"},{\"title\":\"Manzana\",\"description\":\"Manzana\",\"type\":\"string\"},{\"title\":\"Parcela\",\"description\":\"Parcela\",\"type\":\"string\"},{\"title\":\"Partida_Matriz\",\"description\":\"Partida_Matriz\",\"type\":\"integer\"},{\"title\":\"PartidaHorizontal\",\"description\":\"PartidaHorizontal\",\"type\":\"integer\"},{\"title\":\"Calles\",\"description\":\"Calles\",\"type\":\"string\"},{\"title\":\"Titulares\",\"description\":\"Titulares\",\"type\":\"string\"},{\"title\":\"Cuits\",\"description\":\"Cuits\",\"type\":\"integer\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2020-08-12T19:03:25.766447",
+      "datastore_active": false,
+      "description": "Habilitaciones aprobadas a establecimientos comerciales en la Ciudad durante 2020. Incluye superficie, fecha y hora de habilitación, descripción del rubro, ubicación geográfica, entre otros.",
+      "fileName": "",
+      "format": "XLSX",
+      "has-uploaded-file": "",
+      "hash": "",
+      "icon_url": "",
+      "id": "fe84d4c6-6a0a-4d5f-a125-65504845ad9a",
+      "issued": "2020-08-12T19:03:25.766447",
+      "last_modified": "2020-08-12T00:00:00",
+      "license_id": "CC-BY-4.0",
+      "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "mimetype_inner": null,
+      "modified": "2020-08-12T16:04:36.543249",
+      "name": "Habilitaciones 2020 (XLSX)",
+      "package_id": "8518f9bc-e23b-46aa-9888-15535f4dd52b",
+      "position": 5,
+      "resource_type": "file",
+      "revision_id": "a0e9a22a-ac5f-4a75-8ee0-9ab0c1013e5f",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/agencia-gubernamental-de-control/habilitaciones-aprobadas/habilitaciones-aprobadas2020.xlsx",
+      "url_type": null
+    }
+  ],
+  "revision_id": "2b8b25b5-85da-4987-b6ab-bdf9dcfa49b2",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "AGC",
+      "id": "d0523b0c-616a-4b1a-b7bf-96660cddc12e",
+      "name": "AGC",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "control",
+      "id": "66432773-c18c-48fd-80b1-39e727f62524",
+      "name": "control",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "establecimientos",
+      "id": "1a2871d2-49c6-4394-820c-94ec5f14084f",
+      "name": "establecimientos",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "habilitaciones",
+      "id": "a0acc34f-9c5b-4e6f-bc5f-83d1903a454a",
+      "name": "habilitaciones",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "locales comerciales",
+      "id": "456479aa-12c1-45d4-b236-54a593e461d5",
+      "name": "locales comerciales",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Habilitaciones Aprobadas",
+  "type": "dataset",
+  "url": "https://data.buenosaires.gob.ar/dataset/habilitaciones-aprobadas",
+  "version": null
+}

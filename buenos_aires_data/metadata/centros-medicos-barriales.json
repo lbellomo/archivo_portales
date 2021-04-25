@@ -1,0 +1,233 @@
+{
+  "author": "Ministerio de Salud",
+  "author_email": "datosabiertos@buenosaires.gob.ar",
+  "creator_user_id": "e4546f46-e966-493c-b2f1-57318502c41b",
+  "extras": [
+    {
+      "key": "Documentación",
+      "value": ""
+    },
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P1Y"
+    },
+    {
+      "key": "country",
+      "value": "None"
+    },
+    {
+      "key": "district",
+      "value": ""
+    },
+    {
+      "key": "home_featured",
+      "value": "false"
+    },
+    {
+      "key": "issued",
+      "value": "2019-01-08T14:58:39.182438"
+    },
+    {
+      "key": "language",
+      "value": "[]"
+    },
+    {
+      "key": "modified",
+      "value": "2020-12-17T12:34:10.192711"
+    },
+    {
+      "key": "province",
+      "value": ""
+    },
+    {
+      "key": "source",
+      "value": "Subgerencia de Información Geoespacial. DG Ciencias de la Información. SS de Políticas Públicas Basadas en Evidencia. Secretaría de Innovación y Transformación Digital. Jefatura de Gabinete de Ministros"
+    },
+    {
+      "key": "spatial",
+      "value": "None"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"HEAL\"]"
+    },
+    {
+      "key": "temporal",
+      "value": ""
+    }
+  ],
+  "groups": [
+    {
+      "description": "",
+      "display_name": "Salud",
+      "id": "0be192e9-f1b7-4308-bb9a-f362e2ff44a6",
+      "image_display_url": "https://data.buenosaires.gob.ar/uploads/group/2019-11-16-145030.020776salud.png",
+      "name": "salud",
+      "title": "Salud"
+    }
+  ],
+  "id": "juqdkmgo-49",
+  "isopen": true,
+  "license_id": "CC-BY-2.5-AR",
+  "license_title": "Atribucion 2.5 Argentina (CC BY 2.5 AR)",
+  "license_url": "https://creativecommons.org/licenses/by/2.5/ar ",
+  "maintainer": "Gerencia Operativa de Ingeniería de Datos. DG Arquitectura de Datos. SS de Políticas Públicas Basadas en Evidencia. Secretaría de Innovación y Transformación Digital. Jefatura de Gabinete de Ministros",
+  "maintainer_email": "datosabiertos@buenosaires.gob.ar",
+  "metadata_created": "2019-12-11T18:32:41.843250",
+  "metadata_modified": "2020-12-17T15:43:51.306311",
+  "name": "centros-medicos-barriales",
+  "notes": "Ubicación geográfica de los Centros médicos barriales de la Ciudad.",
+  "num_resources": 4,
+  "num_tags": 4,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-11-15T19:17:04.156344",
+    "description": "",
+    "id": "c055e91b-2714-47e4-b47e-6bb063f32776",
+    "image_url": "",
+    "is_organization": true,
+    "name": "ministerio-de-salud",
+    "revision_id": "b72e4fc3-266f-4a53-bbd7-690b4ccff688",
+    "state": "active",
+    "title": "Ministerio de Salud",
+    "type": "organization"
+  },
+  "owner_org": "c055e91b-2714-47e4-b47e-6bb063f32776",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/centros-medicos-barriales",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-01-08T14:58:39.182438",
+      "datastore_active": false,
+      "description": "Ubicación geográfica de los centros médicos barriales.",
+      "fileName": "centros-medicos-barriales.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "juqdkmgo-491-resource",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Centros médicos barriales",
+      "package_id": "juqdkmgo-49",
+      "position": 0,
+      "resource_type": "file",
+      "revision_id": "925c76d0-4007-4320-bfb0-602aa9547be6",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/centros-medicos-barriales/centros-medicos-barriales.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/centros-medicos-barriales",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-01-08T14:58:39.182438",
+      "datastore_active": false,
+      "description": "Archivo shapefile de los Centros médicos barriales",
+      "fileName": "centros-medicos-barriales-zip.zip",
+      "format": "ZIP",
+      "hash": "",
+      "id": "juqdkmgo-492-resource",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Centros médicos barriales (SHP)",
+      "package_id": "juqdkmgo-49",
+      "position": 1,
+      "resource_type": "file",
+      "revision_id": "d9cf1197-ea49-4788-8c7f-c659021a4514",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/centros-medicos-barriales/centros-medicos-barriales-zip.zip",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/49/resource/11a1695c-636d-4d75-a8c0-3ec3d8e5c7bf",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-10-22T15:35:35.055847",
+      "datastore_active": false,
+      "description": "Archivo GeoJSON de los Centros Médicos Barriales",
+      "fileName": "centros-medicos-barriales.geojson",
+      "format": "GeoJSON",
+      "hash": "",
+      "id": "11a1695c-636d-4d75-a8c0-3ec3d8e5c7bf",
+      "last_modified": "2019-10-22T15:35:35.055847",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Centros Médicos Barriales (GeoJSON)",
+      "package_id": "juqdkmgo-49",
+      "position": 2,
+      "resource_type": "file",
+      "revision_id": "e06dffe6-210c-424f-913e-71bf0a4e4da3",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/centros-medicos-barriales/centros-medicos-barriales.geojson",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/centros-medicos-barriales",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-01-08T14:58:39.182438",
+      "datastore_active": false,
+      "description": "Ubicación geográfica de los centros médicos barriales.",
+      "fileName": "centros-medicos-barriales.xlsx",
+      "format": "XLSX",
+      "hash": "",
+      "id": "juqdkmgo-491-resource-xlsx",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Centros médicos barriales (XLSX)",
+      "package_id": "juqdkmgo-49",
+      "position": 3,
+      "resource_type": "file",
+      "revision_id": "366345e6-bc9c-4f5c-8bad-f2055913bb8a",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/centros-medicos-barriales/centros-medicos-barriales.xlsx",
+      "url_type": null
+    }
+  ],
+  "revision_id": "bec711e8-f23e-4693-afc2-94aa1c3c65e2",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "mapa",
+      "id": "2c83da8e-2e03-47e6-aee4-bb965600000d",
+      "name": "mapa",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "salud",
+      "id": "92c7f3e1-f781-4b82-a933-7408e37b3687",
+      "name": "salud",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "servicios",
+      "id": "5fd98d91-e466-49b9-9b08-8a43e2068a8b",
+      "name": "servicios",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "vacunas",
+      "id": "c1bc3f42-70ed-41b1-b8ca-7a51cfd4639d",
+      "name": "vacunas",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Centros Médicos Barriales",
+  "type": "dataset",
+  "url": "https://data.buenosaires.gob.ar/dataset/centros-medicos-barriales",
+  "version": null
+}

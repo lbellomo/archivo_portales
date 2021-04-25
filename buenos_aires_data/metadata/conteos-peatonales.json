@@ -1,0 +1,268 @@
+{
+  "author": "Ministerio de Desarrollo Urbano y Transporte. Secretaría Transporte. SS Tránsito y Transporte. DG Planificación de la Movilidad.",
+  "author_email": "gobiernoabierto@buenosaires.gob.ar",
+  "creator_user_id": "e4546f46-e966-493c-b2f1-57318502c41b",
+  "extras": [
+    {
+      "key": "Documentación",
+      "value": ""
+    },
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P6M"
+    },
+    {
+      "key": "country",
+      "value": "ARG"
+    },
+    {
+      "key": "district",
+      "value": ""
+    },
+    {
+      "key": "home_featured",
+      "value": "false"
+    },
+    {
+      "key": "issued",
+      "value": "2019-12-16T16:34:09.190036"
+    },
+    {
+      "key": "language",
+      "value": "[\"spa\"]"
+    },
+    {
+      "key": "modified",
+      "value": "2019-12-16T16:34:09.190036"
+    },
+    {
+      "key": "province",
+      "value": "02"
+    },
+    {
+      "key": "source",
+      "value": "Ministerio de Desarrollo Urbano y Transporte. Secretaría Transporte. SS Tránsito y Transporte. DG Planificación de la Movilidad."
+    },
+    {
+      "key": "spatial",
+      "value": "ARG,02"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"TRAN\"]"
+    },
+    {
+      "key": "temporal",
+      "value": ""
+    }
+  ],
+  "groups": [
+    {
+      "description": "",
+      "display_name": "Movilidad",
+      "id": "e616e02e-64d8-4fb0-b55d-08e75eb58376",
+      "image_display_url": "https://data.buenosaires.gob.ar/uploads/group/2019-11-16-145017.234366movilidad.png",
+      "name": "movilidad",
+      "title": "Movilidad"
+    }
+  ],
+  "id": "27155a37-d326-4024-a4b8-33e8b0d5cf89",
+  "isopen": true,
+  "license_id": "CC-BY-2.5-AR",
+  "license_title": "Atribucion 2.5 Argentina (CC BY 2.5 AR)",
+  "license_url": "https://creativecommons.org/licenses/by/2.5/ar ",
+  "maintainer": "Secretaría General y Relaciones Internacionales. Subsecretaría Gestión Estratégica y Calidad Institucional. Dirección General Calidad Institucional y Gobierno Abierto.",
+  "maintainer_email": "gobiernoabierto@buenosaires.gob.ar",
+  "metadata_created": "2019-12-16T19:34:09.214419",
+  "metadata_modified": "2020-12-17T15:58:33.009189",
+  "name": "conteos-peatonales",
+  "notes": "Información de conteo sobre el paso de peatones en diferentes cruces de calles de la Ciudad.",
+  "num_resources": 4,
+  "num_tags": 5,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-11-15T19:19:49.916928",
+    "description": "",
+    "id": "56b60b46-a47c-48fb-9bd4-c2ad0e05fef2",
+    "image_url": "",
+    "is_organization": true,
+    "name": "transporte-y-obras-publicas",
+    "revision_id": "c33c86a3-e197-468f-8b66-5b943b3bf106",
+    "state": "active",
+    "title": "Secretaría de Transporte y Obras Públicas",
+    "type": "organization"
+  },
+  "owner_org": "56b60b46-a47c-48fb-9bd4-c2ad0e05fef2",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "",
+      "accessURL_field": "",
+      "attributesDescription": "[{\"title\":\"dia\",\"description\":\"Día de la semana que se realizó el relevamiento\",\"type\":\"string\"},{\"title\":\"fecha\",\"description\":\"Fecha en que se realizó el relevamiento.\",\"type\":\"date\"},{\"title\":\"tipo_conteo\",\"description\":\"Técnica de estudio utilizada\",\"type\":\"string\"},{\"title\":\"lat\",\"description\":\"Latitud de la ubicación del relevamiento realizado\",\"type\":\"string\"},{\"title\":\"long\",\"description\":\"Longitud de la ubicación del relevamiento realizado\",\"type\":\"string\"},{\"title\":\"interseccion\",\"description\":\"Calles o avenidas donde se hizo el estudio\",\"type\":\"string\"},{\"title\":\"tiempo\",\"description\":\"Duración del estudio\",\"type\":\"string\"},{\"title\":\"volumen_cruce_debido_peatones_x_hora\",\"description\":\"Cantidad de personas que cruzaron correctamente (Dentro de la trayectoria de la senda peatonal o de la señal semafórica). Valores expresado en peatones / hora.\",\"type\":\"integer\"},{\"title\":\"volumen_cruce_indebido_peatones_x_hora\",\"description\":\"Cantidad de personas que cruzaron correctamente (Fuera de la trayectoria de la senda peatonal o de la señal semafórica). Valores expresado en peatones / hora.\",\"type\":\"integer\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-12-16T20:00:43.317736",
+      "datastore_active": false,
+      "description": "Información de paso de peatones en diferentes puntos de la Ciudad.",
+      "fileName": "conteos-peatonales.csv",
+      "format": "CSV",
+      "has-uploaded-file": "",
+      "hash": "",
+      "icon_url": "",
+      "id": "8c3c8bb8-82eb-4d3e-8910-6581f472494d",
+      "issued": "2019-12-16T17:00:43.273817",
+      "last_modified": null,
+      "license_id": "CC-BY-2.5-AR",
+      "mimetype": "text/csv",
+      "mimetype_inner": null,
+      "modified": "2019-12-16T17:00:43.273817",
+      "name": "Conteos Peatonales",
+      "package_id": "27155a37-d326-4024-a4b8-33e8b0d5cf89",
+      "position": 0,
+      "resource_type": "file",
+      "revision_id": "e20ba375-addf-451b-921a-0de63484b4c0",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/conteos-peatonales/conteos-peatonales.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "",
+      "accessURL_field": "",
+      "attributesDescription": "[]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-12-16T20:01:36.991086",
+      "datastore_active": false,
+      "description": "Archivo shapefile con la información del paso de peatones en diferentes puntos de la Ciudad.",
+      "fileName": "conteos-peatonales.xlsx",
+      "format": "XLSX",
+      "has-uploaded-file": "",
+      "hash": "",
+      "icon_url": "",
+      "id": "9a9543ec-d07d-421f-9dd1-a2e8ac6bbe75",
+      "issued": "2019-12-16T17:01:36.783186",
+      "last_modified": null,
+      "license_id": "CC-BY-2.5-AR",
+      "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "mimetype_inner": null,
+      "modified": "2019-12-16T17:01:36.783186",
+      "name": "Conteos Peatonales (XLSX)",
+      "package_id": "27155a37-d326-4024-a4b8-33e8b0d5cf89",
+      "position": 1,
+      "resource_type": "file",
+      "revision_id": "d2758459-120c-40d8-8779-9814ddc4227d",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/conteos-peatonales/conteos-peatonales.xlsx",
+      "url_type": null
+    },
+    {
+      "accessURL": "",
+      "accessURL_field": "",
+      "attributesDescription": "[]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-12-16T20:02:41.274661",
+      "datastore_active": false,
+      "description": "Archivo shapefile con la información de paso de peatones en diferentes puntos de la Ciudad.",
+      "fileName": "conteos-peatonales.zip",
+      "format": "ZIP",
+      "has-uploaded-file": "",
+      "hash": "",
+      "icon_url": "",
+      "id": "8fc07e51-cf56-4d41-8ae9-95428530fe14",
+      "issued": "2019-12-16T17:02:41.227944",
+      "last_modified": null,
+      "license_id": "CC-BY-2.5-AR",
+      "mimetype": "application/zip",
+      "mimetype_inner": null,
+      "modified": "2019-12-16T17:02:41.227944",
+      "name": "Conteos Peatonales (SHP)",
+      "package_id": "27155a37-d326-4024-a4b8-33e8b0d5cf89",
+      "position": 2,
+      "resource_type": "file",
+      "revision_id": "9f14a90e-a517-475f-aa42-f9abade33455",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/conteos-peatonales/conteos-peatonales.zip",
+      "url_type": null
+    },
+    {
+      "accessURL": "",
+      "accessURL_field": "",
+      "attributesDescription": "[]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-12-16T20:03:39.066422",
+      "datastore_active": false,
+      "description": "Archivo GeoJSON con la información del paso de peatones en diferentes puntos de la Ciudad.",
+      "fileName": "conteos-peatonales.geojson",
+      "format": "GeoJSON",
+      "has-uploaded-file": "",
+      "hash": "",
+      "icon_url": "",
+      "id": "f518606c-c5f6-4d8f-ae46-3ebf038c2aba",
+      "issued": "2019-12-16T17:03:39.019746",
+      "last_modified": null,
+      "license_id": "CC-BY-2.5-AR",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "modified": "2019-12-16T17:03:39.019746",
+      "name": "Conteos Peatonales (GeoJSON)",
+      "package_id": "27155a37-d326-4024-a4b8-33e8b0d5cf89",
+      "position": 3,
+      "resource_type": "file",
+      "revision_id": "440d92c1-f5ec-4f91-8f9c-e7f94e173cbb",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/conteos-peatonales/conteos-peatonales.geojson",
+      "url_type": null
+    }
+  ],
+  "revision_id": "d1921781-5e51-4830-a48a-91c28bda7bad",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "caminabilidad",
+      "id": "67107552-b4f5-45e7-9d78-275ae3c56b66",
+      "name": "caminabilidad",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "circulación",
+      "id": "b637acb0-4751-4dd3-8dbd-3adc9ac5606a",
+      "name": "circulación",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "conteos",
+      "id": "e2f24085-be0c-4af7-923c-f5c50bc8862d",
+      "name": "conteos",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "cruces indebidos",
+      "id": "5d5e46a6-fde8-4593-b654-bd65e378b4ff",
+      "name": "cruces indebidos",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "peatones",
+      "id": "297907bf-e4e4-4f99-ace9-83cd235013d1",
+      "name": "peatones",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Conteos Peatonales",
+  "type": "dataset",
+  "url": "https://data.buenosaires.gob.ar/dataset/conteos-peatonales",
+  "version": null
+}

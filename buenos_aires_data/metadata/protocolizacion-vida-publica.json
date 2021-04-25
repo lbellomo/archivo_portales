@@ -1,0 +1,196 @@
+{
+  "author": "Ministerio de Espacio Público e Higiene Urbana",
+  "author_email": "",
+  "creator_user_id": "931fac92-738f-4472-b1c1-f5c2f6e46af3",
+  "extras": [
+    {
+      "key": "Documentación",
+      "value": ""
+    },
+    {
+      "key": "accrualPeriodicity",
+      "value": "eventual"
+    },
+    {
+      "key": "country",
+      "value": "ARG"
+    },
+    {
+      "key": "district",
+      "value": ""
+    },
+    {
+      "key": "home_featured",
+      "value": "false"
+    },
+    {
+      "key": "issued",
+      "value": "2020-11-19T15:11:57.802785"
+    },
+    {
+      "key": "language",
+      "value": "[\"spa\"]"
+    },
+    {
+      "key": "modified",
+      "value": "2020-11-19"
+    },
+    {
+      "key": "province",
+      "value": ""
+    },
+    {
+      "key": "source",
+      "value": "Ministerio de Espacio Público e Higiene Urbana"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"GOVE\"]"
+    },
+    {
+      "key": "temporal",
+      "value": ""
+    }
+  ],
+  "groups": [
+    {
+      "description": "Datasets relacionados a COVID-19",
+      "display_name": "COVID-19",
+      "id": "0f30f631-df60-4d33-aedb-96c9a48a2332",
+      "image_display_url": "https://data.buenosaires.gob.ar/uploads/group/2020-07-23-165939.349779iconocovid19.png",
+      "name": "covid-19",
+      "title": "COVID-19"
+    },
+    {
+      "description": "Datos abiertos relacionados al Desarrollo Humano",
+      "display_name": "Desarrollo Humano",
+      "id": "9d791ab5-130b-4bdb-bebf-b14cf2528781",
+      "image_display_url": "https://data.buenosaires.gob.ar/uploads/group/2020-01-31-175946.842561desarrollo-humano.png",
+      "name": "desarrollo-humano",
+      "title": "Desarrollo Humano"
+    }
+  ],
+  "id": "c51357b4-f8ed-4f55-aef6-8efb153d112d",
+  "isopen": true,
+  "license_id": "CC-BY-2.5-AR",
+  "license_title": "Atribucion 2.5 Argentina (CC BY 2.5 AR)",
+  "license_url": "https://creativecommons.org/licenses/by/2.5/ar ",
+  "maintainer": "Subsecretaría de Políticas Públicas Basadas en Evidencia. DG Arquitectura de Datos",
+  "maintainer_email": "",
+  "metadata_created": "2020-11-19T18:11:50.264315",
+  "metadata_modified": "2020-11-19T18:31:33.631214",
+  "name": "protocolizacion-vida-publica",
+  "notes": "Información sobre la intervención en el espacio público durante la gestión de la pandemia por COVID-19.",
+  "num_resources": 2,
+  "num_tags": 3,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-11-15T19:16:29.440170",
+    "description": "",
+    "id": "d3293f04-e51f-4235-95ca-ee4566322496",
+    "image_url": "",
+    "is_organization": true,
+    "name": "ministerio-de-espacio-publico-e-higiene-urbana",
+    "revision_id": "d10fc1d4-0543-46ca-b027-a9ebc285c6b3",
+    "state": "active",
+    "title": "Ministerio de Espacio Público e Higiene Urbana",
+    "type": "organization"
+  },
+  "owner_org": "d3293f04-e51f-4235-95ca-ee4566322496",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "",
+      "accessURL_field": "",
+      "attributesDescription": "[{\"title\":\"Centros comerciales barriales peatonales\",\"description\":\"Nombre del centro comercial barrial peatonalizado.\",\"type\":\"string\"},{\"title\":\"CENTROS COMERCIALES BARRIALES PEATONALES\",\"description\":\"Días de atención\",\"type\":\"string\"},{\"title\":\"Horarios\",\"description\":\"Horarios de atención\",\"type\":\"string\"},{\"title\":\"WKT\",\"description\":\"Geometría de localización\",\"type\":\"object\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2020-11-19T18:23:53.159981",
+      "datastore_active": false,
+      "description": "Cantidad de Centros Comerciales barriales peatonalizados.",
+      "fileName": "",
+      "format": "CSV",
+      "has-uploaded-file": "",
+      "hash": "",
+      "icon_url": "",
+      "id": "ea59b637-48ed-4670-804c-d1941b5db98d",
+      "issued": "2020-11-19T18:23:53.159981",
+      "last_modified": "2020-11-19T00:00:00",
+      "license_id": "CC-BY-4.0",
+      "mimetype": "text/csv",
+      "mimetype_inner": null,
+      "modified": "2020-11-19T15:31:33.611206",
+      "name": "Centros barriales peatonalizados",
+      "package_id": "c51357b4-f8ed-4f55-aef6-8efb153d112d",
+      "position": 0,
+      "resource_type": "file",
+      "revision_id": "d52b888b-2769-49a4-9234-de6fb23b4836",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/espacio-publico-e-higiene-urbana/protocolizacion-vida-publica/cc_barriales_peatonalizados.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "",
+      "accessURL_field": "",
+      "attributesDescription": "[{\"title\":\"Intervenciones sobre veredas\",\"description\":\"Intervenciones sobre veredas por motivos de la pandemia.\",\"type\":\"string\"},{\"title\":\"WKT\",\"description\":\"Geometría de localización\",\"type\":\"object\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2020-11-19T18:23:57.307141",
+      "datastore_active": false,
+      "description": "Cantidad de intervenciones sobre veredas de alto transito por motivo de la pandemia",
+      "fileName": "",
+      "format": "CSV",
+      "has-uploaded-file": "",
+      "hash": "",
+      "icon_url": "",
+      "id": "e16dc8d4-7d9d-4181-9b8a-80c3bcf0fdb3",
+      "issued": "2020-11-19T18:23:57.307141",
+      "last_modified": "2020-11-19T00:00:00",
+      "license_id": "CC-BY-4.0",
+      "mimetype": "text/csv",
+      "mimetype_inner": null,
+      "modified": "2020-11-19T15:31:29.204649",
+      "name": "Intervenciones de veredas",
+      "package_id": "c51357b4-f8ed-4f55-aef6-8efb153d112d",
+      "position": 1,
+      "resource_type": "file",
+      "revision_id": "7237a542-1260-4a06-ad7a-6ce6aeebe74b",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/espacio-publico-e-higiene-urbana/protocolizacion-vida-publica/intervenciones_veredas.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "b6f47c23-994b-4ea2-bdca-903a6a669d66",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "protocolizacion",
+      "id": "56933e69-9006-4bf2-83b2-fc1e11c9b5c6",
+      "name": "protocolizacion",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "publica",
+      "id": "041ca4fc-afd2-4258-9580-a3ddbcb1a89f",
+      "name": "publica",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "vida",
+      "id": "aef2b90e-098f-43af-9ba3-b53e03a0b73d",
+      "name": "vida",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Protocolización de la vida pública",
+  "type": "dataset",
+  "url": "https://data.buenosaires.gob.ar/dataset/protocolizacion-vida-publica",
+  "version": null
+}

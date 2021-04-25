@@ -1,0 +1,207 @@
+{
+  "author": "Dirección General de Competencias Comunales y Talleres. Subsecretaría Gestión Comunal. Secretaría Atención Ciudadana y Gestión Comunal",
+  "author_email": "datosabiertos@buenosaires.gob.ar",
+  "creator_user_id": "e4546f46-e966-493c-b2f1-57318502c41b",
+  "extras": [
+    {
+      "key": "Documentación",
+      "value": ""
+    },
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P6M"
+    },
+    {
+      "key": "country",
+      "value": "None"
+    },
+    {
+      "key": "district",
+      "value": ""
+    },
+    {
+      "key": "home_featured",
+      "value": "false"
+    },
+    {
+      "key": "issued",
+      "value": "2019-09-23T15:22:27.874490"
+    },
+    {
+      "key": "language",
+      "value": "[]"
+    },
+    {
+      "key": "modified",
+      "value": "2021-03-11T09:39:57.634572"
+    },
+    {
+      "key": "province",
+      "value": ""
+    },
+    {
+      "key": "source",
+      "value": "Dirección General de Competencias Comunales y Talleres. Subsecretaría Gestión Comunal. Secretaría Atención Ciudadana y Gestión Comunal"
+    },
+    {
+      "key": "spatial",
+      "value": "None"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"GOVE\"]"
+    },
+    {
+      "key": "temporal",
+      "value": ""
+    }
+  ],
+  "groups": [
+    {
+      "description": "",
+      "display_name": "Administración Pública",
+      "id": "8cb134a8-90ea-4e69-a96d-c03449917dc9",
+      "image_display_url": "https://data.buenosaires.gob.ar/uploads/group/2019-11-16-144810.360383adminpublica.png",
+      "name": "administracion-publica",
+      "title": "Administración Pública"
+    },
+    {
+      "description": "Datasets relacionados con urbanismo y territorio",
+      "display_name": "Urbanismo y Territorio",
+      "id": "63e162a0-3f4a-446a-a60b-601d16f36200",
+      "image_display_url": "https://data.buenosaires.gob.ar/uploads/group/2019-11-16-145056.781692urba.png",
+      "name": "urbanismo-y-territorio",
+      "title": "Urbanismo y Territorio"
+    }
+  ],
+  "id": "43313351-6f99-47e9-9b43-466659722ec1",
+  "isopen": true,
+  "license_id": "CC-BY-2.5-AR",
+  "license_title": "Atribucion 2.5 Argentina (CC BY 2.5 AR)",
+  "license_url": "https://creativecommons.org/licenses/by/2.5/ar ",
+  "maintainer": "Gerencia Operativa de Ingeniería de Datos. DG Arquitectura de Datos. SS de Políticas Públicas Basadas en Evidencia. Secretaría de Innovación y Transformación Digital. Jefatura de Gabinete de Ministros",
+  "maintainer_email": "datosabiertos@buenosaires.gob.ar",
+  "metadata_created": "2019-12-11T18:06:03.016936",
+  "metadata_modified": "2021-04-16T15:56:05.471685",
+  "name": "permisos-uso-espacio-publico-area-gastronomica",
+  "notes": "Información de los permisos de uso de espacio público para el área gastronómica otorgados por la Ciudad.",
+  "num_resources": 2,
+  "num_tags": 4,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-11-15T19:16:29.440170",
+    "description": "",
+    "id": "d3293f04-e51f-4235-95ca-ee4566322496",
+    "image_url": "",
+    "is_organization": true,
+    "name": "ministerio-de-espacio-publico-e-higiene-urbana",
+    "revision_id": "d10fc1d4-0543-46ca-b027-a9ebc285c6b3",
+    "state": "active",
+    "title": "Ministerio de Espacio Público e Higiene Urbana",
+    "type": "organization"
+  },
+  "owner_org": "d3293f04-e51f-4235-95ca-ee4566322496",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/43313351-6f99-47e9-9b43-466659722ec1/resource/2842487a-8628-4b48-be43-47f0c41d6e09",
+      "accessURL_field": "",
+      "attributesDescription": "[{\"title\":\"long\",\"description\":\"Coordenada X del punto donde se localiza el puesto expresada en coordenadas planas\",\"type\":\"string\"},{\"title\":\"lat\",\"description\":\"Coordenada Y del punto donde se localiza el puesto expresada en coordenadas planas\",\"type\":\"string\"},{\"title\":\"titular\",\"description\":\"Nombre del titular (persona física o jurídica) que solicitó el permiso\",\"type\":\"string\"},{\"title\":\"tipo_documento\",\"description\":\"Tipo de documento del titular que solicitó el permiso\",\"type\":\"string\"},{\"title\":\"nro_documento\",\"description\":\"Número de documento del titular que solicitó el permiso\",\"type\":\"integer\"},{\"title\":\"calle_nombre\",\"description\":\"Nombre de la calle donde se ubica el puesto\",\"type\":\"string\"},{\"title\":\"calle_altura\",\"description\":\"Altura de la calle donde se ubica el puesto\",\"type\":\"integer\"},{\"title\":\"nro_expediente\",\"description\":\"Número del expediente con el cual se solicitó el permiso\",\"type\":\"integer\"},{\"title\":\"anio_expediente\",\"description\":\"Año en el que se generó el expediente\",\"type\":\"integer\"},{\"title\":\"nro_dispo\",\"description\":\"Número de disposición con el permiso del uso del espacio público\",\"type\":\"integer\"},{\"title\":\"fecha_dispo\",\"description\":\"Fecha en la que se generó la disposición con el permiso del uso del espacio público\",\"type\":\"date-time\"},{\"title\":\"tipo_permiso\",\"description\":\"Tipo de permiso generado\",\"type\":\"string\"},{\"title\":\"barrio\",\"description\":\"Barrio donde se ubica el puesto\",\"type\":\"string\"},{\"title\":\"comuna\",\"description\":\"Comuna donde se ubica el puesto\",\"type\":\"integer\"},{\"title\":\"codigo_postal\",\"description\":\"Código postal correspondiente a donde se ubica el puesto\",\"type\":\"integer\"},{\"title\":\"codigo_postal_argentino\",\"description\":\"Código postal argentino correspondiente a donde se ubica el puesto\",\"type\":\"string\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-09-23T14:57:29.852580",
+      "datastore_active": true,
+      "description": "Permisos de uso de espacio público para el área gastronómica otorgados por la Ciudad. Incluye información del titular, expediente, disposición e información geográfica de la ubicación del puesto.",
+      "fileName": "",
+      "format": "CSV",
+      "has-uploaded-file": "",
+      "hash": "",
+      "icon_url": "",
+      "id": "2842487a-8628-4b48-be43-47f0c41d6e09",
+      "issued": "2019-09-23T14:57:29.852580",
+      "last_modified": "2019-09-23T14:57:29.852580",
+      "license_id": "CC-BY-4.0",
+      "mimetype": "text/csv",
+      "mimetype_inner": null,
+      "modified": "2021-03-11T09:24:55.273159",
+      "name": "Permisos de Uso del Espacio Público",
+      "package_id": "43313351-6f99-47e9-9b43-466659722ec1",
+      "position": 0,
+      "resource_type": "file",
+      "revision_id": "02562d56-a4a6-417e-8f00-6ba6c9762c80",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/ministerio-de-espacio-publico-e-higiene-urbana/permisos-uso-espacio-publico-area-gastronomica/permisos-uso-espacio-publico-gastronomicos.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/43313351-6f99-47e9-9b43-466659722ec1/resource/2842487a-8628-4b48-be43-47f0c41d6e09",
+      "accessURL_field": "",
+      "attributesDescription": "[]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-09-23T14:57:29.852580",
+      "datastore_active": true,
+      "description": "Permisos de uso de espacio público para el área gastronómica otorgados por la Ciudad. Incluye información del titular, expediente, disposición e información geográfica de la ubicación del puesto.",
+      "fileName": "",
+      "format": "XLSX",
+      "has-uploaded-file": "",
+      "hash": "",
+      "icon_url": "",
+      "id": "2842487a-8628-4b48-be43-47f0c41d6e09-xlsx",
+      "issued": "2019-09-23T14:57:29.852580",
+      "last_modified": "2019-09-23T14:57:29.852580",
+      "license_id": "CC-BY-4.0",
+      "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "mimetype_inner": null,
+      "modified": "2021-03-11T09:25:09.635421",
+      "name": "Permisos de Uso del Espacio Público (XLSX)",
+      "package_id": "43313351-6f99-47e9-9b43-466659722ec1",
+      "position": 1,
+      "resource_type": "file",
+      "revision_id": "0d9bbd46-d555-447d-96a6-3eab418bb49c",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/ministerio-de-espacio-publico-e-higiene-urbana/permisos-uso-espacio-publico-area-gastronomica/permisos-uso-espacio-publico-gastronomicos.xlsx",
+      "url_type": null
+    }
+  ],
+  "revision_id": "82ccd77c-8b22-4e46-92f7-940eb57abb9c",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "espacio público",
+      "id": "4c9fc71e-3fac-4e2c-aace-8f532ef3adf5",
+      "name": "espacio público",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "gastronomía",
+      "id": "368b954f-fb0d-49ea-ac57-ec982031be5b",
+      "name": "gastronomía",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "permisos",
+      "id": "7f29a0a7-b794-43b0-a954-3c128c62f88b",
+      "name": "permisos",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "usos",
+      "id": "db8c7dbb-bbf5-48c7-8d3f-960a9353de9c",
+      "name": "usos",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Permisos Uso Espacio Público - Área gastronómica",
+  "type": "dataset",
+  "url": "https://data.buenosaires.gob.ar/dataset/permisos-uso-espacio-publico-area-gastronomica",
+  "version": null
+}

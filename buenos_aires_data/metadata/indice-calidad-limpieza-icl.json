@@ -1,0 +1,303 @@
+{
+  "author": "Ministerio de Ambiente y Espacio Público. Subsecretaría de Higiene Urbana. Observatorio de Higiene Urbana de la Ciudad Autónoma de Buenos Aires (OHUCABA)",
+  "author_email": "gobiernoabierto@buenosaires.gob.ar",
+  "creator_user_id": "e4546f46-e966-493c-b2f1-57318502c41b",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P6M"
+    },
+    {
+      "key": "issued",
+      "value": "2019-12-02T00:00:00.000000"
+    },
+    {
+      "key": "language",
+      "value": "[\"SPA\"]"
+    },
+    {
+      "key": "modified",
+      "value": "2020-11-24"
+    },
+    {
+      "key": "source",
+      "value": "Ministerio de Ambiente y Espacio Público. Subsecretaría de Higiene Urbana. Observatorio de Higiene Urbana de la Ciudad Autónoma de Buenos Aires (OHUCABA)"
+    },
+    {
+      "key": "spatial",
+      "value": "02"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"ENVI\"]"
+    }
+  ],
+  "groups": [
+    {
+      "description": "",
+      "display_name": "Medioambiente",
+      "id": "a99c1197-8379-4a60-a6eb-8737cab5ec4f",
+      "image_display_url": "https://data.buenosaires.gob.ar/uploads/group/2019-11-16-145003.550663medioambiente.png",
+      "name": "medioambiente",
+      "title": "Medioambiente"
+    }
+  ],
+  "id": "fc78dcbe-bb60-4130-9245-62f7426b34a4",
+  "isopen": true,
+  "license_id": "CC-BY-2.5-AR",
+  "license_title": "Atribucion 2.5 Argentina (CC BY 2.5 AR)",
+  "license_url": "https://creativecommons.org/licenses/by/2.5/ar ",
+  "maintainer": "Secretaría General y Relaciones Internacionales. Subsecretaría Gestión Estratégica y Calidad Institucional. Dirección General Calidad Institucional y Gobierno Abierto",
+  "maintainer_email": "gobiernoabierto@buenosaires.gob.ar",
+  "metadata_created": "2019-12-11T18:07:54.896516",
+  "metadata_modified": "2020-11-24T15:40:17.812446",
+  "name": "indice-calidad-limpieza-icl",
+  "notes": "El Índice de Calidad de Limpieza (ICL) es una herramienta estadística diseñada por el Observatorio de Higiene Urbana de la Ciudad Aútonoma de Buenos Aires para medir objetivamente el nivel de limpieza de las calles y veredas de la ciudad.",
+  "num_resources": 5,
+  "num_tags": 10,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-11-19T15:00:14.850445",
+    "description": "",
+    "id": "05e1c6d9-bdaf-4393-be10-71f6078c1ca1",
+    "image_url": "",
+    "is_organization": true,
+    "name": "observatorio-higiene-urbana-caba",
+    "revision_id": "d11365a3-df1c-4622-b84b-3770be10fb46",
+    "state": "active",
+    "title": "Observatorio de Higiene Urbana de la Ciudad Autónoma de Buenos Aires (OHUCABA)",
+    "type": "organization"
+  },
+  "owner_org": "05e1c6d9-bdaf-4393-be10-71f6078c1ca1",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "http://data.buenosaires.gob.ar/dataset/fc78dcbe-bb60-4130-9245-62f7426b34a4/resource/8476f960-bc35-44af-842d-07f4c1a6e446",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-12-02T00:00:00",
+      "datastore_active": false,
+      "description": "Documento descriptivo de la metodología y los resultados de las 3 primeras mediciones realizadas",
+      "fileName": "ICL.pdf",
+      "format": "PDF",
+      "hash": "",
+      "id": "8476f960-bc35-44af-842d-07f4c1a6e446",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Documentación Índice de Calidad de Limpieza (ICL)",
+      "package_id": "fc78dcbe-bb60-4130-9245-62f7426b34a4",
+      "position": 0,
+      "resource_type": "file",
+      "revision_id": "f5bb6eed-dc83-42ae-9c45-0298fe1d3266",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/indice-calidad-limpieza/ICL.pdf",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://data.buenosaires.gob.ar/dataset/fc78dcbe-bb60-4130-9245-62f7426b34a4/resource/50accec0-154f-4ae7-ad28-87671f2f38b2",
+      "accessURL_field": "",
+      "attributesDescription": "[]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-12-02T00:00:00",
+      "datastore_active": false,
+      "description": "Resultados del ICL en la ciudad y en cada zona de limpieza para cada medición",
+      "fileName": "",
+      "format": "CSV",
+      "has-uploaded-file": "",
+      "hash": "",
+      "icon_url": "",
+      "id": "50accec0-154f-4ae7-ad28-87671f2f38b2",
+      "issued": "2019-12-02T00:00:00",
+      "last_modified": null,
+      "license_id": "CC-BY-4.0",
+      "mimetype": "text/csv",
+      "mimetype_inner": null,
+      "modified": "2020-11-24T12:39:44.879019",
+      "name": "Resultados Indice Calidad de Limpieza",
+      "package_id": "fc78dcbe-bb60-4130-9245-62f7426b34a4",
+      "position": 1,
+      "resource_type": "file",
+      "revision_id": "d85ecb22-7b0f-46dd-9d20-c38d41d0237e",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/observatorio-higiene-urbana-caba/indice-calidad-limpieza-icl/medicion-icl-por-nivel.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://data.buenosaires.gob.ar/dataset/fc78dcbe-bb60-4130-9245-62f7426b34a4/resource/8a2f98ba-c87f-4e29-a915-c96e922a4c86",
+      "accessURL_field": "",
+      "attributesDescription": "[]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-12-02T00:00:00",
+      "datastore_active": false,
+      "description": "Archivo excel de los resultados del ICL en la ciudad y en cada zona de limpieza para cada medición",
+      "fileName": "",
+      "format": "XLSX",
+      "has-uploaded-file": "",
+      "hash": "",
+      "icon_url": "",
+      "id": "8a2f98ba-c87f-4e29-a915-c96e922a4c86",
+      "issued": "2019-12-02T00:00:00",
+      "last_modified": null,
+      "license_id": "CC-BY-4.0",
+      "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "mimetype_inner": null,
+      "modified": "2020-11-24T12:39:52.244722",
+      "name": "Resultados Indice Calidad de Limpieza (XLSX)",
+      "package_id": "fc78dcbe-bb60-4130-9245-62f7426b34a4",
+      "position": 2,
+      "resource_type": "file",
+      "revision_id": "b070c0b6-c417-4cb1-b056-28f160845791",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/observatorio-higiene-urbana-caba/indice-calidad-limpieza-icl/medicion-icl-por-nivel.xlsx",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://data.buenosaires.gob.ar/dataset/fc78dcbe-bb60-4130-9245-62f7426b34a4/resource/f6ff001c-192f-449c-ac69-0dffe675243d",
+      "accessURL_field": "",
+      "attributesDescription": "[]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-12-02T00:00:00",
+      "datastore_active": false,
+      "description": "Resultados de cumplimiento por criterio del ICL en la ciudad y en cada zona de limpieza para cada medición",
+      "fileName": "",
+      "format": "CSV",
+      "has-uploaded-file": "",
+      "hash": "",
+      "icon_url": "",
+      "id": "f6ff001c-192f-449c-ac69-0dffe675243d",
+      "issued": "2019-12-02T00:00:00",
+      "last_modified": null,
+      "license_id": "CC-BY-4.0",
+      "mimetype": "text/csv",
+      "mimetype_inner": null,
+      "modified": "2020-11-24T12:40:07.898588",
+      "name": "Porcentaje cumplimiento criterios del ICL",
+      "package_id": "fc78dcbe-bb60-4130-9245-62f7426b34a4",
+      "position": 3,
+      "resource_type": "file",
+      "revision_id": "01b3570a-c824-4d94-b658-bbd50bbc7a37",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/observatorio-higiene-urbana-caba/indice-calidad-limpieza-icl/cumplimiento-por-medicion-y-nivel.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://data.buenosaires.gob.ar/dataset/fc78dcbe-bb60-4130-9245-62f7426b34a4/resource/677e2ae7-16b8-4dc7-81fe-a6508fee005c",
+      "accessURL_field": "",
+      "attributesDescription": "[]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-12-02T00:00:00",
+      "datastore_active": false,
+      "description": "Archivo excel con los resultados de cumplimiento por criterio del ICL en la ciudad y en cada zona de limpieza para cada medición",
+      "fileName": "",
+      "format": "XLSX",
+      "has-uploaded-file": "",
+      "hash": "",
+      "icon_url": "",
+      "id": "677e2ae7-16b8-4dc7-81fe-a6508fee005c",
+      "issued": "2019-12-02T00:00:00",
+      "last_modified": null,
+      "license_id": "CC-BY-4.0",
+      "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "mimetype_inner": null,
+      "modified": "2020-11-24T12:40:17.790800",
+      "name": "Porcentaje cumplimiento criterios del ICL (XLSX)",
+      "package_id": "fc78dcbe-bb60-4130-9245-62f7426b34a4",
+      "position": 4,
+      "resource_type": "file",
+      "revision_id": "8c32f83e-4c1e-4002-895c-abd532110f07",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/observatorio-higiene-urbana-caba/indice-calidad-limpieza-icl/cumplimiento-por-medicion-y-nivel.xlsx",
+      "url_type": null
+    }
+  ],
+  "revision_id": "7ca5342d-fd96-4ac0-90d4-50831ff1db41",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "ICL",
+      "id": "b59fbbcd-e59c-466f-8c84-cfda354c839e",
+      "name": "ICL",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "calidad",
+      "id": "4cce303b-3e9e-47d9-bf06-e7874f434c34",
+      "name": "calidad",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "ciudades",
+      "id": "7a5ea910-7979-4b70-88b3-0bb43e174cf1",
+      "name": "ciudades",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "higiene",
+      "id": "cd12b409-1341-44f9-8078-e701f3e1a27b",
+      "name": "higiene",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "indicador",
+      "id": "b45d3901-c594-49ea-90e6-11d566114d39",
+      "name": "indicador",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "indice",
+      "id": "9ebf18e9-53d8-45a8-9315-ddcf8a4f8393",
+      "name": "indice",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "limpieza",
+      "id": "451b146d-f30f-4d9c-b19e-4075948c4d0d",
+      "name": "limpieza",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "medición",
+      "id": "d911b86e-6007-49a4-a463-d0d41cf7400a",
+      "name": "medición",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "sostenible",
+      "id": "65029bc1-b13e-4107-b14d-a7bf697b6f0f",
+      "name": "sostenible",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "índice",
+      "id": "ac262a28-4fa9-4928-9776-424424058982",
+      "name": "índice",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Índice de Calidad de Limpieza (ICL)",
+  "type": "dataset",
+  "url": "https://data.buenosaires.gob.ar/dataset/indice-calidad-limpieza",
+  "version": null
+}

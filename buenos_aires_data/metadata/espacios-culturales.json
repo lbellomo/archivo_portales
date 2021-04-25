@@ -1,0 +1,359 @@
+{
+  "author": "Data Cultura. Ministerio de Cultura",
+  "author_email": "datosabiertos@buenosaires.gob.ar",
+  "creator_user_id": "e4546f46-e966-493c-b2f1-57318502c41b",
+  "extras": [
+    {
+      "key": "Documentación",
+      "value": ""
+    },
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P1Y"
+    },
+    {
+      "key": "country",
+      "value": "None"
+    },
+    {
+      "key": "district",
+      "value": ""
+    },
+    {
+      "key": "home_featured",
+      "value": "false"
+    },
+    {
+      "key": "issued",
+      "value": "2019-01-08T14:50:18.158293"
+    },
+    {
+      "key": "language",
+      "value": "[]"
+    },
+    {
+      "key": "modified",
+      "value": "2021-02-26T17:36:51.228882"
+    },
+    {
+      "key": "province",
+      "value": ""
+    },
+    {
+      "key": "source",
+      "value": "Data Cultura. Ministerio de Cultura"
+    },
+    {
+      "key": "spatial",
+      "value": "None"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"EDUC\"]"
+    },
+    {
+      "key": "temporal",
+      "value": ""
+    }
+  ],
+  "groups": [
+    {
+      "description": "Datasets relacionados con la cultura y el turismo",
+      "display_name": "Cultura y Turismo",
+      "id": "db2c0965-c659-4f94-8de9-41fce10f91a9",
+      "image_display_url": "https://data.buenosaires.gob.ar/uploads/group/2019-11-16-144908.071423cultura.png",
+      "name": "cultura-y-turismo",
+      "title": "Cultura y Turismo"
+    }
+  ],
+  "id": "juqdkmgo-71",
+  "isopen": true,
+  "license_id": "CC-BY-2.5-AR",
+  "license_title": "Atribucion 2.5 Argentina (CC BY 2.5 AR)",
+  "license_url": "https://creativecommons.org/licenses/by/2.5/ar ",
+  "maintainer": "Gerencia Operativa de Ingeniería de Datos. DG Arquitectura de Datos. SS de Políticas Públicas Basadas en Evidencia. Secretaría de Innovación y Transformación Digital. Jefatura de Gabinete de Ministros",
+  "maintainer_email": "datosabiertos@buenosaires.gob.ar",
+  "metadata_created": "2019-12-11T18:08:24.630891",
+  "metadata_modified": "2021-02-26T20:36:51.291323",
+  "name": "espacios-culturales",
+  "notes": "Listado de espacios culturales públicos, privados e independientes localizados en la Ciudad de Buenos Aires. Incluye bares, bibliotecas, calesitas, centros culturales, disquerías, espacios de exhibición, espacios de formación, espacios escénico, espacios ferial, librerías, monumentos y lugares históricos y salas de cine.",
+  "num_resources": 4,
+  "num_tags": 18,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-11-15T19:18:00.924241",
+    "description": "",
+    "id": "247e42eb-6f1b-4c63-8d1a-41794d0ab40d",
+    "image_url": "",
+    "is_organization": true,
+    "name": "ministerio-de-cultura",
+    "revision_id": "6b85d99d-281d-4098-b229-bbf2ac1834d9",
+    "state": "active",
+    "title": "Ministerio de Cultura",
+    "type": "organization"
+  },
+  "owner_org": "247e42eb-6f1b-4c63-8d1a-41794d0ab40d",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/espacios-culturales",
+      "accessURL_field": "",
+      "attributesDescription": "[]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-01-08T14:50:18.158293",
+      "datastore_active": false,
+      "description": "Listado de bares, bibliotecas, calesitas, centros culturales, disquerías, espacios de exhibición y formación, espacios escénico, feriales, librerías, monumentos y lugares históricos y salas de cine.",
+      "fileName": "espacios-culturales.csv",
+      "format": "CSV",
+      "has-uploaded-file": "",
+      "hash": "",
+      "icon_url": "",
+      "id": "juqdkmgo-711-resource",
+      "issued": "2019-01-08T14:50:18.158293",
+      "last_modified": null,
+      "license_id": "CC-BY-2.5-AR",
+      "mimetype": "text/csv",
+      "mimetype_inner": null,
+      "modified": "2021-01-11",
+      "name": "Espacios culturales",
+      "package_id": "juqdkmgo-71",
+      "position": 0,
+      "resource_type": "file",
+      "revision_id": "9133e1f5-db89-4e8c-94b4-64ce12588ded",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/ministerio-de-cultura/espacios-culturales/espacios-culturales.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/espacios-culturales",
+      "accessURL_field": "",
+      "attributesDescription": "[]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-01-08T14:50:18.158293",
+      "datastore_active": false,
+      "description": "Archivo shapefile con los espacios culturales de la Ciudad.",
+      "fileName": "espacios-culturales.zip",
+      "format": "ZIP",
+      "has-uploaded-file": "",
+      "hash": "",
+      "icon_url": "",
+      "id": "juqdkmgo-712-resource",
+      "issued": "2019-01-08T14:50:18.158293",
+      "last_modified": null,
+      "license_id": "CC-BY-2.5-AR",
+      "mimetype": "application/zip",
+      "mimetype_inner": null,
+      "modified": "2021-01-11",
+      "name": "Espacios culturales (SHP)",
+      "package_id": "juqdkmgo-71",
+      "position": 1,
+      "resource_type": "file",
+      "revision_id": "1189169c-7000-4257-8470-b90cc713903b",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/ministerio-de-cultura/espacios-culturales/espacios-culturales.zip",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/71/resource/20a5e95d-0f90-4cab-9267-15c1702f6f86",
+      "accessURL_field": "",
+      "attributesDescription": "[]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-09-17T13:36:16.509036",
+      "datastore_active": false,
+      "description": "Archivo GeoJSON correspondiente a los espacios culturales de la Ciudad.",
+      "fileName": "espacios-culturales.geojson",
+      "format": "GeoJSON",
+      "has-uploaded-file": "",
+      "hash": "",
+      "icon_url": "",
+      "id": "20a5e95d-0f90-4cab-9267-15c1702f6f86",
+      "issued": "2019-09-17T13:36:16.509036",
+      "last_modified": "2019-09-17T13:36:16.509036",
+      "license_id": "CC-BY-2.5-AR",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "modified": "2021-01-11",
+      "name": "Espacios culturales (GeoJSON)",
+      "package_id": "juqdkmgo-71",
+      "position": 2,
+      "resource_type": "file",
+      "revision_id": "520c872f-1eaf-4229-8a78-dfd3e17c35af",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/ministerio-de-cultura/espacios-culturales/espacios-culturales.geojson",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/espacios-culturales",
+      "accessURL_field": "",
+      "attributesDescription": "[]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-01-08T14:50:18.158293",
+      "datastore_active": false,
+      "description": "Archivo excel con los espacios culturales de la Ciudad.",
+      "fileName": "espacios-culturales.xlsx",
+      "format": "XLSX",
+      "has-uploaded-file": "",
+      "hash": "",
+      "icon_url": "",
+      "id": "juqdkmgo-711-resource-xlsx",
+      "issued": "2019-01-08T14:50:18.158293",
+      "last_modified": null,
+      "license_id": "CC-BY-2.5-AR",
+      "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "mimetype_inner": null,
+      "modified": "2021-01-11",
+      "name": "Espacios culturales (XLSX)",
+      "package_id": "juqdkmgo-71",
+      "position": 3,
+      "resource_type": "file",
+      "revision_id": "1336f027-caa9-485a-a5ef-5201962a7302",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/ministerio-de-cultura/espacios-culturales/espacios-culturales.xlsx",
+      "url_type": null
+    }
+  ],
+  "revision_id": "c140e96f-3be5-483b-b0ca-f0678991acf9",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "arte",
+      "id": "3a5b2d93-997d-455b-a554-82199c0d5d81",
+      "name": "arte",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "bares",
+      "id": "0526d3c5-bed9-4d06-8c62-fd0fea6738e9",
+      "name": "bares",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "bares notables",
+      "id": "2c77d27d-a96d-4455-b548-0fb8350b4118",
+      "name": "bares notables",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "cultura",
+      "id": "858c2db7-dc24-4528-befd-726d218675e0",
+      "name": "cultura",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "cultura-recreación",
+      "id": "bad4ecb7-dd8b-4c33-8730-a7f038f13a0f",
+      "name": "cultura-recreación",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "disquerías",
+      "id": "a367bdad-a6e0-4e88-92df-8df37d6ed9b8",
+      "name": "disquerías",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "economía",
+      "id": "20a0f20c-f7ed-48f4-b223-e343db7f9ee8",
+      "name": "economía",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "entretenimiento",
+      "id": "9d90d66b-69b0-4b62-80c5-736ab40988bd",
+      "name": "entretenimiento",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "ferias",
+      "id": "7ef60e14-3752-40c1-8e84-08aaa206e5cb",
+      "name": "ferias",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "información-geográfica",
+      "id": "9bf34b01-d7b0-438b-a001-c48dd1b08959",
+      "name": "información-geográfica",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "librerias",
+      "id": "3879b4ee-0c0e-480b-876d-5e6c96706c39",
+      "name": "librerias",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "libros",
+      "id": "6023d254-e255-48d2-b533-9c3056b93142",
+      "name": "libros",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "mapa",
+      "id": "2c83da8e-2e03-47e6-aee4-bb965600000d",
+      "name": "mapa",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "monumentos",
+      "id": "c0252a2c-c668-4294-a4a5-a80c3a399e71",
+      "name": "monumentos",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "música",
+      "id": "890d0f84-1862-4c01-9a91-6667f8ab98b7",
+      "name": "música",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "registros",
+      "id": "ac385387-032a-46f2-ba38-abb16529c234",
+      "name": "registros",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "teatro",
+      "id": "4cc03b2c-a4b8-4bd4-b060-d07d0198e0b7",
+      "name": "teatro",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "turismo",
+      "id": "efc08f7b-8ca1-4064-a808-2a2403903c99",
+      "name": "turismo",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Espacios culturales",
+  "type": "dataset",
+  "url": "https://data.buenosaires.gob.ar/dataset/espacios-culturales",
+  "version": null
+}

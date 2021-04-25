@@ -1,0 +1,268 @@
+{
+  "author": "Subsecretaría de Justicia. Secretaría de Justicia y Seguridad. Ministerio de Justicia y Seguridad",
+  "author_email": "datosabiertos@buenosaires.gob.ar",
+  "creator_user_id": "e4546f46-e966-493c-b2f1-57318502c41b",
+  "extras": [
+    {
+      "key": "Documentación",
+      "value": ""
+    },
+    {
+      "key": "accrualPeriodicity",
+      "value": "eventual"
+    },
+    {
+      "key": "country",
+      "value": "ARG"
+    },
+    {
+      "key": "district",
+      "value": ""
+    },
+    {
+      "key": "home_featured",
+      "value": "false"
+    },
+    {
+      "key": "issued",
+      "value": "2019-12-20T17:26:48.798610"
+    },
+    {
+      "key": "language",
+      "value": "[\"spa\"]"
+    },
+    {
+      "key": "modified",
+      "value": "2021-03-05T10:46:50.155313"
+    },
+    {
+      "key": "province",
+      "value": "02"
+    },
+    {
+      "key": "source",
+      "value": "Subsecretaría de Justicia. Secretaría de Justicia y Seguridad. Ministerio de Justicia y Seguridad"
+    },
+    {
+      "key": "spatial",
+      "value": "ARG,02"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"GOVE\"]"
+    },
+    {
+      "key": "temporal",
+      "value": ""
+    }
+  ],
+  "groups": [
+    {
+      "description": "",
+      "display_name": "Administración Pública",
+      "id": "8cb134a8-90ea-4e69-a96d-c03449917dc9",
+      "image_display_url": "https://data.buenosaires.gob.ar/uploads/group/2019-11-16-144810.360383adminpublica.png",
+      "name": "administracion-publica",
+      "title": "Administración Pública"
+    }
+  ],
+  "id": "e149b700-6662-472a-824d-0fa1f04080ab",
+  "isopen": true,
+  "license_id": "CC-BY-2.5-AR",
+  "license_title": "Atribucion 2.5 Argentina (CC BY 2.5 AR)",
+  "license_url": "https://creativecommons.org/licenses/by/2.5/ar ",
+  "maintainer": "Gerencia Operativa de Ingeniería de Datos. DG Arquitectura de Datos. SS de Políticas Públicas Basadas en Evidencia. Secretaría de Innovación y Transformación Digital. Jefatura de Gabinete de Ministros",
+  "maintainer_email": "datosabiertos@buenosaires.gob.ar",
+  "metadata_created": "2019-12-20T20:26:48.862307",
+  "metadata_modified": "2021-03-05T13:46:50.184043",
+  "name": "elecciones-2019",
+  "notes": "Resultados de la elección de Jefe y Vicejefe de Gobierno, Legisladores y Junta Comunal de la Ciudad de Buenos Aires, tanto para las PASO como para las elecciones generales de 2019.",
+  "num_resources": 4,
+  "num_tags": 5,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-11-15T19:17:17.612030",
+    "description": "",
+    "id": "b4408826-7d79-46fc-be96-c34b7686d50a",
+    "image_url": "",
+    "is_organization": true,
+    "name": "subsecretaria-justicia",
+    "revision_id": "8ada75f5-fb54-4a17-8fe0-03545df1c7d6",
+    "state": "active",
+    "title": "Subsecretaría de Justicia",
+    "type": "organization"
+  },
+  "owner_org": "b4408826-7d79-46fc-be96-c34b7686d50a",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "",
+      "accessURL_field": "",
+      "attributesDescription": "[]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-12-20T20:28:39.749381",
+      "datastore_active": false,
+      "description": "Resultados definitivos de las elecciones Primarias, Abiertas, Simultáneas y Obligatorias celebradas el día 11 de agosto de 2019.",
+      "fileName": "",
+      "format": "CSV",
+      "has-uploaded-file": "",
+      "hash": "",
+      "icon_url": "",
+      "id": "acc535a0-0ffd-41e9-a762-0917428e36fd",
+      "issued": "2019-12-20T17:28:39.632206",
+      "last_modified": null,
+      "license_id": "CC-BY-2.5-AR",
+      "mimetype": "text/csv",
+      "mimetype_inner": null,
+      "modified": "2019-12-20T17:34:52.197983",
+      "name": "Resultados definitivos elecciones PASO",
+      "package_id": "e149b700-6662-472a-824d-0fa1f04080ab",
+      "position": 0,
+      "resource_type": "file",
+      "revision_id": "c05b7ea3-6438-44fb-857c-9f1094ea9492",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/elecciones-2019/resultados-definitivos-paso-2019.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "",
+      "accessURL_field": "",
+      "attributesDescription": "[]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-12-20T20:29:51.290939",
+      "datastore_active": false,
+      "description": "Resultados definitivos de las elecciones generales celebradas el día 27 de octubre de 2019.",
+      "fileName": "resultados-definitivos-elecciones-generales-2019.csv",
+      "format": "CSV",
+      "has-uploaded-file": "",
+      "hash": "",
+      "icon_url": "",
+      "id": "7a5dcc1b-8142-423e-b176-2ccde3f1b323",
+      "issued": "2019-12-20T17:29:51.244180",
+      "last_modified": null,
+      "license_id": "CC-BY-2.5-AR",
+      "mimetype": "text/csv",
+      "mimetype_inner": null,
+      "modified": "2019-12-20T17:29:51.244180",
+      "name": "Resultados definitivos elecciones generales",
+      "package_id": "e149b700-6662-472a-824d-0fa1f04080ab",
+      "position": 1,
+      "resource_type": "file",
+      "revision_id": "82993f46-6c39-437e-b266-18fbf40d6fa4",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/elecciones-2019/resultados-definitivos-elecciones-generales-2019.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "",
+      "accessURL_field": "",
+      "attributesDescription": "[]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-12-20T20:31:07.989105",
+      "datastore_active": false,
+      "description": "Registro con los resultados definitivos Electores Extranjeros en las PASO",
+      "fileName": "resultados-definitivos-electores-extranjeros-paso-2019.pdf",
+      "format": "PDF",
+      "has-uploaded-file": "",
+      "hash": "",
+      "icon_url": "",
+      "id": "fe6e8580-f57d-435e-ab09-9bf07dae5e06",
+      "issued": "2019-12-20T17:31:07.941902",
+      "last_modified": null,
+      "license_id": "CC-BY-2.5-AR",
+      "mimetype": "application/pdf",
+      "mimetype_inner": null,
+      "modified": "2019-12-20T17:31:07.941902",
+      "name": "Resultados definitivos Electores Extranjeros PASO",
+      "package_id": "e149b700-6662-472a-824d-0fa1f04080ab",
+      "position": 2,
+      "resource_type": "file",
+      "revision_id": "89cb7938-5d5b-48a2-b186-4bf0e02de364",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/elecciones-2019/resultados-definitivos-electores-extranjeros-paso-2019.pdf",
+      "url_type": null
+    },
+    {
+      "accessURL": "",
+      "accessURL_field": "",
+      "attributesDescription": "[]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-12-20T20:34:05.751317",
+      "datastore_active": false,
+      "description": "Registro con los resultados definitivos elecciones generales para Electores Extranjeros",
+      "fileName": "",
+      "format": "PDF",
+      "has-uploaded-file": "",
+      "hash": "",
+      "icon_url": "",
+      "id": "11371758-2a1e-4b01-a4c0-8de6e04ff2b5",
+      "issued": "2019-12-20T17:34:05.701221",
+      "last_modified": null,
+      "license_id": "CC-BY-2.5-AR",
+      "mimetype": "application/pdf",
+      "mimetype_inner": null,
+      "modified": "2019-12-20T17:34:33.911913",
+      "name": "Resultados definitivos Electores Extranjeros elecciones generales",
+      "package_id": "e149b700-6662-472a-824d-0fa1f04080ab",
+      "position": 3,
+      "resource_type": "file",
+      "revision_id": "b32680c6-40f1-4f22-a536-b98df6437dd9",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/elecciones-2019/resultados-definitivos-electores-extranjeros-elecciones-generales-2019.pdf",
+      "url_type": null
+    }
+  ],
+  "revision_id": "f9c91ecd-bcef-45d7-90bf-983f0517323a",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "comunas",
+      "id": "50a18c19-6dda-447c-8b35-e1a4011ec47e",
+      "name": "comunas",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "elecciones",
+      "id": "3ad486da-6d69-4627-83d2-b3e21514bcbf",
+      "name": "elecciones",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "electores",
+      "id": "f3f802fc-cad7-44a3-8987-da5fcd50e23e",
+      "name": "electores",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "legisladores",
+      "id": "aa832619-c95c-48e2-ba68-eaf2a754b530",
+      "name": "legisladores",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "legislatura",
+      "id": "abc09ef1-f3c4-4731-9ec4-90e5fc45d5e9",
+      "name": "legislatura",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Elecciones 2019",
+  "type": "dataset",
+  "url": "https://data.buenosaires.gob.ar/dataset/elecciones-2019",
+  "version": null
+}

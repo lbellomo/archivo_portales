@@ -1,0 +1,290 @@
+{
+  "author": "Ministerio de Economía y Finanzas. Dirección General de Estadística y Censos",
+  "author_email": "datosabiertos@buenosaires.gob.ar",
+  "creator_user_id": "e4546f46-e966-493c-b2f1-57318502c41b",
+  "extras": [
+    {
+      "key": "Documentación",
+      "value": ""
+    },
+    {
+      "key": "accrualPeriodicity",
+      "value": "eventual"
+    },
+    {
+      "key": "country",
+      "value": "None"
+    },
+    {
+      "key": "district",
+      "value": ""
+    },
+    {
+      "key": "home_featured",
+      "value": "false"
+    },
+    {
+      "key": "issued",
+      "value": "2019-04-08T14:24:12.330813"
+    },
+    {
+      "key": "language",
+      "value": "[]"
+    },
+    {
+      "key": "modified",
+      "value": "2021-02-25T17:13:39.744091"
+    },
+    {
+      "key": "province",
+      "value": ""
+    },
+    {
+      "key": "source",
+      "value": "Ministerio de Economía y Finanzas. Dirección General de Estadística y Censos"
+    },
+    {
+      "key": "spatial",
+      "value": "None"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"ECON\",\"SOCI\"]"
+    },
+    {
+      "key": "temporal",
+      "value": ""
+    }
+  ],
+  "groups": [
+    {
+      "description": "Datos abiertos relacionados al Desarrollo Humano",
+      "display_name": "Desarrollo Humano",
+      "id": "9d791ab5-130b-4bdb-bebf-b14cf2528781",
+      "image_display_url": "https://data.buenosaires.gob.ar/uploads/group/2020-01-31-175946.842561desarrollo-humano.png",
+      "name": "desarrollo-humano",
+      "title": "Desarrollo Humano"
+    },
+    {
+      "description": "Datasets relacionados con la economía y las finanzas",
+      "display_name": "Economía y Finanzas",
+      "id": "64da4336-6da7-4494-80c0-365016597e9e",
+      "image_display_url": "https://data.buenosaires.gob.ar/uploads/group/2019-11-16-144934.521128economia.png",
+      "name": "economia-y-finanzas",
+      "title": "Economía y Finanzas"
+    }
+  ],
+  "id": "2bc4ad90-9457-4022-89ea-a74aaa1f339d",
+  "isopen": true,
+  "license_id": "CC-BY-2.5-AR",
+  "license_title": "Atribucion 2.5 Argentina (CC BY 2.5 AR)",
+  "license_url": "https://creativecommons.org/licenses/by/2.5/ar ",
+  "maintainer": "Secretaría General y Relaciones Internacionales. Subsecretaría Gestión Estratégica y Calidad Institucional. Dirección General Calidad Institucional y Gobierno Abierto",
+  "maintainer_email": "datosabiertos@buenosaires.gob.ar",
+  "metadata_created": "2019-12-11T18:26:42.529589",
+  "metadata_modified": "2021-02-25T20:13:39.757784",
+  "name": "acceso-recursos-economicos",
+  "notes": "Estadísticas de acceso a bienes de consumo y vivienda de los hogares de la Ciudad de Buenos Aires.",
+  "num_resources": 4,
+  "num_tags": 7,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-11-15T19:18:36.747317",
+    "description": "",
+    "id": "800664f9-ab56-4482-a6c8-0a1d316bf35b",
+    "image_url": "",
+    "is_organization": true,
+    "name": "direccion-general-de-estadisticas-y-censos",
+    "revision_id": "62a8b16c-0849-419d-a339-8e14d1b4a010",
+    "state": "active",
+    "title": "Dirección General de Estadísticas y Censos",
+    "type": "organization"
+  },
+  "owner_org": "800664f9-ab56-4482-a6c8-0a1d316bf35b",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/2bc4ad90-9457-4022-89ea-a74aaa1f339d/resource/7fce7591-43f7-437b-b0e0-aa28d678cdf9",
+      "accessURL_field": "",
+      "attributesDescription": "[{\"title\":\"anio\",\"description\":\"Año de la observación\",\"type\":\"integer\"},{\"title\":\"sexo_jefe_hogar\",\"description\":\"Sexo de la jefa o del jefe de hogar de la observación\",\"type\":\"string\"},{\"title\":\"relacion_ing_canasta\",\"description\":\"Relación entre los ingresos totales familiares y la canasta de consumo de la observación\",\"type\":\"string\"},{\"title\":\"porc_hogares\",\"description\":\"Porcentaje de hogares de la observación\",\"type\":\"number\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-04-09T15:40:13.615096",
+      "datastore_active": false,
+      "description": "Porcentaje de hogares según la relación ingreso total familiar- canastas respecto al total de hogares",
+      "fileName": "cond_pob_hog_annio__s_jefe__ringr_ctotcaba_limpio.csv",
+      "format": "CSV",
+      "has-uploaded-file": "",
+      "hash": "",
+      "icon_url": "",
+      "id": "7fce7591-43f7-437b-b0e0-aa28d678cdf9",
+      "issued": "2019-04-09T15:40:13.615096",
+      "last_modified": "2019-04-09T15:40:13.615096",
+      "license_id": "CC-BY-4.0",
+      "mimetype": "text/csv",
+      "mimetype_inner": null,
+      "modified": "2021-02-17",
+      "name": "Hogares según relación ingresos-Canastas de Consumo",
+      "package_id": "2bc4ad90-9457-4022-89ea-a74aaa1f339d",
+      "position": 0,
+      "resource_type": "file",
+      "revision_id": "88b3edcf-e550-46fd-bdca-ac39e2efe1a5",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/direccion-general-de-estadisticas-y-censos/acceso-recursos-economicos/cond_pob_hog_annio__s_jefe__ringr_ctotcaba_limpio.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/2bc4ad90-9457-4022-89ea-a74aaa1f339d/resource/dcea03fe-1640-4e0f-a516-e3a9007f8bb1",
+      "accessURL_field": "",
+      "attributesDescription": "[{\"title\":\"anio\",\"description\":\"Año de la observación\",\"type\":\"integer\"},{\"title\":\"sexo_jefe_hogar\",\"description\":\"Sexo de la jefa o del jefe de hogar de la observación\",\"type\":\"\"},{\"title\":\"regimen_tenencia_vivienda\",\"description\":\"Régimen de tenencia de la vivienda de la observación\",\"type\":\"string\"},{\"title\":\"porc_hogares\",\"description\":\"Porcentaje de hogares de la observación\",\"type\":\"number\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-04-09T15:50:34.623253",
+      "datastore_active": false,
+      "description": "Porcentaje de hogares según régimen de tenencia de la vivencia, respecto del total de hogares",
+      "fileName": "reg_ten_porc_annio__s_jefe__r_ten_viv_limpio.csv",
+      "format": "CSV",
+      "has-uploaded-file": "",
+      "hash": "",
+      "icon_url": "",
+      "id": "dcea03fe-1640-4e0f-a516-e3a9007f8bb1",
+      "issued": "2019-04-09T15:50:34.623253",
+      "last_modified": "2019-04-09T15:50:34.623253",
+      "license_id": "CC-BY-4.0",
+      "mimetype": "text/csv",
+      "mimetype_inner": null,
+      "modified": "2021-02-17",
+      "name": "Hogares según régimen de tenencia de la vivienda",
+      "package_id": "2bc4ad90-9457-4022-89ea-a74aaa1f339d",
+      "position": 1,
+      "resource_type": "file",
+      "revision_id": "79c779d0-0d3c-4c22-afbd-e5d5e9ea68d5",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/direccion-general-de-estadisticas-y-censos/acceso-recursos-economicos/reg_ten_porc_annio__s_jefe__r_ten_viv_limpio.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/2bc4ad90-9457-4022-89ea-a74aaa1f339d/resource/7fce7591-43f7-437b-b0e0-aa28d678cdf9",
+      "accessURL_field": "",
+      "attributesDescription": "[]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-04-09T15:40:13.615096",
+      "datastore_active": false,
+      "description": "Porcentaje de hogares según la relación ingreso total familiar- canastas respecto al total de hogares",
+      "fileName": "cond_pob_hog_annio__s_jefe__ringr_ctotcaba_limpio.xlsx",
+      "format": "XLSX",
+      "has-uploaded-file": "",
+      "hash": "",
+      "icon_url": "",
+      "id": "7fce7591-43f7-437b-b0e0-aa28d678cdf9-xlsx",
+      "issued": "2019-04-09T15:40:13.615096",
+      "last_modified": "2019-04-09T15:40:13.615096",
+      "license_id": "CC-BY-4.0",
+      "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "mimetype_inner": null,
+      "modified": "2021-02-17",
+      "name": "Hogares según relación ingresos-Canastas de Consumo (XLSX)",
+      "package_id": "2bc4ad90-9457-4022-89ea-a74aaa1f339d",
+      "position": 2,
+      "resource_type": "file",
+      "revision_id": "5e74dfc7-3e4f-47d4-89e1-fbbdc38d0480",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/direccion-general-de-estadisticas-y-censos/acceso-recursos-economicos/cond_pob_hog_annio__s_jefe__ringr_ctotcaba_limpio.xlsx",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/2bc4ad90-9457-4022-89ea-a74aaa1f339d/resource/dcea03fe-1640-4e0f-a516-e3a9007f8bb1",
+      "accessURL_field": "",
+      "attributesDescription": "[]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-04-09T15:50:34.623253",
+      "datastore_active": false,
+      "description": "Porcentaje de hogares según régimen de tenencia de la vivencia, respecto del total de hogares",
+      "fileName": "reg_ten_porc_annio__s_jefe__r_ten_viv_limpio.xlsx",
+      "format": "XLSX",
+      "has-uploaded-file": "",
+      "hash": "",
+      "icon_url": "",
+      "id": "dcea03fe-1640-4e0f-a516-e3a9007f8bb1-xlsx",
+      "issued": "2019-04-09T15:50:34.623253",
+      "last_modified": "2019-04-09T15:50:34.623253",
+      "license_id": "CC-BY-4.0",
+      "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "mimetype_inner": null,
+      "modified": "2021-02-17",
+      "name": "Hogares según régimen de tenencia de la vivienda (XLSX)",
+      "package_id": "2bc4ad90-9457-4022-89ea-a74aaa1f339d",
+      "position": 3,
+      "resource_type": "file",
+      "revision_id": "f3e4ad68-038d-494b-b6b0-24f21f8b5d29",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/direccion-general-de-estadisticas-y-censos/acceso-recursos-economicos/reg_ten_porc_annio__s_jefe__r_ten_viv_limpio.xlsx",
+      "url_type": null
+    }
+  ],
+  "revision_id": "cca6d16c-f89d-4ba3-b756-f49094a2f428",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "canasta de consumo",
+      "id": "af102363-5da1-4532-89c9-01c70612f56e",
+      "name": "canasta de consumo",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "consumo",
+      "id": "978bdcaf-6bf2-4d24-8b48-214342f97a96",
+      "name": "consumo",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "estadísticas",
+      "id": "c9863839-6848-4258-ad85-5c64916d1fa7",
+      "name": "estadísticas",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "género",
+      "id": "983afd4b-d371-4cfb-add2-467b355c0578",
+      "name": "género",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "hogares",
+      "id": "a64bfeb0-e6d9-4628-9506-92916244bb3f",
+      "name": "hogares",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "ingresos",
+      "id": "625cffd6-477c-4e10-81b3-9369bbf1acb5",
+      "name": "ingresos",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "vivienda",
+      "id": "57c1b060-1ad9-42f9-bf42-9064fc6bf2de",
+      "name": "vivienda",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Acceso a recursos económicos",
+  "type": "dataset",
+  "url": "https://data.buenosaires.gob.ar/dataset/acceso-a-recursos-economicos",
+  "version": null
+}

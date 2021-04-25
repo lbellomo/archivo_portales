@@ -1,0 +1,352 @@
+{
+  "author": "Dirección General de Calidad Institucional y Gobierno Abierto- Subsecretaría de Gestión Estratégica y Calidad Institucional- Secretaría general y de Relaciones Internacionales",
+  "author_email": "datosabiertos@buenosaires.gob.ar",
+  "creator_user_id": "e4546f46-e966-493c-b2f1-57318502c41b",
+  "extras": [
+    {
+      "key": "Documentación",
+      "value": "https://datosgcba.github.io/bac-open-contracting/"
+    },
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P0.5M"
+    },
+    {
+      "key": "country",
+      "value": "None"
+    },
+    {
+      "key": "district",
+      "value": ""
+    },
+    {
+      "key": "home_featured",
+      "value": "false"
+    },
+    {
+      "key": "issued",
+      "value": "2019-04-01T20:23:27.434803"
+    },
+    {
+      "key": "language",
+      "value": "[]"
+    },
+    {
+      "key": "modified",
+      "value": "2021-03-11T17:33:51.992573"
+    },
+    {
+      "key": "province",
+      "value": ""
+    },
+    {
+      "key": "source",
+      "value": "Ministerio de Economía y Finanzas . Subsecretaría de Gestión Operativa. Dirección General de Compras y Contrataciones"
+    },
+    {
+      "key": "spatial",
+      "value": "None"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"ECON\"]"
+    },
+    {
+      "key": "temporal",
+      "value": ""
+    }
+  ],
+  "groups": [
+    {
+      "description": "",
+      "display_name": "Administración Pública",
+      "id": "8cb134a8-90ea-4e69-a96d-c03449917dc9",
+      "image_display_url": "https://data.buenosaires.gob.ar/uploads/group/2019-11-16-144810.360383adminpublica.png",
+      "name": "administracion-publica",
+      "title": "Administración Pública"
+    },
+    {
+      "description": "Datasets relacionados con la economía y las finanzas",
+      "display_name": "Economía y Finanzas",
+      "id": "64da4336-6da7-4494-80c0-365016597e9e",
+      "image_display_url": "https://data.buenosaires.gob.ar/uploads/group/2019-11-16-144934.521128economia.png",
+      "name": "economia-y-finanzas",
+      "title": "Economía y Finanzas"
+    }
+  ],
+  "id": "4cc16b16-cb04-47a4-a7dc-ffb354d0dcb1",
+  "isopen": true,
+  "license_id": "CC-BY-2.5-AR",
+  "license_title": "Atribucion 2.5 Argentina (CC BY 2.5 AR)",
+  "license_url": "https://creativecommons.org/licenses/by/2.5/ar ",
+  "maintainer": "Gerencia Operativa de Ingeniería de Datos. DG Arquitectura de Datos. SS de Políticas Públicas Basadas en Evidencia. Secretaría de Innovación y Transformación Digital. Jefatura de Gabinete de Ministros",
+  "maintainer_email": "datosabiertos@buenosaires.gob.ar",
+  "metadata_created": "2019-12-11T18:19:13.829739",
+  "metadata_modified": "2021-03-11T20:33:52.006774",
+  "name": "buenos-aires-compras",
+  "notes": "Información correspondiente a los procesos de compras llevados a cabo por las diferentes reparticiones del Gobierno de la Ciudad de Buenos Aires a través del sistema Buenos Aires Compras (BAC) publicada bajo el Estándar de Datos Para las Contrataciones Abiertas (Open Contracting Data Standard - Open Contracting Partnership). Los datos corresponden a todos los bienes y servicios adquiridos por el Gobierno de la Ciudad a través del sistema BAC.",
+  "num_resources": 6,
+  "num_tags": 7,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-11-15T19:19:36.584582",
+    "description": "",
+    "id": "6627a918-f475-43bb-b167-11de01ae62df",
+    "image_url": "",
+    "is_organization": true,
+    "name": "ministerio-de-economia-y-finanzas",
+    "revision_id": "57d30234-7d4b-4b19-a2fa-1a57afc0e03b",
+    "state": "active",
+    "title": "Ministerio de Hacienda y Finanzas",
+    "type": "organization"
+  },
+  "owner_org": "6627a918-f475-43bb-b167-11de01ae62df",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/4cc16b16-cb04-47a4-a7dc-ffb354d0dcb1/resource/2a3d077c-71b6-4ba7-8924-f3e38cf1b8fc",
+      "accessURL_field": "",
+      "attributesDescription": "[]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-11-20T10:21:31.503445",
+      "datastore_active": false,
+      "description": "Detalle de los procesos de compras gestionados a través del sistema Buenos Aires Compras desde el 2011 a la actualidad",
+      "fileName": "",
+      "format": "JSON",
+      "has-uploaded-file": "",
+      "hash": "",
+      "icon_url": "",
+      "id": "2a3d077c-71b6-4ba7-8924-f3e38cf1b8fc",
+      "issued": "2019-11-20T10:21:31.503445",
+      "last_modified": "2019-11-20T10:21:31.503445",
+      "license_id": "CC-BY-2.5-AR",
+      "mimetype": "application/zip",
+      "mimetype_inner": null,
+      "modified": "2021-02-26T16:39:34.589864",
+      "name": "Buenos Aires Compras",
+      "package_id": "4cc16b16-cb04-47a4-a7dc-ffb354d0dcb1",
+      "position": 0,
+      "resource_type": "file",
+      "revision_id": "086a47ad-8e08-437d-a7f6-08ec94f2c53c",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/buenos-aires-compras-open-contracting/2020-8-12-bsas_release_package.zip",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/4cc16b16-cb04-47a4-a7dc-ffb354d0dcb1/resource/f8eb531f-120c-4e91-bd5d-d43bb28cc696",
+      "accessURL_field": "",
+      "attributesDescription": "[]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-08-06T16:20:07.942042",
+      "datastore_active": false,
+      "description": "Información de la etapa de Convocatoria correspondiente a los procesos de compras y contrataciones de bienes y servicios gestionados a través del sistema BAC.",
+      "fileName": "",
+      "format": "CSV",
+      "has-uploaded-file": "",
+      "hash": "",
+      "icon_url": "",
+      "id": "f8eb531f-120c-4e91-bd5d-d43bb28cc696",
+      "issued": "2019-08-06T16:20:07.942042",
+      "last_modified": "2019-08-06T16:20:07.942042",
+      "license_id": "CC-BY-4.0",
+      "mimetype": "text/csv",
+      "mimetype_inner": null,
+      "modified": "2021-02-26T12:32:21.212042",
+      "name": "Convocatoria",
+      "package_id": "4cc16b16-cb04-47a4-a7dc-ffb354d0dcb1",
+      "position": 1,
+      "resource_type": "file",
+      "revision_id": "c904a646-2d14-4fa4-8559-bfe751fe9aee",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/buenos-aires-compras-open-contracting/releases_documents_items.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/4cc16b16-cb04-47a4-a7dc-ffb354d0dcb1/resource/b7e4bae8-0e0f-4e10-8b89-3860cf5b7f1b",
+      "accessURL_field": "",
+      "attributesDescription": "[]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-08-06T16:20:30.475949",
+      "datastore_active": false,
+      "description": "Información de la etapa de Adjudicación correspondiente a los procesos de compras y contrataciones de bienes y servicios gestionados a través del sistema BAC.",
+      "fileName": "",
+      "format": "CSV",
+      "has-uploaded-file": "",
+      "hash": "",
+      "icon_url": "",
+      "id": "b7e4bae8-0e0f-4e10-8b89-3860cf5b7f1b",
+      "issued": "2019-08-06T16:20:30.475949",
+      "last_modified": "2019-08-06T16:20:30.475949",
+      "license_id": "CC-BY-4.0",
+      "mimetype": "text/csv",
+      "mimetype_inner": null,
+      "modified": "2021-02-26T12:15:40.811564",
+      "name": "Adjudicación",
+      "package_id": "4cc16b16-cb04-47a4-a7dc-ffb354d0dcb1",
+      "position": 2,
+      "resource_type": "file",
+      "revision_id": "fe2296b9-38a6-493f-95a7-2e27a7899257",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/buenos-aires-compras-open-contracting/award_documents_items.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/4cc16b16-cb04-47a4-a7dc-ffb354d0dcb1/resource/a85472d6-b949-4617-a3a0-50e25f1274b3",
+      "accessURL_field": "",
+      "attributesDescription": "[]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-08-06T16:21:38.579056",
+      "datastore_active": false,
+      "description": "Información de la etapa de Contratación correspondiente a los procesos de compras y contrataciones de bienes y servicios gestionados a través del sistema BAC.",
+      "fileName": "",
+      "format": "ZIP",
+      "has-uploaded-file": "",
+      "hash": "",
+      "icon_url": "",
+      "id": "a85472d6-b949-4617-a3a0-50e25f1274b3",
+      "issued": "2019-08-06T16:21:38.579056",
+      "last_modified": "2019-08-06T16:21:38.579056",
+      "license_id": "CC-BY-4.0",
+      "mimetype": "application/zip",
+      "mimetype_inner": null,
+      "modified": "2021-02-26T13:42:16.031080",
+      "name": "Contratación",
+      "package_id": "4cc16b16-cb04-47a4-a7dc-ffb354d0dcb1",
+      "position": 3,
+      "resource_type": "file",
+      "revision_id": "eb157f11-fdca-42f7-9868-aad0f7bd18c5",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/buenos-aires-compras-open-contracting/contracts_items.zip",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/4cc16b16-cb04-47a4-a7dc-ffb354d0dcb1/resource/bece0240-eb9b-40c4-8928-cd77c4f62704",
+      "accessURL_field": "",
+      "attributesDescription": "[]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-08-06T16:22:05.824035",
+      "datastore_active": false,
+      "description": "Información correspondiente a los participantes de los procesos de compras y contrataciones de bienes y servicios gestionados a través del sistema BAC.",
+      "fileName": "",
+      "format": "CSV",
+      "has-uploaded-file": "",
+      "hash": "",
+      "icon_url": "",
+      "id": "bece0240-eb9b-40c4-8928-cd77c4f62704",
+      "issued": "2019-08-06T16:22:05.824035",
+      "last_modified": "2019-08-06T16:22:05.824035",
+      "license_id": "CC-BY-4.0",
+      "mimetype": "text/csv",
+      "mimetype_inner": null,
+      "modified": "2021-02-26T10:32:35.763171",
+      "name": "Participantes",
+      "package_id": "4cc16b16-cb04-47a4-a7dc-ffb354d0dcb1",
+      "position": 4,
+      "resource_type": "file",
+      "revision_id": "b514c323-fac0-4910-b08d-ca62e8e3f2e9",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/buenos-aires-compras-open-contracting/parties.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/4cc16b16-cb04-47a4-a7dc-ffb354d0dcb1/resource/389532d8-cb08-440c-a50b-24bfff97fac3",
+      "accessURL_field": "",
+      "attributesDescription": "[]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-09-11T14:43:42.828319",
+      "datastore_active": false,
+      "description": "Información correspondiente a los firmantes de los contratos de provisión de bienes y/o servicios gestionados a través del sistema BAC.",
+      "fileName": "",
+      "format": "CSV",
+      "has-uploaded-file": "",
+      "hash": "",
+      "icon_url": "",
+      "id": "389532d8-cb08-440c-a50b-24bfff97fac3",
+      "issued": "2019-09-11T14:43:42.828319",
+      "last_modified": "2019-09-11T14:43:42.828319",
+      "license_id": "CC-BY-4.0",
+      "mimetype": "text/csv",
+      "mimetype_inner": null,
+      "modified": "2021-02-26T10:32:21.805596",
+      "name": "Firmantes",
+      "package_id": "4cc16b16-cb04-47a4-a7dc-ffb354d0dcb1",
+      "position": 5,
+      "resource_type": "file",
+      "revision_id": "82e07a9b-8360-492c-8b96-af7f45d59da9",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/buenos-aires-compras-open-contracting/con_signatories.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "67e8c8d6-9cb2-4c84-b0a3-45600bfa6169",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "bac",
+      "id": "df3debe6-6a5a-4e36-99f2-4af926e45a8e",
+      "name": "bac",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "bienes",
+      "id": "9fd0be4a-b97d-4383-b9ed-144804cb5e4e",
+      "name": "bienes",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "compras",
+      "id": "9d4fc520-47fd-41fc-a35a-519e6d8a98f9",
+      "name": "compras",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "contrataciones",
+      "id": "6ce8cc58-1b41-47b6-8e4d-dbddf5feb169",
+      "name": "contrataciones",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "contratos",
+      "id": "7fd10394-5ea4-4587-9df0-31b2edff6210",
+      "name": "contratos",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "open contracting",
+      "id": "65e3d791-7b8a-40f3-8fc8-d15dc65ab7ca",
+      "name": "open contracting",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "servicios",
+      "id": "5fd98d91-e466-49b9-9b08-8a43e2068a8b",
+      "name": "servicios",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Buenos Aires Compras",
+  "type": "dataset",
+  "url": "https://www.buenosairescompras.gob.ar/",
+  "version": null
+}

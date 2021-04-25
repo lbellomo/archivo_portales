@@ -1,0 +1,202 @@
+{
+  "author": "Dirección General de Colectividades. SS Derechos Humanos y Pluralismo Cultural. Secretaría de Desarrollo Ciudadano. Vicejefatura de Gobierno",
+  "author_email": "datosabiertos@buenosaires.gob.ar",
+  "creator_user_id": "e4546f46-e966-493c-b2f1-57318502c41b",
+  "extras": [
+    {
+      "key": "Documentación",
+      "value": ""
+    },
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P1Y"
+    },
+    {
+      "key": "country",
+      "value": "None"
+    },
+    {
+      "key": "district",
+      "value": ""
+    },
+    {
+      "key": "home_featured",
+      "value": "false"
+    },
+    {
+      "key": "issued",
+      "value": "2019-04-22T17:33:52.128506"
+    },
+    {
+      "key": "language",
+      "value": "[]"
+    },
+    {
+      "key": "modified",
+      "value": "2021-03-05T10:26:31.027489"
+    },
+    {
+      "key": "province",
+      "value": ""
+    },
+    {
+      "key": "source",
+      "value": "Subgerencia de Información Geoespacial. DG Ciencias de la Información. SS de Políticas Públicas Basadas en Evidencia. Secretaría de Innovación y Transformación Digital. Jefatura de Gabinete de Ministros"
+    },
+    {
+      "key": "spatial",
+      "value": "None"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"EDUC\"]"
+    },
+    {
+      "key": "temporal",
+      "value": ""
+    }
+  ],
+  "groups": [
+    {
+      "description": "Datasets relacionados con la cultura y el turismo",
+      "display_name": "Cultura y Turismo",
+      "id": "db2c0965-c659-4f94-8de9-41fce10f91a9",
+      "image_display_url": "https://data.buenosaires.gob.ar/uploads/group/2019-11-16-144908.071423cultura.png",
+      "name": "cultura-y-turismo",
+      "title": "Cultura y Turismo"
+    }
+  ],
+  "id": "8da453ad-ccf5-4841-8b80-dd441b351427",
+  "isopen": true,
+  "license_id": "CC-BY-2.5-AR",
+  "license_title": "Atribucion 2.5 Argentina (CC BY 2.5 AR)",
+  "license_url": "https://creativecommons.org/licenses/by/2.5/ar ",
+  "maintainer": "Gerencia Operativa de Ingeniería de Datos. DG Arquitectura de Datos. SS de Políticas Públicas Basadas en Evidencia. Secretaría de Innovación y Transformación Digital. Jefatura de Gabinete de Ministros",
+  "maintainer_email": "datosabiertos@buenosaires.gob.ar",
+  "metadata_created": "2019-12-11T18:36:08.702135",
+  "metadata_modified": "2021-03-05T13:26:31.056868",
+  "name": "instituciones-colectividades",
+  "notes": "Información correspondiente a instituciones pertenecientes a diferentes colectividades en la Ciudad Autónoma de Buenos Aires.",
+  "num_resources": 3,
+  "num_tags": 3,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-11-15T19:15:14.176022",
+    "description": "",
+    "id": "cbb782e9-de0e-49de-9462-073238e616be",
+    "image_url": "",
+    "is_organization": true,
+    "name": "vicejefatura-de-gobierno",
+    "revision_id": "b25fa66f-e936-4a6f-9111-1585f0b3f210",
+    "state": "active",
+    "title": "Vicejefatura de Gobierno",
+    "type": "organization"
+  },
+  "owner_org": "cbb782e9-de0e-49de-9462-073238e616be",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/8da453ad-ccf5-4841-8b80-dd441b351427/resource/9b4cc4ac-fe9d-4304-9d2b-aef0a8431605",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-04-22T17:37:28.113383",
+      "datastore_active": false,
+      "description": "Listado de las instituciones pertenecientes a diferentes colectividades de la Ciudad. Incluye nombre, tipo, colectividad, datos de contacto y ubicación geográfica.",
+      "fileName": "instituciones-de-colectividades.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "9b4cc4ac-fe9d-4304-9d2b-aef0a8431605",
+      "last_modified": "2019-04-22T17:37:28.113383",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Instituciones de Colectividades",
+      "package_id": "8da453ad-ccf5-4841-8b80-dd441b351427",
+      "position": 0,
+      "resource_type": "file",
+      "revision_id": "6b1f7ff7-b9bc-4b9d-80b7-5f088a75a720",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/instituciones-de-colectividades/instituciones-de-colectividades.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/8da453ad-ccf5-4841-8b80-dd441b351427/resource/4ea9010a-c214-4319-b9dd-5d9b0c76cd37",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-04-22T17:38:04.818736",
+      "datastore_active": false,
+      "description": "Archivo shapefile de las instituciones de colectividades de la Ciudad.",
+      "fileName": "instituciones-de-colectividades.zip",
+      "format": "ZIP",
+      "hash": "",
+      "id": "4ea9010a-c214-4319-b9dd-5d9b0c76cd37",
+      "last_modified": "2019-04-22T17:38:04.818736",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Instituciones de Colectividades (SHP)",
+      "package_id": "8da453ad-ccf5-4841-8b80-dd441b351427",
+      "position": 1,
+      "resource_type": "file",
+      "revision_id": "e6ff0ba2-23c3-4841-9b88-1021e6b230fc",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/instituciones-de-colectividades/instituciones-de-colectividades.zip",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/8da453ad-ccf5-4841-8b80-dd441b351427/resource/9b4cc4ac-fe9d-4304-9d2b-aef0a8431605",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-04-22T17:37:28.113383",
+      "datastore_active": false,
+      "description": "Listado de las instituciones pertenecientes a diferentes colectividades de la Ciudad. Incluye nombre, tipo, colectividad, datos de contacto y ubicación geográfica.",
+      "fileName": "instituciones-de-colectividades.xlsx",
+      "format": "XLSX",
+      "hash": "",
+      "id": "9b4cc4ac-fe9d-4304-9d2b-aef0a8431605-xlsx",
+      "last_modified": "2019-04-22T17:37:28.113383",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Instituciones de Colectividades (XLSX)",
+      "package_id": "8da453ad-ccf5-4841-8b80-dd441b351427",
+      "position": 2,
+      "resource_type": "file",
+      "revision_id": "ada632ab-c48b-42b7-956c-64c0c6c4979c",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/instituciones-de-colectividades/instituciones-de-colectividades.xlsx",
+      "url_type": null
+    }
+  ],
+  "revision_id": "bc5a89ad-d5eb-4abf-8f75-dc20e2e96f0c",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "colectividades",
+      "id": "df324ee0-62a8-40f6-8bb4-1ab3332fb516",
+      "name": "colectividades",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "instituciones",
+      "id": "33e20dab-c76a-428f-92de-d5f3bc82e56c",
+      "name": "instituciones",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "sociedad",
+      "id": "d6974525-cb8b-4447-a0fa-078e70a923c8",
+      "name": "sociedad",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Instituciones de Colectividades",
+  "type": "dataset",
+  "url": "https://data.buenosaires.gob.ar/dataset/instituciones-de-colectividades",
+  "version": null
+}

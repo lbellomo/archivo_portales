@@ -1,0 +1,207 @@
+{
+  "author": "Secretaría de Innovación y Transformación Digital. Subsecretaría de Ciudad Inteligente",
+  "author_email": "datosabiertos@buenosaires.gob.ar",
+  "creator_user_id": "554feb25-14a3-4d23-8779-2d39172eb2d7",
+  "extras": [
+    {
+      "key": "Documentación",
+      "value": ""
+    },
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P1W"
+    },
+    {
+      "key": "country",
+      "value": "ARG"
+    },
+    {
+      "key": "district",
+      "value": ""
+    },
+    {
+      "key": "home_featured",
+      "value": "false"
+    },
+    {
+      "key": "issued",
+      "value": "2020-05-13T17:50:57.625834"
+    },
+    {
+      "key": "language",
+      "value": "[\"spa\"]"
+    },
+    {
+      "key": "modified",
+      "value": "2021-04-25"
+    },
+    {
+      "key": "province",
+      "value": "02"
+    },
+    {
+      "key": "source",
+      "value": ""
+    },
+    {
+      "key": "spatial",
+      "value": "ARG,02"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"GOVE\",\"HEAL\"]"
+    },
+    {
+      "key": "temporal",
+      "value": ""
+    }
+  ],
+  "groups": [
+    {
+      "description": "Datasets relacionados a COVID-19",
+      "display_name": "COVID-19",
+      "id": "0f30f631-df60-4d33-aedb-96c9a48a2332",
+      "image_display_url": "https://data.buenosaires.gob.ar/uploads/group/2020-07-23-165939.349779iconocovid19.png",
+      "name": "covid-19",
+      "title": "COVID-19"
+    },
+    {
+      "description": "",
+      "display_name": "Salud",
+      "id": "0be192e9-f1b7-4308-bb9a-f362e2ff44a6",
+      "image_display_url": "https://data.buenosaires.gob.ar/uploads/group/2019-11-16-145030.020776salud.png",
+      "name": "salud",
+      "title": "Salud"
+    }
+  ],
+  "id": "144b39bf-d55e-412c-a77a-57cb9972bf7f",
+  "isopen": true,
+  "license_id": "CC-BY-2.5-AR",
+  "license_title": "Atribucion 2.5 Argentina (CC BY 2.5 AR)",
+  "license_url": "https://creativecommons.org/licenses/by/2.5/ar ",
+  "maintainer": "",
+  "maintainer_email": "datosabiertos@buenosaires.gob.ar",
+  "metadata_created": "2020-05-13T20:34:16.621979",
+  "metadata_modified": "2021-04-25T04:00:06.933023",
+  "name": "contactos-boti-triage-covid-19",
+  "notes": "Cantidad de contactos en BOTI que realizaron el triage virtual correspondientes a la pandemia por Coronavirus por hora.",
+  "num_resources": 2,
+  "num_tags": 4,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2020-07-08T16:40:13.704581",
+    "description": "",
+    "id": "3fb66c9a-f910-48a4-a078-1b3a28954e0d",
+    "image_url": "",
+    "is_organization": true,
+    "name": "innovacion-transformacion-digital",
+    "revision_id": "56c735c5-1dd9-42ab-8799-14ff9adae8f1",
+    "state": "active",
+    "title": "Secretaria de Innovación y Transformación Digital",
+    "type": "organization"
+  },
+  "owner_org": "3fb66c9a-f910-48a4-a078-1b3a28954e0d",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "",
+      "accessURL_field": "",
+      "attributesDescription": "[{\"title\":\"fecha\",\"description\":\"Fecha en que se realizó contacto con BOTI para realizar Triage\",\"type\":\"date\"},{\"title\":\"hora\",\"description\":\"Hora del día en que se realizó contacto con BOTI para realizar Triage\",\"type\":\"integer\"},{\"title\":\"triage_cantidad\",\"description\":\"Cantidad de contactos que realizaron triage virtuales que se realizaron por hora\",\"type\":\"integer\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2020-05-13T20:41:18.657369",
+      "datastore_active": false,
+      "description": "Cantidad de contactos en BOTI que realizaron el triage virtual correspondientes a la pandemia por Coronavirus por hora.",
+      "fileName": "contactos_boti_triage_covid_19.csv",
+      "format": "CSV",
+      "has-uploaded-file": "",
+      "hash": "",
+      "icon_url": "",
+      "id": "2b7e565a-911e-4550-8f99-3317a8cfbc60",
+      "issued": "2020-05-15T16:02:09.838251",
+      "last_modified": null,
+      "license_id": "CC-BY-2.5-AR",
+      "mimetype": "text/csv",
+      "mimetype_inner": null,
+      "modified": "2021-04-25",
+      "name": "Cantidad de triage virtuales por Covid-19",
+      "package_id": "144b39bf-d55e-412c-a77a-57cb9972bf7f",
+      "position": 0,
+      "resource_type": "file",
+      "revision_id": "6622a0bd-8a13-4275-abdb-fb2449dba9cc",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/innovacion-transformacion-digital/contactos-boti-triage-covid-19/contactos_boti_triage_covid_19.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "",
+      "accessURL_field": "",
+      "attributesDescription": "[{\"title\":\"fecha\",\"description\":\"Fecha en que se realizó contacto con BOTI para realizar Triage\",\"type\":\"date\"},{\"title\":\"hora\",\"description\":\"Hora del día en que se realizó contacto con BOTI para realizar Triage\",\"type\":\"integer\"},{\"title\":\"triage_cantidad\",\"description\":\"Cantidad de contactos que realizaron triage virtuales que se realizaron por hora\",\"type\":\"integer\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2020-05-13T20:52:39.083152",
+      "datastore_active": false,
+      "description": "Cantidad de contactos en BOTI que realizaron el triage virtual correspondientes a la pandemia por Coronavirus por hora.",
+      "fileName": "contactos_boti_triage_covid_19.xlsx",
+      "format": "XLSX",
+      "has-uploaded-file": "",
+      "hash": "",
+      "icon_url": "",
+      "id": "d29a4e58-1c80-41a5-8cc7-a1594cffbb76",
+      "issued": "2020-05-15T16:02:29.338991",
+      "last_modified": null,
+      "license_id": "CC-BY-2.5-AR",
+      "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "mimetype_inner": null,
+      "modified": "2021-04-25",
+      "name": "Cantidad de triage virtuales por Covid-19 (XLSX)",
+      "package_id": "144b39bf-d55e-412c-a77a-57cb9972bf7f",
+      "position": 1,
+      "resource_type": "file",
+      "revision_id": "8f553290-960f-4781-a6f2-ea9e2375f470",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/innovacion-transformacion-digital/contactos-boti-triage-covid-19/contactos_boti_triage_covid_19.xlsx",
+      "url_type": null
+    }
+  ],
+  "revision_id": "7ee09a85-53bb-4afa-914e-0fdac93dd4b4",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "COVID-19",
+      "id": "931486a5-526e-433d-a642-4768937b65d8",
+      "name": "COVID-19",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "boti",
+      "id": "ddea7fc5-6965-4150-bec0-6b4b49ad9012",
+      "name": "boti",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "coronavirus",
+      "id": "efeebfc4-0eaf-47bc-9d00-435b9c600fa1",
+      "name": "coronavirus",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "triage",
+      "id": "6a252ce5-10c3-427c-9c53-11a8ca649c05",
+      "name": "triage",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Contactos BOTI - Triage por COVID-19",
+  "type": "dataset",
+  "url": "https://data.buenosaires.gob.ar/dataset/contactos-boti-triage-covid-19",
+  "version": null
+}

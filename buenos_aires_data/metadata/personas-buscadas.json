@@ -1,0 +1,185 @@
+{
+  "author": "Jefatura de Gabinete",
+  "author_email": "gobiernoabierto@buenosaires.gob.ar",
+  "creator_user_id": "e4546f46-e966-493c-b2f1-57318502c41b",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P1M"
+    },
+    {
+      "key": "issued",
+      "value": "2019-01-08T14:51:48.008245"
+    },
+    {
+      "key": "language",
+      "value": "[\"SPA\"]"
+    },
+    {
+      "key": "modified",
+      "value": "2019-05-27T14:47:18.870547"
+    },
+    {
+      "key": "source",
+      "value": "Jefatura de Gabinete"
+    },
+    {
+      "key": "spatial",
+      "value": "02"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"JUST\"]"
+    }
+  ],
+  "groups": [
+    {
+      "description": "",
+      "display_name": "Seguridad",
+      "id": "b656bb3f-230a-414f-acce-19d0d98e01df",
+      "image_display_url": "https://data.buenosaires.gob.ar/uploads/group/2019-11-16-145044.366204segu.png",
+      "name": "seguridad",
+      "title": "Seguridad"
+    }
+  ],
+  "id": "juqdkmgo-159",
+  "isopen": true,
+  "license_id": "CC-BY-2.5-AR",
+  "license_title": "Atribucion 2.5 Argentina (CC BY 2.5 AR)",
+  "license_url": "https://creativecommons.org/licenses/by/2.5/ar ",
+  "maintainer": "Secretaría General y Relaciones Internacionales. Subsecretaría Gestión Estratégica y Calidad Institucional. Dirección General Calidad Institucional y Gobierno Abierto",
+  "maintainer_email": "gobiernoabierto@buenosaires.gob.ar",
+  "metadata_created": "2019-12-11T18:04:43.227368",
+  "metadata_modified": "2020-12-17T16:51:51.505451",
+  "name": "personas-buscadas",
+  "notes": "Información de las personas buscadas en la Ciudad.",
+  "num_resources": 3,
+  "num_tags": 4,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-11-15T19:14:53.415795",
+    "description": "",
+    "id": "8add5417-3519-49b8-bd4c-6621d32ff5eb",
+    "image_url": "",
+    "is_organization": true,
+    "name": "jefatura-de-gabinete-de-ministros",
+    "revision_id": "971d791d-b46e-4427-8a5a-b737fa264515",
+    "state": "active",
+    "title": "Jefatura de Gabinete de Ministros",
+    "type": "organization"
+  },
+  "owner_org": "8add5417-3519-49b8-bd4c-6621d32ff5eb",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/personas-buscadas",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-01-08T14:51:48.008245",
+      "datastore_active": true,
+      "description": "Nombre, apellido, fecha de nacimiento, nacionalidad, edad, fecha y lugar en que fue visto por última vez la persona buscada.",
+      "fileName": "personas-buscadas.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "juqdkmgo-1591-resource",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Personas Buscadas",
+      "package_id": "juqdkmgo-159",
+      "position": 0,
+      "resource_type": "file",
+      "revision_id": "089a115f-a573-4d9c-9bba-63ecf52a3db3",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/personas-buscadas/personas-buscadas.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/personas-buscadas",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-01-08T14:51:48.008245",
+      "datastore_active": false,
+      "description": "La información del siguiente PDF contiene los mismos datos que el CSV agregando la foto de cada persona.",
+      "fileName": "personas-buscadas-pdf.pdf",
+      "format": "PDF",
+      "hash": "",
+      "id": "juqdkmgo-1592-resource",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Personas Buscadas (pdf)",
+      "package_id": "juqdkmgo-159",
+      "position": 1,
+      "resource_type": "file",
+      "revision_id": "f6cd1738-544d-44e2-9b78-d5a2277a74fa",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/personas-buscadas/personas-buscadas-pdf.pdf",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/personas-buscadas",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-01-08T14:51:48.008245",
+      "datastore_active": true,
+      "description": "Nombre, apellido, fecha de nacimiento, nacionalidad, edad, fecha y lugar en que fue visto por última vez la persona buscada.",
+      "fileName": "personas-buscadas.xlsx",
+      "format": "XLSX",
+      "hash": "",
+      "id": "juqdkmgo-1591-resource-xlsx",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Personas Buscadas (XLSX)",
+      "package_id": "juqdkmgo-159",
+      "position": 2,
+      "resource_type": "file",
+      "revision_id": "85d927b3-561a-43d0-ba59-ffe2ff4d730f",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/personas-buscadas/personas-buscadas.xlsx",
+      "url_type": null
+    }
+  ],
+  "revision_id": "04ff5bd1-cb1f-4a39-a6ba-66d295a359e0",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "buscadas",
+      "id": "6847f948-3582-4c00-91b0-12b1add3d9fa",
+      "name": "buscadas",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "perdidos",
+      "id": "aa66ead3-e005-43da-8a3e-5f904d2f1ea3",
+      "name": "perdidos",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "personas",
+      "id": "aaa41924-c25b-41bd-af54-750d7c990a5a",
+      "name": "personas",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "seguridad",
+      "id": "40254c39-6a3d-41e7-9044-39dc4b0eda4d",
+      "name": "seguridad",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Personas buscadas",
+  "type": "dataset",
+  "url": "https://data.buenosaires.gob.ar/dataset/personas-buscadas",
+  "version": null
+}

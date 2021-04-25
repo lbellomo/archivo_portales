@@ -1,0 +1,203 @@
+{
+  "author": "Ministerio de Educación e Innovación. Secretaría de Ciencia, Tecnología e Innovación – DG Emprendedores e Industrias basadas en el conocimiento",
+  "author_email": "gobiernoabierto@buenosaires.gob.ar",
+  "creator_user_id": "e4546f46-e966-493c-b2f1-57318502c41b",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P6M"
+    },
+    {
+      "key": "issued",
+      "value": "2019-01-08T14:56:32.127522"
+    },
+    {
+      "key": "language",
+      "value": "[\"SPA\"]"
+    },
+    {
+      "key": "modified",
+      "value": "2019-05-27T14:37:22.451999"
+    },
+    {
+      "key": "source",
+      "value": "Ministerio de Educación e Innovación. Secretaría de Ciencia, Tecnología e Innovación – DG Emprendedores e Industrias basadas en el conocimiento"
+    },
+    {
+      "key": "spatial",
+      "value": "02"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"ECON\"]"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Datasets relacionados con la economía y las finanzas",
+      "display_name": "Economía y Finanzas",
+      "id": "64da4336-6da7-4494-80c0-365016597e9e",
+      "image_display_url": "https://data.buenosaires.gob.ar/uploads/group/2019-11-16-144934.521128economia.png",
+      "name": "economia-y-finanzas",
+      "title": "Economía y Finanzas"
+    }
+  ],
+  "id": "juqdkmgo-86",
+  "isopen": true,
+  "license_id": "CC-BY-2.5-AR",
+  "license_title": "Atribucion 2.5 Argentina (CC BY 2.5 AR)",
+  "license_url": "https://creativecommons.org/licenses/by/2.5/ar ",
+  "maintainer": "Secretaría General y Relaciones Internacionales. Subsecretaría Gestión Estratégica y Calidad Institucional. Dirección General Calidad Institucional y Gobierno Abierto",
+  "maintainer_email": "gobiernoabierto@buenosaires.gob.ar",
+  "metadata_created": "2019-12-11T18:27:01.529771",
+  "metadata_modified": "2020-12-17T16:08:52.788257",
+  "name": "emprendedores",
+  "notes": "Listado de emprendedores del programa IncuBAte.",
+  "num_resources": 4,
+  "num_tags": 3,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-11-15T19:18:19.762924",
+    "description": "",
+    "id": "da366597-5061-4955-9ca6-e93785956e0e",
+    "image_url": "",
+    "is_organization": true,
+    "name": "ministerio-de-educacion",
+    "revision_id": "1b6c27ee-7324-4554-a172-3d2f068e290a",
+    "state": "active",
+    "title": "Ministerio de Educación",
+    "type": "organization"
+  },
+  "owner_org": "da366597-5061-4955-9ca6-e93785956e0e",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/emprendedores",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-08-06T17:38:28.792259",
+      "datastore_active": false,
+      "description": "Nombre, tipo de emprendimiento, dirección, página web de emprendedores (camada 2018) de la Ciudad.",
+      "fileName": "emprendedores.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "juqdkmgo-861-resource",
+      "last_modified": "2019-08-06T17:38:28.792259",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Emprendedores 2018",
+      "package_id": "juqdkmgo-86",
+      "position": 0,
+      "resource_type": "file",
+      "revision_id": "2915ba85-50bf-4b1f-9069-a4662bad1f5d",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/emprendedores/emprendedores.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/86/resource/f5c19336-e3e9-4b1c-86c7-a4faeedbc5b5",
+      "attributesDescription": "[{\"title\": \"nombre_emprendimiento\", \"type\": \"string\", \"description\": \"Nombre del emprendimiento\"}, {\"title\": \"descripcion\", \"type\": \"string\", \"description\": \"Descripci\\u00f3n de la actividad del emprendimiento\"}, {\"title\": \"web\", \"type\": \"string\", \"description\": \"P\\u00e1gina web del emprendimiento\"}, {\"title\": \"subcategor\\u00eda\", \"type\": \"string\", \"description\": \"Subcategor\\u00eda tem\\u00e1tica del emprendimiento\"}, {\"title\": \"cantidad_miembros_equipo\", \"type\": \"integer\", \"description\": \"Cantidad de miembros que tiene el equipo que lleva a cabo el emprendimiento\"}, {\"title\": \"cantidad_mujeres_equipo\", \"type\": \"integer\", \"description\": \"Cantidad de mujeres que tiene el equipo que lleva a cabo el emprendimiento\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-08-06T17:41:37.989849",
+      "datastore_active": false,
+      "description": "Nombre, tipo de emprendimiento, descripción, página web y redes sociales de emprendedores (camada 2019) de la Ciudad.",
+      "fileName": "emprendedores-2019.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "f5c19336-e3e9-4b1c-86c7-a4faeedbc5b5",
+      "last_modified": "2019-08-06T17:41:37.989849",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Emprendedores 2019",
+      "package_id": "juqdkmgo-86",
+      "position": 1,
+      "resource_type": "file",
+      "revision_id": "af6b79cc-5362-45df-8c0e-576b3f3a2905",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/emprendedores/emprendedores-2019.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/emprendedores",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-08-06T17:38:28.792259",
+      "datastore_active": false,
+      "description": "Nombre, tipo de emprendimiento, dirección, página web de emprendedores (camada 2018) de la Ciudad.",
+      "fileName": "emprendedores.xlsx",
+      "format": "XLSX",
+      "hash": "",
+      "id": "juqdkmgo-861-resource-xlsx",
+      "last_modified": "2019-08-06T17:38:28.792259",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Emprendedores 2018 (XLSX)",
+      "package_id": "juqdkmgo-86",
+      "position": 2,
+      "resource_type": "file",
+      "revision_id": "c4ca7856-8a20-4ba1-a125-9655ddbc81fa",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/emprendedores/emprendedores.xlsx",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/86/resource/f5c19336-e3e9-4b1c-86c7-a4faeedbc5b5",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-08-06T17:41:37.989849",
+      "datastore_active": false,
+      "description": "Nombre, tipo de emprendimiento, descripción, página web y redes sociales de emprendedores (camada 2019) de la Ciudad.",
+      "fileName": "emprendedores-2019.xlsx",
+      "format": "XLSX",
+      "hash": "",
+      "id": "f5c19336-e3e9-4b1c-86c7-a4faeedbc5b5-xlsx",
+      "last_modified": "2019-08-06T17:41:37.989849",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Emprendedores 2019 (XLSX)",
+      "package_id": "juqdkmgo-86",
+      "position": 3,
+      "resource_type": "file",
+      "revision_id": "db86f560-f7e2-4831-9c78-b1c92a2c1763",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/emprendedores/emprendedores-2019.xlsx",
+      "url_type": null
+    }
+  ],
+  "revision_id": "2de470e2-f07b-43f1-aaa3-667bfb76c704",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "economía",
+      "id": "20a0f20c-f7ed-48f4-b223-e343db7f9ee8",
+      "name": "economía",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "emprendedores",
+      "id": "8afcc6c0-ac12-4a43-852b-f48fb79095fc",
+      "name": "emprendedores",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "innovación",
+      "id": "05dfd551-8213-456c-ae20-60452ad1376e",
+      "name": "innovación",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Emprendedores",
+  "type": "dataset",
+  "url": "https://data.buenosaires.gob.ar/dataset/emprendedores",
+  "version": null
+}

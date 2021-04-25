@@ -1,0 +1,336 @@
+{
+  "author": "Subsecretaría de Justicia. Secretaría de Justicia y Seguridad. Ministerio de Justicia y Seguridad",
+  "author_email": "datosabiertos@buenosaires.gob.ar",
+  "creator_user_id": "e4546f46-e966-493c-b2f1-57318502c41b",
+  "extras": [
+    {
+      "key": "Documentación",
+      "value": ""
+    },
+    {
+      "key": "accrualPeriodicity",
+      "value": "eventual"
+    },
+    {
+      "key": "country",
+      "value": "None"
+    },
+    {
+      "key": "district",
+      "value": ""
+    },
+    {
+      "key": "home_featured",
+      "value": "false"
+    },
+    {
+      "key": "issued",
+      "value": "2019-01-08T14:57:54.030165"
+    },
+    {
+      "key": "language",
+      "value": "[]"
+    },
+    {
+      "key": "modified",
+      "value": "2021-03-05T10:47:04.165622"
+    },
+    {
+      "key": "province",
+      "value": ""
+    },
+    {
+      "key": "source",
+      "value": "Subsecretaría de Justicia. Secretaría de Justicia y Seguridad. Ministerio de Justicia y Seguridad"
+    },
+    {
+      "key": "spatial",
+      "value": "None"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"GOVE\"]"
+    },
+    {
+      "key": "temporal",
+      "value": ""
+    }
+  ],
+  "groups": [
+    {
+      "description": "",
+      "display_name": "Administración Pública",
+      "id": "8cb134a8-90ea-4e69-a96d-c03449917dc9",
+      "image_display_url": "https://data.buenosaires.gob.ar/uploads/group/2019-11-16-144810.360383adminpublica.png",
+      "name": "administracion-publica",
+      "title": "Administración Pública"
+    }
+  ],
+  "id": "juqdkmgo-83",
+  "isopen": true,
+  "license_id": "CC-BY-2.5-AR",
+  "license_title": "Atribucion 2.5 Argentina (CC BY 2.5 AR)",
+  "license_url": "https://creativecommons.org/licenses/by/2.5/ar ",
+  "maintainer": "Gerencia Operativa de Ingeniería de Datos. DG Arquitectura de Datos. SS de Políticas Públicas Basadas en Evidencia. Secretaría de Innovación y Transformación Digital. Jefatura de Gabinete de Ministros",
+  "maintainer_email": "datosabiertos@buenosaires.gob.ar",
+  "metadata_created": "2019-12-11T18:31:43.559957",
+  "metadata_modified": "2021-03-05T13:47:04.228035",
+  "name": "elecciones-2017",
+  "notes": "Resultados definitivos de las elecciones a legisladores porteños desarrollados en el 2017.",
+  "num_resources": 8,
+  "num_tags": 5,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-11-15T19:17:17.612030",
+    "description": "",
+    "id": "b4408826-7d79-46fc-be96-c34b7686d50a",
+    "image_url": "",
+    "is_organization": true,
+    "name": "subsecretaria-justicia",
+    "revision_id": "8ada75f5-fb54-4a17-8fe0-03545df1c7d6",
+    "state": "active",
+    "title": "Subsecretaría de Justicia",
+    "type": "organization"
+  },
+  "owner_org": "b4408826-7d79-46fc-be96-c34b7686d50a",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/elecciones-2017",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-01-08T14:57:54.030165",
+      "datastore_active": false,
+      "description": "Resultados definitivos de las elecciones a legisladores porteños en 2017 desagregado a nivel mesa.",
+      "fileName": "resultados-elecciones-legisladores-generales-2017.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "juqdkmgo-831-resource",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Resultados Elecciones Legisladores Generales 2017",
+      "package_id": "juqdkmgo-83",
+      "position": 0,
+      "resource_type": "file",
+      "revision_id": "ca61fadc-3a12-4d11-bdb8-2de89ecadbb1",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/elecciones-2017/resultados-elecciones-legisladores-generales-2017.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/elecciones-2017",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-01-08T14:57:54.030165",
+      "datastore_active": false,
+      "description": "Resultados definitivos de las elecciones PASO (Primarias Abiertas, Simultáneas y Obligatorias) a legisladores porteños en 2017 desagregado a nivel mesa.",
+      "fileName": "resultados-elecciones-legisladores-paso-2017.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "juqdkmgo-832-resource",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Resultados Elecciones Legisladores PASO 2017",
+      "package_id": "juqdkmgo-83",
+      "position": 1,
+      "resource_type": "file",
+      "revision_id": "731a39c7-74a6-49de-bbf9-9306a956e116",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/elecciones-2017/resultados-elecciones-legisladores-paso-2017.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/elecciones-2017",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-01-08T14:57:54.030165",
+      "datastore_active": false,
+      "description": "Resultados definitivos de las elecciones generales a legisladores porteños en 2017 desagregado a nivel mesa para los electores extranjeros.",
+      "fileName": "resultados-electores-extranjeros-elecciones-legisladores-generales-2017.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "juqdkmgo-833-resource",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Resultados electores extranjeros Elecciones Legisladores Generales 2017",
+      "package_id": "juqdkmgo-83",
+      "position": 2,
+      "resource_type": "file",
+      "revision_id": "52c8d616-6913-4599-a6ed-79519d4dd2d0",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/elecciones-2017/resultados-electores-extranjeros-elecciones-legisladores-generales-2017.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/elecciones-2017",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-01-08T14:57:54.030165",
+      "datastore_active": false,
+      "description": "Resultados definitivos de las elecciones PASO (Primarias Abiertas, Simultáneas y Obligatorias) a legisladores porteños en 2017 desagregado a nivel mesa para los electores extranjeros.",
+      "fileName": "resultados-electores-extranjeros-elecciones-legisladores-paso-2017.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "juqdkmgo-834-resource",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Resultados electores extranjeros Elecciones Legisladores PASO 2017",
+      "package_id": "juqdkmgo-83",
+      "position": 3,
+      "resource_type": "file",
+      "revision_id": "a5bf49a9-e9cb-4eba-bb64-e2a975b86d94",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/elecciones-2017/resultados-electores-extranjeros-elecciones-legisladores-paso-2017.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/elecciones-2017",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-01-08T14:57:54.030165",
+      "datastore_active": false,
+      "description": "Resultados definitivos de las elecciones a legisladores porteños en 2017 desagregado a nivel mesa.",
+      "fileName": "resultados-elecciones-legisladores-generales-2017.xlsx",
+      "format": "XLSX",
+      "hash": "",
+      "id": "juqdkmgo-831-resource-xlsx",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Resultados Elecciones Legisladores Generales 2017 (XLSX)",
+      "package_id": "juqdkmgo-83",
+      "position": 4,
+      "resource_type": "file",
+      "revision_id": "c33a229c-90a6-43c7-a577-9be98b6c2ae3",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/elecciones-2017/resultados-elecciones-legisladores-generales-2017.xlsx",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/elecciones-2017",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-01-08T14:57:54.030165",
+      "datastore_active": false,
+      "description": "Resultados definitivos de las elecciones PASO (Primarias Abiertas, Simultáneas y Obligatorias) a legisladores porteños en 2017 desagregado a nivel mesa.",
+      "fileName": "resultados-elecciones-legisladores-paso-2017.xlsx",
+      "format": "XLSX",
+      "hash": "",
+      "id": "juqdkmgo-832-resource-xlsx",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Resultados Elecciones Legisladores PASO 2017 (XLSX)",
+      "package_id": "juqdkmgo-83",
+      "position": 5,
+      "resource_type": "file",
+      "revision_id": "c56e1323-5d88-4c6c-a733-e0a451eb2f93",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/elecciones-2017/resultados-elecciones-legisladores-paso-2017.xlsx",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/elecciones-2017",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-01-08T14:57:54.030165",
+      "datastore_active": false,
+      "description": "Resultados definitivos de las elecciones generales a legisladores porteños en 2017 desagregado a nivel mesa para los electores extranjeros.",
+      "fileName": "resultados-electores-extranjeros-elecciones-legisladores-generales-2017.xlsx",
+      "format": "XLSX",
+      "hash": "",
+      "id": "juqdkmgo-833-resource-xlsx",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Resultados electores extranjeros Elecciones Legisladores Generales 2017 (XLSX)",
+      "package_id": "juqdkmgo-83",
+      "position": 6,
+      "resource_type": "file",
+      "revision_id": "d1895665-7481-417f-a71f-e454c883ff8c",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/elecciones-2017/resultados-electores-extranjeros-elecciones-legisladores-generales-2017.xlsx",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/elecciones-2017",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-01-08T14:57:54.030165",
+      "datastore_active": false,
+      "description": "Resultados definitivos de las elecciones PASO (Primarias Abiertas, Simultáneas y Obligatorias) a legisladores porteños en 2017 desagregado a nivel mesa para los electores extranjeros.",
+      "fileName": "resultados-electores-extranjeros-elecciones-legisladores-paso-2017.xlsx",
+      "format": "XLSX",
+      "hash": "",
+      "id": "juqdkmgo-834-resource-xlsx",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Resultados electores extranjeros Elecciones Legisladores PASO 2017 (XLSX)",
+      "package_id": "juqdkmgo-83",
+      "position": 7,
+      "resource_type": "file",
+      "revision_id": "9eb75463-e2ee-490a-ac65-457d62de9885",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/elecciones-2017/resultados-electores-extranjeros-elecciones-legisladores-paso-2017.xlsx",
+      "url_type": null
+    }
+  ],
+  "revision_id": "a9be2bb4-599d-42bb-9e12-f0b462f8c280",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "democracia",
+      "id": "68c9d244-f24b-45e0-9788-fd167ada2522",
+      "name": "democracia",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "elecciones",
+      "id": "3ad486da-6d69-4627-83d2-b3e21514bcbf",
+      "name": "elecciones",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "legisladores",
+      "id": "aa832619-c95c-48e2-ba68-eaf2a754b530",
+      "name": "legisladores",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "legislatura",
+      "id": "abc09ef1-f3c4-4731-9ec4-90e5fc45d5e9",
+      "name": "legislatura",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "votación",
+      "id": "8dcc141a-247b-4d24-9428-10ec73b8903e",
+      "name": "votación",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Elecciones 2017",
+  "type": "dataset",
+  "url": "https://data.buenosaires.gob.ar/dataset/elecciones-2017",
+  "version": null
+}

@@ -1,0 +1,307 @@
+{
+  "author": "Secretaría General y Relaciones Internacionales. Ente de Turismo (ENTUR)",
+  "author_email": "datosabiertos@buenosaires.gob.ar",
+  "creator_user_id": "e4546f46-e966-493c-b2f1-57318502c41b",
+  "extras": [
+    {
+      "key": "Documentación",
+      "value": ""
+    },
+    {
+      "key": "accrualPeriodicity",
+      "value": "eventual"
+    },
+    {
+      "key": "country",
+      "value": "None"
+    },
+    {
+      "key": "district",
+      "value": ""
+    },
+    {
+      "key": "home_featured",
+      "value": "false"
+    },
+    {
+      "key": "issued",
+      "value": "2019-05-03T19:36:43.628780"
+    },
+    {
+      "key": "language",
+      "value": "[]"
+    },
+    {
+      "key": "modified",
+      "value": "2021-02-25T17:18:14.434490"
+    },
+    {
+      "key": "province",
+      "value": ""
+    },
+    {
+      "key": "source",
+      "value": "Secretaría General y Relaciones Internacionales. Ente de Turismo (ENTUR)"
+    },
+    {
+      "key": "spatial",
+      "value": "None"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"ECON\",\"EDUC\"]"
+    },
+    {
+      "key": "temporal",
+      "value": ""
+    }
+  ],
+  "groups": [
+    {
+      "description": "Datasets relacionados con la cultura y el turismo",
+      "display_name": "Cultura y Turismo",
+      "id": "db2c0965-c659-4f94-8de9-41fce10f91a9",
+      "image_display_url": "https://data.buenosaires.gob.ar/uploads/group/2019-11-16-144908.071423cultura.png",
+      "name": "cultura-y-turismo",
+      "title": "Cultura y Turismo"
+    }
+  ],
+  "id": "c404ebaf-eba0-43a9-8376-ee45ef805f3d",
+  "isopen": true,
+  "license_id": "CC-BY-2.5-AR",
+  "license_title": "Atribucion 2.5 Argentina (CC BY 2.5 AR)",
+  "license_url": "https://creativecommons.org/licenses/by/2.5/ar ",
+  "maintainer": "Secretaría General y Relaciones Internacionales. Subsecretaría Gestión Estratégica y Calidad Institucional. Dirección General Calidad Institucional y Gobierno Abierto",
+  "maintainer_email": "datosabiertos@buenosaires.gob.ar",
+  "metadata_created": "2019-12-11T18:34:53.225230",
+  "metadata_modified": "2021-02-25T20:18:14.636286",
+  "name": "oferta-establecimientos-gastronomicos",
+  "notes": "Listado de restaurantes y otros establecimientos de oferta gastronómica existentes en la Ciudad Autónoma de Buenos Aires",
+  "num_resources": 7,
+  "num_tags": 4,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-11-15T19:16:12.037004",
+    "description": "",
+    "id": "718be5cd-c364-407d-979d-7e16732b41bc",
+    "image_url": "",
+    "is_organization": true,
+    "name": "ente-de-turismo",
+    "revision_id": "073586d0-2c46-490b-b828-d2e6a975ff1f",
+    "state": "active",
+    "title": "Ente de Turismo (ENTUR)",
+    "type": "organization"
+  },
+  "owner_org": "718be5cd-c364-407d-979d-7e16732b41bc",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/c404ebaf-eba0-43a9-8376-ee45ef805f3d/resource/e66613ef-aaf4-44aa-b89c-638c431fef0e",
+      "attributesDescription": "[{\"title\": \"long\", \"type\": \"number\", \"description\": \"Longitud en donde se encuentra el establecimiento\"}, {\"title\": \"lat\", \"type\": \"number\", \"description\": \"Latitud en donde se encuentra el establecimiento\"}, {\"title\": \"id\", \"type\": \"integer\", \"description\": \"Identificador del establecimiento\"}, {\"title\": \"nombre\", \"type\": \"string\", \"description\": \"Nombre del establecimiento\"}, {\"title\": \"categoria\", \"type\": \"string\", \"description\": \"Tipo de establecimiento\"}, {\"title\": \"cocina\", \"type\": \"string\", \"description\": \"Tipo de cocina del establecimiento\"}, {\"title\": \"ambientacion\", \"type\": \"string\", \"description\": \"Tipo de ambientaci\\u00f3n del establecimiento\"}, {\"title\": \"telefono\", \"type\": \"integer\", \"description\": \"N\\u00famero de tel\\u00e9fono del establecimiento\"}, {\"title\": \"mail\", \"type\": \"string\", \"description\": \"Mail del establecimiento\"}, {\"title\": \"horario\", \"type\": \"string\", \"description\": \"D\\u00edas y horarios de funcionamiento del establecimiento\"}, {\"title\": \"calle_nombre\", \"type\": \"string\", \"description\": \"Nombre de la calle en donde se sit\\u00faa el establecimiento\"}, {\"title\": \"calle_altura\", \"type\": \"integer\", \"description\": \"Altura de la calle en donde se sit\\u00faa el establecimiento\"}, {\"title\": \"calle_cruce\", \"type\": \"string\", \"description\": \"Calle que cruza por la esquina del establecimiento\"}, {\"title\": \"direccion_completa\", \"type\": \"string\", \"description\": \"Calle y altura del establecimiento\"}, {\"title\": \"barrio\", \"type\": \"string\", \"description\": \"Barrio donde se sit\\u00faa el establecimiento\"}, {\"title\": \"comuna\", \"type\": \"string\"}, {\"title\": \"codigo_postal\", \"type\": \"integer\", \"description\": \"C\\u00f3digo postal del establecimiento\"}, {\"title\": \"codigo_postal_argentino\", \"type\": \"string\", \"description\": \"C\\u00f3digo postal argentino del establecimiento\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-08-05T10:59:26.543103",
+      "datastore_active": false,
+      "description": "Restaurantes, bares y cafeterías de la Ciudad de Buenos Aires",
+      "fileName": "oferta_gastronomica.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "e66613ef-aaf4-44aa-b89c-638c431fef0e",
+      "last_modified": "2019-08-05T10:59:26.543103",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Oferta gastronómica",
+      "package_id": "c404ebaf-eba0-43a9-8376-ee45ef805f3d",
+      "position": 0,
+      "resource_type": "file",
+      "revision_id": "8117be2a-4096-4b87-9794-4598688a9ac9",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/oferta-gastronomica/oferta_gastronomica.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/c404ebaf-eba0-43a9-8376-ee45ef805f3d/resource/a0addddd-440e-4133-9dd2-4ffa05b556b2",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-05-03T17:09:04.022572",
+      "datastore_active": false,
+      "description": "Archivo shapefile de la oferta gastronómica de la ciudad",
+      "fileName": "oferta-gastronomica.zip",
+      "format": "ZIP",
+      "hash": "",
+      "id": "a0addddd-440e-4133-9dd2-4ffa05b556b2",
+      "last_modified": "2019-05-03T17:09:04.022572",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Oferta gastronómica (SHP)",
+      "package_id": "c404ebaf-eba0-43a9-8376-ee45ef805f3d",
+      "position": 1,
+      "resource_type": "file",
+      "revision_id": "6cadadc1-3f70-4708-9442-c010998ccbb3",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/oferta-gastronomica/oferta-gastronomica.zip",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/c404ebaf-eba0-43a9-8376-ee45ef805f3d/resource/9623ce40-7771-499a-9bec-782222eba786",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-05-03T17:11:47.236460",
+      "datastore_active": false,
+      "description": "Archivo GeoJSON con la localización de la oferta gastronómica de la ciudad",
+      "fileName": "oferta-gastronomica.geojson",
+      "format": "GeoJSON",
+      "hash": "",
+      "id": "9623ce40-7771-499a-9bec-782222eba786",
+      "last_modified": "2019-05-03T17:11:47.236460",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Oferta gastronómica (GeoJSON)",
+      "package_id": "c404ebaf-eba0-43a9-8376-ee45ef805f3d",
+      "position": 2,
+      "resource_type": "file",
+      "revision_id": "6cc5cc0d-fb3e-46d0-9e15-80afe30bb5f0",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/oferta-gastronomica/oferta-gastronomica.geojson",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/c404ebaf-eba0-43a9-8376-ee45ef805f3d/resource/4dc39a90-07a4-4173-8a20-eb353a577a9f",
+      "attributesDescription": "[{\"title\": \"periodo\", \"type\": \"string\", \"description\": \"Fecha del relevamiento\"}, {\"title\": \"long\", \"type\": \"number\", \"description\": \"Longitud en donde se encuentra el establecimiento\"}, {\"title\": \"lat\", \"type\": \"number\", \"description\": \"Latitud en donde se encuentra el establecimiento\"}, {\"title\": \"nro_registro\", \"type\": \"string\", \"description\": \"N\\u00famero de registro del establecimiento\"}, {\"title\": \"establecimiento\", \"type\": \"string\", \"description\": \"Nombre del establecimiento\"}, {\"title\": \"rubro\", \"type\": \"string\", \"description\": \"Tipo de establecimiento\"}, {\"title\": \"telefono\", \"type\": \"string\", \"description\": \"N\\u00famero de tel\\u00e9fono del establecimiento\"}, {\"title\": \"mail\", \"type\": \"string\", \"description\": \"Mail del establecimiento\"}, {\"title\": \"facebook\", \"type\": \"string\", \"description\": \"P\\u00e1gina de Fecebook del establecimiento\"}, {\"title\": \"web\", \"type\": \"string\", \"description\": \"P\\u00e1gina web del establecimiento\"}, {\"title\": \"calle\", \"type\": \"string\", \"description\": \"Nombre de la calle en donde se sit\\u00faa el establecimiento\"}, {\"title\": \"altura\", \"type\": \"integer\", \"description\": \"Altura de la calle en donde se sit\\u00faa el establecimiento\"}, {\"title\": \"barrio\", \"type\": \"string\", \"description\": \"Barrio donde se sit\\u00faa el establecimiento\"}, {\"title\": \"comuna\", \"type\": \"string\", \"description\": \"Comuna donde se sit\\u00faa el establecimiento\"}, {\"title\": \"codigo_postal\", \"type\": \"integer\", \"description\": \"C\\u00f3digo postal del establecimiento\"}, {\"title\": \"codigo_postal_argentino\", \"type\": \"string\", \"description\": \"C\\u00f3digo postal argentino del establecimiento\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-08-05T11:26:49.845576",
+      "datastore_active": false,
+      "description": "Ubicación de los establecimientos gastronómicos inscriptos en el Registro de Prestadores Turísticos de la Ciudad Autónoma de Buenos Aires",
+      "fileName": "establecimientos_gastronomicos.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "4dc39a90-07a4-4173-8a20-eb353a577a9f",
+      "last_modified": "2019-08-05T11:26:49.845576",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Establecimientos Gastronómicos",
+      "package_id": "c404ebaf-eba0-43a9-8376-ee45ef805f3d",
+      "position": 3,
+      "resource_type": "file",
+      "revision_id": "38f4637c-389a-417f-85d0-f49d2bf29f9a",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/oferta-gastronomica/establecimientos_gastronomicos.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/c404ebaf-eba0-43a9-8376-ee45ef805f3d/resource/ec94f84b-3052-45ca-a8f0-3e6d2c04d9e8",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-08-05T11:33:20.011060",
+      "datastore_active": false,
+      "description": "Archivo shapefile con los establecimientos gastronómicos",
+      "fileName": "establecimientos-gastronomicos.zip",
+      "format": "ZIP",
+      "hash": "",
+      "id": "ec94f84b-3052-45ca-a8f0-3e6d2c04d9e8",
+      "last_modified": "2019-08-05T11:33:20.011060",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Establecimientos Gastronómicos (SHP)",
+      "package_id": "c404ebaf-eba0-43a9-8376-ee45ef805f3d",
+      "position": 4,
+      "resource_type": "file",
+      "revision_id": "ea93e4e9-6cd3-474c-8a26-f14608de6d09",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/oferta-gastronomica/establecimientos-gastronomicos.zip",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/c404ebaf-eba0-43a9-8376-ee45ef805f3d/resource/e66613ef-aaf4-44aa-b89c-638c431fef0e",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-08-05T10:59:26.543103",
+      "datastore_active": false,
+      "description": "Restaurantes, bares y cafeterías de la Ciudad de Buenos Aires",
+      "fileName": "oferta_gastronomica.xlsx",
+      "format": "XLSX",
+      "hash": "",
+      "id": "e66613ef-aaf4-44aa-b89c-638c431fef0e-xlsx",
+      "last_modified": "2019-08-05T10:59:26.543103",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Oferta gastronómica (XLSX)",
+      "package_id": "c404ebaf-eba0-43a9-8376-ee45ef805f3d",
+      "position": 5,
+      "resource_type": "file",
+      "revision_id": "f37e580a-5840-4e07-b9d8-e45740e2b18b",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/oferta-gastronomica/oferta_gastronomica.xlsx",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/c404ebaf-eba0-43a9-8376-ee45ef805f3d/resource/4dc39a90-07a4-4173-8a20-eb353a577a9f",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-08-05T11:26:49.845576",
+      "datastore_active": false,
+      "description": "Ubicación de los establecimientos gastronómicos inscriptos en el Registro de Prestadores Turísticos de la Ciudad Autónoma de Buenos Aires",
+      "fileName": "establecimientos_gastronomicos.xlsx",
+      "format": "XLSX",
+      "hash": "",
+      "id": "4dc39a90-07a4-4173-8a20-eb353a577a9f-xlsx",
+      "last_modified": "2019-08-05T11:26:49.845576",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Establecimientos Gastronómicos (XLSX)",
+      "package_id": "c404ebaf-eba0-43a9-8376-ee45ef805f3d",
+      "position": 6,
+      "resource_type": "file",
+      "revision_id": "7f5224dc-ac44-4832-b24e-032af005e827",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/oferta-gastronomica/establecimientos_gastronomicos.xlsx",
+      "url_type": null
+    }
+  ],
+  "revision_id": "53527f70-1d14-4a38-b730-7dba4bd5b1aa",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "bares",
+      "id": "0526d3c5-bed9-4d06-8c62-fd0fea6738e9",
+      "name": "bares",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "comida",
+      "id": "697e19c7-f588-44ea-960e-03593eeef952",
+      "name": "comida",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "gastronomia",
+      "id": "667ec146-668c-4dca-9b08-02cd9da8ac19",
+      "name": "gastronomia",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "restaurantes",
+      "id": "6724de96-d7a0-42c3-86dd-0d16c1fddeda",
+      "name": "restaurantes",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Oferta y Establecimientos gastronómicos",
+  "type": "dataset",
+  "url": "https://data.buenosaires.gob.ar/dataset/oferta-gastronomica",
+  "version": null
+}

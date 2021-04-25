@@ -1,0 +1,268 @@
+{
+  "author": "Ministerio de Desarrollo Urbano y Transporte. SS Planeamiento. DG de Datos, Estadística y Proyección Urbana",
+  "author_email": "datosabiertos@buenosaires.gob.ar",
+  "creator_user_id": "e4546f46-e966-493c-b2f1-57318502c41b",
+  "extras": [
+    {
+      "key": "Documentación",
+      "value": ""
+    },
+    {
+      "key": "accrualPeriodicity",
+      "value": "eventual"
+    },
+    {
+      "key": "country",
+      "value": "None"
+    },
+    {
+      "key": "district",
+      "value": ""
+    },
+    {
+      "key": "home_featured",
+      "value": "false"
+    },
+    {
+      "key": "issued",
+      "value": "2019-01-08T14:54:52.569686"
+    },
+    {
+      "key": "language",
+      "value": "[]"
+    },
+    {
+      "key": "modified",
+      "value": "2021-02-25T17:21:37.696511"
+    },
+    {
+      "key": "province",
+      "value": ""
+    },
+    {
+      "key": "source",
+      "value": "Ministerio de Desarrollo Urbano y Transporte. SS Planeamiento. DG de Datos, Estadística y Proyección Urbana"
+    },
+    {
+      "key": "spatial",
+      "value": "None"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"REGI\"]"
+    },
+    {
+      "key": "temporal",
+      "value": ""
+    }
+  ],
+  "groups": [
+    {
+      "description": "Datasets relacionados con urbanismo y territorio",
+      "display_name": "Urbanismo y Territorio",
+      "id": "63e162a0-3f4a-446a-a60b-601d16f36200",
+      "image_display_url": "https://data.buenosaires.gob.ar/uploads/group/2019-11-16-145056.781692urba.png",
+      "name": "urbanismo-y-territorio",
+      "title": "Urbanismo y Territorio"
+    }
+  ],
+  "id": "juqdkmgo-138",
+  "isopen": true,
+  "license_id": "CC-BY-2.5-AR",
+  "license_title": "Atribucion 2.5 Argentina (CC BY 2.5 AR)",
+  "license_url": "https://creativecommons.org/licenses/by/2.5/ar ",
+  "maintainer": "Secretaría General y Relaciones Internacionales. Subsecretaría Gestión Estratégica y Calidad Institucional. Dirección General Calidad Institucional y Gobierno Abierto",
+  "maintainer_email": "datosabiertos@buenosaires.gob.ar",
+  "metadata_created": "2019-12-11T18:12:33.915633",
+  "metadata_modified": "2021-02-25T20:21:37.708738",
+  "name": "manzanas",
+  "notes": "Límites y ubicación geográfica de las manzanas de la Ciudad.",
+  "num_resources": 4,
+  "num_tags": 5,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-11-15T19:19:23.733985",
+    "description": "",
+    "id": "eddbd148-4cef-40e1-87f7-94345c709aad",
+    "image_url": "",
+    "is_organization": true,
+    "name": "secretaria-de-desarrollo-urbano",
+    "revision_id": "14b2ab11-275f-4466-b2f4-4b60ff08fa3e",
+    "state": "active",
+    "title": "Secretaría de Desarrollo Urbano",
+    "type": "organization"
+  },
+  "owner_org": "eddbd148-4cef-40e1-87f7-94345c709aad",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/manzanas",
+      "accessURL_field": "",
+      "attributesDescription": "[]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-05-22T15:47:07.310762",
+      "datastore_active": false,
+      "description": "Sección, manzana, área y perímetro de las manzanas de la Ciudad.",
+      "fileName": "mapa_manzanas.csv",
+      "format": "CSV",
+      "has-uploaded-file": "",
+      "hash": "",
+      "icon_url": "",
+      "id": "juqdkmgo-1383-resource",
+      "issued": "2019-05-22T15:47:07.310762",
+      "last_modified": "2019-05-22T15:47:07.310762",
+      "license_id": "CC-BY-4.0",
+      "mimetype": "text/csv",
+      "mimetype_inner": null,
+      "modified": "2021-02-09",
+      "name": "Mapa Manzanas",
+      "package_id": "juqdkmgo-138",
+      "position": 0,
+      "resource_type": "file",
+      "revision_id": "c50a5e51-4b5e-4d5b-bd70-aa9848ce63a0",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/manzanas/mapa_manzanas.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/manzanas",
+      "accessURL_field": "",
+      "attributesDescription": "[]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2018-02-14T00:00:00",
+      "datastore_active": false,
+      "description": "Archivo shapefile con el mapa de manzanas de la ciudad.",
+      "fileName": "mapa_manzanas.zip",
+      "format": "ZIP",
+      "has-uploaded-file": "",
+      "hash": "",
+      "icon_url": "",
+      "id": "juqdkmgo-1384-resource",
+      "issued": "2018-02-14T00:00:00",
+      "last_modified": null,
+      "license_id": "CC-BY-4.0",
+      "mimetype": "application/zip",
+      "mimetype_inner": null,
+      "modified": "2021-02-09",
+      "name": "Mapa Manzanas (SHP)",
+      "package_id": "juqdkmgo-138",
+      "position": 1,
+      "resource_type": "file",
+      "revision_id": "087d28ad-bbe0-4c90-ae56-4136cf41e3ff",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/manzanas/mapa_manzanas.zip",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/138/resource/78a97854-6930-4d1c-b345-deb43168d88d",
+      "accessURL_field": "",
+      "attributesDescription": "[]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-05-03T10:33:20.817716",
+      "datastore_active": false,
+      "description": "Archivo GeoJSON con el mapa de manzanas de la ciudad.",
+      "fileName": "mapa_manzanas.geojson",
+      "format": "GeoJSON",
+      "has-uploaded-file": "",
+      "hash": "",
+      "icon_url": "",
+      "id": "78a97854-6930-4d1c-b345-deb43168d88d",
+      "issued": "2019-05-03T10:33:20.817716",
+      "last_modified": "2019-05-03T10:33:20.817716",
+      "license_id": "CC-BY-4.0",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "modified": "2021-02-09",
+      "name": "Mapa Manzanas (GeoJSON)",
+      "package_id": "juqdkmgo-138",
+      "position": 2,
+      "resource_type": "file",
+      "revision_id": "ffeca4ae-5d7c-4012-b7bb-05dd404fcd24",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/manzanas/mapa_manzanas.geojson",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/manzanas",
+      "accessURL_field": "",
+      "attributesDescription": "[]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-05-22T15:47:07.310762",
+      "datastore_active": false,
+      "description": "Sección, manzana, área y perímetro de las manzanas de la Ciudad.",
+      "fileName": "mapa_manzanas.xlsx",
+      "format": "XLSX",
+      "has-uploaded-file": "",
+      "hash": "",
+      "icon_url": "",
+      "id": "juqdkmgo-1383-resource-xlsx",
+      "issued": "2019-05-22T15:47:07.310762",
+      "last_modified": "2019-05-22T15:47:07.310762",
+      "license_id": "CC-BY-4.0",
+      "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "mimetype_inner": null,
+      "modified": "2021-02-09",
+      "name": "Mapa Manzanas (XLSX)",
+      "package_id": "juqdkmgo-138",
+      "position": 3,
+      "resource_type": "file",
+      "revision_id": "deda5c89-aba6-4326-8d4e-ee562336d26e",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/manzanas/mapa_manzanas.xlsx",
+      "url_type": null
+    }
+  ],
+  "revision_id": "69e79388-38f8-4f4b-8f79-b4c3839b2fbb",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "ciudad 3d",
+      "id": "85a8900e-54ff-4888-9c8f-14432f167da2",
+      "name": "ciudad 3d",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "cur3d",
+      "id": "bf125fc5-008f-4671-b9f1-e3552eb052dd",
+      "name": "cur3d",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "plano abierto",
+      "id": "2cf0ec73-4443-4d28-b693-b2e8d7d46375",
+      "name": "plano abierto",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "suelo",
+      "id": "d2821e98-aac7-495b-825d-4bc490d34f23",
+      "name": "suelo",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "urbanismo",
+      "id": "17ac67e7-699b-470d-b0dd-5b8752c1fb73",
+      "name": "urbanismo",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Manzanas",
+  "type": "dataset",
+  "url": "https://data.buenosaires.gob.ar/dataset/manzanas",
+  "version": null
+}

@@ -1,0 +1,192 @@
+{
+  "author": "Dirección General Habilitación de Conductores. SS de Servicio al Ciudadano. Atención Ciudadana y Gestión Comunal. Jefatura de Gabinete de Ministros",
+  "author_email": "datosabiertos@buenosaires.gob.ar",
+  "creator_user_id": "3ff46b8e-0885-4233-9acd-90f8b7e76333",
+  "extras": [
+    {
+      "key": "Documentación",
+      "value": ""
+    },
+    {
+      "key": "accrualPeriodicity",
+      "value": "eventual"
+    },
+    {
+      "key": "country",
+      "value": "None"
+    },
+    {
+      "key": "district",
+      "value": ""
+    },
+    {
+      "key": "home_featured",
+      "value": "false"
+    },
+    {
+      "key": "issued",
+      "value": "2021-04-16T12:51:22.467581"
+    },
+    {
+      "key": "language",
+      "value": "[]"
+    },
+    {
+      "key": "modified",
+      "value": "2021-04-16T12:51:22.467581"
+    },
+    {
+      "key": "province",
+      "value": ""
+    },
+    {
+      "key": "source",
+      "value": "Dirección General Habilitación de Conductores. SS de Servicio al Ciudadano. Atención Ciudadana y Gestión Comunal. Jefatura de Gabinete de Ministros"
+    },
+    {
+      "key": "spatial",
+      "value": "None"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"ECON\",\"GOVE\"]"
+    },
+    {
+      "key": "temporal",
+      "value": ""
+    }
+  ],
+  "groups": [
+    {
+      "description": "Datasets relacionados con urbanismo y territorio",
+      "display_name": "Urbanismo y Territorio",
+      "id": "63e162a0-3f4a-446a-a60b-601d16f36200",
+      "image_display_url": "https://data.buenosaires.gob.ar/uploads/group/2019-11-16-145056.781692urba.png",
+      "name": "urbanismo-y-territorio",
+      "title": "Urbanismo y Territorio"
+    }
+  ],
+  "id": "60259920-0d2a-4fb6-9e0a-c52a3e0aca2a",
+  "isopen": true,
+  "license_id": "CC-BY-2.5-AR",
+  "license_title": "Atribucion 2.5 Argentina (CC BY 2.5 AR)",
+  "license_url": "https://creativecommons.org/licenses/by/2.5/ar ",
+  "maintainer": "Gerencia Operativa de Ingeniería de Datos. DG Arquitectura de Datos. SS de Políticas Públicas Basadas en Evidencia. Secretaría de Innovación y Transformación Digital. Jefatura de Gabinete de Ministros",
+  "maintainer_email": "datosabiertos@buenosaires.gob.ar",
+  "metadata_created": "2021-04-16T15:51:22.554596",
+  "metadata_modified": "2021-04-16T15:54:52.377984",
+  "name": "espacio-publico-decks",
+  "notes": "Información de los permisos de uso de espacio público para los DECKS otorgados por la Ciudad.",
+  "num_resources": 2,
+  "num_tags": 3,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-11-15T19:15:46.928623",
+    "description": "",
+    "id": "282bb408-f41f-41c1-b736-b612affc0af4",
+    "image_url": "",
+    "is_organization": true,
+    "name": "atencion-ciudadana",
+    "revision_id": "c4b9e00e-5f3b-47a8-9319-33e116724a83",
+    "state": "active",
+    "title": "Secretaria de Atención Ciudadana y Gestión Comunal",
+    "type": "organization"
+  },
+  "owner_org": "282bb408-f41f-41c1-b736-b612affc0af4",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "",
+      "accessURL_field": "",
+      "attributesDescription": "[]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2021-04-16T15:54:12.962523",
+      "datastore_active": false,
+      "description": "Información con georreferencia de los decks habilitados. Incluye coordenadas, calle, barrio, fecha de habilitación y de vencimiento, entre otros datos. ",
+      "fileName": "decks.csv",
+      "format": "CSV",
+      "has-uploaded-file": "",
+      "hash": "",
+      "icon_url": "",
+      "id": "2bd445e0-6f85-4a4b-a624-271608e8b4a6",
+      "issued": "2021-04-16T12:54:12.762664",
+      "last_modified": "2021-04-16T15:54:12.820746",
+      "license_id": "CC-BY-2.5-AR",
+      "mimetype": "text/csv",
+      "mimetype_inner": null,
+      "modified": "2021-04-16T12:54:12.762664",
+      "name": "Permisos de uso del espacio público - DECKS",
+      "package_id": "60259920-0d2a-4fb6-9e0a-c52a3e0aca2a",
+      "position": 0,
+      "resource_type": "file.upload",
+      "revision_id": "4f5f42b6-0d05-4310-8a48-c90715f6e5bc",
+      "size": 6862,
+      "state": "active",
+      "url": "https://data.buenosaires.gob.ar/dataset/60259920-0d2a-4fb6-9e0a-c52a3e0aca2a/resource/2bd445e0-6f85-4a4b-a624-271608e8b4a6/download/decks.csv",
+      "url_type": "upload"
+    },
+    {
+      "accessURL": "",
+      "accessURL_field": "",
+      "attributesDescription": "[]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2021-04-16T15:54:50.158381",
+      "datastore_active": false,
+      "description": "Información con georreferencia de los decks habilitados. Incluye coordenadas, calle, barrio, fecha de habilitación y de vencimiento, entre otros datos. ",
+      "fileName": "decks.xlsx",
+      "format": "XLSX",
+      "has-uploaded-file": "",
+      "hash": "",
+      "icon_url": "",
+      "id": "fd009ad4-46c6-4746-9f90-c59c91e2003c",
+      "issued": "2021-04-16T12:54:49.706057",
+      "last_modified": "2021-04-16T15:54:49.868716",
+      "license_id": "CC-BY-2.5-AR",
+      "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "mimetype_inner": null,
+      "modified": "2021-04-16T12:54:49.706057",
+      "name": "Permisos de uso del espacio público - DECKS (XLSX)",
+      "package_id": "60259920-0d2a-4fb6-9e0a-c52a3e0aca2a",
+      "position": 1,
+      "resource_type": "file.upload",
+      "revision_id": "760083e1-c83c-4efe-b421-c0fee6810ceb",
+      "size": 10062,
+      "state": "active",
+      "url": "https://data.buenosaires.gob.ar/dataset/60259920-0d2a-4fb6-9e0a-c52a3e0aca2a/resource/fd009ad4-46c6-4746-9f90-c59c91e2003c/download/decks.xlsx",
+      "url_type": "upload"
+    }
+  ],
+  "revision_id": "760083e1-c83c-4efe-b421-c0fee6810ceb",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "decks",
+      "id": "0f59e44b-3700-49b7-842f-72dc1e2c5263",
+      "name": "decks",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "espacio público",
+      "id": "4c9fc71e-3fac-4e2c-aace-8f532ef3adf5",
+      "name": "espacio público",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "permisos",
+      "id": "7f29a0a7-b794-43b0-a954-3c128c62f88b",
+      "name": "permisos",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Permisos de uso del espacio público - DECKS",
+  "type": "dataset",
+  "url": "https://data.buenosaires.gob.ar/dataset/espacio-publico-decks",
+  "version": null
+}

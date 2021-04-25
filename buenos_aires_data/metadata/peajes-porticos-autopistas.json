@@ -1,0 +1,170 @@
+{
+  "author": "Autopistas Urbanas S.A. (AUSA)",
+  "author_email": "gobiernoabierto@buenosaires.gob.ar",
+  "creator_user_id": "e4546f46-e966-493c-b2f1-57318502c41b",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "eventual"
+    },
+    {
+      "key": "issued",
+      "value": "2019-07-25T15:14:19.691115"
+    },
+    {
+      "key": "language",
+      "value": "[\"SPA\"]"
+    },
+    {
+      "key": "modified",
+      "value": "2019-07-25T15:14:19.691115"
+    },
+    {
+      "key": "source",
+      "value": "Autopistas Urbanas S.A. (AUSA)"
+    },
+    {
+      "key": "spatial",
+      "value": "02"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"REGI\", \"TRAN\"]"
+    }
+  ],
+  "groups": [
+    {
+      "description": "",
+      "display_name": "Movilidad",
+      "id": "e616e02e-64d8-4fb0-b55d-08e75eb58376",
+      "image_display_url": "https://data.buenosaires.gob.ar/uploads/group/2019-11-16-145017.234366movilidad.png",
+      "name": "movilidad",
+      "title": "Movilidad"
+    },
+    {
+      "description": "Datasets relacionados con urbanismo y territorio",
+      "display_name": "Urbanismo y Territorio",
+      "id": "63e162a0-3f4a-446a-a60b-601d16f36200",
+      "image_display_url": "https://data.buenosaires.gob.ar/uploads/group/2019-11-16-145056.781692urba.png",
+      "name": "urbanismo-y-territorio",
+      "title": "Urbanismo y Territorio"
+    }
+  ],
+  "id": "d12e9474-aa63-4d99-b5f8-1ce5af607212",
+  "isopen": true,
+  "license_id": "CC-BY-2.5-AR",
+  "license_title": "Atribucion 2.5 Argentina (CC BY 2.5 AR)",
+  "license_url": "https://creativecommons.org/licenses/by/2.5/ar ",
+  "maintainer": "Secretaría General y Relaciones Internacionales. Subsecretaría Gestión Estratégica y Calidad Institucional. Dirección General Calidad Institucional y Gobierno Abierto",
+  "maintainer_email": "gobiernoabierto@buenosaires.gob.ar",
+  "metadata_created": "2019-12-11T18:03:45.550407",
+  "metadata_modified": "2020-12-17T16:50:54.526439",
+  "name": "peajes-porticos-autopistas",
+  "notes": "Ubicación de los peajes y pórticos de las autopistas de la Ciudad.",
+  "num_resources": 2,
+  "num_tags": 4,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-11-15T19:11:57.532256",
+    "description": "",
+    "id": "00348dd2-ca7d-4b08-9d0c-0aae1eb7453b",
+    "image_url": "",
+    "is_organization": true,
+    "name": "ausa",
+    "revision_id": "2b19c3c9-1c68-4f00-858c-892003035b27",
+    "state": "active",
+    "title": "Autopistas Urbanas (AUSA)",
+    "type": "organization"
+  },
+  "owner_org": "00348dd2-ca7d-4b08-9d0c-0aae1eb7453b",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/d12e9474-aa63-4d99-b5f8-1ce5af607212/resource/c021be7b-96b4-440c-bf34-e8f8f6733794",
+      "attributesDescription": "[{\"title\": \"id_peaje\", \"type\": \"string\", \"description\": \"Id del peaje o p\\u00f3rtico\"}, {\"title\": \"descripcion_peaje\", \"type\": \"string\", \"description\": \"Nombre del peaje\"}, {\"title\": \"long\", \"type\": \"string\", \"description\": \"Longitud de la ubicaci\\u00f3n del peaje o p\\u00f3rtico\"}, {\"title\": \"lat\", \"type\": \"string\", \"description\": \"Latitud de la ubicaci\\u00f3n del peaje o p\\u00f3rtico\"}, {\"title\": \"autopista\", \"type\": \"string\", \"description\": \"Nombre de la autopista\"}, {\"title\": \"pkm\", \"type\": \"number\", \"description\": \"Kilometraje en el que se ubica el peaje o p\\u00f3rtico\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-07-25T15:31:22.022650",
+      "datastore_active": true,
+      "description": "Listado con los peajes y pórticos en las autopistas. Incluye id, coordenadas, autopistas y kilómetro.",
+      "fileName": "peajes-y-porticos-autopistas.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "c021be7b-96b4-440c-bf34-e8f8f6733794",
+      "last_modified": "2019-07-25T15:31:22.022650",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Peajes y pórticos en autopistas",
+      "package_id": "d12e9474-aa63-4d99-b5f8-1ce5af607212",
+      "position": 0,
+      "resource_type": "file",
+      "revision_id": "8dc1f9eb-f483-4996-a007-a44f47afa417",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/peajes-y-porticos/peajes-y-porticos-autopistas.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/d12e9474-aa63-4d99-b5f8-1ce5af607212/resource/c021be7b-96b4-440c-bf34-e8f8f6733794",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-07-25T15:31:22.022650",
+      "datastore_active": true,
+      "description": "Listado con los peajes y pórticos en las autopistas. Incluye id, coordenadas, autopistas y kilómetro.",
+      "fileName": "peajes-y-porticos-autopistas.xlsx",
+      "format": "XLSX",
+      "hash": "",
+      "id": "c021be7b-96b4-440c-bf34-e8f8f6733794-xlsx",
+      "last_modified": "2019-07-25T15:31:22.022650",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Peajes y pórticos en autopistas (XLSX)",
+      "package_id": "d12e9474-aa63-4d99-b5f8-1ce5af607212",
+      "position": 1,
+      "resource_type": "file",
+      "revision_id": "a1bab8de-9d63-46c2-aab4-c2daf1ec8c4d",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/peajes-y-porticos/peajes-y-porticos-autopistas.xlsx",
+      "url_type": null
+    }
+  ],
+  "revision_id": "c0f98f4a-f698-4e3f-a382-68e6ad9916cc",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "autopistas",
+      "id": "5c338b75-5b81-4eab-a90b-0f996381ca7d",
+      "name": "autopistas",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "peajes",
+      "id": "49aac990-dfa3-4674-bda9-33f6aa35dd28",
+      "name": "peajes",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "pórticos",
+      "id": "049972dd-fe72-4c71-ae71-b9d64b1ac1bf",
+      "name": "pórticos",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "vehículos",
+      "id": "bf15f20d-d192-4315-9b9d-646daa9aaa03",
+      "name": "vehículos",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Peajes y pórticos de autopistas",
+  "type": "dataset",
+  "url": "https://data.buenosaires.gob.ar/dataset/peajes-y-porticos-de-autopistas",
+  "version": null
+}

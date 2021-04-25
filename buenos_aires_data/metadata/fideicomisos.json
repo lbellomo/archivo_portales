@@ -1,0 +1,140 @@
+{
+  "author": "Ministerio de Justicia y Seguridad. Subsecretaría de Justicia. Dirección General de Justicia, Registro y Mediación",
+  "author_email": "gobiernoabierto@buenosaires.gob.ar",
+  "creator_user_id": "e4546f46-e966-493c-b2f1-57318502c41b",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P6M"
+    },
+    {
+      "key": "issued",
+      "value": "2019-04-24T12:48:23.619502"
+    },
+    {
+      "key": "language",
+      "value": "[\"SPA\"]"
+    },
+    {
+      "key": "modified",
+      "value": "2019-04-24T12:48:23.619502"
+    },
+    {
+      "key": "source",
+      "value": "Ministerio de Justicia y Seguridad. Subsecretaría de Justicia. Dirección General de Justicia, Registro y Mediación"
+    },
+    {
+      "key": "spatial",
+      "value": "02"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"JUST\"]"
+    }
+  ],
+  "groups": [
+    {
+      "description": "",
+      "display_name": "Seguridad",
+      "id": "b656bb3f-230a-414f-acce-19d0d98e01df",
+      "image_display_url": "https://data.buenosaires.gob.ar/uploads/group/2019-11-16-145044.366204segu.png",
+      "name": "seguridad",
+      "title": "Seguridad"
+    }
+  ],
+  "id": "f0a66390-6c25-478c-b84d-3c463a2d1d0e",
+  "isopen": true,
+  "license_id": "CC-BY-2.5-AR",
+  "license_title": "Atribucion 2.5 Argentina (CC BY 2.5 AR)",
+  "license_url": "https://creativecommons.org/licenses/by/2.5/ar ",
+  "maintainer": "Secretaría General y Relaciones Internacionales. Subsecretaría Gestión Estratégica y Calidad Institucional. Dirección General Calidad Institucional y Gobierno Abierto",
+  "maintainer_email": "gobiernoabierto@buenosaires.gob.ar",
+  "metadata_created": "2019-12-11T18:31:38.450521",
+  "metadata_modified": "2020-12-17T16:17:58.367443",
+  "name": "fideicomisos",
+  "notes": "Datos sobre fideicomisos de la Ciudad de Buenos Aires",
+  "num_resources": 2,
+  "num_tags": 1,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-11-15T19:17:17.612030",
+    "description": "",
+    "id": "b4408826-7d79-46fc-be96-c34b7686d50a",
+    "image_url": "",
+    "is_organization": true,
+    "name": "subsecretaria-justicia",
+    "revision_id": "8ada75f5-fb54-4a17-8fe0-03545df1c7d6",
+    "state": "active",
+    "title": "Subsecretaría de Justicia",
+    "type": "organization"
+  },
+  "owner_org": "b4408826-7d79-46fc-be96-c34b7686d50a",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/f0a66390-6c25-478c-b84d-3c463a2d1d0e/resource/e9c1a4c6-17e2-4dd9-bf9c-260cbb3f54e2",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-04-24T12:49:43.404231",
+      "datastore_active": false,
+      "description": "Información sobre tipos de fideicomisos y cantidad de la Ciudad de Buenos Aires",
+      "fileName": "fideicomisos.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "e9c1a4c6-17e2-4dd9-bf9c-260cbb3f54e2",
+      "last_modified": "2019-04-24T12:49:43.404231",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Fideicomisos",
+      "package_id": "f0a66390-6c25-478c-b84d-3c463a2d1d0e",
+      "position": 0,
+      "resource_type": "file",
+      "revision_id": "1c13edcf-c29b-4cfb-b174-aca0da413372",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/fideicomisos/fideicomisos.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/f0a66390-6c25-478c-b84d-3c463a2d1d0e/resource/e9c1a4c6-17e2-4dd9-bf9c-260cbb3f54e2",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-04-24T12:49:43.404231",
+      "datastore_active": false,
+      "description": "Información sobre tipos de fideicomisos y cantidad de la Ciudad de Buenos Aires",
+      "fileName": "fideicomisos.xlsx",
+      "format": "XLSX",
+      "hash": "",
+      "id": "e9c1a4c6-17e2-4dd9-bf9c-260cbb3f54e2-xlsx",
+      "last_modified": "2019-04-24T12:49:43.404231",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Fideicomisos (XLSX)",
+      "package_id": "f0a66390-6c25-478c-b84d-3c463a2d1d0e",
+      "position": 1,
+      "resource_type": "file",
+      "revision_id": "91b1b7f1-158e-4ca8-b615-78bab7698a30",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/fideicomisos/fideicomisos.xlsx",
+      "url_type": null
+    }
+  ],
+  "revision_id": "cca4c6e5-7950-4552-bce7-9499a7e6cd79",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "fideicomisos",
+      "id": "2f624a75-c887-4bc7-8c8d-7912f8ee4a2f",
+      "name": "fideicomisos",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Fideicomisos",
+  "type": "dataset",
+  "url": "https://data.buenosaires.gob.ar/dataset/fideicomisos",
+  "version": null
+}

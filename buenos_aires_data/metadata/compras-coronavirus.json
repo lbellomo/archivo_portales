@@ -1,0 +1,222 @@
+{
+  "author": "Ministerio de Hacienda y Finanzas",
+  "author_email": "datosabiertos@buenosaires.gob.ar",
+  "creator_user_id": "e4546f46-e966-493c-b2f1-57318502c41b",
+  "extras": [
+    {
+      "key": "Documentación",
+      "value": ""
+    },
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P1M"
+    },
+    {
+      "key": "country",
+      "value": "ARG"
+    },
+    {
+      "key": "district",
+      "value": ""
+    },
+    {
+      "key": "home_featured",
+      "value": "false"
+    },
+    {
+      "key": "issued",
+      "value": "2020-05-14T12:39:27.925979"
+    },
+    {
+      "key": "language",
+      "value": "[\"spa\"]"
+    },
+    {
+      "key": "modified",
+      "value": "2021-04-09"
+    },
+    {
+      "key": "province",
+      "value": ""
+    },
+    {
+      "key": "source",
+      "value": "Ministerio de Hacienda y Finanzas"
+    },
+    {
+      "key": "spatial",
+      "value": "ARG"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"ECON\",\"HEAL\"]"
+    },
+    {
+      "key": "temporal",
+      "value": ""
+    }
+  ],
+  "groups": [
+    {
+      "description": "Datasets relacionados a COVID-19",
+      "display_name": "COVID-19",
+      "id": "0f30f631-df60-4d33-aedb-96c9a48a2332",
+      "image_display_url": "https://data.buenosaires.gob.ar/uploads/group/2020-07-23-165939.349779iconocovid19.png",
+      "name": "covid-19",
+      "title": "COVID-19"
+    },
+    {
+      "description": "Datasets relacionados con la economía y las finanzas",
+      "display_name": "Economía y Finanzas",
+      "id": "64da4336-6da7-4494-80c0-365016597e9e",
+      "image_display_url": "https://data.buenosaires.gob.ar/uploads/group/2019-11-16-144934.521128economia.png",
+      "name": "economia-y-finanzas",
+      "title": "Economía y Finanzas"
+    },
+    {
+      "description": "",
+      "display_name": "Salud",
+      "id": "0be192e9-f1b7-4308-bb9a-f362e2ff44a6",
+      "image_display_url": "https://data.buenosaires.gob.ar/uploads/group/2019-11-16-145030.020776salud.png",
+      "name": "salud",
+      "title": "Salud"
+    }
+  ],
+  "id": "09dc79ef-6bcc-456a-b6ea-f3d9bf0b5980",
+  "isopen": true,
+  "license_id": "CC-BY-2.5-AR",
+  "license_title": "Atribucion 2.5 Argentina (CC BY 2.5 AR)",
+  "license_url": "https://creativecommons.org/licenses/by/2.5/ar ",
+  "maintainer": "",
+  "maintainer_email": "datosabiertos@buenosaires.gob.ar",
+  "metadata_created": "2020-05-14T13:33:27.149224",
+  "metadata_modified": "2021-04-09T19:18:41.304163",
+  "name": "compras-coronavirus",
+  "notes": "En este dataset vas a encontrar información referida a las compras y contrataciones realizadas desde el 22 de abril de 2020, en el marco de la emergencia sanitaria.",
+  "num_resources": 2,
+  "num_tags": 5,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-11-15T19:19:36.584582",
+    "description": "",
+    "id": "6627a918-f475-43bb-b167-11de01ae62df",
+    "image_url": "",
+    "is_organization": true,
+    "name": "ministerio-de-economia-y-finanzas",
+    "revision_id": "57d30234-7d4b-4b19-a2fa-1a57afc0e03b",
+    "state": "active",
+    "title": "Ministerio de Hacienda y Finanzas",
+    "type": "organization"
+  },
+  "owner_org": "6627a918-f475-43bb-b167-11de01ae62df",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "",
+      "accessURL_field": "",
+      "attributesDescription": "[{\"title\":\"fecha\",\"description\":\"Fecha de la compra\",\"type\":\"date\"},{\"title\":\"nro_pliego\",\"description\":\"id del proceso\",\"type\":\"integer\"},{\"title\":\"nro_orden_de_compra\",\"description\":\"id del contrato\",\"type\":\"integer\"},{\"title\":\"unidad_ejecutora\",\"description\":\"unidad de gobierno que realizó la operación\",\"type\":\"string\"},{\"title\":\"jurisdiccion\",\"description\":\"jurisdiscción de aplicación del proceso\",\"type\":\"string\"},{\"title\":\"proveedor\",\"description\":\"nombre del proveedor\",\"type\":\"string\"},{\"title\":\"cuit\",\"description\":\"cuit del proveedor\",\"type\":\"string\"},{\"title\":\"importe\",\"description\":\"importe de la compra\",\"type\":\"number\"},{\"title\":\"descripcion\",\"description\":\"descripcion con nombre del objeto de la compra/contratación\",\"type\":\"string\"},{\"title\":\"cantidad\",\"description\":\"cantidad del item adquirido\",\"type\":\"integer\"},{\"title\":\"rubro\",\"description\":\"rubro del item adquirido\",\"type\":\"string\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2020-05-14T13:36:46.824833",
+      "datastore_active": false,
+      "description": "Listado con información de las compras y contrataciones realizadas por el Gobierno de la Ciudad en relación a COVID-19",
+      "fileName": "compras-coronavirus.csv",
+      "format": "CSV",
+      "has-uploaded-file": "",
+      "hash": "",
+      "icon_url": "",
+      "id": "e2e8d4c1-fb01-4867-98b5-d9ffcf271320",
+      "issued": "2020-05-14T12:39:47.336152",
+      "last_modified": null,
+      "license_id": "CC-BY-2.5-AR",
+      "mimetype": "text/csv",
+      "mimetype_inner": null,
+      "modified": "2021-04-09",
+      "name": "Compras y Contrataciones covid-19",
+      "package_id": "09dc79ef-6bcc-456a-b6ea-f3d9bf0b5980",
+      "position": 0,
+      "resource_type": "file",
+      "revision_id": "5e4125a3-e7b0-4fc0-b860-44d55a0ca0e7",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/economia/compras-coronavirus/compras-coronavirus.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "",
+      "accessURL_field": "",
+      "attributesDescription": "[{\"title\":\"fecha\",\"description\":\"fecha de la compra\",\"type\":\"date\"},{\"title\":\"nro_pliego\",\"description\":\"id del proceso\",\"type\":\"integer\"},{\"title\":\"nro_orden_de_compra\",\"description\":\"id del contrato\",\"type\":\"integer\"},{\"title\":\"unidad_ejecutora\",\"description\":\"unidad de gobierno que realizó la operación\",\"type\":\"string\"},{\"title\":\"jurisdiccion\",\"description\":\"jurisdiscción de aplicación del proceso\",\"type\":\"string\"},{\"title\":\"proveedor\",\"description\":\"nombre del proveedor\",\"type\":\"string\"},{\"title\":\"cuit\",\"description\":\"cuit del proveedor\",\"type\":\"string\"},{\"title\":\"importe\",\"description\":\"importe de la compra\",\"type\":\"number\"},{\"title\":\"descripcion\",\"description\":\"descripcion con nombre del objeto de la compra/contratación\",\"type\":\"string\"},{\"title\":\"cantidad\",\"description\":\"cantidad del item adquirido\",\"type\":\"integer\"},{\"title\":\"rubro\",\"description\":\"rubro del item adquirido\",\"type\":\"string\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2020-05-14T13:37:32.004480",
+      "datastore_active": false,
+      "description": "Listado con información de las compras y contrataciones realizadas por el Gobierno de la Ciudad en relación a COVID-19",
+      "fileName": "compras-coronavirus.xlsx",
+      "format": "XLSX",
+      "has-uploaded-file": "",
+      "hash": "",
+      "icon_url": "",
+      "id": "a7446ee2-2653-4835-977e-b97ba69d473e",
+      "issued": "2020-05-14T10:37:30.691376",
+      "last_modified": null,
+      "license_id": "CC-BY-2.5-AR",
+      "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "mimetype_inner": null,
+      "modified": "2021-04-09",
+      "name": "Compras y Contrataciones covid-19 (XLSX)",
+      "package_id": "09dc79ef-6bcc-456a-b6ea-f3d9bf0b5980",
+      "position": 1,
+      "resource_type": "file",
+      "revision_id": "d613474f-6b41-482c-bbe1-f73f288339ba",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/economia/compras-coronavirus/compras-coronavirus.xlsx",
+      "url_type": null
+    }
+  ],
+  "revision_id": "cd465e42-6ade-4b48-a21b-8a63d4c68a1d",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "compras",
+      "id": "9d4fc520-47fd-41fc-a35a-519e6d8a98f9",
+      "name": "compras",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "coronavirus",
+      "id": "efeebfc4-0eaf-47bc-9d00-435b9c600fa1",
+      "name": "coronavirus",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "covid",
+      "id": "660b8ba0-37fd-48fc-84c8-2090dd260137",
+      "name": "covid",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "covid19",
+      "id": "95ef89f7-217b-4107-b6ee-61e74304c44e",
+      "name": "covid19",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "emergencia sanitaria",
+      "id": "0995e8e3-64c5-4104-ba70-5d6719df52df",
+      "name": "emergencia sanitaria",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Compras coronavirus",
+  "type": "dataset",
+  "url": "https://data.buenosaires.gob.ar/dataset/compras-coronavirus",
+  "version": null
+}

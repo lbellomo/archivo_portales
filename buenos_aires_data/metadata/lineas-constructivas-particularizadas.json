@@ -1,0 +1,289 @@
+{
+  "author": "Subsecretaría de Registro, Interpretación y Catastro. Secretaría de Desarrollo Urbano. Jefatura de Gabinete de Ministros",
+  "author_email": "datosabiertos@buenosaires.gob.ar",
+  "creator_user_id": "3ff46b8e-0885-4233-9acd-90f8b7e76333",
+  "extras": [
+    {
+      "key": "Documentación",
+      "value": ""
+    },
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P3M"
+    },
+    {
+      "key": "country",
+      "value": "None"
+    },
+    {
+      "key": "district",
+      "value": ""
+    },
+    {
+      "key": "home_featured",
+      "value": "false"
+    },
+    {
+      "key": "issued",
+      "value": "2020-12-14T11:32:27.063202"
+    },
+    {
+      "key": "language",
+      "value": "[]"
+    },
+    {
+      "key": "modified",
+      "value": "2021-02-09"
+    },
+    {
+      "key": "province",
+      "value": ""
+    },
+    {
+      "key": "source",
+      "value": "Subsecretaría de Registro, Interpretación y Catastro. Secretaría de Desarrollo Urbano. Jefatura de Gabinete de Ministros"
+    },
+    {
+      "key": "spatial",
+      "value": "None"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"GOVE\",\"REGI\"]"
+    },
+    {
+      "key": "temporal",
+      "value": ""
+    }
+  ],
+  "groups": [
+    {
+      "description": "Datasets relacionados con urbanismo y territorio",
+      "display_name": "Urbanismo y Territorio",
+      "id": "63e162a0-3f4a-446a-a60b-601d16f36200",
+      "image_display_url": "https://data.buenosaires.gob.ar/uploads/group/2019-11-16-145056.781692urba.png",
+      "name": "urbanismo-y-territorio",
+      "title": "Urbanismo y Territorio"
+    }
+  ],
+  "id": "89e49121-fed8-4fa6-8db3-0d919bc178f6",
+  "isopen": true,
+  "license_id": "CC-BY-2.5-AR",
+  "license_title": "Atribucion 2.5 Argentina (CC BY 2.5 AR)",
+  "license_url": "https://creativecommons.org/licenses/by/2.5/ar ",
+  "maintainer": "Gerencia Operativa de Ingeniería de Datos. DG Arquitectura de Datos. SS de Políticas Públicas Basadas en Evidencia. Secretaría de Innovación y Transformación Digital. Jefatura de Gabinete de Ministros",
+  "maintainer_email": "datosabiertos@buenosaires.gob.ar",
+  "metadata_created": "2020-11-30T12:51:12.559038",
+  "metadata_modified": "2021-02-09T14:26:46.040019",
+  "name": "lineas-constructivas-particularizadas",
+  "notes": "Información sobre restricciones urbanísticas. Incluye afectaciones como líneas particularizadas, afectaciones, el Cinturón Digital, la limitación de Altura Aeronáutica, entre otras. ",
+  "num_resources": 4,
+  "num_tags": 8,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-11-15T19:19:23.733985",
+    "description": "",
+    "id": "eddbd148-4cef-40e1-87f7-94345c709aad",
+    "image_url": "",
+    "is_organization": true,
+    "name": "secretaria-de-desarrollo-urbano",
+    "revision_id": "14b2ab11-275f-4466-b2f4-4b60ff08fa3e",
+    "state": "active",
+    "title": "Secretaría de Desarrollo Urbano",
+    "type": "organization"
+  },
+  "owner_org": "eddbd148-4cef-40e1-87f7-94345c709aad",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "",
+      "accessURL_field": "",
+      "attributesDescription": "[{\"title\":\"gid\",\"description\":\"gid\",\"type\":\"string\"},{\"title\":\"tipo\",\"description\":\"se identifica a cual de todas las restricciones mencionadas anteriormente corresponde a cada entidad\",\"type\":\"string\"},{\"title\":\"nro_ord\",\"description\":\"indica cual es la Normativa que da origen a la Restricción. En los casos en los que este campo contenga la leyenda 'XXX' indicará que no se encontró normativa origen o el mismo surge a partir de un plano\",\"type\":\"string\"},{\"title\":\"obs\",\"description\":\"Campo genérico de observaciones.Se observan los valores 'VERIFICADO' y 'EN ESTUDIO': El primero indica que la ubicación de la línea se encuentra dentro de las tolerancias preestablecidas por Catastro\",\"type\":\"string\"},{\"title\":\"the_geom\",\"description\":\"the_geom\",\"type\":\"string\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2020-12-17T12:42:35.380621",
+      "datastore_active": false,
+      "description": "El siguiente Shape contiene las Líneas particularizadas, las afectaciones, Servidumbres, retiros obligatorios, el Cinturón Digital, la limitación de Altura Aeronáutica, la franja afectada al distrito.",
+      "fileName": "restricciones.csv",
+      "format": "CSV",
+      "has-uploaded-file": "",
+      "hash": "",
+      "icon_url": "",
+      "id": "cfd55bc1-546e-4680-a3ee-be7ccf29df0a",
+      "issued": "2020-12-17T12:42:35.380621",
+      "last_modified": "2020-12-17T00:00:00",
+      "license_id": "CC-BY-4.0",
+      "mimetype": "text/csv",
+      "mimetype_inner": null,
+      "modified": "2021-02-09",
+      "name": "Restricciones ",
+      "package_id": "89e49121-fed8-4fa6-8db3-0d919bc178f6",
+      "position": 0,
+      "resource_type": "file",
+      "revision_id": "cf7134ef-cce6-42b1-a75d-6e6fde2df394",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/lineas-constructivas-particularizadas/restricciones.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "",
+      "accessURL_field": "",
+      "attributesDescription": "[{\"title\":\"gid\",\"description\":\"gid\",\"type\":\"string\"},{\"title\":\"tipo\",\"description\":\"se identifica a cual de todas las restricciones mencionadas anteriormente corresponde a cada entidad\",\"type\":\"string\"},{\"title\":\"nro_ord\",\"description\":\"indica cual es la Normativa que da origen a la Restricción. En los casos en los que este campo contenga la leyenda 'XXX' indicará que no se encontró normativa origen o el mismo surge a partir de un plano\",\"type\":\"string\"},{\"title\":\"obs\",\"description\":\"Campo genérico de observaciones.Se observan los valores 'VERIFICADO' y 'EN ESTUDIO': El primero indica que la ubicación de la línea se encuentra dentro de las tolerancias preestablecidas por Catastro\",\"type\":\"string\"},{\"title\":\"the_geom\",\"description\":\"the_geom\",\"type\":\"string\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2020-12-17T12:42:43.797949",
+      "datastore_active": false,
+      "description": "El siguiente Shape contiene las Líneas particularizadas, las afectaciones, Servidumbres, retiros obligatorios, el Cinturón Digital, la limitación de Altura Aeronáutica, la franja afectada al distrito.",
+      "fileName": "restricciones.xlsx",
+      "format": "XLSX",
+      "has-uploaded-file": "",
+      "hash": "",
+      "icon_url": "",
+      "id": "0c51543a-f9dc-493f-b638-c1837e9201f6",
+      "issued": "2020-12-17T12:42:43.797949",
+      "last_modified": "2020-12-17T00:00:00",
+      "license_id": "CC-BY-4.0",
+      "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "mimetype_inner": null,
+      "modified": "2021-02-09",
+      "name": "Restricciones (XLSX)",
+      "package_id": "89e49121-fed8-4fa6-8db3-0d919bc178f6",
+      "position": 1,
+      "resource_type": "file",
+      "revision_id": "635bb5f8-5b5c-45e2-bd8e-8153db9b4c2a",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/lineas-constructivas-particularizadas/restricciones.xlsx",
+      "url_type": null
+    },
+    {
+      "accessURL": "",
+      "accessURL_field": "",
+      "attributesDescription": "[{\"title\":\"gid\",\"description\":\"gid\",\"type\":\"string\"},{\"title\":\"tipo\",\"description\":\"se identifica a cual de todas las restricciones mencionadas anteriormente corresponde a cada entidad\",\"type\":\"string\"},{\"title\":\"nro_ord\",\"description\":\"indica cual es la Normativa que da origen a la Restricción. En los casos en los que este campo contenga la leyenda 'XXX' indicará que no se encontró normativa origen o el mismo surge a partir de un plano\",\"type\":\"string\"},{\"title\":\"obs\",\"description\":\"Campo genérico de observaciones.Se observan los valores 'VERIFICADO' y 'EN ESTUDIO': El primero indica que la ubicación de la línea se encuentra dentro de las tolerancias preestablecidas por Catastro\",\"type\":\"string\"},{\"title\":\"the_geom\",\"description\":\"the_geom\",\"type\":\"string\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2020-12-17T12:42:39.320720",
+      "datastore_active": false,
+      "description": "El siguiente Shape contiene las Líneas particularizadas, las afectaciones, Servidumbres, retiros obligatorios, el Cinturón Digital, la limitación de Altura Aeronáutica, la franja afectada al distrito.",
+      "fileName": "restricciones.geojson",
+      "format": "GeoJSON",
+      "has-uploaded-file": "",
+      "hash": "",
+      "icon_url": "",
+      "id": "9cc2e524-fa80-430f-be44-43a8c796bc3c",
+      "issued": "2020-12-17T12:42:39.320720",
+      "last_modified": "2020-12-17T00:00:00",
+      "license_id": "CC-BY-4.0",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "modified": "2021-02-09",
+      "name": "Restricciones  (GEOJSON)",
+      "package_id": "89e49121-fed8-4fa6-8db3-0d919bc178f6",
+      "position": 2,
+      "resource_type": "file",
+      "revision_id": "123627f2-7c63-4bed-b636-4d1bd8e4d2b3",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/lineas-constructivas-particularizadas/restricciones.geojson",
+      "url_type": null
+    },
+    {
+      "accessURL": "",
+      "accessURL_field": "",
+      "attributesDescription": "[{\"title\":\"gid\",\"description\":\"gid\",\"type\":\"string\"},{\"title\":\"tipo\",\"description\":\"se identifica a cual de todas las restricciones mencionadas anteriormente corresponde a cada entidad\",\"type\":\"string\"},{\"title\":\"nro_ord\",\"description\":\"indica cual es la Normativa que da origen a la Restricción. En los casos en los que este campo contenga la leyenda 'XXX' indicará que no se encontró normativa origen o el mismo surge a partir de un plano\",\"type\":\"string\"},{\"title\":\"obs\",\"description\":\"Campo genérico de observaciones.Se observan los valores 'VERIFICADO' y 'EN ESTUDIO': El primero indica que la ubicación de la línea se encuentra dentro de las tolerancias preestablecidas por Catastro\",\"type\":\"string\"},{\"title\":\"the_geom\",\"description\":\"the_geom\",\"type\":\"string\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2020-12-17T12:42:48.652171",
+      "datastore_active": false,
+      "description": "El siguiente Shape contiene las Líneas particularizadas, las afectaciones, Servidumbres, retiros obligatorios, el Cinturón Digital, la limitación de Altura Aeronáutica, la franja afectada al distrito.",
+      "fileName": "restricciones.zip",
+      "format": "ZIP",
+      "has-uploaded-file": "",
+      "hash": "",
+      "icon_url": "",
+      "id": "0ff3dc0a-1740-4503-af5f-be78c1b58e8b",
+      "issued": "2020-12-17T12:42:48.652171",
+      "last_modified": "2020-12-17T00:00:00",
+      "license_id": "CC-BY-4.0",
+      "mimetype": "application/zip",
+      "mimetype_inner": null,
+      "modified": "2021-02-09",
+      "name": "Restricciones (SHP)",
+      "package_id": "89e49121-fed8-4fa6-8db3-0d919bc178f6",
+      "position": 3,
+      "resource_type": "file",
+      "revision_id": "cdc730ea-cd94-4d3c-a583-0fbc8439ca9e",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/lineas-constructivas-particularizadas/restricciones.zip",
+      "url_type": null
+    }
+  ],
+  "revision_id": "f5f00ca7-cb62-49e7-bc2a-ce0feff3a3d8",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "afectaciones",
+      "id": "490528f3-24c4-4e1e-b225-5c88084874f6",
+      "name": "afectaciones",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "apertura",
+      "id": "cd638cf4-0b6e-424d-ae6a-6ca2875aa8d4",
+      "name": "apertura",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "cinturón digital",
+      "id": "d6d5b0e0-ecf7-4735-ae6d-2766a4e82c29",
+      "name": "cinturón digital",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "código urbanístico",
+      "id": "be98c719-1440-4196-a4f4-0d6fe5d07b8c",
+      "name": "código urbanístico",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "ensanche",
+      "id": "d5fcbfdb-3be3-46a3-93dc-27cffa060c64",
+      "name": "ensanche",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "línea de edificación",
+      "id": "5a6a7a61-5d38-4d44-ab69-43d9d0b4e3b3",
+      "name": "línea de edificación",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "mapa3d",
+      "id": "a13bfcbd-69e4-4505-9552-676da1aa7111",
+      "name": "mapa3d",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "restricciones",
+      "id": "d465d580-1f65-4982-b0a7-495219b3af7e",
+      "name": "restricciones",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Líneas Constructivas Particularizadas",
+  "type": "dataset",
+  "url": "https://data.buenosaires.gob.ar/dataset/lineas-constructivas-particularizadas",
+  "version": null
+}

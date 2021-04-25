@@ -1,0 +1,209 @@
+{
+  "author": "Ministerio de Desarrollo Urbano y Transporte. SS de Tránsito y Transporte. DG de Transporte y Tránsito",
+  "author_email": "datosabiertos@buenosaires.gob.ar",
+  "creator_user_id": "e4546f46-e966-493c-b2f1-57318502c41b",
+  "extras": [
+    {
+      "key": "Documentación",
+      "value": ""
+    },
+    {
+      "key": "accrualPeriodicity",
+      "value": "eventual"
+    },
+    {
+      "key": "country",
+      "value": "None"
+    },
+    {
+      "key": "district",
+      "value": ""
+    },
+    {
+      "key": "home_featured",
+      "value": "false"
+    },
+    {
+      "key": "issued",
+      "value": "2019-01-08T15:01:07.123202"
+    },
+    {
+      "key": "language",
+      "value": "[]"
+    },
+    {
+      "key": "modified",
+      "value": "2021-02-25T17:04:47.144571"
+    },
+    {
+      "key": "province",
+      "value": ""
+    },
+    {
+      "key": "source",
+      "value": "Ministerio de Desarrollo Urbano y Transporte. SS de Tránsito y Transporte. DG de Transporte y Tránsito"
+    },
+    {
+      "key": "spatial",
+      "value": "None"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"TRAN\"]"
+    },
+    {
+      "key": "temporal",
+      "value": ""
+    }
+  ],
+  "groups": [
+    {
+      "description": "",
+      "display_name": "Movilidad",
+      "id": "e616e02e-64d8-4fb0-b55d-08e75eb58376",
+      "image_display_url": "https://data.buenosaires.gob.ar/uploads/group/2019-11-16-145017.234366movilidad.png",
+      "name": "movilidad",
+      "title": "Movilidad"
+    }
+  ],
+  "id": "juqdkmgo-190",
+  "isopen": true,
+  "license_id": "CC-BY-2.5-AR",
+  "license_title": "Atribucion 2.5 Argentina (CC BY 2.5 AR)",
+  "license_url": "https://creativecommons.org/licenses/by/2.5/ar ",
+  "maintainer": "Secretaría General y Relaciones Internacionales. Subsecretaría Gestión Estratégica y Calidad Institucional. Dirección General Calidad Institucional y Gobierno Abierto",
+  "maintainer_email": "datosabiertos@buenosaires.gob.ar",
+  "metadata_created": "2019-12-11T18:17:47.943635",
+  "metadata_modified": "2021-02-25T20:04:47.262645",
+  "name": "sensores-transito",
+  "notes": "Información de los sensores que contabilizan el flujo de tránsito en determinadas intersecciones de la Ciudad.",
+  "num_resources": 3,
+  "num_tags": 4,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-11-15T19:19:49.916928",
+    "description": "",
+    "id": "56b60b46-a47c-48fb-9bd4-c2ad0e05fef2",
+    "image_url": "",
+    "is_organization": true,
+    "name": "transporte-y-obras-publicas",
+    "revision_id": "c33c86a3-e197-468f-8b66-5b943b3bf106",
+    "state": "active",
+    "title": "Secretaría de Transporte y Obras Públicas",
+    "type": "organization"
+  },
+  "owner_org": "56b60b46-a47c-48fb-9bd4-c2ad0e05fef2",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/sensores-de-transito",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-01-08T15:01:07.123202",
+      "datastore_active": false,
+      "description": "Ubicación geográfica de los sensores que contabilizan el flujo de tránsito en determinadas intersecciones de la ciudad. Incluye sistema que las contabiliza, barrio, comuna, año de colocación.",
+      "fileName": "sensores.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "juqdkmgo-1901-resource",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Sensores",
+      "package_id": "juqdkmgo-190",
+      "position": 0,
+      "resource_type": "file",
+      "revision_id": "71300c56-b120-4451-b7cc-7c10a72220f8",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/sensores-de-transito/sensores.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/sensores-de-transito",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-01-08T15:01:07.123202",
+      "datastore_active": false,
+      "description": "Archivo shapefile con la ubicación geográfica de los sensores que contabilizan el flujo de tránsito en determinadas intersecciones de la ciudad.",
+      "fileName": "sensores-zip.zip",
+      "format": "ZIP",
+      "hash": "",
+      "id": "juqdkmgo-1902-resource",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Sensores (SHP)",
+      "package_id": "juqdkmgo-190",
+      "position": 1,
+      "resource_type": "file",
+      "revision_id": "261f617d-8cc4-4424-bd82-2533474f27a2",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/sensores-de-transito/sensores-zip.zip",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/sensores-de-transito",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-01-08T15:01:07.123202",
+      "datastore_active": false,
+      "description": "Ubicación geográfica de los sensores que contabilizan el flujo de tránsito en determinadas intersecciones de la ciudad. Incluye sistema que las contabiliza, barrio, comuna, año de colocación.",
+      "fileName": "sensores.xlsx",
+      "format": "XLSX",
+      "hash": "",
+      "id": "juqdkmgo-1901-resource-xlsx",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Sensores (XLSX)",
+      "package_id": "juqdkmgo-190",
+      "position": 2,
+      "resource_type": "file",
+      "revision_id": "4b1ad24b-1670-420f-b815-07323a9d77ad",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/sensores-de-transito/sensores.xlsx",
+      "url_type": null
+    }
+  ],
+  "revision_id": "4148421a-9ee5-460f-9271-c5fb5794204f",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "movilidad-transporte",
+      "id": "d0b6b57a-fca8-4bfc-b51e-814936533def",
+      "name": "movilidad-transporte",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "sensores",
+      "id": "80a2880c-700e-4937-b375-762715de500a",
+      "name": "sensores",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "tránsito",
+      "id": "ce981a9c-943f-414e-b531-5810ae74c546",
+      "name": "tránsito",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "ubicación",
+      "id": "23d579d1-3630-4eca-bf57-939a3add9fd7",
+      "name": "ubicación",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Sensores de Tránsito",
+  "type": "dataset",
+  "url": "https://data.buenosaires.gob.ar/dataset/sensores-transito",
+  "version": null
+}

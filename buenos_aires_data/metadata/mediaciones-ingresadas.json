@@ -1,0 +1,281 @@
+{
+  "author": "Ministerio de Justicia y Seguridad. Subsecretaría de Justicia",
+  "author_email": "datosabiertos@buenosaires.gob.ar",
+  "creator_user_id": "e4546f46-e966-493c-b2f1-57318502c41b",
+  "extras": [
+    {
+      "key": "Documentación",
+      "value": ""
+    },
+    {
+      "key": "accrualPeriodicity",
+      "value": "eventual"
+    },
+    {
+      "key": "country",
+      "value": "None"
+    },
+    {
+      "key": "district",
+      "value": ""
+    },
+    {
+      "key": "home_featured",
+      "value": "false"
+    },
+    {
+      "key": "issued",
+      "value": "2019-04-11T20:18:16.100008"
+    },
+    {
+      "key": "language",
+      "value": "[]"
+    },
+    {
+      "key": "modified",
+      "value": "2021-02-26T17:49:26.264785"
+    },
+    {
+      "key": "province",
+      "value": ""
+    },
+    {
+      "key": "source",
+      "value": "Subsecretaría de Seguridad"
+    },
+    {
+      "key": "spatial",
+      "value": "None"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"JUST\"]"
+    },
+    {
+      "key": "temporal",
+      "value": ""
+    }
+  ],
+  "groups": [
+    {
+      "description": "",
+      "display_name": "Seguridad",
+      "id": "b656bb3f-230a-414f-acce-19d0d98e01df",
+      "image_display_url": "https://data.buenosaires.gob.ar/uploads/group/2019-11-16-145044.366204segu.png",
+      "name": "seguridad",
+      "title": "Seguridad"
+    }
+  ],
+  "id": "9d8388b6-1da7-41bf-a21b-428843bf0249",
+  "isopen": true,
+  "license_id": "CC-BY-2.5-AR",
+  "license_title": "Atribucion 2.5 Argentina (CC BY 2.5 AR)",
+  "license_url": "https://creativecommons.org/licenses/by/2.5/ar ",
+  "maintainer": "Secretaría General y Relaciones Internacionales. Subsecretaría Gestión Estratégica y Calidad Institucional. Dirección General Calidad Institucional y Gobierno Abierto",
+  "maintainer_email": "datosabiertos@buenosaires.gob.ar",
+  "metadata_created": "2019-12-11T18:32:12.248104",
+  "metadata_modified": "2021-02-26T20:49:26.278622",
+  "name": "mediaciones-ingresadas",
+  "notes": "Listado de mediaciones comunitarias ingresadas en sedes Comunales y Unidades Territoriales de Inclusión Urbana.",
+  "num_resources": 6,
+  "num_tags": 4,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-11-15T19:17:17.612030",
+    "description": "",
+    "id": "b4408826-7d79-46fc-be96-c34b7686d50a",
+    "image_url": "",
+    "is_organization": true,
+    "name": "subsecretaria-justicia",
+    "revision_id": "8ada75f5-fb54-4a17-8fe0-03545df1c7d6",
+    "state": "active",
+    "title": "Subsecretaría de Justicia",
+    "type": "organization"
+  },
+  "owner_org": "b4408826-7d79-46fc-be96-c34b7686d50a",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/9d8388b6-1da7-41bf-a21b-428843bf0249/resource/374e87f8-0b99-4e52-a0c3-e61a25fdffa1",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-04-11T17:21:36.039258",
+      "datastore_active": false,
+      "description": "Listado de mediaciones ingresadas durante el año 2017, según mes y sede comunal",
+      "fileName": "ingresadas17.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "374e87f8-0b99-4e52-a0c3-e61a25fdffa1",
+      "last_modified": "2019-04-11T17:21:36.039258",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Mediaciones Ingresadas 2017",
+      "package_id": "9d8388b6-1da7-41bf-a21b-428843bf0249",
+      "position": 0,
+      "resource_type": "file",
+      "revision_id": "439bf3fb-5fa0-4555-931f-f2b4754f5067",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/mediaciones/ingresadas17.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/9d8388b6-1da7-41bf-a21b-428843bf0249/resource/264f3b52-6046-486d-8e25-1ab04b8874b1",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-04-11T17:22:30.284785",
+      "datastore_active": false,
+      "description": "Listado de mediaciones ingresadas durante el año 2018, según mes y sede comunal",
+      "fileName": "ingresadas18.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "264f3b52-6046-486d-8e25-1ab04b8874b1",
+      "last_modified": "2019-04-11T17:22:30.284785",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Mediaciones Ingresadas 2018",
+      "package_id": "9d8388b6-1da7-41bf-a21b-428843bf0249",
+      "position": 1,
+      "resource_type": "file",
+      "revision_id": "a802c1dc-fbfb-414d-8159-fd571e2c8001",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/mediaciones/ingresadas18.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/9d8388b6-1da7-41bf-a21b-428843bf0249/resource/6970e19c-194b-4c4d-8172-f09882e526c1",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-04-11T17:23:38.490127",
+      "datastore_active": false,
+      "description": "Listado de mediaciones ingresadas durante el año 2019, según mes y sede comunal",
+      "fileName": "ingresadas19.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "6970e19c-194b-4c4d-8172-f09882e526c1",
+      "last_modified": "2019-04-11T17:23:38.490127",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Mediaciones Ingresadas 2019",
+      "package_id": "9d8388b6-1da7-41bf-a21b-428843bf0249",
+      "position": 2,
+      "resource_type": "file",
+      "revision_id": "5af1b639-551a-48da-937b-b581f26e42bb",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/mediaciones/ingresadas19.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/9d8388b6-1da7-41bf-a21b-428843bf0249/resource/374e87f8-0b99-4e52-a0c3-e61a25fdffa1",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-04-11T17:21:36.039258",
+      "datastore_active": false,
+      "description": "Listado de mediaciones ingresadas durante el año 2017, según mes y sede comunal",
+      "fileName": "ingresadas17.xlsx",
+      "format": "XLSX",
+      "hash": "",
+      "id": "374e87f8-0b99-4e52-a0c3-e61a25fdffa1-xlsx",
+      "last_modified": "2019-04-11T17:21:36.039258",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Mediaciones Ingresadas 2017 (XLSX)",
+      "package_id": "9d8388b6-1da7-41bf-a21b-428843bf0249",
+      "position": 3,
+      "resource_type": "file",
+      "revision_id": "c871230c-dd93-481a-b763-6d49352c87bc",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/mediaciones/ingresadas17.xlsx",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/9d8388b6-1da7-41bf-a21b-428843bf0249/resource/264f3b52-6046-486d-8e25-1ab04b8874b1",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-04-11T17:22:30.284785",
+      "datastore_active": false,
+      "description": "Listado de mediaciones ingresadas durante el año 2018, según mes y sede comunal",
+      "fileName": "ingresadas18.xlsx",
+      "format": "XLSX",
+      "hash": "",
+      "id": "264f3b52-6046-486d-8e25-1ab04b8874b1-xlsx",
+      "last_modified": "2019-04-11T17:22:30.284785",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Mediaciones Ingresadas 2018 (XLSX)",
+      "package_id": "9d8388b6-1da7-41bf-a21b-428843bf0249",
+      "position": 4,
+      "resource_type": "file",
+      "revision_id": "02378b86-7a0f-46a2-872f-4029c93fd1b2",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/mediaciones/ingresadas18.xlsx",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/9d8388b6-1da7-41bf-a21b-428843bf0249/resource/6970e19c-194b-4c4d-8172-f09882e526c1",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-04-11T17:23:38.490127",
+      "datastore_active": false,
+      "description": "Listado de mediaciones ingresadas durante el año 2019, según mes y sede comunal",
+      "fileName": "ingresadas19.xlsx",
+      "format": "XLSX",
+      "hash": "",
+      "id": "6970e19c-194b-4c4d-8172-f09882e526c1-xlsx",
+      "last_modified": "2019-04-11T17:23:38.490127",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Mediaciones Ingresadas 2019 (XLSX)",
+      "package_id": "9d8388b6-1da7-41bf-a21b-428843bf0249",
+      "position": 5,
+      "resource_type": "file",
+      "revision_id": "4ef9ab20-0388-410d-8837-43eee0763a43",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/mediaciones/ingresadas19.xlsx",
+      "url_type": null
+    }
+  ],
+  "revision_id": "3906a1e6-6c38-4981-8888-2a07dfda7fcb",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "comunitaria",
+      "id": "46d018f3-3940-4715-9a19-1f8366e794b0",
+      "name": "comunitaria",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "ingresadas",
+      "id": "db6a6fb5-eb73-4fdd-9788-95191e8862b7",
+      "name": "ingresadas",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "mediacion",
+      "id": "4ede06d3-60d1-4f12-a0f8-f8c0bde58e97",
+      "name": "mediacion",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "mediaciones",
+      "id": "105a79ff-a992-4824-b4a5-d84888ad75ee",
+      "name": "mediaciones",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Mediaciones Ingresadas",
+  "type": "dataset",
+  "url": "https://data.buenosaires.gob.ar/dataset/mediaciones-ingresadas",
+  "version": null
+}

@@ -1,0 +1,195 @@
+{
+  "author": "Jefatura de Gabinete de Ministros",
+  "author_email": "gobiernoabierto@buenosaires.gob.ar",
+  "creator_user_id": "e4546f46-e966-493c-b2f1-57318502c41b",
+  "extras": [
+    {
+      "key": "Documentación",
+      "value": ""
+    },
+    {
+      "key": "accrualPeriodicity",
+      "value": "eventual"
+    },
+    {
+      "key": "country",
+      "value": "None"
+    },
+    {
+      "key": "district",
+      "value": ""
+    },
+    {
+      "key": "home_featured",
+      "value": "false"
+    },
+    {
+      "key": "issued",
+      "value": "2019-01-08T14:51:43.197048"
+    },
+    {
+      "key": "language",
+      "value": "[]"
+    },
+    {
+      "key": "modified",
+      "value": "2020-12-11T13:17:04.890213"
+    },
+    {
+      "key": "province",
+      "value": ""
+    },
+    {
+      "key": "source",
+      "value": "Jefatura de Gabinete de Ministros"
+    },
+    {
+      "key": "spatial",
+      "value": "None"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"GOVE\"]"
+    },
+    {
+      "key": "temporal",
+      "value": ""
+    }
+  ],
+  "groups": [
+    {
+      "description": "",
+      "display_name": "Administración Pública",
+      "id": "8cb134a8-90ea-4e69-a96d-c03449917dc9",
+      "image_display_url": "https://data.buenosaires.gob.ar/uploads/group/2019-11-16-144810.360383adminpublica.png",
+      "name": "administracion-publica",
+      "title": "Administración Pública"
+    }
+  ],
+  "id": "juqdkmgo-63",
+  "isopen": true,
+  "license_id": "CC-BY-2.5-AR",
+  "license_title": "Atribucion 2.5 Argentina (CC BY 2.5 AR)",
+  "license_url": "https://creativecommons.org/licenses/by/2.5/ar ",
+  "maintainer": "Subgerencia de Información Geoespacial. DG Ciencias de la Información. SS de Políticas Públicas Basadas en Evidencia. Secretaría de Innovación y Transformación Digital. Jefatura de Gabinete de Ministros",
+  "maintainer_email": "gobiernoabierto@buenosaires.gob.ar",
+  "metadata_created": "2019-12-11T18:04:38.877617",
+  "metadata_modified": "2020-12-17T15:55:57.833845",
+  "name": "consulados",
+  "notes": "Listado con referencia geográfica y datos de contacto de los Consulados en la Ciudad.",
+  "num_resources": 3,
+  "num_tags": 2,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-11-15T19:14:53.415795",
+    "description": "",
+    "id": "8add5417-3519-49b8-bd4c-6621d32ff5eb",
+    "image_url": "",
+    "is_organization": true,
+    "name": "jefatura-de-gabinete-de-ministros",
+    "revision_id": "971d791d-b46e-4427-8a5a-b737fa264515",
+    "state": "active",
+    "title": "Jefatura de Gabinete de Ministros",
+    "type": "organization"
+  },
+  "owner_org": "8add5417-3519-49b8-bd4c-6621d32ff5eb",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/consulados",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-01-08T14:51:43.197048",
+      "datastore_active": true,
+      "description": "Listado con referencia geográfica de los consulados en la Ciudad.",
+      "fileName": "consulados.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "juqdkmgo-631-resource",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Consulados",
+      "package_id": "juqdkmgo-63",
+      "position": 0,
+      "resource_type": "file",
+      "revision_id": "e3987ccb-ac23-4884-afd5-0024edd07c22",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/consulados/consulados.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/consulados",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-01-08T14:51:43.197048",
+      "datastore_active": false,
+      "description": "Archivo shapefile con los consulados de la Ciudad.",
+      "fileName": "consulados-zip.zip",
+      "format": "ZIP",
+      "hash": "",
+      "id": "juqdkmgo-632-resource",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Consulados (SHP)",
+      "package_id": "juqdkmgo-63",
+      "position": 1,
+      "resource_type": "file",
+      "revision_id": "1c763629-c4dc-4bff-aea6-b2abd04cd153",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/consulados/consulados-zip.zip",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/consulados",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-01-08T14:51:43.197048",
+      "datastore_active": true,
+      "description": "Listado con referencia geográfica de los consulados en la Ciudad.",
+      "fileName": "consulados.xlsx",
+      "format": "XLSX",
+      "hash": "",
+      "id": "juqdkmgo-631-resource-xlsx",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Consulados (XLSX)",
+      "package_id": "juqdkmgo-63",
+      "position": 2,
+      "resource_type": "file",
+      "revision_id": "7956fff3-d65b-411d-9d50-b45804b6342e",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/consulados/consulados.xlsx",
+      "url_type": null
+    }
+  ],
+  "revision_id": "bfd6c560-f804-463d-8581-21fe5f876cd1",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "consulados",
+      "id": "e76fc084-46cb-4046-952b-79551571c9bd",
+      "name": "consulados",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "mapa",
+      "id": "2c83da8e-2e03-47e6-aee4-bb965600000d",
+      "name": "mapa",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Consulados",
+  "type": "dataset",
+  "url": "https://data.buenosaires.gob.ar/dataset/consulados",
+  "version": null
+}

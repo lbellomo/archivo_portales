@@ -1,0 +1,161 @@
+{
+  "author": "Ministerio de Justicia y Seguridad. Agencia Gubernamental de Control (AGC)",
+  "author_email": "gobiernoabierto@buenosaires.gob.ar",
+  "creator_user_id": "e4546f46-e966-493c-b2f1-57318502c41b",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P3M"
+    },
+    {
+      "key": "issued",
+      "value": "2019-01-08T14:51:15.152652"
+    },
+    {
+      "key": "language",
+      "value": "[\"SPA\"]"
+    },
+    {
+      "key": "modified",
+      "value": "2019-04-23T16:06:25.710799"
+    },
+    {
+      "key": "source",
+      "value": "Ministerio de Justicia y Seguridad. Agencia Gubernamental de Control (AGC)"
+    },
+    {
+      "key": "spatial",
+      "value": "02"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"GOVE\"]"
+    }
+  ],
+  "groups": [
+    {
+      "description": "",
+      "display_name": "Administración Pública",
+      "id": "8cb134a8-90ea-4e69-a96d-c03449917dc9",
+      "image_display_url": "https://data.buenosaires.gob.ar/uploads/group/2019-11-16-144810.360383adminpublica.png",
+      "name": "administracion-publica",
+      "title": "Administración Pública"
+    }
+  ],
+  "id": "juqdkmgo-129",
+  "isopen": true,
+  "license_id": "CC-BY-2.5-AR",
+  "license_title": "Atribucion 2.5 Argentina (CC BY 2.5 AR)",
+  "license_url": "https://creativecommons.org/licenses/by/2.5/ar ",
+  "maintainer": "Secretaría General y Relaciones Internacionales. Subsecretaría Gestión Estratégica y Calidad Institucional. Dirección General Calidad Institucional y Gobierno Abierto",
+  "maintainer_email": "gobiernoabierto@buenosaires.gob.ar",
+  "metadata_created": "2019-12-11T18:31:20.229930",
+  "metadata_modified": "2020-12-17T16:33:12.675979",
+  "name": "inspectores-verificadores-agc",
+  "notes": "Información de los profesionales Verificadores, peritos profesionales especializados en el rubro de la construcción de la Agencia Gubernamental de Control (AGC).",
+  "num_resources": 2,
+  "num_tags": 4,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-11-15T19:17:36.258403",
+    "description": "",
+    "id": "913c691c-9cdc-42ea-a23b-ea8fc4845fac",
+    "image_url": "",
+    "is_organization": true,
+    "name": "agencia-gubernamental-de-control",
+    "revision_id": "d82ae964-d602-4eba-acd7-3cc67d1b741b",
+    "state": "active",
+    "title": "Agencia Gubernamental de Control (AGC)",
+    "type": "organization"
+  },
+  "owner_org": "913c691c-9cdc-42ea-a23b-ea8fc4845fac",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/inspectores-y-verificadores-de-la-agc",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-05-22T15:47:41.312256",
+      "datastore_active": false,
+      "description": "Listado de los inspectores y verificadores en actividad.",
+      "fileName": "inspectores-y-verificadores-agc.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "juqdkmgo-1291-resource",
+      "last_modified": "2019-05-22T15:47:41.312256",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Inspectores y Verificadores AGC",
+      "package_id": "juqdkmgo-129",
+      "position": 0,
+      "resource_type": "file",
+      "revision_id": "8b24f0a1-dc87-4b5e-a35a-b9d86510c476",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/inspectores-y-verificadores-de-la-agc/inspectores-y-verificadores-agc.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/inspectores-y-verificadores-de-la-agc",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-05-22T15:47:41.312256",
+      "datastore_active": false,
+      "description": "Listado de los inspectores y verificadores en actividad.",
+      "fileName": "inspectores-y-verificadores-agc.xlsx",
+      "format": "XLSX",
+      "hash": "",
+      "id": "juqdkmgo-1291-resource-xlsx",
+      "last_modified": "2019-05-22T15:47:41.312256",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Inspectores y Verificadores AGC (XLSX)",
+      "package_id": "juqdkmgo-129",
+      "position": 1,
+      "resource_type": "file",
+      "revision_id": "8a49a5d1-ccc7-4542-86e5-f8268e7b2aba",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/inspectores-y-verificadores-de-la-agc/inspectores-y-verificadores-agc.xlsx",
+      "url_type": null
+    }
+  ],
+  "revision_id": "2753bb35-7f71-4200-9903-287086089b2f",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "AGC",
+      "id": "d0523b0c-616a-4b1a-b7bf-96660cddc12e",
+      "name": "AGC",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "construcción",
+      "id": "a0433d46-f8f6-4c44-ae7a-9ef03e5d47fa",
+      "name": "construcción",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "habilitación",
+      "id": "3526154d-df90-466c-9a85-6cb819c3e8ca",
+      "name": "habilitación",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "registros",
+      "id": "ac385387-032a-46f2-ba38-abb16529c234",
+      "name": "registros",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Inspectores y Verificadores de la AGC",
+  "type": "dataset",
+  "url": "https://data.buenosaires.gob.ar/dataset/inspectores-verificadores-agc",
+  "version": null
+}

@@ -1,0 +1,193 @@
+{
+  "author": "Ministerio de Justicia y Seguridad. DG de Seguridad y Prevención del Delito",
+  "author_email": "gobiernoabierto@buenosaires.gob.ar",
+  "creator_user_id": "e4546f46-e966-493c-b2f1-57318502c41b",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P1Y"
+    },
+    {
+      "key": "issued",
+      "value": "2019-01-08T14:57:39.882445"
+    },
+    {
+      "key": "language",
+      "value": "[\"SPA\"]"
+    },
+    {
+      "key": "modified",
+      "value": "2019-04-23T16:06:46.230591"
+    },
+    {
+      "key": "source",
+      "value": "Ministerio de Educación e Innovación. Secretaría de Ciencia, Tecnología e Innovación. SS de Ciudad Inteligente y Tecnología Educativa. DG Ciencias de la Información. Unidad de Sistemas de Información Geográfica (USIG)"
+    },
+    {
+      "key": "spatial",
+      "value": "02"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"GOVE\"]"
+    }
+  ],
+  "groups": [
+    {
+      "description": "",
+      "display_name": "Administración Pública",
+      "id": "8cb134a8-90ea-4e69-a96d-c03449917dc9",
+      "image_display_url": "https://data.buenosaires.gob.ar/uploads/group/2019-11-16-144810.360383adminpublica.png",
+      "name": "administracion-publica",
+      "title": "Administración Pública"
+    },
+    {
+      "description": "",
+      "display_name": "Seguridad",
+      "id": "b656bb3f-230a-414f-acce-19d0d98e01df",
+      "image_display_url": "https://data.buenosaires.gob.ar/uploads/group/2019-11-16-145044.366204segu.png",
+      "name": "seguridad",
+      "title": "Seguridad"
+    }
+  ],
+  "id": "juqdkmgo-59",
+  "isopen": true,
+  "license_id": "CC-BY-2.5-AR",
+  "license_title": "Atribucion 2.5 Argentina (CC BY 2.5 AR)",
+  "license_url": "https://creativecommons.org/licenses/by/2.5/ar ",
+  "maintainer": "Secretaría General y Relaciones Internacionales. Subsecretaría Gestión Estratégica y Calidad Institucional. Dirección General Calidad Institucional y Gobierno Abierto",
+  "maintainer_email": "gobiernoabierto@buenosaires.gob.ar",
+  "metadata_created": "2019-12-11T18:30:44.873321",
+  "metadata_modified": "2020-12-17T15:54:17.778097",
+  "name": "comisarias-policia-ciudad",
+  "notes": "Listado con ubicación geográfica de las comisarías de la Policía de la Ciudad.",
+  "num_resources": 3,
+  "num_tags": 4,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-11-15T19:17:53.819720",
+    "description": "",
+    "id": "e2eed892-7682-45f9-b137-74d2acc7e119",
+    "image_url": "",
+    "is_organization": true,
+    "name": "ministerio-de-justicia-y-seguridad",
+    "revision_id": "f34a7336-3a80-4154-9a35-d044f096a2b6",
+    "state": "active",
+    "title": "Ministerio de Justicia y Seguridad",
+    "type": "organization"
+  },
+  "owner_org": "e2eed892-7682-45f9-b137-74d2acc7e119",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/comisarias-policia-de-la-ciudad",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-01-08T14:57:39.882445",
+      "datastore_active": false,
+      "description": "Ubicación geográfica de las comisarías de la Policía de la Ciudad.",
+      "fileName": "comisarias-policia-de-la-ciudad.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "juqdkmgo-591-resource",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Comisarías Policía de la Ciudad",
+      "package_id": "juqdkmgo-59",
+      "position": 0,
+      "resource_type": "file",
+      "revision_id": "d704186a-4db9-4f0c-8053-cd05c1f1cf97",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/comisarias-policia-de-la-ciudad/comisarias-policia-de-la-ciudad.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/comisarias-policia-de-la-ciudad",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-01-08T14:57:39.882445",
+      "datastore_active": false,
+      "description": "Archivo shapefile con las comisarías de la Policía de la Ciudad.",
+      "fileName": "comisarias-policia-de-la-ciudad-zip.zip",
+      "format": "ZIP",
+      "hash": "",
+      "id": "juqdkmgo-592-resource",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Comisarías Policía de la Ciudad (SHP)",
+      "package_id": "juqdkmgo-59",
+      "position": 1,
+      "resource_type": "file",
+      "revision_id": "38be59c8-8e1b-471f-a8a3-7e19109bf2ec",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/comisarias-policia-de-la-ciudad/comisarias-policia-de-la-ciudad-zip.zip",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/comisarias-policia-de-la-ciudad",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-01-08T14:57:39.882445",
+      "datastore_active": false,
+      "description": "Ubicación geográfica de las comisarías de la Policía de la Ciudad.",
+      "fileName": "comisarias-policia-de-la-ciudad.xlsx",
+      "format": "XLSX",
+      "hash": "",
+      "id": "juqdkmgo-591-resource-xlsx",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Comisarías Policía de la Ciudad (XLSX)",
+      "package_id": "juqdkmgo-59",
+      "position": 2,
+      "resource_type": "file",
+      "revision_id": "957864c1-afac-4cbf-8c65-bd0d2f1cf7d5",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/comisarias-policia-de-la-ciudad/comisarias-policia-de-la-ciudad.xlsx",
+      "url_type": null
+    }
+  ],
+  "revision_id": "70e32045-f374-474d-b97e-580d169d9c57",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "comisarías",
+      "id": "e03d7eae-4cb1-4c6a-a0a4-73adac899864",
+      "name": "comisarías",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "emergencias",
+      "id": "3ae66800-59e5-4dc8-8020-6fea33440b51",
+      "name": "emergencias",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "seguridad",
+      "id": "40254c39-6a3d-41e7-9044-39dc4b0eda4d",
+      "name": "seguridad",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "servicios",
+      "id": "5fd98d91-e466-49b9-9b08-8a43e2068a8b",
+      "name": "servicios",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Comisarías Policía de la Ciudad",
+  "type": "dataset",
+  "url": "https://data.buenosaires.gob.ar/dataset/comisarias-policia-ciudad",
+  "version": null
+}

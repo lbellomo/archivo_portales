@@ -1,0 +1,209 @@
+{
+  "author": "Vicejefatura de Gobierno",
+  "author_email": "gobiernoabierto@buenosaires.gob.ar",
+  "creator_user_id": "e4546f46-e966-493c-b2f1-57318502c41b",
+  "extras": [
+    {
+      "key": "Documentación",
+      "value": ""
+    },
+    {
+      "key": "accrualPeriodicity",
+      "value": "eventual"
+    },
+    {
+      "key": "country",
+      "value": "None"
+    },
+    {
+      "key": "district",
+      "value": ""
+    },
+    {
+      "key": "home_featured",
+      "value": "false"
+    },
+    {
+      "key": "issued",
+      "value": "2019-02-01T19:53:59.432485"
+    },
+    {
+      "key": "language",
+      "value": "[]"
+    },
+    {
+      "key": "modified",
+      "value": "2020-12-04T11:20:33.743856"
+    },
+    {
+      "key": "province",
+      "value": ""
+    },
+    {
+      "key": "source",
+      "value": "Vicejefatura de Gobierno"
+    },
+    {
+      "key": "spatial",
+      "value": "None"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"REGI\"]"
+    },
+    {
+      "key": "temporal",
+      "value": ""
+    }
+  ],
+  "groups": [
+    {
+      "description": "Datasets relacionados con urbanismo y territorio",
+      "display_name": "Urbanismo y Territorio",
+      "id": "63e162a0-3f4a-446a-a60b-601d16f36200",
+      "image_display_url": "https://data.buenosaires.gob.ar/uploads/group/2019-11-16-145056.781692urba.png",
+      "name": "urbanismo-y-territorio",
+      "title": "Urbanismo y Territorio"
+    }
+  ],
+  "id": "5dc13aed-cf4f-473e-909b-926d81099e4a",
+  "isopen": true,
+  "license_id": "CC-BY-2.5-AR",
+  "license_title": "Atribucion 2.5 Argentina (CC BY 2.5 AR)",
+  "license_url": "https://creativecommons.org/licenses/by/2.5/ar ",
+  "maintainer": "Subgerencia de Información Geoespacial. DG Ciencias de la Información. SS de Políticas Públicas Basadas en Evidencia. Secretaría de Innovación y Transformación Digital. Jefatura de Gabinete de Ministros",
+  "maintainer_email": "gobiernoabierto@buenosaires.gob.ar",
+  "metadata_created": "2019-12-11T18:35:41.936283",
+  "metadata_modified": "2020-12-17T16:51:52.764842",
+  "name": "pistas-skate",
+  "notes": "Pistas de Skate ubicadas en la Ciudad.",
+  "num_resources": 3,
+  "num_tags": 4,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-11-15T19:15:14.176022",
+    "description": "",
+    "id": "cbb782e9-de0e-49de-9462-073238e616be",
+    "image_url": "",
+    "is_organization": true,
+    "name": "vicejefatura-de-gobierno",
+    "revision_id": "b25fa66f-e936-4a6f-9111-1585f0b3f210",
+    "state": "active",
+    "title": "Vicejefatura de Gobierno",
+    "type": "organization"
+  },
+  "owner_org": "cbb782e9-de0e-49de-9462-073238e616be",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/5dc13aed-cf4f-473e-909b-926d81099e4a/resource/ccb6439a-6493-4d76-a00c-f115310d1c95",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-02-01T16:55:20.122161",
+      "datastore_active": false,
+      "description": "Pistas de Skates ubicadas en la Ciudad",
+      "fileName": "pistas-de-skate.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "ccb6439a-6493-4d76-a00c-f115310d1c95",
+      "last_modified": "2019-02-01T16:55:20.122161",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Pistas de Skate",
+      "package_id": "5dc13aed-cf4f-473e-909b-926d81099e4a",
+      "position": 0,
+      "resource_type": "file",
+      "revision_id": "272c2c49-ae75-4004-8ffb-a978b0a3e3fd",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/pistas-de-skate/pistas-de-skate.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/5dc13aed-cf4f-473e-909b-926d81099e4a/resource/11926469-14e6-48b7-9a04-2618168d7ff4",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-02-01T16:56:04.320508",
+      "datastore_active": false,
+      "description": "Archivo shapefile con las pistas de skate de la Ciudad.",
+      "fileName": "pistas-de-skate.zip",
+      "format": "ZIP",
+      "hash": "",
+      "id": "11926469-14e6-48b7-9a04-2618168d7ff4",
+      "last_modified": "2019-02-01T16:56:04.320508",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Pistas de Skate (SHP)",
+      "package_id": "5dc13aed-cf4f-473e-909b-926d81099e4a",
+      "position": 1,
+      "resource_type": "file",
+      "revision_id": "1536daa4-02b5-47b6-b7ce-e64dec35abd5",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/pistas-de-skate/pistas-de-skate.zip",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/5dc13aed-cf4f-473e-909b-926d81099e4a/resource/ccb6439a-6493-4d76-a00c-f115310d1c95",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-02-01T16:55:20.122161",
+      "datastore_active": false,
+      "description": "Pistas de Skates ubicadas en la Ciudad",
+      "fileName": "pistas-de-skate.xlsx",
+      "format": "XLSX",
+      "hash": "",
+      "id": "ccb6439a-6493-4d76-a00c-f115310d1c95-xlsx",
+      "last_modified": "2019-02-01T16:55:20.122161",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Pistas de Skate (XLSX)",
+      "package_id": "5dc13aed-cf4f-473e-909b-926d81099e4a",
+      "position": 2,
+      "resource_type": "file",
+      "revision_id": "6f058f8a-b61e-4f59-8954-adb88ec59b62",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/pistas-de-skate/pistas-de-skate.xlsx",
+      "url_type": null
+    }
+  ],
+  "revision_id": "9adc61bd-26a3-4efe-81d2-0d793799409f",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "deportes",
+      "id": "6c27598b-3537-44b9-a78e-c7a3a214f028",
+      "name": "deportes",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "espacios públicos",
+      "id": "109bfc79-dbdf-4454-8c74-e4e5230bdc1d",
+      "name": "espacios públicos",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "skate",
+      "id": "e62cdf4e-ad26-4454-b66b-6dd336c4e0f4",
+      "name": "skate",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "urbano",
+      "id": "11479a78-3a8f-4a9b-bbf2-933b85455bab",
+      "name": "urbano",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Pistas de Skate",
+  "type": "dataset",
+  "url": "http://data.buenosaires.gob.ar/dataset/pistas-de-skate",
+  "version": null
+}

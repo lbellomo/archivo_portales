@@ -1,0 +1,578 @@
+{
+  "author": "Ministerio de Espacio Público e Higiene Urbana. SS De Higiene Urbana. DG Reciclado",
+  "author_email": "gobiernoabierto@buenosaires.gob.ar",
+  "creator_user_id": "e4546f46-e966-493c-b2f1-57318502c41b",
+  "extras": [
+    {
+      "key": "Documentación",
+      "value": ""
+    },
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P1Y"
+    },
+    {
+      "key": "country",
+      "value": "None"
+    },
+    {
+      "key": "district",
+      "value": ""
+    },
+    {
+      "key": "home_featured",
+      "value": "false"
+    },
+    {
+      "key": "issued",
+      "value": "2019-08-13T15:26:18.622221"
+    },
+    {
+      "key": "language",
+      "value": "[]"
+    },
+    {
+      "key": "modified",
+      "value": "2020-10-28T14:44:10.054300"
+    },
+    {
+      "key": "province",
+      "value": ""
+    },
+    {
+      "key": "source",
+      "value": "Ministerio de Ambiente y Espacio Público. Subsecretaría de Higiene Urbana. DG de Tratamiento y Nuevas Tecnologías"
+    },
+    {
+      "key": "spatial",
+      "value": "None"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"ENVI\"]"
+    },
+    {
+      "key": "temporal",
+      "value": ""
+    }
+  ],
+  "groups": [
+    {
+      "description": "",
+      "display_name": "Medioambiente",
+      "id": "a99c1197-8379-4a60-a6eb-8737cab5ec4f",
+      "image_display_url": "https://data.buenosaires.gob.ar/uploads/group/2019-11-16-145003.550663medioambiente.png",
+      "name": "medioambiente",
+      "title": "Medioambiente"
+    }
+  ],
+  "id": "d2ae371a-a936-4429-be03-845ddd2ffd97",
+  "isopen": true,
+  "license_id": "CC-BY-2.5-AR",
+  "license_title": "Atribucion 2.5 Argentina (CC BY 2.5 AR)",
+  "license_url": "https://creativecommons.org/licenses/by/2.5/ar ",
+  "maintainer": "Secretaría General y Relaciones Internacionales. Subsecretaría Gestión Estratégica y Calidad Institucional. Dirección General Calidad Institucional y Gobierno Abierto",
+  "maintainer_email": "gobiernoabierto@buenosaires.gob.ar",
+  "metadata_created": "2019-12-11T18:07:43.909546",
+  "metadata_modified": "2020-12-17T15:42:30.881743",
+  "name": "centro-reciclaje-ciudad",
+  "notes": "El Centro de Reciclaje de la Ciudad posee 4 plantas de tratamiento de residuos y un Centro Educativo. El mismo se encuentra ubicado en el barrio de Villa Soldati y allí se procesan más del 40% de los residuos que se generan en la Ciudad. En el año 2018 se renovó el Certificado de Aptitud Ambiental (CAA), aprobando su funcionamiento por otros 4 años.",
+  "num_resources": 12,
+  "num_tags": 25,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-11-15T19:17:37.520435",
+    "description": "",
+    "id": "c16da01e-12a6-4b99-9509-c35b37138493",
+    "image_url": "",
+    "is_organization": true,
+    "name": "subsecretaria-de-higiene-urbana",
+    "revision_id": "b04e62bf-6883-4fe8-864b-3861f35cf6fe",
+    "state": "active",
+    "title": "Subsecretaria de Higiene Urbana",
+    "type": "organization"
+  },
+  "owner_org": "c16da01e-12a6-4b99-9509-c35b37138493",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/d2ae371a-a936-4429-be03-845ddd2ffd97/resource/7c57ed77-e2fd-4970-8d9b-7dc52c73a828",
+      "attributesDescription": "[{\"title\": \"a\\u00f1o\", \"type\": \"integer\", \"description\": \"A\\u00f1o del registro\"}, {\"title\": \"mes\", \"type\": \"integer\", \"description\": \"Mes del registro\"}, {\"title\": \"cantidad\", \"type\": \"number\", \"description\": \"Cantidad de toneladas recicladas\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-08-23T12:18:16.277924",
+      "datastore_active": false,
+      "description": "Cantidad de toneladas procesadas en la planta por mes (tn/mes)",
+      "fileName": "toneladas-procesadas-aridos.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "7c57ed77-e2fd-4970-8d9b-7dc52c73a828",
+      "last_modified": "2019-08-23T12:18:16.277924",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Planta de Tratamiento de Residuos Áridos - Toneladas procesadas",
+      "package_id": "d2ae371a-a936-4429-be03-845ddd2ffd97",
+      "position": 0,
+      "resource_type": "file",
+      "revision_id": "142cf6b9-f7d5-400a-ba48-26ad7359ef4d",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/centro-de-reciclaje/toneladas-procesadas-aridos.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/d2ae371a-a936-4429-be03-845ddd2ffd97/resource/67938b41-8720-48c2-be6f-7a0e641d70a6",
+      "attributesDescription": "[{\"title\": \"a\\u00f1o\", \"type\": \"integer\", \"description\": \"A\\u00f1o de referencia\"}, {\"title\": \"mes\", \"type\": \"integer\", \"description\": \"Mes de referencia\"}, {\"title\": \"cantidad_volquetes_ingresados\", \"type\": \"integer\", \"description\": \"Cantidad de volquetes ingresados en la planta\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-08-23T12:18:31.046746",
+      "datastore_active": false,
+      "description": "Cantidad de volquetes que ingresan a la planta de tratamiento de residuos áridos por mes",
+      "fileName": "volquetes-ingresados-aridos.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "67938b41-8720-48c2-be6f-7a0e641d70a6",
+      "last_modified": "2019-08-23T12:18:31.046746",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Planta de Tratamiento de Residuos Áridos - Volquetes ingresados",
+      "package_id": "d2ae371a-a936-4429-be03-845ddd2ffd97",
+      "position": 1,
+      "resource_type": "file",
+      "revision_id": "e805f6c9-7c5f-4f92-8454-097497a8b02f",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/centro-de-reciclaje/volquetes-ingresados-aridos.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/d2ae371a-a936-4429-be03-845ddd2ffd97/resource/91322c3b-0c26-4c9c-a200-ed61f3239ff4",
+      "attributesDescription": "[{\"title\": \"a\\u00f1o\", \"type\": \"integer\", \"description\": \"A\\u00f1o del registro\"}, {\"title\": \"mes\", \"type\": \"integer\", \"description\": \"Mes del registro\"}, {\"title\": \"cantidad\", \"type\": \"integer\", \"description\": \"Cantidad de toneladas recicladas\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-08-13T12:53:25.090505",
+      "datastore_active": false,
+      "description": "Cantidad de toneladas procesadas en la planta por mes (tn/mes)",
+      "fileName": "toneladas-procesadas-forestales.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "91322c3b-0c26-4c9c-a200-ed61f3239ff4",
+      "last_modified": "2019-08-13T12:53:25.090505",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Planta de Tratamiento de Residuos Forestales",
+      "package_id": "d2ae371a-a936-4429-be03-845ddd2ffd97",
+      "position": 2,
+      "resource_type": "file",
+      "revision_id": "fd53d856-2d7c-4847-b1de-e3ba614011db",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/centro-de-reciclaje/toneladas-procesadas-forestales.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/d2ae371a-a936-4429-be03-845ddd2ffd97/resource/9f570fe4-5665-48c9-99e2-b8fe2fb7c898",
+      "attributesDescription": "[{\"title\": \"a\\u00f1o\", \"type\": \"integer\", \"description\": \"A\\u00f1o de referencia\"}, {\"title\": \"mes\", \"type\": \"integer\", \"description\": \"Mes de referencia\"}, {\"title\": \"capacidad_procesamiento\", \"type\": \"integer\", \"description\": \"Capacidad de procesamiento de la planta en toneladas\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-08-13T12:44:12.341063",
+      "datastore_active": false,
+      "description": "Capacidad de procesamiento instalada de la planta (tn/mes)",
+      "fileName": "procesamiento-instalado-organicos.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "9f570fe4-5665-48c9-99e2-b8fe2fb7c898",
+      "last_modified": "2019-08-13T12:44:12.341063",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Planta de Tratamiento de Residuos Orgánicos",
+      "package_id": "d2ae371a-a936-4429-be03-845ddd2ffd97",
+      "position": 3,
+      "resource_type": "file",
+      "revision_id": "0e9a4e03-bc96-4e12-b1af-d5f1935558d0",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/centro-de-reciclaje/procesamiento-instalado-organicos.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/d2ae371a-a936-4429-be03-845ddd2ffd97/resource/16d74b7d-385a-4b52-80ca-3c3be37c0cc4",
+      "attributesDescription": "[{\"title\": \"a\\u00f1o\", \"type\": \"integer\", \"description\": \"A\\u00f1o de referencia\"}, {\"title\": \"mes\", \"type\": \"integer\", \"description\": \"Mes de referencia\"}, {\"title\": \"capacidad_procesamiento\", \"type\": \"integer\", \"description\": \"Capacidad de procesamiento de la planta en toneladas\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-08-13T12:46:50.395001",
+      "datastore_active": false,
+      "description": "Capacidad de procesamiento instalada de la planta (tn/mes)",
+      "fileName": "procesamiento-instalado-pet.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "16d74b7d-385a-4b52-80ca-3c3be37c0cc4",
+      "last_modified": "2019-08-13T12:46:50.395001",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Planta de Tratamiento de PET",
+      "package_id": "d2ae371a-a936-4429-be03-845ddd2ffd97",
+      "position": 4,
+      "resource_type": "file",
+      "revision_id": "f02a61a9-6a4a-49a7-b829-b285aec68045",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/centro-de-reciclaje/procesamiento-instalado-pet.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/d2ae371a-a936-4429-be03-845ddd2ffd97/resource/7bf39774-c7c3-4dd3-9fcc-728acbde4736",
+      "attributesDescription": "[{\"title\": \"a\\u00f1o\", \"type\": \"integer\", \"description\": \"A\\u00f1o de referencia\"}, {\"title\": \"mes\", \"type\": \"integer\", \"description\": \"Mes de referencia\"}, {\"title\": \"visitas\", \"type\": \"integer\", \"description\": \"Cantidad de personas que visitaron el centro de reciclaje\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-08-13T12:48:40.951421",
+      "datastore_active": false,
+      "description": "Cantidad de personas que visitan el Centro de Reciclaje por mes",
+      "fileName": "visitas-centro-reciclaje.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "7bf39774-c7c3-4dd3-9fcc-728acbde4736",
+      "last_modified": "2019-08-13T12:48:40.951421",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Visitas al Centro de Reciclaje de la Ciudad",
+      "package_id": "d2ae371a-a936-4429-be03-845ddd2ffd97",
+      "position": 5,
+      "resource_type": "file",
+      "revision_id": "5c254e61-85c5-496b-b385-78a66bfac42c",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/centro-de-reciclaje/visitas-centro-reciclaje.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/d2ae371a-a936-4429-be03-845ddd2ffd97/resource/7c57ed77-e2fd-4970-8d9b-7dc52c73a828",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-08-23T12:18:16.277924",
+      "datastore_active": false,
+      "description": "Cantidad de toneladas procesadas en la planta por mes (tn/mes)",
+      "fileName": "toneladas-procesadas-aridos.xlsx",
+      "format": "XLSX",
+      "hash": "",
+      "id": "7c57ed77-e2fd-4970-8d9b-7dc52c73a828-xlsx",
+      "last_modified": "2019-08-23T12:18:16.277924",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Planta de Tratamiento de Residuos Áridos - Toneladas procesadas (XLSX)",
+      "package_id": "d2ae371a-a936-4429-be03-845ddd2ffd97",
+      "position": 6,
+      "resource_type": "file",
+      "revision_id": "65df466e-a3f8-42c2-b0c2-61b1cd65cd8a",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/centro-de-reciclaje/toneladas-procesadas-aridos.xlsx",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/d2ae371a-a936-4429-be03-845ddd2ffd97/resource/67938b41-8720-48c2-be6f-7a0e641d70a6",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-08-23T12:18:31.046746",
+      "datastore_active": false,
+      "description": "Cantidad de volquetes que ingresan a la planta de tratamiento de residuos áridos por mes",
+      "fileName": "volquetes-ingresados-aridos.xlsx",
+      "format": "XLSX",
+      "hash": "",
+      "id": "67938b41-8720-48c2-be6f-7a0e641d70a6-xlsx",
+      "last_modified": "2019-08-23T12:18:31.046746",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Planta de Tratamiento de Residuos Áridos - Volquetes ingresados (XLSX)",
+      "package_id": "d2ae371a-a936-4429-be03-845ddd2ffd97",
+      "position": 7,
+      "resource_type": "file",
+      "revision_id": "c2cb1541-f68c-417d-8352-d63078040119",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/centro-de-reciclaje/volquetes-ingresados-aridos.xlsx",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/d2ae371a-a936-4429-be03-845ddd2ffd97/resource/91322c3b-0c26-4c9c-a200-ed61f3239ff4",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-08-13T12:53:25.090505",
+      "datastore_active": false,
+      "description": "Cantidad de toneladas procesadas en la planta por mes (tn/mes)",
+      "fileName": "toneladas-procesadas-forestales.xlsx",
+      "format": "XLSX",
+      "hash": "",
+      "id": "91322c3b-0c26-4c9c-a200-ed61f3239ff4-xlsx",
+      "last_modified": "2019-08-13T12:53:25.090505",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Planta de Tratamiento de Residuos Forestales (XLSX)",
+      "package_id": "d2ae371a-a936-4429-be03-845ddd2ffd97",
+      "position": 8,
+      "resource_type": "file",
+      "revision_id": "d002cf00-2bff-45e2-b06a-4ee8be0a1ed4",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/centro-de-reciclaje/toneladas-procesadas-forestales.xlsx",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/d2ae371a-a936-4429-be03-845ddd2ffd97/resource/9f570fe4-5665-48c9-99e2-b8fe2fb7c898",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-08-13T12:44:12.341063",
+      "datastore_active": false,
+      "description": "Capacidad de procesamiento instalada de la planta (tn/mes)",
+      "fileName": "procesamiento-instalado-organicos.xlsx",
+      "format": "XLSX",
+      "hash": "",
+      "id": "9f570fe4-5665-48c9-99e2-b8fe2fb7c898-xlsx",
+      "last_modified": "2019-08-13T12:44:12.341063",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Planta de Tratamiento de Residuos Orgánicos (XLSX)",
+      "package_id": "d2ae371a-a936-4429-be03-845ddd2ffd97",
+      "position": 9,
+      "resource_type": "file",
+      "revision_id": "350848b8-89f3-48dc-aa71-f8604eecc8b3",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/centro-de-reciclaje/procesamiento-instalado-organicos.xlsx",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/d2ae371a-a936-4429-be03-845ddd2ffd97/resource/16d74b7d-385a-4b52-80ca-3c3be37c0cc4",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-08-13T12:46:50.395001",
+      "datastore_active": false,
+      "description": "Capacidad de procesamiento instalada de la planta (tn/mes)",
+      "fileName": "procesamiento-instalado-pet.xlsx",
+      "format": "XLSX",
+      "hash": "",
+      "id": "16d74b7d-385a-4b52-80ca-3c3be37c0cc4-xlsx",
+      "last_modified": "2019-08-13T12:46:50.395001",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Planta de Tratamiento de PET (XLSX)",
+      "package_id": "d2ae371a-a936-4429-be03-845ddd2ffd97",
+      "position": 10,
+      "resource_type": "file",
+      "revision_id": "3b5b6cce-7606-4e67-9e8b-a6d856fd5c62",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/centro-de-reciclaje/procesamiento-instalado-pet.xlsx",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/d2ae371a-a936-4429-be03-845ddd2ffd97/resource/7bf39774-c7c3-4dd3-9fcc-728acbde4736",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-08-13T12:48:40.951421",
+      "datastore_active": false,
+      "description": "Cantidad de personas que visitan el Centro de Reciclaje por mes",
+      "fileName": "visitas-centro-reciclaje.xlsx",
+      "format": "XLSX",
+      "hash": "",
+      "id": "7bf39774-c7c3-4dd3-9fcc-728acbde4736-xlsx",
+      "last_modified": "2019-08-13T12:48:40.951421",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Visitas al Centro de Reciclaje de la Ciudad (XLSX)",
+      "package_id": "d2ae371a-a936-4429-be03-845ddd2ffd97",
+      "position": 11,
+      "resource_type": "file",
+      "revision_id": "667ac2b0-6ae0-45c8-ac1a-bcbc45eeaea6",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/centro-de-reciclaje/visitas-centro-reciclaje.xlsx",
+      "url_type": null
+    }
+  ],
+  "revision_id": "d596b311-dbd3-44b6-8211-1579e0f1c906",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "PET",
+      "id": "ad7c135e-8eaa-435a-82ad-d51143351bfa",
+      "name": "PET",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "botellas",
+      "id": "c3f96591-67b5-4d8c-865d-7c9566182ec8",
+      "name": "botellas",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "cambio climático",
+      "id": "a6836452-912d-41c2-b324-4eddc98a75c2",
+      "name": "cambio climático",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "chips",
+      "id": "301cfbe6-0662-4d2a-bb6e-6a769e763460",
+      "name": "chips",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "compost",
+      "id": "3d0030bf-692e-4441-b524-c982f8ba376d",
+      "name": "compost",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "construcción",
+      "id": "a0433d46-f8f6-4c44-ae7a-9ef03e5d47fa",
+      "name": "construcción",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "cooperativas",
+      "id": "a1d418ce-7520-4393-9c59-2a21512dc46b",
+      "name": "cooperativas",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "demolición",
+      "id": "bdf530df-d630-45ca-877b-4a5a183e62d3",
+      "name": "demolición",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "dirección general de tratamiento y nuevas tecnologías",
+      "id": "9bf96dba-843d-4c1c-974e-967bd911b095",
+      "name": "dirección general de tratamiento y nuevas tecnologías",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "enmieda orgánica",
+      "id": "cdb458e8-ac26-4d61-aa9c-a38574c1be21",
+      "name": "enmieda orgánica",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "escamas",
+      "id": "160267e0-c898-4e2b-9009-71cc8cba3086",
+      "name": "escamas",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "escuelas",
+      "id": "d1529109-e1b8-435e-acd0-6a0f4e6f7e50",
+      "name": "escuelas",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "forestales",
+      "id": "98e98231-99ee-4570-91df-ae366d123471",
+      "name": "forestales",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "planta de tratamiento",
+      "id": "cce60ce2-6635-4f83-92c0-83d66a486d52",
+      "name": "planta de tratamiento",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "poda",
+      "id": "c6eb95f9-da21-41c5-a499-7ea900795dfe",
+      "name": "poda",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "ramas",
+      "id": "6238ddf7-17d6-493c-b28a-1bfa6afd00ad",
+      "name": "ramas",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "residuos",
+      "id": "fcfa4e4f-6ce7-42d9-9af5-f03a59545778",
+      "name": "residuos",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "residuos sólidos urbanos",
+      "id": "fc54406d-74e5-4773-aaf2-fd2ebe52ba4e",
+      "name": "residuos sólidos urbanos",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "rsu",
+      "id": "b383ae83-5773-4b20-85b0-900032f588e6",
+      "name": "rsu",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "tereftalato de polietileno",
+      "id": "0587e918-b71e-4e46-8b68-38bfa2414b4c",
+      "name": "tereftalato de polietileno",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "troncos",
+      "id": "9a8b00fb-cdc8-4b84-9fc9-084896efeb21",
+      "name": "troncos",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "varela",
+      "id": "0086d8e7-c394-44ce-991f-af7290dd1746",
+      "name": "varela",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "villa soldati",
+      "id": "9673cee6-e8c4-44ca-b5af-1af888cb843a",
+      "name": "villa soldati",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "visitantes",
+      "id": "261f3e11-7411-4f54-8c8b-e729ab844e05",
+      "name": "visitantes",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "áridos",
+      "id": "daf18ff1-e7df-43f2-8cdc-6e32854f8489",
+      "name": "áridos",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Centro de Reciclaje de la Ciudad",
+  "type": "dataset",
+  "url": "https://data.buenosaires.gob.ar/dataset/centro-de-reciclaje",
+  "version": null
+}

@@ -1,0 +1,247 @@
+{
+  "author": "Ministerio de Economía y Finanzas. Dirección General de Estadística y Censos",
+  "author_email": "datosabiertos@buenosaires.gob.ar",
+  "creator_user_id": "e4546f46-e966-493c-b2f1-57318502c41b",
+  "extras": [
+    {
+      "key": "Documentación",
+      "value": ""
+    },
+    {
+      "key": "accrualPeriodicity",
+      "value": "eventual"
+    },
+    {
+      "key": "country",
+      "value": "None"
+    },
+    {
+      "key": "district",
+      "value": ""
+    },
+    {
+      "key": "home_featured",
+      "value": "false"
+    },
+    {
+      "key": "issued",
+      "value": "2019-04-08T14:40:13.984712"
+    },
+    {
+      "key": "language",
+      "value": "[]"
+    },
+    {
+      "key": "modified",
+      "value": "2021-03-05T09:53:43.682896"
+    },
+    {
+      "key": "province",
+      "value": ""
+    },
+    {
+      "key": "source",
+      "value": "Ministerio de Economía y Finanzas. Dirección General de Estadística y Censos"
+    },
+    {
+      "key": "spatial",
+      "value": "None"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"SOCI\"]"
+    },
+    {
+      "key": "temporal",
+      "value": ""
+    }
+  ],
+  "groups": [
+    {
+      "description": "",
+      "display_name": "Género",
+      "id": "3d97d3f5-206f-4719-8a06-54c709a25893",
+      "image_display_url": "https://data.buenosaires.gob.ar/uploads/group/2019-11-19-182128.307764genero720.png",
+      "name": "genero",
+      "title": "Género"
+    }
+  ],
+  "id": "7535a742-924b-4bfa-8e21-52dff5b9249d",
+  "isopen": true,
+  "license_id": "CC-BY-2.5-AR",
+  "license_title": "Atribucion 2.5 Argentina (CC BY 2.5 AR)",
+  "license_url": "https://creativecommons.org/licenses/by/2.5/ar ",
+  "maintainer": "Secretaría General y Relaciones Internacionales. Subsecretaría Gestión Estratégica y Calidad Institucional. Dirección General Calidad Institucional y Gobierno Abierto",
+  "maintainer_email": "datosabiertos@buenosaires.gob.ar",
+  "metadata_created": "2019-12-11T18:25:14.527884",
+  "metadata_modified": "2021-03-05T12:53:43.879197",
+  "name": "femicidios",
+  "notes": "Estadísticas sobre hechos de violencia contra las mujeres por razones de género en la Ciudad de Buenos Aires",
+  "num_resources": 4,
+  "num_tags": 2,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-11-15T19:18:36.747317",
+    "description": "",
+    "id": "800664f9-ab56-4482-a6c8-0a1d316bf35b",
+    "image_url": "",
+    "is_organization": true,
+    "name": "direccion-general-de-estadisticas-y-censos",
+    "revision_id": "62a8b16c-0849-419d-a339-8e14d1b4a010",
+    "state": "active",
+    "title": "Dirección General de Estadísticas y Censos",
+    "type": "organization"
+  },
+  "owner_org": "800664f9-ab56-4482-a6c8-0a1d316bf35b",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/7535a742-924b-4bfa-8e21-52dff5b9249d/resource/4e768626-8426-436f-8bb7-dc7c9b05c296",
+      "accessURL_field": "",
+      "attributesDescription": "[{\"title\":\"anio\",\"description\":\"Año de la observación\",\"type\":\"integer\"},{\"title\":\"tasa_femicidios\",\"description\":\"Tasa de femicidios de la observación\",\"type\":\"number\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-04-10T15:05:52.223755",
+      "datastore_active": false,
+      "description": "Cantidad anual de homicidios de mujeres de 15 años de edad y más cada 100.000 mujeres, asesinadas por razones de género",
+      "fileName": "tas_femic_annio_limpio.csv",
+      "format": "CSV",
+      "has-uploaded-file": "",
+      "hash": "",
+      "icon_url": "",
+      "id": "4e768626-8426-436f-8bb7-dc7c9b05c296",
+      "issued": "2019-04-10T15:05:52.223755",
+      "last_modified": "2019-04-10T15:05:52.223755",
+      "license_id": "CC-BY-4.0",
+      "mimetype": "text/csv",
+      "mimetype_inner": null,
+      "modified": "2021-02-18",
+      "name": "Tasa de femicidios",
+      "package_id": "7535a742-924b-4bfa-8e21-52dff5b9249d",
+      "position": 0,
+      "resource_type": "file",
+      "revision_id": "7af27c9c-f82a-4632-a700-d8635e249342",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/direccion-general-de-estadisticas-y-censos/femicidios/tas_femic_annio_limpio.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/7535a742-924b-4bfa-8e21-52dff5b9249d/resource/7b6bac4f-368b-4d67-a319-8b3342b39310",
+      "accessURL_field": "",
+      "attributesDescription": "[{\"title\":\"anio\",\"description\":\"Año de la observación\",\"type\":\"integer\"},{\"title\":\"grupo_edad\",\"description\":\"Grupo de edad de la observación\",\"type\":\"string\"},{\"title\":\"cantidad_femicidios\",\"description\":\"Cantidad de femicidios de la observación\",\"type\":\"integer\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-04-10T15:08:33.472025",
+      "datastore_active": false,
+      "description": "Cantidad de mujeres víctimas de homicidio doloso por causa de su género",
+      "fileName": "vict_fem_annio__g_edad_limpio.csv",
+      "format": "CSV",
+      "has-uploaded-file": "",
+      "hash": "",
+      "icon_url": "",
+      "id": "7b6bac4f-368b-4d67-a319-8b3342b39310",
+      "issued": "2019-04-10T15:08:33.472025",
+      "last_modified": "2019-04-10T15:08:33.472025",
+      "license_id": "CC-BY-4.0",
+      "mimetype": "text/csv",
+      "mimetype_inner": null,
+      "modified": "2021-02-18T08:20:01.272310",
+      "name": "Víctimas de femicidios en la Ciudad de Buenos Aires",
+      "package_id": "7535a742-924b-4bfa-8e21-52dff5b9249d",
+      "position": 1,
+      "resource_type": "file",
+      "revision_id": "d524bbd2-9c36-4e2d-bcdd-7442942cdbe1",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/direccion-general-de-estadisticas-y-censos/femicidios/vict_fem_annio__g_edad_limpio.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/7535a742-924b-4bfa-8e21-52dff5b9249d/resource/4e768626-8426-436f-8bb7-dc7c9b05c296",
+      "accessURL_field": "",
+      "attributesDescription": "[]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-04-10T15:05:52.223755",
+      "datastore_active": false,
+      "description": "Cantidad anual de homicidios de mujeres de 15 años de edad y más cada 100.000 mujeres, asesinadas por razones de género",
+      "fileName": "tas_femic_annio_limpio.xlsx",
+      "format": "XLSX",
+      "has-uploaded-file": "",
+      "hash": "",
+      "icon_url": "",
+      "id": "4e768626-8426-436f-8bb7-dc7c9b05c296-xlsx",
+      "issued": "2019-04-10T15:05:52.223755",
+      "last_modified": "2019-04-10T15:05:52.223755",
+      "license_id": "CC-BY-4.0",
+      "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "mimetype_inner": null,
+      "modified": "2021-02-18",
+      "name": "Tasa de femicidios (XLSX)",
+      "package_id": "7535a742-924b-4bfa-8e21-52dff5b9249d",
+      "position": 2,
+      "resource_type": "file",
+      "revision_id": "fc553130-d3c6-4f55-9403-0f5873961144",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/direccion-general-de-estadisticas-y-censos/femicidios/tas_femic_annio_limpio.xlsx",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/7535a742-924b-4bfa-8e21-52dff5b9249d/resource/7b6bac4f-368b-4d67-a319-8b3342b39310",
+      "accessURL_field": "",
+      "attributesDescription": "[]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-04-10T15:08:33.472025",
+      "datastore_active": false,
+      "description": "Cantidad de mujeres víctimas de homicidio doloso por causa de su género",
+      "fileName": "vict_fem_annio__g_edad_limpio.xlsx",
+      "format": "XLSX",
+      "has-uploaded-file": "",
+      "hash": "",
+      "icon_url": "",
+      "id": "7b6bac4f-368b-4d67-a319-8b3342b39310-xlsx",
+      "issued": "2019-04-10T15:08:33.472025",
+      "last_modified": "2019-04-10T15:08:33.472025",
+      "license_id": "CC-BY-4.0",
+      "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "mimetype_inner": null,
+      "modified": "2021-02-18T08:20:22.702407",
+      "name": "Víctimas de femicidios en la Ciudad de Buenos Aires (XLSX)",
+      "package_id": "7535a742-924b-4bfa-8e21-52dff5b9249d",
+      "position": 3,
+      "resource_type": "file",
+      "revision_id": "a1bb84e1-ae95-464a-a8a3-3dc92baf6fed",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/direccion-general-de-estadisticas-y-censos/femicidios/vict_fem_annio__g_edad_limpio.xlsx",
+      "url_type": null
+    }
+  ],
+  "revision_id": "4688408e-07c7-4338-b6b8-eee8237fa5f1",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "femicidio",
+      "id": "02fc8c6f-ab99-4661-b947-86dafa589c39",
+      "name": "femicidio",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "victimas",
+      "id": "766b85f5-b40d-403d-bd70-3a0a184262a2",
+      "name": "victimas",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Femicidios",
+  "type": "dataset",
+  "url": "https://data.buenosaires.gob.ar/dataset/femicidios",
+  "version": null
+}

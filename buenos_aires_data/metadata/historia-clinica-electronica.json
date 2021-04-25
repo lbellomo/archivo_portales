@@ -1,0 +1,200 @@
+{
+  "author": "Ministerio de Salud",
+  "author_email": "datosabiertos@buenosaires.gob.ar",
+  "creator_user_id": "931fac92-738f-4472-b1c1-f5c2f6e46af3",
+  "extras": [
+    {
+      "key": "Documentación",
+      "value": ""
+    },
+    {
+      "key": "accrualPeriodicity",
+      "value": "eventual"
+    },
+    {
+      "key": "country",
+      "value": "ARG"
+    },
+    {
+      "key": "district",
+      "value": ""
+    },
+    {
+      "key": "home_featured",
+      "value": "false"
+    },
+    {
+      "key": "issued",
+      "value": "2020-11-19T13:26:21.753215"
+    },
+    {
+      "key": "language",
+      "value": "[\"spa\"]"
+    },
+    {
+      "key": "modified",
+      "value": "2021-03-05T09:46:21.432977"
+    },
+    {
+      "key": "province",
+      "value": ""
+    },
+    {
+      "key": "source",
+      "value": "Ministerio de Salud"
+    },
+    {
+      "key": "spatial",
+      "value": "ARG"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"HEAL\"]"
+    },
+    {
+      "key": "temporal",
+      "value": ""
+    }
+  ],
+  "groups": [
+    {
+      "description": "Datasets relacionados a COVID-19",
+      "display_name": "COVID-19",
+      "id": "0f30f631-df60-4d33-aedb-96c9a48a2332",
+      "image_display_url": "https://data.buenosaires.gob.ar/uploads/group/2020-07-23-165939.349779iconocovid19.png",
+      "name": "covid-19",
+      "title": "COVID-19"
+    },
+    {
+      "description": "",
+      "display_name": "Salud",
+      "id": "0be192e9-f1b7-4308-bb9a-f362e2ff44a6",
+      "image_display_url": "https://data.buenosaires.gob.ar/uploads/group/2019-11-16-145030.020776salud.png",
+      "name": "salud",
+      "title": "Salud"
+    }
+  ],
+  "id": "d1d90013-3a24-4b65-8d86-3ac243a50e32",
+  "isopen": true,
+  "license_id": "CC-BY-2.5-AR",
+  "license_title": "Atribucion 2.5 Argentina (CC BY 2.5 AR)",
+  "license_url": "https://creativecommons.org/licenses/by/2.5/ar ",
+  "maintainer": "Subsecretaría de Políticas Públicas Basadas en Evidencia. DG Arquitectura de Datos",
+  "maintainer_email": "",
+  "metadata_created": "2020-11-19T16:26:14.874259",
+  "metadata_modified": "2021-03-05T12:46:21.568451",
+  "name": "historia-clinica-electronica",
+  "notes": "Información sobre el sistema de Historia Clínica Electrónica implementada en todos los Centros de Salud de la Ciudad.",
+  "num_resources": 2,
+  "num_tags": 3,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-11-15T19:17:04.156344",
+    "description": "",
+    "id": "c055e91b-2714-47e4-b47e-6bb063f32776",
+    "image_url": "",
+    "is_organization": true,
+    "name": "ministerio-de-salud",
+    "revision_id": "b72e4fc3-266f-4a53-bbd7-690b4ccff688",
+    "state": "active",
+    "title": "Ministerio de Salud",
+    "type": "organization"
+  },
+  "owner_org": "c055e91b-2714-47e4-b47e-6bb063f32776",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "",
+      "accessURL_field": "",
+      "attributesDescription": "[{\"title\":\"Empadronados en Historia Clinica Electronica\",\"description\":\"Fecha\",\"type\":\"date\"},{\"title\":\"Nuevos\",\"description\":\"Nuevos empadronados\",\"type\":\"integer\"},{\"title\":\"Acumulado\",\"description\":\"Acumulado de empadronados al sistema de historia clínica electrónica.\",\"type\":\"integer\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2020-11-19T16:47:03.837724",
+      "datastore_active": false,
+      "description": "Cantidad de personas empadronadas al sistema de historia clinica electronica en la Ciudad de Buenos Aires.",
+      "fileName": "",
+      "format": "CSV",
+      "has-uploaded-file": "",
+      "hash": "",
+      "icon_url": "",
+      "id": "1c95dcd2-bc4c-4bae-95a1-4b75bd75f116",
+      "issued": "2020-11-19T16:47:03.837724",
+      "last_modified": "2020-11-19T00:00:00",
+      "license_id": "CC-BY-4.0",
+      "mimetype": "text/csv",
+      "mimetype_inner": null,
+      "modified": "2020-11-19T13:49:04.813239",
+      "name": "Cantidad de empadronados al sistema de historia clínica electrónica",
+      "package_id": "d1d90013-3a24-4b65-8d86-3ac243a50e32",
+      "position": 0,
+      "resource_type": "file",
+      "revision_id": "702e4375-25bc-4b3d-a758-0f4741ff2103",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/salud/historia-clinica-electronica/empadronados_hce.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "",
+      "accessURL_field": "",
+      "attributesDescription": "[{\"title\":\"Fecha\",\"description\":\"Año y mes\",\"type\":\"date\"},{\"title\":\"CeSACs con Historia Clinica Electronica implementada\",\"description\":\"Cantidad de CeSACs con HCI\",\"type\":\"integer\"},{\"title\":\"Porcentaje\",\"description\":\"Porcentaje de CeSAC con historia clínica implementada.\",\"type\":\"number\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2020-11-19T16:47:09.489179",
+      "datastore_active": false,
+      "description": "Porcentaje de centros de salud y accion comunitaria que implementaron el sistema de historia clinica electronica por año.",
+      "fileName": "porcentaje_hce_cesacs.csv",
+      "format": "CSV",
+      "has-uploaded-file": "",
+      "hash": "",
+      "icon_url": "",
+      "id": "a1d228e4-17c3-4917-9995-5235afcadc81",
+      "issued": "2020-11-19T16:47:09.489179",
+      "last_modified": "2021-01-07T02:03:24.725456",
+      "license_id": "CC-BY-4.0",
+      "mimetype": "text/csv",
+      "mimetype_inner": null,
+      "modified": "2021-01-06T23:03:24.716445",
+      "name": "Porcentaje de CeSAC que implementaron historia clínica electrónica",
+      "package_id": "d1d90013-3a24-4b65-8d86-3ac243a50e32",
+      "position": 1,
+      "resource_type": "file.upload",
+      "revision_id": "a261c925-36a7-4c23-a18e-8e3f00c67fd7",
+      "size": 352,
+      "state": "active",
+      "url": "https://data.buenosaires.gob.ar/dataset/d1d90013-3a24-4b65-8d86-3ac243a50e32/resource/a1d228e4-17c3-4917-9995-5235afcadc81/download/porcentaje_hce_cesacs.csv",
+      "url_type": "upload"
+    }
+  ],
+  "revision_id": "bdcf3d81-e2c0-4240-ac78-feb72f33a6c1",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "clinica",
+      "id": "5db4e971-4d69-4228-857c-d26f7cc8ece6",
+      "name": "clinica",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "electronica",
+      "id": "2cc5b9b4-d826-412f-9157-4622f20b8cc3",
+      "name": "electronica",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "historia",
+      "id": "28db35a4-3fce-46b5-9865-d3fb872064ce",
+      "name": "historia",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Historia clínica electrónica",
+  "type": "dataset",
+  "url": "https://data.buenosaires.gob.ar/dataset/historia-clinica-electronica",
+  "version": null
+}

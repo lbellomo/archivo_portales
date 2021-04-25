@@ -1,0 +1,261 @@
+{
+  "author": "Ministerio de Desarrollo Urbano y Transporte. Secretaría Transporte. SS Tránsito y Transporte. DG Planificación de la Movilidad.",
+  "author_email": "gobiernoabierto@buenosaires.gob.ar",
+  "creator_user_id": "e4546f46-e966-493c-b2f1-57318502c41b",
+  "extras": [
+    {
+      "key": "Documentación",
+      "value": ""
+    },
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P6M"
+    },
+    {
+      "key": "country",
+      "value": "ARG"
+    },
+    {
+      "key": "district",
+      "value": ""
+    },
+    {
+      "key": "home_featured",
+      "value": "false"
+    },
+    {
+      "key": "issued",
+      "value": "2019-12-16T17:29:42.354971"
+    },
+    {
+      "key": "language",
+      "value": "[\"spa\"]"
+    },
+    {
+      "key": "modified",
+      "value": "2019-12-16T17:45:35.817228"
+    },
+    {
+      "key": "province",
+      "value": "02"
+    },
+    {
+      "key": "source",
+      "value": "Ministerio de Desarrollo Urbano y Transporte. Secretaría Transporte. SS Tránsito y Transporte. DG Planificación de la Movilidad."
+    },
+    {
+      "key": "spatial",
+      "value": "ARG,02"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"TRAN\"]"
+    },
+    {
+      "key": "temporal",
+      "value": ""
+    }
+  ],
+  "groups": [
+    {
+      "description": "",
+      "display_name": "Movilidad",
+      "id": "e616e02e-64d8-4fb0-b55d-08e75eb58376",
+      "image_display_url": "https://data.buenosaires.gob.ar/uploads/group/2019-11-16-145017.234366movilidad.png",
+      "name": "movilidad",
+      "title": "Movilidad"
+    }
+  ],
+  "id": "25fd4811-44b6-464b-a703-1b7557a50ed5",
+  "isopen": true,
+  "license_id": "CC-BY-2.5-AR",
+  "license_title": "Atribucion 2.5 Argentina (CC BY 2.5 AR)",
+  "license_url": "https://creativecommons.org/licenses/by/2.5/ar ",
+  "maintainer": "Secretaría General y Relaciones Internacionales. Subsecretaría Gestión Estratégica y Calidad Institucional. Dirección General Calidad Institucional y Gobierno Abierto",
+  "maintainer_email": "gobiernoabierto@buenosaires.gob.ar",
+  "metadata_created": "2019-12-16T20:29:42.386594",
+  "metadata_modified": "2020-12-17T15:13:32.769229",
+  "name": "actividades-estaticas",
+  "notes": "Información sobre relevamientos de actividades estáticas. Incluye información de relevamientos en filas de metrobus y centros de trasbordo.",
+  "num_resources": 4,
+  "num_tags": 4,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-11-15T19:19:49.916928",
+    "description": "",
+    "id": "56b60b46-a47c-48fb-9bd4-c2ad0e05fef2",
+    "image_url": "",
+    "is_organization": true,
+    "name": "transporte-y-obras-publicas",
+    "revision_id": "c33c86a3-e197-468f-8b66-5b943b3bf106",
+    "state": "active",
+    "title": "Secretaría de Transporte y Obras Públicas",
+    "type": "organization"
+  },
+  "owner_org": "56b60b46-a47c-48fb-9bd4-c2ad0e05fef2",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "",
+      "accessURL_field": "",
+      "attributesDescription": "[{\"title\":\"periodo\",\"description\":\"Año en el que se realizó el relevamiento\",\"type\":\"string\"},{\"title\":\"fecha\",\"description\":\"Fecha completa en la cual se realizó el relevamiento\",\"type\":\"date\"},{\"title\":\"dia\",\"description\":\"Día de la semana en el que se realizó el relevamiento\",\"type\":\"string\"},{\"title\":\"mes\",\"description\":\"Día de la semana en el que se realizó el relevamiento\",\"type\":\"string\"},{\"title\":\"hora_inicio\",\"description\":\"Hora de inicio del estudio\",\"type\":\"date-time\"},{\"title\":\"hora_fin\",\"description\":\"Hora de fin del estudio\",\"type\":\"date-time\"},{\"title\":\"locacion\",\"description\":\"Centro de Trasbordo o corredor de Metrobús donde se realizó el estudio\",\"type\":\"string\"},{\"title\":\"lat\",\"description\":\"Latitud de la ubicación donde se realizó el relevamiento\",\"type\":\"string\"},{\"title\":\"long\",\"description\":\"Longitud de la ubicación donde se realizó el relevamiento\",\"type\":\"string\"},{\"title\":\"parador\",\"description\":\"Parador del Centro de Trasbordo o Metrobús donde se realizó el estudio\",\"type\":\"string\"},{\"title\":\"parada_de_linea\",\"description\":\"Línea de colectivo dentro del parador del centro de trasbordo o Metrobús donde se realizó el estudio\",\"type\":\"string\"},{\"title\":\"desborde_fila\",\"description\":\"Existencia de fila excediendo límites del parador.\",\"type\":\"string\"},{\"title\":\"tipo_desborde\",\"description\":\"Característica del desborde de las filas y típos de bloqueos relevados.\",\"type\":\"string\"},{\"title\":\"fila_max_de_personas\",\"description\":\"Cantidad máxima de personas que realizan la fila\",\"type\":\"integer\"},{\"title\":\"sentido_de_fila\",\"description\":\"Forma en la que las personas realizan la fila dentro de la parada estudiada (Convencional: pasajeros formando hacia fuera del parador. No convencional: pasajeros formando hacia dentro del parador)\",\"type\":\"string\"},{\"title\":\"cantidad_de_filas\",\"description\":\"Cantidad de filas simultáneas en la parada.\",\"type\":\"string\"},{\"title\":\"linea_mas_utilizada\",\"description\":\"Línea de colectivo mas utilizada dentro de la parada.\",\"type\":\"string\"},{\"title\":\"presencia_inspector_de_linea\",\"description\":\"Presencia inspector de línea en la parada relevada.\",\"type\":\"string\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-12-16T20:38:59.048562",
+      "datastore_active": false,
+      "description": "Incluye información de relevamientos de la actividad estática de personas en filas de metrobus y centros de trasbordo.",
+      "fileName": "actividad-estatica-filas-mtb-cts.csv",
+      "format": "CSV",
+      "has-uploaded-file": "",
+      "hash": "",
+      "icon_url": "",
+      "id": "99145297-7f04-494f-b9bf-136333c907da",
+      "issued": "2019-12-16T17:38:59.000256",
+      "last_modified": null,
+      "license_id": "CC-BY-2.5-AR",
+      "mimetype": "text/csv",
+      "mimetype_inner": null,
+      "modified": "2019-12-16T17:38:59.000256",
+      "name": "Actividad estática - Filas de Metrobus y Centros de Trasbordo",
+      "package_id": "25fd4811-44b6-464b-a703-1b7557a50ed5",
+      "position": 0,
+      "resource_type": "file",
+      "revision_id": "80578b78-3911-452a-bbf2-ccb1a80cb17b",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/actividades-estaticas/actividad-estatica-filas-mtb-cts.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "",
+      "accessURL_field": "",
+      "attributesDescription": "[]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-12-16T20:41:12.361509",
+      "datastore_active": false,
+      "description": "Archivo excel con la información de actividades estáticas en filas de metrobus y centros de trasbordo.",
+      "fileName": "",
+      "format": "XLSX",
+      "has-uploaded-file": "",
+      "hash": "",
+      "icon_url": "",
+      "id": "63fa335b-ddff-493b-81b3-61255bf12a2c",
+      "issued": "2019-12-16T17:41:12.318196",
+      "last_modified": null,
+      "license_id": "CC-BY-2.5-AR",
+      "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "mimetype_inner": null,
+      "modified": "2019-12-16T17:43:33.888870",
+      "name": "Actividad estática - Filas de Metrobus y Centros de Trasbordo (XLSX)",
+      "package_id": "25fd4811-44b6-464b-a703-1b7557a50ed5",
+      "position": 1,
+      "resource_type": "file",
+      "revision_id": "dc2e3f2e-ee6a-431f-a11f-de27c7bb4012",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/actividades-estaticas/actividad-estatica-filas-mtb-cts.xlsx",
+      "url_type": null
+    },
+    {
+      "accessURL": "",
+      "accessURL_field": "",
+      "attributesDescription": "[]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-12-16T20:42:29.488973",
+      "datastore_active": false,
+      "description": "Archivo shapefile con la información de actividades estáticas en filas de metrobus y centros de trasbordo.",
+      "fileName": "",
+      "format": "ZIP",
+      "has-uploaded-file": "",
+      "hash": "",
+      "icon_url": "",
+      "id": "f9ec69e4-6823-439b-90ea-b17241653a8a",
+      "issued": "2019-12-16T17:42:29.441795",
+      "last_modified": null,
+      "license_id": "CC-BY-2.5-AR",
+      "mimetype": "application/zip",
+      "mimetype_inner": null,
+      "modified": "2019-12-16T17:43:58.456127",
+      "name": "Actividad estática - Filas de Metrobus y Centros de Trasbordo (SHP)",
+      "package_id": "25fd4811-44b6-464b-a703-1b7557a50ed5",
+      "position": 2,
+      "resource_type": "file",
+      "revision_id": "e578b8b5-81d7-4659-aa82-3b4b5afac22a",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/actividades-estaticas/actividad-estatica-filas-mtb-cts.zip",
+      "url_type": null
+    },
+    {
+      "accessURL": "",
+      "accessURL_field": "",
+      "attributesDescription": "[]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-12-16T20:43:13.963625",
+      "datastore_active": false,
+      "description": "Archivo Geojson con la información de actividades estáticas en filas de metrobus y centros de trasbordo.",
+      "fileName": "",
+      "format": "GeoJSON",
+      "has-uploaded-file": "",
+      "hash": "",
+      "icon_url": "",
+      "id": "219bd443-3534-4814-b726-afc6cdcb4c92",
+      "issued": "2019-12-16T17:43:13.918691",
+      "last_modified": null,
+      "license_id": "CC-BY-2.5-AR",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "modified": "2019-12-16T17:44:14.378828",
+      "name": "Actividad estática - Filas de Metrobus y Centros de Trasbordo (GeoJSON)",
+      "package_id": "25fd4811-44b6-464b-a703-1b7557a50ed5",
+      "position": 3,
+      "resource_type": "file",
+      "revision_id": "62c6de7e-5bc3-4318-b7a0-96a24e3fc45d",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/actividades-estaticas/actividad-estatica-filas-mtb-cts.geojson",
+      "url_type": null
+    }
+  ],
+  "revision_id": "d9a53697-7f46-4381-b575-426d06ea9f1e",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "actividades estáticas",
+      "id": "c3ebf599-d052-4400-b39a-7f6aebba1c16",
+      "name": "actividades estáticas",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "centros de trasbordo",
+      "id": "86eeebcd-bfb8-4181-b514-42176f29e62e",
+      "name": "centros de trasbordo",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "filas",
+      "id": "6a2fc8d3-c5e3-4ef3-805d-ab334c852726",
+      "name": "filas",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "metrobus",
+      "id": "ad0b9703-b8cd-4519-a3da-de4e569c9029",
+      "name": "metrobus",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Estudios actividad estática",
+  "type": "dataset",
+  "url": "https://data.buenosaires.gob.ar/dataset/actividades-estaticas",
+  "version": null
+}

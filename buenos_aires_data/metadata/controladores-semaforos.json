@@ -1,0 +1,147 @@
+{
+  "author": "Ministerio de Desarrollo Urbano y Transporte. Secretaría Transporte. SS Tránsito y Transporte. DG Tránsito y Transporte",
+  "author_email": "gobiernoabierto@buenosaires.gob.ar",
+  "creator_user_id": "e4546f46-e966-493c-b2f1-57318502c41b",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P1Y"
+    },
+    {
+      "key": "issued",
+      "value": "2019-01-08T15:00:39.680011"
+    },
+    {
+      "key": "language",
+      "value": "[\"SPA\"]"
+    },
+    {
+      "key": "modified",
+      "value": "2019-04-23T16:03:14.791947"
+    },
+    {
+      "key": "source",
+      "value": "Ministerio de Desarrollo Urbano y Transporte. Secretaría Transporte. SS Tránsito y Transporte. DG Tránsito y Transporte"
+    },
+    {
+      "key": "spatial",
+      "value": "02"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"TRAN\"]"
+    }
+  ],
+  "groups": [
+    {
+      "description": "",
+      "display_name": "Movilidad",
+      "id": "e616e02e-64d8-4fb0-b55d-08e75eb58376",
+      "image_display_url": "https://data.buenosaires.gob.ar/uploads/group/2019-11-16-145017.234366movilidad.png",
+      "name": "movilidad",
+      "title": "Movilidad"
+    }
+  ],
+  "id": "juqdkmgo-66",
+  "isopen": true,
+  "license_id": "CC-BY-2.5-AR",
+  "license_title": "Atribucion 2.5 Argentina (CC BY 2.5 AR)",
+  "license_url": "https://creativecommons.org/licenses/by/2.5/ar ",
+  "maintainer": "Secretaría General y Relaciones Internacionales. Subsecretaría Gestión Estratégica y Calidad Institucional. Dirección General Calidad Institucional y Gobierno Abierto",
+  "maintainer_email": "gobiernoabierto@buenosaires.gob.ar",
+  "metadata_created": "2019-12-11T18:17:51.144665",
+  "metadata_modified": "2020-12-17T15:58:35.757147",
+  "name": "controladores-semaforos",
+  "notes": "Listado con ubicación geográfica de los controladores de semáforos de la Ciudad",
+  "num_resources": 2,
+  "num_tags": 2,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-11-15T19:19:49.916928",
+    "description": "",
+    "id": "56b60b46-a47c-48fb-9bd4-c2ad0e05fef2",
+    "image_url": "",
+    "is_organization": true,
+    "name": "transporte-y-obras-publicas",
+    "revision_id": "c33c86a3-e197-468f-8b66-5b943b3bf106",
+    "state": "active",
+    "title": "Secretaría de Transporte y Obras Públicas",
+    "type": "organization"
+  },
+  "owner_org": "56b60b46-a47c-48fb-9bd4-c2ad0e05fef2",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/controladores-de-semaforos",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-01-08T15:00:39.680011",
+      "datastore_active": false,
+      "description": "Se desarrolla un listado de las ubicaciones de las Intersecciones Semaforizadas de la Ciudad Autónoma de Buenos Aires y de los Controladores instalados a ellas.",
+      "fileName": "controladores-de-semaforos.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "juqdkmgo-661-resource",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Controladores de semaforos",
+      "package_id": "juqdkmgo-66",
+      "position": 0,
+      "resource_type": "file",
+      "revision_id": "c5b0d200-56f0-4196-87e0-0c0d90a4286b",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/controladores-de-semaforos/controladores-de-semaforos.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/controladores-de-semaforos",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-01-08T15:00:39.680011",
+      "datastore_active": false,
+      "description": "Se desarrolla un listado de las ubicaciones de las Intersecciones Semaforizadas de la Ciudad Autónoma de Buenos Aires y de los Controladores instalados a ellas.",
+      "fileName": "controladores-de-semaforos.xlsx",
+      "format": "XLSX",
+      "hash": "",
+      "id": "juqdkmgo-661-resource-xlsx",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Controladores de semaforos (XLSX)",
+      "package_id": "juqdkmgo-66",
+      "position": 1,
+      "resource_type": "file",
+      "revision_id": "37ad6b4b-6f10-4431-acb2-89a651fa6b62",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/controladores-de-semaforos/controladores-de-semaforos.xlsx",
+      "url_type": null
+    }
+  ],
+  "revision_id": "d439a552-90bf-4af4-8a39-612fd069fcc8",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "transito",
+      "id": "660a375e-7f64-4171-81da-ea429c603ac3",
+      "name": "transito",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "urbanismo",
+      "id": "17ac67e7-699b-470d-b0dd-5b8752c1fb73",
+      "name": "urbanismo",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Controladores de semaforos",
+  "type": "dataset",
+  "url": "https://data.buenosaires.gob.ar/dataset/controladores-semaforos",
+  "version": null
+}

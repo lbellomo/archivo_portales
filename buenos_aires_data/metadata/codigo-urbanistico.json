@@ -1,0 +1,313 @@
+{
+  "author": "Ministerio de Desarrollo Urbano y Transporte. SS Planeamiento. DG de Datos, Estadística y Proyección Urbana",
+  "author_email": "datosabiertos@buenosaires.gob.ar",
+  "creator_user_id": "e4546f46-e966-493c-b2f1-57318502c41b",
+  "extras": [
+    {
+      "key": "Documentación",
+      "value": ""
+    },
+    {
+      "key": "accrualPeriodicity",
+      "value": "eventual"
+    },
+    {
+      "key": "country",
+      "value": "None"
+    },
+    {
+      "key": "district",
+      "value": ""
+    },
+    {
+      "key": "home_featured",
+      "value": "false"
+    },
+    {
+      "key": "issued",
+      "value": "2019-07-02T17:20:00.948274"
+    },
+    {
+      "key": "language",
+      "value": "[]"
+    },
+    {
+      "key": "modified",
+      "value": "2021-03-05T09:48:44.536702"
+    },
+    {
+      "key": "province",
+      "value": ""
+    },
+    {
+      "key": "source",
+      "value": "Ministerio de Desarrollo Urbano y Transporte. SS Planeamiento. DG de Datos, Estadística y Proyección Urbana"
+    },
+    {
+      "key": "spatial",
+      "value": "None"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"REGI\"]"
+    },
+    {
+      "key": "temporal",
+      "value": ""
+    }
+  ],
+  "groups": [
+    {
+      "description": "Datasets relacionados con urbanismo y territorio",
+      "display_name": "Urbanismo y Territorio",
+      "id": "63e162a0-3f4a-446a-a60b-601d16f36200",
+      "image_display_url": "https://data.buenosaires.gob.ar/uploads/group/2019-11-16-145056.781692urba.png",
+      "name": "urbanismo-y-territorio",
+      "title": "Urbanismo y Territorio"
+    }
+  ],
+  "id": "22374d02-d2dc-4d68-bb0a-bf18144263e8",
+  "isopen": true,
+  "license_id": "CC-BY-2.5-AR",
+  "license_title": "Atribucion 2.5 Argentina (CC BY 2.5 AR)",
+  "license_url": "https://creativecommons.org/licenses/by/2.5/ar ",
+  "maintainer": "Secretaría General y Relaciones Internacionales. Subsecretaría Gestión Estratégica y Calidad Institucional. Dirección General Calidad Institucional y Gobierno Abierto",
+  "maintainer_email": "datosabiertos@buenosaires.gob.ar",
+  "metadata_created": "2019-12-11T18:12:43.513730",
+  "metadata_modified": "2021-03-05T12:48:44.569523",
+  "name": "codigo-urbanistico",
+  "notes": "Información sobre uso del suelo, edificios, estructuras e instalaciones, subdivisión, volúmenes edificables y tejido urbano,incluida en el Código Urbanístico, el cual deroga al Código de Planeamiento Urbano",
+  "num_resources": 5,
+  "num_tags": 8,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-11-15T19:19:23.733985",
+    "description": "",
+    "id": "eddbd148-4cef-40e1-87f7-94345c709aad",
+    "image_url": "",
+    "is_organization": true,
+    "name": "secretaria-de-desarrollo-urbano",
+    "revision_id": "14b2ab11-275f-4466-b2f4-4b60ff08fa3e",
+    "state": "active",
+    "title": "Secretaría de Desarrollo Urbano",
+    "type": "organization"
+  },
+  "owner_org": "eddbd148-4cef-40e1-87f7-94345c709aad",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/22374d02-d2dc-4d68-bb0a-bf18144263e8/resource/40e01734-0798-426d-9969-b7a6ce1ea693",
+      "accessURL_field": "",
+      "attributesDescription": "[{\"title\":\"smp1\",\"description\":\"Corresponde al número de identificación de la Sección-Manzana-Parcela\",\"type\":\"string\"},{\"title\":\"sm\",\"description\":\"Corresponde al número de identificación de la Sección-Manzana\",\"type\":\"string\"},{\"title\":\"uni_edif_1\",\"description\":\"Unidad de edificabilidad 1: define la altura máxima aplicable a cada Unidad de la\\nCiudad de Buenos Aires\",\"type\":\"number\"},{\"title\":\"uni_edif_2\",\"description\":\"Cuando la parcela tiene más de un frente, y/o la misma se encuentra afectada a dos o más unidades de edificabilidad, se agregan las alturas correspondientes.\",\"type\":\"number\"},{\"title\":\"uni_edif_3\",\"description\":\"Cuando la parcela tiene más de un frente, y/o la misma se encuentra afectada a dos o más unidades de edificabilidad, se agregan las alturas correspondientes.\",\"type\":\"number\"},{\"title\":\"uni_edif_4\",\"description\":\"Cuando la parcela tiene más de un frente, y/o la misma se encuentra afectada a dos o más unidades de edificabilidad, se agregan las alturas correspondientes.\",\"type\":\"number\"},{\"title\":\"uso_1\",\"description\":\"Mixtura de uso 1\",\"type\":\"integer\"},{\"title\":\"uso_2\",\"description\":\"Mixtura de uso 2\",\"type\":\"integer\"},{\"title\":\"uso_3\",\"description\":\"Mixtura de uso 3\",\"type\":\"integer\"},{\"title\":\"dist_1_grp\",\"description\":\"Distrito especial agrupado 1: Distrito especial al que pertenece una parcela. Por\\nejemplo: APH\",\"type\":\"string\"},{\"title\":\"dist_1_esp\",\"description\":\"Distrito especial específico 1: Distrito especial especifico al que pertenece una parcela. Por ejemplo: APH 1\",\"type\":\"string\"},{\"title\":\"dist_2_grp\",\"description\":\"Distrito especial agrupado 2:Cuando la parcela tiene más de un frente, y/o la misma se encuentra afectada a dos o más distritos especiales, se agregan los distritos especiales correspondientes.\",\"type\":\"string\"},{\"title\":\"dist_2_esp\",\"description\":\"Distrito especial específico 2: Cuando la parcela tiene más de un frente, y/o la misma se encuentra afectada a dos o más distritos especiales, se agregan los distritos especiales correspondientes.\",\"type\":\"string\"},{\"title\":\"dist_3_grp\",\"description\":\"Distrito especial agrupado 3: Cuando la parcela tiene más de un frente, y/o la misma se encuentra afectada a dos o más distritos especiales, se agregan los distritos especiales correspondientes.\",\"type\":\"string\"},{\"title\":\"dist_3_esp\",\"description\":\"Distrito especial específico 3: Cuando la parcela tiene más de un frente, y/o la misma se encuentra afectada a dos o más distritos especiales, se agregan los distritos especiales correspondientes.\",\"type\":\"string\"},{\"title\":\"dist_4_grp\",\"description\":\"Distrito especial agrupado 4: Cuando la parcela tiene más de un frente, y/o la misma se encuentra afectada a dos o más distritos especiales, se agregan los distritos especiales correspondientes.\",\"type\":\"string\"},{\"title\":\"dist_4_esp\",\"description\":\"Distrito especial específico 4: Cuando la parcela tiene más de un frente, y/o la misma se encuentra afectada a dos o más distritos especiales, se agregan los distritos especiales correspondientes.\",\"type\":\"string\"},{\"title\":\"anac\",\"description\":\"Parcelas ubicadas dentro del Cono de Aproximación Aeroparque.\\n0 = parcela no afectada\\n1 = parcela afectada\",\"type\":\"integer\"},{\"title\":\"ci_digital\",\"description\":\"Parcelas afectadas por el Cinturón Digital.\\n0 = parcela no afectada\\n1 = parcela afectada\",\"type\":\"integer\"},{\"title\":\"rh\",\"description\":\"Parcelas afectadas por Riesgo Hídrico\\n0 = parcela no afectada\\n1 = parcela afectada\",\"type\":\"integer\"},{\"title\":\"lep\",\"description\":\"Parcelas afectadas a Línea de Edificación Particularizada\\n0 = parcela no afectada\\n1 = parcela afectada\",\"type\":\"integer\"},{\"title\":\"ensanche\",\"description\":\"Parcelas afectadas a futuro ensanche\\n0 = parcela no afectada\\n1 = parcela afectada\",\"type\":\"integer\"},{\"title\":\"apertura\",\"description\":\"Parcelas afectadas a futura apertura\\n0 = parcela no afectada\\n1 = parcela afectada\",\"type\":\"integer\"},{\"title\":\"catalogado\",\"description\":\"Edificios catalogados: son piezas singulares que pueden o no estar incluidas en un APH, y reciben un nivel de protección diferente (integral, estructural, cautelar) de acuerdo con sus características\",\"type\":\"integer\"},{\"title\":\"rivolta\",\"description\":\"0: Parcela NO afectada por el artículo 6.4.6 sobre la Altura de Edificios de Esquina.\\n1 y 2: La parcela podrá aplicar el artículo 6.4.6 sobre la Altura de Edificios de Esquina en ciertas ocasiones.\",\"type\":\"integer\"},{\"title\":\"barrio\",\"description\":\"Barrio en el que se encuentra la parcela.\",\"type\":\"string\"},{\"title\":\"comuna\",\"description\":\"Comuna en la que se encuentra la parcela.\",\"type\":\"string\"},{\"title\":\"incid_uva\",\"description\":\"Es el valor del terreno en UVAs por metro cuadrado de superficie según ley 6.062 mod.\\ny comp.\",\"type\":\"number\"},{\"title\":\"alicuota\",\"description\":\"Para el cálculo del derecho se establecen alícuotas diferenciales por zonas según su nivel de desarrollo urbano.\",\"type\":\"integer\"},{\"title\":\"dist_cpu_1\",\"description\":\"Distrito del Código de Planeamiento Urbano (derogado a partir de la entrada en vigencia del actual Código Urbanístico) al que corresponde una parcela.\",\"type\":\"string\"},{\"title\":\"dist_cpu_2\",\"description\":\"Distrito del Código de Planeamiento Urbano (derogado a partir de la entrada en vigencia del actual Código Urbanístico) al que corresponde una parcela cuando la parcela tiene más de un frente.\",\"type\":\"string\"},{\"title\":\"dist_cpu_3\",\"description\":\"Distrito del Código de Planeamiento Urbano (derogado a partir de la entrada en vigencia del actual Código Urbanístico) al que corresponde una parcela cuando la parcela tiene más de un frente.\",\"type\":\"string\"},{\"title\":\"dist_cpu_4\",\"description\":\"Distrito del Código de Planeamiento Urbano (derogado a partir de la entrada en vigencia del actual Código Urbanístico) al que corresponde una parcela cuando la parcela tiene más de un frente.\",\"type\":\"string\"},{\"title\":\"ae\",\"description\":\"Identifica si las parcelas afectadas por el distrito AE del Código de Planeamiento Urbano (derogado a partir de la entrada en vigencia del actual Código Urbanístico).\",\"type\":\"string\"},{\"title\":\"fot_1\",\"description\":\"Factor de Ocupación de Terreno correspondiente al CPU (derogado a partir de la entrada en vigencia del actual CU), que\\nindicaba los metros cuadrados permitidos para edificar. Corresponde a dist_cpu_1\",\"type\":\"string\"},{\"title\":\"fot_2\",\"description\":\"Factor de Ocupación de Terreno correspondiente al CPU (derogado a partir de la entrada en vigencia del actual CU), que\\nindicaba los metros cuadrados permitidos para edificar. Corresponde a dist_cpu_2\",\"type\":\"string\"},{\"title\":\"fot_3\",\"description\":\"Factor de Ocupación de Terreno correspondiente al CPU (derogado a partir de la entrada en vigencia del actual CU), que\\nindicaba los metros cuadrados permitidos para edificar. Corresponde a dist_cpu_3\",\"type\":\"string\"},{\"title\":\"causa_fot\",\"description\":\"Menciona la causa porque no aplica el FOT.\",\"type\":\"string\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-07-03T17:40:36.523036",
+      "datastore_active": false,
+      "description": "Código urbanístico de la Ciudad de Buenos Aires clasificada por distrito de zonificación actualizados a la fecha 3 de diciembre de 2020",
+      "fileName": "",
+      "format": "CSV",
+      "has-uploaded-file": "",
+      "hash": "",
+      "icon_url": "",
+      "id": "40e01734-0798-426d-9969-b7a6ce1ea693",
+      "issued": "2019-07-03T17:40:36.523036",
+      "last_modified": "2019-07-03T17:40:36.523036",
+      "license_id": "CC-BY-4.0",
+      "mimetype": "text/csv",
+      "mimetype_inner": null,
+      "modified": "2020-12-17T18:49:37.926389",
+      "name": "Código Urbanístico actualizado al 03/12/2020 (Parcelas)",
+      "package_id": "22374d02-d2dc-4d68-bb0a-bf18144263e8",
+      "position": 0,
+      "resource_type": "file",
+      "revision_id": "134b3783-c600-4330-b49c-7f5a35eb6972",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/codigo-urbanistico/codigo-urbanistico.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/22374d02-d2dc-4d68-bb0a-bf18144263e8/resource/7f0f61d2-cea9-4505-8490-14eed9f68452",
+      "accessURL_field": "",
+      "attributesDescription": "[]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-07-03T17:09:53.333842",
+      "datastore_active": false,
+      "description": "Código urbanístico de la Ciudad de Buenos Aires clasificada por distrito de zonificación actualizados a la fecha 3 de diciembre de 2020",
+      "fileName": "",
+      "format": "ZIP",
+      "has-uploaded-file": "",
+      "hash": "",
+      "icon_url": "",
+      "id": "7f0f61d2-cea9-4505-8490-14eed9f68452",
+      "issued": "2019-07-03T17:09:53.333842",
+      "last_modified": "2019-07-03T17:09:53.333842",
+      "license_id": "CC-BY-4.0",
+      "mimetype": "application/zip",
+      "mimetype_inner": null,
+      "modified": "2020-12-17T18:49:41.079766",
+      "name": "Código Urbanístico actualizado al 03/12/2020 (Parcelas) (SHP)",
+      "package_id": "22374d02-d2dc-4d68-bb0a-bf18144263e8",
+      "position": 1,
+      "resource_type": "file",
+      "revision_id": "d2b23776-d6a1-4cdf-a131-2324e3b7094e",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/codigo-urbanistico/codigo-urbanistico.zip",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/22374d02-d2dc-4d68-bb0a-bf18144263e8/resource/9b0d59a2-0227-49f2-a06f-b32788a56721",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-08-09T14:47:00.989064",
+      "datastore_active": false,
+      "description": "Texto correspondiente a la información del código urbanístico",
+      "fileName": "0_codigo_urbanistico_31_3.pdf",
+      "format": "PDF",
+      "hash": "",
+      "id": "9b0d59a2-0227-49f2-a06f-b32788a56721",
+      "last_modified": "2019-08-09T14:47:00.989064",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Texto del Código Urbanístico",
+      "package_id": "22374d02-d2dc-4d68-bb0a-bf18144263e8",
+      "position": 2,
+      "resource_type": "file",
+      "revision_id": "8e45df09-9792-4b44-82cd-09a88f7105ca",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn2.buenosaires.gob.ar/desarrollourbano/codigo_urbanistico/0_codigo_urbanistico_31_3.pdf",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/22374d02-d2dc-4d68-bb0a-bf18144263e8/resource/40e01734-0798-426d-9969-b7a6ce1ea693",
+      "accessURL_field": "",
+      "attributesDescription": "[]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-07-03T17:40:36.523036",
+      "datastore_active": false,
+      "description": "Código urbanístico de la Ciudad de Buenos Aires clasificada por distrito de zonificación actualizados a la fecha 3 de diciembre de 2020",
+      "fileName": "",
+      "format": "XLSX",
+      "has-uploaded-file": "",
+      "hash": "",
+      "icon_url": "",
+      "id": "40e01734-0798-426d-9969-b7a6ce1ea693-xlsx",
+      "issued": "2019-07-03T17:40:36.523036",
+      "last_modified": "2019-07-03T17:40:36.523036",
+      "license_id": "CC-BY-4.0",
+      "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "mimetype_inner": null,
+      "modified": "2020-12-17T18:49:43.820387",
+      "name": "Código Urbanístico actualizado al 03/12/2020 (Parcelas) (XLSX)",
+      "package_id": "22374d02-d2dc-4d68-bb0a-bf18144263e8",
+      "position": 3,
+      "resource_type": "file",
+      "revision_id": "66e86d57-9df4-42e4-93f3-d4ea92af4a6c",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/codigo-urbanistico/codigo-urbanistico.xlsx",
+      "url_type": null
+    },
+    {
+      "accessURL": "",
+      "accessURL_field": "",
+      "attributesDescription": "[{\"title\":\"gid\",\"description\":\"gid\",\"type\":\"string\"},{\"title\":\"manzana\",\"description\":\"manzana\",\"type\":\"string\"},{\"title\":\"parcela\",\"description\":\"parcela\",\"type\":\"string\"},{\"title\":\"seccion\",\"description\":\"seccion\",\"type\":\"string\"},{\"title\":\"smp\",\"description\":\"smp\",\"type\":\"string\"},{\"title\":\"uni_edif_1\",\"description\":\"uni_edif_1\",\"type\":\"string\"},{\"title\":\"uni_edif_2\",\"description\":\"uni_edif_2\",\"type\":\"string\"},{\"title\":\"uni_edif_3\",\"description\":\"uni_edif_3\",\"type\":\"string\"},{\"title\":\"uni_edif_4\",\"description\":\"uni_edif_4\",\"type\":\"string\"},{\"title\":\"uso_1\",\"description\":\"uso_1\",\"type\":\"string\"},{\"title\":\"uso_2\",\"description\":\"uso_2\",\"type\":\"string\"},{\"title\":\"uso_3\",\"description\":\"uso_3\",\"type\":\"string\"},{\"title\":\"dist_1_grp\",\"description\":\"dist_1_grp\",\"type\":\"string\"},{\"title\":\"dist_1_esp\",\"description\":\"dist_1_esp\",\"type\":\"string\"},{\"title\":\"dist_2_grp\",\"description\":\"dist_2_grp\",\"type\":\"string\"},{\"title\":\"dist_2_esp\",\"description\":\"dist_2_esp\",\"type\":\"string\"},{\"title\":\"dist_3_grp\",\"description\":\"dist_3_grp\",\"type\":\"string\"},{\"title\":\"dist_3_esp\",\"description\":\"dist_3_esp\",\"type\":\"string\"},{\"title\":\"dist_4_grp\",\"description\":\"dist_4_grp\",\"type\":\"string\"},{\"title\":\"dist_4_esp\",\"description\":\"dist_4_esp\",\"type\":\"string\"},{\"title\":\"zona_1\",\"description\":\"zona_1\",\"type\":\"string\"},{\"title\":\"zona_2\",\"description\":\"zona_2\",\"type\":\"string\"},{\"title\":\"anac\",\"description\":\"anac\",\"type\":\"string\"},{\"title\":\"ci_digital\",\"description\":\"ci_digital\",\"type\":\"string\"},{\"title\":\"rh\",\"description\":\"rh\",\"type\":\"string\"},{\"title\":\"lep\",\"description\":\"lep\",\"type\":\"string\"},{\"title\":\"ensanche\",\"description\":\"ensanche\",\"type\":\"string\"},{\"title\":\"apertura\",\"description\":\"apertura\",\"type\":\"string\"},{\"title\":\"catalogado\",\"description\":\"catalogado\",\"type\":\"string\"},{\"title\":\"tipo_mza\",\"description\":\"tipo_mza\",\"type\":\"string\"},{\"title\":\"rivolta\",\"description\":\"rivolta\",\"type\":\"string\"},{\"title\":\"barrio\",\"description\":\"barrio\",\"type\":\"string\"},{\"title\":\"comuna\",\"description\":\"comuna\",\"type\":\"string\"},{\"title\":\"inc_uva_19\",\"description\":\"inc_uva_19\",\"type\":\"string\"},{\"title\":\"alicuota\",\"description\":\"alicuota\",\"type\":\"string\"},{\"title\":\"plano_l\",\"description\":\"plano_l\",\"type\":\"string\"},{\"title\":\"plano_l_ob\",\"description\":\"plano_l_ob\",\"type\":\"string\"},{\"title\":\"dist_cpu_1\",\"description\":\"dist_cpu_1\",\"type\":\"string\"},{\"title\":\"dist_cpu_2\",\"description\":\"dist_cpu_2\",\"type\":\"string\"},{\"title\":\"fot_em_1\",\"description\":\"fot_em_1\",\"type\":\"string\"},{\"title\":\"fot_em_2\",\"description\":\"fot_em_2\",\"type\":\"string\"},{\"title\":\"fot_pl_1\",\"description\":\"fot_pl_1\",\"type\":\"string\"},{\"title\":\"fot_pl_2\",\"description\":\"fot_pl_2\",\"type\":\"string\"},{\"title\":\"fot_sl_1\",\"description\":\"fot_sl_1\",\"type\":\"string\"},{\"title\":\"fot_sl_2\",\"description\":\"fot_sl_2\",\"type\":\"string\"},{\"title\":\"cpu_base\",\"description\":\"cpu_base\",\"type\":\"string\"},{\"title\":\"ae_fot_bas\",\"description\":\"ae_fot_bas\",\"type\":\"string\"},{\"title\":\"cpu_obs\",\"description\":\"cpu_obs\",\"type\":\"string\"},{\"title\":\"the_geom\",\"description\":\"the_geom\",\"type\":\"string\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2020-12-17T21:45:54.315661",
+      "datastore_active": false,
+      "description": "Código urbanístico de la Ciudad de Buenos Aires clasificada por distrito de zonificación actualizados a la fecha 3 de diciembre de 2020",
+      "fileName": "",
+      "format": "GeoJSON",
+      "has-uploaded-file": "",
+      "hash": "",
+      "icon_url": "",
+      "id": "d36b4fbc-335e-4601-a21c-f830544a1212",
+      "issued": "2020-12-17T21:45:54.315661",
+      "last_modified": "2020-12-17T00:00:00",
+      "license_id": "CC-BY-4.0",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "modified": "2020-12-17T18:49:46.575263",
+      "name": "Código Urbanístico actualizado al 03/12/2020 (Parcelas) (GEOJSON)",
+      "package_id": "22374d02-d2dc-4d68-bb0a-bf18144263e8",
+      "position": 4,
+      "resource_type": "file",
+      "revision_id": "8c0e875b-4624-41d5-b176-3464488b2ab6",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/codigo-urbanistico/codigo-urbanistico.geojson",
+      "url_type": null
+    }
+  ],
+  "revision_id": "ceba4003-3c9a-4f4f-a68e-39f16d0e9258",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "alturas",
+      "id": "d724bf51-aa87-4829-a3de-0120be80b0cf",
+      "name": "alturas",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "ciudad 3d",
+      "id": "85a8900e-54ff-4888-9c8f-14432f167da2",
+      "name": "ciudad 3d",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "cur3d",
+      "id": "bf125fc5-008f-4671-b9f1-e3552eb052dd",
+      "name": "cur3d",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "distritos",
+      "id": "5c2ab567-1a18-479d-819e-9463722973a2",
+      "name": "distritos",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "edificación",
+      "id": "686f470a-9247-4d30-81c1-ed709f512881",
+      "name": "edificación",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "plano abierto",
+      "id": "2cf0ec73-4443-4d28-b693-b2e8d7d46375",
+      "name": "plano abierto",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "urbanismo",
+      "id": "17ac67e7-699b-470d-b0dd-5b8752c1fb73",
+      "name": "urbanismo",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "usos del suelo",
+      "id": "a3547be3-405a-456b-aa3b-eee6171dba36",
+      "name": "usos del suelo",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Código Urbanístico",
+  "type": "dataset",
+  "url": "https://data.buenosaires.gob.ar/dataset/codigo-urbanistico",
+  "version": null
+}

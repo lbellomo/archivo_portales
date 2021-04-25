@@ -1,0 +1,187 @@
+{
+  "author": "Dirección General de Estadísticas y Censos. Ministerio de Hacienda y Finanzas",
+  "author_email": "datosabiertos@buenosaires.gob.ar",
+  "creator_user_id": "e4546f46-e966-493c-b2f1-57318502c41b",
+  "extras": [
+    {
+      "key": "Documentación",
+      "value": ""
+    },
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P1M"
+    },
+    {
+      "key": "country",
+      "value": "None"
+    },
+    {
+      "key": "district",
+      "value": ""
+    },
+    {
+      "key": "home_featured",
+      "value": "false"
+    },
+    {
+      "key": "issued",
+      "value": "2019-02-07T17:56:12.823283"
+    },
+    {
+      "key": "language",
+      "value": "[]"
+    },
+    {
+      "key": "modified",
+      "value": "2021-02-26T17:31:38.023122"
+    },
+    {
+      "key": "province",
+      "value": ""
+    },
+    {
+      "key": "source",
+      "value": "Dirección General de Estadística y Censos (Ministerio de Economía y Finanzas) sobre la base de datos de DGEyC; Bancos Centrales e Institutos de Estadística nacionales."
+    },
+    {
+      "key": "spatial",
+      "value": "None"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"ECON\"]"
+    },
+    {
+      "key": "temporal",
+      "value": ""
+    }
+  ],
+  "groups": [
+    {
+      "description": "Datasets relacionados con la cultura y el turismo",
+      "display_name": "Cultura y Turismo",
+      "id": "db2c0965-c659-4f94-8de9-41fce10f91a9",
+      "image_display_url": "https://data.buenosaires.gob.ar/uploads/group/2019-11-16-144908.071423cultura.png",
+      "name": "cultura-y-turismo",
+      "title": "Cultura y Turismo"
+    },
+    {
+      "description": "Datasets relacionados con la economía y las finanzas",
+      "display_name": "Economía y Finanzas",
+      "id": "64da4336-6da7-4494-80c0-365016597e9e",
+      "image_display_url": "https://data.buenosaires.gob.ar/uploads/group/2019-11-16-144934.521128economia.png",
+      "name": "economia-y-finanzas",
+      "title": "Economía y Finanzas"
+    }
+  ],
+  "id": "38333764-dca2-43c9-b372-15d37f199d4e",
+  "isopen": true,
+  "license_id": "CC-BY-2.5-AR",
+  "license_title": "Atribucion 2.5 Argentina (CC BY 2.5 AR)",
+  "license_url": "https://creativecommons.org/licenses/by/2.5/ar ",
+  "maintainer": "Gerencia Operativa de Ingeniería de Datos. DG Arquitectura de Datos. SS de Políticas Públicas Basadas en Evidencia. Secretaría de Innovación y Transformación Digital. Jefatura de Gabinete de Ministros",
+  "maintainer_email": "datosabiertos@buenosaires.gob.ar",
+  "metadata_created": "2019-12-11T18:22:12.960807",
+  "metadata_modified": "2021-02-26T20:31:38.036268",
+  "name": "competitividad-turistica",
+  "notes": "Indicadores de competitividad turística bilateral y multilateral. Datos correspondientes a la Dirección General de Estadísticas y Censos de la Ciudad de Buenos Aires.",
+  "num_resources": 2,
+  "num_tags": 3,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-11-15T19:18:36.747317",
+    "description": "",
+    "id": "800664f9-ab56-4482-a6c8-0a1d316bf35b",
+    "image_url": "",
+    "is_organization": true,
+    "name": "direccion-general-de-estadisticas-y-censos",
+    "revision_id": "62a8b16c-0849-419d-a339-8e14d1b4a010",
+    "state": "active",
+    "title": "Dirección General de Estadísticas y Censos",
+    "type": "organization"
+  },
+  "owner_org": "800664f9-ab56-4482-a6c8-0a1d316bf35b",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/38333764-dca2-43c9-b372-15d37f199d4e/resource/82253ef6-b7f9-4399-a473-28f62e89781d",
+      "attributesDescription": "[{\"title\": \"anio\", \"type\": \"integer\", \"description\": \"Referencia temporal del indicador\"}, {\"title\": \"mes\", \"type\": \"string\", \"description\": \"Referencia temporal del indicador\"}, {\"title\": \"multilateral\", \"type\": \"number\", \"description\": \"\\u00cdndice de competitividad tur\\u00edstica real multilateral.\"}, {\"title\": \"usd\", \"type\": \"number\", \"description\": \"\\u00cdndice de competitividad tur\\u00edstica bilateral en d\\u00f3lares estadounidenses\"}, {\"title\": \"real\", \"type\": \"integer\", \"description\": \"\\u00cdndice de competitividad tur\\u00edstica bilateral en reales\"}, {\"title\": \"peso_chileno\", \"type\": \"number\", \"description\": \"\\u00cdndice de competitividad tur\\u00edstica bilateral en pesos chilenos\"}, {\"title\": \"euro\", \"type\": \"number\", \"description\": \"\\u00cdndice de competitividad tur\\u00edstica bilateral en euros\"}, {\"title\": \"libra_esterlina\", \"type\": \"number\", \"description\": \"\\u00cdndice de competitividad tur\\u00edstica bilateral en libras esterlinas\"}, {\"title\": \"guarani\", \"type\": \"number\", \"description\": \"\\u00cdndice de competitividad tur\\u00edstica bilateral en guaran\\u00edes\"}, {\"title\": \"nuevo_shekel\", \"type\": \"number\", \"description\": \"\\u00cdndice de competitividad tur\\u00edstica bilateral en nuevo shekel israel\\u00ed\"}, {\"title\": \"peso_mexicano\", \"type\": \"number\", \"description\": \"\\u00cdndice de competitividad tur\\u00edstica bilateral en pesos mexicanos\"}, {\"title\": \"peso_uruguayo\", \"type\": \"number\", \"description\": \"\\u00cdndice de competitividad tur\\u00edstica bilateral en pesos uruguayos\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-10-24T14:21:38.008938",
+      "datastore_active": false,
+      "description": "Correspondiente a las monedas de los principales países de origen del turismo receptivo (Base diciembre 2001=100). Ciudad de Buenos Aires. Diciembre 2001/diciembre 2018",
+      "fileName": "competitividad_turistica.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "82253ef6-b7f9-4399-a473-28f62e89781d",
+      "last_modified": "2019-10-24T14:21:38.008938",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Índice de competitividad real turística multilateral y bilateral",
+      "package_id": "38333764-dca2-43c9-b372-15d37f199d4e",
+      "position": 0,
+      "resource_type": "file",
+      "revision_id": "3ea7cac7-3078-4863-ac08-abd049d34ea4",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/competitividad-turistica/competitividad_turistica.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/38333764-dca2-43c9-b372-15d37f199d4e/resource/82253ef6-b7f9-4399-a473-28f62e89781d",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-10-24T14:21:38.008938",
+      "datastore_active": false,
+      "description": "Correspondiente a las monedas de los principales países de origen del turismo receptivo (Base diciembre 2001=100). Ciudad de Buenos Aires. Diciembre 2001/diciembre 2018",
+      "fileName": "competitividad_turistica.xlsx",
+      "format": "XLSX",
+      "hash": "",
+      "id": "82253ef6-b7f9-4399-a473-28f62e89781d-xlsx",
+      "last_modified": "2019-10-24T14:21:38.008938",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Índice de competitividad real turística multilateral y bilateral (XLSX)",
+      "package_id": "38333764-dca2-43c9-b372-15d37f199d4e",
+      "position": 1,
+      "resource_type": "file",
+      "revision_id": "2149a226-346a-4138-9664-b1a0dcc89e0f",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/competitividad-turistica/competitividad_turistica.xlsx",
+      "url_type": null
+    }
+  ],
+  "revision_id": "22f17d46-c973-4e31-be98-ffde63954fe3",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "competitividad turistica",
+      "id": "c7a64b7a-5136-41d8-a255-5b0c23181101",
+      "name": "competitividad turistica",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "turismo",
+      "id": "efc08f7b-8ca1-4064-a808-2a2403903c99",
+      "name": "turismo",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "turismo receptivo",
+      "id": "16ea4c5b-20e9-4cf3-a42e-a13d06970da0",
+      "name": "turismo receptivo",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Competitividad turística",
+  "type": "dataset",
+  "url": "http://data.buenosaires.gob.ar/dataset/competitividad-turistica",
+  "version": null
+}

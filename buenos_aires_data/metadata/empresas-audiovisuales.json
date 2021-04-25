@@ -1,0 +1,195 @@
+{
+  "author": "Ministerio de Hacienda y Finanzas",
+  "author_email": "datosabiertos@buenosaires.gob.ar",
+  "creator_user_id": "e4546f46-e966-493c-b2f1-57318502c41b",
+  "extras": [
+    {
+      "key": "Documentación",
+      "value": ""
+    },
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P6M"
+    },
+    {
+      "key": "country",
+      "value": "None"
+    },
+    {
+      "key": "district",
+      "value": ""
+    },
+    {
+      "key": "home_featured",
+      "value": "false"
+    },
+    {
+      "key": "issued",
+      "value": "2019-01-08T14:56:00.551229"
+    },
+    {
+      "key": "language",
+      "value": "[]"
+    },
+    {
+      "key": "modified",
+      "value": "2021-03-05T10:26:56.025292"
+    },
+    {
+      "key": "province",
+      "value": ""
+    },
+    {
+      "key": "source",
+      "value": "Subgerencia de Información Geoespacial. DG Ciencias de la Información. SS de Políticas Públicas Basadas en Evidencia. Secretaría de Innovación y Transformación Digital. Jefatura de Gabinete de Ministros"
+    },
+    {
+      "key": "spatial",
+      "value": "None"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"ECON\"]"
+    },
+    {
+      "key": "temporal",
+      "value": ""
+    }
+  ],
+  "groups": [
+    {
+      "description": "Datasets relacionados con la economía y las finanzas",
+      "display_name": "Economía y Finanzas",
+      "id": "64da4336-6da7-4494-80c0-365016597e9e",
+      "image_display_url": "https://data.buenosaires.gob.ar/uploads/group/2019-11-16-144934.521128economia.png",
+      "name": "economia-y-finanzas",
+      "title": "Economía y Finanzas"
+    }
+  ],
+  "id": "juqdkmgo-87",
+  "isopen": true,
+  "license_id": "CC-BY-2.5-AR",
+  "license_title": "Atribucion 2.5 Argentina (CC BY 2.5 AR)",
+  "license_url": "https://creativecommons.org/licenses/by/2.5/ar ",
+  "maintainer": "Gerencia Operativa de Ingeniería de Datos. DG Arquitectura de Datos. SS de Políticas Públicas Basadas en Evidencia. Secretaría de Innovación y Transformación Digital. Jefatura de Gabinete de Ministros",
+  "maintainer_email": "datosabiertos@buenosaires.gob.ar",
+  "metadata_created": "2019-12-11T18:20:24.445276",
+  "metadata_modified": "2021-03-05T13:26:56.182688",
+  "name": "empresas-audiovisuales",
+  "notes": "Registro de Empresas Audiovisuales radicadas en el Distrito Audiovisual.",
+  "num_resources": 3,
+  "num_tags": 2,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-11-15T19:19:36.584582",
+    "description": "",
+    "id": "6627a918-f475-43bb-b167-11de01ae62df",
+    "image_url": "",
+    "is_organization": true,
+    "name": "ministerio-de-economia-y-finanzas",
+    "revision_id": "57d30234-7d4b-4b19-a2fa-1a57afc0e03b",
+    "state": "active",
+    "title": "Ministerio de Hacienda y Finanzas",
+    "type": "organization"
+  },
+  "owner_org": "6627a918-f475-43bb-b167-11de01ae62df",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/empresas-audiovisuales",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-01-08T14:56:00.551229",
+      "datastore_active": false,
+      "description": "Archivo shapefile con las empresas audiovisuales.",
+      "fileName": "empresas-audiovisuales-zip.zip",
+      "format": "ZIP",
+      "hash": "",
+      "id": "juqdkmgo-871-resource",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Empresas Audiovisuales (SHP)",
+      "package_id": "juqdkmgo-87",
+      "position": 0,
+      "resource_type": "file",
+      "revision_id": "855357e6-e637-47ac-a4c0-e7a0c877f4a0",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/empresas-audiovisuales/empresas-audiovisuales-zip.zip",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/empresas-audiovisuales",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-01-08T14:56:00.551229",
+      "datastore_active": false,
+      "description": "Nombre de la empresa, sector, dirección y año de radicación en el distrito audiovisual.",
+      "fileName": "registro-de-empresas-audiovisuales.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "juqdkmgo-872-resource",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Registro de Empresas Audiovisuales",
+      "package_id": "juqdkmgo-87",
+      "position": 1,
+      "resource_type": "file",
+      "revision_id": "052a25a2-5769-422b-bf87-c6ab5e0c7d3f",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/empresas-audiovisuales/registro-de-empresas-audiovisuales.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/empresas-audiovisuales",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-01-08T14:56:00.551229",
+      "datastore_active": false,
+      "description": "Nombre de la empresa, sector, dirección y año de radicación en el distrito audiovisual.",
+      "fileName": "registro-de-empresas-audiovisuales.xlsx",
+      "format": "XLSX",
+      "hash": "",
+      "id": "juqdkmgo-872-resource-xlsx",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Registro de Empresas Audiovisuales (XLSX)",
+      "package_id": "juqdkmgo-87",
+      "position": 2,
+      "resource_type": "file",
+      "revision_id": "b2c51b1f-0113-4e29-9b0f-c9f790879983",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/empresas-audiovisuales/registro-de-empresas-audiovisuales.xlsx",
+      "url_type": null
+    }
+  ],
+  "revision_id": "feb5aee5-2963-484d-8e64-b0353905dee3",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "distritos",
+      "id": "5c2ab567-1a18-479d-819e-9463722973a2",
+      "name": "distritos",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "economía",
+      "id": "20a0f20c-f7ed-48f4-b223-e343db7f9ee8",
+      "name": "economía",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Empresas Audiovisuales",
+  "type": "dataset",
+  "url": "https://data.buenosaires.gob.ar/dataset/empresas-audiovisuales",
+  "version": null
+}

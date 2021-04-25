@@ -1,0 +1,260 @@
+{
+  "author": "Ministerio de Gobierno. DG de Registro del Estado Civil y Capacidad de las Personas",
+  "author_email": "datosabiertos@buenosaires.gob.ar",
+  "creator_user_id": "e4546f46-e966-493c-b2f1-57318502c41b",
+  "extras": [
+    {
+      "key": "Documentación",
+      "value": ""
+    },
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P1Y"
+    },
+    {
+      "key": "country",
+      "value": "None"
+    },
+    {
+      "key": "district",
+      "value": ""
+    },
+    {
+      "key": "home_featured",
+      "value": "false"
+    },
+    {
+      "key": "issued",
+      "value": "2019-01-08T14:57:07.499752"
+    },
+    {
+      "key": "language",
+      "value": "[]"
+    },
+    {
+      "key": "modified",
+      "value": "2021-03-05T11:42:41.999161"
+    },
+    {
+      "key": "province",
+      "value": ""
+    },
+    {
+      "key": "source",
+      "value": "Ministerio de Gobierno. DG de Registro del Estado Civil y Capacidad de las Personas"
+    },
+    {
+      "key": "spatial",
+      "value": "None"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"SOCI\"]"
+    },
+    {
+      "key": "temporal",
+      "value": ""
+    }
+  ],
+  "groups": [
+    {
+      "description": "Datasets relacionados con la cultura y el turismo",
+      "display_name": "Cultura y Turismo",
+      "id": "db2c0965-c659-4f94-8de9-41fce10f91a9",
+      "image_display_url": "https://data.buenosaires.gob.ar/uploads/group/2019-11-16-144908.071423cultura.png",
+      "name": "cultura-y-turismo",
+      "title": "Cultura y Turismo"
+    }
+  ],
+  "id": "juqdkmgo-176",
+  "isopen": true,
+  "license_id": "CC-BY-2.5-AR",
+  "license_title": "Atribucion 2.5 Argentina (CC BY 2.5 AR)",
+  "license_url": "https://creativecommons.org/licenses/by/2.5/ar ",
+  "maintainer": "Secretaría General y Relaciones Internacionales. Subsecretaría Gestión Estratégica y Calidad Institucional. Dirección General Calidad Institucional y Gobierno Abierto",
+  "maintainer_email": "datosabiertos@buenosaires.gob.ar",
+  "metadata_created": "2019-12-11T18:29:25.750087",
+  "metadata_modified": "2021-03-05T14:42:42.011101",
+  "name": "registro-civil",
+  "notes": "Sedes del Registro Civil.",
+  "num_resources": 6,
+  "num_tags": 1,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-11-15T19:18:05.034032",
+    "description": "",
+    "id": "d5fcd0f4-b12b-464b-b41f-2b47de9848a6",
+    "image_url": "",
+    "is_organization": true,
+    "name": "ministerio-de-gobierno",
+    "revision_id": "ce729574-7d1e-4984-8eae-c36169571556",
+    "state": "active",
+    "title": "Ministerio de Gobierno",
+    "type": "organization"
+  },
+  "owner_org": "d5fcd0f4-b12b-464b-b41f-2b47de9848a6",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/registro-civil",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-01-08T14:57:07.499752",
+      "datastore_active": false,
+      "description": "Ubicación de los Centros de Documentación Rápida del Registro Civil de la Ciudad de Buenos Aires - Empadronamiento de Extranjeros, Pasaporte y DNI.",
+      "fileName": "centros-de-documentacion-rapida.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "juqdkmgo-1761-resource",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Centros de Documentación Rápida",
+      "package_id": "juqdkmgo-176",
+      "position": 0,
+      "resource_type": "file",
+      "revision_id": "58c19851-188b-4b69-8e54-16346fc64bc1",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/registro-civil/centros-de-documentacion-rapida.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/registro-civil",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-01-08T14:57:07.499752",
+      "datastore_active": false,
+      "description": "Ubicación de las Delegaciones del Registro Civil en la Ciudad de Buenos Aires - Nacimientos, Matrimonios, Informaciones Sumarias y Partidas.",
+      "fileName": "sedes-registro-civil.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "juqdkmgo-1762-resource",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Sedes Registro Civil",
+      "package_id": "juqdkmgo-176",
+      "position": 1,
+      "resource_type": "file",
+      "revision_id": "a89cda38-dcec-4e29-aedc-b17edcb4467a",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/registro-civil/sedes-registro-civil.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/registro-civil",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-01-08T14:57:07.499752",
+      "datastore_active": false,
+      "description": "Ubicación de las Circunscripciones del Registro Civil en Hospitales.",
+      "fileName": "sedes-registro-civil-en-hospitales.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "juqdkmgo-1763-resource",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Sedes Registro Civil en Hospitales",
+      "package_id": "juqdkmgo-176",
+      "position": 2,
+      "resource_type": "file",
+      "revision_id": "8faaa95d-a4d7-4f09-ab8e-74dac1e82428",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/registro-civil/sedes-registro-civil-en-hospitales.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/registro-civil",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-01-08T14:57:07.499752",
+      "datastore_active": false,
+      "description": "Ubicación de los Centros de Documentación Rápida del Registro Civil de la Ciudad de Buenos Aires - Empadronamiento de Extranjeros, Pasaporte y DNI.",
+      "fileName": "centros-de-documentacion-rapida.xlsx",
+      "format": "XLSX",
+      "hash": "",
+      "id": "juqdkmgo-1761-resource-xlsx",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Centros de Documentación Rápida (XLSX)",
+      "package_id": "juqdkmgo-176",
+      "position": 3,
+      "resource_type": "file",
+      "revision_id": "cbbb8301-4e5d-46ac-b596-df572bbf8049",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/registro-civil/centros-de-documentacion-rapida.xlsx",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/registro-civil",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-01-08T14:57:07.499752",
+      "datastore_active": false,
+      "description": "Ubicación de las Delegaciones del Registro Civil en la Ciudad de Buenos Aires - Nacimientos, Matrimonios, Informaciones Sumarias y Partidas.",
+      "fileName": "sedes-registro-civil.xlsx",
+      "format": "XLSX",
+      "hash": "",
+      "id": "juqdkmgo-1762-resource-xlsx",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Sedes Registro Civil (XLSX)",
+      "package_id": "juqdkmgo-176",
+      "position": 4,
+      "resource_type": "file",
+      "revision_id": "fb2e3296-dedc-4a79-97d6-2ea7e630f392",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/registro-civil/sedes-registro-civil.xlsx",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/registro-civil",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-01-08T14:57:07.499752",
+      "datastore_active": false,
+      "description": "Ubicación de las Circunscripciones del Registro Civil en Hospitales.",
+      "fileName": "sedes-registro-civil-en-hospitales.xlsx",
+      "format": "XLSX",
+      "hash": "",
+      "id": "juqdkmgo-1763-resource-xlsx",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Sedes Registro Civil en Hospitales (XLSX)",
+      "package_id": "juqdkmgo-176",
+      "position": 5,
+      "resource_type": "file",
+      "revision_id": "ef6c6da9-aaf2-4eb8-85e3-45c5e2bbf98b",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/registro-civil/sedes-registro-civil-en-hospitales.xlsx",
+      "url_type": null
+    }
+  ],
+  "revision_id": "6be137c2-4d1c-4bc2-aad8-a843b61e1abe",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "servicios",
+      "id": "5fd98d91-e466-49b9-9b08-8a43e2068a8b",
+      "name": "servicios",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Registro Civil",
+  "type": "dataset",
+  "url": "https://data.buenosaires.gob.ar/dataset/registro-civil",
+  "version": null
+}

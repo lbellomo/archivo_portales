@@ -1,0 +1,161 @@
+{
+  "author": "Jefatura de Gobierno. Secretaría de Medios",
+  "author_email": "gobiernoabierto@buenosaires.gob.ar",
+  "creator_user_id": "e4546f46-e966-493c-b2f1-57318502c41b",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P1Y"
+    },
+    {
+      "key": "issued",
+      "value": "2019-01-08T14:51:46.305284"
+    },
+    {
+      "key": "language",
+      "value": "[\"SPA\"]"
+    },
+    {
+      "key": "modified",
+      "value": "2019-05-27T14:09:41.986028"
+    },
+    {
+      "key": "source",
+      "value": "Jefatura de Gobierno. Secretaría de Medios"
+    },
+    {
+      "key": "spatial",
+      "value": "02"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"SOCI\"]"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Datasets relacionados con la cultura y el turismo",
+      "display_name": "Cultura y Turismo",
+      "id": "db2c0965-c659-4f94-8de9-41fce10f91a9",
+      "image_display_url": "https://data.buenosaires.gob.ar/uploads/group/2019-11-16-144908.071423cultura.png",
+      "name": "cultura-y-turismo",
+      "title": "Cultura y Turismo"
+    }
+  ],
+  "id": "juqdkmgo-142",
+  "isopen": true,
+  "license_id": "CC-BY-2.5-AR",
+  "license_title": "Atribucion 2.5 Argentina (CC BY 2.5 AR)",
+  "license_url": "https://creativecommons.org/licenses/by/2.5/ar ",
+  "maintainer": "Secretaría General y Relaciones Internacionales. Subsecretaría Gestión Estratégica y Calidad Institucional. Dirección General Calidad Institucional y Gobierno Abierto",
+  "maintainer_email": "gobiernoabierto@buenosaires.gob.ar",
+  "metadata_created": "2019-12-11T18:34:14.121834",
+  "metadata_modified": "2020-12-17T16:37:43.524883",
+  "name": "medios-vecinales",
+  "notes": "Registro de medios de comunicación vecinales de la Ciudad (gráficos, web, de radiodifusión, producciones radiales independientes y producciones independientes locales en soporte digital).",
+  "num_resources": 2,
+  "num_tags": 4,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-11-15T19:16:47.209550",
+    "description": "",
+    "id": "85d63afb-183f-4472-af56-a4874f844651",
+    "image_url": "",
+    "is_organization": true,
+    "name": "secretaria-de-medios",
+    "revision_id": "4bd292bd-54c6-41e0-a21c-b737de2202ea",
+    "state": "active",
+    "title": "Secretaría de Medios",
+    "type": "organization"
+  },
+  "owner_org": "85d63afb-183f-4472-af56-a4874f844651",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/medios-vecinales",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-01-08T14:51:46.305284",
+      "datastore_active": false,
+      "description": "Información sobre los medios vecinales, incluyendo titular, contacto, tipo de medio.",
+      "fileName": "medios-vecinales.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "Juqdkmgo-142221-resource",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Medios vecinales",
+      "package_id": "juqdkmgo-142",
+      "position": 0,
+      "resource_type": "file",
+      "revision_id": "dd87690b-482e-468d-a8ba-4f6e02ce2088",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/medios-vecinales/medios-vecinales.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/medios-vecinales",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-01-08T14:51:46.305284",
+      "datastore_active": false,
+      "description": "Información sobre los medios vecinales, incluyendo titular, contacto, tipo de medio.",
+      "fileName": "medios-vecinales.xlsx",
+      "format": "XLSX",
+      "hash": "",
+      "id": "Juqdkmgo-142221-resource-xlsx",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Medios vecinales (XLSX)",
+      "package_id": "juqdkmgo-142",
+      "position": 1,
+      "resource_type": "file",
+      "revision_id": "dcbb7bfd-070d-414d-b5ab-32eda2d9c244",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/medios-vecinales/medios-vecinales.xlsx",
+      "url_type": null
+    }
+  ],
+  "revision_id": "ab613580-f4fa-4990-9f87-76641e8e51ef",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "csv",
+      "id": "f9980424-8dbf-4a4b-8a2f-0d9741810d82",
+      "name": "csv",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "cultura",
+      "id": "858c2db7-dc24-4528-befd-726d218675e0",
+      "name": "cultura",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "medios",
+      "id": "042e2dab-87c0-42a0-9293-6862b375876b",
+      "name": "medios",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "vecinos",
+      "id": "7ade940a-004a-4a23-bb65-d26bd8ab6e34",
+      "name": "vecinos",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Medios Vecinales",
+  "type": "dataset",
+  "url": "https://data.buenosaires.gob.ar/dataset/medios-vecinales",
+  "version": null
+}

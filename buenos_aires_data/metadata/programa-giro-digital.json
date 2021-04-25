@@ -1,0 +1,186 @@
+{
+  "author": "Ministerio de Economía y Finanzas. Dirección General de Estadística y Censos",
+  "author_email": "datosabiertos@buenosaires.gob.ar",
+  "creator_user_id": "e4546f46-e966-493c-b2f1-57318502c41b",
+  "extras": [
+    {
+      "key": "Documentación",
+      "value": ""
+    },
+    {
+      "key": "accrualPeriodicity",
+      "value": "eventual"
+    },
+    {
+      "key": "country",
+      "value": "None"
+    },
+    {
+      "key": "district",
+      "value": ""
+    },
+    {
+      "key": "home_featured",
+      "value": "false"
+    },
+    {
+      "key": "issued",
+      "value": "2019-04-22T11:48:52.299269"
+    },
+    {
+      "key": "language",
+      "value": "[]"
+    },
+    {
+      "key": "modified",
+      "value": "2021-03-05T09:58:04.395696"
+    },
+    {
+      "key": "province",
+      "value": ""
+    },
+    {
+      "key": "source",
+      "value": "Ministerio de Economía y Finanzas. Dirección General de Estadística y Censos"
+    },
+    {
+      "key": "spatial",
+      "value": "None"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"EDUC\",\"GOVE\",\"TECH\"]"
+    },
+    {
+      "key": "temporal",
+      "value": ""
+    }
+  ],
+  "groups": [
+    {
+      "description": "",
+      "display_name": "Género",
+      "id": "3d97d3f5-206f-4719-8a06-54c709a25893",
+      "image_display_url": "https://data.buenosaires.gob.ar/uploads/group/2019-11-19-182128.307764genero720.png",
+      "name": "genero",
+      "title": "Género"
+    }
+  ],
+  "id": "79c4d2ee-f8be-4513-9259-0c941af6eb63",
+  "isopen": true,
+  "license_id": "CC-BY-2.5-AR",
+  "license_title": "Atribucion 2.5 Argentina (CC BY 2.5 AR)",
+  "license_url": "https://creativecommons.org/licenses/by/2.5/ar ",
+  "maintainer": "Secretaría General y Relaciones Internacionales. Subsecretaría Gestión Estratégica y Calidad Institucional. Dirección General Calidad Institucional y Gobierno Abierto",
+  "maintainer_email": "datosabiertos@buenosaires.gob.ar",
+  "metadata_created": "2019-12-11T18:24:02.314096",
+  "metadata_modified": "2021-03-05T12:58:04.435953",
+  "name": "programa-giro-digital",
+  "notes": "Información sobre cantidad de mujeres participantes del programa \"Giro Digital\" del Ministerio de Educación e Innovación de la Ciudad de Buenos Aires. Datos de 2017 y 2018.",
+  "num_resources": 2,
+  "num_tags": 4,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-11-15T19:18:36.747317",
+    "description": "",
+    "id": "800664f9-ab56-4482-a6c8-0a1d316bf35b",
+    "image_url": "",
+    "is_organization": true,
+    "name": "direccion-general-de-estadisticas-y-censos",
+    "revision_id": "62a8b16c-0849-419d-a339-8e14d1b4a010",
+    "state": "active",
+    "title": "Dirección General de Estadísticas y Censos",
+    "type": "organization"
+  },
+  "owner_org": "800664f9-ab56-4482-a6c8-0a1d316bf35b",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/79c4d2ee-f8be-4513-9259-0c941af6eb63/resource/3aaedf96-7d07-413f-ac68-38e6d337380c",
+      "attributesDescription": "[{\"title\": \"anio\", \"type\": \"integer\", \"description\": \"A\\u00f1o de la observaci\\u00f3n\"}, {\"title\": \"indice_feminidad\", \"type\": \"number\", \"description\": \"Indice de feminidad de la observaci\\u00f3n\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-04-11T14:46:51.169194",
+      "datastore_active": false,
+      "description": "Número de mujeres, por cada 100 varones, asistentes en el programa \"Giro Digital\"",
+      "fileName": "ind_giro_dig_annio_limpio.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "3aaedf96-7d07-413f-ac68-38e6d337380c",
+      "last_modified": "2019-04-11T14:46:51.169194",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Mujeres asistentes al programa \"Giro Digital\"",
+      "package_id": "79c4d2ee-f8be-4513-9259-0c941af6eb63",
+      "position": 0,
+      "resource_type": "file",
+      "revision_id": "8b07ce1f-d5eb-425a-8bb4-19e75f05be00",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/SIGBA/Programa_Giro_digital/ind_giro_dig_annio_limpio.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/79c4d2ee-f8be-4513-9259-0c941af6eb63/resource/3aaedf96-7d07-413f-ac68-38e6d337380c",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-04-11T14:46:51.169194",
+      "datastore_active": false,
+      "description": "Número de mujeres, por cada 100 varones, asistentes en el programa \"Giro Digital\"",
+      "fileName": "ind_giro_dig_annio_limpio.xlsx",
+      "format": "XLSX",
+      "hash": "",
+      "id": "3aaedf96-7d07-413f-ac68-38e6d337380c-xlsx",
+      "last_modified": "2019-04-11T14:46:51.169194",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Mujeres asistentes al programa \"Giro Digital\" (XLSX)",
+      "package_id": "79c4d2ee-f8be-4513-9259-0c941af6eb63",
+      "position": 1,
+      "resource_type": "file",
+      "revision_id": "0953375d-7144-4690-9c7d-784f816e61bd",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/SIGBA/Programa_Giro_digital/ind_giro_dig_annio_limpio.xlsx",
+      "url_type": null
+    }
+  ],
+  "revision_id": "a4920ef6-d9b5-486e-9984-2574f697ba0f",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "capacitación",
+      "id": "1fbaaea3-ffd2-4d0b-a8c0-22ffc221222b",
+      "name": "capacitación",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "cursos",
+      "id": "9bef05d5-f595-4810-8168-8f5f58942e73",
+      "name": "cursos",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "educación",
+      "id": "a9032209-2807-4797-98a8-640d053d0064",
+      "name": "educación",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "tecnología",
+      "id": "4043a257-dc0e-40fe-a78f-a96f55e330f1",
+      "name": "tecnología",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Programa Giro Digital",
+  "type": "dataset",
+  "url": "https://data.buenosaires.gob.ar/dataset/programa-giro-digital",
+  "version": null
+}

@@ -1,0 +1,193 @@
+{
+  "author": "Secretaría General y Relaciones Internacionales. SS Relaciones Internacionales e Institucionales. DG Culto",
+  "author_email": "datosabiertos@buenosaires.gob.ar",
+  "creator_user_id": "e4546f46-e966-493c-b2f1-57318502c41b",
+  "extras": [
+    {
+      "key": "Documentación",
+      "value": ""
+    },
+    {
+      "key": "accrualPeriodicity",
+      "value": "eventual"
+    },
+    {
+      "key": "country",
+      "value": "None"
+    },
+    {
+      "key": "district",
+      "value": ""
+    },
+    {
+      "key": "home_featured",
+      "value": "false"
+    },
+    {
+      "key": "issued",
+      "value": "2019-01-08T14:59:25.669374"
+    },
+    {
+      "key": "language",
+      "value": "[]"
+    },
+    {
+      "key": "modified",
+      "value": "2021-02-26T17:53:04.576763"
+    },
+    {
+      "key": "province",
+      "value": ""
+    },
+    {
+      "key": "source",
+      "value": "Secretaría General y Relaciones Internacionales. SS Relaciones Internacionales e Institucionales. DG Culto"
+    },
+    {
+      "key": "spatial",
+      "value": "None"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"EDUC\"]"
+    },
+    {
+      "key": "temporal",
+      "value": ""
+    }
+  ],
+  "groups": [
+    {
+      "description": "Datasets relacionados con la cultura y el turismo",
+      "display_name": "Cultura y Turismo",
+      "id": "db2c0965-c659-4f94-8de9-41fce10f91a9",
+      "image_display_url": "https://data.buenosaires.gob.ar/uploads/group/2019-11-16-144908.071423cultura.png",
+      "name": "cultura-y-turismo",
+      "title": "Cultura y Turismo"
+    }
+  ],
+  "id": "juqdkmgo-136",
+  "isopen": true,
+  "license_id": "CC-BY-2.5-AR",
+  "license_title": "Atribucion 2.5 Argentina (CC BY 2.5 AR)",
+  "license_url": "https://creativecommons.org/licenses/by/2.5/ar ",
+  "maintainer": "Secretaría General y Relaciones Internacionales. Subsecretaría Gestión Estratégica y Calidad Institucional. Dirección General Calidad Institucional y Gobierno Abierto",
+  "maintainer_email": "datosabiertos@buenosaires.gob.ar",
+  "metadata_created": "2019-12-11T18:34:50.759541",
+  "metadata_modified": "2021-02-26T20:53:04.660194",
+  "name": "lugares-culto",
+  "notes": "Listado de lugares de culto de la Ciudad.",
+  "num_resources": 2,
+  "num_tags": 5,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-11-15T19:16:33.772140",
+    "description": "",
+    "id": "8862c931-b89e-44c6-9567-79a33d0174e3",
+    "image_url": "",
+    "is_organization": true,
+    "name": "secretaria-general-y-relaciones-internacionales",
+    "revision_id": "7607a9d6-dd19-4643-bf63-3a43148dab03",
+    "state": "active",
+    "title": "Secretaría General y Relaciones Internacionales",
+    "type": "organization"
+  },
+  "owner_org": "8862c931-b89e-44c6-9567-79a33d0174e3",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/lugares-de-culto",
+      "attributesDescription": "[{\"title\": \"grupo\", \"type\": \"string\", \"description\": \"Grupo al que pertenece la instituci\\u00f3n\"}, {\"title\": \"culto\", \"type\": \"string\", \"description\": \"Culto que practica la instituci\\u00f3n\"}, {\"title\": \"nombre_institucion\", \"type\": \"string\", \"description\": \"Nombre de la instituci\\u00f3n.\"}, {\"title\": \"domicilio\", \"type\": \"string\", \"description\": \"Domicilio del lugar\"}, {\"title\": \"barrio\", \"type\": \"string\", \"description\": \"Barrio donde se ubica el lugar\"}, {\"title\": \"cgpc\", \"type\": \"integer\", \"description\": \"Sede comunal correspondiente\"}, {\"title\": \"cp\", \"type\": \"integer\", \"description\": \"C\\u00f3digo postal\"}, {\"title\": \"latitud\", \"type\": \"number\", \"description\": \"C\\u00f3digo para geocodificaci\\u00f3n\"}, {\"title\": \"longitud\", \"type\": \"number\", \"description\": \"C\\u00f3digo para geocodificaci\\u00f3n\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-04-23T17:03:18.609843",
+      "datastore_active": false,
+      "description": "Listado de Lugares de Culto de la Ciudad Autónoma de Buenos Aires. Incluye grupo, culto, nombre de la institución, domicilio, barrio, centro de gestión y referencias geográficas.",
+      "fileName": "lugares-de-culto.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "juqdkmgo-1361-resource",
+      "last_modified": "2019-04-23T17:03:18.609843",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Lugares de Culto",
+      "package_id": "juqdkmgo-136",
+      "position": 0,
+      "resource_type": "file",
+      "revision_id": "a8daae68-ed7b-48ed-aee7-fbc5c67d2804",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/lugares-de-culto/lugares-de-culto.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/lugares-de-culto",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-04-23T17:03:18.609843",
+      "datastore_active": false,
+      "description": "Listado de Lugares de Culto de la Ciudad Autónoma de Buenos Aires. Incluye grupo, culto, nombre de la institución, domicilio, barrio, centro de gestión y referencias geográficas.",
+      "fileName": "lugares-de-culto.xlsx",
+      "format": "XLSX",
+      "hash": "",
+      "id": "juqdkmgo-1361-resource-xlsx",
+      "last_modified": "2019-04-23T17:03:18.609843",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Lugares de Culto (XLSX)",
+      "package_id": "juqdkmgo-136",
+      "position": 1,
+      "resource_type": "file",
+      "revision_id": "be6daa8f-620f-4b60-ab62-e63c4b5d6bf5",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/lugares-de-culto/lugares-de-culto.xlsx",
+      "url_type": null
+    }
+  ],
+  "revision_id": "dc79e53b-9520-46c9-aa8c-4df0fd448e50",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "credo",
+      "id": "5a376d51-a39e-407d-9ef5-e88b791b972d",
+      "name": "credo",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "cultos",
+      "id": "77e0caab-c56d-427c-82bd-306c67461e10",
+      "name": "cultos",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "instituciones",
+      "id": "33e20dab-c76a-428f-92de-d5f3bc82e56c",
+      "name": "instituciones",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "religion",
+      "id": "a436d5f5-03bd-4a50-a0d6-ef75373c62c9",
+      "name": "religion",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "religiosas",
+      "id": "0da3ce51-7e84-4086-8fd2-c07f2008ecbe",
+      "name": "religiosas",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Lugares de Culto",
+  "type": "dataset",
+  "url": "https://data.buenosaires.gob.ar/dataset/lugares-culto",
+  "version": null
+}

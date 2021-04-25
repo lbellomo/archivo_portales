@@ -1,0 +1,285 @@
+{
+  "author": "Vicejefatura de Gobierno",
+  "author_email": "datosabiertos@buenosaires.gob.ar",
+  "creator_user_id": "e4546f46-e966-493c-b2f1-57318502c41b",
+  "extras": [
+    {
+      "key": "Documentación",
+      "value": ""
+    },
+    {
+      "key": "accrualPeriodicity",
+      "value": "eventual"
+    },
+    {
+      "key": "country",
+      "value": "None"
+    },
+    {
+      "key": "district",
+      "value": ""
+    },
+    {
+      "key": "home_featured",
+      "value": "false"
+    },
+    {
+      "key": "issued",
+      "value": "2019-01-08T14:59:38.776935"
+    },
+    {
+      "key": "language",
+      "value": "[]"
+    },
+    {
+      "key": "modified",
+      "value": "2021-03-05T10:46:01.426903"
+    },
+    {
+      "key": "province",
+      "value": ""
+    },
+    {
+      "key": "source",
+      "value": "Vicejefatura de Gobierno"
+    },
+    {
+      "key": "spatial",
+      "value": "None"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"SOCI\"]"
+    },
+    {
+      "key": "temporal",
+      "value": ""
+    }
+  ],
+  "groups": [
+    {
+      "description": "Datasets relacionados con la cultura y el turismo",
+      "display_name": "Cultura y Turismo",
+      "id": "db2c0965-c659-4f94-8de9-41fce10f91a9",
+      "image_display_url": "https://data.buenosaires.gob.ar/uploads/group/2019-11-16-144908.071423cultura.png",
+      "name": "cultura-y-turismo",
+      "title": "Cultura y Turismo"
+    }
+  ],
+  "id": "juqdkmgo-95",
+  "isopen": true,
+  "license_id": "CC-BY-2.5-AR",
+  "license_title": "Atribucion 2.5 Argentina (CC BY 2.5 AR)",
+  "license_url": "https://creativecommons.org/licenses/by/2.5/ar ",
+  "maintainer": "Gerencia Operativa de Ingeniería de Datos. DG Arquitectura de Datos. SS de Políticas Públicas Basadas en Evidencia. Secretaría de Innovación y Transformación Digital. Jefatura de Gabinete de Ministros",
+  "maintainer_email": "datosabiertos@buenosaires.gob.ar",
+  "metadata_created": "2019-12-11T18:35:50.899046",
+  "metadata_modified": "2021-03-05T13:46:01.464007",
+  "name": "encuesta-joven",
+  "notes": "Resultados de la Encuesta Joven. La información incluye hábitos, costumbres y problemáticas de la población de 15 a 29 años de la Ciudad.",
+  "num_resources": 5,
+  "num_tags": 8,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-11-15T19:15:14.176022",
+    "description": "",
+    "id": "cbb782e9-de0e-49de-9462-073238e616be",
+    "image_url": "",
+    "is_organization": true,
+    "name": "vicejefatura-de-gobierno",
+    "revision_id": "b25fa66f-e936-4a6f-9111-1585f0b3f210",
+    "state": "active",
+    "title": "Vicejefatura de Gobierno",
+    "type": "organization"
+  },
+  "owner_org": "cbb782e9-de0e-49de-9462-073238e616be",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/encuesta-joven",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-01-08T14:59:38.776935",
+      "datastore_active": false,
+      "description": "Cuestionario realizado por la Encuesta Joven de 2014 en la Ciudad de Buenos Aires. Bloque de acceso a tecnologías y usos digitales.",
+      "fileName": "cuestionario-joven-2014.pdf",
+      "format": "PDF",
+      "hash": "",
+      "id": "juqdkmgo-951-resource",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Cuestionario Joven 2014",
+      "package_id": "juqdkmgo-95",
+      "position": 0,
+      "resource_type": "documentation",
+      "revision_id": "98a71a4d-8483-444d-a997-5d6b5fc630da",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/encuesta-joven/cuestionario-joven-2014.pdf",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/encuesta-joven",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-01-08T14:59:38.776935",
+      "datastore_active": false,
+      "description": "Pautas sobre la definición del cuestionario, diseño muestral, características de la muestra, distribución de la muestra, selección de viviendas y entrevistados.",
+      "fileName": "diseno-de-registro-encuesta-joven-2014.pdf",
+      "format": "PDF",
+      "hash": "",
+      "id": "juqdkmgo-952-resource",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Diseño de Registro: Encuesta Joven 2014",
+      "package_id": "juqdkmgo-95",
+      "position": 1,
+      "resource_type": "documentation",
+      "revision_id": "b944c1b4-fbbb-4aeb-aaea-33a636eab084",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/encuesta-joven/diseno-de-registro-encuesta-joven-2014.pdf",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/encuesta-joven",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-01-08T14:59:38.776935",
+      "datastore_active": false,
+      "description": "Resultados de la Encuesta Joven de 2014 realizada en la Ciudad de Buenos Aires. Bloque de acceso a tecnologías y usos digitales.",
+      "fileName": "encuesta-joven-2014-acceso-a-tecnologias-y-usos-digitales.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "juqdkmgo-953-resource",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Encuesta Joven 2014: Acceso a tecnologías y usos digitales",
+      "package_id": "juqdkmgo-95",
+      "position": 2,
+      "resource_type": "file",
+      "revision_id": "bd8a7f34-afcc-4879-a639-6019f4ee655d",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/encuesta-joven/encuesta-joven-2014-acceso-a-tecnologias-y-usos-digitales.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/encuesta-joven",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-01-08T14:59:38.776935",
+      "datastore_active": false,
+      "description": "Archivo comprimido con resultados de la Encuesta Joven de 2014, documentos metodológicos y cálculo de coeficientes de variación e intervalos de confianza.",
+      "fileName": "encuesta-joven-2014-acceso-a-tecnologias-y-usos-digitales-zip.zip",
+      "format": "ZIP",
+      "hash": "",
+      "id": "juqdkmgo-954-resource",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Encuesta Joven 2014: Acceso a tecnologías y usos digitales (ZIP)",
+      "package_id": "juqdkmgo-95",
+      "position": 3,
+      "resource_type": "file",
+      "revision_id": "4a376d48-d14f-4faf-b8a4-6c25ad9abecb",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/encuesta-joven/encuesta-joven-2014-acceso-a-tecnologias-y-usos-digitales-zip.zip",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/encuesta-joven",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-01-08T14:59:38.776935",
+      "datastore_active": false,
+      "description": "Resultados de la Encuesta Joven de 2014 realizada en la Ciudad de Buenos Aires. Bloque de acceso a tecnologías y usos digitales.",
+      "fileName": "encuesta-joven-2014-acceso-a-tecnologias-y-usos-digitales.xlsx",
+      "format": "XLSX",
+      "hash": "",
+      "id": "juqdkmgo-953-resource-xlsx",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Encuesta Joven 2014: Acceso a tecnologías y usos digitales (XLSX)",
+      "package_id": "juqdkmgo-95",
+      "position": 4,
+      "resource_type": "file",
+      "revision_id": "67e0f0db-7da2-474f-ba1e-026019098f92",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/encuesta-joven/encuesta-joven-2014-acceso-a-tecnologias-y-usos-digitales.xlsx",
+      "url_type": null
+    }
+  ],
+  "revision_id": "a21dc933-b265-4bae-bede-c03d2ead6657",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "composición-sociodemográfica",
+      "id": "36de4c80-d91b-4b8d-9a99-10d73075a592",
+      "name": "composición-sociodemográfica",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "educación",
+      "id": "a9032209-2807-4797-98a8-640d053d0064",
+      "name": "educación",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "empleo",
+      "id": "349612a1-d50c-4de4-837d-3682ec6c2951",
+      "name": "empleo",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "encuesta",
+      "id": "25b0fef3-9ea7-4cef-abbb-494c3bed9059",
+      "name": "encuesta",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "jóvenes",
+      "id": "1660e773-3f5d-4e87-9556-43778e4addd9",
+      "name": "jóvenes",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "participación-política",
+      "id": "3dad87be-b4a4-4890-91c7-e59d737b2f7f",
+      "name": "participación-política",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "salud",
+      "id": "92c7f3e1-f781-4b82-a933-7408e37b3687",
+      "name": "salud",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "salud-sexual",
+      "id": "23334110-c472-4f98-94b9-9a5347e1b65f",
+      "name": "salud-sexual",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Encuesta Joven",
+  "type": "dataset",
+  "url": "https://data.buenosaires.gob.ar/dataset/encuesta-joven",
+  "version": null
+}

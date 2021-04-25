@@ -1,0 +1,192 @@
+{
+  "author": "Secretaria de Atención Ciudadana y Gestión Comunal. Jefatura de Gabinete de Ministros",
+  "author_email": "datosabiertos@buenosaires.gob.ar",
+  "creator_user_id": "e4546f46-e966-493c-b2f1-57318502c41b",
+  "extras": [
+    {
+      "key": "Documentación",
+      "value": ""
+    },
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P1M"
+    },
+    {
+      "key": "country",
+      "value": "None"
+    },
+    {
+      "key": "district",
+      "value": ""
+    },
+    {
+      "key": "home_featured",
+      "value": "false"
+    },
+    {
+      "key": "issued",
+      "value": "2019-11-16T13:53:47.216671"
+    },
+    {
+      "key": "language",
+      "value": "[]"
+    },
+    {
+      "key": "modified",
+      "value": "2021-03-05T10:28:50.134358"
+    },
+    {
+      "key": "province",
+      "value": ""
+    },
+    {
+      "key": "source",
+      "value": "Secretaria de Atención Ciudadana y Gestión Comunal. Jefatura de Gabinete de Ministros"
+    },
+    {
+      "key": "spatial",
+      "value": "None"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"GOVE\"]"
+    },
+    {
+      "key": "temporal",
+      "value": ""
+    }
+  ],
+  "groups": [
+    {
+      "description": "",
+      "display_name": "Administración Pública",
+      "id": "8cb134a8-90ea-4e69-a96d-c03449917dc9",
+      "image_display_url": "https://data.buenosaires.gob.ar/uploads/group/2019-11-16-144810.360383adminpublica.png",
+      "name": "administracion-publica",
+      "title": "Administración Pública"
+    }
+  ],
+  "id": "d9c3f3f2-e3c6-4a1a-847f-ee0c08001b55",
+  "isopen": true,
+  "license_id": "CC-BY-2.5-AR",
+  "license_title": "Atribucion 2.5 Argentina (CC BY 2.5 AR)",
+  "license_url": "https://creativecommons.org/licenses/by/2.5/ar ",
+  "maintainer": "Gerencia Operativa de Ingeniería de Datos. DG Arquitectura de Datos. SS de Políticas Públicas Basadas en Evidencia. Secretaría de Innovación y Transformación Digital. Jefatura de Gabinete de Ministros",
+  "maintainer_email": "datosabiertos@buenosaires.gob.ar",
+  "metadata_created": "2019-12-11T18:05:13.888309",
+  "metadata_modified": "2021-03-05T13:28:50.324469",
+  "name": "denuncias-defensa-consumidor",
+  "notes": "Información correspondiente a las denuncias realizadas en la Dirección General de Defensa y Protección al Consumidor",
+  "num_resources": 2,
+  "num_tags": 3,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-11-15T19:15:46.928623",
+    "description": "",
+    "id": "282bb408-f41f-41c1-b736-b612affc0af4",
+    "image_url": "",
+    "is_organization": true,
+    "name": "atencion-ciudadana",
+    "revision_id": "c4b9e00e-5f3b-47a8-9319-33e116724a83",
+    "state": "active",
+    "title": "Secretaria de Atención Ciudadana y Gestión Comunal",
+    "type": "organization"
+  },
+  "owner_org": "282bb408-f41f-41c1-b736-b612affc0af4",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/d9c3f3f2-e3c6-4a1a-847f-ee0c08001b55/resource/f0988eb3-fcdb-4da9-a5d8-acb2fc7c6eb1",
+      "accessURL_field": "",
+      "attributesDescription": "[{\"title\":\"denuncia_id\",\"description\":\"Id de la denuncia\",\"type\":\"integer\"},{\"title\":\"fecha\",\"description\":\"Fecha en la que se realizó la denuncia\",\"type\":\"date\"},{\"title\":\"comuna\",\"description\":\"Comuna en la que se registró la denuncia\",\"type\":\"integer\"},{\"title\":\"motivo_denuncia\",\"description\":\"Motivo por el cual fue ingresada la denuncia\",\"type\":\"string\"},{\"title\":\"rubro\",\"description\":\"Rubro de la empresa que fue denunciada\",\"type\":\"string\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-07-30T16:33:23.336885",
+      "datastore_active": true,
+      "description": "Listado con información de las denuncias realizadas en la Dirección General de Defensa y Protección al Consumidor. Incluye id, motivo, comuna y rubro.",
+      "fileName": "denuncias-defensa-del-consumidor.csv",
+      "format": "CSV",
+      "has-uploaded-file": "",
+      "hash": "",
+      "icon_url": "",
+      "id": "f0988eb3-fcdb-4da9-a5d8-acb2fc7c6eb1",
+      "issued": "2019-07-30T16:33:23.336885",
+      "last_modified": "2019-07-30T16:33:23.336885",
+      "license_id": "CC-BY-2.5-AR",
+      "mimetype": "text/csv",
+      "mimetype_inner": null,
+      "modified": "2021-02-11",
+      "name": "Denuncias Defensa del Consumidor",
+      "package_id": "d9c3f3f2-e3c6-4a1a-847f-ee0c08001b55",
+      "position": 0,
+      "resource_type": "file",
+      "revision_id": "1bebe809-fb49-4d51-96c6-7c3179e39819",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/atencion-ciudadana/denuncias-defensa-consumidor/denuncias-defensa-del-consumidor.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/d9c3f3f2-e3c6-4a1a-847f-ee0c08001b55/resource/f0988eb3-fcdb-4da9-a5d8-acb2fc7c6eb1",
+      "accessURL_field": "",
+      "attributesDescription": "[]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-07-30T16:33:23.336885",
+      "datastore_active": true,
+      "description": "Listado con información de las denuncias realizadas en la Dirección General de Defensa y Protección al Consumidor. Incluye id, motivo, comuna y rubro.",
+      "fileName": "denuncias-defensa-del-consumidor.xlsx",
+      "format": "XLSX",
+      "has-uploaded-file": "",
+      "hash": "",
+      "icon_url": "",
+      "id": "f0988eb3-fcdb-4da9-a5d8-acb2fc7c6eb1-xlsx",
+      "issued": "2019-07-30T16:33:23.336885",
+      "last_modified": "2019-07-30T16:33:23.336885",
+      "license_id": "CC-BY-2.5-AR",
+      "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "mimetype_inner": null,
+      "modified": "2021-02-11",
+      "name": "Denuncias Defensa del Consumidor (XLSX)",
+      "package_id": "d9c3f3f2-e3c6-4a1a-847f-ee0c08001b55",
+      "position": 1,
+      "resource_type": "file",
+      "revision_id": "9be15671-c026-4190-a2fe-0b53baaed2fa",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/atencion-ciudadana/denuncias-defensa-consumidor/denuncias-defensa-del-consumidor.xlsx",
+      "url_type": null
+    }
+  ],
+  "revision_id": "138a58ce-e520-4dfc-b931-26cc3a792a81",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "defensa al consumidor",
+      "id": "e4063934-317a-4499-acc5-ef340dc3230e",
+      "name": "defensa al consumidor",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "demandas",
+      "id": "ec8196b6-c378-4dec-ba7f-bf0af4c8150f",
+      "name": "demandas",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "denuncias",
+      "id": "e0886978-b8a2-4c11-b8d8-c0b5948cf034",
+      "name": "denuncias",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Denuncias Defensa del Consumidor",
+  "type": "dataset",
+  "url": "https://data.buenosaires.gob.ar/dataset/denuncias-defensa-del-consumidor",
+  "version": null
+}

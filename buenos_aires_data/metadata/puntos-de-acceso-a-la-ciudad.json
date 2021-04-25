@@ -1,0 +1,269 @@
+{
+  "author": "Secretaría de Transporte y Obras Públicas",
+  "author_email": "datosabiertos@buenosaires.gob.ar",
+  "creator_user_id": "931fac92-738f-4472-b1c1-f5c2f6e46af3",
+  "extras": [
+    {
+      "key": "Documentación",
+      "value": ""
+    },
+    {
+      "key": "accrualPeriodicity",
+      "value": "eventual"
+    },
+    {
+      "key": "country",
+      "value": "ARG"
+    },
+    {
+      "key": "district",
+      "value": ""
+    },
+    {
+      "key": "home_featured",
+      "value": "false"
+    },
+    {
+      "key": "issued",
+      "value": "2020-07-22T12:33:29.018176"
+    },
+    {
+      "key": "language",
+      "value": "[\"spa\"]"
+    },
+    {
+      "key": "modified",
+      "value": "2021-03-01T14:48:55.768481"
+    },
+    {
+      "key": "province",
+      "value": ""
+    },
+    {
+      "key": "source",
+      "value": "Secretaría de Transporte y Obras Públicas"
+    },
+    {
+      "key": "spatial",
+      "value": "ARG"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"TRAN\"]"
+    },
+    {
+      "key": "temporal",
+      "value": ""
+    }
+  ],
+  "groups": [
+    {
+      "description": "Datasets relacionados a COVID-19",
+      "display_name": "COVID-19",
+      "id": "0f30f631-df60-4d33-aedb-96c9a48a2332",
+      "image_display_url": "https://data.buenosaires.gob.ar/uploads/group/2020-07-23-165939.349779iconocovid19.png",
+      "name": "covid-19",
+      "title": "COVID-19"
+    },
+    {
+      "description": "",
+      "display_name": "Movilidad",
+      "id": "e616e02e-64d8-4fb0-b55d-08e75eb58376",
+      "image_display_url": "https://data.buenosaires.gob.ar/uploads/group/2019-11-16-145017.234366movilidad.png",
+      "name": "movilidad",
+      "title": "Movilidad"
+    }
+  ],
+  "id": "4c83ee84-8112-4ffb-8968-e1ef205679ff",
+  "isopen": true,
+  "license_id": "CC-BY-2.5-AR",
+  "license_title": "Atribucion 2.5 Argentina (CC BY 2.5 AR)",
+  "license_url": "https://creativecommons.org/licenses/by/2.5/ar ",
+  "maintainer": "Subsecretaría de Políticas Públicas Basadas en Evidencia. DG Arquitectura de Datos",
+  "maintainer_email": "datosabiertos@buenosaires.gob.ar",
+  "metadata_created": "2020-07-08T23:54:52.883326",
+  "metadata_modified": "2021-03-01T17:48:55.802515",
+  "name": "puntos-de-acceso-a-la-ciudad",
+  "notes": "Información con los diferentes puntos de acceso habilitados en relación al COVID-19",
+  "num_resources": 4,
+  "num_tags": 4,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-11-15T19:19:49.916928",
+    "description": "",
+    "id": "56b60b46-a47c-48fb-9bd4-c2ad0e05fef2",
+    "image_url": "",
+    "is_organization": true,
+    "name": "transporte-y-obras-publicas",
+    "revision_id": "c33c86a3-e197-468f-8b66-5b943b3bf106",
+    "state": "active",
+    "title": "Secretaría de Transporte y Obras Públicas",
+    "type": "organization"
+  },
+  "owner_org": "56b60b46-a47c-48fb-9bd4-c2ad0e05fef2",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "",
+      "accessURL_field": "",
+      "attributesDescription": "[{\"title\":\"nombre\",\"description\":\"nombre\",\"type\":\"string\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2020-07-23T17:48:27.549985",
+      "datastore_active": false,
+      "description": "Información con los diferentes puntos de acceso habilitados en relación al COVID-19",
+      "fileName": "accesos_ciudad_covid19.geojson",
+      "format": "GeoJSON",
+      "has-uploaded-file": "",
+      "hash": "",
+      "icon_url": "",
+      "id": "4b7c5065-2a15-4b5c-bd23-ed3c3046c673",
+      "issued": "2020-07-23T17:48:27.549985",
+      "last_modified": "2020-07-23T00:00:00",
+      "license_id": "CC-BY-4.0",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "modified": "2020-07-23T14:56:25.371773",
+      "name": "Puntos de acceso a la Ciudad COVID-19 (GeoJSON)",
+      "package_id": "4c83ee84-8112-4ffb-8968-e1ef205679ff",
+      "position": 0,
+      "resource_type": "file",
+      "revision_id": "447bdbab-1221-439b-8069-3324e54ef47d",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/transporte/puntos-de-acceso-a-la-ciudad/accesos_ciudad_covid19.geojson",
+      "url_type": null
+    },
+    {
+      "accessURL": "",
+      "accessURL_field": "",
+      "attributesDescription": "[{\"title\":\"nombre\",\"description\":\"nombre\",\"type\":\"string\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2020-07-23T17:48:31.762031",
+      "datastore_active": false,
+      "description": "Información con los diferentes puntos de acceso habilitados en relación al COVID-19",
+      "fileName": "accesos_ciudad_covid19.xlsx",
+      "format": "XLSX",
+      "has-uploaded-file": "",
+      "hash": "",
+      "icon_url": "",
+      "id": "a419d759-3192-4e68-8b41-48004e1ec6b2",
+      "issued": "2020-07-23T17:48:31.762031",
+      "last_modified": "2020-07-23T00:00:00",
+      "license_id": "CC-BY-4.0",
+      "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "mimetype_inner": null,
+      "modified": "2020-07-23T14:56:27.620083",
+      "name": "Puntos de acceso a la Ciudad COVID-19 (XLSX)",
+      "package_id": "4c83ee84-8112-4ffb-8968-e1ef205679ff",
+      "position": 1,
+      "resource_type": "file",
+      "revision_id": "0ec39201-afe1-40bc-b3f0-22009b34d136",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/transporte/puntos-de-acceso-a-la-ciudad/accesos_ciudad_covid19.xlsx",
+      "url_type": null
+    },
+    {
+      "accessURL": "",
+      "accessURL_field": "",
+      "attributesDescription": "[{\"title\":\"nombre\",\"description\":\"nombre\",\"type\":\"string\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2020-07-23T17:48:37.359932",
+      "datastore_active": false,
+      "description": "Información con los diferentes puntos de acceso habilitados en relación al COVID-19",
+      "fileName": "accesos_ciudad_covid19.zip",
+      "format": "ZIP",
+      "has-uploaded-file": "",
+      "hash": "",
+      "icon_url": "",
+      "id": "f862ee06-fe82-46d0-a407-0f662afd982b",
+      "issued": "2020-07-23T17:48:37.359932",
+      "last_modified": "2020-07-23T00:00:00",
+      "license_id": "CC-BY-4.0",
+      "mimetype": "application/zip",
+      "mimetype_inner": null,
+      "modified": "2020-07-23T14:55:26.603929",
+      "name": "Puntos de acceso a la Ciudad COVID-19 (SHP)",
+      "package_id": "4c83ee84-8112-4ffb-8968-e1ef205679ff",
+      "position": 2,
+      "resource_type": "file",
+      "revision_id": "14e2972a-49cd-45ed-9685-61df556684e0",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/transporte/puntos-de-acceso-a-la-ciudad/accesos_ciudad_covid19.zip",
+      "url_type": null
+    },
+    {
+      "accessURL": "",
+      "accessURL_field": "",
+      "attributesDescription": "[{\"title\":\"X\",\"description\":\"Coordenada X\",\"type\":\"number\"},{\"title\":\"Y\",\"description\":\"Coordenada Y\",\"type\":\"number\"},{\"title\":\"nombre\",\"description\":\"nombre\",\"type\":\"string\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2020-07-23T17:50:12.635350",
+      "datastore_active": false,
+      "description": "Información con los diferentes puntos de acceso habilitados en relación al COVID-19",
+      "fileName": "accesos_ciudad_covid19.csv",
+      "format": "CSV",
+      "has-uploaded-file": "",
+      "hash": "",
+      "icon_url": "",
+      "id": "749d5769-6725-4b9c-8ac0-4a15cfe46237",
+      "issued": "2020-07-23T17:50:12.635350",
+      "last_modified": "2020-07-23T00:00:00",
+      "license_id": "CC-BY-4.0",
+      "mimetype": "text/csv",
+      "mimetype_inner": null,
+      "modified": "2020-07-23T14:55:24.142163",
+      "name": "Puntos de acceso a la Ciudad COVID-19",
+      "package_id": "4c83ee84-8112-4ffb-8968-e1ef205679ff",
+      "position": 3,
+      "resource_type": "file",
+      "revision_id": "2ed7671e-a93c-4b0e-8635-9e4f189f6e63",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/transporte/puntos-de-acceso-a-la-ciudad/accesos_ciudad_covid19.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "2765023a-44e5-4ffb-89f4-1f60dc2fef12",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "COVID-19",
+      "id": "931486a5-526e-433d-a642-4768937b65d8",
+      "name": "COVID-19",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "accesos",
+      "id": "d52353e3-6a11-49a0-bf94-1ab3c2899c2e",
+      "name": "accesos",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "coronavirus",
+      "id": "efeebfc4-0eaf-47bc-9d00-435b9c600fa1",
+      "name": "coronavirus",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "movilidad",
+      "id": "6fda14a0-403a-4fd4-bc7f-e5742514badc",
+      "name": "movilidad",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Puntos de acceso a la Ciudad habilitados por COVID-19",
+  "type": "dataset",
+  "url": "https://data.buenosaires.gob.ar/dataset/puntos-de-acceso-a-la-ciudad",
+  "version": null
+}

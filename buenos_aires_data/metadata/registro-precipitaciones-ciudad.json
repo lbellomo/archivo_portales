@@ -1,0 +1,192 @@
+{
+  "author": "Ministerio de Hacienda y Finanzas. Dirección General de Estadística y Censos",
+  "author_email": "datosabiertos@buenosaires.gob.ar",
+  "creator_user_id": "931fac92-738f-4472-b1c1-f5c2f6e46af3",
+  "extras": [
+    {
+      "key": "Documentación",
+      "value": ""
+    },
+    {
+      "key": "accrualPeriodicity",
+      "value": "eventual"
+    },
+    {
+      "key": "country",
+      "value": "ARG"
+    },
+    {
+      "key": "district",
+      "value": ""
+    },
+    {
+      "key": "home_featured",
+      "value": "false"
+    },
+    {
+      "key": "issued",
+      "value": "2020-09-24T13:06:21.975117"
+    },
+    {
+      "key": "language",
+      "value": "[\"spa\"]"
+    },
+    {
+      "key": "modified",
+      "value": "2021-03-01T14:48:14.610531"
+    },
+    {
+      "key": "province",
+      "value": ""
+    },
+    {
+      "key": "source",
+      "value": "Ministerio de Hacienda y Finanzas. Dirección General de Estadística y Censos\t"
+    },
+    {
+      "key": "spatial",
+      "value": "ARG"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"ENVI\"]"
+    },
+    {
+      "key": "temporal",
+      "value": ""
+    }
+  ],
+  "groups": [
+    {
+      "description": "",
+      "display_name": "Medioambiente",
+      "id": "a99c1197-8379-4a60-a6eb-8737cab5ec4f",
+      "image_display_url": "https://data.buenosaires.gob.ar/uploads/group/2019-11-16-145003.550663medioambiente.png",
+      "name": "medioambiente",
+      "title": "Medioambiente"
+    }
+  ],
+  "id": "fbb647f7-ac90-44e4-8315-4c640ab92615",
+  "isopen": true,
+  "license_id": "CC-BY-2.5-AR",
+  "license_title": "Atribucion 2.5 Argentina (CC BY 2.5 AR)",
+  "license_url": "https://creativecommons.org/licenses/by/2.5/ar ",
+  "maintainer": "Ministerio de Hacienda y Finanzas. Dirección General de Estadística y Censos\t",
+  "maintainer_email": "datosabiertos@buenosaires.gob.ar",
+  "metadata_created": "2020-09-24T16:06:12.386079",
+  "metadata_modified": "2021-03-01T17:48:14.622618",
+  "name": "registro-precipitaciones-ciudad",
+  "notes": "Registro histórico de lluvias en la Ciudad. Desde 1991 hasta la actualidad.",
+  "num_resources": 2,
+  "num_tags": 3,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-11-15T19:18:36.747317",
+    "description": "",
+    "id": "800664f9-ab56-4482-a6c8-0a1d316bf35b",
+    "image_url": "",
+    "is_organization": true,
+    "name": "direccion-general-de-estadisticas-y-censos",
+    "revision_id": "62a8b16c-0849-419d-a339-8e14d1b4a010",
+    "state": "active",
+    "title": "Dirección General de Estadísticas y Censos",
+    "type": "organization"
+  },
+  "owner_org": "800664f9-ab56-4482-a6c8-0a1d316bf35b",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "",
+      "accessURL_field": "",
+      "attributesDescription": "[{\"title\":\"año\",\"description\":\"año de registro\",\"type\":\"integer\"},{\"title\":\"mes\",\"description\":\"mes de registro\",\"type\":\"string\"},{\"title\":\"mm\",\"description\":\"precipitaciones acumuladas en milímetros de agua\",\"type\":\"string\"},{\"title\":\"dias\",\"description\":\" días acumulados en el mes con precipitaciones\",\"type\":\"string\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2020-09-24T16:11:13.166485",
+      "datastore_active": false,
+      "description": "Registro de lluvias dividido por mes y año. Incluye milímetros de agua acumulados y días de precipitaciones por cada mes",
+      "fileName": "",
+      "format": "CSV",
+      "has-uploaded-file": "",
+      "hash": "",
+      "icon_url": "",
+      "id": "2c245c89-5d62-4959-8ac7-af7b020e5846",
+      "issued": "2020-09-24T16:11:13.166485",
+      "last_modified": "2020-09-24T00:00:00",
+      "license_id": "CC-BY-4.0",
+      "mimetype": "text/csv",
+      "mimetype_inner": null,
+      "modified": "2020-09-24T13:17:12.055592",
+      "name": "Registro histórico de precipitaciones en la Ciudad. Desde 1991",
+      "package_id": "fbb647f7-ac90-44e4-8315-4c640ab92615",
+      "position": 0,
+      "resource_type": "file",
+      "revision_id": "e0a2e5f5-be41-4091-a2b1-b8b2d13d9318",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/direccion-general-de-estadisticas-y-censos/registro-precipitaciones-ciudad/historico_precipitaciones.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "",
+      "accessURL_field": "",
+      "attributesDescription": "[{\"title\":\"año\",\"description\":\"año de registro\",\"type\":\"integer\"},{\"title\":\"mes\",\"description\":\"mes de registro\",\"type\":\"string\"},{\"title\":\"mm\",\"description\":\"precipitaciones acumuladas en milímetros de agua\",\"type\":\"string\"},{\"title\":\"dias\",\"description\":\" días acumulados en el mes con precipitaciones\",\"type\":\"string\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2020-09-24T16:11:17.636988",
+      "datastore_active": false,
+      "description": "Registro de lluvias dividido por mes y año. Incluye milímetros de agua acumulados y días de precipitaciones por cada mes",
+      "fileName": "",
+      "format": "XLSX",
+      "has-uploaded-file": "",
+      "hash": "",
+      "icon_url": "",
+      "id": "5e364820-6bbe-4724-8eb4-2bfd4b134c71",
+      "issued": "2020-09-24T16:11:17.636988",
+      "last_modified": "2020-09-24T00:00:00",
+      "license_id": "CC-BY-4.0",
+      "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "mimetype_inner": null,
+      "modified": "2020-09-24T13:17:09.644629",
+      "name": "Registro histórico de precipitaciones en la Ciudad. Desde 1991 (XLSX)",
+      "package_id": "fbb647f7-ac90-44e4-8315-4c640ab92615",
+      "position": 1,
+      "resource_type": "file",
+      "revision_id": "e14f3c48-a61f-4b68-bc4c-70ae2817bd8d",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/direccion-general-de-estadisticas-y-censos/registro-precipitaciones-ciudad/historico_precipitaciones.xlsx",
+      "url_type": null
+    }
+  ],
+  "revision_id": "d7123dec-67d0-4dfe-b01f-1eba12ac9bc7",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "cambio climático",
+      "id": "a6836452-912d-41c2-b324-4eddc98a75c2",
+      "name": "cambio climático",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "precipitaciones",
+      "id": "8c662f26-6f57-4688-bd36-187b4faf6f8a",
+      "name": "precipitaciones",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "registro",
+      "id": "26743a06-4bdd-418b-a604-e17fe4aa1635",
+      "name": "registro",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Registro de precipitaciones",
+  "type": "dataset",
+  "url": "https://data.buenosaires.gob.ar/dataset/registro-precipitaciones-ciudad",
+  "version": null
+}

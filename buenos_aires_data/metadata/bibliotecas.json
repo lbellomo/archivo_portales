@@ -1,0 +1,154 @@
+{
+  "author": "Ministerio de Cultura. SS de Políticas Culturales y Nuevas Audiencias. DG del Libro y Promoción de la Lectura. GO de Bibliotecas",
+  "author_email": "gobiernoabierto@buenosaires.gob.ar",
+  "creator_user_id": "e4546f46-e966-493c-b2f1-57318502c41b",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P1Y"
+    },
+    {
+      "key": "issued",
+      "value": "2019-01-08T14:49:19.238374"
+    },
+    {
+      "key": "language",
+      "value": "[\"SPA\"]"
+    },
+    {
+      "key": "modified",
+      "value": "2019-05-27T15:05:17.120713"
+    },
+    {
+      "key": "source",
+      "value": "Ministerio de Cultura. SS de Políticas Culturales y Nuevas Audiencias. DG del Libro y Promoción de la Lectura. GO de Bibliotecas"
+    },
+    {
+      "key": "spatial",
+      "value": "02"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"EDUC\"]"
+    }
+  ],
+  "groups": [
+    {
+      "description": "",
+      "display_name": "Educación",
+      "id": "6e8e33f7-a0c9-4730-bb10-38eeeb717982",
+      "image_display_url": "https://data.buenosaires.gob.ar/uploads/group/2019-11-19-182154.334786educ.png",
+      "name": "educacion",
+      "title": "Educación"
+    }
+  ],
+  "id": "juqdkmgo-21",
+  "isopen": true,
+  "license_id": "CC-BY-2.5-AR",
+  "license_title": "Atribucion 2.5 Argentina (CC BY 2.5 AR)",
+  "license_url": "https://creativecommons.org/licenses/by/2.5/ar ",
+  "maintainer": "Secretaría General y Relaciones Internacionales. Subsecretaría Gestión Estratégica y Calidad Institucional. Dirección General Calidad Institucional y Gobierno Abierto",
+  "maintainer_email": "gobiernoabierto@buenosaires.gob.ar",
+  "metadata_created": "2019-12-11T18:09:34.360490",
+  "metadata_modified": "2020-12-17T15:29:02.153443",
+  "name": "bibliotecas",
+  "notes": "Listado con ubicación geográfica de las bibliotecas de la Red del Gobierno de la Ciudad de Buenos Aires.",
+  "num_resources": 2,
+  "num_tags": 3,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-11-15T19:18:00.924241",
+    "description": "",
+    "id": "247e42eb-6f1b-4c63-8d1a-41794d0ab40d",
+    "image_url": "",
+    "is_organization": true,
+    "name": "ministerio-de-cultura",
+    "revision_id": "6b85d99d-281d-4098-b229-bbf2ac1834d9",
+    "state": "active",
+    "title": "Ministerio de Cultura",
+    "type": "organization"
+  },
+  "owner_org": "247e42eb-6f1b-4c63-8d1a-41794d0ab40d",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/bibliotecas",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-01-08T14:49:19.238374",
+      "datastore_active": false,
+      "description": "Catálogo de Bibliotecas en la Ciudad de Buenos Aires.",
+      "fileName": "bibliotecas.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "juqdkmgo-211-resource",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Bibliotecas",
+      "package_id": "juqdkmgo-21",
+      "position": 0,
+      "resource_type": "file",
+      "revision_id": "db95edc2-219d-4e58-a57c-faff78d1a282",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/bibliotecas/bibliotecas.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/bibliotecas",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-01-08T14:49:19.238374",
+      "datastore_active": false,
+      "description": "Catálogo de Bibliotecas en la Ciudad de Buenos Aires.",
+      "fileName": "bibliotecas.xlsx",
+      "format": "XLSX",
+      "hash": "",
+      "id": "juqdkmgo-211-resource-xlsx",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Bibliotecas (XLSX)",
+      "package_id": "juqdkmgo-21",
+      "position": 1,
+      "resource_type": "file",
+      "revision_id": "c18f7ce8-cb04-4286-8ecc-e403420662a6",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/bibliotecas/bibliotecas.xlsx",
+      "url_type": null
+    }
+  ],
+  "revision_id": "4c1cc503-9f63-45d7-9032-bcf3e402657b",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "cultura",
+      "id": "858c2db7-dc24-4528-befd-726d218675e0",
+      "name": "cultura",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "literatura",
+      "id": "263267cf-1ec0-4e75-8c7d-1a2b4a575e8b",
+      "name": "literatura",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "mapa",
+      "id": "2c83da8e-2e03-47e6-aee4-bb965600000d",
+      "name": "mapa",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Bibliotecas",
+  "type": "dataset",
+  "url": "https://data.buenosaires.gob.ar/dataset/bibliotecas",
+  "version": null
+}

@@ -1,0 +1,249 @@
+{
+  "author": "Secretaría de Transporte y Obras Públicas. Jefatura de Gabinete de Ministros",
+  "author_email": "gobiernoabierto@buenosaires.gob.ar",
+  "creator_user_id": "e4546f46-e966-493c-b2f1-57318502c41b",
+  "extras": [
+    {
+      "key": "Documentación",
+      "value": ""
+    },
+    {
+      "key": "accrualPeriodicity",
+      "value": "eventual"
+    },
+    {
+      "key": "country",
+      "value": "None"
+    },
+    {
+      "key": "district",
+      "value": ""
+    },
+    {
+      "key": "home_featured",
+      "value": "false"
+    },
+    {
+      "key": "issued",
+      "value": "2019-09-16T13:18:07.953856"
+    },
+    {
+      "key": "language",
+      "value": "[]"
+    },
+    {
+      "key": "modified",
+      "value": "2020-12-04T14:21:50.803058"
+    },
+    {
+      "key": "province",
+      "value": ""
+    },
+    {
+      "key": "source",
+      "value": "Secretaría de Transporte y Obras Públicas. Jefatura de Gabinete de Ministros"
+    },
+    {
+      "key": "spatial",
+      "value": "None"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"REGI\",\"TRAN\"]"
+    },
+    {
+      "key": "temporal",
+      "value": ""
+    }
+  ],
+  "groups": [
+    {
+      "description": "",
+      "display_name": "Movilidad",
+      "id": "e616e02e-64d8-4fb0-b55d-08e75eb58376",
+      "image_display_url": "https://data.buenosaires.gob.ar/uploads/group/2019-11-16-145017.234366movilidad.png",
+      "name": "movilidad",
+      "title": "Movilidad"
+    },
+    {
+      "description": "Datasets relacionados con urbanismo y territorio",
+      "display_name": "Urbanismo y Territorio",
+      "id": "63e162a0-3f4a-446a-a60b-601d16f36200",
+      "image_display_url": "https://data.buenosaires.gob.ar/uploads/group/2019-11-16-145056.781692urba.png",
+      "name": "urbanismo-y-territorio",
+      "title": "Urbanismo y Territorio"
+    }
+  ],
+  "id": "60aa34d3-d448-4d29-bd34-cd59cedfb4aa",
+  "isopen": true,
+  "license_id": "CC-BY-2.5-AR",
+  "license_title": "Atribucion 2.5 Argentina (CC BY 2.5 AR)",
+  "license_url": "https://creativecommons.org/licenses/by/2.5/ar ",
+  "maintainer": "Subgerencia de Información Geoespacial. DG Ciencias de la Información. SS de Políticas Públicas Basadas en Evidencia. Secretaría de Innovación y Transformación Digital. Jefatura de Gabinete de Ministros",
+  "maintainer_email": "gobiernoabierto@buenosaires.gob.ar",
+  "metadata_created": "2019-12-11T18:16:42.511641",
+  "metadata_modified": "2020-12-17T15:36:22.525353",
+  "name": "cajones-para-carga-descarga",
+  "notes": "Ubicación de los cajones de carga y descarga de mercadería, habilitados en la vía pública en la Ciudad.",
+  "num_resources": 4,
+  "num_tags": 5,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-11-15T19:19:49.916928",
+    "description": "",
+    "id": "56b60b46-a47c-48fb-9bd4-c2ad0e05fef2",
+    "image_url": "",
+    "is_organization": true,
+    "name": "transporte-y-obras-publicas",
+    "revision_id": "c33c86a3-e197-468f-8b66-5b943b3bf106",
+    "state": "active",
+    "title": "Secretaría de Transporte y Obras Públicas",
+    "type": "organization"
+  },
+  "owner_org": "56b60b46-a47c-48fb-9bd4-c2ad0e05fef2",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/60aa34d3-d448-4d29-bd34-cd59cedfb4aa/resource/43860d22-d2bb-4d28-9a22-b11e3fc0c485",
+      "attributesDescription": "[{\"title\": \"long\", \"type\": \"string\", \"description\": \"Coordenada X del punto donde se localiza el caj\\u00f3n expresada en coordenadas planas\"}, {\"title\": \"lat\", \"type\": \"string\", \"description\": \"Coordenada Y del punto donde se localiza el caj\\u00f3n expresada en coordenadas planas\"}, {\"title\": \"calle_nombre\", \"type\": \"string\", \"description\": \"Nombre de calle donde est\\u00e1 situado el caj\\u00f3n\"}, {\"title\": \"calle_altura\", \"type\": \"integer\", \"description\": \"Altura de la calle d\\u00f3nde se localiza el caj\\u00f3n\"}, {\"title\": \"direccion\", \"type\": \"string\", \"description\": \"Domicilio normalizado\"}, {\"title\": \"barrio\", \"type\": \"string\", \"description\": \"Barrio donde se ubica el caj\\u00f3n.\"}, {\"title\": \"comuna\", \"type\": \"string\", \"description\": \"Comuna donde se ubica el caj\\u00f3n\"}, {\"title\": \"codigo_postal\", \"type\": \"integer\", \"description\": \"C\\u00f3digo postal donde se ubica el caj\\u00f3n\"}, {\"title\": \"codigo_postal_argentino\", \"type\": \"string\", \"description\": \"C\\u00f3digo postal argentino donde se ubica el caj\\u00f3n\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-09-16T13:29:36.089527",
+      "datastore_active": false,
+      "description": "Listado con los cajones de carga y descarga de mercadería habilitados en vía pública. Incluye datos geográficos.",
+      "fileName": "cajones-para-carga-y-descarga.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "43860d22-d2bb-4d28-9a22-b11e3fc0c485",
+      "last_modified": "2019-09-16T13:29:36.089527",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Cajones para Carga y Descarga",
+      "package_id": "60aa34d3-d448-4d29-bd34-cd59cedfb4aa",
+      "position": 0,
+      "resource_type": "file",
+      "revision_id": "3879d188-edc5-4635-b8cf-f344808b419c",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/cajones-para-carga-y-descarga/cajones-para-carga-y-descarga.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/60aa34d3-d448-4d29-bd34-cd59cedfb4aa/resource/c0f7c435-e6db-4b69-ae88-5ee88d546273",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-09-16T13:31:24.342445",
+      "datastore_active": false,
+      "description": "Archivo shapefile de los cajones para carga y descarga.",
+      "fileName": "cajones-para-carga-y-descarga.zip",
+      "format": "ZIP",
+      "hash": "",
+      "id": "c0f7c435-e6db-4b69-ae88-5ee88d546273",
+      "last_modified": "2019-09-16T13:31:24.342445",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Cajones para Carga y Descarga (SHP)",
+      "package_id": "60aa34d3-d448-4d29-bd34-cd59cedfb4aa",
+      "position": 1,
+      "resource_type": "file",
+      "revision_id": "b683a639-64de-4ab4-88e8-9fc4e66c3840",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/cajones-para-carga-y-descarga/cajones-para-carga-y-descarga.zip",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/60aa34d3-d448-4d29-bd34-cd59cedfb4aa/resource/35a52ae3-d7c1-47bd-93b9-da9bb382b2b2",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-09-16T13:36:12.616039",
+      "datastore_active": false,
+      "description": "Archivo GeoJSON de los cajones para carga y descarga.",
+      "fileName": "cajones-para-carga-y-descarga.geojson",
+      "format": "GeoJSON",
+      "hash": "",
+      "id": "35a52ae3-d7c1-47bd-93b9-da9bb382b2b2",
+      "last_modified": "2019-09-16T13:36:12.616039",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Cajones para Carga y Descarga (GeoJSON)",
+      "package_id": "60aa34d3-d448-4d29-bd34-cd59cedfb4aa",
+      "position": 2,
+      "resource_type": "file",
+      "revision_id": "05561115-8907-4937-8cd6-b60c92db0047",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/cajones-para-carga-y-descarga/cajones-para-carga-y-descarga.geojson",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/60aa34d3-d448-4d29-bd34-cd59cedfb4aa/resource/43860d22-d2bb-4d28-9a22-b11e3fc0c485",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-09-16T13:29:36.089527",
+      "datastore_active": false,
+      "description": "Listado con los cajones de carga y descarga de mercadería habilitados en vía pública. Incluye datos geográficos.",
+      "fileName": "cajones-para-carga-y-descarga.xlsx",
+      "format": "XLSX",
+      "hash": "",
+      "id": "43860d22-d2bb-4d28-9a22-b11e3fc0c485-xlsx",
+      "last_modified": "2019-09-16T13:29:36.089527",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Cajones para Carga y Descarga (XLSX)",
+      "package_id": "60aa34d3-d448-4d29-bd34-cd59cedfb4aa",
+      "position": 3,
+      "resource_type": "file",
+      "revision_id": "d99e387a-8a0d-400e-962f-c728e01ffb20",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/cajones-para-carga-y-descarga/cajones-para-carga-y-descarga.xlsx",
+      "url_type": null
+    }
+  ],
+  "revision_id": "da759386-6413-42bf-9ce4-71c0236f59a8",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "cajones",
+      "id": "703a2923-fd4e-4a47-a8d2-6aadbfc022c4",
+      "name": "cajones",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "carga",
+      "id": "f2dcad43-f3ac-4360-b82a-c768f5ec7c1a",
+      "name": "carga",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "descarga",
+      "id": "d80f8210-695d-4f27-9ef3-bb62ed3fd752",
+      "name": "descarga",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "mercadería",
+      "id": "7825f92f-44f9-4152-89cf-1c442454df6d",
+      "name": "mercadería",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "vía pública",
+      "id": "55ef4fcc-18b1-4a3d-b944-3c5b02bd7645",
+      "name": "vía pública",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Cajones para Carga y Descarga",
+  "type": "dataset",
+  "url": "https://data.buenosaires.gob.ar/dataset/cajones-para-carga-y-descarga",
+  "version": null
+}

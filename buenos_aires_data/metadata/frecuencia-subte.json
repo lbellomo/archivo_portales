@@ -1,0 +1,154 @@
+{
+  "author": "Secretaria de Transporte y Obras Públicas",
+  "author_email": "",
+  "creator_user_id": "931fac92-738f-4472-b1c1-f5c2f6e46af3",
+  "extras": [
+    {
+      "key": "Documentación",
+      "value": ""
+    },
+    {
+      "key": "accrualPeriodicity",
+      "value": "eventual"
+    },
+    {
+      "key": "country",
+      "value": "ARG"
+    },
+    {
+      "key": "district",
+      "value": ""
+    },
+    {
+      "key": "home_featured",
+      "value": "false"
+    },
+    {
+      "key": "issued",
+      "value": "2020-11-19T15:56:33.244782"
+    },
+    {
+      "key": "language",
+      "value": "[\"spa\"]"
+    },
+    {
+      "key": "modified",
+      "value": "2021-02-26T18:06:19.018011"
+    },
+    {
+      "key": "province",
+      "value": ""
+    },
+    {
+      "key": "source",
+      "value": "Secretaria de Transporte y Obras Públicas"
+    },
+    {
+      "key": "spatial",
+      "value": "ARG"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"TRAN\"]"
+    },
+    {
+      "key": "temporal",
+      "value": ""
+    }
+  ],
+  "groups": [
+    {
+      "description": "",
+      "display_name": "Movilidad",
+      "id": "e616e02e-64d8-4fb0-b55d-08e75eb58376",
+      "image_display_url": "https://data.buenosaires.gob.ar/uploads/group/2019-11-16-145017.234366movilidad.png",
+      "name": "movilidad",
+      "title": "Movilidad"
+    }
+  ],
+  "id": "7d272908-52d9-4164-9938-26efcc1b7dae",
+  "isopen": true,
+  "license_id": "CC-BY-2.5-AR",
+  "license_title": "Atribucion 2.5 Argentina (CC BY 2.5 AR)",
+  "license_url": "https://creativecommons.org/licenses/by/2.5/ar ",
+  "maintainer": "Subsecretaría de Políticas Públicas Basadas en Evidencia. DG Arquitectura de Datos",
+  "maintainer_email": "",
+  "metadata_created": "2020-11-19T18:56:25.409555",
+  "metadata_modified": "2021-02-26T21:06:19.030957",
+  "name": "frecuencia-subte",
+  "notes": "Frecuencia del subte por mes.",
+  "num_resources": 1,
+  "num_tags": 2,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-11-15T19:19:49.916928",
+    "description": "",
+    "id": "56b60b46-a47c-48fb-9bd4-c2ad0e05fef2",
+    "image_url": "",
+    "is_organization": true,
+    "name": "transporte-y-obras-publicas",
+    "revision_id": "c33c86a3-e197-468f-8b66-5b943b3bf106",
+    "state": "active",
+    "title": "Secretaría de Transporte y Obras Públicas",
+    "type": "organization"
+  },
+  "owner_org": "56b60b46-a47c-48fb-9bd4-c2ad0e05fef2",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "",
+      "accessURL_field": "",
+      "attributesDescription": "[{\"title\":\"Mes\",\"description\":\"Mes y año\",\"type\":\"string\"},{\"title\":\"Linea A\",\"description\":\"Frecuencia de la línea A\",\"type\":\"string\"},{\"title\":\"Lineanea B\",\"description\":\"Frecuencia de la línea B\",\"type\":\"string\"},{\"title\":\"Linea C\",\"description\":\"Frecuencia de la línea C\",\"type\":\"string\"},{\"title\":\"Linea D\",\"description\":\"Frecuencia de la línea D\",\"type\":\"string\"},{\"title\":\"Linea E\",\"description\":\"Frecuencia de la línea E\",\"type\":\"string\"},{\"title\":\"Linea H\",\"description\":\"Frecuencia de la línea H\",\"type\":\"string\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2020-11-19T19:07:01.351432",
+      "datastore_active": false,
+      "description": "Frecuencia del subte por mes.",
+      "fileName": "",
+      "format": "CSV",
+      "has-uploaded-file": "",
+      "hash": "",
+      "icon_url": "",
+      "id": "eabe703e-af0d-4049-a7c3-8265ba3d0e20",
+      "issued": "2020-11-19T19:07:01.351432",
+      "last_modified": "2020-11-19T00:00:00",
+      "license_id": "CC-BY-4.0",
+      "mimetype": "text/csv",
+      "mimetype_inner": null,
+      "modified": "2020-11-19T16:17:31.978720",
+      "name": "Frecuencia del subte",
+      "package_id": "7d272908-52d9-4164-9938-26efcc1b7dae",
+      "position": 0,
+      "resource_type": "file",
+      "revision_id": "70df399a-3e1a-46c2-9324-78f9c2ebbecd",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/transporte/frecuencia-subte/frecuencia_subte.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "0d423841-d839-401d-b1ca-c3318c5b9dfb",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "frecuencia",
+      "id": "f22d5593-af09-40f4-92f9-25c97325aabc",
+      "name": "frecuencia",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "subte",
+      "id": "d21f4689-9652-43c9-8cae-53e4e2abc76d",
+      "name": "subte",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Frecuencia del subte",
+  "type": "dataset",
+  "url": "https://data.buenosaires.gob.ar/dataset/frecuencia-subte",
+  "version": null
+}

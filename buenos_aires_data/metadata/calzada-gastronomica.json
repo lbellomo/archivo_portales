@@ -1,0 +1,305 @@
+{
+  "author": "Gerencia de Estacionamiento Ordenado. Secretaría de Transporte y Obras Públicas.\t",
+  "author_email": "datosabiertos@buenosaires.gob.ar",
+  "creator_user_id": "7d042a55-0800-4979-949b-201389887bd9",
+  "extras": [
+    {
+      "key": "Documentación",
+      "value": ""
+    },
+    {
+      "key": "accrualPeriodicity",
+      "value": "eventual"
+    },
+    {
+      "key": "country",
+      "value": "None"
+    },
+    {
+      "key": "district",
+      "value": ""
+    },
+    {
+      "key": "home_featured",
+      "value": "false"
+    },
+    {
+      "key": "issued",
+      "value": "2020-09-16T16:48:56.780988"
+    },
+    {
+      "key": "language",
+      "value": "[\"spa\"]"
+    },
+    {
+      "key": "modified",
+      "value": "2021-03-05T10:52:02.522433"
+    },
+    {
+      "key": "province",
+      "value": ""
+    },
+    {
+      "key": "source",
+      "value": "Ministerio de Educación e Innovación. Secretaría de Ciencia, Tecnología e Innovación. SS de Ciudad Inteligente y Tecnología Educativa. DG Ciencias de la Información. Unidad de Sistemas de Información Geográfica (USIG)"
+    },
+    {
+      "key": "spatial",
+      "value": "None"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"ECON\",\"ENVI\",\"HEAL\",\"TRAN\"]"
+    },
+    {
+      "key": "temporal",
+      "value": ""
+    }
+  ],
+  "groups": [
+    {
+      "description": "Datasets relacionados a COVID-19",
+      "display_name": "COVID-19",
+      "id": "0f30f631-df60-4d33-aedb-96c9a48a2332",
+      "image_display_url": "https://data.buenosaires.gob.ar/uploads/group/2020-07-23-165939.349779iconocovid19.png",
+      "name": "covid-19",
+      "title": "COVID-19"
+    },
+    {
+      "description": "",
+      "display_name": "Movilidad",
+      "id": "e616e02e-64d8-4fb0-b55d-08e75eb58376",
+      "image_display_url": "https://data.buenosaires.gob.ar/uploads/group/2019-11-16-145017.234366movilidad.png",
+      "name": "movilidad",
+      "title": "Movilidad"
+    },
+    {
+      "description": "Datasets relacionados con urbanismo y territorio",
+      "display_name": "Urbanismo y Territorio",
+      "id": "63e162a0-3f4a-446a-a60b-601d16f36200",
+      "image_display_url": "https://data.buenosaires.gob.ar/uploads/group/2019-11-16-145056.781692urba.png",
+      "name": "urbanismo-y-territorio",
+      "title": "Urbanismo y Territorio"
+    }
+  ],
+  "id": "e51086fe-93e0-479e-b4e1-3af9fa09150a",
+  "isopen": true,
+  "license_id": "CC-BY-2.5-AR",
+  "license_title": "Atribucion 2.5 Argentina (CC BY 2.5 AR)",
+  "license_url": "https://creativecommons.org/licenses/by/2.5/ar ",
+  "maintainer": "Gerencia de Estacionamiento Ordenado. Secretaría de Transporte y Obras Públicas.",
+  "maintainer_email": "datosabiertos@buenosaires.gob.ar",
+  "metadata_created": "2020-09-16T14:51:03.059553",
+  "metadata_modified": "2021-03-10T14:06:30.823740",
+  "name": "calzada-gastronomica",
+  "notes": "Mapeo de las cuadras de la Ciudad que se encuentran habilitadas para la ampliación del espacio gastronómico sobre la calzada. Esta disposición busca promover la apertura gastronómica en el contexto de la emergencia sanitaria del COVID-19, al mismo tiempo que sigue garantizando el normal funcionamiento de las arterias viales y la seguridad de los vecinos y vecinas.",
+  "num_resources": 4,
+  "num_tags": 8,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-11-15T19:19:49.916928",
+    "description": "",
+    "id": "56b60b46-a47c-48fb-9bd4-c2ad0e05fef2",
+    "image_url": "",
+    "is_organization": true,
+    "name": "transporte-y-obras-publicas",
+    "revision_id": "c33c86a3-e197-468f-8b66-5b943b3bf106",
+    "state": "active",
+    "title": "Secretaría de Transporte y Obras Públicas",
+    "type": "organization"
+  },
+  "owner_org": "56b60b46-a47c-48fb-9bd4-c2ad0e05fef2",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "",
+      "accessURL_field": "",
+      "attributesDescription": "[{\"title\":\"NOMOFICIAL\",\"description\":\"Nombre de calle donde está situado el deck gastronómico\",\"type\":\"string\"},{\"title\":\"ALT_DERINI\",\"description\":\"Altura inicial derecha de la calle donde está situado el deck\",\"type\":\"string\"},{\"title\":\"ALT_DERFIN\",\"description\":\"Altura final derecha de la calle donde está situado el deck\",\"type\":\"string\"},{\"title\":\"ALT_IZQINI\",\"description\":\"Altura inicial izquierda de la calle donde está situado el deck\",\"type\":\"string\"},{\"title\":\"ALT_IZQFIN\",\"description\":\"Altura final izquierda de la calle donde está situado el deck\",\"type\":\"string\"},{\"title\":\"COMUNA\",\"description\":\"Comuna a la que pertenece\",\"type\":\"string\"},{\"title\":\"BARRIO\",\"description\":\"Barrio al que pertenece\",\"type\":\"string\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2020-09-16T19:52:32.077496",
+      "datastore_active": false,
+      "description": "Ubicación de las calles habilitadas para la ampliación del espacio gastronómico sobre la calzada (decks). ",
+      "fileName": "",
+      "format": "CSV",
+      "has-uploaded-file": "",
+      "hash": "",
+      "icon_url": "",
+      "id": "69cb43bd-5fdb-4879-b0c4-31414bd6eb0f",
+      "issued": "2020-09-16T19:52:32.077496",
+      "last_modified": "2020-09-16T00:00:00",
+      "license_id": "CC-BY-4.0",
+      "mimetype": "text/csv",
+      "mimetype_inner": null,
+      "modified": "2020-09-16T16:56:13.707102",
+      "name": "Calles habilitadas para la instalación de decks",
+      "package_id": "e51086fe-93e0-479e-b4e1-3af9fa09150a",
+      "position": 0,
+      "resource_type": "file",
+      "revision_id": "88183219-b806-4a19-9b44-6a12c044493d",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/transporte/calzada-gastronomica/decks_permitidos_WGS84.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "",
+      "accessURL_field": "",
+      "attributesDescription": "[]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2020-09-16T14:53:23.654836",
+      "datastore_active": false,
+      "description": "Ubicación de las calles habilitadas para la ampliación del espacio gastronómico sobre la calzada (decks). ",
+      "fileName": "",
+      "format": "",
+      "has-uploaded-file": "",
+      "hash": "",
+      "icon_url": "",
+      "id": "347fb4c4-4ffa-4f4a-83a2-747cd7272cef",
+      "issued": "2020-09-16T11:53:23.603800",
+      "last_modified": null,
+      "license_id": "CC-BY-4.0",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "modified": "2021-03-10T11:06:30.800950",
+      "name": "Calles habilitadas para la instalación de decks (XLSX)",
+      "package_id": "e51086fe-93e0-479e-b4e1-3af9fa09150a",
+      "position": 1,
+      "resource_type": "file",
+      "revision_id": "5be40ffc-6902-43ad-997c-0987187a6b00",
+      "size": null,
+      "state": "active",
+      "url": "",
+      "url_type": null
+    },
+    {
+      "accessURL": "",
+      "accessURL_field": "",
+      "attributesDescription": "[{\"title\":\"NOMOFICIAL\",\"description\":\"Nombre de calle donde está situado el deck gastronómico\",\"type\":\"string\"},{\"title\":\"ALT_DERINI\",\"description\":\"Altura inicial derecha de la calle donde está situado el deck\",\"type\":\"string\"},{\"title\":\"ALT_DERFIN\",\"description\":\"Altura final derecha de la calle donde está situado el deck\",\"type\":\"string\"},{\"title\":\"ALT_IZQINI\",\"description\":\"Altura inicial izquierda de la calle donde está situado el deck\",\"type\":\"string\"},{\"title\":\"ALT_IZQFIN\",\"description\":\"Altura final izquierda de la calle donde está situado el deck\",\"type\":\"string\"},{\"title\":\"COMUNA\",\"description\":\"Comuna a la que pertenece\",\"type\":\"string\"},{\"title\":\"BARRIO\",\"description\":\"Barrio al que pertenece\",\"type\":\"string\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2020-09-16T19:52:28.153628",
+      "datastore_active": false,
+      "description": "Ubicación de las calles habilitadas para la ampliación del espacio gastronómico sobre la calzada (decks). ",
+      "fileName": "",
+      "format": "ZIP",
+      "has-uploaded-file": "",
+      "hash": "",
+      "icon_url": "",
+      "id": "c758eb0f-b69e-47fa-8d09-b59b94e6bb75",
+      "issued": "2020-09-16T19:52:28.153628",
+      "last_modified": "2020-09-16T00:00:00",
+      "license_id": "CC-BY-4.0",
+      "mimetype": "application/zip",
+      "mimetype_inner": null,
+      "modified": "2020-09-16T16:56:11.429911",
+      "name": "Calles habilitadas para la instalación de decks (SHP)",
+      "package_id": "e51086fe-93e0-479e-b4e1-3af9fa09150a",
+      "position": 2,
+      "resource_type": "file",
+      "revision_id": "88183219-b806-4a19-9b44-6a12c044493d",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/transporte/calzada-gastronomica/decks_permitidos.zip",
+      "url_type": null
+    },
+    {
+      "accessURL": "",
+      "accessURL_field": "",
+      "attributesDescription": "[{\"title\":\"NOMOFICIAL\",\"description\":\"Nombre de calle donde está situado el deck gastronómico\",\"type\":\"string\"},{\"title\":\"ALT_DERINI\",\"description\":\"Altura inicial derecha de la calle donde está situado el deck\",\"type\":\"string\"},{\"title\":\"ALT_DERFIN\",\"description\":\"Altura final derecha de la calle donde está situado el deck\",\"type\":\"string\"},{\"title\":\"ALT_IZQINI\",\"description\":\"Altura inicial izquierda de la calle donde está situado el deck\",\"type\":\"string\"},{\"title\":\"ALT_IZQFIN\",\"description\":\"Altura final izquierda de la calle donde está situado el deck\",\"type\":\"string\"},{\"title\":\"COMUNA\",\"description\":\"Comuna a la que pertenece\",\"type\":\"string\"},{\"title\":\"BARRIO\",\"description\":\"Barrio al que pertenece\",\"type\":\"string\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2020-09-16T19:52:37.268372",
+      "datastore_active": false,
+      "description": "Ubicación de las calles habilitadas para la ampliación del espacio gastronómico sobre la calzada (decks). ",
+      "fileName": "",
+      "format": "GeoJSON",
+      "has-uploaded-file": "",
+      "hash": "",
+      "icon_url": "",
+      "id": "692e1db1-5e7c-4781-9278-53d988d68df0",
+      "issued": "2020-09-16T19:52:37.268372",
+      "last_modified": "2020-09-16T00:00:00",
+      "license_id": "CC-BY-4.0",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "modified": "2020-09-16T16:56:15.990204",
+      "name": "Calles habilitadas para la instalación de decks (GEOJSON)",
+      "package_id": "e51086fe-93e0-479e-b4e1-3af9fa09150a",
+      "position": 3,
+      "resource_type": "file",
+      "revision_id": "697c081f-129a-48f6-971f-b5d72aafe19b",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/transporte/calzada-gastronomica/decks_permitidos_WGS84.geojson",
+      "url_type": null
+    }
+  ],
+  "revision_id": "cb235531-a872-4ac5-a54d-7c50800dfaa7",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "COVID-19",
+      "id": "931486a5-526e-433d-a642-4768937b65d8",
+      "name": "COVID-19",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Calzada",
+      "id": "72627ba9-bb90-4acc-ac81-9d3cf7dde31c",
+      "name": "Calzada",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Decks",
+      "id": "a2a147a3-153b-4181-9eef-7158fd8fd58c",
+      "name": "Decks",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Espacio urbano",
+      "id": "a7dcdfa3-69be-4717-8e2e-91f795f6b912",
+      "name": "Espacio urbano",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Mapa",
+      "id": "f7c0b4a9-83ce-4fe0-9c85-e0f38210a028",
+      "name": "Mapa",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Salud",
+      "id": "4de737c8-2161-44c3-90c0-ce0646f3428c",
+      "name": "Salud",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Transporte",
+      "id": "ece8d065-c246-4c17-8ffb-c00c3233595e",
+      "name": "Transporte",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "coronavirus",
+      "id": "efeebfc4-0eaf-47bc-9d00-435b9c600fa1",
+      "name": "coronavirus",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Expansión de calzada gastronómica (decks)",
+  "type": "dataset",
+  "url": "https://data.buenosaires.gob.ar/dataset/calzada-gastronomica",
+  "version": null
+}

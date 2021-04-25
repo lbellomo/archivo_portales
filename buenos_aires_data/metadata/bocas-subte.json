@@ -1,0 +1,242 @@
+{
+  "author": "Subterráneos de Buenos Aires (SBASE). Secretaría de Transporte y Obras Públicas. Jefatura de Gabinete de Ministros",
+  "author_email": "gobiernoabierto@buenosaires.gob.ar",
+  "creator_user_id": "e4546f46-e966-493c-b2f1-57318502c41b",
+  "extras": [
+    {
+      "key": "Documentación",
+      "value": ""
+    },
+    {
+      "key": "accrualPeriodicity",
+      "value": "eventual"
+    },
+    {
+      "key": "country",
+      "value": "None"
+    },
+    {
+      "key": "district",
+      "value": ""
+    },
+    {
+      "key": "home_featured",
+      "value": "false"
+    },
+    {
+      "key": "issued",
+      "value": "2019-09-13T16:55:08.973726"
+    },
+    {
+      "key": "language",
+      "value": "[]"
+    },
+    {
+      "key": "modified",
+      "value": "2020-12-04T14:01:45.325092"
+    },
+    {
+      "key": "province",
+      "value": ""
+    },
+    {
+      "key": "source",
+      "value": "Subterráneos de Buenos Aires (SBASE). Secretaría de Transporte y Obras Públicas. Jefatura de Gabinete de Ministros"
+    },
+    {
+      "key": "spatial",
+      "value": "None"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"REGI\",\"TRAN\"]"
+    },
+    {
+      "key": "temporal",
+      "value": ""
+    }
+  ],
+  "groups": [
+    {
+      "description": "",
+      "display_name": "Movilidad",
+      "id": "e616e02e-64d8-4fb0-b55d-08e75eb58376",
+      "image_display_url": "https://data.buenosaires.gob.ar/uploads/group/2019-11-16-145017.234366movilidad.png",
+      "name": "movilidad",
+      "title": "Movilidad"
+    },
+    {
+      "description": "Datasets relacionados con urbanismo y territorio",
+      "display_name": "Urbanismo y Territorio",
+      "id": "63e162a0-3f4a-446a-a60b-601d16f36200",
+      "image_display_url": "https://data.buenosaires.gob.ar/uploads/group/2019-11-16-145056.781692urba.png",
+      "name": "urbanismo-y-territorio",
+      "title": "Urbanismo y Territorio"
+    }
+  ],
+  "id": "95d90f6f-7fbd-4c12-90ae-e1220182b266",
+  "isopen": true,
+  "license_id": "CC-BY-2.5-AR",
+  "license_title": "Atribucion 2.5 Argentina (CC BY 2.5 AR)",
+  "license_url": "https://creativecommons.org/licenses/by/2.5/ar ",
+  "maintainer": "Subgerencia de Información Geoespacial. DG Ciencias de la Información. SS de Políticas Públicas Basadas en Evidencia. Secretaría de Innovación y Transformación Digital. Jefatura de Gabinete de Ministros",
+  "maintainer_email": "gobiernoabierto@buenosaires.gob.ar",
+  "metadata_created": "2019-12-11T18:18:54.171943",
+  "metadata_modified": "2020-12-17T15:34:35.964583",
+  "name": "bocas-subte",
+  "notes": "Localización de las bocas de acceso/salida al servicio de transporte Subterráneo de la Ciudad.",
+  "num_resources": 4,
+  "num_tags": 4,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-11-15T19:15:41.099199",
+    "description": "",
+    "id": "09f7efa5-e672-4313-948b-be911c134ad2",
+    "image_url": "",
+    "is_organization": true,
+    "name": "sbase",
+    "revision_id": "0e38cc92-c17c-4e05-8358-188341f4c3fc",
+    "state": "active",
+    "title": "Subterráneos de Buenos Aires (SBASE)",
+    "type": "organization"
+  },
+  "owner_org": "09f7efa5-e672-4313-948b-be911c134ad2",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/95d90f6f-7fbd-4c12-90ae-e1220182b266/resource/c9b9628b-6ca5-4867-bf9d-ad11997f951f",
+      "attributesDescription": "[{\"title\": \"id\", \"type\": \"integer\", \"description\": \"ID \\u00fanico de cada registro\"}, {\"title\": \"linea\", \"type\": \"string\", \"description\": \"L\\u00ednea a la que pertenece la boca de subte\"}, {\"title\": \"estacion\", \"type\": \"string\", \"description\": \"Estaci\\u00f3n a la que la boca sirve\"}, {\"title\": \"numero_de_\", \"type\": \"integer\", \"description\": \"N\\u00famero de boca\"}, {\"title\": \"destino_bo\", \"type\": \"string\", \"description\": \"Destino final de la l\\u00ednea\"}, {\"title\": \"lineas_de_\", \"type\": \"string\", \"description\": \"L\\u00edneas de combinaci\\u00f3n en dicha estaci\\u00f3n\"}, {\"title\": \"cierra_fin\", \"type\": \"boolean\", \"description\": \"Indica si la boca permanece cerrada el fin de semana\"}, {\"title\": \"escalera_p\", \"type\": \"boolean\", \"description\": \"Indica si la boca posee escalera pedrestre\"}, {\"title\": \"escalera_m\", \"type\": \"boolean\", \"description\": \"Indica si la boca posee escalera mec\\u00e1nica\"}, {\"title\": \"ascensor\", \"type\": \"boolean\", \"description\": \"Indica si posee ascensor dentro de la estaci\\u00f3n\"}, {\"title\": \"rampa\", \"type\": \"boolean\", \"description\": \"Indica la presencia de rampa dentro de la estaci\\u00f3n\"}, {\"title\": \"salvaescal\", \"type\": \"boolean\", \"description\": \"Indica si posee salvaescalera\"}, {\"title\": \"calle\", \"type\": \"string\", \"description\": \"Calle en la que se ubica la boca\"}, {\"title\": \"altura\", \"type\": \"integer\", \"description\": \"Altura de calle donde se ubica la boca\"}, {\"title\": \"calle2\", \"type\": \"string\", \"description\": \"Cruce de calle en la que se ubica la boca\"}, {\"title\": \"barrio\", \"type\": \"string\", \"description\": \"Barrio donde se localiza la boca de subte\"}, {\"title\": \"comuna\", \"type\": \"string\", \"description\": \"Comuna d\\u00f3nde se localiza la boca de subte\"}, {\"title\": \"observacio\", \"type\": \"string\", \"description\": \"Observaciones\"}, {\"title\": \"objeto\", \"type\": \"string\", \"description\": \"Tipo de elemento mapeado\"}, {\"title\": \"dom_norma\", \"type\": \"string\", \"description\": \"Domicilio normalizado\"}, {\"title\": \"dom_orig\", \"type\": \"string\", \"description\": \"Domicilio original de la base\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-09-13T17:06:07.711481",
+      "datastore_active": false,
+      "description": "Localización de las bocas de subte. Incluye línea, destino e información de accesibilidad.",
+      "fileName": "bocas-de-subte.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "c9b9628b-6ca5-4867-bf9d-ad11997f951f",
+      "last_modified": "2019-09-13T17:06:07.711481",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Bocas de Subte",
+      "package_id": "95d90f6f-7fbd-4c12-90ae-e1220182b266",
+      "position": 0,
+      "resource_type": "file",
+      "revision_id": "1f262c3e-b31d-45a5-b1fa-1d8c26596547",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/bocas-de-subte/bocas-de-subte.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/95d90f6f-7fbd-4c12-90ae-e1220182b266/resource/a9b4fff1-b812-4b2d-9d6e-e66210656fab",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-09-13T17:11:43.917354",
+      "datastore_active": false,
+      "description": "Archivo shapefile correspondiente a las bocas del subte.",
+      "fileName": "bocas-de-subte.zip",
+      "format": "ZIP",
+      "hash": "",
+      "id": "a9b4fff1-b812-4b2d-9d6e-e66210656fab",
+      "last_modified": "2019-09-13T17:11:43.917354",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Bocas de Subte (SHP)",
+      "package_id": "95d90f6f-7fbd-4c12-90ae-e1220182b266",
+      "position": 1,
+      "resource_type": "file",
+      "revision_id": "34537bd1-b371-4199-831d-90a084e7c823",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/bocas-de-subte/bocas-de-subte.zip",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/95d90f6f-7fbd-4c12-90ae-e1220182b266/resource/d09c7b4a-97d3-4e36-8684-8b3a7c240a58",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-09-13T17:10:27.596635",
+      "datastore_active": false,
+      "description": "Archivo GeoJSON de las Bocas de Subte",
+      "fileName": "bocas-de-subte.geojson",
+      "format": "GeoJSON",
+      "hash": "",
+      "id": "d09c7b4a-97d3-4e36-8684-8b3a7c240a58",
+      "last_modified": "2019-09-13T17:10:27.596635",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Bocas de Subte (GeoJSON)",
+      "package_id": "95d90f6f-7fbd-4c12-90ae-e1220182b266",
+      "position": 2,
+      "resource_type": "file",
+      "revision_id": "9c09c001-b43a-464a-b9b3-351b1f1c1e48",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/bocas-de-subte/bocas-de-subte.geojson",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/95d90f6f-7fbd-4c12-90ae-e1220182b266/resource/c9b9628b-6ca5-4867-bf9d-ad11997f951f",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-09-13T17:06:07.711481",
+      "datastore_active": false,
+      "description": "Localización de las bocas de subte. Incluye línea, destino e información de accesibilidad.",
+      "fileName": "bocas-de-subte.xlsx",
+      "format": "XLSX",
+      "hash": "",
+      "id": "c9b9628b-6ca5-4867-bf9d-ad11997f951f-xlsx",
+      "last_modified": "2019-09-13T17:06:07.711481",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Bocas de Subte (XLSX)",
+      "package_id": "95d90f6f-7fbd-4c12-90ae-e1220182b266",
+      "position": 3,
+      "resource_type": "file",
+      "revision_id": "708531a4-ef13-4aa1-a5cb-16b202ee5b73",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/bocas-de-subte/bocas-de-subte.xlsx",
+      "url_type": null
+    }
+  ],
+  "revision_id": "d6fe94c0-ad02-41cd-b221-e55b45570fd8",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "bocas",
+      "id": "af3d2a55-3902-4502-adc8-686fed8a6833",
+      "name": "bocas",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "señalización",
+      "id": "6c9e5874-534a-45c3-b865-5285ee37dbeb",
+      "name": "señalización",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "subtes",
+      "id": "8a908ca9-109d-47f4-8b80-322fad24dc49",
+      "name": "subtes",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "transporte",
+      "id": "aff133f8-2f33-4d2c-a531-6d632bd4efbb",
+      "name": "transporte",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Bocas de Subte",
+  "type": "dataset",
+  "url": "https://data.buenosaires.gob.ar/dataset/bocas-de-subte",
+  "version": null
+}

@@ -1,0 +1,188 @@
+{
+  "author": "Secretaría de Transporte y Obras Públicas. Jefatura de Gabinete de Ministros",
+  "author_email": "",
+  "creator_user_id": "931fac92-738f-4472-b1c1-f5c2f6e46af3",
+  "extras": [
+    {
+      "key": "Documentación",
+      "value": ""
+    },
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P1Y"
+    },
+    {
+      "key": "country",
+      "value": "ARG"
+    },
+    {
+      "key": "district",
+      "value": ""
+    },
+    {
+      "key": "home_featured",
+      "value": "false"
+    },
+    {
+      "key": "issued",
+      "value": "2020-12-14T16:00:55.891617"
+    },
+    {
+      "key": "language",
+      "value": "[\"spa\"]"
+    },
+    {
+      "key": "modified",
+      "value": "2020-12-14"
+    },
+    {
+      "key": "province",
+      "value": ""
+    },
+    {
+      "key": "source",
+      "value": "Secretaría de Transporte y Obras Públicas. Jefatura de Gabinete de Ministros"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"TRAN\"]"
+    },
+    {
+      "key": "temporal",
+      "value": ""
+    }
+  ],
+  "groups": [
+    {
+      "description": "",
+      "display_name": "Movilidad",
+      "id": "e616e02e-64d8-4fb0-b55d-08e75eb58376",
+      "image_display_url": "https://data.buenosaires.gob.ar/uploads/group/2019-11-16-145017.234366movilidad.png",
+      "name": "movilidad",
+      "title": "Movilidad"
+    }
+  ],
+  "id": "e4c3d996-ed71-4f7f-b494-41853ba4e060",
+  "isopen": true,
+  "license_id": "CC-BY-4.0",
+  "license_title": "Creative Commons Attribution 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "maintainer": "GOID",
+  "maintainer_email": "",
+  "metadata_created": "2020-12-14T19:00:47.900906",
+  "metadata_modified": "2020-12-15T14:23:23.862892",
+  "name": "conteo-de-viajes-en-bicicleta-por-la-ciudad",
+  "notes": "Información estimada sobre la cantidad de viajes diarios y anuales en bicicleta, a partir de los operativos realizados por el Gobierno.",
+  "num_resources": 2,
+  "num_tags": 3,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-11-15T19:19:49.916928",
+    "description": "",
+    "id": "56b60b46-a47c-48fb-9bd4-c2ad0e05fef2",
+    "image_url": "",
+    "is_organization": true,
+    "name": "transporte-y-obras-publicas",
+    "revision_id": "c33c86a3-e197-468f-8b66-5b943b3bf106",
+    "state": "active",
+    "title": "Secretaría de Transporte y Obras Públicas",
+    "type": "organization"
+  },
+  "owner_org": "56b60b46-a47c-48fb-9bd4-c2ad0e05fef2",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "",
+      "accessURL_field": "",
+      "attributesDescription": "[{\"title\":\"Año\",\"description\":\"Año del relevamiento\",\"type\":\"integer\"},{\"title\":\"VIAJES DIARIOS\",\"description\":\"Sumatoria de viajes diarios en bicicleta un \\\"día hábil laboral escolar y sin lluvias\\\" relevados en distintos tramos de la Ciudad\",\"type\":\"integer\"},{\"title\":\"VIAJES ANUALES\",\"description\":\"La conversión a viajes anuales es resultado de multiplicar los diarios por 300, según recomendación de la ITF (Federación Internacional de Transporte)\",\"type\":\"integer\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2020-12-14T19:10:56.740588",
+      "datastore_active": false,
+      "description": "Estimación de los viajes en bicicleta en la Ciudad. ",
+      "fileName": "",
+      "format": "CSV",
+      "has-uploaded-file": "",
+      "hash": "",
+      "icon_url": "",
+      "id": "459d07f7-7be7-4bee-8cc2-98f498a4b54a",
+      "issued": "2020-12-14T19:10:56.740588",
+      "last_modified": "2020-12-14T00:00:00",
+      "license_id": "CC-BY-4.0",
+      "mimetype": "text/csv",
+      "mimetype_inner": null,
+      "modified": "2020-12-15T11:22:33.440253",
+      "name": "Estimación de viajes en bicicleta por día y por año. Desde 2013",
+      "package_id": "e4c3d996-ed71-4f7f-b494-41853ba4e060",
+      "position": 0,
+      "resource_type": "file",
+      "revision_id": "b53abadb-7575-4539-8d02-58030053968c",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/transporte/conteo-de-viajes-en-bicicleta-por-la-ciudad/Conteo cicilistas - GCBA .csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "",
+      "accessURL_field": "",
+      "attributesDescription": "[{\"title\":\"Año\",\"description\":\"Año del relevamiento\",\"type\":\"integer\"},{\"title\":\"VIAJES DIARIOS\",\"description\":\"Sumatoria de viajes diarios en bicicleta un \\\"día hábil laboral escolar y sin lluvias\\\" relevados en distintos tramos de la Ciudad\",\"type\":\"integer\"},{\"title\":\"VIAJES ANUALES\",\"description\":\"La conversión a viajes anuales es resultado de multiplicar los diarios por 300, según recomendación de la ITF (Federación Internacional de Transporte)\",\"type\":\"integer\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2020-12-14T19:35:55.741857",
+      "datastore_active": false,
+      "description": "Estimación de los viajes en bicicleta en la Ciudad.",
+      "fileName": "",
+      "format": "XLSX",
+      "has-uploaded-file": "",
+      "hash": "",
+      "icon_url": "",
+      "id": "a9b66553-377e-4c2e-863b-69bf77d8a399",
+      "issued": "2020-12-14T19:35:55.741857",
+      "last_modified": "2020-12-14T00:00:00",
+      "license_id": "CC-BY-4.0",
+      "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "mimetype_inner": null,
+      "modified": "2020-12-15T11:23:23.841730",
+      "name": "Estimación de viajes en bicicleta por día y por año. Desde 2013 (XLSX)",
+      "package_id": "e4c3d996-ed71-4f7f-b494-41853ba4e060",
+      "position": 1,
+      "resource_type": "file",
+      "revision_id": "867b4e4a-905b-460c-8b27-1597cb1da87c",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/transporte/conteo-de-viajes-en-bicicleta-por-la-ciudad/Conteo-cicilistas.xlsx",
+      "url_type": null
+    }
+  ],
+  "revision_id": "204dda13-f161-46c1-9087-f812367ac2d8",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "atención ciudadana",
+      "id": "a388b3ac-b414-46b9-9946-8547a935c9be",
+      "name": "atención ciudadana",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "bicicleta",
+      "id": "26971a51-59f9-493a-aa7b-cc1042dd0e70",
+      "name": "bicicleta",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "viajes",
+      "id": "659408af-c525-460d-9fa4-f43324d02ffd",
+      "name": "viajes",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Conteo de viajes en bicicleta por la Ciudad",
+  "type": "dataset",
+  "url": "https://data.buenosaires.gob.ar/dataset/conteo-de-viajes-en-bicicleta-por-la-ciudad",
+  "version": null
+}

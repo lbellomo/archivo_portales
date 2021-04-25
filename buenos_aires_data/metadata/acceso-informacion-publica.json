@@ -1,0 +1,185 @@
+{
+  "author": "Ministerio de Gobierno. SS de Reforma Política. DG Seguimiento de Organismos de Control y Acceso a la Información",
+  "author_email": "datosabiertos@buenosaires.gob.ar",
+  "creator_user_id": "e4546f46-e966-493c-b2f1-57318502c41b",
+  "extras": [
+    {
+      "key": "Documentación",
+      "value": ""
+    },
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P3M"
+    },
+    {
+      "key": "country",
+      "value": "None"
+    },
+    {
+      "key": "district",
+      "value": ""
+    },
+    {
+      "key": "home_featured",
+      "value": "false"
+    },
+    {
+      "key": "issued",
+      "value": "2019-11-16T14:12:34.356977"
+    },
+    {
+      "key": "language",
+      "value": "[]"
+    },
+    {
+      "key": "modified",
+      "value": "2021-03-05"
+    },
+    {
+      "key": "province",
+      "value": ""
+    },
+    {
+      "key": "source",
+      "value": "Ministerio de Gobierno. SS de Reforma Política. DG Seguimiento de Organismos de Control y Acceso a la Información"
+    },
+    {
+      "key": "spatial",
+      "value": "None"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"GOVE\"]"
+    },
+    {
+      "key": "temporal",
+      "value": ""
+    }
+  ],
+  "groups": [
+    {
+      "description": "",
+      "display_name": "Administración Pública",
+      "id": "8cb134a8-90ea-4e69-a96d-c03449917dc9",
+      "image_display_url": "https://data.buenosaires.gob.ar/uploads/group/2019-11-16-144810.360383adminpublica.png",
+      "name": "administracion-publica",
+      "title": "Administración Pública"
+    }
+  ],
+  "id": "juqdkmgo-1",
+  "isopen": true,
+  "license_id": "CC-BY-2.5-AR",
+  "license_title": "Atribucion 2.5 Argentina (CC BY 2.5 AR)",
+  "license_url": "https://creativecommons.org/licenses/by/2.5/ar ",
+  "maintainer": "Secretaría General y Relaciones Internacionales. Subsecretaría Gestión Estratégica y Calidad Institucional. Dirección General Calidad Institucional y Gobierno Abierto",
+  "maintainer_email": "datosabiertos@buenosaires.gob.ar",
+  "metadata_created": "2019-12-11T18:28:50.244648",
+  "metadata_modified": "2021-03-10T17:01:21.207297",
+  "name": "acceso-informacion-publica",
+  "notes": "Pedidos de acceso a la información púbica solicitados al Gobierno de la Ciudad conforme a la Ley 104.\r\n\r\nNota: En la variable ministerio se incluían anterioremente todos los fuera de nivel del GCBA, tengan o no rango ministerial. A partir de Julio de 2017 se modificó el criterio de carga, incluyendo solamente los ministerios propiamente dichos y las reparticiones que son fuera de nivel con rango ministerial. Desde el segundo semestre del 2017 se cuenta con la información de tiempo de respuesta. ",
+  "num_resources": 2,
+  "num_tags": 2,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-11-15T19:18:05.034032",
+    "description": "",
+    "id": "d5fcd0f4-b12b-464b-b41f-2b47de9848a6",
+    "image_url": "",
+    "is_organization": true,
+    "name": "ministerio-de-gobierno",
+    "revision_id": "ce729574-7d1e-4984-8eae-c36169571556",
+    "state": "active",
+    "title": "Ministerio de Gobierno",
+    "type": "organization"
+  },
+  "owner_org": "d5fcd0f4-b12b-464b-b41f-2b47de9848a6",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/acceso-a-la-informacion-publica",
+      "accessURL_field": "",
+      "attributesDescription": "[{\"title\":\"periodo\",\"description\":\"Periodo en el que se realiza el pedido sobre la información\",\"type\":\"integer\"},{\"title\":\"Id_solicitante\",\"description\":\"Número de identificación del solicitante de información\",\"type\":\"integer\"},{\"title\":\"tipo_solicitante\",\"description\":\"Categorización del solicitante que realizó el pedido\",\"type\":\"string\"},{\"title\":\"expediente\",\"description\":\"Número de expediente asignado\",\"type\":\"integer\"},{\"title\":\"dependencia\",\"description\":\"Dependencia de ingreso del pedido de información\",\"type\":\"string\"},{\"title\":\"fecha\",\"description\":\"Fecha de ingreso del pedido de información\",\"type\":\"date\"},{\"title\":\"tema\",\"description\":\"Descripción del pedido\",\"type\":\"string\"},{\"title\":\"categoria_tema\",\"description\":\"Categorización del tipo de pedido de información\",\"type\":\"string\"},{\"title\":\"categoria_tema_especifico\",\"description\":\"categorización más detallada del tipo de pedido de información\",\"type\":\"string\"},{\"title\":\"dependencia_ministerio\",\"description\":\"Dependencia ministerial corresponde el pedido de información\",\"type\":\"string\"},{\"title\":\"ministerio\",\"description\":\"Ministerio al cual corresponde el pedido de información\",\"type\":\"string\"},{\"title\":\"vencimiento_1\",\"description\":\"Fecha del vencimiento del reclamo de la información\",\"type\":\"date\"},{\"title\":\"vencimiento_2\",\"description\":\"Fecha del vencimiento con prórroga del reclamo de la información\",\"type\":\"date\"},{\"title\":\"prorroga\",\"description\":\"Fecha de prórroga de la entrega de la información solicitada\",\"type\":\"string\"},{\"title\":\"estado\",\"description\":\"Estado del tramite de pedido de información\",\"type\":\"string\"},{\"title\":\"termino\",\"description\":\"Termino en el cual fue entregada la información\",\"type\":\"string\"},{\"title\":\"fecha_respuesta\",\"description\":\"Fecha de entrega de la respuesta al pedido de información\",\"type\":\"date\"},{\"title\":\"observaciones\",\"description\":\"Observaciones\",\"type\":\"string\"},{\"title\":\"calidad_respuesta\",\"description\":\"categorización de la respuesta brindada al solicitante\",\"type\":\"string\"},{\"title\":\"contenido_respuesta\",\"description\":\"resumen de la respuesta brindada al solicitante\",\"type\":\"string\"},{\"title\":\"tiempo_de_respuesta\",\"description\":\"cantidad de días corridos desde que ingresa la solicitud\\nhasta que se responde\",\"type\":\"integer\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-05-21T12:16:07.129943",
+      "datastore_active": false,
+      "description": "Pedidos de acceso a la información pública solicitados durante los años 2013-2020. Tema, fecha, dependencia y estado de la solicitud. ",
+      "fileName": "",
+      "format": "CSV",
+      "has-uploaded-file": "",
+      "hash": "",
+      "icon_url": "",
+      "id": "juqdkmgo-11-resource",
+      "issued": "2019-05-21T12:16:07.129943",
+      "last_modified": "2019-05-21T12:16:07.129943",
+      "license_id": "CC-BY-4.0",
+      "mimetype": "text/csv",
+      "mimetype_inner": null,
+      "modified": "2021-03-10T14:01:06.960089",
+      "name": "Acceso a la Información Pública",
+      "package_id": "juqdkmgo-1",
+      "position": 0,
+      "resource_type": "file",
+      "revision_id": "4b8d9b7a-4861-4f13-b24f-e634b5ea5ee0",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/ministerio-de-gobierno/acceso-informacion-publica/Dataset_1erSemestre.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/acceso-a-la-informacion-publica",
+      "accessURL_field": "",
+      "attributesDescription": "[]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-05-21T12:16:07.129943",
+      "datastore_active": false,
+      "description": "Pedidos de acceso a la información pública solicitados durante los años 2013-2020. Tema, fecha, dependencia y estado de la solicitud. ",
+      "fileName": "",
+      "format": "XLSX",
+      "has-uploaded-file": "",
+      "hash": "",
+      "icon_url": "",
+      "id": "juqdkmgo-11-resource-xlsx",
+      "issued": "2019-05-21T12:16:07.129943",
+      "last_modified": "2019-05-21T12:16:07.129943",
+      "license_id": "CC-BY-4.0",
+      "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "mimetype_inner": null,
+      "modified": "2021-03-10T14:01:21.122839",
+      "name": "Acceso a la Información Pública (XLSX)",
+      "package_id": "juqdkmgo-1",
+      "position": 1,
+      "resource_type": "file",
+      "revision_id": "fba87b1f-7f44-410d-ad01-617dc624f4ff",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/ministerio-de-gobierno/acceso-informacion-publica/Dataset_1erSemestre.xlsx",
+      "url_type": null
+    }
+  ],
+  "revision_id": "858bb387-a852-4133-83a7-c4d0d3b7c3e6",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "normas",
+      "id": "09c4a5c0-b318-4c9c-85aa-3e21568113b3",
+      "name": "normas",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "transparencia",
+      "id": "c76a2fc9-7271-4068-ab0e-27c83cab96e1",
+      "name": "transparencia",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Acceso a la Información Pública",
+  "type": "dataset",
+  "url": "https://data.buenosaires.gob.ar/dataset/acceso-informacion-publica",
+  "version": null
+}

@@ -1,0 +1,258 @@
+{
+  "author": "Ministerio de Desarrollo Humano y Hábitat. Prensa y Comunicación",
+  "author_email": "gobiernoabierto@buenosaires.gob.ar",
+  "creator_user_id": "e4546f46-e966-493c-b2f1-57318502c41b",
+  "extras": [
+    {
+      "key": "Documentación",
+      "value": ""
+    },
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P1Y"
+    },
+    {
+      "key": "country",
+      "value": "None"
+    },
+    {
+      "key": "district",
+      "value": ""
+    },
+    {
+      "key": "home_featured",
+      "value": "false"
+    },
+    {
+      "key": "issued",
+      "value": "2019-01-08T14:57:23.520290"
+    },
+    {
+      "key": "language",
+      "value": "[]"
+    },
+    {
+      "key": "modified",
+      "value": "2020-01-31T15:04:52.782775"
+    },
+    {
+      "key": "province",
+      "value": ""
+    },
+    {
+      "key": "source",
+      "value": "Ministerio de Desarrollo Humano y Hábitat. Prensa y Comunicación"
+    },
+    {
+      "key": "spatial",
+      "value": "None"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"SOCI\"]"
+    },
+    {
+      "key": "temporal",
+      "value": ""
+    }
+  ],
+  "groups": [
+    {
+      "description": "",
+      "display_name": "Administración Pública",
+      "id": "8cb134a8-90ea-4e69-a96d-c03449917dc9",
+      "image_display_url": "https://data.buenosaires.gob.ar/uploads/group/2019-11-16-144810.360383adminpublica.png",
+      "name": "administracion-publica",
+      "title": "Administración Pública"
+    },
+    {
+      "description": "Datos abiertos relacionados al Desarrollo Humano",
+      "display_name": "Desarrollo Humano",
+      "id": "9d791ab5-130b-4bdb-bebf-b14cf2528781",
+      "image_display_url": "https://data.buenosaires.gob.ar/uploads/group/2020-01-31-175946.842561desarrollo-humano.png",
+      "name": "desarrollo-humano",
+      "title": "Desarrollo Humano"
+    }
+  ],
+  "id": "juqdkmgo-118",
+  "isopen": true,
+  "license_id": "CC-BY-2.5-AR",
+  "license_title": "Atribucion 2.5 Argentina (CC BY 2.5 AR)",
+  "license_url": "https://creativecommons.org/licenses/by/2.5/ar ",
+  "maintainer": "Secretaría General y Relaciones Internacionales. Subsecretaría Gestión Estratégica y Calidad Institucional. Dirección General Calidad Institucional y Gobierno Abierto",
+  "maintainer_email": "gobiernoabierto@buenosaires.gob.ar",
+  "metadata_created": "2019-12-11T18:12:00.074947",
+  "metadata_modified": "2020-12-17T16:27:59.808688",
+  "name": "hogares-paradores",
+  "notes": "Información y ubicación geográfica de los hogares de tránsito, paradores nocturnos y hogares para personas con necesidades especiales que se encuentran en situación de calle.",
+  "num_resources": 5,
+  "num_tags": 3,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-11-15T19:18:53.945883",
+    "description": "",
+    "id": "34394b51-682c-472d-8428-7491610d5c06",
+    "image_url": "",
+    "is_organization": true,
+    "name": "ministerio-de-desarrollo-humano-y-habitat",
+    "revision_id": "19f3f41b-56e8-4dc5-a760-eb39818806b2",
+    "state": "active",
+    "title": "Ministerio de Desarrollo Humano y Hábitat",
+    "type": "organization"
+  },
+  "owner_org": "34394b51-682c-472d-8428-7491610d5c06",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/hogares-y-paradores",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-01-08T14:57:23.520290",
+      "datastore_active": false,
+      "description": "Ubicación de los hogares de tránsito, paradores nocturnos y hogares para personas con necesidades especiales que se encuentran en situación de calle.",
+      "fileName": "hogares-y-paradores.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "juqdkmgo-1181-resource",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Hogares y Paradores",
+      "package_id": "juqdkmgo-118",
+      "position": 0,
+      "resource_type": "file",
+      "revision_id": "54d3041c-149a-4f84-88b8-c612d53afddd",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/hogares-y-paradores/hogares-y-paradores.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/hogares-y-paradores",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-01-08T14:57:23.520290",
+      "datastore_active": false,
+      "description": "Archivo shapefile con los hogares y paradores de la Ciudad.",
+      "fileName": "hogares-y-paradores-zip.zip",
+      "format": "ZIP",
+      "hash": "",
+      "id": "juqdkmgo-1182-resource",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Hogares y Paradores (SHP)",
+      "package_id": "juqdkmgo-118",
+      "position": 1,
+      "resource_type": "file",
+      "revision_id": "ed946441-4d3b-49a9-96d4-9d68d8d7cbd7",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/hogares-y-paradores/hogares-y-paradores-zip.zip",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/hogares-y-paradores",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-01-08T14:57:23.520290",
+      "datastore_active": false,
+      "description": "Cantidad de personas alojadas en hogares y paradores en establecimientos del GCBA. No se tiene en cuenta la cantidad de veces que concurrieron en el mes. No incluye establecimientos de Operativo Frío",
+      "fileName": "personas-alojadas-en-hogares-y-paradores.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "juqdkmgo-1183-resource",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Personas alojadas en hogares y paradores",
+      "package_id": "juqdkmgo-118",
+      "position": 2,
+      "resource_type": "file",
+      "revision_id": "4a452d8f-f541-40a2-8dcf-fb3c86672ded",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/hogares-y-paradores/personas-alojadas-en-hogares-y-paradores.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/hogares-y-paradores",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-01-08T14:57:23.520290",
+      "datastore_active": false,
+      "description": "Ubicación de los hogares de tránsito, paradores nocturnos y hogares para personas con necesidades especiales que se encuentran en situación de calle.",
+      "fileName": "hogares-y-paradores.xlsx",
+      "format": "XLSX",
+      "hash": "",
+      "id": "juqdkmgo-1181-resource-xlsx",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Hogares y Paradores (XLSX)",
+      "package_id": "juqdkmgo-118",
+      "position": 3,
+      "resource_type": "file",
+      "revision_id": "962f7778-69d9-457e-85d7-7255b9490920",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/hogares-y-paradores/hogares-y-paradores.xlsx",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/hogares-y-paradores",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-01-08T14:57:23.520290",
+      "datastore_active": false,
+      "description": "Cantidad de personas alojadas en hogares y paradores en establecimientos del GCBA. No se tiene en cuenta la cantidad de veces que concurrieron en el mes. No incluye establecimientos de Operativo Frío",
+      "fileName": "personas-alojadas-en-hogares-y-paradores.xlsx",
+      "format": "XLSX",
+      "hash": "",
+      "id": "juqdkmgo-1183-resource-xlsx",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Personas alojadas en hogares y paradores (XLSX)",
+      "package_id": "juqdkmgo-118",
+      "position": 4,
+      "resource_type": "file",
+      "revision_id": "9adf2079-d950-4d85-806e-69f3b6386d76",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/hogares-y-paradores/personas-alojadas-en-hogares-y-paradores.xlsx",
+      "url_type": null
+    }
+  ],
+  "revision_id": "3efaa439-8a5a-4ed4-bd2c-bb26f0482e93",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "hogares-tránsito",
+      "id": "00a6a5e1-1a73-4948-9ec8-ed0da8fcc97a",
+      "name": "hogares-tránsito",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "paradores",
+      "id": "8ebf4b16-9806-4f82-afc9-0dd1b8172974",
+      "name": "paradores",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "situación-calle",
+      "id": "7bf85a31-b3ff-4ba2-bfb0-433271595391",
+      "name": "situación-calle",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Hogares y Paradores",
+  "type": "dataset",
+  "url": "https://data.buenosaires.gob.ar/dataset/hogares-y-paradores",
+  "version": null
+}

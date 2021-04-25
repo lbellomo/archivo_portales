@@ -1,0 +1,249 @@
+{
+  "author": "Ministerio de Justicia y Seguridad. Agencia Gubernamental de Control (AGC)",
+  "author_email": "datosabiertos@buenosaires.gob.ar",
+  "creator_user_id": "e4546f46-e966-493c-b2f1-57318502c41b",
+  "extras": [
+    {
+      "key": "Documentación",
+      "value": ""
+    },
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P1M"
+    },
+    {
+      "key": "country",
+      "value": "None"
+    },
+    {
+      "key": "district",
+      "value": ""
+    },
+    {
+      "key": "home_featured",
+      "value": "false"
+    },
+    {
+      "key": "issued",
+      "value": "2019-06-11T15:14:32.171327"
+    },
+    {
+      "key": "language",
+      "value": "[]"
+    },
+    {
+      "key": "modified",
+      "value": "2021-03-05T11:42:28.022980"
+    },
+    {
+      "key": "province",
+      "value": ""
+    },
+    {
+      "key": "source",
+      "value": "Ministerio de Justicia y Seguridad. Agencia Gubernamental de Control (AGC)"
+    },
+    {
+      "key": "spatial",
+      "value": "None"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"REGI\"]"
+    },
+    {
+      "key": "temporal",
+      "value": ""
+    }
+  ],
+  "groups": [
+    {
+      "description": "",
+      "display_name": "Seguridad",
+      "id": "b656bb3f-230a-414f-acce-19d0d98e01df",
+      "image_display_url": "https://data.buenosaires.gob.ar/uploads/group/2019-11-16-145044.366204segu.png",
+      "name": "seguridad",
+      "title": "Seguridad"
+    }
+  ],
+  "id": "6204ce6b-bf37-4dd3-8565-060eff70e4aa",
+  "isopen": true,
+  "license_id": "CC-BY-2.5-AR",
+  "license_title": "Atribucion 2.5 Argentina (CC BY 2.5 AR)",
+  "license_url": "https://creativecommons.org/licenses/by/2.5/ar ",
+  "maintainer": "Secretaría General y Relaciones Internacionales. Subsecretaría Gestión Estratégica y Calidad Institucional. Dirección General Calidad Institucional y Gobierno Abierto",
+  "maintainer_email": "datosabiertos@buenosaires.gob.ar",
+  "metadata_created": "2019-12-11T18:31:08.541944",
+  "metadata_modified": "2021-03-05T14:42:28.035018",
+  "name": "registro-elevadores-artefactos-termicos",
+  "notes": "Información correspondiente a la ubicación, estado y profesional certificante de elevadores y artefactos térmicos de la Ciudad de Buenos Aires",
+  "num_resources": 4,
+  "num_tags": 6,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-11-15T19:17:36.258403",
+    "description": "",
+    "id": "913c691c-9cdc-42ea-a23b-ea8fc4845fac",
+    "image_url": "",
+    "is_organization": true,
+    "name": "agencia-gubernamental-de-control",
+    "revision_id": "d82ae964-d602-4eba-acd7-3cc67d1b741b",
+    "state": "active",
+    "title": "Agencia Gubernamental de Control (AGC)",
+    "type": "organization"
+  },
+  "owner_org": "913c691c-9cdc-42ea-a23b-ea8fc4845fac",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/6204ce6b-bf37-4dd3-8565-060eff70e4aa/resource/07dddbb5-5c8b-460e-b8ff-c7e099d16cf9",
+      "attributesDescription": "[{\"title\": \"periodo\", \"type\": \"string\", \"description\": \"Mes y a\\u00f1o del registro\"}, {\"title\": \"patente\", \"type\": \"integer\", \"description\": \"N\\u00ba \\u00fanico para el medio de elevaci\\u00f3n o artefacto t\\u00e9rmico\"}, {\"title\": \"tipo_instalacion\", \"type\": \"string\", \"description\": \"Tipo de medio de elevaci\\u00f3n o artefacto t\\u00e9rmico\"}, {\"title\": \"seccion\", \"type\": \"string\", \"description\": \"Secci\\u00f3n donde se encuentra ubicado el medio de elevaci\\u00f3n o artefacto t\\u00e9rmico\"}, {\"title\": \"manzana\", \"type\": \"string\", \"description\": \"Manzana donde se encuentra ubicado el medio de elevaci\\u00f3n o artefacto t\\u00e9rmico\"}, {\"title\": \"parcela\", \"type\": \"string\", \"description\": \"Parcela donde se encuentra ubicado el medio de elevaci\\u00f3n o artefacto t\\u00e9rmico\"}, {\"title\": \"direccion_declarada\", \"type\": \"string\", \"description\": \"Calle y n\\u00famero donde se encuentra ubicado el medio de elevaci\\u00f3n o artefacto t\\u00e9rmico\"}, {\"title\": \"empresa_registro\", \"type\": \"integer\", \"description\": \"N\\u00famero de permiso ECA\"}, {\"title\": \"empresa_razon_social\", \"type\": \"string\", \"description\": \"Raz\\u00f3n social de la empresa que realiza el mantenimiento y conservaci\\u00f3n del medio de elevaci\\u00f3n o artefacto t\\u00e9rmico\"}, {\"title\": \"estado_aceptacion\", \"type\": \"string\", \"description\": \"Estado de aceptaci\\u00f3n del medio de elevaci\\u00f3n o artefacto t\\u00e9rmico por parte de la empresa conservadora\"}, {\"title\": \"fecha_estado_aceptacion\", \"type\": \"date\", \"description\": \"Fecha desde la cual el profesional certificante est\\u00e1 a cargo del medio de elevaci\\u00f3n o artefacto t\\u00e9rmico\"}, {\"title\": \"ultima_bu_paga_anio_vigencia\", \"type\": \"number\", \"description\": \"A\\u00f1o de vigencia de la oblea\"}, {\"title\": \"ultimo_informe_fecha\", \"type\": \"date\", \"description\": \"Fecha en que se present\\u00f3 el  profesional certificante a ver el medio de elevaci\\u00f3n o artefacto t\\u00e9rmico\"}, {\"title\": \"ultimo_informe_resultado\", \"type\": \"string\", \"description\": \"Resultado del control del medio de elevaci\\u00f3n o artefacto t\\u00e9rmico\"}, {\"title\": \"ultimo_informe_prof_nombre\", \"type\": \"string\", \"description\": \"Nombre del profesional certificante que complet\\u00f3 el \\u00faltimo informe del medio de elevaci\\u00f3n o artefacto t\\u00e9rmico\"}, {\"title\": \"ultimo_informe_prof_matricula\", \"type\": \"string\", \"description\": \"Matr\\u00edcula profesional del certificante a cargo del \\u00faltimo informe del medio de elevaci\\u00f3n o artefacto t\\u00e9rmico\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-06-24T11:56:23.006987",
+      "datastore_active": false,
+      "description": "Información correspondiente a la ubicación, estado y profesional certificante de elevadores y artefactos térmicos de la Ciudad de Buenos Aires desde enero de 2019",
+      "fileName": "historico_elevadores_artefactos_termicos.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "07dddbb5-5c8b-460e-b8ff-c7e099d16cf9",
+      "last_modified": "2019-06-24T11:56:23.006987",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Registro histórico de elevadores y artefactos térmicos",
+      "package_id": "6204ce6b-bf37-4dd3-8565-060eff70e4aa",
+      "position": 0,
+      "resource_type": "file",
+      "revision_id": "89f8781d-0536-44be-af1f-8f416342c693",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/elevadores-artefactos-termicos/historico_elevadores_artefactos_termicos.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/6204ce6b-bf37-4dd3-8565-060eff70e4aa/resource/0e1859ee-ff11-45b2-9750-9a8981b8faf9",
+      "attributesDescription": "[{\"title\": \"periodo\", \"type\": \"string\", \"description\": \"Mes y a\\u00f1o del registro\"}, {\"title\": \"patente\", \"type\": \"integer\", \"description\": \"N\\u00ba \\u00fanico para el medio de elevaci\\u00f3n o artefacto t\\u00e9rmico\"}, {\"title\": \"tipo_instalacion\", \"type\": \"string\", \"description\": \"Tipo de medio de elevaci\\u00f3n o artefacto t\\u00e9rmico\"}, {\"title\": \"seccion\", \"type\": \"string\", \"description\": \"Secci\\u00f3n donde se encuentra ubicado el medio de elevaci\\u00f3n o artefacto t\\u00e9rmico\"}, {\"title\": \"mazana\", \"type\": \"string\", \"description\": \"Manzana donde se encuentra ubicado el medio de elevaci\\u00f3n o artefacto t\\u00e9rmico\"}, {\"title\": \"parcela\", \"description\": \"Parcela donde se encuentra ubicado el medio de elevaci\\u00f3n o artefacto t\\u00e9rmico\"}, {\"title\": \"direccion_declarada\", \"type\": \"string\", \"description\": \"Calle y n\\u00famero donde se encuentra ubicado el medio de elevaci\\u00f3n o artefacto t\\u00e9rmico\"}, {\"title\": \"empresa_registro\", \"type\": \"integer\", \"description\": \"N\\u00famero de permiso ECA\"}, {\"title\": \"empresa_razon_social\", \"type\": \"string\", \"description\": \"Raz\\u00f3n social de la empresa que realiza el mantenimiento y conservaci\\u00f3n del medio de elevaci\\u00f3n o artefacto t\\u00e9rmico\"}, {\"title\": \"estado_aceptacion\", \"type\": \"string\", \"description\": \"Estado de aceptaci\\u00f3n del medio de elevaci\\u00f3n o artefacto t\\u00e9rmico por parte de la empresa conservadora\"}, {\"title\": \"fecha_estado_aceptacion\", \"type\": \"date\", \"description\": \"Fecha desde la cual el profesional certificante est\\u00e1 a cargo del medio de elevaci\\u00f3n o artefacto t\\u00e9rmico\"}, {\"title\": \"ultima_bu_paga_anio_vigencia\", \"type\": \"number\", \"description\": \"A\\u00f1o de vigencia de la oblea\"}, {\"title\": \"ultimo_informe_fecha\", \"type\": \"date\", \"description\": \"Fecha en que se present\\u00f3 el profesional certificante a ver el medio de elevaci\\u00f3n o artefacto t\\u00e9rmico\"}, {\"title\": \"ultimo_informe_resultado\", \"type\": \"time\", \"description\": \"Fecha en que se present\\u00f3 el profesional certificante a ver el medio de elevaci\\u00f3n o artefacto t\\u00e9rmico\"}, {\"title\": \"ultimo_informe_prof_nombre\", \"type\": \"string\", \"description\": \"Nombre del profesional certificante que complet\\u00f3 el \\u00faltimo informe del medio de elevaci\\u00f3n o artefacto t\\u00e9rmico\"}, {\"title\": \"ultimo_informe_prof_matricula\", \"type\": \"string\", \"description\": \"Matr\\u00edcula profesional del certificante a cargo del \\u00faltimo informe del medio de elevaci\\u00f3n o artefacto t\\u00e9rmico\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-06-11T16:38:42.835894",
+      "datastore_active": false,
+      "description": "Información correspondiente a la ubicación, estado y profesional certificante de elevadores y artefactos térmicos de la Ciudad de Buenos Aires",
+      "fileName": "elevadores_artefactos_termicos.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "0e1859ee-ff11-45b2-9750-9a8981b8faf9",
+      "last_modified": "2019-06-11T16:38:42.835894",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Elevadores y artefactos térmicos",
+      "package_id": "6204ce6b-bf37-4dd3-8565-060eff70e4aa",
+      "position": 1,
+      "resource_type": "file",
+      "revision_id": "02a48aeb-71dc-4d06-a90e-8b2e0b61c60c",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/elevadores-artefactos-termicos/elevadores_artefactos_termicos.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/6204ce6b-bf37-4dd3-8565-060eff70e4aa/resource/07dddbb5-5c8b-460e-b8ff-c7e099d16cf9",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-06-24T11:56:23.006987",
+      "datastore_active": false,
+      "description": "Información correspondiente a la ubicación, estado y profesional certificante de elevadores y artefactos térmicos de la Ciudad de Buenos Aires desde enero de 2019",
+      "fileName": "historico_elevadores_artefactos_termicos.xlsx",
+      "format": "XLSX",
+      "hash": "",
+      "id": "07dddbb5-5c8b-460e-b8ff-c7e099d16cf9-xlsx",
+      "last_modified": "2019-06-24T11:56:23.006987",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Registro histórico de elevadores y artefactos térmicos (XLSX)",
+      "package_id": "6204ce6b-bf37-4dd3-8565-060eff70e4aa",
+      "position": 2,
+      "resource_type": "file",
+      "revision_id": "3ae8b663-f71a-4150-91b5-adea4485e702",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/elevadores-artefactos-termicos/historico_elevadores_artefactos_termicos.xlsx",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/6204ce6b-bf37-4dd3-8565-060eff70e4aa/resource/0e1859ee-ff11-45b2-9750-9a8981b8faf9",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-06-11T16:38:42.835894",
+      "datastore_active": false,
+      "description": "Información correspondiente a la ubicación, estado y profesional certificante de elevadores y artefactos térmicos de la Ciudad de Buenos Aires",
+      "fileName": "elevadores_artefactos_termicos.xlsx",
+      "format": "XLSX",
+      "hash": "",
+      "id": "0e1859ee-ff11-45b2-9750-9a8981b8faf9-xlsx",
+      "last_modified": "2019-06-11T16:38:42.835894",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Elevadores y artefactos térmicos (XLSX)",
+      "package_id": "6204ce6b-bf37-4dd3-8565-060eff70e4aa",
+      "position": 3,
+      "resource_type": "file",
+      "revision_id": "bf43c6fa-3cf6-47ec-8003-68939605743a",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/elevadores-artefactos-termicos/elevadores_artefactos_termicos.xlsx",
+      "url_type": null
+    }
+  ],
+  "revision_id": "b7cfe778-7081-4a62-aef5-99e7786abde2",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "AGC",
+      "id": "d0523b0c-616a-4b1a-b7bf-96660cddc12e",
+      "name": "AGC",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "artefactos",
+      "id": "03ce5390-1b36-4586-a50a-63465c1a33a9",
+      "name": "artefactos",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "ascensores",
+      "id": "f808f31e-481c-4325-94a0-56bf67cf7df4",
+      "name": "ascensores",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "montacargas",
+      "id": "0a2e712f-fb68-446e-a84b-95bcb3a01434",
+      "name": "montacargas",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "registro",
+      "id": "26743a06-4bdd-418b-a604-e17fe4aa1635",
+      "name": "registro",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "seguridad",
+      "id": "40254c39-6a3d-41e7-9044-39dc4b0eda4d",
+      "name": "seguridad",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Registro de elevadores y artefactos térmicos",
+  "type": "dataset",
+  "url": "https://data.buenosaires.gob.ar/dataset/registro-de-elevadores-y-artefactos-termicos",
+  "version": null
+}

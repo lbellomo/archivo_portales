@@ -1,0 +1,179 @@
+{
+  "author": "Ministerio de Economía y Finanzas. Dirección General de Estadística y Censos",
+  "author_email": "datosabiertos@buenosaires.gob.ar",
+  "creator_user_id": "e4546f46-e966-493c-b2f1-57318502c41b",
+  "extras": [
+    {
+      "key": "Documentación",
+      "value": ""
+    },
+    {
+      "key": "accrualPeriodicity",
+      "value": "eventual"
+    },
+    {
+      "key": "country",
+      "value": "None"
+    },
+    {
+      "key": "district",
+      "value": ""
+    },
+    {
+      "key": "home_featured",
+      "value": "false"
+    },
+    {
+      "key": "issued",
+      "value": "2019-04-22T11:51:02.394662"
+    },
+    {
+      "key": "language",
+      "value": "[]"
+    },
+    {
+      "key": "modified",
+      "value": "2021-03-05T09:58:23.930521"
+    },
+    {
+      "key": "province",
+      "value": ""
+    },
+    {
+      "key": "source",
+      "value": "Ministerio de Economía y Finanzas. Dirección General de Estadística y Censos"
+    },
+    {
+      "key": "spatial",
+      "value": "None"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"EDUC\",\"GOVE\"]"
+    },
+    {
+      "key": "temporal",
+      "value": ""
+    }
+  ],
+  "groups": [
+    {
+      "description": "",
+      "display_name": "Género",
+      "id": "3d97d3f5-206f-4719-8a06-54c709a25893",
+      "image_display_url": "https://data.buenosaires.gob.ar/uploads/group/2019-11-19-182128.307764genero720.png",
+      "name": "genero",
+      "title": "Género"
+    }
+  ],
+  "id": "aa5e7cd2-1b59-46ae-8909-86bde686596c",
+  "isopen": true,
+  "license_id": "CC-BY-2.5-AR",
+  "license_title": "Atribucion 2.5 Argentina (CC BY 2.5 AR)",
+  "license_url": "https://creativecommons.org/licenses/by/2.5/ar ",
+  "maintainer": "Secretaría General y Relaciones Internacionales. Subsecretaría Gestión Estratégica y Calidad Institucional. Dirección General Calidad Institucional y Gobierno Abierto",
+  "maintainer_email": "datosabiertos@buenosaires.gob.ar",
+  "metadata_created": "2019-12-11T18:23:50.890288",
+  "metadata_modified": "2021-03-05T12:58:23.982720",
+  "name": "programa-segunda-vuelta",
+  "notes": "Información sobre cantidad de mujeres participantes del programa \"Segunda Vuelta\" del Ministerio de Educación e Innovación de la Ciudad de Buenos Aires. Datos del año 2018.",
+  "num_resources": 2,
+  "num_tags": 3,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-11-15T19:18:36.747317",
+    "description": "",
+    "id": "800664f9-ab56-4482-a6c8-0a1d316bf35b",
+    "image_url": "",
+    "is_organization": true,
+    "name": "direccion-general-de-estadisticas-y-censos",
+    "revision_id": "62a8b16c-0849-419d-a339-8e14d1b4a010",
+    "state": "active",
+    "title": "Dirección General de Estadísticas y Censos",
+    "type": "organization"
+  },
+  "owner_org": "800664f9-ab56-4482-a6c8-0a1d316bf35b",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/aa5e7cd2-1b59-46ae-8909-86bde686596c/resource/cfee7b5a-d0d2-46db-8e97-24c7496a4366",
+      "attributesDescription": "[{\"title\": \"anio\", \"type\": \"integer\", \"description\": \"A\\u00f1o de la observaci\\u00f3n\"}, {\"title\": \"indice_feminidad\", \"type\": \"number\", \"description\": \"Indice de feminidad de la observaci\\u00f3n\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-04-11T15:01:01.835627",
+      "datastore_active": false,
+      "description": "Número de mujeres, por cada 100 varones, asistentes en el programa \"Segunda Vuelta\"",
+      "fileName": "ind_seg_vue_annio_limpio.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "cfee7b5a-d0d2-46db-8e97-24c7496a4366",
+      "last_modified": "2019-04-11T15:01:01.835627",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Mujeres asistentes al programa \"Segunda Vuelta\"",
+      "package_id": "aa5e7cd2-1b59-46ae-8909-86bde686596c",
+      "position": 0,
+      "resource_type": "file",
+      "revision_id": "f793f6de-e7ee-46aa-bbef-d4401dc25805",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/SIGBA/Programa_Segunda_Vuelta/ind_seg_vue_annio_limpio.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/aa5e7cd2-1b59-46ae-8909-86bde686596c/resource/cfee7b5a-d0d2-46db-8e97-24c7496a4366",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-04-11T15:01:01.835627",
+      "datastore_active": false,
+      "description": "Número de mujeres, por cada 100 varones, asistentes en el programa \"Segunda Vuelta\"",
+      "fileName": "ind_seg_vue_annio_limpio.xlsx",
+      "format": "XLSX",
+      "hash": "",
+      "id": "cfee7b5a-d0d2-46db-8e97-24c7496a4366-xlsx",
+      "last_modified": "2019-04-11T15:01:01.835627",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Mujeres asistentes al programa \"Segunda Vuelta\" (XLSX)",
+      "package_id": "aa5e7cd2-1b59-46ae-8909-86bde686596c",
+      "position": 1,
+      "resource_type": "file",
+      "revision_id": "e8081034-9f01-4ff0-aeb2-7ec6a125992d",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/SIGBA/Programa_Segunda_Vuelta/ind_seg_vue_annio_limpio.xlsx",
+      "url_type": null
+    }
+  ],
+  "revision_id": "4a2155d8-7a41-429b-a57e-77254589e2cc",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "capacitación",
+      "id": "1fbaaea3-ffd2-4d0b-a8c0-22ffc221222b",
+      "name": "capacitación",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "cursos",
+      "id": "9bef05d5-f595-4810-8168-8f5f58942e73",
+      "name": "cursos",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "educación",
+      "id": "a9032209-2807-4797-98a8-640d053d0064",
+      "name": "educación",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Programa Segunda Vuelta",
+  "type": "dataset",
+  "url": "https://data.buenosaires.gob.ar/dataset/programa-segunda-vuelta",
+  "version": null
+}

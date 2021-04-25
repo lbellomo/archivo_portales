@@ -1,0 +1,178 @@
+{
+  "author": "Ministerio de Desarrollo Urbano y Transporte",
+  "author_email": "datosabiertos@buenosaires.gob.ar",
+  "creator_user_id": "e4546f46-e966-493c-b2f1-57318502c41b",
+  "extras": [
+    {
+      "key": "Documentación",
+      "value": ""
+    },
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P1Y"
+    },
+    {
+      "key": "country",
+      "value": "None"
+    },
+    {
+      "key": "district",
+      "value": ""
+    },
+    {
+      "key": "home_featured",
+      "value": "false"
+    },
+    {
+      "key": "issued",
+      "value": "2019-01-08T15:01:05.375157"
+    },
+    {
+      "key": "language",
+      "value": "[]"
+    },
+    {
+      "key": "modified",
+      "value": "2021-03-05T11:32:07.916831"
+    },
+    {
+      "key": "province",
+      "value": ""
+    },
+    {
+      "key": "source",
+      "value": "Ministerio de Desarrollo Urbano y Transporte"
+    },
+    {
+      "key": "spatial",
+      "value": "None"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"TRAN\"]"
+    },
+    {
+      "key": "temporal",
+      "value": ""
+    }
+  ],
+  "groups": [
+    {
+      "description": "",
+      "display_name": "Movilidad",
+      "id": "e616e02e-64d8-4fb0-b55d-08e75eb58376",
+      "image_display_url": "https://data.buenosaires.gob.ar/uploads/group/2019-11-16-145017.234366movilidad.png",
+      "name": "movilidad",
+      "title": "Movilidad"
+    }
+  ],
+  "id": "juqdkmgo-188",
+  "isopen": true,
+  "license_id": "CC-BY-2.5-AR",
+  "license_title": "Atribucion 2.5 Argentina (CC BY 2.5 AR)",
+  "license_url": "https://creativecommons.org/licenses/by/2.5/ar ",
+  "maintainer": "Secretaría General y Relaciones Internacionales. Subsecretaría Gestión Estratégica y Calidad Institucional. Dirección General Calidad Institucional y Gobierno Abierto",
+  "maintainer_email": "datosabiertos@buenosaires.gob.ar",
+  "metadata_created": "2019-12-11T18:55:34.556755",
+  "metadata_modified": "2021-03-05T14:32:07.954362",
+  "name": "semaforos",
+  "notes": "Información de semáforos de la Ciudad, con ubicación geográfica y tipo de luminaria.",
+  "num_resources": 2,
+  "num_tags": 3,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-11-15T19:19:49.916928",
+    "description": "",
+    "id": "56b60b46-a47c-48fb-9bd4-c2ad0e05fef2",
+    "image_url": "",
+    "is_organization": true,
+    "name": "transporte-y-obras-publicas",
+    "revision_id": "c33c86a3-e197-468f-8b66-5b943b3bf106",
+    "state": "active",
+    "title": "Secretaría de Transporte y Obras Públicas",
+    "type": "organization"
+  },
+  "owner_org": "56b60b46-a47c-48fb-9bd4-c2ad0e05fef2",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/semaforos",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-01-08T15:01:05.375157",
+      "datastore_active": true,
+      "description": "Registro de semáforos, indicando ubicación geográfica y tipo de luminaria.",
+      "fileName": "semaforos.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "juqdkmgo-1881-resource",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Semáforos",
+      "package_id": "juqdkmgo-188",
+      "position": 0,
+      "resource_type": "file",
+      "revision_id": "ea696089-11be-4de8-974b-7e82e2dbcf46",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/semaforos/semaforos.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/semaforos",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-01-08T15:01:05.375157",
+      "datastore_active": true,
+      "description": "Registro de semáforos, indicando ubicación geográfica y tipo de luminaria.",
+      "fileName": "semaforos.xlsx",
+      "format": "XLSX",
+      "hash": "",
+      "id": "juqdkmgo-1881-resource-xlsx",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Semáforos (XLSX)",
+      "package_id": "juqdkmgo-188",
+      "position": 1,
+      "resource_type": "file",
+      "revision_id": "9c69396f-a40d-48ed-89f0-d2c7750c8a84",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/semaforos/semaforos.xlsx",
+      "url_type": null
+    }
+  ],
+  "revision_id": "7d606833-2178-4b9d-b052-cecff794e585",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "semáforo",
+      "id": "a0c9364c-2393-41ec-9235-6a06127d3990",
+      "name": "semáforo",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "tránsito",
+      "id": "ce981a9c-943f-414e-b531-5810ae74c546",
+      "name": "tránsito",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "urbanismo",
+      "id": "17ac67e7-699b-470d-b0dd-5b8752c1fb73",
+      "name": "urbanismo",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Semáforos",
+  "type": "dataset",
+  "url": "https://data.buenosaires.gob.ar/dataset/semaforos",
+  "version": null
+}

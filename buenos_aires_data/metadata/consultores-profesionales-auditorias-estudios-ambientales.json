@@ -1,0 +1,240 @@
+{
+  "author": "Agencia de Protección Ambiental (APrA). Secretaría de Ambiente. Jefatura de Gobierno",
+  "author_email": "datosabiertos@buenosaires.gob.ar",
+  "creator_user_id": "e4546f46-e966-493c-b2f1-57318502c41b",
+  "extras": [
+    {
+      "key": "Documentación",
+      "value": ""
+    },
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P1M"
+    },
+    {
+      "key": "country",
+      "value": "None"
+    },
+    {
+      "key": "district",
+      "value": ""
+    },
+    {
+      "key": "home_featured",
+      "value": "false"
+    },
+    {
+      "key": "issued",
+      "value": "2019-01-08T14:52:07.258802"
+    },
+    {
+      "key": "language",
+      "value": "[]"
+    },
+    {
+      "key": "modified",
+      "value": "2021-02-26T17:35:40.127045"
+    },
+    {
+      "key": "province",
+      "value": ""
+    },
+    {
+      "key": "source",
+      "value": "Agencia de Protección Ambiental (APrA). Secretaría de Ambiente. Jefatura de Gobierno"
+    },
+    {
+      "key": "spatial",
+      "value": "None"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"ENVI\"]"
+    },
+    {
+      "key": "temporal",
+      "value": ""
+    }
+  ],
+  "groups": [
+    {
+      "description": "",
+      "display_name": "Medioambiente",
+      "id": "a99c1197-8379-4a60-a6eb-8737cab5ec4f",
+      "image_display_url": "https://data.buenosaires.gob.ar/uploads/group/2019-11-16-145003.550663medioambiente.png",
+      "name": "medioambiente",
+      "title": "Medioambiente"
+    }
+  ],
+  "id": "juqdkmgo-64",
+  "isopen": true,
+  "license_id": "CC-BY-2.5-AR",
+  "license_title": "Atribucion 2.5 Argentina (CC BY 2.5 AR)",
+  "license_url": "https://creativecommons.org/licenses/by/2.5/ar ",
+  "maintainer": "Gerencia Operativa de Ingeniería de Datos. DG Arquitectura de Datos. SS de Políticas Públicas Basadas en Evidencia. Secretaría de Innovación y Transformación Digital. Jefatura de Gabinete de Ministros",
+  "maintainer_email": "datosabiertos@buenosaires.gob.ar",
+  "metadata_created": "2019-12-11T18:06:26.263831",
+  "metadata_modified": "2021-02-26T20:35:40.186478",
+  "name": "consultores-profesionales-auditorias-estudios-ambientales",
+  "notes": "Listado de profesionales, consultoras y consultores en auditorias y estudios ambientales.",
+  "num_resources": 4,
+  "num_tags": 5,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-11-15T19:17:10.767872",
+    "description": "",
+    "id": "87797715-09c9-4b3e-9af6-074850fba840",
+    "image_url": "",
+    "is_organization": true,
+    "name": "agencia-de-proteccion-ambiental",
+    "revision_id": "31d4bbad-1773-4015-9f8e-2e040bc7900a",
+    "state": "active",
+    "title": "Agencia de Protección Ambiental",
+    "type": "organization"
+  },
+  "owner_org": "87797715-09c9-4b3e-9af6-074850fba840",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/consultores-y-profesionales-en-auditorias-y-estudios-ambientales",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-01-08T14:52:07.258802",
+      "datastore_active": false,
+      "description": "Listado de consultoras que realizan auditorias y estudios ambientales, razón social, cuit, teléfono, mail.",
+      "fileName": "consultoras.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "juqdkmgo-641-resource",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Consultoras",
+      "package_id": "juqdkmgo-64",
+      "position": 0,
+      "resource_type": "file",
+      "revision_id": "dc05c8c6-ccc2-40da-8f8a-afed1074cf78",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/consultores-y-profesionales-en-auditorias-y-estudios-ambientales/consultoras.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/consultores-y-profesionales-en-auditorias-y-estudios-ambientales",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-01-08T14:52:07.258802",
+      "datastore_active": false,
+      "description": "Listado de profesionales en estudios ambientales, nombre, domicilio, correo.",
+      "fileName": "profesionales.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "juqdkmgo-642-resource",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Profesionales",
+      "package_id": "juqdkmgo-64",
+      "position": 1,
+      "resource_type": "file",
+      "revision_id": "bee9e9e7-c90b-4e85-abc3-745253cbc128",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/consultores-y-profesionales-en-auditorias-y-estudios-ambientales/profesionales.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/consultores-y-profesionales-en-auditorias-y-estudios-ambientales",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-01-08T14:52:07.258802",
+      "datastore_active": false,
+      "description": "Listado de consultoras que realizan auditorias y estudios ambientales, razón social, cuit, teléfono, mail.",
+      "fileName": "consultoras.xlsx",
+      "format": "XLSX",
+      "hash": "",
+      "id": "juqdkmgo-641-resource-xlsx",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Consultoras (XLSX)",
+      "package_id": "juqdkmgo-64",
+      "position": 2,
+      "resource_type": "file",
+      "revision_id": "62ad48a0-c63b-497f-9d5b-f31c45adf17f",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/consultores-y-profesionales-en-auditorias-y-estudios-ambientales/consultoras.xlsx",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/consultores-y-profesionales-en-auditorias-y-estudios-ambientales",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-01-08T14:52:07.258802",
+      "datastore_active": false,
+      "description": "Listado de profesionales en estudios ambientales, nombre, domicilio, correo.",
+      "fileName": "profesionales.xlsx",
+      "format": "XLSX",
+      "hash": "",
+      "id": "juqdkmgo-642-resource-xlsx",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Profesionales (XLSX)",
+      "package_id": "juqdkmgo-64",
+      "position": 3,
+      "resource_type": "file",
+      "revision_id": "84b68c1f-386a-4ec0-83ad-2f48ef052f77",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/consultores-y-profesionales-en-auditorias-y-estudios-ambientales/profesionales.xlsx",
+      "url_type": null
+    }
+  ],
+  "revision_id": "ddb3f171-0713-4ec4-82c8-21c45edb5515",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "ambiente",
+      "id": "c5951c2e-5d33-4a1e-93cf-9ffd87d9ea86",
+      "name": "ambiente",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "csv",
+      "id": "f9980424-8dbf-4a4b-8a2f-0d9741810d82",
+      "name": "csv",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "espacio-público",
+      "id": "dc33a7dc-62e2-4106-a8d7-743f46a3ffdb",
+      "name": "espacio-público",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "estudios-ambientales",
+      "id": "8354951a-c943-479b-bc1e-bfde775cac39",
+      "name": "estudios-ambientales",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "medio-ambiente",
+      "id": "cfa4ad80-e9c1-49bb-ab7b-6e2e7ed96a88",
+      "name": "medio-ambiente",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Consultores y profesionales en auditorias y estudios ambientales",
+  "type": "dataset",
+  "url": "https://data.buenosaires.gob.ar/dataset/consultores-profesionales-auditorias-estudios-ambientales",
+  "version": null
+}

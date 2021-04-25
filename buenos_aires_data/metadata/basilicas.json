@@ -1,0 +1,216 @@
+{
+  "author": "Arzobispado de Buenos Aires",
+  "author_email": "datosabiertos@buenosaires.gob.ar",
+  "creator_user_id": "e4546f46-e966-493c-b2f1-57318502c41b",
+  "extras": [
+    {
+      "key": "Documentación",
+      "value": ""
+    },
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P1Y"
+    },
+    {
+      "key": "country",
+      "value": "None"
+    },
+    {
+      "key": "district",
+      "value": ""
+    },
+    {
+      "key": "home_featured",
+      "value": "false"
+    },
+    {
+      "key": "issued",
+      "value": "2019-01-08T14:59:15.622261"
+    },
+    {
+      "key": "language",
+      "value": "[]"
+    },
+    {
+      "key": "modified",
+      "value": "2021-03-05T10:28:34.343001"
+    },
+    {
+      "key": "province",
+      "value": ""
+    },
+    {
+      "key": "source",
+      "value": "Subgerencia de Información Geoespacial. DG Ciencias de la Información. SS de Políticas Públicas Basadas en Evidencia. Secretaría de Innovación y Transformación Digital. Jefatura de Gabinete de Ministros"
+    },
+    {
+      "key": "spatial",
+      "value": "None"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"EDUC\"]"
+    },
+    {
+      "key": "temporal",
+      "value": ""
+    }
+  ],
+  "groups": [
+    {
+      "description": "Datasets relacionados con la cultura y el turismo",
+      "display_name": "Cultura y Turismo",
+      "id": "db2c0965-c659-4f94-8de9-41fce10f91a9",
+      "image_display_url": "https://data.buenosaires.gob.ar/uploads/group/2019-11-16-144908.071423cultura.png",
+      "name": "cultura-y-turismo",
+      "title": "Cultura y Turismo"
+    }
+  ],
+  "id": "juqdkmgo-20",
+  "isopen": true,
+  "license_id": "CC-BY-2.5-AR",
+  "license_title": "Atribucion 2.5 Argentina (CC BY 2.5 AR)",
+  "license_url": "https://creativecommons.org/licenses/by/2.5/ar ",
+  "maintainer": "Gerencia Operativa de Ingeniería de Datos. DG Arquitectura de Datos. SS de Políticas Públicas Basadas en Evidencia. Secretaría de Innovación y Transformación Digital. Jefatura de Gabinete de Ministros",
+  "maintainer_email": "datosabiertos@buenosaires.gob.ar",
+  "metadata_created": "2019-12-11T18:34:38.748532",
+  "metadata_modified": "2021-03-05T13:28:34.357048",
+  "name": "basilicas",
+  "notes": "Listado con ubicación geográfica de basílicas ubicadas en la Ciudad.",
+  "num_resources": 3,
+  "num_tags": 5,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-11-15T19:16:33.772140",
+    "description": "",
+    "id": "8862c931-b89e-44c6-9567-79a33d0174e3",
+    "image_url": "",
+    "is_organization": true,
+    "name": "secretaria-general-y-relaciones-internacionales",
+    "revision_id": "7607a9d6-dd19-4643-bf63-3a43148dab03",
+    "state": "active",
+    "title": "Secretaría General y Relaciones Internacionales",
+    "type": "organization"
+  },
+  "owner_org": "8862c931-b89e-44c6-9567-79a33d0174e3",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/basilicas",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-01-08T14:59:15.622261",
+      "datastore_active": false,
+      "description": "Registro de Basílicas de la Ciudad detallando nombre, ubicación geográfica, web, localidad, teléfono.",
+      "fileName": "basilicas.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "juqdkmgo-201-resource",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Basílicas",
+      "package_id": "juqdkmgo-20",
+      "position": 0,
+      "resource_type": "file",
+      "revision_id": "bbcd043d-1320-42cc-8d37-a3b1f587ae24",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/basilicas/basilicas.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/basilicas",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-01-08T14:59:15.622261",
+      "datastore_active": false,
+      "description": "Archivo shapefile de las basílicas de la Ciudad.",
+      "fileName": "basilicas-zip.zip",
+      "format": "ZIP",
+      "hash": "",
+      "id": "juqdkmgo-202-resource",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Basílicas (SHP)",
+      "package_id": "juqdkmgo-20",
+      "position": 1,
+      "resource_type": "file",
+      "revision_id": "722eda1c-6933-4538-9f75-45a4b7022063",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/basilicas/basilicas-zip.zip",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/basilicas",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-01-08T14:59:15.622261",
+      "datastore_active": false,
+      "description": "Registro de Basílicas de la Ciudad detallando nombre, ubicación geográfica, web, localidad, teléfono.",
+      "fileName": "basilicas.xlsx",
+      "format": "XLSX",
+      "hash": "",
+      "id": "juqdkmgo-201-resource-xlsx",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Basílicas (XLSX)",
+      "package_id": "juqdkmgo-20",
+      "position": 2,
+      "resource_type": "file",
+      "revision_id": "bb0b8d94-f336-4507-a966-c621db9be021",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/basilicas/basilicas.xlsx",
+      "url_type": null
+    }
+  ],
+  "revision_id": "d4d09f3c-cb62-4fba-9068-9e3c701444e3",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "USIG",
+      "id": "aee9194d-357a-4be9-92dc-231569313d87",
+      "name": "USIG",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "basilicas",
+      "id": "624c9e18-41b0-449d-9a28-5af2a2420776",
+      "name": "basilicas",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "csv",
+      "id": "f9980424-8dbf-4a4b-8a2f-0d9741810d82",
+      "name": "csv",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "religión",
+      "id": "061615b4-a00e-4222-a969-5d42a7a7ddee",
+      "name": "religión",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "urbanismo",
+      "id": "17ac67e7-699b-470d-b0dd-5b8752c1fb73",
+      "name": "urbanismo",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Basílicas",
+  "type": "dataset",
+  "url": "https://data.buenosaires.gob.ar/dataset/basilicas",
+  "version": null
+}

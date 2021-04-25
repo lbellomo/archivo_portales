@@ -1,0 +1,140 @@
+{
+  "author": "Ministerio de Economía y Finanzas. Administración Gubernamental de Ingresos Públicos (AGIP)",
+  "author_email": "gobiernoabierto@buenosaires.gob.ar",
+  "creator_user_id": "e4546f46-e966-493c-b2f1-57318502c41b",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P1Y"
+    },
+    {
+      "key": "issued",
+      "value": "2019-01-08T14:50:50.797782"
+    },
+    {
+      "key": "language",
+      "value": "[\"SPA\"]"
+    },
+    {
+      "key": "modified",
+      "value": "2019-04-23T15:12:50.217038"
+    },
+    {
+      "key": "source",
+      "value": "Ministerio de Economía y Finanzas. Administración Gubernamental de Ingresos Públicos (AGIP)"
+    },
+    {
+      "key": "spatial",
+      "value": "02"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"ECON\"]"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Datasets relacionados con la economía y las finanzas",
+      "display_name": "Economía y Finanzas",
+      "id": "64da4336-6da7-4494-80c0-365016597e9e",
+      "image_display_url": "https://data.buenosaires.gob.ar/uploads/group/2019-11-16-144934.521128economia.png",
+      "name": "economia-y-finanzas",
+      "title": "Economía y Finanzas"
+    }
+  ],
+  "id": "juqdkmgo-126",
+  "isopen": true,
+  "license_id": "CC-BY-2.5-AR",
+  "license_title": "Atribucion 2.5 Argentina (CC BY 2.5 AR)",
+  "license_url": "https://creativecommons.org/licenses/by/2.5/ar ",
+  "maintainer": "Secretaría General y Relaciones Internacionales. Subsecretaría Gestión Estratégica y Calidad Institucional. Dirección General Calidad Institucional y Gobierno Abierto",
+  "maintainer_email": "gobiernoabierto@buenosaires.gob.ar",
+  "metadata_created": "2019-12-11T18:22:05.454221",
+  "metadata_modified": "2020-12-17T16:30:37.838271",
+  "name": "inspectores-agip",
+  "notes": "Información de los inspectores de la Dirección General de Rentas.",
+  "num_resources": 2,
+  "num_tags": 1,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-11-15T19:18:53.185953",
+    "description": "",
+    "id": "8ff6e21b-7ebc-45b7-8e50-3629f26d0414",
+    "image_url": "",
+    "is_organization": true,
+    "name": "administracion-gubernamental-de-ingresos-publicos",
+    "revision_id": "18ec9402-5011-4f5d-9acf-c8ba3ce157f9",
+    "state": "active",
+    "title": "Administración Gubernamental de Ingresos Públicos (AGIP)",
+    "type": "organization"
+  },
+  "owner_org": "8ff6e21b-7ebc-45b7-8e50-3629f26d0414",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/inspectores-de-la-agip",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-01-08T14:50:50.797782",
+      "datastore_active": false,
+      "description": "Nombre, departamento, supervisor, ficha y foto de los inspectores en servicio.",
+      "fileName": "inspectores-agip-agosto-2014.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "juqdkmgo-1261-resource",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Inspectores AGIP - Agosto 2014",
+      "package_id": "juqdkmgo-126",
+      "position": 0,
+      "resource_type": "file",
+      "revision_id": "b9522a18-49ae-4bc0-96d1-2c1f69acc497",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/inspectores-de-la-agip/inspectores-agip-agosto-2014.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/inspectores-de-la-agip",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-01-08T14:50:50.797782",
+      "datastore_active": false,
+      "description": "Nombre, departamento, supervisor, ficha y foto de los inspectores en servicio.",
+      "fileName": "inspectores-agip-agosto-2014.xlsx",
+      "format": "XLSX",
+      "hash": "",
+      "id": "juqdkmgo-1261-resource-xlsx",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Inspectores AGIP - Agosto 2014 (XLSX)",
+      "package_id": "juqdkmgo-126",
+      "position": 1,
+      "resource_type": "file",
+      "revision_id": "d462574e-896c-4594-97e2-a7694211a3aa",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/inspectores-de-la-agip/inspectores-agip-agosto-2014.xlsx",
+      "url_type": null
+    }
+  ],
+  "revision_id": "3bed4f1a-db1a-4a22-ad26-b9f90b801f47",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "AGIP",
+      "id": "e4c7f4ea-e64a-4669-9ca8-f0325726a9e2",
+      "name": "AGIP",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Inspectores de la AGIP",
+  "type": "dataset",
+  "url": "https://data.buenosaires.gob.ar/dataset/inspectores-agip",
+  "version": null
+}

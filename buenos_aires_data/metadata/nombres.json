@@ -1,0 +1,211 @@
+{
+  "author": "Ministerio de Gobierno. SS de Gobierno. DG de Registro del Estado Civil y Capacidad De las Personas",
+  "author_email": "gobiernoabierto@buenosaires.gob.ar",
+  "creator_user_id": "e4546f46-e966-493c-b2f1-57318502c41b",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "eventual"
+    },
+    {
+      "key": "issued",
+      "value": "2019-01-08T14:57:03.862388"
+    },
+    {
+      "key": "language",
+      "value": "[\"SPA\"]"
+    },
+    {
+      "key": "modified",
+      "value": "2019-07-05T12:58:07.650149"
+    },
+    {
+      "key": "source",
+      "value": "Ministerio de Gobierno. SS de Gobierno. DG de Registro del Estado Civil y Capacidad De las Personas"
+    },
+    {
+      "key": "spatial",
+      "value": "02"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"SOCI\"]"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Datasets relacionados con la cultura y el turismo",
+      "display_name": "Cultura y Turismo",
+      "id": "db2c0965-c659-4f94-8de9-41fce10f91a9",
+      "image_display_url": "https://data.buenosaires.gob.ar/uploads/group/2019-11-16-144908.071423cultura.png",
+      "name": "cultura-y-turismo",
+      "title": "Cultura y Turismo"
+    },
+    {
+      "description": "",
+      "display_name": "Género",
+      "id": "3d97d3f5-206f-4719-8a06-54c709a25893",
+      "image_display_url": "https://data.buenosaires.gob.ar/uploads/group/2019-11-19-182128.307764genero720.png",
+      "name": "genero",
+      "title": "Género"
+    }
+  ],
+  "id": "juqdkmgo-148",
+  "isopen": true,
+  "license_id": "CC-BY-2.5-AR",
+  "license_title": "Atribucion 2.5 Argentina (CC BY 2.5 AR)",
+  "license_url": "https://creativecommons.org/licenses/by/2.5/ar ",
+  "maintainer": "Secretaría General y Relaciones Internacionales. Subsecretaría Gestión Estratégica y Calidad Institucional. Dirección General Calidad Institucional y Gobierno Abierto",
+  "maintainer_email": "gobiernoabierto@buenosaires.gob.ar",
+  "metadata_created": "2019-12-11T18:29:09.298408",
+  "metadata_modified": "2020-12-17T16:39:52.102448",
+  "name": "nombres",
+  "notes": "Listado de nombres inscriptos en el Registro Civil (nombres usados) y listado de nombres aprobados por el Registro Civil hasta la derogación de la ley 18248 por parte del Código Civil y Comercial vigente desde 2015 (nombres permitidos).",
+  "num_resources": 4,
+  "num_tags": 3,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-11-15T19:18:05.034032",
+    "description": "",
+    "id": "d5fcd0f4-b12b-464b-b41f-2b47de9848a6",
+    "image_url": "",
+    "is_organization": true,
+    "name": "ministerio-de-gobierno",
+    "revision_id": "ce729574-7d1e-4984-8eae-c36169571556",
+    "state": "active",
+    "title": "Ministerio de Gobierno",
+    "type": "organization"
+  },
+  "owner_org": "d5fcd0f4-b12b-464b-b41f-2b47de9848a6",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/nombres-permitidos",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-07-05T13:00:47.963769",
+      "datastore_active": false,
+      "description": "Género, origen y significado de los nombres permitidos por el Registro Civil hasta la derogación de la ley 18248 por parte del Código Civil y Comercial vigente desde 2015.",
+      "fileName": "nombres-permitidos.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "juqdkmgo-1481-resource",
+      "last_modified": "2019-07-05T13:00:47.963769",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Nombres permitidos",
+      "package_id": "juqdkmgo-148",
+      "position": 0,
+      "resource_type": "file",
+      "revision_id": "984137c6-f1ec-4dc2-8766-803ece4322f7",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/nombres-permitidos/nombres-permitidos.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/148/resource/a21fd18d-4bd7-4003-8cd8-d8574f599a61",
+      "attributesDescription": "[{\"title\": \"nombre\", \"type\": \"string\", \"description\": \"Nombre utilizado\"}, {\"title\": \"genero\", \"type\": \"string\", \"description\": \"G\\u00e9nero del nombre utilizado\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-07-05T12:56:45.355366",
+      "datastore_active": false,
+      "description": "Listado de los primeros nombres inscriptos en el registro civil desde 2015",
+      "fileName": "nombres-usados.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "a21fd18d-4bd7-4003-8cd8-d8574f599a61",
+      "last_modified": "2019-07-05T12:56:45.355366",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Nombres Usados",
+      "package_id": "juqdkmgo-148",
+      "position": 1,
+      "resource_type": "file",
+      "revision_id": "23f99ce7-7c9f-4a95-b0d4-3d056e88d094",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/nombres-permitidos/nombres-usados.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/nombres-permitidos",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-07-05T13:00:47.963769",
+      "datastore_active": false,
+      "description": "Género, origen y significado de los nombres permitidos por el Registro Civil hasta la derogación de la ley 18248 por parte del Código Civil y Comercial vigente desde 2015.",
+      "fileName": "nombres-permitidos.xlsx",
+      "format": "XLSX",
+      "hash": "",
+      "id": "juqdkmgo-1481-resource-xlsx",
+      "last_modified": "2019-07-05T13:00:47.963769",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Nombres permitidos (XLSX)",
+      "package_id": "juqdkmgo-148",
+      "position": 2,
+      "resource_type": "file",
+      "revision_id": "6874ff55-f526-4c6e-8547-1ffd8005e880",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/nombres-permitidos/nombres-permitidos.xlsx",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/148/resource/a21fd18d-4bd7-4003-8cd8-d8574f599a61",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-07-05T12:56:45.355366",
+      "datastore_active": false,
+      "description": "Listado de los primeros nombres inscriptos en el registro civil desde 2015",
+      "fileName": "nombres-usados.xlsx",
+      "format": "XLSX",
+      "hash": "",
+      "id": "a21fd18d-4bd7-4003-8cd8-d8574f599a61-xlsx",
+      "last_modified": "2019-07-05T12:56:45.355366",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Nombres Usados (XLSX)",
+      "package_id": "juqdkmgo-148",
+      "position": 3,
+      "resource_type": "file",
+      "revision_id": "0b196a48-dd3d-42b6-8e59-6f7e17dbc9ea",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/nombres-permitidos/nombres-usados.xlsx",
+      "url_type": null
+    }
+  ],
+  "revision_id": "b3de0739-12bc-4d78-bace-192810affb65",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "genero",
+      "id": "21b2d7ce-8cbc-4852-aa06-cea4bc73567f",
+      "name": "genero",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "nacimientos",
+      "id": "a53097c7-bf31-4edf-845f-95d58db0bc58",
+      "name": "nacimientos",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "nombres",
+      "id": "77ccd7d5-fde0-4f0b-984e-f74d07a70e9d",
+      "name": "nombres",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Nombres",
+  "type": "dataset",
+  "url": "https://data.buenosaires.gob.ar/dataset/nombres",
+  "version": null
+}

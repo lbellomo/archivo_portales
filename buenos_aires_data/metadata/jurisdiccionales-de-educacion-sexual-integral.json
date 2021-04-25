@@ -1,0 +1,260 @@
+{
+  "author": "Ministerio de Educación",
+  "author_email": "datosabiertos@buenosaires.gob.ar",
+  "creator_user_id": "931fac92-738f-4472-b1c1-f5c2f6e46af3",
+  "extras": [
+    {
+      "key": "Documentación",
+      "value": ""
+    },
+    {
+      "key": "accrualPeriodicity",
+      "value": "eventual"
+    },
+    {
+      "key": "country",
+      "value": "ARG"
+    },
+    {
+      "key": "district",
+      "value": ""
+    },
+    {
+      "key": "home_featured",
+      "value": "false"
+    },
+    {
+      "key": "issued",
+      "value": "2020-07-24T16:30:24.486723"
+    },
+    {
+      "key": "language",
+      "value": "[\"spa\"]"
+    },
+    {
+      "key": "modified",
+      "value": "2021-02-26T17:56:01.401753"
+    },
+    {
+      "key": "province",
+      "value": ""
+    },
+    {
+      "key": "source",
+      "value": "Ministerio de Educación"
+    },
+    {
+      "key": "spatial",
+      "value": "ARG"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"EDUC\",\"HEAL\"]"
+    },
+    {
+      "key": "temporal",
+      "value": ""
+    }
+  ],
+  "groups": [
+    {
+      "description": "",
+      "display_name": "Educación",
+      "id": "6e8e33f7-a0c9-4730-bb10-38eeeb717982",
+      "image_display_url": "https://data.buenosaires.gob.ar/uploads/group/2019-11-19-182154.334786educ.png",
+      "name": "educacion",
+      "title": "Educación"
+    },
+    {
+      "description": "",
+      "display_name": "Género",
+      "id": "3d97d3f5-206f-4719-8a06-54c709a25893",
+      "image_display_url": "https://data.buenosaires.gob.ar/uploads/group/2019-11-19-182128.307764genero720.png",
+      "name": "genero",
+      "title": "Género"
+    },
+    {
+      "description": "",
+      "display_name": "Salud",
+      "id": "0be192e9-f1b7-4308-bb9a-f362e2ff44a6",
+      "image_display_url": "https://data.buenosaires.gob.ar/uploads/group/2019-11-16-145030.020776salud.png",
+      "name": "salud",
+      "title": "Salud"
+    }
+  ],
+  "id": "04133938-1220-48a3-a2a7-3e4f9f554e45",
+  "isopen": true,
+  "license_id": "CC-BY-2.5-AR",
+  "license_title": "Atribucion 2.5 Argentina (CC BY 2.5 AR)",
+  "license_url": "https://creativecommons.org/licenses/by/2.5/ar ",
+  "maintainer": "Subsecretaría de Políticas Públicas Basadas en Evidencia. DG Arquitectura de Datos",
+  "maintainer_email": "datosabiertos@buenosaires.gob.ar",
+  "metadata_created": "2020-07-24T19:30:13.436019",
+  "metadata_modified": "2021-02-26T20:56:01.414929",
+  "name": "jurisdiccionales-de-educacion-sexual-integral",
+  "notes": "La Ficha Jurisdiccional es el principal instrumento del Sistema de Información de la ESI (SIESI) para el relevamamiento y sistematización de la información que permite realizar el seguimiento a nivel nacional y jurisdiccional de la implementación de la Ley Nº 26.150 de Educación Sexual Integral.",
+  "num_resources": 3,
+  "num_tags": 6,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-11-15T19:18:19.762924",
+    "description": "",
+    "id": "da366597-5061-4955-9ca6-e93785956e0e",
+    "image_url": "",
+    "is_organization": true,
+    "name": "ministerio-de-educacion",
+    "revision_id": "1b6c27ee-7324-4554-a172-3d2f068e290a",
+    "state": "active",
+    "title": "Ministerio de Educación",
+    "type": "organization"
+  },
+  "owner_org": "da366597-5061-4955-9ca6-e93785956e0e",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "",
+      "accessURL_field": "",
+      "attributesDescription": "[{\"title\":\"año\",\"description\":\"año\",\"type\":\"integer\"},{\"title\":\"jurisdiccion\",\"description\":\"jurisdiccion\",\"type\":\"string\"},{\"title\":\"tipo_de_pregunta\",\"description\":\"tipo de pregunta realizada\",\"type\":\"string\"},{\"title\":\"id_pregunta\",\"description\":\"id pregunta\",\"type\":\"integer\"},{\"title\":\"pregunta\",\"description\":\"pregunta\",\"type\":\"string\"},{\"title\":\"respuesta\",\"description\":\"respuesta\",\"type\":\"string\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2020-07-24T20:38:03.590602",
+      "datastore_active": false,
+      "description": "Ficha jurisdiccionales de Educacion Sexual Integral de la Ciudad de Buenos Aires del año 2018 ",
+      "fileName": "",
+      "format": "CSV",
+      "has-uploaded-file": "",
+      "hash": "",
+      "icon_url": "",
+      "id": "ab6f4fc3-222c-47e1-9d2b-681e99b9a28e",
+      "issued": "2020-07-24T20:38:03.590602",
+      "last_modified": "2020-07-24T00:00:00",
+      "license_id": "CC-BY-4.0",
+      "mimetype": "text/csv",
+      "mimetype_inner": null,
+      "modified": "2020-07-27T13:55:31.608654",
+      "name": "Datos ESI 2018 ",
+      "package_id": "04133938-1220-48a3-a2a7-3e4f9f554e45",
+      "position": 0,
+      "resource_type": "file",
+      "revision_id": "0179729f-c871-4ccc-917d-1fab3cf22ff7",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/ministerio-de-educacion/jurisdiccionales-de-educacion-sexual-integral/datos_esi_ogp_2018.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "",
+      "accessURL_field": "",
+      "attributesDescription": "[{\"title\":\"año\",\"description\":\"año\",\"type\":\"integer\"},{\"title\":\"jurisdiccion\",\"description\":\"jurisdiccion\",\"type\":\"string\"},{\"title\":\"tipo_de_pregunta\",\"description\":\"tipo de pregunta realizada\",\"type\":\"string\"},{\"title\":\"id_pregunta\",\"description\":\"id pregunta\",\"type\":\"integer\"},{\"title\":\"pregunta\",\"description\":\"pregunta\",\"type\":\"string\"},{\"title\":\"respuesta\",\"description\":\"respuesta\",\"type\":\"string\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2020-11-12T13:03:38.289295",
+      "datastore_active": false,
+      "description": "Ficha jurisdiccionales de Educacion Sexual Integral de la Ciudad de Buenos Aires del año 2019",
+      "fileName": "",
+      "format": "CSV",
+      "has-uploaded-file": "",
+      "hash": "",
+      "icon_url": "",
+      "id": "287509de-6c0c-4fe7-97e3-8cd1b617d67d",
+      "issued": "2020-11-12T13:03:38.289295",
+      "last_modified": "2020-11-12T00:00:00",
+      "license_id": "CC-BY-4.0",
+      "mimetype": "text/csv",
+      "mimetype_inner": null,
+      "modified": "2020-11-12T10:12:56.015696",
+      "name": "Datos ESI 2019",
+      "package_id": "04133938-1220-48a3-a2a7-3e4f9f554e45",
+      "position": 1,
+      "resource_type": "file",
+      "revision_id": "944f5f38-cf88-46b8-933a-f5f128e419ab",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/ministerio-de-educacion/jurisdiccionales-de-educacion-sexual-integral/Datos_ESI_2019.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "",
+      "accessURL_field": "",
+      "attributesDescription": "[]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2020-11-12T13:23:03.299488",
+      "datastore_active": false,
+      "description": "Documentación del dataset \"Ficha jurisdiccionales de Educación Sexual Integral de la Ciudad de Buenos Aires\".",
+      "fileName": "",
+      "format": "PDF",
+      "has-uploaded-file": "",
+      "hash": "",
+      "icon_url": "",
+      "id": "981a6f22-6332-4c76-8fcb-1f92cdd5ead0",
+      "issued": "2020-11-12T13:23:03.299488",
+      "last_modified": "2020-11-12T00:00:00",
+      "license_id": "CC-BY-4.0",
+      "mimetype": "application/pdf",
+      "mimetype_inner": null,
+      "modified": "2020-11-12T10:24:41.555191",
+      "name": "Reporte ESI-TESBA 2019",
+      "package_id": "04133938-1220-48a3-a2a7-3e4f9f554e45",
+      "position": 2,
+      "resource_type": "file",
+      "revision_id": "89b21aa5-3848-478e-829b-d8a1fc4c843e",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/ministerio-de-educacion/jurisdiccionales-de-educacion-sexual-integral/Reporte-ESI-TESBA-2019.pdf",
+      "url_type": null
+    }
+  ],
+  "revision_id": "69bd4575-3575-4de6-b0eb-2b9196289c39",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "educacion",
+      "id": "f25d7a9f-b474-4d8e-93ef-d113f368583c",
+      "name": "educacion",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "educacion sexual",
+      "id": "6fa16f89-8f98-4c05-a04d-03c628da659c",
+      "name": "educacion sexual",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "ficha",
+      "id": "00e88098-4376-433b-b341-a80207157356",
+      "name": "ficha",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "genero",
+      "id": "21b2d7ce-8cbc-4852-aa06-cea4bc73567f",
+      "name": "genero",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "preguntas",
+      "id": "10a84f25-55b8-47b2-aa7d-20308808bfdb",
+      "name": "preguntas",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "salud",
+      "id": "92c7f3e1-f781-4b82-a933-7408e37b3687",
+      "name": "salud",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Ficha jurisdiccionales de Educación Sexual Integral de la Ciudad de Buenos Aires",
+  "type": "dataset",
+  "url": "https://data.buenosaires.gob.ar/dataset/jurisdiccionales-de-educacion-sexual-integral",
+  "version": null
+}

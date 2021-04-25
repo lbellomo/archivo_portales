@@ -1,0 +1,274 @@
+{
+  "author": "Ministerio de Ambiente y Espacio Público. Agencia de Protección Ambiental (APRA)",
+  "author_email": "datosabiertos@buenosaires.gob.ar",
+  "creator_user_id": "e4546f46-e966-493c-b2f1-57318502c41b",
+  "extras": [
+    {
+      "key": "Documentación",
+      "value": ""
+    },
+    {
+      "key": "accrualPeriodicity",
+      "value": "eventual"
+    },
+    {
+      "key": "country",
+      "value": "None"
+    },
+    {
+      "key": "district",
+      "value": ""
+    },
+    {
+      "key": "home_featured",
+      "value": "false"
+    },
+    {
+      "key": "issued",
+      "value": "2019-01-08T14:52:20.687074"
+    },
+    {
+      "key": "language",
+      "value": "[]"
+    },
+    {
+      "key": "modified",
+      "value": "2021-02-26T17:48:29.615802"
+    },
+    {
+      "key": "province",
+      "value": ""
+    },
+    {
+      "key": "source",
+      "value": "Ministerio de Educación e Innovación. Secretaría de Ciencia, Tecnología e Innovación. SS de Ciudad Inteligente y Tecnología Educativa. DG Ciencias de la Información. Unidad de Sistemas de Información Geográfica (USIG)"
+    },
+    {
+      "key": "spatial",
+      "value": "None"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"ENVI\"]"
+    },
+    {
+      "key": "temporal",
+      "value": ""
+    }
+  ],
+  "groups": [
+    {
+      "description": "",
+      "display_name": "Medioambiente",
+      "id": "a99c1197-8379-4a60-a6eb-8737cab5ec4f",
+      "image_display_url": "https://data.buenosaires.gob.ar/uploads/group/2019-11-16-145003.550663medioambiente.png",
+      "name": "medioambiente",
+      "title": "Medioambiente"
+    }
+  ],
+  "id": "juqdkmgo-141",
+  "isopen": true,
+  "license_id": "CC-BY-2.5-AR",
+  "license_title": "Atribucion 2.5 Argentina (CC BY 2.5 AR)",
+  "license_url": "https://creativecommons.org/licenses/by/2.5/ar ",
+  "maintainer": "Secretaría General y Relaciones Internacionales. Subsecretaría Gestión Estratégica y Calidad Institucional. Dirección General Calidad Institucional y Gobierno Abierto",
+  "maintainer_email": "datosabiertos@buenosaires.gob.ar",
+  "metadata_created": "2019-12-11T18:06:28.878931",
+  "metadata_modified": "2021-02-26T20:48:29.649505",
+  "name": "medicion-radiaciones-no-ionizantes-rni",
+  "notes": "Información sobre el rango de las frecuencias y el valor de medición máximo registrado de las radiacionaes no ionizantes. En el mismo se muestra el emplazamiento de las antenas.",
+  "num_resources": 6,
+  "num_tags": 3,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-11-15T19:17:10.767872",
+    "description": "",
+    "id": "87797715-09c9-4b3e-9af6-074850fba840",
+    "image_url": "",
+    "is_organization": true,
+    "name": "agencia-de-proteccion-ambiental",
+    "revision_id": "31d4bbad-1773-4015-9f8e-2e040bc7900a",
+    "state": "active",
+    "title": "Agencia de Protección Ambiental",
+    "type": "organization"
+  },
+  "owner_org": "87797715-09c9-4b3e-9af6-074850fba840",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/medicion-de-radiaciones-no-ionizantes-rni",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-01-08T14:52:20.687074",
+      "datastore_active": false,
+      "description": "Puntos de medición.",
+      "fileName": "mediciones-rni-puntos-de-medicion.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "juqdkmgo-1411222-resource",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Mediciones RNI Puntos de medición",
+      "package_id": "juqdkmgo-141",
+      "position": 0,
+      "resource_type": "file",
+      "revision_id": "837c5931-2d61-4222-8e37-a5c7a062709f",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/medicion-de-radiaciones-no-ionizantes-rni/mediciones-rni-puntos-de-medicion.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/medicion-de-radiaciones-no-ionizantes-rni",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-01-08T14:52:20.687074",
+      "datastore_active": false,
+      "description": "Archivo shapefile de los puntos de medición de radiaciones no ionizantes.",
+      "fileName": "mediciones-rni-puntos-de-medicion-zip.zip",
+      "format": "ZIP",
+      "hash": "",
+      "id": "juqdkmgo-1412222-resource",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Mediciones RNI Puntos de medición (SHP)",
+      "package_id": "juqdkmgo-141",
+      "position": 1,
+      "resource_type": "file",
+      "revision_id": "405751d4-bbf0-4d42-972b-c23fe25a4fd4",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/medicion-de-radiaciones-no-ionizantes-rni/mediciones-rni-puntos-de-medicion-zip.zip",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/medicion-de-radiaciones-no-ionizantes-rni",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-01-08T14:52:20.687074",
+      "datastore_active": false,
+      "description": "Zonas de medición",
+      "fileName": "mediciones-rni-zonas-de-medicion.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "juqdkmgo-1413222-resource",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Mediciones RNI Zonas de medición",
+      "package_id": "juqdkmgo-141",
+      "position": 2,
+      "resource_type": "file",
+      "revision_id": "0f80919a-540f-4e2b-9f68-537f5deaf359",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/medicion-de-radiaciones-no-ionizantes-rni/mediciones-rni-zonas-de-medicion.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/medicion-de-radiaciones-no-ionizantes-rni",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-01-08T14:52:20.687074",
+      "datastore_active": false,
+      "description": "Archivo shapefile de las zonas de medición de radiaciones no ionizantes.",
+      "fileName": "mediciones-rni-zonas-de-medicion-zip.zip",
+      "format": "ZIP",
+      "hash": "",
+      "id": "juqdkmgo-1414222-resource",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Mediciones RNI Zonas de medición (SHP)",
+      "package_id": "juqdkmgo-141",
+      "position": 3,
+      "resource_type": "file",
+      "revision_id": "d9112a7f-ba72-4b19-9669-247b564f73f2",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/medicion-de-radiaciones-no-ionizantes-rni/mediciones-rni-zonas-de-medicion-zip.zip",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/medicion-de-radiaciones-no-ionizantes-rni",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-01-08T14:52:20.687074",
+      "datastore_active": false,
+      "description": "Puntos de medición.",
+      "fileName": "mediciones-rni-puntos-de-medicion.xlsx",
+      "format": "XLSX",
+      "hash": "",
+      "id": "juqdkmgo-1411222-resource-xlsx",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Mediciones RNI Puntos de medición (XLSX)",
+      "package_id": "juqdkmgo-141",
+      "position": 4,
+      "resource_type": "file",
+      "revision_id": "67f1953e-a64e-4c6e-bf6c-844dc2706662",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/medicion-de-radiaciones-no-ionizantes-rni/mediciones-rni-puntos-de-medicion.xlsx",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/medicion-de-radiaciones-no-ionizantes-rni",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-01-08T14:52:20.687074",
+      "datastore_active": false,
+      "description": "Zonas de medición",
+      "fileName": "mediciones-rni-zonas-de-medicion.xlsx",
+      "format": "XLSX",
+      "hash": "",
+      "id": "juqdkmgo-1413222-resource-xlsx",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Mediciones RNI Zonas de medición (XLSX)",
+      "package_id": "juqdkmgo-141",
+      "position": 5,
+      "resource_type": "file",
+      "revision_id": "5fff87a0-54d9-4746-97bf-a896128fa4ef",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/medicion-de-radiaciones-no-ionizantes-rni/mediciones-rni-zonas-de-medicion.xlsx",
+      "url_type": null
+    }
+  ],
+  "revision_id": "f475997f-b25c-4050-aac8-0e7ff9f4775d",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "antenas",
+      "id": "ce9dc905-1f2f-446c-ac98-cffba0ef477a",
+      "name": "antenas",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "contaminación",
+      "id": "fc8758d1-2f19-43d0-a6ab-f1c870eaf43f",
+      "name": "contaminación",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "radiación",
+      "id": "f6f355c4-aa8f-4f79-b743-862b53a832be",
+      "name": "radiación",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Medición de Radiaciones No Ionizantes (RNI)",
+  "type": "dataset",
+  "url": "https://data.buenosaires.gob.ar/dataset/medicion-radiaciones-no-ionizantes-rni",
+  "version": null
+}

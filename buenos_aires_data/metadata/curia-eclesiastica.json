@@ -1,0 +1,202 @@
+{
+  "author": "Arzobispado de Buenos Aires",
+  "author_email": "gobiernoabierto@buenosaires.gob.ar",
+  "creator_user_id": "e4546f46-e966-493c-b2f1-57318502c41b",
+  "extras": [
+    {
+      "key": "Documentación",
+      "value": ""
+    },
+    {
+      "key": "accrualPeriodicity",
+      "value": "eventual"
+    },
+    {
+      "key": "country",
+      "value": "None"
+    },
+    {
+      "key": "district",
+      "value": ""
+    },
+    {
+      "key": "home_featured",
+      "value": "false"
+    },
+    {
+      "key": "issued",
+      "value": "2019-02-01T20:21:25.925710"
+    },
+    {
+      "key": "language",
+      "value": "[]"
+    },
+    {
+      "key": "modified",
+      "value": "2020-12-04T10:26:36.631564"
+    },
+    {
+      "key": "province",
+      "value": ""
+    },
+    {
+      "key": "source",
+      "value": "Arzobispado de Buenos Aires"
+    },
+    {
+      "key": "spatial",
+      "value": "None"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"EDUC\"]"
+    },
+    {
+      "key": "temporal",
+      "value": ""
+    }
+  ],
+  "groups": [
+    {
+      "description": "Datasets relacionados con la cultura y el turismo",
+      "display_name": "Cultura y Turismo",
+      "id": "db2c0965-c659-4f94-8de9-41fce10f91a9",
+      "image_display_url": "https://data.buenosaires.gob.ar/uploads/group/2019-11-16-144908.071423cultura.png",
+      "name": "cultura-y-turismo",
+      "title": "Cultura y Turismo"
+    }
+  ],
+  "id": "3b29df6d-b44d-4329-83b1-9e71c4c3160c",
+  "isopen": true,
+  "license_id": "CC-BY-2.5-AR",
+  "license_title": "Atribucion 2.5 Argentina (CC BY 2.5 AR)",
+  "license_url": "https://creativecommons.org/licenses/by/2.5/ar ",
+  "maintainer": "Gerencia Operativa de Ingeniería de Datos. DG Arquitectura de Datos. SS de Políticas Públicas Basadas en Evidencia. Secretaría de Innovación y Transformación Digital. Jefatura de Gabinete de Ministros",
+  "maintainer_email": "gobiernoabierto@buenosaires.gob.ar",
+  "metadata_created": "2019-12-11T18:34:31.619271",
+  "metadata_modified": "2020-12-17T16:00:42.053947",
+  "name": "curia-eclesiastica",
+  "notes": "Edificios de la Curia eclesiástica ubicados en la Ciudad.",
+  "num_resources": 3,
+  "num_tags": 3,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-11-15T19:16:33.772140",
+    "description": "",
+    "id": "8862c931-b89e-44c6-9567-79a33d0174e3",
+    "image_url": "",
+    "is_organization": true,
+    "name": "secretaria-general-y-relaciones-internacionales",
+    "revision_id": "7607a9d6-dd19-4643-bf63-3a43148dab03",
+    "state": "active",
+    "title": "Secretaría General y Relaciones Internacionales",
+    "type": "organization"
+  },
+  "owner_org": "8862c931-b89e-44c6-9567-79a33d0174e3",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/3b29df6d-b44d-4329-83b1-9e71c4c3160c/resource/d5253869-1cdd-463d-9fef-45e1cc55c452",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-02-01T17:22:34.525219",
+      "datastore_active": false,
+      "description": "Edificios de la Curia Eclesiástica ubicados en la Ciudad.",
+      "fileName": "curias.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "d5253869-1cdd-463d-9fef-45e1cc55c452",
+      "last_modified": "2019-02-01T17:22:34.525219",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Curia Eclesiástica",
+      "package_id": "3b29df6d-b44d-4329-83b1-9e71c4c3160c",
+      "position": 0,
+      "resource_type": "file",
+      "revision_id": "79c77b1b-6ebb-4dce-94f0-fb25de3a804e",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/curias/curias.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/3b29df6d-b44d-4329-83b1-9e71c4c3160c/resource/a393582c-d921-4dd6-b882-a847dc1e0d0d",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-02-01T17:23:21.957759",
+      "datastore_active": false,
+      "description": "Archivo shapefile de los edificios de la Curia Eclesiástica ubicados en la Ciudad.",
+      "fileName": "curias.zip",
+      "format": "ZIP",
+      "hash": "",
+      "id": "a393582c-d921-4dd6-b882-a847dc1e0d0d",
+      "last_modified": "2019-02-01T17:23:21.957759",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Curia Eclesiástica (SHP)",
+      "package_id": "3b29df6d-b44d-4329-83b1-9e71c4c3160c",
+      "position": 1,
+      "resource_type": "file",
+      "revision_id": "dbd8eea4-4635-4a80-a2af-88edbe9d1425",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/curias/curias.zip",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/3b29df6d-b44d-4329-83b1-9e71c4c3160c/resource/d5253869-1cdd-463d-9fef-45e1cc55c452",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-02-01T17:22:34.525219",
+      "datastore_active": false,
+      "description": "Edificios de la Curia Eclesiástica ubicados en la Ciudad.",
+      "fileName": "curias.xlsx",
+      "format": "XLSX",
+      "hash": "",
+      "id": "d5253869-1cdd-463d-9fef-45e1cc55c452-xlsx",
+      "last_modified": "2019-02-01T17:22:34.525219",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Curia Eclesiástica (XLSX)",
+      "package_id": "3b29df6d-b44d-4329-83b1-9e71c4c3160c",
+      "position": 2,
+      "resource_type": "file",
+      "revision_id": "31ffff5b-7f1f-48c0-a171-9152f95bb235",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/curias/curias.xlsx",
+      "url_type": null
+    }
+  ],
+  "revision_id": "6a662f2b-eec6-4edd-8716-e4af91a9cdc6",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "curias",
+      "id": "40517063-876d-4de9-a1aa-9ca217a356c0",
+      "name": "curias",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "lugares de culto",
+      "id": "73d53a2f-6725-4009-8ad5-0bdec07710c8",
+      "name": "lugares de culto",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "religion",
+      "id": "a436d5f5-03bd-4a50-a0d6-ef75373c62c9",
+      "name": "religion",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Curia Eclesiástica",
+  "type": "dataset",
+  "url": "http://data.buenosaires.gob.ar/dataset/curia-eclesiastica",
+  "version": null
+}

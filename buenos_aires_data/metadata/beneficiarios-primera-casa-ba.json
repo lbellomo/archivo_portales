@@ -1,0 +1,211 @@
+{
+  "author": "Instituto de Vivienda de la Ciudad (IVC)",
+  "author_email": "gobiernoabierto@buenosaires.gob.ar",
+  "creator_user_id": "e4546f46-e966-493c-b2f1-57318502c41b",
+  "extras": [
+    {
+      "key": "Documentación",
+      "value": ""
+    },
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P1Y"
+    },
+    {
+      "key": "country",
+      "value": "None"
+    },
+    {
+      "key": "district",
+      "value": ""
+    },
+    {
+      "key": "home_featured",
+      "value": "false"
+    },
+    {
+      "key": "issued",
+      "value": "2019-09-23T14:03:44.777286"
+    },
+    {
+      "key": "language",
+      "value": "[]"
+    },
+    {
+      "key": "modified",
+      "value": "2020-01-31T15:00:12.015887"
+    },
+    {
+      "key": "province",
+      "value": ""
+    },
+    {
+      "key": "source",
+      "value": "Instituto de Vivienda de la Ciudad (IVC)"
+    },
+    {
+      "key": "spatial",
+      "value": "None"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"GOVE\",\"REGI\"]"
+    },
+    {
+      "key": "temporal",
+      "value": ""
+    }
+  ],
+  "groups": [
+    {
+      "description": "",
+      "display_name": "Administración Pública",
+      "id": "8cb134a8-90ea-4e69-a96d-c03449917dc9",
+      "image_display_url": "https://data.buenosaires.gob.ar/uploads/group/2019-11-16-144810.360383adminpublica.png",
+      "name": "administracion-publica",
+      "title": "Administración Pública"
+    },
+    {
+      "description": "Datos abiertos relacionados al Desarrollo Humano",
+      "display_name": "Desarrollo Humano",
+      "id": "9d791ab5-130b-4bdb-bebf-b14cf2528781",
+      "image_display_url": "https://data.buenosaires.gob.ar/uploads/group/2020-01-31-175946.842561desarrollo-humano.png",
+      "name": "desarrollo-humano",
+      "title": "Desarrollo Humano"
+    },
+    {
+      "description": "",
+      "display_name": "Género",
+      "id": "3d97d3f5-206f-4719-8a06-54c709a25893",
+      "image_display_url": "https://data.buenosaires.gob.ar/uploads/group/2019-11-19-182128.307764genero720.png",
+      "name": "genero",
+      "title": "Género"
+    },
+    {
+      "description": "Datasets relacionados con urbanismo y territorio",
+      "display_name": "Urbanismo y Territorio",
+      "id": "63e162a0-3f4a-446a-a60b-601d16f36200",
+      "image_display_url": "https://data.buenosaires.gob.ar/uploads/group/2019-11-16-145056.781692urba.png",
+      "name": "urbanismo-y-territorio",
+      "title": "Urbanismo y Territorio"
+    }
+  ],
+  "id": "907776d6-6e51-4379-98ca-fcfdbe097c27",
+  "isopen": true,
+  "license_id": "CC-BY-2.5-AR",
+  "license_title": "Atribucion 2.5 Argentina (CC BY 2.5 AR)",
+  "license_url": "https://creativecommons.org/licenses/by/2.5/ar ",
+  "maintainer": "Secretaría General y Relaciones Internacionales. Subsecretaría Gestión Estratégica y Calidad Institucional. Dirección General Calidad Institucional y Gobierno Abierto",
+  "maintainer_email": "gobiernoabierto@buenosaires.gob.ar",
+  "metadata_created": "2019-12-11T18:03:48.069231",
+  "metadata_modified": "2020-12-17T15:29:01.562878",
+  "name": "beneficiarios-primera-casa-ba",
+  "notes": "Información de los beneficiarios de los créditos \"Primera Casa BA\" otorgados por el Instituto de Vivienda de la Ciudad.",
+  "num_resources": 2,
+  "num_tags": 4,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-11-15T19:14:10.756566",
+    "description": "",
+    "id": "7eb79ff7-df01-4517-9b0e-a7aabdab7ae6",
+    "image_url": "",
+    "is_organization": true,
+    "name": "instituto-de-vivienda",
+    "revision_id": "3c1abfb2-a3aa-4f29-9d19-051811602e20",
+    "state": "active",
+    "title": "Instituto de Vivienda de la Ciudad (IVC)",
+    "type": "organization"
+  },
+  "owner_org": "7eb79ff7-df01-4517-9b0e-a7aabdab7ae6",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/907776d6-6e51-4379-98ca-fcfdbe097c27/resource/28668b40-6680-487f-acd6-2ec3d2a63e95",
+      "attributesDescription": "[{\"title\": \"genero\", \"type\": \"string\", \"description\": \"G\\u00e9nero del beneficiario/a\"}, {\"title\": \"nivel_educativo\", \"type\": \"string\", \"description\": \"Nivel educativo del beneficiario/a\"}, {\"title\": \"edad\", \"type\": \"integer\", \"description\": \"Edad del beneficiario/a\"}, {\"title\": \"ingreso_conjunto\", \"type\": \"integer\", \"description\": \"Ingreso del conjunto familiar beneficiario del cr\\u00e9dito\"}, {\"title\": \"smvm\", \"type\": \"integer\", \"description\": \"Salario m\\u00ednimo, vital y m\\u00f3vil al momento de ser otorgado el cr\\u00e9dito\"}, {\"title\": \"alquila\", \"type\": \"integer\", \"description\": \"Indica si se encuentra alquilando su actual propiedad\"}, {\"title\": \"condicion_laboral_primaria\", \"type\": \"string\", \"description\": \"Condici\\u00f3n laboral primaria del beneficario/a\"}, {\"title\": \"condicion_laboral_secundaria\", \"type\": \"string\", \"description\": \"Condici\\u00f3n laboral secundaria del beneficario/a\"}, {\"title\": \"localidad\", \"type\": \"string\", \"description\": \"Localidad del beneficario/a\"}, {\"title\": \"comuna\", \"type\": \"integer\", \"description\": \"Comuna del beneficario/a\"}, {\"title\": \"barrio\", \"type\": \"string\", \"description\": \"Barrio del beneficiario/a en el caso de que sea en la Ciudad Aut\\u00f3noma de Buenos Aires\"}, {\"title\": \"partido\", \"type\": \"string\", \"description\": \"Partido del beneficiario/a en el caso de que sea Provincia de Buenos Aires\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-10-21T17:06:55.317083",
+      "datastore_active": true,
+      "description": "Listado con información de los beneficiarios de los créditos \"Primera Casa BA\" en el año 2018. Incluye género, nivel educativo, edad, condición laboral, entre otras.",
+      "fileName": "beneficiarios_primera_casa_BA-2018.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "28668b40-6680-487f-acd6-2ec3d2a63e95",
+      "last_modified": "2019-10-21T17:06:55.317083",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Beneficarios Primera Casa BA 2018",
+      "package_id": "907776d6-6e51-4379-98ca-fcfdbe097c27",
+      "position": 0,
+      "resource_type": "file",
+      "revision_id": "d9317d3f-4646-4ca2-928e-fc5a582d8a66",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/beneficiarios-primeracasa-ba/beneficiarios_primera_casa_BA-2018.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/907776d6-6e51-4379-98ca-fcfdbe097c27/resource/d05e3d1e-4df7-4b9d-82ea-7be387a7d5bf",
+      "attributesDescription": "[{\"title\": \"genero\", \"type\": \"string\", \"description\": \"G\\u00e9nero del beneficiario/a\"}, {\"title\": \"nivel_educativo\", \"type\": \"string\", \"description\": \"Nivel educativo del beneficiario/a\"}, {\"title\": \"edad\", \"type\": \"integer\", \"description\": \"Edad del beneficiario/a\"}, {\"title\": \"ingreso_conjunto\", \"type\": \"integer\", \"description\": \"Ingreso del conjunto familiar beneficiario del cr\\u00e9dito\"}, {\"title\": \"smvm\", \"type\": \"integer\", \"description\": \"Salario m\\u00ednimo, vital y m\\u00f3vil al momento de ser otorgado el cr\\u00e9dito\"}, {\"title\": \"alquila\", \"type\": \"string\", \"description\": \"Indica si se encuentra alquilando su actual propiedad\"}, {\"title\": \"condicion_laboral_primaria\", \"type\": \"string\", \"description\": \"Condici\\u00f3n laboral primaria del beneficario/a\"}, {\"title\": \"condicion_laboral_secundaria\", \"type\": \"string\", \"description\": \"Condici\\u00f3n laboral secundaria del beneficario/a\"}, {\"title\": \"localidad\", \"type\": \"string\", \"description\": \"Localidad del beneficario/a\"}, {\"title\": \"comuna\", \"type\": \"integer\", \"description\": \"Comuna del beneficario/a\"}, {\"title\": \"barrio\", \"type\": \"string\", \"description\": \"Barrio del beneficiario/a en el caso de que sea en la Ciudad Aut\\u00f3noma de Buenos Aires\"}, {\"title\": \"Partido\", \"type\": \"string\", \"description\": \"Partido del beneficiario/a en el caso de que sea Provincia de Buenos Aires\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-10-21T17:19:13.476196",
+      "datastore_active": false,
+      "description": "Archivo excel del listado de Beneficiarios del programa Primera Casa BA en el año 2018",
+      "fileName": "beneficiarios_primera_casa_BA-2018.xlsx",
+      "format": "XLSX",
+      "hash": "",
+      "id": "d05e3d1e-4df7-4b9d-82ea-7be387a7d5bf",
+      "last_modified": "2019-10-21T17:19:13.476196",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Beneficiarios Primera Casa BA 2018",
+      "package_id": "907776d6-6e51-4379-98ca-fcfdbe097c27",
+      "position": 1,
+      "resource_type": "file",
+      "revision_id": "4660e999-9299-42d3-b96d-62fc47656017",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/beneficiarios-primeracasa-ba/beneficiarios_primera_casa_BA-2018.xlsx",
+      "url_type": null
+    }
+  ],
+  "revision_id": "4ba381c8-c2df-43ad-8258-9af4ebea4664",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "creditos",
+      "id": "2bea17bc-137a-42d7-ab41-eac8ae399f28",
+      "name": "creditos",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "primeracasa",
+      "id": "688ea44b-775a-4f2b-be88-10036cfe6502",
+      "name": "primeracasa",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "propiedad",
+      "id": "912dcdf0-fb25-4947-b423-47339cd6518e",
+      "name": "propiedad",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "vivienda",
+      "id": "57c1b060-1ad9-42f9-bf42-9064fc6bf2de",
+      "name": "vivienda",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Beneficiarios Primera Casa BA",
+  "type": "dataset",
+  "url": "https://data.buenosaires.gob.ar/dataset/beneficiarios-primera-casa-ba",
+  "version": null
+}

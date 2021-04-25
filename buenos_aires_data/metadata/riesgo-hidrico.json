@@ -1,0 +1,261 @@
+{
+  "author": "Subsecretaría de Registro, Interpretación y Catastro. Secretaría de Desarrollo Urbano. Jefatura de Gabinete de Ministros",
+  "author_email": "datosabiertos@buenosaires.gob.ar",
+  "creator_user_id": "3ff46b8e-0885-4233-9acd-90f8b7e76333",
+  "extras": [
+    {
+      "key": "Documentación",
+      "value": ""
+    },
+    {
+      "key": "accrualPeriodicity",
+      "value": "eventual"
+    },
+    {
+      "key": "country",
+      "value": "None"
+    },
+    {
+      "key": "district",
+      "value": ""
+    },
+    {
+      "key": "home_featured",
+      "value": "false"
+    },
+    {
+      "key": "issued",
+      "value": "2020-12-14T10:49:31.595570"
+    },
+    {
+      "key": "language",
+      "value": "[]"
+    },
+    {
+      "key": "modified",
+      "value": "2020-12-14T12:42:00.768726"
+    },
+    {
+      "key": "province",
+      "value": ""
+    },
+    {
+      "key": "source",
+      "value": "Subsecretaría de Registro, Interpretación y Catastro. Secretaría de Desarrollo Urbano. Jefatura de Gabinete de Ministros"
+    },
+    {
+      "key": "spatial",
+      "value": "None"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"GOVE\",\"REGI\"]"
+    },
+    {
+      "key": "temporal",
+      "value": ""
+    }
+  ],
+  "groups": [
+    {
+      "description": "Datasets relacionados con urbanismo y territorio",
+      "display_name": "Urbanismo y Territorio",
+      "id": "63e162a0-3f4a-446a-a60b-601d16f36200",
+      "image_display_url": "https://data.buenosaires.gob.ar/uploads/group/2019-11-16-145056.781692urba.png",
+      "name": "urbanismo-y-territorio",
+      "title": "Urbanismo y Territorio"
+    }
+  ],
+  "id": "a753549b-496e-42ac-be2e-4103106ff099",
+  "isopen": true,
+  "license_id": "CC-BY-2.5-AR",
+  "license_title": "Atribucion 2.5 Argentina (CC BY 2.5 AR)",
+  "license_url": "https://creativecommons.org/licenses/by/2.5/ar ",
+  "maintainer": "Gerencia Operativa de Ingeniería de Datos. DG Arquitectura de Datos. SS de Políticas Públicas Basadas en Evidencia. Secretaría de Innovación y Transformación Digital. Jefatura de Gabinete de Ministros",
+  "maintainer_email": "datosabiertos@buenosaires.gob.ar",
+  "metadata_created": "2020-11-30T12:57:11.346709",
+  "metadata_modified": "2020-12-14T19:42:08.203533",
+  "name": "riesgo-hidrico",
+  "notes": "Información geográfica sobre riesgo hídrico en la Ciudad. ",
+  "num_resources": 4,
+  "num_tags": 4,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-11-15T19:19:23.733985",
+    "description": "",
+    "id": "eddbd148-4cef-40e1-87f7-94345c709aad",
+    "image_url": "",
+    "is_organization": true,
+    "name": "secretaria-de-desarrollo-urbano",
+    "revision_id": "14b2ab11-275f-4466-b2f4-4b60ff08fa3e",
+    "state": "active",
+    "title": "Secretaría de Desarrollo Urbano",
+    "type": "organization"
+  },
+  "owner_org": "eddbd148-4cef-40e1-87f7-94345c709aad",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "",
+      "accessURL_field": "",
+      "attributesDescription": "[{\"title\":\"Entity\",\"description\":\"El polígono delimita las áreas con mayor probabilidad de inundación de acuerdo al estudio realizado por la Unidad de Proyectos Especiales Plan Hidráulico (UPEPH)\",\"type\":\"string\"},{\"title\":\"m2\",\"description\":\"Poligono establecido en el Plano N° 7.2.8.3.1 del Código Urbanístico aprobado el 06/12/2018. Delimita las áreas de prevención de Riesgo Hídrico de acuerdo a lo establecido en su artículo 7.2.8.3.1\",\"type\":\"number\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2020-12-14T15:06:05.782428",
+      "datastore_active": false,
+      "description": "Plano N° 7.2.8.3.1 del Código Urbanístico: Áreas de prevención de Riesgo Hídrico",
+      "fileName": "",
+      "format": "ZIP",
+      "has-uploaded-file": "",
+      "hash": "",
+      "icon_url": "",
+      "id": "cd001c6f-a5c1-467d-b49e-4af6556e9d17",
+      "issued": "2020-12-14T15:06:05.782428",
+      "last_modified": "2020-12-14T00:00:00",
+      "license_id": "CC-BY-4.0",
+      "mimetype": "application/zip",
+      "mimetype_inner": null,
+      "modified": "2020-12-14T16:42:08.183207",
+      "name": "Riesgo hidrico (SHP)",
+      "package_id": "a753549b-496e-42ac-be2e-4103106ff099",
+      "position": 0,
+      "resource_type": "file",
+      "revision_id": "c972f152-58ca-4e5b-a208-f7d693cb461e",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/riesgo-hidrico/Riesgo-hidrico.zip",
+      "url_type": null
+    },
+    {
+      "accessURL": "",
+      "accessURL_field": "",
+      "attributesDescription": "[{\"title\":\"Entity\",\"description\":\"El polígono delimita las áreas con mayor probabilidad de inundación de acuerdo al estudio realizado por la Unidad de Proyectos Especiales Plan Hidráulico (UPEPH) \",\"type\":\"string\"},{\"title\":\"m2\",\"description\":\"Poligono establecido en el Plano N° 7.2.8.3.1 del Código Urbanístico aprobado el 06/12/2018. Delimita las áreas de prevención de Riesgo Hídrico de acuerdo a lo establecido en su artículo 7.2.8.3.1 \",\"type\":\"number\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2020-12-14T15:20:54.369761",
+      "datastore_active": false,
+      "description": "Plano N° 7.2.8.3.1 del Código Urbanístico: Áreas de prevención de Riesgo Hídrico",
+      "fileName": "",
+      "format": "CSV",
+      "has-uploaded-file": "",
+      "hash": "",
+      "icon_url": "",
+      "id": "d1e10652-bb22-476a-8bca-67b9492ae593",
+      "issued": "2020-12-14T15:20:54.369761",
+      "last_modified": "2020-12-14T00:00:00",
+      "license_id": "CC-BY-4.0",
+      "mimetype": "text/csv",
+      "mimetype_inner": null,
+      "modified": "2020-12-14T12:22:36.865606",
+      "name": "Riesgo hidrico",
+      "package_id": "a753549b-496e-42ac-be2e-4103106ff099",
+      "position": 1,
+      "resource_type": "file",
+      "revision_id": "136943f5-bc99-44cf-9d38-099d731cda61",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/riesgo-hidrico/riesgo-hidrico.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "",
+      "accessURL_field": "",
+      "attributesDescription": "[{\"title\":\"Entity\",\"description\":\"El polígono delimita las áreas con mayor probabilidad de inundación de acuerdo al estudio realizado por la Unidad de Proyectos Especiales Plan Hidráulico (UPEPH) \",\"type\":\"string\"},{\"title\":\"m2\",\"description\":\"Poligono establecido en el Plano N° 7.2.8.3.1 del Código Urbanístico aprobado el 06/12/2018. Delimita las áreas de prevención de Riesgo Hídrico de acuerdo a lo establecido en su artículo 7.2.8.3.1 \",\"type\":\"number\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2020-12-14T15:20:59.198976",
+      "datastore_active": false,
+      "description": "Plano N° 7.2.8.3.1 del Código Urbanístico: Áreas de prevención de Riesgo Hídrico",
+      "fileName": "",
+      "format": "GeoJSON",
+      "has-uploaded-file": "",
+      "hash": "",
+      "icon_url": "",
+      "id": "2c61ce5e-198a-4476-9065-7ea1b8571268",
+      "issued": "2020-12-14T15:20:59.198976",
+      "last_modified": "2020-12-14T00:00:00",
+      "license_id": "CC-BY-4.0",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "modified": "2020-12-14T12:22:44.540862",
+      "name": "Riesgo hidrico (GEOJSON)",
+      "package_id": "a753549b-496e-42ac-be2e-4103106ff099",
+      "position": 2,
+      "resource_type": "file",
+      "revision_id": "bd5d7bc6-8907-4872-af94-3c7235be2e91",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/riesgo-hidrico/riesgo-hidrico.geojson",
+      "url_type": null
+    },
+    {
+      "accessURL": "",
+      "accessURL_field": "",
+      "attributesDescription": "[{\"title\":\"Entity\",\"description\":\"El polígono delimita las áreas con mayor probabilidad de inundación de acuerdo al estudio realizado por la Unidad de Proyectos Especiales Plan Hidráulico (UPEPH) \",\"type\":\"string\"},{\"title\":\"m2\",\"description\":\"Poligono establecido en el Plano N° 7.2.8.3.1 del Código Urbanístico aprobado el 06/12/2018. Delimita las áreas de prevención de Riesgo Hídrico de acuerdo a lo establecido en su artículo 7.2.8.3.1 \",\"type\":\"number\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2020-12-14T15:27:27.831018",
+      "datastore_active": false,
+      "description": "Plano N° 7.2.8.3.1 del Código Urbanístico: Áreas de prevención de Riesgo Hídrico",
+      "fileName": "",
+      "format": "XLSX",
+      "has-uploaded-file": "",
+      "hash": "",
+      "icon_url": "",
+      "id": "942ee103-ec55-4ef9-82b3-f17433197247",
+      "issued": "2020-12-14T15:27:27.831018",
+      "last_modified": "2020-12-14T00:00:00",
+      "license_id": "CC-BY-4.0",
+      "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "mimetype_inner": null,
+      "modified": "2020-12-14T12:30:16.200571",
+      "name": "Riesgo hidrico (XLSX)",
+      "package_id": "a753549b-496e-42ac-be2e-4103106ff099",
+      "position": 3,
+      "resource_type": "file",
+      "revision_id": "12def132-a772-4984-b723-017ad5c1d714",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/riesgo-hidrico/riesgo-hidrico.xlsx",
+      "url_type": null
+    }
+  ],
+  "revision_id": "f9f91ecb-07f7-45d4-af3e-9f69630a5759",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "afectaciones",
+      "id": "490528f3-24c4-4e1e-b225-5c88084874f6",
+      "name": "afectaciones",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "cur3d",
+      "id": "bf125fc5-008f-4671-b9f1-e3552eb052dd",
+      "name": "cur3d",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "código urbanístico",
+      "id": "be98c719-1440-4196-a4f4-0d6fe5d07b8c",
+      "name": "código urbanístico",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "riesgo hídrico",
+      "id": "94aabc29-4982-49af-b34e-3c2a367fef13",
+      "name": "riesgo hídrico",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Riesgo Hídrico",
+  "type": "dataset",
+  "url": "https://data.buenosaires.gob.ar/dataset/riesgo-hidrico",
+  "version": null
+}

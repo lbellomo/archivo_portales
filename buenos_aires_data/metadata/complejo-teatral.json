@@ -1,0 +1,254 @@
+{
+  "author": "Subsecretaría de Gestión Cultural. Ministerio de Cultura",
+  "author_email": "datosabiertos@buenosaires.gob.ar",
+  "creator_user_id": "e4546f46-e966-493c-b2f1-57318502c41b",
+  "extras": [
+    {
+      "key": "Documentación",
+      "value": ""
+    },
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P1Y"
+    },
+    {
+      "key": "country",
+      "value": "None"
+    },
+    {
+      "key": "district",
+      "value": ""
+    },
+    {
+      "key": "home_featured",
+      "value": "false"
+    },
+    {
+      "key": "issued",
+      "value": "2019-01-08T14:50:14.849012"
+    },
+    {
+      "key": "language",
+      "value": "[]"
+    },
+    {
+      "key": "modified",
+      "value": "2021-03-04"
+    },
+    {
+      "key": "province",
+      "value": ""
+    },
+    {
+      "key": "source",
+      "value": "Subsecretaría de Gestión Cultural. Ministerio de Cultura"
+    },
+    {
+      "key": "spatial",
+      "value": "None"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"EDUC\"]"
+    },
+    {
+      "key": "temporal",
+      "value": ""
+    }
+  ],
+  "groups": [
+    {
+      "description": "Datasets relacionados con la cultura y el turismo",
+      "display_name": "Cultura y Turismo",
+      "id": "db2c0965-c659-4f94-8de9-41fce10f91a9",
+      "image_display_url": "https://data.buenosaires.gob.ar/uploads/group/2019-11-16-144908.071423cultura.png",
+      "name": "cultura-y-turismo",
+      "title": "Cultura y Turismo"
+    }
+  ],
+  "id": "juqdkmgo-60",
+  "isopen": true,
+  "license_id": "CC-BY-2.5-AR",
+  "license_title": "Atribucion 2.5 Argentina (CC BY 2.5 AR)",
+  "license_url": "https://creativecommons.org/licenses/by/2.5/ar ",
+  "maintainer": "Gerencia Operativa de Ingeniería de Datos. DG Arquitectura de Datos. SS de Políticas Públicas Basadas en Evidencia. Secretaría de Innovación y Transformación Digital. Jefatura de Gabinete de Ministros",
+  "maintainer_email": "datosabiertos@buenosaires.gob.ar",
+  "metadata_created": "2019-12-11T18:10:46.787818",
+  "metadata_modified": "2021-03-04T14:01:59.986569",
+  "name": "complejo-teatral",
+  "notes": "Información de la obras ofrecidas en los Teatros San Martín, Sarmiento, Regio y De la Ribera.",
+  "num_resources": 4,
+  "num_tags": 3,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-11-15T19:18:00.924241",
+    "description": "",
+    "id": "247e42eb-6f1b-4c63-8d1a-41794d0ab40d",
+    "image_url": "",
+    "is_organization": true,
+    "name": "ministerio-de-cultura",
+    "revision_id": "6b85d99d-281d-4098-b229-bbf2ac1834d9",
+    "state": "active",
+    "title": "Ministerio de Cultura",
+    "type": "organization"
+  },
+  "owner_org": "247e42eb-6f1b-4c63-8d1a-41794d0ab40d",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/complejo-teatral",
+      "accessURL_field": "",
+      "attributesDescription": "[]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-01-08T14:50:14.849012",
+      "datastore_active": false,
+      "description": "Obras ofrecidas en los Teatros en 2017, 2018 y 2019. En el año 2020 los teatros estuvieron cerrados debido a la pandemia COVID-19. ",
+      "fileName": "complejo-teatral.csv",
+      "format": "CSV",
+      "has-uploaded-file": "",
+      "hash": "",
+      "icon_url": "",
+      "id": "juqdkmgo-601-resource",
+      "issued": "2019-01-08T14:50:14.849012",
+      "last_modified": null,
+      "license_id": "CC-BY-4.0",
+      "mimetype": "text/csv",
+      "mimetype_inner": null,
+      "modified": "2021-03-04",
+      "name": "Complejo Teatral",
+      "package_id": "juqdkmgo-60",
+      "position": 0,
+      "resource_type": "file",
+      "revision_id": "5ebb32af-e2ca-4c73-9da7-c143d38471d6",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/ministerio-de-cultura/complejo-teatral/complejo-teatral.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/complejo-teatral",
+      "accessURL_field": "",
+      "attributesDescription": "[]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-01-08T14:50:14.849012",
+      "datastore_active": false,
+      "description": "Entradas de Obras ofrecidas en los Teatros.",
+      "fileName": "",
+      "format": "CSV",
+      "has-uploaded-file": "",
+      "hash": "",
+      "icon_url": "",
+      "id": "juqdkmgo-602-resource",
+      "issued": "2019-01-08T14:50:14.849012",
+      "last_modified": null,
+      "license_id": "CC-BY-4.0",
+      "mimetype": "text/csv",
+      "mimetype_inner": null,
+      "modified": "2021-03-04T10:01:58.904890",
+      "name": "Entradas Complejo Teatral",
+      "package_id": "juqdkmgo-60",
+      "position": 1,
+      "resource_type": "file",
+      "revision_id": "a3eb98d1-088a-4327-b24f-c6fbd5f5964b",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/ministerio-de-cultura/complejo-teatral/entradas-complejo-teatral.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/complejo-teatral",
+      "accessURL_field": "",
+      "attributesDescription": "[]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-01-08T14:50:14.849012",
+      "datastore_active": false,
+      "description": "Obras ofrecidas en los Teatros en 2017, 2018 y 2019. En el año 2020 los teatros estuvieron cerrados debido a la pandemia COVID-19.",
+      "fileName": "",
+      "format": "XLSX",
+      "has-uploaded-file": "",
+      "hash": "",
+      "icon_url": "",
+      "id": "juqdkmgo-601-resource-xlsx",
+      "issued": "2019-01-08T14:50:14.849012",
+      "last_modified": null,
+      "license_id": "CC-BY-4.0",
+      "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "mimetype_inner": null,
+      "modified": "2021-03-04T11:01:48.609660",
+      "name": "Complejo Teatral (XLSX)",
+      "package_id": "juqdkmgo-60",
+      "position": 2,
+      "resource_type": "file",
+      "revision_id": "cba814e3-6045-427e-adee-05bec1be60ab",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/ministerio-de-cultura/complejo-teatral/complejo-teatral.xlsx",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/complejo-teatral",
+      "accessURL_field": "",
+      "attributesDescription": "[]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-01-08T14:50:14.849012",
+      "datastore_active": false,
+      "description": "Entradas de Obras ofrecidas en los Teatros.",
+      "fileName": "",
+      "format": "XLSX",
+      "has-uploaded-file": "",
+      "hash": "",
+      "icon_url": "",
+      "id": "juqdkmgo-602-resource-xlsx",
+      "issued": "2019-01-08T14:50:14.849012",
+      "last_modified": null,
+      "license_id": "CC-BY-4.0",
+      "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "mimetype_inner": null,
+      "modified": "2021-03-04T11:01:59.964225",
+      "name": "Entradas Complejo Teatral (XLSX)",
+      "package_id": "juqdkmgo-60",
+      "position": 3,
+      "resource_type": "file",
+      "revision_id": "e7192e42-33a4-4595-ba73-6fe57a7fea60",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/ministerio-de-cultura/complejo-teatral/entradas-complejo-teatral.xlsx",
+      "url_type": null
+    }
+  ],
+  "revision_id": "f291e7a8-ae04-4ee5-98c9-8b74df11584f",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "cultura-recreación",
+      "id": "bad4ecb7-dd8b-4c33-8730-a7f038f13a0f",
+      "name": "cultura-recreación",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "obras",
+      "id": "0a47fdfe-85d2-4a40-ac76-a643f3274d0f",
+      "name": "obras",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "teatro",
+      "id": "4cc03b2c-a4b8-4bd4-b060-d07d0198e0b7",
+      "name": "teatro",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Complejo Teatral",
+  "type": "dataset",
+  "url": "https://data.buenosaires.gob.ar/dataset/complejo-teatral",
+  "version": null
+}

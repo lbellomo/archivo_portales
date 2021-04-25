@@ -1,0 +1,214 @@
+{
+  "author": "Secretaria de Innovación y Transformación Digital. Jefatura de Gabinete de Ministros",
+  "author_email": "datosabiertos@buenosaires.gob.ar",
+  "creator_user_id": "931fac92-738f-4472-b1c1-f5c2f6e46af3",
+  "extras": [
+    {
+      "key": "Documentación",
+      "value": "https://www.buenosaires.gob.ar/desarrollourbano/transporte/apitransporte/api-doc"
+    },
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P1D"
+    },
+    {
+      "key": "country",
+      "value": "None"
+    },
+    {
+      "key": "district",
+      "value": ""
+    },
+    {
+      "key": "home_featured",
+      "value": "false"
+    },
+    {
+      "key": "issued",
+      "value": "2020-07-22T12:02:42.584639"
+    },
+    {
+      "key": "language",
+      "value": "[]"
+    },
+    {
+      "key": "modified",
+      "value": "2021-04-25"
+    },
+    {
+      "key": "province",
+      "value": ""
+    },
+    {
+      "key": "source",
+      "value": "Secretaria de Innovación y Transformación Digital. Jefatura de Gabinete de Ministros"
+    },
+    {
+      "key": "spatial",
+      "value": "None"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"TRAN\"]"
+    },
+    {
+      "key": "temporal",
+      "value": ""
+    }
+  ],
+  "groups": [
+    {
+      "description": "Datasets relacionados a COVID-19",
+      "display_name": "COVID-19",
+      "id": "0f30f631-df60-4d33-aedb-96c9a48a2332",
+      "image_display_url": "https://data.buenosaires.gob.ar/uploads/group/2020-07-23-165939.349779iconocovid19.png",
+      "name": "covid-19",
+      "title": "COVID-19"
+    },
+    {
+      "description": "",
+      "display_name": "Movilidad",
+      "id": "e616e02e-64d8-4fb0-b55d-08e75eb58376",
+      "image_display_url": "https://data.buenosaires.gob.ar/uploads/group/2019-11-16-145017.234366movilidad.png",
+      "name": "movilidad",
+      "title": "Movilidad"
+    }
+  ],
+  "id": "a30c6da0-4c63-4f3a-a2b3-8f89299b84ba",
+  "isopen": true,
+  "license_id": "CC-BY-2.5-AR",
+  "license_title": "Atribucion 2.5 Argentina (CC BY 2.5 AR)",
+  "license_url": "https://creativecommons.org/licenses/by/2.5/ar ",
+  "maintainer": "Secretaria de Innovación y Transformación Digital. Jefatura de Gabinete de Ministros",
+  "maintainer_email": "datosabiertos@buenosaires.gob.ar",
+  "metadata_created": "2020-07-07T15:40:58.098996",
+  "metadata_modified": "2021-04-25T04:00:25.750786",
+  "name": "flujo-vehicular-anillo-digital",
+  "notes": "Cantidad de vehículos detectados en los sensores de tránsito de la Ciudad. Información disponible en la API de Transporte de la Ciudad.",
+  "num_resources": 2,
+  "num_tags": 5,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-11-15T19:19:49.916928",
+    "description": "",
+    "id": "56b60b46-a47c-48fb-9bd4-c2ad0e05fef2",
+    "image_url": "",
+    "is_organization": true,
+    "name": "transporte-y-obras-publicas",
+    "revision_id": "c33c86a3-e197-468f-8b66-5b943b3bf106",
+    "state": "active",
+    "title": "Secretaría de Transporte y Obras Públicas",
+    "type": "organization"
+  },
+  "owner_org": "56b60b46-a47c-48fb-9bd4-c2ad0e05fef2",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "",
+      "accessURL_field": "",
+      "attributesDescription": "[{\"title\":\"CODIGO_LOCACION\",\"description\":\"codigo de locacion\",\"type\":\"string\"},{\"title\":\"lat\",\"description\":\"latitud de la ubicación del sensor\",\"type\":\"string\"},{\"title\":\"long\",\"description\":\"longitud de la ubicación del sensor\",\"type\":\"string\"},{\"title\":\"fecha y hora\",\"description\":\"fecha del registro\",\"type\":\"date\"},{\"title\":\"sentido\",\"description\":\"sentido de la ubicación del sensor\",\"type\":\"string\"},{\"title\":\"cantidad\",\"description\":\"cantidad de autos que detectó el sensor en esa franja horaria\",\"type\":\"integer\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2020-07-22T15:03:56.706435",
+      "datastore_active": false,
+      "description": "Listado con informacion de flujo vehicular detectado por los sensores de la Ciudad. Incluye latitud y longitud del sensor, fecha, hora y cantidad registrada.",
+      "fileName": "dataset_flujo_vehicular.csv",
+      "format": "CSV",
+      "has-uploaded-file": "",
+      "hash": "",
+      "icon_url": "",
+      "id": "1df1e3f1-ab85-47b5-becc-39054d6761ee",
+      "issued": "2020-07-22T15:03:56.706435",
+      "last_modified": "2020-07-22T00:00:00",
+      "license_id": "CC-BY-2.5-AR",
+      "mimetype": "text/csv",
+      "mimetype_inner": null,
+      "modified": "2021-04-25",
+      "name": "Flujo vehicular",
+      "package_id": "a30c6da0-4c63-4f3a-a2b3-8f89299b84ba",
+      "position": 0,
+      "resource_type": "file",
+      "revision_id": "ab5780a5-d949-43b3-b787-e6c2c2f25639",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/transporte/flujo-vehicular-anillo-digital/dataset_flujo_vehicular.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "",
+      "accessURL_field": "",
+      "attributesDescription": "[{\"title\":\"CODIGO_LOCACION\",\"description\":\"codigo de locacion\",\"type\":\"string\"},{\"title\":\"lat\",\"description\":\"latitud de la ubicación del sensor\",\"type\":\"string\"},{\"title\":\"long\",\"description\":\"longitud de la ubicación del sensor\",\"type\":\"string\"},{\"title\":\"fecha y hora\",\"description\":\"fecha del registro\",\"type\":\"date\"},{\"title\":\"sentido\",\"description\":\"sentido de la ubicación del sensor\",\"type\":\"string\"},{\"title\":\"cantidad\",\"description\":\"cantidad de autos que detectó el sensor en esa franja horaria\",\"type\":\"integer\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2020-07-22T15:04:00.544816",
+      "datastore_active": false,
+      "description": "Listado con informacion de flujo vehicular detectada por los sensores de la Ciudad. Incluye latitud y longitud del sensor, fecha, hora y cantidad registrada.",
+      "fileName": "dataset_flujo_vehicular.xlsx",
+      "format": "XLSX",
+      "has-uploaded-file": "",
+      "hash": "",
+      "icon_url": "",
+      "id": "d2bd68c1-541c-451f-a0f6-2eae242a28ef",
+      "issued": "2020-07-22T15:04:00.544816",
+      "last_modified": "2020-07-22T00:00:00",
+      "license_id": "CC-BY-4.0",
+      "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "mimetype_inner": null,
+      "modified": "2021-04-25",
+      "name": "Flujo vehicular (xlsx)",
+      "package_id": "a30c6da0-4c63-4f3a-a2b3-8f89299b84ba",
+      "position": 1,
+      "resource_type": "file",
+      "revision_id": "d9e34cfb-063a-4862-9314-ee7a73d33ea9",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/transporte/flujo-vehicular-anillo-digital/dataset_flujo_vehicular.xlsx",
+      "url_type": null
+    }
+  ],
+  "revision_id": "91713b41-c3fe-45c4-a5a2-dab20543b168",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "cambio climático",
+      "id": "a6836452-912d-41c2-b324-4eddc98a75c2",
+      "name": "cambio climático",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "flujo vehicular",
+      "id": "98a19eaa-9860-4e3e-87b0-6660b613bd2b",
+      "name": "flujo vehicular",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "sensores",
+      "id": "80a2880c-700e-4937-b375-762715de500a",
+      "name": "sensores",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "tránsito",
+      "id": "ce981a9c-943f-414e-b531-5810ae74c546",
+      "name": "tránsito",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "vehículos",
+      "id": "bf15f20d-d192-4315-9b9d-646daa9aaa03",
+      "name": "vehículos",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Flujo vehicular",
+  "type": "dataset",
+  "url": "https://data.buenosaires.gob.ar/dataset/flujo-vehicular-anillo-digital",
+  "version": null
+}

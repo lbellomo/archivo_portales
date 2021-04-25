@@ -1,0 +1,209 @@
+{
+  "author": "Ministerio de Justicia y Seguridad. Policía de la Ciudad.",
+  "author_email": "datosabiertos@buenosaires.gob.ar",
+  "creator_user_id": "e4546f46-e966-493c-b2f1-57318502c41b",
+  "extras": [
+    {
+      "key": "Documentación",
+      "value": ""
+    },
+    {
+      "key": "accrualPeriodicity",
+      "value": "eventual"
+    },
+    {
+      "key": "country",
+      "value": "None"
+    },
+    {
+      "key": "district",
+      "value": ""
+    },
+    {
+      "key": "home_featured",
+      "value": "false"
+    },
+    {
+      "key": "issued",
+      "value": "2019-04-24T11:36:54.500150"
+    },
+    {
+      "key": "language",
+      "value": "[]"
+    },
+    {
+      "key": "modified",
+      "value": "2021-03-05T10:55:46.855418"
+    },
+    {
+      "key": "province",
+      "value": ""
+    },
+    {
+      "key": "source",
+      "value": "Ministerio de Justicia y Seguridad. Policía de la Ciudad."
+    },
+    {
+      "key": "spatial",
+      "value": "None"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"JUST\"]"
+    },
+    {
+      "key": "temporal",
+      "value": ""
+    }
+  ],
+  "groups": [
+    {
+      "description": "",
+      "display_name": "Seguridad",
+      "id": "b656bb3f-230a-414f-acce-19d0d98e01df",
+      "image_display_url": "https://data.buenosaires.gob.ar/uploads/group/2019-11-16-145044.366204segu.png",
+      "name": "seguridad",
+      "title": "Seguridad"
+    }
+  ],
+  "id": "d09220d2-038b-404d-b3e3-c7b4293a8444",
+  "isopen": true,
+  "license_id": "CC-BY-2.5-AR",
+  "license_title": "Atribucion 2.5 Argentina (CC BY 2.5 AR)",
+  "license_url": "https://creativecommons.org/licenses/by/2.5/ar ",
+  "maintainer": "Secretaría General y Relaciones Internacionales. Subsecretaría Gestión Estratégica y Calidad Institucional. Dirección General Calidad Institucional y Gobierno Abierto",
+  "maintainer_email": "datosabiertos@buenosaires.gob.ar",
+  "metadata_created": "2019-12-11T18:30:38.920723",
+  "metadata_modified": "2021-03-05T13:55:46.867758",
+  "name": "departamentos-comisarias-comunales",
+  "notes": "Información de los límites de las Comisarías Comunales pertenecientes a la Policía de la Ciudad",
+  "num_resources": 3,
+  "num_tags": 4,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-11-15T19:17:53.819720",
+    "description": "",
+    "id": "e2eed892-7682-45f9-b137-74d2acc7e119",
+    "image_url": "",
+    "is_organization": true,
+    "name": "ministerio-de-justicia-y-seguridad",
+    "revision_id": "f34a7336-3a80-4154-9a35-d044f096a2b6",
+    "state": "active",
+    "title": "Ministerio de Justicia y Seguridad",
+    "type": "organization"
+  },
+  "owner_org": "e2eed892-7682-45f9-b137-74d2acc7e119",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/d09220d2-038b-404d-b3e3-c7b4293a8444/resource/eb8b7207-cefe-4074-9df4-a47b20147eeb",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-04-24T11:43:22.763725",
+      "datastore_active": false,
+      "description": "Listado con los límites de las Comisarías Comunales de la Ciudad. Incluye wkt, id y comuna.",
+      "fileName": "departamentos-comisarias-comunales.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "eb8b7207-cefe-4074-9df4-a47b20147eeb",
+      "last_modified": "2019-04-24T11:43:22.763725",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Departamentos de Comisarías Comunales",
+      "package_id": "d09220d2-038b-404d-b3e3-c7b4293a8444",
+      "position": 0,
+      "resource_type": "file",
+      "revision_id": "202a23e1-6e2f-4579-b94a-da0bfa2325f8",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/departamentos-comisarias-comunales/departamentos-comisarias-comunales.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/d09220d2-038b-404d-b3e3-c7b4293a8444/resource/78ff96f4-96e5-41f7-94cf-4e3cdf38f582",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-04-24T11:42:11.811944",
+      "datastore_active": false,
+      "description": "Archivo shapefile con los límites de los departamentos de las comisarías comunales.",
+      "fileName": "departamentos-comisarias-comunales.zip",
+      "format": "ZIP",
+      "hash": "",
+      "id": "78ff96f4-96e5-41f7-94cf-4e3cdf38f582",
+      "last_modified": "2019-04-24T11:42:11.811944",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Departamentos de Comisarías Comunales (SHP)",
+      "package_id": "d09220d2-038b-404d-b3e3-c7b4293a8444",
+      "position": 1,
+      "resource_type": "file",
+      "revision_id": "dcd33543-f50b-4504-943e-81fe5f3fc4d0",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/departamentos-comisarias-comunales/departamentos-comisarias-comunales.zip",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/d09220d2-038b-404d-b3e3-c7b4293a8444/resource/eb8b7207-cefe-4074-9df4-a47b20147eeb",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-04-24T11:43:22.763725",
+      "datastore_active": false,
+      "description": "Listado con los límites de las Comisarías Comunales de la Ciudad. Incluye wkt, id y comuna.",
+      "fileName": "departamentos-comisarias-comunales.xlsx",
+      "format": "XLSX",
+      "hash": "",
+      "id": "eb8b7207-cefe-4074-9df4-a47b20147eeb-xlsx",
+      "last_modified": "2019-04-24T11:43:22.763725",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Departamentos de Comisarías Comunales (XLSX)",
+      "package_id": "d09220d2-038b-404d-b3e3-c7b4293a8444",
+      "position": 2,
+      "resource_type": "file",
+      "revision_id": "b1fd2ba2-7ceb-4626-9e2e-c8000be9e490",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/departamentos-comisarias-comunales/departamentos-comisarias-comunales.xlsx",
+      "url_type": null
+    }
+  ],
+  "revision_id": "fdf40a23-809d-434b-8406-13b522e9a638",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "comisarías",
+      "id": "e03d7eae-4cb1-4c6a-a0a4-73adac899864",
+      "name": "comisarías",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "planificación",
+      "id": "e7a79b71-a70d-4fc2-b45b-bf46e2437977",
+      "name": "planificación",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "policía",
+      "id": "6f858ad5-f92a-4057-92dd-9ffd89950a6d",
+      "name": "policía",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "seguridad",
+      "id": "40254c39-6a3d-41e7-9044-39dc4b0eda4d",
+      "name": "seguridad",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Departamentos de Comisarías Comunales",
+  "type": "dataset",
+  "url": "https://data.buenosaires.gob.ar/dataset/departamentos-de-comisarias-comunales",
+  "version": null
+}

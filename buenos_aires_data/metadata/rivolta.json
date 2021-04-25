@@ -1,0 +1,289 @@
+{
+  "author": "Subsecretaría de Registro, Interpretación y Catastro. Secretaría de Desarrollo Urbano. Jefatura de Gabinete de Ministros",
+  "author_email": "datosabiertos@buenosaires.gob.ar",
+  "creator_user_id": "3ff46b8e-0885-4233-9acd-90f8b7e76333",
+  "extras": [
+    {
+      "key": "Documentación",
+      "value": ""
+    },
+    {
+      "key": "accrualPeriodicity",
+      "value": "eventual"
+    },
+    {
+      "key": "country",
+      "value": "None"
+    },
+    {
+      "key": "district",
+      "value": ""
+    },
+    {
+      "key": "home_featured",
+      "value": "false"
+    },
+    {
+      "key": "issued",
+      "value": "2020-11-30T14:25:44.749368"
+    },
+    {
+      "key": "language",
+      "value": "[]"
+    },
+    {
+      "key": "modified",
+      "value": "2021-02-04"
+    },
+    {
+      "key": "province",
+      "value": ""
+    },
+    {
+      "key": "source",
+      "value": "Subgerencia de Información Geoespacial. DG Ciencias de la Información. SS de Políticas Públicas Basadas en Evidencia. Secretaría de Innovación y Transformación Digital. Jefatura de Gabinete de Ministros"
+    },
+    {
+      "key": "spatial",
+      "value": "None"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"GOVE\",\"REGI\"]"
+    },
+    {
+      "key": "temporal",
+      "value": ""
+    }
+  ],
+  "groups": [
+    {
+      "description": "Datasets relacionados con urbanismo y territorio",
+      "display_name": "Urbanismo y Territorio",
+      "id": "63e162a0-3f4a-446a-a60b-601d16f36200",
+      "image_display_url": "https://data.buenosaires.gob.ar/uploads/group/2019-11-16-145056.781692urba.png",
+      "name": "urbanismo-y-territorio",
+      "title": "Urbanismo y Territorio"
+    }
+  ],
+  "id": "bfab09f0-2ab3-4559-a513-9c4d2596cdf5",
+  "isopen": true,
+  "license_id": "CC-BY-2.5-AR",
+  "license_title": "Atribucion 2.5 Argentina (CC BY 2.5 AR)",
+  "license_url": "https://creativecommons.org/licenses/by/2.5/ar ",
+  "maintainer": "Gerencia Operativa de Ingeniería de Datos. DG Arquitectura de Datos. SS de Políticas Públicas Basadas en Evidencia. Secretaría de Innovación y Transformación Digital. Jefatura de Gabinete de Ministros",
+  "maintainer_email": "datosabiertos@buenosaires.gob.ar",
+  "metadata_created": "2020-11-30T13:26:06.318574",
+  "metadata_modified": "2021-02-04T17:43:37.409152",
+  "name": "rivolta",
+  "notes": "Parcelas en esquina cuyas vías públicas concurrentes autoricen distintas alturas de edificación.",
+  "num_resources": 4,
+  "num_tags": 8,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-11-15T19:19:23.733985",
+    "description": "",
+    "id": "eddbd148-4cef-40e1-87f7-94345c709aad",
+    "image_url": "",
+    "is_organization": true,
+    "name": "secretaria-de-desarrollo-urbano",
+    "revision_id": "14b2ab11-275f-4466-b2f4-4b60ff08fa3e",
+    "state": "active",
+    "title": "Secretaría de Desarrollo Urbano",
+    "type": "organization"
+  },
+  "owner_org": "eddbd148-4cef-40e1-87f7-94345c709aad",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "",
+      "accessURL_field": "",
+      "attributesDescription": "[{\"title\":\"id\",\"description\":\"id\",\"type\":\"integer\"},{\"title\":\"smp\",\"description\":\"smp\",\"type\":\"string\"},{\"title\":\"altura_ini\",\"description\":\"altura_ini\",\"type\":\"string\"},{\"title\":\"altura_fin\",\"description\":\"altura_fin\",\"type\":\"string\"},{\"title\":\"fuente\",\"description\":\"fuente\",\"type\":\"string\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2021-01-19T17:44:53.192226",
+      "datastore_active": false,
+      "description": "Información de las esquina cuyas vías públicas concurrentes autorizan distintas alturas de edificación.",
+      "fileName": "rivolta.csv",
+      "format": "CSV",
+      "has-uploaded-file": "",
+      "hash": "",
+      "icon_url": "",
+      "id": "9563fedc-ee66-4909-a8bd-e42496faff21",
+      "issued": "2021-01-19T17:44:53.192226",
+      "last_modified": "2021-01-19T00:00:00",
+      "license_id": "CC-BY-4.0",
+      "mimetype": "text/csv",
+      "mimetype_inner": null,
+      "modified": "2021-02-04",
+      "name": "Rivolta",
+      "package_id": "bfab09f0-2ab3-4559-a513-9c4d2596cdf5",
+      "position": 0,
+      "resource_type": "file",
+      "revision_id": "bb2bea34-0715-499c-a1eb-58a3c60f7680",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/rivolta/rivolta.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "",
+      "accessURL_field": "",
+      "attributesDescription": "[{\"title\":\"id\",\"description\":\"id\",\"type\":\"integer\"},{\"title\":\"smp\",\"description\":\"smp\",\"type\":\"string\"},{\"title\":\"altura_ini\",\"description\":\"altura_ini\",\"type\":\"string\"},{\"title\":\"altura_fin\",\"description\":\"altura_fin\",\"type\":\"string\"},{\"title\":\"fuente\",\"description\":\"fuente\",\"type\":\"string\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2021-01-19T17:45:00.794815",
+      "datastore_active": false,
+      "description": "Información de las esquina cuyas vías públicas concurrentes autorizan distintas alturas de edificación.",
+      "fileName": "rivolta.xlsx",
+      "format": "XLSX",
+      "has-uploaded-file": "",
+      "hash": "",
+      "icon_url": "",
+      "id": "ba345cdf-b73f-44ad-8cc9-bc82847732fb",
+      "issued": "2021-01-19T17:45:00.794815",
+      "last_modified": "2021-01-19T00:00:00",
+      "license_id": "CC-BY-4.0",
+      "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "mimetype_inner": null,
+      "modified": "2021-02-04",
+      "name": "Rivolta (XLSX)",
+      "package_id": "bfab09f0-2ab3-4559-a513-9c4d2596cdf5",
+      "position": 1,
+      "resource_type": "file",
+      "revision_id": "ad40b07c-de44-4225-82e8-8295b11c3fa0",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/rivolta/rivolta.xlsx",
+      "url_type": null
+    },
+    {
+      "accessURL": "",
+      "accessURL_field": "",
+      "attributesDescription": "[{\"title\":\"id\",\"description\":\"id\",\"type\":\"integer\"},{\"title\":\"smp\",\"description\":\"smp\",\"type\":\"string\"},{\"title\":\"altura_ini\",\"description\":\"altura_ini\",\"type\":\"string\"},{\"title\":\"altura_fin\",\"description\":\"altura_fin\",\"type\":\"string\"},{\"title\":\"fuente\",\"description\":\"fuente\",\"type\":\"string\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2021-01-19T17:45:05.573371",
+      "datastore_active": false,
+      "description": "Información en formato shape de las esquina cuyas vías públicas concurrentes autorizan distintas alturas de edificación.",
+      "fileName": "rivolta.zip",
+      "format": "ZIP",
+      "has-uploaded-file": "",
+      "hash": "",
+      "icon_url": "",
+      "id": "cadd65cb-1ef4-40a1-8341-ac100f8063e4",
+      "issued": "2021-01-19T17:45:05.573371",
+      "last_modified": "2021-01-19T00:00:00",
+      "license_id": "CC-BY-4.0",
+      "mimetype": "application/zip",
+      "mimetype_inner": null,
+      "modified": "2021-02-04",
+      "name": "Rivolta (SHP)",
+      "package_id": "bfab09f0-2ab3-4559-a513-9c4d2596cdf5",
+      "position": 2,
+      "resource_type": "file",
+      "revision_id": "388f9673-2780-49af-acc9-707a957b7823",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/rivolta/rivolta.zip",
+      "url_type": null
+    },
+    {
+      "accessURL": "",
+      "accessURL_field": "",
+      "attributesDescription": "[{\"title\":\"id\",\"description\":\"id\",\"type\":\"integer\"},{\"title\":\"smp\",\"description\":\"smp\",\"type\":\"string\"},{\"title\":\"altura_ini\",\"description\":\"altura_ini\",\"type\":\"string\"},{\"title\":\"altura_fin\",\"description\":\"altura_fin\",\"type\":\"string\"},{\"title\":\"fuente\",\"description\":\"fuente\",\"type\":\"string\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2021-01-19T17:44:56.688953",
+      "datastore_active": false,
+      "description": "Información en formato GeoJson de las esquina cuyas vías públicas concurrentes autorizan distintas alturas de edificación.",
+      "fileName": "rivolta.geojson",
+      "format": "GeoJSON",
+      "has-uploaded-file": "",
+      "hash": "",
+      "icon_url": "",
+      "id": "f02ba2d3-4970-4b01-8e44-a49205cf411c",
+      "issued": "2021-01-19T17:44:56.688953",
+      "last_modified": "2021-01-19T00:00:00",
+      "license_id": "CC-BY-4.0",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "modified": "2021-02-04",
+      "name": "Rivolta (GEOJSON)",
+      "package_id": "bfab09f0-2ab3-4559-a513-9c4d2596cdf5",
+      "position": 3,
+      "resource_type": "file",
+      "revision_id": "2b49dbfa-b671-43c9-bc6a-86654ff65262",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/rivolta/rivolta.geojson",
+      "url_type": null
+    }
+  ],
+  "revision_id": "eccf14d4-b262-44f1-9167-c5e2ba75a80b",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "catastro",
+      "id": "7934e062-fe12-486d-8726-2297ab5d0354",
+      "name": "catastro",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "ciudad 3d",
+      "id": "85a8900e-54ff-4888-9c8f-14432f167da2",
+      "name": "ciudad 3d",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "cur3d",
+      "id": "bf125fc5-008f-4671-b9f1-e3552eb052dd",
+      "name": "cur3d",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "código urbanístico",
+      "id": "be98c719-1440-4196-a4f4-0d6fe5d07b8c",
+      "name": "código urbanístico",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "edificiación",
+      "id": "218beaa2-c1c1-48f5-a051-4df1b9407f0d",
+      "name": "edificiación",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "franja edificable",
+      "id": "f4fcbe04-a6ec-4e42-8cbb-9d1080e662ab",
+      "name": "franja edificable",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "plano abierto",
+      "id": "2cf0ec73-4443-4d28-b693-b2e8d7d46375",
+      "name": "plano abierto",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "rivolta",
+      "id": "19dec20e-a996-45a2-977b-ec8cff132515",
+      "name": "rivolta",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Rivolta",
+  "type": "dataset",
+  "url": "https://data.buenosaires.gob.ar/dataset/rivolta",
+  "version": null
+}

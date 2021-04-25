@@ -1,0 +1,274 @@
+{
+  "author": "Subsecretaría de Justicia. Secretaría de Justicia y Seguridad. Ministerio de Justicia y Seguridad",
+  "author_email": "datosabiertos@buenosaires.gob.ar",
+  "creator_user_id": "e4546f46-e966-493c-b2f1-57318502c41b",
+  "extras": [
+    {
+      "key": "Documentación",
+      "value": ""
+    },
+    {
+      "key": "accrualPeriodicity",
+      "value": "eventual"
+    },
+    {
+      "key": "country",
+      "value": "None"
+    },
+    {
+      "key": "district",
+      "value": ""
+    },
+    {
+      "key": "home_featured",
+      "value": "false"
+    },
+    {
+      "key": "issued",
+      "value": "2019-01-08T14:57:46.668394"
+    },
+    {
+      "key": "language",
+      "value": "[]"
+    },
+    {
+      "key": "modified",
+      "value": "2021-03-05T10:47:37.239998"
+    },
+    {
+      "key": "province",
+      "value": ""
+    },
+    {
+      "key": "source",
+      "value": "Subsecretaría de Justicia. Secretaría de Justicia y Seguridad. Ministerio de Justicia y Seguridad"
+    },
+    {
+      "key": "spatial",
+      "value": "None"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"GOVE\"]"
+    },
+    {
+      "key": "temporal",
+      "value": ""
+    }
+  ],
+  "groups": [
+    {
+      "description": "",
+      "display_name": "Administración Pública",
+      "id": "8cb134a8-90ea-4e69-a96d-c03449917dc9",
+      "image_display_url": "https://data.buenosaires.gob.ar/uploads/group/2019-11-16-144810.360383adminpublica.png",
+      "name": "administracion-publica",
+      "title": "Administración Pública"
+    }
+  ],
+  "id": "juqdkmgo-81",
+  "isopen": true,
+  "license_id": "CC-BY-2.5-AR",
+  "license_title": "Atribucion 2.5 Argentina (CC BY 2.5 AR)",
+  "license_url": "https://creativecommons.org/licenses/by/2.5/ar ",
+  "maintainer": "Gerencia Operativa de Ingeniería de Datos. DG Arquitectura de Datos. SS de Políticas Públicas Basadas en Evidencia. Secretaría de Innovación y Transformación Digital. Jefatura de Gabinete de Ministros",
+  "maintainer_email": "datosabiertos@buenosaires.gob.ar",
+  "metadata_created": "2019-12-11T18:32:05.226808",
+  "metadata_modified": "2021-03-05T13:47:37.252155",
+  "name": "elecciones-2013",
+  "notes": "Resultados definitivos de las elecciones a legisladores porteños desarrollados en el 2013.",
+  "num_resources": 6,
+  "num_tags": 3,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-11-15T19:17:17.612030",
+    "description": "",
+    "id": "b4408826-7d79-46fc-be96-c34b7686d50a",
+    "image_url": "",
+    "is_organization": true,
+    "name": "subsecretaria-justicia",
+    "revision_id": "8ada75f5-fb54-4a17-8fe0-03545df1c7d6",
+    "state": "active",
+    "title": "Subsecretaría de Justicia",
+    "type": "organization"
+  },
+  "owner_org": "b4408826-7d79-46fc-be96-c34b7686d50a",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/elecciones-2013",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-01-08T14:57:46.668394",
+      "datastore_active": false,
+      "description": "Listado de códigos de partidos políticos y votos para las elecciones a legisladores porteños en 2013.",
+      "fileName": "codigo-elecciones-2013.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "juqdkmgo-811-resource",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Código Elecciones 2013",
+      "package_id": "juqdkmgo-81",
+      "position": 0,
+      "resource_type": "file",
+      "revision_id": "35dde58a-c971-429a-be47-6df92582d068",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/elecciones-2013/codigo-elecciones-2013.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/elecciones-2013",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-01-08T14:57:46.668394",
+      "datastore_active": false,
+      "description": "Establecimientos donde se llevaron a cabo las elecciones a legisladores porteños en 2013.",
+      "fileName": "establecimientos-elecciones-legisladores-2013.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "juqdkmgo-812-resource",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Establecimientos Elecciones Legisladores 2013",
+      "package_id": "juqdkmgo-81",
+      "position": 1,
+      "resource_type": "file",
+      "revision_id": "42695ada-18c0-4c92-9344-4f629e3f6fb0",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/elecciones-2013/establecimientos-elecciones-legisladores-2013.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/elecciones-2013",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-01-08T14:57:46.668394",
+      "datastore_active": false,
+      "description": "Resultados definitivos de las elecciones a legisladores porteños en 2013 desagregado a nivel mesa.",
+      "fileName": "resultados-elecciones-legisladores-2013.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "juqdkmgo-813-resource",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Resultados Elecciones Legisladores 2013",
+      "package_id": "juqdkmgo-81",
+      "position": 2,
+      "resource_type": "file",
+      "revision_id": "ed0766d8-cca7-4a97-95aa-9646158ee392",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/elecciones-2013/resultados-elecciones-legisladores-2013.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/elecciones-2013",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-01-08T14:57:46.668394",
+      "datastore_active": false,
+      "description": "Listado de códigos de partidos políticos y votos para las elecciones a legisladores porteños en 2013.",
+      "fileName": "codigo-elecciones-2013.xlsx",
+      "format": "XLSX",
+      "hash": "",
+      "id": "juqdkmgo-811-resource-xlsx",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Código Elecciones 2013 (XLSX)",
+      "package_id": "juqdkmgo-81",
+      "position": 3,
+      "resource_type": "file",
+      "revision_id": "5f7eaea9-f2b4-4aae-8fb5-6f88f968ec18",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/elecciones-2013/codigo-elecciones-2013.xlsx",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/elecciones-2013",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-01-08T14:57:46.668394",
+      "datastore_active": false,
+      "description": "Establecimientos donde se llevaron a cabo las elecciones a legisladores porteños en 2013.",
+      "fileName": "establecimientos-elecciones-legisladores-2013.xlsx",
+      "format": "XLSX",
+      "hash": "",
+      "id": "juqdkmgo-812-resource-xlsx",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Establecimientos Elecciones Legisladores 2013 (XLSX)",
+      "package_id": "juqdkmgo-81",
+      "position": 4,
+      "resource_type": "file",
+      "revision_id": "90bffde5-d882-4e12-98a5-17fdaf22b6f0",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/elecciones-2013/establecimientos-elecciones-legisladores-2013.xlsx",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/elecciones-2013",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-01-08T14:57:46.668394",
+      "datastore_active": false,
+      "description": "Resultados definitivos de las elecciones a legisladores porteños en 2013 desagregado a nivel mesa.",
+      "fileName": "resultados-elecciones-legisladores-2013.xlsx",
+      "format": "XLSX",
+      "hash": "",
+      "id": "juqdkmgo-813-resource-xlsx",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Resultados Elecciones Legisladores 2013 (XLSX)",
+      "package_id": "juqdkmgo-81",
+      "position": 5,
+      "resource_type": "file",
+      "revision_id": "5886b5a1-2414-4744-9f09-fbf2a66b2359",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/elecciones-2013/resultados-elecciones-legisladores-2013.xlsx",
+      "url_type": null
+    }
+  ],
+  "revision_id": "873c19fd-89e6-406e-8848-a55e11f15477",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "elecciones",
+      "id": "3ad486da-6d69-4627-83d2-b3e21514bcbf",
+      "name": "elecciones",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "legisladores",
+      "id": "aa832619-c95c-48e2-ba68-eaf2a754b530",
+      "name": "legisladores",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "legislatura",
+      "id": "abc09ef1-f3c4-4731-9ec4-90e5fc45d5e9",
+      "name": "legislatura",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Elecciones 2013",
+  "type": "dataset",
+  "url": "https://data.buenosaires.gob.ar/dataset/elecciones-2013",
+  "version": null
+}

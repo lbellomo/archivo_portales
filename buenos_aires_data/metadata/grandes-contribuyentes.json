@@ -1,0 +1,154 @@
+{
+  "author": "Ministerio de Economía y Finanzas. Administración Gubernamental de Ingresos Públicos (AGIP)",
+  "author_email": "gobiernoabierto@buenosaires.gob.ar",
+  "creator_user_id": "e4546f46-e966-493c-b2f1-57318502c41b",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P6M"
+    },
+    {
+      "key": "issued",
+      "value": "2019-01-08T14:50:49.685386"
+    },
+    {
+      "key": "language",
+      "value": "[\"SPA\"]"
+    },
+    {
+      "key": "modified",
+      "value": "2019-05-27T14:51:58.296427"
+    },
+    {
+      "key": "source",
+      "value": "Ministerio de Economía y Finanzas. Administración Gubernamental de Ingresos Públicos (AGIP)"
+    },
+    {
+      "key": "spatial",
+      "value": "02"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"ECON\"]"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Datasets relacionados con la economía y las finanzas",
+      "display_name": "Economía y Finanzas",
+      "id": "64da4336-6da7-4494-80c0-365016597e9e",
+      "image_display_url": "http://data.buenosaires.gob.ar/uploads/group/2019-11-16-144934.521128economia.png",
+      "name": "economia-y-finanzas",
+      "title": "Economía y Finanzas"
+    }
+  ],
+  "id": "juqdkmgo-117",
+  "isopen": true,
+  "license_id": "CC-BY-2.5-AR",
+  "license_title": "Atribucion 2.5 Argentina (CC BY 2.5 AR)",
+  "license_url": "https://creativecommons.org/licenses/by/2.5/ar ",
+  "maintainer": "Secretaría General y Relaciones Internacionales. Subsecretaría Gestión Estratégica y Calidad Institucional. Dirección General Calidad Institucional y Gobierno Abierto",
+  "maintainer_email": "gobiernoabierto@buenosaires.gob.ar",
+  "metadata_created": "2019-12-11T18:21:17.914504",
+  "metadata_modified": "2019-12-11T18:21:17.914512",
+  "name": "grandes-contribuyentes",
+  "notes": "Información de los grandes contribuyentes definidos por la Administración Gubernamental de Ingresos Públicos (AGIP).",
+  "num_resources": 2,
+  "num_tags": 3,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-11-15T19:18:53.185953",
+    "description": "",
+    "id": "8ff6e21b-7ebc-45b7-8e50-3629f26d0414",
+    "image_url": "",
+    "is_organization": true,
+    "name": "administracion-gubernamental-de-ingresos-publicos",
+    "revision_id": "18ec9402-5011-4f5d-9acf-c8ba3ce157f9",
+    "state": "active",
+    "title": "Administración Gubernamental de Ingresos Públicos (AGIP)",
+    "type": "organization"
+  },
+  "owner_org": "8ff6e21b-7ebc-45b7-8e50-3629f26d0414",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/grandes-contribuyentes",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-01-08T14:50:49.685386",
+      "datastore_active": false,
+      "description": "CUIT y razón social de los grandes contribuyentes según la AGIP.",
+      "fileName": "grandes-contribuyentes.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "juqdkmgo-1171-resource",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Grandes Contribuyentes",
+      "package_id": "juqdkmgo-117",
+      "position": 0,
+      "resource_type": "file",
+      "revision_id": "162dc10d-4718-42ea-8683-bf3c5f36d6eb",
+      "size": null,
+      "state": "active",
+      "url": "http://cdn.buenosaires.gob.ar/datosabiertos/datasets/grandes-contribuyentes/grandes-contribuyentes.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/grandes-contribuyentes",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-01-08T14:50:49.685386",
+      "datastore_active": false,
+      "description": "CUIT y razón social de los grandes contribuyentes según la AGIP.",
+      "fileName": "grandes-contribuyentes.xlsx",
+      "format": "XLSX",
+      "hash": "",
+      "id": "juqdkmgo-1171-resource-xlsx",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Grandes Contribuyentes (XLSX)",
+      "package_id": "juqdkmgo-117",
+      "position": 1,
+      "resource_type": "file",
+      "revision_id": "162dc10d-4718-42ea-8683-bf3c5f36d6eb",
+      "size": null,
+      "state": "active",
+      "url": "http://cdn.buenosaires.gob.ar/datosabiertos/datasets/grandes-contribuyentes/grandes-contribuyentes.xlsx",
+      "url_type": null
+    }
+  ],
+  "revision_id": "162dc10d-4718-42ea-8683-bf3c5f36d6eb",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "economía",
+      "id": "20a0f20c-f7ed-48f4-b223-e343db7f9ee8",
+      "name": "economía",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "impuestos",
+      "id": "9d24ad30-2cc3-45dd-b44c-d6a1fbb1d323",
+      "name": "impuestos",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "recaudación",
+      "id": "72274696-3f12-4ea7-8ee3-595a765f10ea",
+      "name": "recaudación",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Grandes Contribuyentes",
+  "type": "dataset",
+  "url": "https://data.buenosaires.gob.ar/dataset/grandes-contribuyentes",
+  "version": null
+}

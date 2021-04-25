@@ -1,0 +1,209 @@
+{
+  "author": "Secretaría de Desarrollo Urbano. Jefatura de Gabinete de Ministros",
+  "author_email": "datosabiertos@buenosaires.gob.ar",
+  "creator_user_id": "e4546f46-e966-493c-b2f1-57318502c41b",
+  "extras": [
+    {
+      "key": "Documentación",
+      "value": ""
+    },
+    {
+      "key": "accrualPeriodicity",
+      "value": "eventual"
+    },
+    {
+      "key": "country",
+      "value": "None"
+    },
+    {
+      "key": "district",
+      "value": ""
+    },
+    {
+      "key": "home_featured",
+      "value": "false"
+    },
+    {
+      "key": "issued",
+      "value": "2019-01-08T14:54:21.531672"
+    },
+    {
+      "key": "language",
+      "value": "[]"
+    },
+    {
+      "key": "modified",
+      "value": "2021-03-05T10:46:33.355893"
+    },
+    {
+      "key": "province",
+      "value": ""
+    },
+    {
+      "key": "source",
+      "value": "Secretaría de Desarrollo Urbano. Jefatura de Gabinete de Ministros"
+    },
+    {
+      "key": "spatial",
+      "value": "None"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"REGI\"]"
+    },
+    {
+      "key": "temporal",
+      "value": ""
+    }
+  ],
+  "groups": [
+    {
+      "description": "Datasets relacionados con urbanismo y territorio",
+      "display_name": "Urbanismo y Territorio",
+      "id": "63e162a0-3f4a-446a-a60b-601d16f36200",
+      "image_display_url": "https://data.buenosaires.gob.ar/uploads/group/2019-11-16-145056.781692urba.png",
+      "name": "urbanismo-y-territorio",
+      "title": "Urbanismo y Territorio"
+    }
+  ],
+  "id": "juqdkmgo-84",
+  "isopen": true,
+  "license_id": "CC-BY-2.5-AR",
+  "license_title": "Atribucion 2.5 Argentina (CC BY 2.5 AR)",
+  "license_url": "https://creativecommons.org/licenses/by/2.5/ar ",
+  "maintainer": "Subgerencia de Información Geoespacial. DG Ciencias de la Información. SS de Políticas Públicas Basadas en Evidencia. Secretaría de Innovación y Transformación Digital. Jefatura de Gabinete de Ministros",
+  "maintainer_email": "datosabiertos@buenosaires.gob.ar",
+  "metadata_created": "2019-12-11T18:13:57.300767",
+  "metadata_modified": "2021-03-05T13:46:33.367895",
+  "name": "elevacion-terreno",
+  "notes": "Curvas de nivel de la Ciudad de Buenos Aires",
+  "num_resources": 3,
+  "num_tags": 4,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-11-15T19:19:23.733985",
+    "description": "",
+    "id": "eddbd148-4cef-40e1-87f7-94345c709aad",
+    "image_url": "",
+    "is_organization": true,
+    "name": "secretaria-de-desarrollo-urbano",
+    "revision_id": "14b2ab11-275f-4466-b2f4-4b60ff08fa3e",
+    "state": "active",
+    "title": "Secretaría de Desarrollo Urbano",
+    "type": "organization"
+  },
+  "owner_org": "eddbd148-4cef-40e1-87f7-94345c709aad",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/elevacion-terreno",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-01-08T14:54:21.531672",
+      "datastore_active": false,
+      "description": "Elevación del terreno de la Ciudad de Buenos Aires.",
+      "fileName": "curvas-de-nivel.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "juqdkmgo-841-resource",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Curvas de Nivel",
+      "package_id": "juqdkmgo-84",
+      "position": 0,
+      "resource_type": "file",
+      "revision_id": "27f96541-44e4-4c9c-9ee7-286c7c9afe11",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/elevacion-terreno/curvas-de-nivel.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/elevacion-terreno",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-01-08T14:54:21.531672",
+      "datastore_active": false,
+      "description": "Archivo shapefile con las curvas de nivel de la Ciudad.",
+      "fileName": "curvas-de-nivel-zip.zip",
+      "format": "ZIP",
+      "hash": "",
+      "id": "juqdkmgo-842-resource",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Curvas de nivel (SHP)",
+      "package_id": "juqdkmgo-84",
+      "position": 1,
+      "resource_type": "file",
+      "revision_id": "2ecedb58-ba6a-4f3e-b012-9b77ac668ccc",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/elevacion-terreno/curvas-de-nivel-zip.zip",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/elevacion-terreno",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-01-08T14:54:21.531672",
+      "datastore_active": false,
+      "description": "Elevación del terreno de la Ciudad de Buenos Aires.",
+      "fileName": "curvas-de-nivel.xlsx",
+      "format": "XLSX",
+      "hash": "",
+      "id": "juqdkmgo-841-resource-xlsx",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Curvas de Nivel (XLSX)",
+      "package_id": "juqdkmgo-84",
+      "position": 2,
+      "resource_type": "file",
+      "revision_id": "21012f13-d8e6-435e-ba97-d4701e3cf999",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/elevacion-terreno/curvas-de-nivel.xlsx",
+      "url_type": null
+    }
+  ],
+  "revision_id": "dd7771f7-2cb5-4b6d-8b91-74831e1ecf57",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "MDU",
+      "id": "c6302714-7832-4077-b2b8-6818df5658ec",
+      "name": "MDU",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "ambiente",
+      "id": "c5951c2e-5d33-4a1e-93cf-9ffd87d9ea86",
+      "name": "ambiente",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "curvas-nivel",
+      "id": "7e9a1204-fbda-4a63-ab38-948aad151913",
+      "name": "curvas-nivel",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "medio-ambiente",
+      "id": "cfa4ad80-e9c1-49bb-ab7b-6e2e7ed96a88",
+      "name": "medio-ambiente",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Elevación terreno",
+  "type": "dataset",
+  "url": "https://data.buenosaires.gob.ar/dataset/elevacion-terreno",
+  "version": null
+}

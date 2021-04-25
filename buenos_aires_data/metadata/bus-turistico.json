@@ -1,0 +1,273 @@
+{
+  "author": "Secretaría General y Relaciones Internacionales. Ente de Turismo (ENTUR)",
+  "author_email": "gobiernoabierto@buenosaires.gob.ar",
+  "creator_user_id": "e4546f46-e966-493c-b2f1-57318502c41b",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P1Y"
+    },
+    {
+      "key": "issued",
+      "value": "2019-05-10T19:16:27.421669"
+    },
+    {
+      "key": "language",
+      "value": "[\"SPA\"]"
+    },
+    {
+      "key": "modified",
+      "value": "2019-05-13T11:57:52.266788"
+    },
+    {
+      "key": "source",
+      "value": "Secretaría General y Relaciones Internacionales. Ente de Turismo (ENTUR)"
+    },
+    {
+      "key": "spatial",
+      "value": "02"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"REGI\", \"TRAN\"]"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Datasets relacionados con la cultura y el turismo",
+      "display_name": "Cultura y Turismo",
+      "id": "db2c0965-c659-4f94-8de9-41fce10f91a9",
+      "image_display_url": "https://data.buenosaires.gob.ar/uploads/group/2019-11-16-144908.071423cultura.png",
+      "name": "cultura-y-turismo",
+      "title": "Cultura y Turismo"
+    }
+  ],
+  "id": "cd930ca8-a889-4e84-b0ed-ce156314f11e",
+  "isopen": true,
+  "license_id": "CC-BY-2.5-AR",
+  "license_title": "Atribucion 2.5 Argentina (CC BY 2.5 AR)",
+  "license_url": "https://creativecommons.org/licenses/by/2.5/ar ",
+  "maintainer": "Secretaría General y Relaciones Internacionales. Subsecretaría Gestión Estratégica y Calidad Institucional. Dirección General Calidad Institucional y Gobierno Abierto",
+  "maintainer_email": "gobiernoabierto@buenosaires.gob.ar",
+  "metadata_created": "2019-12-11T18:35:08.922425",
+  "metadata_modified": "2020-12-17T15:35:05.937318",
+  "name": "bus-turistico",
+  "notes": "Información con ubicación geográfica de paradas y recorridos, incluyendo atractivos turísticos visitados por el bus turístico de Ciudad de Buenos Aires",
+  "num_resources": 6,
+  "num_tags": 6,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-11-15T19:16:12.037004",
+    "description": "",
+    "id": "718be5cd-c364-407d-979d-7e16732b41bc",
+    "image_url": "",
+    "is_organization": true,
+    "name": "ente-de-turismo",
+    "revision_id": "073586d0-2c46-490b-b828-d2e6a975ff1f",
+    "state": "active",
+    "title": "Ente de Turismo (ENTUR)",
+    "type": "organization"
+  },
+  "owner_org": "718be5cd-c364-407d-979d-7e16732b41bc",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/cd930ca8-a889-4e84-b0ed-ce156314f11e/resource/ae4f67cb-b53b-48ac-9067-c114b314eeba",
+      "attributesDescription": "[{\"title\": \"long\", \"type\": \"number\", \"description\": \"Longitud\"}, {\"title\": \"lat\", \"type\": \"number\", \"description\": \"Latitud\"}, {\"title\": \"id\", \"type\": \"integer\", \"description\": \"Identificador \\u00fanico de cada registro\"}, {\"title\": \"nombre\", \"type\": \"string\", \"description\": \"Nombre de la parada en cuesti\\u00f3n\"}, {\"title\": \"recorrido\", \"type\": \"string\", \"description\": \"Identificaci\\u00f3n del recorrido al cual pertenece la estaci\\u00f3n\"}, {\"title\": \"parada\", \"type\": \"integer\", \"description\": \"Identificaci\\u00f3n de la parada\"}, {\"title\": \"numero_de_parada\", \"type\": \"integer\", \"description\": \"N\\u00famero de parada\"}, {\"title\": \"atractivos\", \"type\": \"string\", \"description\": \"Atractivos tur\\u00edsticos pr\\u00f3ximos a la estaci\\u00f3n\"}, {\"title\": \"observaciones\", \"type\": \"string\", \"description\": \"Observaciones\"}, {\"title\": \"calle_nombre\", \"type\": \"string\", \"description\": \"Nombre oficial de la calle\"}, {\"title\": \"calle_altura\", \"type\": \"number\", \"description\": \"Numeraci\\u00f3n de la calle\"}, {\"title\": \"calle_cruce\", \"type\": \"string\", \"description\": \"Nombre de la calle que intersecta la principal\"}, {\"title\": \"barrio\", \"type\": \"string\", \"description\": \"Barrio al que pertenece la parada\"}, {\"title\": \"comuna\", \"type\": \"string\", \"description\": \"Comuna a la que pertenece la parada\"}, {\"title\": \"direccion\", \"type\": \"string\", \"description\": \"Direcci\\u00f3n normalizada\"}, {\"title\": \"codigo_postal\", \"type\": \"number\", \"description\": \"C\\u00f3digo postal de la parada\"}, {\"title\": \"codigo_postal_argentino\", \"type\": \"string\", \"description\": \"C\\u00f3digo postal argentino de la parada\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-05-13T12:11:40.574240",
+      "datastore_active": false,
+      "description": "Listado de paradas de cada uno de los recorridos del bus turístico de Ciudad de Buenos Aires, incluyendo  atractivos turísticos cercanos a cada parada",
+      "fileName": "paradas_bus_turistico.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "ae4f67cb-b53b-48ac-9067-c114b314eeba",
+      "last_modified": "2019-05-13T12:11:40.574240",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Paradas del Bus Turístico",
+      "package_id": "cd930ca8-a889-4e84-b0ed-ce156314f11e",
+      "position": 0,
+      "resource_type": "file",
+      "revision_id": "ff1d1a9a-ff28-45af-8be2-5528818130d6",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/paradas-y-recorridos-bus-turistico/paradas_bus_turistico.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/cd930ca8-a889-4e84-b0ed-ce156314f11e/resource/12e5122b-e8c1-43e4-8793-d6dc6026932b",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-05-10T16:52:06.718986",
+      "datastore_active": false,
+      "description": "Shapefile con las paradas del Bus Turístico",
+      "fileName": "paradas_bus_turistico.zip",
+      "format": "ZIP",
+      "hash": "",
+      "id": "12e5122b-e8c1-43e4-8793-d6dc6026932b",
+      "last_modified": "2019-05-10T16:52:06.718986",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Paradas Bus Turístico (SHP)",
+      "package_id": "cd930ca8-a889-4e84-b0ed-ce156314f11e",
+      "position": 1,
+      "resource_type": "file",
+      "revision_id": "19844693-1221-40d8-adc8-ea7ddc50f73c",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/paradas-y-recorridos-bus-turistico/paradas_bus_turistico.zip",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/cd930ca8-a889-4e84-b0ed-ce156314f11e/resource/a36ea82a-63c7-4f7a-8687-0dc00306ddd0",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-05-10T16:51:51.529841",
+      "datastore_active": false,
+      "description": "Archivo shapefile con los recorridos del Bus Tursístico",
+      "fileName": "recorrido_bus_turistico.zip",
+      "format": "ZIP",
+      "hash": "",
+      "id": "a36ea82a-63c7-4f7a-8687-0dc00306ddd0",
+      "last_modified": "2019-05-10T16:51:51.529841",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Recorridos Bus Turístico",
+      "package_id": "cd930ca8-a889-4e84-b0ed-ce156314f11e",
+      "position": 2,
+      "resource_type": "file",
+      "revision_id": "64a8dedb-1cfc-4f4e-ba0c-9044565c8ad8",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/paradas-y-recorridos-bus-turistico/recorrido_bus_turistico.zip",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/cd930ca8-a889-4e84-b0ed-ce156314f11e/resource/40a23ae5-0f4b-4a6d-ba82-b99fa48284cd",
+      "attributesDescription": "[{\"title\": \"wkt\", \"type\": \"string\", \"description\": \"L\\u00edneas geoespaciales de los recorridos expresadas en formato wkt\"}, {\"title\": \"id\", \"type\": \"integer\", \"description\": \"N\\u00famero \\u00fanico\"}, {\"title\": \"nombre\", \"type\": \"string\", \"description\": \"Nombre del recorrido\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-05-13T12:26:42.530877",
+      "datastore_active": false,
+      "description": "Listado con ubicación geográfica de los recorridos del Bus Turístico",
+      "fileName": "recorrido_bus_turistico_limpio.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "40a23ae5-0f4b-4a6d-ba82-b99fa48284cd",
+      "last_modified": "2019-05-13T12:26:42.530877",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Recorridos del Bus Turístico",
+      "package_id": "cd930ca8-a889-4e84-b0ed-ce156314f11e",
+      "position": 3,
+      "resource_type": "file",
+      "revision_id": "b4937bba-62d6-4859-87c1-d4a03581631d",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/paradas-y-recorridos-bus-turistico/recorrido_bus_turistico_limpio.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/cd930ca8-a889-4e84-b0ed-ce156314f11e/resource/ae4f67cb-b53b-48ac-9067-c114b314eeba",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-05-13T12:11:40.574240",
+      "datastore_active": false,
+      "description": "Listado de paradas de cada uno de los recorridos del bus turístico de Ciudad de Buenos Aires, incluyendo  atractivos turísticos cercanos a cada parada",
+      "fileName": "paradas_bus_turistico.xlsx",
+      "format": "XLSX",
+      "hash": "",
+      "id": "ae4f67cb-b53b-48ac-9067-c114b314eeba-xlsx",
+      "last_modified": "2019-05-13T12:11:40.574240",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Paradas del Bus Turístico (XLSX)",
+      "package_id": "cd930ca8-a889-4e84-b0ed-ce156314f11e",
+      "position": 4,
+      "resource_type": "file",
+      "revision_id": "66e9aa43-c7a3-44ec-9a9c-ad04bd4db660",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/paradas-y-recorridos-bus-turistico/paradas_bus_turistico.xlsx",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/cd930ca8-a889-4e84-b0ed-ce156314f11e/resource/40a23ae5-0f4b-4a6d-ba82-b99fa48284cd",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-05-13T12:26:42.530877",
+      "datastore_active": false,
+      "description": "Listado con ubicación geográfica de los recorridos del Bus Turístico",
+      "fileName": "recorrido_bus_turistico_limpio.xlsx",
+      "format": "XLSX",
+      "hash": "",
+      "id": "40a23ae5-0f4b-4a6d-ba82-b99fa48284cd-xlsx",
+      "last_modified": "2019-05-13T12:26:42.530877",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Recorridos del Bus Turístico (XLSX)",
+      "package_id": "cd930ca8-a889-4e84-b0ed-ce156314f11e",
+      "position": 5,
+      "resource_type": "file",
+      "revision_id": "a0e812b6-167f-492e-bd3f-3d9530bc1696",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/paradas-y-recorridos-bus-turistico/recorrido_bus_turistico_limpio.xlsx",
+      "url_type": null
+    }
+  ],
+  "revision_id": "d0e322f1-ade4-476d-bbc5-f9e6d0c9449d",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "atractivos turísticos",
+      "id": "333238e7-e2d7-4f97-8349-817fbe29bf4a",
+      "name": "atractivos turísticos",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "bus turístico",
+      "id": "5f28929f-b584-4b32-89a7-64db73f40328",
+      "name": "bus turístico",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "estaciones",
+      "id": "84446ff6-f7fa-4b2a-ae0c-30ad625ba51d",
+      "name": "estaciones",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "puntos turísticos",
+      "id": "95d45ebc-54b6-4147-93dd-92d4b3296399",
+      "name": "puntos turísticos",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "recorrido",
+      "id": "a9d2f1a8-366e-4eb2-8179-4895d3816946",
+      "name": "recorrido",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "turismo",
+      "id": "efc08f7b-8ca1-4064-a808-2a2403903c99",
+      "name": "turismo",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Bus Turístico",
+  "type": "dataset",
+  "url": "https://data.buenosaires.gob.ar/dataset/paradas-y-recorridos-del-bus-turistico",
+  "version": null
+}

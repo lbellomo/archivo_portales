@@ -1,0 +1,251 @@
+{
+  "author": "Ministerio de Desarrollo Urbano y Transporte. SS de Movilidad Sustentable y Segura",
+  "author_email": "gobiernoabierto@buenosaires.gob.ar",
+  "creator_user_id": "e4546f46-e966-493c-b2f1-57318502c41b",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P3M"
+    },
+    {
+      "key": "issued",
+      "value": "2019-01-08T15:00:23.190229"
+    },
+    {
+      "key": "language",
+      "value": "[\"SPA\"]"
+    },
+    {
+      "key": "modified",
+      "value": "2021-04-21"
+    },
+    {
+      "key": "source",
+      "value": "Ministerio de Educación e Innovación. Secretaría de Ciencia, Tecnología e Innovación. SS de Ciudad Inteligente y Tecnología Educativa. DG Ciencias de la Información. Unidad de Sistemas de Información Geográfica (USIG)"
+    },
+    {
+      "key": "spatial",
+      "value": "02"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"TRAN\"]"
+    }
+  ],
+  "groups": [
+    {
+      "description": "",
+      "display_name": "Movilidad",
+      "id": "e616e02e-64d8-4fb0-b55d-08e75eb58376",
+      "image_display_url": "https://data.buenosaires.gob.ar/uploads/group/2019-11-16-145017.234366movilidad.png",
+      "name": "movilidad",
+      "title": "Movilidad"
+    }
+  ],
+  "id": "juqdkmgo-23",
+  "isopen": true,
+  "license_id": "CC-BY-2.5-AR",
+  "license_title": "Atribucion 2.5 Argentina (CC BY 2.5 AR)",
+  "license_url": "https://creativecommons.org/licenses/by/2.5/ar ",
+  "maintainer": "Secretaría General y Relaciones Internacionales. Subsecretaría Gestión Estratégica y Calidad Institucional. Dirección General Calidad Institucional y Gobierno Abierto",
+  "maintainer_email": "gobiernoabierto@buenosaires.gob.ar",
+  "metadata_created": "2019-12-11T18:17:28.273825",
+  "metadata_modified": "2021-04-21T14:27:14.043123",
+  "name": "bicicleterias",
+  "notes": "Listado con ubicación geográfica de bicicleterías de la Ciudad.",
+  "num_resources": 4,
+  "num_tags": 6,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-11-15T19:19:49.916928",
+    "description": "",
+    "id": "56b60b46-a47c-48fb-9bd4-c2ad0e05fef2",
+    "image_url": "",
+    "is_organization": true,
+    "name": "transporte-y-obras-publicas",
+    "revision_id": "c33c86a3-e197-468f-8b66-5b943b3bf106",
+    "state": "active",
+    "title": "Secretaría de Transporte y Obras Públicas",
+    "type": "organization"
+  },
+  "owner_org": "56b60b46-a47c-48fb-9bd4-c2ad0e05fef2",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/bicicleterias",
+      "accessURL_field": "",
+      "attributesDescription": "[]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-01-08T15:00:23.190229",
+      "datastore_active": false,
+      "description": "Listado de bicicleterías de la Ciudad. Incluye nombre, dirección, teléfono, pagina web, barrio y comuna.",
+      "fileName": "bicicleterias-de-la-ciudad.csv",
+      "format": "CSV",
+      "has-uploaded-file": "",
+      "hash": "",
+      "icon_url": "",
+      "id": "juqdkmgo-231-resource",
+      "issued": "2019-01-08T15:00:23.190229",
+      "last_modified": null,
+      "license_id": "CC-BY-4.0",
+      "mimetype": "text/csv",
+      "mimetype_inner": null,
+      "modified": "2021-04-21",
+      "name": "Bicicleterías de la Ciudad",
+      "package_id": "juqdkmgo-23",
+      "position": 0,
+      "resource_type": "file",
+      "revision_id": "27fb9fc6-b908-4d92-9b57-a91e648d3aa4",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/transporte/bicicleterias/bicicleterias-de-la-ciudad.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/bicicleterias",
+      "accessURL_field": "",
+      "attributesDescription": "[]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-01-08T15:00:23.190229",
+      "datastore_active": false,
+      "description": "Archivo shapefile de las bicicleterías de la Ciudad.",
+      "fileName": "bicicleterias-de-la-ciudad-zip.zip",
+      "format": "ZIP",
+      "has-uploaded-file": "",
+      "hash": "",
+      "icon_url": "",
+      "id": "juqdkmgo-232-resource",
+      "issued": "2019-01-08T15:00:23.190229",
+      "last_modified": null,
+      "license_id": "CC-BY-4.0",
+      "mimetype": "application/zip",
+      "mimetype_inner": null,
+      "modified": "2021-04-21",
+      "name": "Bicicleterías de la Ciudad (SHP)",
+      "package_id": "juqdkmgo-23",
+      "position": 1,
+      "resource_type": "file",
+      "revision_id": "a0b368aa-18df-448a-850e-52e252394d4a",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/transporte/bicicleterias/bicicleterias-de-la-ciudad-zip.zip",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/bicicleterias",
+      "accessURL_field": "",
+      "attributesDescription": "[]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-01-08T15:00:23.190229",
+      "datastore_active": false,
+      "description": "Listado de bicicleterías de la Ciudad. Incluye nombre, dirección, teléfono, pagina web, barrio y comuna.",
+      "fileName": "bicicleterias-de-la-ciudad.xlsx",
+      "format": "XLSX",
+      "has-uploaded-file": "",
+      "hash": "",
+      "icon_url": "",
+      "id": "juqdkmgo-231-resource-xlsx",
+      "issued": "2019-01-08T15:00:23.190229",
+      "last_modified": null,
+      "license_id": "CC-BY-4.0",
+      "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "mimetype_inner": null,
+      "modified": "2021-04-21",
+      "name": "Bicicleterías de la Ciudad (XLSX)",
+      "package_id": "juqdkmgo-23",
+      "position": 2,
+      "resource_type": "file",
+      "revision_id": "d0cf5210-929c-4bfb-b117-efc52dbb6ba5",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/transporte/bicicleterias/bicicleterias-de-la-ciudad.xlsx",
+      "url_type": null
+    },
+    {
+      "accessURL": "",
+      "accessURL_field": "",
+      "attributesDescription": "[{\"title\":\"WKT\",\"description\":\"WKT\",\"type\":\"string\"},{\"title\":\"id\",\"description\":\"id\",\"type\":\"string\"},{\"title\":\"nombre\",\"description\":\"nombre\",\"type\":\"string\"},{\"title\":\"direccion\",\"description\":\"direccion\",\"type\":\"string\"},{\"title\":\"telefono\",\"description\":\"telefono\",\"type\":\"string\"},{\"title\":\"email\",\"description\":\"email\",\"type\":\"string\"},{\"title\":\"web\",\"description\":\"web\",\"type\":\"string\"},{\"title\":\"mecanica_s\",\"description\":\"mecanica_s\",\"type\":\"string\"},{\"title\":\"horario_de\",\"description\":\"horario_de\",\"type\":\"string\"},{\"title\":\"calle\",\"description\":\"calle\",\"type\":\"string\"},{\"title\":\"altura\",\"description\":\"altura\",\"type\":\"string\"},{\"title\":\"calle2\",\"description\":\"calle2\",\"type\":\"string\"},{\"title\":\"direccion_\",\"description\":\"direccion_\",\"type\":\"string\"},{\"title\":\"barrio\",\"description\":\"barrio\",\"type\":\"string\"},{\"title\":\"comuna\",\"description\":\"comuna\",\"type\":\"string\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2020-11-24T13:58:32.167907",
+      "datastore_active": false,
+      "description": "Listado de bicicleterías de la Ciudad. Incluye nombre, dirección, teléfono, pagina web, barrio y comuna.",
+      "fileName": "bicicleterias-de-la-ciudad.geojson",
+      "format": "GeoJSON",
+      "has-uploaded-file": "",
+      "hash": "",
+      "icon_url": "",
+      "id": "b3c3a86a-164e-48d0-89c0-4f6ef6030e03",
+      "issued": "2020-11-24T13:58:32.167907",
+      "last_modified": "2020-11-24T00:00:00",
+      "license_id": "CC-BY-4.0",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "modified": "2021-04-21",
+      "name": "Bicicleterías de la Ciudad (GEOJSON)",
+      "package_id": "juqdkmgo-23",
+      "position": 3,
+      "resource_type": "file",
+      "revision_id": "a6e870ae-5eba-429c-9a7d-6c90719f96e7",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/transporte/bicicleterias/bicicleterias-de-la-ciudad.geojson",
+      "url_type": null
+    }
+  ],
+  "revision_id": "a7496071-1014-4ee5-a606-77dc364699af",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "USIG",
+      "id": "aee9194d-357a-4be9-92dc-231569313d87",
+      "name": "USIG",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "bicicletas",
+      "id": "d1306c12-7770-4de8-88d9-94612421176e",
+      "name": "bicicletas",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "comercios",
+      "id": "46297469-a4f6-461c-a16d-74e855aa1bd9",
+      "name": "comercios",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "economía",
+      "id": "20a0f20c-f7ed-48f4-b223-e343db7f9ee8",
+      "name": "economía",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "mapa",
+      "id": "2c83da8e-2e03-47e6-aee4-bb965600000d",
+      "name": "mapa",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "movilidad",
+      "id": "6fda14a0-403a-4fd4-bc7f-e5742514badc",
+      "name": "movilidad",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Bicicleterías",
+  "type": "dataset",
+  "url": "https://data.buenosaires.gob.ar/dataset/bicicleterias",
+  "version": null
+}

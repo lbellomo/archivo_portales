@@ -1,0 +1,202 @@
+{
+  "author": "Secretaría General y Relaciones Internacionales. SS de Gestión Estratégica y Calidad Institucional. DG de Calidad Institucional y Gobierno Abierto",
+  "author_email": "gobiernoabierto@buenosaires.gob.ar",
+  "creator_user_id": "e4546f46-e966-493c-b2f1-57318502c41b",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P1M"
+    },
+    {
+      "key": "issued",
+      "value": "2019-01-08T14:59:20.276931"
+    },
+    {
+      "key": "language",
+      "value": "[\"SPA\"]"
+    },
+    {
+      "key": "modified",
+      "value": "2019-05-27T14:21:21.133299"
+    },
+    {
+      "key": "source",
+      "value": "Secretaría General y Relaciones Internacionales. SS de Gestión Estratégica y Calidad Institucional. DG de Calidad Institucional y Gobierno Abierto"
+    },
+    {
+      "key": "spatial",
+      "value": "02"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"GOVE\"]"
+    }
+  ],
+  "groups": [
+    {
+      "description": "",
+      "display_name": "Administración Pública",
+      "id": "8cb134a8-90ea-4e69-a96d-c03449917dc9",
+      "image_display_url": "https://data.buenosaires.gob.ar/uploads/group/2019-11-16-144810.360383adminpublica.png",
+      "name": "administracion-publica",
+      "title": "Administración Pública"
+    }
+  ],
+  "id": "juqdkmgo-68",
+  "isopen": true,
+  "license_id": "CC-BY-2.5-AR",
+  "license_title": "Atribucion 2.5 Argentina (CC BY 2.5 AR)",
+  "license_url": "https://creativecommons.org/licenses/by/2.5/ar ",
+  "maintainer": "Secretaría General y Relaciones Internacionales. Subsecretaría Gestión Estratégica y Calidad Institucional. Dirección General Calidad Institucional y Gobierno Abierto",
+  "maintainer_email": "gobiernoabierto@buenosaires.gob.ar",
+  "metadata_created": "2019-12-11T18:34:41.616393",
+  "metadata_modified": "2020-12-17T16:00:43.871564",
+  "name": "datos-publicos",
+  "notes": "Catálogo de datos públicos publicados en data.buenosaires.gob.ar",
+  "num_resources": 4,
+  "num_tags": 3,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-11-15T19:16:33.772140",
+    "description": "",
+    "id": "8862c931-b89e-44c6-9567-79a33d0174e3",
+    "image_url": "",
+    "is_organization": true,
+    "name": "secretaria-general-y-relaciones-internacionales",
+    "revision_id": "7607a9d6-dd19-4643-bf63-3a43148dab03",
+    "state": "active",
+    "title": "Secretaría General y Relaciones Internacionales",
+    "type": "organization"
+  },
+  "owner_org": "8862c931-b89e-44c6-9567-79a33d0174e3",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/datos-publicos",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-01-08T14:59:20.276931",
+      "datastore_active": false,
+      "description": "Nombre del dataset, productor, fuente del dato, frecuencia de actualización y fecha de incorporación al catálogo de datos públicos data.buenosaires.gob.ar",
+      "fileName": "datos-publicos.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "juqdkmgo-681-resource",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Datos Públicos",
+      "package_id": "juqdkmgo-68",
+      "position": 0,
+      "resource_type": "file",
+      "revision_id": "33f9fa20-993c-48db-859d-7b845bbf0dd2",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/datos-publicos/datos-publicos.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/datos-publicos",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-01-08T14:59:20.276931",
+      "datastore_active": false,
+      "description": "El recurso contiene información de cada uno de los recursos que contiene el portal data.buenosaires.gob.ar En el mismo se incluye nombre de datasets, recursos, formato y ministerio",
+      "fileName": "datos-publicos-por-recurso.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "juqdkmgo-682-resource",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Datos Públicos por recurso",
+      "package_id": "juqdkmgo-68",
+      "position": 1,
+      "resource_type": "file",
+      "revision_id": "85fe4edf-c4e0-4d84-84ef-94a1d44d299f",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/datos-publicos/datos-publicos-por-recurso.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/datos-publicos",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-01-08T14:59:20.276931",
+      "datastore_active": false,
+      "description": "Nombre del dataset, productor, fuente del dato, frecuencia de actualización y fecha de incorporación al catálogo de datos públicos data.buenosaires.gob.ar",
+      "fileName": "datos-publicos.xlsx",
+      "format": "XLSX",
+      "hash": "",
+      "id": "juqdkmgo-681-resource-xlsx",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Datos Públicos (XLSX)",
+      "package_id": "juqdkmgo-68",
+      "position": 2,
+      "resource_type": "file",
+      "revision_id": "d2787ff5-7b39-4769-b160-0a7223373a11",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/datos-publicos/datos-publicos.xlsx",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/datos-publicos",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-01-08T14:59:20.276931",
+      "datastore_active": false,
+      "description": "El recurso contiene información de cada uno de los recursos que contiene el portal data.buenosaires.gob.ar En el mismo se incluye nombre de datasets, recursos, formato y ministerio",
+      "fileName": "datos-publicos-por-recurso.xlsx",
+      "format": "XLSX",
+      "hash": "",
+      "id": "juqdkmgo-682-resource-xlsx",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Datos Públicos por recurso (XLSX)",
+      "package_id": "juqdkmgo-68",
+      "position": 3,
+      "resource_type": "file",
+      "revision_id": "88fe33b4-bbe0-4865-a642-2b0faa4cf324",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/datos-publicos/datos-publicos-por-recurso.xlsx",
+      "url_type": null
+    }
+  ],
+  "revision_id": "04883dc9-573f-4ca9-9afc-8ce8c9aab820",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "datos",
+      "id": "f6404a4a-6721-48af-a394-a15225d748a6",
+      "name": "datos",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "gobierno abierto",
+      "id": "d7f731f3-216c-4737-9028-9a10e94bbe49",
+      "name": "gobierno abierto",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "transparencia",
+      "id": "c76a2fc9-7271-4068-ab0e-27c83cab96e1",
+      "name": "transparencia",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Datos Públicos",
+  "type": "dataset",
+  "url": "https://data.buenosaires.gob.ar/dataset/datos-publicos",
+  "version": null
+}

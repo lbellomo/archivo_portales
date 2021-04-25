@@ -1,0 +1,209 @@
+{
+  "author": "Ministerio de Economía y Finanzas",
+  "author_email": "gobiernoabierto@buenosaires.gob.ar",
+  "creator_user_id": "e4546f46-e966-493c-b2f1-57318502c41b",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P6M"
+    },
+    {
+      "key": "issued",
+      "value": "2019-01-08T14:56:03.228218"
+    },
+    {
+      "key": "language",
+      "value": "[\"SPA\"]"
+    },
+    {
+      "key": "modified",
+      "value": "2019-05-27T14:39:22.492084"
+    },
+    {
+      "key": "source",
+      "value": "Ministerio de Educación e Innovación. Secretaría de Ciencia, Tecnología e Innovación. SS de Ciudad Inteligente y Tecnología Educativa. DG Ciencias de la Información. Unidad de Sistemas de Información Geográfica (USIG)"
+    },
+    {
+      "key": "spatial",
+      "value": "02"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"ECON\"]"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Datasets relacionados con la economía y las finanzas",
+      "display_name": "Economía y Finanzas",
+      "id": "64da4336-6da7-4494-80c0-365016597e9e",
+      "image_display_url": "https://data.buenosaires.gob.ar/uploads/group/2019-11-16-144934.521128economia.png",
+      "name": "economia-y-finanzas",
+      "title": "Economía y Finanzas"
+    }
+  ],
+  "id": "juqdkmgo-93",
+  "isopen": true,
+  "license_id": "CC-BY-2.5-AR",
+  "license_title": "Atribucion 2.5 Argentina (CC BY 2.5 AR)",
+  "license_url": "https://creativecommons.org/licenses/by/2.5/ar ",
+  "maintainer": "Secretaría General y Relaciones Internacionales. Subsecretaría Gestión Estratégica y Calidad Institucional. Dirección General Calidad Institucional y Gobierno Abierto",
+  "maintainer_email": "gobiernoabierto@buenosaires.gob.ar",
+  "metadata_created": "2019-12-11T18:19:17.750738",
+  "metadata_modified": "2020-12-17T16:09:51.937268",
+  "name": "empresas-distrito-tecnologico",
+  "notes": "Registro de empresas radicadas en Distrito Tecnológico.",
+  "num_resources": 4,
+  "num_tags": 4,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-11-15T19:19:36.584582",
+    "description": "",
+    "id": "6627a918-f475-43bb-b167-11de01ae62df",
+    "image_url": "",
+    "is_organization": true,
+    "name": "ministerio-de-economia-y-finanzas",
+    "revision_id": "57d30234-7d4b-4b19-a2fa-1a57afc0e03b",
+    "state": "active",
+    "title": "Ministerio de Hacienda y Finanzas",
+    "type": "organization"
+  },
+  "owner_org": "6627a918-f475-43bb-b167-11de01ae62df",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/empresas-distrito-tecnologico",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-07-01T16:14:48.588931",
+      "datastore_active": false,
+      "description": "Detalle de las empresas radicadas en el distrito tecnológico, razón social, origen, sector, ubicación geográfica.",
+      "fileName": "empresas-del-distrito-tecnologico.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "juqdkmgo-931-resource",
+      "last_modified": "2019-07-01T16:14:48.588931",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Empresas del Distrito Tecnológico",
+      "package_id": "juqdkmgo-93",
+      "position": 0,
+      "resource_type": "file",
+      "revision_id": "e07611a1-6298-4d16-8097-1c730d00ed26",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/empresas-distrito-tecnologico/empresas-del-distrito-tecnologico.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/empresas-distrito-tecnologico",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-01-08T14:56:03.228218",
+      "datastore_active": false,
+      "description": "Archivo shapefile con las empresas del distrito tecnológico de la Ciudad.",
+      "fileName": "empresas-del-distrito-tecnologico-zip.zip",
+      "format": "ZIP",
+      "hash": "",
+      "id": "juqdkmgo-932-resource",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Empresas del Distrito Tecnológico (SHP)",
+      "package_id": "juqdkmgo-93",
+      "position": 1,
+      "resource_type": "file",
+      "revision_id": "dbbfe540-9484-4bdc-915b-c97d5872a329",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/empresas-distrito-tecnologico/empresas-del-distrito-tecnologico-zip.zip",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/93/resource/8b10855d-b954-4c55-a076-e4ddd3eeee4d",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-09-04T14:01:30.599062",
+      "datastore_active": false,
+      "description": "Archivo GeoJSON con las empresas del distrito tecnológico de la Ciudad.",
+      "fileName": "empresas-distrito-tecnologico.geojson",
+      "format": "GeoJSON",
+      "hash": "",
+      "id": "8b10855d-b954-4c55-a076-e4ddd3eeee4d",
+      "last_modified": "2019-09-04T14:01:30.599062",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Empresas del Distrito Tecnológico (GeoJSON)",
+      "package_id": "juqdkmgo-93",
+      "position": 2,
+      "resource_type": "file",
+      "revision_id": "05d5e7a9-7c10-4838-82c5-43ceb37ddc74",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/empresas-distrito-tecnologico/empresas-distrito-tecnologico.geojson",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/empresas-distrito-tecnologico",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-07-01T16:14:48.588931",
+      "datastore_active": false,
+      "description": "Detalle de las empresas radicadas en el distrito tecnológico, razón social, origen, sector, ubicación geográfica.",
+      "fileName": "empresas-del-distrito-tecnologico.xlsx",
+      "format": "XLSX",
+      "hash": "",
+      "id": "juqdkmgo-931-resource-xlsx",
+      "last_modified": "2019-07-01T16:14:48.588931",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Empresas del Distrito Tecnológico (XLSX)",
+      "package_id": "juqdkmgo-93",
+      "position": 3,
+      "resource_type": "file",
+      "revision_id": "671405d6-8dec-494e-903a-858629cc682f",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/empresas-distrito-tecnologico/empresas-del-distrito-tecnologico.xlsx",
+      "url_type": null
+    }
+  ],
+  "revision_id": "84a32575-8b0e-45a5-bb81-a6bc976d0d61",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "csv",
+      "id": "f9980424-8dbf-4a4b-8a2f-0d9741810d82",
+      "name": "csv",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "desarrollo-económico",
+      "id": "6abeaba9-dbd3-4a92-b502-46cd6a1544e1",
+      "name": "desarrollo-económico",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "economía",
+      "id": "20a0f20c-f7ed-48f4-b223-e343db7f9ee8",
+      "name": "economía",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "empresas",
+      "id": "87418922-d17d-45e4-bad9-bd9523ee67f3",
+      "name": "empresas",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Empresas Distrito Tecnológico",
+  "type": "dataset",
+  "url": "https://data.buenosaires.gob.ar/dataset/empresas-distrito-tecnologico",
+  "version": null
+}

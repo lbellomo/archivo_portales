@@ -1,0 +1,209 @@
+{
+  "author": "Arzobispado de Buenos Aires",
+  "author_email": "datosabiertos@buenosaires.gob.ar",
+  "creator_user_id": "e4546f46-e966-493c-b2f1-57318502c41b",
+  "extras": [
+    {
+      "key": "Documentación",
+      "value": ""
+    },
+    {
+      "key": "accrualPeriodicity",
+      "value": "eventual"
+    },
+    {
+      "key": "country",
+      "value": "None"
+    },
+    {
+      "key": "district",
+      "value": ""
+    },
+    {
+      "key": "home_featured",
+      "value": "false"
+    },
+    {
+      "key": "issued",
+      "value": "2019-02-04T13:13:14.511852"
+    },
+    {
+      "key": "language",
+      "value": "[]"
+    },
+    {
+      "key": "modified",
+      "value": "2021-03-05T11:36:03.980569"
+    },
+    {
+      "key": "province",
+      "value": ""
+    },
+    {
+      "key": "source",
+      "value": "Arzobispado de Buenos Aires"
+    },
+    {
+      "key": "spatial",
+      "value": "None"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"EDUC\"]"
+    },
+    {
+      "key": "temporal",
+      "value": ""
+    }
+  ],
+  "groups": [
+    {
+      "description": "Datasets relacionados con la cultura y el turismo",
+      "display_name": "Cultura y Turismo",
+      "id": "db2c0965-c659-4f94-8de9-41fce10f91a9",
+      "image_display_url": "https://data.buenosaires.gob.ar/uploads/group/2019-11-16-144908.071423cultura.png",
+      "name": "cultura-y-turismo",
+      "title": "Cultura y Turismo"
+    }
+  ],
+  "id": "3393c9f6-8aad-481f-9b9f-bae1e592dea7",
+  "isopen": true,
+  "license_id": "CC-BY-2.5-AR",
+  "license_title": "Atribucion 2.5 Argentina (CC BY 2.5 AR)",
+  "license_url": "https://creativecommons.org/licenses/by/2.5/ar ",
+  "maintainer": "Secretaría General y Relaciones Internacionales. Subsecretaría Gestión Estratégica y Calidad Institucional. Dirección General Calidad Institucional y Gobierno Abierto",
+  "maintainer_email": "datosabiertos@buenosaires.gob.ar",
+  "metadata_created": "2019-12-11T18:34:29.381285",
+  "metadata_modified": "2021-03-05T14:36:04.028902",
+  "name": "santuarios",
+  "notes": "Santuarios de la Arquidiócesis de la Ciudad.",
+  "num_resources": 3,
+  "num_tags": 4,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-11-15T19:16:33.772140",
+    "description": "",
+    "id": "8862c931-b89e-44c6-9567-79a33d0174e3",
+    "image_url": "",
+    "is_organization": true,
+    "name": "secretaria-general-y-relaciones-internacionales",
+    "revision_id": "7607a9d6-dd19-4643-bf63-3a43148dab03",
+    "state": "active",
+    "title": "Secretaría General y Relaciones Internacionales",
+    "type": "organization"
+  },
+  "owner_org": "8862c931-b89e-44c6-9567-79a33d0174e3",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/3393c9f6-8aad-481f-9b9f-bae1e592dea7/resource/767fab07-2bfa-44aa-9da3-e4ce488baffb",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-02-04T10:27:33.582279",
+      "datastore_active": false,
+      "description": "Santuarios de la Arquidiócesis de la Ciudad.",
+      "fileName": "santuarios.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "767fab07-2bfa-44aa-9da3-e4ce488baffb",
+      "last_modified": "2019-02-04T10:27:33.582279",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Santuarios",
+      "package_id": "3393c9f6-8aad-481f-9b9f-bae1e592dea7",
+      "position": 0,
+      "resource_type": "file",
+      "revision_id": "65b601f2-34d6-43bf-bd3f-09bd2c7a9c9f",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/santuarios/santuarios.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/3393c9f6-8aad-481f-9b9f-bae1e592dea7/resource/9ff9bc2f-b712-415a-9fd9-afb76e9f0579",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-02-04T10:28:14.602249",
+      "datastore_active": false,
+      "description": "Archivo shapefile de los Santuarios de la Arquidiócesis de la Ciudad.",
+      "fileName": "santuarios.zip",
+      "format": "ZIP",
+      "hash": "",
+      "id": "9ff9bc2f-b712-415a-9fd9-afb76e9f0579",
+      "last_modified": "2019-02-04T10:28:14.602249",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Santuarios (SHP)",
+      "package_id": "3393c9f6-8aad-481f-9b9f-bae1e592dea7",
+      "position": 1,
+      "resource_type": "file",
+      "revision_id": "bfdb3886-606f-438b-829d-f47bfba41028",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/santuarios/santuarios.zip",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/3393c9f6-8aad-481f-9b9f-bae1e592dea7/resource/767fab07-2bfa-44aa-9da3-e4ce488baffb",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-02-04T10:27:33.582279",
+      "datastore_active": false,
+      "description": "Santuarios de la Arquidiócesis de la Ciudad.",
+      "fileName": "santuarios.xlsx",
+      "format": "XLSX",
+      "hash": "",
+      "id": "767fab07-2bfa-44aa-9da3-e4ce488baffb-xlsx",
+      "last_modified": "2019-02-04T10:27:33.582279",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Santuarios (XLSX)",
+      "package_id": "3393c9f6-8aad-481f-9b9f-bae1e592dea7",
+      "position": 2,
+      "resource_type": "file",
+      "revision_id": "26c559b8-e738-4445-8e4e-eb5713a9f048",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/santuarios/santuarios.xlsx",
+      "url_type": null
+    }
+  ],
+  "revision_id": "69993371-d64b-48a8-b9ec-b18ead5f8da4",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "arquidocesis",
+      "id": "38761e35-8b9d-4235-adeb-f3e95d1c6fc3",
+      "name": "arquidocesis",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "iglesias",
+      "id": "8db63320-63ac-4ca2-be3b-306592d324a9",
+      "name": "iglesias",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "religión",
+      "id": "061615b4-a00e-4222-a969-5d42a7a7ddee",
+      "name": "religión",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "santuarios",
+      "id": "f1f41d2b-e02c-4e9e-b7f3-75fca3e74051",
+      "name": "santuarios",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Santuarios",
+  "type": "dataset",
+  "url": "http://data.buenosaires.gob.ar/dataset/santuarios",
+  "version": null
+}

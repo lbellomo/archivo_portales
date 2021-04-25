@@ -1,0 +1,207 @@
+{
+  "author": "Ministerio de Hacienda y Finanzas. Dirección General de Estadística y Censos",
+  "author_email": "datosabiertos@buenosaires.gob.ar",
+  "creator_user_id": "931fac92-738f-4472-b1c1-f5c2f6e46af3",
+  "extras": [
+    {
+      "key": "Documentación",
+      "value": ""
+    },
+    {
+      "key": "accrualPeriodicity",
+      "value": "eventual"
+    },
+    {
+      "key": "country",
+      "value": "ARG"
+    },
+    {
+      "key": "district",
+      "value": ""
+    },
+    {
+      "key": "home_featured",
+      "value": "false"
+    },
+    {
+      "key": "issued",
+      "value": "2020-09-24T14:57:04.497366"
+    },
+    {
+      "key": "language",
+      "value": "[\"spa\"]"
+    },
+    {
+      "key": "modified",
+      "value": "2021-02-26T17:31:09.159268"
+    },
+    {
+      "key": "province",
+      "value": ""
+    },
+    {
+      "key": "source",
+      "value": "Ministerio de Hacienda y Finanzas. Dirección General de Estadística y Censos"
+    },
+    {
+      "key": "spatial",
+      "value": "ARG"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"ECON\",\"TRAN\"]"
+    },
+    {
+      "key": "temporal",
+      "value": ""
+    }
+  ],
+  "groups": [
+    {
+      "description": "",
+      "display_name": "Medioambiente",
+      "id": "a99c1197-8379-4a60-a6eb-8737cab5ec4f",
+      "image_display_url": "https://data.buenosaires.gob.ar/uploads/group/2019-11-16-145003.550663medioambiente.png",
+      "name": "medioambiente",
+      "title": "Medioambiente"
+    },
+    {
+      "description": "Datasets relacionados con urbanismo y territorio",
+      "display_name": "Urbanismo y Territorio",
+      "id": "63e162a0-3f4a-446a-a60b-601d16f36200",
+      "image_display_url": "https://data.buenosaires.gob.ar/uploads/group/2019-11-16-145056.781692urba.png",
+      "name": "urbanismo-y-territorio",
+      "title": "Urbanismo y Territorio"
+    }
+  ],
+  "id": "aecdb3ad-c02d-4383-8aaf-d8449aa90661",
+  "isopen": true,
+  "license_id": "CC-BY-2.5-AR",
+  "license_title": "Atribucion 2.5 Argentina (CC BY 2.5 AR)",
+  "license_url": "https://creativecommons.org/licenses/by/2.5/ar ",
+  "maintainer": "Ministerio de Hacienda y Finanzas. Dirección General de Estadística y Censos",
+  "maintainer_email": "datosabiertos@buenosaires.gob.ar",
+  "metadata_created": "2020-09-24T17:56:59.247652",
+  "metadata_modified": "2021-02-26T20:31:09.197332",
+  "name": "parque-automotor",
+  "notes": "Registro histórico desde 2010 de la cantidad de vehículos acumulados en la Ciudad de Buenos Aires",
+  "num_resources": 2,
+  "num_tags": 4,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-11-15T19:18:36.747317",
+    "description": "",
+    "id": "800664f9-ab56-4482-a6c8-0a1d316bf35b",
+    "image_url": "",
+    "is_organization": true,
+    "name": "direccion-general-de-estadisticas-y-censos",
+    "revision_id": "62a8b16c-0849-419d-a339-8e14d1b4a010",
+    "state": "active",
+    "title": "Dirección General de Estadísticas y Censos",
+    "type": "organization"
+  },
+  "owner_org": "800664f9-ab56-4482-a6c8-0a1d316bf35b",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "",
+      "accessURL_field": "",
+      "attributesDescription": "[{\"title\":\"año\",\"description\":\" año de registro\",\"type\":\"integer\"},{\"title\":\"mes\",\"description\":\"mes de registro\",\"type\":\"string\"},{\"title\":\"administracion\",\"description\":\" nivel administrativo correspondiente (local CABA o Nacional)\",\"type\":\"string\"},{\"title\":\"cantidad_vehiculos\",\"description\":\"cantidad de vehículos habilitados para circular.\",\"type\":\"integer\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2020-09-24T17:58:56.021786",
+      "datastore_active": false,
+      "description": "Cantidad de vehiculos acumulados por mes y año, tanto en la Ciudad como a nivel nacional",
+      "fileName": "",
+      "format": "CSV",
+      "has-uploaded-file": "",
+      "hash": "",
+      "icon_url": "",
+      "id": "75feb460-6f66-46ea-bede-cd484b25e5c5",
+      "issued": "2020-09-24T17:58:56.021786",
+      "last_modified": "2020-09-24T00:00:00",
+      "license_id": "CC-BY-4.0",
+      "mimetype": "text/csv",
+      "mimetype_inner": null,
+      "modified": "2020-09-24T15:02:56.141538",
+      "name": "Registro histórico del parque automotor de la Ciudad y del total del país (2010-2020)",
+      "package_id": "aecdb3ad-c02d-4383-8aaf-d8449aa90661",
+      "position": 0,
+      "resource_type": "file",
+      "revision_id": "b7682dbb-fd75-470f-961b-92a34de4af45",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/direccion-general-de-estadisticas-y-censos/parque-automotor/historico_parque_automotor.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "",
+      "accessURL_field": "",
+      "attributesDescription": "[{\"title\":\"año\",\"description\":\" año de registro\",\"type\":\"integer\"},{\"title\":\"mes\",\"description\":\"mes de registro\",\"type\":\"string\"},{\"title\":\"administracion\",\"description\":\" nivel administrativo correspondiente (local CABA o Nacional)\",\"type\":\"string\"},{\"title\":\"cantidad_vehiculos\",\"description\":\"cantidad de vehículos habilitados para circular.\",\"type\":\"integer\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2020-09-24T17:59:00.405709",
+      "datastore_active": false,
+      "description": "Cantidad de vehiculos acumulados por mes y año, tanto en la Ciudad como a nivel nacional",
+      "fileName": "",
+      "format": "XLSX",
+      "has-uploaded-file": "",
+      "hash": "",
+      "icon_url": "",
+      "id": "ca284478-7914-4d29-9aa8-02db3ba15918",
+      "issued": "2020-09-24T17:59:00.405709",
+      "last_modified": "2020-09-24T00:00:00",
+      "license_id": "CC-BY-4.0",
+      "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "mimetype_inner": null,
+      "modified": "2020-09-24T15:03:00.595836",
+      "name": "Registro histórico del parque automotor de la Ciudad y del total del país (2010-2020) (XLSX)",
+      "package_id": "aecdb3ad-c02d-4383-8aaf-d8449aa90661",
+      "position": 1,
+      "resource_type": "file",
+      "revision_id": "f0f2d639-f371-4b6f-aadc-7159af012e5f",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/direccion-general-de-estadisticas-y-censos/parque-automotor/historico_parque_automotor.xlsx",
+      "url_type": null
+    }
+  ],
+  "revision_id": "4b4cf256-29da-4184-8814-8625e454980b",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "automotor",
+      "id": "6fb40a43-6067-4a3b-81b4-33dbd91127d5",
+      "name": "automotor",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "cambio climático",
+      "id": "a6836452-912d-41c2-b324-4eddc98a75c2",
+      "name": "cambio climático",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "medioambiente",
+      "id": "e7e79a15-eb8b-406d-a2c2-9012b193e5a8",
+      "name": "medioambiente",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "parque",
+      "id": "31489c72-debe-44cf-8993-ee76838d8162",
+      "name": "parque",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Parque automotor",
+  "type": "dataset",
+  "url": "https://data.buenosaires.gob.ar/dataset/parque-automotor",
+  "version": null
+}

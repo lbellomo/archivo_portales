@@ -1,0 +1,271 @@
+{
+  "author": "Ministerio de Salud",
+  "author_email": "datosabiertos@buenosaires.gob.ar",
+  "creator_user_id": "3ff46b8e-0885-4233-9acd-90f8b7e76333",
+  "extras": [
+    {
+      "key": "Documentación",
+      "value": ""
+    },
+    {
+      "key": "accrualPeriodicity",
+      "value": "eventual"
+    },
+    {
+      "key": "country",
+      "value": "None"
+    },
+    {
+      "key": "district",
+      "value": ""
+    },
+    {
+      "key": "home_featured",
+      "value": "false"
+    },
+    {
+      "key": "issued",
+      "value": "2021-03-03T00:09:42.529218"
+    },
+    {
+      "key": "language",
+      "value": "[]"
+    },
+    {
+      "key": "modified",
+      "value": "2021-03-03T00:09:42.529218"
+    },
+    {
+      "key": "province",
+      "value": ""
+    },
+    {
+      "key": "source",
+      "value": "Ministerio de Salud"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"GOVE\",\"HEAL\"]"
+    },
+    {
+      "key": "temporal",
+      "value": ""
+    }
+  ],
+  "groups": [
+    {
+      "description": "Datasets relacionados a COVID-19",
+      "display_name": "COVID-19",
+      "id": "0f30f631-df60-4d33-aedb-96c9a48a2332",
+      "image_display_url": "https://data.buenosaires.gob.ar/uploads/group/2020-07-23-165939.349779iconocovid19.png",
+      "name": "covid-19",
+      "title": "COVID-19"
+    }
+  ],
+  "id": "9f74f294-713f-4315-a85a-c165e96392f3",
+  "isopen": true,
+  "license_id": "CC-BY-2.5-AR",
+  "license_title": "Atribucion 2.5 Argentina (CC BY 2.5 AR)",
+  "license_url": "https://creativecommons.org/licenses/by/2.5/ar ",
+  "maintainer": "Gerencia Operativa de Ingeniería de Datos. DG Arquitectura de Datos. SS de Políticas Públicas Basadas en Evidencia. Secretaría de Innovación y Transformación Digital. Jefatura de Gabinete de Ministros",
+  "maintainer_email": "datosabiertos@buenosaires.gob.ar",
+  "metadata_created": "2021-03-02T19:30:42.286672",
+  "metadata_modified": "2021-03-03T03:09:42.540997",
+  "name": "postas-de-vacunacion-covid-19",
+  "notes": "Información georreferenciada sobre las postas públicas y privadas para la vacunación contra el COVID-19.",
+  "num_resources": 4,
+  "num_tags": 6,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-11-15T19:18:53.185953",
+    "description": "",
+    "id": "8ff6e21b-7ebc-45b7-8e50-3629f26d0414",
+    "image_url": "",
+    "is_organization": true,
+    "name": "administracion-gubernamental-de-ingresos-publicos",
+    "revision_id": "18ec9402-5011-4f5d-9acf-c8ba3ce157f9",
+    "state": "active",
+    "title": "Administración Gubernamental de Ingresos Públicos (AGIP)",
+    "type": "organization"
+  },
+  "owner_org": "8ff6e21b-7ebc-45b7-8e50-3629f26d0414",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "",
+      "accessURL_field": "",
+      "attributesDescription": "[{\"title\":\"X\",\"description\":\"Latitud\",\"type\":\"number\"},{\"title\":\"Y\",\"description\":\"Longitud\",\"type\":\"number\"},{\"title\":\"id\",\"description\":\"identificación de la posta \",\"type\":\"integer\"},{\"title\":\"categoría\",\"description\":\"Tipo de gestión de la posta: pública o privada.\",\"type\":\"string\"},{\"title\":\"efector\",\"description\":\"Nombre de la posta, hospital o centro de vacunación.\",\"type\":\"string\"},{\"title\":\"tipo_de_ef\",\"description\":\"Tipo de efector de las postas. Descripción del campo 'categoría'.\",\"type\":\"string\"},{\"title\":\"direccion\",\"description\":\"Dirección de la posta.\",\"type\":\"string\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2021-03-02T19:38:24.025452",
+      "datastore_active": false,
+      "description": "Información georreferenciada de las postas de vacunación contra el COVID-19.",
+      "fileName": "postas_vacunacion_covid.csv",
+      "format": "CSV",
+      "has-uploaded-file": "",
+      "hash": "",
+      "icon_url": "",
+      "id": "4c317373-a635-4d23-b465-7a9684090e3d",
+      "issued": "2021-03-02T16:38:23.977971",
+      "last_modified": "2021-03-02T19:38:23.985380",
+      "license_id": "CC-BY-2.5-AR",
+      "mimetype": "text/csv",
+      "mimetype_inner": null,
+      "modified": "2021-03-02T16:38:23.977971",
+      "name": "Postas de vacunación COVID-19",
+      "package_id": "9f74f294-713f-4315-a85a-c165e96392f3",
+      "position": 0,
+      "resource_type": "file.upload",
+      "revision_id": "0db44090-8e42-4f49-8be0-10863ab59f52",
+      "size": 11883,
+      "state": "active",
+      "url": "https://data.buenosaires.gob.ar/dataset/9f74f294-713f-4315-a85a-c165e96392f3/resource/4c317373-a635-4d23-b465-7a9684090e3d/download/postas_vacunacion_covid.csv",
+      "url_type": "upload"
+    },
+    {
+      "accessURL": "",
+      "accessURL_field": "",
+      "attributesDescription": "[{\"title\":\"X\",\"description\":\"Latitud \",\"type\":\"number\"},{\"title\":\"Y\",\"description\":\"Longitud\",\"type\":\"number\"},{\"title\":\"id\",\"description\":\"identificación de la posta  \",\"type\":\"integer\"},{\"title\":\"categoria\",\"description\":\"Tipo de gestión de la posta: pública o privada. \\n\",\"type\":\"string\"},{\"title\":\"efector\",\"description\":\"Nombre de la posta, hospital o centro de vacunación. \\n\",\"type\":\"string\"},{\"title\":\"tipo_de_ef\",\"description\":\"Tipo de efector de las postas. Descripción del campo 'categoría'. \\n\",\"type\":\"string\"},{\"title\":\"direccion\",\"description\":\"Dirección de la posta. \\n\",\"type\":\"string\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2021-03-02T19:40:59.315127",
+      "datastore_active": false,
+      "description": "Información georreferenciada de las postas de vacunación contra el COVID-19.",
+      "fileName": "postas_vacunacion_covid.xlsx",
+      "format": "XLSX",
+      "has-uploaded-file": "",
+      "hash": "",
+      "icon_url": "",
+      "id": "1c09c8fe-ed5c-447b-8bdc-2ae1f0cb44e5",
+      "issued": "2021-03-02T16:43:59.514187",
+      "last_modified": "2021-03-02T19:43:59.523355",
+      "license_id": "CC-BY-4.0",
+      "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "mimetype_inner": null,
+      "modified": "2021-03-02T16:43:59.514187",
+      "name": "Postas de vacunación COVID-19 (XLSX)",
+      "package_id": "9f74f294-713f-4315-a85a-c165e96392f3",
+      "position": 1,
+      "resource_type": "file.upload",
+      "revision_id": "82b71f70-aee0-442c-a657-89bd0acbc7df",
+      "size": 10968,
+      "state": "active",
+      "url": "https://data.buenosaires.gob.ar/dataset/9f74f294-713f-4315-a85a-c165e96392f3/resource/1c09c8fe-ed5c-447b-8bdc-2ae1f0cb44e5/download/postas_vacunacion_covid.xlsx",
+      "url_type": "upload"
+    },
+    {
+      "accessURL": "",
+      "accessURL_field": "",
+      "attributesDescription": "[{\"title\":\"X\",\"description\":\"Latitud\",\"type\":\"number\"},{\"title\":\"Y\",\"description\":\"Longitud\",\"type\":\"number\"},{\"title\":\"id\",\"description\":\"identificación de la posta  \\n\",\"type\":\"integer\"},{\"title\":\"categoria\",\"description\":\"Tipo de gestión de la posta: pública o privada. \\n\",\"type\":\"string\"},{\"title\":\"efector\",\"description\":\"Nombre de la posta, hospital o centro de vacunación. \\n\",\"type\":\"string\"},{\"title\":\"tipo_de_ef\",\"description\":\"Tipo de efector de las postas. Descripción del campo 'categoría'. \\n\",\"type\":\"string\"},{\"title\":\"direccion\",\"description\":\"Dirección de la posta. \\n\",\"type\":\"string\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2021-03-02T19:43:40.362659",
+      "datastore_active": false,
+      "description": "Información georreferenciada de las postas de vacunación contra el COVID-19.\r\n\r\n",
+      "fileName": "posta_vacunacion_covid.zip",
+      "format": "SHP",
+      "has-uploaded-file": "",
+      "hash": "",
+      "icon_url": "",
+      "id": "bf38e817-3c2f-4e6e-814f-9781fb65fc55",
+      "issued": "2021-03-02T16:43:40.312418",
+      "last_modified": "2021-03-02T19:43:40.320787",
+      "license_id": "CC-BY-2.5-AR",
+      "mimetype": "application/zip",
+      "mimetype_inner": null,
+      "modified": "2021-03-02T16:43:40.312418",
+      "name": "Postas de vacunación COVID-19 (SHP)",
+      "package_id": "9f74f294-713f-4315-a85a-c165e96392f3",
+      "position": 2,
+      "resource_type": "file.upload",
+      "revision_id": "82b71f70-aee0-442c-a657-89bd0acbc7df",
+      "size": 5716,
+      "state": "active",
+      "url": "https://data.buenosaires.gob.ar/dataset/9f74f294-713f-4315-a85a-c165e96392f3/resource/bf38e817-3c2f-4e6e-814f-9781fb65fc55/download/posta_vacunacion_covid.zip",
+      "url_type": "upload"
+    },
+    {
+      "accessURL": "",
+      "accessURL_field": "",
+      "attributesDescription": "[{\"title\":\"X\",\"description\":\"Latitud\",\"type\":\"number\"},{\"title\":\"Y\",\"description\":\"Longitud\",\"type\":\"number\"},{\"title\":\"id\",\"description\":\"identificación de la posta  \\n\",\"type\":\"integer\"},{\"title\":\"categoria\",\"description\":\"Tipo de gestión de la posta: pública o privada. \\n\",\"type\":\"string\"},{\"title\":\"efector\",\"description\":\"Nombre de la posta, hospital o centro de vacunación. \\n\",\"type\":\"string\"},{\"title\":\"tipo_de_ef\",\"description\":\"Tipo de efector de las postas. Descripción del campo 'categoría'. \\n\",\"type\":\"string\"},{\"title\":\"direccion\",\"description\":\"Dirección de la posta. \\n\",\"type\":\"string\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2021-03-02T19:46:58.594168",
+      "datastore_active": false,
+      "description": "Información georreferenciada de las postas de vacunación contra el COVID-19.\r\n\r\n",
+      "fileName": "",
+      "format": "otros",
+      "has-uploaded-file": "",
+      "hash": "",
+      "icon_url": "",
+      "id": "2b58acdb-1369-458e-a5f4-dc20094471b6",
+      "issued": "2021-03-02T19:31:19.567837",
+      "last_modified": "2021-03-02T19:46:58.550702",
+      "license_id": "CC-BY-2.5-AR",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "modified": "2021-03-02T19:31:19.567837",
+      "name": "Postas de vacunación COVID-19 (GeoJSON)",
+      "package_id": "9f74f294-713f-4315-a85a-c165e96392f3",
+      "position": 3,
+      "resource_type": "file.upload",
+      "revision_id": "17cbfeb0-0a70-4376-a0ac-04aa08893e3f",
+      "size": 170,
+      "state": "active",
+      "url": "https://data.buenosaires.gob.ar/dataset/9f74f294-713f-4315-a85a-c165e96392f3/resource/2b58acdb-1369-458e-a5f4-dc20094471b6/download/posta_vacunacion_covid.geojson",
+      "url_type": "upload"
+    }
+  ],
+  "revision_id": "34f01a4b-ffa5-48d6-b142-862c14009b32",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "COVID-19",
+      "id": "931486a5-526e-433d-a642-4768937b65d8",
+      "name": "COVID-19",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "plan de vacunación",
+      "id": "fda68e61-5dcc-483d-9430-f2c465f5906f",
+      "name": "plan de vacunación",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "postas de vacunación",
+      "id": "bd8664e7-1efc-4c38-b262-f9b0c2e1cf2c",
+      "name": "postas de vacunación",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "salud",
+      "id": "92c7f3e1-f781-4b82-a933-7408e37b3687",
+      "name": "salud",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "vacunación",
+      "id": "9a5f6d9d-01f4-4929-8d5c-cef35636151c",
+      "name": "vacunación",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "vacunas",
+      "id": "c1bc3f42-70ed-41b1-b8ca-7a51cfd4639d",
+      "name": "vacunas",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Postas de vacunación COVID-19",
+  "type": "dataset",
+  "url": "https://data.buenosaires.gob.ar/dataset/postas-de-vacunacion-covid-19",
+  "version": null
+}

@@ -1,0 +1,213 @@
+{
+  "author": "Ministerio de Ambiente y Espacio Público. Agencia de Protección Ambiental",
+  "author_email": "gobiernoabierto@buenosaires.gob.ar",
+  "creator_user_id": "e4546f46-e966-493c-b2f1-57318502c41b",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P1M"
+    },
+    {
+      "key": "issued",
+      "value": "2019-08-01T00:00:00.000000"
+    },
+    {
+      "key": "language",
+      "value": "[\"SPA\"]"
+    },
+    {
+      "key": "modified",
+      "value": "2019-11-16T13:57:57.311874"
+    },
+    {
+      "key": "source",
+      "value": "Ministerio de Educación e Innovación. Secretaría de Ciencia, Tecnología e Innovación. SS de Ciudad Inteligente y Tecnología Educativa."
+    },
+    {
+      "key": "spatial",
+      "value": "02"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"ENVI\"]"
+    }
+  ],
+  "groups": [
+    {
+      "description": "",
+      "display_name": "Medioambiente",
+      "id": "a99c1197-8379-4a60-a6eb-8737cab5ec4f",
+      "image_display_url": "https://data.buenosaires.gob.ar/uploads/group/2019-11-16-145003.550663medioambiente.png",
+      "name": "medioambiente",
+      "title": "Medioambiente"
+    }
+  ],
+  "id": "juqdkmgo-228",
+  "isopen": true,
+  "license_id": "CC-BY-2.5-AR",
+  "license_title": "Atribucion 2.5 Argentina (CC BY 2.5 AR)",
+  "license_url": "https://creativecommons.org/licenses/by/2.5/ar ",
+  "maintainer": "Secretaría General y Relaciones Internacionales. Subsecretaría Gestión Estratégica y Calidad Institucional. Dirección General Calidad Institucional y Gobierno Abierto",
+  "maintainer_email": "gobiernoabierto@buenosaires.gob.ar",
+  "metadata_created": "2019-12-11T18:07:18.127915",
+  "metadata_modified": "2020-12-17T15:54:24.242282",
+  "name": "compuestos-organicos-volatiles",
+  "notes": "Información sobre valores máximos de concentración de compuestos orgánicos volátiles en diversos puntos de la Ciudad. Las mediciones se realizan cada 3 minutos.",
+  "num_resources": 4,
+  "num_tags": 4,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-11-15T19:17:10.767872",
+    "description": "",
+    "id": "87797715-09c9-4b3e-9af6-074850fba840",
+    "image_url": "",
+    "is_organization": true,
+    "name": "agencia-de-proteccion-ambiental",
+    "revision_id": "31d4bbad-1773-4015-9f8e-2e040bc7900a",
+    "state": "active",
+    "title": "Agencia de Protección Ambiental",
+    "type": "organization"
+  },
+  "owner_org": "87797715-09c9-4b3e-9af6-074850fba840",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/compuestos-organicos-volatiles",
+      "attributesDescription": "[{\"title\": \"observacion\", \"type\": \"integer\", \"description\": \"identificador \\u00fanico de la medici\\u00f3n\"}, {\"title\": \"timestamp\", \"type\": \"timestamp\", \"description\": \"fecha y hora de la medici\\u00f3n\"}, {\"title\": \"medicion\", \"type\": \"real\", \"description\": \"valor de la medici\\u00f3n\"}, {\"title\": \"unidad\", \"type\": \"string\", \"description\": \"unidad de medida de la medici\\u00f3n\"}, {\"title\": \"ubicacion\", \"type\": \"string\", \"description\": \"nombre del lugar donde se encuentra el sensor\"}, {\"title\": \"lat\", \"type\": \"real\", \"description\": \"latitud del sensor\"}, {\"title\": \"long\", \"type\": \"real\", \"description\": \"longitud del sensor\"}, {\"title\": \"variable\", \"type\": \"string\", \"description\": \"nombre de la variable de medici\\u00f3n\"}, {\"title\": \"mes\", \"type\": \"integer\", \"description\": \"mes de la medici\\u00f3n\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-08-01T00:00:00",
+      "datastore_active": false,
+      "description": "Concentración máxima de compuestos orgánicos volátiles registradas durante el mes de Septiembre 2019",
+      "fileName": "compuestos-organicos-volatiles-concentracion-maximo-2019-9.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "juqdkmgo-228A-resource",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Concentración Compuestos Orgánicos Volátiles (Septiembre 2019)",
+      "package_id": "juqdkmgo-228",
+      "position": 0,
+      "resource_type": "file",
+      "revision_id": "bf214361-698e-4892-8506-5575709aaa92",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/sensores/compuestos-organicos-volatiles-concentracion-maximo-2019-9.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/compuestos-organicos-volatiles",
+      "attributesDescription": "[{\"title\": \"observacion\", \"type\": \"integer\", \"description\": \"identificador \\u00fanico de la medici\\u00f3n\"}, {\"title\": \"timestamp\", \"type\": \"timestamp\", \"description\": \"fecha y hora de la medici\\u00f3n\"}, {\"title\": \"medicion\", \"type\": \"real\", \"description\": \"valor de la medici\\u00f3n\"}, {\"title\": \"unidad\", \"type\": \"string\", \"description\": \"unidad de medida de la medici\\u00f3n\"}, {\"title\": \"ubicacion\", \"type\": \"string\", \"description\": \"nombre del lugar donde se encuentra el sensor\"}, {\"title\": \"lat\", \"type\": \"real\", \"description\": \"latitud del sensor\"}, {\"title\": \"long\", \"type\": \"real\", \"description\": \"longitud del sensor\"}, {\"title\": \"variable\", \"type\": \"string\", \"description\": \"nombre de la variable de medici\\u00f3n\"}, {\"title\": \"mes\", \"type\": \"integer\", \"description\": \"mes de la medici\\u00f3n\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-08-01T00:00:00",
+      "datastore_active": false,
+      "description": "Concentración máxima de compuestos orgánicos volátiles registradas durante el mes de Septiembre 2019",
+      "fileName": "compuestos-organicos-volatiles-concentracion-maximo-2019-9.xlsx",
+      "format": "XLSX",
+      "hash": "",
+      "id": "juqdkmgo-228B-resource",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Concentración Compuestos Orgánicos Volátiles (Septiembre 2019)",
+      "package_id": "juqdkmgo-228",
+      "position": 1,
+      "resource_type": "file",
+      "revision_id": "99729263-ae78-4bef-8ced-5436d7c8fe95",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/sensores/compuestos-organicos-volatiles-concentracion-maximo-2019-9.xlsx",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/compuestos-organicos-volatiles",
+      "attributesDescription": "[{\"title\": \"observacion\", \"type\": \"integer\", \"description\": \"identificador \\u00fanico de la medici\\u00f3n\"}, {\"title\": \"timestamp\", \"type\": \"timestamp\", \"description\": \"fecha y hora de la medici\\u00f3n\"}, {\"title\": \"medicion\", \"type\": \"real\", \"description\": \"valor de la medici\\u00f3n\"}, {\"title\": \"unidad\", \"type\": \"string\", \"description\": \"unidad de medida de la medici\\u00f3n\"}, {\"title\": \"ubicacion\", \"type\": \"string\", \"description\": \"nombre del lugar donde se encuentra el sensor\"}, {\"title\": \"lat\", \"type\": \"real\", \"description\": \"latitud del sensor\"}, {\"title\": \"long\", \"type\": \"real\", \"description\": \"longitud del sensor\"}, {\"title\": \"variable\", \"type\": \"string\", \"description\": \"nombre de la variable de medici\\u00f3n\"}, {\"title\": \"mes\", \"type\": \"integer\", \"description\": \"mes de la medici\\u00f3n\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-08-01T00:00:00",
+      "datastore_active": false,
+      "description": "Concentración máxima de compuestos orgánicos volátiles registradas durante el mes de Agosto 2019",
+      "fileName": "compuestos-organicos-volatiles-concentracion-maximo-2019-8.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "juqdkmgo-228C-resource",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Concentración Compuestos Orgánicos Volátiles (Agosto 2019)",
+      "package_id": "juqdkmgo-228",
+      "position": 2,
+      "resource_type": "file",
+      "revision_id": "b83d9d99-d271-4425-a256-e9f5cdc5c234",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/sensores/compuestos-organicos-volatiles-concentracion-maximo-2019-8.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/compuestos-organicos-volatiles",
+      "attributesDescription": "[{\"title\": \"observacion\", \"type\": \"integer\", \"description\": \"identificador \\u00fanico de la medici\\u00f3n\"}, {\"title\": \"timestamp\", \"type\": \"timestamp\", \"description\": \"fecha y hora de la medici\\u00f3n\"}, {\"title\": \"medicion\", \"type\": \"real\", \"description\": \"valor de la medici\\u00f3n\"}, {\"title\": \"unidad\", \"type\": \"string\", \"description\": \"unidad de medida de la medici\\u00f3n\"}, {\"title\": \"ubicacion\", \"type\": \"string\", \"description\": \"nombre del lugar donde se encuentra el sensor\"}, {\"title\": \"lat\", \"type\": \"real\", \"description\": \"latitud del sensor\"}, {\"title\": \"long\", \"type\": \"real\", \"description\": \"longitud del sensor\"}, {\"title\": \"variable\", \"type\": \"string\", \"description\": \"nombre de la variable de medici\\u00f3n\"}, {\"title\": \"mes\", \"type\": \"integer\", \"description\": \"mes de la medici\\u00f3n\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-08-01T00:00:00",
+      "datastore_active": false,
+      "description": "Concentración máxima de compuestos orgánicos volátiles registradas durante el mes de Agosto 2019",
+      "fileName": "compuestos-organicos-volatiles-concentracion-maximo-2019-8.xlsx",
+      "format": "XLSX",
+      "hash": "",
+      "id": "juqdkmgo-228D-resource",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Concentración Compuestos Orgánicos Volátiles (Agosto 2019)",
+      "package_id": "juqdkmgo-228",
+      "position": 3,
+      "resource_type": "file",
+      "revision_id": "7b03095c-f0e5-4cc0-b594-961f943d0f44",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/sensores/compuestos-organicos-volatiles-concentracion-maximo-2019-8.xlsx",
+      "url_type": null
+    }
+  ],
+  "revision_id": "b12b919a-cb93-48e7-88e1-e0975c80694a",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "ambiente",
+      "id": "c5951c2e-5d33-4a1e-93cf-9ffd87d9ea86",
+      "name": "ambiente",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "clima",
+      "id": "02311a86-1d4b-436d-895b-ba8342946f9d",
+      "name": "clima",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "compuestos",
+      "id": "a027ed63-c585-48d5-af5b-87d02b7843f7",
+      "name": "compuestos",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "orgánicos",
+      "id": "d83a4279-7fcc-4e85-972b-2c4370f7a9ed",
+      "name": "orgánicos",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Compuestos Orgánicos Volátiles",
+  "type": "dataset",
+  "url": "https://data.buenosaires.gob.ar/dataset/compuestos-organicos-volatiles",
+  "version": null
+}

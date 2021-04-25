@@ -1,0 +1,202 @@
+{
+  "author": "Subsecretaría de Deportes. Vicejefatura de Gobierno",
+  "author_email": "datosabiertos@buenosaires.gob.ar",
+  "creator_user_id": "e4546f46-e966-493c-b2f1-57318502c41b",
+  "extras": [
+    {
+      "key": "Documentación",
+      "value": ""
+    },
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P1Y"
+    },
+    {
+      "key": "country",
+      "value": "None"
+    },
+    {
+      "key": "district",
+      "value": ""
+    },
+    {
+      "key": "home_featured",
+      "value": "false"
+    },
+    {
+      "key": "issued",
+      "value": "2019-01-08T14:59:50.515858"
+    },
+    {
+      "key": "language",
+      "value": "[]"
+    },
+    {
+      "key": "modified",
+      "value": "2021-03-05T10:26:08.994302"
+    },
+    {
+      "key": "province",
+      "value": ""
+    },
+    {
+      "key": "source",
+      "value": "Subgerencia de Información Geoespacial. DG Ciencias de la Información. SS de Políticas Públicas Basadas en Evidencia. Secretaría de Innovación y Transformación Digital. Jefatura de Gabinete de Ministros"
+    },
+    {
+      "key": "spatial",
+      "value": "None"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"SOCI\"]"
+    },
+    {
+      "key": "temporal",
+      "value": ""
+    }
+  ],
+  "groups": [
+    {
+      "description": "Datasets relacionados con la cultura y el turismo",
+      "display_name": "Cultura y Turismo",
+      "id": "db2c0965-c659-4f94-8de9-41fce10f91a9",
+      "image_display_url": "https://data.buenosaires.gob.ar/uploads/group/2019-11-16-144908.071423cultura.png",
+      "name": "cultura-y-turismo",
+      "title": "Cultura y Turismo"
+    }
+  ],
+  "id": "juqdkmgo-163",
+  "isopen": true,
+  "license_id": "CC-BY-2.5-AR",
+  "license_title": "Atribucion 2.5 Argentina (CC BY 2.5 AR)",
+  "license_url": "https://creativecommons.org/licenses/by/2.5/ar ",
+  "maintainer": "Gerencia Operativa de Ingeniería de Datos. DG Arquitectura de Datos. SS de Políticas Públicas Basadas en Evidencia. Secretaría de Innovación y Transformación Digital. Jefatura de Gabinete de Ministros",
+  "maintainer_email": "datosabiertos@buenosaires.gob.ar",
+  "metadata_created": "2019-12-11T18:36:01.796568",
+  "metadata_modified": "2021-03-05T13:26:09.026057",
+  "name": "polideportivos",
+  "notes": "Listado y Ubicación Geográfica de polideportivos dependientes de la Subsecretaría de Deportes.",
+  "num_resources": 3,
+  "num_tags": 3,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-11-15T19:15:14.176022",
+    "description": "",
+    "id": "cbb782e9-de0e-49de-9462-073238e616be",
+    "image_url": "",
+    "is_organization": true,
+    "name": "vicejefatura-de-gobierno",
+    "revision_id": "b25fa66f-e936-4a6f-9111-1585f0b3f210",
+    "state": "active",
+    "title": "Vicejefatura de Gobierno",
+    "type": "organization"
+  },
+  "owner_org": "cbb782e9-de0e-49de-9462-073238e616be",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/polideportivos",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-01-08T14:59:50.515858",
+      "datastore_active": false,
+      "description": "Ubicación geográfica, horario y teléfono de los polideportivos de la Ciudad.",
+      "fileName": "polideportivos.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "juqdkmgo-1631-resource",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Polideportivos",
+      "package_id": "juqdkmgo-163",
+      "position": 0,
+      "resource_type": "file",
+      "revision_id": "f5b6b71f-d9d3-482d-84d4-f81662877890",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/polideportivos/polideportivos.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/polideportivos",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-01-08T14:59:50.515858",
+      "datastore_active": false,
+      "description": "Archivo shapefile de los polideportivos.",
+      "fileName": "polideportivos-zip.zip",
+      "format": "ZIP",
+      "hash": "",
+      "id": "juqdkmgo-1632-resource",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Polideportivos (SHP)",
+      "package_id": "juqdkmgo-163",
+      "position": 1,
+      "resource_type": "file",
+      "revision_id": "285d53b2-7637-450f-838b-df7f253e2d2a",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/polideportivos/polideportivos-zip.zip",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/polideportivos",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-01-08T14:59:50.515858",
+      "datastore_active": false,
+      "description": "Ubicación geográfica, horario y teléfono de los polideportivos de la Ciudad.",
+      "fileName": "polideportivos.xlsx",
+      "format": "XLSX",
+      "hash": "",
+      "id": "juqdkmgo-1631-resource-xlsx",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Polideportivos (XLSX)",
+      "package_id": "juqdkmgo-163",
+      "position": 2,
+      "resource_type": "file",
+      "revision_id": "39a8247e-f29c-4574-8d0f-42b5a8e0320e",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/polideportivos/polideportivos.xlsx",
+      "url_type": null
+    }
+  ],
+  "revision_id": "ed387c33-4867-4e22-898e-79733b761370",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "cultura",
+      "id": "858c2db7-dc24-4528-befd-726d218675e0",
+      "name": "cultura",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "deportes",
+      "id": "6c27598b-3537-44b9-a78e-c7a3a214f028",
+      "name": "deportes",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "salud",
+      "id": "92c7f3e1-f781-4b82-a933-7408e37b3687",
+      "name": "salud",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Polideportivos",
+  "type": "dataset",
+  "url": "https://data.buenosaires.gob.ar/dataset/polideportivos",
+  "version": null
+}

@@ -1,0 +1,296 @@
+{
+  "author": "Agencia de Protección Ambiental (APrA). Secretaría de Ambiente. Jefatura de Gobierno",
+  "author_email": "datosabiertos@buenosaires.gob.ar",
+  "creator_user_id": "e4546f46-e966-493c-b2f1-57318502c41b",
+  "extras": [
+    {
+      "key": "Documentación",
+      "value": ""
+    },
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P6M"
+    },
+    {
+      "key": "country",
+      "value": "None"
+    },
+    {
+      "key": "district",
+      "value": ""
+    },
+    {
+      "key": "home_featured",
+      "value": "false"
+    },
+    {
+      "key": "issued",
+      "value": "2019-02-11T17:55:10.986850"
+    },
+    {
+      "key": "language",
+      "value": "[]"
+    },
+    {
+      "key": "modified",
+      "value": "2021-02-26T17:34:23.692912"
+    },
+    {
+      "key": "province",
+      "value": ""
+    },
+    {
+      "key": "source",
+      "value": "Subgerencia de Información Geoespacial. DG Ciencias de la Información. SS de Políticas Públicas Basadas en Evidencia. Secretaría de Innovación y Transformación Digital. Jefatura de Gabinete de Ministros"
+    },
+    {
+      "key": "spatial",
+      "value": "None"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"ENVI\"]"
+    },
+    {
+      "key": "temporal",
+      "value": ""
+    }
+  ],
+  "groups": [
+    {
+      "description": "",
+      "display_name": "Medioambiente",
+      "id": "a99c1197-8379-4a60-a6eb-8737cab5ec4f",
+      "image_display_url": "https://data.buenosaires.gob.ar/uploads/group/2019-11-16-145003.550663medioambiente.png",
+      "name": "medioambiente",
+      "title": "Medioambiente"
+    }
+  ],
+  "id": "bbf415f6-5848-48b6-b452-1702d6580e65",
+  "isopen": true,
+  "license_id": "CC-BY-2.5-AR",
+  "license_title": "Atribucion 2.5 Argentina (CC BY 2.5 AR)",
+  "license_url": "https://creativecommons.org/licenses/by/2.5/ar ",
+  "maintainer": "Gerencia Operativa de Ingeniería de Datos. DG Arquitectura de Datos. SS de Políticas Públicas Basadas en Evidencia. Secretaría de Innovación y Transformación Digital. Jefatura de Gabinete de Ministros",
+  "maintainer_email": "datosabiertos@buenosaires.gob.ar",
+  "metadata_created": "2019-12-11T18:06:58.052976",
+  "metadata_modified": "2021-02-26T20:34:23.707943",
+  "name": "mapa-techos-solares",
+  "notes": "Relevamiento geolocalizado de las instalaciones solares (fotovoltaicas y térmicas) y de techos verdes (o vegetados) existentes en la Ciudad. Disponible en http://epok.buenosaires.gob.ar/pub/mapa/techosinteligentes/techos_inteligentes/",
+  "num_resources": 4,
+  "num_tags": 9,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-11-15T19:17:10.767872",
+    "description": "",
+    "id": "87797715-09c9-4b3e-9af6-074850fba840",
+    "image_url": "",
+    "is_organization": true,
+    "name": "agencia-de-proteccion-ambiental",
+    "revision_id": "31d4bbad-1773-4015-9f8e-2e040bc7900a",
+    "state": "active",
+    "title": "Agencia de Protección Ambiental",
+    "type": "organization"
+  },
+  "owner_org": "87797715-09c9-4b3e-9af6-074850fba840",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "",
+      "accessURL_field": "",
+      "attributesDescription": "[{\"title\":\"WKT\",\"description\":\"WKT\",\"type\":\"string\"},{\"title\":\"id_techo\",\"description\":\"Identificador único de cada techo\",\"type\":\"string\"},{\"title\":\"tipo_edifi\",\"description\":\"Tipo de edificación\",\"type\":\"string\"},{\"title\":\"tipo_techo\",\"description\":\"Tipo de techo según la función que cumplen\",\"type\":\"string\"},{\"title\":\"edificio\",\"description\":\"Edificio al que pertenece la instalación solar (techo)\",\"type\":\"string\"},{\"title\":\"direccion\",\"description\":\"Dirección del edificio dónde está localizada la instalación solar (techo)\",\"type\":\"string\"},{\"title\":\"tipo_siste\",\"description\":\"Tipo de Sistema\",\"type\":\"string\"},{\"title\":\"capacidad\",\"description\":\"Capacidad en unidades Wp de la instalación solar\",\"type\":\"string\"},{\"title\":\"caracteris\",\"description\":\"Características de cada instalación solar\",\"type\":\"string\"},{\"title\":\"proveedor\",\"description\":\"Proveedor de la instalación del techo solar\",\"type\":\"string\"},{\"title\":\"fecha_inst\",\"description\":\"Fecha de instalación\",\"type\":\"string\"},{\"title\":\"link\",\"description\":\"link\",\"type\":\"string\"},{\"title\":\"foto\",\"description\":\"Link de la foto en formato jpg\",\"type\":\"string\"},{\"title\":\"calle\",\"description\":\"Calle dónde se localiza la instalación solar\",\"type\":\"string\"},{\"title\":\"altura\",\"description\":\"Altura dónde se localiza la instalación solar\",\"type\":\"string\"},{\"title\":\"calle2\",\"description\":\"Segunda Calle\",\"type\":\"string\"},{\"title\":\"direccion_\",\"description\":\"Dirección normalizada\",\"type\":\"string\"},{\"title\":\"barrio\",\"description\":\"Barrio dónde está localizada la instalación solar\",\"type\":\"string\"},{\"title\":\"comuna\",\"description\":\"Comuna dónde está localizada la instalación solar\",\"type\":\"string\"},{\"title\":\"energia_An\",\"description\":\"Generación de energía anual. Este es un valor estimado que representa la cantidad de energía transformada en electricidad o en calor proveniente de la radiación solar durante el período de un año. Esto se logra gracias a los sistemas de generación a partir de fuentes renovables de energía. Unidad: kWh/año = kilowatt-hora al año\",\"type\":\"string\"},{\"title\":\"tnCO2eq_an\",\"description\":\"Huella de carbono evitada anual: Este es un valor estimado que representa la cantidad de emisiones de gases de efecto invernadero que se evitan emitir a la atmósfera debido a la generación de energía eléctrica o calor a partir de la radiación solar durante el período de un año. Esto se logra al reemplazar los sistemas convencionales de energía por sistemas de generación a partir de fuentes renovables. Unidad: tCO2eq/año = toneladas de Dióxido de Carbono equivalente al año\",\"type\":\"string\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2020-10-28T19:07:06.505680",
+      "datastore_active": false,
+      "description": "Archivo shapefile correspondiente al mapa de techos solares ubicados en la Ciudad.",
+      "fileName": "",
+      "format": "ZIP",
+      "has-uploaded-file": "",
+      "hash": "",
+      "icon_url": "",
+      "id": "56d784cb-892d-44d8-89d5-e3eb592f2c14",
+      "issued": "2020-10-28T19:07:06.505680",
+      "last_modified": "2020-10-28T00:00:00",
+      "license_id": "CC-BY-4.0",
+      "mimetype": "application/zip",
+      "mimetype_inner": null,
+      "modified": "2021-01-21T10:34:12.680685",
+      "name": "Mapa de Techos Solares (SHP)",
+      "package_id": "bbf415f6-5848-48b6-b452-1702d6580e65",
+      "position": 0,
+      "resource_type": "file",
+      "revision_id": "23acf2ee-fa30-4225-9abf-389dabdc5703",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/agencia-de-proteccion-ambiental/mapa-techos-solares/techos_inteligentes_amarillos_WGS84.zip",
+      "url_type": null
+    },
+    {
+      "accessURL": "",
+      "accessURL_field": "",
+      "attributesDescription": "[{\"title\":\"WKT\",\"description\":\"WKT\",\"type\":\"string\"},{\"title\":\"id_techo\",\"description\":\"Identificador único de cada techo\",\"type\":\"string\"},{\"title\":\"tipo_edifi\",\"description\":\"Tipo de edificación\",\"type\":\"string\"},{\"title\":\"tipo_techo\",\"description\":\"Tipo de techo según la función que cumplen\",\"type\":\"string\"},{\"title\":\"edificio\",\"description\":\"Edificio al que pertenece la instalación solar (techo)\",\"type\":\"string\"},{\"title\":\"direccion\",\"description\":\"Dirección del edificio dónde está localizada la instalación solar (techo)\",\"type\":\"string\"},{\"title\":\"tipo_siste\",\"description\":\"Tipo de Sistema\",\"type\":\"string\"},{\"title\":\"capacidad\",\"description\":\"Capacidad en unidades Wp de la instalación solar\",\"type\":\"string\"},{\"title\":\"caracteris\",\"description\":\"Características de cada instalación solar\",\"type\":\"string\"},{\"title\":\"proveedor\",\"description\":\"Proveedor de la instalación del techo solar\",\"type\":\"string\"},{\"title\":\"fecha_inst\",\"description\":\"Fecha de instalación\",\"type\":\"string\"},{\"title\":\"link\",\"description\":\"link\",\"type\":\"string\"},{\"title\":\"foto\",\"description\":\"Link de la foto en formato jpg\",\"type\":\"string\"},{\"title\":\"calle\",\"description\":\"Calle dónde se localiza la instalación solar\",\"type\":\"string\"},{\"title\":\"altura\",\"description\":\"Altura dónde se localiza la instalación solar\",\"type\":\"string\"},{\"title\":\"calle2\",\"description\":\"Segunda Calle\",\"type\":\"string\"},{\"title\":\"direccion_\",\"description\":\"Dirección normalizada\",\"type\":\"string\"},{\"title\":\"barrio\",\"description\":\"Barrio dónde está localizada la instalación solar\",\"type\":\"string\"},{\"title\":\"comuna\",\"description\":\"Comuna dónde está localizada la instalación solar\",\"type\":\"string\"},{\"title\":\"energia_An\",\"description\":\"Generación de energía anual. Este es un valor estimado que representa la cantidad de energía transformada en electricidad o en calor proveniente de la radiación solar durante el período de un año. Esto se logra gracias a los sistemas de generación a partir de fuentes renovables de energía. Unidad: kWh/año = kilowatt-hora al año\",\"type\":\"string\"},{\"title\":\"tnCO2eq_an\",\"description\":\"Huella de carbono evitada anual: Este es un valor estimado que representa la cantidad de emisiones de gases de efecto invernadero que se evitan emitir a la atmósfera debido a la generación de energía eléctrica o calor a partir de la radiación solar durante el período de un año. Esto se logra al reemplazar los sistemas convencionales de energía por sistemas de generación a partir de fuentes renovables. Unidad: tCO2eq/año = toneladas de Dióxido de Carbono equivalente al año\",\"type\":\"string\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2020-10-28T19:07:10.316320",
+      "datastore_active": false,
+      "description": "Relevamiento geolocalizado de las instalaciones solares (fotovoltaicas y térmicas) y de techos verdes (o vegetados) existentes en la Ciudad.",
+      "fileName": "techos_inteligentes_amarillos_WGS84.csv",
+      "format": "CSV",
+      "has-uploaded-file": "",
+      "hash": "",
+      "icon_url": "",
+      "id": "26912e21-1c87-4633-850c-aa1dccddb65c",
+      "issued": "2020-10-28T19:07:10.316320",
+      "last_modified": "2020-10-28T00:00:00",
+      "license_id": "CC-BY-4.0",
+      "mimetype": "text/csv",
+      "mimetype_inner": null,
+      "modified": "2021-01-21",
+      "name": "Mapa de Techos Solares",
+      "package_id": "bbf415f6-5848-48b6-b452-1702d6580e65",
+      "position": 1,
+      "resource_type": "file",
+      "revision_id": "a3991f72-4a50-4e55-b0a4-782593950b8f",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/agencia-de-proteccion-ambiental/mapa-techos-solares/techos_inteligentes_amarillos_WGS84.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "",
+      "accessURL_field": "",
+      "attributesDescription": "[{\"title\":\"WKT\",\"description\":\"WKT\",\"type\":\"string\"},{\"title\":\"id_techo\",\"description\":\"Identificador único de cada techo\",\"type\":\"string\"},{\"title\":\"tipo_edifi\",\"description\":\"Tipo de edificación\",\"type\":\"string\"},{\"title\":\"tipo_techo\",\"description\":\"Tipo de techo según la función que cumplen\",\"type\":\"string\"},{\"title\":\"edificio\",\"description\":\"Edificio al que pertenece la instalación solar (techo)\",\"type\":\"string\"},{\"title\":\"direccion\",\"description\":\"Dirección del edificio dónde está localizada la instalación solar (techo)\",\"type\":\"string\"},{\"title\":\"tipo_siste\",\"description\":\"Tipo de Sistema\",\"type\":\"string\"},{\"title\":\"capacidad\",\"description\":\"Capacidad en unidades Wp de la instalación solar\",\"type\":\"string\"},{\"title\":\"caracteris\",\"description\":\"Características de cada instalación solar\",\"type\":\"string\"},{\"title\":\"proveedor\",\"description\":\"Proveedor de la instalación del techo solar\",\"type\":\"string\"},{\"title\":\"fecha_inst\",\"description\":\"Fecha de instalación\",\"type\":\"string\"},{\"title\":\"link\",\"description\":\"link\",\"type\":\"string\"},{\"title\":\"foto\",\"description\":\"Link de la foto en formato jpg\",\"type\":\"string\"},{\"title\":\"calle\",\"description\":\"Calle dónde se localiza la instalación solar\",\"type\":\"string\"},{\"title\":\"altura\",\"description\":\"Altura dónde se localiza la instalación solar\",\"type\":\"string\"},{\"title\":\"calle2\",\"description\":\"Segunda Calle\",\"type\":\"string\"},{\"title\":\"direccion_\",\"description\":\"Dirección normalizada\",\"type\":\"string\"},{\"title\":\"barrio\",\"description\":\"Barrio dónde está localizada la instalación solar\",\"type\":\"string\"},{\"title\":\"comuna\",\"description\":\"Comuna dónde está localizada la instalación solar\",\"type\":\"string\"},{\"title\":\"energia_An\",\"description\":\"Generación de energía anual. Este es un valor estimado que representa la cantidad de energía transformada en electricidad o en calor proveniente de la radiación solar durante el período de un año. Esto se logra gracias a los sistemas de generación a partir de fuentes renovables de energía. Unidad: kWh/año = kilowatt-hora al año\",\"type\":\"string\"},{\"title\":\"tnCO2eq_an\",\"description\":\"Huella de carbono evitada anual: Este es un valor estimado que representa la cantidad de emisiones de gases de efecto invernadero que se evitan emitir a la atmósfera debido a la generación de energía eléctrica o calor a partir de la radiación solar durante el período de un año. Esto se logra al reemplazar los sistemas convencionales de energía por sistemas de generación a partir de fuentes renovables. Unidad: tCO2eq/año = toneladas de Dióxido de Carbono equivalente al año\",\"type\":\"string\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2020-10-28T19:07:15.003450",
+      "datastore_active": false,
+      "description": "Relevamiento geolocalizado de las instalaciones solares (fotovoltaicas y térmicas) y de techos verdes (o vegetados) existentes en la Ciudad.",
+      "fileName": "techos_inteligentes_amarillos_WGS84.xlsx",
+      "format": "XLSX",
+      "has-uploaded-file": "",
+      "hash": "",
+      "icon_url": "",
+      "id": "6e28eaf8-f34a-4c14-a91f-6ea539c501dc",
+      "issued": "2020-10-28T19:07:15.003450",
+      "last_modified": "2020-10-28T00:00:00",
+      "license_id": "CC-BY-4.0",
+      "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "mimetype_inner": null,
+      "modified": "2021-01-21",
+      "name": "Mapa de Techos Solares (XLSX)",
+      "package_id": "bbf415f6-5848-48b6-b452-1702d6580e65",
+      "position": 2,
+      "resource_type": "file",
+      "revision_id": "89130371-81bc-41a5-b8a1-da6a91568da3",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/agencia-de-proteccion-ambiental/mapa-techos-solares/techos_inteligentes_amarillos_WGS84.xlsx",
+      "url_type": null
+    },
+    {
+      "accessURL": "",
+      "accessURL_field": "",
+      "attributesDescription": "[{\"title\":\"WKT\",\"description\":\"WKT\",\"type\":\"string\"},{\"title\":\"id_techo\",\"description\":\"Identificador único de cada techo\",\"type\":\"string\"},{\"title\":\"tipo_edifi\",\"description\":\"Tipo de edificación\",\"type\":\"string\"},{\"title\":\"tipo_techo\",\"description\":\"Tipo de techo según la función que cumplen\",\"type\":\"string\"},{\"title\":\"edificio\",\"description\":\"Edificio al que pertenece la instalación solar (techo)\",\"type\":\"string\"},{\"title\":\"direccion\",\"description\":\"Dirección del edificio dónde está localizada la instalación solar (techo)\",\"type\":\"string\"},{\"title\":\"tipo_siste\",\"description\":\"Tipo de Sistema\",\"type\":\"string\"},{\"title\":\"capacidad\",\"description\":\"Capacidad en unidades Wp de la instalación solar\",\"type\":\"string\"},{\"title\":\"caracteris\",\"description\":\"Características de cada instalación solar\",\"type\":\"string\"},{\"title\":\"proveedor\",\"description\":\"Proveedor de la instalación del techo solar\",\"type\":\"string\"},{\"title\":\"fecha_inst\",\"description\":\"Fecha de instalación\",\"type\":\"string\"},{\"title\":\"link\",\"description\":\"link\",\"type\":\"string\"},{\"title\":\"foto\",\"description\":\"Link de la foto en formato jpg\",\"type\":\"string\"},{\"title\":\"calle\",\"description\":\"Calle dónde se localiza la instalación solar\",\"type\":\"string\"},{\"title\":\"altura\",\"description\":\"Altura dónde se localiza la instalación solar\",\"type\":\"string\"},{\"title\":\"calle2\",\"description\":\"Segunda Calle\",\"type\":\"string\"},{\"title\":\"direccion_\",\"description\":\"Dirección normalizada\",\"type\":\"string\"},{\"title\":\"barrio\",\"description\":\"Barrio dónde está localizada la instalación solar\",\"type\":\"string\"},{\"title\":\"comuna\",\"description\":\"Comuna dónde está localizada la instalación solar\",\"type\":\"string\"},{\"title\":\"energia_An\",\"description\":\"Generación de energía anual. Este es un valor estimado que representa la cantidad de energía transformada en electricidad o en calor proveniente de la radiación solar durante el período de un año. Esto se logra gracias a los sistemas de generación a partir de fuentes renovables de energía. Unidad: kWh/año = kilowatt-hora al año\",\"type\":\"string\"},{\"title\":\"tnCO2eq_an\",\"description\":\"Huella de carbono evitada anual: Este es un valor estimado que representa la cantidad de emisiones de gases de efecto invernadero que se evitan emitir a la atmósfera debido a la generación de energía eléctrica o calor a partir de la radiación solar durante el período de un año. Esto se logra al reemplazar los sistemas convencionales de energía por sistemas de generación a partir de fuentes renovables. Unidad: tCO2eq/año = toneladas de Dióxido de Carbono equivalente al año\",\"type\":\"string\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2021-01-21T13:14:58.707662",
+      "datastore_active": false,
+      "description": "Relevamiento geolocalizado de las instalaciones solares (fotovoltaicas y térmicas) y de techos verdes (o vegetados) existentes en la Ciudad.",
+      "fileName": "",
+      "format": "GeoJSON",
+      "has-uploaded-file": "",
+      "hash": "",
+      "icon_url": "",
+      "id": "d1495312-0ce8-4cf2-971f-c33b34eb0762",
+      "issued": "2021-01-21T13:14:58.707662",
+      "last_modified": "2021-01-21T00:00:00",
+      "license_id": "CC-BY-4.0",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "modified": "2021-01-21T10:19:19.382552",
+      "name": "Mapa de Techos Solares (GEOJSON)",
+      "package_id": "bbf415f6-5848-48b6-b452-1702d6580e65",
+      "position": 3,
+      "resource_type": "file",
+      "revision_id": "616187d9-4a6d-44f9-a9c3-9e045a9d8ac4",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/agencia-de-proteccion-ambiental/mapa-techos-solares/techos_inteligentes_amarillos_WGS84.geojson",
+      "url_type": null
+    }
+  ],
+  "revision_id": "ac60056d-705e-45b7-82a1-f8f840582cc2",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "cambio climático",
+      "id": "a6836452-912d-41c2-b324-4eddc98a75c2",
+      "name": "cambio climático",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "energía solar",
+      "id": "d3d9f1c7-729a-4cfe-8366-e9b3fba00271",
+      "name": "energía solar",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "energía verde",
+      "id": "c50bdbf8-bb89-47b1-96c2-af301ab21340",
+      "name": "energía verde",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "medioambiente",
+      "id": "e7e79a15-eb8b-406d-a2c2-9012b193e5a8",
+      "name": "medioambiente",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "políticas ambientales",
+      "id": "7f5eaf56-8925-4fe0-8f28-2dcf4c7bab5b",
+      "name": "políticas ambientales",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "techos amarillos",
+      "id": "5fe1ae67-fd3b-4056-87ed-61ac9f928353",
+      "name": "techos amarillos",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "techos azules",
+      "id": "c543e4e1-e246-4d1b-b6ea-e99e080e161e",
+      "name": "techos azules",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "techos inteligentes",
+      "id": "6e611ade-c166-42da-92d9-6236270b0478",
+      "name": "techos inteligentes",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "techos verdes",
+      "id": "81925783-bc36-4bed-9643-481f67aa2415",
+      "name": "techos verdes",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Mapa de Techos Amarillos",
+  "type": "dataset",
+  "url": "http://data.buenosaires.gob.ar/dataset/mapa-de-techos-inteligentes",
+  "version": null
+}

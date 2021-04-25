@@ -1,0 +1,233 @@
+{
+  "author": "Secretaría General y Relaciones Internacionales. Ente de Turismo (ENTUR)",
+  "author_email": "datosabiertos@buenosaires.gob.ar",
+  "creator_user_id": "e4546f46-e966-493c-b2f1-57318502c41b",
+  "extras": [
+    {
+      "key": "Documentación",
+      "value": ""
+    },
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P1M"
+    },
+    {
+      "key": "country",
+      "value": "None"
+    },
+    {
+      "key": "district",
+      "value": ""
+    },
+    {
+      "key": "home_featured",
+      "value": "false"
+    },
+    {
+      "key": "issued",
+      "value": "2019-01-08T14:51:38.397161"
+    },
+    {
+      "key": "language",
+      "value": "[]"
+    },
+    {
+      "key": "modified",
+      "value": "2021-03-05T11:41:16.724797"
+    },
+    {
+      "key": "province",
+      "value": ""
+    },
+    {
+      "key": "source",
+      "value": "Secretaría General y Relaciones Internacionales. Ente de Turismo (ENTUR)"
+    },
+    {
+      "key": "spatial",
+      "value": "None"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"SOCI\"]"
+    },
+    {
+      "key": "temporal",
+      "value": ""
+    }
+  ],
+  "groups": [
+    {
+      "description": "Datasets relacionados con la cultura y el turismo",
+      "display_name": "Cultura y Turismo",
+      "id": "db2c0965-c659-4f94-8de9-41fce10f91a9",
+      "image_display_url": "https://data.buenosaires.gob.ar/uploads/group/2019-11-16-144908.071423cultura.png",
+      "name": "cultura-y-turismo",
+      "title": "Cultura y Turismo"
+    }
+  ],
+  "id": "juqdkmgo-179",
+  "isopen": true,
+  "license_id": "CC-BY-2.5-AR",
+  "license_title": "Atribucion 2.5 Argentina (CC BY 2.5 AR)",
+  "license_url": "https://creativecommons.org/licenses/by/2.5/ar ",
+  "maintainer": "Secretaría General y Relaciones Internacionales. Subsecretaría Gestión Estratégica y Calidad Institucional. Dirección General Calidad Institucional y Gobierno Abierto",
+  "maintainer_email": "datosabiertos@buenosaires.gob.ar",
+  "metadata_created": "2019-12-11T18:35:00.554756",
+  "metadata_modified": "2021-03-05T14:41:16.761427",
+  "name": "registro-guias-turismo",
+  "notes": "Guías de turismo registrados en el Ente de Turismo de la Ciudad de Buenos Aires (ENTUR) según lo establecido por la Ley 1264/03 y modificatorias.",
+  "num_resources": 4,
+  "num_tags": 4,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-11-15T19:16:12.037004",
+    "description": "",
+    "id": "718be5cd-c364-407d-979d-7e16732b41bc",
+    "image_url": "",
+    "is_organization": true,
+    "name": "ente-de-turismo",
+    "revision_id": "073586d0-2c46-490b-b828-d2e6a975ff1f",
+    "state": "active",
+    "title": "Ente de Turismo (ENTUR)",
+    "type": "organization"
+  },
+  "owner_org": "718be5cd-c364-407d-979d-7e16732b41bc",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/registro-de-guias-de-turismo",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-01-08T14:51:38.397161",
+      "datastore_active": false,
+      "description": "Información de los guías de turismo inscriptos en el Ente de Turismo de la Ciudad de Buenos Aires. Incluye nombre, número de expediente, DNI y fecha de inscripción.",
+      "fileName": "registro-de-guias-de-turismo.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "juqdkmgo-1791-resource",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Registro de Guías de Turismo",
+      "package_id": "juqdkmgo-179",
+      "position": 0,
+      "resource_type": "file",
+      "revision_id": "baf815e3-2ce8-498d-9b4c-c5b212e964e3",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/registro-de-guias-de-turismo/registro-de-guias-de-turismo.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/registro-de-guias-de-turismo",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-01-08T14:51:38.397161",
+      "datastore_active": false,
+      "description": "Registro histórico de los Guías de Turismo inscriptos en el Ente de Turismo de la Ciudad de Buenos Aires (ENTUR).",
+      "fileName": "registro-historico-de-guias-de-turismo.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "juqdkmgo-1792-resource",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Registro histórico de Guías de Turismo",
+      "package_id": "juqdkmgo-179",
+      "position": 1,
+      "resource_type": "file",
+      "revision_id": "73539aab-d4e4-42b1-8f42-1675f3a7b3ea",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/registro-de-guias-de-turismo/registro-historico-de-guias-de-turismo.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/registro-de-guias-de-turismo",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-01-08T14:51:38.397161",
+      "datastore_active": false,
+      "description": "Información de los guías de turismo inscriptos en el Ente de Turismo de la Ciudad de Buenos Aires. Incluye nombre, número de expediente, DNI y fecha de inscripción.",
+      "fileName": "registro-de-guias-de-turismo.xlsx",
+      "format": "XLSX",
+      "hash": "",
+      "id": "juqdkmgo-1791-resource-xlsx",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Registro de Guías de Turismo (XLSX)",
+      "package_id": "juqdkmgo-179",
+      "position": 2,
+      "resource_type": "file",
+      "revision_id": "b65a686b-43b7-4b82-981d-f08eae4d8b6b",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/registro-de-guias-de-turismo/registro-de-guias-de-turismo.xlsx",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/registro-de-guias-de-turismo",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-01-08T14:51:38.397161",
+      "datastore_active": false,
+      "description": "Registro histórico de los Guías de Turismo inscriptos en el Ente de Turismo de la Ciudad de Buenos Aires (ENTUR).",
+      "fileName": "registro-historico-de-guias-de-turismo.xlsx",
+      "format": "XLSX",
+      "hash": "",
+      "id": "juqdkmgo-1792-resource-xlsx",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Registro histórico de Guías de Turismo (XLSX)",
+      "package_id": "juqdkmgo-179",
+      "position": 3,
+      "resource_type": "file",
+      "revision_id": "2d8eaf63-1c06-48ec-b972-bb0606658e0f",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/registro-de-guias-de-turismo/registro-historico-de-guias-de-turismo.xlsx",
+      "url_type": null
+    }
+  ],
+  "revision_id": "96bed1e0-4317-4ebe-b465-4d8134d8f4d9",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "ENTUR",
+      "id": "833305c5-233f-4952-aba0-482f7201c247",
+      "name": "ENTUR",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "guías",
+      "id": "9ee041f6-1ac3-427b-b560-982000f22451",
+      "name": "guías",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "registros",
+      "id": "ac385387-032a-46f2-ba38-abb16529c234",
+      "name": "registros",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "turismo",
+      "id": "efc08f7b-8ca1-4064-a808-2a2403903c99",
+      "name": "turismo",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Registro de Guías de Turismo",
+  "type": "dataset",
+  "url": "https://data.buenosaires.gob.ar/dataset/registro-guias-turismo",
+  "version": null
+}

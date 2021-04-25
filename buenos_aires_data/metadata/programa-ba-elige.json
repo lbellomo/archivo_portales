@@ -1,0 +1,221 @@
+{
+  "author": "Ministerio de Economía y Finanzas. Dirección General de Estadística y Censos",
+  "author_email": "datosabiertos@buenosaires.gob.ar",
+  "creator_user_id": "e4546f46-e966-493c-b2f1-57318502c41b",
+  "extras": [
+    {
+      "key": "Documentación",
+      "value": ""
+    },
+    {
+      "key": "accrualPeriodicity",
+      "value": "eventual"
+    },
+    {
+      "key": "country",
+      "value": "None"
+    },
+    {
+      "key": "district",
+      "value": ""
+    },
+    {
+      "key": "home_featured",
+      "value": "false"
+    },
+    {
+      "key": "issued",
+      "value": "2019-04-22T11:46:20.893920"
+    },
+    {
+      "key": "language",
+      "value": "[]"
+    },
+    {
+      "key": "modified",
+      "value": "2021-03-05T11:50:03.271419"
+    },
+    {
+      "key": "province",
+      "value": ""
+    },
+    {
+      "key": "source",
+      "value": "Ministerio de Economía y Finanzas. Dirección General de Estadística y Censos"
+    },
+    {
+      "key": "spatial",
+      "value": "None"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"GOVE\",\"SOCI\"]"
+    },
+    {
+      "key": "temporal",
+      "value": ""
+    }
+  ],
+  "groups": [
+    {
+      "description": "",
+      "display_name": "Género",
+      "id": "3d97d3f5-206f-4719-8a06-54c709a25893",
+      "image_display_url": "https://data.buenosaires.gob.ar/uploads/group/2019-11-19-182128.307764genero720.png",
+      "name": "genero",
+      "title": "Género"
+    }
+  ],
+  "id": "81024e4b-ecf7-42f3-bc8f-85898d3a2029",
+  "isopen": true,
+  "license_id": "CC-BY-2.5-AR",
+  "license_title": "Atribucion 2.5 Argentina (CC BY 2.5 AR)",
+  "license_url": "https://creativecommons.org/licenses/by/2.5/ar ",
+  "maintainer": "Secretaría General y Relaciones Internacionales. Subsecretaría Gestión Estratégica y Calidad Institucional. Dirección General Calidad Institucional y Gobierno Abierto",
+  "maintainer_email": "datosabiertos@buenosaires.gob.ar",
+  "metadata_created": "2019-12-11T18:24:08.885510",
+  "metadata_modified": "2021-03-05T14:50:03.305331",
+  "name": "programa-ba-elige",
+  "notes": "Información sobre proyectos propuestos y proyectos votados por mujeres en el programa \"BA Elige\"",
+  "num_resources": 4,
+  "num_tags": 2,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-11-15T19:18:36.747317",
+    "description": "",
+    "id": "800664f9-ab56-4482-a6c8-0a1d316bf35b",
+    "image_url": "",
+    "is_organization": true,
+    "name": "direccion-general-de-estadisticas-y-censos",
+    "revision_id": "62a8b16c-0849-419d-a339-8e14d1b4a010",
+    "state": "active",
+    "title": "Dirección General de Estadísticas y Censos",
+    "type": "organization"
+  },
+  "owner_org": "800664f9-ab56-4482-a6c8-0a1d316bf35b",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/81024e4b-ecf7-42f3-bc8f-85898d3a2029/resource/b260517e-338c-4e53-b763-a02503f68285",
+      "attributesDescription": "[{\"title\": \"anio\", \"type\": \"integer\", \"description\": \"A\\u00f1o de la observaci\\u00f3n\"}, {\"title\": \"desagregacion_territorial\", \"type\": \"string\", \"description\": \"Desagregaci\\u00f3n territorial de la observaci\\u00f3n\"}, {\"title\": \"indice_participacion_femenina\", \"type\": \"number\", \"description\": \"Indice de participaci\\u00f3n femenina de la observaci\\u00f3n\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-04-22T11:46:59.043082",
+      "datastore_active": false,
+      "description": "Cantidad de usuarios mujeres por cada cien usuarios varones que participaron en el programa BA Elige proponiendo proyectos por comuna",
+      "fileName": "ind_fem_pbae_annio__desagr_limpio.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "b260517e-338c-4e53-b763-a02503f68285",
+      "last_modified": "2019-04-22T11:46:59.043082",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Mujeres que propusieron proyectos en el programa \"BA Elige\"",
+      "package_id": "81024e4b-ecf7-42f3-bc8f-85898d3a2029",
+      "position": 0,
+      "resource_type": "file",
+      "revision_id": "10afce04-6d38-4008-a065-ecbe92a65152",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/SIGBA/Programa_BA_Elige/ind_fem_pbae_annio__desagr_limpio.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/81024e4b-ecf7-42f3-bc8f-85898d3a2029/resource/0a2f3d99-fb8c-4843-9c35-578bdcf66fa7",
+      "attributesDescription": "[{\"title\": \"anio\", \"type\": \"integer\", \"description\": \"A\\u00f1o de la observaci\\u00f3n\"}, {\"title\": \"desagregacion_territorial\", \"type\": \"string\", \"description\": \"Desagregaci\\u00f3n territorial de la observaci\\u00f3n\"}, {\"title\": \"indice_feminidad\", \"type\": \"number\", \"description\": \"Indice de feminidad de la observaci\\u00f3n\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-04-11T14:32:28.034213",
+      "datastore_active": false,
+      "description": "Cantidad de usuarios mujeres por cada cien usuarios varones que participaron en el programa BA Elige votando proyectos por comuna",
+      "fileName": "ind_fem_vbae_annio__desagr_limpio.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "0a2f3d99-fb8c-4843-9c35-578bdcf66fa7",
+      "last_modified": "2019-04-11T14:32:28.034213",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Mujeres que votaron en el programa \"BA Elige\"",
+      "package_id": "81024e4b-ecf7-42f3-bc8f-85898d3a2029",
+      "position": 1,
+      "resource_type": "file",
+      "revision_id": "e84c2fd8-19a7-4e49-b954-e8339e4f15c9",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/SIGBA/Programa_BA_Elige/ind_fem_vbae_annio__desagr_limpio.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/81024e4b-ecf7-42f3-bc8f-85898d3a2029/resource/b260517e-338c-4e53-b763-a02503f68285",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-04-22T11:46:59.043082",
+      "datastore_active": false,
+      "description": "Cantidad de usuarios mujeres por cada cien usuarios varones que participaron en el programa BA Elige proponiendo proyectos por comuna",
+      "fileName": "ind_fem_pbae_annio__desagr_limpio.xlsx",
+      "format": "XLSX",
+      "hash": "",
+      "id": "b260517e-338c-4e53-b763-a02503f68285-xlsx",
+      "last_modified": "2019-04-22T11:46:59.043082",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Mujeres que propusieron proyectos en el programa \"BA Elige\"  (XLSX)",
+      "package_id": "81024e4b-ecf7-42f3-bc8f-85898d3a2029",
+      "position": 2,
+      "resource_type": "file",
+      "revision_id": "8d23af58-4123-4eac-8abe-16d7f28eda77",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/SIGBA/Programa_BA_Elige/ind_fem_pbae_annio__desagr_limpio.xlsx",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/81024e4b-ecf7-42f3-bc8f-85898d3a2029/resource/0a2f3d99-fb8c-4843-9c35-578bdcf66fa7",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-04-11T14:32:28.034213",
+      "datastore_active": false,
+      "description": "Cantidad de usuarios mujeres por cada cien usuarios varones que participaron en el programa BA Elige votando proyectos por comuna",
+      "fileName": "ind_fem_vbae_annio__desagr_limpio.xlsx",
+      "format": "XLSX",
+      "hash": "",
+      "id": "0a2f3d99-fb8c-4843-9c35-578bdcf66fa7-xlsx",
+      "last_modified": "2019-04-11T14:32:28.034213",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Mujeres que votaron en el programa \"BA Elige\" (XLSX)",
+      "package_id": "81024e4b-ecf7-42f3-bc8f-85898d3a2029",
+      "position": 3,
+      "resource_type": "file",
+      "revision_id": "90cc0367-4dd3-4f03-b04d-a17b6b1a4278",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/SIGBA/Programa_BA_Elige/ind_fem_vbae_annio__desagr_limpio.xlsx",
+      "url_type": null
+    }
+  ],
+  "revision_id": "b18735a7-9361-4d76-b34d-68c5e152b00c",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "participación ciudadana",
+      "id": "32ccbf0f-593d-40d4-b849-4b2394f2a984",
+      "name": "participación ciudadana",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "proyectos",
+      "id": "fe0c7490-6699-4cac-bf92-73cf2f7cbf74",
+      "name": "proyectos",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Programa BA Elige",
+  "type": "dataset",
+  "url": "https://data.buenosaires.gob.ar/dataset/programa-ba-elige",
+  "version": null
+}

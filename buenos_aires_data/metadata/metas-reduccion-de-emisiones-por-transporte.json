@@ -1,0 +1,214 @@
+{
+  "author": "Secretaría de Ambiente. Agencia de Protección Ambiental",
+  "author_email": "datosabiertos@buenosaires.gob.ar",
+  "creator_user_id": "7d042a55-0800-4979-949b-201389887bd9",
+  "extras": [
+    {
+      "key": "Documentación",
+      "value": ""
+    },
+    {
+      "key": "accrualPeriodicity",
+      "value": "eventual"
+    },
+    {
+      "key": "country",
+      "value": "None"
+    },
+    {
+      "key": "district",
+      "value": ""
+    },
+    {
+      "key": "home_featured",
+      "value": "false"
+    },
+    {
+      "key": "issued",
+      "value": "2020-09-24T18:28:01.594389"
+    },
+    {
+      "key": "language",
+      "value": "[]"
+    },
+    {
+      "key": "modified",
+      "value": "2021-03-05T09:47:34.254065"
+    },
+    {
+      "key": "province",
+      "value": ""
+    },
+    {
+      "key": "source",
+      "value": "Agencia de Protección Ambiental (APrA). Secretaría de Ambiente. Jefatura de Gobierno"
+    },
+    {
+      "key": "spatial",
+      "value": "None"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"ENER\",\"ENVI\"]"
+    },
+    {
+      "key": "temporal",
+      "value": ""
+    }
+  ],
+  "groups": [
+    {
+      "description": "",
+      "display_name": "Medioambiente",
+      "id": "a99c1197-8379-4a60-a6eb-8737cab5ec4f",
+      "image_display_url": "https://data.buenosaires.gob.ar/uploads/group/2019-11-16-145003.550663medioambiente.png",
+      "name": "medioambiente",
+      "title": "Medioambiente"
+    },
+    {
+      "description": "",
+      "display_name": "Movilidad",
+      "id": "e616e02e-64d8-4fb0-b55d-08e75eb58376",
+      "image_display_url": "https://data.buenosaires.gob.ar/uploads/group/2019-11-16-145017.234366movilidad.png",
+      "name": "movilidad",
+      "title": "Movilidad"
+    }
+  ],
+  "id": "d7805220-2928-4b3f-a894-529ee209a7ed",
+  "isopen": true,
+  "license_id": "CC-BY-2.5-AR",
+  "license_title": "Atribucion 2.5 Argentina (CC BY 2.5 AR)",
+  "license_url": "https://creativecommons.org/licenses/by/2.5/ar ",
+  "maintainer": "Secretaría de Ambiente. Agencia de Protección Ambiental",
+  "maintainer_email": "datosabiertos@buenosaires.gob.ar",
+  "metadata_created": "2020-09-24T21:19:43.648801",
+  "metadata_modified": "2021-03-05T12:47:34.457907",
+  "name": "metas-reduccion-de-emisiones-por-transporte",
+  "notes": "Registro de metas de variación de la distribución modal contaminantes de distintos tipos de transporte para los años 2020, 2030 y 2050.",
+  "num_resources": 2,
+  "num_tags": 5,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-11-15T19:17:10.767872",
+    "description": "",
+    "id": "87797715-09c9-4b3e-9af6-074850fba840",
+    "image_url": "",
+    "is_organization": true,
+    "name": "agencia-de-proteccion-ambiental",
+    "revision_id": "31d4bbad-1773-4015-9f8e-2e040bc7900a",
+    "state": "active",
+    "title": "Agencia de Protección Ambiental",
+    "type": "organization"
+  },
+  "owner_org": "87797715-09c9-4b3e-9af6-074850fba840",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "",
+      "accessURL_field": "",
+      "attributesDescription": "[{\"title\":\"año\",\"description\":\"año de registro\",\"type\":\"string\"},{\"title\":\"tipo_transporte\",\"description\":\"tipo de transporte específico \",\"type\":\"string\"},{\"title\":\"meta_porcentual\",\"description\":\"número expresado en valores porcentuales\",\"type\":\"number\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2020-09-24T21:23:33.320526",
+      "datastore_active": false,
+      "description": "Registro de Metas de variación de la distribución modal por transporte específico para los años 2020, 2030 y 2050",
+      "fileName": "metas_reduccion_transporte_2050.csv",
+      "format": "CSV",
+      "has-uploaded-file": "",
+      "hash": "",
+      "icon_url": "",
+      "id": "cbdc53b5-961f-48fc-91b7-5c957aaa04b5",
+      "issued": "2020-09-24T18:23:33.278858",
+      "last_modified": "2020-09-24T21:23:33.286170",
+      "license_id": "CC-BY-2.5-AR",
+      "mimetype": "text/csv",
+      "mimetype_inner": null,
+      "modified": "2020-12-03",
+      "name": "Metas de reducción de emisiones por Transporte para 2020, 2030 y 2050",
+      "package_id": "d7805220-2928-4b3f-a894-529ee209a7ed",
+      "position": 0,
+      "resource_type": "file",
+      "revision_id": "1acba0c2-5183-40ce-a58e-9308d3a99124",
+      "size": 518,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/agencia-de-proteccion-ambiental/metas-reduccion-de-emisiones-por-transporte/metas_reduccion_transporte_2050.csv",
+      "url_type": ""
+    },
+    {
+      "accessURL": "",
+      "accessURL_field": "",
+      "attributesDescription": "[{\"title\":\"año\",\"description\":\"año de registro\",\"type\":\"string\"},{\"title\":\"tipo_transporte\",\"description\":\"tipo de transporte específico \",\"type\":\"string\"},{\"title\":\"meta_porcentual\",\"description\":\"número expresado en valores porcentuales\",\"type\":\"number\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2020-09-24T21:25:44.808447",
+      "datastore_active": false,
+      "description": "Registro de Metas de variación de la distribución modal por transporte específico para los años 2020, 2030 y 2050",
+      "fileName": "metas_reduccion_transporte_2050.xlsx",
+      "format": "XLSX",
+      "has-uploaded-file": "",
+      "hash": "",
+      "icon_url": "",
+      "id": "4a4f50ba-a5cf-4dc2-a91a-16408d419e99",
+      "issued": "2020-09-24T18:25:44.731427",
+      "last_modified": "2020-09-24T21:25:44.739268",
+      "license_id": "CC-BY-2.5-AR",
+      "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "mimetype_inner": null,
+      "modified": "2020-12-03",
+      "name": "Metas de reducción de emisiones por Transporte para 2020, 2030 y 2050",
+      "package_id": "d7805220-2928-4b3f-a894-529ee209a7ed",
+      "position": 1,
+      "resource_type": "file",
+      "revision_id": "7c68d971-15a0-4745-a962-ef46d1d99766",
+      "size": 5388,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/agencia-de-proteccion-ambiental/metas-reduccion-de-emisiones-por-transporte/metas_reduccion_transporte_2050.xlsx",
+      "url_type": ""
+    }
+  ],
+  "revision_id": "4839c1c4-6129-4d44-b248-c5e97c9f2dbf",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "cambio climático",
+      "id": "a6836452-912d-41c2-b324-4eddc98a75c2",
+      "name": "cambio climático",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "contaminación",
+      "id": "fc8758d1-2f19-43d0-a6ab-f1c870eaf43f",
+      "name": "contaminación",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "medioambiente",
+      "id": "e7e79a15-eb8b-406d-a2c2-9012b193e5a8",
+      "name": "medioambiente",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "metas",
+      "id": "85755a32-04ee-4931-8ab8-234212c64bb5",
+      "name": "metas",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "transporte",
+      "id": "aff133f8-2f33-4d2c-a531-6d632bd4efbb",
+      "name": "transporte",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Metas de reducción de emisiones por Transporte 2050",
+  "type": "dataset",
+  "url": "https://data.buenosaires.gob.ar/dataset/metas-reduccion-de-emisiones-por-transporte",
+  "version": null
+}

@@ -1,0 +1,221 @@
+{
+  "author": "SS de Gestión de Recursos Humanos. Ministerio de Hacienda y Finanzas. ",
+  "author_email": "datosabiertos@buenosaires.gob.ar",
+  "creator_user_id": "e4546f46-e966-493c-b2f1-57318502c41b",
+  "extras": [
+    {
+      "key": "Documentación",
+      "value": ""
+    },
+    {
+      "key": "accrualPeriodicity",
+      "value": "eventual"
+    },
+    {
+      "key": "country",
+      "value": "ARG"
+    },
+    {
+      "key": "district",
+      "value": ""
+    },
+    {
+      "key": "home_featured",
+      "value": "false"
+    },
+    {
+      "key": "issued",
+      "value": "2020-03-06T17:53:00.798622"
+    },
+    {
+      "key": "language",
+      "value": "[\"spa\"]"
+    },
+    {
+      "key": "modified",
+      "value": "2021-03-05"
+    },
+    {
+      "key": "province",
+      "value": "02"
+    },
+    {
+      "key": "source",
+      "value": "SS de Gestión de Recursos Humanos. Ministerio de Hacienda y Finanzas. "
+    },
+    {
+      "key": "spatial",
+      "value": "ARG,02"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"GOVE\",\"SOCI\"]"
+    },
+    {
+      "key": "temporal",
+      "value": ""
+    }
+  ],
+  "groups": [
+    {
+      "description": "",
+      "display_name": "Administración Pública",
+      "id": "8cb134a8-90ea-4e69-a96d-c03449917dc9",
+      "image_display_url": "https://data.buenosaires.gob.ar/uploads/group/2019-11-16-144810.360383adminpublica.png",
+      "name": "administracion-publica",
+      "title": "Administración Pública"
+    },
+    {
+      "description": "",
+      "display_name": "Género",
+      "id": "3d97d3f5-206f-4719-8a06-54c709a25893",
+      "image_display_url": "https://data.buenosaires.gob.ar/uploads/group/2019-11-19-182128.307764genero720.png",
+      "name": "genero",
+      "title": "Género"
+    }
+  ],
+  "id": "21d0cb0b-471f-443a-8d36-586f4d2b7bc9",
+  "isopen": true,
+  "license_id": "CC-BY-2.5-AR",
+  "license_title": "Atribucion 2.5 Argentina (CC BY 2.5 AR)",
+  "license_url": "https://creativecommons.org/licenses/by/2.5/ar ",
+  "maintainer": "Gerencia Operativa de Ingeniería de Datos. DG Arquitectura de Datos. SS de Políticas Públicas Basadas en Evidencia. Secretaría de Innovación y Transformación Digital. Jefatura de Gabinete de Ministros",
+  "maintainer_email": "datosabiertos@buenosaires.gob.ar",
+  "metadata_created": "2020-03-06T20:53:00.903798",
+  "metadata_modified": "2021-03-05T19:56:18.766864",
+  "name": "empleados-publicos-por-genero",
+  "notes": "Distribución de los empleados de la Ciudad por género.",
+  "num_resources": 2,
+  "num_tags": 6,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-11-15T19:19:36.584582",
+    "description": "",
+    "id": "6627a918-f475-43bb-b167-11de01ae62df",
+    "image_url": "",
+    "is_organization": true,
+    "name": "ministerio-de-economia-y-finanzas",
+    "revision_id": "57d30234-7d4b-4b19-a2fa-1a57afc0e03b",
+    "state": "active",
+    "title": "Ministerio de Hacienda y Finanzas",
+    "type": "organization"
+  },
+  "owner_org": "6627a918-f475-43bb-b167-11de01ae62df",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "",
+      "accessURL_field": "",
+      "attributesDescription": "[]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2020-03-06T20:54:57.023584",
+      "datastore_active": false,
+      "description": "Distribución de los empleados de la Ciudad por género.",
+      "fileName": "info-rrhh-por-genero.csv",
+      "format": "CSV",
+      "has-uploaded-file": "",
+      "hash": "",
+      "icon_url": "",
+      "id": "f83c28b6-b6c3-4516-973f-03ae248b710b",
+      "issued": "2020-03-06T17:54:56.977301",
+      "last_modified": null,
+      "license_id": "CC-BY-2.5-AR",
+      "mimetype": "text/csv",
+      "mimetype_inner": null,
+      "modified": "2021-03-05",
+      "name": "Empleados públicos por género",
+      "package_id": "21d0cb0b-471f-443a-8d36-586f4d2b7bc9",
+      "position": 0,
+      "resource_type": "file",
+      "revision_id": "9e8c78de-78f1-49e2-a3b8-a8b43f68b1aa",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/ministerio-de-economia-y-finanzas/empleados-publicos-por-genero/info-rrhh-por-genero.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "",
+      "accessURL_field": "",
+      "attributesDescription": "[]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2020-03-06T20:55:23.300364",
+      "datastore_active": false,
+      "description": "Distribución de los empleados de la Ciudad por género.",
+      "fileName": "info-rrhh-por-genero.xlsx",
+      "format": "XLSX",
+      "has-uploaded-file": "",
+      "hash": "",
+      "icon_url": "",
+      "id": "ac19554e-2ae3-4db2-b097-ed74891984f6",
+      "issued": "2020-03-06T17:55:23.252075",
+      "last_modified": null,
+      "license_id": "CC-BY-2.5-AR",
+      "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "mimetype_inner": null,
+      "modified": "2021-03-05",
+      "name": "Empleados públicos por género (XLSX)",
+      "package_id": "21d0cb0b-471f-443a-8d36-586f4d2b7bc9",
+      "position": 1,
+      "resource_type": "file",
+      "revision_id": "668d4ea1-1c4c-431e-b1e2-02c66031d65e",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/ministerio-de-economia-y-finanzas/empleados-publicos-por-genero/info-rrhh-por-genero.xlsx",
+      "url_type": null
+    }
+  ],
+  "revision_id": "64e6d283-27e4-4391-bc90-b8cfd0e3b83f",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "docentes",
+      "id": "2ebcc807-c7f8-4c40-920d-1eac6731573a",
+      "name": "docentes",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "empleados",
+      "id": "b1321aa1-cd93-4db0-be74-c5d8359764db",
+      "name": "empleados",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "género",
+      "id": "983afd4b-d371-4cfb-add2-467b355c0578",
+      "name": "género",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "médicos",
+      "id": "a663ab5b-56e4-4045-96b0-28a8e1cac963",
+      "name": "médicos",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "planta permanente",
+      "id": "fac7c600-bab9-4169-b672-b7a5922b313d",
+      "name": "planta permanente",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "planta transitoria",
+      "id": "75da3238-aef2-4dfe-b14b-f73a3c1ec31f",
+      "name": "planta transitoria",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Empleados públicos por género",
+  "type": "dataset",
+  "url": "https://data.buenosaires.gob.ar/dataset/empleados-publicos-por-genero",
+  "version": null
+}

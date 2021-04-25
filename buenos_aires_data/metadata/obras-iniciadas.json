@@ -1,0 +1,268 @@
+{
+  "author": "Agencia Gubernamental de Control (AGC). Ministerio de Justicia y Seguridad",
+  "author_email": "datosabiertos@buenosaires.gob.ar",
+  "creator_user_id": "e4546f46-e966-493c-b2f1-57318502c41b",
+  "extras": [
+    {
+      "key": "Documentación",
+      "value": ""
+    },
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P1M"
+    },
+    {
+      "key": "country",
+      "value": "None"
+    },
+    {
+      "key": "district",
+      "value": ""
+    },
+    {
+      "key": "home_featured",
+      "value": "false"
+    },
+    {
+      "key": "issued",
+      "value": "2019-01-08T14:51:18.465444"
+    },
+    {
+      "key": "language",
+      "value": "[]"
+    },
+    {
+      "key": "modified",
+      "value": "2021-03-05T09:58:53.090086"
+    },
+    {
+      "key": "province",
+      "value": ""
+    },
+    {
+      "key": "source",
+      "value": "Agencia Gubernamental de Control (AGC). Ministerio de Justicia y Seguridad"
+    },
+    {
+      "key": "spatial",
+      "value": "None"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"GOVE\"]"
+    },
+    {
+      "key": "temporal",
+      "value": ""
+    }
+  ],
+  "groups": [
+    {
+      "description": "Datasets relacionados con urbanismo y territorio",
+      "display_name": "Urbanismo y Territorio",
+      "id": "63e162a0-3f4a-446a-a60b-601d16f36200",
+      "image_display_url": "https://data.buenosaires.gob.ar/uploads/group/2019-11-16-145056.781692urba.png",
+      "name": "urbanismo-y-territorio",
+      "title": "Urbanismo y Territorio"
+    }
+  ],
+  "id": "juqdkmgo-149",
+  "isopen": true,
+  "license_id": "CC-BY-2.5-AR",
+  "license_title": "Atribucion 2.5 Argentina (CC BY 2.5 AR)",
+  "license_url": "https://creativecommons.org/licenses/by/2.5/ar ",
+  "maintainer": "Gerencia Operativa de Ingeniería de Datos. DG Arquitectura de Datos. SS de Políticas Públicas Basadas en Evidencia. Secretaría de Innovación y Transformación Digital. Jefatura de Gabinete de Ministros",
+  "maintainer_email": "datosabiertos@buenosaires.gob.ar",
+  "metadata_created": "2019-12-11T18:31:00.310548",
+  "metadata_modified": "2021-03-05T12:58:53.103430",
+  "name": "obras-iniciadas",
+  "notes": "Listado de obras civiles, públicas y privadas, nuevas o de remodelación iniciadas (previamente registradas) en la Ciudad que cuentan con un profesional Director de Obra (DO) a cargo.",
+  "num_resources": 4,
+  "num_tags": 5,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-11-15T19:17:36.258403",
+    "description": "",
+    "id": "913c691c-9cdc-42ea-a23b-ea8fc4845fac",
+    "image_url": "",
+    "is_organization": true,
+    "name": "agencia-gubernamental-de-control",
+    "revision_id": "d82ae964-d602-4eba-acd7-3cc67d1b741b",
+    "state": "active",
+    "title": "Agencia Gubernamental de Control (AGC)",
+    "type": "organization"
+  },
+  "owner_org": "913c691c-9cdc-42ea-a23b-ea8fc4845fac",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/obras-iniciadas",
+      "accessURL_field": "",
+      "attributesDescription": "[{\"title\":\"lat\",\"description\":\"Código para geocodificación\",\"type\":\"number\"},{\"title\":\"long\",\"description\":\"Código para geocodificación\",\"type\":\"number\"},{\"title\":\"expediente\",\"description\":\"Expediente de la obra\",\"type\":\"string\"},{\"title\":\"calle\",\"description\":\"Calle donde se ubica la obra\",\"type\":\"string\"},{\"title\":\"calle_nro\",\"description\":\"Número de la calle donde se ubica la obra\",\"type\":\"integer\"},{\"title\":\"seccion\",\"description\":\"Sección donde se ubica la obra\",\"type\":\"integer\"},{\"title\":\"manzana\",\"description\":\"Manzana donde se ubica la obra\",\"type\":\"integer\"},{\"title\":\"parcela\",\"description\":\"Parcela donde se ubica la obra\",\"type\":\"integer\"},{\"title\":\"barrio\",\"description\":\"Barrio donde se ubica el lugar\",\"type\":\"string\"},{\"title\":\"fecha_inicio_obra\",\"description\":\"Fecha cuando inició la obra\",\"type\":\"date\"},{\"title\":\"estado\",\"description\":\"Estado de la obra\",\"type\":\"string\"},{\"title\":\"ultimo_avo_solicitado\",\"description\":\"Fecha de la última verificación especial\",\"type\":\"date\"},{\"title\":\"fecha_ultimo_avo\",\"description\":\"Fecha de la última verificación especial\",\"type\":\"date\"},{\"title\":\"estado_tramite\",\"description\":\"Estadío del registro en la web del director de obra.\",\"type\":\"string\"},{\"title\":\"profesional\",\"description\":\"Profesional a cargo de la obra\",\"type\":\"string\"},{\"title\":\"metros_a_construir\",\"description\":\"Metros cuadrados a construir\",\"type\":\"integer\"},{\"title\":\"fecha_estado_tramite\",\"description\":\"Fecha del estado del trámite\",\"type\":\"date\"},{\"title\":\"tipo_obra\",\"description\":\"Tipo de obra\",\"type\":\"string\"},{\"title\":\"destino\",\"description\":\"Destino de la obra\",\"type\":\"string\"},{\"title\":\"barrio\",\"description\":\"Barrio donde se ubica la obra\",\"type\":\"string\"},{\"title\":\"Comuna\",\"description\":\"Comuna donde se ubica la obra\",\"type\":\"string\"},{\"title\":\"codigo_postal\",\"description\":\"Código postal donde se ubica la obra\",\"type\":\"integer\"},{\"title\":\"codigo_postal_argentino\",\"description\":\"Código postal argentino de donde se ubica la obra\",\"type\":\"string\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-04-23T16:59:37.010098",
+      "datastore_active": false,
+      "description": "Listado de obras civiles, públicas y privadas, nuevas o de remodelación iniciadas (previamente registradas) en la Ciudad de Buenos Aires que cuentan con un profesional Director de Obra (DO) a cargo.",
+      "fileName": "obras-iniciadas.csv",
+      "format": "CSV",
+      "has-uploaded-file": "",
+      "hash": "",
+      "icon_url": "",
+      "id": "juqdkmgo-1491-resource",
+      "issued": "2019-04-23T16:59:37.010098",
+      "last_modified": "2019-04-23T16:59:37.010098",
+      "license_id": "CC-BY-4.0",
+      "mimetype": "text/csv",
+      "mimetype_inner": null,
+      "modified": "2021-02-05T10:05:44.396557",
+      "name": "Obras Iniciadas",
+      "package_id": "juqdkmgo-149",
+      "position": 0,
+      "resource_type": "file",
+      "revision_id": "efdc697d-c648-4cbb-b4ba-d23d2cde6f0f",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/obras-iniciadas/obras-iniciadas.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/obras-iniciadas",
+      "accessURL_field": "",
+      "attributesDescription": "[]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-04-23T16:59:45.412715",
+      "datastore_active": false,
+      "description": "Registro histórico de las obras iniciadas en la Ciudad de Buenos Aires.",
+      "fileName": "",
+      "format": "CSV",
+      "has-uploaded-file": "",
+      "hash": "",
+      "icon_url": "",
+      "id": "juqdkmgo-1492-resource",
+      "issued": "2019-04-23T16:59:45.412715",
+      "last_modified": "2019-04-23T16:59:45.412715",
+      "license_id": "CC-BY-4.0",
+      "mimetype": "text/csv",
+      "mimetype_inner": null,
+      "modified": "2021-02-05T10:06:18.958361",
+      "name": "Registro acumulado histórico de obras iniciadas",
+      "package_id": "juqdkmgo-149",
+      "position": 1,
+      "resource_type": "file",
+      "revision_id": "c51476da-8ae1-4bb8-a49a-6d6505a0c309",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/obras-iniciadas/registro-acumulado-historico-de-obras-iniciadas.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/obras-iniciadas",
+      "accessURL_field": "",
+      "attributesDescription": "[]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-04-23T16:59:37.010098",
+      "datastore_active": false,
+      "description": "Listado de obras civiles, públicas y privadas, nuevas o de remodelación iniciadas (previamente registradas) en la Ciudad de Buenos Aires que cuentan con un profesional Director de Obra (DO) a cargo.",
+      "fileName": "obras-iniciadas.xlsx",
+      "format": "XLSX",
+      "has-uploaded-file": "",
+      "hash": "",
+      "icon_url": "",
+      "id": "juqdkmgo-1491-resource-xlsx",
+      "issued": "2019-04-23T16:59:37.010098",
+      "last_modified": "2019-04-23T16:59:37.010098",
+      "license_id": "CC-BY-4.0",
+      "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "mimetype_inner": null,
+      "modified": "2021-02-05T12:18:22.113258",
+      "name": "Obras Iniciadas (XLSX)",
+      "package_id": "juqdkmgo-149",
+      "position": 2,
+      "resource_type": "file",
+      "revision_id": "b7648e6a-7519-4c0c-a0c5-15cf2e5c989a",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/obras-iniciadas/obras-iniciadas.xlsx",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/obras-iniciadas",
+      "accessURL_field": "",
+      "attributesDescription": "[]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-04-23T16:59:45.412715",
+      "datastore_active": false,
+      "description": "Registro histórico de las obras iniciadas en la Ciudad de Buenos Aires.",
+      "fileName": "",
+      "format": "XLSX",
+      "has-uploaded-file": "",
+      "hash": "",
+      "icon_url": "",
+      "id": "juqdkmgo-1492-resource-xlsx",
+      "issued": "2019-04-23T16:59:45.412715",
+      "last_modified": "2019-04-23T16:59:45.412715",
+      "license_id": "CC-BY-4.0",
+      "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "mimetype_inner": null,
+      "modified": "2021-02-05T10:07:38.034560",
+      "name": "Registro acumulado histórico de obras iniciadas (XLSX)",
+      "package_id": "juqdkmgo-149",
+      "position": 3,
+      "resource_type": "file",
+      "revision_id": "62b60cc6-1242-4da9-893b-c1d574a4887b",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/obras-iniciadas/registro-acumulado-historico-de-obras-iniciadas.xlsx",
+      "url_type": null
+    }
+  ],
+  "revision_id": "ac43c16f-77c5-4ec8-b41f-21ad4849a204",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "AGC",
+      "id": "d0523b0c-616a-4b1a-b7bf-96660cddc12e",
+      "name": "AGC",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "administración",
+      "id": "3547b693-80ba-451c-bf00-60e00a44b824",
+      "name": "administración",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "construcción",
+      "id": "a0433d46-f8f6-4c44-ae7a-9ef03e5d47fa",
+      "name": "construcción",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "mapas",
+      "id": "61441f18-3f74-4251-b087-94485f30a74a",
+      "name": "mapas",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "obras",
+      "id": "0a47fdfe-85d2-4a40-ac76-a643f3274d0f",
+      "name": "obras",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Obras Iniciadas",
+  "type": "dataset",
+  "url": "https://data.buenosaires.gob.ar/dataset/obras-iniciadas",
+  "version": null
+}

@@ -1,0 +1,205 @@
+{
+  "author": "Ministerio de Gobierno. DG de Registro del Estado Civil y Capacidad de las Personas.",
+  "author_email": "gobiernoabierto@buenosaires.gob.ar",
+  "creator_user_id": "e4546f46-e966-493c-b2f1-57318502c41b",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P3M"
+    },
+    {
+      "key": "issued",
+      "value": "2019-05-28T20:00:15.617542"
+    },
+    {
+      "key": "language",
+      "value": "[\"SPA\"]"
+    },
+    {
+      "key": "modified",
+      "value": "2019-07-31T12:31:41.209098"
+    },
+    {
+      "key": "source",
+      "value": "Ministerio de Gobierno. DG de Registro del Estado Civil y Capacidad de las Personas."
+    },
+    {
+      "key": "spatial",
+      "value": "02"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"HEAL\", \"SOCI\"]"
+    }
+  ],
+  "groups": [
+    {
+      "description": "",
+      "display_name": "Administración Pública",
+      "id": "8cb134a8-90ea-4e69-a96d-c03449917dc9",
+      "image_display_url": "https://data.buenosaires.gob.ar/uploads/group/2019-11-16-144810.360383adminpublica.png",
+      "name": "administracion-publica",
+      "title": "Administración Pública"
+    },
+    {
+      "description": "",
+      "display_name": "Género",
+      "id": "3d97d3f5-206f-4719-8a06-54c709a25893",
+      "image_display_url": "https://data.buenosaires.gob.ar/uploads/group/2019-11-19-182128.307764genero720.png",
+      "name": "genero",
+      "title": "Género"
+    }
+  ],
+  "id": "cb036bb6-41ab-4976-a7c0-9fea81a0a1f8",
+  "isopen": true,
+  "license_id": "CC-BY-2.5-AR",
+  "license_title": "Atribucion 2.5 Argentina (CC BY 2.5 AR)",
+  "license_url": "https://creativecommons.org/licenses/by/2.5/ar ",
+  "maintainer": "Secretaría General y Relaciones Internacionales. Subsecretaría Gestión Estratégica y Calidad Institucional. Dirección General Calidad Institucional y Gobierno Abierto",
+  "maintainer_email": "gobiernoabierto@buenosaires.gob.ar",
+  "metadata_created": "2019-12-11T18:28:47.108031",
+  "metadata_modified": "2020-12-17T15:14:44.339486",
+  "name": "adopciones",
+  "notes": "Adopciones registradas en la Ciudad Autónoma de Buenos Aires",
+  "num_resources": 4,
+  "num_tags": 2,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-11-15T19:18:05.034032",
+    "description": "",
+    "id": "d5fcd0f4-b12b-464b-b41f-2b47de9848a6",
+    "image_url": "",
+    "is_organization": true,
+    "name": "ministerio-de-gobierno",
+    "revision_id": "ce729574-7d1e-4984-8eae-c36169571556",
+    "state": "active",
+    "title": "Ministerio de Gobierno",
+    "type": "organization"
+  },
+  "owner_org": "d5fcd0f4-b12b-464b-b41f-2b47de9848a6",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/cb036bb6-41ab-4976-a7c0-9fea81a0a1f8/resource/07ec9fff-69ae-42f9-9805-d329dfb4b36c",
+      "attributesDescription": "[{\"title\": \"fecha_inscripcion_adopcion\", \"type\": \"date-time\", \"description\": \"A\\u00f1o, mes, d\\u00eda y hora de la inscripci\\u00f3n de la adopci\\u00f3n\"}, {\"title\": \"fecha_nacimiento\", \"type\": \"time\", \"description\": \"A\\u00f1o, mes y d\\u00eda de nacimiento de la persona adoptada\"}, {\"title\": \"genero\", \"type\": \"string\", \"description\": \"G\\u00e9nero de la persona adoptada\"}, {\"title\": \"subtipo_adopcion\", \"type\": \"string\", \"description\": \"Subtipo de adopci\\u00f3n (simple o plena)\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-05-28T17:13:45.487293",
+      "datastore_active": false,
+      "description": "Información sobre las adopciones del 2018, según fecha de adopción, fecha de nacimiento, género y subtipo de adopción",
+      "fileName": "adopciones_2018.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "07ec9fff-69ae-42f9-9805-d329dfb4b36c",
+      "last_modified": "2019-05-28T17:13:45.487293",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Adopciones por día del 2018",
+      "package_id": "cb036bb6-41ab-4976-a7c0-9fea81a0a1f8",
+      "position": 0,
+      "resource_type": "file",
+      "revision_id": "702a5308-4b15-4c7c-bd17-d6107cd4f2e1",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/adopciones/adopciones_2018.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/cb036bb6-41ab-4976-a7c0-9fea81a0a1f8/resource/04a71b7c-25bc-4379-8797-78f5c7580f11",
+      "attributesDescription": "[{\"title\": \"fecha_inscripcion_adopcion\", \"type\": \"date-time\", \"description\": \"Fecha y hora de la inscripci\\u00f3n de la adopci\\u00f3n\"}, {\"title\": \"fecha_nacimiento\", \"type\": \"date\", \"description\": \"Fecha de nacimiento de la persona adoptada\"}, {\"title\": \"genero\", \"type\": \"string\", \"description\": \"G\\u00e9nero de la persona adoptada\"}, {\"title\": \"subtipo_adopcion\", \"type\": \"string\", \"description\": \"Subtipo de la adopci\\u00f3n\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-09-24T10:59:01.602760",
+      "datastore_active": false,
+      "description": "Información sobre las adopciones del 2019, según fecha de adopción, fecha de nacimiento, género y subtipo de adopción",
+      "fileName": "adopciones-2019.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "04a71b7c-25bc-4379-8797-78f5c7580f11",
+      "last_modified": "2019-09-24T10:59:01.602760",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Adopciones por día del 2019",
+      "package_id": "cb036bb6-41ab-4976-a7c0-9fea81a0a1f8",
+      "position": 1,
+      "resource_type": "file",
+      "revision_id": "df242c9c-ba8c-4d8d-9348-1e31afbc4003",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/adopciones/adopciones-2019.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/cb036bb6-41ab-4976-a7c0-9fea81a0a1f8/resource/07ec9fff-69ae-42f9-9805-d329dfb4b36c",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-05-28T17:13:45.487293",
+      "datastore_active": false,
+      "description": "Información sobre las adopciones del 2018, según fecha de adopción, fecha de nacimiento, género y subtipo de adopción",
+      "fileName": "adopciones_2018.xlsx",
+      "format": "XLSX",
+      "hash": "",
+      "id": "07ec9fff-69ae-42f9-9805-d329dfb4b36c-xlsx",
+      "last_modified": "2019-05-28T17:13:45.487293",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Adopciones por día del 2018 (XLSX)",
+      "package_id": "cb036bb6-41ab-4976-a7c0-9fea81a0a1f8",
+      "position": 2,
+      "resource_type": "file",
+      "revision_id": "aab3bb05-6eba-4ba3-a273-ba082526d44b",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/adopciones/adopciones_2018.xlsx",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/cb036bb6-41ab-4976-a7c0-9fea81a0a1f8/resource/04a71b7c-25bc-4379-8797-78f5c7580f11",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-09-24T10:59:01.602760",
+      "datastore_active": false,
+      "description": "Información sobre las adopciones del 2019, según fecha de adopción, fecha de nacimiento, género y subtipo de adopción",
+      "fileName": "adopciones-2019.xlsx",
+      "format": "XLSX",
+      "hash": "",
+      "id": "04a71b7c-25bc-4379-8797-78f5c7580f11-xlsx",
+      "last_modified": "2019-09-24T10:59:01.602760",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Adopciones por día del 2019 (XLSX)",
+      "package_id": "cb036bb6-41ab-4976-a7c0-9fea81a0a1f8",
+      "position": 3,
+      "resource_type": "file",
+      "revision_id": "2880012a-2c2d-43ae-9ce4-60cfe906f26c",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/adopciones/adopciones-2019.xlsx",
+      "url_type": null
+    }
+  ],
+  "revision_id": "6c1d2cd2-24ee-4eb3-947b-d2b7321bf0a6",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "adopcion",
+      "id": "487a823f-affa-4709-8224-fa503e8b9d64",
+      "name": "adopcion",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "registro civil",
+      "id": "2837b8f0-9bb6-4d0b-b799-bf3d468bd273",
+      "name": "registro civil",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Adopciones",
+  "type": "dataset",
+  "url": "https://data.buenosaires.gob.ar/dataset/adopciones",
+  "version": null
+}

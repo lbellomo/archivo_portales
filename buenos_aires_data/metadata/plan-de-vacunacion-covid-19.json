@@ -1,0 +1,211 @@
+{
+  "author": "Ministerio de Salud",
+  "author_email": "datosabiertos@buenosaires.gob.ar",
+  "creator_user_id": "7d042a55-0800-4979-949b-201389887bd9",
+  "extras": [
+    {
+      "key": "Documentación",
+      "value": ""
+    },
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P1D"
+    },
+    {
+      "key": "country",
+      "value": "None"
+    },
+    {
+      "key": "district",
+      "value": ""
+    },
+    {
+      "key": "home_featured",
+      "value": "false"
+    },
+    {
+      "key": "issued",
+      "value": "2021-03-03T00:11:13.850563"
+    },
+    {
+      "key": "language",
+      "value": "[]"
+    },
+    {
+      "key": "modified",
+      "value": "2021-04-24"
+    },
+    {
+      "key": "province",
+      "value": ""
+    },
+    {
+      "key": "source",
+      "value": "Ministerio de Salud"
+    },
+    {
+      "key": "spatial",
+      "value": "None"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"GOVE\",\"HEAL\"]"
+    },
+    {
+      "key": "temporal",
+      "value": ""
+    }
+  ],
+  "groups": [
+    {
+      "description": "Datasets relacionados a COVID-19",
+      "display_name": "COVID-19",
+      "id": "0f30f631-df60-4d33-aedb-96c9a48a2332",
+      "image_display_url": "https://data.buenosaires.gob.ar/uploads/group/2020-07-23-165939.349779iconocovid19.png",
+      "name": "covid-19",
+      "title": "COVID-19"
+    },
+    {
+      "description": "",
+      "display_name": "Salud",
+      "id": "0be192e9-f1b7-4308-bb9a-f362e2ff44a6",
+      "image_display_url": "https://data.buenosaires.gob.ar/uploads/group/2019-11-16-145030.020776salud.png",
+      "name": "salud",
+      "title": "Salud"
+    }
+  ],
+  "id": "bfe050a6-bd41-411c-9941-8741e11b84ec",
+  "isopen": true,
+  "license_id": "CC-BY-2.5-AR",
+  "license_title": "Atribucion 2.5 Argentina (CC BY 2.5 AR)",
+  "license_url": "https://creativecommons.org/licenses/by/2.5/ar ",
+  "maintainer": "Gerencia Operativa de Ingeniería de Datos. DG Arquitectura de Datos. SS de Políticas Públicas Basadas en Evidencia. Secretaría de Innovación y Transformación Digital. Jefatura de Gabinete de Ministros",
+  "maintainer_email": "datosabiertos@buenosaires.gob.ar",
+  "metadata_created": "2021-02-25T14:07:08.355124",
+  "metadata_modified": "2021-04-24T12:00:08.733289",
+  "name": "plan-de-vacunacion-covid-19",
+  "notes": "Información sobre los turnos otorgados en cada centro y las vacunas aplicadas según las etapas de vacunación contra el virus COVID-19. ",
+  "num_resources": 1,
+  "num_tags": 9,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-11-15T19:17:04.156344",
+    "description": "",
+    "id": "c055e91b-2714-47e4-b47e-6bb063f32776",
+    "image_url": "",
+    "is_organization": true,
+    "name": "ministerio-de-salud",
+    "revision_id": "b72e4fc3-266f-4a53-bbd7-690b4ccff688",
+    "state": "active",
+    "title": "Ministerio de Salud",
+    "type": "organization"
+  },
+  "owner_org": "c055e91b-2714-47e4-b47e-6bb063f32776",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "",
+      "accessURL_field": "",
+      "attributesDescription": "[{\"title\":\"fecha\",\"description\":\"Fecha de la vacunación\",\"type\":\"string\"},{\"title\":\"grupo_etario\",\"description\":\"Rango de edad de los/as vacunados/as\",\"type\":\"string\"},{\"title\":\"vacuna\",\"description\":\"Modelo de vacuna\",\"type\":\"string\"},{\"title\":\"dosis_1\",\"description\":\"Cantidad de primeras dosis aplicadas\",\"type\":\"string\"},{\"title\":\"dosis_2\",\"description\":\"Cantidad de segundas dosis aplicadas\",\"type\":\"string\"},{\"title\":\"genero\",\"description\":\"Sexo de las personas vacunadas\",\"type\":\"string\"},{\"title\":\"tipo_efector\",\"description\":\"Sector que aplica la vacuna. Puede ser público nacional, público de la Ciudad o sector privado\",\"type\":\"string\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2021-03-02T16:21:39.389414",
+      "datastore_active": false,
+      "description": "Información sobre la vacunación contra el COVID-19. Contiene datos sobre las fechas de vacunación, el tipo de vacuna, centro donde fue aplicada, sexo y grupo de edad del receptor.",
+      "fileName": "dataset_total_vacunas.csv",
+      "format": "CSV",
+      "has-uploaded-file": "",
+      "hash": "",
+      "icon_url": "",
+      "id": "74463361-58ea-44b2-b531-05bf79c87b1c",
+      "issued": "2021-03-02T22:36:59.753307",
+      "last_modified": null,
+      "license_id": "CC-BY-2.5-AR",
+      "mimetype": "text/csv",
+      "mimetype_inner": null,
+      "modified": "2021-04-24",
+      "name": "Vacunación COVID-19",
+      "package_id": "bfe050a6-bd41-411c-9941-8741e11b84ec",
+      "position": 0,
+      "resource_type": "file",
+      "revision_id": "ae7f520e-3c5c-4d24-b79e-9bc7066485dc",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/salud/plan-de-vacunacion-covid-19/dataset_total_vacunas.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "59449eeb-30d3-4fa5-8b90-6b33918ecb19",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "COVID-19",
+      "id": "931486a5-526e-433d-a642-4768937b65d8",
+      "name": "COVID-19",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "adultos mayores",
+      "id": "079256cb-f4b9-41c4-bb58-7ed116f7a9b7",
+      "name": "adultos mayores",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "personal de salud",
+      "id": "0cabc402-b1fe-457b-a0ae-a2e769c2f824",
+      "name": "personal de salud",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "plan de vacunación",
+      "id": "fda68e61-5dcc-483d-9430-f2c465f5906f",
+      "name": "plan de vacunación",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "postas de vacunación",
+      "id": "bd8664e7-1efc-4c38-b262-f9b0c2e1cf2c",
+      "name": "postas de vacunación",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "salud",
+      "id": "92c7f3e1-f781-4b82-a933-7408e37b3687",
+      "name": "salud",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "turnos",
+      "id": "a46ee633-bd1f-47cc-a5fb-b020c4ead49c",
+      "name": "turnos",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "vacunación",
+      "id": "9a5f6d9d-01f4-4929-8d5c-cef35636151c",
+      "name": "vacunación",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "vacunas",
+      "id": "c1bc3f42-70ed-41b1-b8ca-7a51cfd4639d",
+      "name": "vacunas",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Plan de vacunación COVID-19",
+  "type": "dataset",
+  "url": "https://data.buenosaires.gob.ar/dataset/plan-de-vacunacion-covid-19",
+  "version": null
+}

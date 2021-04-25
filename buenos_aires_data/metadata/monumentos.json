@@ -1,0 +1,161 @@
+{
+  "author": "Ministerio de Ambiente y Espacio público. SS de Mantenimiento. DG de espacios verdes. MOA",
+  "author_email": "gobiernoabierto@buenosaires.gob.ar",
+  "creator_user_id": "e4546f46-e966-493c-b2f1-57318502c41b",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P1Y"
+    },
+    {
+      "key": "issued",
+      "value": "2019-01-08T14:52:23.440182"
+    },
+    {
+      "key": "language",
+      "value": "[\"SPA\"]"
+    },
+    {
+      "key": "modified",
+      "value": "2019-05-27T14:43:09.768274"
+    },
+    {
+      "key": "source",
+      "value": "Ministerio de Ambiente y Espacio público. SS de Mantenimiento. DG de espacios verdes. MOA"
+    },
+    {
+      "key": "spatial",
+      "value": "02"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"EDUC\"]"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Datasets relacionados con urbanismo y territorio",
+      "display_name": "Urbanismo y Territorio",
+      "id": "63e162a0-3f4a-446a-a60b-601d16f36200",
+      "image_display_url": "https://data.buenosaires.gob.ar/uploads/group/2019-11-16-145056.781692urba.png",
+      "name": "urbanismo-y-territorio",
+      "title": "Urbanismo y Territorio"
+    }
+  ],
+  "id": "juqdkmgo-145",
+  "isopen": true,
+  "license_id": "CC-BY-2.5-AR",
+  "license_title": "Atribucion 2.5 Argentina (CC BY 2.5 AR)",
+  "license_url": "https://creativecommons.org/licenses/by/2.5/ar ",
+  "maintainer": "Secretaría General y Relaciones Internacionales. Subsecretaría Gestión Estratégica y Calidad Institucional. Dirección General Calidad Institucional y Gobierno Abierto",
+  "maintainer_email": "gobiernoabierto@buenosaires.gob.ar",
+  "metadata_created": "2019-12-11T18:05:41.623522",
+  "metadata_modified": "2020-12-17T16:38:58.289132",
+  "name": "monumentos",
+  "notes": "Información sobre los monumentos ubicados en plazas o paseos. Los tipos de monumentos varían entre: grupos escultóricos, monolitos, fuentes, figuras, pantallas con relieves, estatuas, placas",
+  "num_resources": 2,
+  "num_tags": 4,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-11-15T19:16:29.440170",
+    "description": "",
+    "id": "d3293f04-e51f-4235-95ca-ee4566322496",
+    "image_url": "",
+    "is_organization": true,
+    "name": "ministerio-de-espacio-publico-e-higiene-urbana",
+    "revision_id": "d10fc1d4-0543-46ca-b027-a9ebc285c6b3",
+    "state": "active",
+    "title": "Ministerio de Espacio Público e Higiene Urbana",
+    "type": "organization"
+  },
+  "owner_org": "d3293f04-e51f-4235-95ca-ee4566322496",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/monumentos",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-01-08T14:52:23.440182",
+      "datastore_active": true,
+      "description": "Monumentos de la Ciudad de Buenos Aires en plazas o paseos.",
+      "fileName": "monumentos.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "juqdkmgo-1451-resource",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Monumentos",
+      "package_id": "juqdkmgo-145",
+      "position": 0,
+      "resource_type": "file",
+      "revision_id": "54541bac-daee-452a-ae4b-07dc0ab1b5cc",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/monumentos/monumentos.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/monumentos",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-01-08T14:52:23.440182",
+      "datastore_active": true,
+      "description": "Monumentos de la Ciudad de Buenos Aires en plazas o paseos.",
+      "fileName": "monumentos.xlsx",
+      "format": "XLSX",
+      "hash": "",
+      "id": "juqdkmgo-1451-resource-xlsx",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Monumentos (XLSX)",
+      "package_id": "juqdkmgo-145",
+      "position": 1,
+      "resource_type": "file",
+      "revision_id": "f4461179-b44a-4337-8353-ac1837157392",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/monumentos/monumentos.xlsx",
+      "url_type": null
+    }
+  ],
+  "revision_id": "55190184-3b43-431b-a93a-b1bf8ea92b31",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "escultura",
+      "id": "f19e6606-3149-4809-b913-ee5b9917ba40",
+      "name": "escultura",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "estatuas",
+      "id": "24324935-aa14-47c1-8098-78c4c565a6a6",
+      "name": "estatuas",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "fuentes",
+      "id": "77451752-f5e9-498e-b4d0-9162245067ea",
+      "name": "fuentes",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "monumentos",
+      "id": "c0252a2c-c668-4294-a4a5-a80c3a399e71",
+      "name": "monumentos",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Monumentos",
+  "type": "dataset",
+  "url": "https://data.buenosaires.gob.ar/dataset/monumentos",
+  "version": null
+}

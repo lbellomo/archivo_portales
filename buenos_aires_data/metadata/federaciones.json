@@ -1,0 +1,195 @@
+{
+  "author": "Secretaría General y Relaciones Internacionales. Subsecretaría Gestión Estratégica y Calidad Institucional. Dirección General Calidad Institucional y Gobierno Abierto",
+  "author_email": "datosabiertos@buenosaires.gob.ar",
+  "creator_user_id": "e4546f46-e966-493c-b2f1-57318502c41b",
+  "extras": [
+    {
+      "key": "Documentación",
+      "value": ""
+    },
+    {
+      "key": "accrualPeriodicity",
+      "value": "eventual"
+    },
+    {
+      "key": "country",
+      "value": "None"
+    },
+    {
+      "key": "district",
+      "value": ""
+    },
+    {
+      "key": "home_featured",
+      "value": "false"
+    },
+    {
+      "key": "issued",
+      "value": "2019-01-08T14:59:45.168388"
+    },
+    {
+      "key": "language",
+      "value": "[]"
+    },
+    {
+      "key": "modified",
+      "value": "2021-02-26T18:12:09.651135"
+    },
+    {
+      "key": "province",
+      "value": ""
+    },
+    {
+      "key": "source",
+      "value": "Vicejefatura de Gobierno"
+    },
+    {
+      "key": "spatial",
+      "value": "None"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"SOCI\"]"
+    },
+    {
+      "key": "temporal",
+      "value": ""
+    }
+  ],
+  "groups": [
+    {
+      "description": "Datasets relacionados con urbanismo y territorio",
+      "display_name": "Urbanismo y Territorio",
+      "id": "63e162a0-3f4a-446a-a60b-601d16f36200",
+      "image_display_url": "https://data.buenosaires.gob.ar/uploads/group/2019-11-16-145056.781692urba.png",
+      "name": "urbanismo-y-territorio",
+      "title": "Urbanismo y Territorio"
+    }
+  ],
+  "id": "juqdkmgo-111",
+  "isopen": true,
+  "license_id": "CC-BY-2.5-AR",
+  "license_title": "Atribucion 2.5 Argentina (CC BY 2.5 AR)",
+  "license_url": "https://creativecommons.org/licenses/by/2.5/ar ",
+  "maintainer": "Ministerio de Educación e Innovación. Secretaría de Ciencia, Tecnología e Innovación. SS de Ciudad Inteligente y Tecnología Educativa. DG Ciencias de la Información. Unidad de Sistemas de Información Geográfica (USIG)",
+  "maintainer_email": "datosabiertos@buenosaires.gob.ar",
+  "metadata_created": "2019-12-11T18:35:58.697214",
+  "metadata_modified": "2021-02-26T21:12:09.713842",
+  "name": "federaciones",
+  "notes": "Información y ubicación geográfica de federaciones y asociaciones deportivas de la Ciudad.",
+  "num_resources": 3,
+  "num_tags": 2,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-11-15T19:15:14.176022",
+    "description": "",
+    "id": "cbb782e9-de0e-49de-9462-073238e616be",
+    "image_url": "",
+    "is_organization": true,
+    "name": "vicejefatura-de-gobierno",
+    "revision_id": "b25fa66f-e936-4a6f-9111-1585f0b3f210",
+    "state": "active",
+    "title": "Vicejefatura de Gobierno",
+    "type": "organization"
+  },
+  "owner_org": "cbb782e9-de0e-49de-9462-073238e616be",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/federaciones",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-01-08T14:59:45.168388",
+      "datastore_active": false,
+      "description": "Listado de Federaciones y asociaciones de la Ciudad.",
+      "fileName": "federaciones.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "juqdkmgo-1111-resource",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Federaciones",
+      "package_id": "juqdkmgo-111",
+      "position": 0,
+      "resource_type": "file",
+      "revision_id": "5523c4c8-9860-4dcf-9507-198ff34e8fdc",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/federaciones/federaciones.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/federaciones",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-01-08T14:59:45.168388",
+      "datastore_active": false,
+      "description": "Archivo shapefile de las federaciones y asociaciones de la Ciudad.",
+      "fileName": "federaciones-zip.zip",
+      "format": "ZIP",
+      "hash": "",
+      "id": "juqdkmgo-1112-resource",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Federaciones (SHP)",
+      "package_id": "juqdkmgo-111",
+      "position": 1,
+      "resource_type": "file",
+      "revision_id": "fb2c86a8-6b04-42d9-89f7-a5c4f18cc659",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/federaciones/federaciones-zip.zip",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/federaciones",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-01-08T14:59:45.168388",
+      "datastore_active": false,
+      "description": "Listado de Federaciones y asociaciones de la Ciudad.",
+      "fileName": "federaciones.xlsx",
+      "format": "XLSX",
+      "hash": "",
+      "id": "juqdkmgo-1111-resource-xlsx",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Federaciones (XLSX)",
+      "package_id": "juqdkmgo-111",
+      "position": 2,
+      "resource_type": "file",
+      "revision_id": "7fd283a9-a6e9-4dbc-b4f5-40a6736bf656",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/federaciones/federaciones.xlsx",
+      "url_type": null
+    }
+  ],
+  "revision_id": "d9b425d1-f2e8-4273-84de-0cf5de6b53bd",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "deportes",
+      "id": "6c27598b-3537-44b9-a78e-c7a3a214f028",
+      "name": "deportes",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "social",
+      "id": "042327d4-494b-49c5-8e95-f695fc5d5ec6",
+      "name": "social",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Federaciones",
+  "type": "dataset",
+  "url": "https://data.buenosaires.gob.ar/dataset/federaciones",
+  "version": null
+}

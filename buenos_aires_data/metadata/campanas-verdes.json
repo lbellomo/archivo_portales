@@ -1,0 +1,234 @@
+{
+  "author": "Ministerio de Espacio Público e Higiene Urbana",
+  "author_email": "gobiernoabierto@buenosaires.gob.ar",
+  "creator_user_id": "e4546f46-e966-493c-b2f1-57318502c41b",
+  "extras": [
+    {
+      "key": "Documentación",
+      "value": ""
+    },
+    {
+      "key": "accrualPeriodicity",
+      "value": "eventual"
+    },
+    {
+      "key": "country",
+      "value": "None"
+    },
+    {
+      "key": "district",
+      "value": ""
+    },
+    {
+      "key": "home_featured",
+      "value": "false"
+    },
+    {
+      "key": "issued",
+      "value": "2019-01-08T14:52:03.661463"
+    },
+    {
+      "key": "language",
+      "value": "[]"
+    },
+    {
+      "key": "modified",
+      "value": "2020-12-04T16:53:52.792350"
+    },
+    {
+      "key": "province",
+      "value": ""
+    },
+    {
+      "key": "source",
+      "value": "Ministerio de Espacio Público e Higiene Urbana"
+    },
+    {
+      "key": "spatial",
+      "value": "None"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"ENVI\"]"
+    },
+    {
+      "key": "temporal",
+      "value": ""
+    }
+  ],
+  "groups": [
+    {
+      "description": "",
+      "display_name": "Medioambiente",
+      "id": "a99c1197-8379-4a60-a6eb-8737cab5ec4f",
+      "image_display_url": "https://data.buenosaires.gob.ar/uploads/group/2019-11-16-145003.550663medioambiente.png",
+      "name": "medioambiente",
+      "title": "Medioambiente"
+    }
+  ],
+  "id": "juqdkmgo-32",
+  "isopen": true,
+  "license_id": "CC-BY-2.5-AR",
+  "license_title": "Atribucion 2.5 Argentina (CC BY 2.5 AR)",
+  "license_url": "https://creativecommons.org/licenses/by/2.5/ar ",
+  "maintainer": "Subgerencia de Información Geoespacial. DG Ciencias de la Información. SS de Políticas Públicas Basadas en Evidencia. Secretaría de Innovación y Transformación Digital. Jefatura de Gabinete de Ministros",
+  "maintainer_email": "gobiernoabierto@buenosaires.gob.ar",
+  "metadata_created": "2019-12-11T18:07:29.200690",
+  "metadata_modified": "2020-12-17T15:36:41.580586",
+  "name": "campanas-verdes",
+  "notes": "Listado con ubicación geográfica de las campanas verdes para dejar los materiales reciclables.",
+  "num_resources": 4,
+  "num_tags": 3,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-11-15T19:17:37.520435",
+    "description": "",
+    "id": "c16da01e-12a6-4b99-9509-c35b37138493",
+    "image_url": "",
+    "is_organization": true,
+    "name": "subsecretaria-de-higiene-urbana",
+    "revision_id": "b04e62bf-6883-4fe8-864b-3861f35cf6fe",
+    "state": "active",
+    "title": "Subsecretaria de Higiene Urbana",
+    "type": "organization"
+  },
+  "owner_org": "c16da01e-12a6-4b99-9509-c35b37138493",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/campanas-verdes",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-04-23T16:50:26.915649",
+      "datastore_active": false,
+      "description": "Ubicación geográfica de las campanas verdes.",
+      "fileName": "campanas-verdes.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "juqdkmgo-321222-resource",
+      "last_modified": "2019-04-23T16:50:26.915649",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Campanas Verdes",
+      "package_id": "juqdkmgo-32",
+      "position": 0,
+      "resource_type": "file",
+      "revision_id": "3fdbccdb-62cb-4532-b91a-421e48921bda",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/campanas-verdes/campanas-verdes.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/campanas-verdes",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-04-23T16:50:26.915649",
+      "datastore_active": false,
+      "description": "Ubicación geográfica de las campanas verdes.",
+      "fileName": "campanas-verdes.xlsx",
+      "format": "XLSX",
+      "hash": "",
+      "id": "juqdkmgo-321-resource-xlsx",
+      "last_modified": "2019-04-23T16:50:26.915649",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Campanas Verdes (XLSX)",
+      "package_id": "juqdkmgo-32",
+      "position": 1,
+      "resource_type": "file",
+      "revision_id": "1fa388fb-88e8-4f3c-b3f3-ecb4ccc0eb33",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/campanas-verdes/campanas-verdes.xlsx",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/campanas-verdes",
+      "attributesDescription": "[{\"title\": \"id\", \"type\": \"integer\", \"description\": \"Identificador \\u00fanico de cada registro\"}, {\"title\": \"nombre\", \"type\": \"string\", \"description\": \"Nombre de cada registro\"}, {\"title\": \"tipo\", \"type\": \"string\", \"description\": \"Tipo de centro verde\"}, {\"title\": \"administra\", \"type\": \"string\", \"description\": \"Cooperativa que administra el Centro Verde\"}, {\"title\": \"direccion\", \"type\": \"string\", \"description\": \"Direcci\\u00f3n para el etiquetado\"}, {\"title\": \"calle\", \"type\": \"string\", \"description\": \"Nombre de calle principal\"}, {\"title\": \"altura\", \"type\": \"integer\", \"description\": \"N\\u00famero de altura\"}, {\"title\": \"cruce\", \"type\": \"string\", \"description\": \"Nombre de la calle secundaria\"}, {\"title\": \"barrio\", \"type\": \"string\", \"description\": \"Barrio de ubicaci\\u00f3n del Centro Verde\"}, {\"title\": \"comuna\", \"type\": \"string\", \"description\": \"Comuna de ubicaci\\u00f3n del Centro Verde\"}, {\"title\": \"codigo_postal\", \"type\": \"integer\", \"description\": \"C\\u00f3digo Postal de la ubicaci\\u00f3n del Centro Verde\"}, {\"title\": \"codigo_postal_argentino\", \"type\": \"string\", \"description\": \"C\\u00f3digo Postal Argentino de la ubicaci\\u00f3n del Centro\\nVerde\"}, {\"title\": \"latitud\", \"type\": \"number\", \"description\": \"C\\u00f3digo de geolocalizaci\\u00f3n\"}, {\"title\": \"longitud\", \"type\": \"number\", \"description\": \"C\\u00f3digo de geolocalizaci\\u00f3n\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-04-23T16:50:36.313373",
+      "datastore_active": false,
+      "description": "Archivos shapefile de las campanas verdes.",
+      "fileName": "campanas-verdes-zip.zip",
+      "format": "ZIP",
+      "hash": "",
+      "id": "juqdkmgo-322-resource",
+      "last_modified": "2019-04-23T16:50:36.313373",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Campanas verdes (SHP)",
+      "package_id": "juqdkmgo-32",
+      "position": 2,
+      "resource_type": "file",
+      "revision_id": "d3078f90-2469-402d-ae7d-376302830daf",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/campanas-verdes/campanas-verdes-zip.zip",
+      "url_type": null
+    },
+    {
+      "accessURL": "",
+      "accessURL_field": "",
+      "attributesDescription": "[]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-12-23T19:13:25.628309",
+      "datastore_active": false,
+      "description": "Archivo GeoJSON con las campanas verdes de la Ciudad.",
+      "fileName": "",
+      "format": "GeoJSON",
+      "has-uploaded-file": "",
+      "hash": "",
+      "icon_url": "",
+      "id": "d9b7c5ba-808d-4b1d-8b36-d2e2c4a41a31",
+      "issued": "2019-12-23T16:13:25.316416",
+      "last_modified": null,
+      "license_id": "CC-BY-2.5-AR",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "modified": "2019-12-23T16:13:49.433651",
+      "name": "Campanas Verdes (GeoJSON)",
+      "package_id": "juqdkmgo-32",
+      "position": 3,
+      "resource_type": "file",
+      "revision_id": "942775cd-be2c-4665-9ca1-8e2d8a32b281",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/campanas-verdes/campanas-verdes.geojson",
+      "url_type": null
+    }
+  ],
+  "revision_id": "61691749-e830-4a0f-84a4-78a2031acd82",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "cambio climático",
+      "id": "a6836452-912d-41c2-b324-4eddc98a75c2",
+      "name": "cambio climático",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "mobiliario-urbano",
+      "id": "5a69a5bd-d924-4a56-a8e8-15d514d0b33f",
+      "name": "mobiliario-urbano",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "urbanismo",
+      "id": "17ac67e7-699b-470d-b0dd-5b8752c1fb73",
+      "name": "urbanismo",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Campanas Verdes",
+  "type": "dataset",
+  "url": "https://data.buenosaires.gob.ar/dataset/campanas-verdes",
+  "version": null
+}

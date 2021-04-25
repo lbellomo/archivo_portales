@@ -1,0 +1,277 @@
+{
+  "author": "Secretaría de Desarrollo Urbano. Jefatura de Gabinete de Ministros",
+  "author_email": "gobiernoabierto@buenosaires.gob.ar",
+  "creator_user_id": "e4546f46-e966-493c-b2f1-57318502c41b",
+  "extras": [
+    {
+      "key": "Documentación",
+      "value": ""
+    },
+    {
+      "key": "accrualPeriodicity",
+      "value": "eventual"
+    },
+    {
+      "key": "country",
+      "value": "None"
+    },
+    {
+      "key": "district",
+      "value": ""
+    },
+    {
+      "key": "home_featured",
+      "value": "false"
+    },
+    {
+      "key": "issued",
+      "value": "2019-09-24T14:13:19.638774"
+    },
+    {
+      "key": "language",
+      "value": "[]"
+    },
+    {
+      "key": "modified",
+      "value": "2020-12-11T13:29:13.126695"
+    },
+    {
+      "key": "province",
+      "value": ""
+    },
+    {
+      "key": "source",
+      "value": "Secretaría de Desarrollo Urbano. Jefatura de Gabinete de Ministros"
+    },
+    {
+      "key": "spatial",
+      "value": "None"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"REGI\",\"TRAN\"]"
+    },
+    {
+      "key": "temporal",
+      "value": ""
+    }
+  ],
+  "groups": [
+    {
+      "description": "",
+      "display_name": "Movilidad",
+      "id": "e616e02e-64d8-4fb0-b55d-08e75eb58376",
+      "image_display_url": "https://data.buenosaires.gob.ar/uploads/group/2019-11-16-145017.234366movilidad.png",
+      "name": "movilidad",
+      "title": "Movilidad"
+    },
+    {
+      "description": "Datasets relacionados con urbanismo y territorio",
+      "display_name": "Urbanismo y Territorio",
+      "id": "63e162a0-3f4a-446a-a60b-601d16f36200",
+      "image_display_url": "https://data.buenosaires.gob.ar/uploads/group/2019-11-16-145056.781692urba.png",
+      "name": "urbanismo-y-territorio",
+      "title": "Urbanismo y Territorio"
+    }
+  ],
+  "id": "a30001e6-3a3a-4c8d-9b8d-15082abbe4f0",
+  "isopen": true,
+  "license_id": "CC-BY-2.5-AR",
+  "license_title": "Atribucion 2.5 Argentina (CC BY 2.5 AR)",
+  "license_url": "https://creativecommons.org/licenses/by/2.5/ar ",
+  "maintainer": "Subgerencia de Información Geoespacial. DG Ciencias de la Información. SS de Políticas Públicas Basadas en Evidencia. Secretaría de Innovación y Transformación Digital. Jefatura de Gabinete de Ministros",
+  "maintainer_email": "gobiernoabierto@buenosaires.gob.ar",
+  "metadata_created": "2019-12-11T18:16:19.812267",
+  "metadata_modified": "2020-12-17T15:58:47.437813",
+  "name": "cruces-semaforizados",
+  "notes": "Ubicación de los cruces semaforizados de la Ciudad. Incluye semáforos tradicionales, semáforos titiladores y semáforos titilantes.",
+  "num_resources": 4,
+  "num_tags": 9,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-11-15T19:19:49.916928",
+    "description": "",
+    "id": "56b60b46-a47c-48fb-9bd4-c2ad0e05fef2",
+    "image_url": "",
+    "is_organization": true,
+    "name": "transporte-y-obras-publicas",
+    "revision_id": "c33c86a3-e197-468f-8b66-5b943b3bf106",
+    "state": "active",
+    "title": "Secretaría de Transporte y Obras Públicas",
+    "type": "organization"
+  },
+  "owner_org": "56b60b46-a47c-48fb-9bd4-c2ad0e05fef2",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/a30001e6-3a3a-4c8d-9b8d-15082abbe4f0/resource/f7e4ad85-2031-41ab-bc35-dd622277d7d6",
+      "attributesDescription": "[{\"title\": \"long\", \"type\": \"string\", \"description\": \"Coordenada X del punto donde se localiza el cruce expresada en coordenadas planas\"}, {\"title\": \"lat\", \"type\": \"string\", \"description\": \"Coordenada Y del punto donde se localiza el cruce expresada en coordenadas planas\"}, {\"title\": \"n_cruce\", \"type\": \"integer\", \"description\": \"N\\u00famero de cruce. Valor extra\\u00eddo del C\\u00f3digo.\"}, {\"title\": \"id_codigo\", \"type\": \"string\", \"description\": \"C\\u00f3digo del registro.\"}, {\"title\": \"fecha_inau\", \"type\": \"string\", \"description\": \"Fecha de inauguraci\\u00f3n\"}, {\"title\": \"anio_inau\", \"type\": \"integer\", \"description\": \"A\\u00f1o de inauguraci\\u00f3n\"}, {\"title\": \"dom_orig\", \"type\": \"string\", \"description\": \"Domicilio original del registro.\"}, {\"title\": \"dom_norma\", \"type\": \"string\", \"description\": \"Domicilio normalizado\"}, {\"title\": \"origen\", \"type\": \"string\", \"description\": \"Origen de la informaci\\u00f3n para su geolocalizaci\\u00f3n (por coordenada, domicilio u otra fuente)\"}, {\"title\": \"observ\", \"type\": \"string\", \"description\": \"Observaciones\"}, {\"title\": \"nro_nva\", \"type\": \"integer\", \"description\": \"N\\u00famero de instalaciones\"}, {\"title\": \"instala\", \"type\": \"string\", \"description\": \"Tipo de instalaci\\u00f3n\"}, {\"title\": \"horario\", \"type\": \"string\", \"description\": \"Horario en que funciona la instalaci\\u00f3n\"}, {\"title\": \"fecha_fina\", \"type\": \"string\", \"description\": \"Fecha de finalizaci\\u00f3n de obra\"}, {\"title\": \"id_usig\", \"type\": \"integer\", \"description\": \"ID asignado por USIG\"}, {\"title\": \"objeto\", \"type\": \"string\", \"description\": \"Tipo de elemento mapeado\"}, {\"title\": \"calle_nombre\", \"type\": \"string\", \"description\": \"Nombre de la calle del cruce\"}, {\"title\": \"calle_altura\", \"type\": \"integer\", \"description\": \"Altura de la calle del cruce\"}, {\"title\": \"barrio\", \"type\": \"string\", \"description\": \"Barrio donde se ubica el cruce\"}, {\"title\": \"comuna\", \"type\": \"string\", \"description\": \"Comuna donde se ubica el cruce\"}, {\"title\": \"codigo_postal\", \"type\": \"integer\", \"description\": \"C\\u00f3digo postal de la ubicaci\\u00f3n del cruce\"}, {\"title\": \"codigo_postal_argentino\", \"type\": \"string\", \"description\": \"C\\u00f3digo postal argentino de la ubicaci\\u00f3n del cruce\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-09-24T14:28:56.968204",
+      "datastore_active": false,
+      "description": "Ubicación de los cruces semaforizados. Incluye domicilio, tipo de instalación, horario, fecha y referencias geográficas.",
+      "fileName": "cruces-semaforizados.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "f7e4ad85-2031-41ab-bc35-dd622277d7d6",
+      "last_modified": "2019-09-24T14:28:56.968204",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Cruces Semaforizados",
+      "package_id": "a30001e6-3a3a-4c8d-9b8d-15082abbe4f0",
+      "position": 0,
+      "resource_type": "file",
+      "revision_id": "9d759ece-3792-470c-9f91-c5e730ce56ac",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/cruces-semaforizados/cruces-semaforizados.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/a30001e6-3a3a-4c8d-9b8d-15082abbe4f0/resource/8520eb1e-497c-461c-9b5b-9ace3f76b2b5",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-09-24T14:29:41.706365",
+      "datastore_active": false,
+      "description": "Archivo shapefile correspondiente a los cruces semaforizados",
+      "fileName": "cruces-semaforizados.zip",
+      "format": "ZIP",
+      "hash": "",
+      "id": "8520eb1e-497c-461c-9b5b-9ace3f76b2b5",
+      "last_modified": "2019-09-24T14:29:41.706365",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Cruces Semaforizados (SHP)",
+      "package_id": "a30001e6-3a3a-4c8d-9b8d-15082abbe4f0",
+      "position": 1,
+      "resource_type": "file",
+      "revision_id": "9e17ca54-2720-4fc2-9764-6d690f88b985",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/cruces-semaforizados/cruces-semaforizados.zip",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/a30001e6-3a3a-4c8d-9b8d-15082abbe4f0/resource/65436ea9-22c2-46d9-a025-f679ad50f028",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-09-24T14:30:48.806332",
+      "datastore_active": false,
+      "description": "Archivo geojson correspondiente a los cruces semaforizados",
+      "fileName": "cruces-semaforizados.geojson",
+      "format": "GeoJSON",
+      "hash": "",
+      "id": "65436ea9-22c2-46d9-a025-f679ad50f028",
+      "last_modified": "2019-09-24T14:30:48.806332",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Cruces Semaforizados (GeoJSON)",
+      "package_id": "a30001e6-3a3a-4c8d-9b8d-15082abbe4f0",
+      "position": 2,
+      "resource_type": "file",
+      "revision_id": "895ea188-9ba7-4a3f-9410-44c4d3f9b01d",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/cruces-semaforizados/cruces-semaforizados.geojson",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/a30001e6-3a3a-4c8d-9b8d-15082abbe4f0/resource/f7e4ad85-2031-41ab-bc35-dd622277d7d6",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-09-24T14:28:56.968204",
+      "datastore_active": false,
+      "description": "Ubicación de los cruces semaforizados. Incluye domicilio, tipo de instalación, horario, fecha y referencias geográficas.",
+      "fileName": "cruces-semaforizados.xlsx",
+      "format": "XLSX",
+      "hash": "",
+      "id": "f7e4ad85-2031-41ab-bc35-dd622277d7d6-xlsx",
+      "last_modified": "2019-09-24T14:28:56.968204",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Cruces Semaforizados (XLSX)",
+      "package_id": "a30001e6-3a3a-4c8d-9b8d-15082abbe4f0",
+      "position": 3,
+      "resource_type": "file",
+      "revision_id": "95fbf519-69b7-421e-a02c-509a33b27cb4",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/cruces-semaforizados/cruces-semaforizados.xlsx",
+      "url_type": null
+    }
+  ],
+  "revision_id": "c23033cd-070f-436a-9e78-5b309e7a0fba",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "carteles escolares",
+      "id": "8239d34e-7a60-4ba5-8e14-ba14632a4aa9",
+      "name": "carteles escolares",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "cruces semaforizados",
+      "id": "e2003d1b-9fd4-4202-ba37-f2c93d935136",
+      "name": "cruces semaforizados",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "movilidad",
+      "id": "6fda14a0-403a-4fd4-bc7f-e5742514badc",
+      "name": "movilidad",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "peatones",
+      "id": "297907bf-e4e4-4f99-ace9-83cd235013d1",
+      "name": "peatones",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "semáforos",
+      "id": "fd0652d9-f0ca-4fbb-8ef5-366d529d1cdb",
+      "name": "semáforos",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "semáforos titiladores",
+      "id": "765b3736-9bd1-4e62-81d1-ac7e9669c2bb",
+      "name": "semáforos titiladores",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "semáforos titilantes",
+      "id": "33dc57b3-c964-4dc0-a6fc-f0155881ae4a",
+      "name": "semáforos titilantes",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "señalización",
+      "id": "6c9e5874-534a-45c3-b865-5285ee37dbeb",
+      "name": "señalización",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "transporte",
+      "id": "aff133f8-2f33-4d2c-a531-6d632bd4efbb",
+      "name": "transporte",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Cruces Semaforizados",
+  "type": "dataset",
+  "url": "https://data.buenosaires.gob.ar/dataset/cruces-semaforizados",
+  "version": null
+}

@@ -1,0 +1,221 @@
+{
+  "author": "Ministerio de Economía y Finanzas. Dirección General de Estadística y Censos",
+  "author_email": "datosabiertos@buenosaires.gob.ar",
+  "creator_user_id": "e4546f46-e966-493c-b2f1-57318502c41b",
+  "extras": [
+    {
+      "key": "Documentación",
+      "value": ""
+    },
+    {
+      "key": "accrualPeriodicity",
+      "value": "eventual"
+    },
+    {
+      "key": "country",
+      "value": "None"
+    },
+    {
+      "key": "district",
+      "value": ""
+    },
+    {
+      "key": "home_featured",
+      "value": "false"
+    },
+    {
+      "key": "issued",
+      "value": "2019-04-22T11:49:56.600057"
+    },
+    {
+      "key": "language",
+      "value": "[]"
+    },
+    {
+      "key": "modified",
+      "value": "2021-03-05T11:48:09.747005"
+    },
+    {
+      "key": "province",
+      "value": ""
+    },
+    {
+      "key": "source",
+      "value": "Ministerio de Economía y Finanzas. Dirección General de Estadística y Censos"
+    },
+    {
+      "key": "spatial",
+      "value": "None"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"GOVE\",\"HEAL\",\"SOCI\"]"
+    },
+    {
+      "key": "temporal",
+      "value": ""
+    }
+  ],
+  "groups": [
+    {
+      "description": "",
+      "display_name": "Género",
+      "id": "3d97d3f5-206f-4719-8a06-54c709a25893",
+      "image_display_url": "https://data.buenosaires.gob.ar/uploads/group/2019-11-19-182128.307764genero720.png",
+      "name": "genero",
+      "title": "Género"
+    }
+  ],
+  "id": "c3e21c95-707c-47aa-9d31-fd710282209e",
+  "isopen": true,
+  "license_id": "CC-BY-2.5-AR",
+  "license_title": "Atribucion 2.5 Argentina (CC BY 2.5 AR)",
+  "license_url": "https://creativecommons.org/licenses/by/2.5/ar ",
+  "maintainer": "Secretaría General y Relaciones Internacionales. Subsecretaría Gestión Estratégica y Calidad Institucional. Dirección General Calidad Institucional y Gobierno Abierto",
+  "maintainer_email": "datosabiertos@buenosaires.gob.ar",
+  "metadata_created": "2019-12-11T18:23:54.955738",
+  "metadata_modified": "2021-03-05T14:48:09.797645",
+  "name": "programa-para-vida-independiente",
+  "notes": "Información sobre cantidad de beneficiarios y beneficiarias del \"Programa de Apoyo para la Vida Independiente\" del Ministerio de Desarrollo Humano y Hábitat de la Ciudad de Buenos Aires",
+  "num_resources": 4,
+  "num_tags": 2,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-11-15T19:18:36.747317",
+    "description": "",
+    "id": "800664f9-ab56-4482-a6c8-0a1d316bf35b",
+    "image_url": "",
+    "is_organization": true,
+    "name": "direccion-general-de-estadisticas-y-censos",
+    "revision_id": "62a8b16c-0849-419d-a339-8e14d1b4a010",
+    "state": "active",
+    "title": "Dirección General de Estadísticas y Censos",
+    "type": "organization"
+  },
+  "owner_org": "800664f9-ab56-4482-a6c8-0a1d316bf35b",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/c3e21c95-707c-47aa-9d31-fd710282209e/resource/e7a46b5d-b5a3-48f5-8389-495c10df3788",
+      "attributesDescription": "[{\"title\": \"anio\", \"type\": \"integer\", \"description\": \"A\\u00f1o de la observaci\\u00f3n\"}, {\"title\": \"grupo_edad\", \"type\": \"string\", \"description\": \"Grupo de edad de la observaci\\u00f3n\"}, {\"title\": \"porc_beneficiaras\", \"type\": \"number\", \"description\": \"Porcentaje de beneficiarias de la observaci\\u00f3n\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-04-11T14:56:25.835122",
+      "datastore_active": false,
+      "description": "Relación entre la cantidad de mujeres de CABA entre 18 y 60 años de edad, con certificado de discapacidad beneficiarias del Programa de Apoyo para la Vida Independiente, y el total de beneficiarios",
+      "fileName": "porc_muj_vi_annio__g_edad_limpio.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "e7a46b5d-b5a3-48f5-8389-495c10df3788",
+      "last_modified": "2019-04-11T14:56:25.835122",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Beneficiarias del \"Programa para la Vida Independiente\"",
+      "package_id": "c3e21c95-707c-47aa-9d31-fd710282209e",
+      "position": 0,
+      "resource_type": "file",
+      "revision_id": "54af5cfe-22f0-4642-96ab-df59ee13da5a",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/SIGBA/Programa_para_la_Vida_Independiente/porc_muj_vi_annio__g_edad_limpio.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/c3e21c95-707c-47aa-9d31-fd710282209e/resource/ae0e6163-f2f6-44c9-829f-9de9c531bb52",
+      "attributesDescription": "[{\"title\": \"anio\", \"type\": \"integer\", \"description\": \"A\\u00f1o de la observaci\\u00f3n\"}, {\"title\": \"sexo\", \"type\": \"string\", \"description\": \"Sexo de la observaci\\u00f3n\"}, {\"title\": \"grupo_edad\", \"type\": \"string\", \"description\": \"Grupo de edad de la observaci\\u00f3n\"}, {\"title\": \"cantidad_beneficiarios\", \"type\": \"integer\", \"description\": \"Cantidad de beneficiarios de la observaci\\u00f3n\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-04-11T14:58:38.999453",
+      "datastore_active": false,
+      "description": "Personas de CABA entre 18 y 60 años de edad, con certificado de discapacidad beneficiarias del Programa de Apoyo para la Vida Independiente",
+      "fileName": "apoy_vi_sexo__annio__g_edad_limpio.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "ae0e6163-f2f6-44c9-829f-9de9c531bb52",
+      "last_modified": "2019-04-11T14:58:38.999453",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Beneficiarios del \"Programa para la Vida Independiente\"",
+      "package_id": "c3e21c95-707c-47aa-9d31-fd710282209e",
+      "position": 1,
+      "resource_type": "file",
+      "revision_id": "90cd5fa6-9423-4ad7-86d4-8b3e7e6e6ccd",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/SIGBA/Programa_para_la_Vida_Independiente/apoy_vi_sexo__annio__g_edad_limpio.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/c3e21c95-707c-47aa-9d31-fd710282209e/resource/e7a46b5d-b5a3-48f5-8389-495c10df3788",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-04-11T14:56:25.835122",
+      "datastore_active": false,
+      "description": "Relación entre la cantidad de mujeres de CABA entre 18 y 60 años de edad, con certificado de discapacidad beneficiarias del Programa de Apoyo para la Vida Independiente, y el total de beneficiarios",
+      "fileName": "porc_muj_vi_annio__g_edad_limpio.xlsx",
+      "format": "XLSX",
+      "hash": "",
+      "id": "e7a46b5d-b5a3-48f5-8389-495c10df3788-xlsx",
+      "last_modified": "2019-04-11T14:56:25.835122",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Beneficiarias del \"Programa para la Vida Independiente\" (XLSX)",
+      "package_id": "c3e21c95-707c-47aa-9d31-fd710282209e",
+      "position": 2,
+      "resource_type": "file",
+      "revision_id": "90398418-e40d-43ec-ab1a-fcc66ee762f3",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/SIGBA/Programa_para_la_Vida_Independiente/porc_muj_vi_annio__g_edad_limpio.xlsx",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/c3e21c95-707c-47aa-9d31-fd710282209e/resource/ae0e6163-f2f6-44c9-829f-9de9c531bb52",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-04-11T14:58:38.999453",
+      "datastore_active": false,
+      "description": "Personas de CABA entre 18 y 60 años de edad, con certificado de discapacidad beneficiarias del Programa de Apoyo para la Vida Independiente",
+      "fileName": "apoy_vi_sexo__annio__g_edad_limpio.xlsx",
+      "format": "XLSX",
+      "hash": "",
+      "id": "ae0e6163-f2f6-44c9-829f-9de9c531bb52-xlsx",
+      "last_modified": "2019-04-11T14:58:38.999453",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Beneficiarios del \"Programa para la Vida Independiente\" (XLSX)",
+      "package_id": "c3e21c95-707c-47aa-9d31-fd710282209e",
+      "position": 3,
+      "resource_type": "file",
+      "revision_id": "aa100060-2fa9-468f-9766-e20f4115e322",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/SIGBA/Programa_para_la_Vida_Independiente/apoy_vi_sexo__annio__g_edad_limpio.xlsx",
+      "url_type": null
+    }
+  ],
+  "revision_id": "b607668e-697d-462f-a41b-f3390329f468",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "discapacidad",
+      "id": "7cce0e3b-ce22-4bb8-bfd4-22a5c59ab66b",
+      "name": "discapacidad",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "oportunidades",
+      "id": "16141754-9061-4b06-b134-29a28b06a4d6",
+      "name": "oportunidades",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Programa para la Vida Independiente",
+  "type": "dataset",
+  "url": "https://data.buenosaires.gob.ar/dataset/programa-para-la-vida-independiente",
+  "version": null
+}

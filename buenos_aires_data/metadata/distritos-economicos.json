@@ -1,0 +1,254 @@
+{
+  "author": "Ministerio de Hacienda y Finanzas",
+  "author_email": "datosabiertos@buenosaires.gob.ar",
+  "creator_user_id": "e4546f46-e966-493c-b2f1-57318502c41b",
+  "extras": [
+    {
+      "key": "Documentación",
+      "value": ""
+    },
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P1Y"
+    },
+    {
+      "key": "country",
+      "value": "None"
+    },
+    {
+      "key": "district",
+      "value": ""
+    },
+    {
+      "key": "home_featured",
+      "value": "false"
+    },
+    {
+      "key": "issued",
+      "value": "2019-01-08T14:55:58.111547"
+    },
+    {
+      "key": "language",
+      "value": "[]"
+    },
+    {
+      "key": "modified",
+      "value": "2021-03-05T10:27:13.671585"
+    },
+    {
+      "key": "province",
+      "value": ""
+    },
+    {
+      "key": "source",
+      "value": "Subgerencia de Información Geoespacial. DG Ciencias de la Información. SS de Políticas Públicas Basadas en Evidencia. Secretaría de Innovación y Transformación Digital. Jefatura de Gabinete de Ministros"
+    },
+    {
+      "key": "spatial",
+      "value": "None"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"ECON\"]"
+    },
+    {
+      "key": "temporal",
+      "value": ""
+    }
+  ],
+  "groups": [
+    {
+      "description": "Datasets relacionados con la economía y las finanzas",
+      "display_name": "Economía y Finanzas",
+      "id": "64da4336-6da7-4494-80c0-365016597e9e",
+      "image_display_url": "https://data.buenosaires.gob.ar/uploads/group/2019-11-16-144934.521128economia.png",
+      "name": "economia-y-finanzas",
+      "title": "Economía y Finanzas"
+    }
+  ],
+  "id": "juqdkmgo-74",
+  "isopen": true,
+  "license_id": "CC-BY-2.5-AR",
+  "license_title": "Atribucion 2.5 Argentina (CC BY 2.5 AR)",
+  "license_url": "https://creativecommons.org/licenses/by/2.5/ar ",
+  "maintainer": "Gerencia Operativa de Ingeniería de Datos. DG Arquitectura de Datos. SS de Políticas Públicas Basadas en Evidencia. Secretaría de Innovación y Transformación Digital. Jefatura de Gabinete de Ministros",
+  "maintainer_email": "datosabiertos@buenosaires.gob.ar",
+  "metadata_created": "2019-12-11T18:19:11.286508",
+  "metadata_modified": "2021-03-05T13:27:13.684200",
+  "name": "distritos-economicos",
+  "notes": "Delimitación de los distritos Audiovisual, de Diseño, de las Artes y Tecnológico de la Ciudad.",
+  "num_resources": 4,
+  "num_tags": 7,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-11-15T19:19:36.584582",
+    "description": "",
+    "id": "6627a918-f475-43bb-b167-11de01ae62df",
+    "image_url": "",
+    "is_organization": true,
+    "name": "ministerio-de-economia-y-finanzas",
+    "revision_id": "57d30234-7d4b-4b19-a2fa-1a57afc0e03b",
+    "state": "active",
+    "title": "Ministerio de Hacienda y Finanzas",
+    "type": "organization"
+  },
+  "owner_org": "6627a918-f475-43bb-b167-11de01ae62df",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/distritos-economicos",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-01-08T14:55:58.111547",
+      "datastore_active": false,
+      "description": "Localización y límites geográficos de los distritos de la Ciudad de Buenos Aires.",
+      "fileName": "distritos-economicos.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "juqdkmgo-741-resource",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Distritos Económicos",
+      "package_id": "juqdkmgo-74",
+      "position": 0,
+      "resource_type": "file",
+      "revision_id": "f6395772-6091-47b8-98cd-c6f2be19c7d1",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/distritos-economicos/distritos-economicos.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/distritos-economicos",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-01-08T14:55:58.111547",
+      "datastore_active": false,
+      "description": "Archivo shapefile con los distritos económicos.",
+      "fileName": "distritos-economicos-zip.zip",
+      "format": "ZIP",
+      "hash": "",
+      "id": "juqdkmgo-742-resource",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Distritos Económicos (SHP)",
+      "package_id": "juqdkmgo-74",
+      "position": 1,
+      "resource_type": "file",
+      "revision_id": "4dae5ed1-9742-43d0-8770-f068f00a12e8",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/distritos-economicos/distritos-economicos-zip.zip",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/distritos-economicos",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-01-08T14:55:58.111547",
+      "datastore_active": false,
+      "description": "Archivo geojson con los distritos económicos.",
+      "fileName": "distritos_economicos.geojson",
+      "format": "GeoJSON",
+      "hash": "",
+      "id": "juqdkmgo-743-resource",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Distritos Económicos (GeoJSON)",
+      "package_id": "juqdkmgo-74",
+      "position": 2,
+      "resource_type": "file",
+      "revision_id": "c4f69642-4f10-449e-a6aa-eedbc7dbd8ee",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/distritos-economicos/distritos_economicos.geojson",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/distritos-economicos",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-01-08T14:55:58.111547",
+      "datastore_active": false,
+      "description": "Localización y límites geográficos de los distritos de la Ciudad de Buenos Aires.",
+      "fileName": "distritos-economicos.xlsx",
+      "format": "XLSX",
+      "hash": "",
+      "id": "juqdkmgo-741-resource-xlsx",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Distritos Económicos (XLSX)",
+      "package_id": "juqdkmgo-74",
+      "position": 3,
+      "resource_type": "file",
+      "revision_id": "e542c7dd-bd06-4087-b55e-48c3e216950f",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/distritos-economicos/distritos-economicos.xlsx",
+      "url_type": null
+    }
+  ],
+  "revision_id": "8a9a7d4f-9da1-4a54-bfe0-8864c317251a",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "arte",
+      "id": "3a5b2d93-997d-455b-a554-82199c0d5d81",
+      "name": "arte",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "audiovisual",
+      "id": "079520bb-1536-4d30-ac01-13ace3603d3c",
+      "name": "audiovisual",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "diseño",
+      "id": "a83564e0-357c-4a36-9215-bd2255a72fef",
+      "name": "diseño",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "distritos",
+      "id": "5c2ab567-1a18-479d-819e-9463722973a2",
+      "name": "distritos",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "división-territorial",
+      "id": "f55cbbf9-9051-43ad-ab2a-16fdf56b6a99",
+      "name": "división-territorial",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "mapa",
+      "id": "2c83da8e-2e03-47e6-aee4-bb965600000d",
+      "name": "mapa",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "urbanismo",
+      "id": "17ac67e7-699b-470d-b0dd-5b8752c1fb73",
+      "name": "urbanismo",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Distritos Económicos",
+  "type": "dataset",
+  "url": "https://data.buenosaires.gob.ar/dataset/distritos-economicos",
+  "version": null
+}

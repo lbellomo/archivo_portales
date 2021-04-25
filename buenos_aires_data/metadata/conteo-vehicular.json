@@ -1,0 +1,176 @@
+{
+  "author": "Ministerio de Desarrollo Urbano y Transporte. Secretaría Transporte. SS Tránsito y Transporte. DG Planificación de la Movilidad.",
+  "author_email": "gobiernoabierto@buenosaires.gob.ar",
+  "creator_user_id": "e4546f46-e966-493c-b2f1-57318502c41b",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P1Y"
+    },
+    {
+      "key": "issued",
+      "value": "2019-09-02T17:50:07.693159"
+    },
+    {
+      "key": "language",
+      "value": "[\"SPA\"]"
+    },
+    {
+      "key": "modified",
+      "value": "2019-09-02T17:50:07.693159"
+    },
+    {
+      "key": "source",
+      "value": "Ministerio de Desarrollo Urbano y Transporte. Secretaría Transporte. SS Tránsito y Transporte. DG Planificación de la Movilidad."
+    },
+    {
+      "key": "spatial",
+      "value": "02"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"TRAN\"]"
+    }
+  ],
+  "groups": [
+    {
+      "description": "",
+      "display_name": "Movilidad",
+      "id": "e616e02e-64d8-4fb0-b55d-08e75eb58376",
+      "image_display_url": "https://data.buenosaires.gob.ar/uploads/group/2019-11-16-145017.234366movilidad.png",
+      "name": "movilidad",
+      "title": "Movilidad"
+    }
+  ],
+  "id": "8ab1f7f9-89ba-4550-830b-25f418bcd328",
+  "isopen": true,
+  "license_id": "CC-BY-2.5-AR",
+  "license_title": "Atribucion 2.5 Argentina (CC BY 2.5 AR)",
+  "license_url": "https://creativecommons.org/licenses/by/2.5/ar ",
+  "maintainer": "Secretaría General y Relaciones Internacionales. Subsecretaría Gestión Estratégica y Calidad Institucional. Dirección General Calidad Institucional y Gobierno Abierto",
+  "maintainer_email": "gobiernoabierto@buenosaires.gob.ar",
+  "metadata_created": "2019-12-11T18:16:58.888328",
+  "metadata_modified": "2020-12-17T15:58:34.182025",
+  "name": "conteo-vehicular",
+  "notes": "Información de conteo sobre el paso de vehículos en diferentes cruces de calles de la Ciudad.",
+  "num_resources": 2,
+  "num_tags": 6,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-11-15T19:19:49.916928",
+    "description": "",
+    "id": "56b60b46-a47c-48fb-9bd4-c2ad0e05fef2",
+    "image_url": "",
+    "is_organization": true,
+    "name": "transporte-y-obras-publicas",
+    "revision_id": "c33c86a3-e197-468f-8b66-5b943b3bf106",
+    "state": "active",
+    "title": "Secretaría de Transporte y Obras Públicas",
+    "type": "organization"
+  },
+  "owner_org": "56b60b46-a47c-48fb-9bd4-c2ad0e05fef2",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/8ab1f7f9-89ba-4550-830b-25f418bcd328/resource/33841b35-22e6-48f1-9ef4-96844fae0037",
+      "attributesDescription": "[{\"title\": \"cruce\", \"type\": \"string\", \"description\": \"Cruce de calles donde se realiz\\u00f3 el conteo de veh\\u00edculos\"}, {\"title\": \"fecha\", \"description\": \"fecha del conteo\"}, {\"title\": \"hora_inicio\", \"type\": \"integer\", \"description\": \"hora inicio del conteo\"}, {\"title\": \"hora_final\", \"type\": \"integer\", \"description\": \"hora final del conteo\"}, {\"title\": \"liviano\", \"type\": \"integer\", \"description\": \"cantidad de veh\\u00edculos livianos que pasaron por el cruce\"}, {\"title\": \"pesado\", \"type\": \"integer\", \"description\": \"cantidad de veh\\u00edculos pesados que pasaron por el cruce\"}, {\"title\": \"colectivos\", \"type\": \"integer\", \"description\": \"cantidad de veh\\u00edculos pesados que pasaron por el cruce\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-09-02T17:59:38.513180",
+      "datastore_active": false,
+      "description": "Información de paso de vehículos en diferentes puntos de la Ciudad. El conteo esta discriminado según vehículos livianos, vehículos pesados y colectivos.",
+      "fileName": "conteo-vehicular.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "33841b35-22e6-48f1-9ef4-96844fae0037",
+      "last_modified": "2019-09-02T17:59:38.513180",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Cantidad Vehículos",
+      "package_id": "8ab1f7f9-89ba-4550-830b-25f418bcd328",
+      "position": 0,
+      "resource_type": "file",
+      "revision_id": "ed7ca1f7-9361-443c-b6be-2fb82b1954ea",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/conteo-vehicular/conteo-vehicular.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/8ab1f7f9-89ba-4550-830b-25f418bcd328/resource/33841b35-22e6-48f1-9ef4-96844fae0037",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-09-02T17:59:38.513180",
+      "datastore_active": false,
+      "description": "Información de paso de vehículos en diferentes puntos de la Ciudad. El conteo esta discriminado según vehículos livianos, vehículos pesados y colectivos.",
+      "fileName": "conteo-vehicular.xlsx",
+      "format": "XLSX",
+      "hash": "",
+      "id": "33841b35-22e6-48f1-9ef4-96844fae0037-xlsx",
+      "last_modified": "2019-09-02T17:59:38.513180",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Cantidad Vehículos (XLSX)",
+      "package_id": "8ab1f7f9-89ba-4550-830b-25f418bcd328",
+      "position": 1,
+      "resource_type": "file",
+      "revision_id": "9602b5fc-290c-4a3b-b94d-3cf10615b343",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/conteo-vehicular/conteo-vehicular.xlsx",
+      "url_type": null
+    }
+  ],
+  "revision_id": "a15eba2c-a747-4a16-8fcb-44adb51be9fa",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "autos",
+      "id": "a2cecddb-3395-4220-b42f-d22235ca8a74",
+      "name": "autos",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "conteo",
+      "id": "0363f457-787e-4ba8-ba0c-cadd61e8fdc9",
+      "name": "conteo",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "livianos",
+      "id": "84d3d8c9-c921-431d-a85a-87cd2df5c077",
+      "name": "livianos",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "pesados",
+      "id": "d6d81dce-ed5c-4a5f-8478-cf88156ebe5f",
+      "name": "pesados",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "transito",
+      "id": "660a375e-7f64-4171-81da-ea429c603ac3",
+      "name": "transito",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "vehiculos",
+      "id": "f7905507-f78f-445f-aa47-6c82d852af49",
+      "name": "vehiculos",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Conteo Vehicular",
+  "type": "dataset",
+  "url": "https://data.buenosaires.gob.ar/dataset/conteo-vehicular",
+  "version": null
+}

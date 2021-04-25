@@ -1,0 +1,194 @@
+{
+  "author": "Ministerio de Ambiente y Espacio Público. SS Mantenimiento del Espacio Público. DG Espacios Verdes",
+  "author_email": "gobiernoabierto@buenosaires.gob.ar",
+  "creator_user_id": "e4546f46-e966-493c-b2f1-57318502c41b",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P1Y"
+    },
+    {
+      "key": "issued",
+      "value": "2019-01-08T14:52:00.770400"
+    },
+    {
+      "key": "language",
+      "value": "[\"SPA\"]"
+    },
+    {
+      "key": "modified",
+      "value": "2019-05-16T14:52:52.799442"
+    },
+    {
+      "key": "source",
+      "value": "Ministerio de Educación e Innovación. Secretaría de Ciencia, Tecnología e Innovación. SS de Ciudad Inteligente y Tecnología Educativa. DG Ciencias de la Información. Unidad de Sistemas de Información Geográfica (USIG)"
+    },
+    {
+      "key": "spatial",
+      "value": "02"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"ENVI\"]"
+    }
+  ],
+  "groups": [
+    {
+      "description": "",
+      "display_name": "Medioambiente",
+      "id": "a99c1197-8379-4a60-a6eb-8737cab5ec4f",
+      "image_display_url": "https://data.buenosaires.gob.ar/uploads/group/2019-11-16-145003.550663medioambiente.png",
+      "name": "medioambiente",
+      "title": "Medioambiente"
+    }
+  ],
+  "id": "juqdkmgo-7",
+  "isopen": true,
+  "license_id": "CC-BY-2.5-AR",
+  "license_title": "Atribucion 2.5 Argentina (CC BY 2.5 AR)",
+  "license_url": "https://creativecommons.org/licenses/by/2.5/ar ",
+  "maintainer": "Secretaría General y Relaciones Internacionales. Subsecretaría Gestión Estratégica y Calidad Institucional. Dirección General Calidad Institucional y Gobierno Abierto",
+  "maintainer_email": "gobiernoabierto@buenosaires.gob.ar",
+  "metadata_created": "2019-12-11T18:05:31.817639",
+  "metadata_modified": "2020-12-17T15:18:23.077677",
+  "name": "arbolado-espacios-verdes",
+  "notes": "Información correspondiente al censo de arbolado de alineación realizado durante el año 2011.",
+  "num_resources": 3,
+  "num_tags": 5,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-11-15T19:16:29.440170",
+    "description": "",
+    "id": "d3293f04-e51f-4235-95ca-ee4566322496",
+    "image_url": "",
+    "is_organization": true,
+    "name": "ministerio-de-espacio-publico-e-higiene-urbana",
+    "revision_id": "d10fc1d4-0543-46ca-b027-a9ebc285c6b3",
+    "state": "active",
+    "title": "Ministerio de Espacio Público e Higiene Urbana",
+    "type": "organization"
+  },
+  "owner_org": "d3293f04-e51f-4235-95ca-ee4566322496",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/arbolado-en-espacios-verdes",
+      "attributesDescription": "[{\"title\": \"longitud\", \"type\": \"integer\", \"description\": \"Coordenadas para geolocalizaci\\u00f3n\"}, {\"title\": \"latitud\", \"type\": \"integer\", \"description\": \"Coordenadas para geolocalizaci\\u00f3n\"}, {\"title\": \"tipo_sitio\", \"type\": \"string\", \"description\": \"Tipo de evento relevado\"}, {\"title\": \"id_arbol\", \"type\": \"integer\", \"description\": \"Identificador \\u00fanico del \\u00e1rbol\"}, {\"title\": \"altura_tot\", \"type\": \"integer\", \"description\": \"Altura relevada del \\u00e1rbol\"}, {\"title\": \"diametro\", \"type\": \"integer\", \"description\": \"Di\\u00e1metro relevado del \\u00e1rbol\"}, {\"title\": \"inclinacio\", \"type\": \"integer\", \"description\": \"Inclinaci\\u00f3n relevada del \\u00e1rbol\"}, {\"title\": \"id_especie\", \"type\": \"integer\", \"description\": \"Identificador de la especie\"}, {\"title\": \"nombre_fam\", \"type\": \"string\", \"description\": \"Nombre de la familia del \\u00e1rbol\"}, {\"title\": \"nombre_gen\", \"type\": \"string\", \"description\": \"Nombre del g\\u00e9nero del \\u00e1rbol\"}, {\"title\": \"nombre_cie\", \"type\": \"string\", \"description\": \"Nombre cient\\u00edfico del \\u00e1rbol\"}, {\"title\": \"nombre_com\", \"type\": \"string\", \"description\": \"Nombre com\\u00fan del \\u00e1rbol\"}, {\"title\": \"tipo_folla\", \"type\": \"string\", \"description\": \"Tipo de follaje del \\u00e1rbol\"}, {\"title\": \"origen\", \"type\": \"string\", \"description\": \"Origen del \\u00e1rbol\"}, {\"title\": \"codigo_man\", \"type\": \"string\", \"description\": \"C\\u00f3digo de la Manzana en la que est\\u00e1 ubicado el \\u00e1rbol\"}, {\"title\": \"barrio\", \"type\": \"string\", \"description\": \"Barrio en el que est\\u00e1 ubicado el \\u00e1rbol\"}, {\"title\": \"comuna\", \"type\": \"string\", \"description\": \"Comuna en la que esta ubciado el \\u00e1rbol\"}, {\"title\": \"calle\", \"type\": \"string\", \"description\": \"Calle relevada en donde se encuentra el \\u00e1rbol\"}, {\"title\": \"chapa1\", \"type\": \"integer\", \"description\": \"N\\u00famero de la chapa del frente en donde se encuentra el \\u00e1rbol\"}, {\"title\": \"chapa2\", \"type\": \"integer\", \"description\": \"N\\u00famero de la chapa alternativo del frente en donde se encuentra el \\u00e1rbol\"}, {\"title\": \"long_calle\", \"type\": \"integer\", \"description\": \"Longitud de la calle donde se encuentra el \\u00e1rbol\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-04-17T15:00:39.676868",
+      "datastore_active": true,
+      "description": "Información geolocalizada de los árboles en espacios verdes (jardín, parque, patio recreativo, plaza, plazoleta, cantero y polideportivo) de la Ciudad según su especie.",
+      "fileName": "arbolado-en-espacios-verdes.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "juqdkmgo-71-resource",
+      "last_modified": "2019-04-17T15:00:39.676868",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Arbolado en Espacios Verdes",
+      "package_id": "juqdkmgo-7",
+      "position": 0,
+      "resource_type": "file",
+      "revision_id": "8f80da8c-40ba-431c-9c0d-41ab65d76cbc",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/arbolado-en-espacios-verdes/arbolado-en-espacios-verdes.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/arbolado-en-espacios-verdes",
+      "attributesDescription": "[{\"title\": \"longitud\", \"type\": \"integer\", \"description\": \"Coordenadas para geolocalizaci\\u00f3n\"}, {\"title\": \"latitud\", \"type\": \"integer\", \"description\": \"Coordenadas para geolocalizaci\\u00f3n\"}, {\"title\": \"tipo_sitio\", \"type\": \"string\", \"description\": \"Tipo de evento relevado\"}, {\"title\": \"id_arbol\", \"type\": \"integer\", \"description\": \"Identificador \\u00fanico del \\u00e1rbol\"}, {\"title\": \"altura_tot\", \"type\": \"integer\", \"description\": \"Altura relevada del \\u00e1rbol\"}, {\"title\": \"diametro\", \"type\": \"integer\", \"description\": \"Di\\u00e1metro relevado del \\u00e1rbol\"}, {\"title\": \"inclinacio\", \"type\": \"integer\", \"description\": \"Inclinaci\\u00f3n relevada del \\u00e1rbol\"}, {\"title\": \"id_especie\", \"type\": \"integer\", \"description\": \"Identificador de la especie\"}, {\"title\": \"nombre_fam\", \"type\": \"string\", \"description\": \"Nombre de la familia del \\u00e1rbol\"}, {\"title\": \"nombre_gen\", \"type\": \"string\", \"description\": \"Nombre del g\\u00e9nero del \\u00e1rbol\"}, {\"title\": \"nombre_cie\", \"type\": \"string\", \"description\": \"Nombre cient\\u00edfico del \\u00e1rbol\"}, {\"title\": \"nombre_com\", \"type\": \"string\", \"description\": \"Nombre com\\u00fan del \\u00e1rbol\"}, {\"title\": \"tipo_folla\", \"type\": \"string\", \"description\": \"Tipo de follaje del \\u00e1rbol\"}, {\"title\": \"origen\", \"type\": \"string\", \"description\": \"Origen del \\u00e1rbol\"}, {\"title\": \"codigo_man\", \"type\": \"string\", \"description\": \"C\\u00f3digo de la manzana en la que est\\u00e1 ubicado el \\u00e1rbol\"}, {\"title\": \"barrio\", \"type\": \"string\", \"description\": \"Barrio en el que est\\u00e1 ubicado el \\u00e1rbol\"}, {\"title\": \"comuna\", \"type\": \"string\", \"description\": \"Comuna en la que esta ubciado el \\u00e1rbol\"}, {\"title\": \"calle\", \"type\": \"string\", \"description\": \"Calle relevada en donde se encuentra el \\u00e1rbol\"}, {\"title\": \"chapa1\", \"type\": \"integer\", \"description\": \"N\\u00famero de la chapa del frente en donde se encuentra el \\u00e1rbol\"}, {\"title\": \"chapa2\", \"type\": \"integer\", \"description\": \"N\\u00famero de la chapa alternativo del frente en donde se encuentra el \\u00e1rbol\"}, {\"title\": \"long_calle\", \"type\": \"integer\", \"description\": \"Longitud de la calle donde se encuentra el \\u00e1rbol\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-04-17T15:14:29.134090",
+      "datastore_active": false,
+      "description": "Archivo shapefile de los árboles en espacios verdes (jardín, parque, patio recreativo, plaza, plazoleta, cantero y polideportivo) de la Ciudad según su especie.",
+      "fileName": "arbolado-en-espacios-verdes-zip.zip",
+      "format": "ZIP",
+      "hash": "",
+      "id": "juqdkmgo-72-resource",
+      "last_modified": "2019-04-17T15:14:29.134090",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Arbolado en Espacios Verdes (SHP)",
+      "package_id": "juqdkmgo-7",
+      "position": 1,
+      "resource_type": "file",
+      "revision_id": "e94df891-07eb-4c4e-b12f-728c0e94a19c",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/arbolado-en-espacios-verdes/arbolado-en-espacios-verdes-zip.zip",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/arbolado-en-espacios-verdes",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-04-17T15:00:39.676868",
+      "datastore_active": true,
+      "description": "Información geolocalizada de los árboles en espacios verdes (jardín, parque, patio recreativo, plaza, plazoleta, cantero y polideportivo) de la Ciudad según su especie.",
+      "fileName": "arbolado-en-espacios-verdes.xlsx",
+      "format": "XLSX",
+      "hash": "",
+      "id": "juqdkmgo-71-resource-xlsx",
+      "last_modified": "2019-04-17T15:00:39.676868",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Arbolado en Espacios Verdes (XLSX)",
+      "package_id": "juqdkmgo-7",
+      "position": 2,
+      "resource_type": "file",
+      "revision_id": "888bd314-6037-4ed4-8296-77a7abb73b66",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/arbolado-en-espacios-verdes/arbolado-en-espacios-verdes.xlsx",
+      "url_type": null
+    }
+  ],
+  "revision_id": "7bab436c-0718-4596-9d10-ddf15b88dd72",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "arbolado",
+      "id": "3c903b9f-91c4-4c20-a333-09927ae4c1c9",
+      "name": "arbolado",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "censo",
+      "id": "9d6548d3-8cb7-432f-a405-1d59ae23ff66",
+      "name": "censo",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "fitosanitario",
+      "id": "06370868-491f-473a-a1f3-5527815cfa45",
+      "name": "fitosanitario",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "poda",
+      "id": "c6eb95f9-da21-41c5-a499-7ea900795dfe",
+      "name": "poda",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "árboles",
+      "id": "9962a800-1b84-41c2-ba19-0404e767685e",
+      "name": "árboles",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Arbolado en espacios verdes",
+  "type": "dataset",
+  "url": "https://data.buenosaires.gob.ar/dataset/arbolado-espacios-verdes",
+  "version": null
+}

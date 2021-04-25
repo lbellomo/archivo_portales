@@ -1,0 +1,313 @@
+{
+  "author": "Secretaría de Ambiente. Agencia de Protección Ambiental (APrA). Dirección General de Evaluación Ambiental (DGEVA)",
+  "author_email": "datosabiertos@buenosaires.gob.ar",
+  "creator_user_id": "e4546f46-e966-493c-b2f1-57318502c41b",
+  "extras": [
+    {
+      "key": "Documentación",
+      "value": ""
+    },
+    {
+      "key": "accrualPeriodicity",
+      "value": "eventual"
+    },
+    {
+      "key": "country",
+      "value": "None"
+    },
+    {
+      "key": "district",
+      "value": ""
+    },
+    {
+      "key": "home_featured",
+      "value": "false"
+    },
+    {
+      "key": "issued",
+      "value": "2019-05-28T14:38:22.485922"
+    },
+    {
+      "key": "language",
+      "value": "[]"
+    },
+    {
+      "key": "modified",
+      "value": "2021-02-26T17:52:24.567220"
+    },
+    {
+      "key": "province",
+      "value": ""
+    },
+    {
+      "key": "source",
+      "value": "Ministerio de Educación e Innovación. Secretaría de Ciencia, Tecnología e Innovación. Subsecretaría de Ciudad Inteligente. Direccion General Ciencias de la Información. Unidad de Sistemas de Información Geográfica (USIG)"
+    },
+    {
+      "key": "spatial",
+      "value": "None"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"ENVI\"]"
+    },
+    {
+      "key": "temporal",
+      "value": ""
+    }
+  ],
+  "groups": [
+    {
+      "description": "",
+      "display_name": "Medioambiente",
+      "id": "a99c1197-8379-4a60-a6eb-8737cab5ec4f",
+      "image_display_url": "https://data.buenosaires.gob.ar/uploads/group/2019-11-16-145003.550663medioambiente.png",
+      "name": "medioambiente",
+      "title": "Medioambiente"
+    }
+  ],
+  "id": "399ca785-04d7-48e6-a060-7951fff30745",
+  "isopen": true,
+  "license_id": "CC-BY-2.5-AR",
+  "license_title": "Atribucion 2.5 Argentina (CC BY 2.5 AR)",
+  "license_url": "https://creativecommons.org/licenses/by/2.5/ar ",
+  "maintainer": "Secretaría General y Relaciones Internacionales. Subsecretaría Gestión Estratégica y Calidad Institucional. Dirección General Calidad Institucional y Gobierno Abierto",
+  "maintainer_email": "datosabiertos@buenosaires.gob.ar",
+  "metadata_created": "2019-12-11T18:07:07.111499",
+  "metadata_modified": "2021-02-26T20:52:24.600690",
+  "name": "mapa-ruido",
+  "notes": "Contiene información sobre estimaciones de niveles de ruido diurno y nocturno en la Ciudad de Buenos Aires.",
+  "num_resources": 6,
+  "num_tags": 8,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-11-15T19:17:10.767872",
+    "description": "",
+    "id": "87797715-09c9-4b3e-9af6-074850fba840",
+    "image_url": "",
+    "is_organization": true,
+    "name": "agencia-de-proteccion-ambiental",
+    "revision_id": "31d4bbad-1773-4015-9f8e-2e040bc7900a",
+    "state": "active",
+    "title": "Agencia de Protección Ambiental",
+    "type": "organization"
+  },
+  "owner_org": "87797715-09c9-4b3e-9af6-074850fba840",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/399ca785-04d7-48e6-a060-7951fff30745/resource/ce377913-43ac-4686-b244-0ac4c55012da",
+      "attributesDescription": "[{\"title\": \"wkt\", \"type\": \"string\", \"description\": \"Objeto geogr\\u00e1fico del tipo multipolygon, que detalla la zona asociada a la estimaci\\u00f3n de decibeles de cada fila.\"}, {\"title\": \"limite_inferior_rango_db\", \"type\": \"integer\", \"description\": \"Limite inferior del rango estimado de decibeles\"}, {\"title\": \"limite_superior_rango_db\", \"type\": \"integer\", \"description\": \"Limite superior del rango estimado de decibeles\"}, {\"title\": \"comuna\", \"type\": \"string\", \"description\": \"Comuna asociada a la medici\\u00f3n\"}, {\"title\": \"leyenda\", \"type\": \"string\", \"description\": \"Leyenda asociada a la estimaci\\u00f3n\"}, {\"title\": \"rango_db\", \"type\": \"string\", \"description\": \"Rango de decibeles estimado en cada zona geogr\\u00e1fica\"}, {\"title\": \"color\", \"type\": \"integer\", \"description\": \"Color asociado al rango de decibeles expresado en formato RGB\"}, {\"title\": \"periodo\", \"type\": \"string\", \"description\": \"Per\\u00edodo de la medici\\u00f3n\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-05-28T15:25:37.000267",
+      "datastore_active": false,
+      "description": "Información de estimaciones de ruido diurno en la Ciudad de Buenos Aires",
+      "fileName": "mapa_de_ruido_diurno.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "ce377913-43ac-4686-b244-0ac4c55012da",
+      "last_modified": "2019-05-28T15:25:37.000267",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Mapa de Ruido Diurno 2018",
+      "package_id": "399ca785-04d7-48e6-a060-7951fff30745",
+      "position": 0,
+      "resource_type": "file",
+      "revision_id": "ab671d90-c3f2-43a5-adaa-11f499e5689a",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos//datasets/mapa-del-ruido/mapa_de_ruido_diurno.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/399ca785-04d7-48e6-a060-7951fff30745/resource/cc46de8c-04a9-49b1-8329-2dd800dd2a49",
+      "attributesDescription": "[{\"title\": \"wkt\", \"type\": \"string\", \"description\": \"Objeto geogr\\u00e1fico del tipo multipolygon, que detalla la zona asociada a la estimaci\\u00f3n de decibeles de cada fila.\"}, {\"title\": \"limite_inferior_rango_db\", \"type\": \"string\", \"description\": \"Limite inferior del rango estimado de decibeles\"}, {\"title\": \"limite_superior_rango_db\", \"type\": \"integer\", \"description\": \"Limite superior del rango estimado de decibeles\"}, {\"title\": \"comuna\", \"type\": \"string\", \"description\": \"Comuna asociada a la medici\\u00f3n\"}, {\"title\": \"leyenda\", \"type\": \"string\", \"description\": \"Leyenda asociada a la estimaci\\u00f3n\"}, {\"title\": \"rango_db\", \"type\": \"string\", \"description\": \"Rango de decibeles estimado en cada zona geogr\\u00e1fica\"}, {\"title\": \"color\", \"type\": \"integer\", \"description\": \"Color asociado al rango de decibeles expresado en formato RGB\"}, {\"title\": \"periodo\", \"description\": \"Per\\u00edodo de la medici\\u00f3n\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-05-28T15:25:52.941104",
+      "datastore_active": false,
+      "description": "Información de estimaciones de ruido nocturno en la Ciudad de Buenos Aires",
+      "fileName": "mapa_de_ruido_nocturno.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "cc46de8c-04a9-49b1-8329-2dd800dd2a49",
+      "last_modified": "2019-05-28T15:25:52.941104",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Mapa de Ruido Nocturno 2018",
+      "package_id": "399ca785-04d7-48e6-a060-7951fff30745",
+      "position": 1,
+      "resource_type": "file",
+      "revision_id": "76257855-2467-4e8f-9d95-88988e6c8cc4",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos//datasets/mapa-del-ruido/mapa_de_ruido_nocturno.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/399ca785-04d7-48e6-a060-7951fff30745/resource/03a4ffa6-e8ee-4766-b409-a24c0021253c",
+      "attributesDescription": "[{\"title\": \"limite_inferior_rango_db\", \"type\": \"integer\", \"description\": \"Limite inferior del rango estimado de decibeles\"}, {\"title\": \"limite_superior_rango_db\", \"type\": \"integer\", \"description\": \"Limite superior del rango estimado de decibeles\"}, {\"title\": \"comuna\", \"type\": \"integer\", \"description\": \"Comuna asociada a la medici\\u00f3n\"}, {\"title\": \"leyenda\", \"type\": \"string\", \"description\": \"Leyenda asociada a la estimaci\\u00f3n\"}, {\"title\": \"rango_db\", \"type\": \"string\", \"description\": \"Rango de decibeles estimado en cada zona geogr\\u00e1fica\"}, {\"title\": \"color\", \"type\": \"integer\", \"description\": \"Color asociado al rango de decibeles expresado en formato RGB\"}, {\"title\": \"periodo\", \"type\": \"string\", \"description\": \"Per\\u00edodo de la medici\\u00f3n\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-05-28T15:32:37.551657",
+      "datastore_active": false,
+      "description": "Archivo Shape con la información de las estimaciones de ruido diurno en la Ciudad de Buenos Aires",
+      "fileName": "mapa_de_ruido_diurno.zip",
+      "format": "ZIP",
+      "hash": "",
+      "id": "03a4ffa6-e8ee-4766-b409-a24c0021253c",
+      "last_modified": "2019-05-28T15:32:37.551657",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Mapa de Ruido Diurno 2018 (SHP)",
+      "package_id": "399ca785-04d7-48e6-a060-7951fff30745",
+      "position": 2,
+      "resource_type": "file",
+      "revision_id": "6446b508-4708-4605-94d3-e784f15ddecf",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/mapa-del-ruido/shp-diurno/mapa_de_ruido_diurno.zip",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/399ca785-04d7-48e6-a060-7951fff30745/resource/9699cd6e-ed6e-4c52-b3c0-266b5d188034",
+      "attributesDescription": "[{\"title\": \"limite_inferior_rango_db\", \"type\": \"integer\", \"description\": \"Limite inferior del rango estimado de decibeles\"}, {\"title\": \"limite_superior_rango_db\", \"type\": \"integer\", \"description\": \"Limite superior del rango estimado de decibeles\"}, {\"title\": \"comuna\", \"type\": \"integer\", \"description\": \"Comuna asociada a la medici\\u00f3n\"}, {\"title\": \"leyenda\", \"type\": \"string\", \"description\": \"Leyenda asociada a la estimaci\\u00f3n\"}, {\"title\": \"rango_db\", \"type\": \"string\", \"description\": \"Rango de decibeles estimado en cada zona geogr\\u00e1fica\"}, {\"title\": \"color\", \"type\": \"integer\", \"description\": \"Color asociado al rango de decibeles expresado en formato RGB\"}, {\"title\": \"periodo\", \"type\": \"string\", \"description\": \"Per\\u00edodo de la medici\\u00f3n\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-05-28T15:32:09.590790",
+      "datastore_active": false,
+      "description": "Archivo Shape con la información de las estimaciones de ruido nocturno en la Ciudad de Buenos Aires",
+      "fileName": "mapa_de_ruido_nocturno.zip",
+      "format": "ZIP",
+      "hash": "",
+      "id": "9699cd6e-ed6e-4c52-b3c0-266b5d188034",
+      "last_modified": "2019-05-28T15:32:09.590790",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Mapa de Ruido Nocturno 2018 (SHP)",
+      "package_id": "399ca785-04d7-48e6-a060-7951fff30745",
+      "position": 3,
+      "resource_type": "file",
+      "revision_id": "4afb81f5-2d08-48a5-805a-053d0b3b6dd4",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/mapa-del-ruido/shp-nocturno/mapa_de_ruido_nocturno.zip",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/399ca785-04d7-48e6-a060-7951fff30745/resource/ce377913-43ac-4686-b244-0ac4c55012da",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-05-28T15:25:37.000267",
+      "datastore_active": false,
+      "description": "Información de estimaciones de ruido diurno en la Ciudad de Buenos Aires",
+      "fileName": "mapa_de_ruido_diurno.xlsx",
+      "format": "XLSX",
+      "hash": "",
+      "id": "ce377913-43ac-4686-b244-0ac4c55012da-xlsx",
+      "last_modified": "2019-05-28T15:25:37.000267",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Mapa de Ruido Diurno 2018 (XLSX)",
+      "package_id": "399ca785-04d7-48e6-a060-7951fff30745",
+      "position": 4,
+      "resource_type": "file",
+      "revision_id": "0eee061a-1432-42ae-984c-cee622bbcccb",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos//datasets/mapa-del-ruido/mapa_de_ruido_diurno.xlsx",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/399ca785-04d7-48e6-a060-7951fff30745/resource/cc46de8c-04a9-49b1-8329-2dd800dd2a49",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-05-28T15:25:52.941104",
+      "datastore_active": false,
+      "description": "Información de estimaciones de ruido nocturno en la Ciudad de Buenos Aires",
+      "fileName": "mapa_de_ruido_nocturno.xlsx",
+      "format": "XLSX",
+      "hash": "",
+      "id": "cc46de8c-04a9-49b1-8329-2dd800dd2a49-xlsx",
+      "last_modified": "2019-05-28T15:25:52.941104",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Mapa de Ruido Nocturno 2018 (XLSX)",
+      "package_id": "399ca785-04d7-48e6-a060-7951fff30745",
+      "position": 5,
+      "resource_type": "file",
+      "revision_id": "daa7a56e-332a-4ee6-9677-df47a6e7a87c",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos//datasets/mapa-del-ruido/mapa_de_ruido_nocturno.xlsx",
+      "url_type": null
+    }
+  ],
+  "revision_id": "cbb0ad7c-3fc6-440b-ab21-3fe9f4e73149",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "SHP",
+      "id": "a3163e3a-e3f4-4fd7-a417-68ee512bf43e",
+      "name": "SHP",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "USIG",
+      "id": "aee9194d-357a-4be9-92dc-231569313d87",
+      "name": "USIG",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "cambio climático",
+      "id": "a6836452-912d-41c2-b324-4eddc98a75c2",
+      "name": "cambio climático",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "decibeles",
+      "id": "8cf3abe8-3bc1-4559-9f4d-e762ac175682",
+      "name": "decibeles",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "diurno",
+      "id": "9ba49351-9ccb-40b7-99aa-7ce081eccba0",
+      "name": "diurno",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "mapa del ruido",
+      "id": "c6634c42-5ae2-489f-b6ad-b34e30f2590d",
+      "name": "mapa del ruido",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "nocturno",
+      "id": "e3c97ab5-5fad-42b9-8742-138e57c36640",
+      "name": "nocturno",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "ruido",
+      "id": "4ea5fad4-050c-4bb1-a149-adc6d4168c8b",
+      "name": "ruido",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Mapa de Ruido",
+  "type": "dataset",
+  "url": "https://data.buenosaires.gob.ar/dataset/mapa-de-ruido",
+  "version": null
+}

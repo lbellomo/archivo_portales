@@ -1,0 +1,314 @@
+{
+  "author": "Subgerencia de Información Geoespacial. DG Ciencias de la Información. SS de Políticas Públicas Basadas en Evidencia. Secretaría de Innovación y Transformación Digital. Jefatura de Gabinete de Ministros",
+  "author_email": "datosabiertos@buenosaires.gob.ar",
+  "creator_user_id": "e4546f46-e966-493c-b2f1-57318502c41b",
+  "extras": [
+    {
+      "key": "Documentación",
+      "value": ""
+    },
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P3M"
+    },
+    {
+      "key": "country",
+      "value": "None"
+    },
+    {
+      "key": "district",
+      "value": ""
+    },
+    {
+      "key": "home_featured",
+      "value": "false"
+    },
+    {
+      "key": "issued",
+      "value": "2019-01-08T14:56:25.832993"
+    },
+    {
+      "key": "language",
+      "value": "[]"
+    },
+    {
+      "key": "modified",
+      "value": "2021-02-26T17:38:47.723211"
+    },
+    {
+      "key": "province",
+      "value": ""
+    },
+    {
+      "key": "source",
+      "value": "Subgerencia de Información Geoespacial. DG Ciencias de la Información. SS de Políticas Públicas Basadas en Evidencia. Secretaría de Innovación y Transformación Digital. Jefatura de Gabinete de Ministros"
+    },
+    {
+      "key": "spatial",
+      "value": "None"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"REGI\"]"
+    },
+    {
+      "key": "temporal",
+      "value": ""
+    }
+  ],
+  "groups": [
+    {
+      "description": "Datasets relacionados con urbanismo y territorio",
+      "display_name": "Urbanismo y Territorio",
+      "id": "63e162a0-3f4a-446a-a60b-601d16f36200",
+      "image_display_url": "https://data.buenosaires.gob.ar/uploads/group/2019-11-16-145056.781692urba.png",
+      "name": "urbanismo-y-territorio",
+      "title": "Urbanismo y Territorio"
+    }
+  ],
+  "id": "juqdkmgo-30",
+  "isopen": true,
+  "license_id": "CC-BY-2.5-AR",
+  "license_title": "Atribucion 2.5 Argentina (CC BY 2.5 AR)",
+  "license_url": "https://creativecommons.org/licenses/by/2.5/ar ",
+  "maintainer": "Gerencia Operativa de Ingeniería de Datos. DG Arquitectura de Datos. SS de Políticas Públicas Basadas en Evidencia. Secretaría de Innovación y Transformación Digital. Jefatura de Gabinete de Ministros",
+  "maintainer_email": "datosabiertos@buenosaires.gob.ar",
+  "metadata_created": "2019-12-11T18:27:44.584954",
+  "metadata_modified": "2021-02-26T20:38:47.736592",
+  "name": "calles",
+  "notes": "Listado de las calles de la Ciudad con su referencia geográfica. Además se incluyen propuestas para utilizar estos datos en QGIS y para Open Street Routing Machine (OSRM)",
+  "num_resources": 5,
+  "num_tags": 8,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-11-15T19:18:19.762924",
+    "description": "",
+    "id": "da366597-5061-4955-9ca6-e93785956e0e",
+    "image_url": "",
+    "is_organization": true,
+    "name": "ministerio-de-educacion",
+    "revision_id": "1b6c27ee-7324-4554-a172-3d2f068e290a",
+    "state": "active",
+    "title": "Ministerio de Educación",
+    "type": "organization"
+  },
+  "owner_org": "da366597-5061-4955-9ca6-e93785956e0e",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/calles",
+      "accessURL_field": "",
+      "attributesDescription": "[{\"title\":\"wkt\",\"description\":\"Código de geocodificación\",\"type\":\"integer\"},{\"title\":\"id\",\"description\":\"Identificador único de cada registro\",\"type\":\"integer\"},{\"title\":\"codigo\",\"description\":\"Código de cada calle\",\"type\":\"date\"},{\"title\":\"nomoficial\",\"description\":\"Nombre de la calle según Boletín Oficial\",\"type\":\"integer\"},{\"title\":\"alt_izqini\",\"description\":\"Altura de calle inicial a mano izquierda\",\"type\":\"integer\"},{\"title\":\"alt_izqfin\",\"description\":\"Altura de calle final a mano izquierda\",\"type\":\"integer\"},{\"title\":\"alt_derini\",\"description\":\"Altura de calle inicial a mano derecha\",\"type\":\"integer\"},{\"title\":\"alt_derfin\",\"description\":\"Altura de calle final a mano derecha\",\"type\":\"integer\"},{\"title\":\"nomanter\",\"description\":\"Nombre anterior de la calle\",\"type\":\"integer\"},{\"title\":\"nom_mapa\",\"description\":\"Nombre de la calle acotado, para el etiquetado de mapas\",\"type\":\"string\"},{\"title\":\"tipo_c\",\"description\":\"Tipo de arteria: calle, avenida, peatonal, etc.\",\"type\":\"string\"},{\"title\":\"long\",\"description\":\"Largo en metros del eje\",\"type\":\"integer\"},{\"title\":\"sentido\",\"description\":\"Sentido que tiene el eje\",\"type\":\"string\"},{\"title\":\"cod_sent\",\"description\":\"Código de sentido del eje\",\"type\":\"integer\"},{\"title\":\"observa\",\"description\":\"Observaciones particulares de cada calle\",\"type\":\"string\"},{\"title\":\"bicisenda\",\"description\":\"Tipo de senda: coclovía, en obra, proyectada, puesta en valor o carril preferencial.\",\"type\":\"string\"},{\"title\":\"lado_ciclo\",\"description\":\"Mano en la que se encuentra la ciclovía (derecha o izquierda)\",\"type\":\"string\"},{\"title\":\"recorrid_x\",\"description\":\"Calle o vereda, según corresponda\",\"type\":\"string\"},{\"title\":\"ciclo_obse\",\"description\":\"Observaciones\",\"type\":\"string\"},{\"title\":\"tooltip_bi\",\"description\":\"Nombre para el etiquetado\",\"type\":\"string\"},{\"title\":\"red_jerarq\",\"description\":\"Clasificación de las vías según criterios de difereciación de los flujos de tránsito en base a las características de los desplazamientos, las condiciones de operación y el tipo de vehículos.\",\"type\":\"string\"},{\"title\":\"red_tp\",\"description\":\"Indica si es red de transito pesado o no\",\"type\":\"string\"},{\"title\":\"ffcc\",\"description\":\"Indica si hay ffcc o no\",\"type\":\"string\"},{\"title\":\"tipo_ffcc\",\"description\":\"Tipo de intersección con el ferrocarril\",\"type\":\"string\"},{\"title\":\"comuna\",\"description\":\"Comuna a la que pertenece cada eje de calles\",\"type\":\"integer\"},{\"title\":\"com_par\",\"description\":\"En ejes de calles que comparten comunas, se corresponde con el lado izquierdo de la calle, siguiendo el sentido\\ncreciente de las alturas.\",\"type\":\"integer\"},{\"title\":\"com_impar\",\"description\":\"En ejes de calles que comparten comunas, se corresponde con el lado derecho de la calle, siguiendo el sentido\\ncreciente de las alturas.\",\"type\":\"integer\"},{\"title\":\"barrio\",\"description\":\"Barrio al que pertenece cada eje de calles\",\"type\":\"string\"},{\"title\":\"barrio_par\",\"description\":\"En ejes de calles que comparten barrios, se corresponde con el lado izquierdo de la calle, siguiendo el sentido\\ncreciente de las alturas\",\"type\":\"string\"},{\"title\":\"barrio_imp\",\"description\":\"En ejes de calles que comparten comunas, se corresponde con el lado derecho de la calle, siguiendo el sentido\\ncreciente de las alturas\",\"type\":\"string\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-04-10T16:37:47.172657",
+      "datastore_active": false,
+      "description": "Referencia geográfica de las calles de la ciudad, incluyendo el sentido de las mismas.",
+      "fileName": "callejero.csv",
+      "format": "CSV",
+      "has-uploaded-file": "",
+      "hash": "",
+      "icon_url": "",
+      "id": "juqdkmgo-301-resource",
+      "issued": "2019-04-10T16:37:47.172657",
+      "last_modified": "2019-04-10T16:37:47.172657",
+      "license_id": "CC-BY-4.0",
+      "mimetype": "text/csv",
+      "mimetype_inner": null,
+      "modified": "2021-01-04",
+      "name": "Callejero",
+      "package_id": "juqdkmgo-30",
+      "position": 0,
+      "resource_type": "file",
+      "revision_id": "4f6e393e-b9cc-4cf4-80d9-af2101ad879f",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/ministerio-de-educacion/calles/callejero.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/calles",
+      "accessURL_field": "",
+      "attributesDescription": "[{\"title\":\"wkt\",\"description\":\"Código de geocodificación\",\"type\":\"integer\"},{\"title\":\"id\",\"description\":\"Identificador único de cada registro\",\"type\":\"integer\"},{\"title\":\"codigo\",\"description\":\"Codigo de cada calle\",\"type\":\"integer\"},{\"title\":\"nomoficial\",\"description\":\"Nombre de calle según Boletín Oficial\",\"type\":\"string\"},{\"title\":\"alt_izqini\",\"description\":\"Altura de calle inicial a mano izquierda\",\"type\":\"integer\"},{\"title\":\"alt_izqfin\",\"description\":\"Altura de calle final a mano izquierda\",\"type\":\"integer\"},{\"title\":\"alt_derini\",\"description\":\"Altura de calle inicial al mano derecha\",\"type\":\"integer\"},{\"title\":\"alt_derfin\",\"description\":\"Altura de calle final a mano derecha\",\"type\":\"integer\"},{\"title\":\"nomanter\",\"description\":\"Nombre anterior de la calle\",\"type\":\"integer\"},{\"title\":\"nom_mapa\",\"description\":\"Nombre de la calle acotado, paa el etiquetado de mapas\",\"type\":\"string\"},{\"title\":\"tipo_c\",\"description\":\"Tipo de arteria: calle, avenida, peatonal, etc\",\"type\":\"string\"},{\"title\":\"long\",\"description\":\"Largo en metros del eje.\",\"type\":\"integer\"},{\"title\":\"sentido\",\"description\":\"Sentido que tiene el eje\",\"type\":\"string\"},{\"title\":\"cod_sent\",\"description\":\"Codigo de sentido del eje\",\"type\":\"integer\"},{\"title\":\"observa\",\"description\":\"Observaciones particulares de cada calle\",\"type\":\"string\"},{\"title\":\"bicisenda\",\"description\":\"Tipo de Senda: ciclovía, en obra, proyectada, puesta en valor o carril preferencial.\",\"type\":\"string\"},{\"title\":\"lado_ciclo\",\"description\":\"Mano en la que se encuentra la Ciclovía (derecha o izquierda)\",\"type\":\"string\"},{\"title\":\"recorrid_x\",\"description\":\"Calle o Vereda, según corresponda\",\"type\":\"string\"},{\"title\":\"ciclo_obse\",\"description\":\"Observaciones\",\"type\":\"string\"},{\"title\":\"tooltip_bi\",\"description\":\"Nombre para el etiquetado\",\"type\":\"string\"},{\"title\":\"red_jerarq\",\"description\":\"Clasificación de las vías según criterios de diferenciación de los flujos de tránsito en base a las características de los\\ndesplazamientos, las condiciones de operación y el tipo de vehículos\",\"type\":\"string\"},{\"title\":\"red_tp\",\"description\":\"Indica si es red de transito pesado o no.\",\"type\":\"string\"},{\"title\":\"ffcc\",\"description\":\"Indica si hay FFCC o no.\",\"type\":\"string\"},{\"title\":\"tipo_ffcc\",\"description\":\"Tipo de intersección con el ferrocarril\",\"type\":\"string\"},{\"title\":\"comuna\",\"description\":\"Comuna a la que pertenece cada eje de calles\",\"type\":\"integer\"},{\"title\":\"com_par\",\"description\":\"En ejes de calles que comparten comunas, se corresponde con el lado izquierdo de la calle, siguiendo el sentido\\ncreciente de las alturas.\",\"type\":\"integer\"},{\"title\":\"com_impar\",\"description\":\"En ejes de calles que comparten comunas, se corresponde con el lado derecho de la calle, siguiendo el sentido\\ncreciente de las alturas.\",\"type\":\"integer\"},{\"title\":\"barrio\",\"description\":\"Barrio al que pertenece cada eje de calles\",\"type\":\"string\"},{\"title\":\"barrio_par\",\"description\":\"En ejes de calles que comparten barrios, se corresponde con el lado izquierdo de la calle, siguiendo el sentido\\ncreciente de las alturas\",\"type\":\"string\"},{\"title\":\"barrio_imp\",\"description\":\"En ejes de calles que comparten comunas, se corresponde con el lado derecho de la calle, siguiendo el sentido\\ncreciente de las alturas\",\"type\":\"\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-04-10T16:50:44.871034",
+      "datastore_active": false,
+      "description": "Archivo shapefile del callejero de la Ciudad.",
+      "fileName": "callejero.zip",
+      "format": "ZIP",
+      "has-uploaded-file": "",
+      "hash": "",
+      "icon_url": "",
+      "id": "juqdkmgo-302-resource",
+      "issued": "2019-04-10T16:50:44.871034",
+      "last_modified": "2019-04-10T16:50:44.871034",
+      "license_id": "CC-BY-4.0",
+      "mimetype": "application/zip",
+      "mimetype_inner": null,
+      "modified": "2021-01-04",
+      "name": "Callejero (SHP)",
+      "package_id": "juqdkmgo-30",
+      "position": 1,
+      "resource_type": "file",
+      "revision_id": "ddfd7b2c-11b9-448a-a4ca-08ea90a672ca",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/ministerio-de-educacion/calles/callejero.zip",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/30/resource/153ba0c6-25d3-4298-b8bb-9a1da5570936",
+      "attributesDescription": "[{\"title\": \"name\", \"type\": \"string\", \"description\": \"Nombre de la avenida\"}, {\"title\": \"geometry\", \"type\": \"any\", \"description\": \"Tipo de geometr\\u00eda y coordenadas\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-04-24T11:15:26.122793",
+      "datastore_active": false,
+      "description": "Archivo GeoJSON con la localización de la calle Rivadavia en la Ciudad para utilizar en el Curso de Ciencia de Datos y Políticas Públicas.",
+      "fileName": "avenida_rivadavia.geojson",
+      "format": "GeoJSON",
+      "hash": "",
+      "id": "153ba0c6-25d3-4298-b8bb-9a1da5570936",
+      "last_modified": "2019-04-24T11:15:26.122793",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Avenida Rivadavia (GeoJson)",
+      "package_id": "juqdkmgo-30",
+      "position": 2,
+      "resource_type": "file",
+      "revision_id": "be7ab573-2afc-46b2-aaac-9a3b2c7f8b09",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/calles/avenida_rivadavia.geojson",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/calles",
+      "accessURL_field": "",
+      "attributesDescription": "[]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-04-10T16:37:47.172657",
+      "datastore_active": false,
+      "description": "Referencia geográfica de las calles de la ciudad, incluyendo el sentido de las mismas.",
+      "fileName": "callejero.xlsx",
+      "format": "XLSX",
+      "has-uploaded-file": "",
+      "hash": "",
+      "icon_url": "",
+      "id": "juqdkmgo-301-resource-xlsx",
+      "issued": "2019-04-10T16:37:47.172657",
+      "last_modified": "2019-04-10T16:37:47.172657",
+      "license_id": "CC-BY-4.0",
+      "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "mimetype_inner": null,
+      "modified": "2021-01-04",
+      "name": "Callejero (XLSX)",
+      "package_id": "juqdkmgo-30",
+      "position": 3,
+      "resource_type": "file",
+      "revision_id": "06527ef1-e633-40d2-8dab-0a324f44d417",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/ministerio-de-educacion/calles/callejero.xlsx",
+      "url_type": null
+    },
+    {
+      "accessURL": "",
+      "accessURL_field": "",
+      "attributesDescription": "[]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2020-01-09T17:59:48.644494",
+      "datastore_active": false,
+      "description": "Referencia geográfica de las calles de la ciudad, incluyendo el sentido de las mismas en formato GeoJson",
+      "fileName": "callejero.geojson",
+      "format": "GeoJSON",
+      "has-uploaded-file": "",
+      "hash": "",
+      "icon_url": "",
+      "id": "2941f731-0a2e-4391-b8c9-a2912a80c081",
+      "issued": "2020-01-09T14:59:48.559925",
+      "last_modified": null,
+      "license_id": "CC-BY-4.0",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "modified": "2021-01-04",
+      "name": "Callejero (GeoJson)",
+      "package_id": "juqdkmgo-30",
+      "position": 4,
+      "resource_type": "file",
+      "revision_id": "526c74bd-6e0d-489d-b90a-884a01eed52a",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/ministerio-de-educacion/calles/callejero.geojson",
+      "url_type": null
+    }
+  ],
+  "revision_id": "813b73cf-b3b0-48b4-8f1f-78d28f4c279a",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "autopistas",
+      "id": "5c338b75-5b81-4eab-a90b-0f996381ca7d",
+      "name": "autopistas",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "calles",
+      "id": "bba7a357-37d0-4bd1-95c9-ae5ff4d1f6e7",
+      "name": "calles",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "congestión",
+      "id": "ac5b9b5f-cddc-4bdc-8317-ee884cb02bed",
+      "name": "congestión",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "red-vial",
+      "id": "955bfe08-c615-4c70-8c57-363c2d8369ca",
+      "name": "red-vial",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "shp",
+      "id": "2836a60a-a647-406e-b0da-f4fab9f6c5a2",
+      "name": "shp",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "transporte",
+      "id": "aff133f8-2f33-4d2c-a531-6d632bd4efbb",
+      "name": "transporte",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "tránsito",
+      "id": "ce981a9c-943f-414e-b531-5810ae74c546",
+      "name": "tránsito",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "urbanismo-territorio",
+      "id": "bede7295-60a5-4a68-b78b-1004ed0505bf",
+      "name": "urbanismo-territorio",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Calles",
+  "type": "dataset",
+  "url": "https://data.buenosaires.gob.ar/dataset/calles",
+  "version": null
+}

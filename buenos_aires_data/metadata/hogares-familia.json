@@ -1,0 +1,285 @@
+{
+  "author": "Dirección General de Estadísticas y Censos. Ministerio de Hacienda y Finanzas",
+  "author_email": "datosabiertos@buenosaires.gob.ar",
+  "creator_user_id": "e4546f46-e966-493c-b2f1-57318502c41b",
+  "extras": [
+    {
+      "key": "Documentación",
+      "value": ""
+    },
+    {
+      "key": "accrualPeriodicity",
+      "value": "eventual"
+    },
+    {
+      "key": "country",
+      "value": "None"
+    },
+    {
+      "key": "district",
+      "value": ""
+    },
+    {
+      "key": "home_featured",
+      "value": "false"
+    },
+    {
+      "key": "issued",
+      "value": "2019-04-08T14:52:17.340031"
+    },
+    {
+      "key": "language",
+      "value": "[]"
+    },
+    {
+      "key": "modified",
+      "value": "2020-12-30T10:47:16.389219"
+    },
+    {
+      "key": "province",
+      "value": ""
+    },
+    {
+      "key": "source",
+      "value": "Dirección General de Estadísticas y Censos. Ministerio de Hacienda y Finanzas"
+    },
+    {
+      "key": "spatial",
+      "value": "None"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"SOCI\"]"
+    },
+    {
+      "key": "temporal",
+      "value": ""
+    }
+  ],
+  "groups": [
+    {
+      "description": "Datos abiertos relacionados al Desarrollo Humano",
+      "display_name": "Desarrollo Humano",
+      "id": "9d791ab5-130b-4bdb-bebf-b14cf2528781",
+      "image_display_url": "https://data.buenosaires.gob.ar/uploads/group/2020-01-31-175946.842561desarrollo-humano.png",
+      "name": "desarrollo-humano",
+      "title": "Desarrollo Humano"
+    },
+    {
+      "description": "",
+      "display_name": "Género",
+      "id": "3d97d3f5-206f-4719-8a06-54c709a25893",
+      "image_display_url": "https://data.buenosaires.gob.ar/uploads/group/2019-11-19-182128.307764genero720.png",
+      "name": "genero",
+      "title": "Género"
+    }
+  ],
+  "id": "c9a5cf8e-86b7-44db-b069-a19bbe95394c",
+  "isopen": true,
+  "license_id": "CC-BY-2.5-AR",
+  "license_title": "Atribucion 2.5 Argentina (CC BY 2.5 AR)",
+  "license_url": "https://creativecommons.org/licenses/by/2.5/ar ",
+  "maintainer": "Gerencia Operativa de Ingeniería de Datos. DG Arquitectura de Datos. SS de Políticas Públicas Basadas en Evidencia. Secretaría de Innovación y Transformación Digital. Jefatura de Gabinete de Ministros",
+  "maintainer_email": "datosabiertos@buenosaires.gob.ar",
+  "metadata_created": "2019-12-11T18:25:09.260795",
+  "metadata_modified": "2020-12-30T13:47:16.401312",
+  "name": "hogares-familia",
+  "notes": "Estadísticas descriptivas sobre jefatura de los hogares de la Ciudad de Buenos Aires",
+  "num_resources": 6,
+  "num_tags": 3,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-11-15T19:18:36.747317",
+    "description": "",
+    "id": "800664f9-ab56-4482-a6c8-0a1d316bf35b",
+    "image_url": "",
+    "is_organization": true,
+    "name": "direccion-general-de-estadisticas-y-censos",
+    "revision_id": "62a8b16c-0849-419d-a339-8e14d1b4a010",
+    "state": "active",
+    "title": "Dirección General de Estadísticas y Censos",
+    "type": "organization"
+  },
+  "owner_org": "800664f9-ab56-4482-a6c8-0a1d316bf35b",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/c9a5cf8e-86b7-44db-b069-a19bbe95394c/resource/1189388d-221d-4062-8406-ca31ce109911",
+      "attributesDescription": "[{\"title\": \"anio\", \"type\": \"integer\", \"description\": \"A\\u00f1o de la observaci\\u00f3n\"}, {\"title\": \"porc_jefas_hogar\", \"type\": \"number\", \"description\": \"Porcentaje de jefas de hogar de la observaci\\u00f3n\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-04-10T15:15:01.160106",
+      "datastore_active": false,
+      "description": "Relación entre la cantidad de hogares con jefa de hogar mujer y el total de hogares",
+      "fileName": "porc_jefas_hog_annio_limpio.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "1189388d-221d-4062-8406-ca31ce109911",
+      "last_modified": "2019-04-10T15:15:01.160106",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Hogares con jefatura femenina",
+      "package_id": "c9a5cf8e-86b7-44db-b069-a19bbe95394c",
+      "position": 0,
+      "resource_type": "file",
+      "revision_id": "7a2b581d-65db-43a6-a3f5-174c28b53141",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/SIGBA/Hogares_y_familia/porc_jefas_hog_annio_limpio.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/c9a5cf8e-86b7-44db-b069-a19bbe95394c/resource/dead4130-12ba-45e3-86b8-86f30ad8e9a1",
+      "attributesDescription": "[{\"title\": \"anio\", \"type\": \"integer\", \"description\": \"A\\u00f1o de la observaci\\u00f3n\"}, {\"title\": \"sexo_jefe_hogar\", \"type\": \"string\", \"description\": \"Sexo del/de la jefe/a de hogar de la observaci\\u00f3n\"}, {\"title\": \"tipo_hogar\", \"type\": \"string\", \"description\": \"Tipo de hogar de la observaci\\u00f3n\"}, {\"title\": \"porc_hogares\", \"type\": \"number\", \"description\": \"Porcentaje de hogares de la observaci\\u00f3n\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-04-10T15:21:12.482266",
+      "datastore_active": false,
+      "description": "Relación entre la cantidad de jefes/as de hogar de acuerdo a su composición según relación de parentesco con el/la jefe/a de hogar, sobre el total de jefes/as de hogar",
+      "fileName": "tip_hog_porc_annio__t_hog__s_jefe_limpio.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "dead4130-12ba-45e3-86b8-86f30ad8e9a1",
+      "last_modified": "2019-04-10T15:21:12.482266",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Hogares según sexo del jefe y tipo de hogar",
+      "package_id": "c9a5cf8e-86b7-44db-b069-a19bbe95394c",
+      "position": 1,
+      "resource_type": "file",
+      "revision_id": "79e43a3d-59b8-4cd8-aefc-9612c7a85b44",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/SIGBA/Hogares_y_familia/tip_hog_porc_annio__t_hog__s_jefe_limpio.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/c9a5cf8e-86b7-44db-b069-a19bbe95394c/resource/6e19304b-dd4c-45b6-b222-54838c81776b",
+      "attributesDescription": "[{\"title\": \"anio\", \"type\": \"integer\", \"description\": \"A\\u00f1o de la observaci\\u00f3n\"}, {\"title\": \"sexo_jefe_hogar\", \"type\": \"string\", \"description\": \"Sexo del/de la jefe/a de hogar de la observaci\\u00f3n\"}, {\"title\": \"grupo_edad\", \"type\": \"string\", \"description\": \"Grupo de edad de la observaci\\u00f3n\"}, {\"title\": \"porc_jefes\", \"type\": \"number\", \"description\": \"Porcentaje de jefes/as de hogar de la observaci\\u00f3n\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-04-10T15:24:26.706156",
+      "datastore_active": false,
+      "description": "Relación entre la cantidad de jefes/as de hogar de cada grupo de edad sobre el total de jefes /as de hogar, para cada sexo",
+      "fileName": "edad_jefe_annio__g_edad__s_jefe_limpio.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "6e19304b-dd4c-45b6-b222-54838c81776b",
+      "last_modified": "2019-04-10T15:24:26.706156",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Jefes de hogar según grupo de edad",
+      "package_id": "c9a5cf8e-86b7-44db-b069-a19bbe95394c",
+      "position": 2,
+      "resource_type": "file",
+      "revision_id": "689fd0cd-e2c0-4ed4-b1cc-34babe275fb0",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/SIGBA/Hogares_y_familia/edad_jefe_annio__g_edad__s_jefe_limpio.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/c9a5cf8e-86b7-44db-b069-a19bbe95394c/resource/1189388d-221d-4062-8406-ca31ce109911",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-04-10T15:15:01.160106",
+      "datastore_active": false,
+      "description": "Relación entre la cantidad de hogares con jefa de hogar mujer y el total de hogares",
+      "fileName": "porc_jefas_hog_annio_limpio.xlsx",
+      "format": "XLSX",
+      "hash": "",
+      "id": "1189388d-221d-4062-8406-ca31ce109911-xlsx",
+      "last_modified": "2019-04-10T15:15:01.160106",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Hogares con jefatura femenina (XLSX)",
+      "package_id": "c9a5cf8e-86b7-44db-b069-a19bbe95394c",
+      "position": 3,
+      "resource_type": "file",
+      "revision_id": "f5bd7f32-0dd4-41f5-b77c-507c3d19cbcf",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/SIGBA/Hogares_y_familia/porc_jefas_hog_annio_limpio.xlsx",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/c9a5cf8e-86b7-44db-b069-a19bbe95394c/resource/dead4130-12ba-45e3-86b8-86f30ad8e9a1",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-04-10T15:21:12.482266",
+      "datastore_active": false,
+      "description": "Relación entre la cantidad de jefes/as de hogar de acuerdo a su composición según relación de parentesco con el/la jefe/a de hogar, sobre el total de jefes/as de hogar",
+      "fileName": "tip_hog_porc_annio__t_hog__s_jefe_limpio.xlsx",
+      "format": "XLSX",
+      "hash": "",
+      "id": "dead4130-12ba-45e3-86b8-86f30ad8e9a1-xlsx",
+      "last_modified": "2019-04-10T15:21:12.482266",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Hogares según sexo del jefe y tipo de hogar (XLSX)",
+      "package_id": "c9a5cf8e-86b7-44db-b069-a19bbe95394c",
+      "position": 4,
+      "resource_type": "file",
+      "revision_id": "8d7c8f88-999c-4d5e-b418-560d5ca09733",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/SIGBA/Hogares_y_familia/tip_hog_porc_annio__t_hog__s_jefe_limpio.xlsx",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/c9a5cf8e-86b7-44db-b069-a19bbe95394c/resource/6e19304b-dd4c-45b6-b222-54838c81776b",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-04-10T15:24:26.706156",
+      "datastore_active": false,
+      "description": "Relación entre la cantidad de jefes/as de hogar de cada grupo de edad sobre el total de jefes /as de hogar, para cada sexo",
+      "fileName": "edad_jefe_annio__g_edad__s_jefe_limpio.xlsx",
+      "format": "XLSX",
+      "hash": "",
+      "id": "6e19304b-dd4c-45b6-b222-54838c81776b-xlsx",
+      "last_modified": "2019-04-10T15:24:26.706156",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Jefes de hogar según grupo de edad (XLSX)",
+      "package_id": "c9a5cf8e-86b7-44db-b069-a19bbe95394c",
+      "position": 5,
+      "resource_type": "file",
+      "revision_id": "1839a37a-3e03-44a2-9013-98a8b5152651",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/SIGBA/Hogares_y_familia/edad_jefe_annio__g_edad__s_jefe_limpio.xlsx",
+      "url_type": null
+    }
+  ],
+  "revision_id": "6a1107b6-ec27-47ca-9de4-784e9e566542",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "género",
+      "id": "983afd4b-d371-4cfb-add2-467b355c0578",
+      "name": "género",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "hogares",
+      "id": "a64bfeb0-e6d9-4628-9506-92916244bb3f",
+      "name": "hogares",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "jefe familia",
+      "id": "099c3b60-9113-49d8-b51f-a465613723db",
+      "name": "jefe familia",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Hogares y familia",
+  "type": "dataset",
+  "url": "https://data.buenosaires.gob.ar/dataset/hogares-y-familia",
+  "version": null
+}

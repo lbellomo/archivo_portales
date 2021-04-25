@@ -1,0 +1,198 @@
+{
+  "author": "Ministerio de Gobierno. DG de Registro del Estado Civil y Capacidad de las Personas.",
+  "author_email": "gobiernoabierto@buenosaires.gob.ar",
+  "creator_user_id": "e4546f46-e966-493c-b2f1-57318502c41b",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P3M"
+    },
+    {
+      "key": "issued",
+      "value": "2019-06-03T19:48:42.673842"
+    },
+    {
+      "key": "language",
+      "value": "[\"SPA\"]"
+    },
+    {
+      "key": "modified",
+      "value": "2019-07-31T11:43:24.215318"
+    },
+    {
+      "key": "source",
+      "value": "Ministerio de Gobierno. DG de Registro del Estado Civil y Capacidad de las Personas."
+    },
+    {
+      "key": "spatial",
+      "value": "02"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"SOCI\"]"
+    }
+  ],
+  "groups": [
+    {
+      "description": "",
+      "display_name": "Administración Pública",
+      "id": "8cb134a8-90ea-4e69-a96d-c03449917dc9",
+      "image_display_url": "https://data.buenosaires.gob.ar/uploads/group/2019-11-16-144810.360383adminpublica.png",
+      "name": "administracion-publica",
+      "title": "Administración Pública"
+    },
+    {
+      "description": "",
+      "display_name": "Género",
+      "id": "3d97d3f5-206f-4719-8a06-54c709a25893",
+      "image_display_url": "https://data.buenosaires.gob.ar/uploads/group/2019-11-19-182128.307764genero720.png",
+      "name": "genero",
+      "title": "Género"
+    }
+  ],
+  "id": "1d072692-ef69-47b0-8f79-85451318b646",
+  "isopen": true,
+  "license_id": "CC-BY-2.5-AR",
+  "license_title": "Atribucion 2.5 Argentina (CC BY 2.5 AR)",
+  "license_url": "https://creativecommons.org/licenses/by/2.5/ar ",
+  "maintainer": "Secretaría General y Relaciones Internacionales. Subsecretaría Gestión Estratégica y Calidad Institucional. Dirección General Calidad Institucional y Gobierno Abierto",
+  "maintainer_email": "gobiernoabierto@buenosaires.gob.ar",
+  "metadata_created": "2019-12-11T18:28:59.920911",
+  "metadata_modified": "2020-12-17T16:05:48.109794",
+  "name": "divorcios",
+  "notes": "Divorcios registrados en la Ciudad Autónoma de Buenos Aires",
+  "num_resources": 4,
+  "num_tags": 1,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-11-15T19:18:05.034032",
+    "description": "",
+    "id": "d5fcd0f4-b12b-464b-b41f-2b47de9848a6",
+    "image_url": "",
+    "is_organization": true,
+    "name": "ministerio-de-gobierno",
+    "revision_id": "ce729574-7d1e-4984-8eae-c36169571556",
+    "state": "active",
+    "title": "Ministerio de Gobierno",
+    "type": "organization"
+  },
+  "owner_org": "d5fcd0f4-b12b-464b-b41f-2b47de9848a6",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/1d072692-ef69-47b0-8f79-85451318b646/resource/426864f2-c86e-4fb0-9214-3a0b663fb30b",
+      "attributesDescription": "[{\"title\": \"fecha_creacion_nr_divorcio\", \"type\": \"date-time\", \"description\": \"A\\u00f1o, mes, d\\u00eda y hora de efectivizaci\\u00f3n del divorcio en el Registro Civil\"}, {\"title\": \"genero_1\", \"type\": \"string\", \"description\": \"G\\u00e9nero femenino o masculino de una de las personas que se divorcia\"}, {\"title\": \"genero_2\", \"type\": \"string\", \"description\": \"G\\u00e9nero femenino o masculino de la otra persona que se divorcia\"}, {\"title\": \"fecha_matrimonio\", \"type\": \"date\", \"description\": \"A\\u00f1o, mes y d\\u00eda de matrimonio\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-06-03T17:02:44.313026",
+      "datastore_active": false,
+      "description": "Información sobre los divorcios del 2018, según fecha de divorcio, fecha de matrimonio y género de ambos cónyuges",
+      "fileName": "divorcios_2018.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "426864f2-c86e-4fb0-9214-3a0b663fb30b",
+      "last_modified": "2019-06-03T17:02:44.313026",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Divorcios por día del 2018",
+      "package_id": "1d072692-ef69-47b0-8f79-85451318b646",
+      "position": 0,
+      "resource_type": "file",
+      "revision_id": "691b4f64-839d-421e-9040-562f9f3d8369",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/divorcios/divorcios_2018.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/1d072692-ef69-47b0-8f79-85451318b646/resource/b8d87d6a-eb3f-4584-a0bf-6ddab02ad45c",
+      "attributesDescription": "[{\"title\": \"fecha_creacion_divorcio\", \"type\": \"date-time\", \"description\": \"fecha y hora de inscripci\\u00f3n del divorcio\"}, {\"title\": \"genero_1\", \"type\": \"string\", \"description\": \"G\\u00e9nero de uno de los c\\u00f3nyuges\"}, {\"title\": \"genero_2\", \"type\": \"string\", \"description\": \"G\\u00e9nero de uno de los c\\u00f3nyugues\"}, {\"title\": \"fecha_matrimonio\", \"type\": \"date\", \"description\": \"Fecha del matrimonio de la pareja\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-07-31T11:51:27.398542",
+      "datastore_active": false,
+      "description": "Información sobre los divorcios del 2019, según fecha de divorcio, fecha de matrimonio y género de ambos cónyuges",
+      "fileName": "divorcios-2019.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "b8d87d6a-eb3f-4584-a0bf-6ddab02ad45c",
+      "last_modified": "2019-07-31T11:51:27.398542",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Divorcios por día 2019",
+      "package_id": "1d072692-ef69-47b0-8f79-85451318b646",
+      "position": 1,
+      "resource_type": "file",
+      "revision_id": "c44f7774-e2db-410f-8b53-88149f620107",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/divorcios/divorcios-2019.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/1d072692-ef69-47b0-8f79-85451318b646/resource/426864f2-c86e-4fb0-9214-3a0b663fb30b",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-06-03T17:02:44.313026",
+      "datastore_active": false,
+      "description": "Información sobre los divorcios del 2018, según fecha de divorcio, fecha de matrimonio y género de ambos cónyuges",
+      "fileName": "divorcios_2018.xlsx",
+      "format": "XLSX",
+      "hash": "",
+      "id": "426864f2-c86e-4fb0-9214-3a0b663fb30b-xlsx",
+      "last_modified": "2019-06-03T17:02:44.313026",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Divorcios por día del 2018 (XLSX)",
+      "package_id": "1d072692-ef69-47b0-8f79-85451318b646",
+      "position": 2,
+      "resource_type": "file",
+      "revision_id": "54adf1a5-e09f-4a8c-b45e-18832f1f40e8",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/divorcios/divorcios_2018.xlsx",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/1d072692-ef69-47b0-8f79-85451318b646/resource/b8d87d6a-eb3f-4584-a0bf-6ddab02ad45c",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-07-31T11:51:27.398542",
+      "datastore_active": false,
+      "description": "Información sobre los divorcios del 2019, según fecha de divorcio, fecha de matrimonio y género de ambos cónyuges",
+      "fileName": "divorcios-2019.xlsx",
+      "format": "XLSX",
+      "hash": "",
+      "id": "b8d87d6a-eb3f-4584-a0bf-6ddab02ad45c-xlsx",
+      "last_modified": "2019-07-31T11:51:27.398542",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Divorcios por día 2019 (XLSX)",
+      "package_id": "1d072692-ef69-47b0-8f79-85451318b646",
+      "position": 3,
+      "resource_type": "file",
+      "revision_id": "090b6477-fcd2-474a-979a-975a19855cab",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/divorcios/divorcios-2019.xlsx",
+      "url_type": null
+    }
+  ],
+  "revision_id": "9b1f09c8-a4cb-49c2-bb5e-af7027555dfa",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "registro civil",
+      "id": "2837b8f0-9bb6-4d0b-b799-bf3d468bd273",
+      "name": "registro civil",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Divorcios",
+  "type": "dataset",
+  "url": "https://data.buenosaires.gob.ar/dataset/divorcios",
+  "version": null
+}

@@ -1,0 +1,324 @@
+{
+  "author": "Autopistas Urbanas (AUSA). Secretaría de Transporte y Obras Públicas. Jefatura de Gabinete de Ministros",
+  "author_email": "datosabiertos@buenosaires.gob.ar",
+  "creator_user_id": "e4546f46-e966-493c-b2f1-57318502c41b",
+  "extras": [
+    {
+      "key": "Documentación",
+      "value": ""
+    },
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P1M"
+    },
+    {
+      "key": "country",
+      "value": "None"
+    },
+    {
+      "key": "district",
+      "value": ""
+    },
+    {
+      "key": "home_featured",
+      "value": "false"
+    },
+    {
+      "key": "issued",
+      "value": "2019-07-23T14:29:15.035103"
+    },
+    {
+      "key": "language",
+      "value": "[]"
+    },
+    {
+      "key": "modified",
+      "value": "2021-03-31"
+    },
+    {
+      "key": "province",
+      "value": ""
+    },
+    {
+      "key": "source",
+      "value": "Autopistas Urbanas (AUSA). Secretaría de Transporte y Obras Públicas. Jefatura de Gabinete de Ministros"
+    },
+    {
+      "key": "spatial",
+      "value": "None"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"TRAN\"]"
+    },
+    {
+      "key": "temporal",
+      "value": ""
+    }
+  ],
+  "groups": [
+    {
+      "description": "",
+      "display_name": "Movilidad",
+      "id": "e616e02e-64d8-4fb0-b55d-08e75eb58376",
+      "image_display_url": "https://data.buenosaires.gob.ar/uploads/group/2019-11-16-145017.234366movilidad.png",
+      "name": "movilidad",
+      "title": "Movilidad"
+    }
+  ],
+  "id": "e3efb026-eab6-41fc-b440-61ed6a17dadb",
+  "isopen": true,
+  "license_id": "CC-BY-2.5-AR",
+  "license_title": "Atribucion 2.5 Argentina (CC BY 2.5 AR)",
+  "license_url": "https://creativecommons.org/licenses/by/2.5/ar ",
+  "maintainer": "Gerencia Operativa de Ingeniería de Datos. DG Arquitectura de Datos. SS de Políticas Públicas Basadas en Evidencia. Secretaría de Innovación y Transformación Digital. Jefatura de Gabinete de Ministros",
+  "maintainer_email": "datosabiertos@buenosaires.gob.ar",
+  "metadata_created": "2019-12-11T18:03:41.389793",
+  "metadata_modified": "2021-03-31T19:48:13.247953",
+  "name": "flujo-vehicular-por-radares-ausa",
+  "notes": "Información del paso de vehículos por ciertas ubicaciones equipadas con radares en las autopistas de la Ciudad.",
+  "num_resources": 6,
+  "num_tags": 6,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-11-15T19:11:57.532256",
+    "description": "",
+    "id": "00348dd2-ca7d-4b08-9d0c-0aae1eb7453b",
+    "image_url": "",
+    "is_organization": true,
+    "name": "ausa",
+    "revision_id": "2b19c3c9-1c68-4f00-858c-892003035b27",
+    "state": "active",
+    "title": "Autopistas Urbanas (AUSA)",
+    "type": "organization"
+  },
+  "owner_org": "00348dd2-ca7d-4b08-9d0c-0aae1eb7453b",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "",
+      "accessURL_field": "",
+      "attributesDescription": "[]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2020-02-10T18:58:49.640143",
+      "datastore_active": false,
+      "description": "Flujo vehicular captado por radares desagregado por hora en 2020. Incluye fecha, hora, nombre de la autopista y ubicación del radar.",
+      "fileName": "flujo-vehicular-por-radares-2020.csv",
+      "format": "CSV",
+      "has-uploaded-file": "",
+      "hash": "",
+      "icon_url": "",
+      "id": "66bbccae-d6e0-43f4-b874-dbdece04dfd1",
+      "issued": "2020-02-10T15:58:49.581695",
+      "last_modified": null,
+      "license_id": "CC-BY-2.5-AR",
+      "mimetype": "text/csv",
+      "mimetype_inner": null,
+      "modified": "2021-01-12",
+      "name": "Flujo vehicular 2020",
+      "package_id": "e3efb026-eab6-41fc-b440-61ed6a17dadb",
+      "position": 0,
+      "resource_type": "file",
+      "revision_id": "4b0548c7-f26a-4686-8e90-4ad593063012",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/ausa/flujo-vehicular-por-radares-ausa/flujo-vehicular-por-radares-2020.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "",
+      "accessURL_field": "",
+      "attributesDescription": "[]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2020-02-10T18:59:34.420419",
+      "datastore_active": false,
+      "description": "Flujo vehicular captado por radares desagregado por hora en 2020. Incluye fecha, hora, nombre de la autopista y ubicación del radar.",
+      "fileName": "flujo-vehicular-por-radares-2020.xlsx",
+      "format": "XLSX",
+      "has-uploaded-file": "",
+      "hash": "",
+      "icon_url": "",
+      "id": "8c5ea9cc-4977-4c62-ba70-7629237fc658",
+      "issued": "2020-02-10T15:59:34.368476",
+      "last_modified": null,
+      "license_id": "CC-BY-2.5-AR",
+      "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "mimetype_inner": null,
+      "modified": "2021-01-12",
+      "name": "Flujo vehicular 2020 (XLSX)",
+      "package_id": "e3efb026-eab6-41fc-b440-61ed6a17dadb",
+      "position": 1,
+      "resource_type": "file",
+      "revision_id": "b117ff4c-b919-4fbe-a466-005978b1d8a9",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/ausa/flujo-vehicular-por-radares-ausa/flujo-vehicular-por-radares-2020.xlsx",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/e3efb026-eab6-41fc-b440-61ed6a17dadb/resource/e8a5b66e-ffcd-47a1-a0af-e1caf0f5c8ab",
+      "attributesDescription": "[{\"title\": \"fecha\", \"type\": \"date\", \"description\": \"Fecha del registro\"}, {\"title\": \"hora\", \"type\": \"integer\", \"description\": \"Hora del registro\"}, {\"title\": \"autopista_nombre\", \"type\": \"string\", \"description\": \"Nombre de la autopista en la que est\\u00e1 ubicado el radar\"}, {\"title\": \"disp_nombre\", \"type\": \"string\", \"description\": \"Nombre del dispositivo\"}, {\"title\": \"disp_ubicacion\", \"type\": \"string\", \"description\": \"Ubicaci\\u00f3n del dispositivo\"}, {\"title\": \"seccion_sentido\", \"type\": \"string\", \"description\": \"Sentido de la secci\\u00f3n de la autopista\"}, {\"title\": \"cantidad\", \"type\": \"integer\", \"description\": \"Cantidad de veh\\u00edculos contabilizados\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-07-23T12:10:08.153999",
+      "datastore_active": false,
+      "description": "Flujo vehicular captado por radares desagregado por hora en 2019. Incluye fecha, hora, nombre de la autopista y ubicación del radar.",
+      "fileName": "flujo-vehicular-por-radares-2019.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "e8a5b66e-ffcd-47a1-a0af-e1caf0f5c8ab",
+      "last_modified": "2019-07-23T12:10:08.153999",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Flujo vehicular 2019",
+      "package_id": "e3efb026-eab6-41fc-b440-61ed6a17dadb",
+      "position": 2,
+      "resource_type": "file",
+      "revision_id": "6f4be8b6-87e6-46d7-805c-7046c17597fe",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/flujo-vehicular-por-radares-ausa/flujo-vehicular-por-radares-2019.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/e3efb026-eab6-41fc-b440-61ed6a17dadb/resource/e8a5b66e-ffcd-47a1-a0af-e1caf0f5c8ab",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-07-23T12:10:08.153999",
+      "datastore_active": false,
+      "description": "Flujo vehicular captado por radares desagregado por hora en 2019. Incluye fecha, hora, nombre de la autopista y ubicación del radar.",
+      "fileName": "flujo-vehicular-por-radares-2019.xlsx",
+      "format": "XLSX",
+      "hash": "",
+      "id": "e8a5b66e-ffcd-47a1-a0af-e1caf0f5c8ab-xlsx",
+      "last_modified": "2019-07-23T12:10:08.153999",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Flujo vehicular 2019 (XLSX)",
+      "package_id": "e3efb026-eab6-41fc-b440-61ed6a17dadb",
+      "position": 3,
+      "resource_type": "file",
+      "revision_id": "7e57a2e2-98a6-48bb-99cc-c7c887cee156",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/flujo-vehicular-por-radares-ausa/flujo-vehicular-por-radares-2019.xlsx",
+      "url_type": null
+    },
+    {
+      "accessURL": "",
+      "accessURL_field": "",
+      "attributesDescription": "[{\"title\":\"Mes, Día, Año de H_Fecha\",\"description\":\"Mes, Día, Año de H_Fecha\",\"type\":\"string\"},{\"title\":\"H_Hora\",\"description\":\"H_Hora\",\"type\":\"string\"},{\"title\":\"Aut Nombre\",\"description\":\"Aut Nombre\",\"type\":\"string\"},{\"title\":\"Disp Nombre\",\"description\":\"Disp Nombre\",\"type\":\"string\"},{\"title\":\"Disp Ubicacion\",\"description\":\"Disp Ubicacion\",\"type\":\"string\"},{\"title\":\"Seccion Sentido\",\"description\":\"Seccion Sentido\",\"type\":\"string\"},{\"title\":\"Disp Lat\",\"description\":\"Disp Lat\",\"type\":\"string\"},{\"title\":\"Disp Lng\",\"description\":\"Disp Lng\",\"type\":\"string\"},{\"title\":\"H_Cant_Veh\",\"description\":\"H_Cant_Veh\",\"type\":\"string\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2021-03-31T19:25:37.312096",
+      "datastore_active": false,
+      "description": "Flujo vehicular captado por radares desagregado por hora en 2021. Incluye fecha, hora, nombre de la autopista y ubicacion del radar.",
+      "fileName": "",
+      "format": "CSV",
+      "has-uploaded-file": "",
+      "hash": "",
+      "icon_url": "",
+      "id": "bfbbde7f-edfe-4204-8dbc-90225ad6473c",
+      "issued": "2021-03-31T19:25:37.312096",
+      "last_modified": "2021-03-31T00:00:00",
+      "license_id": "CC-BY-4.0",
+      "mimetype": "text/csv",
+      "mimetype_inner": null,
+      "modified": "2021-03-31T16:48:05.476074",
+      "name": "Flujo vehicular 2021",
+      "package_id": "e3efb026-eab6-41fc-b440-61ed6a17dadb",
+      "position": 4,
+      "resource_type": "file",
+      "revision_id": "d2d4422e-7e8a-4eae-a741-271e4e0e994d",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/ausa/flujo-vehicular-por-radares-ausa/flujo-vehicular-por-radares-2021.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "",
+      "accessURL_field": "",
+      "attributesDescription": "[{\"title\":\"Mes, Día, Año de H_Fecha\",\"description\":\"Mes, Día, Año de H_Fecha\",\"type\":\"string\"},{\"title\":\"H_Hora\",\"description\":\"H_Hora\",\"type\":\"string\"},{\"title\":\"Aut Nombre\",\"description\":\"Aut Nombre\",\"type\":\"string\"},{\"title\":\"Disp Nombre\",\"description\":\"Disp Nombre\",\"type\":\"string\"},{\"title\":\"Disp Ubicacion\",\"description\":\"Disp Ubicacion\",\"type\":\"string\"},{\"title\":\"Seccion Sentido\",\"description\":\"Seccion Sentido\",\"type\":\"string\"},{\"title\":\"Disp Lat\",\"description\":\"Disp Lat\",\"type\":\"string\"},{\"title\":\"Disp Lng\",\"description\":\"Disp Lng\",\"type\":\"string\"},{\"title\":\"H_Cant_Veh\",\"description\":\"H_Cant_Veh\",\"type\":\"string\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2021-03-31T19:25:39.349150",
+      "datastore_active": false,
+      "description": "Flujo vehicular captado por radares desagregado por hora en 2021. Incluye fecha, hora, nombre de la autopista y ubicacion del radar.",
+      "fileName": "",
+      "format": "XLSX",
+      "has-uploaded-file": "",
+      "hash": "",
+      "icon_url": "",
+      "id": "821db40e-1a6d-4698-9db8-636e7a3a11ca",
+      "issued": "2021-03-31T19:25:39.349150",
+      "last_modified": "2021-03-31T00:00:00",
+      "license_id": "CC-BY-4.0",
+      "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "mimetype_inner": null,
+      "modified": "2021-03-31T16:48:13.144412",
+      "name": "Flujo vehicular 2021 (XLSX)",
+      "package_id": "e3efb026-eab6-41fc-b440-61ed6a17dadb",
+      "position": 5,
+      "resource_type": "file",
+      "revision_id": "dd6a768e-1575-4725-b5c4-33cf5c670167",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/ausa/flujo-vehicular-por-radares-ausa/flujo-vehicular-por-radares-2021.xlsx",
+      "url_type": null
+    }
+  ],
+  "revision_id": "393523a5-6e0b-4eeb-8fa7-c0a15c5a4f0d",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "automóviles",
+      "id": "0a95c09e-7f00-45aa-87e7-2e5df6e71d78",
+      "name": "automóviles",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "autopistas",
+      "id": "5c338b75-5b81-4eab-a90b-0f996381ca7d",
+      "name": "autopistas",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "radares",
+      "id": "077da91c-ed50-4bfa-8953-95d1db03bac7",
+      "name": "radares",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "sensores",
+      "id": "80a2880c-700e-4937-b375-762715de500a",
+      "name": "sensores",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "tráfico",
+      "id": "03d80257-e603-4a00-8744-1bb468086cf0",
+      "name": "tráfico",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "tránsito",
+      "id": "ce981a9c-943f-414e-b531-5810ae74c546",
+      "name": "tránsito",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Flujo vehicular por radares AUSA",
+  "type": "dataset",
+  "url": "https://data.buenosaires.gob.ar/dataset/transito-radares-en-autopistas",
+  "version": null
+}
