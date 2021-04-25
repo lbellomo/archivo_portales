@@ -1,0 +1,242 @@
+{
+  "author": "Ministerio de Desarrollo Humano y Hábitat",
+  "author_email": "datosabiertos@buenosaires.gob.ar",
+  "creator_user_id": "e4546f46-e966-493c-b2f1-57318502c41b",
+  "extras": [
+    {
+      "key": "Documentación",
+      "value": ""
+    },
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P3M"
+    },
+    {
+      "key": "country",
+      "value": "None"
+    },
+    {
+      "key": "district",
+      "value": ""
+    },
+    {
+      "key": "home_featured",
+      "value": "false"
+    },
+    {
+      "key": "issued",
+      "value": "2019-01-08T14:57:33.440447"
+    },
+    {
+      "key": "language",
+      "value": "[]"
+    },
+    {
+      "key": "modified",
+      "value": "2021-03-01T14:35:58.087271"
+    },
+    {
+      "key": "province",
+      "value": ""
+    },
+    {
+      "key": "source",
+      "value": "Ministerio de Desarrollo Humano y Hábitat"
+    },
+    {
+      "key": "spatial",
+      "value": "None"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"SOCI\"]"
+    },
+    {
+      "key": "temporal",
+      "value": ""
+    }
+  ],
+  "groups": [
+    {
+      "description": "Datos abiertos relacionados al Desarrollo Humano",
+      "display_name": "Desarrollo Humano",
+      "id": "9d791ab5-130b-4bdb-bebf-b14cf2528781",
+      "image_display_url": "https://data.buenosaires.gob.ar/uploads/group/2020-01-31-175946.842561desarrollo-humano.png",
+      "name": "desarrollo-humano",
+      "title": "Desarrollo Humano"
+    },
+    {
+      "description": "",
+      "display_name": "Género",
+      "id": "3d97d3f5-206f-4719-8a06-54c709a25893",
+      "image_display_url": "https://data.buenosaires.gob.ar/uploads/group/2019-11-19-182128.307764genero720.png",
+      "name": "genero",
+      "title": "Género"
+    }
+  ],
+  "id": "juqdkmgo-209",
+  "isopen": true,
+  "license_id": "CC-BY-2.5-AR",
+  "license_title": "Atribucion 2.5 Argentina (CC BY 2.5 AR)",
+  "license_url": "https://creativecommons.org/licenses/by/2.5/ar ",
+  "maintainer": "Secretaría General y Relaciones Internacionales. Subsecretaría Gestión Estratégica y Calidad Institucional. Dirección General Calidad Institucional y Gobierno Abierto",
+  "maintainer_email": "datosabiertos@buenosaires.gob.ar",
+  "metadata_created": "2019-12-11T18:11:50.226627",
+  "metadata_modified": "2021-03-01T17:35:58.101196",
+  "name": "test-alerta-sobre-noviazgo-violento",
+  "notes": "Información sobre las respuestas al test de Señales de Alerta en el noviazgo. Consultar documentación: https://github.com/datosgcba/test_alerta_noviazgo_violento.\r\n\r\nReferencias:\r\nA=\"siempre\"\r\nB=\"a veces\"\r\nC=\"nunca\"",
+  "num_resources": 4,
+  "num_tags": 4,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-11-15T19:18:53.945883",
+    "description": "",
+    "id": "34394b51-682c-472d-8428-7491610d5c06",
+    "image_url": "",
+    "is_organization": true,
+    "name": "ministerio-de-desarrollo-humano-y-habitat",
+    "revision_id": "19f3f41b-56e8-4dc5-a760-eb39818806b2",
+    "state": "active",
+    "title": "Ministerio de Desarrollo Humano y Hábitat",
+    "type": "organization"
+  },
+  "owner_org": "34394b51-682c-472d-8428-7491610d5c06",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/test-de-alerta-sobre-un-noviazgo-violento",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-02-06T12:39:57.554584",
+      "datastore_active": false,
+      "description": "Resultados del test realizado en la página del Ministerio de Desarrollo Humano y Hábitat. Resultados desde febrero de 2017 a enero de 2018",
+      "fileName": "resultados-del-test-febrero-octubre-2018.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "juqdkmgo-2091-resource",
+      "last_modified": "2019-02-06T12:39:57.554584",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Resultados del Test (Febrero 2017-Enero 2018)",
+      "package_id": "juqdkmgo-209",
+      "position": 0,
+      "resource_type": "file",
+      "revision_id": "932f36e8-20b9-49ff-98b4-03cf9b40d783",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/test-de-alerta-sobre-un-noviazgo-violento/resultados-del-test-febrero-octubre-2018.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/test-de-alerta-sobre-un-noviazgo-violento",
+      "attributesDescription": "[{\"title\": \"fecha\", \"type\": \"date\"}, {\"title\": \"hora\", \"description\": \"hora del registro\"}, {\"title\": \"edad\", \"type\": \"integer\", \"description\": \"edad del encuestado\"}, {\"title\": \"barrio\", \"type\": \"string\", \"description\": \"Barrio de residencia del encuestado\"}, {\"title\": \"pregunta_1\", \"type\": \"string\", \"description\": \"Cuando no est\\u00e1n juntos, \\u00bftu pareja te controla pregunt\\u00e1ndote con qui\\u00e9n est\\u00e1s, d\\u00f3nde y qu\\u00e9 est\\u00e1s haciendo mensaje\\u00e1ndote por celular?\"}, {\"title\": \"pregunta_2\", \"type\": \"string\", \"description\": \"\\u00bfRevisa los mensajes de tu celular o te pidi\\u00f3 la contrase\\u00f1a de tu correo electr\\u00f3nico, Facebook o Instagram como \\u201cprueba de confianza\\u201d?\"}, {\"title\": \"pregunta_3\", \"type\": \"string\", \"description\": \"\\u00bfTe acusa de haber sido infiel o coquetear con otros/as?\"}, {\"title\": \"pregunta_4\", \"type\": \"string\", \"description\": \"\\u00bfSent\\u00eds que est\\u00e1n permanentemente en tensi\\u00f3n y que, hagas lo que hagas, se irrita o te culpabiliza de sus cambios de humor?\"}, {\"title\": \"pregunta_5\", \"type\": \"string\", \"description\": \"\\u00bfLe molesta que hagas actividades de manera independiente, como estudiar, trabajar, visitar amigos/as, ir al gimnasio o elegir quedarte sola/o en tu casa?\"}, {\"title\": \"pregunta_6\", \"type\": \"string\", \"description\": \"\\u00bfSent\\u00eds que te alejaste o perdiste contacto con amigos/as o familiares desde que est\\u00e1s en pareja?\"}, {\"title\": \"pregunta_7\", \"type\": \"string\", \"description\": \"\\u00bfTe dice c\\u00f3mo ten\\u00e9s que vestirte o c\\u00f3mo debe ser tu apariencia?\"}, {\"title\": \"pregunta_8\", \"type\": \"string\", \"description\": \"\\u00bfMenosprecia en p\\u00fablico o en privado tus opiniones?\"}, {\"title\": \"pregunta_9\", \"type\": \"string\", \"description\": \"\\u00bfTe dice que todo lo que hac\\u00e9s est\\u00e1 mal o que no serv\\u00eds para nada?\"}, {\"title\": \"pregunta_10\", \"type\": \"string\", \"description\": \"\\u00bfTe amenaza con lastimarse/te si no lo/la obedec\\u00e9s o si quer\\u00e9s terminar la relaci\\u00f3n?\"}, {\"title\": \"pregunta_11\", \"type\": \"string\", \"description\": \"Despu\\u00e9s de un episodio violento, \\u00bfse muestra cari\\u00f1oso/a o atento/a y promete que nunca m\\u00e1s lo har\\u00e1 y todo cambiar\\u00e1?\"}, {\"title\": \"pregunta_12\", \"type\": \"string\", \"description\": \"\\u00bfIndaga o cuestiona tus noviazgos anteriores?\"}, {\"title\": \"pregunta_13\", \"type\": \"string\", \"description\": \"\\u00bfTe sent\\u00eds presionada/o a realizar determinadas pr\\u00e1cticas sexuales por temor a que te deje?\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-04-11T11:31:13.230757",
+      "datastore_active": false,
+      "description": "Resultados del test realizado en la página del Ministerio de Desarrollo Humano y Hábitat. Resultados desde febrero de 2018 a enero de 2019.",
+      "fileName": "resultados-del-test.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "juqdkmgo-2092-resource",
+      "last_modified": "2019-04-11T11:31:13.230757",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Resultados del Test (Febrero 2018-Enero 2019)",
+      "package_id": "juqdkmgo-209",
+      "position": 1,
+      "resource_type": "file",
+      "revision_id": "324f965c-09f9-4615-ae9e-0f17b2c1dcb4",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/test-de-alerta-sobre-un-noviazgo-violento/resultados-del-test.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/test-de-alerta-sobre-un-noviazgo-violento",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-02-06T12:39:57.554584",
+      "datastore_active": false,
+      "description": "Resultados del test realizado en la página del Ministerio de Desarrollo Humano y Hábitat. Resultados desde febrero de 2017 a enero de 2018",
+      "fileName": "resultados-del-test-febrero-octubre-2018.xlsx",
+      "format": "XLSX",
+      "hash": "",
+      "id": "juqdkmgo-2091-resource-xlsx",
+      "last_modified": "2019-02-06T12:39:57.554584",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Resultados del Test (Febrero 2017-Enero 2018) (XLSX)",
+      "package_id": "juqdkmgo-209",
+      "position": 2,
+      "resource_type": "file",
+      "revision_id": "0c97371b-ab9d-40b1-bd56-7018311e4de9",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/test-de-alerta-sobre-un-noviazgo-violento/resultados-del-test-febrero-octubre-2018.xlsx",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/test-de-alerta-sobre-un-noviazgo-violento",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-04-11T11:31:13.230757",
+      "datastore_active": false,
+      "description": "Resultados del test realizado en la página del Ministerio de Desarrollo Humano y Hábitat. Resultados desde febrero de 2018 a enero de 2019.",
+      "fileName": "resultados-del-test.xlsx",
+      "format": "XLSX",
+      "hash": "",
+      "id": "juqdkmgo-2092-resource-xlsx",
+      "last_modified": "2019-04-11T11:31:13.230757",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Resultados del Test (Febrero 2018-Enero 2019) (XLSX)",
+      "package_id": "juqdkmgo-209",
+      "position": 3,
+      "resource_type": "file",
+      "revision_id": "0c0b647f-a05c-4119-b7db-29aa6c877d60",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/test-de-alerta-sobre-un-noviazgo-violento/resultados-del-test.xlsx",
+      "url_type": null
+    }
+  ],
+  "revision_id": "4c2468e4-b0fc-405f-9ae6-da59190269b5",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "noviazgo",
+      "id": "a9f3ee49-9143-4986-9b74-e2494d398cd6",
+      "name": "noviazgo",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "pareja",
+      "id": "7b20d7c1-8e76-4f6f-9459-18033d0e7b09",
+      "name": "pareja",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "test",
+      "id": "dac77274-3736-485d-add7-6c818cf88e29",
+      "name": "test",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "violencia",
+      "id": "cfcf87a5-ff64-4c8a-ba2d-37a213cc395d",
+      "name": "violencia",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Test de Alerta sobre un noviazgo violento",
+  "type": "dataset",
+  "url": "https://data.buenosaires.gob.ar/dataset/test-alerta-sobre-noviazgo-violento",
+  "version": null
+}

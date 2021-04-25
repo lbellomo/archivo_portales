@@ -1,0 +1,199 @@
+{
+  "author": "Ministerio de Hacienda y Finanzas. Dirección General de Estadística y Censos",
+  "author_email": "",
+  "creator_user_id": "7d042a55-0800-4979-949b-201389887bd9",
+  "extras": [
+    {
+      "key": "Documentación",
+      "value": ""
+    },
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P1Y"
+    },
+    {
+      "key": "country",
+      "value": "None"
+    },
+    {
+      "key": "district",
+      "value": ""
+    },
+    {
+      "key": "home_featured",
+      "value": "false"
+    },
+    {
+      "key": "issued",
+      "value": "2020-09-24T18:01:00.377845"
+    },
+    {
+      "key": "language",
+      "value": "[]"
+    },
+    {
+      "key": "modified",
+      "value": "2020-10-28T14:54:32.992723"
+    },
+    {
+      "key": "province",
+      "value": ""
+    },
+    {
+      "key": "source",
+      "value": ""
+    },
+    {
+      "key": "spatial",
+      "value": "None"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"ENVI\"]"
+    },
+    {
+      "key": "temporal",
+      "value": ""
+    }
+  ],
+  "groups": [
+    {
+      "description": "",
+      "display_name": "Medioambiente",
+      "id": "a99c1197-8379-4a60-a6eb-8737cab5ec4f",
+      "image_display_url": "https://data.buenosaires.gob.ar/uploads/group/2019-11-16-145003.550663medioambiente.png",
+      "name": "medioambiente",
+      "title": "Medioambiente"
+    }
+  ],
+  "id": "13df72f9-0080-4480-ad89-68baa02e38b6",
+  "isopen": true,
+  "license_id": "CC-BY-2.5-AR",
+  "license_title": "Atribucion 2.5 Argentina (CC BY 2.5 AR)",
+  "license_url": "https://creativecommons.org/licenses/by/2.5/ar ",
+  "maintainer": "",
+  "maintainer_email": "",
+  "metadata_created": "2020-09-24T20:53:43.281043",
+  "metadata_modified": "2020-10-28T17:54:33.005184",
+  "name": "velocidad-maxima-del-viento",
+  "notes": "Registro histórico de velocidad máxima del viento en la Ciudad (1991 a 2020).",
+  "num_resources": 2,
+  "num_tags": 4,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-11-15T19:18:36.747317",
+    "description": "",
+    "id": "800664f9-ab56-4482-a6c8-0a1d316bf35b",
+    "image_url": "",
+    "is_organization": true,
+    "name": "direccion-general-de-estadisticas-y-censos",
+    "revision_id": "62a8b16c-0849-419d-a339-8e14d1b4a010",
+    "state": "active",
+    "title": "Dirección General de Estadísticas y Censos",
+    "type": "organization"
+  },
+  "owner_org": "800664f9-ab56-4482-a6c8-0a1d316bf35b",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "",
+      "accessURL_field": "",
+      "attributesDescription": "[{\"title\":\"año\",\"description\":\"año de registro\",\"type\":\"integer\"},{\"title\":\"mes\",\"description\":\"mes de registro\",\"type\":\"string\"},{\"title\":\"nudos\",\"description\":\"unidad de medida de la velocidad de viente, equivalente a 1,852 km por hora\",\"type\":\"integer\"},{\"title\":\"km/h\",\"description\":\"kilómetros por hora\",\"type\":\"integer\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2020-09-24T20:57:42.943144",
+      "datastore_active": false,
+      "description": "Registro de la velocidad máxima del viento en nudos y kilómetro por hora, dividido en mes y año. ",
+      "fileName": "historico_velocidad_maxima_viento.xlsx",
+      "format": "XLS",
+      "has-uploaded-file": "",
+      "hash": "",
+      "icon_url": "",
+      "id": "c81d73cc-0730-4c20-98e0-e0e7124deb33",
+      "issued": "2020-09-24T17:57:42.903861",
+      "last_modified": "2020-09-24T20:57:42.911555",
+      "license_id": "CC-BY-2.5-AR",
+      "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "mimetype_inner": null,
+      "modified": "2020-09-24T17:57:42.903861",
+      "name": "Registro de velocidad máxima del viento en la Ciudad. Desde 1991.",
+      "package_id": "13df72f9-0080-4480-ad89-68baa02e38b6",
+      "position": 0,
+      "resource_type": "file.upload",
+      "revision_id": "e6d8c1f0-adb0-40a6-abe6-07207955a6b8",
+      "size": 11771,
+      "state": "active",
+      "url": "https://data.buenosaires.gob.ar/dataset/13df72f9-0080-4480-ad89-68baa02e38b6/resource/c81d73cc-0730-4c20-98e0-e0e7124deb33/download/historico_velocidad_maxima_viento.xlsx",
+      "url_type": "upload"
+    },
+    {
+      "accessURL": "",
+      "accessURL_field": "",
+      "attributesDescription": "[{\"title\":\"año\",\"description\":\"año de registro\",\"type\":\"integer\"},{\"title\":\"mes\",\"description\":\"mes de registro\",\"type\":\"string\"},{\"title\":\"nudos\",\"description\":\"unidad de medida de la velocidad de viente, equivalente a 1,852 km por hora\",\"type\":\"integer\"},{\"title\":\"km/h\",\"description\":\"kilómetros por hora\",\"type\":\"integer\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2020-09-24T20:59:58.229816",
+      "datastore_active": false,
+      "description": "Registro de la velocidad máxima del viento en nudos y kilómetro por hora, dividido en mes y año.",
+      "fileName": "historico_velocidad_maxima_viento.csv",
+      "format": "CSV",
+      "has-uploaded-file": "",
+      "hash": "",
+      "icon_url": "",
+      "id": "6e20f472-3e39-4a5c-93b2-9d5d58cdfc04",
+      "issued": "2020-09-24T17:59:58.188373",
+      "last_modified": "2020-09-24T20:59:58.195834",
+      "license_id": "CC-BY-2.5-AR",
+      "mimetype": "text/csv",
+      "mimetype_inner": null,
+      "modified": "2020-09-24T17:59:58.188373",
+      "name": "Registro de velocidad máxima del viento en la Ciudad. Desde 1991.",
+      "package_id": "13df72f9-0080-4480-ad89-68baa02e38b6",
+      "position": 1,
+      "resource_type": "file.upload",
+      "revision_id": "e6d8c1f0-adb0-40a6-abe6-07207955a6b8",
+      "size": 6929,
+      "state": "active",
+      "url": "https://data.buenosaires.gob.ar/dataset/13df72f9-0080-4480-ad89-68baa02e38b6/resource/6e20f472-3e39-4a5c-93b2-9d5d58cdfc04/download/historico_velocidad_maxima_viento.csv",
+      "url_type": "upload"
+    }
+  ],
+  "revision_id": "a9a7a02a-94eb-426c-b4b6-94e722a2ea77",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "cambio climático",
+      "id": "a6836452-912d-41c2-b324-4eddc98a75c2",
+      "name": "cambio climático",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "medioambiente",
+      "id": "e7e79a15-eb8b-406d-a2c2-9012b193e5a8",
+      "name": "medioambiente",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "velocidad del viento",
+      "id": "642a1b81-4d86-4572-9c48-dc66c2de9698",
+      "name": "velocidad del viento",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "viento",
+      "id": "5e35ef55-7cf4-497c-9d88-b852011ec611",
+      "name": "viento",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Velocidad máxima del viento",
+  "type": "dataset",
+  "url": "https://data.buenosaires.gob.ar/dataset/velocidad-maxima-del-viento",
+  "version": null
+}

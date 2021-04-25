@@ -1,0 +1,199 @@
+{
+  "author": "Dirección General de Estadísticas y Censos",
+  "author_email": "datosabiertos@buenosaires.gob.ar",
+  "creator_user_id": "931fac92-738f-4472-b1c1-f5c2f6e46af3",
+  "extras": [
+    {
+      "key": "Documentación",
+      "value": ""
+    },
+    {
+      "key": "accrualPeriodicity",
+      "value": "eventual"
+    },
+    {
+      "key": "country",
+      "value": "ARG"
+    },
+    {
+      "key": "district",
+      "value": ""
+    },
+    {
+      "key": "home_featured",
+      "value": "false"
+    },
+    {
+      "key": "issued",
+      "value": "2020-08-03T10:55:58.581313"
+    },
+    {
+      "key": "language",
+      "value": "[\"spa\"]"
+    },
+    {
+      "key": "modified",
+      "value": "2021-03-01T14:52:54.845739"
+    },
+    {
+      "key": "province",
+      "value": ""
+    },
+    {
+      "key": "source",
+      "value": "Dirección General de Estadísticas y Censos"
+    },
+    {
+      "key": "spatial",
+      "value": "ARG"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"HEAL\"]"
+    },
+    {
+      "key": "temporal",
+      "value": ""
+    }
+  ],
+  "groups": [
+    {
+      "description": "",
+      "display_name": "Salud",
+      "id": "0be192e9-f1b7-4308-bb9a-f362e2ff44a6",
+      "image_display_url": "https://data.buenosaires.gob.ar/uploads/group/2019-11-16-145030.020776salud.png",
+      "name": "salud",
+      "title": "Salud"
+    }
+  ],
+  "id": "3d5de84c-6aca-4a37-93ae-182a23d27d0f",
+  "isopen": true,
+  "license_id": "CC-BY-2.5-AR",
+  "license_title": "Atribucion 2.5 Argentina (CC BY 2.5 AR)",
+  "license_url": "https://creativecommons.org/licenses/by/2.5/ar ",
+  "maintainer": "Subsecretaría de Políticas Públicas Basadas en Evidencia. DG Arquitectura de Datos",
+  "maintainer_email": "datosabiertos@buenosaires.gob.ar",
+  "metadata_created": "2020-08-03T13:51:00.030289",
+  "metadata_modified": "2021-03-01T17:52:54.859054",
+  "name": "tasa-mortalidad-fetal",
+  "notes": "Tasa de mortalidad fetal por sexo (por mil nacimientos). Ciudad de Buenos Aires. Años 1980-1985-1990-1995/2018",
+  "num_resources": 2,
+  "num_tags": 4,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-11-15T19:18:36.747317",
+    "description": "",
+    "id": "800664f9-ab56-4482-a6c8-0a1d316bf35b",
+    "image_url": "",
+    "is_organization": true,
+    "name": "direccion-general-de-estadisticas-y-censos",
+    "revision_id": "62a8b16c-0849-419d-a339-8e14d1b4a010",
+    "state": "active",
+    "title": "Dirección General de Estadísticas y Censos",
+    "type": "organization"
+  },
+  "owner_org": "800664f9-ab56-4482-a6c8-0a1d316bf35b",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "",
+      "accessURL_field": "",
+      "attributesDescription": "[{\"title\":\"Año\",\"description\":\"Año\",\"type\":\"integer\"},{\"title\":\"Promedio\",\"description\":\"Promedio\",\"type\":\"number\"},{\"title\":\"Varon\",\"description\":\"Varon\",\"type\":\"number\"},{\"title\":\"MUjer\",\"description\":\"Mujer\",\"type\":\"number\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2020-08-03T17:00:51.497996",
+      "datastore_active": false,
+      "description": "Tasa de mortalidad fetal por sexo (por mil nacimientos). Ciudad de Buenos Aires. Años 1980-1985-1990-1995/2018",
+      "fileName": "",
+      "format": "CSV",
+      "has-uploaded-file": "",
+      "hash": "",
+      "icon_url": "",
+      "id": "a0383018-6ff6-40e0-af23-df99a28fafdb",
+      "issued": "2020-08-03T17:00:51.497996",
+      "last_modified": "2020-08-03T00:00:00",
+      "license_id": "CC-BY-4.0",
+      "mimetype": "text/csv",
+      "mimetype_inner": null,
+      "modified": "2020-08-03T14:11:35.905414",
+      "name": "Tasa de mortalidad fetal por sexo",
+      "package_id": "3d5de84c-6aca-4a37-93ae-182a23d27d0f",
+      "position": 0,
+      "resource_type": "file",
+      "revision_id": "7df01c98-50f2-4ae1-a190-5ab1bd6e0408",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/direccion-general-de-estadisticas-y-censos/tasa-mortalidad-fetal/tasa_mortalidad_fetal.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "",
+      "accessURL_field": "",
+      "attributesDescription": "[{\"title\":\"Año\",\"description\":\"Año\",\"type\":\"integer\"},{\"title\":\"Promedio\",\"description\":\"Promedio\",\"type\":\"number\"},{\"title\":\"Varon\",\"description\":\"Varon\",\"type\":\"number\"},{\"title\":\"MUjer\",\"description\":\"Mujer\",\"type\":\"number\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2020-08-03T17:00:55.446727",
+      "datastore_active": false,
+      "description": "Tasa de mortalidad fetal por sexo (por mil nacimientos). Ciudad de Buenos Aires. Años 1980-1985-1990-1995/2018",
+      "fileName": "",
+      "format": "XLSX",
+      "has-uploaded-file": "",
+      "hash": "",
+      "icon_url": "",
+      "id": "374a9008-b65f-4a13-a112-de750a26fe68",
+      "issued": "2020-08-03T17:00:55.446727",
+      "last_modified": "2020-08-03T00:00:00",
+      "license_id": "CC-BY-4.0",
+      "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "mimetype_inner": null,
+      "modified": "2020-08-03T14:11:46.889179",
+      "name": "Tasa de mortalidad fetal por sexo (XLSX)",
+      "package_id": "3d5de84c-6aca-4a37-93ae-182a23d27d0f",
+      "position": 1,
+      "resource_type": "file",
+      "revision_id": "1b7ba0a6-8938-45e7-aca2-69d2085f0cc7",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/direccion-general-de-estadisticas-y-censos/tasa-mortalidad-fetal/tasa_mortalidad_fetal.xlsx",
+      "url_type": null
+    }
+  ],
+  "revision_id": "3f99a812-5960-4288-a51e-e8fc8a65de67",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "fetal",
+      "id": "62a04a5b-8c23-4fd4-8e54-83b4353f5ce9",
+      "name": "fetal",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "genero",
+      "id": "21b2d7ce-8cbc-4852-aa06-cea4bc73567f",
+      "name": "genero",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "mortalidad",
+      "id": "e1f9dc75-73d3-492a-a615-1ce4d7680f3b",
+      "name": "mortalidad",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "tasa",
+      "id": "17888845-16d8-415b-b9e0-430b4e189cb4",
+      "name": "tasa",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Tasa de mortalidad fetal por sexo",
+  "type": "dataset",
+  "url": "https://data.buenosaires.gob.ar/dataset/tasa-mortalidad-fetal",
+  "version": null
+}

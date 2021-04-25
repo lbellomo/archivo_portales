@@ -1,0 +1,217 @@
+{
+  "author": "Secretaría de Transporte y Obras Públicas. Jefatura de Gabinete de Ministros",
+  "author_email": "datosabiertos@buenosaires.gob.ar",
+  "creator_user_id": "e4546f46-e966-493c-b2f1-57318502c41b",
+  "extras": [
+    {
+      "key": "Documentación",
+      "value": ""
+    },
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P1Y"
+    },
+    {
+      "key": "country",
+      "value": "None"
+    },
+    {
+      "key": "district",
+      "value": ""
+    },
+    {
+      "key": "home_featured",
+      "value": "false"
+    },
+    {
+      "key": "issued",
+      "value": "2019-04-22T15:06:21.268738"
+    },
+    {
+      "key": "language",
+      "value": "[]"
+    },
+    {
+      "key": "modified",
+      "value": "2021-03-05T10:27:30.926308"
+    },
+    {
+      "key": "province",
+      "value": ""
+    },
+    {
+      "key": "source",
+      "value": "Subgerencia de Información Geoespacial. DG Ciencias de la Información. SS de Políticas Públicas Basadas en Evidencia. Secretaría de Innovación y Transformación Digital. Jefatura de Gabinete de Ministros"
+    },
+    {
+      "key": "spatial",
+      "value": "None"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"GOVE\",\"TRAN\"]"
+    },
+    {
+      "key": "temporal",
+      "value": ""
+    }
+  ],
+  "groups": [
+    {
+      "description": "",
+      "display_name": "Administración Pública",
+      "id": "8cb134a8-90ea-4e69-a96d-c03449917dc9",
+      "image_display_url": "https://data.buenosaires.gob.ar/uploads/group/2019-11-16-144810.360383adminpublica.png",
+      "name": "administracion-publica",
+      "title": "Administración Pública"
+    },
+    {
+      "description": "",
+      "display_name": "Movilidad",
+      "id": "e616e02e-64d8-4fb0-b55d-08e75eb58376",
+      "image_display_url": "https://data.buenosaires.gob.ar/uploads/group/2019-11-16-145017.234366movilidad.png",
+      "name": "movilidad",
+      "title": "Movilidad"
+    }
+  ],
+  "id": "94327d58-4878-43db-a95a-548ea728a95d",
+  "isopen": true,
+  "license_id": "CC-BY-2.5-AR",
+  "license_title": "Atribucion 2.5 Argentina (CC BY 2.5 AR)",
+  "license_url": "https://creativecommons.org/licenses/by/2.5/ar ",
+  "maintainer": "Gerencia Operativa de Ingeniería de Datos. DG Arquitectura de Datos. SS de Políticas Públicas Basadas en Evidencia. Secretaría de Innovación y Transformación Digital. Jefatura de Gabinete de Ministros",
+  "maintainer_email": "datosabiertos@buenosaires.gob.ar",
+  "metadata_created": "2019-12-11T18:18:19.400973",
+  "metadata_modified": "2021-03-05T13:27:30.988220",
+  "name": "verificacion-tecnica-vehicular-vtv",
+  "notes": "Lugares autorizados para realizar la verificación técnica vehicular en la Ciudad Autónoma de Buenos Aires.",
+  "num_resources": 3,
+  "num_tags": 4,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-11-15T19:19:49.916928",
+    "description": "",
+    "id": "56b60b46-a47c-48fb-9bd4-c2ad0e05fef2",
+    "image_url": "",
+    "is_organization": true,
+    "name": "transporte-y-obras-publicas",
+    "revision_id": "c33c86a3-e197-468f-8b66-5b943b3bf106",
+    "state": "active",
+    "title": "Secretaría de Transporte y Obras Públicas",
+    "type": "organization"
+  },
+  "owner_org": "56b60b46-a47c-48fb-9bd4-c2ad0e05fef2",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/94327d58-4878-43db-a95a-548ea728a95d/resource/237cf476-8ec8-422e-8484-6cf68116fe3d",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-04-22T12:10:07.478631",
+      "datastore_active": false,
+      "description": "Listado con los lugares autorizados para realizar la verificación técnica vehicular (VTV). Incluye planta, horarios, link, ubicación geográfica.",
+      "fileName": "verificacion-tecnica-vehicular.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "237cf476-8ec8-422e-8484-6cf68116fe3d",
+      "last_modified": "2019-04-22T12:10:07.478631",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Verificación Técnica Vehicular",
+      "package_id": "94327d58-4878-43db-a95a-548ea728a95d",
+      "position": 0,
+      "resource_type": "file",
+      "revision_id": "c489cd21-66fa-4a43-98ea-53a6a7aef507",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/verificacion-tecnica-vehicular/verificacion-tecnica-vehicular.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/94327d58-4878-43db-a95a-548ea728a95d/resource/699cb51a-215a-4394-8b01-49e870a6fc3a",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-04-22T12:13:10.126330",
+      "datastore_active": false,
+      "description": "Archivo shapefile de los lugares autorizados para realizar la verificación técnica vehicular en la Ciudad.",
+      "fileName": "verificacion-tecnica-vehicular.zip",
+      "format": "ZIP",
+      "hash": "",
+      "id": "699cb51a-215a-4394-8b01-49e870a6fc3a",
+      "last_modified": "2019-04-22T12:13:10.126330",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Verificación Técnica Vehicular (SHP)",
+      "package_id": "94327d58-4878-43db-a95a-548ea728a95d",
+      "position": 1,
+      "resource_type": "file",
+      "revision_id": "97f8ad7e-6bb0-48d6-a7e6-5795a8a47ecb",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/verificacion-tecnica-vehicular/verificacion-tecnica-vehicular.zip",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/94327d58-4878-43db-a95a-548ea728a95d/resource/237cf476-8ec8-422e-8484-6cf68116fe3d",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-04-22T12:10:07.478631",
+      "datastore_active": false,
+      "description": "Listado con los lugares autorizados para realizar la verificación técnica vehicular (VTV). Incluye planta, horarios, link, ubicación geográfica.",
+      "fileName": "verificacion-tecnica-vehicular.xlsx",
+      "format": "XLSX",
+      "hash": "",
+      "id": "237cf476-8ec8-422e-8484-6cf68116fe3d-xlsx",
+      "last_modified": "2019-04-22T12:10:07.478631",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Verificación Técnica Vehicular (XLSX)",
+      "package_id": "94327d58-4878-43db-a95a-548ea728a95d",
+      "position": 2,
+      "resource_type": "file",
+      "revision_id": "7fed20a3-bacb-4488-bba5-9271a5bc8ae8",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/verificacion-tecnica-vehicular/verificacion-tecnica-vehicular.xlsx",
+      "url_type": null
+    }
+  ],
+  "revision_id": "0aaa46f7-2346-4841-bca2-41dbf3fd2f70",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "USIG",
+      "id": "aee9194d-357a-4be9-92dc-231569313d87",
+      "name": "USIG",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "plantas de verificación",
+      "id": "f13ad2e6-1218-4fc6-a807-1d596b494be4",
+      "name": "plantas de verificación",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "trámites",
+      "id": "ae70f36c-1fa0-49ad-a098-797e085dcd15",
+      "name": "trámites",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "vehículos",
+      "id": "bf15f20d-d192-4315-9b9d-646daa9aaa03",
+      "name": "vehículos",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Verificación Técnica Vehicular (VTV)",
+  "type": "dataset",
+  "url": "https://data.buenosaires.gob.ar/dataset/verificacion-tecnica-vehicular-vtv",
+  "version": null
+}

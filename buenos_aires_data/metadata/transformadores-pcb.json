@@ -1,0 +1,223 @@
+{
+  "author": "Ministerio de Ambiente y Espacio Público. Agencia de Protección Ambiental (APRA)",
+  "author_email": "datosabiertos@buenosaires.gob.ar",
+  "creator_user_id": "e4546f46-e966-493c-b2f1-57318502c41b",
+  "extras": [
+    {
+      "key": "Documentación",
+      "value": ""
+    },
+    {
+      "key": "accrualPeriodicity",
+      "value": "eventual"
+    },
+    {
+      "key": "country",
+      "value": "None"
+    },
+    {
+      "key": "district",
+      "value": ""
+    },
+    {
+      "key": "home_featured",
+      "value": "false"
+    },
+    {
+      "key": "issued",
+      "value": "2019-01-08T14:51:07.803480"
+    },
+    {
+      "key": "language",
+      "value": "[]"
+    },
+    {
+      "key": "modified",
+      "value": "2021-03-01T14:34:18.667732"
+    },
+    {
+      "key": "province",
+      "value": ""
+    },
+    {
+      "key": "source",
+      "value": "Ministerio de Ambiente y Espacio Público. Agencia de Protección Ambiental (APRA)"
+    },
+    {
+      "key": "spatial",
+      "value": "None"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"ENVI\"]"
+    },
+    {
+      "key": "temporal",
+      "value": ""
+    }
+  ],
+  "groups": [
+    {
+      "description": "",
+      "display_name": "Medioambiente",
+      "id": "a99c1197-8379-4a60-a6eb-8737cab5ec4f",
+      "image_display_url": "https://data.buenosaires.gob.ar/uploads/group/2019-11-16-145003.550663medioambiente.png",
+      "name": "medioambiente",
+      "title": "Medioambiente"
+    }
+  ],
+  "id": "juqdkmgo-210",
+  "isopen": true,
+  "license_id": "CC-BY-2.5-AR",
+  "license_title": "Atribucion 2.5 Argentina (CC BY 2.5 AR)",
+  "license_url": "https://creativecommons.org/licenses/by/2.5/ar ",
+  "maintainer": "Secretaría General y Relaciones Internacionales. Subsecretaría Gestión Estratégica y Calidad Institucional. Dirección General Calidad Institucional y Gobierno Abierto",
+  "maintainer_email": "datosabiertos@buenosaires.gob.ar",
+  "metadata_created": "2019-12-11T18:06:42.333142",
+  "metadata_modified": "2021-03-01T17:34:18.682196",
+  "name": "transformadores-pcb",
+  "notes": "Ubicación geográfica y potencia de los transformadores, el tipo de material aislante que utilizan y las concentraciones de PCBs de cada uno. Cuenta con más de 7 mil puntos georeferenciados que coinciden con emplazamientos con PCBs.",
+  "num_resources": 3,
+  "num_tags": 6,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-11-15T19:17:10.767872",
+    "description": "",
+    "id": "87797715-09c9-4b3e-9af6-074850fba840",
+    "image_url": "",
+    "is_organization": true,
+    "name": "agencia-de-proteccion-ambiental",
+    "revision_id": "31d4bbad-1773-4015-9f8e-2e040bc7900a",
+    "state": "active",
+    "title": "Agencia de Protección Ambiental",
+    "type": "organization"
+  },
+  "owner_org": "87797715-09c9-4b3e-9af6-074850fba840",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/transformadores-pcb",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-01-08T14:51:07.803480",
+      "datastore_active": false,
+      "description": "Ubicación geográfica de los transformadores en la Ciudad. El recurso ha sido convertido desde el sistema de proyección Gauss Krugger Buenos Aires a WGS84.",
+      "fileName": "transformadores-pcb.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "juqdkmgo-2101-resource",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Transformadores PCB",
+      "package_id": "juqdkmgo-210",
+      "position": 0,
+      "resource_type": "file",
+      "revision_id": "398595ec-f536-4ba7-84bb-bfca531b189f",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/transformadores-pcb/transformadores-pcb.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/transformadores-pcb",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-01-08T14:51:07.803480",
+      "datastore_active": false,
+      "description": "Archivo shapefile con la ubicación geográfica de los transformadores en la Ciudad.",
+      "fileName": "transformadores-pcb-zip.zip",
+      "format": "ZIP",
+      "hash": "",
+      "id": "juqdkmgo-2102-resource",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Transformadores PCB (SHP)",
+      "package_id": "juqdkmgo-210",
+      "position": 1,
+      "resource_type": "file",
+      "revision_id": "1e75b825-8492-403b-bc38-59c4314792bf",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/transformadores-pcb/transformadores-pcb-zip.zip",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/transformadores-pcb",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-01-08T14:51:07.803480",
+      "datastore_active": false,
+      "description": "Ubicación geográfica de los transformadores en la Ciudad. El recurso ha sido convertido desde el sistema de proyección Gauss Krugger Buenos Aires a WGS84.",
+      "fileName": "transformadores-pcb.xlsx",
+      "format": "XLSX",
+      "hash": "",
+      "id": "juqdkmgo-2101-resource-xlsx",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Transformadores PCB (XLSX)",
+      "package_id": "juqdkmgo-210",
+      "position": 2,
+      "resource_type": "file",
+      "revision_id": "99cde4be-ba43-44cd-ac69-2afb8c09055f",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/transformadores-pcb/transformadores-pcb.xlsx",
+      "url_type": null
+    }
+  ],
+  "revision_id": "da1dd3d8-8a72-46bf-9e79-320d92416a41",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "ambiente",
+      "id": "c5951c2e-5d33-4a1e-93cf-9ffd87d9ea86",
+      "name": "ambiente",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "comunicación",
+      "id": "18425ec7-cc5c-4a2f-8e2b-f9e54c7dd5f1",
+      "name": "comunicación",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "contaminación",
+      "id": "fc8758d1-2f19-43d0-a6ab-f1c870eaf43f",
+      "name": "contaminación",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "mapa",
+      "id": "2c83da8e-2e03-47e6-aee4-bb965600000d",
+      "name": "mapa",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "salud",
+      "id": "92c7f3e1-f781-4b82-a933-7408e37b3687",
+      "name": "salud",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "tecnología",
+      "id": "4043a257-dc0e-40fe-a78f-a96f55e330f1",
+      "name": "tecnología",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Transformadores PCB",
+  "type": "dataset",
+  "url": "https://data.buenosaires.gob.ar/dataset/transformadores-pcb",
+  "version": null
+}

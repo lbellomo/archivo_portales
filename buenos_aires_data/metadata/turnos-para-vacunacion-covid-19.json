@@ -1,0 +1,228 @@
+{
+  "author": "Sistema de Gestión de Citas del Gobierno de la Ciudad. SS. de Experiencia Digital. Secretaria de Innovación y Transformación Digital. Jefatura de Gabinete de Ministros",
+  "author_email": "datosabiertos@buenosaires.gob.ar",
+  "creator_user_id": "3ff46b8e-0885-4233-9acd-90f8b7e76333",
+  "extras": [
+    {
+      "key": "Documentación",
+      "value": ""
+    },
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P1D"
+    },
+    {
+      "key": "country",
+      "value": "None"
+    },
+    {
+      "key": "district",
+      "value": ""
+    },
+    {
+      "key": "home_featured",
+      "value": "false"
+    },
+    {
+      "key": "issued",
+      "value": "2021-03-03T00:10:47.532487"
+    },
+    {
+      "key": "language",
+      "value": "[]"
+    },
+    {
+      "key": "modified",
+      "value": "2021-04-25"
+    },
+    {
+      "key": "province",
+      "value": ""
+    },
+    {
+      "key": "source",
+      "value": "Sistema de Gestión de Citas del Gobierno de la Ciudad. SS. de Experiencia Digital. Secretaria de Innovación y Transformación Digital. Jefatura de Gabinete de Ministros"
+    },
+    {
+      "key": "spatial",
+      "value": "None"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"GOVE\",\"HEAL\"]"
+    },
+    {
+      "key": "temporal",
+      "value": ""
+    }
+  ],
+  "groups": [
+    {
+      "description": "Datasets relacionados a COVID-19",
+      "display_name": "COVID-19",
+      "id": "0f30f631-df60-4d33-aedb-96c9a48a2332",
+      "image_display_url": "https://data.buenosaires.gob.ar/uploads/group/2020-07-23-165939.349779iconocovid19.png",
+      "name": "covid-19",
+      "title": "COVID-19"
+    },
+    {
+      "description": "",
+      "display_name": "Salud",
+      "id": "0be192e9-f1b7-4308-bb9a-f362e2ff44a6",
+      "image_display_url": "https://data.buenosaires.gob.ar/uploads/group/2019-11-16-145030.020776salud.png",
+      "name": "salud",
+      "title": "Salud"
+    }
+  ],
+  "id": "fa454d4f-8bad-4722-a28e-00d33a4a1bd6",
+  "isopen": true,
+  "license_id": "CC-BY-2.5-AR",
+  "license_title": "Atribucion 2.5 Argentina (CC BY 2.5 AR)",
+  "license_url": "https://creativecommons.org/licenses/by/2.5/ar ",
+  "maintainer": "Gerencia Operativa de Ingeniería de Datos. DG Arquitectura de Datos. SS de Políticas Públicas Basadas en Evidencia. Secretaría de Innovación y Transformación Digital. Jefatura de Gabinete de Ministros",
+  "maintainer_email": "datosabiertos@buenosaires.gob.ar",
+  "metadata_created": "2021-03-01T13:33:38.324432",
+  "metadata_modified": "2021-04-25T04:00:16.058919",
+  "name": "turnos-para-vacunacion-covid-19",
+  "notes": "Información sobre los turnos asignados para vacunación contra COVID-19. Incluye datos desagregados por sexo, la posta de vacunación y las fechas de las citas elegidas por los usuarios. ",
+  "num_resources": 2,
+  "num_tags": 7,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-11-15T19:17:04.156344",
+    "description": "",
+    "id": "c055e91b-2714-47e4-b47e-6bb063f32776",
+    "image_url": "",
+    "is_organization": true,
+    "name": "ministerio-de-salud",
+    "revision_id": "b72e4fc3-266f-4a53-bbd7-690b4ccff688",
+    "state": "active",
+    "title": "Ministerio de Salud",
+    "type": "organization"
+  },
+  "owner_org": "c055e91b-2714-47e4-b47e-6bb063f32776",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "",
+      "accessURL_field": "",
+      "attributesDescription": "[{\"title\":\"genero\",\"description\":\"Sexo consignado por el usuario que saca el turno.\",\"type\":\"string\"},{\"title\":\"sede\",\"description\":\"Posta seleccionada por el usuario para recibir la vacuna. \",\"type\":\"string\"},{\"title\":\"servicio\",\"description\":\"Receptores de la vacuna. \",\"type\":\"string\"},{\"title\":\"fecha_cita\",\"description\":\"Fecha seleccionada por el usuario para recibir la vacuna.\",\"type\":\"string\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2021-03-03T02:47:06.089229",
+      "datastore_active": false,
+      "description": "Información sobre los turnos otorgados para recibir la vacuna contra el COVID-19. Incluye distinciones por sexo, edades y fecha de la cita.",
+      "fileName": "dataset_turnos_detalle.csv",
+      "format": "CSV",
+      "has-uploaded-file": "",
+      "hash": "",
+      "icon_url": "",
+      "id": "30aabf75-7c97-4fd2-ba9f-a1a1b3e49790",
+      "issued": "2021-03-02T23:47:06.038182",
+      "last_modified": null,
+      "license_id": "CC-BY-2.5-AR",
+      "mimetype": "text/csv",
+      "mimetype_inner": null,
+      "modified": "2021-04-25",
+      "name": "Turnos para vacunación COVID-19",
+      "package_id": "fa454d4f-8bad-4722-a28e-00d33a4a1bd6",
+      "position": 0,
+      "resource_type": "file",
+      "revision_id": "b4bff62b-e4da-4dd2-9e00-5e4f0b8200b0",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/salud/turnos-para-vacunacion-covid-19/dataset_turnos_detalle.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/salud/turnos-para-vacunacion-covid-19/dataset_turnos_lista_espera.csv",
+      "accessURL_field": "",
+      "attributesDescription": "[{\"title\":\"fecha\",\"description\":\"Fecha en la que se solicitó el turno\",\"type\":\"string\"},{\"title\":\"n\",\"description\":\"Cantidad de personas que quedaron empadronadas para cuando se reabran los turnos\",\"type\":\"integer\"},{\"title\":\"estrategia\",\"description\":\"Característica de los solicitantes del turno. \",\"type\":\"string\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2021-03-02T23:23:09.913706",
+      "datastore_active": false,
+      "description": "Personas que todavía que quedaron empadronadas para cuando se reabran los turnos. ",
+      "fileName": "dataset_turnos_lista_espera.csv",
+      "format": "CSV",
+      "has-uploaded-file": "",
+      "hash": "",
+      "icon_url": "",
+      "id": "6bd655d4-5d0a-4a74-8f20-8a36fdf34b06",
+      "issued": "2021-03-02T23:58:58.818791",
+      "last_modified": null,
+      "license_id": "CC-BY-2.5-AR",
+      "mimetype": "text/csv",
+      "mimetype_inner": null,
+      "modified": "2021-04-25",
+      "name": "Empadronados y empadronadas COVID-19",
+      "package_id": "fa454d4f-8bad-4722-a28e-00d33a4a1bd6",
+      "position": 1,
+      "resource_type": "file",
+      "revision_id": "9434aac9-db36-449b-b0ba-07224cab8558",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/salud/turnos-para-vacunacion-covid-19/dataset_turnos_lista_espera.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "2cf7ed2a-3737-4eee-8dc6-e98fb7e097d0",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "COVID-19",
+      "id": "931486a5-526e-433d-a642-4768937b65d8",
+      "name": "COVID-19",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "género",
+      "id": "983afd4b-d371-4cfb-add2-467b355c0578",
+      "name": "género",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "plan de vacunación",
+      "id": "fda68e61-5dcc-483d-9430-f2c465f5906f",
+      "name": "plan de vacunación",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "postas de vacunación",
+      "id": "bd8664e7-1efc-4c38-b262-f9b0c2e1cf2c",
+      "name": "postas de vacunación",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "salud",
+      "id": "92c7f3e1-f781-4b82-a933-7408e37b3687",
+      "name": "salud",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "turnos",
+      "id": "a46ee633-bd1f-47cc-a5fb-b020c4ead49c",
+      "name": "turnos",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "vacunas",
+      "id": "c1bc3f42-70ed-41b1-b8ca-7a51cfd4639d",
+      "name": "vacunas",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Turnos para vacunación COVID-19",
+  "type": "dataset",
+  "url": "https://data.buenosaires.gob.ar/dataset/turnos-para-vacunacion-covid-19",
+  "version": null
+}

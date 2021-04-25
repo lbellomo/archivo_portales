@@ -1,0 +1,233 @@
+{
+  "author": "Ministerio de Justicia y Seguridad. SEC de Seguridad. SS de Seguridad Ciudadana. DG de Seguridad Privada",
+  "author_email": "datosabiertos@buenosaires.gob.ar",
+  "creator_user_id": "e4546f46-e966-493c-b2f1-57318502c41b",
+  "extras": [
+    {
+      "key": "Documentación",
+      "value": ""
+    },
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P1M"
+    },
+    {
+      "key": "country",
+      "value": "None"
+    },
+    {
+      "key": "district",
+      "value": ""
+    },
+    {
+      "key": "home_featured",
+      "value": "false"
+    },
+    {
+      "key": "issued",
+      "value": "2019-01-08T14:58:24.993819"
+    },
+    {
+      "key": "language",
+      "value": "[]"
+    },
+    {
+      "key": "modified",
+      "value": "2021-03-05T11:15:52.609552"
+    },
+    {
+      "key": "province",
+      "value": ""
+    },
+    {
+      "key": "source",
+      "value": "Ministerio de Justicia y Seguridad. SEC de Seguridad. SS de Seguridad Ciudadana. DG de Seguridad Privada"
+    },
+    {
+      "key": "spatial",
+      "value": "None"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"JUST\"]"
+    },
+    {
+      "key": "temporal",
+      "value": ""
+    }
+  ],
+  "groups": [
+    {
+      "description": "",
+      "display_name": "Seguridad",
+      "id": "b656bb3f-230a-414f-acce-19d0d98e01df",
+      "image_display_url": "https://data.buenosaires.gob.ar/uploads/group/2019-11-16-145044.366204segu.png",
+      "name": "seguridad",
+      "title": "Seguridad"
+    }
+  ],
+  "id": "juqdkmgo-216",
+  "isopen": true,
+  "license_id": "CC-BY-2.5-AR",
+  "license_title": "Atribucion 2.5 Argentina (CC BY 2.5 AR)",
+  "license_url": "https://creativecommons.org/licenses/by/2.5/ar ",
+  "maintainer": "Secretaría General y Relaciones Internacionales. Subsecretaría Gestión Estratégica y Calidad Institucional. Dirección General Calidad Institucional y Gobierno Abierto",
+  "maintainer_email": "datosabiertos@buenosaires.gob.ar",
+  "metadata_created": "2019-12-11T18:30:40.885596",
+  "metadata_modified": "2021-03-05T14:15:52.649453",
+  "name": "vigiladores-locales-bailables",
+  "notes": "Listado de vigiladores de locales bailables que trabajan en relación de dependencia habilitados por la Dirección General de Seguridad Privada.",
+  "num_resources": 4,
+  "num_tags": 4,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-11-15T19:17:53.819720",
+    "description": "",
+    "id": "e2eed892-7682-45f9-b137-74d2acc7e119",
+    "image_url": "",
+    "is_organization": true,
+    "name": "ministerio-de-justicia-y-seguridad",
+    "revision_id": "f34a7336-3a80-4154-9a35-d044f096a2b6",
+    "state": "active",
+    "title": "Ministerio de Justicia y Seguridad",
+    "type": "organization"
+  },
+  "owner_org": "e2eed892-7682-45f9-b137-74d2acc7e119",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/vigiladores-de-locales-bailables",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-04-23T17:02:19.254233",
+      "datastore_active": false,
+      "description": "Nombre, apellido, dni, vigencia de licencia de los vigiladores de seguridad privada y local bailable donde presta servicio.",
+      "fileName": "vigiladores-de-locales-bailables-historico.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "juqdkmgo-2161-resource",
+      "last_modified": "2019-04-23T17:02:19.254233",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Vigiladores de Locales Bailables Histórico",
+      "package_id": "juqdkmgo-216",
+      "position": 0,
+      "resource_type": "file",
+      "revision_id": "4e521c84-cebb-4a66-a581-d733cc581326",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/vigiladores-de-locales-bailables/vigiladores-de-locales-bailables-historico.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/216/resource/cff1131c-d19b-41df-882f-f2bc5563f92e",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-04-23T17:02:25.905006",
+      "datastore_active": false,
+      "description": "Nombre, apellido, dni, vigencia de licencia de los vigiladores de seguridad privada y local bailable donde presta servicio.",
+      "fileName": "vigiladores-de-locales-bailables-2019.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "cff1131c-d19b-41df-882f-f2bc5563f92e",
+      "last_modified": "2019-04-23T17:02:25.905006",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Vigiladores de Locales Bailables 2019",
+      "package_id": "juqdkmgo-216",
+      "position": 1,
+      "resource_type": "file",
+      "revision_id": "001a501d-2196-4308-8a82-ede54019bef4",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/vigiladores-de-locales-bailables/vigiladores-de-locales-bailables-2019.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/vigiladores-de-locales-bailables",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-04-23T17:02:19.254233",
+      "datastore_active": false,
+      "description": "Nombre, apellido, dni, vigencia de licencia de los vigiladores de seguridad privada y local bailable donde presta servicio.",
+      "fileName": "vigiladores-de-locales-bailables-historico.xlsx",
+      "format": "XLSX",
+      "hash": "",
+      "id": "juqdkmgo-2161-resource-xlsx",
+      "last_modified": "2019-04-23T17:02:19.254233",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Vigiladores de Locales Bailables Histórico (XLSX)",
+      "package_id": "juqdkmgo-216",
+      "position": 2,
+      "resource_type": "file",
+      "revision_id": "7e6d2b8d-dc3f-4422-9a08-7d3cc75e232e",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/vigiladores-de-locales-bailables/vigiladores-de-locales-bailables-historico.xlsx",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/216/resource/cff1131c-d19b-41df-882f-f2bc5563f92e",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-04-23T17:02:25.905006",
+      "datastore_active": false,
+      "description": "Nombre, apellido, dni, vigencia de licencia de los vigiladores de seguridad privada y local bailable donde presta servicio.",
+      "fileName": "vigiladores-de-locales-bailables-2019.xlsx",
+      "format": "XLSX",
+      "hash": "",
+      "id": "cff1131c-d19b-41df-882f-f2bc5563f92e-xlsx",
+      "last_modified": "2019-04-23T17:02:25.905006",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Vigiladores de Locales Bailables 2019 (XLSX)",
+      "package_id": "juqdkmgo-216",
+      "position": 3,
+      "resource_type": "file",
+      "revision_id": "75130743-ae85-4ae4-95c7-483537e1d457",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/vigiladores-de-locales-bailables/vigiladores-de-locales-bailables-2019.xlsx",
+      "url_type": null
+    }
+  ],
+  "revision_id": "42f1f93d-30c8-4e9b-8ed6-a0cbd4859c34",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "bailables",
+      "id": "3d6eeb65-7a6d-45dc-a8d1-7512293e6809",
+      "name": "bailables",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "locales",
+      "id": "fd65f84c-8806-4070-b942-f8ea0f0bb7ab",
+      "name": "locales",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "seguridad",
+      "id": "40254c39-6a3d-41e7-9044-39dc4b0eda4d",
+      "name": "seguridad",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "vigiladores",
+      "id": "012b2eb0-cdff-4962-a6a6-ea0b247d9016",
+      "name": "vigiladores",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Vigiladores de Locales Bailables",
+  "type": "dataset",
+  "url": "https://data.buenosaires.gob.ar/dataset/vigiladores-locales-bailables",
+  "version": null
+}

@@ -1,0 +1,275 @@
+{
+  "author": "Subsecretaría de Registro, Interpretación y Catastro. Secretaría de Desarrollo Urbano. Jefatura de Gabinete de Ministros",
+  "author_email": "datosabiertos@buenosaires.gob.ar",
+  "creator_user_id": "8d145753-992e-42a2-8db1-dad6e691981e",
+  "extras": [
+    {
+      "key": "Documentación",
+      "value": ""
+    },
+    {
+      "key": "accrualPeriodicity",
+      "value": "eventual"
+    },
+    {
+      "key": "country",
+      "value": "ARG"
+    },
+    {
+      "key": "district",
+      "value": ""
+    },
+    {
+      "key": "home_featured",
+      "value": "false"
+    },
+    {
+      "key": "issued",
+      "value": "2021-02-03T14:16:40.624676"
+    },
+    {
+      "key": "language",
+      "value": "[\"spa\"]"
+    },
+    {
+      "key": "modified",
+      "value": "2021-03-05T10:29:26.019481"
+    },
+    {
+      "key": "province",
+      "value": ""
+    },
+    {
+      "key": "source",
+      "value": "Subsecretaría de Registro, Interpretación y Catastro. Secretaría de Desarrollo Urbano. Jefatura de Gabinete de Ministros"
+    },
+    {
+      "key": "spatial",
+      "value": "ARG"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"GOVE\"]"
+    },
+    {
+      "key": "temporal",
+      "value": ""
+    }
+  ],
+  "groups": [
+    {
+      "description": "Datasets relacionados con urbanismo y territorio",
+      "display_name": "Urbanismo y Territorio",
+      "id": "63e162a0-3f4a-446a-a60b-601d16f36200",
+      "image_display_url": "https://data.buenosaires.gob.ar/uploads/group/2019-11-16-145056.781692urba.png",
+      "name": "urbanismo-y-territorio",
+      "title": "Urbanismo y Territorio"
+    }
+  ],
+  "id": "ab1ae56d-9bbd-47cb-866f-8355f7d0784b",
+  "isopen": true,
+  "license_id": "CC-BY-2.5-AR",
+  "license_title": "Atribucion 2.5 Argentina (CC BY 2.5 AR)",
+  "license_url": "https://creativecommons.org/licenses/by/2.5/ar ",
+  "maintainer": "Gerencia Operativa de Ingeniería de Datos. DG Arquitectura de Datos. SS de Políticas Públicas Basadas en Evidencia. Secretaría de Innovación y Transformación Digital. Jefatura de Gabinete de Ministros",
+  "maintainer_email": "datosabiertos@buenosaires.gob.ar",
+  "metadata_created": "2021-02-03T16:31:46.810325",
+  "metadata_modified": "2021-03-05T13:29:26.031692",
+  "name": "superficie-edificable-en-planta",
+  "notes": "Información sobre las superficies edificables en cada parcela de la Ciudad. ",
+  "num_resources": 4,
+  "num_tags": 6,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-11-15T19:19:23.733985",
+    "description": "",
+    "id": "eddbd148-4cef-40e1-87f7-94345c709aad",
+    "image_url": "",
+    "is_organization": true,
+    "name": "secretaria-de-desarrollo-urbano",
+    "revision_id": "14b2ab11-275f-4466-b2f4-4b60ff08fa3e",
+    "state": "active",
+    "title": "Secretaría de Desarrollo Urbano",
+    "type": "organization"
+  },
+  "owner_org": "eddbd148-4cef-40e1-87f7-94345c709aad",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "",
+      "accessURL_field": "",
+      "attributesDescription": "[{\"title\":\"smp\",\"description\":\"Código de Sección - Manzana - Parcela\",\"type\":\"string\"},{\"title\":\"superficie\",\"description\":\"Superficie\",\"type\":\"number\"},{\"title\":\"fuente\",\"description\":\"Fuente del dato\",\"type\":\"string\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2021-02-03T18:44:33.458366",
+      "datastore_active": false,
+      "description": "Información georreferenciada del area edificable del código urbanístico.",
+      "fileName": "superficie_edificable.csv",
+      "format": "CSV",
+      "has-uploaded-file": "",
+      "hash": "",
+      "icon_url": "",
+      "id": "431fc4ca-03c0-4c6e-a9de-73ce002c9223",
+      "issued": "2021-02-03T15:44:33.347391",
+      "last_modified": null,
+      "license_id": "CC-BY-4.0",
+      "mimetype": "text/csv",
+      "mimetype_inner": null,
+      "modified": "2021-02-10",
+      "name": "Superficie Edificable en Planta",
+      "package_id": "ab1ae56d-9bbd-47cb-866f-8355f7d0784b",
+      "position": 0,
+      "resource_type": "file",
+      "revision_id": "93818554-878c-4040-8b05-b965b9d365d6",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/superficie-edificable-en-planta/superficie_edificable.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "",
+      "accessURL_field": "",
+      "attributesDescription": "[{\"title\":\"id\",\"description\":\"id\",\"type\":\"string\"},{\"title\":\"smp\",\"description\":\"smp\",\"type\":\"string\"},{\"title\":\"tipo\",\"description\":\"tipo\",\"type\":\"string\"},{\"title\":\"altura_ini\",\"description\":\"altura_ini\",\"type\":\"string\"},{\"title\":\"altura_fin\",\"description\":\"altura_fin\",\"type\":\"string\"},{\"title\":\"fuente\",\"description\":\"fuente\",\"type\":\"string\"},{\"title\":\"edificabil\",\"description\":\"edificabil\",\"type\":\"string\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2021-02-10T20:55:42.418217",
+      "datastore_active": false,
+      "description": "Información georreferenciada del area edificable del código urbanístico.",
+      "fileName": "",
+      "format": "GeoJSON",
+      "has-uploaded-file": "",
+      "hash": "",
+      "icon_url": "",
+      "id": "2ad7c73b-5974-4bff-b0ad-58fde1be97ec",
+      "issued": "2021-02-10T20:55:42.418217",
+      "last_modified": "2021-02-10T00:00:00",
+      "license_id": "CC-BY-4.0",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "modified": "2021-02-10T17:57:22.951012",
+      "name": "Superficie Edificable en Planta (GEOJSON)",
+      "package_id": "ab1ae56d-9bbd-47cb-866f-8355f7d0784b",
+      "position": 1,
+      "resource_type": "file",
+      "revision_id": "f15edbc0-585d-4560-9752-406ae967e22a",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/superficie-edificable-en-planta/superficie_edificable.geojson",
+      "url_type": null
+    },
+    {
+      "accessURL": "",
+      "accessURL_field": "",
+      "attributesDescription": "[{\"title\":\"id\",\"description\":\"id\",\"type\":\"string\"},{\"title\":\"smp\",\"description\":\"smp\",\"type\":\"string\"},{\"title\":\"tipo\",\"description\":\"tipo\",\"type\":\"string\"},{\"title\":\"altura_ini\",\"description\":\"altura_ini\",\"type\":\"string\"},{\"title\":\"altura_fin\",\"description\":\"altura_fin\",\"type\":\"string\"},{\"title\":\"fuente\",\"description\":\"fuente\",\"type\":\"string\"},{\"title\":\"edificabil\",\"description\":\"edificabil\",\"type\":\"string\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2021-02-10T20:55:47.925457",
+      "datastore_active": false,
+      "description": "Información georreferenciada del area edificable del código urbanístico.",
+      "fileName": "",
+      "format": "XLSX",
+      "has-uploaded-file": "",
+      "hash": "",
+      "icon_url": "",
+      "id": "3b795b6b-6f11-4ada-87c6-a6218e0ebaa8",
+      "issued": "2021-02-10T20:55:47.925457",
+      "last_modified": "2021-02-10T00:00:00",
+      "license_id": "CC-BY-4.0",
+      "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "mimetype_inner": null,
+      "modified": "2021-02-10T17:57:41.466580",
+      "name": "Superficie Edificable en Planta (XLSX)",
+      "package_id": "ab1ae56d-9bbd-47cb-866f-8355f7d0784b",
+      "position": 2,
+      "resource_type": "file",
+      "revision_id": "dfdd5aa2-e3b0-4730-9f7e-c14622682c27",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/superficie-edificable-en-planta/superficie_edificable.xlsx",
+      "url_type": null
+    },
+    {
+      "accessURL": "",
+      "accessURL_field": "",
+      "attributesDescription": "[{\"title\":\"id\",\"description\":\"id\",\"type\":\"string\"},{\"title\":\"smp\",\"description\":\"smp\",\"type\":\"string\"},{\"title\":\"tipo\",\"description\":\"tipo\",\"type\":\"string\"},{\"title\":\"altura_ini\",\"description\":\"altura_ini\",\"type\":\"string\"},{\"title\":\"altura_fin\",\"description\":\"altura_fin\",\"type\":\"string\"},{\"title\":\"fuente\",\"description\":\"fuente\",\"type\":\"string\"},{\"title\":\"edificabil\",\"description\":\"edificabil\",\"type\":\"string\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2021-02-10T20:55:55.416144",
+      "datastore_active": false,
+      "description": "Información georreferenciada del area edificable del código urbanístico.",
+      "fileName": "",
+      "format": "ZIP",
+      "has-uploaded-file": "",
+      "hash": "",
+      "icon_url": "",
+      "id": "0ef7b671-39e5-49bd-9c03-b2f1e5ca7d5f",
+      "issued": "2021-02-10T20:55:55.416144",
+      "last_modified": "2021-02-10T00:00:00",
+      "license_id": "CC-BY-4.0",
+      "mimetype": "application/zip",
+      "mimetype_inner": null,
+      "modified": "2021-02-11T10:30:02.269624",
+      "name": "Superficie Edificable en Planta (SHP)",
+      "package_id": "ab1ae56d-9bbd-47cb-866f-8355f7d0784b",
+      "position": 3,
+      "resource_type": "file",
+      "revision_id": "e0fd5f81-f1ff-4032-ace1-1e90033c2eb9",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/superficie-edificable-en-planta/superficie_edificable.zip",
+      "url_type": null
+    }
+  ],
+  "revision_id": "88f2f1bf-4cd5-46ce-bf4f-8fe878c82e43",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "ciudad 3d",
+      "id": "85a8900e-54ff-4888-9c8f-14432f167da2",
+      "name": "ciudad 3d",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "cur3d",
+      "id": "bf125fc5-008f-4671-b9f1-e3552eb052dd",
+      "name": "cur3d",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "edificable",
+      "id": "18d4e46c-1722-45c3-bfb7-b2eed588698a",
+      "name": "edificable",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "mapa3d",
+      "id": "a13bfcbd-69e4-4505-9552-676da1aa7111",
+      "name": "mapa3d",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "plano abierto",
+      "id": "2cf0ec73-4443-4d28-b693-b2e8d7d46375",
+      "name": "plano abierto",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "superficie",
+      "id": "aa65b956-1d96-4c29-a920-b43d370bbf90",
+      "name": "superficie",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Superficie Edificable en Planta",
+  "type": "dataset",
+  "url": "https://data.buenosaires.gob.ar/dataset/superficie-edificable-en-planta",
+  "version": null
+}

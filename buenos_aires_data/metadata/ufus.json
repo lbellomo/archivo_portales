@@ -1,0 +1,353 @@
+{
+  "author": "Ministerio de Salud",
+  "author_email": "datosabiertos@buenosaires.gob.ar",
+  "creator_user_id": "e4546f46-e966-493c-b2f1-57318502c41b",
+  "extras": [
+    {
+      "key": "Documentación",
+      "value": "https://www.buenosaires.gob.ar/coronavirus/unidades-febriles-de-urgencia-ufu"
+    },
+    {
+      "key": "accrualPeriodicity",
+      "value": "eventual"
+    },
+    {
+      "key": "country",
+      "value": "ARG"
+    },
+    {
+      "key": "district",
+      "value": ""
+    },
+    {
+      "key": "home_featured",
+      "value": "false"
+    },
+    {
+      "key": "issued",
+      "value": "2020-04-10T13:03:17.502656"
+    },
+    {
+      "key": "language",
+      "value": "[\"spa\"]"
+    },
+    {
+      "key": "modified",
+      "value": "2021-04-25"
+    },
+    {
+      "key": "province",
+      "value": "02"
+    },
+    {
+      "key": "source",
+      "value": "Ministerio de Salud"
+    },
+    {
+      "key": "spatial",
+      "value": "ARG,02"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"HEAL\"]"
+    },
+    {
+      "key": "temporal",
+      "value": ""
+    }
+  ],
+  "groups": [
+    {
+      "description": "Datasets relacionados a COVID-19",
+      "display_name": "COVID-19",
+      "id": "0f30f631-df60-4d33-aedb-96c9a48a2332",
+      "image_display_url": "https://data.buenosaires.gob.ar/uploads/group/2020-07-23-165939.349779iconocovid19.png",
+      "name": "covid-19",
+      "title": "COVID-19"
+    },
+    {
+      "description": "",
+      "display_name": "Género",
+      "id": "3d97d3f5-206f-4719-8a06-54c709a25893",
+      "image_display_url": "https://data.buenosaires.gob.ar/uploads/group/2019-11-19-182128.307764genero720.png",
+      "name": "genero",
+      "title": "Género"
+    },
+    {
+      "description": "",
+      "display_name": "Salud",
+      "id": "0be192e9-f1b7-4308-bb9a-f362e2ff44a6",
+      "image_display_url": "https://data.buenosaires.gob.ar/uploads/group/2019-11-16-145030.020776salud.png",
+      "name": "salud",
+      "title": "Salud"
+    }
+  ],
+  "id": "b94ef014-4052-4c21-8c7a-bf489dbfbb31",
+  "isopen": true,
+  "license_id": "CC-BY-2.5-AR",
+  "license_title": "Atribucion 2.5 Argentina (CC BY 2.5 AR)",
+  "license_url": "https://creativecommons.org/licenses/by/2.5/ar ",
+  "maintainer": "Gerencia Operativa de Ingeniería de Datos. DG Arquitectura de Datos. SS de Políticas Públicas Basadas en Evidencia. Secretaría de Innovación y Transformación Digital. Jefatura de Gabinete de Ministros",
+  "maintainer_email": "datosabiertos@buenosaires.gob.ar",
+  "metadata_created": "2020-04-10T16:03:17.531778",
+  "metadata_modified": "2021-04-25T04:00:20.776408",
+  "name": "ufus",
+  "notes": "Listado con la información de las Unidades Febriles de Urgencia incorporadas a la mayoría de los Hospitales General de Agudos y Pediátricos",
+  "num_resources": 6,
+  "num_tags": 6,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-11-15T19:17:04.156344",
+    "description": "",
+    "id": "c055e91b-2714-47e4-b47e-6bb063f32776",
+    "image_url": "",
+    "is_organization": true,
+    "name": "ministerio-de-salud",
+    "revision_id": "b72e4fc3-266f-4a53-bbd7-690b4ccff688",
+    "state": "active",
+    "title": "Ministerio de Salud",
+    "type": "organization"
+  },
+  "owner_org": "c055e91b-2714-47e4-b47e-6bb063f32776",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "",
+      "accessURL_field": "",
+      "attributesDescription": "[]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2020-04-10T16:04:10.972301",
+      "datastore_active": false,
+      "description": "Ubicación Geográfica de las Unidades Febriles de Urgencia",
+      "fileName": "",
+      "format": "CSV",
+      "has-uploaded-file": "",
+      "hash": "",
+      "icon_url": "",
+      "id": "8f63148d-4e85-44ac-a9cc-1a5b98464525",
+      "issued": "2020-04-10T13:04:10.925723",
+      "last_modified": null,
+      "license_id": "CC-BY-2.5-AR",
+      "mimetype": "text/csv",
+      "mimetype_inner": null,
+      "modified": "2020-07-09T15:32:08.786299",
+      "name": "Ubicación UFUs",
+      "package_id": "b94ef014-4052-4c21-8c7a-bf489dbfbb31",
+      "position": 0,
+      "resource_type": "file",
+      "revision_id": "b1d2f3c6-fb37-4caf-ae6c-3abc1d4709a8",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/salud/ufus/ubicacion-ufus.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "",
+      "accessURL_field": "",
+      "attributesDescription": "[]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2020-04-10T16:06:26.694105",
+      "datastore_active": false,
+      "description": "Ubicación Geográfica de las Unidades Febriles de Urgencia",
+      "fileName": "",
+      "format": "XLSX",
+      "has-uploaded-file": "",
+      "hash": "",
+      "icon_url": "",
+      "id": "e3797ad1-2459-40ff-9872-fd1c23e5f37f",
+      "issued": "2020-04-10T13:06:26.556678",
+      "last_modified": null,
+      "license_id": "CC-BY-2.5-AR",
+      "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "mimetype_inner": null,
+      "modified": "2020-07-09T15:37:00.642958",
+      "name": "Ubicación de UFUs (XLSX)",
+      "package_id": "b94ef014-4052-4c21-8c7a-bf489dbfbb31",
+      "position": 1,
+      "resource_type": "file",
+      "revision_id": "55ab89a1-471b-48db-be9f-789b6a13f149",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/salud/ufus/ubicacion-ufus.xlsx",
+      "url_type": null
+    },
+    {
+      "accessURL": "",
+      "accessURL_field": "",
+      "attributesDescription": "[]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2020-04-10T16:07:02.635935",
+      "datastore_active": false,
+      "description": "Ubicación Geográfica de las Unidades Febriles de Urgencia",
+      "fileName": "",
+      "format": "ZIP",
+      "has-uploaded-file": "",
+      "hash": "",
+      "icon_url": "",
+      "id": "d1676ede-3620-4526-9d2f-c0c66c067a51",
+      "issued": "2020-04-10T13:07:02.587678",
+      "last_modified": null,
+      "license_id": "CC-BY-2.5-AR",
+      "mimetype": "application/zip",
+      "mimetype_inner": null,
+      "modified": "2020-07-09T15:37:45.160075",
+      "name": "Ubicación de UFUs (SHP)",
+      "package_id": "b94ef014-4052-4c21-8c7a-bf489dbfbb31",
+      "position": 2,
+      "resource_type": "file",
+      "revision_id": "7d462520-6024-4ef0-ab62-193a0437a3f6",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/salud/ufus/ubicacion-ufus.zip",
+      "url_type": null
+    },
+    {
+      "accessURL": "",
+      "accessURL_field": "",
+      "attributesDescription": "[]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2020-04-10T16:10:43.210338",
+      "datastore_active": false,
+      "description": "Ubicación Geográfica de las Unidades Febriles de Urgencia",
+      "fileName": "",
+      "format": "GeoJSON",
+      "has-uploaded-file": "",
+      "hash": "",
+      "icon_url": "",
+      "id": "ca0d9762-b047-4709-a0c2-7eac7d987b22",
+      "issued": "2020-04-10T13:10:43.160373",
+      "last_modified": null,
+      "license_id": "CC-BY-2.5-AR",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "modified": "2020-07-09T15:38:32.089527",
+      "name": "Ubicación de UFUs (GeoJSON)",
+      "package_id": "b94ef014-4052-4c21-8c7a-bf489dbfbb31",
+      "position": 3,
+      "resource_type": "file",
+      "revision_id": "194aa636-78ec-47c5-89f2-7e1a59e5f1c7",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/salud/ufus/ubicacion-ufus.geojson",
+      "url_type": null
+    },
+    {
+      "accessURL": "",
+      "accessURL_field": "",
+      "attributesDescription": "[{\"title\":\"fecha\",\"description\":\"fecha del registro\",\"type\":\"date\"},{\"title\":\"id_ufu\",\"description\":\"id de la UFU\",\"type\":\"integer\"},{\"title\":\"ufu\",\"description\":\"nombre de la UFU\",\"type\":\"integer\"},{\"title\":\"canti_genero_f\",\"description\":\"cantidad de personas de sexo femenino que fueron atendidas en la UFU\",\"type\":\"integer\"},{\"title\":\"canti_genero_m\",\"description\":\"cantidad de personas de sexo masculino que fueron atendidas en la UFU\",\"type\":\"integer\"},{\"title\":\"canti_dom_caba\",\"description\":\"cantidad de personas con domicilio en CABA que fueron atendidas en la UFU\",\"type\":\"integer\"},{\"title\":\"canti_dom_no_caba\",\"description\":\"cantidad de personas con domicilio fuera de CABA que fueron atendidas en la UFU\",\"type\":\"integer\"},{\"title\":\"canti_dom_no_aplica\",\"description\":\"cantidad de personas sin domicilio registrado que fueron atendidas en la UFU\",\"type\":\"integer\"},{\"title\":\"canti_personas_ufu\",\"description\":\"cantidad total de personas que fueron atendidas en la ufu\",\"type\":\"integer\"},{\"title\":\"canti_consultas_covid\",\"description\":\"Cantidad de consultas por COVID\",\"type\":\"integer\"},{\"title\":\"canti_consultas_no_covid\",\"description\":\"Cantidad de consultas por razones diferentes al COVID\",\"type\":\"integer\"},{\"title\":\"canti_consultas_atendidas\",\"description\":\"Cantidad de consultas atendidas\",\"type\":\"integer\"},{\"title\":\"canti_consultas_descartadas\",\"description\":\"Cantidad de consultas descartadas\",\"type\":\"integer\"},{\"title\":\"rango_etario_0_9\",\"description\":\"Cantidad de consultas de rango etario de 0 a 9 años\",\"type\":\"integer\"},{\"title\":\"rango_etario_10_19\",\"description\":\"Cantidad de consultas de rango etario de 10 a 19 años\",\"type\":\"integer\"},{\"title\":\"rango_etario_20_29\",\"description\":\"Cantidad de consultas de rango etario de 20 a 29 años\",\"type\":\"integer\"},{\"title\":\"rango_etario_30_39\",\"description\":\"Cantidad de consultas de rango etario de 30 a 39 años\",\"type\":\"integer\"},{\"title\":\"rango_etario_40_49\",\"description\":\"Cantidad de consultas de rango etario de 40 a 49 años\",\"type\":\"integer\"},{\"title\":\"rango_etario_50_59\",\"description\":\"Cantidad de consultas de rango etario de 50 a 59 años\",\"type\":\"integer\"},{\"title\":\"rango_etario_60_69\",\"description\":\"Cantidad de consultas de rango etario de 60 a 69 años\",\"type\":\"integer\"},{\"title\":\"rango_etario_70_mas\",\"description\":\"Cantidad de consultas de rango etario superior a 70 años\",\"type\":\"integer\"},{\"title\":\"rango_etario_sin_datos\",\"description\":\"Cantidad de consultas sin información de rango etario\",\"type\":\"integer\"},{\"title\":\"canti_test_positivos\",\"description\":\"Cantidad de tests realizados y con resultado positivo\",\"type\":\"integer\"},{\"title\":\"canti_test_negativos\",\"description\":\"Cantidad de tests realizados y con resultado negativo\",\"type\":\"integer\"},{\"title\":\"canti_test_pendientes\",\"description\":\"Cantidad de tests realizados y cuyo resultado se encuentra pendiente\",\"type\":\"integer\"},{\"title\":\"canti_test_realizados\",\"description\":\"Cantidad de tests realizados\",\"type\":\"integer\"},{\"title\":\"calle_nombre\",\"description\":\"nombre de la calle donde se ubica la UFU\",\"type\":\"string\"},{\"title\":\"calle_altura\",\"description\":\"altura de la calle donde se ubica la UFU\",\"type\":\"integer\"},{\"title\":\"lat\",\"description\":\"latitud de la ubicación de la UFU\",\"type\":\"number\"},{\"title\":\"long\",\"description\":\"longitud de la ubicación de la UFU\",\"type\":\"number\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2020-07-23T12:38:21.558265",
+      "datastore_active": false,
+      "description": "Listado con informacion sobre la atencion en las Unidades Febriles de Urgencia",
+      "fileName": "ufus.csv",
+      "format": "CSV",
+      "has-uploaded-file": "",
+      "hash": "",
+      "icon_url": "",
+      "id": "1587a573-1e0d-482b-a064-9eb14e0a8ecb",
+      "issued": "2020-07-23T12:38:21.558265",
+      "last_modified": "2020-07-23T00:00:00",
+      "license_id": "CC-BY-4.0",
+      "mimetype": "text/csv",
+      "mimetype_inner": null,
+      "modified": "2021-04-25",
+      "name": "Atención UFUs",
+      "package_id": "b94ef014-4052-4c21-8c7a-bf489dbfbb31",
+      "position": 4,
+      "resource_type": "file",
+      "revision_id": "7393c2f1-29ec-4e91-a79b-89ddca70b150",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/salud/ufus/ufus.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "",
+      "accessURL_field": "",
+      "attributesDescription": "[{\"title\":\"fecha\",\"description\":\"fecha del registro\",\"type\":\"date\"},{\"title\":\"id_ufu\",\"description\":\"id de la UFU\",\"type\":\"integer\"},{\"title\":\"ufu\",\"description\":\"nombre de la UFU\",\"type\":\"integer\"},{\"title\":\"canti_genero_f\",\"description\":\"cantidad de personas de sexo femenino que fueron atendidas en la UFU\",\"type\":\"integer\"},{\"title\":\"canti_genero_m\",\"description\":\"cantidad de personas de sexo masculino que fueron atendidas en la UFU\",\"type\":\"integer\"},{\"title\":\"canti_dom_caba\",\"description\":\"cantidad de personas con domicilio en CABA que fueron atendidas en la UFU\",\"type\":\"integer\"},{\"title\":\"canti_dom_no_caba\",\"description\":\"cantidad de personas con domicilio fuera de CABA que fueron atendidas en la UFU\",\"type\":\"integer\"},{\"title\":\"canti_dom_no_aplica\",\"description\":\"cantidad de personas sin domicilio registrado que fueron atendidas en la UFU\",\"type\":\"integer\"},{\"title\":\"canti_personas_ufu\",\"description\":\"cantidad total de personas que fueron atendidas en la ufu\",\"type\":\"integer\"},{\"title\":\"canti_consultas_covid\",\"description\":\"Cantidad de consultas por COVID\",\"type\":\"integer\"},{\"title\":\"canti_consultas_no_covid\",\"description\":\"Cantidad de consultas por razones diferentes al COVID\",\"type\":\"integer\"},{\"title\":\"canti_consultas_atendidas\",\"description\":\"Cantidad de consultas atendidas\",\"type\":\"integer\"},{\"title\":\"canti_consultas_descartadas\",\"description\":\"Cantidad de consultas descartadas\",\"type\":\"integer\"},{\"title\":\"rango_etario_0_9\",\"description\":\"Cantidad de consultas de rango etario de 0 a 9 años\",\"type\":\"integer\"},{\"title\":\"rango_etario_10_19\",\"description\":\"Cantidad de consultas de rango etario de 10 a 19 años\",\"type\":\"integer\"},{\"title\":\"rango_etario_20_29\",\"description\":\"Cantidad de consultas de rango etario de 20 a 29 años\",\"type\":\"integer\"},{\"title\":\"rango_etario_30_39\",\"description\":\"Cantidad de consultas de rango etario de 30 a 39 años\",\"type\":\"integer\"},{\"title\":\"rango_etario_40_49\",\"description\":\"Cantidad de consultas de rango etario de 40 a 49 años\",\"type\":\"integer\"},{\"title\":\"rango_etario_50_59\",\"description\":\"Cantidad de consultas de rango etario de 50 a 59 años\",\"type\":\"integer\"},{\"title\":\"rango_etario_60_69\",\"description\":\"Cantidad de consultas de rango etario de 60 a 69 años\",\"type\":\"integer\"},{\"title\":\"rango_etario_70_mas\",\"description\":\"Cantidad de consultas de rango etario superior a 70 años\",\"type\":\"integer\"},{\"title\":\"rango_etario_sin_datos\",\"description\":\"Cantidad de consultas sin información de rango etario\",\"type\":\"integer\"},{\"title\":\"canti_test_positivos\",\"description\":\"Cantidad de tests realizados y con resultado positivo\",\"type\":\"integer\"},{\"title\":\"canti_test_negativos\",\"description\":\"Cantidad de tests realizados y con resultado negativo\",\"type\":\"integer\"},{\"title\":\"canti_test_pendientes\",\"description\":\"Cantidad de tests realizados y cuyo resultado se encuentra pendiente\",\"type\":\"integer\"},{\"title\":\"canti_test_realizados\",\"description\":\"Cantidad de tests realizados\",\"type\":\"integer\"},{\"title\":\"calle_nombre\",\"description\":\"nombre de la calle donde se ubica la UFU\",\"type\":\"string\"},{\"title\":\"calle_altura\",\"description\":\"altura de la calle donde se ubica la UFU\",\"type\":\"integer\"},{\"title\":\"lat\",\"description\":\"latitud de la ubicación de la UFU\",\"type\":\"number\"},{\"title\":\"long\",\"description\":\"longitud de la ubicación de la UFU\",\"type\":\"number\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2020-07-23T12:38:25.953444",
+      "datastore_active": false,
+      "description": "Listado con informacion sobre la atencion en las Unidades Febriles de Urgencia",
+      "fileName": "ufus.xlsx",
+      "format": "XLSX",
+      "has-uploaded-file": "",
+      "hash": "",
+      "icon_url": "",
+      "id": "61854aae-63a5-44fb-bc3d-d2f64d99ed7a",
+      "issued": "2020-07-23T12:38:25.953444",
+      "last_modified": "2020-07-23T00:00:00",
+      "license_id": "CC-BY-4.0",
+      "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "mimetype_inner": null,
+      "modified": "2021-04-25",
+      "name": "Atención UFUs (xlsx)",
+      "package_id": "b94ef014-4052-4c21-8c7a-bf489dbfbb31",
+      "position": 5,
+      "resource_type": "file",
+      "revision_id": "d5aa4deb-e75c-4585-be13-5263c796813f",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/salud/ufus/ufus.xlsx",
+      "url_type": null
+    }
+  ],
+  "revision_id": "cc6da919-6c87-496c-86e0-f26223002cbc",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "COVID-19",
+      "id": "931486a5-526e-433d-a642-4768937b65d8",
+      "name": "COVID-19",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "coronavirus",
+      "id": "efeebfc4-0eaf-47bc-9d00-435b9c600fa1",
+      "name": "coronavirus",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "fiebre",
+      "id": "5ae41721-efc8-437c-ab7a-520e0941f7f1",
+      "name": "fiebre",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "hospitales",
+      "id": "98a2efc2-38ac-46c6-b847-361aa5cd15ef",
+      "name": "hospitales",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "salud",
+      "id": "92c7f3e1-f781-4b82-a933-7408e37b3687",
+      "name": "salud",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "unidades febriles",
+      "id": "0e23862c-4111-4a56-a8e0-5ecc62ecc300",
+      "name": "unidades febriles",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Unidades Febriles de Urgencia",
+  "type": "dataset",
+  "url": "https://data.buenosaires.gob.ar/dataset/ufus",
+  "version": null
+}

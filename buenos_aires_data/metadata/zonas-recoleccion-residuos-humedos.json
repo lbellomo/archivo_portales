@@ -1,0 +1,234 @@
+{
+  "author": "Ministerio de Espacio Público e Higiene Urbana. SS De Higiene Urbana. DG Limpieza",
+  "author_email": "datosabiertos@buenosaires.gob.ar",
+  "creator_user_id": "e4546f46-e966-493c-b2f1-57318502c41b",
+  "extras": [
+    {
+      "key": "Documentación",
+      "value": ""
+    },
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P1Y"
+    },
+    {
+      "key": "country",
+      "value": "None"
+    },
+    {
+      "key": "district",
+      "value": ""
+    },
+    {
+      "key": "home_featured",
+      "value": "false"
+    },
+    {
+      "key": "issued",
+      "value": "2019-05-09T19:47:10.592167"
+    },
+    {
+      "key": "language",
+      "value": "[]"
+    },
+    {
+      "key": "modified",
+      "value": "2021-03-05T10:56:57.132360"
+    },
+    {
+      "key": "province",
+      "value": ""
+    },
+    {
+      "key": "source",
+      "value": "Ministerio de Ambiente y Espacio Público. SS Higiene Urbana. DG de Limpieza."
+    },
+    {
+      "key": "spatial",
+      "value": "None"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"ENVI\",\"REGI\"]"
+    },
+    {
+      "key": "temporal",
+      "value": ""
+    }
+  ],
+  "groups": [
+    {
+      "description": "",
+      "display_name": "Medioambiente",
+      "id": "a99c1197-8379-4a60-a6eb-8737cab5ec4f",
+      "image_display_url": "https://data.buenosaires.gob.ar/uploads/group/2019-11-16-145003.550663medioambiente.png",
+      "name": "medioambiente",
+      "title": "Medioambiente"
+    }
+  ],
+  "id": "9e149e2e-e1d6-4554-9a6e-89e080df6aee",
+  "isopen": true,
+  "license_id": "CC-BY-2.5-AR",
+  "license_title": "Atribucion 2.5 Argentina (CC BY 2.5 AR)",
+  "license_url": "https://creativecommons.org/licenses/by/2.5/ar ",
+  "maintainer": "Secretaría General y Relaciones Internacionales. Subsecretaría Gestión Estratégica y Calidad Institucional. Dirección General Calidad Institucional y Gobierno Abierto",
+  "maintainer_email": "datosabiertos@buenosaires.gob.ar",
+  "metadata_created": "2019-12-11T18:07:40.947721",
+  "metadata_modified": "2021-03-05T13:56:57.146588",
+  "name": "zonas-recoleccion-residuos-humedos",
+  "notes": "Zonas de recolección de residuos húmedos con información sobre empresa, comuna y contenedores",
+  "num_resources": 4,
+  "num_tags": 4,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-11-15T19:17:37.520435",
+    "description": "",
+    "id": "c16da01e-12a6-4b99-9509-c35b37138493",
+    "image_url": "",
+    "is_organization": true,
+    "name": "subsecretaria-de-higiene-urbana",
+    "revision_id": "b04e62bf-6883-4fe8-864b-3861f35cf6fe",
+    "state": "active",
+    "title": "Subsecretaria de Higiene Urbana",
+    "type": "organization"
+  },
+  "owner_org": "c16da01e-12a6-4b99-9509-c35b37138493",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/9e149e2e-e1d6-4554-9a6e-89e080df6aee/resource/e389f94e-bf38-4f2b-99ca-d4c726b5bd29",
+      "attributesDescription": "[{\"title\": \"wkt\", \"type\": \"number\", \"description\": \"Recorridos geoespaciales de los recorridos expresadas en formato wkt\"}, {\"title\": \"id\", \"type\": \"number\", \"description\": \"N\\u00famero \\u00fanico identificaci\\u00f3n\"}, {\"title\": \"zona\", \"type\": \"number\", \"description\": \"N\\u00famero de zona correspondiente a cada empresa\"}, {\"title\": \"empresa\", \"type\": \"string\", \"description\": \"Nombre de la empresa de Limpieza\"}, {\"title\": \"comuna\", \"type\": \"string\", \"description\": \"Comunas que se encuentran dentro de cada Zona\"}, {\"title\": \"contenedor\", \"type\": \"number\", \"description\": \"Cantidad de contenedores que operan cada empresa en su zona\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-05-09T16:58:30.141230",
+      "datastore_active": false,
+      "description": "Listado de las zonas de recolección por empresa y comuna, y cantidad de contenedores",
+      "fileName": "zonas_de_recoleccion_de_residuos_limpio.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "e389f94e-bf38-4f2b-99ca-d4c726b5bd29",
+      "last_modified": "2019-05-09T16:58:30.141230",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Zonas de recolección de residuos húmedos",
+      "package_id": "9e149e2e-e1d6-4554-9a6e-89e080df6aee",
+      "position": 0,
+      "resource_type": "file",
+      "revision_id": "d77aba20-a020-4cf3-ba5b-fc854ef752ae",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/zonas-recoleccion-residuos-humedos/zonas_de_recoleccion_de_residuos_limpio.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/9e149e2e-e1d6-4554-9a6e-89e080df6aee/resource/2ff6e929-f6ca-4ab9-838f-3f6d96c076fe",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-05-09T17:01:06.761292",
+      "datastore_active": false,
+      "description": "Archivo shapefile con las zonas de recolección de residuos húmedos",
+      "fileName": "zonas-recoleccion-residuos-humedos.zip",
+      "format": "ZIP",
+      "hash": "",
+      "id": "2ff6e929-f6ca-4ab9-838f-3f6d96c076fe",
+      "last_modified": "2019-05-09T17:01:06.761292",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Zonas de recolección de residuos húmedos (SHP)",
+      "package_id": "9e149e2e-e1d6-4554-9a6e-89e080df6aee",
+      "position": 1,
+      "resource_type": "file",
+      "revision_id": "90aa7741-1cd6-4fa8-b185-52f22edc0e40",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/zonas-recoleccion-residuos-humedos/zonas-recoleccion-residuos-humedos.zip",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/9e149e2e-e1d6-4554-9a6e-89e080df6aee/resource/262890db-cd2f-436b-b473-ec0b084c6552",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-05-09T17:06:01.915579",
+      "datastore_active": false,
+      "description": "Archivo KMZ con las zonas de recolección de residuos húmedos",
+      "fileName": "zonas_de_recoleccion_de_residuos.kmz",
+      "format": "KMZ",
+      "hash": "",
+      "id": "262890db-cd2f-436b-b473-ec0b084c6552",
+      "last_modified": "2019-05-09T17:06:01.915579",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Zonas de recolección de residuos húmedos (KMZ)",
+      "package_id": "9e149e2e-e1d6-4554-9a6e-89e080df6aee",
+      "position": 2,
+      "resource_type": "file",
+      "revision_id": "d1675882-27d0-4266-961d-a5a0bb90a196",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/zonas-recoleccion-residuos-humedos/zonas_de_recoleccion_de_residuos.kmz",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/9e149e2e-e1d6-4554-9a6e-89e080df6aee/resource/e389f94e-bf38-4f2b-99ca-d4c726b5bd29",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-05-09T16:58:30.141230",
+      "datastore_active": false,
+      "description": "Listado de las zonas de recolección por empresa y comuna, y cantidad de contenedores",
+      "fileName": "zonas_de_recoleccion_de_residuos_limpio.xlsx",
+      "format": "XLSX",
+      "hash": "",
+      "id": "e389f94e-bf38-4f2b-99ca-d4c726b5bd29-xlsx",
+      "last_modified": "2019-05-09T16:58:30.141230",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Zonas de recolección de residuos húmedos (XLSX)",
+      "package_id": "9e149e2e-e1d6-4554-9a6e-89e080df6aee",
+      "position": 3,
+      "resource_type": "file",
+      "revision_id": "226f6e13-52fd-4f20-8778-22944743f00a",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/zonas-recoleccion-residuos-humedos/zonas_de_recoleccion_de_residuos_limpio.xlsx",
+      "url_type": null
+    }
+  ],
+  "revision_id": "f012a989-ffb9-447c-844a-1859132e6c02",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "basura",
+      "id": "b81ced62-2964-4a41-9f08-7f5a61596213",
+      "name": "basura",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "cambio climático",
+      "id": "a6836452-912d-41c2-b324-4eddc98a75c2",
+      "name": "cambio climático",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "contenedores",
+      "id": "2ae9d4ed-de4c-4914-9142-eef35e04d2f2",
+      "name": "contenedores",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "recoleccion",
+      "id": "e7d1fa01-81c2-468d-abe9-c9bcd6c70b03",
+      "name": "recoleccion",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Zonas de recolección de residuos húmedos",
+  "type": "dataset",
+  "url": "https://data.buenosaires.gob.ar/dataset/zonas-de-recoleccion-de-residuos-humedos",
+  "version": null
+}

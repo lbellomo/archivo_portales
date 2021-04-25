@@ -1,0 +1,209 @@
+{
+  "author": "Ministerio de Educación e Innovación. SS Planeamiento e Innovación Educativa. DG de Planeamiento Educativo",
+  "author_email": "datosabiertos@buenosaires.gob.ar",
+  "creator_user_id": "e4546f46-e966-493c-b2f1-57318502c41b",
+  "extras": [
+    {
+      "key": "Documentación",
+      "value": ""
+    },
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P1Y"
+    },
+    {
+      "key": "country",
+      "value": "None"
+    },
+    {
+      "key": "district",
+      "value": ""
+    },
+    {
+      "key": "home_featured",
+      "value": "false"
+    },
+    {
+      "key": "issued",
+      "value": "2019-01-08T14:56:49.587819"
+    },
+    {
+      "key": "language",
+      "value": "[]"
+    },
+    {
+      "key": "modified",
+      "value": "2021-03-05T11:24:45.375802"
+    },
+    {
+      "key": "province",
+      "value": ""
+    },
+    {
+      "key": "source",
+      "value": "Ministerio de Educación e Innovación. Secretaría de Ciencia, Tecnología e Innovación. SS de Ciudad Inteligente y Tecnología Educativa. DG Ciencias de la Información. Unidad de Sistemas de Información Geográfica (USIG)"
+    },
+    {
+      "key": "spatial",
+      "value": "None"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"EDUC\"]"
+    },
+    {
+      "key": "temporal",
+      "value": ""
+    }
+  ],
+  "groups": [
+    {
+      "description": "",
+      "display_name": "Educación",
+      "id": "6e8e33f7-a0c9-4730-bb10-38eeeb717982",
+      "image_display_url": "https://data.buenosaires.gob.ar/uploads/group/2019-11-19-182154.334786educ.png",
+      "name": "educacion",
+      "title": "Educación"
+    }
+  ],
+  "id": "juqdkmgo-213",
+  "isopen": true,
+  "license_id": "CC-BY-2.5-AR",
+  "license_title": "Atribucion 2.5 Argentina (CC BY 2.5 AR)",
+  "license_url": "https://creativecommons.org/licenses/by/2.5/ar ",
+  "maintainer": "Secretaría General y Relaciones Internacionales. Subsecretaría Gestión Estratégica y Calidad Institucional. Dirección General Calidad Institucional y Gobierno Abierto",
+  "maintainer_email": "datosabiertos@buenosaires.gob.ar",
+  "metadata_created": "2019-12-11T18:27:34.083701",
+  "metadata_modified": "2021-03-05T14:24:45.388418",
+  "name": "universidades",
+  "notes": "Listado con ubicación geográfica y datos de contacto de las Universidades en la Ciudad.",
+  "num_resources": 3,
+  "num_tags": 4,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-11-15T19:18:19.762924",
+    "description": "",
+    "id": "da366597-5061-4955-9ca6-e93785956e0e",
+    "image_url": "",
+    "is_organization": true,
+    "name": "ministerio-de-educacion",
+    "revision_id": "1b6c27ee-7324-4554-a172-3d2f068e290a",
+    "state": "active",
+    "title": "Ministerio de Educación",
+    "type": "organization"
+  },
+  "owner_org": "da366597-5061-4955-9ca6-e93785956e0e",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/universidades",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-01-08T14:56:49.587819",
+      "datastore_active": false,
+      "description": "Listado con referencia geográfica de las universidades en la Ciudad.",
+      "fileName": "universidades.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "juqdkmgo-2131-resource",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Universidades",
+      "package_id": "juqdkmgo-213",
+      "position": 0,
+      "resource_type": "file",
+      "revision_id": "d1583c98-e745-4aaa-a2ac-df094cfcf390",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/universidades/universidades.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/universidades",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-01-08T14:56:49.587819",
+      "datastore_active": false,
+      "description": "Archivo shapefile de las universidades en la Ciudad.",
+      "fileName": "universidades-zip.zip",
+      "format": "ZIP",
+      "hash": "",
+      "id": "juqdkmgo-2132-resource",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Universidades (SHP)",
+      "package_id": "juqdkmgo-213",
+      "position": 1,
+      "resource_type": "file",
+      "revision_id": "aed62383-cd29-410a-96f8-00436f38081b",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/universidades/universidades-zip.zip",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/universidades",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-01-08T14:56:49.587819",
+      "datastore_active": false,
+      "description": "Listado con referencia geográfica de las universidades en la Ciudad.",
+      "fileName": "universidades.xlsx",
+      "format": "XLSX",
+      "hash": "",
+      "id": "juqdkmgo-2131-resource-xlsx",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Universidades (XLSX)",
+      "package_id": "juqdkmgo-213",
+      "position": 2,
+      "resource_type": "file",
+      "revision_id": "3eae2677-5d98-4607-8c74-b7b15f6be6ef",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/universidades/universidades.xlsx",
+      "url_type": null
+    }
+  ],
+  "revision_id": "09fade05-f2bb-4714-9932-f46c2b04330a",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "cursos",
+      "id": "9bef05d5-f595-4810-8168-8f5f58942e73",
+      "name": "cursos",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "educación",
+      "id": "a9032209-2807-4797-98a8-640d053d0064",
+      "name": "educación",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "mapa",
+      "id": "2c83da8e-2e03-47e6-aee4-bb965600000d",
+      "name": "mapa",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "servicios",
+      "id": "5fd98d91-e466-49b9-9b08-8a43e2068a8b",
+      "name": "servicios",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Universidades",
+  "type": "dataset",
+  "url": "https://data.buenosaires.gob.ar/dataset/universidades",
+  "version": null
+}

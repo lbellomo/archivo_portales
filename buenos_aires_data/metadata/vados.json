@@ -1,0 +1,241 @@
+{
+  "author": "Ministerio de Salud. SS de Atención Integrada de Salud. DG SAME",
+  "author_email": "datosabiertos@buenosaires.gob.ar",
+  "creator_user_id": "e4546f46-e966-493c-b2f1-57318502c41b",
+  "extras": [
+    {
+      "key": "Documentación",
+      "value": ""
+    },
+    {
+      "key": "accrualPeriodicity",
+      "value": "eventual"
+    },
+    {
+      "key": "country",
+      "value": "None"
+    },
+    {
+      "key": "district",
+      "value": ""
+    },
+    {
+      "key": "home_featured",
+      "value": "false"
+    },
+    {
+      "key": "issued",
+      "value": "2019-09-17T14:53:23.784716"
+    },
+    {
+      "key": "language",
+      "value": "[]"
+    },
+    {
+      "key": "modified",
+      "value": "2021-03-05T11:18:55.817025"
+    },
+    {
+      "key": "province",
+      "value": ""
+    },
+    {
+      "key": "source",
+      "value": "Ministerio de Educación e Innovación. Secretaría de Ciencia, Tecnología e Innovación. SS de Ciudad Inteligente y Tecnología Educativa. DG Ciencias de la Información. Unidad de Sistemas de Información Geográfica (USIG)"
+    },
+    {
+      "key": "spatial",
+      "value": "None"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"REGI\"]"
+    },
+    {
+      "key": "temporal",
+      "value": ""
+    }
+  ],
+  "groups": [
+    {
+      "description": "Datasets relacionados con urbanismo y territorio",
+      "display_name": "Urbanismo y Territorio",
+      "id": "63e162a0-3f4a-446a-a60b-601d16f36200",
+      "image_display_url": "https://data.buenosaires.gob.ar/uploads/group/2019-11-16-145056.781692urba.png",
+      "name": "urbanismo-y-territorio",
+      "title": "Urbanismo y Territorio"
+    }
+  ],
+  "id": "c797e0ac-03c5-4083-88c8-a3cf9a32441e",
+  "isopen": true,
+  "license_id": "CC-BY-2.5-AR",
+  "license_title": "Atribucion 2.5 Argentina (CC BY 2.5 AR)",
+  "license_url": "https://creativecommons.org/licenses/by/2.5/ar ",
+  "maintainer": "Secretaría General y Relaciones Internacionales. Subsecretaría Gestión Estratégica y Calidad Institucional. Dirección General Calidad Institucional y Gobierno Abierto",
+  "maintainer_email": "datosabiertos@buenosaires.gob.ar",
+  "metadata_created": "2019-12-11T18:06:00.633563",
+  "metadata_modified": "2021-03-05T14:18:55.829628",
+  "name": "vados",
+  "notes": "Ubicación de los vados (rampas) relevados por el Gobierno de la Ciudad.",
+  "num_resources": 4,
+  "num_tags": 5,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-11-15T19:16:29.440170",
+    "description": "",
+    "id": "d3293f04-e51f-4235-95ca-ee4566322496",
+    "image_url": "",
+    "is_organization": true,
+    "name": "ministerio-de-espacio-publico-e-higiene-urbana",
+    "revision_id": "d10fc1d4-0543-46ca-b027-a9ebc285c6b3",
+    "state": "active",
+    "title": "Ministerio de Espacio Público e Higiene Urbana",
+    "type": "organization"
+  },
+  "owner_org": "d3293f04-e51f-4235-95ca-ee4566322496",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/c797e0ac-03c5-4083-88c8-a3cf9a32441e/resource/9418f127-d7ec-4698-8988-221bc2305bf9",
+      "attributesDescription": "[{\"title\": \"long\", \"type\": \"string\", \"description\": \"Coordenada X del punto donde se localiza el vado expresada en coordenadas planas\"}, {\"title\": \"lat\", \"type\": \"string\", \"description\": \"Coordenada Y del punto donde se localiza el vado expresada en coordenadas planas\"}, {\"title\": \"objectid\", \"type\": \"integer\", \"description\": \"C\\u00f3digo \\u00fanico de identificaci\\u00f3n de cada registro.\"}, {\"title\": \"clave_vere\", \"type\": \"string\", \"description\": \"Suma de los campos: SMP (secci\\u00f3n-manzana-parcela m\\u00e1s el c\\u00f3digo de calle a la que pertenece el vado).\"}, {\"title\": \"numero_ord\", \"type\": \"integer\", \"description\": \"N\\u00famero de orden de vado\"}, {\"title\": \"clave_vado\", \"type\": \"string\", \"description\": \"Suma de los campos: SMP (secci\\u00f3n-manzana-parcela) m\\u00e1s el c\\u00f3digo de calle a la que pertenece el vado m\\u00e1s el n\\u00famero de orden de vado.\"}, {\"title\": \"origendato\", \"type\": \"string\", \"description\": \"M\\u00e9todo de relevamiento del dato.\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-09-17T14:58:41.671543",
+      "datastore_active": true,
+      "description": "Listado con la ubicación e información geográfica de los vados (rampas) relevados por el Gobierno de la Ciudad.",
+      "fileName": "vados.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "9418f127-d7ec-4698-8988-221bc2305bf9",
+      "last_modified": "2019-09-17T14:58:41.671543",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Vados",
+      "package_id": "c797e0ac-03c5-4083-88c8-a3cf9a32441e",
+      "position": 0,
+      "resource_type": "file",
+      "revision_id": "45a39d24-cce8-4468-82f5-619c3846adbb",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/vados/vados.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/c797e0ac-03c5-4083-88c8-a3cf9a32441e/resource/2021889d-5fa0-4d5c-b521-07211373a223",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-09-17T14:59:19.180478",
+      "datastore_active": false,
+      "description": "Archivo shapefile correspondiente a los vados.",
+      "fileName": "vados.zip",
+      "format": "ZIP",
+      "hash": "",
+      "id": "2021889d-5fa0-4d5c-b521-07211373a223",
+      "last_modified": "2019-09-17T14:59:19.180478",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Vados (SHP)",
+      "package_id": "c797e0ac-03c5-4083-88c8-a3cf9a32441e",
+      "position": 1,
+      "resource_type": "file",
+      "revision_id": "2819d675-a14d-44f9-a43d-32d3e7478af1",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/vados/vados.zip",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/c797e0ac-03c5-4083-88c8-a3cf9a32441e/resource/5318f5b2-49c6-4950-be73-40c718770c98",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-09-17T14:59:51.670017",
+      "datastore_active": false,
+      "description": "Archivo geojson correspondiente a los vados.",
+      "fileName": "vados.geojson",
+      "format": "GeoJSON",
+      "hash": "",
+      "id": "5318f5b2-49c6-4950-be73-40c718770c98",
+      "last_modified": "2019-09-17T14:59:51.670017",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Vados (GeoJSON)",
+      "package_id": "c797e0ac-03c5-4083-88c8-a3cf9a32441e",
+      "position": 2,
+      "resource_type": "file",
+      "revision_id": "2d19815c-b50b-4ea9-94a9-c307ce707b15",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/vados/vados.geojson",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/c797e0ac-03c5-4083-88c8-a3cf9a32441e/resource/9418f127-d7ec-4698-8988-221bc2305bf9",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-09-17T14:58:41.671543",
+      "datastore_active": true,
+      "description": "Listado con la ubicación e información geográfica de los vados (rampas) relevados por el Gobierno de la Ciudad.",
+      "fileName": "vados.xlsx",
+      "format": "XLSX",
+      "hash": "",
+      "id": "9418f127-d7ec-4698-8988-221bc2305bf9-xlsx",
+      "last_modified": "2019-09-17T14:58:41.671543",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Vados (XLSX)",
+      "package_id": "c797e0ac-03c5-4083-88c8-a3cf9a32441e",
+      "position": 3,
+      "resource_type": "file",
+      "revision_id": "59577cc6-2ee8-40dc-a70f-3acf054a38a5",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/vados/vados.xlsx",
+      "url_type": null
+    }
+  ],
+  "revision_id": "517bd9e0-1111-417d-a1ef-0e29ce1c3bff",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "accesibilidad",
+      "id": "55941d26-1306-4848-99fb-eaedfa07af89",
+      "name": "accesibilidad",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "catastro",
+      "id": "7934e062-fe12-486d-8726-2297ab5d0354",
+      "name": "catastro",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "planificación urbana",
+      "id": "8fe52ca7-990f-4eeb-ad84-1bce67037bcc",
+      "name": "planificación urbana",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "rampas",
+      "id": "e91854bd-77a0-4a5a-8ffc-a01fd976a2da",
+      "name": "rampas",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "urbanismo",
+      "id": "17ac67e7-699b-470d-b0dd-5b8752c1fb73",
+      "name": "urbanismo",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Vados",
+  "type": "dataset",
+  "url": "https://data.buenosaires.gob.ar/dataset/vados",
+  "version": null
+}

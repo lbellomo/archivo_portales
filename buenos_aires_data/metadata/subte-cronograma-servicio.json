@@ -1,0 +1,298 @@
+{
+  "author": "Subterráneos Buenos Aires (SBASE)",
+  "author_email": "datosabiertos@buenosaires.gob.ar",
+  "creator_user_id": "e4546f46-e966-493c-b2f1-57318502c41b",
+  "extras": [
+    {
+      "key": "Documentación",
+      "value": ""
+    },
+    {
+      "key": "accrualPeriodicity",
+      "value": "eventual"
+    },
+    {
+      "key": "country",
+      "value": "None"
+    },
+    {
+      "key": "district",
+      "value": ""
+    },
+    {
+      "key": "home_featured",
+      "value": "false"
+    },
+    {
+      "key": "issued",
+      "value": "2019-01-08T14:59:53.059392"
+    },
+    {
+      "key": "language",
+      "value": "[]"
+    },
+    {
+      "key": "modified",
+      "value": "2021-03-05T11:29:45.200545"
+    },
+    {
+      "key": "province",
+      "value": ""
+    },
+    {
+      "key": "source",
+      "value": "Subterráneos Buenos Aires (SBASE)"
+    },
+    {
+      "key": "spatial",
+      "value": "None"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"TRAN\"]"
+    },
+    {
+      "key": "temporal",
+      "value": ""
+    }
+  ],
+  "groups": [
+    {
+      "description": "",
+      "display_name": "Movilidad",
+      "id": "e616e02e-64d8-4fb0-b55d-08e75eb58376",
+      "image_display_url": "https://data.buenosaires.gob.ar/uploads/group/2019-11-16-145017.234366movilidad.png",
+      "name": "movilidad",
+      "title": "Movilidad"
+    }
+  ],
+  "id": "juqdkmgo-198",
+  "isopen": true,
+  "license_id": "CC-BY-2.5-AR",
+  "license_title": "Atribucion 2.5 Argentina (CC BY 2.5 AR)",
+  "license_url": "https://creativecommons.org/licenses/by/2.5/ar ",
+  "maintainer": "Secretaría General y Relaciones Internacionales. Subsecretaría Gestión Estratégica y Calidad Institucional. Dirección General Calidad Institucional y Gobierno Abierto",
+  "maintainer_email": "datosabiertos@buenosaires.gob.ar",
+  "metadata_created": "2019-12-11T18:18:58.647112",
+  "metadata_modified": "2021-03-05T14:29:45.213103",
+  "name": "subte-cronograma-servicio",
+  "notes": "Cronograma de servicio del Subte de Buenos Aires según período del año.",
+  "num_resources": 7,
+  "num_tags": 3,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-11-15T19:15:41.099199",
+    "description": "",
+    "id": "09f7efa5-e672-4313-948b-be911c134ad2",
+    "image_url": "",
+    "is_organization": true,
+    "name": "sbase",
+    "revision_id": "0e38cc92-c17c-4e05-8358-188341f4c3fc",
+    "state": "active",
+    "title": "Subterráneos de Buenos Aires (SBASE)",
+    "type": "organization"
+  },
+  "owner_org": "09f7efa5-e672-4313-948b-be911c134ad2",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/subte-cronograma-de-servicio",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-01-08T14:59:53.059392",
+      "datastore_active": false,
+      "description": "Acuerdo Operativo de Mantenimiento entre Subterráneos de Buenos Aires (SBASE) y Metrovías.",
+      "fileName": "acuerdo-operativo-de-mantenimiento-cronograma-de-servicio.pdf",
+      "format": "PDF",
+      "hash": "",
+      "id": "juqdkmgo-1981-resource",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Acuerdo Operativo de Mantenimiento (Cronograma de servicio)",
+      "package_id": "juqdkmgo-198",
+      "position": 0,
+      "resource_type": "documentation",
+      "revision_id": "488cc507-dc64-4a84-8d8a-c88aa40250c7",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/subte-cronograma-de-servicio/acuerdo-operativo-de-mantenimiento-cronograma-de-servicio.pdf",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/subte-cronograma-de-servicio",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-01-08T14:59:53.059392",
+      "datastore_active": false,
+      "description": "Listado de las cabeceras de las estaciones del Subte.",
+      "fileName": "cabeceras-estaciones.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "juqdkmgo-1982-resource",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Cabeceras estaciones",
+      "package_id": "juqdkmgo-198",
+      "position": 1,
+      "resource_type": "file",
+      "revision_id": "9bcf830e-c579-4bd0-9635-64ac498f092d",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/subte-cronograma-de-servicio/cabeceras-estaciones.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/subte-cronograma-de-servicio",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-06-04T12:37:40.833166",
+      "datastore_active": false,
+      "description": "Cronograma de servicio del Subte de invierno histórico. Se indica línea, tipo de día, hora de salida de cada cabecera y cantidad de coches.",
+      "fileName": "cronograma-invierno.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "juqdkmgo-1983-resource",
+      "last_modified": "2019-06-04T12:37:40.833166",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Cronograma Invierno",
+      "package_id": "juqdkmgo-198",
+      "position": 2,
+      "resource_type": "file",
+      "revision_id": "c4a0cab4-4d56-400c-b825-b4b7d7f582d9",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/subte-cronograma-de-servicio/cronograma-invierno.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/subte-cronograma-de-servicio",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-01-08T14:59:53.059392",
+      "datastore_active": false,
+      "description": "Cronograma de servicio del Subte de verano. Se indica línea, tipo de día, hora de salida de cada cabecera y cantidad de coches.",
+      "fileName": "cronograma-verano.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "juqdkmgo-1984-resource",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Cronograma Verano",
+      "package_id": "juqdkmgo-198",
+      "position": 3,
+      "resource_type": "file",
+      "revision_id": "d9caa12b-ab35-44d7-ad24-20fa826c8dea",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/subte-cronograma-de-servicio/cronograma-verano.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/subte-cronograma-de-servicio",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-01-08T14:59:53.059392",
+      "datastore_active": false,
+      "description": "Listado de las cabeceras de las estaciones del Subte.",
+      "fileName": "cabeceras-estaciones.xlsx",
+      "format": "XLSX",
+      "hash": "",
+      "id": "juqdkmgo-1982-resource-xlsx",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Cabeceras estaciones (XLSX)",
+      "package_id": "juqdkmgo-198",
+      "position": 4,
+      "resource_type": "file",
+      "revision_id": "2a144740-d7bb-47c8-b7fa-8fb52b5795a4",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/subte-cronograma-de-servicio/cabeceras-estaciones.xlsx",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/subte-cronograma-de-servicio",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-06-04T12:37:40.833166",
+      "datastore_active": false,
+      "description": "Cronograma de servicio del Subte de invierno histórico. Se indica línea, tipo de día, hora de salida de cada cabecera y cantidad de coches.",
+      "fileName": "cronograma-invierno.xlsx",
+      "format": "XLSX",
+      "hash": "",
+      "id": "juqdkmgo-1983-resource-xlsx",
+      "last_modified": "2019-06-04T12:37:40.833166",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Cronograma Invierno (XLSX)",
+      "package_id": "juqdkmgo-198",
+      "position": 5,
+      "resource_type": "file",
+      "revision_id": "e6a55fc1-b24a-49bb-ab77-eaad510a9cfb",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/subte-cronograma-de-servicio/cronograma-invierno.xlsx",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://data.buenosaires.gob.ar/dataset/subte-cronograma-de-servicio",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-01-08T14:59:53.059392",
+      "datastore_active": false,
+      "description": "Cronograma de servicio del Subte de verano. Se indica línea, tipo de día, hora de salida de cada cabecera y cantidad de coches.",
+      "fileName": "cronograma-verano.xlsx",
+      "format": "XLSX",
+      "hash": "",
+      "id": "juqdkmgo-1984-resource-xlsx",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Cronograma Verano (XLSX)",
+      "package_id": "juqdkmgo-198",
+      "position": 6,
+      "resource_type": "file",
+      "revision_id": "3456bb61-2ee1-4ecc-a8dc-d2643e202c60",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/subte-cronograma-de-servicio/cronograma-verano.xlsx",
+      "url_type": null
+    }
+  ],
+  "revision_id": "fb1ae70c-7af5-4243-b9d5-2532487b2382",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "movilidad",
+      "id": "6fda14a0-403a-4fd4-bc7f-e5742514badc",
+      "name": "movilidad",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "subte",
+      "id": "d21f4689-9652-43c9-8cae-53e4e2abc76d",
+      "name": "subte",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "transporte",
+      "id": "aff133f8-2f33-4d2c-a531-6d632bd4efbb",
+      "name": "transporte",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Subte: Cronograma de servicio",
+  "type": "dataset",
+  "url": "https://data.buenosaires.gob.ar/dataset/subte-cronograma-servicio",
+  "version": null
+}

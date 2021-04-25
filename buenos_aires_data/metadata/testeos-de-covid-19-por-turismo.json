@@ -1,0 +1,289 @@
+{
+  "author": "Ministerio de Salud",
+  "author_email": "datosabiertos@buenosaires.gob.ar",
+  "creator_user_id": "3ff46b8e-0885-4233-9acd-90f8b7e76333",
+  "extras": [
+    {
+      "key": "Documentación",
+      "value": ""
+    },
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P1D"
+    },
+    {
+      "key": "country",
+      "value": "None"
+    },
+    {
+      "key": "district",
+      "value": ""
+    },
+    {
+      "key": "home_featured",
+      "value": "false"
+    },
+    {
+      "key": "issued",
+      "value": "2021-03-02T10:52:01.958829"
+    },
+    {
+      "key": "language",
+      "value": "[]"
+    },
+    {
+      "key": "modified",
+      "value": "2021-04-20"
+    },
+    {
+      "key": "province",
+      "value": ""
+    },
+    {
+      "key": "source",
+      "value": "Ministerio de Salud"
+    },
+    {
+      "key": "spatial",
+      "value": "None"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"HEAL\"]"
+    },
+    {
+      "key": "temporal",
+      "value": ""
+    }
+  ],
+  "groups": [
+    {
+      "description": "Datasets relacionados a COVID-19",
+      "display_name": "COVID-19",
+      "id": "0f30f631-df60-4d33-aedb-96c9a48a2332",
+      "image_display_url": "https://data.buenosaires.gob.ar/uploads/group/2020-07-23-165939.349779iconocovid19.png",
+      "name": "covid-19",
+      "title": "COVID-19"
+    }
+  ],
+  "id": "f983a1fc-f13f-4e49-90e7-8e757d12ddbe",
+  "isopen": true,
+  "license_id": "CC-BY-2.5-AR",
+  "license_title": "Atribucion 2.5 Argentina (CC BY 2.5 AR)",
+  "license_url": "https://creativecommons.org/licenses/by/2.5/ar ",
+  "maintainer": "Gerencia Operativa de Ingeniería de Datos. DG Arquitectura de Datos. SS de Políticas Públicas Basadas en Evidencia. Secretaría de Innovación y Transformación Digital. Jefatura de Gabinete de Ministros",
+  "maintainer_email": "datosabiertos@buenosaires.gob.ar",
+  "metadata_created": "2021-02-12T13:09:45.696355",
+  "metadata_modified": "2021-04-20T12:00:20.072373",
+  "name": "testeos-de-covid-19-por-turismo",
+  "notes": "Información sobre los testeos realizados para los visitantes de la Ciudad y los residentes que vuelven de sus vacaciones. Los datos están desagradados por género, grupos de edad y el centro donde se realizó el testeo. Además, se incluye la ubicación geográfica de estos centros. ",
+  "num_resources": 4,
+  "num_tags": 8,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-11-15T19:17:04.156344",
+    "description": "",
+    "id": "c055e91b-2714-47e4-b47e-6bb063f32776",
+    "image_url": "",
+    "is_organization": true,
+    "name": "ministerio-de-salud",
+    "revision_id": "b72e4fc3-266f-4a53-bbd7-690b4ccff688",
+    "state": "active",
+    "title": "Ministerio de Salud",
+    "type": "organization"
+  },
+  "owner_org": "c055e91b-2714-47e4-b47e-6bb063f32776",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "",
+      "accessURL_field": "",
+      "attributesDescription": "[{\"title\":\"FECHA_MUESTRA\",\"description\":\"Fecha en la que fue realizado el testeo\",\"type\":\"string\"},{\"title\":\"TIPO\",\"description\":\"Resultado del testeo; si es positivo, está indicado como 'positivo'\",\"type\":\"string\"},{\"title\":\"DISPOSITIVO\",\"description\":\"Centro donde se realizó el testeo\",\"type\":\"string\"},{\"title\":\"GENERO\",\"description\":\"Sexo de las personas testeadas\",\"type\":\"string\"},{\"title\":\"GRUPO_ETARIO\",\"description\":\"Rango de edad de los/as testeados/as\",\"type\":\"string\"},{\"title\":\"N\",\"description\":\"Cantidad de personas\",\"type\":\"integer\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2021-03-02T15:05:29.648638",
+      "datastore_active": false,
+      "description": "Información de los testeos a turistas y residentes que vuelven de las vacaciones a la Ciudad. Incluye el total de casos según día, grupos de edad, género, lugar de testeo y resultado.",
+      "fileName": "dataset_testeo_turismo.csv",
+      "format": "CSV",
+      "has-uploaded-file": "",
+      "hash": "",
+      "icon_url": "",
+      "id": "f54f5c30-09be-4a95-bab5-c9168d4b2feb",
+      "issued": "2021-03-02T15:05:29.648638",
+      "last_modified": "2021-03-02T00:00:00",
+      "license_id": "CC-BY-2.5-AR",
+      "mimetype": "text/csv",
+      "mimetype_inner": null,
+      "modified": "2021-04-20",
+      "name": "Testeos para turismo COVID-19",
+      "package_id": "f983a1fc-f13f-4e49-90e7-8e757d12ddbe",
+      "position": 0,
+      "resource_type": "file",
+      "revision_id": "6eb7ca04-52d7-40cf-b957-42cae9d1fdd0",
+      "size": null,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/salud/testeos-de-covid-19-por-turismo/dataset_testeo_turismo.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "",
+      "accessURL_field": "",
+      "attributesDescription": "[{\"title\":\"X\",\"description\":\"Latitud\",\"type\":\"number\"},{\"title\":\"Y\",\"description\":\"Longitud\",\"type\":\"integer\"},{\"title\":\"id\",\"description\":\"Identificación del centro\",\"type\":\"integer\"},{\"title\":\"Centro\",\"description\":\"Nombre del centro\",\"type\":\"string\"},{\"title\":\"calle\",\"description\":\"nombre de la calle\",\"type\":\"string\"},{\"title\":\"numero\",\"description\":\"Altura de la calle\",\"type\":\"integer\"},{\"title\":\"Localidad\",\"description\":\"Localidad \",\"type\":\"string\"},{\"title\":\"direccion\",\"description\":\"Dirección completa del centro\",\"type\":\"string\"},{\"title\":\"dom_norma\",\"description\":\"Dirección normalizada\",\"type\":\"string\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2021-02-25T21:29:25.234293",
+      "datastore_active": false,
+      "description": "Información georreferenciada de los centros de testeo por vacaciones que estuvieron a disposición durante la temporada de verano 2020-2021.",
+      "fileName": "centro_testeo_turismo",
+      "format": "CSV",
+      "has-uploaded-file": "",
+      "hash": "",
+      "icon_url": "",
+      "id": "53ff5508-46e8-4fc0-9e10-a0b990d2b04e",
+      "issued": "2021-02-26T13:33:10.593903",
+      "last_modified": "2021-02-25T21:29:25.186799",
+      "license_id": "CC-BY-2.5-AR",
+      "mimetype": "text/csv",
+      "mimetype_inner": null,
+      "modified": "2021-03-02T11:53:58.526388",
+      "name": "Centro de testeo para turismo",
+      "package_id": "f983a1fc-f13f-4e49-90e7-8e757d12ddbe",
+      "position": 1,
+      "resource_type": "file",
+      "revision_id": "818b5df8-4f49-415a-b6da-3e265f9ea5f2",
+      "size": 1194,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/administracion-gubernamental-de-ingresos-publicos/testeos-de-covid-19-por-turismo/centro_testeo_turismo.csv",
+      "url_type": ""
+    },
+    {
+      "accessURL": "",
+      "accessURL_field": "",
+      "attributesDescription": "[{\"title\":\"X\",\"description\":\"Latitud \",\"type\":\"number\"},{\"title\":\"Y\",\"description\":\"Longitud\",\"type\":\"number\"},{\"title\":\"id\",\"description\":\"Identificación del centro \",\"type\":\"integer\"},{\"title\":\"Centro\",\"description\":\"Nombre del centro \\n\",\"type\":\"string\"},{\"title\":\"calle\",\"description\":\"nombre de la calle \",\"type\":\"integer\"},{\"title\":\"numero\",\"description\":\"Altura de la calle \",\"type\":\"integer\"},{\"title\":\"Localidad\",\"description\":\"Localidad  \\n\",\"type\":\"integer\"},{\"title\":\"direccion\",\"description\":\"Dirección completa del centro \\n\",\"type\":\"string\"},{\"title\":\"dom_norma\",\"description\":\"Dirección normalizada \\n\",\"type\":\"integer\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2021-02-25T21:33:44.473331",
+      "datastore_active": false,
+      "description": "Información georreferenciada de los centros de testeo por vacaciones que estuvieron a disposición durante la temporada de verano 2020-2021.",
+      "fileName": "centro_testeo_turismo",
+      "format": "XLSX",
+      "has-uploaded-file": "",
+      "hash": "",
+      "icon_url": "",
+      "id": "adf903f9-21da-4325-aeb0-89cfa8c302c7",
+      "issued": "2021-02-26T13:33:59.812687",
+      "last_modified": "2021-02-25T21:33:44.429848",
+      "license_id": "CC-BY-2.5-AR",
+      "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "mimetype_inner": null,
+      "modified": "2021-03-02T11:53:51.213979",
+      "name": "Centro de testeo para turismo (XLSX)",
+      "package_id": "f983a1fc-f13f-4e49-90e7-8e757d12ddbe",
+      "position": 2,
+      "resource_type": "file",
+      "revision_id": "818b5df8-4f49-415a-b6da-3e265f9ea5f2",
+      "size": 10633,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/administracion-gubernamental-de-ingresos-publicos/testeos-de-covid-19-por-turismo/centro_testeo_turismo.xlsx",
+      "url_type": ""
+    },
+    {
+      "accessURL": "",
+      "accessURL_field": "",
+      "attributesDescription": "[{\"title\":\"X\",\"description\":\"Latitud \",\"type\":\"number\"},{\"title\":\"Y\",\"description\":\"Longitud\",\"type\":\"number\"},{\"title\":\"id\",\"description\":\"Identificación del centro \\n\",\"type\":\"integer\"},{\"title\":\"centro\",\"description\":\"Nombre del centro \\n\",\"type\":\"string\"},{\"title\":\"calle\",\"description\":\"nombre de la calle \\n\",\"type\":\"string\"},{\"title\":\"numero\",\"description\":\"Altura de la calle \\n\",\"type\":\"integer\"},{\"title\":\"Localidad\",\"description\":\"Localidad\",\"type\":\"string\"},{\"title\":\"direccion\",\"description\":\"Dirección completa del centro \\n\",\"type\":\"string\"},{\"title\":\"dom_norma\",\"description\":\"Dirección normalizada \\n\",\"type\":\"string\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2021-02-25T21:36:37.296692",
+      "datastore_active": false,
+      "description": "Información georreferenciada de los centros de testeo por vacaciones que estuvieron a disposición durante la temporada de verano 2020-2021.",
+      "fileName": "centros-de-testeos-turismo-shape",
+      "format": "ZIP",
+      "has-uploaded-file": "",
+      "hash": "",
+      "icon_url": "",
+      "id": "4a996c58-a036-467a-a3b7-8044424f96c0",
+      "issued": "2021-02-26T13:34:27.880624",
+      "last_modified": "2021-02-25T21:36:37.107908",
+      "license_id": "CC-BY-2.5-AR",
+      "mimetype": "application/zip",
+      "mimetype_inner": null,
+      "modified": "2021-03-02T11:50:04.448574",
+      "name": "Centro de testeo para turismo (SHP)",
+      "package_id": "f983a1fc-f13f-4e49-90e7-8e757d12ddbe",
+      "position": 3,
+      "resource_type": "file",
+      "revision_id": "818b5df8-4f49-415a-b6da-3e265f9ea5f2",
+      "size": 2035,
+      "state": "active",
+      "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/administracion-gubernamental-de-ingresos-publicos/testeos-de-covid-19-por-turismo/centros-de-testeos-turismo-shape.zip",
+      "url_type": ""
+    }
+  ],
+  "revision_id": "c777c6b1-9ba8-4f16-9bd2-22cd5ca71ab5",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "adultos mayores",
+      "id": "079256cb-f4b9-41c4-bb58-7ed116f7a9b7",
+      "name": "adultos mayores",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "coronavirus",
+      "id": "efeebfc4-0eaf-47bc-9d00-435b9c600fa1",
+      "name": "coronavirus",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "covid-19",
+      "id": "ceba9be6-737d-40f8-9069-39b34161dfaf",
+      "name": "covid-19",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "género",
+      "id": "983afd4b-d371-4cfb-add2-467b355c0578",
+      "name": "género",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "jóvenes",
+      "id": "1660e773-3f5d-4e87-9556-43778e4addd9",
+      "name": "jóvenes",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "salud",
+      "id": "92c7f3e1-f781-4b82-a933-7408e37b3687",
+      "name": "salud",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "testeos",
+      "id": "52bd690b-c483-48d9-ae0c-261e96c33fc3",
+      "name": "testeos",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "turismo",
+      "id": "efc08f7b-8ca1-4064-a808-2a2403903c99",
+      "name": "turismo",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Testeos de COVID-19 para turismo",
+  "type": "dataset",
+  "url": "https://data.buenosaires.gob.ar/dataset/testeos-de-covid-19-por-turismo",
+  "version": null
+}
