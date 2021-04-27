@@ -1,12 +1,12 @@
-name: CI
+name: main_opa_runner
 
 on:
   push:
-    branches: [ master ]
+    # branches: [ master ]
   workflow_dispatch:
 
 jobs:
-  build:
+  opa:
     runs-on: ubuntu-latest
 
     steps:
@@ -18,7 +18,6 @@ jobs:
         run: |
           python -m pip install --upgrade pip
           pip install internetarchive httpx
-      # Runs a single command using the runners shell
       - name: Download script
         run: wget https://raw.githubusercontent.com/lbellomo/opa/master/main.py
       - name: Run script
