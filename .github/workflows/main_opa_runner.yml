@@ -1,4 +1,4 @@
-name: main_opa_runner
+name: main_data_portal_archiver_runner
 
 on:
   # push:
@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
 
 jobs:
-  opa:
+  data_portal_archiver:
     runs-on: ubuntu-latest
 
     steps:
