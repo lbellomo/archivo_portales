@@ -1,0 +1,12 @@
+[global]
+save_package_metadata = true
+upload_resources = true
+save_internal_metadata = true
+
+count_workers = 4
+maxsize = 4
+
+[section]
+[section.ciudad_buenos_aires]
+base_url = "https://data.buenosaires.gob.ar/"
+portal_name = "buenos_aires_data"
