@@ -1,5 +1,5 @@
 # archivo_portales
-Archivo de portales abiertos, utilizando la [Open Portal Archiver (opa)](https://github.com/lbellomo/opa).
+Archivo de portales abiertos, utilizando la [Data Portal Archiver](https://github.com/lbellomo/data_portal_archiver).
 Los Metadatos quedan guardados en este repo, los datos subidos a [Internet Archive](https://archive.org/).
 
 
