@@ -1,8 +1,8 @@
 name: archive
 
 on:
-  # push:
-  #   branches: [ master ]
+  push:
+    branches: [ master ]
   workflow_dispatch:
 
 jobs:
@@ -14,12 +14,10 @@ jobs:
       - uses: actions/setup-python@v2
         with:
           python-version: 3.9
-      - name: Install dependencies
+      - name: Install data-portal-archiver
         run: |
           python -m pip install --upgrade pip
-          pip install internetarchive httpx
-      - name: Download script
-        run: wget https://raw.githubusercontent.com/lbellomo/opa/master/main.py
+          pip install data-portal-archiver
       - name: Run script
         run: python main.py
         env:
