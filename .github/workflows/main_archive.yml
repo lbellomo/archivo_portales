@@ -10,9 +10,11 @@ jobs:
     runs-on: ubuntu-latest
 
     strategy:
+      # because we allways commit to the same repo, 
+      # only one jobs at the time is allowed
       max-parallel: 1
       matrix:
-        section_name: [ciudad_buenos_aires, argentina]
+        section_name: [argentina, ciudad_buenos_aires]
 
     steps:
       - uses: actions/checkout@v2
@@ -34,6 +36,7 @@ jobs:
         run: |
           git config --global user.name 'Archive bot'
           git config --global user.email 'Archive@bot.com'
+          git pull
           git add -A
           git commit -m "bump portals"
           git push
