@@ -11,7 +11,7 @@ jobs:
 
     strategy:
       matrix:
-        section_name: [ciudad_buenos_aires]
+        section_name: [argentina, ciudad_buenos_aires]
 
     steps:
       - uses: actions/checkout@v2
