@@ -1,0 +1,183 @@
+{
+  "author": "Ministerio de Energía y Minería.Secretaría de Coordinación de Planeamiento Energético.Dirección Nacional de Información Energética.Tecnología de la Información.  ",
+  "author_email": "tienerg@energia.gob.ar",
+  "creator_user_id": "4720e75a-9e17-4dc3-879d-041917c7f9f9",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "eventual"
+    },
+    {
+      "key": "issued",
+      "value": "2016-11-07T13:33:34.985951"
+    },
+    {
+      "key": "modified",
+      "value": "2018-04-24T21:46:51.031013"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"ENER\"]"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Energía",
+      "display_name": "Energía",
+      "id": "a4d3f632-eb48-4163-9791-165989c16035",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225337.421630energia.svg",
+      "name": "ener",
+      "title": "Energía"
+    }
+  ],
+  "id": "energia_99ba34a0-08f2-48e3-8d37-4d92542f740e",
+  "isopen": false,
+  "license_id": "notspecified",
+  "license_title": "No se especificó la licencia",
+  "maintainer": "Ministerio de Energía y Minería.Secretaría de Coordinación de Planeamiento Energético.Dirección Nacional de Información Energética.Tecnología de la Información.",
+  "maintainer_email": "tienerg@minem.gob.ar",
+  "metadata_created": "2019-11-26T15:00:39.380825",
+  "metadata_modified": "2021-04-29T17:17:15.839624",
+  "name": "energia-comercializacion-hidrocarburos---terminales-despacho-combustibles-liquidos",
+  "notes": "Ubicación de terminales de despacho de combustibles líquidos. ISO 19126: PowerSupplies, Este subgrupo se compone de conceptos que se relacionan con la producción, transporte y distribución de energía.",
+  "num_resources": 2,
+  "num_tags": 9,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:09.221510",
+    "description": "",
+    "id": "cd1b32a2-2d3a-44ac-8c98-a425a7b62d42",
+    "image_url": "",
+    "is_organization": true,
+    "name": "energia",
+    "revision_id": "a184cf69-99ad-4f84-a254-020031d7fe63",
+    "state": "active",
+    "title": "Secretaría de Energía",
+    "type": "organization"
+  },
+  "owner_org": "cd1b32a2-2d3a-44ac-8c98-a425a7b62d42",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "http://datos.minem.gob.ar/dataset/99ba34a0-08f2-48e3-8d37-4d92542f740e/resource/60cc9937-e676-4535-a63e-91ae2b5bf3fa",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-05-04T17:37:31.633756",
+      "datastore_active": false,
+      "description": "Archivos prj, shp, shx, dbf, xml. Sistema de Proyección EPSG:4326",
+      "fileName": "comercializacin-hidrocarburos-combustibles-lquidos-terminales-de-despacho.zip",
+      "format": "SHP",
+      "hash": "",
+      "id": "energia_60cc9937-e676-4535-a63e-91ae2b5bf3fa",
+      "last_modified": "2017-05-04T17:37:31.470885",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Comercialización Hidrocarburos Combustibles Líquidos Terminales de Despacho",
+      "package_id": "energia_99ba34a0-08f2-48e3-8d37-4d92542f740e",
+      "position": 0,
+      "resource_type": null,
+      "revision_id": "bcabde07-4ac0-42fa-9bbc-d9c0b76268cc",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.minem.gob.ar/dataset/99ba34a0-08f2-48e3-8d37-4d92542f740e/resource/60cc9937-e676-4535-a63e-91ae2b5bf3fa/download/comercializacin-hidrocarburos-combustibles-lquidos-terminales-de-despacho.zip",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos.minem.gob.ar/dataset/99ba34a0-08f2-48e3-8d37-4d92542f740e/resource/ad8a4218-d488-4b62-afd5-14255aae7ac2",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-05-04T22:05:44.717692",
+      "datastore_active": false,
+      "description": "",
+      "fileName": "comercializacin-hidrocarburos-combustibles-lquidos-terminales-de-despacho.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "energia_ad8a4218-d488-4b62-afd5-14255aae7ac2",
+      "last_modified": "2017-05-04T22:05:44.562726",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Comercialización Hidrocarburos Combustibles Líquidos Terminales de Despacho",
+      "package_id": "energia_99ba34a0-08f2-48e3-8d37-4d92542f740e",
+      "position": 1,
+      "resource_type": null,
+      "revision_id": "de75a4d6-d585-4b48-b338-0fd0eca899bd",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.minem.gob.ar/dataset/99ba34a0-08f2-48e3-8d37-4d92542f740e/resource/ad8a4218-d488-4b62-afd5-14255aae7ac2/download/comercializacin-hidrocarburos-combustibles-lquidos-terminales-de-despacho.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "865013a6-a8eb-4452-b005-3ec569b2b1fa",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "Combustibles",
+      "id": "91332bf3-1e78-4385-b177-146099d2e48b",
+      "name": "Combustibles",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Comercialización",
+      "id": "ca1806a8-1a94-436c-8d08-6d4b19af165e",
+      "name": "Comercialización",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Comercialización de Hidrocarburos Líquidos",
+      "id": "c81df453-550a-4172-b461-0412ecdac4e7",
+      "name": "Comercialización de Hidrocarburos Líquidos",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Despacho",
+      "id": "48043599-bd93-4348-8b52-22aa71ccb1f7",
+      "name": "Despacho",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Hidrocarburos",
+      "id": "f2511ea4-b37a-445a-913a-8948f1b90df6",
+      "name": "Hidrocarburos",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Información Geográfica",
+      "id": "d22bc8a4-252e-4fd8-89b2-3b9a08f6be42",
+      "name": "Información Geográfica",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Información geográfica",
+      "id": "24b3ee69-69cb-45de-a8b4-3566f4eab17c",
+      "name": "Información geográfica",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Líquidos",
+      "id": "ad9fb649-7336-47b5-9d6d-83692175787f",
+      "name": "Líquidos",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Terminales",
+      "id": "60d3721b-4ff6-42ca-8892-19ff6463e08f",
+      "name": "Terminales",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Comercialización de hidrocarburos - Terminales de despacho de  combustibles líquidos",
+  "type": "dataset",
+  "url": "http://datos.minem.gob.ar/dataset/comercializacion-hidrocarburos-combustibles-liquidos-terminales-de-despacho",
+  "version": null
+}

@@ -1,0 +1,147 @@
+{
+  "author": "Ministerio de Ambiente y Desarrollo Sostenible. Coordinación de Residuos Solidos Urbanos.",
+  "author_email": "mquatraro@ambiente.gob.ar",
+  "creator_user_id": "4720e75a-9e17-4dc3-879d-041917c7f9f9",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P1Y"
+    },
+    {
+      "key": "issued",
+      "value": "2017-09-05T18:53:31.459087"
+    },
+    {
+      "key": "language",
+      "value": "[\"spa\"]"
+    },
+    {
+      "key": "modified",
+      "value": "2020-09-30T13:03:36.844987"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"ENVI\"]"
+    },
+    {
+      "key": "temporal",
+      "value": "2016-01-01T03:00:00.000Z/2017-08-31T03:00:00.000Z"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Medio ambiente",
+      "display_name": "Medio ambiente",
+      "id": "f71fe9d7-c703-43be-8d9d-af9441c326ba",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225440.964279medio-ambiente.svg",
+      "name": "envi",
+      "title": "Medio ambiente"
+    }
+  ],
+  "id": "ambiente_c099ac6b-e6c0-464e-b3e0-8381bb6f35b2",
+  "isopen": false,
+  "license_id": "notspecified",
+  "license_title": "No se especificó la licencia",
+  "maintainer": "Ministerio de Ambiente y Desarrollo Sostenible. Coordinación de Residuos Solidos Urbanos.",
+  "maintainer_email": "mquatraro@ambiente.gob.ar",
+  "metadata_created": "2019-11-26T14:58:04.437358",
+  "metadata_modified": "2021-04-29T17:17:48.650284",
+  "name": "ambiente-generacion-residuos",
+  "notes": "El dataset muestra la generación de residuos a escala municipal y provincial, por habitante, por año y si cada municipio cuenta con planta de tratamiento",
+  "num_resources": 1,
+  "num_tags": 6,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:07.043831",
+    "description": "",
+    "id": "0e5aa328-825e-4509-851d-5421e866635e",
+    "image_url": "",
+    "is_organization": true,
+    "name": "ambiente",
+    "revision_id": "105eb915-270c-4f67-9b4e-e6a3f08be6d7",
+    "state": "active",
+    "title": "Ministerio de Ambiente y Desarrollo Sostenible",
+    "type": "organization"
+  },
+  "owner_org": "0e5aa328-825e-4509-851d-5421e866635e",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "http://datos.ambiente.gob.ar/dataset/c099ac6b-e6c0-464e-b3e0-8381bb6f35b2/resource/08c8bd92-188d-4349-9b06-c5a75d641480",
+      "attributesDescription": "[{\"type\": \"string\", \"description\": \"Provincia a la cual corresponde el municipio\", \"title\": \"provincia_nombre\"}, {\"type\": \"string\", \"description\": \"Nombre del municipio al cual corresponde el valor\", \"title\": \"Municipio_nombre\"}, {\"type\": \"integer\", \"description\": \"Cantidad de habitantes en el municipio\", \"title\": \"Municipio_habitantes\"}, {\"type\": \"number\", \"description\": \"Porcentaje de habitantes del municipio en relaci\\u00f3n a la provincia\", \"title\": \"Porcentaje_habitantes_Provincia\"}, {\"type\": \"number\", \"description\": \"Generaci\\u00f3n de residuos por habitante y por a\\u00f1o en kilogramos del municipio\", \"title\": \"Generacion_Dia_Habitante_Kg\"}, {\"type\": \"number\", \"description\": \"Generacion de residuos generados por el municipio en toneladas\", \"title\": \"Generacion_Municipio_Tn\"}, {\"type\": \"integer\", \"description\": \"Distancia del lugar de disposici\\u00f3n final de los residuos generados por el municipio\", \"title\": \"Distancia_obra_km\"}, {\"type\": \"string\", \"description\": \"Existencia de planta de tratamiento del municipio\", \"title\": \"Con_Planta_de_Transferencia\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-09-05T19:00:31.485501",
+      "datastore_active": false,
+      "description": "El recurso describe la generación de residuos por habitante y año por municipio y provincia, si posee planta de tratamiento y la distancia al municipio perteneciente",
+      "fileName": "generacion-de-residuos-solidos-urbanos-por-provincia.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "ambiente_08c8bd92-188d-4349-9b06-c5a75d641480",
+      "last_modified": "2017-09-05T19:00:31.435289",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Generación de residuos sólidos urbanos por provincia",
+      "package_id": "ambiente_c099ac6b-e6c0-464e-b3e0-8381bb6f35b2",
+      "position": 0,
+      "resource_type": null,
+      "revision_id": "939b423b-3ab1-4515-a516-5bf4b9d0e2e6",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.ambiente.gob.ar/dataset/c099ac6b-e6c0-464e-b3e0-8381bb6f35b2/resource/08c8bd92-188d-4349-9b06-c5a75d641480/download/generacion-de-residuos-solidos-urbanos-por-provincia.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "95f716b0-4f7c-48a3-b588-7b8214a5f0ba",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "Generación de residuos",
+      "id": "c596b2df-af9a-4815-b18d-cb5081debfb2",
+      "name": "Generación de residuos",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Plantas de tratamiento",
+      "id": "897ba00d-b5aa-4f25-be18-c6638333a8c3",
+      "name": "Plantas de tratamiento",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "RSU",
+      "id": "0649d468-7eb9-41b3-bd12-3617d36a55ee",
+      "name": "RSU",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Residuos",
+      "id": "44611997-f7be-4839-a5a3-26424734761f",
+      "name": "Residuos",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Residuos por habitante",
+      "id": "23ab6aaa-7750-4478-b209-3a3e13909f64",
+      "name": "Residuos por habitante",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Tratamiento de residuos",
+      "id": "fc106d34-5f0f-417c-b294-60e79487eb07",
+      "name": "Tratamiento de residuos",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Generación de residuos",
+  "type": "dataset",
+  "url": "http://observatoriorsu.ambiente.gob.ar",
+  "version": null
+}

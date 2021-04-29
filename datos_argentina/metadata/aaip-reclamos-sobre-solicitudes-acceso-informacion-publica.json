@@ -1,0 +1,141 @@
+{
+  "author": "Agencia de Acceso a la Información Pública (AAIP)",
+  "author_email": "accesoalainformacion@aaip.gob.ar",
+  "creator_user_id": "dc157489-51c6-44ce-bd63-3bd983d60778",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P3M"
+    },
+    {
+      "key": "issued",
+      "value": "2020-02-08"
+    },
+    {
+      "key": "language",
+      "value": "[\"SPA\"]"
+    },
+    {
+      "key": "source",
+      "value": "Agencia de Acceso a la Información Pública (AAIP)"
+    },
+    {
+      "key": "spatial",
+      "value": "ARG"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"GOVE\"]"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Gobierno y sector público",
+      "display_name": "Gobierno y sector público",
+      "id": "e6f07c77-3987-4e71-98a6-731b1aaf74f4",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225353.395233gobierno-sector-publico.svg",
+      "name": "gove",
+      "title": "Gobierno y sector público"
+    }
+  ],
+  "id": "aaip_02",
+  "isopen": true,
+  "license_id": "CC-BY-4.0",
+  "license_title": "Creative Commons Attribution 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "maintainer": "Área de Prensa y Comunicación",
+  "maintainer_email": "accesoalainformacion@aaip.gob.ar",
+  "metadata_created": "2020-07-01T13:43:54.242744",
+  "metadata_modified": "2021-04-29T17:05:28.130508",
+  "name": "aaip-reclamos-sobre-solicitudes-acceso-informacion-publica",
+  "notes": "En este cuerpo de datos se listan los reclamos sobre solicitudes de acceso a la información realizados en el marco de la Ley 27.275 de Acceso a la Información Pública, tal como son tramitados en el sistema Gestión Documental Electrónica (GDE).",
+  "num_resources": 1,
+  "num_tags": 5,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-11-15T11:12:14.827243",
+    "description": "",
+    "id": "daa8b40c-fa37-478c-a7ef-081305aeadd8",
+    "image_url": "",
+    "is_organization": true,
+    "name": "aaip",
+    "revision_id": "bdb19087-fe10-4865-85c4-c594893cb553",
+    "state": "active",
+    "title": "Agencia de Acceso a la Información Pública",
+    "type": "organization"
+  },
+  "owner_org": "daa8b40c-fa37-478c-a7ef-081305aeadd8",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "https://www.argentina.gob.ar/aaip/accesoinformacion/datospublicos",
+      "attributesDescription": "[{\"title\": \"orden\", \"type\": \"number\", \"description\": \"Identificador del reclamo efectuado\"}, {\"title\": \"estado\", \"type\": \"string\", \"description\": \"Estado en el que se encuentra el expediente seg\\u00fan el circuito definido por la Agencia de Acceso a la Informaci\\u00f3n P\\u00fablica.\"}, {\"title\": \"n_de_expediente\", \"type\": \"string\", \"description\": \"Identificador por el cual se registr\\u00f3 el reclamo de acceso a la informaci\\u00f3n en el sistema DGE\"}, {\"title\": \"sujeto_obligado\", \"type\": \"string\", \"description\": \"Ministerio al que se reclam\\u00f3 la informaci\\u00f3n.\"}, {\"title\": \"sujeto_obligado_organismo\", \"type\": \"string\", \"description\": \"Detalle de sub-organismo que tramita el reclamo de acceso a la informaci\\u00f3n (pueden ser organismos descentralizados, empresas p\\u00fablicas y similares).\"}, {\"title\": \"fecha_reclamo\", \"type\": \"date\", \"description\": \"Fecha en la que el expediente ingres\\u00f3 en el sistema.\"}, {\"title\": \"forma_de_ingreso\", \"type\": \"string\", \"description\": \"Modo de ingreso del reclamo de acceso a la informaci\\u00f3n\"}, {\"title\": \"provincia_reclamante\", \"type\": \"string\", \"description\": \"Provincia que declara el reclamante al momento de la solicitud\"}, {\"title\": \"provincia_id\", \"type\": \"string\", \"description\": \"Identificador de la provincia declarada en \\\"provincia_reclamante\\\"\"}, {\"title\": \"tipo_respuesta\", \"type\": \"string\", \"description\": \"Tipo de respuesta que el sujeto obligado dio al reclamante tal como es expresada por el mismo sujeto obligado\"}, {\"title\": \"resolucion\", \"type\": \"string\", \"description\": \"Disposici\\u00f3n que el sujeto obligado dio al reclamante\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2020-01-08T00:00:00",
+      "datastore_active": false,
+      "description": "Detalle de los reclamos sobre solicitudes de acceso a la información realizados ante la AAIP.",
+      "fileName": "dataset_reclamos",
+      "format": "CSV",
+      "hash": "",
+      "id": "aaip_01.02",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Reclamos sobre solicitudes de acceso a la información pública",
+      "package_id": "aaip_02",
+      "position": 0,
+      "resource_type": "file",
+      "revision_id": "c42c71f5-2c76-428c-b117-2cef5b1051d3",
+      "size": null,
+      "state": "active",
+      "url": "https://descarga.aaip.gob.ar/dataset/dataset_reclamos.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "8e181ec0-d1fb-416e-b0f6-d6e9f61a4480",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "Acceso",
+      "id": "2e6df6d1-f22c-4f6b-81ec-bf5e9686e9e7",
+      "name": "Acceso",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Información",
+      "id": "4da5832d-0d73-4fa5-a6d2-540fbce00dc8",
+      "name": "Información",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Pedidos",
+      "id": "8d93d06c-ddeb-4ec1-a2df-ad4f7b827a0d",
+      "name": "Pedidos",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Reclamos",
+      "id": "c09f6263-cdd5-4953-b9c9-9878ea80a02f",
+      "name": "Reclamos",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Solicitudes",
+      "id": "82bfd47f-6568-4a1e-bb6c-c53c8bba4692",
+      "name": "Solicitudes",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Reclamos sobre solicitudes de acceso a la información pública",
+  "type": "dataset",
+  "url": "https://www.argentina.gob.ar/aaip",
+  "version": null
+}

@@ -1,0 +1,134 @@
+{
+  "author": "Ministerio de Salud. Dirección de Estadística e Información en Salud (DEIS) ",
+  "author_email": "informaciondeis@gmail.com",
+  "creator_user_id": "4720e75a-9e17-4dc3-879d-041917c7f9f9",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P1Y"
+    },
+    {
+      "key": "issued",
+      "value": "2019-04-23T16:26:15.191237"
+    },
+    {
+      "key": "language",
+      "value": "[\"spa\"]"
+    },
+    {
+      "key": "modified",
+      "value": "2020-05-15T16:07:02.460546"
+    },
+    {
+      "key": "source",
+      "value": "Dirección de Estadística e Información en Salud (DEIS). Secretaría de Gobierno de Salud"
+    },
+    {
+      "key": "spatial",
+      "value": "[\"ARG\"]"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"HEAL\"]"
+    },
+    {
+      "key": "temporal",
+      "value": "2000-01-01T03:00:00.000Z/2017-12-31T03:00:00.000Z"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Salud",
+      "display_name": "Salud",
+      "id": "65cc1fbf-703a-43bf-8a14-232a55c34976",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225809.913196salud.svg",
+      "name": "heal",
+      "title": "Salud"
+    }
+  ],
+  "id": "salud_314e08d7-70a1-4704-aa2f-e86ce03b359d",
+  "isopen": false,
+  "license_id": "notspecified",
+  "license_title": "No se especificó la licencia",
+  "maintainer": "Ministerio de Salud. Dirección de Estadística e Información en Salud (DEIS) ",
+  "maintainer_email": "informaciondeis@gmail.com",
+  "metadata_created": "2019-11-26T15:01:46.689854",
+  "metadata_modified": "2021-04-29T17:05:43.022004",
+  "name": "salud-tasa-natalidad",
+  "notes": "Tasa de Natalidad por 1000 habitantes registrada en la República Argentina",
+  "num_resources": 1,
+  "num_tags": 3,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-11-15T11:12:22.202856",
+    "description": "",
+    "id": "dd1f2018-587f-43af-9b07-fc32f5ab588b",
+    "image_url": "",
+    "is_organization": true,
+    "name": "salud",
+    "revision_id": "14f0bb85-f97d-4325-b1c8-a7c1d3a815bf",
+    "state": "active",
+    "title": "Ministerio de Salud",
+    "type": "organization"
+  },
+  "owner_org": "dd1f2018-587f-43af-9b07-fc32f5ab588b",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "http://datos.salud.gob.ar/dataset/314e08d7-70a1-4704-aa2f-e86ce03b359d/resource/0f68d5c6-e667-40ca-90fd-4784336e092e",
+      "attributesDescription": "[{\"description\": \"Periodo de tiempo analizado\", \"specialTypeDetail\": \"R/P1Y\", \"title\": \"indice_tiempo\", \"specialType\": \"time_index\", \"type\": \"date\", \"id\": \"salud_0003\"}, {\"units\": \"Nacidos cada 1000 habitantes\", \"id\": \"tn_arg\", \"type\": \"number\", \"description\": \"Tasa de Natalidad de Argentina\", \"title\": \"natalidad_argentina\"}, {\"units\": \"Nacidos cada 1000 habitantes\", \"id\": \"tn_02\", \"type\": \"number\", \"description\": \"Tasa de Natalidad de Ciudad Aut\\u00f3noma de Buenos Aires\", \"title\": \"natalidad_ciudad_autonoma_de_buenos_aires\"}, {\"units\": \"Nacidos cada 1000 habitantes\", \"id\": \"tn_06\", \"type\": \"number\", \"description\": \"Tasa de Natalidad de la Provincia de Buenos Aires\", \"title\": \"natalidad_buenos_aires\"}, {\"units\": \"Nacidos cada 1000 habitantes\", \"id\": \"tn_10\", \"type\": \"number\", \"description\": \"Tasa de Natalidad de la Provincia de Catamarca\", \"title\": \"natalidad_catamarca\"}, {\"units\": \"Nacidos cada 1000 habitantes\", \"id\": \"tn_14\", \"type\": \"number\", \"description\": \"Tasa de Natalidad de la Provincia de C\\u00f3rdoba\", \"title\": \"natalidad_cordoba\"}, {\"units\": \"Nacidos cada 1000 habitantes\", \"id\": \"tn_18\", \"type\": \"number\", \"description\": \"Tasa de Natalidad de la Provincia de Corrientes\", \"title\": \"natalidad_corrientes\"}, {\"units\": \"Nacidos cada 1000 habitantes\", \"id\": \"tn_22\", \"type\": \"number\", \"description\": \"Tasa de Natalidad de la Provincia de Chaco\", \"title\": \"natalidad_chaco\"}, {\"units\": \"Nacidos cada 1000 habitantes\", \"id\": \"tn_26\", \"type\": \"number\", \"description\": \"Tasa de Natalidad de la Provincia de Chubut\", \"title\": \"natalidad_chubut\"}, {\"units\": \"Nacidos cada 1000 habitantes\", \"id\": \"tn_30\", \"type\": \"number\", \"description\": \"Tasa de Natalidad de la Provincia de Entre R\\u00edos\", \"title\": \"natalidad_entre_rios\"}, {\"units\": \"Nacidos cada 1000 habitantes\", \"id\": \"tn_34\", \"type\": \"number\", \"description\": \"Tasa de Natalidad de la Provincia de Formosa\", \"title\": \"natalidad_formosa\"}, {\"units\": \"Nacidos cada 1000 habitantes\", \"id\": \"tn_38\", \"type\": \"number\", \"description\": \"Tasa de Natalidad de la Provincia de Jujuy\", \"title\": \"natalidad_jujuy\"}, {\"units\": \"Nacidos cada 1000 habitantes\", \"id\": \"tn_42\", \"type\": \"number\", \"description\": \"Tasa de Natalidad de la Provincia de La Pampa\", \"title\": \"natalidad_la_pampa\"}, {\"units\": \"Nacidos cada 1000 habitantes\", \"id\": \"tn_46\", \"type\": \"number\", \"description\": \"Tasa de Natalidad de la Provincia de La Rioja\", \"title\": \"natalidad_la_rioja\"}, {\"units\": \"Nacidos cada 1000 habitantes\", \"id\": \"tn_50\", \"type\": \"number\", \"description\": \"Tasa de Natalidad de la Provincia de Mendoza\", \"title\": \"natalidad_mendoza\"}, {\"units\": \"Nacidos cada 1000 habitantes\", \"id\": \"tn_54\", \"type\": \"number\", \"description\": \"Tasa de Natalidad de la Provincia de Misiones\", \"title\": \"natalidad_misiones\"}, {\"units\": \"Nacidos cada 1000 habitantes\", \"id\": \"tn_58\", \"type\": \"number\", \"description\": \"Tasa de Natalidad de la Provincia de Neuquen\", \"title\": \"natalidad_neuquen\"}, {\"units\": \"Nacidos cada 1000 habitantes\", \"id\": \"tn_62\", \"type\": \"number\", \"description\": \"Tasa de Natalidad de la Provincia de R\\u00edo Negro\", \"title\": \"natalidad_rio_negro\"}, {\"units\": \"Nacidos cada 1000 habitantes\", \"id\": \"tn_66\", \"type\": \"number\", \"description\": \"Tasa de Natalidad de la Provincia de Salta\", \"title\": \"natalidad_salta\"}, {\"units\": \"Nacidos cada 1000 habitantes\", \"id\": \"tn_70\", \"type\": \"number\", \"description\": \"Tasa de Natalidad de la Provincia de San Juan\", \"title\": \"natalidad_san_juan\"}, {\"units\": \"Nacidos cada 1000 habitantes\", \"id\": \"tn_74\", \"type\": \"number\", \"description\": \"Tasa de Natalidad de la Provincia de San Luis\", \"title\": \"natalidad_san_luis\"}, {\"units\": \"Nacidos cada 1000 habitantes\", \"id\": \"tn_78\", \"type\": \"number\", \"description\": \"Tasa de Natalidad de la Provincia de Santa Cruz\", \"title\": \"natalidad_santa_cruz\"}, {\"units\": \"Nacidos cada 1000 habitantes\", \"id\": \"tn_82\", \"type\": \"number\", \"description\": \"Tasa de Natalidad de la Provincia de Santa Fe\", \"title\": \"natalidad_santa_fe\"}, {\"units\": \"Nacidos cada 1000 habitantes\", \"id\": \"tn_86\", \"type\": \"number\", \"description\": \"Tasa de Natalidad de la Provincia de Santiago del Estero\", \"title\": \"natalidad_santiago_del_estero\"}, {\"units\": \"Nacidos cada 1000 habitantes\", \"id\": \"tn_90\", \"type\": \"number\", \"description\": \"Tasa de Natalidad de la Provincia de Tucum\\u00e1n\", \"title\": \"natalidad_tucuman\"}, {\"units\": \"Nacidos cada 1000 habitantes\", \"id\": \"tn_94\", \"type\": \"number\", \"description\": \"Tasa de Natalidad de la Provincia de Tierra del Fuego\", \"title\": \"natalidad_tierra_del_fuego\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-04-23T13:49:52.217289",
+      "datastore_active": false,
+      "description": "Tasa de Natalidad por 1000 habitantes por jurisdicción ocurridos en la República Argentina. Periodo 2000-2018",
+      "fileName": "tasa-natalidad.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "salud_0f68d5c6-e667-40ca-90fd-4784336e092e",
+      "last_modified": "2020-01-28T13:10:09.276285",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Tasa de Natalidad",
+      "package_id": "salud_314e08d7-70a1-4704-aa2f-e86ce03b359d",
+      "position": 0,
+      "resource_type": "file.upload",
+      "revision_id": "2b3e4885-dd72-4385-8ac0-1aaffe3a4eb6",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.salud.gob.ar/dataset/314e08d7-70a1-4704-aa2f-e86ce03b359d/resource/0f68d5c6-e667-40ca-90fd-4784336e092e/download/tasa-natalidad.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "ad5608fd-698b-465d-a747-d800e3e7991f",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "Estadísticas Vitales",
+      "id": "703ed79e-49fd-4419-ab3a-0a132602f568",
+      "name": "Estadísticas Vitales",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "natalidad",
+      "id": "5cfc18bb-c320-4950-9002-b332298dbc60",
+      "name": "natalidad",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "tasas",
+      "id": "5309b782-5c80-430a-99bf-ad959b1c075d",
+      "name": "tasas",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Tasa de Natalidad",
+  "type": "dataset",
+  "url": "http://datos.salud.gob.ar/dataset/tasa-de-natalidad",
+  "version": null
+}

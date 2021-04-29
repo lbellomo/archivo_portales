@@ -1,0 +1,155 @@
+{
+  "author": "Ministerio de Energía y Minería.Secretaría de Coordinación de Planeamiento Energético.Dirección Nacional de Información Energética.Tecnología de la Información.",
+  "author_email": "tienerg@energia.gob.ar",
+  "creator_user_id": "4720e75a-9e17-4dc3-879d-041917c7f9f9",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "eventual"
+    },
+    {
+      "key": "issued",
+      "value": "2016-11-07T13:33:34.985951"
+    },
+    {
+      "key": "modified",
+      "value": "2018-04-24T20:54:56.431400"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"ENER\"]"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Energía",
+      "display_name": "Energía",
+      "id": "a4d3f632-eb48-4163-9791-165989c16035",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225337.421630energia.svg",
+      "name": "ener",
+      "title": "Energía"
+    }
+  ],
+  "id": "energia_edefded9-3329-468a-9c56-bc377a703200",
+  "isopen": false,
+  "license_id": "notspecified",
+  "license_title": "No se especificó la licencia",
+  "maintainer": "Ministerio de Energía y Minería.Secretaría de Planeamiento Energético Estratégico.Subsecretaría de Escenarios y Evaluación de Proyectos. Dirección Nacional de Información Energética.Tecnología de la Información. ",
+  "maintainer_email": "tienerg@minem.gob.ar",
+  "metadata_created": "2019-11-26T15:00:53.858748",
+  "metadata_modified": "2021-04-29T17:17:38.766634",
+  "name": "energia-distribucion-electrica---areas-distribucion-cooperativas",
+  "notes": "Concesiones de cooperativas eléctricas ISO 19126: PowerSupplies, Este subgrupo se compone de conceptos que se relacionan con la producción, transporte y distribución de energía.",
+  "num_resources": 2,
+  "num_tags": 5,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:09.221510",
+    "description": "",
+    "id": "cd1b32a2-2d3a-44ac-8c98-a425a7b62d42",
+    "image_url": "",
+    "is_organization": true,
+    "name": "energia",
+    "revision_id": "a184cf69-99ad-4f84-a254-020031d7fe63",
+    "state": "active",
+    "title": "Secretaría de Energía",
+    "type": "organization"
+  },
+  "owner_org": "cd1b32a2-2d3a-44ac-8c98-a425a7b62d42",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "http://datos.minem.gob.ar/dataset/edefded9-3329-468a-9c56-bc377a703200/resource/9f433685-6771-48ba-bd32-a63ac3342384",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-05-04T18:24:28.770963",
+      "datastore_active": false,
+      "description": "Archivos prj, shp, shx, dbf, xml. Sistema de Proyección EPSG:4326",
+      "fileName": "distribucin-elctrica-reas-de-distribucin-de-cooperativas.zip",
+      "format": "SHP",
+      "hash": "",
+      "id": "energia_9f433685-6771-48ba-bd32-a63ac3342384",
+      "last_modified": "2017-05-04T18:24:28.526834",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Distribución Eléctrica Áreas de Distribución de Cooperativas",
+      "package_id": "energia_edefded9-3329-468a-9c56-bc377a703200",
+      "position": 0,
+      "resource_type": null,
+      "revision_id": "99082ac1-9e1f-4f3f-a030-968261907487",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.minem.gob.ar/dataset/edefded9-3329-468a-9c56-bc377a703200/resource/9f433685-6771-48ba-bd32-a63ac3342384/download/distribucin-elctrica-reas-de-distribucin-de-cooperativas.zip",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos.minem.gob.ar/dataset/edefded9-3329-468a-9c56-bc377a703200/resource/57716675-588e-47f2-93c2-dd0c2c2c3c8e",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-05-04T21:49:38.231763",
+      "datastore_active": false,
+      "description": "",
+      "fileName": "distribucin-elctrica-reas-de-distribucin-de-cooperativas.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "energia_57716675-588e-47f2-93c2-dd0c2c2c3c8e",
+      "last_modified": "2017-05-04T21:49:38.103962",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Distribución Eléctrica Áreas de Distribución de Cooperativas",
+      "package_id": "energia_edefded9-3329-468a-9c56-bc377a703200",
+      "position": 1,
+      "resource_type": null,
+      "revision_id": "1674f53a-f5b1-4df8-81c7-620ac384d14d",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.minem.gob.ar/dataset/edefded9-3329-468a-9c56-bc377a703200/resource/57716675-588e-47f2-93c2-dd0c2c2c3c8e/download/distribucin-elctrica-reas-de-distribucin-de-cooperativas.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "9cd71d6c-67dc-41b4-ad5b-bf25aeca652f",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "Cooperativas",
+      "id": "db1172cf-8d67-4d2e-9b2c-4b2b7f56e72a",
+      "name": "Cooperativas",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Distribución de Energía Eléctrica",
+      "id": "729bbc10-1c26-4b5a-85fa-6e553146c5ae",
+      "name": "Distribución de Energía Eléctrica",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Distribución eléctrica",
+      "id": "44f2356b-8454-4ab5-b474-0c42cb121014",
+      "name": "Distribución eléctrica",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Electricidad",
+      "id": "485ec278-8308-4f37-993d-949cd25183d5",
+      "name": "Electricidad",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Información Geográfica",
+      "id": "d22bc8a4-252e-4fd8-89b2-3b9a08f6be42",
+      "name": "Información Geográfica",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Distribución Eléctrica - Áreas de distribución de cooperativas",
+  "type": "dataset",
+  "url": "http://datos.minem.gob.ar/dataset/distribucion-electrica-areas-de-distribucion-de-cooperativas-",
+  "version": null
+}

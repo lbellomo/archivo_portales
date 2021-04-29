@@ -1,0 +1,173 @@
+{
+  "author": "Servicio Nacional de Sanidad y Calidad Agroalimentaria",
+  "author_email": "desycg@senasa.gob.ar",
+  "creator_user_id": "dc157489-51c6-44ce-bd63-3bd983d60778",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P1M"
+    },
+    {
+      "key": "issued",
+      "value": "2019-09-23T15:43:27.041541"
+    },
+    {
+      "key": "language",
+      "value": "[\"spa\"]"
+    },
+    {
+      "key": "modified",
+      "value": "2019-12-26T15:39:45.696022"
+    },
+    {
+      "key": "source",
+      "value": "Servicio Nacional de Sanidad y Calidad Agroalimentaria - SENASA"
+    },
+    {
+      "key": "spatial",
+      "value": "[\"ARG\"]"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"AGRI\"]"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Agroganadería, pesca y forestación",
+      "display_name": "Agroganadería, pesca y forestación",
+      "id": "0c35ea38-7059-41d2-9827-5587769d0dc6",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225145.990789agroganaderia-pesca-forestacion.svg",
+      "name": "agri",
+      "title": "Agroganadería, pesca y forestación"
+    }
+  ],
+  "id": "agroindustria_6cc85842-67ae-479c-8c5a-c4b688fbbbc4",
+  "isopen": true,
+  "license_id": "CC-BY-4.0",
+  "license_title": "Creative Commons Attribution 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "maintainer": "Dirección Nacional de Sanidad Animal",
+  "maintainer_email": "desycg@senasa.gob.ar",
+  "metadata_created": "2019-12-27T17:11:37.871035",
+  "metadata_modified": "2021-04-29T17:11:24.857253",
+  "name": "agroindustria-senasa---movimientos-ovinos",
+  "notes": "Datos mensuales de los movimientos de la especie ovina detallando provincia y departamento de origen y destino.",
+  "num_resources": 1,
+  "num_tags": 9,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:07.834957",
+    "description": "",
+    "id": "b10c94e2-ade1-4a97-8c4c-b1ada7878d60",
+    "image_url": "",
+    "is_organization": true,
+    "name": "agroindustria",
+    "revision_id": "f7c3b6e9-d48f-4522-9f7a-388d805c8392",
+    "state": "active",
+    "title": "Ministerio de Agricultura, Ganadería y Pesca",
+    "type": "organization"
+  },
+  "owner_org": "b10c94e2-ade1-4a97-8c4c-b1ada7878d60",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "http://datos.agroindustria.gob.ar/dataset/6cc85842-67ae-479c-8c5a-c4b688fbbbc4/resource/ca6d28b3-058a-4618-9ac0-741eff5d62c6",
+      "attributesDescription": "[{\"type\": \"date\", \"title\": \"fecha\"}, {\"type\": \"string\", \"description\": \"Lugar del que sale.\", \"title\": \"salido_de\"}, {\"type\": \"string\", \"description\": \"Lugar al que ingresa.\", \"title\": \"ingresado_a\"}, {\"type\": \"string\", \"description\": \"Nombre de la provincia de origen.\", \"title\": \"provincia_origen\"}, {\"type\": \"integer\", \"description\": \"C\\u00f3digo de la provincia de origen.\", \"title\": \"provincia_origen_id\"}, {\"type\": \"string\", \"description\": \"Nombre del departamento de origen.\", \"title\": \"departamento_origen\"}, {\"type\": \"integer\", \"description\": \"C\\u00f3digo del departamento de origen.\", \"title\": \"departamento_origen_id\"}, {\"type\": \"string\", \"description\": \"Nombre de la provincia de destino.\", \"title\": \"provincia_destino\"}, {\"type\": \"integer\", \"description\": \"C\\u00f3digo de la provincia de destino.\", \"title\": \"provincia_destino_id\"}, {\"type\": \"string\", \"description\": \"Nombre del departamento de destino.\", \"title\": \"departamento_destino\"}, {\"type\": \"integer\", \"description\": \"C\\u00f3digo del departamento de destino.\", \"title\": \"departamento_destino_id\"}, {\"type\": \"integer\", \"description\": \"Cantidad de machos enteros adultos en edad reproductiva.\", \"title\": \"carnero\"}, {\"type\": \"integer\", \"description\": \"Cantidad de hembras adultas en edad reproductiva.\", \"title\": \"oveja\"}, {\"type\": \"integer\", \"description\": \"Cantidad de machos y hembras j\\u00f3venes de reposici\\u00f3n.\", \"title\": \"borrego_borrega\"}, {\"type\": \"integer\", \"description\": \"Cantidad de machos castrados.\", \"title\": \"capon_ovino\"}, {\"type\": \"integer\", \"description\": \"Cantidad de cr\\u00edas machos y hembras.\", \"title\": \"cordero_cordera\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-09-27T16:00:37.662954",
+      "datastore_active": false,
+      "description": "Datos de los movimientos ovinos por categoría y mes para el periodo 2013 a 2018.",
+      "fileName": "movimiento-ovino-2013-2018.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "agroindustria_ca6d28b3-058a-4618-9ac0-741eff5d62c6",
+      "last_modified": "2019-11-19T15:14:55.742485",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Movimientos ovinos 2013 a 2018",
+      "package_id": "agroindustria_6cc85842-67ae-479c-8c5a-c4b688fbbbc4",
+      "position": 0,
+      "resource_type": "file.upload",
+      "revision_id": "6ffa281e-f4b2-4343-8b99-2cd24230c5d1",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.agroindustria.gob.ar/dataset/6cc85842-67ae-479c-8c5a-c4b688fbbbc4/resource/ca6d28b3-058a-4618-9ac0-741eff5d62c6/download/movimiento-ovino-2013-2018.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "dec9c547-1046-401a-848a-0bf4484c623a",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "borrega",
+      "id": "4dddb457-9279-4908-8ea8-c25e449b1b11",
+      "name": "borrega",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "borrego",
+      "id": "d1d21b23-86ff-4b4f-9e27-100b2bef307c",
+      "name": "borrego",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "capon",
+      "id": "bc4e1456-a5e5-4ae1-9c30-2c704f98c576",
+      "name": "capon",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "carnero",
+      "id": "8c8d119f-6d40-40f1-8281-345427003b3a",
+      "name": "carnero",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "cordera",
+      "id": "86751ee7-46ca-48b2-8cff-3afe45dfd349",
+      "name": "cordera",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "cordero",
+      "id": "94025d92-306e-45b2-ad7d-423a2f74124c",
+      "name": "cordero",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "movimiento ganadero",
+      "id": "5d3fb22d-977e-4fc3-ac41-277f36a967a1",
+      "name": "movimiento ganadero",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "oveja",
+      "id": "4c3275c4-183e-436e-9b88-21fd96918e74",
+      "name": "oveja",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "ovino",
+      "id": "3f09a654-9270-4298-a9e0-ccf45acf8d4d",
+      "name": "ovino",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "SENASA - Movimientos ovinos",
+  "type": "dataset",
+  "url": "https://datos.agroindustria.gob.ar/dataset/senasa-movimientos-ovinos",
+  "version": null
+}

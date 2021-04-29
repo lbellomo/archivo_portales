@@ -1,0 +1,184 @@
+{
+  "author": "Instituto Nacional de Vitivinicultura",
+  "author_email": "datosabiertos@inv.gov.ar",
+  "creator_user_id": "dc157489-51c6-44ce-bd63-3bd983d60778",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P1Y"
+    },
+    {
+      "key": "issued",
+      "value": "2018-12-07T21:20:51.395494"
+    },
+    {
+      "key": "language",
+      "value": "[\"spa\"]"
+    },
+    {
+      "key": "modified",
+      "value": "2019-10-24T10:40:18.680940"
+    },
+    {
+      "key": "source",
+      "value": "INV"
+    },
+    {
+      "key": "spatial",
+      "value": "[\"ARG\"]"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"AGRI\"]"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Agroganadería, pesca y forestación",
+      "display_name": "Agroganadería, pesca y forestación",
+      "id": "0c35ea38-7059-41d2-9827-5587769d0dc6",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225145.990789agroganaderia-pesca-forestacion.svg",
+      "name": "agri",
+      "title": "Agroganadería, pesca y forestación"
+    }
+  ],
+  "id": "agroindustria_5f97a0b9-f677-4657-9e07-0cd3b98da754",
+  "isopen": true,
+  "license_id": "CC-BY-4.0",
+  "license_title": "Creative Commons Attribution 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "maintainer": "Instituto Nacional de Vitivinicultura",
+  "maintainer_email": "datosabiertos@inv.gov.ar",
+  "metadata_created": "2019-12-04T21:13:11.285146",
+  "metadata_modified": "2021-04-29T17:12:05.880323",
+  "name": "agroindustria-inv---superficie-implantada-con-vinedos",
+  "notes": "Superficie implantada de viñedos existentes en la República Argentina desde el año 2012 a la última actualización. La información se encuentra en hectáreas y desagregada por provincia, departamento y localidad.",
+  "num_resources": 2,
+  "num_tags": 7,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:07.834957",
+    "description": "",
+    "id": "b10c94e2-ade1-4a97-8c4c-b1ada7878d60",
+    "image_url": "",
+    "is_organization": true,
+    "name": "agroindustria",
+    "revision_id": "f7c3b6e9-d48f-4522-9f7a-388d805c8392",
+    "state": "active",
+    "title": "Ministerio de Agricultura, Ganadería y Pesca",
+    "type": "organization"
+  },
+  "owner_org": "b10c94e2-ade1-4a97-8c4c-b1ada7878d60",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "http://datos.agroindustria.gob.ar/dataset/5f97a0b9-f677-4657-9e07-0cd3b98da754/resource/a0d05450-4dd1-4ce4-bfaf-6d9a72af6eb4",
+      "attributesDescription": "[{\"type\": \"string\", \"description\": \"pais_id\", \"title\": \"pais_id\"}, {\"type\": \"string\", \"description\": \"pais\", \"title\": \"pais\"}, {\"type\": \"string\", \"description\": \"provincia_id\", \"title\": \"provincia_id\"}, {\"type\": \"string\", \"description\": \"provincia\", \"title\": \"provincia\"}, {\"type\": \"string\", \"description\": \"departamento_id\", \"title\": \"departamento_id\"}, {\"type\": \"string\", \"description\": \"departamento\", \"title\": \"departamento\"}, {\"type\": \"string\", \"description\": \"localidad\", \"title\": \"localidad\"}, {\"type\": \"string\", \"description\": \"a\\u00f1o\", \"title\": \"a\\u00f1o\"}, {\"type\": \"string\", \"description\": \"superficie\", \"title\": \"superficie\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2018-10-23T19:51:54.839649",
+      "datastore_active": false,
+      "description": "Superficie implantada de viñedos existentes en la República Argentina desde 2012 a la última actualización. La información se encuentra en hectáreas, desagregada en provincia, departamento y localidad",
+      "fileName": "i.n.v.-superficie-de-vinedos-por-pcia-dpto-y-localidad-serie-2012-al-2017-.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "agroindustria_a0d05450-4dd1-4ce4-bfaf-6d9a72af6eb4",
+      "last_modified": "2019-03-18T19:46:31.869078",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Superficie implantada con viñedos en la República Argentina en hectáreas",
+      "package_id": "agroindustria_5f97a0b9-f677-4657-9e07-0cd3b98da754",
+      "position": 0,
+      "resource_type": "file.upload",
+      "revision_id": "202c0c55-2393-424c-aaf8-da29ed108108",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.agroindustria.gob.ar/dataset/5f97a0b9-f677-4657-9e07-0cd3b98da754/resource/a0d05450-4dd1-4ce4-bfaf-6d9a72af6eb4/download/i.n.v.-superficie-de-vinedos-por-pcia-dpto-y-localidad-serie-2012-al-2017-.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos.agroindustria.gob.ar/dataset/5f97a0b9-f677-4657-9e07-0cd3b98da754/resource/221859a8-c51e-47c2-95ab-a8525bb2b55d",
+      "attributesDescription": "[{\"specialType\": \"time_index\", \"specialTypeDetail\": \"R/P1Y\", \"type\": \"date\", \"title\": \"indice_tiempo\"}, {\"units\": \"Hect\\u00e1reas\", \"id\": \"AGRO_0121\", \"type\": \"number\", \"description\": \"superficie_ha_bs_as\", \"title\": \"superficie_ha_bs_as\"}, {\"units\": \"Hect\\u00e1reas\", \"id\": \"AGRO_0122\", \"type\": \"number\", \"description\": \"superficie_ha_catamarca\", \"title\": \"superficie_ha_catamarca\"}, {\"units\": \"Hect\\u00e1reas\", \"id\": \"AGRO_0123\", \"type\": \"number\", \"description\": \"superficie_ha_chubut\", \"title\": \"superficie_ha_chubut\"}, {\"units\": \"Hect\\u00e1reas\", \"id\": \"AGRO_0124\", \"type\": \"number\", \"description\": \"superficie_ha_cordoba\", \"title\": \"superficie_ha_cordoba\"}, {\"units\": \"Hect\\u00e1reas\", \"id\": \"AGRO_0125\", \"type\": \"number\", \"description\": \"superficie_ha_entre_rios\", \"title\": \"superficie_ha_entre_rios\"}, {\"units\": \"Hect\\u00e1reas\", \"id\": \"AGRO_0126\", \"type\": \"number\", \"description\": \"superficie_ha_jujuy\", \"title\": \"superficie_ha_jujuy\"}, {\"units\": \"Hect\\u00e1reas\", \"id\": \"AGRO_0127\", \"type\": \"number\", \"description\": \"superficie_ha_la_pampa\", \"title\": \"superficie_ha_la_pampa\"}, {\"units\": \"Hect\\u00e1reas\", \"id\": \"AGRO_0128\", \"type\": \"number\", \"description\": \"superficie_ha_la_rioja\", \"title\": \"superficie_ha_la_rioja\"}, {\"units\": \"Hect\\u00e1reas\", \"id\": \"AGRO_0129\", \"type\": \"number\", \"description\": \"superficie_ha_mendoza\", \"title\": \"superficie_ha_mendoza\"}, {\"units\": \"Hect\\u00e1reas\", \"id\": \"AGRO_0130\", \"type\": \"number\", \"description\": \"superficie_ha_misiones\", \"title\": \"superficie_ha_misiones\"}, {\"units\": \"Hect\\u00e1reas\", \"id\": \"AGRO_0131\", \"type\": \"number\", \"description\": \"superficie_ha_neuquen\", \"title\": \"superficie_ha_neuquen\"}, {\"units\": \"Hect\\u00e1reas\", \"id\": \"AGRO_0132\", \"type\": \"number\", \"description\": \"superficie_ha_rio_negro\", \"title\": \"superficie_ha_rio_negro\"}, {\"units\": \"Hect\\u00e1reas\", \"id\": \"AGRO_0133\", \"type\": \"number\", \"description\": \"superficie_ha_salta\", \"title\": \"superficie_ha_salta\"}, {\"units\": \"Hect\\u00e1reas\", \"id\": \"AGRO_0134\", \"type\": \"number\", \"description\": \"superficie_ha_san_juan\", \"title\": \"superficie_ha_san_juan\"}, {\"units\": \"Hect\\u00e1reas\", \"id\": \"AGRO_0135\", \"type\": \"number\", \"description\": \"superficie_ha_san_luis\", \"title\": \"superficie_ha_san_luis\"}, {\"units\": \"Hect\\u00e1reas\", \"id\": \"AGRO_0137\", \"type\": \"number\", \"description\": \"superficie_ha_santiago_del_estero\", \"title\": \"superficie_ha_santiago_del_estero\"}, {\"units\": \"Hect\\u00e1reas\", \"id\": \"AGRO_0138\", \"type\": \"number\", \"description\": \"superficie_ha_tucuman\", \"title\": \"superficie_ha_tucuman\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-05-13T15:40:12.564010",
+      "datastore_active": false,
+      "description": "Evolución de la superficie implantada de viñedos existentes en la República Argentina desde el año 2012 a la última actualización. La información se encuentra en hectáreas y desagregada por provincia.",
+      "fileName": "serie-tiempo-inv-superficie-de-vinedos-por-pcia-2012-2017.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "agroindustria_221859a8-c51e-47c2-95ab-a8525bb2b55d",
+      "last_modified": "2019-10-31T09:48:11.623836",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Serie de tiempo",
+      "package_id": "agroindustria_5f97a0b9-f677-4657-9e07-0cd3b98da754",
+      "position": 1,
+      "resource_type": "file.upload",
+      "revision_id": "9457034a-638d-4b81-948d-aea2747ceb9e",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.agroindustria.gob.ar/dataset/5f97a0b9-f677-4657-9e07-0cd3b98da754/resource/221859a8-c51e-47c2-95ab-a8525bb2b55d/download/serie-tiempo-inv-superficie-de-vinedos-por-pcia-2012-2017.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "3facf851-4d6d-4b5a-8558-47cae0545d9f",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "INV",
+      "id": "09b15d94-e213-45c6-95c9-5d88bb164b35",
+      "name": "INV",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "bodega",
+      "id": "68f4cf2c-6b59-410a-9250-14ef123921cc",
+      "name": "bodega",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "uva",
+      "id": "7ae78437-8d26-4ebe-9f13-6cec4fef2bf6",
+      "name": "uva",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "vinos",
+      "id": "40c90abf-2b22-46da-9444-be9e3733e129",
+      "name": "vinos",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "vitivinicola",
+      "id": "0e87ece5-0aa8-4b0f-9f60-225e7dfb9d62",
+      "name": "vitivinicola",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "vitivinicultura",
+      "id": "70e9a1c4-e4b2-4813-93f4-29fd4774b005",
+      "name": "vitivinicultura",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "viñedo",
+      "id": "e00d49a2-fb7f-416d-a14c-dbe985c2ccc4",
+      "name": "viñedo",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "INV - Superficie implantada con viñedos",
+  "type": "dataset",
+  "url": "https://datos.agroindustria.gob.ar/dataset/superficie-implantada-con-vinedos-republica-argentina",
+  "version": null
+}

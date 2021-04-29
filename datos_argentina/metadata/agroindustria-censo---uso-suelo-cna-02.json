@@ -1,0 +1,164 @@
+{
+  "author": "Dirección de Información y Estadística Pública - Secretaría de Mercados Agroindustriales",
+  "author_email": "datospublicos@magyp.gob.ar",
+  "creator_user_id": "dc157489-51c6-44ce-bd63-3bd983d60778",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "eventual"
+    },
+    {
+      "key": "issued",
+      "value": "2018-12-07T21:20:34.483039"
+    },
+    {
+      "key": "language",
+      "value": "[\"spa\"]"
+    },
+    {
+      "key": "modified",
+      "value": "2019-10-24T11:07:47.655592"
+    },
+    {
+      "key": "spatial",
+      "value": "[\"ARG\"]"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"AGRI\"]"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Agroganadería, pesca y forestación",
+      "display_name": "Agroganadería, pesca y forestación",
+      "id": "0c35ea38-7059-41d2-9827-5587769d0dc6",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225145.990789agroganaderia-pesca-forestacion.svg",
+      "name": "agri",
+      "title": "Agroganadería, pesca y forestación"
+    }
+  ],
+  "id": "agroindustria_e83c900a-b786-4472-8106-542cf6144cf6",
+  "isopen": true,
+  "license_id": "CC-BY-4.0",
+  "license_title": "Creative Commons Attribution 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "maintainer": null,
+  "maintainer_email": null,
+  "metadata_created": "2019-12-04T20:00:43.395338",
+  "metadata_modified": "2021-04-29T17:13:34.440358",
+  "name": "agroindustria-censo---uso-suelo-cna-02",
+  "notes": "datos sobre los usos del suelo a nivel departamental, de acuerdo a lo recolectado en el Censo Nacional Agropecuario 2002 (CNA 02).",
+  "num_resources": 2,
+  "num_tags": 5,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:07.834957",
+    "description": "",
+    "id": "b10c94e2-ade1-4a97-8c4c-b1ada7878d60",
+    "image_url": "",
+    "is_organization": true,
+    "name": "agroindustria",
+    "revision_id": "f7c3b6e9-d48f-4522-9f7a-388d805c8392",
+    "state": "active",
+    "title": "Ministerio de Agricultura, Ganadería y Pesca",
+    "type": "organization"
+  },
+  "owner_org": "b10c94e2-ade1-4a97-8c4c-b1ada7878d60",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "http://datos.agroindustria.gob.ar/dataset/e83c900a-b786-4472-8106-542cf6144cf6/resource/697ffa03-c7b4-4f25-8213-27408eb1e3e0",
+      "attributesDescription": "[{\"type\": \"integer\", \"description\": \"pais_id\", \"title\": \"pais_id\"}, {\"type\": \"string\", \"description\": \"pais\", \"title\": \"pais\"}, {\"type\": \"integer\", \"description\": \"provincia_id\", \"title\": \"provincia_id\"}, {\"type\": \"string\", \"description\": \"provincia\", \"title\": \"provincia\"}, {\"type\": \"integer\", \"description\": \"departamento_id\", \"title\": \"departamento_id\"}, {\"type\": \"string\", \"description\": \"departamento\", \"title\": \"departamento\"}, {\"type\": \"integer\", \"description\": \"link\", \"title\": \"link\"}, {\"type\": \"number\", \"description\": \"suptot\", \"title\": \"suptot\"}, {\"type\": \"number\", \"description\": \"suptotimpl\", \"title\": \"suptotimpl\"}, {\"type\": \"number\", \"description\": \"p_suptotim\", \"title\": \"p_suptotim\"}, {\"type\": \"number\", \"description\": \"CultiAn\", \"title\": \"CultiAn\"}, {\"type\": \"number\", \"description\": \"p_CultiAn\", \"title\": \"p_CultiAn\"}, {\"type\": \"number\", \"description\": \"CultiPer\", \"title\": \"CultiPer\"}, {\"type\": \"number\", \"description\": \"p_CultPer\", \"title\": \"p_CultPer\"}, {\"type\": \"number\", \"description\": \"forranual\", \"title\": \"forranual\"}, {\"type\": \"number\", \"description\": \"p_forranua\", \"title\": \"p_forranua\"}, {\"type\": \"number\", \"description\": \"forrperen\", \"title\": \"forrperen\"}, {\"type\": \"number\", \"description\": \"p_forrpere\", \"title\": \"p_forrpere\"}, {\"type\": \"number\", \"description\": \"bosqmontes\", \"title\": \"bosqmontes\"}, {\"type\": \"number\", \"description\": \"p_bosqmont\", \"title\": \"p_bosqmont\"}, {\"type\": \"number\", \"description\": \"cultsindis\", \"title\": \"cultsindis\"}, {\"type\": \"number\", \"description\": \"p_cultisin\", \"title\": \"p_cultisin\"}, {\"type\": \"number\", \"description\": \"noSupTot2\", \"title\": \"noSupTot2\"}, {\"type\": \"number\", \"description\": \"noPasti2\", \"title\": \"noPasti2\"}, {\"type\": \"number\", \"description\": \"noP_Pasti2\", \"title\": \"noP_Pasti2\"}, {\"type\": \"number\", \"description\": \"noBosMontN\", \"title\": \"noBosMontN\"}, {\"type\": \"number\", \"description\": \"noP_BosMon\", \"title\": \"noP_BosMon\"}, {\"type\": \"number\", \"description\": \"noApta_noU\", \"title\": \"noApta_noU\"}, {\"type\": \"number\", \"description\": \"noP_Aptano\", \"title\": \"noP_Aptano\"}, {\"type\": \"number\", \"description\": \"noNoApta2\", \"title\": \"noNoApta2\"}, {\"type\": \"number\", \"description\": \"noP_NoApta\", \"title\": \"noP_NoApta\"}, {\"type\": \"number\", \"description\": \"noCamParVi\", \"title\": \"noCamParVi\"}, {\"type\": \"number\", \"description\": \"noP_CamPar\", \"title\": \"noP_CamPar\"}, {\"type\": \"number\", \"description\": \"noSinDisc2\", \"title\": \"noSinDisc2\"}, {\"type\": \"number\", \"description\": \"noP_SinDis\", \"title\": \"noP_SinDis\"}, {\"type\": \"number\", \"description\": \"P_supimpla\", \"title\": \"P_supimpla\"}, {\"type\": \"number\", \"description\": \"P_supnoimp\", \"title\": \"P_supnoimp\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-08-31T15:07:37.236576",
+      "datastore_active": false,
+      "description": "Situación de los usos de suelo a nivel departamental de acuerdo a lo recolectado en el Censo Nacional Agropecuario 2002. El valor \"-1\" refiere a la ausencia de dato.",
+      "format": "CSV",
+      "hash": "",
+      "id": "agroindustria_697ffa03-c7b4-4f25-8213-27408eb1e3e0",
+      "last_modified": "2019-02-26T12:50:09.431464",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Uso del suelo según CNA 2002",
+      "package_id": "agroindustria_e83c900a-b786-4472-8106-542cf6144cf6",
+      "position": 0,
+      "resource_type": "file.upload",
+      "revision_id": "50b9e9b2-c538-4e8c-b630-6a6f8c48def7",
+      "size": null,
+      "state": "active",
+      "url": "https://datos.agroindustria.gob.ar/dataset/e83c900a-b786-4472-8106-542cf6144cf6/resource/697ffa03-c7b4-4f25-8213-27408eb1e3e0/download/cna2002_usodesuelo.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos.agroindustria.gob.ar/dataset/e83c900a-b786-4472-8106-542cf6144cf6/resource/4f747746-73b9-4b3e-8d8b-286e0bbe52c7",
+      "attributesDescription": "[{\"type\": \"string\", \"description\": \"Campos\", \"title\": \"Campos\"}, {\"type\": \"string\", \"description\": \"Descripci\\u00f3n\", \"title\": \"Descripci\\u00f3n\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-08-31T15:08:22.147775",
+      "datastore_active": false,
+      "description": "Detalle de las columnas que componen el recurso.",
+      "format": "CSV",
+      "hash": "",
+      "id": "agroindustria_4f747746-73b9-4b3e-8d8b-286e0bbe52c7",
+      "last_modified": "2019-02-26T11:31:41.898395",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Referencias sobre el uso del suelo según CNA 2002",
+      "package_id": "agroindustria_e83c900a-b786-4472-8106-542cf6144cf6",
+      "position": 1,
+      "resource_type": "file.upload",
+      "revision_id": "50b9e9b2-c538-4e8c-b630-6a6f8c48def7",
+      "size": null,
+      "state": "active",
+      "url": "https://datos.agroindustria.gob.ar/dataset/e83c900a-b786-4472-8106-542cf6144cf6/resource/4f747746-73b9-4b3e-8d8b-286e0bbe52c7/download/cna2002usodesueloreferencias.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "50b9e9b2-c538-4e8c-b630-6a6f8c48def7",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "censo",
+      "id": "3afd172c-45af-41bd-b023-b1ed9844c3ba",
+      "name": "censo",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "cna",
+      "id": "0cdcc96e-34b4-45b0-9380-2d602e5ff709",
+      "name": "cna",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "cna 02",
+      "id": "a6e31f8c-5ed2-44b8-8ef2-2dbd7fded11b",
+      "name": "cna 02",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "cna 2002",
+      "id": "6c9b522b-0fd4-40e2-912d-585983633f48",
+      "name": "cna 2002",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "uso suelo",
+      "id": "086315c7-1663-4746-ac93-c57917cf8f44",
+      "name": "uso suelo",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Censo - Uso del suelo CNA 02",
+  "type": "dataset",
+  "url": "https://datos.agroindustria.gob.ar/dataset/uso-suelo-segun-censo-nacional-agropecuario-2002",
+  "version": null
+}

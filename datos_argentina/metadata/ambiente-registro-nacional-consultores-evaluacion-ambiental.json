@@ -1,0 +1,179 @@
+{
+  "author": "Ministerio de Ambiente y Desarrollo Sostenible. Dirección Nacional de Impacto Ambiental y Análisis de Riesgo Ambiental.",
+  "author_email": "fscagnetti@ambiente.gob.ar",
+  "creator_user_id": "4720e75a-9e17-4dc3-879d-041917c7f9f9",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P1W"
+    },
+    {
+      "key": "issued",
+      "value": "2017-09-06T19:48:15.921655"
+    },
+    {
+      "key": "language",
+      "value": "[\"spa\"]"
+    },
+    {
+      "key": "modified",
+      "value": "2020-09-30T11:34:20.128994"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"ENVI\"]"
+    },
+    {
+      "key": "temporal",
+      "value": "1995-01-01T03:00:00.000Z/2017-08-31T03:00:00.000Z"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Medio ambiente",
+      "display_name": "Medio ambiente",
+      "id": "f71fe9d7-c703-43be-8d9d-af9441c326ba",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225440.964279medio-ambiente.svg",
+      "name": "envi",
+      "title": "Medio ambiente"
+    }
+  ],
+  "id": "ambiente_0f90ca0f-7ad1-4463-a1e7-e6ac6d9cf0cd",
+  "isopen": false,
+  "license_id": "notspecified",
+  "license_title": "No se especificó la licencia",
+  "maintainer": "Ministerio de Ambiente y Desarrollo Sostenible. ",
+  "maintainer_email": "fscagnetti@ambiente.gob.ar",
+  "metadata_created": "2019-11-26T14:57:54.434828",
+  "metadata_modified": "2021-04-29T17:17:48.202016",
+  "name": "ambiente-registro-nacional-consultores-evaluacion-ambiental",
+  "notes": "El Registro de Consultores brinda información sobre aquellos Consultores individuales o Firmas consultoras que cumplen con las exigencias de la Resolución Nº102/19.",
+  "num_resources": 2,
+  "num_tags": 7,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:07.043831",
+    "description": "",
+    "id": "0e5aa328-825e-4509-851d-5421e866635e",
+    "image_url": "",
+    "is_organization": true,
+    "name": "ambiente",
+    "revision_id": "105eb915-270c-4f67-9b4e-e6a3f08be6d7",
+    "state": "active",
+    "title": "Ministerio de Ambiente y Desarrollo Sostenible",
+    "type": "organization"
+  },
+  "owner_org": "0e5aa328-825e-4509-851d-5421e866635e",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "http://datos.ambiente.gob.ar/dataset/0f90ca0f-7ad1-4463-a1e7-e6ac6d9cf0cd/resource/0df14811-7b62-4760-8875-5b835b2c199b",
+      "attributesDescription": "[{\"type\": \"integer\", \"description\": \"N\\u00famero de certificado otorgado por el Registro al consultor\", \"title\": \"consultor_certificado\"}, {\"type\": \"string\", \"description\": \"Apellido del consultor\", \"title\": \"consultor_apellido\"}, {\"type\": \"string\", \"description\": \"Nombre del consultor\", \"title\": \"consultor_nombre\"}, {\"type\": \"integer\", \"description\": \"C\\u00f3digo de la provincia utilizado en el Censo Nacional de Poblaci\\u00f3n, Hogares y Viviendas 2010\", \"title\": \"consultor_localizacion_provincia_id\"}, {\"type\": \"string\", \"description\": \"Provincia de residencia informada por el consultor\", \"title\": \"consultor_localizacion_provincia_nombre\"}, {\"type\": \"integer\", \"description\": \"C\\u00f3digo de la localidad utilizado en el Censo Nacional de Poblaci\\u00f3n, Hogares y Viviendas 2010\", \"title\": \"consultor_localizacion_localidad_id\"}, {\"type\": \"string\", \"description\": \"Localidad de residencia informada por el consultor\", \"title\": \"consultor_localizacion_localidad_nombre\"}, {\"type\": \"string\", \"description\": \"Calle de la direcci\\u00f3n postal informada por el consultor\", \"title\": \"consultor_contacto_calle_nombre\"}, {\"type\": \"string\", \"description\": \"N\\u00famero de la calle de la direcci\\u00f3n postal informada por el consultor\", \"title\": \"consultor_contacto_calle_numero\"}, {\"type\": \"string\", \"description\": \"Correo electr\\u00f3nico de contacto informado por el consultor\", \"title\": \"consultor_contacto_correo_electronico\"}, {\"type\": \"integer\", \"description\": \"N\\u00famero de tel\\u00e9fono de contacto informado por el consultor\", \"title\": \"consultor_contacto_telefono\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-09-06T19:55:53.768539",
+      "datastore_active": false,
+      "description": "Consultores individuales que cumplen con las exigencias de la Resolución Nº102/19.",
+      "fileName": "consultores_individuales.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "ambiente_0df14811-7b62-4760-8875-5b835b2c199b",
+      "last_modified": "2020-09-28T16:52:06.221571",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Consultores individuales",
+      "package_id": "ambiente_0f90ca0f-7ad1-4463-a1e7-e6ac6d9cf0cd",
+      "position": 0,
+      "resource_type": "file.upload",
+      "revision_id": "86251087-5839-4098-8a4a-bacb071c9295",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.ambiente.gob.ar/dataset/0f90ca0f-7ad1-4463-a1e7-e6ac6d9cf0cd/resource/0df14811-7b62-4760-8875-5b835b2c199b/download/consultores_individuales.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos.ambiente.gob.ar/dataset/0f90ca0f-7ad1-4463-a1e7-e6ac6d9cf0cd/resource/01e9b876-7a14-40c5-81ba-bb42cb60fa53",
+      "attributesDescription": "[{\"type\": \"integer\", \"description\": \"N\\u00famero de certificado otorgado por el Registro a la firma consultora\", \"title\": \"firma_consultora_certificado\"}, {\"type\": \"string\", \"description\": \"Nombre de la firma consultora\", \"title\": \"firma_consultora_nombre\"}, {\"type\": \"integer\", \"description\": \"C\\u00f3digo de la provincia utilizado en el Censo Nacional de Poblaci\\u00f3n, Hogares y Viviendas 2010\", \"title\": \"firma_consultora_localizacion_provincia_id\"}, {\"type\": \"string\", \"description\": \"Provincia de residencia informada por la firma consultora\", \"title\": \"firma_consultora_localizacion_provincia_nombre\"}, {\"type\": \"integer\", \"description\": \"C\\u00f3digo de la localidad utilizado en el Censo Nacional de Poblaci\\u00f3n, Hogares y Viviendas 2010\", \"title\": \"firma_consultora_localizacion_localidad_id\"}, {\"type\": \"string\", \"description\": \"Localidad de residencia informada por el consultor \", \"title\": \"firma_consultora_localizacion_localidad_nombre\"}, {\"type\": \"string\", \"description\": \"Calle de la direcci\\u00f3n postal informada por la firma consultora\", \"title\": \"firma_consultora_contacto_calle_nombre\"}, {\"type\": \"string\", \"description\": \"N\\u00famero de la calle de la direcci\\u00f3n postal informada por la firma consultora\", \"title\": \"firma_consultora_contacto_calle_numero\"}, {\"type\": \"string\", \"description\": \"Correo electr\\u00f3nico informado por la firma consultora\", \"title\": \"firma_consultora_contacto_correo_electronico\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-09-06T20:16:54.811837",
+      "datastore_active": false,
+      "description": "Firmas consultoras que cumplen con las exigencias de la Resolución Nº102/19.",
+      "fileName": "firmas_consultoras.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "ambiente_01e9b876-7a14-40c5-81ba-bb42cb60fa53",
+      "last_modified": "2019-12-10T10:35:56.829262",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Firmas consultoras",
+      "package_id": "ambiente_0f90ca0f-7ad1-4463-a1e7-e6ac6d9cf0cd",
+      "position": 1,
+      "resource_type": "file.upload",
+      "revision_id": "48e46e56-4d89-453c-8217-52652caca6aa",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.ambiente.gob.ar/dataset/0f90ca0f-7ad1-4463-a1e7-e6ac6d9cf0cd/resource/01e9b876-7a14-40c5-81ba-bb42cb60fa53/download/firmas_consultoras.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "5b83e6d2-77bc-4d2b-b071-dcf54bdabb95",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "Consultores Individuales",
+      "id": "cc76d390-cac0-490d-9b46-c402533bfad7",
+      "name": "Consultores Individuales",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Estudio de Impacto Ambiental",
+      "id": "87d00fe2-ec90-4bdb-9520-2a16e5ffefdf",
+      "name": "Estudio de Impacto Ambiental",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Impacto Ambiental",
+      "id": "02771e3b-62b3-48aa-a69d-3820547ccabe",
+      "name": "Impacto Ambiental",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Impacto ambiental",
+      "id": "f244e7ec-bbf2-4370-bbf7-7c92fb980311",
+      "name": "Impacto ambiental",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "RCEIA",
+      "id": "2acfb398-61d5-4a28-9fb3-a12dd88b959d",
+      "name": "RCEIA",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Registro de Consultores",
+      "id": "28e074ff-9e58-46b7-8f4d-150cd4aaf993",
+      "name": "Registro de Consultores",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Registro de Consultores en Estudios de Impacto Ambiental",
+      "id": "98831709-63ed-4097-a45c-ef9884ebeea0",
+      "name": "Registro de Consultores en Estudios de Impacto Ambiental",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Registro Nacional de Consultores en Evaluación Ambiental",
+  "type": "dataset",
+  "url": "https://www.argentina.gob.ar/inscribirse-en-el-registro-de-consultores-en-estudios-de-impacto-ambiental",
+  "version": null
+}

@@ -1,0 +1,171 @@
+{
+  "author": "Secretaría de Gobierno de Energía.Subsecretaría de Planeamiento Energético.Dirección Nacional de Información Energética.",
+  "author_email": "tienerg@energia.gob.ar",
+  "creator_user_id": "4720e75a-9e17-4dc3-879d-041917c7f9f9",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/PT1H"
+    },
+    {
+      "key": "issued",
+      "value": "2018-03-21T17:19:44.921115"
+    },
+    {
+      "key": "modified",
+      "value": "2019-06-25T08:48:41.943333"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"ENER\"]"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Energía",
+      "display_name": "Energía",
+      "id": "a4d3f632-eb48-4163-9791-165989c16035",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225337.421630energia.svg",
+      "name": "ener",
+      "title": "Energía"
+    }
+  ],
+  "id": "energia_1c181390-5045-475e-94dc-410429be4b17",
+  "isopen": false,
+  "license_id": "notspecified",
+  "license_title": "No se especificó la licencia",
+  "maintainer": null,
+  "maintainer_email": null,
+  "metadata_created": "2019-11-26T14:58:55.640661",
+  "metadata_modified": "2021-04-29T17:17:20.756509",
+  "name": "energia-precios-surtidor---resolucion-3142016",
+  "notes": "Datos del Sistema en línea de información de precios de combustibles en surtidor, a través del cual los titulares de bocas de expendio de combustibles líquidos inscriptos en el registro creado por la resolución n° 1.102/2004 presentan la información relativa a precios de comercialización minorista dentro de las 8 (ocho) horas de producida una modificación en el precio en surtidor.",
+  "num_resources": 3,
+  "num_tags": 4,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:09.221510",
+    "description": "",
+    "id": "cd1b32a2-2d3a-44ac-8c98-a425a7b62d42",
+    "image_url": "",
+    "is_organization": true,
+    "name": "energia",
+    "revision_id": "a184cf69-99ad-4f84-a254-020031d7fe63",
+    "state": "active",
+    "title": "Secretaría de Energía",
+    "type": "organization"
+  },
+  "owner_org": "cd1b32a2-2d3a-44ac-8c98-a425a7b62d42",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "http://datos.minem.gob.ar/dataset/1c181390-5045-475e-94dc-410429be4b17/resource/80ac25de-a44a-4445-9215-090cf55cfda5",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2018-03-21T14:20:27.688896",
+      "datastore_active": false,
+      "description": "Precios vigentes de naftas, gasoil y GNC, según declaraciones realizadas por EESS en el marco de la Resolución 314/2016 del Ministerio de Energía y Minería, en AR$/litro",
+      "fileName": "precios-en-surtidor-resolucin-3142016.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "energia_80ac25de-a44a-4445-9215-090cf55cfda5",
+      "last_modified": "2020-11-17T14:00:41.171786",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Precios vigentes en surtidor - Resolución 314/2016",
+      "package_id": "energia_1c181390-5045-475e-94dc-410429be4b17",
+      "position": 0,
+      "resource_type": "file",
+      "revision_id": "2cc8e65e-2bbf-4d9c-bd3a-2ba655e87378",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.minem.gob.ar/dataset/1c181390-5045-475e-94dc-410429be4b17/resource/80ac25de-a44a-4445-9215-090cf55cfda5/download/precios-en-surtidor-resolucin-3142016.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos.minem.gob.ar/dataset/1c181390-5045-475e-94dc-410429be4b17/resource/f8dda0d5-2a9f-4d34-b79b-4e63de3995df",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2018-03-21T14:21:36.203218",
+      "datastore_active": false,
+      "description": "Precios anteriores de naftas, gasoil y GNC, según declaraciones realizadas por EESS en el marco de la Resolución 314/2016",
+      "fileName": "precios-historicos.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "energia_f8dda0d5-2a9f-4d34-b79b-4e63de3995df",
+      "last_modified": "2020-11-16T15:05:31.086365",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Precios históricos",
+      "package_id": "energia_1c181390-5045-475e-94dc-410429be4b17",
+      "position": 1,
+      "resource_type": null,
+      "revision_id": "1018ef2b-cef9-4dd1-bfca-a6e1c9ecb7e5",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.minem.gob.ar/dataset/1c181390-5045-475e-94dc-410429be4b17/resource/f8dda0d5-2a9f-4d34-b79b-4e63de3995df/download/precios-historicos.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos.minem.gob.ar/dataset/1c181390-5045-475e-94dc-410429be4b17/resource/fb904131-778b-486b-a6ac-9780a2f5dad8",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2018-03-21T14:22:01.752269",
+      "datastore_active": false,
+      "description": "Aplicaciones para Android, iOS y PC.",
+      "format": "HTML",
+      "hash": "",
+      "id": "energia_fb904131-778b-486b-a6ac-9780a2f5dad8",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Aplicaciones",
+      "package_id": "energia_1c181390-5045-475e-94dc-410429be4b17",
+      "position": 2,
+      "resource_type": null,
+      "revision_id": "72ed4704-74a8-4fad-aaca-00cd44129660",
+      "size": null,
+      "state": "active",
+      "url": "https://www.minem.gob.ar/www/706/26165/precios-en-surtidor.html",
+      "url_type": null
+    }
+  ],
+  "revision_id": "1087fcf2-cd16-482e-8e0c-900b98fe6175",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "Combustibles",
+      "id": "91332bf3-1e78-4385-b177-146099d2e48b",
+      "name": "Combustibles",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Comercialización de Hidrocarburos Líquidos",
+      "id": "c81df453-550a-4172-b461-0412ecdac4e7",
+      "name": "Comercialización de Hidrocarburos Líquidos",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Estaciones de servicio",
+      "id": "9365d195-dca0-4dce-92ac-6e1036564197",
+      "name": "Estaciones de servicio",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Precios",
+      "id": "308c2aaf-f177-4728-bda5-fd41662741a2",
+      "name": "Precios",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Precios en Surtidor - Resolución 314/2016",
+  "type": "dataset",
+  "url": "http://datos.minem.gob.ar/dataset/",
+  "version": null
+}

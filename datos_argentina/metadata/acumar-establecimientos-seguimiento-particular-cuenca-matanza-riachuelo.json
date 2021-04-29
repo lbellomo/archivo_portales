@@ -1,0 +1,203 @@
+{
+  "author": "Coordinación de Fiscalización",
+  "author_email": "agarcia@acumar.gov.ar",
+  "creator_user_id": "dc157489-51c6-44ce-bd63-3bd983d60778",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P1Y"
+    },
+    {
+      "key": "issued",
+      "value": "2018-02-22T14:27:38.001223"
+    },
+    {
+      "key": "modified",
+      "value": "2018-07-06T19:40:06.960345"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"ENVI\"]"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Medio ambiente",
+      "display_name": "Medio ambiente",
+      "id": "f71fe9d7-c703-43be-8d9d-af9441c326ba",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225440.964279medio-ambiente.svg",
+      "name": "envi",
+      "title": "Medio ambiente"
+    }
+  ],
+  "id": "acumar_cfcf2b38-04be-4212-b8b5-8cee045669ad",
+  "isopen": false,
+  "license_id": "notspecified",
+  "license_title": "No se especificó la licencia",
+  "maintainer": "Coordinación de Comunicación y Prensa",
+  "maintainer_email": "prensa@acumar.gov.ar",
+  "metadata_created": "2019-12-04T20:03:37.663003",
+  "metadata_modified": "2021-04-29T17:11:57.535096",
+  "name": "acumar-establecimientos-seguimiento-particular-cuenca-matanza-riachuelo",
+  "notes": "Datos correspondientes a la base de datos de establecimientos de seguimiento particular de acuerdo a su relevancia ambiental de la Dirección de Fiscalización y Adecuación Ambiental.",
+  "num_resources": 3,
+  "num_tags": 8,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:10.306987",
+    "description": "",
+    "id": "1b6b28cd-098f-41d7-b43f-d5a01ffa8759",
+    "image_url": "",
+    "is_organization": true,
+    "name": "acumar",
+    "revision_id": "0e2a184d-b675-43ae-b2dd-e1ed0c459c04",
+    "state": "active",
+    "title": "Autoridad de Cuenca Matanza Riachuelo",
+    "type": "organization"
+  },
+  "owner_org": "1b6b28cd-098f-41d7-b43f-d5a01ffa8759",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "http://datos.acumar.gob.ar/dataset/cfcf2b38-04be-4212-b8b5-8cee045669ad/resource/c5c85141-17e1-416c-96a2-bc883193efec",
+      "attributesDescription": "[{\"type\": \"integer\", \"description\": \"N\\u00famero de Clave \\u00danica de Reordenamiento Territorial\", \"title\": \"establecimiento_CURT\"}, {\"type\": \"string\", \"description\": \"Nombre del establecimiento\", \"title\": \"establecimiento_razon_social\"}, {\"type\": \"string\", \"description\": \"Nombre de la calle del domicilio legal del establecimiento\", \"title\": \"calle_nombre\"}, {\"type\": \"any\", \"description\": \"Altura de la calle del domicilio legal del establecimiento\", \"title\": \"calle_numero\"}, {\"type\": \"string\", \"description\": \"Barrio de ubicaci\\u00f3n del establecimiento\", \"title\": \"establecimiento_barrio\"}, {\"type\": \"integer\", \"description\": \"C\\u00f3digo utilizado en el Censo Nacional para la localidad respectiva\", \"title\": \"localidad_id\"}, {\"type\": \"string\", \"description\": \"Nombre de la localidad en la que se ubica el establecimiento\", \"title\": \"localidad_descripcion\"}, {\"type\": \"integer\", \"description\": \"C\\u00f3digo utilizado en el Censo Nacional para municipio respectivo\", \"title\": \"partido_id\"}, {\"type\": \"string\", \"description\": \"Municipio en el cual se ubica el establecimiento\", \"title\": \"partido_descripcion\"}, {\"type\": \"string\", \"description\": \"Nombre de la subcuenca en la que influye la actividad del establecimiento\", \"title\": \"subcuenca_descripcion\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2018-02-22T14:34:15.570350",
+      "datastore_active": false,
+      "description": "Listado de establecimientos de seguimiento particular - Diciembre 2017\r\n",
+      "fileName": "seguimiento-particular-201712.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "acumar_c5c85141-17e1-416c-96a2-bc883193efec",
+      "last_modified": "2018-02-22T14:34:15.514027",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Establecimientos de Seguimiento Particular en la Cuenca Matanza Riachuelo 2017",
+      "package_id": "acumar_cfcf2b38-04be-4212-b8b5-8cee045669ad",
+      "position": 0,
+      "resource_type": null,
+      "revision_id": "86807075-1e93-493a-a60e-9d7f00990215",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.acumar.gob.ar/dataset/cfcf2b38-04be-4212-b8b5-8cee045669ad/resource/c5c85141-17e1-416c-96a2-bc883193efec/download/seguimiento-particular-201712.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos.acumar.gob.ar/dataset/cfcf2b38-04be-4212-b8b5-8cee045669ad/resource/df350d71-7525-4f35-8ca9-9439e7160984",
+      "attributesDescription": "[{\"type\": \"integer\", \"description\": \"N\\u00famero de CURT de los establecimientos empadronados.\", \"title\": \"establecimiento_id\"}, {\"type\": \"string\", \"description\": \"Raz\\u00f3n Social del establecimiento\", \"title\": \"establecimiento_razon_social\"}, {\"type\": \"string\", \"description\": \"Direcci\\u00f3n del establecimiento.\", \"title\": \"establecimiento_direccion\"}, {\"type\": \"string\", \"description\": \"Municipio en el que se encuentra localizado el establecimiento.\", \"title\": \"establecimiento_municipio\"}, {\"type\": \"string\", \"description\": \"Subcuenca en la cual se encuentra el establecimiento.\", \"title\": \"establecimiento_subcuenca\"}, {\"type\": \"string\", \"description\": \"Actividad principal del establecimiento.\\n\", \"title\": \"establecimiento_macroactividad\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2018-03-22T13:31:35.423313",
+      "datastore_active": false,
+      "description": "Listado de establecimientos de seguimiento particular - año 2016",
+      "fileName": "establecimientos-de-seguimiento-particular-2016.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "acumar_df350d71-7525-4f35-8ca9-9439e7160984",
+      "last_modified": "2018-03-22T13:31:35.230887",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Establecimientos de Seguimiento Particular de la Cuenca Matanza Riachuelo 2016",
+      "package_id": "acumar_cfcf2b38-04be-4212-b8b5-8cee045669ad",
+      "position": 1,
+      "resource_type": null,
+      "revision_id": "86807075-1e93-493a-a60e-9d7f00990215",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.acumar.gob.ar/dataset/cfcf2b38-04be-4212-b8b5-8cee045669ad/resource/df350d71-7525-4f35-8ca9-9439e7160984/download/establecimientos-de-seguimiento-particular-2016.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos.acumar.gob.ar/dataset/cfcf2b38-04be-4212-b8b5-8cee045669ad/resource/6a17df6a-ef70-4ba3-97a5-bac78f1bce4d",
+      "attributesDescription": "[{\"type\": \"string\", \"description\": \"Nombre del establecimiento\", \"title\": \"establecimiento_razon_social\"}, {\"type\": \"string\", \"description\": \"Tipo de seguimiento: particular o judicial\", \"title\": \"establecimiento_ seguimiento_caracter\"}, {\"type\": \"string\", \"description\": \"Nombre de la calle del domicilio legal del establecimiento \", \"title\": \"calle_nombre\"}, {\"type\": \"integer\", \"description\": \"Altura de la calle del domicilio legal del establecimiento \", \"title\": \"calle_altura_numero\"}, {\"type\": \"integer\", \"description\": \"Altura de la calle del domicilio legal del establecimiento \", \"title\": \"calle_altura_numero_I\"}, {\"type\": \"any\", \"description\": \"Otro dato indicativo de la altura del establecimiento: KM, entre calle, esquina\", \"title\": \"calle_altura_otro\"}, {\"type\": \"string\", \"description\": \"Barrio de ubicaci\\u00f3n del establecimiento \", \"title\": \"barrio_descripcion\"}, {\"type\": \"integer\", \"description\": \"C\\u00f3digo utilizado en el Censo Nacional para la localidad respectiva \", \"title\": \"localidad_id\"}, {\"type\": \"string\", \"description\": \"Nombre de la localidad en la que se ubica el establecimiento\", \"title\": \"localidad_descripcion\"}, {\"type\": \"integer\", \"description\": \"C\\u00f3digo utilizado en el Censo Nacional para municipio respectivo\", \"title\": \"partido_id\"}, {\"type\": \"string\", \"description\": \"Municipio en el cual se ubica el establecimiento\", \"title\": \"partido_descripcion\"}, {\"type\": \"string\", \"description\": \"Tipo de registro interno de la actuaci\\u00f3n: EXP, MEMO, NOTA, TRI \\n\", \"title\": \"establecimiento_registro_descripcion\"}, {\"type\": \"integer\", \"description\": \"N\\u00famero de registro interno del convenio\\n\", \"title\": \"establecimiento_registro_numero\"}, {\"type\": \"string\", \"description\": \"Tipo de registro interno de la actuaci\\u00f3n: EXP, MEMO, NOTA, TRI \\n\", \"title\": \"establecimiento_registro_descripcion_I\"}, {\"type\": \"integer\", \"description\": \"N\\u00famero de registro interno del convenio\\n\", \"title\": \"establecimiento_registro_numero_I\"}, {\"type\": \"string\", \"description\": \"Rubro del establecimiento\", \"title\": \"establecimiento_CIIU_descripcion\"}, {\"type\": \"string\", \"description\": \"Principales actividades del establecimiento o fuentes de contaminaci\\u00f3n\", \"title\": \"establecimiento_actividades_fuentes_contaminaci\\u00f3n\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2018-07-06T15:32:34.933835",
+      "datastore_active": false,
+      "description": "Listado de establecimientos de seguimiento particular - año 2018\r\n\r\n",
+      "fileName": "segumiento-particular-2018.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "acumar_6a17df6a-ef70-4ba3-97a5-bac78f1bce4d",
+      "last_modified": "2018-07-06T16:53:48.644788",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Establecimientos de Seguimiento Particular de la Cuenca Matanza Riachuelo 2018",
+      "package_id": "acumar_cfcf2b38-04be-4212-b8b5-8cee045669ad",
+      "position": 2,
+      "resource_type": "file.upload",
+      "revision_id": "86807075-1e93-493a-a60e-9d7f00990215",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.acumar.gob.ar/dataset/cfcf2b38-04be-4212-b8b5-8cee045669ad/resource/6a17df6a-ef70-4ba3-97a5-bac78f1bce4d/download/segumiento-particular-2018.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "4f8de44f-0fc2-4a14-a6fc-2b62b1b1a3fb",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "Control",
+      "id": "27509986-815e-4ddb-9ed5-a2bb0730435b",
+      "name": "Control",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Eje Ambiental",
+      "id": "372cb546-0e92-4061-9b08-2537ffc593a2",
+      "name": "Eje Ambiental",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Transparencia",
+      "id": "21a0e417-6815-4adf-aaf4-0d8a71309d0c",
+      "name": "Transparencia",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "control",
+      "id": "233d956c-305b-41c7-ba74-03b3c09c3ac3",
+      "name": "control",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "establecimientos",
+      "id": "b070442d-5091-4f08-aad3-b60ca38e2ba8",
+      "name": "establecimientos",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "fiscalización",
+      "id": "1a4f2a7d-65a8-4f6d-9f44-675c3705d429",
+      "name": "fiscalización",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "relevancia ambiental",
+      "id": "4dbb4554-a463-48c4-93ee-5bde8fc3a217",
+      "name": "relevancia ambiental",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "seguimiento particular",
+      "id": "45c5fa95-3592-456a-8009-82adfb2dfc87",
+      "name": "seguimiento particular",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Establecimientos de Seguimiento Particular en la Cuenca Matanza Riachuelo",
+  "type": "dataset",
+  "url": "http://datos.acumar.gob.ar/dataset/establecimientos-de-seguimiento-particular-en-la-cuenca-matanza-riachuelo",
+  "version": null
+}

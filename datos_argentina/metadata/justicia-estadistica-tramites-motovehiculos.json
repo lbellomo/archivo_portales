@@ -1,0 +1,242 @@
+{
+  "author": "Ministerio de Justicia y Derechos Humanos. Subsecretaría de Asuntos Registrales. Dirección Nacional de Registros Nacionales de la Propiedad Automotor y Créditos Prendarios.",
+  "author_email": "accesobd@dnrpa.gov.ar",
+  "creator_user_id": "dc157489-51c6-44ce-bd63-3bd983d60778",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P1M"
+    },
+    {
+      "key": "issued",
+      "value": "2017-06-28T18:08:53.679300"
+    },
+    {
+      "key": "modified",
+      "value": "2021-04-05T12:39:09.124604"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"JUST\"]"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Justicia, seguridad y legales",
+      "display_name": "Justicia, seguridad y legales",
+      "id": "69ac5e1d-79f0-4470-9514-8a173d9ae44c",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225406.604073justicia-seguridad-legales.svg",
+      "name": "just",
+      "title": "Justicia, seguridad y legales"
+    }
+  ],
+  "id": "justicia_72d85f23-b751-4d12-935b-25e32ed9445e",
+  "isopen": true,
+  "license_id": "CC-BY-4.0",
+  "license_title": "Creative Commons Attribution 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "maintainer": "Dirección Nacional de Registros Nacionales de la Propiedad Automotor y Créditos Prendarios",
+  "maintainer_email": "accesobd@dnrpa.gov.ar",
+  "metadata_created": "2019-12-04T20:02:07.838807",
+  "metadata_modified": "2021-04-29T17:10:07.218243",
+  "name": "justicia-estadistica-tramites-motovehiculos",
+  "notes": "En este conjunto de datos se detalla la cantidad de motovehículos 0km inscriptos y motovehículos transferidos, discriminados  por año, mes y provincia a la que pertenece el registro seccional en el cual se inscribió el trámite.Se consideran motovehículos: ciclomotores, motocicletas, motocarro (motocargas y motofurgones), motonetas, triciclos y cuatriciclos con motor.",
+  "num_resources": 4,
+  "num_tags": 11,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:10.018297",
+    "description": "",
+    "id": "06b380f8-888f-43c0-8367-16a7ddf47d4f",
+    "image_url": "",
+    "is_organization": true,
+    "name": "justicia",
+    "revision_id": "637d68f0-a296-4d39-b846-4370270a96a1",
+    "state": "active",
+    "title": " Ministerio de Justicia y Derechos Humanos",
+    "type": "organization"
+  },
+  "owner_org": "06b380f8-888f-43c0-8367-16a7ddf47d4f",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "http://datos.jus.gob.ar/dataset/72d85f23-b751-4d12-935b-25e32ed9445e/resource/d523dd08-5c12-467e-b947-aa3206a24d21",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2018-04-04T10:29:13.300423",
+      "datastore_active": false,
+      "description": "Estadística de inscripciones iniciales de motovehículos por año, mes y provincia a la que pertenece el registro seccional en el cual se inscribió el trámite.",
+      "format": "CSV",
+      "hash": "",
+      "id": "justicia_d523dd08-5c12-467e-b947-aa3206a24d21",
+      "last_modified": "2021-04-05T09:37:17.618854",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Estadística de inscripciones iniciales de motovehículos - 200701 - 202103",
+      "package_id": "justicia_72d85f23-b751-4d12-935b-25e32ed9445e",
+      "position": 0,
+      "resource_type": null,
+      "revision_id": "665ebd93-43ce-494a-8134-d8aaa6a15b24",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.jus.gob.ar/dataset/72d85f23-b751-4d12-935b-25e32ed9445e/resource/d523dd08-5c12-467e-b947-aa3206a24d21/download/estadistica-inscripciones-iniciales-motovehiculos-2007-01-2021-03.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos.jus.gob.ar/dataset/72d85f23-b751-4d12-935b-25e32ed9445e/resource/6422d3c8-fa7d-47b4-96e9-4b2f2fab1e90",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2018-04-04T10:34:24.804177",
+      "datastore_active": false,
+      "description": "Estadística de transferencias de motovehículos por año, mes y provincia a la que pertenece el registro seccional en el cual se inscribió el trámite.",
+      "format": "CSV",
+      "hash": "",
+      "id": "justicia_6422d3c8-fa7d-47b4-96e9-4b2f2fab1e90",
+      "last_modified": "2021-04-05T09:38:14.602471",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Estadística de transferencias de motovehículos - 200701 - 202103",
+      "package_id": "justicia_72d85f23-b751-4d12-935b-25e32ed9445e",
+      "position": 1,
+      "resource_type": null,
+      "revision_id": "665ebd93-43ce-494a-8134-d8aaa6a15b24",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.jus.gob.ar/dataset/72d85f23-b751-4d12-935b-25e32ed9445e/resource/6422d3c8-fa7d-47b4-96e9-4b2f2fab1e90/download/estadistica-transferencias-motovehiculos-2007-01-2021-03.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos.jus.gob.ar/dataset/72d85f23-b751-4d12-935b-25e32ed9445e/resource/795b0b55-f40b-4cc8-a886-5a3e5747cc15",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2020-10-06T15:58:25.301967",
+      "datastore_active": false,
+      "description": "Archivo comprimido que contiene las estadísticas de inscripciones iniciales y transferencias de motovehículos desde enero del año 2007.\r\n",
+      "format": "ZIP",
+      "hash": "",
+      "id": "justicia_795b0b55-f40b-4cc8-a886-5a3e5747cc15",
+      "last_modified": "2021-04-05T09:39:09.102081",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Estadística de trámites de motovehículos",
+      "package_id": "justicia_72d85f23-b751-4d12-935b-25e32ed9445e",
+      "position": 2,
+      "resource_type": null,
+      "revision_id": "665ebd93-43ce-494a-8134-d8aaa6a15b24",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.jus.gob.ar/dataset/72d85f23-b751-4d12-935b-25e32ed9445e/resource/795b0b55-f40b-4cc8-a886-5a3e5747cc15/download/estadistica-tramites-motovehiculos.zip",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos.jus.gob.ar/dataset/72d85f23-b751-4d12-935b-25e32ed9445e/resource/0371c7e6-587d-4bcb-8588-f57922172ced",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2020-12-20T00:00:13.315477",
+      "datastore_active": false,
+      "description": "Gráficos estadísticos de inscripciones iniciales y transferencias de motovehículos desde enero del año 2017",
+      "format": "gráfico",
+      "hash": "",
+      "id": "justicia_0371c7e6-587d-4bcb-8588-f57922172ced",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Gráfico de trámites de motovehículos",
+      "package_id": "justicia_72d85f23-b751-4d12-935b-25e32ed9445e",
+      "position": 3,
+      "resource_type": null,
+      "revision_id": "b89016cb-998b-4f4a-a93c-ac4abcb03d71",
+      "size": null,
+      "state": "active",
+      "url": "https://public.tableau.com/profile/justicia.abierta#!/vizhome/estadisticatramitesmotovehiculos/Motovehculosinscripcionesinicialesytransferencias?publish=yes",
+      "url_type": null
+    }
+  ],
+  "revision_id": "3be0ee6f-ae3d-4bf2-b130-a6a35add5d9e",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "0km",
+      "id": "47fa14b3-5df2-4e5f-b608-b08f37eecdb4",
+      "name": "0km",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Sistema Registral",
+      "id": "5c6998da-9901-4ddd-841b-9da8bcfc5ba4",
+      "name": "Sistema Registral",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "dnrpa",
+      "id": "4a91d05b-d988-471d-8765-0c08e4fc2b76",
+      "name": "dnrpa",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "inscripciones",
+      "id": "4015e51a-5e05-4de4-b8f7-55cd813085a3",
+      "name": "inscripciones",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "inscripciones iniciales",
+      "id": "2f6b678b-8ead-40b2-8cff-d45b2284e30e",
+      "name": "inscripciones iniciales",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "motos",
+      "id": "6e6d58d1-971f-4c74-9e6d-423b4482e3ad",
+      "name": "motos",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "motovehículos",
+      "id": "3f88ee50-b44a-4fb3-864b-9cc2b65c0caa",
+      "name": "motovehículos",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "registración",
+      "id": "75a760c6-aa85-4b7a-a195-dbefb61958a1",
+      "name": "registración",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "registros seccionales",
+      "id": "d9bd9b09-4f11-49be-93ef-b32d63df485e",
+      "name": "registros seccionales",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "transferencias",
+      "id": "57db9448-1674-4ca5-8123-1c6edf325df9",
+      "name": "transferencias",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "trámites",
+      "id": "6d571187-c44f-4b80-84e8-f7cb06708e10",
+      "name": "trámites",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Estadística de trámites de motovehículos",
+  "type": "dataset",
+  "url": "http://www.dnrpa.gov.ar",
+  "version": null
+}

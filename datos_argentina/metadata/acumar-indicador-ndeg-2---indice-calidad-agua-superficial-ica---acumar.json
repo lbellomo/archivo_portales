@@ -1,0 +1,146 @@
+{
+  "author": "Coordinación de Calidad Ambiental",
+  "author_email": null,
+  "creator_user_id": "dc157489-51c6-44ce-bd63-3bd983d60778",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P1Y"
+    },
+    {
+      "key": "issued",
+      "value": "2018-04-27T14:18:43.973092"
+    },
+    {
+      "key": "modified",
+      "value": "2018-06-04T12:14:45.533844"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"ENVI\"]"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Medio ambiente",
+      "display_name": "Medio ambiente",
+      "id": "f71fe9d7-c703-43be-8d9d-af9441c326ba",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225440.964279medio-ambiente.svg",
+      "name": "envi",
+      "title": "Medio ambiente"
+    }
+  ],
+  "id": "acumar_ecb477bd-9647-4494-b1a7-7097938398f3",
+  "isopen": false,
+  "license_id": "notspecified",
+  "license_title": "No se especificó la licencia",
+  "maintainer": "Coordinación de Comunicación y Prensa",
+  "maintainer_email": "prensa@acumar.gov.ar",
+  "metadata_created": "2019-12-04T20:03:54.143853",
+  "metadata_modified": "2021-04-29T17:11:17.891869",
+  "name": "acumar-indicador-ndeg-2---indice-calidad-agua-superficial-ica---acumar",
+  "notes": "Datos correspondientes al Índice de Calidad de Agua Superficial (ICA) del Sistema de Medición adoptado por la Autoridad de Cuenca Matanza Riachuelo (ACUMAR). Incluye nombre, identificación y ubicación geográfica de las estaciones de monitoreo y el resultado del ICA actualizado en Octubre de 2017.",
+  "num_resources": 1,
+  "num_tags": 7,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:10.306987",
+    "description": "",
+    "id": "1b6b28cd-098f-41d7-b43f-d5a01ffa8759",
+    "image_url": "",
+    "is_organization": true,
+    "name": "acumar",
+    "revision_id": "0e2a184d-b675-43ae-b2dd-e1ed0c459c04",
+    "state": "active",
+    "title": "Autoridad de Cuenca Matanza Riachuelo",
+    "type": "organization"
+  },
+  "owner_org": "1b6b28cd-098f-41d7-b43f-d5a01ffa8759",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "http://datos.acumar.gob.ar/dataset/ecb477bd-9647-4494-b1a7-7097938398f3/resource/ebcee818-3169-4cea-b55d-e34538e48bb4",
+      "attributesDescription": "[{\"type\": \"integer\", \"description\": \"N\\u00famero que identifica a las estaciones de monitoreo\", \"title\": \"id_em\"}, {\"type\": \"string\", \"description\": \"Nombre que identifica a las estaciones de monitoreo\", \"title\": \"em_nombre\"}, {\"type\": \"any\", \"description\": \"Latitud en la cual se encuentra la estaci\\u00f3n de monitoreo\", \"title\": \"em_latitud\"}, {\"type\": \"any\", \"description\": \"Longitud en la que se encuentra la estaci\\u00f3n de monitoreo\", \"title\": \"em_longitud\"}, {\"type\": \"integer\", \"description\": \"Valor del \\u00edndice de calidad de agua\", \"title\": \"ica\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2018-04-27T14:23:11.122591",
+      "datastore_active": false,
+      "description": "Detalle del Índice de Calidad de Agua Superficial - ICA",
+      "fileName": "ica-2017-10",
+      "format": "CSV",
+      "hash": "",
+      "id": "acumar_ebcee818-3169-4cea-b55d-e34538e48bb4",
+      "last_modified": "2018-04-27T14:23:11.072717",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Indicador N° 2 - Índice de Calidad de Agua Superficial - ICA",
+      "package_id": "acumar_ecb477bd-9647-4494-b1a7-7097938398f3",
+      "position": 0,
+      "resource_type": null,
+      "revision_id": "c045925d-12c8-4026-befc-d490eb797bf8",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.acumar.gob.ar/dataset/ecb477bd-9647-4494-b1a7-7097938398f3/resource/ebcee818-3169-4cea-b55d-e34538e48bb4/download/indicador-2-calidad-agua.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "3a4f6a08-83ad-4270-895f-806802b43d6d",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "Eje Ambiental",
+      "id": "372cb546-0e92-4061-9b08-2537ffc593a2",
+      "name": "Eje Ambiental",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Indicadores",
+      "id": "c3410741-036a-46fa-89cf-1a3fe1f9019c",
+      "name": "Indicadores",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Monitoreo",
+      "id": "79fe9cb8-0f2f-4ca7-b200-2fcf6a3160b6",
+      "name": "Monitoreo",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "calidad ambiental",
+      "id": "0c8bacb6-de31-4de0-8d71-824d70131b3d",
+      "name": "calidad ambiental",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "calidad de agua",
+      "id": "a4a126a1-6feb-412b-afd5-5eac222563c3",
+      "name": "calidad de agua",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "control",
+      "id": "233d956c-305b-41c7-ba74-03b3c09c3ac3",
+      "name": "control",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "monitoreo",
+      "id": "6f73258d-aaca-4734-8371-665bd47b6e72",
+      "name": "monitoreo",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Indicador N° 2 - Índice de Calidad de Agua Superficial (ICA) - ACUMAR",
+  "type": "dataset",
+  "url": "http://datos.acumar.gob.ar/dataset/indicador-n-2-indice-de-calidad-de-agua-superficial-ica-acumar",
+  "version": null
+}

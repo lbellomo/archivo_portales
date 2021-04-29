@@ -1,0 +1,201 @@
+{
+  "author": "Jefatura de Gabinete de Ministros. Secretaría de Innovación Pública. Subsecretaría de Gobierno Abierto y País Digital.",
+  "author_email": "paisdigital@modernizacion.gob.ar",
+  "creator_user_id": "dc157489-51c6-44ce-bd63-3bd983d60778",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "eventual"
+    },
+    {
+      "key": "issued",
+      "value": "2019-06-01T00:00:00"
+    },
+    {
+      "key": "language",
+      "value": "[\"SPA\"]"
+    },
+    {
+      "key": "modified",
+      "value": "2019-06-01T00:00:00"
+    },
+    {
+      "key": "spatial",
+      "value": "ARG"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"TECH\", \"EDUC\", \"GOVE\"]"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Ciencia y tecnología",
+      "display_name": "Ciencia y tecnología",
+      "id": "0dd7dd0e-aae8-402f-8660-f1e8b6b6084c",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225221.170833ciencia-tecnologia.svg",
+      "name": "tech",
+      "title": "Ciencia y tecnología"
+    },
+    {
+      "description": "Educación, cultura y deportes",
+      "display_name": "Educación, cultura y deportes",
+      "id": "b5ebe955-de3d-4e0b-b28c-16df2b2af99f",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225313.459997educacion-cultura-deportes.svg",
+      "name": "educ",
+      "title": "Educación, cultura y deportes"
+    },
+    {
+      "description": "Gobierno y sector público",
+      "display_name": "Gobierno y sector público",
+      "id": "e6f07c77-3987-4e71-98a6-731b1aaf74f4",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225353.395233gobierno-sector-publico.svg",
+      "name": "gove",
+      "title": "Gobierno y sector público"
+    }
+  ],
+  "id": "jgm_13",
+  "isopen": true,
+  "license_id": "CC-BY-4.0",
+  "license_title": "Creative Commons Attribution 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "maintainer": "Jefatura de Gabinete de Ministros. Secretaría de Innovación Pública. Subsecretaría de Gobierno Abierto y País Digital.",
+  "maintainer_email": "paisdigital@modernizacion.gob.ar",
+  "metadata_created": "2020-01-30T20:55:19.378717",
+  "metadata_modified": "2021-04-29T17:15:57.340931",
+  "name": "jgm-puntos-wifi-pais-digital",
+  "notes": "Listado de los puntos de acceso a internet de la Red WiFi de País Digital que brinda acceso gratuito a internet en espacios y dependencias públicas de todo el país.",
+  "num_resources": 2,
+  "num_tags": 8,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:06.745974",
+    "description": "",
+    "id": "f917ad65-28ea-42a9-81ae-61a2bb8f58d0",
+    "image_url": "",
+    "is_organization": true,
+    "name": "jgm",
+    "revision_id": "ddd4eb90-3b5d-40d0-a290-414515935bf3",
+    "state": "active",
+    "title": " Jefatura de Gabinete de Ministros",
+    "type": "organization"
+  },
+  "owner_org": "f917ad65-28ea-42a9-81ae-61a2bb8f58d0",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "https://datos.gob.ar/dataset/jgm-puntos-wifi-pais-digital/archivo/jgm_13.1",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-06-01T00:00:00",
+      "datastore_active": false,
+      "description": "Listado de los puntos de acceso a internet de la Red WiFi de País Digital (CSV).",
+      "fileName": "contectiwidad-wifi.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "jgm_13.1",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Puntos WiFi (CSV)",
+      "package_id": "jgm_13",
+      "position": 0,
+      "resource_type": null,
+      "revision_id": "da87fc81-bb98-4ada-8639-ab2bdc2879bb",
+      "size": null,
+      "state": "active",
+      "url": "https://servicios.puntodigital.paisdigital.modernizacion.gob.ar/ws/ws-conectividadwifi.php?method=getCsv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://datos.gob.ar/dataset/jgm-puntos-wifi-pais-digital/archivo/jgm_13.2",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-06-01T00:00:00",
+      "datastore_active": false,
+      "description": "Listado de los puntos de acceso a internet de la Red WiFi de País Digital (XLSX).",
+      "fileName": "antenas-wifi__listado.xlsx",
+      "format": "XLSX",
+      "hash": "",
+      "id": "jgm_13.2",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Puntos WiFi (XLSX)",
+      "package_id": "jgm_13",
+      "position": 1,
+      "resource_type": null,
+      "revision_id": "da87fc81-bb98-4ada-8639-ab2bdc2879bb",
+      "size": null,
+      "state": "active",
+      "url": "https://servicios.puntodigital.paisdigital.modernizacion.gob.ar/galileo/admin/informe_ejecutivo/antenas_wifi_listado/",
+      "url_type": null
+    }
+  ],
+  "revision_id": "3cb5ab77-2aa5-41fd-8bee-bd14b77f8cf3",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "Ciencia y tecnología",
+      "id": "472ef922-32d8-4f2f-8d78-10cbf294ceab",
+      "name": "Ciencia y tecnología",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Educación cultura y deportes",
+      "id": "8010ab3f-5799-41aa-b9ef-67c7bbdb7060",
+      "name": "Educación cultura y deportes",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Gobierno y sector público",
+      "id": "cabcb959-4dbc-4a58-b35e-dfd1f6d6ae5f",
+      "name": "Gobierno y sector público",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "aprendizaje",
+      "id": "0be57572-6738-40bc-8e84-b26b851b9579",
+      "name": "aprendizaje",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "entretenimiento",
+      "id": "b2e562b4-6bf9-43a1-9742-e78b922261d7",
+      "name": "entretenimiento",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "inclusión digital",
+      "id": "9c751530-78d1-4111-b4ac-f316eedf2fb6",
+      "name": "inclusión digital",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "tecnología",
+      "id": "c26d6475-a800-4cfa-8272-480cec521121",
+      "name": "tecnología",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "tic",
+      "id": "ba4d4af2-9333-49ca-a855-9f3cc0f89f38",
+      "name": "tic",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Puntos WiFi País Digital",
+  "type": "dataset",
+  "url": "https://www.argentina.gob.ar/paisdigital/wifi",
+  "version": null
+}

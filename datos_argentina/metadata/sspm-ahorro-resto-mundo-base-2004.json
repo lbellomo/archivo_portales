@@ -1,0 +1,156 @@
+{
+  "author": "Subsecretaría de Programación Macroeconómica",
+  "author_email": "datoseconomicos@mecon.gov.ar",
+  "creator_user_id": "4720e75a-9e17-4dc3-879d-041917c7f9f9",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P3M"
+    },
+    {
+      "key": "issued",
+      "value": "2017-09-28"
+    },
+    {
+      "key": "language",
+      "value": "[\"SPA\"]"
+    },
+    {
+      "key": "source",
+      "value": "Instituto Nacional de Estadística y Censos (INDEC)"
+    },
+    {
+      "key": "spatial",
+      "value": "ARG"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"ECON\"]"
+    },
+    {
+      "key": "temporal",
+      "value": "2006-01-01/2016-10-01"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Economía y finanzas",
+      "display_name": "Economía y finanzas",
+      "id": "60b4b03e-10a1-4d67-b984-08008a249617",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225257.200233economia-finanzas.svg",
+      "name": "econ",
+      "title": "Economía y finanzas"
+    }
+  ],
+  "id": "sspm_167",
+  "isopen": true,
+  "license_id": "CC-BY-4.0",
+  "license_title": "Creative Commons Attribution 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "maintainer": "Subsecretaría de Programación Macroeconómica.",
+  "maintainer_email": "datoseconomicos@mecon.gov.ar",
+  "metadata_created": "2019-11-26T15:05:08.647962",
+  "metadata_modified": "2021-04-29T17:05:28.814344",
+  "name": "sspm-ahorro-resto-mundo-base-2004",
+  "notes": "Ahorro del resto del mundo. Base 2004",
+  "num_resources": 2,
+  "num_tags": 3,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:09.718132",
+    "description": "",
+    "id": "68f9ee22-5ec3-44cf-a32b-b87d9db46b93",
+    "image_url": "",
+    "is_organization": true,
+    "name": "sspm",
+    "revision_id": "bc058ce0-3540-4204-96cd-9f9ec79045b3",
+    "state": "active",
+    "title": "Subsecretaría de Programación Macroeconómica",
+    "type": "organization"
+  },
+  "owner_org": "68f9ee22-5ec3-44cf-a32b-b87d9db46b93",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/",
+      "attributesDescription": "[{\"title\": \"indice_tiempo\", \"type\": \"date\", \"specialType\": \"time_index\", \"specialTypeDetail\": \"R/P1Y\", \"id\": \"167.1_ICE_TIEMPO_2004_0_13\", \"scrapingIdentifierCell\": \"A8\", \"scrapingDataStartCell\": \"A9\", \"dataset_identifier\": \"167\", \"distribution_identifier\": \"167.1\"}, {\"title\": \"impo_bs_scios\", \"type\": \"number\", \"description\": \"Importaciones de bienes y servicios. Anual\", \"id\": \"167.1_I_BS_SCIOS_2004_0_13\", \"scrapingIdentifierCell\": \"B8\", \"scrapingDataStartCell\": \"B9\", \"units\": \"Millones de Pesos\", \"dataset_identifier\": \"167\", \"distribution_identifier\": \"167.1\"}, {\"title\": \"expo_bs_scios\", \"type\": \"number\", \"description\": \"Exportaciones de bienes y servicios. Anual\", \"id\": \"167.1_E_BS_SCIOS_2004_0_13\", \"scrapingIdentifierCell\": \"C8\", \"scrapingDataStartCell\": \"C9\", \"units\": \"Millones de Pesos\", \"dataset_identifier\": \"167\", \"distribution_identifier\": \"167.1\"}, {\"title\": \"saldo_ext_bs_scios\", \"type\": \"number\", \"description\": \"Saldo Externo de bienes y servicios. Anual\", \"id\": \"167.1_SO_EXT_IOS_2004_0_18\", \"scrapingIdentifierCell\": \"D8\", \"scrapingDataStartCell\": \"D9\", \"units\": \"Millones de Pesos\", \"dataset_identifier\": \"167\", \"distribution_identifier\": \"167.1\"}, {\"title\": \"rentas_netas_fact_ext\", \"type\": \"number\", \"description\": \"Rentas Netas de Factores del Exterior. Anual\", \"id\": \"167.1_RAS_NETEXT_2004_0_21\", \"scrapingIdentifierCell\": \"E8\", \"scrapingDataStartCell\": \"E9\", \"units\": \"Millones de Pesos\", \"dataset_identifier\": \"167\", \"distribution_identifier\": \"167.1\"}, {\"title\": \"transf_corr_netas_ext\", \"type\": \"number\", \"description\": \"Transferencias Corrientes Netas del Exterior. Anual\", \"id\": \"167.1_TSF_COREXT_2004_0_21\", \"scrapingIdentifierCell\": \"F8\", \"scrapingDataStartCell\": \"F9\", \"units\": \"Millones de Pesos\", \"dataset_identifier\": \"167\", \"distribution_identifier\": \"167.1\"}, {\"title\": \"saldo_corr_ext\", \"type\": \"number\", \"description\": \"Saldo Corriente con el Exterior. Anual\", \"id\": \"167.1_SO_CORREXT_2004_0_14\", \"scrapingIdentifierCell\": \"G8\", \"scrapingDataStartCell\": \"G9\", \"units\": \"Millones de Pesos\", \"dataset_identifier\": \"167\", \"distribution_identifier\": \"167.1\"}, {\"title\": \"transf_cap_net\", \"type\": \"number\", \"description\": \"Transferencias de Capital Netas. Anual\", \"id\": \"167.1_TSF_CAPNET_2004_0_14\", \"scrapingIdentifierCell\": \"H8\", \"scrapingDataStartCell\": \"H9\", \"units\": \"Millones de Pesos\", \"dataset_identifier\": \"167\", \"distribution_identifier\": \"167.1\"}, {\"title\": \"adq_disp_activos_no_fcieros_no_ptivos\", \"type\": \"number\", \"description\": \"Adquisiciones menos Disposiciones de Activos no Financieros no Producidos. Anual\", \"id\": \"167.1_ADISP_AVOS_2004_0_37\", \"scrapingIdentifierCell\": \"I8\", \"scrapingDataStartCell\": \"I9\", \"units\": \"Millones de Pesos\", \"dataset_identifier\": \"167\", \"distribution_identifier\": \"167.1\"}, {\"title\": \"prest_endeudam_neto\", \"type\": \"number\", \"description\": \"Pr\\u00e9stamo / Endeudamiento Neto\", \"id\": \"167.1_PT_ENDEETO_2004_0_19\", \"scrapingIdentifierCell\": \"J8\", \"scrapingDataStartCell\": \"J9\", \"units\": \"Millones de Pesos\", \"dataset_identifier\": \"167\", \"distribution_identifier\": \"167.1\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-09-28T00:00:00",
+      "datastore_active": false,
+      "description": "Ahorro del resto del mundo. Base 2004. Anual",
+      "fileName": "ahorro-resto-mundo-base-2004.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "sspm_167.1",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Ahorro del resto del mundo. Base 2004",
+      "package_id": "sspm_167",
+      "position": 0,
+      "resource_type": null,
+      "revision_id": "15c6d193-e38c-4dd6-9fc0-9b8b810d8559",
+      "size": null,
+      "state": "active",
+      "url": "https://infra.datos.gob.ar/catalog/sspm/dataset/167/distribution/167.1/download/ahorro-resto-mundo-base-2004.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/",
+      "attributesDescription": "[{\"title\": \"indice_tiempo\", \"type\": \"date\", \"specialType\": \"time_index\", \"specialTypeDetail\": \"R/P3M\", \"id\": \"167.2_ICE_TIEMPO_2004_0_13\", \"scrapingIdentifierCell\": \"A49\", \"scrapingDataStartCell\": \"A50\", \"dataset_identifier\": \"167\", \"distribution_identifier\": \"167.2\"}, {\"title\": \"impo_bs_scios\", \"type\": \"number\", \"description\": \"Importaciones de bienes y servicios. Trimestral\", \"id\": \"167.2_I_BS_SCIOS_2004_0_13\", \"scrapingIdentifierCell\": \"B49\", \"scrapingDataStartCell\": \"B50\", \"units\": \"Millones de Pesos\", \"dataset_identifier\": \"167\", \"distribution_identifier\": \"167.2\"}, {\"title\": \"expo_bs_scios\", \"type\": \"number\", \"description\": \"Exportaciones de bienes y servicios. Trimestral\", \"id\": \"167.2_E_BS_SCIOS_2004_0_13\", \"scrapingIdentifierCell\": \"C49\", \"scrapingDataStartCell\": \"C50\", \"units\": \"Millones de Pesos\", \"dataset_identifier\": \"167\", \"distribution_identifier\": \"167.2\"}, {\"title\": \"saldo_ext_bs_scios\", \"type\": \"number\", \"description\": \"Saldo Externo de bienes y servicios. Trimestral\", \"id\": \"167.2_SO_EXT_IOS_2004_0_18\", \"scrapingIdentifierCell\": \"D49\", \"scrapingDataStartCell\": \"D50\", \"units\": \"Millones de Pesos\", \"dataset_identifier\": \"167\", \"distribution_identifier\": \"167.2\"}, {\"title\": \"rentas_netas_fact_ext\", \"type\": \"number\", \"description\": \"Rentas Netas de Factores del Exterior. Trimestral\", \"id\": \"167.2_RAS_NETEXT_2004_0_21\", \"scrapingIdentifierCell\": \"E49\", \"scrapingDataStartCell\": \"E50\", \"units\": \"Millones de Pesos\", \"dataset_identifier\": \"167\", \"distribution_identifier\": \"167.2\"}, {\"title\": \"transf_corr_netas_ext\", \"type\": \"number\", \"description\": \"Transferencias Corrientes Netas del Exterior. Trimestral\", \"id\": \"167.2_TSF_COREXT_2004_0_21\", \"scrapingIdentifierCell\": \"F49\", \"scrapingDataStartCell\": \"F50\", \"units\": \"Millones de Pesos\", \"dataset_identifier\": \"167\", \"distribution_identifier\": \"167.2\"}, {\"title\": \"saldo_corr_ext\", \"type\": \"number\", \"description\": \"Saldo Corriente con el Exterior. Trimestral\", \"id\": \"167.2_SO_CORREXT_2004_0_14\", \"scrapingIdentifierCell\": \"G49\", \"scrapingDataStartCell\": \"G50\", \"units\": \"Millones de Pesos\", \"dataset_identifier\": \"167\", \"distribution_identifier\": \"167.2\"}, {\"title\": \"transf_cap_net\", \"type\": \"number\", \"description\": \"Transferencias de Capital Netas. Trimestral\", \"id\": \"167.2_TSF_CAPNET_2004_0_14\", \"scrapingIdentifierCell\": \"H49\", \"scrapingDataStartCell\": \"H50\", \"units\": \"Millones de Pesos\", \"dataset_identifier\": \"167\", \"distribution_identifier\": \"167.2\"}, {\"title\": \"adq_disp_activos_no_fcieros_no_ptivos\", \"type\": \"number\", \"description\": \"Adquisiciones menos Disposiciones de Activos no Financieros no Producidos. Trimestral\", \"id\": \"167.2_ADISP_AVOS_2004_0_37\", \"scrapingIdentifierCell\": \"I49\", \"scrapingDataStartCell\": \"I50\", \"units\": \"Millones de Pesos\", \"dataset_identifier\": \"167\", \"distribution_identifier\": \"167.2\"}, {\"title\": \"prest_endeudam_neto\", \"type\": \"number\", \"description\": \"Pr\\u00e9stamo / Endeudamiento Neto\", \"id\": \"167.2_PT_ENDEETO_2004_0_19\", \"scrapingIdentifierCell\": \"J49\", \"scrapingDataStartCell\": \"J50\", \"units\": \"Millones de Pesos\", \"dataset_identifier\": \"167\", \"distribution_identifier\": \"167.2\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-09-28T00:00:00",
+      "datastore_active": false,
+      "description": "Ahorro del resto del mundo. Base 2004. Trimestral",
+      "fileName": "ahorro-resto-mundo-base-2004.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "sspm_167.2",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Ahorro del resto del mundo. Base 2004",
+      "package_id": "sspm_167",
+      "position": 1,
+      "resource_type": null,
+      "revision_id": "15c6d193-e38c-4dd6-9fc0-9b8b810d8559",
+      "size": null,
+      "state": "active",
+      "url": "https://infra.datos.gob.ar/catalog/sspm/dataset/167/distribution/167.2/download/ahorro-resto-mundo-base-2004.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "15c6d193-e38c-4dd6-9fc0-9b8b810d8559",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "Actividad",
+      "id": "a7695c51-c893-4ece-8ff9-306c197afdd7",
+      "name": "Actividad",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Información Económica al Día",
+      "id": "0d300a9a-0802-46c3-9a40-2f28ddf050ec",
+      "name": "Información Económica al Día",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Sector Externo",
+      "id": "7161d5c3-be73-43e4-91b8-447209c908f4",
+      "name": "Sector Externo",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Ahorro del resto del mundo. Base 2004",
+  "type": "dataset",
+  "url": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/",
+  "version": null
+}

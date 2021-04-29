@@ -1,0 +1,230 @@
+{
+  "author": "Subsecretaría de Mercados Agropecuarios",
+  "author_email": "sma@magyp.gob.ar",
+  "creator_user_id": "dc157489-51c6-44ce-bd63-3bd983d60778",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P1M"
+    },
+    {
+      "key": "issued",
+      "value": "2018-12-07T21:27:22.391699"
+    },
+    {
+      "key": "language",
+      "value": "[\"spa\"]"
+    },
+    {
+      "key": "modified",
+      "value": "2019-10-24T10:34:32.505300"
+    },
+    {
+      "key": "spatial",
+      "value": "[\"ARG\"]"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"AGRI\"]"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Agroganadería, pesca y forestación",
+      "display_name": "Agroganadería, pesca y forestación",
+      "id": "0c35ea38-7059-41d2-9827-5587769d0dc6",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225145.990789agroganaderia-pesca-forestacion.svg",
+      "name": "agri",
+      "title": "Agroganadería, pesca y forestación"
+    }
+  ],
+  "id": "agroindustria_f7188601-b25d-44c5-9330-d07d375e4b41",
+  "isopen": true,
+  "license_id": "CC-BY-4.0",
+  "license_title": "Creative Commons Attribution 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "maintainer": null,
+  "maintainer_email": null,
+  "metadata_created": "2019-12-04T21:13:12.266852",
+  "metadata_modified": "2021-04-29T17:11:14.616593",
+  "name": "agroindustria-algodon---semillas-destino-industrial",
+  "notes": "Utilización de la semilla de algodón luego del desmotado. La semilla de algodón resultante tiene varios destinos. uno de ellos es el ingreso a la industria aceitera donde se obtiene aceite y subproductos.",
+  "num_resources": 4,
+  "num_tags": 7,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:07.834957",
+    "description": "",
+    "id": "b10c94e2-ade1-4a97-8c4c-b1ada7878d60",
+    "image_url": "",
+    "is_organization": true,
+    "name": "agroindustria",
+    "revision_id": "f7c3b6e9-d48f-4522-9f7a-388d805c8392",
+    "state": "active",
+    "title": "Ministerio de Agricultura, Ganadería y Pesca",
+    "type": "organization"
+  },
+  "owner_org": "b10c94e2-ade1-4a97-8c4c-b1ada7878d60",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "http://datos.agroindustria.gob.ar/dataset/f7188601-b25d-44c5-9330-d07d375e4b41/resource/b807c73e-6fe2-417b-a16a-e41b64641157",
+      "attributesDescription": "[{\"type\": \"integer\", \"description\": \"cod_pais\", \"title\": \"cod_pais\"}, {\"type\": \"string\", \"description\": \"nom_pais\", \"title\": \"nom_pais\"}, {\"type\": \"integer\", \"description\": \"a\\u00f1o\", \"title\": \"a\\u00f1o\"}, {\"type\": \"string\", \"description\": \"producto\", \"title\": \"producto\"}, {\"type\": \"string\", \"description\": \"destino\", \"title\": \"destino\"}, {\"type\": \"string\", \"description\": \"unidad_id\", \"title\": \"unidad_id\"}, {\"type\": \"string\", \"description\": \"nom_unidad\", \"title\": \"nom_unidad\"}, {\"type\": \"integer\", \"description\": \"enero\", \"title\": \"enero\"}, {\"type\": \"integer\", \"description\": \"febrero\", \"title\": \"febrero\"}, {\"type\": \"integer\", \"description\": \"marzo\", \"title\": \"marzo\"}, {\"type\": \"integer\", \"description\": \"abril\", \"title\": \"abril\"}, {\"type\": \"integer\", \"description\": \"mayo\", \"title\": \"mayo\"}, {\"type\": \"integer\", \"description\": \"junio\", \"title\": \"junio\"}, {\"type\": \"integer\", \"description\": \"julio\", \"title\": \"julio\"}, {\"type\": \"integer\", \"description\": \"agosto\", \"title\": \"agosto\"}, {\"type\": \"integer\", \"description\": \"septiembre\", \"title\": \"septiembre\"}, {\"type\": \"integer\", \"description\": \"octubre\", \"title\": \"octubre\"}, {\"type\": \"integer\", \"description\": \"noviembre\", \"title\": \"noviembre\"}, {\"type\": \"integer\", \"description\": \"diciembre\", \"title\": \"diciembre\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2018-05-07T15:27:51.694014",
+      "datastore_active": false,
+      "description": "Semillas de algodón en toneladas que ingresan a la industria aceitera .\r\n \"0\" indica informado \"Sin Movimiento\".",
+      "fileName": "ingreso-de-semillas-de-algodon-a-la-industria-aceitera-1-.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "agroindustria_b807c73e-6fe2-417b-a16a-e41b64641157",
+      "last_modified": "2019-01-24T10:58:23.579812",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Ingreso de semillas de algodón a la industria aceitera",
+      "package_id": "agroindustria_f7188601-b25d-44c5-9330-d07d375e4b41",
+      "position": 0,
+      "resource_type": "file.upload",
+      "revision_id": "0b5e5fac-1391-4f1c-be55-f851d33706e3",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.agroindustria.gob.ar/dataset/f7188601-b25d-44c5-9330-d07d375e4b41/resource/b807c73e-6fe2-417b-a16a-e41b64641157/download/ingreso-de-semillas-de-algodon-a-la-industria-aceitera-1-.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos2.agroindustria.gob.ar/dataset/f7188601-b25d-44c5-9330-d07d375e4b41/archivo/fcf298eb-573b-4a85-bf88-78b36c90dd82",
+      "attributesDescription": "[{\"type\": \"integer\", \"description\": \"cod_pais\", \"title\": \"cod_pais\"}, {\"type\": \"string\", \"description\": \"nom_pais\", \"title\": \"nom_pais\"}, {\"type\": \"integer\", \"description\": \"a\\u00f1o\", \"title\": \"a\\u00f1o\"}, {\"type\": \"string\", \"description\": \"producto\", \"title\": \"producto\"}, {\"type\": \"string\", \"description\": \"cod_uni\", \"title\": \"cod_uni\"}, {\"type\": \"string\", \"description\": \"nom_uni\", \"title\": \"nom_uni\"}, {\"type\": \"integer\", \"description\": \"enero\", \"title\": \"enero\"}, {\"type\": \"integer\", \"description\": \"febrero\", \"title\": \"febrero\"}, {\"type\": \"integer\", \"description\": \"marzo\", \"title\": \"marzo\"}, {\"type\": \"integer\", \"description\": \"abril\", \"title\": \"abril\"}, {\"type\": \"integer\", \"description\": \"mayo\", \"title\": \"mayo\"}, {\"type\": \"integer\", \"description\": \"junio\", \"title\": \"junio\"}, {\"type\": \"integer\", \"description\": \"julio\", \"title\": \"julio\"}, {\"type\": \"integer\", \"description\": \"agosto\", \"title\": \"agosto\"}, {\"type\": \"integer\", \"description\": \"septiembre\", \"title\": \"septiembre\"}, {\"type\": \"integer\", \"description\": \"octubre\", \"title\": \"octubre\"}, {\"type\": \"integer\", \"description\": \"noviembre\", \"title\": \"noviembre\"}, {\"type\": \"integer\", \"description\": \"diciembre\", \"title\": \"diciembre\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2018-05-07T15:28:24.181833",
+      "datastore_active": false,
+      "description": "Detalle mensual de la producción de aceite de algodón en toneladas.\r\n \"0\" indica informado \"Sin Movimiento\".",
+      "fileName": "produccion-aceite-algodon.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "agroindustria_fcf298eb-573b-4a85-bf88-78b36c90dd82",
+      "last_modified": "2019-01-29T16:50:23.164053",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Producción de aceite de algodón",
+      "package_id": "agroindustria_f7188601-b25d-44c5-9330-d07d375e4b41",
+      "position": 1,
+      "resource_type": "file.upload",
+      "revision_id": "0b5e5fac-1391-4f1c-be55-f851d33706e3",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.agroindustria.gob.ar/dataset/f7188601-b25d-44c5-9330-d07d375e4b41/resource/fcf298eb-573b-4a85-bf88-78b36c90dd82/download/produccion-aceite-algodon.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos.agroindustria.gob.ar/dataset/f7188601-b25d-44c5-9330-d07d375e4b41/resource/3c847576-3ffa-4f0f-9cab-ce76aeff38ae",
+      "attributesDescription": "[{\"type\": \"integer\", \"description\": \"cod_pais\", \"title\": \"cod_pais\"}, {\"type\": \"string\", \"description\": \"nom_pais\", \"title\": \"nom_pais\"}, {\"type\": \"integer\", \"description\": \"a\\u00f1o\", \"title\": \"a\\u00f1o\"}, {\"type\": \"string\", \"description\": \"producto\", \"title\": \"producto\"}, {\"type\": \"string\", \"description\": \"unidad_id\", \"title\": \"unidad_id\"}, {\"type\": \"string\", \"description\": \"nom_unidad\", \"title\": \"nom_unidad\"}, {\"type\": \"integer\", \"description\": \"enero\", \"title\": \"enero\"}, {\"type\": \"integer\", \"description\": \"febrero\", \"title\": \"febrero\"}, {\"type\": \"integer\", \"description\": \"marzo\", \"title\": \"marzo\"}, {\"type\": \"integer\", \"description\": \"abril\", \"title\": \"abril\"}, {\"type\": \"integer\", \"description\": \"mayo\", \"title\": \"mayo\"}, {\"type\": \"integer\", \"description\": \"junio\", \"title\": \"junio\"}, {\"type\": \"integer\", \"description\": \"julio\", \"title\": \"julio\"}, {\"type\": \"integer\", \"description\": \"agosto\", \"title\": \"agosto\"}, {\"type\": \"integer\", \"description\": \"septiembre\", \"title\": \"septiembre\"}, {\"type\": \"integer\", \"description\": \"octubre\", \"title\": \"octubre\"}, {\"type\": \"integer\", \"description\": \"noviembre\", \"title\": \"noviembre\"}, {\"type\": \"integer\", \"description\": \"diciembre\", \"title\": \"diciembre\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2018-05-07T15:28:57.405755",
+      "datastore_active": false,
+      "description": "Detalle mensual de la producción de pellets de algodón en toneladas.\r\n \"0\" indica informado \"Sin Movimiento\".",
+      "fileName": "produccion-de-pellets-de-algodon-1-.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "agroindustria_3c847576-3ffa-4f0f-9cab-ce76aeff38ae",
+      "last_modified": "2019-01-24T11:38:50.744771",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Producción de pellets de algodón",
+      "package_id": "agroindustria_f7188601-b25d-44c5-9330-d07d375e4b41",
+      "position": 2,
+      "resource_type": "file.upload",
+      "revision_id": "eaf9c9b7-fc2d-44f5-b5a7-174ecc616c99",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.agroindustria.gob.ar/dataset/f7188601-b25d-44c5-9330-d07d375e4b41/resource/3c847576-3ffa-4f0f-9cab-ce76aeff38ae/download/produccion-pellets-algodon.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos.agroindustria.gob.ar/dataset/f7188601-b25d-44c5-9330-d07d375e4b41/resource/0128a612-22e8-4152-953b-64fb75986e2e",
+      "attributesDescription": "[{\"specialType\": \"time_index\", \"specialTypeDetail\": \"R/P1M\", \"type\": \"date\", \"title\": \"indice_tiempo\"}, {\"units\": \"toneladas\", \"id\": \"AGRO_0021\", \"type\": \"integer\", \"description\": \"Producci\\u00f3n de aceite de algod\\u00f3n\", \"title\": \"produccion_aceite_de_algodon\"}, {\"units\": \"toneladas\", \"id\": \"AGRO_0022\", \"type\": \"integer\", \"description\": \"Producci\\u00f3n de pellets de algod\\u00f3n\", \"title\": \"produccion_pellets_de_algodon\"}, {\"units\": \"tonaledas\", \"id\": \"AGRO_0023\", \"type\": \"integer\", \"description\": \"Ingreso de semillas de algod\\u00f3n con destino a la industriaaceitera\\n\", \"title\": \"ingreso_semillas_algodon_destino_industria_aceitera\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2018-12-20T19:21:08.763440",
+      "datastore_active": false,
+      "description": "Series de tiempo de las semillas de algodón ingresan a la industria aceitera y producción de algodón y pellets de algodón.",
+      "fileName": "serie-tiempo-algodon-destino-produccion.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "agroindustria_0128a612-22e8-4152-953b-64fb75986e2e",
+      "last_modified": "2019-09-11T09:32:50.339420",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Series de tiempo",
+      "package_id": "agroindustria_f7188601-b25d-44c5-9330-d07d375e4b41",
+      "position": 3,
+      "resource_type": "file.upload",
+      "revision_id": "eaf9c9b7-fc2d-44f5-b5a7-174ecc616c99",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.agroindustria.gob.ar/dataset/f7188601-b25d-44c5-9330-d07d375e4b41/resource/0128a612-22e8-4152-953b-64fb75986e2e/download/serie-tiempo-algodon-destino-produccion.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "ccb3d0f6-036e-4b64-8666-845b60eb7df2",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "aceite de algodón",
+      "id": "36dc23f0-b375-49a0-8792-995f17227d5f",
+      "name": "aceite de algodón",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "algodón",
+      "id": "9243d554-6d16-4fbe-80e3-4c80ad6e43e7",
+      "name": "algodón",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "desmotado",
+      "id": "9b98d110-1557-48ff-a94d-986ee9faf50e",
+      "name": "desmotado",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "extracción aceite",
+      "id": "5c9aae13-8cd8-499d-995a-534976ca329e",
+      "name": "extracción aceite",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "industria aceitera",
+      "id": "846315f4-50ab-42e2-8508-b4e91d9949ab",
+      "name": "industria aceitera",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "oleaginosas",
+      "id": "82272362-9b90-41d8-9215-aefa48c21b66",
+      "name": "oleaginosas",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "pellets",
+      "id": "c4731bb5-fa31-4e3c-825a-61d6e9b8dcaf",
+      "name": "pellets",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Algodón - semillas destino industrial",
+  "type": "dataset",
+  "url": "https://datos.agroindustria.gob.ar/dataset/semillas-algodon-con-destino-industria",
+  "version": null
+}

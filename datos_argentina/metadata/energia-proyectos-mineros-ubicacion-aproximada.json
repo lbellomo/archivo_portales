@@ -1,0 +1,155 @@
+{
+  "author": "Secretaría de Gobierno de Energía.Subsecretaría de Planeamiento Energético.Dirección Nacional de Información Energética.  ",
+  "author_email": "tienerg@energia.gob.ar",
+  "creator_user_id": "4720e75a-9e17-4dc3-879d-041917c7f9f9",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "eventual"
+    },
+    {
+      "key": "issued",
+      "value": "2019-04-16T18:53:17.874136"
+    },
+    {
+      "key": "modified",
+      "value": "2019-06-26T14:45:43.776758"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"ENER\"]"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Energía",
+      "display_name": "Energía",
+      "id": "a4d3f632-eb48-4163-9791-165989c16035",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225337.421630energia.svg",
+      "name": "ener",
+      "title": "Energía"
+    }
+  ],
+  "id": "energia_05ceffb0-98f3-462b-98f9-96d655f76cef",
+  "isopen": false,
+  "license_id": "notspecified",
+  "license_title": "No se especificó la licencia",
+  "maintainer": "Secretaría de Energía. Secretaría de Planeamiento Energético.Dirección Nacional de Información Energética.Tecnología de la Información.  ",
+  "maintainer_email": "tienerg@minem.gob.ar",
+  "metadata_created": "2019-11-26T14:59:26.527418",
+  "metadata_modified": "2021-04-29T17:17:50.831239",
+  "name": "energia-proyectos-mineros-ubicacion-aproximada",
+  "notes": "Ubicación de los proyectos mineros según tipo de mineral, estado de actividad, empresa operadora y provincia.",
+  "num_resources": 2,
+  "num_tags": 5,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:09.221510",
+    "description": "",
+    "id": "cd1b32a2-2d3a-44ac-8c98-a425a7b62d42",
+    "image_url": "",
+    "is_organization": true,
+    "name": "energia",
+    "revision_id": "a184cf69-99ad-4f84-a254-020031d7fe63",
+    "state": "active",
+    "title": "Secretaría de Energía",
+    "type": "organization"
+  },
+  "owner_org": "cd1b32a2-2d3a-44ac-8c98-a425a7b62d42",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "http://datos.minem.gob.ar/dataset/05ceffb0-98f3-462b-98f9-96d655f76cef/resource/14ae10ff-8750-4019-b837-ba34778f8d23",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-08-30T15:38:11.256386",
+      "datastore_active": false,
+      "description": "Archivos prj, shp, shx, dbf, xml. Sistema de Proyección EPSG:4326",
+      "fileName": "proyectos-mineros-ubicacin-aproximada-.zip",
+      "format": "SHP",
+      "hash": "",
+      "id": "energia_14ae10ff-8750-4019-b837-ba34778f8d23",
+      "last_modified": "2020-11-15T07:01:24.300505",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Proyectos Mineros (Ubicación aproximada)",
+      "package_id": "energia_05ceffb0-98f3-462b-98f9-96d655f76cef",
+      "position": 0,
+      "resource_type": null,
+      "revision_id": "20ac5d4b-7799-4463-a1df-cd2a865fea99",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.minem.gob.ar/dataset/05ceffb0-98f3-462b-98f9-96d655f76cef/resource/14ae10ff-8750-4019-b837-ba34778f8d23/download/proyectos-mineros-ubicacin-aproximada-.zip",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos.minem.gob.ar/dataset/05ceffb0-98f3-462b-98f9-96d655f76cef/resource/0c8317ac-eacb-4826-b7e7-8f0a15a62ac1",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-09-05T13:09:35.170197",
+      "datastore_active": false,
+      "description": "Proyectos Mineros",
+      "fileName": "proyectos-mineros-ubicacin-aproximada-.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "energia_0c8317ac-eacb-4826-b7e7-8f0a15a62ac1",
+      "last_modified": "2020-11-15T07:01:19.641446",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Proyectos Mineros (Ubicación aproximada)",
+      "package_id": "energia_05ceffb0-98f3-462b-98f9-96d655f76cef",
+      "position": 1,
+      "resource_type": "file",
+      "revision_id": "20ac5d4b-7799-4463-a1df-cd2a865fea99",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.minem.gob.ar/dataset/05ceffb0-98f3-462b-98f9-96d655f76cef/resource/0c8317ac-eacb-4826-b7e7-8f0a15a62ac1/download/proyectos-mineros-ubicacin-aproximada-.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "f3d109cc-d369-46b8-bc14-93352c2309eb",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "Geología",
+      "id": "76ee66e8-1ba7-43ed-a6de-9bd06784ddd5",
+      "name": "Geología",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Información Geográfica",
+      "id": "d22bc8a4-252e-4fd8-89b2-3b9a08f6be42",
+      "name": "Información Geográfica",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Información geográfica",
+      "id": "24b3ee69-69cb-45de-a8b4-3566f4eab17c",
+      "name": "Información geográfica",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Minería",
+      "id": "4688f00a-f28f-45cd-96bb-8c9b5ba316be",
+      "name": "Minería",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Yacimientos minerales",
+      "id": "8eeb0cf4-e548-4e41-840a-d80fc7da5de5",
+      "name": "Yacimientos minerales",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Proyectos Mineros (Ubicación aproximada)",
+  "type": "dataset",
+  "url": "http://datos.minem.gob.ar/dataset/",
+  "version": null
+}

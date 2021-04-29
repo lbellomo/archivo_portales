@@ -1,0 +1,261 @@
+{
+  "author": "Ministerio de Salud. Área de Seguimiento y Evaluación",
+  "author_email": "evaluacion@medicamentos.msal.gob.ar",
+  "creator_user_id": "4720e75a-9e17-4dc3-879d-041917c7f9f9",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P6M"
+    },
+    {
+      "key": "issued",
+      "value": "2018-06-12T13:36:00.885502"
+    },
+    {
+      "key": "language",
+      "value": "[\"spa\"]"
+    },
+    {
+      "key": "modified",
+      "value": "2020-05-15T16:04:27.954833"
+    },
+    {
+      "key": "source",
+      "value": "Ministerio de Salud. Área de Seguimiento y Evaluación"
+    },
+    {
+      "key": "spatial",
+      "value": "[\"ARG\"]"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"HEAL\"]"
+    },
+    {
+      "key": "temporal",
+      "value": "2003-01-01T03:00:00.000Z/2017-12-31T03:00:00.000Z"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Salud",
+      "display_name": "Salud",
+      "id": "65cc1fbf-703a-43bf-8a14-232a55c34976",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225809.913196salud.svg",
+      "name": "heal",
+      "title": "Salud"
+    }
+  ],
+  "id": "salud_5fcacd04-58eb-4b43-89a0-55231c58f1b4",
+  "isopen": false,
+  "license_id": "notspecified",
+  "license_title": "No se especificó la licencia",
+  "maintainer": "Ministerio de Salud. Área de Seguimiento y Evaluación",
+  "maintainer_email": "evaluacion@medicamentos.msal.gob.ar",
+  "metadata_created": "2019-11-26T15:01:42.134337",
+  "metadata_modified": "2021-04-29T17:05:38.088364",
+  "name": "salud-consultas-medicamentos-esenciales",
+  "notes": "Total de consultas médicas y odontológicas realizadas en el mes informado en cada Centro de Salud del Primer Nivel, se hayan o no prescripto medicamentos de la coordinación de medicamentos esenciales. No se suman consultas de enfermería, kinesiología, psicología, etc. (Porque no se prescriben medicamentos)",
+  "num_resources": 6,
+  "num_tags": 4,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-11-15T11:12:22.202856",
+    "description": "",
+    "id": "dd1f2018-587f-43af-9b07-fc32f5ab588b",
+    "image_url": "",
+    "is_organization": true,
+    "name": "salud",
+    "revision_id": "14f0bb85-f97d-4325-b1c8-a7c1d3a815bf",
+    "state": "active",
+    "title": "Ministerio de Salud",
+    "type": "organization"
+  },
+  "owner_org": "dd1f2018-587f-43af-9b07-fc32f5ab588b",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "http://datos.salud.gob.ar/dataset/5fcacd04-58eb-4b43-89a0-55231c58f1b4/resource/ed9e418f-9858-44df-8ce7-a74fde738684",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2018-06-12T13:37:20.125612",
+      "datastore_active": false,
+      "description": "Total de consultas médicas y odontológicas realizadas en el mes informado en cada Centro de Salud del Primer Nivel, se hayan o no prescripto medicamentos de la coordinación de medicamentos esenciales.",
+      "fileName": "consultas-medicamentos-esenciales.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "salud_ed9e418f-9858-44df-8ce7-a74fde738684",
+      "last_modified": "2019-07-22T10:25:09.039093",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Consultas medicamentos esenciales 2003-2007",
+      "package_id": "salud_5fcacd04-58eb-4b43-89a0-55231c58f1b4",
+      "position": 0,
+      "resource_type": "file",
+      "revision_id": "34783fda-8ff7-49e3-b6ab-39782628f355",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.salud.gob.ar/dataset/5fcacd04-58eb-4b43-89a0-55231c58f1b4/resource/ed9e418f-9858-44df-8ce7-a74fde738684/download/consultas-medicamentos-esenciales.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos.salud.gob.ar/dataset/5fcacd04-58eb-4b43-89a0-55231c58f1b4/resource/2e1c2f44-4082-4449-955d-95d921ac61d9",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-01-11T10:11:05.561885",
+      "datastore_active": false,
+      "description": "Total de consultas médicas y odontológicas realizadas en el mes informado en cada Centro de Salud del Primer Nivel, se hayan o no prescripto medicamentos de la coordinación de medicamentos esenciales.",
+      "fileName": "serie-historica-de-cantidad-de-consultas-de-medicamentos-esenciales-2003-2018.xls",
+      "format": "XLS",
+      "hash": "",
+      "id": "salud_2e1c2f44-4082-4449-955d-95d921ac61d9",
+      "last_modified": "2019-01-11T10:11:05.460931",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Serie histórica de cantidad de consultas de medicamentos esenciales 2003-2018",
+      "package_id": "salud_5fcacd04-58eb-4b43-89a0-55231c58f1b4",
+      "position": 1,
+      "resource_type": null,
+      "revision_id": "34783fda-8ff7-49e3-b6ab-39782628f355",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.salud.gob.ar/dataset/5fcacd04-58eb-4b43-89a0-55231c58f1b4/resource/2e1c2f44-4082-4449-955d-95d921ac61d9/download/serie-historica-de-cantidad-de-consultas-de-medicamentos-esenciales-2003-2018.xls",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos.salud.gob.ar/dataset/5fcacd04-58eb-4b43-89a0-55231c58f1b4/resource/a39e25b6-dc69-4c7e-858e-3caf2f4f610a",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-01-11T10:12:01.792620",
+      "datastore_active": false,
+      "description": "Total de consultas médicas y odontológicas realizadas en el mes informado en cada Centro de Salud del Primer Nivel, se hayan o no prescripto medicamentos de la coordinación de medicamentos esenciales.",
+      "fileName": "serie-historica-de-cantidad-de-consultas-de-medicamentos-esenciales-2003-2018.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "salud_a39e25b6-dc69-4c7e-858e-3caf2f4f610a",
+      "last_modified": "2019-01-11T10:12:01.737000",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Serie histórica de cantidad de consultas de medicamentos esenciales 2003-2018",
+      "package_id": "salud_5fcacd04-58eb-4b43-89a0-55231c58f1b4",
+      "position": 2,
+      "resource_type": null,
+      "revision_id": "235f94cb-11d1-45e7-98da-ab93481d923d",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.salud.gob.ar/dataset/5fcacd04-58eb-4b43-89a0-55231c58f1b4/resource/a39e25b6-dc69-4c7e-858e-3caf2f4f610a/download/serie-historica-de-cantidad-de-consultas-de-medicamentos-esenciales-2003-2018.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos.salud.gob.ar/dataset/5fcacd04-58eb-4b43-89a0-55231c58f1b4/resource/0914967e-8597-4839-b30e-82a423315523",
+      "attributesDescription": "[{\"description\": \"Per\\u00edodo de tiempo analizado\", \"specialTypeDetail\": \"R/P1Y\", \"title\": \"indice_tiempo\", \"specialType\": \"time_index\", \"type\": \"date\", \"id\": \"salud_consultas_cus_0001\"}, {\"units\": \"cantidad\", \"id\": \"cus_cons_02\", \"type\": \"integer\", \"description\": \"CUS. Cantidad de consultas m\\u00e9dicas y odontol\\u00f3gicas para la Ciudad de Buenos Aires \", \"title\": \"caba_consultas_medicas_odonto\"}, {\"units\": \"cantidad\", \"id\": \"cus_cons_06\", \"type\": \"integer\", \"description\": \"CUS. Cantidad de consultas m\\u00e9dicas y odontol\\u00f3gicas para la Jurisdicci\\u00f3n de Buenos Aires\", \"title\": \"buenos_aires_consultas_medicas_odon\"}, {\"units\": \"cantidad\", \"id\": \"cus_cons_10\", \"type\": \"integer\", \"description\": \"CUS. Cantidad de consultas m\\u00e9dicas y odontol\\u00f3gicas para la Jurisdicci\\u00f3n de Catamarca\", \"title\": \"catamarca_consultas_medicas_odonto\"}, {\"units\": \"cantidad\", \"id\": \"cus_cons_14\", \"type\": \"integer\", \"description\": \"CUS. Cantidad de consultas m\\u00e9dicas y odontol\\u00f3gicas para la Jurisdicci\\u00f3n de C\\u00f3rdoba\", \"title\": \"cordoba_consultas_medicas_odonto\"}, {\"units\": \"cantidad\", \"id\": \"cus_cons_18\", \"type\": \"integer\", \"description\": \"CUS. Cantidad de consultas m\\u00e9dicas y odontol\\u00f3gicas para la Jurisdicci\\u00f3n de Corrientes\", \"title\": \"corrientes_consultas_medicas_odonto\"}, {\"units\": \"cantidad\", \"id\": \"cus_cons_22\", \"type\": \"integer\", \"description\": \"CUS. Cantidad de consultas m\\u00e9dicas y odontol\\u00f3gicas para la Jurisdicci\\u00f3n de Chaco\", \"title\": \"chaco_consultas_medicas_odonto\"}, {\"units\": \"cantidad\", \"id\": \"cus_cons_26\", \"type\": \"integer\", \"description\": \"CUS. Cantidad de consultas m\\u00e9dicas y odontol\\u00f3gicas para la Jurisdicci\\u00f3n de Chubut\", \"title\": \"chubut_consultas_medicas_odonto\"}, {\"units\": \"cantidad\", \"id\": \"cus_cons_30\", \"type\": \"integer\", \"description\": \"CUS. Cantidad de consultas m\\u00e9dicas y odontol\\u00f3gicas para la Jurisdicci\\u00f3n de Entre R\\u00edos\", \"title\": \"entre_rios_consultas_medicas_odonto\"}, {\"units\": \"cantidad\", \"id\": \"cus_cons_34\", \"type\": \"integer\", \"description\": \"CUS. Cantidad de consultas m\\u00e9dicas y odontol\\u00f3gicas para la Jurisdicci\\u00f3n de Formosa\", \"title\": \"formosa_consultas_medicas_odonto\"}, {\"units\": \"cantidad\", \"id\": \"cus_cons_38\", \"type\": \"integer\", \"description\": \"CUS. Cantidad de consultas m\\u00e9dicas y odontol\\u00f3gicas para la Jurisdicci\\u00f3n de Jujuy\", \"title\": \"jujuy_consultas_medicas_odonto\"}, {\"units\": \"cantidad\", \"id\": \"cus_cons_42\", \"type\": \"integer\", \"description\": \"CUS. Cantidad de consultas m\\u00e9dicas y odontol\\u00f3gicas para la Jurisdicci\\u00f3n de La Pampa\", \"title\": \"la_pampa_consultas_medicas_odonto\"}, {\"units\": \"cantidad\", \"id\": \"cus_cons_46\", \"type\": \"integer\", \"description\": \"CUS. Cantidad de consultas m\\u00e9dicas y odontol\\u00f3gicas para la Jurisdicci\\u00f3n de La Rioja\", \"title\": \"la_rioja_consultas_medicas_odonto\"}, {\"units\": \"cantidad\", \"id\": \"cus_cons_50\", \"type\": \"integer\", \"description\": \"CUS. Cantidad de consultas m\\u00e9dicas y odontol\\u00f3gicas para la Jurisdicci\\u00f3n de Mendoza\", \"title\": \"mendoza_consultas_medicas_odonto\"}, {\"units\": \"cantidad\", \"id\": \"cus_cons_54\", \"type\": \"integer\", \"description\": \"CUS. Cantidad de consultas m\\u00e9dicas y odontol\\u00f3gicas para la Jurisdicci\\u00f3n de Misiones\", \"title\": \"misiones_consultas_medicas_odonto\"}, {\"units\": \"cantidad\", \"id\": \"cus_cons_58\", \"type\": \"integer\", \"description\": \"CUS. Cantidad de consultas m\\u00e9dicas y odontol\\u00f3gicas para la Jurisdicci\\u00f3n de Neuquen\", \"title\": \"neuquen_consultas_medicas_odonto\"}, {\"units\": \"cantidad\", \"id\": \"cus_cons_62\", \"type\": \"integer\", \"description\": \"CUS. Cantidad de consultas m\\u00e9dicas y odontol\\u00f3gicas para la Jurisdicci\\u00f3n de R\\u00edo Negro\", \"title\": \"rio_negro_consultas_medicas_odonto\"}, {\"units\": \"cantidad\", \"id\": \"cus_cons_66\", \"type\": \"integer\", \"description\": \"CUS. Cantidad de consultas m\\u00e9dicas y odontol\\u00f3gicas para la Jurisdicci\\u00f3n de Salta\", \"title\": \"salta_consultas_medicas_odonto\"}, {\"units\": \"cantidad\", \"id\": \"cus_cons_70\", \"type\": \"integer\", \"description\": \"CUS. Cantidad de consultas m\\u00e9dicas y odontol\\u00f3gicas para la Jurisdicci\\u00f3n de San Juan\", \"title\": \"san_juan_consultas_medicas_odonto\"}, {\"units\": \"cantidad\", \"id\": \"cus_cons_74\", \"type\": \"integer\", \"description\": \"CUS. Cantidad de consultas m\\u00e9dicas y odontol\\u00f3gicas para la Jurisdicci\\u00f3n de San Luis\", \"title\": \"san_luis_consultas_medicas_odonto\"}, {\"units\": \"cantidad\", \"id\": \"cus_cons_78\", \"type\": \"integer\", \"description\": \"CUS. Cantidad de consultas m\\u00e9dicas y odontol\\u00f3gicas para la Jurisdicci\\u00f3n de Santa Cruz\", \"title\": \"santa_cruz_consultas_medicas_odonto\"}, {\"units\": \"cantidad\", \"id\": \"cus_cons_82\", \"type\": \"integer\", \"description\": \"CUS. Cantidad de consultas m\\u00e9dicas y odontol\\u00f3gicas para la Jurisdicci\\u00f3n de Santa Fe\", \"title\": \"santa_fe_consultas_medicas_odonto\"}, {\"units\": \"cantidad\", \"id\": \"cus_cons_86\", \"type\": \"integer\", \"description\": \"CUS. Cantidad de consultas m\\u00e9dicas y odontol\\u00f3gicas para la Jurisdicci\\u00f3n de Santiago del Estero\", \"title\": \"santiago_del_estero_consultas_medic\"}, {\"units\": \"cantidad\", \"id\": \"cus_cons_90\", \"type\": \"integer\", \"description\": \"CUS. Cantidad de consultas m\\u00e9dicas y odontol\\u00f3gicas para la Jurisdicci\\u00f3n de Tucum\\u00e1n\", \"title\": \"tucuman_consultas_medicas_odonto\"}, {\"units\": \"cantidad\", \"id\": \"cus_cons_94\", \"type\": \"integer\", \"description\": \"CUS. Cantidad de consultas m\\u00e9dicas y odontol\\u00f3gicas para la Jurisdicci\\u00f3n de Tierra del Fuego\", \"title\": \"tdf_consultas_medicas_odonto\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-07-22T10:23:31.284690",
+      "datastore_active": false,
+      "description": "Total de consultas médicas y odontológicas realizadas en cada Centro de Salud del Primer Nivel, se hayan o no prescripto medicamentos de la coordinación de medicamentos esenciales. Período 2003-2020.",
+      "fileName": "consultas-medicamentos-esenciales-2003-2020.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "salud_0914967e-8597-4839-b30e-82a423315523",
+      "last_modified": "2020-09-01T02:59:07.977870",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "CUS. Cantidad de consultas médicas y odontológicas",
+      "package_id": "salud_5fcacd04-58eb-4b43-89a0-55231c58f1b4",
+      "position": 3,
+      "resource_type": "file.upload",
+      "revision_id": "dde4fcf9-27cd-4fa3-b265-60e1fdddcc65",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.salud.gob.ar/dataset/5fcacd04-58eb-4b43-89a0-55231c58f1b4/resource/0914967e-8597-4839-b30e-82a423315523/download/consultas-medicamentos-esenciales-2003-2020.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos.salud.gob.ar/dataset/5fcacd04-58eb-4b43-89a0-55231c58f1b4/resource/ca51cb59-be6a-41cb-9cf1-bf6d77191031",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-07-22T10:51:56.321970",
+      "datastore_active": false,
+      "description": "Total de consultas médicas y odontológicas realizadas en cada Centro de Salud del Primer Nivel, se hayan o no prescripto medicamentos de la coordinación de medicamentos esenciales. Período 2003-2019.",
+      "fileName": "consultas-medicamentos-esenciales-2003-2019.xls",
+      "format": "XLS",
+      "hash": "",
+      "id": "salud_ca51cb59-be6a-41cb-9cf1-bf6d77191031",
+      "last_modified": "2019-08-13T09:52:07.853387",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Consultas medicamentos esenciales - Período 2003-2019",
+      "package_id": "salud_5fcacd04-58eb-4b43-89a0-55231c58f1b4",
+      "position": 4,
+      "resource_type": "file.upload",
+      "revision_id": "5a30331d-42cc-48e1-a5aa-06c2efe30c35",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.salud.gob.ar/dataset/5fcacd04-58eb-4b43-89a0-55231c58f1b4/resource/ca51cb59-be6a-41cb-9cf1-bf6d77191031/download/consultas-medicamentos-esenciales-2003-2019.xls",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos.salud.gob.ar/dataset/5fcacd04-58eb-4b43-89a0-55231c58f1b4/resource/84d585ab-c340-4879-af7a-476951000047",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-07-22T10:53:42.538928",
+      "datastore_active": false,
+      "description": "Total de consultas médicas y odontológicas realizadas en cada Centro de Salud del Primer Nivel, se hayan o no prescripto medicamentos de la coordinación de medicamentos esenciales. Período 2003-2019.",
+      "fileName": "consultas-medicamentos-escenciales-2003-2019.json",
+      "format": "JSON",
+      "hash": "",
+      "id": "salud_84d585ab-c340-4879-af7a-476951000047",
+      "last_modified": "2020-01-24T14:27:24.184780",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Consultas medicamentos esenciales - Período 2003-2019",
+      "package_id": "salud_5fcacd04-58eb-4b43-89a0-55231c58f1b4",
+      "position": 5,
+      "resource_type": "file.upload",
+      "revision_id": "55185e5d-e4b1-4235-a64a-23eb354304fa",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.salud.gob.ar/dataset/5fcacd04-58eb-4b43-89a0-55231c58f1b4/resource/84d585ab-c340-4879-af7a-476951000047/download/consultas-medicamentos-escenciales-2003-2019.json",
+      "url_type": null
+    }
+  ],
+  "revision_id": "5f637357-bf91-4af5-87ab-ffa77b025bb4",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "CUS",
+      "id": "f574d033-6a14-43da-bab5-9f79233efbc0",
+      "name": "CUS",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Vademecum y Medicamentos",
+      "id": "c65b8016-8fa2-425d-8c57-039898f8f677",
+      "name": "Vademecum y Medicamentos",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "consultas",
+      "id": "e7147ac7-0edc-45aa-a1ef-dcb9b6840072",
+      "name": "consultas",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "medicas",
+      "id": "950c5bb0-306d-44c2-aa62-d0399da13239",
+      "name": "medicas",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Consultas medicamentos esenciales",
+  "type": "dataset",
+  "url": "http://msal.gov.ar/medicamentos/",
+  "version": null
+}

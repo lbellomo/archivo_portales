@@ -1,0 +1,222 @@
+{
+  "author": "Servicio Nacional de Sanidad y Calidad Agroalimentaria",
+  "author_email": "desycg@senasa.gob.ar",
+  "creator_user_id": "dc157489-51c6-44ce-bd63-3bd983d60778",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P1M"
+    },
+    {
+      "key": "issued",
+      "value": "2019-09-23T15:47:24.572121"
+    },
+    {
+      "key": "language",
+      "value": "[\"spa\"]"
+    },
+    {
+      "key": "modified",
+      "value": "2019-12-04T16:16:08.815084"
+    },
+    {
+      "key": "source",
+      "value": "Servicio Nacional de Sanidad y Calidad Agroalimentaria - SENASA"
+    },
+    {
+      "key": "spatial",
+      "value": "[\"ARG\"]"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"AGRI\"]"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Agroganadería, pesca y forestación",
+      "display_name": "Agroganadería, pesca y forestación",
+      "id": "0c35ea38-7059-41d2-9827-5587769d0dc6",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225145.990789agroganaderia-pesca-forestacion.svg",
+      "name": "agri",
+      "title": "Agroganadería, pesca y forestación"
+    }
+  ],
+  "id": "agroindustria_e0b0f7b1-0f9d-4fd6-bed7-614312d62a91",
+  "isopen": true,
+  "license_id": "CC-BY-4.0",
+  "license_title": "Creative Commons Attribution 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "maintainer": "Dirección Nacional de Sanidad Animal",
+  "maintainer_email": "desycg@senasa.gob.ar",
+  "metadata_created": "2019-12-12T19:46:43.410023",
+  "metadata_modified": "2021-04-29T17:06:55.308437",
+  "name": "agroindustria-senasa---movimientos-piscicola",
+  "notes": "Datos mensuales de los movimientos de la especie piscícola detallando provincia y departamento de origen y destino.",
+  "num_resources": 1,
+  "num_tags": 16,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:07.834957",
+    "description": "",
+    "id": "b10c94e2-ade1-4a97-8c4c-b1ada7878d60",
+    "image_url": "",
+    "is_organization": true,
+    "name": "agroindustria",
+    "revision_id": "f7c3b6e9-d48f-4522-9f7a-388d805c8392",
+    "state": "active",
+    "title": "Ministerio de Agricultura, Ganadería y Pesca",
+    "type": "organization"
+  },
+  "owner_org": "b10c94e2-ade1-4a97-8c4c-b1ada7878d60",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "http://datos.agroindustria.gob.ar/dataset/e0b0f7b1-0f9d-4fd6-bed7-614312d62a91/resource/6fd536b9-aab2-40a7-a8fc-c28498574924",
+      "attributesDescription": "[{\"type\": \"date\", \"title\": \"fecha\"}, {\"type\": \"string\", \"description\": \"Lugar del que sale. \", \"title\": \"salido_de\"}, {\"type\": \"string\", \"description\": \"Lugar al que ingresa. \", \"title\": \"ingresado_a\"}, {\"type\": \"string\", \"description\": \"Nombre de la provincia de origen. \", \"title\": \"provincia_origen\"}, {\"type\": \"integer\", \"description\": \"C\\u00f3digo de la provincia de origen. \", \"title\": \"provincia_origen_id\"}, {\"type\": \"string\", \"description\": \"Nombre de la provincia de destino. \", \"title\": \"provincia_destino\"}, {\"type\": \"integer\", \"description\": \"C\\u00f3digo de la provincia de destino. \", \"title\": \"provincia_destino_id\"}, {\"type\": \"integer\", \"description\": \"Cantidad de trucha y salm\\u00f3n alevino.\", \"title\": \"trucha_salmon_alevino\"}, {\"type\": \"integer\", \"description\": \"Cantidad de trucha y salmon adulto\", \"title\": \"trucha_salmon_adulto\"}, {\"type\": \"integer\", \"description\": \"Cantidad de pac\\u00fa alevino.\\n\", \"title\": \"pacu_alevino\"}, {\"type\": \"integer\", \"description\": \"Cantidad de pac\\u00fa adulto.\\n\", \"title\": \"pacu_adulto\"}, {\"type\": \"integer\", \"description\": \"Cantidad de gato alevino\\n\", \"title\": \"gato_alevino\"}, {\"type\": \"integer\", \"description\": \"Cantidad de gato adulto.\", \"title\": \"gato_adulto\"}, {\"type\": \"integer\", \"description\": \"Cantidad de surub\\u00ed alevino.\\n\", \"title\": \"surubi_alevino\"}, {\"type\": \"integer\", \"description\": \"Cantidad de surub\\u00ed adulto.\\n\", \"title\": \"surubi_adulto\"}, {\"type\": \"integer\", \"description\": \"Cantidad de tilapia alevina.\\n\", \"title\": \"tilapia_alevina\"}, {\"type\": \"integer\", \"description\": \"Cantidad de tilapia adulta.\\n\", \"title\": \"tilapia_adulta\"}, {\"type\": \"integer\", \"description\": \"Cantidad de pejerrey alevino.\\n\", \"title\": \"pejerrey_alevino\"}, {\"type\": \"integer\", \"description\": \"Cantidad de pejerrey adulto.\\n\", \"title\": \"pejerrey_adulto\"}, {\"type\": \"integer\", \"description\": \"Cantidad de esturi\\u00f3n alevino.\", \"title\": \"esturion_alevino\"}, {\"type\": \"integer\", \"description\": \"Cantidad de esturi\\u00f3n adulto.\\n\", \"title\": \"esturion_adulto\"}, {\"type\": \"integer\", \"description\": \"Cantidad de boga.\\n\", \"title\": \"boga\"}, {\"type\": \"integer\", \"description\": \"Cantidad de salm\\u00f3n de r\\u00edo.\\n\", \"title\": \"salmon_rio\"}, {\"type\": \"integer\", \"description\": \"Cantidad de dorados.\\n\", \"title\": \"dorado\"}, {\"type\": \"integer\", \"description\": \"Cantidad de s\\u00e1balos. \\n\", \"title\": \"sabalo\"}, {\"type\": \"integer\", \"description\": \"Cantidad de ovas.\\n\", \"title\": \"ovas\"}, {\"type\": \"integer\", \"description\": \"Cantidad de alevinos.\\n\", \"title\": \"alevinos\"}, {\"type\": \"integer\", \"description\": \"Cantidad de adultos para engorde.\\n\", \"title\": \"adultos_engorde\"}, {\"type\": \"integer\", \"description\": \"Cantidad de adultos para reproducci\\u00f3n.\", \"title\": \"adultos_reproduccion\"}, {\"type\": \"integer\", \"description\": \"Cantidad de peces ornamentales.\\n\", \"title\": \"peces_ornamentales\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-09-27T15:59:03.472071",
+      "datastore_active": false,
+      "description": "Datos de los movimientos piscícola por categoría y mes para el periodo 2013 a 2018.",
+      "fileName": "movimiento-pisicola-provincia-2013-2018.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "agroindustria_6fd536b9-aab2-40a7-a8fc-c28498574924",
+      "last_modified": "2019-12-04T16:14:59.256759",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Movimientos piscícola 2013 a 2018",
+      "package_id": "agroindustria_e0b0f7b1-0f9d-4fd6-bed7-614312d62a91",
+      "position": 0,
+      "resource_type": "file.upload",
+      "revision_id": "9f46d465-9547-4b84-b193-54e7e88f3d62",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.agroindustria.gob.ar/dataset/e0b0f7b1-0f9d-4fd6-bed7-614312d62a91/resource/6fd536b9-aab2-40a7-a8fc-c28498574924/download/movimiento-pisicola-provincia-2013-2018.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "ec90e2e7-e1ab-431a-97d8-d3b0a89b3993",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "alevino",
+      "id": "ed37818a-f167-4e84-bc3f-6ed2348ffee0",
+      "name": "alevino",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "boga",
+      "id": "40dba0db-6b8a-4b07-83b8-23db071d76e0",
+      "name": "boga",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "dorado",
+      "id": "ba4602c2-0ad8-4798-9e9d-8ec7e6541780",
+      "name": "dorado",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "esturion",
+      "id": "4e372f68-5536-4ea5-a225-35dd8dd93868",
+      "name": "esturion",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "movimiento ganadero",
+      "id": "5d3fb22d-977e-4fc3-ac41-277f36a967a1",
+      "name": "movimiento ganadero",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "ovas",
+      "id": "55ddbe30-bbfd-40a3-8b05-8aa1973913b2",
+      "name": "ovas",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "pacu",
+      "id": "380df357-59ec-4904-b2c9-2d07da5be9e4",
+      "name": "pacu",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "pece ornamental",
+      "id": "19f60ed5-e82a-4434-a051-73a65447665c",
+      "name": "pece ornamental",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "peces",
+      "id": "8cb8715f-f41c-42b5-854f-36a560e4e9a8",
+      "name": "peces",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "pejerrey",
+      "id": "07a109c8-5b1f-4dff-94ea-02ece4526c20",
+      "name": "pejerrey",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "piscícola",
+      "id": "f667b1f1-9c91-4163-b399-16b97cbf854d",
+      "name": "piscícola",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "sabalo",
+      "id": "d2935bb1-4119-4e16-ac3e-8f6ee76a860e",
+      "name": "sabalo",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "salmon",
+      "id": "f619241b-989f-479a-8ff0-ca32e8058999",
+      "name": "salmon",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "surubi",
+      "id": "84871771-356e-4de2-9e5b-0174a8b5a932",
+      "name": "surubi",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "tilapia",
+      "id": "3050302d-4f43-4684-a1d9-81009854cef1",
+      "name": "tilapia",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "trucha",
+      "id": "d61d905d-1acf-4aeb-a58d-3bdf3733ae0e",
+      "name": "trucha",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "SENASA - Movimientos piscícola",
+  "type": "dataset",
+  "url": "https://datos.agroindustria.gob.ar/dataset/senasa-movimientos-piscicola",
+  "version": null
+}

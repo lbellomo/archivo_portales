@@ -1,0 +1,200 @@
+{
+  "author": "Secretaría de Gobierno de Ambiente y Desarrollo Sustentable. Dirección de Innovación para el Desarrollo Sustentable.",
+  "author_email": "pzalzman@ambiente.gob.ar",
+  "creator_user_id": "4720e75a-9e17-4dc3-879d-041917c7f9f9",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P1Y"
+    },
+    {
+      "key": "issued",
+      "value": "2017-09-05T17:29:49.678627"
+    },
+    {
+      "key": "language",
+      "value": "[\"spa\"]"
+    },
+    {
+      "key": "modified",
+      "value": "2019-08-20T15:23:47.059256"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"ENVI\"]"
+    },
+    {
+      "key": "temporal",
+      "value": "2016-08-11T03:00:00.000Z/2017-08-18T03:00:00.000Z"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Medio ambiente",
+      "display_name": "Medio ambiente",
+      "id": "f71fe9d7-c703-43be-8d9d-af9441c326ba",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225440.964279medio-ambiente.svg",
+      "name": "envi",
+      "title": "Medio ambiente"
+    }
+  ],
+  "id": "ambiente_1931bc96-46a5-48f3-b613-55626847ca61",
+  "isopen": false,
+  "license_id": "notspecified",
+  "license_title": "No se especificó la licencia",
+  "maintainer": "Secretaría de Gobierno de Ambiente y Desarrollo Sustentable. Dirección de Innovación para el Desarrollo Sustentable.",
+  "maintainer_email": "pzalzman@ambiente.gob.ar",
+  "metadata_created": "2019-11-26T14:57:57.875269",
+  "metadata_modified": "2020-09-29T13:07:41.328019",
+  "name": "ambiente-programa-nacional-emprendedores-para-desarrollo-sustentable-proesus",
+  "notes": "El Programa PROESUS es una iniciativa para detectar, promover y fortalecer emprendimientos de alto impacto que fomenten el desarrollo sustentable mediante el uso de nuevas tecnologías. Se espera del mismo obtener respuestas locales e innovadoras a problemáticas ambientales. Se busca además dar entidad y visibilizar a la población de emprendedores que han incorporado la dimensión ambiental como eje transversal a sus iniciativas.",
+  "num_resources": 2,
+  "num_tags": 10,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:07.043831",
+    "description": "",
+    "id": "0e5aa328-825e-4509-851d-5421e866635e",
+    "image_url": "",
+    "is_organization": true,
+    "name": "ambiente",
+    "revision_id": "105eb915-270c-4f67-9b4e-e6a3f08be6d7",
+    "state": "active",
+    "title": "Ministerio de Ambiente y Desarrollo Sostenible",
+    "type": "organization"
+  },
+  "owner_org": "0e5aa328-825e-4509-851d-5421e866635e",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "http://datos.ambiente.gob.ar/dataset/1931bc96-46a5-48f3-b613-55626847ca61/resource/a4e70ffe-fb56-46d8-a5e6-312db4879b20",
+      "attributesDescription": "[{\"type\": \"integer\", \"description\": \"C\\u00f3digo asignado a cada categor\\u00eda\", \"title\": \"categoria_id\"}, {\"type\": \"string\", \"description\": \"Denominaci\\u00f3n de la categor\\u00eda\", \"title\": \"categoria_nombre\"}, {\"type\": \"integer\", \"description\": \"Cantidad de emprendimientos pertenecientes a una categor\\u00eda.\", \"title\": \"emprendimientos_numero\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-09-05T17:34:25.179858",
+      "datastore_active": false,
+      "description": "Número de emprendimientos inscriptos en PROESUS por categoría. El Programa agrupa las iniciativas en 12 categorías a fin de sistematizar la información.",
+      "fileName": "emprendimientos-proesus-por-categoria.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "ambiente_a4e70ffe-fb56-46d8-a5e6-312db4879b20",
+      "last_modified": "2017-09-05T17:34:25.058566",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Emprendimientos PROESUS por categoría",
+      "package_id": "ambiente_1931bc96-46a5-48f3-b613-55626847ca61",
+      "position": 0,
+      "resource_type": null,
+      "revision_id": "5bb2a8b7-54b4-40dd-a0b1-bc46eb4a32ed",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.ambiente.gob.ar/dataset/1931bc96-46a5-48f3-b613-55626847ca61/resource/a4e70ffe-fb56-46d8-a5e6-312db4879b20/download/emprendimientos-proesus-por-categoria.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos.ambiente.gob.ar/dataset/1931bc96-46a5-48f3-b613-55626847ca61/resource/c6e51536-16f8-4103-abe0-fa7e550cbff6",
+      "attributesDescription": "[{\"type\": \"integer\", \"description\": \"C\\u00f3digo provincial del sistema de identificadores de la cartograf\\u00eda censal del Censo Nacional 2010 del Instituto Nacional de Estad\\u00edsticas y Censos\", \"title\": \"provincia_id\"}, {\"type\": \"string\", \"description\": \"Denominaci\\u00f3n de la Provincia\", \"title\": \"provincia_desc\"}, {\"type\": \"integer\", \"description\": \"Cantidad de emprendimientos inscriptos en la plataforma PROESUS en cada provincia\", \"title\": \"emprendimientos_numero\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-09-05T17:41:52.753305",
+      "datastore_active": false,
+      "description": "Cantidad de emprendimientos registrados en la plataforma PROESUS por usuarios pertenecientes a una Provincia.",
+      "fileName": "emprendimientos-proesus-por-provincia.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "ambiente_c6e51536-16f8-4103-abe0-fa7e550cbff6",
+      "last_modified": "2018-07-04T14:13:47.468572",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Emprendimientos PROESUS por provincia",
+      "package_id": "ambiente_1931bc96-46a5-48f3-b613-55626847ca61",
+      "position": 1,
+      "resource_type": null,
+      "revision_id": "ee5323e7-144a-4b28-b24b-e4f62953c484",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.ambiente.gob.ar/dataset/1931bc96-46a5-48f3-b613-55626847ca61/resource/c6e51536-16f8-4103-abe0-fa7e550cbff6/download/emprendimientos-proesus-por-provincia.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "6fbce042-ee86-4bf0-b4b3-8c2882822586",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "Comunidad emprendedora",
+      "id": "c9dba1fe-fda3-4e07-8b5e-2cbd0a3a6dfd",
+      "name": "Comunidad emprendedora",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Desarrollo Sustentable",
+      "id": "ff73619a-ba40-4d86-8957-150d2f353a68",
+      "name": "Desarrollo Sustentable",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Emprendedores",
+      "id": "1ec9b06b-31d5-4d1c-a198-bbeb43c48486",
+      "name": "Emprendedores",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Emprendedores sustentables",
+      "id": "dfc3d27d-c741-47c5-9439-0d5b4eea1c00",
+      "name": "Emprendedores sustentables",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Emprendimientos",
+      "id": "1215f7c0-8e9d-4a15-8769-aeac89259f3c",
+      "name": "Emprendimientos",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Emprendimientos sustentables",
+      "id": "436fb8bd-d4a7-4e00-858d-53663d931bb9",
+      "name": "Emprendimientos sustentables",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Innovación",
+      "id": "8dd50ca7-9af5-4419-b2f4-f7213dca85d2",
+      "name": "Innovación",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Nuevas tecnologías",
+      "id": "54028f5d-8ff4-49eb-b95d-c7cb5057ebdc",
+      "name": "Nuevas tecnologías",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "PROESUS",
+      "id": "96033003-4fa4-4430-996c-9798e85564b2",
+      "name": "PROESUS",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Programas",
+      "id": "85b48806-f817-4d3a-9744-aa91b5e49d1a",
+      "name": "Programas",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Programa Nacional de Emprendedores para el Desarrollo Sustentable (PROESUS)",
+  "type": "dataset",
+  "url": "https://proesus.ambiente.gob.ar/",
+  "version": null
+}

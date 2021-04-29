@@ -1,0 +1,120 @@
+{
+  "author": "Ministerio de Agricultura, Ganadería y Pesca - Dirección Nacional de Agricultura",
+  "author_email": "direstiagri@magyp.gob.ar",
+  "creator_user_id": "dc157489-51c6-44ce-bd63-3bd983d60778",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "eventual"
+    },
+    {
+      "key": "issued",
+      "value": "2021-03-22T18:30:49.785551"
+    },
+    {
+      "key": "language",
+      "value": "[\"spa\"]"
+    },
+    {
+      "key": "modified",
+      "value": "2021-03-22T18:30:49.785551"
+    },
+    {
+      "key": "source",
+      "value": "MAGyP"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"AGRI\"]"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Agroganadería, pesca y forestación",
+      "display_name": "Agroganadería, pesca y forestación",
+      "id": "0c35ea38-7059-41d2-9827-5587769d0dc6",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225145.990789agroganaderia-pesca-forestacion.svg",
+      "name": "agri",
+      "title": "Agroganadería, pesca y forestación"
+    }
+  ],
+  "id": "agroindustria_5bed7fcc-7015-4820-a4db-39a669851f73",
+  "isopen": true,
+  "license_id": "CC-BY-4.0",
+  "license_title": "Creative Commons Attribution 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "maintainer": "Dirección de Estimaciones Agrícolas",
+  "maintainer_email": "direstiagri@magyp.gob.ar",
+  "metadata_created": "2021-03-25T16:18:32.696709",
+  "metadata_modified": "2021-04-29T17:16:11.359032",
+  "name": "agroindustria-olivo",
+  "notes": "Datos de olivo en la Argentina.",
+  "num_resources": 1,
+  "num_tags": 2,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:07.834957",
+    "description": "",
+    "id": "b10c94e2-ade1-4a97-8c4c-b1ada7878d60",
+    "image_url": "",
+    "is_organization": true,
+    "name": "agroindustria",
+    "revision_id": "f7c3b6e9-d48f-4522-9f7a-388d805c8392",
+    "state": "active",
+    "title": "Ministerio de Agricultura, Ganadería y Pesca",
+    "type": "organization"
+  },
+  "owner_org": "b10c94e2-ade1-4a97-8c4c-b1ada7878d60",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "http://datos.agroindustria.gob.ar/dataset/5bed7fcc-7015-4820-a4db-39a669851f73/resource/782dde03-ffa9-4438-a798-1f30178442fa",
+      "attributesDescription": "[{\"type\": \"string\", \"description\": \"Nombre del cultivo.\", \"title\": \"cultivo_nombre\"}, {\"type\": \"integer\", \"description\": \"A\\u00f1o en que fue relevado el dato.\", \"title\": \"anio\"}, {\"type\": \"string\", \"description\": \"Nombre de la provincia en la que se encuentra la plantaci\\u00f3n de olivo.\", \"title\": \"provincia_nombre\"}, {\"type\": \"integer\", \"description\": \"C\\u00f3digo de la provincia.\", \"title\": \"provincia_id\"}, {\"type\": \"string\", \"description\": \"Nombre del departamento en la que se encuentra la plantaci\\u00f3n de olivo.\", \"title\": \"departamento_nombre\"}, {\"type\": \"integer\", \"description\": \"C\\u00f3digo de departamento.\", \"title\": \"departamento_id\"}, {\"type\": \"number\", \"description\": \"Cantidad de hect\\u00e1reas plantadas de olivo.\", \"title\": \"superficie_ha\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2021-03-22T18:30:24.736900",
+      "datastore_active": false,
+      "description": "Superficie plantada de olivo en las provincias de Catamarca y La Rioja, datos del año 2020.",
+      "fileName": "olivo-larioja-catamarca-2020.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "agroindustria_782dde03-ffa9-4438-a798-1f30178442fa",
+      "last_modified": "2021-03-22T18:31:34.139032",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Olivo - superficie plantada",
+      "package_id": "agroindustria_5bed7fcc-7015-4820-a4db-39a669851f73",
+      "position": 0,
+      "resource_type": "file.upload",
+      "revision_id": "72782929-ff02-4ed3-a65d-28c3a501252f",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.agroindustria.gob.ar/dataset/5bed7fcc-7015-4820-a4db-39a669851f73/resource/782dde03-ffa9-4438-a798-1f30178442fa/download/olivo-larioja-catamarca-2020.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "72782929-ff02-4ed3-a65d-28c3a501252f",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "olivo",
+      "id": "a53eb14a-2df2-472e-812b-35a5e4870802",
+      "name": "olivo",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "superficie plantada",
+      "id": "b63e30d6-018e-477b-8926-902fa021adc9",
+      "name": "superficie plantada",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Olivo",
+  "type": "dataset",
+  "url": "https://datos.agroindustria.gob.ar/dataset/olivo",
+  "version": null
+}

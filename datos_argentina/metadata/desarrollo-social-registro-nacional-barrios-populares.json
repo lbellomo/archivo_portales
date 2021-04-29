@@ -1,0 +1,176 @@
+{
+  "author": "Ministerio de Desarrollo Social, Secretaría de Integración Socio Urbana",
+  "author_email": "datosabiertos@desarrollosocial.gob.ar",
+  "creator_user_id": "dc157489-51c6-44ce-bd63-3bd983d60778",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "eventual"
+    },
+    {
+      "key": "issued",
+      "value": "2021-04-17T16:11:36.938004"
+    },
+    {
+      "key": "language",
+      "value": "[\"spa\"]"
+    },
+    {
+      "key": "modified",
+      "value": "2021-04-17T16:17:28.906783"
+    },
+    {
+      "key": "spatial",
+      "value": "[\"ARG\"]"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"SOCI\"]"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Población y sociedad",
+      "display_name": "Población y sociedad",
+      "id": "eb5df7fa-064a-4b51-89f6-af323ee1bf85",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225728.341804poblacion-sociedad.svg",
+      "name": "soci",
+      "title": "Población y sociedad"
+    }
+  ],
+  "id": "desarrollo-social_0d022767-9390-486a-bff4-ba53b85d730e",
+  "isopen": false,
+  "license_id": "notspecified",
+  "license_title": "No se especificó la licencia",
+  "maintainer": "Ministerio de Desarrollo Social de la Nación. Unidad de Gabinete de Asesores. Dirección General de Información Social Estratégica",
+  "maintainer_email": "datosabiertos@desarrollosocial.gob.ar",
+  "metadata_created": "2021-04-20T19:20:03.144772",
+  "metadata_modified": "2021-04-29T17:04:04.643024",
+  "name": "desarrollo-social-registro-nacional-barrios-populares",
+  "notes": "Mapa de los barrios populares de Argentina.",
+  "num_resources": 3,
+  "num_tags": 3,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:10.908821",
+    "description": "",
+    "id": "ef25c735-2abb-4165-94a6-a6798a103603",
+    "image_url": "",
+    "is_organization": true,
+    "name": "desarrollo-social",
+    "revision_id": "a896ab9d-5ddd-4b93-9ecf-6578b069aee8",
+    "state": "active",
+    "title": "Ministerio de Desarrollo Social",
+    "type": "organization"
+  },
+  "owner_org": "ef25c735-2abb-4165-94a6-a6798a103603",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "https://datosabiertos.desarrollosocial.gob.ar//dataset/0d022767-9390-486a-bff4-ba53b85d730e/resource/9a951270-60dd-4f21-aa19-4ef1205620bd",
+      "attributesDescription": "[{\"type\": \"string\", \"description\": \"Identificador \\u00fanico del barrio en el Registro\", \"title\": \"id_renabap\"}, {\"type\": \"\", \"description\": \"\", \"title\": \"nombre_barrio\"}, {\"type\": \"\", \"description\": \"C\\u00f3digo de provincia codificado seg\\u00fan la Base de Asentamientos Humanos de la Rep\\u00f1blica Argentina  \", \"title\": \"cod_provincia\"}, {\"type\": \"\", \"description\": \"Nombre de la provincia  \", \"title\": \"provincia\"}, {\"type\": \"\", \"description\": \"C\\u00f3digo de departamento codificado seg\\u00fan la Base de Asentamientos Humanos de la Rep\\u00f1blica Argentina  \", \"title\": \"cod_depto\"}, {\"type\": \"\", \"description\": \"Nombre del departamento  \", \"title\": \"departamento\"}, {\"type\": \"\", \"description\": \"Nombre de la localidad donde se encuentra el barrio de acuerdo al sentido identitario de los habitantes\", \"title\": \"localidad\"}, {\"type\": \"\", \"description\": \"A\\u00f1o aproximado de creaci\\u00f3n del barrio\", \"title\": \"a\\u00f1o_creacion\"}, {\"type\": \"string\", \"description\": \"Modo de acceso a la energ\\u00eda el\\u00e9ctrica\", \"title\": \"acceso_electricidad\"}, {\"type\": \"string\", \"description\": \"Modo de eliminaci\\u00f3n de extretas\", \"title\": \"acceso_cloaca\"}, {\"type\": \"string\", \"description\": \"Modo de acceso al agua\", \"title\": \"acceso_agua\"}, {\"type\": \"integer\", \"description\": \"Cantidad de familias estimadas que habitan el barrio\", \"title\": \"cantidad_familias_estimado\"}, {\"type\": \"array\", \"description\": \"Geometr\\u00eda del pol\\u00edgono\", \"title\": \"geometry\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2021-04-17T16:12:04.711001",
+      "datastore_active": false,
+      "description": "Mapa de los barrios populares de Argentina registrados en el Registro Nacional de Barrios Populares",
+      "fileName": "renabap-2020-11-20.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "desarrollo-social_9a951270-60dd-4f21-aa19-4ef1205620bd",
+      "last_modified": "2021-04-17T16:12:04.642817",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Barrios Populares de Argentina",
+      "package_id": "desarrollo-social_0d022767-9390-486a-bff4-ba53b85d730e",
+      "position": 0,
+      "resource_type": "file.upload",
+      "revision_id": "5e022735-b790-4850-90bf-f09915c3dc68",
+      "size": null,
+      "state": "active",
+      "url": "https://datosabiertos.desarrollosocial.gob.ar/dataset/0d022767-9390-486a-bff4-ba53b85d730e/resource/9a951270-60dd-4f21-aa19-4ef1205620bd/download/renabap-2020-11-20.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://datosabiertos.desarrollosocial.gob.ar//dataset/0d022767-9390-486a-bff4-ba53b85d730e/resource/97cc7d10-ad4c-46cb-9ee4-becb402adf9f",
+      "attributesDescription": "[{\"type\": \"string\", \"description\": \"Identificador \\u00fanico del barrio en el Registro\", \"title\": \"id_renabap\"}, {\"type\": \"\", \"description\": \"\", \"title\": \"nombre_barrio\"}, {\"type\": \"\", \"description\": \"C\\u00f3digo de provincia codificado seg\\u00fan la Base de Asentamientos Humanos de la Rep\\u00f1blica Argentina  \", \"title\": \"cod_provincia\"}, {\"type\": \"\", \"description\": \"Nombre de la provincia  \", \"title\": \"provincia\"}, {\"type\": \"\", \"description\": \"C\\u00f3digo de departamento codificado seg\\u00fan la Base de Asentamientos Humanos de la Rep\\u00f1blica Argentina  \", \"title\": \"cod_depto\"}, {\"type\": \"\", \"description\": \"Nombre del departamento  \", \"title\": \"departamento\"}, {\"type\": \"\", \"description\": \"Nombre de la localidad donde se encuentra el barrio de acuerdo al sentido identitario de los habitantes\", \"title\": \"localidad\"}, {\"type\": \"\", \"description\": \"A\\u00f1o aproximado de creaci\\u00f3n del barrio\", \"title\": \"a\\u00f1o_creacion\"}, {\"type\": \"string\", \"description\": \"Modo de acceso a la energ\\u00eda el\\u00e9ctrica\", \"title\": \"acceso_electricidad\"}, {\"type\": \"string\", \"description\": \"Modo de eliminaci\\u00f3n de extretas\", \"title\": \"acceso_cloaca\"}, {\"type\": \"string\", \"description\": \"Modo de acceso al agua\", \"title\": \"acceso_agua\"}, {\"type\": \"integer\", \"description\": \"Cantidad de familias estimadas que habitan el barrio\", \"title\": \"cantidad_familias_estimado\"}, {\"type\": \"array\", \"description\": \"Geometr\\u00eda del pol\\u00edgono\", \"title\": \"geometry\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2021-04-17T16:12:26.723875",
+      "datastore_active": false,
+      "description": "Mapa de los barrios populares de Argentina registrados en el Registro Nacional de Barrios Populares",
+      "fileName": "renabap-2020-11-20.geojson",
+      "format": "GeoJSON",
+      "hash": "",
+      "id": "desarrollo-social_97cc7d10-ad4c-46cb-9ee4-becb402adf9f",
+      "last_modified": "2021-04-17T16:12:26.645575",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Barrios Populares de Argentina - GeoJSON",
+      "package_id": "desarrollo-social_0d022767-9390-486a-bff4-ba53b85d730e",
+      "position": 1,
+      "resource_type": "file.upload",
+      "revision_id": "5e022735-b790-4850-90bf-f09915c3dc68",
+      "size": null,
+      "state": "active",
+      "url": "https://datosabiertos.desarrollosocial.gob.ar/dataset/0d022767-9390-486a-bff4-ba53b85d730e/resource/97cc7d10-ad4c-46cb-9ee4-becb402adf9f/download/renabap-2020-11-20.geojson",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://datosabiertos.desarrollosocial.gob.ar//dataset/0d022767-9390-486a-bff4-ba53b85d730e/resource/0396a8a3-8998-4fc1-8503-e6706667b5fa",
+      "attributesDescription": "[{\"type\": \"string\", \"description\": \"Identificador \\u00fanico del barrio en el Registro\", \"title\": \"id_renabap\"}, {\"type\": \"\", \"description\": \"\", \"title\": \"nombre_barrio\"}, {\"type\": \"\", \"description\": \"C\\u00f3digo de provincia codificado seg\\u00fan la Base de Asentamientos Humanos de la Rep\\u00f1blica Argentina  \", \"title\": \"cod_provincia\"}, {\"type\": \"\", \"description\": \"Nombre de la provincia  \", \"title\": \"provincia\"}, {\"type\": \"\", \"description\": \"C\\u00f3digo de departamento codificado seg\\u00fan la Base de Asentamientos Humanos de la Rep\\u00f1blica Argentina  \", \"title\": \"cod_depto\"}, {\"type\": \"\", \"description\": \"Nombre del departamento  \", \"title\": \"departamento\"}, {\"type\": \"\", \"description\": \"Nombre de la localidad donde se encuentra el barrio de acuerdo al sentido identitario de los habitantes\", \"title\": \"localidad\"}, {\"type\": \"\", \"description\": \"A\\u00f1o aproximado de creaci\\u00f3n del barrio\", \"title\": \"a\\u00f1o_creacion\"}, {\"type\": \"string\", \"description\": \"Modo de acceso a la energ\\u00eda el\\u00e9ctrica\", \"title\": \"acceso_electricidad\"}, {\"type\": \"string\", \"description\": \"Modo de eliminaci\\u00f3n de extretas\", \"title\": \"acceso_cloaca\"}, {\"type\": \"string\", \"description\": \"Modo de acceso al agua\", \"title\": \"acceso_agua\"}, {\"type\": \"integer\", \"description\": \"Cantidad de familias estimadas que habitan el barrio\", \"title\": \"cantidad_familias_estimado\"}, {\"type\": \"array\", \"description\": \"Geometr\\u00eda del pol\\u00edgono\", \"title\": \"geometry\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2021-04-17T16:12:57.470138",
+      "datastore_active": false,
+      "description": "Mapa de los barrios populares de Argentina registrados en el Registro Nacional de Barrios Populares",
+      "fileName": "renabap-2020-11-20.gpkg",
+      "format": "gpkg",
+      "hash": "",
+      "id": "desarrollo-social_0396a8a3-8998-4fc1-8503-e6706667b5fa",
+      "last_modified": "2021-04-17T16:12:57.420035",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Barrios Populares de Argentina - GPKG",
+      "package_id": "desarrollo-social_0d022767-9390-486a-bff4-ba53b85d730e",
+      "position": 2,
+      "resource_type": "file.upload",
+      "revision_id": "5e022735-b790-4850-90bf-f09915c3dc68",
+      "size": null,
+      "state": "active",
+      "url": "https://datosabiertos.desarrollosocial.gob.ar/dataset/0d022767-9390-486a-bff4-ba53b85d730e/resource/0396a8a3-8998-4fc1-8503-e6706667b5fa/download/renabap-2020-11-20.gpkg",
+      "url_type": null
+    }
+  ],
+  "revision_id": "5e022735-b790-4850-90bf-f09915c3dc68",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "barrios populares",
+      "id": "820b30e3-8746-46d0-a748-8c61c2a9b925",
+      "name": "barrios populares",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "integracion socio urbana",
+      "id": "eb68ce61-dbe4-45f0-9d69-54d1d188ced8",
+      "name": "integracion socio urbana",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "renabap",
+      "id": "184ebd27-e5e7-473e-a06b-a55f6cfa7d81",
+      "name": "renabap",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Registro Nacional de Barrios Populares",
+  "type": "dataset",
+  "url": "https://www.argentina.gob.ar/desarrollosocial/renabap/mapa",
+  "version": null
+}

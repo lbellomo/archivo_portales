@@ -1,0 +1,152 @@
+{
+  "author": "Servicio Nacional de Sanidad y Calidad Agroalimentaria",
+  "author_email": "desycg@senasa.gob.ar",
+  "creator_user_id": "dc157489-51c6-44ce-bd63-3bd983d60778",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P1M"
+    },
+    {
+      "key": "issued",
+      "value": "2019-09-23T15:29:08.551483"
+    },
+    {
+      "key": "language",
+      "value": "[\"spa\"]"
+    },
+    {
+      "key": "modified",
+      "value": "2019-12-04T16:23:34.305300"
+    },
+    {
+      "key": "source",
+      "value": "Servicio Nacional de Sanidad y Calidad Agroalimentaria - SENASA"
+    },
+    {
+      "key": "spatial",
+      "value": "[\"ARG\"]"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"AGRI\"]"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Agroganadería, pesca y forestación",
+      "display_name": "Agroganadería, pesca y forestación",
+      "id": "0c35ea38-7059-41d2-9827-5587769d0dc6",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225145.990789agroganaderia-pesca-forestacion.svg",
+      "name": "agri",
+      "title": "Agroganadería, pesca y forestación"
+    }
+  ],
+  "id": "agroindustria_9106441c-236f-4f53-8eb1-242e29d38ee3",
+  "isopen": true,
+  "license_id": "CC-BY-4.0",
+  "license_title": "Creative Commons Attribution 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "maintainer": "Dirección Nacional de Sanidad Animal",
+  "maintainer_email": "desycg@senasa.gob.ar",
+  "metadata_created": "2020-12-04T16:39:20.145194",
+  "metadata_modified": "2021-04-29T17:16:21.116418",
+  "name": "agroindustria-senasa---movimientos-caprinos",
+  "notes": "Datos mensuales de los movimientos de la especie caprina detallando provincia y departamento de origen y destino.",
+  "num_resources": 1,
+  "num_tags": 6,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:07.834957",
+    "description": "",
+    "id": "b10c94e2-ade1-4a97-8c4c-b1ada7878d60",
+    "image_url": "",
+    "is_organization": true,
+    "name": "agroindustria",
+    "revision_id": "f7c3b6e9-d48f-4522-9f7a-388d805c8392",
+    "state": "active",
+    "title": "Ministerio de Agricultura, Ganadería y Pesca",
+    "type": "organization"
+  },
+  "owner_org": "b10c94e2-ade1-4a97-8c4c-b1ada7878d60",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "http://datos.agroindustria.gob.ar/dataset/9106441c-236f-4f53-8eb1-242e29d38ee3/resource/17ba1f5d-f81f-434b-99ff-336154a4caf3",
+      "attributesDescription": "[{\"type\": \"date\", \"title\": \"fecha\"}, {\"type\": \"string\", \"description\": \"Lugar del que sale. \", \"title\": \"salido_de\"}, {\"type\": \"string\", \"description\": \"Lugar al que ingresa. \", \"title\": \"ingresado_a\"}, {\"type\": \"string\", \"description\": \"Nombre de la provincia de origen. \", \"title\": \"provincia_origen\"}, {\"type\": \"string\", \"description\": \"C\\u00f3digo de la provincia de origen. \", \"title\": \"provincia_origen_id\"}, {\"type\": \"string\", \"description\": \"Nombre del departamento de origen. \", \"title\": \"departamento_origen\"}, {\"type\": \"string\", \"description\": \"C\\u00f3digo del departamento de origen. \", \"title\": \"departamento_origen_id\"}, {\"type\": \"string\", \"description\": \"Nombre de la provincia de destino. \", \"title\": \"provincia_destino\"}, {\"type\": \"string\", \"description\": \"C\\u00f3digo de la provincia de destino. \", \"title\": \"provincia_destino_id\"}, {\"type\": \"string\", \"description\": \"Nombre del departamento de destino. \", \"title\": \"departamento_destino\"}, {\"type\": \"string\", \"description\": \"C\\u00f3digo del departamento de destino. \", \"title\": \"departamento_destino_id\"}, {\"type\": \"integer\", \"description\": \"Cantidad de machos enteros en edad reproductiva.\", \"title\": \"chivo\"}, {\"type\": \"integer\", \"description\": \"Cantidad de hembras en edad reproductiva.\", \"title\": \"cabra\"}, {\"type\": \"integer\", \"description\": \"Cantidad de cr\\u00edas machos.\", \"title\": \"cabrito\"}, {\"type\": \"integer\", \"description\": \"Cantidad de machos castrados.\", \"title\": \"capon_caprino\"}, {\"type\": \"integer\", \"description\": \"Cantidad de hembras y machos j\\u00f3venes.\", \"title\": \"cabrilla_chivito\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-09-27T16:12:52.107626",
+      "datastore_active": false,
+      "description": "Datos de los movimientos caprinos por categoría y mes para el período 2013 a 2018.",
+      "fileName": "test.txt",
+      "format": "CSV",
+      "hash": "",
+      "id": "agroindustria_17ba1f5d-f81f-434b-99ff-336154a4caf3",
+      "last_modified": "2019-12-04T16:23:14.319406",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Movimientos caprinos 2013 a 2018",
+      "package_id": "agroindustria_9106441c-236f-4f53-8eb1-242e29d38ee3",
+      "position": 0,
+      "resource_type": "file.upload",
+      "revision_id": "d3013532-1ac7-4e5b-b05c-221afb162398",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.agroindustria.gob.ar/dataset/9106441c-236f-4f53-8eb1-242e29d38ee3/resource/17ba1f5d-f81f-434b-99ff-336154a4caf3/download/test.txt",
+      "url_type": null
+    }
+  ],
+  "revision_id": "d3013532-1ac7-4e5b-b05c-221afb162398",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "cabra",
+      "id": "41485431-e47e-4c76-ae62-bcd21aa28fe9",
+      "name": "cabra",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "cabrilla",
+      "id": "b61026b6-d422-474a-b037-eae5f2338b67",
+      "name": "cabrilla",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "cabrito",
+      "id": "c68eda81-4e5b-4637-b19c-e01b281d039b",
+      "name": "cabrito",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "chivito",
+      "id": "27a2b3b4-51e1-4834-ac4a-e6c09f7be32d",
+      "name": "chivito",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "chivo",
+      "id": "02164f8a-499b-4202-90d1-ba405464338d",
+      "name": "chivo",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "movimiento ganadero",
+      "id": "5d3fb22d-977e-4fc3-ac41-277f36a967a1",
+      "name": "movimiento ganadero",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "SENASA - Movimientos caprinos",
+  "type": "dataset",
+  "url": "https://datos.agroindustria.gob.ar/dataset/senasa-movimientos-caprinos",
+  "version": null
+}

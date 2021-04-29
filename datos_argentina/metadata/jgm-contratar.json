@@ -1,0 +1,219 @@
+{
+  "author": "Jefatura de Gabinete de Ministros. Oficina Nacional de Contrataciones. Dirección Nacional de Contrataciones de Obra Pública, Registro de Constructores y Firmas Consultoras. Dirección de Administración de Contrataciones de Obra Pública.",
+  "author_email": "soporteonc@modernizacion.gob.ar",
+  "creator_user_id": "dc157489-51c6-44ce-bd63-3bd983d60778",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "eventual"
+    },
+    {
+      "key": "issued",
+      "value": "2019-09-27T00:00:00"
+    },
+    {
+      "key": "language",
+      "value": "[\"SPA\"]"
+    },
+    {
+      "key": "modified",
+      "value": "2020-01-30"
+    },
+    {
+      "key": "spatial",
+      "value": "ARG"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"GOVE\", \"REGI\"]"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Gobierno y sector público",
+      "display_name": "Gobierno y sector público",
+      "id": "e6f07c77-3987-4e71-98a6-731b1aaf74f4",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225353.395233gobierno-sector-publico.svg",
+      "name": "gove",
+      "title": "Gobierno y sector público"
+    },
+    {
+      "description": "Regiones y ciudades",
+      "display_name": "Regiones y ciudades",
+      "id": "c506f0a0-fc8a-4278-b007-eb7f76875914",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225752.196815regiones-ciudades.svg",
+      "name": "regi",
+      "title": "Regiones y ciudades"
+    }
+  ],
+  "id": "jgm_12",
+  "isopen": true,
+  "license_id": "CC-BY-4.0",
+  "license_title": "Creative Commons Attribution 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "maintainer": "Jefatura de Gabinete de Ministros. Secretaría de Innovación Pública. Subsecretaría de Gobierno Abierto y País Digital.",
+  "maintainer_email": "soporteonc@modernizacion.gob.ar",
+  "metadata_created": "2020-01-30T19:35:46.468182",
+  "metadata_modified": "2021-04-29T17:16:17.773512",
+  "name": "jgm-contratar",
+  "notes": "Datos correspondiente al Portal Electrónico de Contratación de Obra Pública (CONTRAT.AR) por Decreto N° 1169/2018. Incluye los procedimientos de selección y ejecución de contrataciones de Obra Pública y concesiones de Obra Pública incorporados en el Sistema de Gestión Electrónica CONTRAT.AR",
+  "num_resources": 3,
+  "num_tags": 8,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:06.745974",
+    "description": "",
+    "id": "f917ad65-28ea-42a9-81ae-61a2bb8f58d0",
+    "image_url": "",
+    "is_organization": true,
+    "name": "jgm",
+    "revision_id": "ddd4eb90-3b5d-40d0-a290-414515935bf3",
+    "state": "active",
+    "title": " Jefatura de Gabinete de Ministros",
+    "type": "organization"
+  },
+  "owner_org": "f917ad65-28ea-42a9-81ae-61a2bb8f58d0",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "https://datos.gob.ar/dataset/jgm-contratar/archivo/jgm_12.1",
+      "attributesDescription": "[{\"title\": \"organismo_nombre\", \"type\": \"string\", \"description\": \"Nombre del organismo\"}, {\"title\": \"obra_nombre\", \"type\": \"string\", \"description\": \"Denominaci\\u00f3n de la obra\"}, {\"title\": \"proceso_de_seleccion_numero\", \"type\": \"string\", \"description\": \"N\\u00famero de proceso de selecci\\u00f3n\"}, {\"title\": \"unidad_operativa_contratacion\", \"type\": \"string\", \"description\": \"Unidad operativa de contrataciones\"}, {\"title\": \"funcionario_contratante_nombre\", \"type\": \"string\", \"description\": \"Nombre del funcionario que adjudic\\u00f3 la contrataci\\u00f3n\"}, {\"title\": \"funcionario_contratante_cargo\", \"type\": \"string\", \"description\": \"Cargo del funcionario que adjudic\\u00f3 la contrataci\\u00f3n\"}, {\"title\": \"afectacion_presupuestaria_solicitud_numero\", \"type\": \"number\", \"description\": \"N\\u00famero de solicitud de afectaci\\u00f3n presupuestaria.\"}, {\"title\": \"financiamiento_fuente\", \"type\": \"string\", \"description\": \"Fuente de financiamiento\"}, {\"title\": \"objeto\", \"type\": \"string\", \"description\": \"Objeto de la contrataci\\u00f3n\"}, {\"title\": \"procedimiento_seleccion_tipo\", \"type\": \"string\", \"description\": \"Tipo de procedimiento de selecci\\u00f3n\"}, {\"title\": \"acto_administrativo_autorizacion_convocatoria_numero\", \"type\": \"number\", \"description\": \"N\\u00famero de Acto administrativo de autorizaci\\u00f3n de la convocatoria\"}, {\"title\": \"acto_administrativo_eleccion_procedimiento_seleccion_numero\", \"type\": \"number\", \"description\": \"N\\u00famero de Acto administrativo de  elecci\\u00f3n del procedimiento de selecci\\u00f3n\"}, {\"title\": \"sistema_contratacion\", \"type\": \"string\", \"description\": \"Sistema de contrataci\\u00f3n\"}, {\"title\": \"presupuesto_oficial_monto\", \"type\": \"number\", \"description\": \"Presupuesto oficial $\"}, {\"title\": \"apertura_fecha\", \"type\": \"date\", \"description\": \"Fecha de Apertura\"}, {\"title\": \"plazo_mantenimiento_de_oferta\", \"type\": \"integer\", \"description\": \"Plazo de mantenimiento de la oferta (d\\u00ecas)\"}, {\"title\": \"plazo_ejecucion\", \"type\": \"integer\", \"description\": \"Plazo de ejecuci\\u00f3n (d\\u00ecas)\"}, {\"title\": \"contratista_razon_social\", \"type\": \"string\", \"description\": \"Raz\\u00f3n Social del Contratista\"}, {\"title\": \"contratista_cuit_1\", \"type\": \"number\", \"description\": \"Cuit del Contratista\"}, {\"title\": \"contratista_cuit_2\", \"type\": \"number\", \"description\": \"Cuit del Contratista\"}, {\"title\": \"acta_de_inicio_fecha\", \"type\": \"date\", \"description\": \"Fecha de Acta de Inicio\"}, {\"title\": \"responsable_tecnico_nombre\", \"type\": \"string\", \"description\": \"Responsable t\\u00e9cnico de la obra\"}, {\"title\": \"anticipo_financiero_porcentaje\", \"type\": \"number\", \"description\": \"Porcentaje de anticipo financiero\"}, {\"title\": \"ampliaciones_al_contrato_original_porcentaje\", \"type\": \"number\", \"description\": \"Porcentaje de ampliaciones respecto al contrato original\"}, {\"title\": \"economias_respecto_contrato_original_porcentaje\", \"type\": \"number\", \"description\": \"Porcentaje de econom\\u00edas respecto al contrato original\"}, {\"title\": \"demasias_respecto_contrato_original_porcentaje\", \"type\": \"number\", \"description\": \"Porcentaje de demas\\u00edas respecto al contrato original\"}, {\"title\": \"prorrogas_de_plazo_cantidad\", \"type\": \"integer\", \"description\": \"Cantidad de pr\\u00f3rrogas de plazo\"}, {\"title\": \"prorrogas_de_plazo_unidad_de_medida\", \"type\": \"string\", \"description\": \"Unidad de medida de pr\\u00f3rrogas de plazo\"}, {\"title\": \"suspensiones_de_plazo_cantidad\", \"type\": \"integer\", \"description\": \"Cantidad de suspensiones de plazo\"}, {\"title\": \"suspensiones_de_plazo_unidad_de_medida\", \"type\": \"string\", \"description\": \"Unidad de medida de suspensiones de plazo\"}, {\"title\": \"neutralizaciones_de_plazo_cantidad\", \"type\": \"integer\", \"description\": \"Cantidad de neutralizaciones de plazo.\"}, {\"title\": \"neutralizaciones_de_plazo_unidad_de_medida\", \"type\": \"string\", \"description\": \"Unidad de medida de neutralizaciones de plazo.\"}, {\"title\": \"subcontratistas_cantidad\", \"type\": \"integer\", \"description\": \"Cantidad de Subcontratistas\"}, {\"title\": \"avance_fisico\", \"type\": \"number\", \"description\": \"Porcentaje de avance f\\u00edsico\"}, {\"title\": \"monto_certificado\", \"type\": \"number\", \"description\": \"Monto Certificado $\"}, {\"title\": \"rederterminaciones_precios_en_tramite_cantidad\", \"type\": \"integer\", \"description\": \"Cantidad de Redeterminaciones de precios en tr\\u00e1mite\"}, {\"title\": \"rederterminaciones_precios_aprobadas_cantidad\", \"type\": \"integer\", \"description\": \"Cantidad de Redeterminaciones de precios   aprobadas\"}, {\"title\": \"sanciones_aplicadas\", \"type\": \"integer\", \"description\": \"Sanciones aplicadas\"}, {\"title\": \"penalidades_aplicadas\", \"type\": \"integer\", \"description\": \"Penalidades aplicadas\"}, {\"title\": \"es_convenio\", \"type\": \"boolean\", \"description\": \"Si es convenio o no.\"}, {\"title\": \"provincia_id\", \"type\": \"number\", \"description\": \"Identificador de la provincia\"}, {\"title\": \"provincia_nombre\", \"type\": \"string\", \"description\": \"Nombre de la provincia\"}, {\"title\": \"departamento_id\", \"type\": \"number\", \"description\": \"Identificador del departamento\"}, {\"title\": \"departamento_nombre\", \"type\": \"string\", \"description\": \"Nombre del departamento.\"}, {\"title\": \"localidad_id\", \"type\": \"number\", \"description\": \"Identificador de la localidad.\"}, {\"title\": \"localidad_nombre\", \"type\": \"string\", \"description\": \"Nombre de la localidad.\"}, {\"title\": \"latitud\", \"type\": \"number\", \"description\": \"Coordenadas georeferenciadas latitud\"}, {\"title\": \"longuitud\", \"type\": \"number\", \"description\": \"Coordenadas georeferenciadas longuitud\"}, {\"title\": \"bapin\", \"type\": \"number\", \"description\": \"BAPIN (Banco de Proyectos de Inversi\\u00f3n P\\u00fablica)\"}, {\"title\": \"finalidad_funcion_subfuncion\", \"type\": \"number\", \"description\": \"Finalidad Funci\\u00f3n Subfunci\\u00f3n\"}, {\"title\": \"monto_2019\", \"type\": \"number\", \"description\": \"Monto 2019\"}, {\"title\": \"monto_2020\", \"type\": \"number\", \"description\": \"Monto 2020\"}, {\"title\": \"monto_2021\", \"type\": \"number\", \"description\": \"Monto 2021\"}, {\"title\": \"estado\", \"type\": \"string\", \"description\": \"Estado de la obra\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-09-27T00:00:00",
+      "datastore_active": false,
+      "description": "Listado de obras públicas por organismo, nombre, financiamiento, objeto, sistema de contratación, monto, entre otros atributos en formato Excel.",
+      "fileName": "onc_obras_decreto_1169_18.xlsx",
+      "format": "XLSX",
+      "hash": "",
+      "id": "jgm_12.1",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Obras Públicas. Decreto N° 1169/2018 (XLSX)",
+      "package_id": "jgm_12",
+      "position": 0,
+      "resource_type": null,
+      "revision_id": "340cf9cb-454b-4924-a73c-99d19c23b216",
+      "size": null,
+      "state": "active",
+      "url": "http://infra.datos.gob.ar/catalog/modernizacion/dataset/12/distribution/12.1/download/onc_obras_decreto_1169_18.xlsx",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://datos.gob.ar/dataset/jgm-contratar/archivo/jgm_12.2",
+      "attributesDescription": "[{\"title\": \"organismo_nombre\", \"type\": \"string\", \"description\": \"Nombre del organismo\"}, {\"title\": \"obra_nombre\", \"type\": \"string\", \"description\": \"Denominaci\\u00f3n de la obra\"}, {\"title\": \"proceso_de_seleccion_numero\", \"type\": \"string\", \"description\": \"N\\u00famero de proceso de selecci\\u00f3n\"}, {\"title\": \"unidad_operativa_contratacion\", \"type\": \"string\", \"description\": \"Unidad operativa de contrataciones\"}, {\"title\": \"funcionario_contratante_nombre\", \"type\": \"string\", \"description\": \"Nombre del funcionario que adjudic\\u00f3 la contrataci\\u00f3n\"}, {\"title\": \"funcionario_contratante_cargo\", \"type\": \"string\", \"description\": \"Cargo del funcionario que adjudic\\u00f3 la contrataci\\u00f3n\"}, {\"title\": \"afectacion_presupuestaria_solicitud_numero\", \"type\": \"number\", \"description\": \"N\\u00famero de solicitud de afectaci\\u00f3n presupuestaria.\"}, {\"title\": \"financiamiento_fuente\", \"type\": \"string\", \"description\": \"Fuente de financiamiento\"}, {\"title\": \"objeto\", \"type\": \"string\", \"description\": \"Objeto de la contrataci\\u00f3n\"}, {\"title\": \"procedimiento_seleccion_tipo\", \"type\": \"string\", \"description\": \"Tipo de procedimiento de selecci\\u00f3n\"}, {\"title\": \"acto_administrativo_autorizacion_convocatoria_numero\", \"type\": \"number\", \"description\": \"N\\u00famero de Acto administrativo de autorizaci\\u00f3n de la convocatoria\"}, {\"title\": \"acto_administrativo_eleccion_procedimiento_seleccion_numero\", \"type\": \"number\", \"description\": \"N\\u00famero de Acto administrativo de  elecci\\u00f3n del procedimiento de selecci\\u00f3n\"}, {\"title\": \"sistema_contratacion\", \"type\": \"string\", \"description\": \"Sistema de contrataci\\u00f3n\"}, {\"title\": \"presupuesto_oficial_monto\", \"type\": \"number\", \"description\": \"Presupuesto oficial $\"}, {\"title\": \"apertura_fecha\", \"type\": \"date\", \"description\": \"Fecha de Apertura\"}, {\"title\": \"plazo_mantenimiento_de_oferta\", \"type\": \"integer\", \"description\": \"Plazo de mantenimiento de la oferta (d\\u00ecas)\"}, {\"title\": \"plazo_ejecucion\", \"type\": \"integer\", \"description\": \"Plazo de ejecuci\\u00f3n (d\\u00ecas)\"}, {\"title\": \"contratista_razon_social\", \"type\": \"string\", \"description\": \"Raz\\u00f3n Social del Contratista\"}, {\"title\": \"contratista_cuit_1\", \"type\": \"number\", \"description\": \"Cuit del Contratista\"}, {\"title\": \"contratista_cuit_2\", \"type\": \"number\", \"description\": \"Cuit del Contratista\"}, {\"title\": \"acta_de_inicio_fecha\", \"type\": \"date\", \"description\": \"Fecha de Acta de Inicio\"}, {\"title\": \"responsable_tecnico_nombre\", \"type\": \"string\", \"description\": \"Responsable t\\u00e9cnico de la obra\"}, {\"title\": \"anticipo_financiero_porcentaje\", \"type\": \"number\", \"description\": \"Porcentaje de anticipo financiero\"}, {\"title\": \"ampliaciones_al_contrato_original_porcentaje\", \"type\": \"number\", \"description\": \"Porcentaje de ampliaciones respecto al contrato original\"}, {\"title\": \"economias_respecto_contrato_original_porcentaje\", \"type\": \"number\", \"description\": \"Porcentaje de econom\\u00edas respecto al contrato original\"}, {\"title\": \"demasias_respecto_contrato_original_porcentaje\", \"type\": \"number\", \"description\": \"Porcentaje de demas\\u00edas respecto al contrato original\"}, {\"title\": \"prorrogas_de_plazo_cantidad\", \"type\": \"integer\", \"description\": \"Cantidad de pr\\u00f3rrogas de plazo\"}, {\"title\": \"prorrogas_de_plazo_unidad_de_medida\", \"type\": \"string\", \"description\": \"Unidad de medida de pr\\u00f3rrogas de plazo\"}, {\"title\": \"suspensiones_de_plazo_cantidad\", \"type\": \"integer\", \"description\": \"Cantidad de suspensiones de plazo\"}, {\"title\": \"suspensiones_de_plazo_unidad_de_medida\", \"type\": \"string\", \"description\": \"Unidad de medida de suspensiones de plazo\"}, {\"title\": \"neutralizaciones_de_plazo_cantidad\", \"type\": \"integer\", \"description\": \"Cantidad de neutralizaciones de plazo.\"}, {\"title\": \"neutralizaciones_de_plazo_unidad_de_medida\", \"type\": \"string\", \"description\": \"Unidad de medida de neutralizaciones de plazo.\"}, {\"title\": \"subcontratistas_cantidad\", \"type\": \"integer\", \"description\": \"Cantidad de Subcontratistas\"}, {\"title\": \"avance_fisico\", \"type\": \"number\", \"description\": \"Porcentaje de avance f\\u00edsico\"}, {\"title\": \"monto_certificado\", \"type\": \"number\", \"description\": \"Monto Certificado $\"}, {\"title\": \"rederterminaciones_precios_en_tramite_cantidad\", \"type\": \"integer\", \"description\": \"Cantidad de Redeterminaciones de precios en tr\\u00e1mite\"}, {\"title\": \"rederterminaciones_precios_aprobadas_cantidad\", \"type\": \"integer\", \"description\": \"Cantidad de Redeterminaciones de precios   aprobadas\"}, {\"title\": \"sanciones_aplicadas\", \"type\": \"integer\", \"description\": \"Sanciones aplicadas\"}, {\"title\": \"penalidades_aplicadas\", \"type\": \"integer\", \"description\": \"Penalidades aplicadas\"}, {\"title\": \"es_convenio\", \"type\": \"boolean\", \"description\": \"Si es convenio o no.\"}, {\"title\": \"provincia_id\", \"type\": \"number\", \"description\": \"Identificador de la provincia\"}, {\"title\": \"provincia_nombre\", \"type\": \"string\", \"description\": \"Nombre de la provincia\"}, {\"title\": \"departamento_id\", \"type\": \"number\", \"description\": \"Identificador del departamento\"}, {\"title\": \"departamento_nombre\", \"type\": \"string\", \"description\": \"Nombre del departamento.\"}, {\"title\": \"localidad_id\", \"type\": \"number\", \"description\": \"Identificador de la localidad.\"}, {\"title\": \"localidad_nombre\", \"type\": \"string\", \"description\": \"Nombre de la localidad.\"}, {\"title\": \"latitud\", \"type\": \"number\", \"description\": \"Coordenadas georeferenciadas latitud\"}, {\"title\": \"longuitud\", \"type\": \"number\", \"description\": \"Coordenadas georeferenciadas longuitud\"}, {\"title\": \"bapin\", \"type\": \"number\", \"description\": \"BAPIN (Banco de Proyectos de Inversi\\u00f3n P\\u00fablica)\"}, {\"title\": \"finalidad_funcion_subfuncion\", \"type\": \"number\", \"description\": \"Finalidad Funci\\u00f3n Subfunci\\u00f3n\"}, {\"title\": \"monto_2019\", \"type\": \"number\", \"description\": \"Monto 2019\"}, {\"title\": \"monto_2020\", \"type\": \"number\", \"description\": \"Monto 2020\"}, {\"title\": \"monto_2021\", \"type\": \"number\", \"description\": \"Monto 2021\"}, {\"title\": \"estado\", \"type\": \"string\", \"description\": \"Estado de la obra\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-09-27T00:00:00",
+      "datastore_active": false,
+      "description": "Listado de obras públicas por organismo, nombre, financiamiento, objeto, sistema de contratación, monto, entre otros atributos en formato CSV.",
+      "fileName": "onc_obras_decreto_1169_18.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "jgm_12.2",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Obras Públicas. Decreto N° 1169/2018 (CSV)",
+      "package_id": "jgm_12",
+      "position": 1,
+      "resource_type": null,
+      "revision_id": "340cf9cb-454b-4924-a73c-99d19c23b216",
+      "size": null,
+      "state": "active",
+      "url": "http://infra.datos.gob.ar/catalog/modernizacion/dataset/12/distribution/12.2/download/onc_obras_decreto_1169_18.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://datos.gob.ar/dataset/jgm-contratar/archivo/jgm_12.3",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-09-27T00:00:00",
+      "datastore_active": false,
+      "description": "Norma completa del Decreto N° 1169/2018 sobre Contrataciones",
+      "fileName": "norma.htm",
+      "format": "HTML",
+      "hash": "",
+      "id": "jgm_12.3",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Decreto N° 1169/2018 \"Contrataciones\"",
+      "package_id": "jgm_12",
+      "position": 2,
+      "resource_type": null,
+      "revision_id": "340cf9cb-454b-4924-a73c-99d19c23b216",
+      "size": null,
+      "state": "active",
+      "url": "http://servicios.infoleg.gob.ar/infolegInternet/anexos/315000-319999/318039/norma.htm",
+      "url_type": null
+    }
+  ],
+  "revision_id": "c2cb3721-0b8e-4173-84ec-4b45503e1002",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "BAPIN",
+      "id": "6e1f4eb0-ee30-4b27-ba43-f1da8742d8d0",
+      "name": "BAPIN",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Contrat.ar",
+      "id": "40ec39f3-1e48-4841-ae15-d2a15125c736",
+      "name": "Contrat.ar",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Contrataciones",
+      "id": "05c8387d-43dd-4363-b7f5-718624cacf2e",
+      "name": "Contrataciones",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Gobierno y sector público",
+      "id": "cabcb959-4dbc-4a58-b35e-dfd1f6d6ae5f",
+      "name": "Gobierno y sector público",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Licitaciones",
+      "id": "46662d1b-b4ec-47be-a0d8-72cc53c1308a",
+      "name": "Licitaciones",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "ONC",
+      "id": "831557f2-89e3-4c80-b70f-a099d3023a41",
+      "name": "ONC",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Obra Pública",
+      "id": "35ba68cc-ee95-4f9b-9bf1-380abfc0e19f",
+      "name": "Obra Pública",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Obras",
+      "id": "c4f93fc7-2266-449a-8cf6-d24e119de697",
+      "name": "Obras",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Contratar",
+  "type": "dataset",
+  "url": "https://contratar.gob.ar/",
+  "version": null
+}

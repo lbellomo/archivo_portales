@@ -1,0 +1,435 @@
+{
+  "author": "Ministerio de Justicia y Derechos Humanos. Secretaría de Justicia. Subsecretaría de Justicia y Política Criminal. Programa de Justicia Abierta",
+  "author_email": "justiciaabierta@jus.gov.ar",
+  "creator_user_id": "dc157489-51c6-44ce-bd63-3bd983d60778",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "eventual"
+    },
+    {
+      "key": "issued",
+      "value": "2019-05-10T13:41:41.585266"
+    },
+    {
+      "key": "modified",
+      "value": "2021-03-31T13:02:33.930056"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"JUST\"]"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Justicia, seguridad y legales",
+      "display_name": "Justicia, seguridad y legales",
+      "id": "69ac5e1d-79f0-4470-9514-8a173d9ae44c",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225406.604073justicia-seguridad-legales.svg",
+      "name": "just",
+      "title": "Justicia, seguridad y legales"
+    }
+  ],
+  "id": "justicia_4e7f024d-5855-492a-8d8e-eb72ecc98d77",
+  "isopen": true,
+  "license_id": "CC-BY-4.0",
+  "license_title": "Creative Commons Attribution 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "maintainer": "Ministerio de Justicia y Derechos Humanos. Secretaría de Justicia. Subsecretaría de Justicia y Política Criminal. Programa de Justicia Abierta",
+  "maintainer_email": "justiciaabierta@jus.gov.ar",
+  "metadata_created": "2019-12-04T20:02:31.443301",
+  "metadata_modified": "2021-04-29T17:10:22.476335",
+  "name": "justicia-poderes-judiciales---causas-penales",
+  "notes": "En este conjunto de datos se presentan los datos elaborados a partir de datos primarios remitidos por los poderes judiciales provinciales, correspondientes a causas penales, siguiendo el Protocolo Técnico de Datos y de Procesos, en el marco del Convenio Interjurisdiccional de Datos Abiertos de Justicia.",
+  "num_resources": 6,
+  "num_tags": 32,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:10.018297",
+    "description": "",
+    "id": "06b380f8-888f-43c0-8367-16a7ddf47d4f",
+    "image_url": "",
+    "is_organization": true,
+    "name": "justicia",
+    "revision_id": "637d68f0-a296-4d39-b846-4370270a96a1",
+    "state": "active",
+    "title": " Ministerio de Justicia y Derechos Humanos",
+    "type": "organization"
+  },
+  "owner_org": "06b380f8-888f-43c0-8367-16a7ddf47d4f",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "http://datos.jus.gob.ar/dataset/4e7f024d-5855-492a-8d8e-eb72ecc98d77/resource/06290d79-52a7-44e4-98d4-f9c8f7e58a0c",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-05-10T11:06:24.562014",
+      "datastore_active": false,
+      "description": "Muestreo de 1000 registros, elaborados a partir de datos primarios remitidos por los poderes judiciales provinciales, correspondientes a causas penales. Los datos completos están publicados en formato zip.",
+      "format": "CSV",
+      "hash": "",
+      "id": "justicia_06290d79-52a7-44e4-98d4-f9c8f7e58a0c",
+      "last_modified": "2021-03-31T10:00:09.953041",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Poderes judiciales - Causas penales - Muestreo",
+      "package_id": "justicia_4e7f024d-5855-492a-8d8e-eb72ecc98d77",
+      "position": 0,
+      "resource_type": null,
+      "revision_id": "b0adbf81-49d4-4667-b7dc-7dee9cf01c21",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.jus.gob.ar/dataset/4e7f024d-5855-492a-8d8e-eb72ecc98d77/resource/06290d79-52a7-44e4-98d4-f9c8f7e58a0c/download/poderes-judiciales-causas-penales-muestreo.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos.jus.gob.ar/dataset/4e7f024d-5855-492a-8d8e-eb72ecc98d77/resource/b16ff684-189c-4e21-8bdc-e597cac5192a",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-05-10T11:08:47.349417",
+      "datastore_active": false,
+      "description": "Muestreo de 1000 registros, elaborados a partir de datos primarios remitidos por los poderes judiciales provinciales, correspondientes a actos procesales penales de causas penales. Los datos completos están publicados en formato zip.",
+      "format": "CSV",
+      "hash": "",
+      "id": "justicia_b16ff684-189c-4e21-8bdc-e597cac5192a",
+      "last_modified": "2021-03-31T10:01:04.621054",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Poderes judiciales - Actos procesales de causas penales - Muestreo",
+      "package_id": "justicia_4e7f024d-5855-492a-8d8e-eb72ecc98d77",
+      "position": 1,
+      "resource_type": null,
+      "revision_id": "b0adbf81-49d4-4667-b7dc-7dee9cf01c21",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.jus.gob.ar/dataset/4e7f024d-5855-492a-8d8e-eb72ecc98d77/resource/b16ff684-189c-4e21-8bdc-e597cac5192a/download/poderes-judiciales-actos-procesales-penales-muestreo.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos.jus.gob.ar/dataset/4e7f024d-5855-492a-8d8e-eb72ecc98d77/resource/03b4bc00-5913-44d5-8763-0723a4e22355",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-05-15T10:29:24.525137",
+      "datastore_active": false,
+      "description": "Índice de provincias y años disponibles publicados",
+      "format": "CSV",
+      "hash": "",
+      "id": "justicia_03b4bc00-5913-44d5-8763-0723a4e22355",
+      "last_modified": "2021-03-31T10:01:34.585999",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Poderes Judiciales - provincias y años disponibles - causas penales",
+      "package_id": "justicia_4e7f024d-5855-492a-8d8e-eb72ecc98d77",
+      "position": 2,
+      "resource_type": null,
+      "revision_id": "b0adbf81-49d4-4667-b7dc-7dee9cf01c21",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.jus.gob.ar/dataset/4e7f024d-5855-492a-8d8e-eb72ecc98d77/resource/03b4bc00-5913-44d5-8763-0723a4e22355/download/poderes-judiciales-provincias-y-anios-disponibles-causas-penales.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos.jus.gob.ar/dataset/4e7f024d-5855-492a-8d8e-eb72ecc98d77/resource/1b3e060d-17a9-4054-952f-fd3f78c97c6f",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2020-09-28T22:42:27.610678",
+      "datastore_active": false,
+      "description": "Gráficos estadísticos elaborados en base a los datos primarios remitidos por los poderes judiciales provinciales de causas penales",
+      "format": "Gráfico",
+      "hash": "",
+      "id": "justicia_1b3e060d-17a9-4054-952f-fd3f78c97c6f",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Gráficos estadísticos de causas penales",
+      "package_id": "justicia_4e7f024d-5855-492a-8d8e-eb72ecc98d77",
+      "position": 3,
+      "resource_type": null,
+      "revision_id": "55d1493f-3aa5-4600-b122-44fc521e844e",
+      "size": null,
+      "state": "active",
+      "url": "https://public.tableau.com/profile/justicia.abierta#!/vizhome/EstadisticasjudicialesPoderJudicialPENAL_15597590193790/PENALPJ",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos.jus.gob.ar/dataset/4e7f024d-5855-492a-8d8e-eb72ecc98d77/resource/74da2b99-280a-4fc3-adf0-471d2d819b2a",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-05-10T10:48:42.366391",
+      "datastore_active": false,
+      "description": "Datos correspondientes a causas penales elaborados a partir de datos primarios remitidos por los poderes judiciales provinciales.",
+      "format": "ZIP",
+      "hash": "",
+      "id": "justicia_74da2b99-280a-4fc3-adf0-471d2d819b2a",
+      "last_modified": "2021-03-31T10:02:01.836936",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Poderes judiciales - Causas penales",
+      "package_id": "justicia_4e7f024d-5855-492a-8d8e-eb72ecc98d77",
+      "position": 4,
+      "resource_type": null,
+      "revision_id": "b0adbf81-49d4-4667-b7dc-7dee9cf01c21",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.jus.gob.ar/dataset/4e7f024d-5855-492a-8d8e-eb72ecc98d77/resource/74da2b99-280a-4fc3-adf0-471d2d819b2a/download/poderes-judiciales-causas-penales.zip",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos.jus.gob.ar/dataset/4e7f024d-5855-492a-8d8e-eb72ecc98d77/resource/f5fae326-794e-44ad-aaaa-c7dacc3ea93f",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-05-10T11:02:02.703551",
+      "datastore_active": false,
+      "description": "Datos correspondientes a actos procesales de causas penales, elaborados a partir de datos primarios remitidos por los poderes judiciales provinciales.",
+      "format": "ZIP",
+      "hash": "",
+      "id": "justicia_f5fae326-794e-44ad-aaaa-c7dacc3ea93f",
+      "last_modified": "2021-03-31T10:02:33.899551",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Poderes judiciales - Actos procesales de causas penales",
+      "package_id": "justicia_4e7f024d-5855-492a-8d8e-eb72ecc98d77",
+      "position": 5,
+      "resource_type": null,
+      "revision_id": "b0adbf81-49d4-4667-b7dc-7dee9cf01c21",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.jus.gob.ar/dataset/4e7f024d-5855-492a-8d8e-eb72ecc98d77/resource/f5fae326-794e-44ad-aaaa-c7dacc3ea93f/download/poderes-judiciales-actos-procesales-penales.zip",
+      "url_type": null
+    }
+  ],
+  "revision_id": "77bea2d0-3a95-4fd2-be6a-170bc00f5f24",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "Buenos Aires",
+      "id": "a64d8bda-865a-4f0d-ba0c-5cc2adfda147",
+      "name": "Buenos Aires",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Catamarca",
+      "id": "390c55ad-fe7d-4606-8f08-85269de97b38",
+      "name": "Catamarca",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Chaco",
+      "id": "e3286e11-fc9b-4fd8-a16a-228328eac19f",
+      "name": "Chaco",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Chubut",
+      "id": "31b31a0b-5ecb-4c09-a842-53ba71128475",
+      "name": "Chubut",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Ciudad Autónoma de Buenos Aires",
+      "id": "942f81b6-f4e9-4143-a43e-afa4b4fa2673",
+      "name": "Ciudad Autónoma de Buenos Aires",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Corrientes",
+      "id": "f2038a5f-e254-4f51-8f4f-069ae50c7ddb",
+      "name": "Corrientes",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Córdoba",
+      "id": "60077799-c6f2-42ff-a94f-7ba128ddf67a",
+      "name": "Córdoba",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Entre Ríos",
+      "id": "edde64f2-98b1-4e29-8908-7684437a439b",
+      "name": "Entre Ríos",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Formosa",
+      "id": "462e3b6c-3655-4e06-808a-0489ab0d59e4",
+      "name": "Formosa",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Instituciones de Justicia",
+      "id": "4530aca9-51ff-4bec-ad01-7560402f81e5",
+      "name": "Instituciones de Justicia",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Jujuy",
+      "id": "e840e4eb-4243-4d8d-bf13-b8a068f04e1a",
+      "name": "Jujuy",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "La Pampa",
+      "id": "964ccb10-2ecc-4944-a4c2-7c5d705b46c2",
+      "name": "La Pampa",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "La Rioja",
+      "id": "467b4f8d-c7d4-4a22-9241-133e5e00a8ae",
+      "name": "La Rioja",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Mendoza",
+      "id": "57a86743-2e26-4f17-8ae7-760d624e890a",
+      "name": "Mendoza",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Misiones",
+      "id": "88b01243-8df4-423f-a7e7-c816d3c59cfc",
+      "name": "Misiones",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Neuquén",
+      "id": "0b661e1b-df10-43f5-bc27-2b87789ffc7d",
+      "name": "Neuquén",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Río Negro",
+      "id": "b10d429c-76ed-499e-a162-d4f49749d5b1",
+      "name": "Río Negro",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Salta",
+      "id": "75690a55-6ca2-4952-ad7f-fa5b6ed4f22b",
+      "name": "Salta",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "San Juan",
+      "id": "7b962c68-4dc2-4cad-81cb-7e0a90e1fdd0",
+      "name": "San Juan",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "San Luis",
+      "id": "4087bdaf-26bb-414f-9169-774a945962f3",
+      "name": "San Luis",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Santa Cruz",
+      "id": "3a0df385-9ffa-4459-89ea-6d34d051dd98",
+      "name": "Santa Cruz",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Santa Fe",
+      "id": "a0d13c88-5e93-4639-abd6-639c3eba7100",
+      "name": "Santa Fe",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Santiago del Estero",
+      "id": "ed368a40-734b-40e7-be46-e8d526d1b88b",
+      "name": "Santiago del Estero",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Tierra del Fuego",
+      "id": "b3233b60-f44f-40e2-9aa4-9b77a35437e6",
+      "name": "Tierra del Fuego",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Tucumán",
+      "id": "f09d9c12-9a5e-49eb-b1fe-ff617fdb9181",
+      "name": "Tucumán",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "actos procesales",
+      "id": "6eb52fbb-0cf3-4d6d-92d9-ab05922fc55c",
+      "name": "actos procesales",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "causas",
+      "id": "59c6dbe6-52eb-4bea-8262-aa6ba12260a0",
+      "name": "causas",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "código penal",
+      "id": "91af4c28-4671-4952-9136-99efd9efa5f5",
+      "name": "código penal",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "delitos",
+      "id": "0a650bd4-0c75-4525-ba11-087d486e4d7c",
+      "name": "delitos",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "insituciones",
+      "id": "01273d5c-4646-465d-9f3e-3857c57b1bd9",
+      "name": "insituciones",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "investigación penal preparatoria",
+      "id": "c006712c-6368-4096-b3c6-4297532fe76f",
+      "name": "investigación penal preparatoria",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "poderes judiciales",
+      "id": "fb6f963b-70c8-4e2f-b37f-ef5d73315e8e",
+      "name": "poderes judiciales",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Poderes judiciales - Causas penales",
+  "type": "dataset",
+  "url": "http://datos.jus.gob.ar/dataset/poderes-judiciales-causas-penales",
+  "version": null
+}

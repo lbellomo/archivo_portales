@@ -1,0 +1,352 @@
+{
+  "author": "Dirección de Certificación y Control - INASE",
+  "author_email": "rncyfs@inase.gov.ar",
+  "creator_user_id": "dc157489-51c6-44ce-bd63-3bd983d60778",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P6M"
+    },
+    {
+      "key": "issued",
+      "value": "2018-12-07T21:19:32.041007"
+    },
+    {
+      "key": "language",
+      "value": "[\"spa\"]"
+    },
+    {
+      "key": "modified",
+      "value": "2019-10-24T10:44:34.764016"
+    },
+    {
+      "key": "spatial",
+      "value": "[\"ARG\"]"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"AGRI\"]"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Agroganadería, pesca y forestación",
+      "display_name": "Agroganadería, pesca y forestación",
+      "id": "0c35ea38-7059-41d2-9827-5587769d0dc6",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225145.990789agroganaderia-pesca-forestacion.svg",
+      "name": "agri",
+      "title": "Agroganadería, pesca y forestación"
+    }
+  ],
+  "id": "agroindustria_022957c0-60a0-4c1a-8160-e601bbbf8012",
+  "isopen": true,
+  "license_id": "CC-BY-4.0",
+  "license_title": "Creative Commons Attribution 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "maintainer": null,
+  "maintainer_email": null,
+  "metadata_created": "2019-12-04T20:01:12.359346",
+  "metadata_modified": "2021-04-29T17:06:58.235079",
+  "name": "agroindustria-inase---produccion-semillas-por-especies-ubicacion",
+  "notes": "Datos de la producción nacional de las especies -desagregado por ubicación- que pasan por el proceso de fiscalización del Instituto Nacional de Semillas (INASE).\r\n",
+  "num_resources": 3,
+  "num_tags": 28,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:07.834957",
+    "description": "",
+    "id": "b10c94e2-ade1-4a97-8c4c-b1ada7878d60",
+    "image_url": "",
+    "is_organization": true,
+    "name": "agroindustria",
+    "revision_id": "f7c3b6e9-d48f-4522-9f7a-388d805c8392",
+    "state": "active",
+    "title": "Ministerio de Agricultura, Ganadería y Pesca",
+    "type": "organization"
+  },
+  "owner_org": "b10c94e2-ade1-4a97-8c4c-b1ada7878d60",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "http://datos.agroindustria.gob.ar/dataset/022957c0-60a0-4c1a-8160-e601bbbf8012/resource/03863ce1-cc80-481b-b3dc-0c5abaf90724",
+      "attributesDescription": "[{\"type\": \"string\", \"description\": \"Divisi\\u00f3n pol\\u00edtica provincial\\n\", \"title\": \"provincia\"}, {\"type\": \"string\", \"description\": \"Divisi\\u00f3n pol\\u00edtica departamental\", \"title\": \"localidad\"}, {\"type\": \"string\", \"description\": \"Nombre com\\u00fan de la especie\", \"title\": \"nombreVulgar\"}, {\"type\": \"string\", \"description\": \"Kilogramos/Pl\\u00e1ntulas/Microplantulas/Minituberculos\", \"title\": \"unidadRendimiento\"}, {\"type\": \"integer\", \"description\": \"Cantidad de r\\u00f3tulos emitidos\", \"title\": \"RotulosEmitidos\"}, {\"type\": \"string\", \"description\": \"Unidades totales producidas\", \"title\": \"Unidades\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2018-10-18T13:43:58.026673",
+      "datastore_active": false,
+      "description": "Datos relacionados a la producción Nacional de las especies desagregado por ubicación que pasan por el proceso de fiscalización del INASE, del período 2017 -2018.",
+      "fileName": "superficienacionalfiscalizadaporespeciesregistradaenelinaseenelperiodo2017y2018.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "agroindustria_03863ce1-cc80-481b-b3dc-0c5abaf90724",
+      "last_modified": "2019-01-14T14:07:56.027266",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Producion Nacional Fiscalizada por Especies y Ubicación Registrada en el INASE entre el período 2017 y 2018",
+      "package_id": "agroindustria_022957c0-60a0-4c1a-8160-e601bbbf8012",
+      "position": 0,
+      "resource_type": "file.upload",
+      "revision_id": "480f0151-60a9-43da-a8cc-35be4012e498",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.agroindustria.gob.ar/dataset/022957c0-60a0-4c1a-8160-e601bbbf8012/resource/03863ce1-cc80-481b-b3dc-0c5abaf90724/download/produccion-nacional-especie-provincia-y-localidad-2017-2018-.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos.agroindustria.gob.ar/dataset/022957c0-60a0-4c1a-8160-e601bbbf8012/resource/d4d4498e-f685-43ed-b95a-979b967ae63c",
+      "attributesDescription": "[{\"type\": \"string\", \"description\": \"C\\u00f3digo Nacional\", \"title\": \"pais_id\"}, {\"type\": \"string\", \"description\": \"Divisi\\u00f3n pol\\u00edtica mundial\", \"title\": \"nompais_id\"}, {\"type\": \"string\", \"description\": \"C\\u00f3digo Provincial\", \"title\": \"provincia_id\"}, {\"type\": \"string\", \"description\": \"Divisi\\u00f3n pol\\u00edtica provincial\", \"title\": \"provincia\"}, {\"type\": \"string\", \"description\": \"Divisi\\u00f3n pol\\u00edtica departamental\", \"title\": \"localidad\"}, {\"type\": \"string\", \"description\": \"Nombre com\\u00fan de la especie\", \"title\": \"nombreVulgar\"}, {\"type\": \"string\", \"description\": \"Kilogramos/Pl\\u00e1ntulas/Microplantulas/Minituberculos\", \"title\": \"unidadRendimiento\"}, {\"type\": \"integer\", \"description\": \"Cantidad de r\\u00f3tulos emitidos\", \"title\": \"RotulosEmitidos\"}, {\"type\": \"string\", \"description\": \"Unidades totales producidas\", \"title\": \"Unidades\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-09-07T21:05:13.120594",
+      "datastore_active": false,
+      "description": "Datos relacionados a la producción Nacional de las especies desagregado por ubicación que pasan por el proceso de fiscalización del INASE, del período 16-17.",
+      "fileName": "superficie-nacional-fiscalizada-por-especie-16-17.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "agroindustria_d4d4498e-f685-43ed-b95a-979b967ae63c",
+      "last_modified": "2019-01-14T14:08:34.658557",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Producion Nacional Fiscalizada por Especies y Ubicación Registrada en el INASE entre el período 2016 y 2017",
+      "package_id": "agroindustria_022957c0-60a0-4c1a-8160-e601bbbf8012",
+      "position": 1,
+      "resource_type": "file.upload",
+      "revision_id": "3379023f-706d-4d69-9f91-efd8c74e0edb",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.agroindustria.gob.ar/dataset/022957c0-60a0-4c1a-8160-e601bbbf8012/resource/d4d4498e-f685-43ed-b95a-979b967ae63c/download/produccion-nacional-fiscalizada-por-especie-y-ubicacion-16-17-.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos.agroindustria.gob.ar/dataset/022957c0-60a0-4c1a-8160-e601bbbf8012/resource/91bb839c-e97a-4da2-94df-e7ba62b2881a",
+      "attributesDescription": "[{\"type\": \"string\", \"description\": \"C\\u00f3digo Nacional\", \"title\": \"pais_id\"}, {\"type\": \"string\", \"description\": \"Divisi\\u00f3n pol\\u00edtica mundial\", \"title\": \"nompais_id\"}, {\"type\": \"string\", \"description\": \"C\\u00f3digo Provincial\", \"title\": \"provincia_id\"}, {\"type\": \"string\", \"description\": \"Divisi\\u00f3n pol\\u00edtica provincial\", \"title\": \"provincia\"}, {\"type\": \"string\", \"description\": \"Divisi\\u00f3n pol\\u00edtica departamental\", \"title\": \"localidad\"}, {\"type\": \"string\", \"description\": \"Nombre com\\u00fan de la especie\", \"title\": \"nombreVulgar\"}, {\"type\": \"string\", \"description\": \"Kilogramos/Pl\\u00e1ntulas/Microplantulas/Minituberculos\", \"title\": \"unidadRendimiento\"}, {\"type\": \"integer\", \"description\": \"Cantidad de r\\u00f3tulos emitidos\", \"title\": \"RotulosEmitidos\"}, {\"type\": \"string\", \"description\": \"Unidades totales producidas\", \"title\": \"Unidades\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-09-07T21:04:21.760635",
+      "datastore_active": false,
+      "description": "Datos relacionados a la producción Nacional de las especies desagregado por ubicación que pasan por el proceso de fiscalización del INASE, del período 14-15.",
+      "fileName": "superficie-nacional-fiscalizada-por-especies-14-15.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "agroindustria_91bb839c-e97a-4da2-94df-e7ba62b2881a",
+      "last_modified": "2019-01-14T14:12:46.997973",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Producion Nacional Fiscalizada por Especies y Ubicación Registrada en el INASE entre el período 2014 y 2015",
+      "package_id": "agroindustria_022957c0-60a0-4c1a-8160-e601bbbf8012",
+      "position": 2,
+      "resource_type": "file.upload",
+      "revision_id": "5bb1207a-e575-4e9c-a01e-2fcae7492ae4",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.agroindustria.gob.ar/dataset/022957c0-60a0-4c1a-8160-e601bbbf8012/resource/91bb839c-e97a-4da2-94df-e7ba62b2881a/download/34-produccion-nacional-fiscalizada-por-especie-y-ubicacion-14-15.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "083d51b0-319b-4718-91c9-1cad31054297",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "INASE",
+      "id": "ad93b88f-2d5d-4ab3-8054-cee3801c9761",
+      "name": "INASE",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "agropiro",
+      "id": "58993d95-3acb-4032-a919-49ab156339e4",
+      "name": "agropiro",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "alfalfa",
+      "id": "3252b1a2-a08e-411e-ae04-2992ad7aa4ae",
+      "name": "alfalfa",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "arveja",
+      "id": "a41a7c6b-d875-4020-bd7b-27d16c4a5cf2",
+      "name": "arveja",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "avena",
+      "id": "726a06a3-7131-45a7-87c0-27787386b117",
+      "name": "avena",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "cebada",
+      "id": "6aeb3f84-2e6c-43ff-ba71-c8a731167691",
+      "name": "cebada",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "cebadilla",
+      "id": "5c73ee55-1eab-4c02-b89b-fe61d8d63893",
+      "name": "cebadilla",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "centeno",
+      "id": "0a41dcd7-fb3a-4b96-947a-d126e2b1ff18",
+      "name": "centeno",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "colza",
+      "id": "2629064e-d16c-4847-8313-47dbf18a0fae",
+      "name": "colza",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "festuca",
+      "id": "f322992a-9fb6-4e67-8c70-34760dbfbb8f",
+      "name": "festuca",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "fiscalización semillas",
+      "id": "b2d144bb-846e-46f8-a014-40398ec6a055",
+      "name": "fiscalización semillas",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "girasol",
+      "id": "0a6c0a50-77c6-448a-af4d-e5d9a869e21c",
+      "name": "girasol",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "lolium",
+      "id": "c8eeba06-58c8-4f35-9191-2dd8a8be7240",
+      "name": "lolium",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "lotus",
+      "id": "ebc5aa4a-1ab9-4ad0-865d-40d57ec79f85",
+      "name": "lotus",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "maiz",
+      "id": "ae324ffd-6569-440f-ae0f-27edc3ac104a",
+      "name": "maiz",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "moha",
+      "id": "5fc35bdf-c3ac-4857-83d0-0aca64620e48",
+      "name": "moha",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "papa",
+      "id": "411841f0-5f40-46bb-8645-b6e7097c09ed",
+      "name": "papa",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "pasto ovillo",
+      "id": "11573a71-4d3d-4fe2-9714-0306f980ad91",
+      "name": "pasto ovillo",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "phalaris",
+      "id": "3a82f6dc-d133-4a9c-942a-60e68e215ea3",
+      "name": "phalaris",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "raigras",
+      "id": "d3da5f94-4d0a-458a-8cb2-85093b006ec0",
+      "name": "raigras",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "registro semillas",
+      "id": "5c7019e3-f21a-4b1e-be97-55d2a1dde247",
+      "name": "registro semillas",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "rendimientos",
+      "id": "c7f42e39-bf48-48e4-a928-7de003996205",
+      "name": "rendimientos",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "rotulos emitidos",
+      "id": "06353c5f-052c-43af-ac1c-1ebacdcc9bb3",
+      "name": "rotulos emitidos",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "semillas",
+      "id": "5a39e674-4fad-489a-b085-782f39a59715",
+      "name": "semillas",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "soja",
+      "id": "fcbafe29-23bd-47c6-8253-eaba1377cd8f",
+      "name": "soja",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "sorgo",
+      "id": "f5386bee-4546-4f3d-9076-2b4b2bea0833",
+      "name": "sorgo",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "trebol",
+      "id": "a2740c52-8fb9-4c63-9cfb-fd19519b8461",
+      "name": "trebol",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "trigo",
+      "id": "ba98c56a-aab4-45cf-8592-9025a6c14ca9",
+      "name": "trigo",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "INASE - Producción de semillas por especies y ubicación",
+  "type": "dataset",
+  "url": "https://datos.agroindustria.gob.ar/dataset/produccion-nacional-fiscalizada-por-especies-ubicacion-registrada-inase",
+  "version": null
+}

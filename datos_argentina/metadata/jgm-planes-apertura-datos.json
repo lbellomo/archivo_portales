@@ -1,0 +1,154 @@
+{
+  "author": "Jefatura de Gabinete de Ministros. Secretaría de Innovación Pública. Subsecretaría de Gobierno Abierto y País Digital.",
+  "author_email": "datosargentina@jefatura.gob.ar",
+  "creator_user_id": "dc157489-51c6-44ce-bd63-3bd983d60778",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "eventual"
+    },
+    {
+      "key": "issued",
+      "value": "2017-01-25T00:00:00"
+    },
+    {
+      "key": "language",
+      "value": "[\"SPA\"]"
+    },
+    {
+      "key": "modified",
+      "value": "2020-01-29"
+    },
+    {
+      "key": "spatial",
+      "value": "ARG"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"GOVE\"]"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Gobierno y sector público",
+      "display_name": "Gobierno y sector público",
+      "id": "e6f07c77-3987-4e71-98a6-731b1aaf74f4",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225353.395233gobierno-sector-publico.svg",
+      "name": "gove",
+      "title": "Gobierno y sector público"
+    }
+  ],
+  "id": "jgm_6",
+  "isopen": true,
+  "license_id": "CC-BY-4.0",
+  "license_title": "Creative Commons Attribution 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "maintainer": "Secretaría de Innovación Pública. Subsecretaría de Gobierno Abierto y País Digital.",
+  "maintainer_email": null,
+  "metadata_created": "2020-01-29T20:34:14.947941",
+  "metadata_modified": "2021-04-29T17:16:09.914597",
+  "name": "jgm-planes-apertura-datos",
+  "notes": "Compromisos de publicación presentados por las jurisdicciones del Poder Ejecutivo Nacional en cumplimiento del Decreto 117/2016.",
+  "num_resources": 1,
+  "num_tags": 7,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:06.745974",
+    "description": "",
+    "id": "f917ad65-28ea-42a9-81ae-61a2bb8f58d0",
+    "image_url": "",
+    "is_organization": true,
+    "name": "jgm",
+    "revision_id": "ddd4eb90-3b5d-40d0-a290-414515935bf3",
+    "state": "active",
+    "title": " Jefatura de Gabinete de Ministros",
+    "type": "organization"
+  },
+  "owner_org": "f917ad65-28ea-42a9-81ae-61a2bb8f58d0",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "https://datos.gob.ar/dataset/jgm-planes-apertura-datos/archivo/jgm_6.1",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-01-25T19:34:01.140848",
+      "datastore_active": false,
+      "description": "Planes de apertura de datos para los años 2016 y 2017.",
+      "fileName": "planes-apertura-2016-2017.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "jgm_6.1",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Planes de Apertura 2016/17",
+      "package_id": "jgm_6",
+      "position": 0,
+      "resource_type": null,
+      "revision_id": "51d0f110-ab21-4732-9e2b-cf568a982c51",
+      "size": null,
+      "state": "active",
+      "url": "https://infra.datos.gob.ar/catalog/modernizacion/dataset/5/distribution/5.1/download/planes-apertura-2016-2017.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "6443a8cf-f76a-4de2-96f2-2743f65b263e",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "Gobierno y sector público",
+      "id": "cabcb959-4dbc-4a58-b35e-dfd1f6d6ae5f",
+      "name": "Gobierno y sector público",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "apertura",
+      "id": "c6b90111-35c1-40ff-bed2-9424f7bc7fdc",
+      "name": "apertura",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "compromisos",
+      "id": "1fdee218-6bdb-4b3a-86f9-ab6f0f05c5b9",
+      "name": "compromisos",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "datos",
+      "id": "6292a0f2-152a-4c19-9a8e-3126d4c5593a",
+      "name": "datos",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "gobierno abierto",
+      "id": "2cab2f13-83ae-4365-abce-e19274f31194",
+      "name": "gobierno abierto",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "ministerios",
+      "id": "964d6987-7f61-4e29-9a40-6860b89bae87",
+      "name": "ministerios",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "participación",
+      "id": "2528c213-ab6d-4a7d-968d-9e25f17340b9",
+      "name": "participación",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Planes de Apertura de Datos",
+  "type": "dataset",
+  "url": "https://datosgobar.github.io/pad",
+  "version": null
+}

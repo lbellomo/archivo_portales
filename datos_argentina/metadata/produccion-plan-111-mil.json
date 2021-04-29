@@ -1,0 +1,148 @@
+{
+  "author": "Secretaría de Emprendedores y PyMEs",
+  "author_email": "datos.abiertos@produccion.gob.ar",
+  "creator_user_id": "4720e75a-9e17-4dc3-879d-041917c7f9f9",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "eventual"
+    },
+    {
+      "key": "issued",
+      "value": "2018-10-05T18:59:55.000Z"
+    },
+    {
+      "key": "modified",
+      "value": "2020-02-26T22:03:20.000Z"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"econ\", \"educ\"]"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Economía y finanzas",
+      "display_name": "Economía y finanzas",
+      "id": "60b4b03e-10a1-4d67-b984-08008a249617",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225257.200233economia-finanzas.svg",
+      "name": "econ",
+      "title": "Economía y finanzas"
+    },
+    {
+      "description": "Educación, cultura y deportes",
+      "display_name": "Educación, cultura y deportes",
+      "id": "b5ebe955-de3d-4e0b-b28c-16df2b2af99f",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225313.459997educacion-cultura-deportes.svg",
+      "name": "educ",
+      "title": "Educación, cultura y deportes"
+    }
+  ],
+  "id": "produccion_BkiUNVH5Q",
+  "isopen": true,
+  "license_id": "CC-BY-4.0",
+  "license_title": "Creative Commons Attribution 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "maintainer": null,
+  "maintainer_email": null,
+  "metadata_created": "2019-11-26T14:57:18.255823",
+  "metadata_modified": "2021-04-29T17:04:39.753021",
+  "name": "produccion-plan-111-mil",
+  "notes": "El plan forma a programadores y emprendedores en desarrollo de software con el objetivo de cubrir la demanda laboral de las Industrias Basadas en el Conocimiento.",
+  "num_resources": 2,
+  "num_tags": 3,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:10.463340",
+    "description": "",
+    "id": "1ca8d15b-31fc-4f09-ba09-53edd3d4cce6",
+    "image_url": "",
+    "is_organization": true,
+    "name": "produccion",
+    "revision_id": "36d8ec89-d20f-4fe1-866c-e38988d28442",
+    "state": "active",
+    "title": "Ministerio de Desarrollo Productivo",
+    "type": "organization"
+  },
+  "owner_org": "1ca8d15b-31fc-4f09-ba09-53edd3d4cce6",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "http://datos.produccion.gob.ar/dataset/plan-111-mil",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2018-10-05T15:59:55",
+      "datastore_active": false,
+      "description": "guia.",
+      "format": "PDF",
+      "hash": "",
+      "id": "produccion_HkzK44HcQ",
+      "last_modified": "2019-02-05T16:28:01",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Guia datos 111 mil",
+      "package_id": "produccion_BkiUNVH5Q",
+      "position": 0,
+      "resource_type": null,
+      "revision_id": "1865e04b-8e25-4258-bbe7-3db4b7b8db65",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.produccion.gob.ar/api/files/guia-datos-111-mil.pdf/download",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos.produccion.gob.ar/dataset/plan-111-mil",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2018-10-05T15:59:55",
+      "datastore_active": false,
+      "description": "Personas que fueron certificadas por el Plan 111mil por provincia y sede.",
+      "format": "CSV",
+      "hash": "",
+      "id": "produccion_HydhEErq7",
+      "last_modified": "2019-07-23T11:39:22",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Personas certificadas",
+      "package_id": "produccion_BkiUNVH5Q",
+      "position": 1,
+      "resource_type": null,
+      "revision_id": "a5bc0983-abe2-43ae-9d73-116cba6b2188",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.produccion.gob.ar/api/files/personas-certificadas.csv/download",
+      "url_type": null
+    }
+  ],
+  "revision_id": "92d88151-7bbc-4a7a-a979-633350137319",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "Capacitación",
+      "id": "56b4d54c-2228-4ce1-a877-0bca2d32a079",
+      "name": "Capacitación",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Plan ciento once mil",
+      "id": "6aa8bcc9-d556-42a7-99c0-3417e3e2594a",
+      "name": "Plan ciento once mil",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Pymes",
+      "id": "97635f98-f203-4647-ae25-9a02f74c1d28",
+      "name": "Pymes",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Plan 111 mil",
+  "type": "dataset",
+  "url": "http://datos.produccion.gob.ar/dataset/plan-111-mil",
+  "version": null
+}

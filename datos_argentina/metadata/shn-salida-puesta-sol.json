@@ -1,0 +1,198 @@
+{
+  "author": "Ministerio de Defensa. Secretaría de Investigación, Política Industrial y Producción para la Defensa. Subsecretaría de Investigación Científica y Política Industrial para la Defensa. Servicio de Hidrografía Naval.",
+  "author_email": "shn@hidro.gov.ar",
+  "creator_user_id": "dc157489-51c6-44ce-bd63-3bd983d60778",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P1Y"
+    },
+    {
+      "key": "issued",
+      "value": "2019-11-30"
+    },
+    {
+      "key": "language",
+      "value": "[\"SPA\"]"
+    },
+    {
+      "key": "source",
+      "value": "Servicio de Hidrografía Naval"
+    },
+    {
+      "key": "spatial",
+      "value": "ARG"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"ENVI\"]"
+    },
+    {
+      "key": "temporal",
+      "value": "2018-01-01/2019-12-31"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Medio ambiente",
+      "display_name": "Medio ambiente",
+      "id": "f71fe9d7-c703-43be-8d9d-af9441c326ba",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225440.964279medio-ambiente.svg",
+      "name": "envi",
+      "title": "Medio ambiente"
+    }
+  ],
+  "id": "shn_03",
+  "isopen": true,
+  "license_id": "CC-BY-4.0",
+  "license_title": "Creative Commons Attribution 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "maintainer": "Observatorio Naval Buenos Aires",
+  "maintainer_email": "onba@hidro.gov.ar",
+  "metadata_created": "2020-02-07T18:14:28.828899",
+  "metadata_modified": "2021-04-29T17:05:16.418409",
+  "name": "shn-salida-puesta-sol",
+  "notes": "Datos de Salida y puesta, azimut, crepúsculo matutino y vespertino del Sol en las ciudades más importantes de la República Argentina para cada día del año.",
+  "num_resources": 2,
+  "num_tags": 9,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2020-02-07T15:10:25.819545",
+    "description": "",
+    "id": "c665e7c4-3a0e-43cf-ba02-e75b09b7bac8",
+    "image_url": "",
+    "is_organization": true,
+    "name": "shn",
+    "revision_id": "18aefd9b-6e36-42be-ac4a-37142633b1d3",
+    "state": "active",
+    "title": "Servicio de Hidrografía Naval",
+    "type": "organization"
+  },
+  "owner_org": "c665e7c4-3a0e-43cf-ba02-e75b09b7bac8",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "http://www.hidro.gob.ar/DA/DatosAbiertos.asp",
+      "attributesDescription": "[{\"title\": \"localidad\", \"type\": \"text\", \"description\": \"Localidad observada\"}, {\"title\": \"latitud\", \"type\": \"text\", \"description\": \"Latitud en grados y minutos. SUR (S)\"}, {\"title\": \"longitud\", \"type\": \"text\", \"description\": \"Longitud en grados y minutos OESTE (W)\"}, {\"title\": \"anio\", \"type\": \"integer\", \"description\": \"A\\u00f1o actual\"}, {\"title\": \"mes\", \"type\": \"text\", \"description\": \"Mes actual (abreviatura: Ene, Feb,Mar,Abr,May,Jun,Jul, Ago,Set,Oct,Nov,Dic)\"}, {\"title\": \"dia\", \"type\": \"integer\", \"description\": \"N\\u00famero correspondiente al d\\u00eda del mes en que se produce la salida del sol.\"}, {\"title\": \"crepusculo_matutino\", \"type\": \"time\", \"description\": \"Hora y minutos en que se inicia el Crep\\u00fasculo Matutino. (Intervalo de tiempo anterior a la salida del Sol en el que el cielo est\\u00e1 parcialmente iluminado)\"}, {\"title\": \"salida_sol\", \"type\": \"time\", \"description\": \"Hora y minutos del instante en el cual comienza a aparecer y a observarse sobre el horizonte el borde aparente del sol.\"}, {\"title\": \"azimut_salida\", \"type\": \"text\", \"description\": \"\\u00c1ngulo medido en grados sobre el horizonte, desde el punto cardinal Norte hacia el punto cardinal Este, hasta la vertical del sol.\"}, {\"title\": \"puesta_sol\", \"type\": \"time\", \"description\": \"Hora y minutos del instante en el cual el sol se oculta tras el horizonte y su borde aparente es observable.\"}, {\"title\": \"azimut_puesta\", \"type\": \"text\", \"description\": \"\\u00c1ngulo medido en grados sobre el horizonte, desde el punto cardinal Norte hacia el punto cardinal Este, hasta la vertical del sol.\"}, {\"title\": \"crepusculo_vespertino\", \"type\": \"time\", \"description\": \"Hora y minutos que inicia el Crep\\u00fasculo Vespertino. (Intervalo de tiempo que sigue a la puesta del sol en el que el cielo est\\u00e1 parcialmente iluminado).\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-12-31T00:00:00",
+      "datastore_active": false,
+      "description": "Datos de horas de salida y puesta de luna por ciudades y año",
+      "fileName": "sol2018.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "shn_3.1",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Salida y puesta de sol 2018 por ciudades",
+      "package_id": "shn_03",
+      "position": 0,
+      "resource_type": "file",
+      "revision_id": "73df3ef5-189c-4cac-a1b6-7e3597f30b99",
+      "size": null,
+      "state": "active",
+      "url": "http://www.hidro.gob.ar/DA/csv/sol2018.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://www.hidro.gob.ar/DA/DatosAbiertos.asp",
+      "attributesDescription": "[{\"title\": \"localidad\", \"type\": \"text\", \"description\": \"Zona observada\"}, {\"title\": \"latitud\", \"type\": \"text\", \"description\": \"Latitud en grados y minutos. SUR (S)\"}, {\"title\": \"longitud\", \"type\": \"text\", \"description\": \"Longitud en grados y minutos OESTE (W)\"}, {\"title\": \"anio\", \"type\": \"integer\", \"description\": \"A\\u00f1o actual\"}, {\"title\": \"mes\", \"type\": \"text\", \"description\": \"Mes actual (abreviatura: Ene, Feb,Mar,Abr,May,Jun,Jul, Ago,Set,Oct,Nov,Dic)\"}, {\"title\": \"dia\", \"type\": \"integer\", \"description\": \"N\\u00famero correspondiente al d\\u00eda del mes en que se produce la salida del sol.\"}, {\"title\": \"crepusculo_matutino\", \"type\": \"time\", \"description\": \"Hora y minutos en que se inicia el Crep\\u00fasculo Matutino. (Intervalo de tiempo anterior a la salida del Sol en el que el cielo est\\u00e1 parcialmente iluminado)\"}, {\"title\": \"salida_sol\", \"type\": \"time\", \"description\": \"Hora y minutos del instante en el cual comienza a aparecer y a observarse sobre el horizonte el borde aparente del sol.\"}, {\"title\": \"azimut_salida\", \"type\": \"text\", \"description\": \"\\u00c1ngulo medido en grados sobre el horizonte, desde el punto cardinal Norte hacia el punto cardinal Este, hasta la vertical del sol.\"}, {\"title\": \"puesta_sol\", \"type\": \"text\", \"description\": \"Hora y minutos del instante en el cual el sol se oculta tras el horizonte y su borde aparente es observable.\"}, {\"title\": \"azimut_puesta\", \"type\": \"time\", \"description\": \"\\u00c1ngulo medido en grados sobre el horizonte, desde el punto cardinal Norte hacia el punto cardinal Este, hasta la vertical del sol.\"}, {\"title\": \"crepusculo_vespertino\", \"type\": \"time\", \"description\": \"Hora y minutos que inicia el Crep\\u00fasculo Vespertino. (Intervalo de tiempo que sigue a la puesta del sol en el que el cielo est\\u00e1 parcialmente iluminado).\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-12-31T00:00:00",
+      "datastore_active": false,
+      "description": "Datos de horas de salida y puesta de luna por ciudades y año.",
+      "fileName": "sol2019.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "shn_3.2",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Salida y puesta de sol 2019 opr ciudades",
+      "package_id": "shn_03",
+      "position": 1,
+      "resource_type": "file",
+      "revision_id": "73df3ef5-189c-4cac-a1b6-7e3597f30b99",
+      "size": null,
+      "state": "active",
+      "url": "http://www.hidro.gob.ar/DA/csv/sol2019.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "56314ea3-e529-47e4-bb7a-bd9d0028ee70",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "azimut solar",
+      "id": "c2f8c852-ed22-4581-bd24-ed95bfe7e8ea",
+      "name": "azimut solar",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "calendario solar",
+      "id": "4b77efc7-2f11-400a-99c6-86a974a3d345",
+      "name": "calendario solar",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "crepúsculo",
+      "id": "c0887b2a-1b7c-4c56-9521-f039776387c9",
+      "name": "crepúsculo",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "matutino",
+      "id": "1e287651-1c48-4bf3-a7ad-69e60a8c30e4",
+      "name": "matutino",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "puesta sol",
+      "id": "0ecd16e7-3e12-4790-8136-c0814a56daeb",
+      "name": "puesta sol",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "salida sol",
+      "id": "12741a80-9d3a-4478-a378-a1e4ae5d2f31",
+      "name": "salida sol",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "sol",
+      "id": "37313dce-ea04-48ba-8ff5-c04ee530e791",
+      "name": "sol",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "sol.",
+      "id": "6491149b-bc0c-4e28-80cd-bc1873454cb9",
+      "name": "sol.",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "vespertino",
+      "id": "eac651f1-8fdc-49db-a8a6-2be24df5db86",
+      "name": "vespertino",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Salida y puesta de sol",
+  "type": "dataset",
+  "url": "http://www.hidro.gov.ar/DA/DatosAbiertos.asp",
+  "version": null
+}

@@ -1,0 +1,141 @@
+{
+  "author": "Ministerio de Salud. Secretaría de Promoción de la Salud, Prevención y Control de Riesgos. Subsecretaría de Prevención y Control de Enfermedades Comunicables e Inmunoprevenibles. Dirección Nacional de Epidemiología y Análisis de la Situación de Salud. Área de Vigilancia.",
+  "author_email": "areavigilanciamsal@gmail.com",
+  "creator_user_id": "4720e75a-9e17-4dc3-879d-041917c7f9f9",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P6M"
+    },
+    {
+      "key": "issued",
+      "value": "2018-07-27T10:08:14.046176"
+    },
+    {
+      "key": "language",
+      "value": "[\"spa\"]"
+    },
+    {
+      "key": "modified",
+      "value": "2020-05-15T16:06:12.271361"
+    },
+    {
+      "key": "source",
+      "value": "Dirección Nacional de Epidemiología y Análisis de la Situación de Salud. Área de Vigilancia."
+    },
+    {
+      "key": "spatial",
+      "value": "[\"ARG\"]"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"HEAL\"]"
+    },
+    {
+      "key": "temporal",
+      "value": "2018-01-01T03:00:00.000Z/2018-06-26T03:00:00.000Z"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Salud",
+      "display_name": "Salud",
+      "id": "65cc1fbf-703a-43bf-8a14-232a55c34976",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225809.913196salud.svg",
+      "name": "heal",
+      "title": "Salud"
+    }
+  ],
+  "id": "salud_50bc5ed8-3730-433c-976b-78f749ed740b",
+  "isopen": false,
+  "license_id": "notspecified",
+  "license_title": "No se especificó la licencia",
+  "maintainer": "Ministerio de Salud. Secretaría de Promoción de la Salud, Prevención y Control de Riesgos. Subsecretaría de Prevención y Control de Enfermedades Comunicables e Inmunoprevenibles. Dirección Nacional de Epidemiología y Análisis de la Situación de Salud. Área de Vigilancia.",
+  "maintainer_email": "areavigilanciamsal@gmail.com",
+  "metadata_created": "2019-11-26T15:01:47.104965",
+  "metadata_modified": "2021-04-29T17:05:37.571971",
+  "name": "salud-vigilancia-chagas-agudo-vectorial",
+  "notes": "Datos correspondientes al Registro Sistema Nacional de Vigilancia de la Salud 2.0 a partir del año 1996\r\n",
+  "num_resources": 1,
+  "num_tags": 4,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-11-15T11:12:22.202856",
+    "description": "",
+    "id": "dd1f2018-587f-43af-9b07-fc32f5ab588b",
+    "image_url": "",
+    "is_organization": true,
+    "name": "salud",
+    "revision_id": "14f0bb85-f97d-4325-b1c8-a7c1d3a815bf",
+    "state": "active",
+    "title": "Ministerio de Salud",
+    "type": "organization"
+  },
+  "owner_org": "dd1f2018-587f-43af-9b07-fc32f5ab588b",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "http://datos.salud.gob.ar/dataset/50bc5ed8-3730-433c-976b-78f749ed740b/resource/2c72e717-0ca9-4aad-a674-79e4bc132ebe",
+      "attributesDescription": "[{\"description\": \"Periodo en el cual transcurrieron los casos de la notificaci\\u00f3n de chagas\", \"specialTypeDetail\": \"R/P1Y\", \"title\": \"indice_tiempo\", \"specialType\": \"time_index\", \"type\": \"date\", \"id\": \"salud_0002\"}, {\"units\": \"Casos\", \"id\": \"chav_arg\", \"type\": \"integer\", \"description\": \"Cantidad de casos de chagas agudos vectorial notificados en la Rep\\u00fablica Argentina\", \"title\": \"casos_chagas_argentina\"}, {\"units\": \"Casos\", \"id\": \"chav_02\", \"type\": \"integer\", \"description\": \"Cantidad de casos de chagas agudos vectorial notificados en la Ciudad Aut\\u00f3noma de Buenos Aires\", \"title\": \"casos_chagas_ciudad_autonoma_buenos_aires\"}, {\"units\": \"Casos\", \"id\": \"chav_06\", \"type\": \"integer\", \"description\": \"Cantidad de casos de chagas agudos vectorial notificados en la Provincia de Buenos Aires\", \"title\": \"casos_chagas_buenos_aires\"}, {\"units\": \"Casos\", \"id\": \"chav_10\", \"type\": \"integer\", \"description\": \"Cantidad de casos de chagas agudos vectorial notificados en la Provincia de Catamarca\", \"title\": \"casos_chagas_catamarca\"}, {\"units\": \"Casos\", \"id\": \"chav_14\", \"type\": \"integer\", \"description\": \"Cantidad de casos de chagas agudos vectorial notificados en la Provincia de C\\u00f3rdoba\", \"title\": \"casos_chagas_cordoba\"}, {\"units\": \"Casos\", \"id\": \"chav_18\", \"type\": \"integer\", \"description\": \"Cantidad de casos de chagas agudos vectorial notificados en la Provincia de Corrientes\", \"title\": \"casos_chagas_corrientes\"}, {\"units\": \"Casos\", \"id\": \"chav_22\", \"type\": \"integer\", \"description\": \"Cantidad de casos de chagas agudos vectorial notificados en la Provincia de Chaco\", \"title\": \"casos_chagas_chaco\"}, {\"units\": \"Casos\", \"id\": \"chav_26\", \"type\": \"integer\", \"description\": \"Cantidad de casos de chagas agudos vectorial notificados en la Provincia de Chubut\", \"title\": \"casos_chagas_chubut\"}, {\"units\": \"Casos\", \"id\": \"chav_30\", \"type\": \"integer\", \"description\": \"Cantidad de casos de chagas agudos vectorial notificados en la Provincia de Entre R\\u00edos \", \"title\": \"casos_chagas_entre_rios\"}, {\"units\": \"Casos\", \"id\": \"chav_34\", \"type\": \"integer\", \"description\": \"Cantidad de casos de chagas agudos vectorial notificados en la Provincia de Formosa\", \"title\": \"casos_chagas_formosa\"}, {\"units\": \"Casos\", \"id\": \"chav_38\", \"type\": \"integer\", \"description\": \"Cantidad de casos de chagas agudos vectorial notificados en la Provincia de Jujuy\", \"title\": \"casos_chagas_jujuy\"}, {\"units\": \"Casos\", \"id\": \"chav_42\", \"type\": \"integer\", \"description\": \"Cantidad de casos de chagas agudos vectorial notificados en la Provincia de La Pampa\", \"title\": \"casos_chagas_la_pampa\"}, {\"units\": \"Casos\", \"id\": \"chav_46\", \"type\": \"integer\", \"description\": \"Cantidad de casos de chagas agudos vectorial notificados en la Provincia de La Rioja\", \"title\": \"casos_chagas_la_rioja\"}, {\"units\": \"Casos\", \"id\": \"chav_50\", \"type\": \"integer\", \"description\": \"Cantidad de casos de chagas agudos vectorial notificados en la Provincia de Mendoza\", \"title\": \"casos_chagas_mendoza\"}, {\"units\": \"Casos\", \"id\": \"chav_54\", \"type\": \"integer\", \"description\": \"Cantidad de casos de chagas agudos vectorial notificados en la Provincia de Misiones\", \"title\": \"casos_chagas_misiones\"}, {\"units\": \"Casos\", \"id\": \"chav_58\", \"type\": \"integer\", \"description\": \"Cantidad de casos de chagas agudos vectorial notificados en la Provincia de Neuqu\\u00e9n\", \"title\": \"casos_chagas_neuquen\"}, {\"units\": \"Casos\", \"id\": \"chav_62\", \"type\": \"integer\", \"description\": \"Cantidad de casos de chagas agudos vectorial notificados en la Provincia de R\\u00edo Negro\", \"title\": \"casos_chagas_rio_negro\"}, {\"units\": \"Casos\", \"id\": \"chav_66\", \"type\": \"integer\", \"description\": \"Cantidad de casos de chagas agudos vectorial notificados en la Provincia de Salta\", \"title\": \"casos_chagas_salta\"}, {\"units\": \"Casos\", \"id\": \"chav_70\", \"type\": \"integer\", \"description\": \"Cantidad de casos de chagas agudos vectorial notificados en la Provincia de San Juan\", \"title\": \"casos_chagas_san_juan\"}, {\"units\": \"Casos\", \"id\": \"chav_74\", \"type\": \"integer\", \"description\": \"Cantidad de casos de chagas agudos vectorial notificados en la Provincia de San Luis\", \"title\": \"casos_chagas_san_luis\"}, {\"units\": \"Casos\", \"id\": \"chav_78\", \"type\": \"integer\", \"description\": \"Cantidad de casos de chagas agudos vectorial notificados en la Provincia de Santa Cruz\", \"title\": \"casos_chagas_santa_cruz\"}, {\"units\": \"Casos\", \"id\": \"chav_82\", \"type\": \"integer\", \"description\": \"Cantidad de casos de chagas agudos vectorial notificados en la Provincia de Santa F\\u00e9\", \"title\": \"casos_chagas_santa_fe\"}, {\"units\": \"Casos\", \"id\": \"chav_86\", \"type\": \"integer\", \"description\": \"Cantidad de casos de chagas agudos vectorial notificados en la Provincia de Santiago del Estero\", \"title\": \"casos_chagas_santiago_del_estero\"}, {\"units\": \"Casos\", \"id\": \"chav_90\", \"type\": \"integer\", \"description\": \"Cantidad de casos de chagas agudos vectorial notificados en la Provincia de Tucum\\u00e1n\", \"title\": \"casos_chagas_tucuman\"}, {\"units\": \"Casos\", \"id\": \"chav_94\", \"type\": \"integer\", \"description\": \"Cantidad de casos de chagas agudos vectorial notificados en la Provincia de Tierra del Fuego\", \"title\": \"casos_chagas_tierra_del_fuego\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2018-07-27T10:08:50.351321",
+      "datastore_active": false,
+      "description": "Cantidad de casos de chagas agudos vectorial por jurisdicción. Registro Sistema Nacional de Vigilancia de la Salud 2.0",
+      "fileName": "casos-chagas-agudos-vectoriales-notificados-confirmados.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "salud_2c72e717-0ca9-4aad-a674-79e4bc132ebe",
+      "last_modified": "2019-04-17T09:04:08.232745",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Vigilancia de Chagas agudo vectorial",
+      "package_id": "salud_50bc5ed8-3730-433c-976b-78f749ed740b",
+      "position": 0,
+      "resource_type": "file.upload",
+      "revision_id": "52eed128-43fb-4eef-87a0-e826194293f6",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.salud.gob.ar/dataset/50bc5ed8-3730-433c-976b-78f749ed740b/resource/2c72e717-0ca9-4aad-a674-79e4bc132ebe/download/casos-chagas-agudos-vectoriales-notificados-confirmados.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "0a8dd922-2504-4461-b22d-1f3f1c470099",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "Vigilancia yo Notificación de Enfermedades",
+      "id": "8a004832-236c-4995-b02e-ea22643ad2a2",
+      "name": "Vigilancia yo Notificación de Enfermedades",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "chagas",
+      "id": "dcba27f9-b7b2-4c5e-905e-1fbe2a01ea5c",
+      "name": "chagas",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "epidemiologia",
+      "id": "8d85ea55-8b3e-4ab5-a017-ac4c6bd265af",
+      "name": "epidemiologia",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "vigilancia",
+      "id": "0d688d6b-ab96-4358-ae02-4b57f59e16d5",
+      "name": "vigilancia",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Vigilancia de Chagas agudo vectorial",
+  "type": "dataset",
+  "url": "https://www.argentina.gob.ar/salud/epidemiologia/boletinesepidemiologicos",
+  "version": null
+}

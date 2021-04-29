@@ -1,0 +1,152 @@
+{
+  "author": "INSSJP",
+  "author_email": null,
+  "creator_user_id": "4720e75a-9e17-4dc3-879d-041917c7f9f9",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P6M"
+    },
+    {
+      "key": "issued",
+      "value": "2019-05-13T14:57:14.046462"
+    },
+    {
+      "key": "modified",
+      "value": "2019-05-13T14:57:14.046462"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"GOVE\", \"HEAL\"]"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Gobierno y sector público",
+      "display_name": "Gobierno y sector público",
+      "id": "e6f07c77-3987-4e71-98a6-731b1aaf74f4",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225353.395233gobierno-sector-publico.svg",
+      "name": "gove",
+      "title": "Gobierno y sector público"
+    },
+    {
+      "description": "Salud",
+      "display_name": "Salud",
+      "id": "65cc1fbf-703a-43bf-8a14-232a55c34976",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225809.913196salud.svg",
+      "name": "heal",
+      "title": "Salud"
+    }
+  ],
+  "id": "pami_18260528-bbe2-4f1d-b646-8ee2f75c7eca",
+  "isopen": true,
+  "license_id": "CC-BY-4.0",
+  "license_title": "Creative Commons Attribution 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "maintainer": null,
+  "maintainer_email": null,
+  "metadata_created": "2019-11-26T14:56:00.747313",
+  "metadata_modified": "2021-04-29T17:05:23.056557",
+  "name": "pami-padron-afiliados",
+  "notes": "Información sobre el padrón de afiliados de PAMI.\r\n\r\n",
+  "num_resources": 3,
+  "num_tags": 0,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:11.042876",
+    "description": "",
+    "id": "81c393aa-4d8e-43dc-82fd-70ae0bd18bb9",
+    "image_url": "",
+    "is_organization": true,
+    "name": "pami",
+    "revision_id": "c5370bbe-7ff7-4ad1-b192-1d839927048f",
+    "state": "active",
+    "title": " Instituto Nacional de Servicios Sociales para Jubilados y Pensionados (PAMI)",
+    "type": "organization"
+  },
+  "owner_org": "81c393aa-4d8e-43dc-82fd-70ae0bd18bb9",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "http://datos.pami.org.ar/dataset/18260528-bbe2-4f1d-b646-8ee2f75c7eca/resource/f2ebf80f-3f81-4b17-b8aa-1eb6c02237af",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-05-13T15:02:19.989288",
+      "datastore_active": false,
+      "description": "Cantidad de altas de afiliados diferenciado por UGL ",
+      "fileName": "cantidad-de-altas-mensual-por-ugl.xlsx",
+      "format": "XLSX",
+      "hash": "",
+      "id": "pami_f2ebf80f-3f81-4b17-b8aa-1eb6c02237af",
+      "last_modified": "2019-05-16T18:19:46.352089",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Registro de afiliaciones mensuales",
+      "package_id": "pami_18260528-bbe2-4f1d-b646-8ee2f75c7eca",
+      "position": 0,
+      "resource_type": "file",
+      "revision_id": "4826dca2-a841-49cf-8aad-6954c2735d0d",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.pami.org.ar/dataset/18260528-bbe2-4f1d-b646-8ee2f75c7eca/resource/f2ebf80f-3f81-4b17-b8aa-1eb6c02237af/download/cantidad-de-altas-mensual-por-ugl.xlsx",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos.pami.org.ar/dataset/18260528-bbe2-4f1d-b646-8ee2f75c7eca/resource/29695dfd-eb66-4865-a4ea-ee66d5bbca13",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-07-18T15:43:26.553709",
+      "datastore_active": false,
+      "description": "Afiliados separados por rango etario y género",
+      "fileName": "cantidad-de-beneficios-activos-por-ugl_-rango-edad-y-sexo-.xlsx",
+      "format": "XLSX",
+      "hash": "",
+      "id": "pami_29695dfd-eb66-4865-a4ea-ee66d5bbca13",
+      "last_modified": "2020-01-08T12:29:27.914806",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Afiliados activos",
+      "package_id": "pami_18260528-bbe2-4f1d-b646-8ee2f75c7eca",
+      "position": 1,
+      "resource_type": "file",
+      "revision_id": "b671844e-0352-4fd2-a511-cfb6af09771d",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.pami.org.ar/dataset/18260528-bbe2-4f1d-b646-8ee2f75c7eca/resource/29695dfd-eb66-4865-a4ea-ee66d5bbca13/download/cantidad-de-beneficios-activos-por-ugl_-rango-edad-y-sexo-.xlsx",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos.pami.org.ar/dataset/18260528-bbe2-4f1d-b646-8ee2f75c7eca/resource/57b65300-823a-4e8c-b527-26e51e480c70",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-07-18T15:45:16.932359",
+      "datastore_active": false,
+      "description": "Cantidad de altas de afiliados diferenciado por UGL",
+      "fileName": "cantidad-de-altas-mensual-por-ugl-2.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "pami_57b65300-823a-4e8c-b527-26e51e480c70",
+      "last_modified": "2020-01-08T12:30:34.039900",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Registro de afiliaciones mensuales",
+      "package_id": "pami_18260528-bbe2-4f1d-b646-8ee2f75c7eca",
+      "position": 2,
+      "resource_type": "file",
+      "revision_id": "111fda97-7d16-47b1-b365-252f9a33b930",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.pami.org.ar/dataset/18260528-bbe2-4f1d-b646-8ee2f75c7eca/resource/57b65300-823a-4e8c-b527-26e51e480c70/download/cantidad-de-altas-mensual-por-ugl-2.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "31a4bc6e-ff64-4e2c-a532-a30de25deaa5",
+  "state": "active",
+  "tags": [],
+  "title": "Padrón de afiliados",
+  "type": "dataset",
+  "url": "http://datos2.pami.org.ar/dataset/padron-afiliados",
+  "version": null
+}

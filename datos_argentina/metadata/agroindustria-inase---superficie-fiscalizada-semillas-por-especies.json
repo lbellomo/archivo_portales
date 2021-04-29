@@ -1,0 +1,184 @@
+{
+  "author": "Dirección de Certificación y Control - INASE",
+  "author_email": "rncyfs@inase.gov.ar",
+  "creator_user_id": "dc157489-51c6-44ce-bd63-3bd983d60778",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P6M"
+    },
+    {
+      "key": "issued",
+      "value": "2018-12-07T21:19:12.373401"
+    },
+    {
+      "key": "language",
+      "value": "[\"spa\"]"
+    },
+    {
+      "key": "modified",
+      "value": "2019-10-24T10:44:45.985384"
+    },
+    {
+      "key": "spatial",
+      "value": "[\"ARG\"]"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"AGRI\"]"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Agroganadería, pesca y forestación",
+      "display_name": "Agroganadería, pesca y forestación",
+      "id": "0c35ea38-7059-41d2-9827-5587769d0dc6",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225145.990789agroganaderia-pesca-forestacion.svg",
+      "name": "agri",
+      "title": "Agroganadería, pesca y forestación"
+    }
+  ],
+  "id": "agroindustria_d97c1dee-0a1c-45ee-8414-a6b9f3a23c5c",
+  "isopen": true,
+  "license_id": "CC-BY-4.0",
+  "license_title": "Creative Commons Attribution 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "maintainer": null,
+  "maintainer_email": null,
+  "metadata_created": "2019-12-04T20:01:01.067918",
+  "metadata_modified": "2021-04-29T17:06:45.050307",
+  "name": "agroindustria-inase---superficie-fiscalizada-semillas-por-especies",
+  "notes": "Datos de la superficie de las especies que pasan por el proceso de fiscalización nacional del Instituto Nacional de Semillas (INASE).",
+  "num_resources": 3,
+  "num_tags": 4,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:07.834957",
+    "description": "",
+    "id": "b10c94e2-ade1-4a97-8c4c-b1ada7878d60",
+    "image_url": "",
+    "is_organization": true,
+    "name": "agroindustria",
+    "revision_id": "f7c3b6e9-d48f-4522-9f7a-388d805c8392",
+    "state": "active",
+    "title": "Ministerio de Agricultura, Ganadería y Pesca",
+    "type": "organization"
+  },
+  "owner_org": "b10c94e2-ade1-4a97-8c4c-b1ada7878d60",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "http://datos.agroindustria.gob.ar/dataset/d97c1dee-0a1c-45ee-8414-a6b9f3a23c5c/resource/13902b88-e78d-4aa9-b80d-bd4d2c322844",
+      "attributesDescription": "[{\"type\": \"integer\", \"description\": \"C\\u00f3digo Nacional\", \"title\": \"pais_id\"}, {\"type\": \"string\", \"description\": \"Divisi\\u00f3n pol\\u00edtica mundial\", \"title\": \"nom_pais\"}, {\"type\": \"string\", \"description\": \"Nombre com\\u00fan de la especie\", \"title\": \"nombre_vulgar\"}, {\"type\": \"string\", \"description\": \"Hectareas /Metros Cuadrados\", \"title\": \"unidad_superficie\"}, {\"type\": \"integer\", \"description\": \"Superficie declarada por especie, de acuerdo a la unidad de superficie\", \"title\": \"superficie\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2018-10-18T13:38:46.378766",
+      "datastore_active": false,
+      "description": "Datos de superficie de las especies que pasan por el proceso de fiscalización nacional del INASE, del período 2017 -2018.",
+      "fileName": "superficie_nacional_fiscalizada_especies_2017y2018.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "agroindustria_13902b88-e78d-4aa9-b80d-bd4d2c322844",
+      "last_modified": "2019-01-14T14:44:44.915617",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Superficie nacional fiscalizada por especies registrada en el INASE en el período 2017 y 2018",
+      "package_id": "agroindustria_d97c1dee-0a1c-45ee-8414-a6b9f3a23c5c",
+      "position": 0,
+      "resource_type": "file.upload",
+      "revision_id": "fd2bc2c6-7a77-46b1-8d99-9f9086dd1335",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.agroindustria.gob.ar/dataset/d97c1dee-0a1c-45ee-8414-a6b9f3a23c5c/resource/13902b88-e78d-4aa9-b80d-bd4d2c322844/download/superficie-nacional-fiscalizada-especies-2017-2018.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos.agroindustria.gob.ar/dataset/d97c1dee-0a1c-45ee-8414-a6b9f3a23c5c/resource/17b29c45-95c2-4e32-8edc-8cc3cc61e113",
+      "attributesDescription": "[{\"type\": \"integer\", \"description\": \"pais_id\", \"title\": \"pais_id\"}, {\"type\": \"string\", \"description\": \"nom_pais\", \"title\": \"nom_pais\"}, {\"type\": \"string\", \"description\": \"nombreVulgar\", \"title\": \"nombreVulgar\"}, {\"type\": \"string\", \"description\": \"unidadSuperficie\", \"title\": \"unidadSuperficie\"}, {\"type\": \"integer\", \"description\": \"superficie\", \"title\": \"superficie\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-09-07T20:34:27.778057",
+      "datastore_active": false,
+      "description": "Datos de superficie de las especies que pasan por el proceso de fiscalización nacional del INASE, del período 16-17.",
+      "fileName": "superficie-nacional-fiscalizada-por-especie-16-17.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "agroindustria_17b29c45-95c2-4e32-8edc-8cc3cc61e113",
+      "last_modified": "2019-01-14T14:01:39.582462",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Superficie nacional fiscalizada por especies registrada en el INASE en el período 2016 y 2017",
+      "package_id": "agroindustria_d97c1dee-0a1c-45ee-8414-a6b9f3a23c5c",
+      "position": 1,
+      "resource_type": "file.upload",
+      "revision_id": "25a1d86f-1d1c-478f-bcbe-e968bad9ee86",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.agroindustria.gob.ar/dataset/d97c1dee-0a1c-45ee-8414-a6b9f3a23c5c/resource/17b29c45-95c2-4e32-8edc-8cc3cc61e113/download/superficie-nacional-fiscalizada-por-especie-16-17.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos.agroindustria.gob.ar/dataset/d97c1dee-0a1c-45ee-8414-a6b9f3a23c5c/resource/d16bdaf7-3a41-4a3b-8c53-8d44ece90326",
+      "attributesDescription": "[{\"type\": \"integer\", \"description\": \"C\\u00f3digo Nacional\", \"title\": \"pais_id\"}, {\"type\": \"string\", \"description\": \"Divisi\\u00f3n pol\\u00edtica mundial\\n\", \"title\": \"nom_pais\"}, {\"type\": \"string\", \"description\": \"Nombre com\\u00fan de la especie\", \"title\": \"nombreVulgar\"}, {\"type\": \"string\", \"description\": \"Hectareas /Metros Cuadrados\", \"title\": \"unidadSuperficie\"}, {\"type\": \"integer\", \"description\": \"Superficie declarada por especie, de acuerdo a la unidad de superficie\", \"title\": \"superficie\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-09-07T20:32:14.086373",
+      "datastore_active": false,
+      "description": "Datos de superficie de las especies que pasan por el proceso de fiscalización nacional del INASE, del período 14-15.",
+      "fileName": "superficie-nacional-fiscalizada-por-especies-14-15.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "agroindustria_d16bdaf7-3a41-4a3b-8c53-8d44ece90326",
+      "last_modified": "2019-01-14T14:44:01.818260",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Superficie nacional fiscalizada por especies registrada en el INASE en el período 2014 y 2015",
+      "package_id": "agroindustria_d97c1dee-0a1c-45ee-8414-a6b9f3a23c5c",
+      "position": 2,
+      "resource_type": "file.upload",
+      "revision_id": "fd2bc2c6-7a77-46b1-8d99-9f9086dd1335",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.agroindustria.gob.ar/dataset/d97c1dee-0a1c-45ee-8414-a6b9f3a23c5c/resource/d16bdaf7-3a41-4a3b-8c53-8d44ece90326/download/superficie-nacional-fiscalizada-por-especies-14-15.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "180048fa-227c-4eca-a833-aab2149fe909",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "INASE",
+      "id": "ad93b88f-2d5d-4ab3-8054-cee3801c9761",
+      "name": "INASE",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "fiscalización semillas",
+      "id": "b2d144bb-846e-46f8-a014-40398ec6a055",
+      "name": "fiscalización semillas",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "registro semillas",
+      "id": "5c7019e3-f21a-4b1e-be97-55d2a1dde247",
+      "name": "registro semillas",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "semillas",
+      "id": "5a39e674-4fad-489a-b085-782f39a59715",
+      "name": "semillas",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "INASE - Superficie fiscalizada de semillas por especies",
+  "type": "dataset",
+  "url": "https://datos.agroindustria.gob.ar/dataset/superficie-nacional-fiscalizada-por-especies-registrada-inase",
+  "version": null
+}

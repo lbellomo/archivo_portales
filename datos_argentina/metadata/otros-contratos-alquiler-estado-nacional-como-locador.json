@@ -1,0 +1,147 @@
+{
+  "author": "Jefatura de Gabinete de Ministros. Agencia de Administración de Bienes del Estado. Dirección Nacional del Registro de Bienes Inmuebles.",
+  "author_email": "info_renabe@bienesdelestado.gob.ar",
+  "creator_user_id": "4720e75a-9e17-4dc3-879d-041917c7f9f9",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P6M"
+    },
+    {
+      "key": "issued",
+      "value": "2016-10-24T14:43:18.578156"
+    },
+    {
+      "key": "language",
+      "value": "[\"SPA\"]"
+    },
+    {
+      "key": "modified",
+      "value": "2017-01-25T13:54:06.012136"
+    },
+    {
+      "key": "spatial",
+      "value": "ARG"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"GOVE\"]"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Gobierno y sector público",
+      "display_name": "Gobierno y sector público",
+      "id": "e6f07c77-3987-4e71-98a6-731b1aaf74f4",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225353.395233gobierno-sector-publico.svg",
+      "name": "gove",
+      "title": "Gobierno y sector público"
+    }
+  ],
+  "id": "otros_9",
+  "isopen": true,
+  "license_id": "CC-BY-4.0",
+  "license_title": "Creative Commons Attribution 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "maintainer": "Jefatura de Gabinete de Ministros. Agencia de Administración de Bienes del Estado. Dirección Nacional del Registro de Bienes Inmuebles.",
+  "maintainer_email": "info_renabe@bienesdelestado.gob.ar",
+  "metadata_created": "2019-11-26T14:57:48.396159",
+  "metadata_modified": "2021-04-29T17:18:08.622604",
+  "name": "otros-contratos-alquiler-estado-nacional-como-locador",
+  "notes": "Información de los contratos donde el Estado Nacional arrienda, como locador, inmuebles de su propiedad. Esta información se actualizará conforme los contratos sean digitalizados y cargados por la Agencia de Administración de Bienes del Estado.",
+  "num_resources": 1,
+  "num_tags": 6,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:11.814764",
+    "description": "",
+    "id": "109d53ef-3ed3-498e-97d0-a456698969f7",
+    "image_url": "",
+    "is_organization": true,
+    "name": "otros",
+    "revision_id": "8e89e6e3-016b-4706-97c0-8cb55e1ce2c8",
+    "state": "active",
+    "title": "Otros organismos",
+    "type": "organization"
+  },
+  "owner_org": "109d53ef-3ed3-498e-97d0-a456698969f7",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "http://datos.gob.ar/dataset/otros_9/resource/otros_9.1",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2016-10-24T11:48:41.794340",
+      "datastore_active": false,
+      "description": "Información de los contratos donde el Estado Nacional arrienda, como locador, inmuebles de su propiedad. Esta información se actualizará conforme los contratos sean digitalizados y cargados por la Agencia de Administración de Bienes del Estado.",
+      "fileName": "contratos-alquiler-estado-nacional-locador.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "otros_9.1",
+      "last_modified": "2016-11-14T13:36:34.959766",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Contratos de alquiler ENA como locador",
+      "package_id": "otros_9",
+      "position": 0,
+      "resource_type": "file",
+      "revision_id": "f91c5d7e-a40c-47f5-bc0e-e842a8268154",
+      "size": null,
+      "state": "active",
+      "url": "https://infra.datos.gob.ar/catalog/otros/dataset/9/distribution/9.1/download/contratos-alquiler-estado-nacional-locador.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "76ef32e2-ca35-4d7a-9965-9fd51307cd42",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "Alquileres",
+      "id": "be238ddb-dfb4-4640-b5e4-6b6cab056aab",
+      "name": "Alquileres",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Bienes inmuebles",
+      "id": "abd4ee8e-c128-4d63-b031-bebb385d18b4",
+      "name": "Bienes inmuebles",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Contratos",
+      "id": "3d77b518-5fc7-4a46-ab39-436cf253ddcd",
+      "name": "Contratos",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Gobierno y sector público",
+      "id": "cabcb959-4dbc-4a58-b35e-dfd1f6d6ae5f",
+      "name": "Gobierno y sector público",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Inmuebles",
+      "id": "d7101b05-db78-433b-9916-ec00a326041d",
+      "name": "Inmuebles",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Locador",
+      "id": "6bdb5bd7-643a-4a64-94f5-64cbaf1de34a",
+      "name": "Locador",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Contratos de Alquiler del Estado Nacional como Locador",
+  "type": "dataset",
+  "url": "http://http://datos.gob.ar/dataset/contratos-alquiler-estado-nacional-locador",
+  "version": null
+}

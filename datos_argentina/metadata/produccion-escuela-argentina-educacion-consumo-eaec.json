@@ -1,0 +1,155 @@
+{
+  "author": "Secretaría de Comercio",
+  "author_email": "datos.abiertos@produccion.gob.ar",
+  "creator_user_id": "4720e75a-9e17-4dc3-879d-041917c7f9f9",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "eventual"
+    },
+    {
+      "key": "issued",
+      "value": "2018-10-08T19:02:58.000Z"
+    },
+    {
+      "key": "modified",
+      "value": "2020-02-26T02:44:59.000Z"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"econ\", \"educ\"]"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Economía y finanzas",
+      "display_name": "Economía y finanzas",
+      "id": "60b4b03e-10a1-4d67-b984-08008a249617",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225257.200233economia-finanzas.svg",
+      "name": "econ",
+      "title": "Economía y finanzas"
+    },
+    {
+      "description": "Educación, cultura y deportes",
+      "display_name": "Educación, cultura y deportes",
+      "id": "b5ebe955-de3d-4e0b-b28c-16df2b2af99f",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225313.459997educacion-cultura-deportes.svg",
+      "name": "educ",
+      "title": "Educación, cultura y deportes"
+    }
+  ],
+  "id": "produccion_BJRk9mF9Q",
+  "isopen": true,
+  "license_id": "CC-BY-4.0",
+  "license_title": "Creative Commons Attribution 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "maintainer": null,
+  "maintainer_email": null,
+  "metadata_created": "2019-11-26T14:57:15.171167",
+  "metadata_modified": "2021-04-29T17:04:42.058094",
+  "name": "produccion-escuela-argentina-educacion-consumo-eaec",
+  "notes": "La EAEC ofrece cursos y capacitaciones en línea para formadores o referentes en temas relacionados con la defensa de los consumidores.",
+  "num_resources": 2,
+  "num_tags": 4,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:10.463340",
+    "description": "",
+    "id": "1ca8d15b-31fc-4f09-ba09-53edd3d4cce6",
+    "image_url": "",
+    "is_organization": true,
+    "name": "produccion",
+    "revision_id": "36d8ec89-d20f-4fe1-866c-e38988d28442",
+    "state": "active",
+    "title": "Ministerio de Desarrollo Productivo",
+    "type": "organization"
+  },
+  "owner_org": "1ca8d15b-31fc-4f09-ba09-53edd3d4cce6",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "http://datos.produccion.gob.ar/dataset/escuela-argentina-de-educacion-en-consumo-eaec",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2018-10-08T16:02:58",
+      "datastore_active": false,
+      "description": "guia.",
+      "format": "PDF",
+      "hash": "",
+      "id": "produccion_HkMS5QYcm",
+      "last_modified": "2019-02-05T16:28:01",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Guía de datos Escuela Argentina de Educación al consumo",
+      "package_id": "produccion_BJRk9mF9Q",
+      "position": 0,
+      "resource_type": null,
+      "revision_id": "c791a18b-ea61-4c28-bd3b-18d966233367",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.produccion.gob.ar/api/files/guia-de-datos-escuela-argentina-de-educacion-al-consumo.pdf/download",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos.produccion.gob.ar/dataset/escuela-argentina-de-educacion-en-consumo-eaec",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2018-10-08T16:02:58",
+      "datastore_active": false,
+      "description": "Nombre de las capacitaciones por fecha, cantidad de inscriptos y edición.",
+      "format": "CSV",
+      "hash": "",
+      "id": "produccion_rkzd9XK57",
+      "last_modified": "2019-04-05T09:54:15",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Cursos realizados",
+      "package_id": "produccion_BJRk9mF9Q",
+      "position": 1,
+      "resource_type": null,
+      "revision_id": "bd73ef15-7706-43bf-835b-c1c6068b7168",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.produccion.gob.ar/api/files/cursos-realizados.csv/download",
+      "url_type": null
+    }
+  ],
+  "revision_id": "086c6ca7-e02c-410e-8d2d-3397f5da61f9",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "Comercio",
+      "id": "5d89066f-3127-4103-8c37-d929e6845329",
+      "name": "Comercio",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Consumo",
+      "id": "f5518b98-9614-432f-92a1-54b04add2c71",
+      "name": "Consumo",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Defensa del consumidor",
+      "id": "40d24d2d-eeae-4ec3-b109-d357762a7aa5",
+      "name": "Defensa del consumidor",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "EAEC",
+      "id": "ec768758-dd2e-4074-b5ea-b0ff7fb889d2",
+      "name": "EAEC",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Escuela Argentina de Educación en Consumo (EAEC)",
+  "type": "dataset",
+  "url": "http://datos.produccion.gob.ar/dataset/escuela-argentina-de-educacion-en-consumo-eaec",
+  "version": null
+}

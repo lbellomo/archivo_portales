@@ -1,0 +1,161 @@
+{
+  "author": "Área Acopio, Producción, Estudios y Finanzas - \r\nCoordinación de Cultivos Industrializables - Subsecretaría de Agricultura",
+  "author_email": "finanzasfet@magyp.gob.ar",
+  "creator_user_id": "4720e75a-9e17-4dc3-879d-041917c7f9f9",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P1M"
+    },
+    {
+      "key": "issued",
+      "value": "2018-12-10T16:12:52.316958"
+    },
+    {
+      "key": "language",
+      "value": "[\"spa\"]"
+    },
+    {
+      "key": "modified",
+      "value": "2019-10-24T10:30:18.814253"
+    },
+    {
+      "key": "spatial",
+      "value": "[\"ARG\"]"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"AGRI\"]"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Agroganadería, pesca y forestación",
+      "display_name": "Agroganadería, pesca y forestación",
+      "id": "0c35ea38-7059-41d2-9827-5587769d0dc6",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225145.990789agroganaderia-pesca-forestacion.svg",
+      "name": "agri",
+      "title": "Agroganadería, pesca y forestación"
+    }
+  ],
+  "id": "agroindustria_786741c9-a1b3-423e-a494-2c366d5cdce6",
+  "isopen": true,
+  "license_id": "CC-BY-4.0",
+  "license_title": "Creative Commons Attribution 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "maintainer": "Área Acopio, Producción, Estudios y Finanzas - Coordinación de Cultivos Industrializables",
+  "maintainer_email": "finanzasfet@magyp.gob.ar",
+  "metadata_created": "2019-11-26T14:56:17.749742",
+  "metadata_modified": "2021-04-29T17:10:40.908122",
+  "name": "agroindustria-tabaco---porcentaje-tabaco-claro-oscuro-cigarrillos",
+  "notes": "Datos del porcentaje de tabaco oscuro y rubio desde el año 1997 a la actualidad.",
+  "num_resources": 1,
+  "num_tags": 8,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:07.834957",
+    "description": "",
+    "id": "b10c94e2-ade1-4a97-8c4c-b1ada7878d60",
+    "image_url": "",
+    "is_organization": true,
+    "name": "agroindustria",
+    "revision_id": "f7c3b6e9-d48f-4522-9f7a-388d805c8392",
+    "state": "active",
+    "title": "Ministerio de Agricultura, Ganadería y Pesca",
+    "type": "organization"
+  },
+  "owner_org": "b10c94e2-ade1-4a97-8c4c-b1ada7878d60",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "http://datos.agroindustria.gob.ar/dataset/786741c9-a1b3-423e-a494-2c366d5cdce6/resource/e3bbfd82-3775-4358-a66a-92a7f35c1007",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2018-12-10T13:14:04.890356",
+      "datastore_active": false,
+      "description": " Porcentaje de Tabaco Claro y Oscuro en cigarrillos desde el año 1997 a la actualidad.",
+      "fileName": "Tabaco - Porcentaje de tabaco claro y oscuro en cigarrillo.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "agroindustria_e3bbfd82-3775-4358-a66a-92a7f35c1007",
+      "last_modified": "2018-12-10T13:14:04.890356",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": " Porcentaje de Tabaco Claro y Oscuro en cigarrillos",
+      "package_id": "agroindustria_786741c9-a1b3-423e-a494-2c366d5cdce6",
+      "position": 0,
+      "resource_type": "file.upload",
+      "revision_id": "d0e19665-dd8a-44df-8ae4-d59def3e4663",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.agroindustria.gob.ar/dataset/786741c9-a1b3-423e-a494-2c366d5cdce6/resource/e3bbfd82-3775-4358-a66a-92a7f35c1007/download/tabaco-porcentaje-de-tabaco-claro-y-oscuro-en-cigarrillo.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "300dcdcf-91a8-444c-9bc4-b8745075d9e7",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "cigarrillos",
+      "id": "65d02129-59aa-44cd-864c-cf52ff07c1e4",
+      "name": "cigarrillos",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "claro",
+      "id": "e8c49f0b-27ac-4eb5-8bbe-41dc8d3922a4",
+      "name": "claro",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "oscuro",
+      "id": "c00a35f0-7dcd-484a-ad84-d0041a47dd93",
+      "name": "oscuro",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "rubio",
+      "id": "35f33f4a-e0db-4465-953b-ed99f79541eb",
+      "name": "rubio",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "tabaco",
+      "id": "0f174849-c4a1-4294-862f-dc44006b2ed7",
+      "name": "tabaco",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "tabaco claro",
+      "id": "10697942-1085-4bd6-99be-adbdcde3a4a6",
+      "name": "tabaco claro",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "tabaco oscuro",
+      "id": "1f7ea334-9f4c-4ba0-b1a6-5c48c95d2e90",
+      "name": "tabaco oscuro",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "tabaco rubio",
+      "id": "d3f27051-a599-4b4b-b80e-a4ef7204c6f1",
+      "name": "tabaco rubio",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Tabaco - Porcentaje de tabaco claro y oscuro en cigarrillos",
+  "type": "dataset",
+  "url": "https://datos.agroindustria.gob.ar/dataset/porcentaje-de-tabaco-claro-y-oscuro-en-cigarrillos",
+  "version": null
+}

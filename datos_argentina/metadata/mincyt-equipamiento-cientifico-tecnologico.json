@@ -1,0 +1,172 @@
+{
+  "author": "Sistema de Información de Ciencia y Tecnología Argentino (SICYTAR) ",
+  "author_email": "ciencia.abierta@mincyt.gob.ar",
+  "creator_user_id": "4720e75a-9e17-4dc3-879d-041917c7f9f9",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P1Y"
+    },
+    {
+      "key": "issued",
+      "value": "2019-02-14T18:42:25.692844"
+    },
+    {
+      "key": "language",
+      "value": "[\"spa\"]"
+    },
+    {
+      "key": "modified",
+      "value": "2019-02-14T15:56:04.706626"
+    },
+    {
+      "key": "spatial",
+      "value": "[\"ARG\"]"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"EDUC\", \"GOVE\", \"TECH\"]"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Ciencia y tecnología",
+      "display_name": "Ciencia y tecnología",
+      "id": "0dd7dd0e-aae8-402f-8660-f1e8b6b6084c",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225221.170833ciencia-tecnologia.svg",
+      "name": "tech",
+      "title": "Ciencia y tecnología"
+    },
+    {
+      "description": "Educación, cultura y deportes",
+      "display_name": "Educación, cultura y deportes",
+      "id": "b5ebe955-de3d-4e0b-b28c-16df2b2af99f",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225313.459997educacion-cultura-deportes.svg",
+      "name": "educ",
+      "title": "Educación, cultura y deportes"
+    },
+    {
+      "description": "Gobierno y sector público",
+      "display_name": "Gobierno y sector público",
+      "id": "e6f07c77-3987-4e71-98a6-731b1aaf74f4",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225353.395233gobierno-sector-publico.svg",
+      "name": "gove",
+      "title": "Gobierno y sector público"
+    }
+  ],
+  "id": "mincyt_96f82263-c68b-4a52-bf4d-5017edd690f1",
+  "isopen": false,
+  "license_id": "notspecified",
+  "license_title": "No se especificó la licencia",
+  "maintainer": null,
+  "maintainer_email": null,
+  "metadata_created": "2019-11-26T14:58:08.648025",
+  "metadata_modified": "2021-04-29T17:17:03.888610",
+  "name": "mincyt-equipamiento-cientifico-tecnologico",
+  "notes": "Equipamiento científico-tecnológico registrado en Instituciones del Sistema Nacional de Ciencia y Tecnología Argentino adheridas al Programa de Grandes Instrumentos y Bases de Datos .",
+  "num_resources": 2,
+  "num_tags": 4,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:08.587117",
+    "description": "",
+    "id": "772ab9b7-056d-4ae4-b7a2-a1329e979690",
+    "image_url": "",
+    "is_organization": true,
+    "name": "mincyt",
+    "revision_id": "527f1ae0-5267-47fb-bc86-9c63f0250786",
+    "state": "active",
+    "title": "Ministerio de Ciencia, Tecnología e Innovación",
+    "type": "organization"
+  },
+  "owner_org": "772ab9b7-056d-4ae4-b7a2-a1329e979690",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "https://datasets.datos.mincyt.gob.ar/dataset/96f82263-c68b-4a52-bf4d-5017edd690f1/resource/af706381-b958-41b1-ba9e-31822eb73df0",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-02-14T15:45:30.420371",
+      "datastore_active": false,
+      "description": "Equipamiento científico-tecnológico según tipo de institución y provincia de localización",
+      "fileName": "equipos-sistemas-nacionales.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "mincyt_af706381-b958-41b1-ba9e-31822eb73df0",
+      "last_modified": "2019-02-14T15:45:30.420371",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Equipamiento científico-tecnológico según tipo de institución y provincia",
+      "package_id": "mincyt_96f82263-c68b-4a52-bf4d-5017edd690f1",
+      "position": 0,
+      "resource_type": "file.upload",
+      "revision_id": "ed38aac9-a50b-4205-9051-3f3947002752",
+      "size": null,
+      "state": "active",
+      "url": "https://datasets.datos.mincyt.gob.ar/dataset/96f82263-c68b-4a52-bf4d-5017edd690f1/resource/af706381-b958-41b1-ba9e-31822eb73df0/download/equipos-sistemas-nacionales.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://datasets.datos.mincyt.gob.ar/dataset/96f82263-c68b-4a52-bf4d-5017edd690f1/resource/ee87be56-2985-4702-91c0-b77e79b0e82a",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-02-14T15:46:43.025057",
+      "datastore_active": false,
+      "description": "Equipamiento científico-tecnológico según tipo de institución y provincia de localización",
+      "fileName": "equipos-sistemas-nacionales.json",
+      "format": "JSON",
+      "hash": "",
+      "id": "mincyt_ee87be56-2985-4702-91c0-b77e79b0e82a",
+      "last_modified": "2019-02-14T15:46:43.025057",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Equipamiento científico-tecnológico según tipo de institución y provincia",
+      "package_id": "mincyt_96f82263-c68b-4a52-bf4d-5017edd690f1",
+      "position": 1,
+      "resource_type": "file.upload",
+      "revision_id": "ed38aac9-a50b-4205-9051-3f3947002752",
+      "size": null,
+      "state": "active",
+      "url": "https://datasets.datos.mincyt.gob.ar/dataset/96f82263-c68b-4a52-bf4d-5017edd690f1/resource/ee87be56-2985-4702-91c0-b77e79b0e82a/download/equipos-sistemas-nacionales.json",
+      "url_type": null
+    }
+  ],
+  "revision_id": "3a26cd5f-099f-42b1-9a03-8f1e0398f16a",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "EQUIPAMIENTO CIENTIFICO-TECNOLOGICO",
+      "id": "e046a8c1-38f5-4510-9125-ddd5983846b6",
+      "name": "EQUIPAMIENTO CIENTIFICO-TECNOLOGICO",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Equipamiento científico-tecnológico",
+      "id": "1ad2ee1f-7a4e-499b-a1b3-3c699915b445",
+      "name": "Equipamiento científico-tecnológico",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "INSTITUCIONES CIENTÍFICO-TECNOLÓGICAS",
+      "id": "548ed343-29d5-4caa-b7cf-b0fd12b0089f",
+      "name": "INSTITUCIONES CIENTÍFICO-TECNOLÓGICAS",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Instituciones",
+      "id": "26ee8170-1240-47e0-93e8-0e4f8fced6f4",
+      "name": "Instituciones",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Equipamiento científico-tecnológico",
+  "type": "dataset",
+  "url": "https://datasets.datos.mincyt.gob.ar/dataset/equipamiento-cientifico-tecnologico",
+  "version": null
+}

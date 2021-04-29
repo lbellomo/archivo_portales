@@ -1,0 +1,225 @@
+{
+  "author": "Ministerio de Producción. Secretaría de Transformación Productiva. Subsecretaría de Desarrollo y Planeamiento Productivo.",
+  "author_email": "datos@produccion.gob.ar",
+  "creator_user_id": "4720e75a-9e17-4dc3-879d-041917c7f9f9",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P1M"
+    },
+    {
+      "key": "issued",
+      "value": "2018-06-12"
+    },
+    {
+      "key": "language",
+      "value": "[\"SPA\"]"
+    },
+    {
+      "key": "source",
+      "value": "Ministerio de Producción. Secretaría de la Transformación Productiva. Subsecretaría de Desarrollo y Planeamiento Productivo."
+    },
+    {
+      "key": "spatial",
+      "value": "ARG"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"ECON\"]"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Economía y finanzas",
+      "display_name": "Economía y finanzas",
+      "id": "60b4b03e-10a1-4d67-b984-08008a249617",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225257.200233economia-finanzas.svg",
+      "name": "econ",
+      "title": "Economía y finanzas"
+    }
+  ],
+  "id": "siep_1",
+  "isopen": true,
+  "license_id": "CC-BY-4.0",
+  "license_title": "Creative Commons Attribution 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "maintainer": "Ministerio de Producción. Secretaría de la Transformación Productiva. Subsecretaría de Desarrollo y Planeamiento Productivo.",
+  "maintainer_email": "datos@produccion.gob.ar",
+  "metadata_created": "2019-11-26T15:02:29.772891",
+  "metadata_modified": "2021-04-29T17:05:15.048329",
+  "name": "siep-indice-tipo-cambio-real-sectorial-efectivo",
+  "notes": "Indicador sectorial elaborado por la Secretaría de la Transformación Productiva para ajustar el índice de tipo de cambio real multilateral específico de cada sector por las exportaciones de países competidores y por reintegros y derechos de exportación.",
+  "num_resources": 3,
+  "num_tags": 10,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:10.618326",
+    "description": "",
+    "id": "83a04686-747a-4ba3-a0b1-2f05c3196bc4",
+    "image_url": "",
+    "is_organization": true,
+    "name": "siep",
+    "revision_id": "23a30f6e-13f4-45a1-8e98-d49541d6ce75",
+    "state": "active",
+    "title": "Secretaría de Transformación Productiva",
+    "type": "organization"
+  },
+  "owner_org": "83a04686-747a-4ba3-a0b1-2f05c3196bc4",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "http://estadisticas.produccion.gob.ar/",
+      "attributesDescription": "[{\"title\": \"indice_tiempo\", \"type\": \"date\", \"specialType\": \"time_index\", \"specialTypeDetail\": \"R/P1M\", \"description\": \"\\u00cdndice de tiempo de las series\", \"id\": \"tcrse_prpAna\"}, {\"title\": \"nivel_general\", \"type\": \"number\", \"description\": \"\\u00cdndice de Tipo de Cambio Real Sectorial Efectivo. Nivel general\", \"id\": \"tcrse_IBMDNk\", \"units\": \"\\u00cdndice - Base Noviembre 2015=100\"}, {\"title\": \"11_cultivos_en_general\", \"type\": \"number\", \"description\": \"\\u00cdndice de Tipo de Cambio Real Sectorial Efectivo. Cultivos en general\", \"id\": \"tcrse_QpvjK1\", \"units\": \"\\u00cdndice - Base Noviembre 2015=100\"}, {\"title\": \"12_cria_de_animales\", \"type\": \"number\", \"description\": \"\\u00cdndice de Tipo de Cambio Real Sectorial Efectivo. Cr\\u00eda de animales\", \"id\": \"tcrse_ZBIlvf\", \"units\": \"\\u00cdndice - Base Noviembre 2015=100\"}, {\"title\": \"50_pesca\", \"type\": \"number\", \"description\": \"\\u00cdndice de Tipo de Cambio Real Sectorial Efectivo. Pesca\", \"id\": \"tcrse_dw8v9V\", \"units\": \"\\u00cdndice - Base Noviembre 2015=100\"}, {\"title\": \"111_extraccion_de_petroleo_crudo_y_gas_natural\", \"type\": \"number\", \"description\": \"\\u00cdndice de Tipo de Cambio Real Sectorial Efectivo. Extracci\\u00f3n de petr\\u00f3leo crudo y gas natural\", \"id\": \"tcrse_78ofi1\", \"units\": \"\\u00cdndice - Base Noviembre 2015=100\"}, {\"title\": \"132_extraccion_de_minerales_metaliferos_no_ferrosos\", \"type\": \"number\", \"description\": \"\\u00cdndice de Tipo de Cambio Real Sectorial Efectivo. Extracci\\u00f3n de minerales metal\\u00edferos no ferrosos\", \"id\": \"tcrse_iQeuro\", \"units\": \"\\u00cdndice - Base Noviembre 2015=100\"}, {\"title\": \"151_produccion_y_procesamiento_de_alimentos\", \"type\": \"number\", \"description\": \"\\u00cdndice de Tipo de Cambio Real Sectorial Efectivo. Producci\\u00f3n y procesamiento  de alimentos\", \"id\": \"tcrse_2weZeH\", \"units\": \"\\u00cdndice - Base Noviembre 2015=100\"}, {\"title\": \"152_productos_lacteos\", \"type\": \"number\", \"description\": \"\\u00cdndice de Tipo de Cambio Real Sectorial Efectivo. Productos l\\u00e1cteos\", \"id\": \"tcrse_qkJoeI\", \"units\": \"\\u00cdndice - Base Noviembre 2015=100\"}, {\"title\": \"153_productos_de_molineria\", \"type\": \"number\", \"description\": \"\\u00cdndice de Tipo de Cambio Real Sectorial Efectivo. Productos de moliner\\u00eda\", \"id\": \"tcrse_H3qn9p\", \"units\": \"\\u00cdndice - Base Noviembre 2015=100\"}, {\"title\": \"154_otros_productos_alimenticios\", \"type\": \"number\", \"description\": \"\\u00cdndice de Tipo de Cambio Real Sectorial Efectivo. Otros productos alimenticios\", \"id\": \"tcrse_jS58W4\", \"units\": \"\\u00cdndice - Base Noviembre 2015=100\"}, {\"title\": \"155_bebidas\", \"type\": \"number\", \"description\": \"\\u00cdndice de Tipo de Cambio Real Sectorial Efectivo. Bebidas\", \"id\": \"tcrse_lZFVUI\", \"units\": \"\\u00cdndice - Base Noviembre 2015=100\"}, {\"title\": \"171_hilatura_y_tejedura\", \"type\": \"number\", \"description\": \"\\u00cdndice de Tipo de Cambio Real Sectorial Efectivo. Hilatura y tejedura\", \"id\": \"tcrse_OGNr8Z\", \"units\": \"\\u00cdndice - Base Noviembre 2015=100\"}, {\"title\": \"172_otros_productos_textiles\", \"type\": \"number\", \"description\": \"\\u00cdndice de Tipo de Cambio Real Sectorial Efectivo. Otros productos textiles\", \"id\": \"tcrse_lYF56x\", \"units\": \"\\u00cdndice - Base Noviembre 2015=100\"}, {\"title\": \"182_articulos_de_piel\", \"type\": \"number\", \"description\": \"\\u00cdndice de Tipo de Cambio Real Sectorial Efectivo. Art\\u00edculos de piel\", \"id\": \"tcrse_afpG4I\", \"units\": \"\\u00cdndice - Base Noviembre 2015=100\"}, {\"title\": \"191_productos_del_cuero\", \"type\": \"number\", \"description\": \"\\u00cdndice de Tipo de Cambio Real Sectorial Efectivo. Productos del cuero\", \"id\": \"tcrse_4sgTaJ\", \"units\": \"\\u00cdndice - Base Noviembre 2015=100\"}, {\"title\": \"201_aserrado_y_acepilladura_de_madera\", \"type\": \"number\", \"description\": \"\\u00cdndice de Tipo de Cambio Real Sectorial Efectivo. Aserrado y acepilladura de madera\", \"id\": \"tcrse_Tw4pdt\", \"units\": \"\\u00cdndice - Base Noviembre 2015=100\"}, {\"title\": \"210_papel_y_de_productos_de_papel\", \"type\": \"number\", \"description\": \"\\u00cdndice de Tipo de Cambio Real Sectorial Efectivo. Papel y de productos de papel\", \"id\": \"tcrse_L5taU8\", \"units\": \"\\u00cdndice - Base Noviembre 2015=100\"}, {\"title\": \"222_actividades_de_impresion\", \"type\": \"number\", \"description\": \"\\u00cdndice de Tipo de Cambio Real Sectorial Efectivo. Actividades de impresi\\u00f3n\", \"id\": \"tcrse_49xDd3\", \"units\": \"\\u00cdndice - Base Noviembre 2015=100\"}, {\"title\": \"231_productos_de_hornos_de_coque\", \"type\": \"number\", \"description\": \"\\u00cdndice de Tipo de Cambio Real Sectorial Efectivo. Productos de hornos de coque\", \"id\": \"tcrse_siw0VO\", \"units\": \"\\u00cdndice - Base Noviembre 2015=100\"}, {\"title\": \"241_sustancias_quimicas_basicas\", \"type\": \"number\", \"description\": \"\\u00cdndice de Tipo de Cambio Real Sectorial Efectivo. Sustancias qu\\u00edmicas b\\u00e1sicas\", \"id\": \"tcrse_AKYQXQ\", \"units\": \"\\u00cdndice - Base Noviembre 2015=100\"}, {\"title\": \"242_otros_productos_quimicos\", \"type\": \"number\", \"description\": \"\\u00cdndice de Tipo de Cambio Real Sectorial Efectivo. Otros productos qu\\u00edmicos\", \"id\": \"tcrse_7bZNfw\", \"units\": \"\\u00cdndice - Base Noviembre 2015=100\"}, {\"title\": \"251_productos_de_caucho\", \"type\": \"number\", \"description\": \"\\u00cdndice de Tipo de Cambio Real Sectorial Efectivo. Productos de caucho\", \"id\": \"tcrse_gYnU7E\", \"units\": \"\\u00cdndice - Base Noviembre 2015=100\"}, {\"title\": \"252_productos_de_plastico\", \"type\": \"number\", \"description\": \"\\u00cdndice de Tipo de Cambio Real Sectorial Efectivo. Productos de pl\\u00e1stico\", \"id\": \"tcrse_pQ74Cg\", \"units\": \"\\u00cdndice - Base Noviembre 2015=100\"}, {\"title\": \"269_productos_minerales_no_metalicos_n_c_p\", \"type\": \"number\", \"description\": \"\\u00cdndice de Tipo de Cambio Real Sectorial Efectivo. Productos minerales no met\\u00e1licos n.c.p.\", \"id\": \"tcrse_gVUBEr\", \"units\": \"\\u00cdndice - Base Noviembre 2015=100\"}, {\"title\": \"271_industrias_basicas_de_hierro_y_acero\", \"type\": \"number\", \"description\": \"\\u00cdndice de Tipo de Cambio Real Sectorial Efectivo. Industrias b\\u00e1sicas de hierro y acero\", \"id\": \"tcrse_jI2QUz\", \"units\": \"\\u00cdndice - Base Noviembre 2015=100\"}, {\"title\": \"272_productos_de_metales_preciosos_y_no_ferrosos\", \"type\": \"number\", \"description\": \"\\u00cdndice de Tipo de Cambio Real Sectorial Efectivo. Productos de metales preciosos y no ferrosos\", \"id\": \"tcrse_hzg1UN\", \"units\": \"\\u00cdndice - Base Noviembre 2015=100\"}, {\"title\": \"289_otros_productos_elaborados_de_metal\", \"type\": \"number\", \"description\": \"\\u00cdndice de Tipo de Cambio Real Sectorial Efectivo. Otros productos elaborados de metal\", \"id\": \"tcrse_wOl9nx\", \"units\": \"\\u00cdndice - Base Noviembre 2015=100\"}, {\"title\": \"291_maquinaria_de_uso_general\", \"type\": \"number\", \"description\": \"\\u00cdndice de Tipo de Cambio Real Sectorial Efectivo. Maquinaria de uso general\", \"id\": \"tcrse_HJ9Gee\", \"units\": \"\\u00cdndice - Base Noviembre 2015=100\"}, {\"title\": \"292_maquinaria_de_uso_especial\", \"type\": \"number\", \"description\": \"\\u00cdndice de Tipo de Cambio Real Sectorial Efectivo. Maquinaria de uso especial\", \"id\": \"tcrse_sZ4Idq\", \"units\": \"\\u00cdndice - Base Noviembre 2015=100\"}, {\"title\": \"312_aparatos_de_la_energia_electrica\", \"type\": \"number\", \"description\": \"\\u00cdndice de Tipo de Cambio Real Sectorial Efectivo. Aparatos de la energ\\u00eda el\\u00e9ctrica\", \"id\": \"tcrse_Z8JSU7\", \"units\": \"\\u00cdndice - Base Noviembre 2015=100\"}, {\"title\": \"313_hilos_y_cables_aislados\", \"type\": \"number\", \"description\": \"\\u00cdndice de Tipo de Cambio Real Sectorial Efectivo. Hilos y cables aislados\", \"id\": \"tcrse_wcqPbY\", \"units\": \"\\u00cdndice - Base Noviembre 2015=100\"}, {\"title\": \"331_aparatos_medicos\", \"type\": \"number\", \"description\": \"\\u00cdndice de Tipo de Cambio Real Sectorial Efectivo. Aparatos m\\u00e9dicos\", \"id\": \"tcrse_k22ckW\", \"units\": \"\\u00cdndice - Base Noviembre 2015=100\"}, {\"title\": \"341_vehiculos_automotores\", \"type\": \"number\", \"description\": \"\\u00cdndice de Tipo de Cambio Real Sectorial Efectivo. Veh\\u00edculos automotores\", \"id\": \"tcrse_9kwOUq\", \"units\": \"\\u00cdndice - Base Noviembre 2015=100\"}, {\"title\": \"343_autopartes\", \"type\": \"number\", \"description\": \"\\u00cdndice de Tipo de Cambio Real Sectorial Efectivo. Autopartes\", \"id\": \"tcrse_GBz3WO\", \"units\": \"\\u00cdndice - Base Noviembre 2015=100\"}, {\"title\": \"353_aeronaves_y_naves_espaciales\", \"type\": \"number\", \"description\": \"\\u00cdndice de Tipo de Cambio Real Sectorial Efectivo. Aeronaves y naves espaciales\", \"id\": \"tcrse_Y8MxIo\", \"units\": \"\\u00cdndice - Base Noviembre 2015=100\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2018-06-12T00:00:00",
+      "datastore_active": false,
+      "description": "Índice de Tipo de Cambio Real Sectorial Efectivo en formato de series de tiempo",
+      "fileName": "tcrmse-series.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "siep_1.1",
+      "last_modified": "2018-09-28T00:00:00",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Índice de Tipo de Cambio Real Sectorial Efectivo (series)",
+      "package_id": "siep_1",
+      "position": 0,
+      "resource_type": "file",
+      "revision_id": "430473b1-47da-40d5-a10c-907f54bcbe0f",
+      "size": null,
+      "state": "active",
+      "url": "http://estadisticas.produccion.gob.ar/app/dataset/1/distribution/1.1/tcrmse-series.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://estadisticas.produccion.gob.ar/",
+      "attributesDescription": "[{\"title\": \"indice_tiempo\", \"type\": \"date\", \"description\": \"\\u00cdndice de tiempo de los datos de panel\", \"id\": \"tcrse_ar3cAZ\"}, {\"title\": \"sector_ciiu3_d\", \"type\": \"string\", \"description\": \"Sector seg\\u00fan CIIU 3.1 a 3 d\\u00edgitos\", \"id\": \"tcrse_HPUJVb\"}, {\"title\": \"valor\", \"type\": \"number\", \"description\": \"Valor del \\u00edndice de Tipo de Cambio Real Sectorial Efectivo\", \"id\": \"tcrse_iYsT11\", \"units\": \"\\u00cdndice - Base Noviembre 2015=100\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2018-06-12T00:00:00",
+      "datastore_active": false,
+      "description": "Índice de Tipo de Cambio Real Sectorial Efectivo en formato de datos de panel",
+      "fileName": "tcrmse-panel.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "siep_1.2",
+      "last_modified": "2018-09-28T00:00:00",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Índice de Tipo de Cambio Real Sectorial Efectivo (panel)",
+      "package_id": "siep_1",
+      "position": 1,
+      "resource_type": "file",
+      "revision_id": "430473b1-47da-40d5-a10c-907f54bcbe0f",
+      "size": null,
+      "state": "active",
+      "url": "http://estadisticas.produccion.gob.ar/app/dataset/1/distribution/1.2/tcrmse-panel.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://estadisticas.produccion.gob.ar/",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2018-06-12T00:00:00",
+      "datastore_active": false,
+      "description": "Documento metodológico del dataset Tipo de Cambio Real Sectorial Efectivo",
+      "fileName": "tcrmse-metodologia.pdf",
+      "format": "PDF",
+      "hash": "",
+      "id": "siep_1.3",
+      "last_modified": "2018-09-28T00:00:00",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Índice de Tipo de Cambio Real Sectorial Efectivo: metodología",
+      "package_id": "siep_1",
+      "position": 2,
+      "resource_type": "documentation",
+      "revision_id": "d61e3a4a-dd31-4409-8dc2-428cd8179ef2",
+      "size": null,
+      "state": "active",
+      "url": "http://estadisticas.produccion.gob.ar/app/documentos/tcrmse-metodologia.pdf",
+      "url_type": null
+    }
+  ],
+  "revision_id": "430473b1-47da-40d5-a10c-907f54bcbe0f",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "Estadísticas Productivas",
+      "id": "c1c92eed-ad16-470b-8e91-e23b88db72dc",
+      "name": "Estadísticas Productivas",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Sector Externo",
+      "id": "7161d5c3-be73-43e4-91b8-447209c908f4",
+      "name": "Sector Externo",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "actividad",
+      "id": "23258086-60c8-49a7-ba2b-ff837529653b",
+      "name": "actividad",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "cambio",
+      "id": "3115c4eb-b8cf-4e4f-9130-cd58f58a0473",
+      "name": "cambio",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "economia",
+      "id": "c634e2f6-af4a-4d83-aca0-70329197084d",
+      "name": "economia",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "indice",
+      "id": "216924f1-aa8a-4271-b7a0-604c450b4958",
+      "name": "indice",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "produccion",
+      "id": "bdc270a4-66a0-4647-9e28-c31133499bc6",
+      "name": "produccion",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "sector",
+      "id": "86e5b9d4-8b55-4472-89be-ca0d197f9fcc",
+      "name": "sector",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "sectorial",
+      "id": "ae8b3131-af6f-4594-919a-fcb8c3792359",
+      "name": "sectorial",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "tipo de cambio",
+      "id": "d6b831e9-9ee8-4d14-b0b6-04857001e850",
+      "name": "tipo de cambio",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Índice de Tipo de Cambio Real Sectorial Efectivo",
+  "type": "dataset",
+  "url": "http://estadisticas.produccion.gob.ar/",
+  "version": null
+}

@@ -1,0 +1,173 @@
+{
+  "author": "Ente Nacional de Comunicaciones (ENACOM)",
+  "author_email": "contacto@enacom.gob.ar",
+  "creator_user_id": "4720e75a-9e17-4dc3-879d-041917c7f9f9",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P1Y"
+    },
+    {
+      "key": "issued",
+      "value": "2018-09-05T17:20:09"
+    },
+    {
+      "key": "language",
+      "value": "[\"spa\"]"
+    },
+    {
+      "key": "modified",
+      "value": "2020-04-20T23:00:06Z"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"TECH\"]"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Ciencia y tecnología",
+      "display_name": "Ciencia y tecnología",
+      "id": "0dd7dd0e-aae8-402f-8660-f1e8b6b6084c",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225221.170833ciencia-tecnologia.svg",
+      "name": "tech",
+      "title": "Ciencia y tecnología"
+    }
+  ],
+  "id": "enacom_VELOC-PROME-DE-BAJAD-51733",
+  "isopen": false,
+  "license_id": "notspecified",
+  "license_title": "No se especificó la licencia",
+  "maintainer": null,
+  "maintainer_email": null,
+  "metadata_created": "2019-11-26T14:55:43.219520",
+  "metadata_modified": "2021-04-29T17:04:37.907857",
+  "name": "enacom-velocidad-promedio-bajada-internet-nacional",
+  "notes": "Serie histórica de la velocidad promedio de bajada de Internet nacional (trimestral)",
+  "num_resources": 3,
+  "num_tags": 4,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:07.525331",
+    "description": "",
+    "id": "6eb7d19b-2d42-494f-8e57-d67c501d23eb",
+    "image_url": "",
+    "is_organization": true,
+    "name": "enacom",
+    "revision_id": "f2d2a5ad-7015-4d68-9d9c-5a82fadbbbf3",
+    "state": "active",
+    "title": "Ente Nacional de Comunicaciones",
+    "type": "organization"
+  },
+  "owner_org": "6eb7d19b-2d42-494f-8e57-d67c501d23eb",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/245548/velocidad-promedio-de-bajada-de-internet-nacional/",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2018-09-05T17:20:09",
+      "datastore_active": false,
+      "description": "Serie histórica de la velocidad promedio de bajada de Internet nacional (trimestral)",
+      "format": "CSV",
+      "hash": "",
+      "id": "enacom_VELOC-PROME-DE-BAJAD-51733_0",
+      "last_modified": "2020-04-20T20:00:06",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Velocidad promedio de bajada de Internet (nacional)",
+      "package_id": "enacom_VELOC-PROME-DE-BAJAD-51733",
+      "position": 0,
+      "resource_type": null,
+      "revision_id": "34930458-00d0-4321-b3b8-5b1019b39713",
+      "size": null,
+      "state": "active",
+      "url": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/VELOC-PROME-DE-BAJAD-51733/data.csv?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/245548/velocidad-promedio-de-bajada-de-internet-nacional/",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2018-09-05T17:20:09",
+      "datastore_active": false,
+      "description": "Serie histórica de la velocidad promedio de bajada de Internet nacional (trimestral)",
+      "format": "XLS",
+      "hash": "",
+      "id": "enacom_VELOC-PROME-DE-BAJAD-51733_1",
+      "last_modified": "2020-04-20T20:00:06",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Velocidad promedio de bajada de Internet (nacional)",
+      "package_id": "enacom_VELOC-PROME-DE-BAJAD-51733",
+      "position": 1,
+      "resource_type": null,
+      "revision_id": "34930458-00d0-4321-b3b8-5b1019b39713",
+      "size": null,
+      "state": "active",
+      "url": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/VELOC-PROME-DE-BAJAD-51733/data.xls?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/245548/velocidad-promedio-de-bajada-de-internet-nacional/",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2018-09-05T17:20:09",
+      "datastore_active": false,
+      "description": "Serie histórica de la velocidad promedio de bajada de Internet nacional (trimestral)",
+      "format": "JSON",
+      "hash": "",
+      "id": "enacom_VELOC-PROME-DE-BAJAD-51733_2",
+      "last_modified": "2020-04-20T20:00:06",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Velocidad promedio de bajada de Internet (nacional)",
+      "package_id": "enacom_VELOC-PROME-DE-BAJAD-51733",
+      "position": 2,
+      "resource_type": null,
+      "revision_id": "34930458-00d0-4321-b3b8-5b1019b39713",
+      "size": null,
+      "state": "active",
+      "url": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/VELOC-PROME-DE-BAJAD-51733/data.json?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1",
+      "url_type": null
+    }
+  ],
+  "revision_id": "cb1666f0-7acb-44db-b9e5-b8bb4f5d925d",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "Acceso a Internet",
+      "id": "18825a12-ee47-4a47-9544-22fe697030f7",
+      "name": "Acceso a Internet",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "banda ancha",
+      "id": "3a46769a-1f6c-4530-86e3-47730ca576c4",
+      "name": "banda ancha",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "internet",
+      "id": "b399e3f0-17e4-4d66-837e-035c4c167e22",
+      "name": "internet",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "velocidad",
+      "id": "cdbc981d-5ce8-4147-84d5-47e48bb185cb",
+      "name": "velocidad",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Velocidad promedio de bajada de Internet (nacional)",
+  "type": "dataset",
+  "url": "http://api.datosabiertos.enacom.gob.ar/dataset/enacom-velocidad-promedio-bajada-internet-nacional",
+  "version": null
+}

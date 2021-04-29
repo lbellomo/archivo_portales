@@ -1,0 +1,226 @@
+{
+  "author": "Subsecretaría de Mercados Agropecuarios",
+  "author_email": "sma@magyp.gob.ar",
+  "creator_user_id": "dc157489-51c6-44ce-bd63-3bd983d60778",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P1M"
+    },
+    {
+      "key": "issued",
+      "value": "2018-12-07T21:27:09.564952"
+    },
+    {
+      "key": "language",
+      "value": "[\"spa\"]"
+    },
+    {
+      "key": "modified",
+      "value": "2019-10-24T10:45:13.223292"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"AGRI\"]"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Agroganadería, pesca y forestación",
+      "display_name": "Agroganadería, pesca y forestación",
+      "id": "0c35ea38-7059-41d2-9827-5587769d0dc6",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225145.990789agroganaderia-pesca-forestacion.svg",
+      "name": "agri",
+      "title": "Agroganadería, pesca y forestación"
+    }
+  ],
+  "id": "agroindustria_62a75c8f-5f22-43c0-86b1-f36149613434",
+  "isopen": true,
+  "license_id": "CC-BY-4.0",
+  "license_title": "Creative Commons Attribution 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "maintainer": "Subsecretaría de Mercados Agropecuarios",
+  "maintainer_email": "sma@magyp.gob.ar",
+  "metadata_created": "2019-12-04T20:00:25.495869",
+  "metadata_modified": "2021-04-29T17:10:08.213703",
+  "name": "agroindustria-lino---destino-industrial",
+  "notes": "Ingreso de granos de lino a la industria aceitera. Subproductos de la industria aceitera\r\nAño Comercial de Diciembre a Noviembre.",
+  "num_resources": 4,
+  "num_tags": 7,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:07.834957",
+    "description": "",
+    "id": "b10c94e2-ade1-4a97-8c4c-b1ada7878d60",
+    "image_url": "",
+    "is_organization": true,
+    "name": "agroindustria",
+    "revision_id": "f7c3b6e9-d48f-4522-9f7a-388d805c8392",
+    "state": "active",
+    "title": "Ministerio de Agricultura, Ganadería y Pesca",
+    "type": "organization"
+  },
+  "owner_org": "b10c94e2-ade1-4a97-8c4c-b1ada7878d60",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "http://datos.agroindustria.gob.ar/dataset/62a75c8f-5f22-43c0-86b1-f36149613434/resource/a4d44bca-0de6-4db4-9401-8e6baff0af67",
+      "attributesDescription": "[{\"type\": \"integer\", \"description\": \"cod_pais\", \"title\": \"cod_pais\"}, {\"type\": \"string\", \"description\": \"nom_pais\", \"title\": \"nom_pais\"}, {\"type\": \"integer\", \"description\": \"a\\u00f1o\", \"title\": \"a\\u00f1o\"}, {\"type\": \"string\", \"description\": \"producto\", \"title\": \"producto\"}, {\"type\": \"string\", \"description\": \"destino\", \"title\": \"destino\"}, {\"type\": \"string\", \"description\": \"uni_med\", \"title\": \"uni_med\"}, {\"type\": \"string\", \"description\": \"nom_med\", \"title\": \"nom_med\"}, {\"type\": \"integer\", \"description\": \"enero\", \"title\": \"enero\"}, {\"type\": \"integer\", \"description\": \"febrero\", \"title\": \"febrero\"}, {\"type\": \"integer\", \"description\": \"marzo\", \"title\": \"marzo\"}, {\"type\": \"integer\", \"description\": \"abril\", \"title\": \"abril\"}, {\"type\": \"integer\", \"description\": \"mayo\", \"title\": \"mayo\"}, {\"type\": \"integer\", \"description\": \"junio\", \"title\": \"junio\"}, {\"type\": \"integer\", \"description\": \"julio\", \"title\": \"julio\"}, {\"type\": \"integer\", \"description\": \"agosto\", \"title\": \"agosto\"}, {\"type\": \"integer\", \"description\": \"septiembre\", \"title\": \"septiembre\"}, {\"type\": \"integer\", \"description\": \"octubre\", \"title\": \"octubre\"}, {\"type\": \"integer\", \"description\": \"noviembre\", \"title\": \"noviembre\"}, {\"type\": \"integer\", \"description\": \"diciembre\", \"title\": \"diciembre\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2018-05-07T14:56:56.798271",
+      "datastore_active": false,
+      "description": "Granos de lino en toneladas que ingresan a la industria aceitera.\r\n \"0\" indica informado \"Sin Movimiento\".",
+      "fileName": "ingreso-de-lino-a-la-industria-aceitera-.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "agroindustria_a4d44bca-0de6-4db4-9401-8e6baff0af67",
+      "last_modified": "2019-04-24T15:37:55.462252",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Ingreso de lino a la industria aceitera",
+      "package_id": "agroindustria_62a75c8f-5f22-43c0-86b1-f36149613434",
+      "position": 0,
+      "resource_type": "file.upload",
+      "revision_id": "cf223401-b577-4c76-88fc-b652c659af7c",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.agroindustria.gob.ar/dataset/62a75c8f-5f22-43c0-86b1-f36149613434/resource/a4d44bca-0de6-4db4-9401-8e6baff0af67/download/ingreso-de-lino-a-la-industria-aceitera-.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos2.agroindustria.gob.ar/dataset/62a75c8f-5f22-43c0-86b1-f36149613434/archivo/1918a373-b46c-41b3-a847-f104a9d214f7",
+      "attributesDescription": "[{\"type\": \"integer\", \"description\": \"cod_pais\", \"title\": \"cod_pais\"}, {\"type\": \"string\", \"description\": \"nom_pais\", \"title\": \"nom_pais\"}, {\"type\": \"integer\", \"description\": \"A\\u00d1OS\", \"title\": \"A\\u00d1OS\"}, {\"type\": \"string\", \"description\": \"producto\", \"title\": \"producto\"}, {\"type\": \"string\", \"description\": \"cod_uni\", \"title\": \"cod_uni\"}, {\"type\": \"string\", \"description\": \"nom_uni\", \"title\": \"nom_uni\"}, {\"type\": \"integer\", \"description\": \"enero\", \"title\": \"enero\"}, {\"type\": \"integer\", \"description\": \"febrero\", \"title\": \"febrero\"}, {\"type\": \"integer\", \"description\": \"marzo\", \"title\": \"marzo\"}, {\"type\": \"integer\", \"description\": \"abril\", \"title\": \"abril\"}, {\"type\": \"integer\", \"description\": \"mayo\", \"title\": \"mayo\"}, {\"type\": \"integer\", \"description\": \"junio\", \"title\": \"junio\"}, {\"type\": \"integer\", \"description\": \"julio\", \"title\": \"julio\"}, {\"type\": \"integer\", \"description\": \"agosto\", \"title\": \"agosto\"}, {\"type\": \"integer\", \"description\": \"septiembre\", \"title\": \"septiembre\"}, {\"type\": \"integer\", \"description\": \"octubre\", \"title\": \"octubre\"}, {\"type\": \"integer\", \"description\": \"noviembre\", \"title\": \"noviembre\"}, {\"type\": \"integer\", \"description\": \"diciembre\", \"title\": \"diciembre\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2018-05-07T14:57:50.611386",
+      "datastore_active": false,
+      "description": "Detalle mensual de la producción de aceite de lino en toneladas.\r\n \"0\" indica informado \"Sin Movimiento\".",
+      "fileName": "produccion-aceite-lino.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "agroindustria_1918a373-b46c-41b3-a847-f104a9d214f7",
+      "last_modified": "2019-01-29T16:43:00.642852",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Producción de aceite de lino",
+      "package_id": "agroindustria_62a75c8f-5f22-43c0-86b1-f36149613434",
+      "position": 1,
+      "resource_type": "file.upload",
+      "revision_id": "cf223401-b577-4c76-88fc-b652c659af7c",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.agroindustria.gob.ar/dataset/62a75c8f-5f22-43c0-86b1-f36149613434/resource/1918a373-b46c-41b3-a847-f104a9d214f7/download/produccion-aceite-lino.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos2.agroindustria.gob.ar/dataset/62a75c8f-5f22-43c0-86b1-f36149613434/archivo/8d26eaf1-c8e1-4c26-9d27-39d5cc29f633",
+      "attributesDescription": "[{\"type\": \"integer\", \"description\": \"cod_pais\", \"title\": \"cod_pais\"}, {\"type\": \"string\", \"description\": \"nom_pais\", \"title\": \"nom_pais\"}, {\"type\": \"integer\", \"description\": \"a\\u00f1o\", \"title\": \"a\\u00f1o\"}, {\"type\": \"string\", \"description\": \"producto\", \"title\": \"producto\"}, {\"type\": \"string\", \"description\": \"unidad_id\", \"title\": \"unidad_id\"}, {\"type\": \"string\", \"description\": \"nom_unidad\", \"title\": \"nom_unidad\"}, {\"type\": \"integer\", \"description\": \"enero\", \"title\": \"enero\"}, {\"type\": \"integer\", \"description\": \"febrero\", \"title\": \"febrero\"}, {\"type\": \"integer\", \"description\": \"marzo\", \"title\": \"marzo\"}, {\"type\": \"integer\", \"description\": \"abril\", \"title\": \"abril\"}, {\"type\": \"integer\", \"description\": \"mayo\", \"title\": \"mayo\"}, {\"type\": \"integer\", \"description\": \"junio\", \"title\": \"junio\"}, {\"type\": \"integer\", \"description\": \"julio\", \"title\": \"julio\"}, {\"type\": \"integer\", \"description\": \"agosto\", \"title\": \"agosto\"}, {\"type\": \"integer\", \"description\": \"septiembre\", \"title\": \"septiembre\"}, {\"type\": \"integer\", \"description\": \"octubre\", \"title\": \"octubre\"}, {\"type\": \"integer\", \"description\": \"noviembre\", \"title\": \"noviembre\"}, {\"type\": \"integer\", \"description\": \"diciembre\", \"title\": \"diciembre\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2018-05-07T14:58:18.654487",
+      "datastore_active": false,
+      "description": "Detalle mensual de la producción de expellers de lino en toneladas.\r\n \"0\" indica informado \"Sin Movimiento\".",
+      "fileName": "produccion-expellers-lino.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "agroindustria_8d26eaf1-c8e1-4c26-9d27-39d5cc29f633",
+      "last_modified": "2019-01-29T16:27:05.161439",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Producción de expellers de lino",
+      "package_id": "agroindustria_62a75c8f-5f22-43c0-86b1-f36149613434",
+      "position": 2,
+      "resource_type": "file.upload",
+      "revision_id": "cc77e7c4-5908-4af1-be19-dcfdec02721c",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.agroindustria.gob.ar/dataset/62a75c8f-5f22-43c0-86b1-f36149613434/resource/8d26eaf1-c8e1-4c26-9d27-39d5cc29f633/download/produccion-expellers-lino.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos.agroindustria.gob.ar/dataset/62a75c8f-5f22-43c0-86b1-f36149613434/resource/2ff2b00a-0d1a-4193-b836-2f81811de464",
+      "attributesDescription": "[{\"specialType\": \"time_index\", \"specialTypeDetail\": \"R/P1M\", \"type\": \"date\", \"title\": \"indice_tiempo\"}, {\"units\": \"Toneladas\", \"id\": \"AGRO_0265\", \"type\": \"integer\", \"description\": \"Ingreso de lino a la industria aceitera.\", \"title\": \"ingreso_lino_industria_aceitera\"}, {\"units\": \"Toneladas\", \"id\": \"AGRO_0266\", \"type\": \"integer\", \"description\": \"Producci\\u00f3n de aceite de lino.\", \"title\": \"produccion_aceite_lino\"}, {\"units\": \"Toneladas\", \"id\": \"AGRO_0267\", \"type\": \"integer\", \"description\": \"Producci\\u00f3n de expellers de lino.\", \"title\": \"produccion_expellers_lino\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-04-29T15:48:16.933097",
+      "datastore_active": false,
+      "description": "Evolución del ingreso de granos de lino a la industria aceitera. Subproductos de la industria aceitera Año Comercial de Diciembre a Noviembre.",
+      "fileName": "serie-tiempo-lino-destino-industria.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "agroindustria_2ff2b00a-0d1a-4193-b836-2f81811de464",
+      "last_modified": "2019-09-04T16:10:45.236709",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Serie de tiempo",
+      "package_id": "agroindustria_62a75c8f-5f22-43c0-86b1-f36149613434",
+      "position": 3,
+      "resource_type": "file.upload",
+      "revision_id": "cc77e7c4-5908-4af1-be19-dcfdec02721c",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.agroindustria.gob.ar/dataset/62a75c8f-5f22-43c0-86b1-f36149613434/resource/2ff2b00a-0d1a-4193-b836-2f81811de464/download/serie-tiempo-lino-destino-industria.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "0dfaba87-79b1-42f0-8da3-ddf7e2d1aeee",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "aceite lino",
+      "id": "fd1b2ee9-480e-4a9c-ae94-96ac39c0a883",
+      "name": "aceite lino",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "expellers",
+      "id": "ef2886aa-4169-4090-b1b1-747b01ec2c50",
+      "name": "expellers",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "industria aceitera",
+      "id": "846315f4-50ab-42e2-8508-b4e91d9949ab",
+      "name": "industria aceitera",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "industrial aceitero",
+      "id": "65a89a4f-f530-4d26-9ae2-f85c257e2374",
+      "name": "industrial aceitero",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "lino",
+      "id": "a76d55de-8f3e-41bd-bc8b-9d8eaac37692",
+      "name": "lino",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "mercados agricolas",
+      "id": "a6480af9-1f58-4d18-b8da-5ee1aa8902a9",
+      "name": "mercados agricolas",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "oleaginosas",
+      "id": "82272362-9b90-41d8-9215-aefa48c21b66",
+      "name": "oleaginosas",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Lino - Destino industrial",
+  "type": "dataset",
+  "url": "https://datos.agroindustria.gob.ar/dataset/lino-con-destino-industria",
+  "version": null
+}

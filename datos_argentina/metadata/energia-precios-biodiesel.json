@@ -1,0 +1,170 @@
+{
+  "author": "Secretaría de Gobierno de Energía.Subsecretaría de Planeamiento Energético.Dirección Nacional de Información Energética.",
+  "author_email": "tienerg@energia.gob.ar",
+  "creator_user_id": "4720e75a-9e17-4dc3-879d-041917c7f9f9",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P1M"
+    },
+    {
+      "key": "issued",
+      "value": "2016-12-22T15:02:43.128638"
+    },
+    {
+      "key": "modified",
+      "value": "2019-08-01T17:16:47.268658"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"ENER\"]"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Energía",
+      "display_name": "Energía",
+      "id": "a4d3f632-eb48-4163-9791-165989c16035",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225337.421630energia.svg",
+      "name": "ener",
+      "title": "Energía"
+    }
+  ],
+  "id": "energia_30fcb906-5374-4790-aa89-368c0d3ef314",
+  "isopen": false,
+  "license_id": "notspecified",
+  "license_title": "No se especificó la licencia",
+  "maintainer": "Secretaría de Gobierno de Energía.Secretaría de Recursos No Renovables y Mercado de los Combustibles.Subsecretaría de Hidrocarburos y Combustibles.Dirección de Biocombustibles.",
+  "maintainer_email": null,
+  "metadata_created": "2019-11-26T14:59:28.379788",
+  "metadata_modified": "2021-04-29T17:17:30.954845",
+  "name": "energia-precios-biodiesel",
+  "notes": "Precios de biodiesel desde noviembre de 2012 [AR$/t] y derechos de exportación establecidos por la Unidad Ejecutiva Interdisciplinaria de Monitoreo. ",
+  "num_resources": 3,
+  "num_tags": 4,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:09.221510",
+    "description": "",
+    "id": "cd1b32a2-2d3a-44ac-8c98-a425a7b62d42",
+    "image_url": "",
+    "is_organization": true,
+    "name": "energia",
+    "revision_id": "a184cf69-99ad-4f84-a254-020031d7fe63",
+    "state": "active",
+    "title": "Secretaría de Energía",
+    "type": "organization"
+  },
+  "owner_org": "cd1b32a2-2d3a-44ac-8c98-a425a7b62d42",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "http://datos.minem.gob.ar/dataset/30fcb906-5374-4790-aa89-368c0d3ef314/resource/b06819f6-f32e-4945-90f1-051c7a2688c4",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2018-01-02T08:23:14.254269",
+      "datastore_active": false,
+      "description": "Precios por categoría de empresa, en AR$/t.",
+      "format": "PHP",
+      "hash": "",
+      "id": "energia_b06819f6-f32e-4945-90f1-051c7a2688c4",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Biocombustibles - Precios de biodiesel ",
+      "package_id": "energia_30fcb906-5374-4790-aa89-368c0d3ef314",
+      "position": 0,
+      "resource_type": null,
+      "revision_id": "808a496c-4b17-445b-8a39-32003a71d34a",
+      "size": null,
+      "state": "active",
+      "url": "https://glp.se.gob.ar/biocombustible/reporte_precios.php",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos.minem.gob.ar/dataset/30fcb906-5374-4790-aa89-368c0d3ef314/resource/b68507ca-f6ff-406f-85cf-2d706a2b993f",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-05-04T14:37:44.459905",
+      "datastore_active": false,
+      "description": "Precios por categoría de empresa, en AR$/t. (Hasta octubre 2017)",
+      "fileName": "biocombustible-precios-de-biodiesel.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "energia_b68507ca-f6ff-406f-85cf-2d706a2b993f",
+      "last_modified": "2020-11-02T01:01:03.508271",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Biocombustibles - Precios de biodiesel",
+      "package_id": "energia_30fcb906-5374-4790-aa89-368c0d3ef314",
+      "position": 1,
+      "resource_type": null,
+      "revision_id": "d487f431-f1c6-4f4c-98d7-fef91e2461bf",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.minem.gob.ar/dataset/30fcb906-5374-4790-aa89-368c0d3ef314/resource/b68507ca-f6ff-406f-85cf-2d706a2b993f/download/biocombustible-precios-de-biodiesel.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos.minem.gob.ar/dataset/30fcb906-5374-4790-aa89-368c0d3ef314/resource/8e14e588-dfec-4a29-a2f4-65f5fdecec56",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2018-06-12T07:49:24.891034",
+      "datastore_active": false,
+      "description": "Insumo para fórmula de cálculo de Biodiesel Res 83/18",
+      "format": "XLSX",
+      "hash": "",
+      "id": "energia_8e14e588-dfec-4a29-a2f4-65f5fdecec56",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Insumo para fórmula de cálculo de Biodiesel Res 83/18",
+      "package_id": "energia_30fcb906-5374-4790-aa89-368c0d3ef314",
+      "position": 2,
+      "resource_type": null,
+      "revision_id": "008f9ce8-8968-4df2-83ca-bd7ef6f07721",
+      "size": null,
+      "state": "active",
+      "url": "http://www.energia.gob.ar/contenidos/archivos/Reorganizacion/informacion_del_mercado/mercado_hidrocarburos/biocombustibles/insumos_formula_biodiesel.xlsx",
+      "url_type": null
+    }
+  ],
+  "revision_id": "008f9ce8-8968-4df2-83ca-bd7ef6f07721",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "Biocombustibles",
+      "id": "ac3e690e-0b68-4dce-bc68-c01ecd522ef2",
+      "name": "Biocombustibles",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Biodiesel",
+      "id": "4e56da41-f576-4db9-be1b-ec0b84d3a20a",
+      "name": "Biodiesel",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Energías Renovables",
+      "id": "5ed67cf4-5bbe-49c1-869c-ede36d86486c",
+      "name": "Energías Renovables",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Precios",
+      "id": "308c2aaf-f177-4728-bda5-fd41662741a2",
+      "name": "Precios",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Precios de biodiesel",
+  "type": "dataset",
+  "url": "http://datos.minem.gob.ar/dataset/",
+  "version": null
+}

@@ -1,0 +1,229 @@
+{
+  "author": "Ministerio de Salud. Instituto Nacional Central Único Coordinador de Ablación e Implante (INCUCAI). Coordinación de Comunicación Social.",
+  "author_email": "rfontana@incucai.gov.ar",
+  "creator_user_id": "4720e75a-9e17-4dc3-879d-041917c7f9f9",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P6M"
+    },
+    {
+      "key": "issued",
+      "value": "2018-07-26T09:16:55.236860"
+    },
+    {
+      "key": "language",
+      "value": "[\"spa\"]"
+    },
+    {
+      "key": "modified",
+      "value": "2020-05-15T15:56:46.254664"
+    },
+    {
+      "key": "source",
+      "value": "Ministerio de Salud. Instituto Nacional Central Único Coordinador de Ablación e Implante (INCUCAI). Coordinación de Comunicación Social."
+    },
+    {
+      "key": "spatial",
+      "value": "[\"ARG\"]"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"HEAL\"]"
+    },
+    {
+      "key": "temporal",
+      "value": "2017-01-08T03:00:00.000Z/2018-01-08T03:00:00.000Z"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Salud",
+      "display_name": "Salud",
+      "id": "65cc1fbf-703a-43bf-8a14-232a55c34976",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225809.913196salud.svg",
+      "name": "heal",
+      "title": "Salud"
+    }
+  ],
+  "id": "salud_554aad34-5213-47ba-b9d5-5ce63c494de9",
+  "isopen": false,
+  "license_id": "notspecified",
+  "license_title": "No se especificó la licencia",
+  "maintainer": "Ministerio de Salud. Instituto Nacional Central Único Coordinador de Ablación e Implante (INCUCAI). Coordinación de Comunicación Social.",
+  "maintainer_email": "rfontana@incucai.gov.ar",
+  "metadata_created": "2019-11-26T15:01:43.204404",
+  "metadata_modified": "2021-04-29T17:05:30.921725",
+  "name": "salud-expresiones-voluntad-sobre-donacion-organos-tejidos",
+  "notes": "Datos correspondiente al Registro nacional de expresiones de voluntad para la donación de órganos y tejidos",
+  "num_resources": 4,
+  "num_tags": 6,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-11-15T11:12:22.202856",
+    "description": "",
+    "id": "dd1f2018-587f-43af-9b07-fc32f5ab588b",
+    "image_url": "",
+    "is_organization": true,
+    "name": "salud",
+    "revision_id": "14f0bb85-f97d-4325-b1c8-a7c1d3a815bf",
+    "state": "active",
+    "title": "Ministerio de Salud",
+    "type": "organization"
+  },
+  "owner_org": "dd1f2018-587f-43af-9b07-fc32f5ab588b",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "http://datos.salud.gob.ar/dataset/554aad34-5213-47ba-b9d5-5ce63c494de9/resource/4723a6d1-e67a-4f35-b0c4-edcf4c925599",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2018-07-26T09:27:06.513050",
+      "datastore_active": false,
+      "description": "Datos correspondiente al Registro nacional de expresiones de voluntad por jurisdicción para la donación\r\n",
+      "fileName": "expresiones-voluntad-provincia-20180725.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "salud_4723a6d1-e67a-4f35-b0c4-edcf4c925599",
+      "last_modified": "2019-09-16T10:32:53.026816",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Expresiones de voluntad por provincia hasta julio 2018",
+      "package_id": "salud_554aad34-5213-47ba-b9d5-5ce63c494de9",
+      "position": 0,
+      "resource_type": "file",
+      "revision_id": "cf9ffcb5-6128-4c7c-91ff-dc27041ad2c3",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.salud.gob.ar/dataset/554aad34-5213-47ba-b9d5-5ce63c494de9/resource/4723a6d1-e67a-4f35-b0c4-edcf4c925599/download/expresiones-voluntad-provincia-20180725.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos.salud.gob.ar/dataset/554aad34-5213-47ba-b9d5-5ce63c494de9/resource/0deb4055-0820-4d25-8f41-39f9ec55fffe",
+      "attributesDescription": "[{\"type\": \"integer\", \"description\": \"C\\u00f3digo de Provincia\", \"title\": \"provincia_id\"}, {\"type\": \"string\", \"description\": \"Nombre de provincia\", \"title\": \"provincia_descripcion\"}, {\"type\": \"integer\", \"description\": \"Cantidad de manifestaciones afirmativas\", \"title\": \"manifestacion_afirmativa_cantidad\"}, {\"type\": \"number\", \"description\": \"Porcentaje de manifestaciones afirmativas\", \"title\": \"manifestacion_afirmativa_porcentaje\"}, {\"type\": \"integer\", \"description\": \"Cantidad de manifestaciones negativas\", \"title\": \"manifestacion_negativa_cantidad\"}, {\"type\": \"number\", \"description\": \"Porcentaje de manifestaciones negativas\", \"title\": \"manifestacion_negativa_porcentaje\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-09-16T10:36:06.168265",
+      "datastore_active": false,
+      "description": "Datos correspondiente al Registro nacional de expresiones de voluntad por jurisdicción para la donación",
+      "fileName": "expresiones-voluntad-provincia-incucai-20190902.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "salud_0deb4055-0820-4d25-8f41-39f9ec55fffe",
+      "last_modified": "2019-09-16T10:36:06.168265",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Expresiones de voluntad por provincia hasta agosto 2019",
+      "package_id": "salud_554aad34-5213-47ba-b9d5-5ce63c494de9",
+      "position": 1,
+      "resource_type": "file.upload",
+      "revision_id": "fc0091ac-5930-4ceb-9b39-c5db915b695f",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.salud.gob.ar/dataset/554aad34-5213-47ba-b9d5-5ce63c494de9/resource/0deb4055-0820-4d25-8f41-39f9ec55fffe/download/expresiones-voluntad-provincia-incucai-20190902.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos.salud.gob.ar/dataset/554aad34-5213-47ba-b9d5-5ce63c494de9/resource/031e4dd6-c904-4d60-911c-bf8a108ffb8d",
+      "attributesDescription": "[{\"type\": \"integer\", \"description\": \"C\\u00f3digo de Provincia\", \"title\": \"provincia_id\"}, {\"type\": \"string\", \"description\": \"Nombre de provincia\", \"title\": \"provincia_descripcion\"}, {\"type\": \"integer\", \"description\": \"Cantidad de manifestaciones afirmativas\", \"title\": \"manifestacion_afirmativa_cantidad\"}, {\"type\": \"number\", \"description\": \"Porcentaje de manifestaciones afirmativas\", \"title\": \"manifestacion_afirmativa_porcentaje\"}, {\"type\": \"integer\", \"description\": \"Cantidad de manifestaciones negativas\", \"title\": \"manifestacion_negativa_cantidad\"}, {\"type\": \"number\", \"description\": \"Porcentaje de manifestaciones negativas\", \"title\": \"manifestacion_negativa_porcentaje\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-09-16T10:38:20.576061",
+      "datastore_active": false,
+      "description": "Datos correspondiente al Registro nacional de expresiones de voluntad por jurisdicción para la donación",
+      "fileName": "expresiones-voluntad-provincia-incucai-20190902.xls",
+      "format": "XLS",
+      "hash": "",
+      "id": "salud_031e4dd6-c904-4d60-911c-bf8a108ffb8d",
+      "last_modified": "2019-09-16T10:38:20.576061",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Expresiones de voluntad por provincia hasta agosto 2019",
+      "package_id": "salud_554aad34-5213-47ba-b9d5-5ce63c494de9",
+      "position": 2,
+      "resource_type": "file.upload",
+      "revision_id": "fc0091ac-5930-4ceb-9b39-c5db915b695f",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.salud.gob.ar/dataset/554aad34-5213-47ba-b9d5-5ce63c494de9/resource/031e4dd6-c904-4d60-911c-bf8a108ffb8d/download/expresiones-voluntad-provincia-incucai-20190902.xls",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos.salud.gob.ar/dataset/554aad34-5213-47ba-b9d5-5ce63c494de9/resource/8248716d-a9a0-4b1e-9577-2fe1c6bbaea6",
+      "attributesDescription": "[{\"type\": \"integer\", \"description\": \"C\\u00f3digo de Provincia\", \"title\": \"provincia_id\"}, {\"type\": \"string\", \"description\": \"Nombre de provincia\", \"title\": \"provincia_descripcion\"}, {\"type\": \"integer\", \"description\": \"Cantidad de manifestaciones afirmativas\", \"title\": \"manifestacion_afirmativa_cantidad\"}, {\"type\": \"number\", \"description\": \"Porcentaje de manifestaciones afirmativas\", \"title\": \"manifestacion_afirmativa_porcentaje\"}, {\"type\": \"integer\", \"description\": \"Cantidad de manifestaciones negativas\", \"title\": \"manifestacion_negativa_cantidad\"}, {\"type\": \"number\", \"description\": \"Porcentaje de manifestaciones negativas\", \"title\": \"manifestacion_negativa_porcentaje\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-09-16T10:40:11.195387",
+      "datastore_active": false,
+      "description": "Datos correspondiente al Registro nacional de expresiones de voluntad por jurisdicción para la donación",
+      "fileName": "expresiones-voluntad-provincia-incucai-20190902.json",
+      "format": "JSON",
+      "hash": "",
+      "id": "salud_8248716d-a9a0-4b1e-9577-2fe1c6bbaea6",
+      "last_modified": "2019-09-16T10:40:11.195387",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Expresiones de voluntad por provincia hasta agosto 2019",
+      "package_id": "salud_554aad34-5213-47ba-b9d5-5ce63c494de9",
+      "position": 3,
+      "resource_type": "file.upload",
+      "revision_id": "fea0a94f-2c0a-464a-b25d-800743fdf3ca",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.salud.gob.ar/dataset/554aad34-5213-47ba-b9d5-5ce63c494de9/resource/8248716d-a9a0-4b1e-9577-2fe1c6bbaea6/download/expresiones-voluntad-provincia-incucai-20190902.json",
+      "url_type": null
+    }
+  ],
+  "revision_id": "a0546e44-cdfe-4db9-a01a-99e45b6b0f31",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "Donación de órganos y tejidos",
+      "id": "bbba8f71-5999-464b-b922-5464910cb3ea",
+      "name": "Donación de órganos y tejidos",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "INCUCAI",
+      "id": "654ee133-4714-4084-a73f-bf1b987256c2",
+      "name": "INCUCAI",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Registros Padrones  yo Listados Nacionales en Salud",
+      "id": "064bcc0a-bba2-4db9-ac12-879c4cdb82b0",
+      "name": "Registros Padrones  yo Listados Nacionales en Salud",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "donantes",
+      "id": "3d79526f-3b75-49d9-9ab1-16c237d8c8b4",
+      "name": "donantes",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "expresion",
+      "id": "01e5967d-0e94-4206-9908-26f11162020f",
+      "name": "expresion",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "voluntad",
+      "id": "57f56fc9-1720-4cd2-ac1f-94d0a11a54a8",
+      "name": "voluntad",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Expresiones de voluntad sobre donación de órganos y tejidos",
+  "type": "dataset",
+  "url": "http://datos.salud.gob.ar/dataset/expresiones-de-voluntad",
+  "version": null
+}

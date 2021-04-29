@@ -1,0 +1,131 @@
+{
+  "author": "Ministerio de Energía y Minería.Secretaría de Coordinación de Planeamiento Energético.Dirección Nacional de Información Energética.Tecnología de la Información.",
+  "author_email": "tienerg@energia.gob.ar",
+  "creator_user_id": "4720e75a-9e17-4dc3-879d-041917c7f9f9",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "eventual"
+    },
+    {
+      "key": "issued",
+      "value": "2017-01-20T16:34:42.172569"
+    },
+    {
+      "key": "modified",
+      "value": "2020-04-24T11:55:03.435278"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"ENER\"]"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Energía",
+      "display_name": "Energía",
+      "id": "a4d3f632-eb48-4163-9791-165989c16035",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225337.421630energia.svg",
+      "name": "ener",
+      "title": "Energía"
+    }
+  ],
+  "id": "energia_c126ad73-399a-4fa4-be8e-bd0142f3608c",
+  "isopen": false,
+  "license_id": "notspecified",
+  "license_title": "No se especificó la licencia",
+  "maintainer": "Ministerio de Energía y Minería.Secretaría de Recursos Hidrocarburíferos.Subsecretaría de Exploración y Producción.Dirección Nacional de Transporte y Medición de Hidrocarburos.",
+  "maintainer_email": null,
+  "metadata_created": "2019-11-26T15:00:54.406298",
+  "metadata_modified": "2021-04-29T17:17:30.821545",
+  "name": "energia-registro-empresas-transporte-hidrocarburos-por-ductos",
+  "notes": "Registro Midstream - Inscripciones Anuales",
+  "num_resources": 1,
+  "num_tags": 5,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:09.221510",
+    "description": "",
+    "id": "cd1b32a2-2d3a-44ac-8c98-a425a7b62d42",
+    "image_url": "",
+    "is_organization": true,
+    "name": "energia",
+    "revision_id": "a184cf69-99ad-4f84-a254-020031d7fe63",
+    "state": "active",
+    "title": "Secretaría de Energía",
+    "type": "organization"
+  },
+  "owner_org": "cd1b32a2-2d3a-44ac-8c98-a425a7b62d42",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "http://datos.minem.gob.ar/dataset/c126ad73-399a-4fa4-be8e-bd0142f3608c/resource/5e6dc33f-ccf1-4a14-af1d-0c78e9dd7c3a",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-05-04T21:54:22.326791",
+      "datastore_active": false,
+      "description": "",
+      "fileName": "registro-midstream-inscripciones-anuales.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "energia_5e6dc33f-ccf1-4a14-af1d-0c78e9dd7c3a",
+      "last_modified": "2020-11-01T05:13:54.557178",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Registro Midstream - Inscripciones Anuales",
+      "package_id": "energia_c126ad73-399a-4fa4-be8e-bd0142f3608c",
+      "position": 0,
+      "resource_type": null,
+      "revision_id": "af944edf-24e3-4d1a-814a-a69071a56543",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.minem.gob.ar/dataset/c126ad73-399a-4fa4-be8e-bd0142f3608c/resource/5e6dc33f-ccf1-4a14-af1d-0c78e9dd7c3a/download/registro-midstream-inscripciones-anuales.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "a8fb6799-942b-478a-8a1d-b076a63ce71a",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "Ductos",
+      "id": "69f2d72f-efc7-4d92-a664-0fa824d3af74",
+      "name": "Ductos",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Empresas",
+      "id": "bbf63d22-0fee-4fe3-abcc-91f61c8ec4f1",
+      "name": "Empresas",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Hidrocarburos",
+      "id": "f2511ea4-b37a-445a-913a-8948f1b90df6",
+      "name": "Hidrocarburos",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Regisros",
+      "id": "828f3faf-d956-4c29-a70e-c6913412ed03",
+      "name": "Regisros",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Transporte de Hidrocarburos",
+      "id": "51cc7b9e-9c0d-478e-bb61-fbbdfdf3cddd",
+      "name": "Transporte de Hidrocarburos",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Registro de empresas de transporte de hidrocarburos por ductos",
+  "type": "dataset",
+  "url": "http://datos.minem.gob.ar/dataset/",
+  "version": null
+}

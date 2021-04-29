@@ -1,0 +1,222 @@
+{
+  "author": "Ministerio de Salud. Superintendencia de Servicios de Salud. Gerencia de Subsidios por Reintegros. Gerencia de Sistemas de Información. Gerencia de Administración.",
+  "author_email": "datos@sssalud.gob.ar",
+  "creator_user_id": "4720e75a-9e17-4dc3-879d-041917c7f9f9",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P6M"
+    },
+    {
+      "key": "issued",
+      "value": "2018-10-05T11:55:51.328698"
+    },
+    {
+      "key": "language",
+      "value": "[\"spa\"]"
+    },
+    {
+      "key": "modified",
+      "value": "2020-05-15T15:59:38.012549"
+    },
+    {
+      "key": "source",
+      "value": "Ministerio de Salud. Superintendencia de Servicios de Salud. Gerencia de Subsidios por Reintegros. Gerencia de Sistemas de Información. Gerencia de Administración."
+    },
+    {
+      "key": "spatial",
+      "value": "[\"ARG\"]"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"HEAL\"]"
+    },
+    {
+      "key": "temporal",
+      "value": "2018-01-01T03:00:00.000Z/2018-06-30T03:00:00.000Z"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Salud",
+      "display_name": "Salud",
+      "id": "65cc1fbf-703a-43bf-8a14-232a55c34976",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225809.913196salud.svg",
+      "name": "heal",
+      "title": "Salud"
+    }
+  ],
+  "id": "salud_568ffd05-13ec-4e16-bf54-8d1ce0218e17",
+  "isopen": false,
+  "license_id": "notspecified",
+  "license_title": "No se especificó la licencia",
+  "maintainer": "Ministerio de Salud. Superintendencia de Servicios de Salud. Gerencia de Subsidios por Reintegros. Gerencia de Sistemas de Información. Gerencia de Administración.",
+  "maintainer_email": "datos@sssalud.gob.ar",
+  "metadata_created": "2019-11-26T15:01:45.499756",
+  "metadata_modified": "2021-04-29T17:05:33.476190",
+  "name": "salud-financiamiento-obras-sociales-nacionales",
+  "notes": "Subsidios pagados por la Superintendencia de Servicios de Salud (SSS) mensualmente",
+  "num_resources": 4,
+  "num_tags": 5,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-11-15T11:12:22.202856",
+    "description": "",
+    "id": "dd1f2018-587f-43af-9b07-fc32f5ab588b",
+    "image_url": "",
+    "is_organization": true,
+    "name": "salud",
+    "revision_id": "14f0bb85-f97d-4325-b1c8-a7c1d3a815bf",
+    "state": "active",
+    "title": "Ministerio de Salud",
+    "type": "organization"
+  },
+  "owner_org": "dd1f2018-587f-43af-9b07-fc32f5ab588b",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "http://datos.salud.gob.ar/dataset/568ffd05-13ec-4e16-bf54-8d1ce0218e17/resource/bbc54edb-64e7-46cc-ad86-2a9a98bab69b",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2018-10-05T11:56:30.554251",
+      "datastore_active": false,
+      "description": "Subsidios pagados por la SSS mensualmente, correspondiente al primer semestre del 2018",
+      "fileName": "activo2financiamientooossglobalestrimestrales.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "salud_bbc54edb-64e7-46cc-ad86-2a9a98bab69b",
+      "last_modified": "2019-09-16T11:45:45.358834",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Financiamiento de Obras Sociales Nacionales correspondiente al primer semestre del 2018",
+      "package_id": "salud_568ffd05-13ec-4e16-bf54-8d1ce0218e17",
+      "position": 0,
+      "resource_type": "file",
+      "revision_id": "92e70969-c3c3-471f-8ad2-090f5d353af5",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.salud.gob.ar/dataset/568ffd05-13ec-4e16-bf54-8d1ce0218e17/resource/bbc54edb-64e7-46cc-ad86-2a9a98bab69b/download/activo2financiamientooossglobalestrimestrales.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos.salud.gob.ar/dataset/568ffd05-13ec-4e16-bf54-8d1ce0218e17/resource/f76c9666-3fa6-43ca-b871-0aca6c1f07ca",
+      "attributesDescription": "[{\"type\": \"date\", \"description\": \"Per\\u00edodo\", \"title\": \"periodo\"}, {\"type\": \"number\", \"description\": \"Subsidios pagados\", \"title\": \"subsidio_sano\"}, {\"type\": \"number\", \"description\": \"Subsidios pagados\", \"title\": \"subsidio_suma\"}, {\"type\": \"number\", \"description\": \"Subsidios pagados\", \"title\": \"subsidio_suma_65\"}, {\"type\": \"number\", \"description\": \"Subsidios pagados\", \"title\": \"subsidio_sumarte\"}, {\"type\": \"number\", \"description\": \"Subsidios pagados\", \"title\": \"subsidio_sur\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-09-16T11:49:32.640083",
+      "datastore_active": false,
+      "description": "Subsidios pagados por la SSS mensualmente",
+      "fileName": "financiamiento-obras-sociales-nacionales-sss-201909.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "salud_f76c9666-3fa6-43ca-b871-0aca6c1f07ca",
+      "last_modified": "2019-09-16T11:49:32.640083",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Financiamiento de Obras Sociales Nacionales hasta septiembre de 2019",
+      "package_id": "salud_568ffd05-13ec-4e16-bf54-8d1ce0218e17",
+      "position": 1,
+      "resource_type": "file.upload",
+      "revision_id": "70383521-3c7d-4796-be55-3fdd184cd6ea",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.salud.gob.ar/dataset/568ffd05-13ec-4e16-bf54-8d1ce0218e17/resource/f76c9666-3fa6-43ca-b871-0aca6c1f07ca/download/financiamiento-obras-sociales-nacionales-sss-201909.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos.salud.gob.ar/dataset/568ffd05-13ec-4e16-bf54-8d1ce0218e17/resource/8a2c6597-1208-4bf8-82c5-65caada79cc2",
+      "attributesDescription": "[{\"type\": \"date\", \"description\": \"Per\\u00edodo\", \"title\": \"periodo\"}, {\"type\": \"number\", \"description\": \"Subsidios pagos\", \"title\": \"subsidio_sano\"}, {\"type\": \"number\", \"description\": \"Subsidios pagos\", \"title\": \"subsidio_suma\"}, {\"type\": \"number\", \"description\": \"Subsidios pagos\", \"title\": \"subsidio_suma_65\"}, {\"type\": \"number\", \"description\": \"Subsidios pagos\", \"title\": \"subsidio_sumarte\"}, {\"type\": \"number\", \"description\": \"Subsidios pagos\", \"title\": \"subsidio_sur\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-09-16T11:52:23.628540",
+      "datastore_active": false,
+      "description": "Subsidios pagados por la SSS mensualmente",
+      "fileName": "financiamiento-obras-sociales-nacionales-sss-201909.xls",
+      "format": "XLS",
+      "hash": "",
+      "id": "salud_8a2c6597-1208-4bf8-82c5-65caada79cc2",
+      "last_modified": "2019-09-16T11:52:23.628540",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Financiamiento de Obras Sociales Nacionales hasta septiembre de 2019",
+      "package_id": "salud_568ffd05-13ec-4e16-bf54-8d1ce0218e17",
+      "position": 2,
+      "resource_type": "file.upload",
+      "revision_id": "8030c32f-f8ec-4ef3-97d7-10ef573f0ddb",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.salud.gob.ar/dataset/568ffd05-13ec-4e16-bf54-8d1ce0218e17/resource/8a2c6597-1208-4bf8-82c5-65caada79cc2/download/financiamiento-obras-sociales-nacionales-sss-201909.xls",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos.salud.gob.ar/dataset/568ffd05-13ec-4e16-bf54-8d1ce0218e17/resource/4ab7538c-7775-47dd-8a79-69ebe0bb73f9",
+      "attributesDescription": "[{\"type\": \"date-time\", \"description\": \"Per\\u00edodo\", \"title\": \"periodo\"}, {\"type\": \"number\", \"description\": \"Subsidios pagos\", \"title\": \"subsidio_sano\"}, {\"type\": \"number\", \"description\": \"Subsidios pagos\", \"title\": \"subsidio_suma\"}, {\"type\": \"number\", \"description\": \"Subsidios pagos\", \"title\": \"subsidio_suma_65\"}, {\"type\": \"number\", \"description\": \"Subsidios pagos\", \"title\": \"subsidio_sumarte\"}, {\"type\": \"number\", \"description\": \"Subsidios pagos\", \"title\": \"subsidio_sur\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-09-16T11:54:28.301619",
+      "datastore_active": false,
+      "description": "Subsidios pagados por la SSS mensualmente",
+      "fileName": "financiamiento-obras-sociales-nacionales-sss-201909.json",
+      "format": "JSON",
+      "hash": "",
+      "id": "salud_4ab7538c-7775-47dd-8a79-69ebe0bb73f9",
+      "last_modified": "2019-09-16T11:54:28.301619",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Financiamiento de Obras Sociales Nacionales hasta septiembre de 2019",
+      "package_id": "salud_568ffd05-13ec-4e16-bf54-8d1ce0218e17",
+      "position": 3,
+      "resource_type": "file.upload",
+      "revision_id": "1ecb1fb0-8214-4b5c-9b90-25226bcea2eb",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.salud.gob.ar/dataset/568ffd05-13ec-4e16-bf54-8d1ce0218e17/resource/4ab7538c-7775-47dd-8a79-69ebe0bb73f9/download/financiamiento-obras-sociales-nacionales-sss-201909.json",
+      "url_type": null
+    }
+  ],
+  "revision_id": "0be9c264-770e-4569-9b99-0dc5cc758d70",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "Registros Padrones  yo Listados Nacionales en Salud",
+      "id": "064bcc0a-bba2-4db9-ac12-879c4cdb82b0",
+      "name": "Registros Padrones  yo Listados Nacionales en Salud",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "SSS",
+      "id": "2cc03fb7-dd56-4ee4-a757-8585898f7446",
+      "name": "SSS",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "financiamiento",
+      "id": "6bb86922-794c-4497-b1cf-bcc957a0b862",
+      "name": "financiamiento",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "gestion",
+      "id": "72116566-fa84-4364-b69f-0725fa155b04",
+      "name": "gestion",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "obras sociales",
+      "id": "ada1ecbb-15d9-48e1-9131-21d7bdc95b27",
+      "name": "obras sociales",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Financiamiento de Obras Sociales Nacionales",
+  "type": "dataset",
+  "url": "https://www.sssalud.gob.ar/",
+  "version": null
+}

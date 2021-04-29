@@ -1,0 +1,128 @@
+{
+  "author": "INSSJP",
+  "author_email": null,
+  "creator_user_id": "4720e75a-9e17-4dc3-879d-041917c7f9f9",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P1Y"
+    },
+    {
+      "key": "issued",
+      "value": "2019-05-13T18:46:49.804913"
+    },
+    {
+      "key": "modified",
+      "value": "2019-05-13T18:46:49.804913"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"GOVE\", \"HEAL\"]"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Gobierno y sector público",
+      "display_name": "Gobierno y sector público",
+      "id": "e6f07c77-3987-4e71-98a6-731b1aaf74f4",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225353.395233gobierno-sector-publico.svg",
+      "name": "gove",
+      "title": "Gobierno y sector público"
+    },
+    {
+      "description": "Salud",
+      "display_name": "Salud",
+      "id": "65cc1fbf-703a-43bf-8a14-232a55c34976",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225809.913196salud.svg",
+      "name": "heal",
+      "title": "Salud"
+    }
+  ],
+  "id": "pami_db3fa1ed-4fa9-4e04-9708-9d38472d1d13",
+  "isopen": true,
+  "license_id": "CC-BY-4.0",
+  "license_title": "Creative Commons Attribution 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "maintainer": null,
+  "maintainer_email": null,
+  "metadata_created": "2019-11-26T14:56:01.381027",
+  "metadata_modified": "2021-04-29T17:05:25.764736",
+  "name": "pami-farmacias",
+  "notes": "Datos sobre las farmacias que dispensan medicamentos de PAMI.",
+  "num_resources": 2,
+  "num_tags": 0,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:11.042876",
+    "description": "",
+    "id": "81c393aa-4d8e-43dc-82fd-70ae0bd18bb9",
+    "image_url": "",
+    "is_organization": true,
+    "name": "pami",
+    "revision_id": "c5370bbe-7ff7-4ad1-b192-1d839927048f",
+    "state": "active",
+    "title": " Instituto Nacional de Servicios Sociales para Jubilados y Pensionados (PAMI)",
+    "type": "organization"
+  },
+  "owner_org": "81c393aa-4d8e-43dc-82fd-70ae0bd18bb9",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "http://datos.pami.org.ar/dataset/db3fa1ed-4fa9-4e04-9708-9d38472d1d13/resource/60149bc6-e70e-4917-bd10-17d06c79bcdd",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-07-19T14:00:42.173695",
+      "datastore_active": false,
+      "description": "Datos sobre las farmacias que dispensan medicamentos de PAMI.",
+      "fileName": "pami-farmacias.xlsx",
+      "format": "XLSX",
+      "hash": "",
+      "id": "pami_60149bc6-e70e-4917-bd10-17d06c79bcdd",
+      "last_modified": "2020-01-08T20:00:53.712828",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Listado de farmacias",
+      "package_id": "pami_db3fa1ed-4fa9-4e04-9708-9d38472d1d13",
+      "position": 0,
+      "resource_type": "file",
+      "revision_id": "dccc2a91-6972-4099-8f29-bf0cc1494a01",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.pami.org.ar/dataset/db3fa1ed-4fa9-4e04-9708-9d38472d1d13/resource/60149bc6-e70e-4917-bd10-17d06c79bcdd/download/pami-farmacias.xlsx",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos.pami.org.ar/dataset/db3fa1ed-4fa9-4e04-9708-9d38472d1d13/resource/d9292d5f-8713-416b-a2a5-e54d13543331",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-07-19T14:02:20.839272",
+      "datastore_active": false,
+      "description": "Datos sobre las farmacias que dispensan medicamentos de PAMI.",
+      "fileName": "listado-de-farmacias-pami-1.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "pami_d9292d5f-8713-416b-a2a5-e54d13543331",
+      "last_modified": "2020-01-08T20:01:55.567355",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Listado de farmacias",
+      "package_id": "pami_db3fa1ed-4fa9-4e04-9708-9d38472d1d13",
+      "position": 1,
+      "resource_type": "file",
+      "revision_id": "b5f0f5ee-9358-4edd-9222-6c453b9ad80f",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.pami.org.ar/dataset/db3fa1ed-4fa9-4e04-9708-9d38472d1d13/resource/d9292d5f-8713-416b-a2a5-e54d13543331/download/listado-de-farmacias-pami-1.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "14de0b49-aebf-4002-b377-62ec78b58dcd",
+  "state": "active",
+  "tags": [],
+  "title": "Farmacias",
+  "type": "dataset",
+  "url": "http://datos2.pami.org.ar/dataset/farmacias",
+  "version": null
+}

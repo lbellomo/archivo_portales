@@ -1,0 +1,159 @@
+{
+  "author": "Dirección de Información y Estadística Pública - Secretaría de Mercados Agroindustriales",
+  "author_email": "datospublicos@magyp.gob.ar",
+  "creator_user_id": "dc157489-51c6-44ce-bd63-3bd983d60778",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "eventual"
+    },
+    {
+      "key": "issued",
+      "value": "2018-12-07T21:20:15.690618"
+    },
+    {
+      "key": "language",
+      "value": "[\"spa\"]"
+    },
+    {
+      "key": "modified",
+      "value": "2019-10-24T11:09:51.004776"
+    },
+    {
+      "key": "spatial",
+      "value": "[\"ARG\"]"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"AGRI\"]"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Agroganadería, pesca y forestación",
+      "display_name": "Agroganadería, pesca y forestación",
+      "id": "0c35ea38-7059-41d2-9827-5587769d0dc6",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225145.990789agroganaderia-pesca-forestacion.svg",
+      "name": "agri",
+      "title": "Agroganadería, pesca y forestación"
+    }
+  ],
+  "id": "agroindustria_c1e6c0a5-2e23-49ac-a80e-7ede4f1e6ac0",
+  "isopen": true,
+  "license_id": "CC-BY-4.0",
+  "license_title": "Creative Commons Attribution 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "maintainer": null,
+  "maintainer_email": null,
+  "metadata_created": "2019-12-04T20:00:44.199329",
+  "metadata_modified": "2021-04-29T17:16:04.640909",
+  "name": "agroindustria-censo---siembra-directa-cna-02",
+  "notes": "Datos que de la siembra directa a nivel departamental de acuerdo a lo recolectado en el Censo Nacional Agropecuario 2002 CNA 02.",
+  "num_resources": 2,
+  "num_tags": 4,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:07.834957",
+    "description": "",
+    "id": "b10c94e2-ade1-4a97-8c4c-b1ada7878d60",
+    "image_url": "",
+    "is_organization": true,
+    "name": "agroindustria",
+    "revision_id": "f7c3b6e9-d48f-4522-9f7a-388d805c8392",
+    "state": "active",
+    "title": "Ministerio de Agricultura, Ganadería y Pesca",
+    "type": "organization"
+  },
+  "owner_org": "b10c94e2-ade1-4a97-8c4c-b1ada7878d60",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "http://datos.agroindustria.gob.ar/dataset/c1e6c0a5-2e23-49ac-a80e-7ede4f1e6ac0/resource/cdfca10f-d43b-4491-9fe9-57ee3d0df59b",
+      "attributesDescription": "[{\"type\": \"integer\", \"description\": \"pais_id\", \"title\": \"pais_id\"}, {\"type\": \"string\", \"description\": \"pais\", \"title\": \"pais\"}, {\"type\": \"integer\", \"description\": \"provincia_id\", \"title\": \"provincia_id\"}, {\"type\": \"string\", \"description\": \"provincia\", \"title\": \"provincia\"}, {\"type\": \"integer\", \"description\": \"departamento_id\", \"title\": \"departamento_id\"}, {\"type\": \"string\", \"description\": \"departamento\", \"title\": \"departamento\"}, {\"type\": \"integer\", \"description\": \"link\", \"title\": \"link\"}, {\"type\": \"number\", \"description\": \"sup_eap\", \"title\": \"sup_eap\"}, {\"type\": \"integer\", \"description\": \"tot_eap\", \"title\": \"tot_eap\"}, {\"type\": \"number\", \"description\": \"tot_ha\", \"title\": \"tot_ha\"}, {\"type\": \"number\", \"description\": \"%_siembra_directa_sup\", \"title\": \"%_siembra_directa_sup\"}, {\"type\": \"integer\", \"description\": \"maiz_eap\", \"title\": \"maiz_eap\"}, {\"type\": \"number\", \"description\": \"maiz_ha\", \"title\": \"maiz_ha\"}, {\"type\": \"integer\", \"description\": \"sorgran_eap\", \"title\": \"sorgran_eap\"}, {\"type\": \"integer\", \"description\": \"sorgran_ha\", \"title\": \"sorgran_ha\"}, {\"type\": \"integer\", \"description\": \"trigo_eap\", \"title\": \"trigo_eap\"}, {\"type\": \"number\", \"description\": \"trigo_ha\", \"title\": \"trigo_ha\"}, {\"type\": \"number\", \"description\": \"girasol_eap\", \"title\": \"girasol_eap\"}, {\"type\": \"number\", \"description\": \"girasol_ha\", \"title\": \"girasol_ha\"}, {\"type\": \"integer\", \"description\": \"soja_eap\", \"title\": \"soja_eap\"}, {\"type\": \"integer\", \"description\": \"soja_ha\", \"title\": \"soja_ha\"}, {\"type\": \"integer\", \"description\": \"soja1_eap\", \"title\": \"soja1_eap\"}, {\"type\": \"number\", \"description\": \"soja1_ha\", \"title\": \"soja1_ha\"}, {\"type\": \"integer\", \"description\": \"soja2_eap\", \"title\": \"soja2_eap\"}, {\"type\": \"number\", \"description\": \"soja2_ha\", \"title\": \"soja2_ha\"}, {\"type\": \"integer\", \"description\": \"forraj_eap\", \"title\": \"forraj_eap\"}, {\"type\": \"number\", \"description\": \"forraj_ha\", \"title\": \"forraj_ha\"}, {\"type\": \"integer\", \"description\": \"arroz_eap\", \"title\": \"arroz_eap\"}, {\"type\": \"integer\", \"description\": \"arroz_ha\", \"title\": \"arroz_ha\"}, {\"type\": \"integer\", \"description\": \"algodon_eap\", \"title\": \"algodon_eap\"}, {\"type\": \"number\", \"description\": \"algodon_ha\", \"title\": \"algodon_ha\"}, {\"type\": \"integer\", \"description\": \"porotos_eap\", \"title\": \"porotos_eap\"}, {\"type\": \"integer\", \"description\": \"porotos_ha\", \"title\": \"porotos_ha\"}, {\"type\": \"integer\", \"description\": \"otros_ha\", \"title\": \"otros_ha\"}, {\"type\": \"integer\", \"description\": \"otroscult_ha\", \"title\": \"otroscult_ha\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-08-31T15:02:20.649990",
+      "datastore_active": false,
+      "description": "Situación de la siembra directa a nivel departamental de acuerdo a lo recolectado en el Censo Nacional Agropecuario 2002. El valor \"-1\" se refiere a que no hay dato.",
+      "fileName": "siembra-directa-segun-cna-2002.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "agroindustria_cdfca10f-d43b-4491-9fe9-57ee3d0df59b",
+      "last_modified": "2019-01-22T18:16:00.501509",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Siembra directa - CNA 2002",
+      "package_id": "agroindustria_c1e6c0a5-2e23-49ac-a80e-7ede4f1e6ac0",
+      "position": 0,
+      "resource_type": "file.upload",
+      "revision_id": "d69c1d60-f781-4bf5-b3bb-e0ea25f85756",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.agroindustria.gob.ar/dataset/c1e6c0a5-2e23-49ac-a80e-7ede4f1e6ac0/resource/cdfca10f-d43b-4491-9fe9-57ee3d0df59b/download/siembra-directa-segun-cna-2002.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos.agroindustria.gob.ar/dataset/c1e6c0a5-2e23-49ac-a80e-7ede4f1e6ac0/archivo/5fe39ff4-9917-406a-b3bc-36f278b085d8",
+      "attributesDescription": "[{\"type\": \"string\", \"description\": \"Campos\", \"title\": \"Campos\"}, {\"type\": \"string\", \"description\": \"Descripci\\u00f3n\", \"title\": \"Descripci\\u00f3n\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-08-31T15:03:03.513415",
+      "datastore_active": false,
+      "description": "Detalle de las columnas que componen el recurso.",
+      "fileName": "cna2002sdreferecias.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "agroindustria_5fe39ff4-9917-406a-b3bc-36f278b085d8",
+      "last_modified": "2019-07-11T12:26:58.029138",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Referencias siembra directa CNA 2002",
+      "package_id": "agroindustria_c1e6c0a5-2e23-49ac-a80e-7ede4f1e6ac0",
+      "position": 1,
+      "resource_type": "file.upload",
+      "revision_id": "d69c1d60-f781-4bf5-b3bb-e0ea25f85756",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.agroindustria.gob.ar/dataset/c1e6c0a5-2e23-49ac-a80e-7ede4f1e6ac0/resource/5fe39ff4-9917-406a-b3bc-36f278b085d8/download/cna2002sdreferecias.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "2a87919b-10c2-4b67-9484-59ed39ca1369",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "censo",
+      "id": "3afd172c-45af-41bd-b023-b1ed9844c3ba",
+      "name": "censo",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "cna 02",
+      "id": "a6e31f8c-5ed2-44b8-8ef2-2dbd7fded11b",
+      "name": "cna 02",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "cna 2002",
+      "id": "6c9b522b-0fd4-40e2-912d-585983633f48",
+      "name": "cna 2002",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "siembra directa",
+      "id": "66e4e5fa-a746-4243-975a-ddcff7949034",
+      "name": "siembra directa",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Censo - Siembra directa CNA 02",
+  "type": "dataset",
+  "url": "https://datos.agroindustria.gob.ar/dataset/siembra-directa-segun-censo-nacional-agropecuario-2002",
+  "version": null
+}

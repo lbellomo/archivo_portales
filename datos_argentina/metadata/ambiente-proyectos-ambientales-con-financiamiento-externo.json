@@ -1,0 +1,147 @@
+{
+  "author": "Ministerio de Ambiente y Desarrollo Sostenible. Dirección Nacional de Cooperación Internacional.",
+  "author_email": "dinacofi@ambiente.gob.ar",
+  "creator_user_id": "4720e75a-9e17-4dc3-879d-041917c7f9f9",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P1M"
+    },
+    {
+      "key": "issued",
+      "value": "2017-09-05T14:42:43.871120"
+    },
+    {
+      "key": "language",
+      "value": "[\"spa\"]"
+    },
+    {
+      "key": "modified",
+      "value": "2020-09-30T13:34:35.696946"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"ENVI\"]"
+    },
+    {
+      "key": "temporal",
+      "value": "2009-09-01T03:00:00.000Z/2019-07-31T03:00:00.000Z"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Medio ambiente",
+      "display_name": "Medio ambiente",
+      "id": "f71fe9d7-c703-43be-8d9d-af9441c326ba",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225440.964279medio-ambiente.svg",
+      "name": "envi",
+      "title": "Medio ambiente"
+    }
+  ],
+  "id": "ambiente_3b8c5484-c346-4dd6-8376-e6b521ee745e",
+  "isopen": false,
+  "license_id": "notspecified",
+  "license_title": "No se especificó la licencia",
+  "maintainer": "Ministerio de Ambiente y Desarrollo Sostenible. Dirección Nacional de Cooperación Internacional",
+  "maintainer_email": "dinacofi@ambiente.gob.ar",
+  "metadata_created": "2019-11-26T14:57:52.591904",
+  "metadata_modified": "2021-04-29T17:17:58.816700",
+  "name": "ambiente-proyectos-ambientales-con-financiamiento-externo",
+  "notes": "Información sobre proyectos ambientales con financiamiento externo, incluyendo préstamos y donaciones.",
+  "num_resources": 1,
+  "num_tags": 6,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:07.043831",
+    "description": "",
+    "id": "0e5aa328-825e-4509-851d-5421e866635e",
+    "image_url": "",
+    "is_organization": true,
+    "name": "ambiente",
+    "revision_id": "105eb915-270c-4f67-9b4e-e6a3f08be6d7",
+    "state": "active",
+    "title": "Ministerio de Ambiente y Desarrollo Sostenible",
+    "type": "organization"
+  },
+  "owner_org": "0e5aa328-825e-4509-851d-5421e866635e",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "http://datos.ambiente.gob.ar/dataset/3b8c5484-c346-4dd6-8376-e6b521ee745e/resource/86a11a62-3b91-4d8c-943b-56ccabb54385",
+      "attributesDescription": "[{\"type\": \"string\", \"description\": \"N\\u00famero de identificaci\\u00f3n de los proyectos asignados por los organismos que los implementan\", \"title\": \"proyecto_id\"}, {\"type\": \"string\", \"description\": \"T\\u00edtulo oficial del proyecto\", \"title\": \"proyecto_nombre\"}, {\"type\": \"string\", \"description\": \"Organismo que financia el proyecto\", \"title\": \"proyecto_origen\"}, {\"type\": \"integer\", \"description\": \"Fuente de financiamiento del proyecto: El n\\u00famero 21 indica que se trata de una donaci\\u00f3n, el 22 indica que se trata de un pr\\u00e9stamo. \", \"title\": \"proyecto_fuente\"}, {\"type\": \"string\", \"description\": \"Describe si es un pr\\u00e9stamos o una donaci\\u00f3n\", \"title\": \"proyecto_tipo\"}, {\"type\": \"integer\", \"description\": \"Monto total necesario para la ejecuci\\u00f3n del Proyecto\", \"title\": \"proyecto_monto_USD\"}, {\"type\": \"string\", \"description\": \"Coordinadores y responsables t\\u00e9cnicos y financieros del MAyDS, para cada uno de los proyectos\", \"title\": \"proyecto_responsable\"}, {\"type\": \"string\", \"description\": \"Etapa en que se encuentra cada proyecto al d\\u00eda de la fecha\", \"title\": \"proyecto_estado\"}, {\"type\": \"string\", \"description\": \"Lugar f\\u00edsico donde se llevar\\u00e1 a cabo el proyecto\", \"title\": \"proyecto_localizaci\\u00f3n\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-09-05T14:50:11.316362",
+      "datastore_active": false,
+      "description": "Listado de préstamos y donaciones con financiamiento internacional existentes en el Ministerio de Ambiente y Desarrollo Sustentable",
+      "fileName": "proyectos_financiamiento_externo_29092020.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "ambiente_86a11a62-3b91-4d8c-943b-56ccabb54385",
+      "last_modified": "2020-09-29T12:23:39.897351",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Proyectos ambientales con financiamiento externo",
+      "package_id": "ambiente_3b8c5484-c346-4dd6-8376-e6b521ee745e",
+      "position": 0,
+      "resource_type": "file.upload",
+      "revision_id": "d6f4b85b-85c5-4023-a191-9f54e392a8a9",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.ambiente.gob.ar/dataset/3b8c5484-c346-4dd6-8376-e6b521ee745e/resource/86a11a62-3b91-4d8c-943b-56ccabb54385/download/proyectos_financiamiento_externo_29092020.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "a46d64ed-2cb0-41de-b7ce-a6bc40f4e497",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "Cooperación",
+      "id": "c407a780-f68e-42b2-bd38-155635d3db59",
+      "name": "Cooperación",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Cooperación internacional",
+      "id": "52c2c07e-3bef-4d15-8a20-f44aaffa3743",
+      "name": "Cooperación internacional",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Donaciones",
+      "id": "95bb59ab-5a0f-465e-8356-b94e656d1e73",
+      "name": "Donaciones",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Financiamiento internacional",
+      "id": "0d706491-c452-4e89-9ead-023f2bef432b",
+      "name": "Financiamiento internacional",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Proyectos",
+      "id": "4e49c633-4ad1-4752-9164-4bc2749eff87",
+      "name": "Proyectos",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Préstamos",
+      "id": "4165d9cf-24bb-44a6-9eab-a47b3a987908",
+      "name": "Préstamos",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Proyectos ambientales con financiamiento externo",
+  "type": "dataset",
+  "url": "http://datos.ambiente.gob.ar/dataset/",
+  "version": null
+}

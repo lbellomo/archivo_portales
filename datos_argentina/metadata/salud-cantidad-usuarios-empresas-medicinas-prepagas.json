@@ -1,0 +1,147 @@
+{
+  "author": "Ministerio de Salud. Superintendencia de Servicios de Salud. Gerencia de Sistemas de Información. Coordinación de Diseño y Procesamiento de la Información.",
+  "author_email": "datos@sssalud.gob.ar",
+  "creator_user_id": "4720e75a-9e17-4dc3-879d-041917c7f9f9",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P1Y"
+    },
+    {
+      "key": "issued",
+      "value": "2018-10-05T11:19:57.530535"
+    },
+    {
+      "key": "language",
+      "value": "[\"spa\"]"
+    },
+    {
+      "key": "modified",
+      "value": "2020-05-15T15:38:32.688589"
+    },
+    {
+      "key": "source",
+      "value": "Ministerio de Salud. Superintendencia de Servicios de Salud. Gerencia de Sistemas de Información. Coordinación de Diseño y Procesamiento de la Información."
+    },
+    {
+      "key": "spatial",
+      "value": "[\"ARG\"]"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"HEAL\"]"
+    },
+    {
+      "key": "temporal",
+      "value": "2018-07-18T03:00:00.000Z/2019-07-18T03:00:00.000Z"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Salud",
+      "display_name": "Salud",
+      "id": "65cc1fbf-703a-43bf-8a14-232a55c34976",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225809.913196salud.svg",
+      "name": "heal",
+      "title": "Salud"
+    }
+  ],
+  "id": "salud_017cd909-3534-4e11-9b41-cdce8f13276a",
+  "isopen": false,
+  "license_id": "notspecified",
+  "license_title": "No se especificó la licencia",
+  "maintainer": "Ministerio de Salud. Superintendencia de Servicios de Salud. Gerencia de Sistemas de Información. Coordinación de Diseño y Procesamiento de la Información.",
+  "maintainer_email": "datos@sssalud.gob.ar",
+  "metadata_created": "2019-11-26T15:01:46.243016",
+  "metadata_modified": "2021-04-29T17:05:40.531805",
+  "name": "salud-cantidad-usuarios-empresas-medicinas-prepagas",
+  "notes": "Cantidad de usuarios de empresas de medicina prepaga por provincia",
+  "num_resources": 1,
+  "num_tags": 5,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-11-15T11:12:22.202856",
+    "description": "",
+    "id": "dd1f2018-587f-43af-9b07-fc32f5ab588b",
+    "image_url": "",
+    "is_organization": true,
+    "name": "salud",
+    "revision_id": "14f0bb85-f97d-4325-b1c8-a7c1d3a815bf",
+    "state": "active",
+    "title": "Ministerio de Salud",
+    "type": "organization"
+  },
+  "owner_org": "dd1f2018-587f-43af-9b07-fc32f5ab588b",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "http://datos.salud.gob.ar/dataset/017cd909-3534-4e11-9b41-cdce8f13276a/resource/7cd31f90-6ce2-4ed9-b1c4-bf454479090e",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2018-10-05T11:22:08.199671",
+      "datastore_active": false,
+      "description": "Cantidad de usuarios de empresas de medicina prepaga por provincia\r\n",
+      "fileName": "cantidad-de-usuarios-de-empresas-de-medicinas-prepagas-20181220.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "salud_7cd31f90-6ce2-4ed9-b1c4-bf454479090e",
+      "last_modified": "2018-12-17T09:59:48.406496",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Cantidad  de Usuarios de Empresas de Medicinas Prepagas",
+      "package_id": "salud_017cd909-3534-4e11-9b41-cdce8f13276a",
+      "position": 0,
+      "resource_type": null,
+      "revision_id": "8b00edcd-8765-4bd3-8e90-be18e3152de8",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.salud.gob.ar/dataset/017cd909-3534-4e11-9b41-cdce8f13276a/resource/7cd31f90-6ce2-4ed9-b1c4-bf454479090e/download/cantidad-de-usuarios-de-empresas-de-medicinas-prepagas-20181220.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "83b8fa03-ea5b-4db9-8e49-1932b90ffc08",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "Estadísticas de Servicios",
+      "id": "fef77caa-2552-421f-b49d-81c89075b3f0",
+      "name": "Estadísticas de Servicios",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "SSS",
+      "id": "2cc03fb7-dd56-4ee4-a757-8585898f7446",
+      "name": "SSS",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "empresas",
+      "id": "214fb246-e9bd-47d3-aa75-d938a2103134",
+      "name": "empresas",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "medicina prepaga",
+      "id": "ea400173-c330-4fbe-b878-4577f4e8db69",
+      "name": "medicina prepaga",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "usuarios",
+      "id": "a0a9da62-5b3b-4ae4-b366-f73b578889a1",
+      "name": "usuarios",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Cantidad  de Usuarios de Empresas de Medicinas Prepagas",
+  "type": "dataset",
+  "url": "https://www.sssalud.gob.ar/index.php?page=poblacion&cat=consultas",
+  "version": null
+}

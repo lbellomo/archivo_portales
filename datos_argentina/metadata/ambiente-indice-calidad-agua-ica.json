@@ -1,0 +1,121 @@
+{
+  "author": "Ministerio de Ambiente y Desarrollo Sostenible. Dirección Nacional de Gestión Ambiental del Agua y los Ecosistemas Acuático",
+  "author_email": "kquaini@ambiente.gob.ar",
+  "creator_user_id": "dc157489-51c6-44ce-bd63-3bd983d60778",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P3M"
+    },
+    {
+      "key": "issued",
+      "value": "2020-10-13T19:10:46.953267"
+    },
+    {
+      "key": "modified",
+      "value": "2020-10-13T16:32:04.503827"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"ENVI\"]"
+    },
+    {
+      "key": "temporal",
+      "value": "2019-01-01T03:00:00.000Z/2019-12-30T03:00:00.000Z"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Medio ambiente",
+      "display_name": "Medio ambiente",
+      "id": "f71fe9d7-c703-43be-8d9d-af9441c326ba",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225440.964279medio-ambiente.svg",
+      "name": "envi",
+      "title": "Medio ambiente"
+    }
+  ],
+  "id": "ambiente_b47fbe45-c373-40dd-8ab4-cda8d2db85be",
+  "isopen": false,
+  "license_id": "notspecified",
+  "license_title": "No se especificó la licencia",
+  "maintainer": "Ministerio de Ambiente y Desarrollo Sostenible. Dirección Nacional de Gestión Ambiental del Agua y los Ecosistemas Acuático",
+  "maintainer_email": "fscagnetti@ambiente.gob.ar",
+  "metadata_created": "2020-10-15T21:11:09.986028",
+  "metadata_modified": "2021-04-29T17:18:02.632756",
+  "name": "ambiente-indice-calidad-agua-ica",
+  "notes": "El índice de calidad de agua (ICA) es un índice que resume en un único valor, la información de 20 parámetros de calidad de agua que se miden en un sitio en la zona costera del río de la plata. El valor del ICA varía entre 0 a 100, siendo 100 un agua apta para uso recreativo con contacto directo.",
+  "num_resources": 1,
+  "num_tags": 3,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:07.043831",
+    "description": "",
+    "id": "0e5aa328-825e-4509-851d-5421e866635e",
+    "image_url": "",
+    "is_organization": true,
+    "name": "ambiente",
+    "revision_id": "105eb915-270c-4f67-9b4e-e6a3f08be6d7",
+    "state": "active",
+    "title": "Ministerio de Ambiente y Desarrollo Sostenible",
+    "type": "organization"
+  },
+  "owner_org": "0e5aa328-825e-4509-851d-5421e866635e",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "http://datos.ambiente.gob.ar/dataset/b47fbe45-c373-40dd-8ab4-cda8d2db85be/resource/105567d7-37e0-4b8c-a360-b3e8334bc205",
+      "attributesDescription": "[{\"type\": \"string\", \"description\": \"Nombre de la estaci\\u00f3n de muestreo\", \"title\": \"estacion_localidad\"}, {\"type\": \"string\", \"description\": \"Identificador de la estaci\\u00f3n de muestreo\", \"title\": \"estacion_id\"}, {\"type\": \"integer\", \"description\": \"Valor del ICA en verano\", \"title\": \"ICA_verano\"}, {\"type\": \"integer\", \"description\": \"Valor del ICA en oto\\u00f1o\", \"title\": \"ICA_oto\\u00f1o\"}, {\"type\": \"integer\", \"description\": \"Valor del ICA en invierno\", \"title\": \"ICA_invierno\"}, {\"type\": \"integer\", \"description\": \"Valor del ICA en primavera\", \"title\": \"ICA_primavera\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2020-10-13T16:16:50.259635",
+      "datastore_active": false,
+      "description": "Valores estacionales de los ICA de cada sitio (41) a lo largo de la zona costera del Río de la Plata. Calculado en base al valor del parámetro en ese momento y comparado con el valor legislado",
+      "format": "CSV",
+      "hash": "",
+      "id": "ambiente_105567d7-37e0-4b8c-a360-b3e8334bc205",
+      "last_modified": "2020-10-13T16:22:42.532613",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Índice de calidad de agua del Río de la Plata",
+      "package_id": "ambiente_b47fbe45-c373-40dd-8ab4-cda8d2db85be",
+      "position": 0,
+      "resource_type": null,
+      "revision_id": "1b477f37-62ca-4b98-a7b2-26533b38a1a7",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.ambiente.gob.ar/dataset/b47fbe45-c373-40dd-8ab4-cda8d2db85be/resource/105567d7-37e0-4b8c-a360-b3e8334bc205/download/indice-de-calidad-del-agua_ica.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "1b477f37-62ca-4b98-a7b2-26533b38a1a7",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "Calidad de agua",
+      "id": "9b64d91f-9b7f-4e0f-9f79-0e6fbdab3cc7",
+      "name": "Calidad de agua",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Indice de calidad de agua",
+      "id": "e22f1190-9ea4-49fd-806e-9a667ce79229",
+      "name": "Indice de calidad de agua",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "RIGLLO",
+      "id": "38fcffbc-318a-48a2-8928-4368fc9497d3",
+      "name": "RIGLLO",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Índice de calidad de agua  (ICA)",
+  "type": "dataset",
+  "url": "http://datos.ambiente.gob.ar/dataset/indice-de-calidad-de-agua-ica",
+  "version": null
+}

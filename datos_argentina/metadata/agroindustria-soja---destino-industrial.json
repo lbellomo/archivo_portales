@@ -1,0 +1,301 @@
+{
+  "author": "Subsecretaría de Mercados Agropecuarios",
+  "author_email": "sma@magyp.gob.ar",
+  "creator_user_id": "dc157489-51c6-44ce-bd63-3bd983d60778",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P1M"
+    },
+    {
+      "key": "issued",
+      "value": "2018-12-07T21:26:58.151837"
+    },
+    {
+      "key": "language",
+      "value": "[\"spa\"]"
+    },
+    {
+      "key": "modified",
+      "value": "2019-10-24T11:08:59.187072"
+    },
+    {
+      "key": "spatial",
+      "value": "[\"ARG\"]"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"AGRI\"]"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Agroganadería, pesca y forestación",
+      "display_name": "Agroganadería, pesca y forestación",
+      "id": "0c35ea38-7059-41d2-9827-5587769d0dc6",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225145.990789agroganaderia-pesca-forestacion.svg",
+      "name": "agri",
+      "title": "Agroganadería, pesca y forestación"
+    }
+  ],
+  "id": "agroindustria_9a532501-3d40-4199-960f-06f5b24e3ab8",
+  "isopen": true,
+  "license_id": "CC-BY-4.0",
+  "license_title": "Creative Commons Attribution 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "maintainer": null,
+  "maintainer_email": null,
+  "metadata_created": "2019-12-04T20:01:36.501773",
+  "metadata_modified": "2021-04-29T17:16:13.167136",
+  "name": "agroindustria-soja---destino-industrial",
+  "notes": "Ingreso de granos de soja a la industria aceitera y balanceadora. Productos y subproductos de la industria aceitera.\r\nAño Comercial de Abril a Marzo.",
+  "num_resources": 6,
+  "num_tags": 10,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:07.834957",
+    "description": "",
+    "id": "b10c94e2-ade1-4a97-8c4c-b1ada7878d60",
+    "image_url": "",
+    "is_organization": true,
+    "name": "agroindustria",
+    "revision_id": "f7c3b6e9-d48f-4522-9f7a-388d805c8392",
+    "state": "active",
+    "title": "Ministerio de Agricultura, Ganadería y Pesca",
+    "type": "organization"
+  },
+  "owner_org": "b10c94e2-ade1-4a97-8c4c-b1ada7878d60",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "http://datos.agroindustria.gob.ar/dataset/9a532501-3d40-4199-960f-06f5b24e3ab8/resource/c478d436-dbbe-4fee-bbb6-88512d1ce43a",
+      "attributesDescription": "[{\"type\": \"integer\", \"description\": \"cod_pais\", \"title\": \"cod_pais\"}, {\"type\": \"string\", \"description\": \"nom_pais\", \"title\": \"nom_pais\"}, {\"type\": \"integer\", \"description\": \"a\\u0144o\", \"title\": \"a\\u0144o\"}, {\"type\": \"string\", \"description\": \"producto\", \"title\": \"producto\"}, {\"type\": \"string\", \"description\": \"destino\", \"title\": \"destino\"}, {\"type\": \"string\", \"description\": \"cod_uni\", \"title\": \"cod_uni\"}, {\"type\": \"string\", \"description\": \"nom_uni\", \"title\": \"nom_uni\"}, {\"type\": \"number\", \"description\": \"enero\", \"title\": \"enero\"}, {\"type\": \"number\", \"description\": \"febrero\", \"title\": \"febrero\"}, {\"type\": \"number\", \"description\": \"marzo\", \"title\": \"marzo\"}, {\"type\": \"number\", \"description\": \"abril\", \"title\": \"abril\"}, {\"type\": \"number\", \"description\": \"mayo\", \"title\": \"mayo\"}, {\"type\": \"number\", \"description\": \"junio\", \"title\": \"junio\"}, {\"type\": \"number\", \"description\": \"julio\", \"title\": \"julio\"}, {\"type\": \"number\", \"description\": \"agosto\", \"title\": \"agosto\"}, {\"type\": \"number\", \"description\": \"septiembre\", \"title\": \"septiembre\"}, {\"type\": \"number\", \"description\": \"octubre\", \"title\": \"octubre\"}, {\"type\": \"number\", \"description\": \"noviembre\", \"title\": \"noviembre\"}, {\"type\": \"number\", \"description\": \"diciembre\", \"title\": \"diciembre\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2018-04-26T18:23:06.849885",
+      "datastore_active": false,
+      "description": "Granos de soja en toneladas que ingresan a la industria aceitera.\r\n \"0\" indica informado \"Sin Movimiento\".",
+      "fileName": "ingreso-de-soja-a-la-industria-aceitera.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "agroindustria_c478d436-dbbe-4fee-bbb6-88512d1ce43a",
+      "last_modified": "2019-01-23T13:09:04.005793",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Ingreso de soja a la industria aceitera",
+      "package_id": "agroindustria_9a532501-3d40-4199-960f-06f5b24e3ab8",
+      "position": 0,
+      "resource_type": "file.upload",
+      "revision_id": "ea39c1d9-070d-4fcb-94fb-c4ce2901096d",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.agroindustria.gob.ar/dataset/9a532501-3d40-4199-960f-06f5b24e3ab8/resource/c478d436-dbbe-4fee-bbb6-88512d1ce43a/download/ingreso-de-soja-a-la-industria-aceitera.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos2.agroindustria.gob.ar/dataset/9a532501-3d40-4199-960f-06f5b24e3ab8/archivo/6e247ba4-a45e-4d20-8efb-c4ac50ab429e",
+      "attributesDescription": "[{\"type\": \"integer\", \"description\": \"cod_pais\", \"title\": \"cod_pais\"}, {\"type\": \"string\", \"description\": \"nom_pais\", \"title\": \"nom_pais\"}, {\"type\": \"integer\", \"description\": \"a\\u0144o\", \"title\": \"a\\u0144o\"}, {\"type\": \"string\", \"description\": \"producto\", \"title\": \"producto\"}, {\"type\": \"string\", \"description\": \"destino\", \"title\": \"destino\"}, {\"type\": \"string\", \"description\": \"cod_uni\", \"title\": \"cod_uni\"}, {\"type\": \"string\", \"description\": \"nom_uni\", \"title\": \"nom_uni\"}, {\"type\": \"number\", \"description\": \"enero\", \"title\": \"enero\"}, {\"type\": \"number\", \"description\": \"febrero\", \"title\": \"febrero\"}, {\"type\": \"number\", \"description\": \"marzo\", \"title\": \"marzo\"}, {\"type\": \"number\", \"description\": \"abril\", \"title\": \"abril\"}, {\"type\": \"number\", \"description\": \"mayo\", \"title\": \"mayo\"}, {\"type\": \"number\", \"description\": \"junio\", \"title\": \"junio\"}, {\"type\": \"number\", \"description\": \"julio\", \"title\": \"julio\"}, {\"type\": \"number\", \"description\": \"agosto\", \"title\": \"agosto\"}, {\"type\": \"number\", \"description\": \"septiembre\", \"title\": \"septiembre\"}, {\"type\": \"number\", \"description\": \"octubre\", \"title\": \"octubre\"}, {\"type\": \"number\", \"description\": \"noviembre\", \"title\": \"noviembre\"}, {\"type\": \"number\", \"description\": \"diciembre\", \"title\": \"diciembre\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2018-04-26T18:23:49.197297",
+      "datastore_active": false,
+      "description": "Granos de soja en toneladas que ingresan a la industria balanceadora.\r\n \"0\" indica informado \"Sin Movimiento\".",
+      "fileName": "ingreso-de-soja-a-la-industria-balanceadora-.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "agroindustria_6e247ba4-a45e-4d20-8efb-c4ac50ab429e",
+      "last_modified": "2019-01-22T16:50:14.318109",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Ingreso de soja a la industria balanceadora",
+      "package_id": "agroindustria_9a532501-3d40-4199-960f-06f5b24e3ab8",
+      "position": 1,
+      "resource_type": "file.upload",
+      "revision_id": "ea39c1d9-070d-4fcb-94fb-c4ce2901096d",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.agroindustria.gob.ar/dataset/9a532501-3d40-4199-960f-06f5b24e3ab8/resource/6e247ba4-a45e-4d20-8efb-c4ac50ab429e/download/ingreso-de-soja-a-la-industria-balanceadora-.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos.agroindustria.gob.ar/dataset/9a532501-3d40-4199-960f-06f5b24e3ab8/resource/47679960-b555-456e-a78c-ea52b9603ce2",
+      "attributesDescription": "[{\"type\": \"integer\", \"description\": \"d_pais\", \"title\": \"d_pais\"}, {\"type\": \"string\", \"description\": \"nom_pais\", \"title\": \"nom_pais\"}, {\"type\": \"integer\", \"description\": \"a\\u0144o\", \"title\": \"a\\u0144o\"}, {\"type\": \"string\", \"description\": \"producto\", \"title\": \"producto\"}, {\"type\": \"string\", \"description\": \"unidad_id\", \"title\": \"unidad_id\"}, {\"type\": \"string\", \"description\": \"nom_unidad\", \"title\": \"nom_unidad\"}, {\"type\": \"number\", \"description\": \"enero\", \"title\": \"enero\"}, {\"type\": \"number\", \"description\": \"febrero\", \"title\": \"febrero\"}, {\"type\": \"number\", \"description\": \"marzo\", \"title\": \"marzo\"}, {\"type\": \"number\", \"description\": \"abril\", \"title\": \"abril\"}, {\"type\": \"number\", \"description\": \"mayo\", \"title\": \"mayo\"}, {\"type\": \"number\", \"description\": \"junio\", \"title\": \"junio\"}, {\"type\": \"number\", \"description\": \"julio\", \"title\": \"julio\"}, {\"type\": \"number\", \"description\": \"agosto\", \"title\": \"agosto\"}, {\"type\": \"number\", \"description\": \"septiempre\", \"title\": \"septiempre\"}, {\"type\": \"number\", \"description\": \"octubre\", \"title\": \"octubre\"}, {\"type\": \"number\", \"description\": \"noviembre\", \"title\": \"noviembre\"}, {\"type\": \"number\", \"description\": \"diciembre\", \"title\": \"diciembre\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2018-04-26T18:24:30.485716",
+      "datastore_active": false,
+      "description": "Detalle mensual de la producción de aceite de soja en toneladas.\r\n \"0\" indica informado \"Sin Movimiento\".",
+      "fileName": "produccion-de-aceite-de-soja.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "agroindustria_47679960-b555-456e-a78c-ea52b9603ce2",
+      "last_modified": "2019-01-23T13:06:04.949602",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Producción de aceite de soja",
+      "package_id": "agroindustria_9a532501-3d40-4199-960f-06f5b24e3ab8",
+      "position": 2,
+      "resource_type": "file.upload",
+      "revision_id": "ea39c1d9-070d-4fcb-94fb-c4ce2901096d",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.agroindustria.gob.ar/dataset/9a532501-3d40-4199-960f-06f5b24e3ab8/resource/47679960-b555-456e-a78c-ea52b9603ce2/download/produccion-de-aceite-de-soja.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos.agroindustria.gob.ar/dataset/9a532501-3d40-4199-960f-06f5b24e3ab8/resource/71147641-184e-4705-9777-621f5d196013",
+      "attributesDescription": "[{\"type\": \"integer\", \"description\": \"d_pais\", \"title\": \"d_pais\"}, {\"type\": \"string\", \"description\": \"nom_pais\", \"title\": \"nom_pais\"}, {\"type\": \"integer\", \"description\": \"a\\u0144o\", \"title\": \"a\\u0144o\"}, {\"type\": \"string\", \"description\": \"producto\", \"title\": \"producto\"}, {\"type\": \"string\", \"description\": \"unidad_id\", \"title\": \"unidad_id\"}, {\"type\": \"string\", \"description\": \"nom_unidad\", \"title\": \"nom_unidad\"}, {\"type\": \"number\", \"description\": \"enero\", \"title\": \"enero\"}, {\"type\": \"number\", \"description\": \"febrero\", \"title\": \"febrero\"}, {\"type\": \"number\", \"description\": \"marzo\", \"title\": \"marzo\"}, {\"type\": \"number\", \"description\": \"abril\", \"title\": \"abril\"}, {\"type\": \"number\", \"description\": \"mayo\", \"title\": \"mayo\"}, {\"type\": \"number\", \"description\": \"junio\", \"title\": \"junio\"}, {\"type\": \"number\", \"description\": \"julio\", \"title\": \"julio\"}, {\"type\": \"number\", \"description\": \"agosto\", \"title\": \"agosto\"}, {\"type\": \"number\", \"description\": \"septiempre\", \"title\": \"septiempre\"}, {\"type\": \"number\", \"description\": \"octubre\", \"title\": \"octubre\"}, {\"type\": \"number\", \"description\": \"noviembre\", \"title\": \"noviembre\"}, {\"type\": \"number\", \"description\": \"diciembre\", \"title\": \"diciembre\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2018-04-26T18:25:52.398510",
+      "datastore_active": false,
+      "description": "Detalle mensual de la producción de expellers de soja en toneladas.\r\n \"0\" indica informado \"Sin Movimiento\".",
+      "fileName": "produccion-de-expellers-de-soja-.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "agroindustria_71147641-184e-4705-9777-621f5d196013",
+      "last_modified": "2019-01-21T16:14:24.638021",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Producción de expellers de soja",
+      "package_id": "agroindustria_9a532501-3d40-4199-960f-06f5b24e3ab8",
+      "position": 3,
+      "resource_type": "file.upload",
+      "revision_id": "ea39c1d9-070d-4fcb-94fb-c4ce2901096d",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.agroindustria.gob.ar/dataset/9a532501-3d40-4199-960f-06f5b24e3ab8/resource/71147641-184e-4705-9777-621f5d196013/download/produccion-expellers-soja.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://datos2.agroindustria.gob.ar/dataset/9a532501-3d40-4199-960f-06f5b24e3ab8/archivo/500b1d2e-5788-41a4-9533-115424ade577",
+      "attributesDescription": "[{\"type\": \"integer\", \"description\": \"d_pais\", \"title\": \"d_pais\"}, {\"type\": \"string\", \"description\": \"nom_pais\", \"title\": \"nom_pais\"}, {\"type\": \"integer\", \"description\": \"a\\u0144o\", \"title\": \"a\\u0144o\"}, {\"type\": \"string\", \"description\": \"producto\", \"title\": \"producto\"}, {\"type\": \"string\", \"description\": \"unidad_id\", \"title\": \"unidad_id\"}, {\"type\": \"string\", \"description\": \"nom_unidad\", \"title\": \"nom_unidad\"}, {\"type\": \"number\", \"description\": \"enero\", \"title\": \"enero\"}, {\"type\": \"number\", \"description\": \"febrero\", \"title\": \"febrero\"}, {\"type\": \"number\", \"description\": \"marzo\", \"title\": \"marzo\"}, {\"type\": \"number\", \"description\": \"abril\", \"title\": \"abril\"}, {\"type\": \"number\", \"description\": \"mayo\", \"title\": \"mayo\"}, {\"type\": \"number\", \"description\": \"junio\", \"title\": \"junio\"}, {\"type\": \"number\", \"description\": \"julio\", \"title\": \"julio\"}, {\"type\": \"number\", \"description\": \"agosto\", \"title\": \"agosto\"}, {\"type\": \"number\", \"description\": \"septiempre\", \"title\": \"septiempre\"}, {\"type\": \"number\", \"description\": \"octubre\", \"title\": \"octubre\"}, {\"type\": \"number\", \"description\": \"noviembre\", \"title\": \"noviembre\"}, {\"type\": \"number\", \"description\": \"diciembre\", \"title\": \"diciembre\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2018-04-26T18:25:09.842953",
+      "datastore_active": false,
+      "description": "Detalle mensual de la producción de pellets de soja en toneladas\r\n \"0\" indica informado \"Sin Movimiento\".",
+      "fileName": "produccion-de-pellets-de-soja-.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "agroindustria_500b1d2e-5788-41a4-9533-115424ade577",
+      "last_modified": "2019-01-22T15:12:08.972761",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Producción de pellets de soja",
+      "package_id": "agroindustria_9a532501-3d40-4199-960f-06f5b24e3ab8",
+      "position": 4,
+      "resource_type": "file.upload",
+      "revision_id": "ea39c1d9-070d-4fcb-94fb-c4ce2901096d",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.agroindustria.gob.ar/dataset/9a532501-3d40-4199-960f-06f5b24e3ab8/resource/500b1d2e-5788-41a4-9533-115424ade577/download/produccion-de-pellets-de-soja-.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos.agroindustria.gob.ar/dataset/9a532501-3d40-4199-960f-06f5b24e3ab8/resource/1c56b990-5f6c-4f39-ba3c-81fad06080e0",
+      "attributesDescription": "[{\"specialType\": \"time_index\", \"specialTypeDetail\": \"R/P1M\", \"type\": \"date\", \"title\": \"indice_tiempo\"}, {\"units\": \"Toneladas\", \"id\": \"AGRO_0035\", \"type\": \"integer\", \"description\": \"Ingreso de soja a la industria aceitera.\", \"title\": \"ingreso_soja_ind_aceitera\"}, {\"units\": \"Toneladas\", \"id\": \"AGRO_0036\", \"type\": \"integer\", \"description\": \"Ingreso de soja a la industria balanceadora.\", \"title\": \"ingreso_soja_balanceadora\"}, {\"units\": \"Toneladas\", \"id\": \"AGRO_0037\", \"type\": \"integer\", \"description\": \"Producci\\u00f3n de aceite de soja.\", \"title\": \"prod_aceite_soja\"}, {\"units\": \"Toneladas\", \"id\": \"AGRO_0038\", \"type\": \"integer\", \"description\": \"Producci\\u00f3n de expellers de soja.\", \"title\": \"prod_expellers_soja\"}, {\"units\": \"Toneladas\", \"id\": \"AGRO_0039\", \"type\": \"integer\", \"description\": \"Producci\\u00f3n de pellets de soja.\", \"title\": \"prod_pellets_soja\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-04-30T14:11:24.433826",
+      "datastore_active": false,
+      "description": "Evolución del ingreso de granos de soja a la industria aceitera y balanceadora. Productos y subproductos de la industria aceitera. Año Comercial de Abril a Marzo.",
+      "fileName": "serie-tiempo-soja-destino-industria.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "agroindustria_1c56b990-5f6c-4f39-ba3c-81fad06080e0",
+      "last_modified": "2019-05-06T12:44:07.761305",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Serie de tiempo",
+      "package_id": "agroindustria_9a532501-3d40-4199-960f-06f5b24e3ab8",
+      "position": 5,
+      "resource_type": "file.upload",
+      "revision_id": "ea39c1d9-070d-4fcb-94fb-c4ce2901096d",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.agroindustria.gob.ar/dataset/9a532501-3d40-4199-960f-06f5b24e3ab8/resource/1c56b990-5f6c-4f39-ba3c-81fad06080e0/download/serie-tiempo-soja-destino-industria.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "ae9d81e6-935e-4e99-ad98-5fda86c5cc8d",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "aceite de soja",
+      "id": "31dd4633-b635-4b0d-8ed8-b2a818927485",
+      "name": "aceite de soja",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "aceitero",
+      "id": "ea05a629-77b6-4faf-83c4-affa147fa07d",
+      "name": "aceitero",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "expellers",
+      "id": "ef2886aa-4169-4090-b1b1-747b01ec2c50",
+      "name": "expellers",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "grano de soja",
+      "id": "e1e388bc-9576-477c-ba77-dd1d5f6d1e26",
+      "name": "grano de soja",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "industria aceitera",
+      "id": "846315f4-50ab-42e2-8508-b4e91d9949ab",
+      "name": "industria aceitera",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "industrial aceitero",
+      "id": "65a89a4f-f530-4d26-9ae2-f85c257e2374",
+      "name": "industrial aceitero",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "mercados agricolas",
+      "id": "a6480af9-1f58-4d18-b8da-5ee1aa8902a9",
+      "name": "mercados agricolas",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "oleaginosas",
+      "id": "82272362-9b90-41d8-9215-aefa48c21b66",
+      "name": "oleaginosas",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "pellets",
+      "id": "c4731bb5-fa31-4e3c-825a-61d6e9b8dcaf",
+      "name": "pellets",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "soja",
+      "id": "fcbafe29-23bd-47c6-8253-eaba1377cd8f",
+      "name": "soja",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Soja - destino industrial",
+  "type": "dataset",
+  "url": "https://datos.agroindustria.gob.ar/dataset/soja-con-destino-industria",
+  "version": null
+}

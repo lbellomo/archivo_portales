@@ -1,0 +1,191 @@
+{
+  "author": "Ministerio de Salud. Dirección Nacional de Calidad en Servicios de Salud y Regulación Sanitaria",
+  "author_email": "obaggini@msal.gov.ar",
+  "creator_user_id": "4720e75a-9e17-4dc3-879d-041917c7f9f9",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P1Y"
+    },
+    {
+      "key": "issued",
+      "value": "2019-08-26T13:20:58.758408"
+    },
+    {
+      "key": "language",
+      "value": "[\"spa\"]"
+    },
+    {
+      "key": "modified",
+      "value": "2020-05-15T15:49:51.103424"
+    },
+    {
+      "key": "source",
+      "value": "Ministerio de Salud. Secretaría de Regulación y Gestión Sanitaria. Subsecretaría de Calidad, Regulación y Fiscalización. Dirección Nacional de Calidad en Servicios de Salud y Regulación Sanitaria."
+    },
+    {
+      "key": "spatial",
+      "value": "[\"ARG\"]"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"HEAL\"]"
+    },
+    {
+      "key": "temporal",
+      "value": "2003-01-01T03:00:00.000Z/2018-12-31T03:00:00.000Z"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Salud",
+      "display_name": "Salud",
+      "id": "65cc1fbf-703a-43bf-8a14-232a55c34976",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225809.913196salud.svg",
+      "name": "heal",
+      "title": "Salud"
+    }
+  ],
+  "id": "salud_56eff847-9044-4157-8a74-378e8bc5d946",
+  "isopen": false,
+  "license_id": "notspecified",
+  "license_title": "No se especificó la licencia",
+  "maintainer": "Ministerio de Salud. Secretaría de Regulación y Gestión Sanitaria. Subsecretaría de Calidad, Regulación y Fiscalización. Dirección Nacional de Calidad en Servicios de Salud y Regulación Sanitaria",
+  "maintainer_email": "obaggini@msal.gov.ar",
+  "metadata_created": "2019-11-26T15:01:36.085696",
+  "metadata_modified": "2021-04-29T17:05:29.418766",
+  "name": "salud-cofesa-actas-consejo-federal-salud-republica-argentina",
+  "notes": "Datos correspondientes a las actas del Consejo Federal de Salud de la República Argentina.",
+  "num_resources": 3,
+  "num_tags": 4,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-11-15T11:12:22.202856",
+    "description": "",
+    "id": "dd1f2018-587f-43af-9b07-fc32f5ab588b",
+    "image_url": "",
+    "is_organization": true,
+    "name": "salud",
+    "revision_id": "14f0bb85-f97d-4325-b1c8-a7c1d3a815bf",
+    "state": "active",
+    "title": "Ministerio de Salud",
+    "type": "organization"
+  },
+  "owner_org": "dd1f2018-587f-43af-9b07-fc32f5ab588b",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "http://datos.salud.gob.ar/dataset/56eff847-9044-4157-8a74-378e8bc5d946/resource/b0a51220-e905-4168-b9b8-3bdd5921e007",
+      "attributesDescription": "[{\"type\": \"string\", \"description\": \"Link de acceso al acta\", \"title\": \"texto_completo_id\"}, {\"type\": \"string\", \"description\": \"Fuente \", \"title\": \"fuente\"}, {\"type\": \"date\", \"description\": \"Fecha de la publicaci\\u00f3n\", \"title\": \"fecha_de_publicacion\"}, {\"type\": \"string\", \"description\": \"Entidad emisora\", \"title\": \"entidad_emisora\"}, {\"type\": \"string\", \"description\": \"Tipo de Norma\", \"title\": \"tipo_de_norma\"}, {\"type\": \"integer\", \"description\": \"N\\u00famero de norma\", \"title\": \"numero_de_norma\"}, {\"type\": \"date\", \"description\": \"Fecha de emisi\\u00f3n\", \"title\": \"fecha_de_emision\"}, {\"type\": \"string\", \"description\": \"Tipo de jurisdicci\\u00f3n\", \"title\": \"jurisdiccion\"}, {\"type\": \"integer\", \"description\": \"C\\u00f3digo de pa\\u00eds\", \"title\": \"pais_id\"}, {\"type\": \"string\", \"description\": \"Nombre de Pa\\u00eds\", \"title\": \"nombre_pais\"}, {\"type\": \"string\", \"description\": \"Estado de la vigencia\", \"title\": \"estado_de_vigencia\"}, {\"type\": \"string\", \"description\": \"Resumen\", \"title\": \"resumen\"}, {\"type\": \"string\", \"description\": \"Temas\", \"title\": \"temas\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-08-26T10:27:05.202504",
+      "datastore_active": false,
+      "description": "Datos correspondientes a las actas del Consejo Federal de Salud de la República Argentina.",
+      "fileName": "cofesa-datos-hasta-2018.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "salud_b0a51220-e905-4168-b9b8-3bdd5921e007",
+      "last_modified": "2019-09-03T09:43:19.425263",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "COFESA - Información desde el año 2003",
+      "package_id": "salud_56eff847-9044-4157-8a74-378e8bc5d946",
+      "position": 0,
+      "resource_type": "file.upload",
+      "revision_id": "f8337c63-b19c-43de-a51d-35f717b433e5",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.salud.gob.ar/dataset/56eff847-9044-4157-8a74-378e8bc5d946/resource/b0a51220-e905-4168-b9b8-3bdd5921e007/download/cofesa-datos-hasta-2018.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos.salud.gob.ar/dataset/56eff847-9044-4157-8a74-378e8bc5d946/resource/0a1799d1-6907-4157-8b7c-d223ef15be84",
+      "attributesDescription": "[{\"type\": \"string\", \"description\": \"Link de acceso al acta\", \"title\": \"texto_completo_id\"}, {\"type\": \"string\", \"description\": \"Fuente\", \"title\": \"fuente\"}, {\"type\": \"date\", \"description\": \"Fecha de la publicaci\\u00f3n\", \"title\": \"fecha_de_publicacion\"}, {\"type\": \"string\", \"description\": \"Entidad emisora\", \"title\": \"entidad_emisora\"}, {\"type\": \"string\", \"description\": \"Tipo de Norma\", \"title\": \"tipo_de_norma\"}, {\"type\": \"integer\", \"description\": \"N\\u00famero de norma\", \"title\": \"numero_de_norma\"}, {\"type\": \"date\", \"description\": \"Fecha de emisi\\u00f3n\", \"title\": \"fecha_de_emision\"}, {\"type\": \"string\", \"description\": \"Tipo de jurisdicci\\u00f3n\", \"title\": \"jurisdiccion\"}, {\"type\": \"integer\", \"description\": \"C\\u00f3digo de pa\\u00eds\", \"title\": \"pais_id\"}, {\"type\": \"string\", \"description\": \"Nombre de Pa\\u00eds\", \"title\": \"nombre_pais\"}, {\"type\": \"string\", \"description\": \"Estado de la vigencia\", \"title\": \"estado_de_vigencia\"}, {\"type\": \"string\", \"description\": \"Resumen\", \"title\": \"resumen\"}, {\"type\": \"string\", \"description\": \"Temas\", \"title\": \"temas\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-09-02T09:44:33.189384",
+      "datastore_active": false,
+      "description": "Datos correspondientes a las actas del Consejo Federal de Salud de la República Argentina.",
+      "fileName": "cofesa-2019.xls",
+      "format": "XLS",
+      "hash": "",
+      "id": "salud_0a1799d1-6907-4157-8b7c-d223ef15be84",
+      "last_modified": "2019-09-02T09:44:33.189384",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "COFESA - Información desde el año 2003",
+      "package_id": "salud_56eff847-9044-4157-8a74-378e8bc5d946",
+      "position": 1,
+      "resource_type": "file.upload",
+      "revision_id": "50a7a57f-9844-4912-918b-0838b0f92c46",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.salud.gob.ar/dataset/56eff847-9044-4157-8a74-378e8bc5d946/resource/0a1799d1-6907-4157-8b7c-d223ef15be84/download/cofesa-datos-hasta-2018.xls",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos.salud.gob.ar/dataset/56eff847-9044-4157-8a74-378e8bc5d946/resource/fc78ce36-2177-4c8d-b0c5-406019515f1b",
+      "attributesDescription": "[{\"type\": \"string\", \"description\": \"Link de acceso al acta\", \"title\": \"texto_completo_id\"}, {\"type\": \"string\", \"description\": \"Fuente\", \"title\": \"fuente\"}, {\"type\": \"integer\", \"description\": \"Entidad emisora\", \"title\": \"fecha_de_publicacion\"}, {\"type\": \"string\", \"description\": \"Tipo de Norma\", \"title\": \"tipo_de_norma\"}, {\"type\": \"integer\", \"description\": \"N\\u00famero de norma\", \"title\": \"numero_de_norma\"}, {\"type\": \"date\", \"description\": \"Fecha de emisi\\u00f3n\", \"title\": \"fecha_de_emision\"}, {\"type\": \"string\", \"description\": \"Tipo de jurisdicci\\u00f3n\", \"title\": \"jurisdiccion\"}, {\"type\": \"integer\", \"description\": \"C\\u00f3digo de pa\\u00eds\", \"title\": \"pais_id\"}, {\"type\": \"string\", \"description\": \"Nombre de Pa\\u00eds\", \"title\": \"nombre_pais\"}, {\"type\": \"string\", \"description\": \"Estado de la vigencia\", \"title\": \"estado_de_vigencia\"}, {\"type\": \"string\", \"description\": \"Resumen\", \"title\": \"resumen\"}, {\"type\": \"string\", \"description\": \"Temas\", \"title\": \"temas\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-09-02T09:52:59.253366",
+      "datastore_active": false,
+      "description": "Datos correspondientes a las actas del Consejo Federal de Salud de la República Argentina",
+      "fileName": "cofesa-datos-hasta-2018.json",
+      "format": "JSON",
+      "hash": "",
+      "id": "salud_fc78ce36-2177-4c8d-b0c5-406019515f1b",
+      "last_modified": "2019-09-03T09:49:54.631990",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "COFESA - Información desde el año 2003",
+      "package_id": "salud_56eff847-9044-4157-8a74-378e8bc5d946",
+      "position": 2,
+      "resource_type": "file.upload",
+      "revision_id": "e31b51d5-bc5c-4a60-9d84-69eda2cc38ca",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.salud.gob.ar/dataset/56eff847-9044-4157-8a74-378e8bc5d946/resource/fc78ce36-2177-4c8d-b0c5-406019515f1b/download/cofesa-datos-hasta-2018.json",
+      "url_type": null
+    }
+  ],
+  "revision_id": "dd919554-68d4-4b8d-8601-3d269a782b34",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "Legislación en Salud",
+      "id": "e185a04b-bbd1-4d62-914e-7d4bbc458d41",
+      "name": "Legislación en Salud",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "actas",
+      "id": "defc726d-b207-4160-9d7c-b2a36fc44e6a",
+      "name": "actas",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "acuerdos",
+      "id": "8661c75e-25a6-4ab9-99f0-87a5535b386f",
+      "name": "acuerdos",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "cofesa",
+      "id": "18f67888-632e-42d0-91f7-ec9ea72e7090",
+      "name": "cofesa",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "COFESA Actas (Consejo Federal de Salud de la República Argentina)",
+  "type": "dataset",
+  "url": "http://datos.salud.gob.ar/dataset/cofesa",
+  "version": null
+}

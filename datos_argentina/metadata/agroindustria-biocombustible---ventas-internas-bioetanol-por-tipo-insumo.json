@@ -1,0 +1,233 @@
+{
+  "author": "Dirección de Bioenergía - Secretaría de Alimentos y Bioeconomía",
+  "author_email": "dae@magyp.gob.ar",
+  "creator_user_id": "4720e75a-9e17-4dc3-879d-041917c7f9f9",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P1M"
+    },
+    {
+      "key": "issued",
+      "value": "2018-12-07T21:21:15.724576"
+    },
+    {
+      "key": "language",
+      "value": "[\"spa\"]"
+    },
+    {
+      "key": "modified",
+      "value": "2019-10-24T10:31:37.360977"
+    },
+    {
+      "key": "spatial",
+      "value": "[\"ARG\"]"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"AGRI\", \"ENER\", \"ENVI\", \"TECH\", \"TRAN\"]"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Agroganadería, pesca y forestación",
+      "display_name": "Agroganadería, pesca y forestación",
+      "id": "0c35ea38-7059-41d2-9827-5587769d0dc6",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225145.990789agroganaderia-pesca-forestacion.svg",
+      "name": "agri",
+      "title": "Agroganadería, pesca y forestación"
+    },
+    {
+      "description": "Ciencia y tecnología",
+      "display_name": "Ciencia y tecnología",
+      "id": "0dd7dd0e-aae8-402f-8660-f1e8b6b6084c",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225221.170833ciencia-tecnologia.svg",
+      "name": "tech",
+      "title": "Ciencia y tecnología"
+    },
+    {
+      "description": "Energía",
+      "display_name": "Energía",
+      "id": "a4d3f632-eb48-4163-9791-165989c16035",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225337.421630energia.svg",
+      "name": "ener",
+      "title": "Energía"
+    },
+    {
+      "description": "Medio ambiente",
+      "display_name": "Medio ambiente",
+      "id": "f71fe9d7-c703-43be-8d9d-af9441c326ba",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225440.964279medio-ambiente.svg",
+      "name": "envi",
+      "title": "Medio ambiente"
+    },
+    {
+      "description": "Transporte",
+      "display_name": "Transporte",
+      "id": "57227cfc-80a6-45d3-9faa-711a98ac8ede",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225933.272993transporte.svg",
+      "name": "tran",
+      "title": "Transporte"
+    }
+  ],
+  "id": "agroindustria_b3819c0c-ce32-4c2b-884e-984d3e10bdc0",
+  "isopen": true,
+  "license_id": "CC-BY-4.0",
+  "license_title": "Creative Commons Attribution 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "maintainer": "Dirección de Bioenergía",
+  "maintainer_email": "dae@magyp.gob.ar",
+  "metadata_created": "2019-11-26T14:56:16.206368",
+  "metadata_modified": "2021-04-29T17:06:50.922629",
+  "name": "agroindustria-biocombustible---ventas-internas-bioetanol-por-tipo-insumo",
+  "notes": "Ventas internas (reales y estimadas) de bioetanol producido a partir de caña de azúcar y maíz. Las mismas se destinan para la mezcla con nafta, según lo establecido en el marco de la Ley de biocombustibles.",
+  "num_resources": 2,
+  "num_tags": 10,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:07.834957",
+    "description": "",
+    "id": "b10c94e2-ade1-4a97-8c4c-b1ada7878d60",
+    "image_url": "",
+    "is_organization": true,
+    "name": "agroindustria",
+    "revision_id": "f7c3b6e9-d48f-4522-9f7a-388d805c8392",
+    "state": "active",
+    "title": "Ministerio de Agricultura, Ganadería y Pesca",
+    "type": "organization"
+  },
+  "owner_org": "b10c94e2-ade1-4a97-8c4c-b1ada7878d60",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "http://datos.agroindustria.gob.ar/dataset/b3819c0c-ce32-4c2b-884e-984d3e10bdc0/resource/a49ccbda-c6f4-4fe9-8ebf-8c1c664f28dc",
+      "attributesDescription": "[{\"type\": \"string\", \"description\": \"id_pais\", \"title\": \"id_pais\"}, {\"type\": \"string\", \"description\": \"nom_pais\", \"title\": \"nom_pais\"}, {\"type\": \"string\", \"description\": \"a\\u00f1o\", \"title\": \"a\\u00f1o\"}, {\"type\": \"string\", \"description\": \"mes\", \"title\": \"mes\"}, {\"type\": \"string\", \"description\": \"cod_unimed\", \"title\": \"cod_unimed\"}, {\"type\": \"string\", \"description\": \"nom_unimed\", \"title\": \"nom_unimed\"}, {\"type\": \"integer\", \"description\": \"ca\\u00f1a\", \"title\": \"ca\\u00f1a\"}, {\"type\": \"integer\", \"description\": \"maiz\", \"title\": \"maiz\"}, {\"type\": \"integer\", \"description\": \"total\", \"title\": \"total\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2018-06-14T14:48:59.285683",
+      "datastore_active": false,
+      "description": "Ventas internas (reales y estimadas) de bioetanol de caña de azúcar y maíz. Las mismas se destinan para la mezcla con nafta, según lo establecido en el marco de la Ley de biocombustibles.",
+      "fileName": "ventas-internas-de-bioetanol-por-tipo-de-insumo-.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "agroindustria_a49ccbda-c6f4-4fe9-8ebf-8c1c664f28dc",
+      "last_modified": "2019-08-27T09:41:53.621609",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Ventas internas de bioetanol por tipo de insumo",
+      "package_id": "agroindustria_b3819c0c-ce32-4c2b-884e-984d3e10bdc0",
+      "position": 0,
+      "resource_type": "file.upload",
+      "revision_id": "5cf2b390-07d1-4f86-bdf2-ad542f3ac0e2",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.agroindustria.gob.ar/dataset/b3819c0c-ce32-4c2b-884e-984d3e10bdc0/resource/a49ccbda-c6f4-4fe9-8ebf-8c1c664f28dc/download/ventas-internas-de-bioetanol-por-tipo-de-insumo-.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos.agroindustria.gob.ar/dataset/b3819c0c-ce32-4c2b-884e-984d3e10bdc0/resource/d0c0c90d-cdcf-479b-ae18-295a809e2bbf",
+      "attributesDescription": "[{\"specialType\": \"time_index\", \"specialTypeDetail\": \"R/P1M\", \"type\": \"date\", \"description\": \"Indice de Tiempo\", \"title\": \"indice_tiempo\"}, {\"units\": \"Metros C\\u00fabicos\", \"id\": \"AGRO_0341\", \"type\": \"integer\", \"description\": \"Ventas internas de bioetanol de ca\\u00f1a de az\\u00facar como insumo\", \"title\": \"cania_azucar\"}, {\"units\": \"Metros C\\u00fabicos\", \"id\": \"AGRO_0342\", \"type\": \"integer\", \"description\": \"Ventas internas de bioetanol de ma\\u00edz como insumo\", \"title\": \"maiz\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-09-24T12:06:18.277212",
+      "datastore_active": false,
+      "description": "Serie de tiempo de ventas internas de bioetanol por tipo de insumo",
+      "fileName": "serie_tiempo_ ventas_internas_bioetanol_por_insumo-.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "agroindustria_d0c0c90d-cdcf-479b-ae18-295a809e2bbf",
+      "last_modified": "2019-09-24T12:06:18.277212",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Serie de tiempo de ventas internas de bioetanol por tipo de insumo",
+      "package_id": "agroindustria_b3819c0c-ce32-4c2b-884e-984d3e10bdc0",
+      "position": 1,
+      "resource_type": "file.upload",
+      "revision_id": "78619fe2-c2a7-4be2-93f3-8bc3f7303a82",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.agroindustria.gob.ar/dataset/b3819c0c-ce32-4c2b-884e-984d3e10bdc0/resource/d0c0c90d-cdcf-479b-ae18-295a809e2bbf/download/serie-tiempo-ventas-internas-bioetanol-por-insumo.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "5794845a-8eef-4d71-bcc0-dca0a017f12d",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "alcohol",
+      "id": "c7d49c77-e27f-45a7-a01e-c8ae1e1abcce",
+      "name": "alcohol",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "anhidro",
+      "id": "5a14704d-bf20-4221-b06f-df7c142c7f33",
+      "name": "anhidro",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "azucar",
+      "id": "fddaac43-c985-4bb1-be38-9edc3a640759",
+      "name": "azucar",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "biocombustible",
+      "id": "fa1ffa69-eec1-425f-8780-3dc8708d13b5",
+      "name": "biocombustible",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "bioeconomía",
+      "id": "f80bf0c3-bb7c-419f-9433-774e2dc9815b",
+      "name": "bioeconomía",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "bioenergia",
+      "id": "11e96f75-058b-4bbe-b859-eed71e9a22dc",
+      "name": "bioenergia",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "bioetanol",
+      "id": "e0f843df-bb59-49eb-b7b3-2666a5119072",
+      "name": "bioetanol",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "caña",
+      "id": "f9bc6360-eefd-4d7e-a11d-304d428060ef",
+      "name": "caña",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "maiz",
+      "id": "ae324ffd-6569-440f-ae0f-27edc3ac104a",
+      "name": "maiz",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "nafta",
+      "id": "de91cdbf-a27d-4aa9-8fdc-4fccd4f84b38",
+      "name": "nafta",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Biocombustible - Ventas internas de bioetanol por tipo de insumo",
+  "type": "dataset",
+  "url": "https://datos.agroindustria.gob.ar/dataset/ventas-internas-bioetanol-por-tipo-insumo",
+  "version": null
+}

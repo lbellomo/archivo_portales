@@ -1,0 +1,159 @@
+{
+  "author": "Servicio Nacional de Sanidad y Calidad Agroalimentaria",
+  "author_email": "desycg@senasa.gob.ar",
+  "creator_user_id": "dc157489-51c6-44ce-bd63-3bd983d60778",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P1M"
+    },
+    {
+      "key": "issued",
+      "value": "2019-09-23T15:26:08.334854"
+    },
+    {
+      "key": "language",
+      "value": "[\"spa\"]"
+    },
+    {
+      "key": "modified",
+      "value": "2019-12-04T16:26:23.666653"
+    },
+    {
+      "key": "source",
+      "value": "Servicio Nacional de Sanidad y Calidad Agroalimentaria - SENASA"
+    },
+    {
+      "key": "spatial",
+      "value": "[\"ARG\"]"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"AGRI\"]"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Agroganadería, pesca y forestación",
+      "display_name": "Agroganadería, pesca y forestación",
+      "id": "0c35ea38-7059-41d2-9827-5587769d0dc6",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225145.990789agroganaderia-pesca-forestacion.svg",
+      "name": "agri",
+      "title": "Agroganadería, pesca y forestación"
+    }
+  ],
+  "id": "agroindustria_ceb4b7f6-5d57-426a-aca5-e24d69288439",
+  "isopen": true,
+  "license_id": "CC-BY-4.0",
+  "license_title": "Creative Commons Attribution 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "maintainer": "Dirección Nacional de Sanidad Animal",
+  "maintainer_email": "desycg@senasa.gob.ar",
+  "metadata_created": "2019-12-12T19:40:20.233877",
+  "metadata_modified": "2021-04-29T17:11:33.332828",
+  "name": "agroindustria-senasa---movimientos-camelidos",
+  "notes": "Datos mensuales de los movimientos de la especie camélidos detallando provincia origen y destino.",
+  "num_resources": 1,
+  "num_tags": 7,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:07.834957",
+    "description": "",
+    "id": "b10c94e2-ade1-4a97-8c4c-b1ada7878d60",
+    "image_url": "",
+    "is_organization": true,
+    "name": "agroindustria",
+    "revision_id": "f7c3b6e9-d48f-4522-9f7a-388d805c8392",
+    "state": "active",
+    "title": "Ministerio de Agricultura, Ganadería y Pesca",
+    "type": "organization"
+  },
+  "owner_org": "b10c94e2-ade1-4a97-8c4c-b1ada7878d60",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "http://datos.agroindustria.gob.ar/dataset/ceb4b7f6-5d57-426a-aca5-e24d69288439/resource/b94765de-e305-459c-bcbf-23e823b708e4",
+      "attributesDescription": "[{\"specialType\": \"time_index\", \"type\": \"date\", \"title\": \"fecha\"}, {\"type\": \"string\", \"description\": \"Lugar del que sale. \", \"title\": \"salido_de\"}, {\"type\": \"string\", \"description\": \"Lugar al que ingresa. \", \"title\": \"ingresado_a\"}, {\"type\": \"string\", \"description\": \"Nombre de la provincia de origen. \", \"title\": \"provincia_origen\"}, {\"type\": \"string\", \"description\": \"C\\u00f3digo de la provincia de origen. \", \"title\": \"provincia_origen_id\"}, {\"type\": \"string\", \"description\": \"Nombre del departamento de origen. \", \"title\": \"departamento_origen\"}, {\"type\": \"string\", \"description\": \"C\\u00f3digo del departamento de origen. \", \"title\": \"departamento_origen_id\"}, {\"type\": \"string\", \"description\": \"Nombre de la provincia de destino. \", \"title\": \"provincia_destino\"}, {\"type\": \"string\", \"description\": \"C\\u00f3digo de la provincia de destino. \", \"title\": \"provincia_destino_id\"}, {\"type\": \"string\", \"description\": \"Nombre del departamento de destino. \", \"title\": \"departamento_destino\"}, {\"type\": \"string\", \"description\": \"C\\u00f3digo del departamento de destino.\", \"title\": \"departamento_destino_id\"}, {\"type\": \"integer\", \"description\": \"Cantidad de macho adulto.\", \"title\": \"llama_macho\"}, {\"type\": \"integer\", \"description\": \"Cantidad de hembra adulta despu\\u00e9s de la primera parici\\u00f3n.\", \"title\": \"llama_hembra\"}, {\"type\": \"integer\", \"description\": \"Cantidad de hembras juvenil (maltona) comprendida desde el a\\u00f1o hasta la primera parici\\u00f3n.\", \"title\": \"malton_hembra\"}, {\"type\": \"integer\", \"description\": \"Cantidad de machos juvenil comprendido entre el a\\u00f1o y los dos a\\u00f1os.\", \"title\": \"malton_macho\"}, {\"type\": \"integer\", \"description\": \"Cantidad de alpaca hembra de edad comprendida entre el nacimiento y el destete.\", \"title\": \"teke_hembra\"}, {\"type\": \"integer\", \"description\": \"Cantidad de alpaca macho de edad comprendida entre el nacimiento y el destete.\", \"title\": \"teke_macho\"}, {\"type\": \"integer\", \"description\": \"Cantidad de machos guanaco adultos.\", \"title\": \"guanaco_macho\"}, {\"type\": \"integer\", \"description\": \"Cantidad de hembras guanaco adultas.\", \"title\": \"guanaco_hembra\"}, {\"type\": \"integer\", \"description\": \"Cantidad de alpaca adulta.\", \"title\": \"alpaca\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-09-27T15:56:11.781036",
+      "datastore_active": false,
+      "description": "Datos de los movimientos camélidos por categoría y mes para el período 2013 a 2018.",
+      "fileName": "movimiento-camelidos-provincia-2013-2018.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "agroindustria_b94765de-e305-459c-bcbf-23e823b708e4",
+      "last_modified": "2019-11-19T15:23:47.824893",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Movimientos camélidos 2013 a 2018",
+      "package_id": "agroindustria_ceb4b7f6-5d57-426a-aca5-e24d69288439",
+      "position": 0,
+      "resource_type": "file.upload",
+      "revision_id": "a1b2b9d5-156a-4745-a435-5b8bfff0743b",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.agroindustria.gob.ar/dataset/ceb4b7f6-5d57-426a-aca5-e24d69288439/resource/b94765de-e305-459c-bcbf-23e823b708e4/download/movimiento-camelidos-provincia-2013-2018.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "bf2aef4c-14c1-4ba3-9892-e9566c3841b2",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "alpaca",
+      "id": "0052f0d1-0906-4123-ad4d-3a5e5d46bbc0",
+      "name": "alpaca",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "camelido",
+      "id": "08df7e17-047b-48f5-9577-f15a72d676d6",
+      "name": "camelido",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "guanaco",
+      "id": "c399212b-3c8d-442a-bbd0-d6efce9715bf",
+      "name": "guanaco",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "llama",
+      "id": "6e4eac98-8c77-4472-923d-c2b8e0b6cac7",
+      "name": "llama",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "malton",
+      "id": "7c0e246a-eb71-40b2-bb06-cad9dfbaec49",
+      "name": "malton",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "movimiento ganadero",
+      "id": "5d3fb22d-977e-4fc3-ac41-277f36a967a1",
+      "name": "movimiento ganadero",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "teke",
+      "id": "413cbfeb-5769-4ae1-a7ea-2d27190b1bae",
+      "name": "teke",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "SENASA - Movimientos camélidos",
+  "type": "dataset",
+  "url": "https://datos.agroindustria.gob.ar/dataset/senasa-movimientos-camelidos",
+  "version": null
+}

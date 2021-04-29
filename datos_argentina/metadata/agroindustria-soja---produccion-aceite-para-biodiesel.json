@@ -1,0 +1,172 @@
+{
+  "author": "Dirección de Bioenergía, Secretaria de Alimentos y Bioeconomía",
+  "author_email": "dae@magyp.gob.ar",
+  "creator_user_id": "dc157489-51c6-44ce-bd63-3bd983d60778",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P1M"
+    },
+    {
+      "key": "issued",
+      "value": "2018-12-07T21:21:08.008806"
+    },
+    {
+      "key": "language",
+      "value": "[\"spa\"]"
+    },
+    {
+      "key": "modified",
+      "value": "2019-10-24T10:45:40.295515"
+    },
+    {
+      "key": "spatial",
+      "value": "[\"ARG\"]"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"AGRI\", \"ECON\", \"ENER\", \"ENVI\"]"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Agroganadería, pesca y forestación",
+      "display_name": "Agroganadería, pesca y forestación",
+      "id": "0c35ea38-7059-41d2-9827-5587769d0dc6",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225145.990789agroganaderia-pesca-forestacion.svg",
+      "name": "agri",
+      "title": "Agroganadería, pesca y forestación"
+    },
+    {
+      "description": "Economía y finanzas",
+      "display_name": "Economía y finanzas",
+      "id": "60b4b03e-10a1-4d67-b984-08008a249617",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225257.200233economia-finanzas.svg",
+      "name": "econ",
+      "title": "Economía y finanzas"
+    },
+    {
+      "description": "Energía",
+      "display_name": "Energía",
+      "id": "a4d3f632-eb48-4163-9791-165989c16035",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225337.421630energia.svg",
+      "name": "ener",
+      "title": "Energía"
+    },
+    {
+      "description": "Medio ambiente",
+      "display_name": "Medio ambiente",
+      "id": "f71fe9d7-c703-43be-8d9d-af9441c326ba",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225440.964279medio-ambiente.svg",
+      "name": "envi",
+      "title": "Medio ambiente"
+    }
+  ],
+  "id": "agroindustria_f0f27bbd-d54a-4633-93ff-79dbf52ac62a",
+  "isopen": true,
+  "license_id": "CC-BY-4.0",
+  "license_title": "Creative Commons Attribution 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "maintainer": "Dirección de Bioenergía",
+  "maintainer_email": "dae@magyp.gob.ar",
+  "metadata_created": "2019-12-04T20:00:31.157385",
+  "metadata_modified": "2021-04-29T17:12:20.643577",
+  "name": "agroindustria-soja---produccion-aceite-para-biodiesel",
+  "notes": "Datos estimados de la producción de aceite de soja destinado a la elaboración de biodiesel. \r\nDatos expresados en toneladas, poseen información desde el año 2014 hasta la actualidad.",
+  "num_resources": 1,
+  "num_tags": 6,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:07.834957",
+    "description": "",
+    "id": "b10c94e2-ade1-4a97-8c4c-b1ada7878d60",
+    "image_url": "",
+    "is_organization": true,
+    "name": "agroindustria",
+    "revision_id": "f7c3b6e9-d48f-4522-9f7a-388d805c8392",
+    "state": "active",
+    "title": "Ministerio de Agricultura, Ganadería y Pesca",
+    "type": "organization"
+  },
+  "owner_org": "b10c94e2-ade1-4a97-8c4c-b1ada7878d60",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "http://datos.agroindustria.gob.ar/dataset/f0f27bbd-d54a-4633-93ff-79dbf52ac62a/resource/02648480-3c6f-4331-93ff-d4fe9daa9e99",
+      "attributesDescription": "[{\"type\": \"string\", \"description\": \"cod_pais\", \"title\": \"cod_pais\"}, {\"type\": \"string\", \"description\": \"nom_pais\", \"title\": \"nom_pais\"}, {\"type\": \"string\", \"description\": \"a\\u00f1o\", \"title\": \"a\\u00f1o\"}, {\"type\": \"string\", \"description\": \"mes\", \"title\": \"mes\"}, {\"type\": \"string\", \"description\": \"insumo\", \"title\": \"insumo\"}, {\"type\": \"string\", \"description\": \"destino\", \"title\": \"destino\"}, {\"type\": \"string\", \"description\": \"cod_uni_med\", \"title\": \"cod_uni_med\"}, {\"type\": \"string\", \"description\": \"nom_uni_med\", \"title\": \"nom_uni_med\"}, {\"type\": \"string\", \"description\": \"cantidad\", \"title\": \"cantidad\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2018-07-13T15:38:31.940011",
+      "datastore_active": false,
+      "description": "Datos estimados del aceite de soja destinado a la elaboración de biodiesel.\r\nExpresados en toneladas, poseen información desde el año 2014 hasta la actualidad.",
+      "fileName": "estimacion-del-aceite-de-soja-destinado-a-la-elaboracion-de-biodiesel-.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "agroindustria_02648480-3c6f-4331-93ff-d4fe9daa9e99",
+      "last_modified": "2019-08-27T11:24:34.926834",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Estimación del aceite de soja destinado a la elaboración de biodiesel",
+      "package_id": "agroindustria_f0f27bbd-d54a-4633-93ff-79dbf52ac62a",
+      "position": 0,
+      "resource_type": "file.upload",
+      "revision_id": "936e2651-a966-439b-ab21-c91d000a9074",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.agroindustria.gob.ar/dataset/f0f27bbd-d54a-4633-93ff-79dbf52ac62a/resource/02648480-3c6f-4331-93ff-d4fe9daa9e99/download/estimacion-del-aceite-de-soja-destinado-a-la-elaboracion-de-biodiesel-.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "6a0cbdb6-40d4-4f63-8bd1-e91a3bdf995b",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "aceite de soja",
+      "id": "31dd4633-b635-4b0d-8ed8-b2a818927485",
+      "name": "aceite de soja",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "biocombustibles",
+      "id": "d3066907-436f-4516-a913-c4cc9469479d",
+      "name": "biocombustibles",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "biodiesel",
+      "id": "21150748-3914-4543-9f9f-2d7f58e873a4",
+      "name": "biodiesel",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "bioeconomía",
+      "id": "f80bf0c3-bb7c-419f-9433-774e2dc9815b",
+      "name": "bioeconomía",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "bioenergia",
+      "id": "11e96f75-058b-4bbe-b859-eed71e9a22dc",
+      "name": "bioenergia",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "soja",
+      "id": "fcbafe29-23bd-47c6-8253-eaba1377cd8f",
+      "name": "soja",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Soja - Producción de aceite para biodiesel",
+  "type": "dataset",
+  "url": "https://datos.agroindustria.gob.ar/dataset/produccion-estimada-aceite-soja-destinado-elaboracion-biodiesel",
+  "version": null
+}

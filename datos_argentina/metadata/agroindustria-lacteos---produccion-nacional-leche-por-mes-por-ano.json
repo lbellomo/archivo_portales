@@ -1,0 +1,168 @@
+{
+  "author": "Ministerio de Agricultura, Ganadería y Pesca - Dirección Nacional Láctea",
+  "author_email": "lecheria@magyp.gob.ar",
+  "creator_user_id": "dc157489-51c6-44ce-bd63-3bd983d60778",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P1M"
+    },
+    {
+      "key": "issued",
+      "value": "2019-02-28T19:42:04.610625"
+    },
+    {
+      "key": "language",
+      "value": "[\"spa\"]"
+    },
+    {
+      "key": "modified",
+      "value": "2019-10-24T10:30:54.605407"
+    },
+    {
+      "key": "source",
+      "value": "Dirección Nacional Láctea"
+    },
+    {
+      "key": "spatial",
+      "value": "[\"ARG\"]"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"AGRI\"]"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Agroganadería, pesca y forestación",
+      "display_name": "Agroganadería, pesca y forestación",
+      "id": "0c35ea38-7059-41d2-9827-5587769d0dc6",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225145.990789agroganaderia-pesca-forestacion.svg",
+      "name": "agri",
+      "title": "Agroganadería, pesca y forestación"
+    }
+  ],
+  "id": "agroindustria_0b1e7535-f267-4d7f-9fc8-f35f4c081f5c",
+  "isopen": true,
+  "license_id": "CC-BY-4.0",
+  "license_title": "Creative Commons Attribution 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "maintainer": "Ministerio de Agricultura, Ganadería y Pesca - Dirección Nacional Láctea",
+  "maintainer_email": "lecheria@magyp.gob.ar",
+  "metadata_created": "2019-12-04T20:01:18.966074",
+  "metadata_modified": "2021-04-29T17:06:37.659707",
+  "name": "agroindustria-lacteos---produccion-nacional-leche-por-mes-por-ano",
+  "notes": "Producción argentina de leche por mes y por año, desde Enero 2015.",
+  "num_resources": 2,
+  "num_tags": 5,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:07.834957",
+    "description": "",
+    "id": "b10c94e2-ade1-4a97-8c4c-b1ada7878d60",
+    "image_url": "",
+    "is_organization": true,
+    "name": "agroindustria",
+    "revision_id": "f7c3b6e9-d48f-4522-9f7a-388d805c8392",
+    "state": "active",
+    "title": "Ministerio de Agricultura, Ganadería y Pesca",
+    "type": "organization"
+  },
+  "owner_org": "b10c94e2-ade1-4a97-8c4c-b1ada7878d60",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "http://datos.agroindustria.gob.ar/dataset/0b1e7535-f267-4d7f-9fc8-f35f4c081f5c/resource/b1cca22c-d1b6-4816-95da-c8349be7278d",
+      "attributesDescription": "[{\"specialType\": \"time_index\", \"specialTypeDetail\": \"R/P1M\", \"type\": \"date\", \"title\": \"indice_tiempo\"}, {\"units\": \"litros\", \"id\": \"AGRO_0314\", \"type\": \"number\", \"description\": \"Producci\\u00f3n de leche en millones de litros.\", \"title\": \"produccion_leche\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-06-26T15:54:23.306141",
+      "datastore_active": false,
+      "description": "Producción de leche total país por mes y por año, expresada en millones de litros. Datos desde Enero 2015.",
+      "fileName": "produccion_leche_mes.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "agroindustria_b1cca22c-d1b6-4816-95da-c8349be7278d",
+      "last_modified": "2020-11-19T07:39:13.003043",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Lácteos - Producción nacional de leche por mes y por año",
+      "package_id": "agroindustria_0b1e7535-f267-4d7f-9fc8-f35f4c081f5c",
+      "position": 0,
+      "resource_type": "file.upload",
+      "revision_id": "377597de-8ec8-48f8-b4dd-c03b9f46d712",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.agroindustria.gob.ar/dataset/0b1e7535-f267-4d7f-9fc8-f35f4c081f5c/resource/b1cca22c-d1b6-4816-95da-c8349be7278d/download/produccion_leche_mes.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://www.agroindustria.gob.ar/sitio/areas/ss_lecheria/estadisticas/",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-09-10T16:14:22.163528",
+      "datastore_active": false,
+      "description": "Acceso al tablero de control del sector lácteo. Vaya a \"descargar\" para visualizar el mismo.",
+      "format": "HTML",
+      "hash": "",
+      "id": "agroindustria_c27bd24e-3d49-400f-918b-749ab0fe1ba1",
+      "last_modified": "2019-12-18T16:40:28.613627",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Acceso al Tablero de Control del Sector Lácteo",
+      "package_id": "agroindustria_0b1e7535-f267-4d7f-9fc8-f35f4c081f5c",
+      "position": 1,
+      "resource_type": "documentation",
+      "revision_id": "7b1be064-0b61-45af-9162-43ab167f369c",
+      "size": null,
+      "state": "active",
+      "url": "http://www.agroindustria.gob.ar/sitio/areas/ss_lecheria/estadisticas/",
+      "url_type": null
+    }
+  ],
+  "revision_id": "66b24111-61a7-445e-bcc2-c2381d4fdb93",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "leche",
+      "id": "50198eec-058b-4999-a070-8cf268e8e576",
+      "name": "leche",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "leche cruda",
+      "id": "1c7b38ce-7271-4ea2-9478-e793e3b65848",
+      "name": "leche cruda",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "lácteos",
+      "id": "d989bf38-53b2-4b4f-b7ad-47007b33a112",
+      "name": "lácteos",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "produccción de leche",
+      "id": "bfbfcca9-a17e-4d56-bc66-6522c433b4e6",
+      "name": "produccción de leche",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "producción láctea",
+      "id": "d4d2dfa4-9847-42e9-8935-78beaac726ef",
+      "name": "producción láctea",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Lácteos - Producción nacional de leche por mes y por año",
+  "type": "dataset",
+  "url": "https://datos.agroindustria.gob.ar/dataset/produccion-nacional-lactea-por-mes-y-por-anio",
+  "version": null
+}

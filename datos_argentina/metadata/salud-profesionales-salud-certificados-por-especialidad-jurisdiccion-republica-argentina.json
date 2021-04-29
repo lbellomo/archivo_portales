@@ -1,0 +1,140 @@
+{
+  "author": "Ministerio de Salud. Secretaría de Regulación y Gestión Sanitaria. Dirección Nacional de Calidad de Servicios de Salud y Regulación Sanitaria",
+  "author_email": "refeps.msal@gmail.com",
+  "creator_user_id": "4720e75a-9e17-4dc3-879d-041917c7f9f9",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P1Y"
+    },
+    {
+      "key": "issued",
+      "value": "2019-04-12T12:58:20.471880"
+    },
+    {
+      "key": "language",
+      "value": "[\"spa\"]"
+    },
+    {
+      "key": "modified",
+      "value": "2020-05-15T16:12:06.257106"
+    },
+    {
+      "key": "source",
+      "value": "Ministerio de Salud. Secretaría de Regulación y Gestión Sanitaria. Dirección Nacional de Calidad de Servicios de Salud y Regulación Sanitaria"
+    },
+    {
+      "key": "spatial",
+      "value": "[\"ARG\"]"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"HEAL\"]"
+    },
+    {
+      "key": "temporal",
+      "value": "2019-01-01T03:00:00.000Z/2019-03-31T03:00:00.000Z"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Salud",
+      "display_name": "Salud",
+      "id": "65cc1fbf-703a-43bf-8a14-232a55c34976",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225809.913196salud.svg",
+      "name": "heal",
+      "title": "Salud"
+    }
+  ],
+  "id": "salud_bd662b11-0633-4959-b26e-88579f6baad1",
+  "isopen": false,
+  "license_id": "notspecified",
+  "license_title": "No se especificó la licencia",
+  "maintainer": "Ministerio de Salud. Secretaría de Regulación y Gestión Sanitaria. Dirección Nacional de Calidad de Servicios de Salud y Regulación Sanitaria",
+  "maintainer_email": "refeps.msal@gmail.com",
+  "metadata_created": "2019-11-26T15:01:56.035426",
+  "metadata_modified": "2021-04-29T17:05:44.648137",
+  "name": "salud-profesionales-salud-certificados-por-especialidad-jurisdiccion-republica-argentina",
+  "notes": "Cantidad de profesionales de salud que se encuentran certificados como especialistas en cada una de las jurisdicciones de la República Argentina.",
+  "num_resources": 1,
+  "num_tags": 4,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-11-15T11:12:22.202856",
+    "description": "",
+    "id": "dd1f2018-587f-43af-9b07-fc32f5ab588b",
+    "image_url": "",
+    "is_organization": true,
+    "name": "salud",
+    "revision_id": "14f0bb85-f97d-4325-b1c8-a7c1d3a815bf",
+    "state": "active",
+    "title": "Ministerio de Salud",
+    "type": "organization"
+  },
+  "owner_org": "dd1f2018-587f-43af-9b07-fc32f5ab588b",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "http://datos.salud.gob.ar/dataset/bd662b11-0633-4959-b26e-88579f6baad1/resource/083f91ef-981d-47fc-8063-abb9b69abf35",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-04-12T10:01:00.874945",
+      "datastore_active": false,
+      "description": "Información consolidada de especialidades certificadas a nivel federal con corte al año 2016",
+      "fileName": "certificacion-especialistas-provincia-2016.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "salud_083f91ef-981d-47fc-8063-abb9b69abf35",
+      "last_modified": "2019-04-25T13:19:04.091752",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Profesionales de salud certificados por especialidad a nivel nacional con corte al año 2016",
+      "package_id": "salud_bd662b11-0633-4959-b26e-88579f6baad1",
+      "position": 0,
+      "resource_type": "file.upload",
+      "revision_id": "47df8f99-b952-442e-9b34-30d55c5b6a70",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.salud.gob.ar/dataset/bd662b11-0633-4959-b26e-88579f6baad1/resource/083f91ef-981d-47fc-8063-abb9b69abf35/download/certificacion-especialistas-provincia-2016.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "74dbed06-3e9d-40d9-a655-83131a7dcfa2",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "Profesionales de la Salud",
+      "id": "e6e24323-417c-416e-a5ac-20104afc3987",
+      "name": "Profesionales de la Salud",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "certificacion",
+      "id": "1940b8b6-5250-4e5e-be83-bcc75561b3ee",
+      "name": "certificacion",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "especializacion",
+      "id": "c82624b1-8890-4daf-acb0-07863c10a760",
+      "name": "especializacion",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "profesionales",
+      "id": "cecc0169-d678-4eb6-97ce-baca7048b0cd",
+      "name": "profesionales",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Profesionales de Salud certificados por Especialidad y Jurisdicción en la República Argentina",
+  "type": "dataset",
+  "url": "http://datos.salud.gob.ar/dataset/profesionales-certificados-por-especialidad-y-jurisdiccion-republica-argentina",
+  "version": null
+}

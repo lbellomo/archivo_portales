@@ -1,0 +1,177 @@
+{
+  "author": "Dirección Nacional de Sanidad Animal",
+  "author_email": "desycg@senasa.gob.ar",
+  "creator_user_id": "dc157489-51c6-44ce-bd63-3bd983d60778",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P1Y"
+    },
+    {
+      "key": "issued",
+      "value": "2019-09-12T17:44:22.567962"
+    },
+    {
+      "key": "language",
+      "value": "[\"spa\"]"
+    },
+    {
+      "key": "modified",
+      "value": "2019-10-24T10:35:02.544326"
+    },
+    {
+      "key": "source",
+      "value": "Servicio Nacional de Sanidad y Calidad Agroalimentaria - SENASA"
+    },
+    {
+      "key": "spatial",
+      "value": "[\"ARG\"]"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"AGRI\"]"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Agroganadería, pesca y forestación",
+      "display_name": "Agroganadería, pesca y forestación",
+      "id": "0c35ea38-7059-41d2-9827-5587769d0dc6",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225145.990789agroganaderia-pesca-forestacion.svg",
+      "name": "agri",
+      "title": "Agroganadería, pesca y forestación"
+    }
+  ],
+  "id": "agroindustria_10be262c-e6b2-484c-9bb7-ec74b3b5bbc7",
+  "isopen": true,
+  "license_id": "CC-BY-4.0",
+  "license_title": "Creative Commons Attribution 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "maintainer": "Dirección Nacional de Sanidad Animal",
+  "maintainer_email": "desycg@senasa.gob.ar",
+  "metadata_created": "2019-12-04T21:12:57.132274",
+  "metadata_modified": "2021-04-29T17:16:15.723070",
+  "name": "agroindustria-senasa---existencias-caprinas",
+  "notes": "Existencias caprinas por provincia y partido / departamento, clasificadas en categorías.",
+  "num_resources": 2,
+  "num_tags": 6,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:07.834957",
+    "description": "",
+    "id": "b10c94e2-ade1-4a97-8c4c-b1ada7878d60",
+    "image_url": "",
+    "is_organization": true,
+    "name": "agroindustria",
+    "revision_id": "f7c3b6e9-d48f-4522-9f7a-388d805c8392",
+    "state": "active",
+    "title": "Ministerio de Agricultura, Ganadería y Pesca",
+    "type": "organization"
+  },
+  "owner_org": "b10c94e2-ade1-4a97-8c4c-b1ada7878d60",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "http://datos.agroindustria.gob.ar/dataset/10be262c-e6b2-484c-9bb7-ec74b3b5bbc7/resource/5a4d55ff-464e-41bb-b3be-4aaad020bf35",
+      "attributesDescription": "[{\"type\": \"date\", \"description\": \"A\\u00f1o correspondiente al relevamiento.\", \"title\": \"anio\"}, {\"type\": \"string\", \"description\": \"Nombre de la provincia.\", \"title\": \"provincia\"}, {\"type\": \"integer\", \"description\": \"C\\u00f3digo de la provincia.\", \"title\": \"provincia_id\"}, {\"type\": \"string\", \"description\": \"Nombre del partido / departamento.\", \"title\": \"partido_departamento\"}, {\"type\": \"integer\", \"description\": \"C\\u00f3digo del partido / departamento.\", \"title\": \"departamento_id\"}, {\"type\": \"integer\", \"description\": \"Cantidad de chivos.\", \"title\": \"chivos\"}, {\"type\": \"integer\", \"description\": \"Cantidad de cabras.\", \"title\": \"cabras\"}, {\"type\": \"integer\", \"description\": \"Cantidad de cabritos.\", \"title\": \"cabritos\"}, {\"type\": \"integer\", \"description\": \"Cantidad de capones.\", \"title\": \"capones\"}, {\"type\": \"integer\", \"description\": \"Cantidad de cabrillas y chivitos.\", \"title\": \"cabrillas_chivitos\"}, {\"type\": \"integer\", \"description\": \"Cantidad total de caprinos.\", \"title\": \"total_caprinos\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-09-12T14:49:02.745780",
+      "datastore_active": false,
+      "description": "Existencias caprinas por provincia y partido / departamento, clasificadas por categorías. Totales anuales desde Marzo 2008 a la última actualización.",
+      "fileName": "existencias_caprinas.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "agroindustria_5a4d55ff-464e-41bb-b3be-4aaad020bf35",
+      "last_modified": "2019-09-17T16:54:18.803018",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Existencias caprinas",
+      "package_id": "agroindustria_10be262c-e6b2-484c-9bb7-ec74b3b5bbc7",
+      "position": 0,
+      "resource_type": "file.upload",
+      "revision_id": "f48f7e67-78f6-48ea-8ee2-15f6201b8dc7",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.agroindustria.gob.ar/dataset/10be262c-e6b2-484c-9bb7-ec74b3b5bbc7/resource/5a4d55ff-464e-41bb-b3be-4aaad020bf35/download/existencias_caprinas.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos.agroindustria.gob.ar/dataset/10be262c-e6b2-484c-9bb7-ec74b3b5bbc7/resource/937cbe48-eeb5-424f-9259-71ce28da2afe",
+      "attributesDescription": "[{\"specialType\": \"time_index\", \"specialTypeDetail\": \"R/P1Y\", \"type\": \"date\", \"title\": \"indice_tiempo\"}, {\"units\": \"Unidad\", \"id\": \"AGRO_0108\", \"type\": \"integer\", \"description\": \"Cantidad de chivos.\", \"title\": \"chivos\"}, {\"units\": \"Unidad\", \"id\": \"AGRO_0109\", \"type\": \"integer\", \"description\": \"Cantidad de cabras\", \"title\": \"cabras\"}, {\"units\": \"Unidad\", \"id\": \"AGRO_0110\", \"type\": \"integer\", \"description\": \"Cantidad de cabritos.\", \"title\": \"cabritos\"}, {\"units\": \"Unidad\", \"id\": \"AGRO_0111\", \"type\": \"integer\", \"description\": \"Cantidad de capones.\", \"title\": \"capones\"}, {\"units\": \"Unidad\", \"id\": \"AGRO_0112\", \"type\": \"integer\", \"description\": \"Cantidad de cabrillas y chivitos.\", \"title\": \"cabrillas_chivitos\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-09-12T14:54:20.423042",
+      "datastore_active": false,
+      "description": "Existencias caprinas clasificadas por categorías. Totales anuales desde 2008 a la última actualización.",
+      "fileName": "existencias_caprinas_anual.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "agroindustria_937cbe48-eeb5-424f-9259-71ce28da2afe",
+      "last_modified": "2019-09-20T09:52:34.091117",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Serie de tiempo",
+      "package_id": "agroindustria_10be262c-e6b2-484c-9bb7-ec74b3b5bbc7",
+      "position": 1,
+      "resource_type": "file.upload",
+      "revision_id": "f48f7e67-78f6-48ea-8ee2-15f6201b8dc7",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.agroindustria.gob.ar/dataset/10be262c-e6b2-484c-9bb7-ec74b3b5bbc7/resource/937cbe48-eeb5-424f-9259-71ce28da2afe/download/existencias_caprinas_anual.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "9126e2c8-1111-4ce3-ae4f-7b8e25977797",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "cabras",
+      "id": "c0c50cc4-f5ec-422c-9f46-8f7a11d3758b",
+      "name": "cabras",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "cabrillas",
+      "id": "4a12d09a-99fb-457c-8e2e-a3441306b751",
+      "name": "cabrillas",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "cabritos",
+      "id": "23ea3377-37e1-47a8-8ee2-f8853b67df7a",
+      "name": "cabritos",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "capones",
+      "id": "319e7022-ca8a-4f05-b116-caef6e4a0b7f",
+      "name": "capones",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "chivitos",
+      "id": "d78c9159-c331-4c97-b376-2c425ff3be7c",
+      "name": "chivitos",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "chivos",
+      "id": "0346b822-3d26-4ed9-94f6-f56c287c91bd",
+      "name": "chivos",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "SENASA - Existencias caprinas",
+  "type": "dataset",
+  "url": "https://datos.agroindustria.gob.ar/dataset/senasa-existencias-caprinas",
+  "version": null
+}

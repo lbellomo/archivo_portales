@@ -1,0 +1,162 @@
+{
+  "author": "Ministerio de Energía y Minería.Secretaría de Coordinación de Planeamiento Energético.Dirección Nacional de Información Energética.Tecnología de la Información.",
+  "author_email": "tienerg@energia.gob.ar",
+  "creator_user_id": "4720e75a-9e17-4dc3-879d-041917c7f9f9",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "eventual"
+    },
+    {
+      "key": "issued",
+      "value": "2016-11-07T13:33:34.985951"
+    },
+    {
+      "key": "modified",
+      "value": "2018-04-24T21:40:28.021017"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"ENER\"]"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Energía",
+      "display_name": "Energía",
+      "id": "a4d3f632-eb48-4163-9791-165989c16035",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225337.421630energia.svg",
+      "name": "ener",
+      "title": "Energía"
+    }
+  ],
+  "id": "energia_2d730da0-632f-4722-8e6f-4e4f5f40b9ab",
+  "isopen": false,
+  "license_id": "notspecified",
+  "license_title": "No se especificó la licencia",
+  "maintainer": "Ministerio de Energía y Minería.Secretaría de Coordinación de Planeamiento Energético.Dirección Nacional de Información Energética.Tecnología de la Información.",
+  "maintainer_email": "tienerg@minem.gob.ar",
+  "metadata_created": "2019-11-26T15:00:32.551777",
+  "metadata_modified": "2021-04-29T17:17:51.076558",
+  "name": "energia-energias-renovables---irradiancia-normal-directa",
+  "notes": " Irradiancia normal directa en KWh/m2 por Día.",
+  "num_resources": 2,
+  "num_tags": 6,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:09.221510",
+    "description": "",
+    "id": "cd1b32a2-2d3a-44ac-8c98-a425a7b62d42",
+    "image_url": "",
+    "is_organization": true,
+    "name": "energia",
+    "revision_id": "a184cf69-99ad-4f84-a254-020031d7fe63",
+    "state": "active",
+    "title": "Secretaría de Energía",
+    "type": "organization"
+  },
+  "owner_org": "cd1b32a2-2d3a-44ac-8c98-a425a7b62d42",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "http://datos.minem.gob.ar/dataset/2d730da0-632f-4722-8e6f-4e4f5f40b9ab/resource/addaadc8-9e34-462e-b555-aa8b8c23e708",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-05-04T20:29:57.674398",
+      "datastore_active": false,
+      "description": "",
+      "fileName": "irradiancia-normal-directa.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "energia_addaadc8-9e34-462e-b555-aa8b8c23e708",
+      "last_modified": "2017-05-04T20:29:57.534183",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Irradiancia normal directa",
+      "package_id": "energia_2d730da0-632f-4722-8e6f-4e4f5f40b9ab",
+      "position": 0,
+      "resource_type": null,
+      "revision_id": "e4717181-056f-4bdf-aacd-74496a3ea69c",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.minem.gob.ar/dataset/2d730da0-632f-4722-8e6f-4e4f5f40b9ab/resource/addaadc8-9e34-462e-b555-aa8b8c23e708/download/irradiancia-normal-directa.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos.minem.gob.ar/dataset/2d730da0-632f-4722-8e6f-4e4f5f40b9ab/resource/7380499d-647d-4ce1-976a-9e1d008f60f2",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-05-04T22:50:30.197068",
+      "datastore_active": false,
+      "description": "Archivos prj, shp, shx, dbf, xml. Sistema de Proyección EPSG:4326",
+      "fileName": "irradiancia-normal-directa.zip",
+      "format": "SHP",
+      "hash": "",
+      "id": "energia_7380499d-647d-4ce1-976a-9e1d008f60f2",
+      "last_modified": "2017-05-04T22:50:29.314748",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Irradiancia normal directa",
+      "package_id": "energia_2d730da0-632f-4722-8e6f-4e4f5f40b9ab",
+      "position": 1,
+      "resource_type": null,
+      "revision_id": "d2de7283-0288-4cd2-9474-2a2a4402c7b1",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.minem.gob.ar/dataset/2d730da0-632f-4722-8e6f-4e4f5f40b9ab/resource/7380499d-647d-4ce1-976a-9e1d008f60f2/download/irradiancia-normal-directa.zip",
+      "url_type": null
+    }
+  ],
+  "revision_id": "bfb594c4-b6aa-4132-bdae-1e345a4a6118",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "Energía solar",
+      "id": "b7c92258-4334-4911-bd87-67a3ac0b0721",
+      "name": "Energía solar",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Energías Renovables",
+      "id": "5ed67cf4-5bbe-49c1-869c-ede36d86486c",
+      "name": "Energías Renovables",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Energías renovables",
+      "id": "539396f8-99e0-457d-ad66-402c2f1164bc",
+      "name": "Energías renovables",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Información Geográfica",
+      "id": "d22bc8a4-252e-4fd8-89b2-3b9a08f6be42",
+      "name": "Información Geográfica",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Información geográfica",
+      "id": "24b3ee69-69cb-45de-a8b4-3566f4eab17c",
+      "name": "Información geográfica",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Irradiancia",
+      "id": "db5eab1b-a545-46b3-9aeb-3e144f5f0956",
+      "name": "Irradiancia",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Energías renovables - Irradiancia normal directa",
+  "type": "dataset",
+  "url": "http://datos.minem.gob.ar/dataset/irradiancia-normal-directa",
+  "version": null
+}

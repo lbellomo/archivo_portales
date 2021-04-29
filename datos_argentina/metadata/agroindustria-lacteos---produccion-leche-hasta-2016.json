@@ -1,0 +1,177 @@
+{
+  "author": "Dirección Nacional Láctea",
+  "author_email": "estadisticaslecheria@magyp.gob.ar",
+  "creator_user_id": "dc157489-51c6-44ce-bd63-3bd983d60778",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P1Y"
+    },
+    {
+      "key": "issued",
+      "value": "2018-12-07T21:26:01.655022"
+    },
+    {
+      "key": "language",
+      "value": "[\"spa\"]"
+    },
+    {
+      "key": "modified",
+      "value": "2019-10-24T10:39:33.172845"
+    },
+    {
+      "key": "spatial",
+      "value": "[\"ARG\"]"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"AGRI\"]"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Agroganadería, pesca y forestación",
+      "display_name": "Agroganadería, pesca y forestación",
+      "id": "0c35ea38-7059-41d2-9827-5587769d0dc6",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225145.990789agroganaderia-pesca-forestacion.svg",
+      "name": "agri",
+      "title": "Agroganadería, pesca y forestación"
+    }
+  ],
+  "id": "agroindustria_c237b284-63c2-4c10-8c06-29c5220c647c",
+  "isopen": true,
+  "license_id": "CC-BY-4.0",
+  "license_title": "Creative Commons Attribution 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "maintainer": "Dirección Nacional Láctea",
+  "maintainer_email": "estadisticaslecheria@magyp.gob.ar",
+  "metadata_created": "2019-12-04T20:00:26.381556",
+  "metadata_modified": "2021-04-29T17:10:49.396127",
+  "name": "agroindustria-lacteos---produccion-leche-hasta-2016",
+  "notes": "Producción de leche cruda a nivel nacional informada por la industria, Datos anuales de 1970 a 1982. Datos mensuales de Enero de 1983 a Abril 2016.",
+  "num_resources": 3,
+  "num_tags": 3,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:07.834957",
+    "description": "",
+    "id": "b10c94e2-ade1-4a97-8c4c-b1ada7878d60",
+    "image_url": "",
+    "is_organization": true,
+    "name": "agroindustria",
+    "revision_id": "f7c3b6e9-d48f-4522-9f7a-388d805c8392",
+    "state": "active",
+    "title": "Ministerio de Agricultura, Ganadería y Pesca",
+    "type": "organization"
+  },
+  "owner_org": "b10c94e2-ade1-4a97-8c4c-b1ada7878d60",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "http://datos.agroindustria.gob.ar/dataset/c237b284-63c2-4c10-8c06-29c5220c647c/resource/08673459-b652-45b2-b257-3d3184a31850",
+      "attributesDescription": "[{\"type\": \"integer\", \"description\": \"pais_id\", \"title\": \"pais_id\"}, {\"type\": \"string\", \"description\": \"pais\", \"title\": \"pais\"}, {\"type\": \"integer\", \"description\": \"a\\u0144o\", \"title\": \"a\\u0144o\"}, {\"type\": \"integer\", \"description\": \"ccp\", \"title\": \"ccp\"}, {\"type\": \"string\", \"description\": \"producto\", \"title\": \"producto\"}, {\"type\": \"string\", \"description\": \"uni_med_id\", \"title\": \"uni_med_id\"}, {\"type\": \"string\", \"description\": \"uni_med\", \"title\": \"uni_med\"}, {\"type\": \"number\", \"description\": \"cantidad_por_millon\", \"title\": \"cantidad_por_millon\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-08-01T14:05:12.884331",
+      "datastore_active": false,
+      "description": "Producción de leche cruda a nivel nacional informada por la industria. Datos anuales de 1970 a 1982.",
+      "fileName": "produccion-de-leche-a-nivel-nacional-1970-1982.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "agroindustria_08673459-b652-45b2-b257-3d3184a31850",
+      "last_modified": "2019-01-17T18:11:43.927912",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Producción de leche anual - 1970-1982",
+      "package_id": "agroindustria_c237b284-63c2-4c10-8c06-29c5220c647c",
+      "position": 0,
+      "resource_type": "file.upload",
+      "revision_id": "538d89cc-8215-4727-a9e1-866e95ec6488",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.agroindustria.gob.ar/dataset/c237b284-63c2-4c10-8c06-29c5220c647c/resource/08673459-b652-45b2-b257-3d3184a31850/download/produccion-de-leche-a-nivel-nacional-1970-1982.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos.agroindustria.gob.ar/dataset/c237b284-63c2-4c10-8c06-29c5220c647c/resource/a59b07da-244f-4798-8200-e0ba73aa6f9c",
+      "attributesDescription": "[{\"type\": \"integer\", \"description\": \"pais_id\", \"title\": \"pais_id\"}, {\"type\": \"string\", \"description\": \"pais\", \"title\": \"pais\"}, {\"type\": \"integer\", \"description\": \"a\\u0144o\", \"title\": \"a\\u0144o\"}, {\"type\": \"integer\", \"description\": \"mes\", \"title\": \"mes\"}, {\"type\": \"integer\", \"description\": \"ccp\", \"title\": \"ccp\"}, {\"type\": \"string\", \"description\": \"producto\", \"title\": \"producto\"}, {\"type\": \"string\", \"description\": \"uni_med_id\", \"title\": \"uni_med_id\"}, {\"type\": \"string\", \"description\": \"uni_med\", \"title\": \"uni_med\"}, {\"type\": \"number\", \"description\": \"cantidad_por_millon\", \"title\": \"cantidad_por_millon\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-08-01T14:06:12.400050",
+      "datastore_active": false,
+      "description": "Producción de leche cruda a nivel nacional informada por la industria, a partir de la Resolución 7/2014. Información disponible de manera mensual.",
+      "fileName": "produccion-de-leche-a-nivel-nacional-1983-2016--.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "agroindustria_a59b07da-244f-4798-8200-e0ba73aa6f9c",
+      "last_modified": "2019-01-15T12:18:34.965481",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Producción de Leche a Nivel Nacional - 1983-2016",
+      "package_id": "agroindustria_c237b284-63c2-4c10-8c06-29c5220c647c",
+      "position": 1,
+      "resource_type": "file.upload",
+      "revision_id": "538d89cc-8215-4727-a9e1-866e95ec6488",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.agroindustria.gob.ar/dataset/c237b284-63c2-4c10-8c06-29c5220c647c/resource/a59b07da-244f-4798-8200-e0ba73aa6f9c/download/produccion-de-leche-a-nivel-nacional-1983-2016.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos.agroindustria.gob.ar/dataset/c237b284-63c2-4c10-8c06-29c5220c647c/resource/c57a26a1-05e4-4bbe-839f-fbda7d0139e2",
+      "attributesDescription": "[{\"type\": \"date\", \"title\": \"indice_tiempo\"}, {\"units\": \"megalitro\", \"id\": \"AGRO_0205\", \"type\": \"number\", \"description\": \"Producci\\u00f3n de leche cruda \", \"title\": \"produccion_leche_cruda\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-05-17T11:11:05.330986",
+      "datastore_active": false,
+      "description": "Serie de Tiempo de producción de leche a nivel nacional desde el año 1970 al 2016",
+      "fileName": "serie-tiempo-produccion-de-leche-.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "agroindustria_c57a26a1-05e4-4bbe-839f-fbda7d0139e2",
+      "last_modified": "2019-05-17T11:11:05.330986",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Serie de Tiempo de producción de leche a nivel nacional desde el año 1970 al 2016",
+      "package_id": "agroindustria_c237b284-63c2-4c10-8c06-29c5220c647c",
+      "position": 2,
+      "resource_type": "file.upload",
+      "revision_id": "957c9074-a19f-4f05-90c9-c2aa7502c2a9",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.agroindustria.gob.ar/dataset/c237b284-63c2-4c10-8c06-29c5220c647c/resource/c57a26a1-05e4-4bbe-839f-fbda7d0139e2/download/serie-tiempo-produccion-de-leche-.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "43dc2144-9cc7-4774-9445-b3d6274fcc6a",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "lacteos",
+      "id": "9e6b26d8-1663-4102-b84b-8d3d36505c78",
+      "name": "lacteos",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "leche",
+      "id": "50198eec-058b-4999-a070-8cf268e8e576",
+      "name": "leche",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "producción leche",
+      "id": "f74a1fed-9707-4984-b326-75a0cb77077c",
+      "name": "producción leche",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Lácteos - Producción de leche hasta 2016",
+  "type": "dataset",
+  "url": "https://datos.agroindustria.gob.ar/dataset/produccion-leche-nivel-nacional",
+  "version": null
+}

@@ -1,0 +1,242 @@
+{
+  "author": "Dirección del Registro Nacional de Agricultura Familiar",
+  "author_email": "renaf@magyp.gob.ar",
+  "creator_user_id": "dc157489-51c6-44ce-bd63-3bd983d60778",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P1Y"
+    },
+    {
+      "key": "issued",
+      "value": "2018-12-10T14:56:45.173999"
+    },
+    {
+      "key": "language",
+      "value": "[\"spa\"]"
+    },
+    {
+      "key": "modified",
+      "value": "2019-10-24T10:32:58.007848"
+    },
+    {
+      "key": "spatial",
+      "value": "[\"ARG\"]"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"AGRI\", \"HEAL\", \"TRAN\"]"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Agroganadería, pesca y forestación",
+      "display_name": "Agroganadería, pesca y forestación",
+      "id": "0c35ea38-7059-41d2-9827-5587769d0dc6",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225145.990789agroganaderia-pesca-forestacion.svg",
+      "name": "agri",
+      "title": "Agroganadería, pesca y forestación"
+    },
+    {
+      "description": "Salud",
+      "display_name": "Salud",
+      "id": "65cc1fbf-703a-43bf-8a14-232a55c34976",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225809.913196salud.svg",
+      "name": "heal",
+      "title": "Salud"
+    },
+    {
+      "description": "Transporte",
+      "display_name": "Transporte",
+      "id": "57227cfc-80a6-45d3-9faa-711a98ac8ede",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225933.272993transporte.svg",
+      "name": "tran",
+      "title": "Transporte"
+    }
+  ],
+  "id": "agroindustria_f0954546-e012-4c45-98ed-f12a8b677c63",
+  "isopen": true,
+  "license_id": "CC-BY-4.0",
+  "license_title": "Creative Commons Attribution 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "maintainer": "Dirección del Registro Nacional de Agricultura Familiar",
+  "maintainer_email": "renaf@magyp.gob.ar",
+  "metadata_created": "2019-12-04T20:01:10.998299",
+  "metadata_modified": "2021-04-29T17:11:21.806637",
+  "name": "agroindustria-agricultura-familiar---tenencia-tierra-infraestructura-salud-naf",
+  "notes": "Datos en referencia a la tenencia de la tierra,  infraestructura y salud de los Núcleos de Agricultura Familiar (NAF), a partir de las declaraciones en el Registro Nacional de la Agricultura Familiar (RENAF). Esta información está discriminada por provincia, partido/departamento.",
+  "num_resources": 4,
+  "num_tags": 7,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:07.834957",
+    "description": "",
+    "id": "b10c94e2-ade1-4a97-8c4c-b1ada7878d60",
+    "image_url": "",
+    "is_organization": true,
+    "name": "agroindustria",
+    "revision_id": "f7c3b6e9-d48f-4522-9f7a-388d805c8392",
+    "state": "active",
+    "title": "Ministerio de Agricultura, Ganadería y Pesca",
+    "type": "organization"
+  },
+  "owner_org": "b10c94e2-ade1-4a97-8c4c-b1ada7878d60",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "http://datos.agroindustria.gob.ar/dataset/f0954546-e012-4c45-98ed-f12a8b677c63/resource/3b98dcf6-9a26-4ad4-93a5-849c432452b5",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2018-12-10T11:57:59.669068",
+      "datastore_active": false,
+      "description": "Se presentan los datos sobre la tenencia de la tierra de los Núcleos de Agricultura Familiar a partir del RENAF",
+      "fileName": "datos-tenencia-tierra-nafs.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "agroindustria_3b98dcf6-9a26-4ad4-93a5-849c432452b5",
+      "last_modified": "2019-10-01T10:19:23.213796",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Datos de Tenencia de la tierra de los Núcleos de Agricultura Familiar",
+      "package_id": "agroindustria_f0954546-e012-4c45-98ed-f12a8b677c63",
+      "position": 0,
+      "resource_type": "file.upload",
+      "revision_id": "5bfec365-c08d-4303-a2a2-6798b0cea4ba",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.agroindustria.gob.ar/dataset/f0954546-e012-4c45-98ed-f12a8b677c63/resource/3b98dcf6-9a26-4ad4-93a5-849c432452b5/download/datos-tenencia-tierra-nafs.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos.agroindustria.gob.ar/dataset/f0954546-e012-4c45-98ed-f12a8b677c63/resource/d8ba1205-53c6-4607-94bf-9b8655fdec9d",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2018-12-10T11:58:49.684439",
+      "datastore_active": false,
+      "description": "Se presentan datos acerca de la Infraestructura de los Núcleos de Agricultura Familiar a partir del RENAF. Se informa acceso a red eléctrica, caminos/rutas cercanas  y agua corriente.",
+      "fileName": "datos-de-infraestructura-de-las-nafs.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "agroindustria_d8ba1205-53c6-4607-94bf-9b8655fdec9d",
+      "last_modified": "2018-12-19T12:41:32.154585",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Datos de Infraestructura de los Núcleos de Agricultura Familiar",
+      "package_id": "agroindustria_f0954546-e012-4c45-98ed-f12a8b677c63",
+      "position": 1,
+      "resource_type": "file.upload",
+      "revision_id": "5bfec365-c08d-4303-a2a2-6798b0cea4ba",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.agroindustria.gob.ar/dataset/f0954546-e012-4c45-98ed-f12a8b677c63/resource/d8ba1205-53c6-4607-94bf-9b8655fdec9d/download/datos-infraestructura-nafs.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos.agroindustria.gob.ar/dataset/f0954546-e012-4c45-98ed-f12a8b677c63/resource/7183964d-f667-4494-b517-04e08e9174ae",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2018-12-10T11:59:27.922118",
+      "datastore_active": false,
+      "description": "Información sobre el acceso a la cobertura de salud de los Núcleos de Agricultura Familiar a partir del RENAF.",
+      "fileName": "datos-cobertura-salud-nafs.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "agroindustria_7183964d-f667-4494-b517-04e08e9174ae",
+      "last_modified": "2019-01-31T12:48:59.932924",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Datos de  la cobertura de salud de los Núcleos de  Agricultura Familiar",
+      "package_id": "agroindustria_f0954546-e012-4c45-98ed-f12a8b677c63",
+      "position": 2,
+      "resource_type": "file.upload",
+      "revision_id": "5bfec365-c08d-4303-a2a2-6798b0cea4ba",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.agroindustria.gob.ar/dataset/f0954546-e012-4c45-98ed-f12a8b677c63/resource/7183964d-f667-4494-b517-04e08e9174ae/download/datos-cobertura-salud-nafs.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos.agroindustria.gob.ar/dataset/f0954546-e012-4c45-98ed-f12a8b677c63/resource/34017d17-a1a0-47f8-8f6b-c54727fe56f5",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2018-12-10T12:00:14.639934",
+      "datastore_active": false,
+      "description": "Explicación de la metodología utilizada para recabar los datos antes presentados del Registro Nacional de la Agricultura Familiar (RENAF)",
+      "fileName": "metodologia.docx",
+      "format": "DOCX",
+      "hash": "",
+      "id": "agroindustria_34017d17-a1a0-47f8-8f6b-c54727fe56f5",
+      "last_modified": "2019-03-18T18:14:30.331137",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Metodología de relevamiento de Datos del RENAF",
+      "package_id": "agroindustria_f0954546-e012-4c45-98ed-f12a8b677c63",
+      "position": 3,
+      "resource_type": "file.upload",
+      "revision_id": "1520b2d8-e982-44b8-91a6-cdf39c4cae30",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.agroindustria.gob.ar/dataset/f0954546-e012-4c45-98ed-f12a8b677c63/resource/34017d17-a1a0-47f8-8f6b-c54727fe56f5/download/metodologia.docx",
+      "url_type": null
+    }
+  ],
+  "revision_id": "1520b2d8-e982-44b8-91a6-cdf39c4cae30",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "Agricultura Familiar",
+      "id": "07aeaa7c-0c55-4fcb-9c4f-1eb9564d33d0",
+      "name": "Agricultura Familiar",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Ganaderia Familiar",
+      "id": "5814e824-d55f-45cf-8534-fc1886591719",
+      "name": "Ganaderia Familiar",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "NAF",
+      "id": "f8ecdfd6-1b3d-4f62-9ef7-315887b0ea46",
+      "name": "NAF",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "RENAF",
+      "id": "8843478f-d7ec-4fd3-9747-dc0e8717a9ea",
+      "name": "RENAF",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Registro Nacional de Agricultura Familiar",
+      "id": "cb80d2d4-a9a1-4a00-a4dd-5e60c0e97f3f",
+      "name": "Registro Nacional de Agricultura Familiar",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "núcleo agricultura familiar",
+      "id": "9e6fb565-71bc-4640-a8c3-45448c202d18",
+      "name": "núcleo agricultura familiar",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "tenencia de la tierra",
+      "id": "c4abd03f-3ab5-47b3-add3-74e6c1dfe3b4",
+      "name": "tenencia de la tierra",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Agricultura Familiar - Tenencia tierra, infraestructura y salud (NAF)",
+  "type": "dataset",
+  "url": "https://datos.agroindustria.gob.ar/dataset/tenencia-de-la-tierra-infraestructura-y-salud-de-los-nucleos-de-agricultura-familiar-naf",
+  "version": null
+}

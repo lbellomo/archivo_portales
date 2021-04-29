@@ -1,0 +1,147 @@
+{
+  "author": "Secretaría de Emprendedores y PyMEs",
+  "author_email": "datos.abiertos@produccion.gob.ar",
+  "creator_user_id": "4720e75a-9e17-4dc3-879d-041917c7f9f9",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P1Y"
+    },
+    {
+      "key": "issued",
+      "value": "2018-10-05T19:18:03.000Z"
+    },
+    {
+      "key": "modified",
+      "value": "2020-02-26T22:43:18.000Z"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"econ\"]"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Economía y finanzas",
+      "display_name": "Economía y finanzas",
+      "id": "60b4b03e-10a1-4d67-b984-08008a249617",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225257.200233economia-finanzas.svg",
+      "name": "econ",
+      "title": "Economía y finanzas"
+    }
+  ],
+  "id": "produccion_ryo9_VS5X",
+  "isopen": true,
+  "license_id": "CC-BY-4.0",
+  "license_title": "Creative Commons Attribution 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "maintainer": null,
+  "maintainer_email": null,
+  "metadata_created": "2019-11-26T14:57:19.520604",
+  "metadata_modified": "2021-04-29T17:04:39.548634",
+  "name": "produccion-sociedades-garantia-reciproca-sgr",
+  "notes": "Se trata de entidades financieras que otorgan garantía a pequeñas y medianas empresas para que puedan acceder a crédito. Estas sociedades no prestan dinero sino que otorgan garantías y mejoran las opciones de crédito disponibles.",
+  "num_resources": 2,
+  "num_tags": 4,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:10.463340",
+    "description": "",
+    "id": "1ca8d15b-31fc-4f09-ba09-53edd3d4cce6",
+    "image_url": "",
+    "is_organization": true,
+    "name": "produccion",
+    "revision_id": "36d8ec89-d20f-4fe1-866c-e38988d28442",
+    "state": "active",
+    "title": "Ministerio de Desarrollo Productivo",
+    "type": "organization"
+  },
+  "owner_org": "1ca8d15b-31fc-4f09-ba09-53edd3d4cce6",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "http://datos.produccion.gob.ar/dataset/sociedades-de-garantia-reciproca-sgr",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2018-10-05T16:18:03",
+      "datastore_active": false,
+      "description": "Datos sobre las Sociedades de Garantía Recíproca (SGR) habilitadas por la Secretaría de Emprendedores y PyMEs que ofrecen asesoramiento técnico, económico y financiero. Se indica nombre de la Sociedad, web, datos de contacto y localización.",
+      "format": "CSV",
+      "hash": "",
+      "id": "produccion_HJJJ54BqX",
+      "last_modified": "2019-02-05T16:28:01",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Sociedades de Garantía Recíproca habilitadas",
+      "package_id": "produccion_ryo9_VS5X",
+      "position": 0,
+      "resource_type": null,
+      "revision_id": "eecff862-4939-4235-b58b-cd97601361ba",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.produccion.gob.ar/api/files/sociedades-de-garantia-reciproca-habilitadas.csv/download",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos.produccion.gob.ar/dataset/sociedades-de-garantia-reciproca-sgr",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2018-10-05T16:18:03",
+      "datastore_active": false,
+      "description": "GUIA.",
+      "format": "PDF",
+      "hash": "",
+      "id": "produccion_r1hWKErcQ",
+      "last_modified": "2019-02-05T16:28:01",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Guia de datos SGR",
+      "package_id": "produccion_ryo9_VS5X",
+      "position": 1,
+      "resource_type": null,
+      "revision_id": "2ab5f3f1-e3a9-43e7-958d-560ca2f35c93",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.produccion.gob.ar/api/files/guia-de-datos-sgr.pdf/download",
+      "url_type": null
+    }
+  ],
+  "revision_id": "df384000-2514-4f8a-a119-9d6a1cda3319",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "PyMEs",
+      "id": "5e48e296-35ca-43d6-8f07-7a3010aeb059",
+      "name": "PyMEs",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Pymes",
+      "id": "97635f98-f203-4647-ae25-9a02f74c1d28",
+      "name": "Pymes",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "SGR",
+      "id": "e8fd6b55-e15d-4a7b-a394-dbe18ec36575",
+      "name": "SGR",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Sociedades de Garantías Recíprocas",
+      "id": "3fdb29a6-755c-46a8-b893-93b01673768c",
+      "name": "Sociedades de Garantías Recíprocas",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Sociedades de Garantía Recíproca (SGR)",
+  "type": "dataset",
+  "url": "http://datos.produccion.gob.ar/dataset/sociedades-de-garantia-reciproca-sgr",
+  "version": null
+}

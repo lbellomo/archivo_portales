@@ -1,0 +1,138 @@
+{
+  "author": "Servicio Nacional de Sanidad y Calidad Agroalimentaria",
+  "author_email": "desycg@senasa.gob.ar",
+  "creator_user_id": "dc157489-51c6-44ce-bd63-3bd983d60778",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P1M"
+    },
+    {
+      "key": "issued",
+      "value": "2019-09-23T15:06:09.802517"
+    },
+    {
+      "key": "language",
+      "value": "[\"spa\"]"
+    },
+    {
+      "key": "modified",
+      "value": "2019-12-05T12:43:19.365760"
+    },
+    {
+      "key": "source",
+      "value": "Servicio Nacional de Sanidad y Calidad Agroalimentaria - SENASA"
+    },
+    {
+      "key": "spatial",
+      "value": "[\"ARG\"]"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"AGRI\"]"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Agroganadería, pesca y forestación",
+      "display_name": "Agroganadería, pesca y forestación",
+      "id": "0c35ea38-7059-41d2-9827-5587769d0dc6",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225145.990789agroganaderia-pesca-forestacion.svg",
+      "name": "agri",
+      "title": "Agroganadería, pesca y forestación"
+    }
+  ],
+  "id": "agroindustria_e510eb87-4853-4c10-8197-b96d2038cd27",
+  "isopen": true,
+  "license_id": "CC-BY-4.0",
+  "license_title": "Creative Commons Attribution 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "maintainer": "Dirección Nacional de Sanidad Animal",
+  "maintainer_email": "desycg@senasa.gob.ar",
+  "metadata_created": "2019-12-12T19:44:02.911741",
+  "metadata_modified": "2021-04-29T17:10:31.532186",
+  "name": "agroindustria-senasa---movimientos-apicolas",
+  "notes": "Datos mensuales de los movimientos de la especie apícola detallando provincia y departamento de origen y destino.",
+  "num_resources": 1,
+  "num_tags": 4,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:07.834957",
+    "description": "",
+    "id": "b10c94e2-ade1-4a97-8c4c-b1ada7878d60",
+    "image_url": "",
+    "is_organization": true,
+    "name": "agroindustria",
+    "revision_id": "f7c3b6e9-d48f-4522-9f7a-388d805c8392",
+    "state": "active",
+    "title": "Ministerio de Agricultura, Ganadería y Pesca",
+    "type": "organization"
+  },
+  "owner_org": "b10c94e2-ade1-4a97-8c4c-b1ada7878d60",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "http://datos.agroindustria.gob.ar/dataset/e510eb87-4853-4c10-8197-b96d2038cd27/resource/5d0f412c-f9dc-4586-99c1-2f73862890fe",
+      "attributesDescription": "[{\"type\": \"date\", \"title\": \"fecha\"}, {\"type\": \"string\", \"description\": \"Lugar de salida. Inicio del movimiento.\", \"title\": \"salido_de\"}, {\"type\": \"string\", \"description\": \"Lugar de ingreso. Final del movimiento.\", \"title\": \"ingresado_a\"}, {\"type\": \"string\", \"description\": \"Nombre de la provincia de inicio del movimiento.\", \"title\": \"provincia_origen\"}, {\"type\": \"string\", \"description\": \"C\\u00f3digo de la provincia.\", \"title\": \"provincia_origen\"}, {\"type\": \"string\", \"description\": \"Nombre del departamento de inicio del movimiento.\", \"title\": \"departamento_origen\"}, {\"type\": \"string\", \"description\": \"C\\u00f3digo del departamento.\", \"title\": \"departamento_origen_id\"}, {\"type\": \"string\", \"description\": \"Nombre de la provincia de final del movimiento.\", \"title\": \"provincia_destino\"}, {\"type\": \"string\", \"description\": \"C\\u00f3digo de la provincia.\", \"title\": \"provincia_destino_id\"}, {\"type\": \"string\", \"description\": \"Nombre del departamento de final del movimiento.\", \"title\": \"departamento_destino\"}, {\"type\": \"string\", \"description\": \"C\\u00f3digo del departamento.\", \"title\": \"departamento_destino_id\"}, {\"type\": \"integer\", \"description\": \"Cantidad de colmenas.\", \"title\": \"colmenas\"}, {\"type\": \"integer\", \"description\": \"Cantidad de n\\u00facleos.\", \"title\": \"nucleos\"}, {\"type\": \"integer\", \"description\": \"Cantidad de paquetes ap\\u00edcolas.\", \"title\": \"paquetes\"}, {\"type\": \"integer\", \"description\": \"Cantidad de abejas reinas.\", \"title\": \"reinas\"}, {\"type\": \"integer\", \"description\": \"Cantidad de envios.\", \"title\": \"envio_abeja_reina_ob_acomp\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-09-27T16:18:15.534786",
+      "datastore_active": false,
+      "description": "Datos de los movimientos apícolas por categoría y mes para el periodo 2013 a 2018.",
+      "fileName": "movimiento-apicola-2013-2018.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "agroindustria_5d0f412c-f9dc-4586-99c1-2f73862890fe",
+      "last_modified": "2019-12-05T12:37:09.388059",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Movimientos apícolas 2013 a 2018",
+      "package_id": "agroindustria_e510eb87-4853-4c10-8197-b96d2038cd27",
+      "position": 0,
+      "resource_type": "file.upload",
+      "revision_id": "2404feeb-c3b2-4260-8fa0-b3278a581bf0",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.agroindustria.gob.ar/dataset/e510eb87-4853-4c10-8197-b96d2038cd27/resource/5d0f412c-f9dc-4586-99c1-2f73862890fe/download/movimiento-apicola-2013-2018.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "d8a48479-5466-4444-b7a9-d9efced20c16",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "abejas",
+      "id": "54dc7e11-3445-4353-8cba-5e3f1624db81",
+      "name": "abejas",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "apicola",
+      "id": "823cd696-fa88-451a-9a77-2b1f0ef314de",
+      "name": "apicola",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "apicultura",
+      "id": "6aa43261-13ed-4c03-b807-aae0db79ccb4",
+      "name": "apicultura",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "movimiento ganadero",
+      "id": "5d3fb22d-977e-4fc3-ac41-277f36a967a1",
+      "name": "movimiento ganadero",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "SENASA - Movimientos apícolas",
+  "type": "dataset",
+  "url": "https://datos.agroindustria.gob.ar/dataset/senasa-movimientos-apicolas",
+  "version": null
+}

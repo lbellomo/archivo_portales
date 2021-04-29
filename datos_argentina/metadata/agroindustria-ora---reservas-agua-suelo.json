@@ -1,0 +1,278 @@
+{
+  "author": "Oficina de Riesgo Agropecuario - Secretaria de Agricultura, Ganadería y Pesca",
+  "author_email": "sagyp@magyp.gob.ar",
+  "creator_user_id": "dc157489-51c6-44ce-bd63-3bd983d60778",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P1W"
+    },
+    {
+      "key": "issued",
+      "value": "2018-12-07T21:21:56.545549"
+    },
+    {
+      "key": "language",
+      "value": "[\"spa\"]"
+    },
+    {
+      "key": "modified",
+      "value": "2019-07-04T15:18:36.676384"
+    },
+    {
+      "key": "spatial",
+      "value": "[\"ARG\"]"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"AGRI\", \"ENVI\"]"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Agroganadería, pesca y forestación",
+      "display_name": "Agroganadería, pesca y forestación",
+      "id": "0c35ea38-7059-41d2-9827-5587769d0dc6",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225145.990789agroganaderia-pesca-forestacion.svg",
+      "name": "agri",
+      "title": "Agroganadería, pesca y forestación"
+    },
+    {
+      "description": "Medio ambiente",
+      "display_name": "Medio ambiente",
+      "id": "f71fe9d7-c703-43be-8d9d-af9441c326ba",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225440.964279medio-ambiente.svg",
+      "name": "envi",
+      "title": "Medio ambiente"
+    }
+  ],
+  "id": "agroindustria_f1c6b651-d9e2-486e-8247-27e792542bfd",
+  "isopen": true,
+  "license_id": "ODbL-1.0",
+  "license_title": "Open Data Commons Open Database License 1.0 (ODbL)",
+  "license_url": "https://opendefinition.org/licenses/odc-odbl",
+  "maintainer": "Oficina de Riesgo Agropecuario",
+  "maintainer_email": "sagyp@magyp.gob.ar",
+  "metadata_created": "2019-12-04T20:01:07.771610",
+  "metadata_modified": "2021-04-29T17:11:01.517720",
+  "name": "agroindustria-ora---reservas-agua-suelo",
+  "notes": "Acceso a la descarga de los archivos históricos de monitoreo, llevados a cabo por la Oficina de Riesgo Agropecuario, en formatos compatibles con Sistemas de Información Geográfica.",
+  "num_resources": 4,
+  "num_tags": 13,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:07.834957",
+    "description": "",
+    "id": "b10c94e2-ade1-4a97-8c4c-b1ada7878d60",
+    "image_url": "",
+    "is_organization": true,
+    "name": "agroindustria",
+    "revision_id": "f7c3b6e9-d48f-4522-9f7a-388d805c8392",
+    "state": "active",
+    "title": "Ministerio de Agricultura, Ganadería y Pesca",
+    "type": "organization"
+  },
+  "owner_org": "b10c94e2-ade1-4a97-8c4c-b1ada7878d60",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "http://datos.agroindustria.gob.ar/dataset/f1c6b651-d9e2-486e-8247-27e792542bfd/archivo/6d285c8b-f586-4a63-a5ff-f3a2565c960c",
+      "attributesDescription": "[{\"type\": \"integer\", \"description\": \"id_pais\", \"title\": \"id_pais\"}, {\"type\": \"string\", \"description\": \"nom_pais\", \"title\": \"nom_pais\"}, {\"type\": \"string\", \"description\": \"formato\", \"title\": \"formato\"}, {\"type\": \"string\", \"description\": \"fecha\", \"title\": \"fecha\"}, {\"type\": \"string\", \"description\": \"direccion_web\", \"title\": \"direccion_web\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2018-08-01T16:52:50.814105",
+      "datastore_active": false,
+      "description": "Reservas de agua disponible en suelo por cultivo, de actualización semanal.\r\nSe encuentran en formato vectorial (archivos SHAPE). Abra los vínculos en una ventana nueva de su navegador.",
+      "fileName": "reservasdeaguashp-.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "agroindustria_6d285c8b-f586-4a63-a5ff-f3a2565c960c",
+      "last_modified": "2019-03-18T17:52:33.450283",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Reservas de Agua Disponible en Suelo ( Formato SHAPE)",
+      "package_id": "agroindustria_f1c6b651-d9e2-486e-8247-27e792542bfd",
+      "position": 0,
+      "resource_type": "file.upload",
+      "revision_id": "5ae78777-98b3-463b-9035-0d397a26f617",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.agroindustria.gob.ar/dataset/f1c6b651-d9e2-486e-8247-27e792542bfd/resource/6d285c8b-f586-4a63-a5ff-f3a2565c960c/download/reservasdeaguashp-.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos2.agroindustria.gob.ar/dataset/f1c6b651-d9e2-486e-8247-27e792542bfd/archivo/8289bff8-0170-4ab5-827d-6c71564704e1",
+      "attributesDescription": "[{\"type\": \"integer\", \"description\": \"id_pais\", \"title\": \"id_pais\"}, {\"type\": \"string\", \"description\": \"nom_pais\", \"title\": \"nom_pais\"}, {\"type\": \"string\", \"description\": \"formato\", \"title\": \"formato\"}, {\"type\": \"string\", \"description\": \"fecha\", \"title\": \"fecha\"}, {\"type\": \"string\", \"description\": \"direccion_web\", \"title\": \"direccion_web\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2018-08-01T16:53:20.639052",
+      "datastore_active": false,
+      "description": "Reservas de agua disponible en suelo, por cultivo, de actualización semanal.\r\nSe encuentran en formato de imágenes (formato JPG).\r\nAbra los vínculos en una ventana nueva de su navegador.",
+      "fileName": "reservasdeaguajpg-.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "agroindustria_8289bff8-0170-4ab5-827d-6c71564704e1",
+      "last_modified": "2019-01-29T13:41:45.517633",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Reservas de Agua Disponibles en Suelo (Formato JPG)",
+      "package_id": "agroindustria_f1c6b651-d9e2-486e-8247-27e792542bfd",
+      "position": 1,
+      "resource_type": "file.upload",
+      "revision_id": "33b9676b-440c-4ba0-9729-94ead27f0969",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.agroindustria.gob.ar/dataset/f1c6b651-d9e2-486e-8247-27e792542bfd/resource/8289bff8-0170-4ab5-827d-6c71564704e1/download/reservasdeaguajpg-.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos2.agroindustria.gob.ar/dataset/f1c6b651-d9e2-486e-8247-27e792542bfd/archivo/c58a4a97-2423-4167-8b8b-5754f31aad43",
+      "attributesDescription": "[{\"type\": \"integer\", \"description\": \"id_pais\", \"title\": \"id_pais\"}, {\"type\": \"string\", \"description\": \"nom_pais\", \"title\": \"nom_pais\"}, {\"type\": \"string\", \"description\": \"formato\", \"title\": \"formato\"}, {\"type\": \"string\", \"description\": \"fecha\", \"title\": \"fecha\"}, {\"type\": \"string\", \"description\": \"direccion_web\", \"title\": \"direccion_web\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2018-08-01T16:54:15.854150",
+      "datastore_active": false,
+      "description": "Indice satelital TVDI, archivos con imágenes en formato TIFF .\r\nActualizados quincenalmente durante el período Octubre - Abril.\r\nAbra los vínculos en una ventana nueva de su navegador.",
+      "fileName": "reservasdeaguatiff-.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "agroindustria_c58a4a97-2423-4167-8b8b-5754f31aad43",
+      "last_modified": "2019-01-29T13:43:47.975463",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Indice Satelital TVDI",
+      "package_id": "agroindustria_f1c6b651-d9e2-486e-8247-27e792542bfd",
+      "position": 2,
+      "resource_type": "file.upload",
+      "revision_id": "490ef2fd-6c24-48f0-ba77-7dd4344fa8c8",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.agroindustria.gob.ar/dataset/f1c6b651-d9e2-486e-8247-27e792542bfd/resource/c58a4a97-2423-4167-8b8b-5754f31aad43/download/reservasdeaguatiff-.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos.agroindustria.gob.ar/dataset/f1c6b651-d9e2-486e-8247-27e792542bfd/resource/083f06fe-c319-4d10-a78b-3bb3b5e6f0ea",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2018-08-22T14:12:22.995217",
+      "datastore_active": false,
+      "description": "Vaya a \"descargar\" y elija las opciones de su interés.",
+      "format": "URL",
+      "hash": "",
+      "id": "agroindustria_083f06fe-c319-4d10-a78b-3bb3b5e6f0ea",
+      "last_modified": "2019-07-12T14:19:26.308124",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Para una visualización avanzada:",
+      "package_id": "agroindustria_f1c6b651-d9e2-486e-8247-27e792542bfd",
+      "position": 3,
+      "resource_type": "file",
+      "revision_id": "f49a0050-d0fd-43bd-ada3-981635a011e2",
+      "size": null,
+      "state": "active",
+      "url": "http://www.ora.gob.ar/descargas.php",
+      "url_type": null
+    }
+  ],
+  "revision_id": "f49a0050-d0fd-43bd-ada3-981635a011e2",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "ORA",
+      "id": "e70785df-fccd-4e63-9e37-986059cfb439",
+      "name": "ORA",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "agua",
+      "id": "977dcf0d-d1db-4801-81d2-4b12e3debfdd",
+      "name": "agua",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "clima",
+      "id": "02339b46-ff41-4c64-87ca-4774bbd1d5e5",
+      "name": "clima",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "climatico",
+      "id": "c5e88175-7aaa-43e0-be77-91c2fafac956",
+      "name": "climatico",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "cultivos",
+      "id": "92e96f2e-7736-4e4d-8b89-9cf2c1c29831",
+      "name": "cultivos",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "disponible",
+      "id": "f90f9eb5-7f5d-447c-8bf9-b63c2f9ffad1",
+      "name": "disponible",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "jpg",
+      "id": "e478e8d9-c14c-47de-abd4-abc533354cf3",
+      "name": "jpg",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "reservas",
+      "id": "ce033568-1639-4bf6-b3c1-57bf3db62708",
+      "name": "reservas",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "satelital",
+      "id": "643eac3d-92ca-4abf-b0ff-b85a8305ec46",
+      "name": "satelital",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "shape",
+      "id": "84b815a2-fe7b-4819-92d1-26bd387a6a37",
+      "name": "shape",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "suelo",
+      "id": "f47d8b70-1603-4e9a-afaa-83007f0d2227",
+      "name": "suelo",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "tiff",
+      "id": "ae8e6d89-0c2c-4d03-8beb-a672dca5612a",
+      "name": "tiff",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "vectorial",
+      "id": "c2ddbf04-5e6c-48e8-bac3-6ff8a5115d42",
+      "name": "vectorial",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "ORA - Reservas de agua en suelo",
+  "type": "dataset",
+  "url": "https://datos.agroindustria.gob.ar/dataset/ora---reservas-agua-suelo",
+  "version": null
+}

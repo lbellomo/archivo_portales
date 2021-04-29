@@ -1,0 +1,348 @@
+{
+  "author": "Dirección de Registro Nacional de la Agricultura Familiar",
+  "author_email": "renaf@magyp.gob.ar",
+  "creator_user_id": "dc157489-51c6-44ce-bd63-3bd983d60778",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P1Y"
+    },
+    {
+      "key": "issued",
+      "value": "2018-12-10T13:47:15.176899"
+    },
+    {
+      "key": "language",
+      "value": "[\"spa\"]"
+    },
+    {
+      "key": "modified",
+      "value": "2019-10-24T10:31:18.716336"
+    },
+    {
+      "key": "spatial",
+      "value": "[\"ARG\"]"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"AGRI\", \"ECON\", \"ENVI\", \"REGI\", \"SOCI\"]"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Agroganadería, pesca y forestación",
+      "display_name": "Agroganadería, pesca y forestación",
+      "id": "0c35ea38-7059-41d2-9827-5587769d0dc6",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225145.990789agroganaderia-pesca-forestacion.svg",
+      "name": "agri",
+      "title": "Agroganadería, pesca y forestación"
+    },
+    {
+      "description": "Economía y finanzas",
+      "display_name": "Economía y finanzas",
+      "id": "60b4b03e-10a1-4d67-b984-08008a249617",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225257.200233economia-finanzas.svg",
+      "name": "econ",
+      "title": "Economía y finanzas"
+    },
+    {
+      "description": "Medio ambiente",
+      "display_name": "Medio ambiente",
+      "id": "f71fe9d7-c703-43be-8d9d-af9441c326ba",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225440.964279medio-ambiente.svg",
+      "name": "envi",
+      "title": "Medio ambiente"
+    },
+    {
+      "description": "Población y sociedad",
+      "display_name": "Población y sociedad",
+      "id": "eb5df7fa-064a-4b51-89f6-af323ee1bf85",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225728.341804poblacion-sociedad.svg",
+      "name": "soci",
+      "title": "Población y sociedad"
+    },
+    {
+      "description": "Regiones y ciudades",
+      "display_name": "Regiones y ciudades",
+      "id": "c506f0a0-fc8a-4278-b007-eb7f76875914",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225752.196815regiones-ciudades.svg",
+      "name": "regi",
+      "title": "Regiones y ciudades"
+    }
+  ],
+  "id": "agroindustria_26d3685e-4297-4a52-9d35-b0704edc928d",
+  "isopen": true,
+  "license_id": "CC-BY-4.0",
+  "license_title": "Creative Commons Attribution 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "maintainer": "Dirección de Registro Nacional de la Agricultura Familiar",
+  "maintainer_email": "renaf@magyp.gob.ar",
+  "metadata_created": "2019-12-04T20:00:55.467616",
+  "metadata_modified": "2021-04-29T17:10:48.360465",
+  "name": "agroindustria-agricultura-familiar---producciones-nucleos-naf",
+  "notes": "Se presentan datos de los Núcleos de Agricultura Familiar (NAF) según las actividades principales (agricultura, ganadería, agroindustria y artesanías). Los mismos están desagregados por Provincia, Partido/Departamento y provienen de las declaraciones del Registro Nacional de la Agricultura Familiar (RENAF).",
+  "num_resources": 6,
+  "num_tags": 13,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:07.834957",
+    "description": "",
+    "id": "b10c94e2-ade1-4a97-8c4c-b1ada7878d60",
+    "image_url": "",
+    "is_organization": true,
+    "name": "agroindustria",
+    "revision_id": "f7c3b6e9-d48f-4522-9f7a-388d805c8392",
+    "state": "active",
+    "title": "Ministerio de Agricultura, Ganadería y Pesca",
+    "type": "organization"
+  },
+  "owner_org": "b10c94e2-ade1-4a97-8c4c-b1ada7878d60",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "http://datos.agroindustria.gob.ar/dataset/26d3685e-4297-4a52-9d35-b0704edc928d/resource/c95c30d7-1ea4-4ea3-bbf2-f4f3fbd978be",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2018-12-10T11:01:45.776640",
+      "datastore_active": false,
+      "description": "Se presenta el detalle de los trabajadores no familiares, tipo de jornadas y producciones de los Núcleos de Agricultura Familiar (NAF) a partir de lo declarado en el RENAF.",
+      "fileName": "actividades-del-nucleo-de-agricultura-familiar-por-grupos-de-produccion.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "agroindustria_c95c30d7-1ea4-4ea3-bbf2-f4f3fbd978be",
+      "last_modified": "2019-11-21T13:56:47.831108",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Datos de Trabajadores no Familiares, Jornadas y tipo de producciones de los Núcleos de Agricultura Familiar (NAF)",
+      "package_id": "agroindustria_26d3685e-4297-4a52-9d35-b0704edc928d",
+      "position": 0,
+      "resource_type": "file.upload",
+      "revision_id": "c8ff6487-ef4c-4448-ba78-3bbad7cf6958",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.agroindustria.gob.ar/dataset/26d3685e-4297-4a52-9d35-b0704edc928d/resource/c95c30d7-1ea4-4ea3-bbf2-f4f3fbd978be/download/actividades-del-nucleo-de-agricultura-familiar-por-grupos-de-produccion.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos.agroindustria.gob.ar/dataset/26d3685e-4297-4a52-9d35-b0704edc928d/resource/395c08a9-ceb4-4708-9c8b-1df0cad00d06",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2018-12-10T11:04:23.533376",
+      "datastore_active": false,
+      "description": "Se presenta el detalle de las especies de producción animal de los Núcleos de Agricultura Familiar (NAF). Se informa por cantidad de cabezas y vientres a partir de lo declarado en el RENAF.",
+      "fileName": "producciones-de-los-nucleos-de-agricultura-familiar-por-tipo-de-animales.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "agroindustria_395c08a9-ceb4-4708-9c8b-1df0cad00d06",
+      "last_modified": "2018-12-19T14:10:54.062701",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Datos de Producción Animal de los Núcleos de Agricultura Familiar (NAF)",
+      "package_id": "agroindustria_26d3685e-4297-4a52-9d35-b0704edc928d",
+      "position": 1,
+      "resource_type": "file.upload",
+      "revision_id": "c8ff6487-ef4c-4448-ba78-3bbad7cf6958",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.agroindustria.gob.ar/dataset/26d3685e-4297-4a52-9d35-b0704edc928d/resource/395c08a9-ceb4-4708-9c8b-1df0cad00d06/download/producciones-de-los-nucleos-de-agricultura-familiar-por-tipo-de-animales.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos.agroindustria.gob.ar/dataset/26d3685e-4297-4a52-9d35-b0704edc928d/resource/facd2e35-637e-4429-b46a-b1a59f3a19e4",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2018-12-10T11:05:44.088592",
+      "datastore_active": false,
+      "description": "Se presenta el detalle de las especies de producción vegetal de los Núcleos de Agricultura Familiar (NAF). Se informa por superficie sembrada/plantada a partir de lo declarado en el RENAF.",
+      "fileName": "datos-de-produccion-vegetal-de-los-naf.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "agroindustria_facd2e35-637e-4429-b46a-b1a59f3a19e4",
+      "last_modified": "2019-11-21T13:49:04.687867",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Datos de Producción Vegetal de los Núcleos de Agricultura Familiar (NAF)",
+      "package_id": "agroindustria_26d3685e-4297-4a52-9d35-b0704edc928d",
+      "position": 2,
+      "resource_type": "file.upload",
+      "revision_id": "c8ff6487-ef4c-4448-ba78-3bbad7cf6958",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.agroindustria.gob.ar/dataset/26d3685e-4297-4a52-9d35-b0704edc928d/resource/facd2e35-637e-4429-b46a-b1a59f3a19e4/download/datos-de-produccion-vegetal-de-los-naf.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos.agroindustria.gob.ar/dataset/26d3685e-4297-4a52-9d35-b0704edc928d/resource/7b406999-5aa3-4d0f-b253-ba96cd569fe5",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2018-12-10T11:07:10.530367",
+      "datastore_active": false,
+      "description": "Se presenta el detalle de las producciones agroindustriales de los Núcleos de Agricultura Familiar (NAF). Se informa la cantidad de producciones y si también produce la materia prima. Datos RENAF.",
+      "fileName": "produccion-por-tipo-de-agroindustria.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "agroindustria_7b406999-5aa3-4d0f-b253-ba96cd569fe5",
+      "last_modified": "2018-12-19T15:13:18.529580",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Datos de Producción Agroindustrial de los Núcleos de  Agricultura Familiar (NAF)",
+      "package_id": "agroindustria_26d3685e-4297-4a52-9d35-b0704edc928d",
+      "position": 3,
+      "resource_type": "file.upload",
+      "revision_id": "c8ff6487-ef4c-4448-ba78-3bbad7cf6958",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.agroindustria.gob.ar/dataset/26d3685e-4297-4a52-9d35-b0704edc928d/resource/7b406999-5aa3-4d0f-b253-ba96cd569fe5/download/produccion-por-tipo-de-agroindustria.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos.agroindustria.gob.ar/dataset/26d3685e-4297-4a52-9d35-b0704edc928d/resource/ce90b40f-b452-4097-a35f-1933d7a87184",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2018-12-10T11:08:56.949762",
+      "datastore_active": false,
+      "description": "Se presenta el detalle de la producción de artesanías de los Núcleos de Agricultura Familiar (NAF). Se informa el tipo de material utilizado a partir de lo declarado en el RENAF.",
+      "fileName": "produccion-de-artesanias-segun-el-producto.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "agroindustria_ce90b40f-b452-4097-a35f-1933d7a87184",
+      "last_modified": "2018-12-19T14:07:00.823451",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Datos de Producción de Artesanías de los Núcleos de Agricultura Familiar (NAF)",
+      "package_id": "agroindustria_26d3685e-4297-4a52-9d35-b0704edc928d",
+      "position": 4,
+      "resource_type": "file.upload",
+      "revision_id": "5334086d-64a5-4a10-ba64-ce5d3fc0b9b2",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.agroindustria.gob.ar/dataset/26d3685e-4297-4a52-9d35-b0704edc928d/resource/ce90b40f-b452-4097-a35f-1933d7a87184/download/produccion-artesanias-segun-producto.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos.agroindustria.gob.ar/dataset/26d3685e-4297-4a52-9d35-b0704edc928d/resource/0030d479-ad66-45d5-b385-4d0da719656c",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2018-12-10T11:09:44.910836",
+      "datastore_active": false,
+      "description": "Explicación de la metodología utilizada para recabar los datos antes presentados del Registro Nacional de la Agricultura Familiar (RENAF)",
+      "fileName": "metodologia.docx",
+      "format": "DOCX",
+      "hash": "",
+      "id": "agroindustria_0030d479-ad66-45d5-b385-4d0da719656c",
+      "last_modified": "2019-03-18T18:07:54.029754",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Metodología de relevamiento de Datos del RENAF",
+      "package_id": "agroindustria_26d3685e-4297-4a52-9d35-b0704edc928d",
+      "position": 5,
+      "resource_type": "file.upload",
+      "revision_id": "11a13ab5-4072-468b-9871-358b81663647",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.agroindustria.gob.ar/dataset/26d3685e-4297-4a52-9d35-b0704edc928d/resource/0030d479-ad66-45d5-b385-4d0da719656c/download/metodologia.docx",
+      "url_type": null
+    }
+  ],
+  "revision_id": "11a13ab5-4072-468b-9871-358b81663647",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "RENAF",
+      "id": "8843478f-d7ec-4fd3-9747-dc0e8717a9ea",
+      "name": "RENAF",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Registro Nacional de Agricultura Familiar",
+      "id": "cb80d2d4-a9a1-4a00-a4dd-5e60c0e97f3f",
+      "name": "Registro Nacional de Agricultura Familiar",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "agricultura familiar",
+      "id": "4253a7fd-ee18-42e9-b469-d3d4b7392da2",
+      "name": "agricultura familiar",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "aromáticas",
+      "id": "adde0f97-9286-4717-9312-82f77bd34dfc",
+      "name": "aromáticas",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "artesanias",
+      "id": "8dd2ecf8-1766-48f2-b327-54e735fb06ef",
+      "name": "artesanias",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "condiciones de la NAF",
+      "id": "a7760f7c-ba4c-4fca-a59d-dd4376e63e55",
+      "name": "condiciones de la NAF",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "conejos",
+      "id": "2ad6d409-7d61-483b-9f75-ccc4ffb6769d",
+      "name": "conejos",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "equínos",
+      "id": "60acb38e-a127-473a-8414-3b5c0c9bb0c0",
+      "name": "equínos",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "frutas",
+      "id": "d88cda2c-194e-4939-abfd-78852b720952",
+      "name": "frutas",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "ganadería",
+      "id": "d2f20e9d-a574-49fb-9b40-185915730b20",
+      "name": "ganadería",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "núcleo agricultura familiar",
+      "id": "9e6fb565-71bc-4640-a8c3-45448c202d18",
+      "name": "núcleo agricultura familiar",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "verdura",
+      "id": "7a9245c5-8376-4294-b6b2-b4eda3b14722",
+      "name": "verdura",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "vientre",
+      "id": "9cc558ed-3d2e-41fc-98ce-77f79819efdb",
+      "name": "vientre",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Agricultura Familiar - Producciones de los núcleos (NAF)",
+  "type": "dataset",
+  "url": "https://datos.agroindustria.gob.ar/dataset/producciones-de-los-nucleos-de-agricultura-familiar-naf",
+  "version": null
+}

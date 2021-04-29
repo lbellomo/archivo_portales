@@ -1,0 +1,276 @@
+{
+  "author": "Dirección de Estudios Económicos",
+  "author_email": "productospecuarios@minagro.gob.ar",
+  "creator_user_id": "dc157489-51c6-44ce-bd63-3bd983d60778",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P3M"
+    },
+    {
+      "key": "issued",
+      "value": "2018-12-07T21:25:16.740899"
+    },
+    {
+      "key": "language",
+      "value": "[\"spa\"]"
+    },
+    {
+      "key": "modified",
+      "value": "2019-10-24T10:26:15.230138"
+    },
+    {
+      "key": "spatial",
+      "value": "[\"ARG\"]"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"AGRI\", \"ECON\"]"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Agroganadería, pesca y forestación",
+      "display_name": "Agroganadería, pesca y forestación",
+      "id": "0c35ea38-7059-41d2-9827-5587769d0dc6",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225145.990789agroganaderia-pesca-forestacion.svg",
+      "name": "agri",
+      "title": "Agroganadería, pesca y forestación"
+    },
+    {
+      "description": "Economía y finanzas",
+      "display_name": "Economía y finanzas",
+      "id": "60b4b03e-10a1-4d67-b984-08008a249617",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225257.200233economia-finanzas.svg",
+      "name": "econ",
+      "title": "Economía y finanzas"
+    }
+  ],
+  "id": "agroindustria_0ed0d23f-d295-4991-b80b-745b5080d0ea",
+  "isopen": true,
+  "license_id": "CC-BY-4.0",
+  "license_title": "Creative Commons Attribution 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "maintainer": null,
+  "maintainer_email": null,
+  "metadata_created": "2019-12-04T21:13:22.736048",
+  "metadata_modified": "2021-04-29T17:16:05.488204",
+  "name": "agroindustria-ganaderia---indicadores-economicos-bovinos",
+  "notes": "Precios de los siguientes insumos y productos ganaderos bovinos: ternero, novillo, maíz, vaca conserva, vaquillona, dólar, Indice de precios mayoristas. También se incluyen relaciones insumo/producto y márgenes brutos de las principales actividades ganaderas bovinas.",
+  "num_resources": 5,
+  "num_tags": 9,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:07.834957",
+    "description": "",
+    "id": "b10c94e2-ade1-4a97-8c4c-b1ada7878d60",
+    "image_url": "",
+    "is_organization": true,
+    "name": "agroindustria",
+    "revision_id": "f7c3b6e9-d48f-4522-9f7a-388d805c8392",
+    "state": "active",
+    "title": "Ministerio de Agricultura, Ganadería y Pesca",
+    "type": "organization"
+  },
+  "owner_org": "b10c94e2-ade1-4a97-8c4c-b1ada7878d60",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "http://datos.agroindustria.gob.ar/dataset/0ed0d23f-d295-4991-b80b-745b5080d0ea/resource/a28a3be0-f9a3-4f96-8094-53688135c5ad",
+      "attributesDescription": "[{\"type\": \"integer\", \"description\": \"a\\u0144o\", \"title\": \"anio\"}, {\"type\": \"integer\", \"description\": \"mes\", \"title\": \"mes\"}, {\"type\": \"number\", \"description\": \"ternero($/kg)\", \"title\": \"ternero($/kg)\"}, {\"type\": \"number\", \"description\": \"novillo($/kg)\", \"title\": \"novillo($/kg)\"}, {\"type\": \"number\", \"description\": \"dolar($/U$S)\", \"title\": \"dolar($/U$S)\"}, {\"type\": \"number\", \"description\": \"IPIM\", \"title\": \"IPIM\"}, {\"type\": \"number\", \"description\": \"maiz($/ton)\", \"title\": \"maiz($/ton)\"}, {\"type\": \"number\", \"description\": \"salario($/mes)\", \"title\": \"salario($/mes)\"}, {\"type\": \"number\", \"description\": \"vaca_conserva($/kg)\", \"title\": \"vaca_conserva($/kg)\"}, {\"type\": \"number\", \"description\": \"vaquillona_pre\\u0144ada($/ cab)\", \"title\": \"vaquillona_preniada($/ cab)\"}, {\"type\": \"number\", \"description\": \"maiz(kg)/novillo(kg)\", \"title\": \"maiz(kg)/novillo(kg)\"}, {\"type\": \"number\", \"description\": \"ternero(kg)/novillo(kg)\", \"title\": \"ternero(kg)/novillo(kg)\"}, {\"type\": \"number\", \"description\": \"salario_mensual($)/ternero(kg)\", \"title\": \"salario_mensual($)/ternero(kg)\"}, {\"type\": \"number\", \"description\": \"vaquillona(cab)/vaca conserva(cab)\", \"title\": \"vaquillona(cab)/vaca conserva(cab)\"}, {\"type\": \"number\", \"description\": \"cria_c.salado($/ha)\", \"title\": \"cria_c.salado($/ha)\"}, {\"type\": \"number\", \"description\": \"invernada_subhumeda_alta_prod.($/ha)\", \"title\": \"invernada_subhumeda_alta_prod.($/ha)\"}, {\"type\": \"number\", \"description\": \"feed lot($/ha\", \"title\": \"feed lot($/ha\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2018-08-13T13:54:54.120843",
+      "datastore_active": false,
+      "description": "Precios de los siguientes insumos y productos ganaderos bovinos: ternero, novillo, maíz, vaca conserva, vaquillona, dólar, IPIM. También se incluyen relaciones insumo/producto y márgenes brutos.",
+      "fileName": "indicadores-economicos-ganaderia-bovina.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "agroindustria_a28a3be0-f9a3-4f96-8094-53688135c5ad",
+      "last_modified": "2019-10-09T12:01:33.108192",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Indicadores económicos para ganadería bovina",
+      "package_id": "agroindustria_0ed0d23f-d295-4991-b80b-745b5080d0ea",
+      "position": 0,
+      "resource_type": "file.upload",
+      "revision_id": "da2d750f-1f38-4826-96bf-c66b25be2af0",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.agroindustria.gob.ar/dataset/0ed0d23f-d295-4991-b80b-745b5080d0ea/resource/a28a3be0-f9a3-4f96-8094-53688135c5ad/download/indicadores-economicos-ganaderia-bovina.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos.agroindustria.gob.ar/dataset/0ed0d23f-d295-4991-b80b-745b5080d0ea/archivo/33942133-01d1-4977-94c2-1ea05f3fe59b",
+      "attributesDescription": "[{\"type\": \"integer\", \"description\": \"pais_id\", \"title\": \"pais_id\"}, {\"type\": \"string\", \"description\": \"pais\", \"title\": \"pais\"}, {\"type\": \"integer\", \"description\": \"a\\u0144o\", \"title\": \"a\\u0144o\"}, {\"type\": \"integer\", \"description\": \"mes\", \"title\": \"mes\"}, {\"type\": \"number\", \"description\": \"cria c.salado($/ha)\", \"title\": \"cria c.salado($/ha)\"}, {\"type\": \"number\", \"description\": \"invernada subhumeda alta prod.($/ha)\", \"title\": \"invernada subhumeda alta prod.($/ha)\"}, {\"type\": \"number\", \"description\": \"feed lot($/ha)\", \"title\": \"feed lot($/ha)\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2018-08-13T13:48:41.922821",
+      "datastore_active": false,
+      "description": "Márgenes brutos de las principales actividades ganaderas bovinas",
+      "fileName": "margenes-brutos.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "agroindustria_33942133-01d1-4977-94c2-1ea05f3fe59b",
+      "last_modified": "2019-03-18T18:21:49.766080",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Márgenes brutos",
+      "package_id": "agroindustria_0ed0d23f-d295-4991-b80b-745b5080d0ea",
+      "position": 1,
+      "resource_type": "file.upload",
+      "revision_id": "4fab3b9c-28dc-4afa-b99c-e4ac932dc0a9",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.agroindustria.gob.ar/dataset/0ed0d23f-d295-4991-b80b-745b5080d0ea/resource/33942133-01d1-4977-94c2-1ea05f3fe59b/download/margenes-brutos.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos2.agroindustria.gob.ar/dataset/0ed0d23f-d295-4991-b80b-745b5080d0ea/archivo/881c8c87-0b59-4357-89e2-f8f8578a58a6",
+      "attributesDescription": "[{\"type\": \"integer\", \"description\": \"pais_id\", \"title\": \"pais_id\"}, {\"type\": \"string\", \"description\": \"pais\", \"title\": \"pais\"}, {\"type\": \"integer\", \"description\": \"a\\u0144o\", \"title\": \"a\\u0144o\"}, {\"type\": \"integer\", \"description\": \"mes\", \"title\": \"mes\"}, {\"type\": \"number\", \"description\": \"ternero($/kg)\", \"title\": \"ternero($/kg)\"}, {\"type\": \"number\", \"description\": \"novillo($/kg)\", \"title\": \"novillo($/kg)\"}, {\"type\": \"number\", \"description\": \"dolar($/U$S)\", \"title\": \"dolar($/U$S)\"}, {\"type\": \"number\", \"description\": \"IPIM\", \"title\": \"IPIM\"}, {\"type\": \"number\", \"description\": \"maiz($/ton)\", \"title\": \"maiz($/ton)\"}, {\"type\": \"number\", \"description\": \"salario($/mes)\", \"title\": \"salario($/mes)\"}, {\"type\": \"number\", \"description\": \"vaca conserva($/kg)\", \"title\": \"vaca conserva($/kg)\"}, {\"type\": \"number\", \"description\": \"vaquillona pre\\u0144ada($/ cab)\", \"title\": \"vaquillona pre\\u0144ada($/ cab)\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2018-08-13T13:47:18.971417",
+      "datastore_active": false,
+      "description": "Precios de los siguientes insumos y productos ganaderos bovinos: ternero, novillo, maíz, vaca conserva, vaquillona, dólar, Indice de precios mayoristas.",
+      "fileName": "precios-para-ganaderia-bovina.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "agroindustria_881c8c87-0b59-4357-89e2-f8f8578a58a6",
+      "last_modified": "2019-10-11T21:19:58.119431",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Precios para ganadería bovina",
+      "package_id": "agroindustria_0ed0d23f-d295-4991-b80b-745b5080d0ea",
+      "position": 2,
+      "resource_type": "file.upload",
+      "revision_id": "52f8774f-8cd0-4c3c-ac08-5f7057a4bdae",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.agroindustria.gob.ar/dataset/0ed0d23f-d295-4991-b80b-745b5080d0ea/resource/881c8c87-0b59-4357-89e2-f8f8578a58a6/download/precios-para-ganaderia-bovina.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos2.agroindustria.gob.ar/dataset/0ed0d23f-d295-4991-b80b-745b5080d0ea/archivo/ef345c57-4045-4851-aeca-40ee3f83b8a0",
+      "attributesDescription": "[{\"type\": \"integer\", \"description\": \"pais_id\", \"title\": \"pais_id\"}, {\"type\": \"string\", \"description\": \"pais\", \"title\": \"pais\"}, {\"type\": \"integer\", \"description\": \"a\\u0144o\", \"title\": \"a\\u0144o\"}, {\"type\": \"integer\", \"description\": \"mes\", \"title\": \"mes\"}, {\"type\": \"number\", \"description\": \"maiz(kg)/novillo(kg)\", \"title\": \"maiz(kg)/novillo(kg)\"}, {\"type\": \"number\", \"description\": \"ternero(kg)/novillo(kg)\", \"title\": \"ternero(kg)/novillo(kg)\"}, {\"type\": \"number\", \"description\": \"salario_mensual($)/ternero(kg)\", \"title\": \"salario_mensual($)/ternero(kg)\"}, {\"type\": \"number\", \"description\": \"vaquillona(cab)/vaca conserva(cab)\", \"title\": \"vaquillona(cab)/vaca conserva(cab)\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2018-08-13T13:50:38.127871",
+      "datastore_active": false,
+      "description": "Relaciones maíz/novillo y ternero/novillo: las relaciones expresan el poder de compra del principal productos vendido.",
+      "fileName": "relacion-insumo-producto.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "agroindustria_ef345c57-4045-4851-aeca-40ee3f83b8a0",
+      "last_modified": "2019-10-11T21:22:19.625737",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Relaciones insumo-producto",
+      "package_id": "agroindustria_0ed0d23f-d295-4991-b80b-745b5080d0ea",
+      "position": 3,
+      "resource_type": "file.upload",
+      "revision_id": "da2d750f-1f38-4826-96bf-c66b25be2af0",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.agroindustria.gob.ar/dataset/0ed0d23f-d295-4991-b80b-745b5080d0ea/resource/ef345c57-4045-4851-aeca-40ee3f83b8a0/download/relacion-insumo-producto.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos.agroindustria.gob.ar/dataset/0ed0d23f-d295-4991-b80b-745b5080d0ea/resource/d2f1b636-e9e5-46d6-85aa-7f73e210b645",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2018-08-13T13:56:10.737370",
+      "datastore_active": false,
+      "description": "Metodología utilizada para obtener los datos que conforman cada uno de los recursos. \r\nAclaración: descargue el archivo para su visualización.",
+      "fileName": "aspectos-metodologicos-indicadores-economicos-ganaderia-bovina.jpg",
+      "format": "JPEG",
+      "hash": "",
+      "id": "agroindustria_d2f1b636-e9e5-46d6-85aa-7f73e210b645",
+      "last_modified": "2019-05-07T10:41:13.371600",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Aspectos metodológicos",
+      "package_id": "agroindustria_0ed0d23f-d295-4991-b80b-745b5080d0ea",
+      "position": 4,
+      "resource_type": "file.upload",
+      "revision_id": "5264bfb7-96be-4431-91ed-7614794bf116",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.agroindustria.gob.ar/dataset/0ed0d23f-d295-4991-b80b-745b5080d0ea/resource/d2f1b636-e9e5-46d6-85aa-7f73e210b645/download/aspectos-metodologicos-indicadores-economicos-ganaderia-bovina.jpg",
+      "url_type": null
+    }
+  ],
+  "revision_id": "5264bfb7-96be-4431-91ed-7614794bf116",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "bovina",
+      "id": "13f12c82-512d-433e-af31-64bb821f3fe4",
+      "name": "bovina",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "bovinos",
+      "id": "67950875-be60-4495-a907-63c1e6b2f47b",
+      "name": "bovinos",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "cria",
+      "id": "321231c2-d9ff-42a0-936d-5cc8f0458586",
+      "name": "cria",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "feed lot",
+      "id": "911c8047-94e5-4a74-9350-bab8319919ff",
+      "name": "feed lot",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "ganaderia",
+      "id": "13df53d9-0f53-44f8-96c1-659296b694cf",
+      "name": "ganaderia",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "invernada",
+      "id": "4595f46f-4602-425c-b609-d5feaa353d34",
+      "name": "invernada",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "novillo",
+      "id": "b96937cc-c66b-4f15-b1c3-96f5a2ffe392",
+      "name": "novillo",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "ternero",
+      "id": "e98f428f-dc7a-4875-b990-4e4f0f0fb439",
+      "name": "ternero",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "vaquillona",
+      "id": "d0a5f205-2554-418c-a286-953123ec0ddd",
+      "name": "vaquillona",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Ganadería - Indicadores económicos bovinos",
+  "type": "dataset",
+  "url": "https://datos.agroindustria.gob.ar/dataset/indicadores-economicos-para-ganaderia-bovina",
+  "version": null
+}

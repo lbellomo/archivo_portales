@@ -1,0 +1,140 @@
+{
+  "author": "Ministerio de Salud. Área de Seguimiento y Evaluación",
+  "author_email": "evaluacion@medicamentos.msal.gob.ar",
+  "creator_user_id": "4720e75a-9e17-4dc3-879d-041917c7f9f9",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P1Y"
+    },
+    {
+      "key": "issued",
+      "value": "2018-06-12T13:14:20.587465"
+    },
+    {
+      "key": "language",
+      "value": "[\"spa\"]"
+    },
+    {
+      "key": "modified",
+      "value": "2020-05-15T15:39:37.829402"
+    },
+    {
+      "key": "source",
+      "value": "Ministerio de Salud. Área de Seguimiento y Evaluación"
+    },
+    {
+      "key": "spatial",
+      "value": "[\"ARG\"]"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"HEAL\"]"
+    },
+    {
+      "key": "temporal",
+      "value": "2003-01-01T03:00:00.000Z/2015-12-31T03:00:00.000Z"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Salud",
+      "display_name": "Salud",
+      "id": "65cc1fbf-703a-43bf-8a14-232a55c34976",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225809.913196salud.svg",
+      "name": "heal",
+      "title": "Salud"
+    }
+  ],
+  "id": "salud_0eb46cb9-abf1-4faa-a6fe-47d3ac87dd74",
+  "isopen": false,
+  "license_id": "notspecified",
+  "license_title": "No se especificó la licencia",
+  "maintainer": "Ministerio de Salud. Área de Seguimiento y Evaluación",
+  "maintainer_email": "evaluacion@medicamentos.msal.gob.ar",
+  "metadata_created": "2019-11-26T15:01:59.971404",
+  "metadata_modified": "2021-04-29T17:05:35.515876",
+  "name": "salud-beneficiarios-medicamentos-esenciales",
+  "notes": "Cantidad de beneficiarios histórico totales por provincia, dividido por sexo. Periodo 2002-2015.",
+  "num_resources": 1,
+  "num_tags": 4,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-11-15T11:12:22.202856",
+    "description": "",
+    "id": "dd1f2018-587f-43af-9b07-fc32f5ab588b",
+    "image_url": "",
+    "is_organization": true,
+    "name": "salud",
+    "revision_id": "14f0bb85-f97d-4325-b1c8-a7c1d3a815bf",
+    "state": "active",
+    "title": "Ministerio de Salud",
+    "type": "organization"
+  },
+  "owner_org": "dd1f2018-587f-43af-9b07-fc32f5ab588b",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "http://datos.salud.gob.ar/dataset/0eb46cb9-abf1-4faa-a6fe-47d3ac87dd74/resource/ce6efd0a-a26d-4bed-a981-b6b89b4b8617",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2018-06-12T13:17:24.539280",
+      "datastore_active": false,
+      "description": "Cantidad de beneficiarios histórico totales por provincia, dividido por sexo. Periodo 2002-2015.",
+      "fileName": "beneficiarios-medicamentos-escenciales.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "salud_ce6efd0a-a26d-4bed-a981-b6b89b4b8617",
+      "last_modified": "2018-07-27T12:42:41.534688",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "beneficiarios-medicamentos-esenciales",
+      "package_id": "salud_0eb46cb9-abf1-4faa-a6fe-47d3ac87dd74",
+      "position": 0,
+      "resource_type": null,
+      "revision_id": "a33f9745-4328-42b1-9eff-4a583d38755a",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.salud.gob.ar/dataset/0eb46cb9-abf1-4faa-a6fe-47d3ac87dd74/resource/ce6efd0a-a26d-4bed-a981-b6b89b4b8617/download/beneficiarios-medicamentos-esenciales.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "79434528-e4b7-42ff-a9f6-4c6b0b58999b",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "CUS",
+      "id": "f574d033-6a14-43da-bab5-9f79233efbc0",
+      "name": "CUS",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Vademecum y Medicamentos",
+      "id": "c65b8016-8fa2-425d-8c57-039898f8f677",
+      "name": "Vademecum y Medicamentos",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "beneficiarios",
+      "id": "c81a4a2c-9c7c-40bc-aed6-d161749d380b",
+      "name": "beneficiarios",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "medicamentos",
+      "id": "a2a25b11-1384-4852-a1f9-476e13fc7306",
+      "name": "medicamentos",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Beneficiarios medicamentos esenciales",
+  "type": "dataset",
+  "url": "http://msal.gov.ar/medicamentos/",
+  "version": null
+}

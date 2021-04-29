@@ -1,0 +1,185 @@
+{
+  "author": "Ministerio de Desarrollo Social de la Nación. Secretaría de Inclusión Social",
+  "author_email": "datosabiertos@desarrollosocial.gob.ar",
+  "creator_user_id": "dc157489-51c6-44ce-bd63-3bd983d60778",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P3M"
+    },
+    {
+      "key": "issued",
+      "value": "2021-04-16T16:36:24.779197"
+    },
+    {
+      "key": "language",
+      "value": "[\"spa\"]"
+    },
+    {
+      "key": "modified",
+      "value": "2021-04-17T11:07:36.561058"
+    },
+    {
+      "key": "spatial",
+      "value": "[\"ARG\"]"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"ECON\", \"GOVE\", \"SOCI\"]"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Economía y finanzas",
+      "display_name": "Economía y finanzas",
+      "id": "60b4b03e-10a1-4d67-b984-08008a249617",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225257.200233economia-finanzas.svg",
+      "name": "econ",
+      "title": "Economía y finanzas"
+    },
+    {
+      "description": "Gobierno y sector público",
+      "display_name": "Gobierno y sector público",
+      "id": "e6f07c77-3987-4e71-98a6-731b1aaf74f4",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225353.395233gobierno-sector-publico.svg",
+      "name": "gove",
+      "title": "Gobierno y sector público"
+    },
+    {
+      "description": "Población y sociedad",
+      "display_name": "Población y sociedad",
+      "id": "eb5df7fa-064a-4b51-89f6-af323ee1bf85",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225728.341804poblacion-sociedad.svg",
+      "name": "soci",
+      "title": "Población y sociedad"
+    }
+  ],
+  "id": "desarrollo-social_8673fde8-70eb-4f25-8761-f8ae90ba21cd",
+  "isopen": false,
+  "license_id": "notspecified",
+  "license_title": "No se especificó la licencia",
+  "maintainer": "Ministerio de Desarrollo Social de la Nación. Unidad de Gabinete de Asesores. Dirección General de Información Social Estratégica",
+  "maintainer_email": "datosabiertos@desarrollosocial.gob.ar",
+  "metadata_created": "2021-04-20T19:19:59.509422",
+  "metadata_modified": "2021-04-29T17:03:55.932071",
+  "name": "desarrollo-social-titulares-tarjeta-alimentar",
+  "notes": "Datos correspondientes a los titulares de la Tarjeta Alimentar en el marco del Plan Argentina Contra el Hambre",
+  "num_resources": 3,
+  "num_tags": 2,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:10.908821",
+    "description": "",
+    "id": "ef25c735-2abb-4165-94a6-a6798a103603",
+    "image_url": "",
+    "is_organization": true,
+    "name": "desarrollo-social",
+    "revision_id": "a896ab9d-5ddd-4b93-9ecf-6578b069aee8",
+    "state": "active",
+    "title": "Ministerio de Desarrollo Social",
+    "type": "organization"
+  },
+  "owner_org": "ef25c735-2abb-4165-94a6-a6798a103603",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "https://datosabiertos.desarrollosocial.gob.ar//dataset/8673fde8-70eb-4f25-8761-f8ae90ba21cd/resource/7d8b67b8-5f75-41ca-b6fb-83afbfdc46a1",
+      "attributesDescription": "[{\"type\": \"string\", \"description\": \"Identificaci\\u00f3n \\u00fanica de la persona\", \"title\": \"id_persona\"}, {\"type\": \"string\", \"description\": \"Sexo seg\\u00fan DNI\", \"title\": \"sexo\"}, {\"type\": \"integer\", \"description\": \"Edad del titular de la tarjeta\", \"title\": \"edad\"}, {\"type\": \"string\", \"description\": \"C\\u00f3digo de provincia codificado seg\\u00fan la Base de Asentamientos Humanos de la Rep\\u00fablica Argentina \", \"title\": \"codigo_indec_provincia\"}, {\"type\": \"string\", \"description\": \"Nombre de la provincia\", \"title\": \"provincia\"}, {\"type\": \"string\", \"description\": \"C\\u00f3digo de departamento codificado seg\\u00fan la Base de Asentamientos Humanos de la Rep\\u00fablica Argentina \", \"title\": \"codigo_indec_departamento\"}, {\"type\": \"string\", \"description\": \"Nombre del departamento\", \"title\": \"departamento\"}, {\"type\": \"date\", \"description\": \"Fecha de alta de la cuenta bancaria del titular\", \"title\": \"fecha_alta\"}, {\"type\": \"date\", \"description\": \"Fecha de baja del titular\", \"title\": \"fecha_baja\"}, {\"type\": \"integer\", \"description\": \"Monto mensual transferido al titular\", \"title\": \"monto_mensual\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2021-04-16T16:42:36.013803",
+      "datastore_active": false,
+      "description": "Listado de titulares por provincia y departamento con monto mensual transferido",
+      "fileName": "titulares_tarjeta_alimentar-20201231.zip",
+      "format": "ZIP",
+      "hash": "",
+      "id": "desarrollo-social_7d8b67b8-5f75-41ca-b6fb-83afbfdc46a1",
+      "last_modified": "2021-04-16T16:42:35.940761",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Titulares de la Tarjeta Alimentar",
+      "package_id": "desarrollo-social_8673fde8-70eb-4f25-8761-f8ae90ba21cd",
+      "position": 0,
+      "resource_type": "file.upload",
+      "revision_id": "953270e6-1695-4278-a4e9-3d09027facb9",
+      "size": null,
+      "state": "active",
+      "url": "https://datosabiertos.desarrollosocial.gob.ar/dataset/8673fde8-70eb-4f25-8761-f8ae90ba21cd/resource/7d8b67b8-5f75-41ca-b6fb-83afbfdc46a1/download/titulares_tarjeta_alimentar-20201231.zip",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://datosabiertos.desarrollosocial.gob.ar//dataset/8673fde8-70eb-4f25-8761-f8ae90ba21cd/resource/9ecb83c2-b824-45ab-9b0e-6da93f8d601c",
+      "attributesDescription": "[{\"type\": \"string\", \"description\": \"Identificaci\\u00f3n \\u00fanica de la persona\", \"title\": \"id_persona\"}, {\"type\": \"string\", \"description\": \"Sexo seg\\u00fan DNI\", \"title\": \"sexo\"}, {\"type\": \"integer\", \"description\": \"Edad del titular de la tarjeta\", \"title\": \"edad\"}, {\"type\": \"string\", \"description\": \"C\\u00f3digo de provincia codificado seg\\u00fan la Base de Asentamientos Humanos de la Rep\\u00fablica Argentina \", \"title\": \"codigo_indec_provincia\"}, {\"type\": \"string\", \"description\": \"Nombre de la provincia\", \"title\": \"provincia\"}, {\"type\": \"string\", \"description\": \"C\\u00f3digo de departamento codificado seg\\u00fan la Base de Asentamientos Humanos de la Rep\\u00fablica Argentina \", \"title\": \"codigo_indec_departamento\"}, {\"type\": \"string\", \"description\": \"Nombre del departamento\", \"title\": \"departamento\"}, {\"type\": \"date\", \"description\": \"Fecha de alta de la cuenta bancaria del titular\", \"title\": \"fecha_alta\"}, {\"type\": \"date\", \"description\": \"Fecha de baja del titular\", \"title\": \"fecha_baja\"}, {\"type\": \"integer\", \"description\": \"Monto mensual transferido al titular\", \"title\": \"monto_mensual\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2021-04-17T10:41:49.027008",
+      "datastore_active": false,
+      "description": "Listado de titulares por provincia y departamento con monto mensual transferido. Hasta registro 893624",
+      "fileName": "titulares_tarjeta_alimentar-20201231-hasta-893624.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "desarrollo-social_9ecb83c2-b824-45ab-9b0e-6da93f8d601c",
+      "last_modified": "2021-04-17T10:41:48.912744",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Titulares de la Tarjeta Alimentar - Hasta registro 893624",
+      "package_id": "desarrollo-social_8673fde8-70eb-4f25-8761-f8ae90ba21cd",
+      "position": 1,
+      "resource_type": "file.upload",
+      "revision_id": "953270e6-1695-4278-a4e9-3d09027facb9",
+      "size": null,
+      "state": "active",
+      "url": "https://datosabiertos.desarrollosocial.gob.ar/dataset/8673fde8-70eb-4f25-8761-f8ae90ba21cd/resource/9ecb83c2-b824-45ab-9b0e-6da93f8d601c/download/titulares_tarjeta_alimentar-20201231-hasta-893624.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://datosabiertos.desarrollosocial.gob.ar//dataset/8673fde8-70eb-4f25-8761-f8ae90ba21cd/resource/5a6198b4-2c61-4785-99af-3e1b222aae10",
+      "attributesDescription": "[{\"type\": \"string\", \"description\": \"Identificaci\\u00f3n \\u00fanica de la persona\", \"title\": \"id_persona\"}, {\"type\": \"string\", \"description\": \"Sexo seg\\u00fan DNI\", \"title\": \"sexo\"}, {\"type\": \"integer\", \"description\": \"Edad del titular de la tarjeta\", \"title\": \"edad\"}, {\"type\": \"string\", \"description\": \"C\\u00f3digo de provincia codificado seg\\u00fan la Base de Asentamientos Humanos de la Rep\\u00fablica Argentina \", \"title\": \"codigo_indec_provincia\"}, {\"type\": \"string\", \"description\": \"Nombre de la provincia\", \"title\": \"provincia\"}, {\"type\": \"string\", \"description\": \"C\\u00f3digo de departamento codificado seg\\u00fan la Base de Asentamientos Humanos de la Rep\\u00fablica Argentina \", \"title\": \"codigo_indec_departamento\"}, {\"type\": \"string\", \"description\": \"Nombre del departamento\", \"title\": \"departamento\"}, {\"type\": \"date\", \"description\": \"Fecha de alta de la cuenta bancaria del titular\", \"title\": \"fecha_alta\"}, {\"type\": \"date\", \"description\": \"Fecha de baja del titular\", \"title\": \"fecha_baja\"}, {\"type\": \"integer\", \"description\": \"Monto mensual transferido al titular\", \"title\": \"monto_mensual\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2021-04-17T10:42:51.132327",
+      "datastore_active": false,
+      "description": "Listado de titulares por provincia y departamento con monto mensual transferido. Desde registro 893624",
+      "fileName": "titulares_tarjeta_alimentar-20201231-desde-893624.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "desarrollo-social_5a6198b4-2c61-4785-99af-3e1b222aae10",
+      "last_modified": "2021-04-17T10:42:51.070709",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Titulares de la Tarjeta Alimentar - Desde registro 893624",
+      "package_id": "desarrollo-social_8673fde8-70eb-4f25-8761-f8ae90ba21cd",
+      "position": 2,
+      "resource_type": "file.upload",
+      "revision_id": "953270e6-1695-4278-a4e9-3d09027facb9",
+      "size": null,
+      "state": "active",
+      "url": "https://datosabiertos.desarrollosocial.gob.ar/dataset/8673fde8-70eb-4f25-8761-f8ae90ba21cd/resource/5a6198b4-2c61-4785-99af-3e1b222aae10/download/titulares_tarjeta_alimentar-20201231-desde-893624.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "953270e6-1695-4278-a4e9-3d09027facb9",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "argentina contra el hambre",
+      "id": "8968fcb2-395e-4180-9782-3bebd2f111e3",
+      "name": "argentina contra el hambre",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "tarjeta alimentar",
+      "id": "a84d565b-9e4f-49ef-b4d3-7112821ce17e",
+      "name": "tarjeta alimentar",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Titulares de la Tarjeta Alimentar",
+  "type": "dataset",
+  "url": "https://www.argentina.gob.ar/desarrollosocial/tarjeta-alimentar",
+  "version": null
+}

@@ -1,0 +1,132 @@
+{
+  "author": "Dirección de Fortalecimiento Institucional y Participación Ciudadana",
+  "author_email": "dirfortalecimientoinstitucional@mininterior.gob.ar",
+  "creator_user_id": "dc157489-51c6-44ce-bd63-3bd983d60778",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P6M"
+    },
+    {
+      "key": "issued",
+      "value": "2017-11-01T15:54:50.255539"
+    },
+    {
+      "key": "language",
+      "value": "[\"spa\"]"
+    },
+    {
+      "key": "modified",
+      "value": "2017-11-02T15:54:33.294929"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"GOVE\"]"
+    },
+    {
+      "key": "temporal",
+      "value": "2016-01-01T03:00:00.000Z/2016-12-31T03:00:00.000Z"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Gobierno y sector público",
+      "display_name": "Gobierno y sector público",
+      "id": "e6f07c77-3987-4e71-98a6-731b1aaf74f4",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225353.395233gobierno-sector-publico.svg",
+      "name": "gove",
+      "title": "Gobierno y sector público"
+    }
+  ],
+  "id": "interior_940cde74-532a-4636-b45c-19ab809f43bc",
+  "isopen": false,
+  "license_id": "notspecified",
+  "license_title": "No se especificó la licencia",
+  "maintainer": "Dirección de Fortalecimiento Institucional y Participación Ciudadana",
+  "maintainer_email": "dirfortalecimientoinstitucional@mininterior.gob.ar",
+  "metadata_created": "2019-12-04T20:00:02.131510",
+  "metadata_modified": "2021-04-29T17:17:39.713281",
+  "name": "interior-solicitudes-acceso-informacion-publica",
+  "notes": "Datos correspondientes a las solicitudes de acceso a la información pública recibidas por el Poder Ejecutivo Nacional durante el año 2016",
+  "num_resources": 1,
+  "num_tags": 4,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:10.155022",
+    "description": "",
+    "id": "c88b1ad1-f78d-4cf9-848d-d73ccae6cd8e",
+    "image_url": "",
+    "is_organization": true,
+    "name": "interior",
+    "revision_id": "e67eb335-8122-437e-8616-a002d02f7076",
+    "state": "active",
+    "title": " Ministerio del Interior",
+    "type": "organization"
+  },
+  "owner_org": "c88b1ad1-f78d-4cf9-848d-d73ccae6cd8e",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "https://datos.mininterior.gob.ar/dataset/940cde74-532a-4636-b45c-19ab809f43bc/resource/ad9e609e-4029-42ef-bd80-e960a9637f5b",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-11-01T15:56:06.618608",
+      "datastore_active": false,
+      "description": "Detalle de las solicitudes de acceso a la información pública recibidas por el Poder Ejecutivo Nacional durante el año 2016",
+      "fileName": "matriz-2016-ano-completo-datasets.subir.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "interior_ad9e609e-4029-42ef-bd80-e960a9637f5b",
+      "last_modified": "2017-11-01T15:56:06.548803",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Solicitudes de Acceso a la Información Pública de 2016",
+      "package_id": "interior_940cde74-532a-4636-b45c-19ab809f43bc",
+      "position": 0,
+      "resource_type": null,
+      "revision_id": "90c49fb1-6ff0-4c82-9646-ddd1eefa5a15",
+      "size": null,
+      "state": "active",
+      "url": "https://datos.mininterior.gob.ar/dataset/940cde74-532a-4636-b45c-19ab809f43bc/resource/ad9e609e-4029-42ef-bd80-e960a9637f5b/download/matriz-2016-ano-completo-datasets.subir.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "5549eba9-fd89-4b1b-a7cc-64a77094acc5",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "Acceso",
+      "id": "2e6df6d1-f22c-4f6b-81ec-bf5e9686e9e7",
+      "name": "Acceso",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Información Pública",
+      "id": "25e6a412-d049-400a-868e-ad9b4ac91665",
+      "name": "Información Pública",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Pedidos",
+      "id": "8d93d06c-ddeb-4ec1-a2df-ad4f7b827a0d",
+      "name": "Pedidos",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Solicitudes",
+      "id": "82bfd47f-6568-4a1e-bb6c-c53c8bba4692",
+      "name": "Solicitudes",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Solicitudes de Acceso a la Información Pública",
+  "type": "dataset",
+  "url": "https://datos.mininterior.gob.ar/dataset/solicitudes-de-acceso-a-la-informacion-publica",
+  "version": null
+}

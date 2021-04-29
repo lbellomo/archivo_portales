@@ -1,0 +1,241 @@
+{
+  "author": " Subsecretaría de Recursos Hídricos",
+  "author_email": "prensa.ssrh@gmail.com",
+  "creator_user_id": "4720e75a-9e17-4dc3-879d-041917c7f9f9",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P4M"
+    },
+    {
+      "key": "issued",
+      "value": "2017-09-25T15:02:21.947371"
+    },
+    {
+      "key": "language",
+      "value": "[\"spa\"]"
+    },
+    {
+      "key": "modified",
+      "value": "2019-05-07T19:50:47.668104"
+    },
+    {
+      "key": "spatial",
+      "value": "[\"None\"]"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"AGRI\", \"ENER\", \"ENVI\", \"HEAL\", \"REGI\", \"TECH\"]"
+    },
+    {
+      "key": "temporal",
+      "value": "1904-01-01T03:00:00.000Z/2019-04-30T03:00:00.000Z"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Agroganadería, pesca y forestación",
+      "display_name": "Agroganadería, pesca y forestación",
+      "id": "0c35ea38-7059-41d2-9827-5587769d0dc6",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225145.990789agroganaderia-pesca-forestacion.svg",
+      "name": "agri",
+      "title": "Agroganadería, pesca y forestación"
+    },
+    {
+      "description": "Ciencia y tecnología",
+      "display_name": "Ciencia y tecnología",
+      "id": "0dd7dd0e-aae8-402f-8660-f1e8b6b6084c",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225221.170833ciencia-tecnologia.svg",
+      "name": "tech",
+      "title": "Ciencia y tecnología"
+    },
+    {
+      "description": "Energía",
+      "display_name": "Energía",
+      "id": "a4d3f632-eb48-4163-9791-165989c16035",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225337.421630energia.svg",
+      "name": "ener",
+      "title": "Energía"
+    },
+    {
+      "description": "Medio ambiente",
+      "display_name": "Medio ambiente",
+      "id": "f71fe9d7-c703-43be-8d9d-af9441c326ba",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225440.964279medio-ambiente.svg",
+      "name": "envi",
+      "title": "Medio ambiente"
+    },
+    {
+      "description": "Regiones y ciudades",
+      "display_name": "Regiones y ciudades",
+      "id": "c506f0a0-fc8a-4278-b007-eb7f76875914",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225752.196815regiones-ciudades.svg",
+      "name": "regi",
+      "title": "Regiones y ciudades"
+    },
+    {
+      "description": "Salud",
+      "display_name": "Salud",
+      "id": "65cc1fbf-703a-43bf-8a14-232a55c34976",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225809.913196salud.svg",
+      "name": "heal",
+      "title": "Salud"
+    }
+  ],
+  "id": "interior_93913deb-d22e-4c0d-bca3-f465e7b2bb94",
+  "isopen": true,
+  "license_id": "other-open",
+  "license_title": "Otra (Abierta)",
+  "maintainer": "Daniel Cielak",
+  "maintainer_email": "dcielak@mininterior.gob.ar",
+  "metadata_created": "2019-11-26T14:57:04.869579",
+  "metadata_modified": "2021-04-29T17:17:38.116369",
+  "name": "interior-estaciones-medicion-valores-parametros-productos-red",
+  "notes": "Resumen de Información de estaciones, como acceder a la Base de Datos y vínculos a varios productos del contenido de la Red Nacional de Información Hídrica",
+  "num_resources": 3,
+  "num_tags": 6,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:10.155022",
+    "description": "",
+    "id": "c88b1ad1-f78d-4cf9-848d-d73ccae6cd8e",
+    "image_url": "",
+    "is_organization": true,
+    "name": "interior",
+    "revision_id": "e67eb335-8122-437e-8616-a002d02f7076",
+    "state": "active",
+    "title": " Ministerio del Interior",
+    "type": "organization"
+  },
+  "owner_org": "c88b1ad1-f78d-4cf9-848d-d73ccae6cd8e",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "https://datos.mininterior.gob.ar/dataset/93913deb-d22e-4c0d-bca3-f465e7b2bb94/resource/c734cc27-4e6e-4f25-a8cc-ee3dfb0e25e3",
+      "attributesDescription": "[{\"type\": \"integer\", \"description\": \"C\\u00f3digo de la estaci\\u00f3n de 4 d\\u00edgitos: los dos primeros codifican provincia.\", \"title\": \"C\\u00f3digo\"}, {\"type\": \"string\", \"description\": \"Nombre de la estaci\\u00f3n.\", \"title\": \"Nombre\"}, {\"type\": \"string\", \"description\": \"Nombre del r\\u00edo a cuya orilla se encuentra la estaci\\u00f3n.\", \"title\": \"R\\u00edo\"}, {\"type\": \"string\", \"description\": \"Nombre del Sistema H\\u00eddrico.\", \"title\": \"Sistema\"}, {\"type\": \"string\", \"description\": \"Nombre de Cuenca H\\u00eddrogr\\u00e1fica.\", \"title\": \"Cuenca\"}, {\"type\": \"string\", \"description\": \"Nombre de la Subcuenca H\\u00eddrogr\\u00e1fica.\", \"title\": \"Subcuenca\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-05-07T20:02:27.282323",
+      "datastore_active": false,
+      "description": "Presenta información sobre el nombre, ubicación, cuenca, rio a la que pertenecen las estaciones de medición de la Red",
+      "fileName": "estaciones.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "interior_c734cc27-4e6e-4f25-a8cc-ee3dfb0e25e3",
+      "last_modified": "2019-05-07T21:21:26.508030",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Listado de Estaciones de la Red ",
+      "package_id": "interior_93913deb-d22e-4c0d-bca3-f465e7b2bb94",
+      "position": 0,
+      "resource_type": "file.upload",
+      "revision_id": "dd7502b6-48f9-4487-8bf8-ec95e33b4a19",
+      "size": null,
+      "state": "active",
+      "url": "https://datos.mininterior.gob.ar/dataset/93913deb-d22e-4c0d-bca3-f465e7b2bb94/resource/c734cc27-4e6e-4f25-a8cc-ee3dfb0e25e3/download/estaciones.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://datos.mininterior.gob.ar/dataset/93913deb-d22e-4c0d-bca3-f465e7b2bb94/resource/26d292a4-4d7f-48e1-872a-50a0dca35386",
+      "attributesDescription": "[{\"type\": \"string\", \"description\": \"Nombre de la estaci\\u00f3n.\", \"title\": \"Nombre\"}, {\"type\": \"number\", \"description\": \"Latitud decimal.\", \"title\": \"Latitud\"}, {\"type\": \"number\", \"description\": \"Longitud decimal.\", \"title\": \"Longitud\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-09-25T17:19:07.658717",
+      "datastore_active": false,
+      "description": "Nombre de las estaciones y coordenadas decimales.",
+      "fileName": "estacioneslatlong.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "interior_26d292a4-4d7f-48e1-872a-50a0dca35386",
+      "last_modified": "2019-05-07T21:27:30.215194",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Listado de Estaciones de la Red (LAT-LONG)",
+      "package_id": "interior_93913deb-d22e-4c0d-bca3-f465e7b2bb94",
+      "position": 1,
+      "resource_type": "file.upload",
+      "revision_id": "dd7502b6-48f9-4487-8bf8-ec95e33b4a19",
+      "size": null,
+      "state": "active",
+      "url": "https://datos.mininterior.gob.ar/dataset/93913deb-d22e-4c0d-bca3-f465e7b2bb94/resource/26d292a4-4d7f-48e1-872a-50a0dca35386/download/estacioneslatlong.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://datos.mininterior.gob.ar/dataset/93913deb-d22e-4c0d-bca3-f465e7b2bb94/resource/ff6f0957-d65b-4133-ac40-3ee7805f801f",
+      "attributesDescription": "[{\"type\": \"string\", \"description\": \"Titulo del Recurso\", \"title\": \"T\\u00edtulo\"}, {\"type\": \"string\", \"description\": \"Contiene las URL del tutorial y los recursos indicados en su t\\u00edtulo.\", \"title\": \"Link\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-09-25T15:58:32.695261",
+      "datastore_active": false,
+      "description": "Los links dirigen a los documentos indicados. El tutorial detalla cómo manejarse dentro la Base de datos de la Red y como se extrae información de la misma.",
+      "fileName": "links.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "interior_ff6f0957-d65b-4133-ac40-3ee7805f801f",
+      "last_modified": "2019-05-07T22:50:57.432532",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Links de acceso a la BDHI, tutorial y links a Cartografía y Publicaciones",
+      "package_id": "interior_93913deb-d22e-4c0d-bca3-f465e7b2bb94",
+      "position": 2,
+      "resource_type": null,
+      "revision_id": "dd7502b6-48f9-4487-8bf8-ec95e33b4a19",
+      "size": null,
+      "state": "active",
+      "url": "https://datos.mininterior.gob.ar/dataset/93913deb-d22e-4c0d-bca3-f465e7b2bb94/resource/ff6f0957-d65b-4133-ac40-3ee7805f801f/download/links.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "141f1276-7c9d-4300-a2fd-f2eda668af6a",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "calidad de agua",
+      "id": "a4a126a1-6feb-412b-afd5-5eac222563c3",
+      "name": "calidad de agua",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "hidrología",
+      "id": "94fcd802-df8a-47b1-b515-69f559474fb6",
+      "name": "hidrología",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "hidrometeorología",
+      "id": "c709b3a0-b32e-4c33-8797-fa993e514e7f",
+      "name": "hidrometeorología",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "meteorología",
+      "id": "63bc41d4-2246-4038-837f-1f360743716c",
+      "name": "meteorología",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "nivología",
+      "id": "8896dfe3-f40a-42fd-8270-4b562fedefbf",
+      "name": "nivología",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "sedimentología",
+      "id": "d74f2936-38c5-4d49-abd8-7d024fdaaa7e",
+      "name": "sedimentología",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Estaciones de medición, valores de parámetros y productos de la Red",
+  "type": "dataset",
+  "url": "https://datos.mininterior.gob.ar/dataset/estaciones-de-medicion-valores-de-parametros-y-productos-de-la-red",
+  "version": null
+}

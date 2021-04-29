@@ -1,0 +1,447 @@
+{
+  "author": "Dirección de Producciones Sostenibles",
+  "author_email": "produccionessostenibles@magyp.gob.ar",
+  "creator_user_id": "dc157489-51c6-44ce-bd63-3bd983d60778",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P2Y"
+    },
+    {
+      "key": "issued",
+      "value": "2019-01-04T20:00:33.583373"
+    },
+    {
+      "key": "language",
+      "value": "[\"spa\"]"
+    },
+    {
+      "key": "modified",
+      "value": "2019-10-24T10:35:13.305544"
+    },
+    {
+      "key": "source",
+      "value": "MAGyP"
+    },
+    {
+      "key": "spatial",
+      "value": "[\"ARG\"]"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"AGRI\", \"ENVI\", \"HEAL\", \"SOCI\"]"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Agroganadería, pesca y forestación",
+      "display_name": "Agroganadería, pesca y forestación",
+      "id": "0c35ea38-7059-41d2-9827-5587769d0dc6",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225145.990789agroganaderia-pesca-forestacion.svg",
+      "name": "agri",
+      "title": "Agroganadería, pesca y forestación"
+    },
+    {
+      "description": "Medio ambiente",
+      "display_name": "Medio ambiente",
+      "id": "f71fe9d7-c703-43be-8d9d-af9441c326ba",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225440.964279medio-ambiente.svg",
+      "name": "envi",
+      "title": "Medio ambiente"
+    },
+    {
+      "description": "Población y sociedad",
+      "display_name": "Población y sociedad",
+      "id": "eb5df7fa-064a-4b51-89f6-af323ee1bf85",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225728.341804poblacion-sociedad.svg",
+      "name": "soci",
+      "title": "Población y sociedad"
+    },
+    {
+      "description": "Salud",
+      "display_name": "Salud",
+      "id": "65cc1fbf-703a-43bf-8a14-232a55c34976",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225809.913196salud.svg",
+      "name": "heal",
+      "title": "Salud"
+    }
+  ],
+  "id": "agroindustria_3d3658e9-f76a-48f7-8b24-35711d30482a",
+  "isopen": true,
+  "license_id": "CC-BY-4.0",
+  "license_title": "Creative Commons Attribution 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "maintainer": "Dirección de Producciones Sostenibles",
+  "maintainer_email": "produccionessostenibles@magyp.gob.ar",
+  "metadata_created": "2019-12-04T21:13:04.476604",
+  "metadata_modified": "2021-04-29T17:16:19.550029",
+  "name": "agroindustria-producciones-sostenibles---emisiones-gei-provenientes-agricultura-ganaderia-otros",
+  "notes": "Detalle de las emisiones de Gases de Efecto Invernadero (GEI) provenientes de la agricultura, ganadería, silvicultura y otros usos de la tierra. Estas se encuentran reportadas a nivel nacional desde 1990 y medidas en MtCO2eq. Datos preliminares en proceso de revisión (Inventario de GEI 2016).",
+  "num_resources": 3,
+  "num_tags": 38,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:07.834957",
+    "description": "",
+    "id": "b10c94e2-ade1-4a97-8c4c-b1ada7878d60",
+    "image_url": "",
+    "is_organization": true,
+    "name": "agroindustria",
+    "revision_id": "f7c3b6e9-d48f-4522-9f7a-388d805c8392",
+    "state": "active",
+    "title": "Ministerio de Agricultura, Ganadería y Pesca",
+    "type": "organization"
+  },
+  "owner_org": "b10c94e2-ade1-4a97-8c4c-b1ada7878d60",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "http://datos.agroindustria.gob.ar/dataset/3d3658e9-f76a-48f7-8b24-35711d30482a/resource/f05eac90-6b9b-4b65-80f4-d015f3b64b26",
+      "attributesDescription": "[{\"type\": \"integer\", \"description\": \"C\\u00f3digo de pa\\u00eds.\", \"title\": \"pais_id\"}, {\"type\": \"string\", \"description\": \"Nombre del pa\\u00eds.\", \"title\": \"pais\"}, {\"type\": \"integer\", \"description\": \"A\\u00f1o correspondiente a los datos.\", \"title\": \"anio\"}, {\"type\": \"string\", \"description\": \"Nombre del sector seg\\u00fan IPCC (Intergovernmental Panel on Climate Change) - Grupo Intergubernamental de Expertos sobre el Cambio Clim\\u00e1tico.\", \"title\": \"sector_IPCC\"}, {\"type\": \"string\", \"description\": \"Nombre de la categoria segun IPCC  (Intergovernmental Panel on Climate Change) - Grupo Intergubernamental de Expertos sobre el Cambio Clim\\u00e1tico.\", \"title\": \"categoria_IPCC\"}, {\"type\": \"string\", \"description\": \"Nombre segun IPCC  (Intergovernmental Panel on Climate Change) - Grupo Intergubernamental de Expertos sobre el Cambio Clim\\u00e1tico.\", \"title\": \"subcategoria_de_1er_orden\"}, {\"type\": \"string\", \"description\": \"Agrupamiento seg\\u00fan el Sistema Nacional de Inventario de Gases de Efecto Invernadero (SNI-GEI).\", \"title\": \"subactividad\"}, {\"type\": \"string\", \"description\": \"C\\u00f3digos de categor\\u00edas de las Directrices del IPCC 2006 adaptadas nacionalmente.\", \"title\": \"fuente_de_emision_y_absorcion_id\"}, {\"type\": \"string\", \"title\": \"fuente_de_emision_y_absorcion\"}, {\"type\": \"string\", \"description\": \"Formula del gas.\", \"title\": \"gas\"}, {\"type\": \"string\", \"title\": \"unidades\"}, {\"type\": \"number\", \"title\": \"valor\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-01-04T17:04:32.407397",
+      "datastore_active": false,
+      "description": "Emisiones de Gases de Efecto Invernadero (GEI) provenientes de la Agricultura, Ganadería, Silvicultura y Otros Usos de la Tierra. Datos preliminares en proceso de revisión (Inventario de GEI 2016) .",
+      "fileName": "dataset_inventario_agsyout_1990_2016.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "agroindustria_f05eac90-6b9b-4b65-80f4-d015f3b64b26",
+      "last_modified": "2019-09-16T16:19:33.480277",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Emisiones de Gases de Efecto Invernadero provenientes de la Agricultura, Ganadería, Silvicultura y Otros Usos de la Tierra",
+      "package_id": "agroindustria_3d3658e9-f76a-48f7-8b24-35711d30482a",
+      "position": 0,
+      "resource_type": "file.upload",
+      "revision_id": "d0f4aa5f-223c-4447-9613-daf48d614122",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.agroindustria.gob.ar/dataset/3d3658e9-f76a-48f7-8b24-35711d30482a/resource/f05eac90-6b9b-4b65-80f4-d015f3b64b26/download/dataset_inventario_agsyout_1990_2016.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos.agroindustria.gob.ar/dataset/3d3658e9-f76a-48f7-8b24-35711d30482a/resource/f35b01d3-e918-43b6-a0e7-203bfeb3475a",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-01-04T17:05:24.321527",
+      "datastore_active": false,
+      "description": "Se presenta una descripción de los encabezados y conceptos utilizados.\r\n\r\n",
+      "fileName": "dataset_inventario_agsyout_1990_2016_definiciones.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "agroindustria_f35b01d3-e918-43b6-a0e7-203bfeb3475a",
+      "last_modified": "2019-09-13T12:49:02.075786",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Conceptos y encabezados del Inventario de Gases de Efecto Invernadero",
+      "package_id": "agroindustria_3d3658e9-f76a-48f7-8b24-35711d30482a",
+      "position": 1,
+      "resource_type": "file.upload",
+      "revision_id": "761a8f7e-8f29-4afa-b6db-e30c955ba686",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.agroindustria.gob.ar/dataset/3d3658e9-f76a-48f7-8b24-35711d30482a/resource/f35b01d3-e918-43b6-a0e7-203bfeb3475a/download/dataset_inventario_agsyout_1990_2016_definiciones.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos.agroindustria.gob.ar/dataset/3d3658e9-f76a-48f7-8b24-35711d30482a/resource/0dd3f6b5-1a9a-4607-b924-1023e98ed965",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-01-08T15:03:45.899292",
+      "datastore_active": false,
+      "description": "https://inventariogei.ambiente.gob.ar/ link al Inventario Nacional de Gases de Efecto Invernadero donde se contabilizan los gases emitidos y absorbidos (haga click en \"descargar\").",
+      "format": "URL",
+      "hash": "",
+      "id": "agroindustria_0dd3f6b5-1a9a-4607-b924-1023e98ed965",
+      "last_modified": "2019-01-17T13:05:18.003240",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Acceso al Inventario Nacional de Gases de efecto invernadero de la Secretaría de Ambiente y Desarrollo Sustentable",
+      "package_id": "agroindustria_3d3658e9-f76a-48f7-8b24-35711d30482a",
+      "position": 2,
+      "resource_type": "file",
+      "revision_id": "761a8f7e-8f29-4afa-b6db-e30c955ba686",
+      "size": null,
+      "state": "active",
+      "url": "https://inventariogei.ambiente.gob.ar/",
+      "url_type": null
+    }
+  ],
+  "revision_id": "761a8f7e-8f29-4afa-b6db-e30c955ba686",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "CH4",
+      "id": "9584006e-9751-49aa-bea6-396b28f9dca3",
+      "name": "CH4",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "CO2",
+      "id": "a6210cfc-84fd-4f94-9a7a-de8a4f9bd5ed",
+      "name": "CO2",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Fermentacion enterica",
+      "id": "bc1debe9-cc0d-43f2-bc6f-0e677a96eef9",
+      "name": "Fermentacion enterica",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "IPCC",
+      "id": "967d7396-4aa4-4394-a546-08c002b03395",
+      "name": "IPCC",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "MtCO2eq",
+      "id": "75408049-feea-47a0-95ef-bab8d9a2079c",
+      "name": "MtCO2eq",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "N2O",
+      "id": "8e3172b4-3382-4699-998d-8f6f7cacdd52",
+      "name": "N2O",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "NO-CO2",
+      "id": "0b401ba5-fc33-45da-b7b9-05126f0cf244",
+      "name": "NO-CO2",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "agricultura",
+      "id": "9b696c7a-4c4a-496e-b97e-e0368db0bdc7",
+      "name": "agricultura",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "asnales",
+      "id": "5c6b2a4e-c11d-44ce-bcae-4a62d8392ded",
+      "name": "asnales",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "aves",
+      "id": "6fe3eb62-da9f-4cf5-b300-112ba8dc5947",
+      "name": "aves",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "bovinos",
+      "id": "67950875-be60-4495-a907-63c1e6b2f47b",
+      "name": "bovinos",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "bovinos carne",
+      "id": "86b1fcfe-a5c0-4ffe-9782-224dba8db3fa",
+      "name": "bovinos carne",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "bovinos leche",
+      "id": "7e24dc35-4092-44b4-829c-71e9209bf6bf",
+      "name": "bovinos leche",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "bubalinos",
+      "id": "a5d68440-e375-4807-a49b-a383b6cd4671",
+      "name": "bubalinos",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "camelidos",
+      "id": "36629943-59b2-4b17-b632-1ed39607c15c",
+      "name": "camelidos",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "caprinos",
+      "id": "9af2ffdb-91a8-47e4-b66c-71933e85783c",
+      "name": "caprinos",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "emision de gases",
+      "id": "eda0508b-eb17-4447-ae19-28e18d60735b",
+      "name": "emision de gases",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "emisiones",
+      "id": "724503fe-d3b6-48de-bcc3-fccb234d3e59",
+      "name": "emisiones",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "equinos",
+      "id": "bfca9653-75cf-4a1d-a11c-34771ac80631",
+      "name": "equinos",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "excretas en pasturas",
+      "id": "792f0cb8-7bf6-4a36-9d66-ed37f256cb70",
+      "name": "excretas en pasturas",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "fertilizantes",
+      "id": "cf6f8d37-9c79-4e6c-bc4b-5bb3b66bf005",
+      "name": "fertilizantes",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "ganadería",
+      "id": "d2f20e9d-a574-49fb-9b40-185915730b20",
+      "name": "ganadería",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "gestion de estiercol",
+      "id": "d7a19459-426c-4ffe-bda8-05fab4d9fe5a",
+      "name": "gestion de estiercol",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "incendios",
+      "id": "fbcc16f7-ea59-441a-90cc-1b5e8a33066e",
+      "name": "incendios",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "lixiviacion",
+      "id": "14e28b39-a37b-4c92-b09c-ccd93944b3c4",
+      "name": "lixiviacion",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "medio ambiente",
+      "id": "066e5196-683b-4511-90ac-a5a724b50752",
+      "name": "medio ambiente",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "mulares",
+      "id": "ff595a4f-3988-47ab-b2b4-1702562aa669",
+      "name": "mulares",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "ovinos",
+      "id": "aea957ca-9fc7-47fb-9872-206451ad96f2",
+      "name": "ovinos",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "pastizales",
+      "id": "fb2185e1-3d84-4c47-9038-118968880bf7",
+      "name": "pastizales",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "perdida de materia organica",
+      "id": "92c892ed-8eb9-4359-b431-f8a4f7a6c180",
+      "name": "perdida de materia organica",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "porcinos",
+      "id": "db772add-17e9-4cbc-b827-3b9f8fae3043",
+      "name": "porcinos",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "produccion de carne",
+      "id": "40f9cbab-a071-4943-baf6-5eb5f2cb97b5",
+      "name": "produccion de carne",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "produccion lactea",
+      "id": "13708ddb-bfe9-44e0-8e58-98d567f6d74e",
+      "name": "produccion lactea",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "quema de biomasa",
+      "id": "0063b61a-831f-4a96-81af-44ffb42f7ab9",
+      "name": "quema de biomasa",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "residuos de cosecha",
+      "id": "64550b4a-e4a0-4d43-909a-89cfaa1eb89f",
+      "name": "residuos de cosecha",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "tierras forestales",
+      "id": "3e6756a4-3e60-40cd-965d-54770a636261",
+      "name": "tierras forestales",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "uso del suelo",
+      "id": "8fa76319-cace-4834-b7dc-16abab43e2a2",
+      "name": "uso del suelo",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "volatilizacion",
+      "id": "72d4b154-2da2-44d1-b03d-8e89ba03fc87",
+      "name": "volatilizacion",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Producciones Sostenibles - Emisiones de GEI provenientes de la agricultura, ganadería y otros",
+  "type": "dataset",
+  "url": "https://datos.agroindustria.gob.ar/dataset/emisiones-de-gases-de-efecto-invernadero-provenientes-del-agro",
+  "version": null
+}

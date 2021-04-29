@@ -1,0 +1,132 @@
+{
+  "author": "Ministerio de Defensa. Armada Argentina. Departamento Prensa y Difusión.",
+  "author_email": null,
+  "creator_user_id": "4720e75a-9e17-4dc3-879d-041917c7f9f9",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P1Y"
+    },
+    {
+      "key": "issued",
+      "value": "2019-04-22T14:03:53.467492"
+    },
+    {
+      "key": "modified",
+      "value": "2019-04-23T07:28:29.748004"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"GOVE\"]"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Gobierno y sector público",
+      "display_name": "Gobierno y sector público",
+      "id": "e6f07c77-3987-4e71-98a6-731b1aaf74f4",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225353.395233gobierno-sector-publico.svg",
+      "name": "gove",
+      "title": "Gobierno y sector público"
+    }
+  ],
+  "id": "defensa_e32525cd-8922-42df-a2b3-50d2ec490d70",
+  "isopen": false,
+  "license_id": "notspecified",
+  "license_title": "No se especificó la licencia",
+  "maintainer": null,
+  "maintainer_email": null,
+  "metadata_created": "2019-11-26T14:56:29.322273",
+  "metadata_modified": "2021-04-29T17:04:56.702857",
+  "name": "defensa-fragata-libertad",
+  "notes": "Histórico de viajes efectuados por la Fragata Libertad",
+  "num_resources": 1,
+  "num_tags": 5,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:07.977275",
+    "description": "",
+    "id": "5e80ed4f-8bfb-4451-8240-e8f39e695ee1",
+    "image_url": "",
+    "is_organization": true,
+    "name": "defensa",
+    "revision_id": "6c78ab87-28d0-47ba-99bb-5850ddbf7279",
+    "state": "active",
+    "title": " Ministerio de Defensa",
+    "type": "organization"
+  },
+  "owner_org": "5e80ed4f-8bfb-4451-8240-e8f39e695ee1",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "http://datos.mindef.gov.ar/dataset/e32525cd-8922-42df-a2b3-50d2ec490d70/resource/f9d049ef-127a-4bd4-9bdc-d40c12cd76fc",
+      "attributesDescription": "[{\"id\": \"FRLI_mindef_0001\", \"type\": \"date\", \"description\": \"A\\u00f1o de instrucci\\u00f3n\", \"title\": \"indice_tiempo_instruccion\"}, {\"id\": \"FRLI_mindef_0002\", \"type\": \"date\", \"description\": \"Fecha de zarpada de la Fragata\", \"title\": \"fecha_zarpada\"}, {\"id\": \"FRLI_mindef_0003\", \"type\": \"number\", \"description\": \"C\\u00f3digo de Pa\\u00eds\", \"title\": \"pais_zarpada_id\"}, {\"id\": \"FRLI_mindef_0004\", \"type\": \"string\", \"description\": \"Nombre del pa\\u00eds de zarpada\", \"title\": \"pais_zarpada_nombre\"}, {\"id\": \"FRLI_mindef_0005\", \"type\": \"string\", \"description\": \"Nombre del puerto de zarpada\", \"title\": \"puerto_zarpada_nombre\"}, {\"id\": \"FRLI_mindef_0006\", \"type\": \"number\", \"description\": \"Latitud del puerto de zarpada\", \"title\": \"puerto_zarpada_latitud\"}, {\"id\": \"FRLI_mindef_0007\", \"type\": \"number\", \"description\": \"Longitud del puerto de zarpada\", \"title\": \"puerto_zarpada_longitud\"}, {\"id\": \"FRLI_mindef_0008\", \"type\": \"date\", \"description\": \"Fecha de arribo\", \"title\": \"indice_tiempo_arribo\"}, {\"id\": \"FRLI_mindef_0009\", \"type\": \"number\", \"description\": \"C\\u00f3digo del pa\\u00eds de arribo\", \"title\": \"pais_arribo_id\"}, {\"id\": \"FRLI_mindef_0010\", \"type\": \"string\", \"description\": \"Nombre del pa\\u00eds de arribo\", \"title\": \"pais_arribo_nombre\"}, {\"id\": \"FRLI_mindef_0011\", \"type\": \"string\", \"description\": \"Nombre del puerto de arribo\", \"title\": \"puerto_arribo_nombre\"}, {\"id\": \"FRLI_mindef_0012\", \"type\": \"number\", \"description\": \"Latitud del puerto de arribo\", \"title\": \"puerto_arribo_latitud\"}, {\"id\": \"FRLI_mindef_0013\", \"type\": \"number\", \"description\": \"Longitud del puerto de arribo\", \"title\": \"puerto_arribo_longitud\"}, {\"units\": \"Cantidad\", \"id\": \"FRLI_mindef_0014\", \"type\": \"number\", \"description\": \"D\\u00edas de navegaci\\u00f3n de la Fragata\", \"title\": \"dias_navegacion\"}, {\"units\": \"Cantidad\", \"id\": \"FRLI_mindef_0015\", \"type\": \"number\", \"description\": \"D\\u00edas de puerto\", \"title\": \"dias_puerto\"}, {\"units\": \"Cantidad\", \"type\": \"number\", \"description\": \"Cantidad de millas n\\u00e1uticas.\", \"title\": \"millas_nauticas\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-04-23T07:27:46.321744",
+      "datastore_active": false,
+      "description": "Histórico de viajes de a Fragata Libertad",
+      "fileName": "viajes-instruccion-fragata-libertad-historico.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "defensa_f9d049ef-127a-4bd4-9bdc-d40c12cd76fc",
+      "last_modified": "2019-04-23T07:27:46.321744",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Fragata Libertad",
+      "package_id": "defensa_e32525cd-8922-42df-a2b3-50d2ec490d70",
+      "position": 0,
+      "resource_type": "file.upload",
+      "revision_id": "99d5699d-4c03-49ff-a05b-f8ef39c28f6e",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.mindef.gov.ar/dataset/e32525cd-8922-42df-a2b3-50d2ec490d70/resource/f9d049ef-127a-4bd4-9bdc-d40c12cd76fc/download/viajes-instruccion-fragata-libertad-historico.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "e78444cf-758c-42ee-b665-3feca1cd90c2",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "Armada Argentina",
+      "id": "6cf88912-1890-4809-9a3c-6aa6f58a479a",
+      "name": "Armada Argentina",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Fragata",
+      "id": "a8a9764e-5fa6-42e4-acbe-d3bbc6bd29bd",
+      "name": "Fragata",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Inserción Internacional",
+      "id": "36ec68bb-613f-43c8-b4ad-708b4c972a72",
+      "name": "Inserción Internacional",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Instrucción",
+      "id": "86db98c0-c234-48b6-be38-b015d85c8fe7",
+      "name": "Instrucción",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Viajes",
+      "id": "93126536-c5c4-4355-824a-c9a58dbb02ef",
+      "name": "Viajes",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Fragata Libertad",
+  "type": "dataset",
+  "url": "http://datos.mindef.gov.ar/dataset/fragata-libertad",
+  "version": null
+}

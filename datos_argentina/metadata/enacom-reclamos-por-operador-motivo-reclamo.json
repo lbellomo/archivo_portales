@@ -1,0 +1,159 @@
+{
+  "author": "Ente Nacional de Comunicaciones (ENACOM)",
+  "author_email": "contacto@enacom.gob.ar",
+  "creator_user_id": "4720e75a-9e17-4dc3-879d-041917c7f9f9",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P1Y"
+    },
+    {
+      "key": "issued",
+      "value": "2019-01-17T18:59:25"
+    },
+    {
+      "key": "language",
+      "value": "[\"spa\"]"
+    },
+    {
+      "key": "modified",
+      "value": "2019-11-08T22:01:15Z"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"TECH\"]"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Ciencia y tecnología",
+      "display_name": "Ciencia y tecnología",
+      "id": "0dd7dd0e-aae8-402f-8660-f1e8b6b6084c",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225221.170833ciencia-tecnologia.svg",
+      "name": "tech",
+      "title": "Ciencia y tecnología"
+    }
+  ],
+  "id": "enacom_RECLA-POR-OPERA-ANO-CORRI",
+  "isopen": false,
+  "license_id": "notspecified",
+  "license_title": "No se especificó la licencia",
+  "maintainer": null,
+  "maintainer_email": null,
+  "metadata_created": "2019-11-26T14:55:28.489150",
+  "metadata_modified": "2021-04-29T17:04:27.424065",
+  "name": "enacom-reclamos-por-operador-motivo-reclamo",
+  "notes": "Número mensual de reclamos recibidos por motivo de reclamación y operador del servicio",
+  "num_resources": 3,
+  "num_tags": 2,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:07.525331",
+    "description": "",
+    "id": "6eb7d19b-2d42-494f-8e57-d67c501d23eb",
+    "image_url": "",
+    "is_organization": true,
+    "name": "enacom",
+    "revision_id": "f2d2a5ad-7015-4d68-9d9c-5a82fadbbbf3",
+    "state": "active",
+    "title": "Ente Nacional de Comunicaciones",
+    "type": "organization"
+  },
+  "owner_org": "6eb7d19b-2d42-494f-8e57-d67c501d23eb",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/241161/reclamos-por-operador-y-motivo-de-reclamo/",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-01-17T18:59:25",
+      "datastore_active": false,
+      "description": "Número mensual de reclamos recibidos por motivo de reclamación y operador del servicio",
+      "format": "CSV",
+      "hash": "",
+      "id": "enacom_RECLA-POR-OPERA-ANO-CORRI_0",
+      "last_modified": "2019-11-08T19:01:15",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Reclamos por operador y motivo de reclamo",
+      "package_id": "enacom_RECLA-POR-OPERA-ANO-CORRI",
+      "position": 0,
+      "resource_type": null,
+      "revision_id": "74a5d405-b1eb-45d6-9c11-9f60d73a809a",
+      "size": null,
+      "state": "active",
+      "url": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/RECLA-POR-OPERA-ANO-CORRI/data.csv?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/241161/reclamos-por-operador-y-motivo-de-reclamo/",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-01-17T18:59:25",
+      "datastore_active": false,
+      "description": "Número mensual de reclamos recibidos por motivo de reclamación y operador del servicio",
+      "format": "XLS",
+      "hash": "",
+      "id": "enacom_RECLA-POR-OPERA-ANO-CORRI_1",
+      "last_modified": "2019-11-08T19:01:15",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Reclamos por operador y motivo de reclamo",
+      "package_id": "enacom_RECLA-POR-OPERA-ANO-CORRI",
+      "position": 1,
+      "resource_type": null,
+      "revision_id": "7f924f42-894f-4a8a-afaa-9bebac1a3e1e",
+      "size": null,
+      "state": "active",
+      "url": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/RECLA-POR-OPERA-ANO-CORRI/data.xls?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/241161/reclamos-por-operador-y-motivo-de-reclamo/",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-01-17T18:59:25",
+      "datastore_active": false,
+      "description": "Número mensual de reclamos recibidos por motivo de reclamación y operador del servicio",
+      "format": "JSON",
+      "hash": "",
+      "id": "enacom_RECLA-POR-OPERA-ANO-CORRI_2",
+      "last_modified": "2019-11-08T19:01:15",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Reclamos por operador y motivo de reclamo",
+      "package_id": "enacom_RECLA-POR-OPERA-ANO-CORRI",
+      "position": 2,
+      "resource_type": null,
+      "revision_id": "b94c9a0b-2b0d-440a-b4ec-1d38fbe332dd",
+      "size": null,
+      "state": "active",
+      "url": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/RECLA-POR-OPERA-ANO-CORRI/data.json?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1",
+      "url_type": null
+    }
+  ],
+  "revision_id": "b94c9a0b-2b0d-440a-b4ec-1d38fbe332dd",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "denuncias",
+      "id": "ab7672c9-5ae8-4f85-b878-ea2ccc8d85e6",
+      "name": "denuncias",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "reclamos",
+      "id": "f72200a6-cc85-4be0-b9fa-67dbced8233a",
+      "name": "reclamos",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Reclamos por operador y motivo de reclamo",
+  "type": "dataset",
+  "url": "http://api.datosabiertos.enacom.gob.ar/dataset/enacom-reclamos-por-operador-motivo-reclamo",
+  "version": null
+}

@@ -1,0 +1,153 @@
+{
+  "author": "Dirección de Aves de Granja y No Tradicionales",
+  "author_email": "animen@magyp.gob.ar",
+  "creator_user_id": "dc157489-51c6-44ce-bd63-3bd983d60778",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P1M"
+    },
+    {
+      "key": "issued",
+      "value": "2019-03-28T19:34:43.472618"
+    },
+    {
+      "key": "language",
+      "value": "[\"spa\"]"
+    },
+    {
+      "key": "modified",
+      "value": "2019-10-24T10:41:13.591656"
+    },
+    {
+      "key": "source",
+      "value": "Dirección de Porcinos, Aves de Granja y No Tradicionales"
+    },
+    {
+      "key": "spatial",
+      "value": "[\"ARG\"]"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"AGRI\", \"SOCI\"]"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Agroganadería, pesca y forestación",
+      "display_name": "Agroganadería, pesca y forestación",
+      "id": "0c35ea38-7059-41d2-9827-5587769d0dc6",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225145.990789agroganaderia-pesca-forestacion.svg",
+      "name": "agri",
+      "title": "Agroganadería, pesca y forestación"
+    },
+    {
+      "description": "Población y sociedad",
+      "display_name": "Población y sociedad",
+      "id": "eb5df7fa-064a-4b51-89f6-af323ee1bf85",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225728.341804poblacion-sociedad.svg",
+      "name": "soci",
+      "title": "Población y sociedad"
+    }
+  ],
+  "id": "agroindustria_35c36c7f-b8e9-4528-abf1-d3bbd62ee659",
+  "isopen": true,
+  "license_id": "CC-BY-4.0",
+  "license_title": "Creative Commons Attribution 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "maintainer": "Dirección de Aves de Granja y No Tradicionales",
+  "maintainer_email": "animen@magyp.gob.ar",
+  "metadata_created": "2019-12-04T21:13:22.203635",
+  "metadata_modified": "2021-04-29T17:06:44.299870",
+  "name": "agroindustria-aves---consumo-carne-aviar",
+  "notes": "Se presenta el consumo aparente total y per cápita de carne de aves. Los datos se expresan en miles de toneladas y kilogramos por persona y por año respectivamente con una actualización mensual. Datos preliminares, sujetos a revisión.",
+  "num_resources": 1,
+  "num_tags": 5,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:07.834957",
+    "description": "",
+    "id": "b10c94e2-ade1-4a97-8c4c-b1ada7878d60",
+    "image_url": "",
+    "is_organization": true,
+    "name": "agroindustria",
+    "revision_id": "f7c3b6e9-d48f-4522-9f7a-388d805c8392",
+    "state": "active",
+    "title": "Ministerio de Agricultura, Ganadería y Pesca",
+    "type": "organization"
+  },
+  "owner_org": "b10c94e2-ade1-4a97-8c4c-b1ada7878d60",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "http://datos.agroindustria.gob.ar/dataset/35c36c7f-b8e9-4528-abf1-d3bbd62ee659/resource/24571505-bee3-447c-8c2c-8aabd9515508",
+      "attributesDescription": "[{\"specialType\": \"time_index\", \"specialTypeDetail\": \"R/P1M\", \"type\": \"date\", \"description\": \"Fecha correspondiente al consumo de mes y a\\u00f1o\", \"title\": \"indice_tiempo\"}, {\"units\": \"miles de toneladas\", \"id\": \"AGRO_0027\", \"type\": \"number\", \"description\": \"Se presenta el consumo aparente en miles de toneladas\", \"title\": \"consumo_aparente_miles_tn\"}, {\"units\": \"kilogramos por persona y por a\\u00f1o\", \"id\": \"AGRO_0028\", \"type\": \"number\", \"description\": \"Se presenta el consumo de carne aviar per c\\u00e1pita\", \"title\": \"consumo_per_capita_kg_persona_anio\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-03-28T17:17:31.920421",
+      "datastore_active": false,
+      "description": "Serie de tiempo del consumo aparente  y per cápita de carne de aves. Los datos se expresan en miles de toneladas y kilogramos por persona y por año respectivamente.",
+      "fileName": "serie-tiempo-consumo_carne_aviar.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "agroindustria_24571505-bee3-447c-8c2c-8aabd9515508",
+      "last_modified": "2020-07-31T12:18:54.005356",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Consumo de Carne Aviar - Serie de Tiempo",
+      "package_id": "agroindustria_35c36c7f-b8e9-4528-abf1-d3bbd62ee659",
+      "position": 0,
+      "resource_type": "file.upload",
+      "revision_id": "2ec8363b-33b2-49bb-ad9d-2980af12ccde",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.agroindustria.gob.ar/dataset/35c36c7f-b8e9-4528-abf1-d3bbd62ee659/resource/24571505-bee3-447c-8c2c-8aabd9515508/download/serie-tiempo-consumo_carne_aviar.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "43ce71e7-1d4e-4719-a80e-a32a121e4d16",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "aves",
+      "id": "6fe3eb62-da9f-4cf5-b300-112ba8dc5947",
+      "name": "aves",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "carne aviar",
+      "id": "2a17fe3b-715d-4582-aa42-05fbb8554925",
+      "name": "carne aviar",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "carne de aves",
+      "id": "46e9bdde-26b5-418b-9493-c9eb6cb3b494",
+      "name": "carne de aves",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "consumo aparente",
+      "id": "aff4f4fc-14ce-4b67-9382-d310b6eda2dc",
+      "name": "consumo aparente",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "consumo per cápita",
+      "id": "24d906b2-ed57-4fac-a4ba-708a3e2ad169",
+      "name": "consumo per cápita",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Aves - Consumo de carne aviar",
+  "type": "dataset",
+  "url": "https://datos.agroindustria.gob.ar/dataset/consumo-de-carne-aviar",
+  "version": null
+}

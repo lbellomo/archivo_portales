@@ -1,0 +1,690 @@
+{
+  "author": "Dirección de Mercados Agrícolas - Subsecretaría de Mercados Agropecuarios",
+  "author_email": "sma@magyp.gob.ar",
+  "creator_user_id": "dc157489-51c6-44ce-bd63-3bd983d60778",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P4M"
+    },
+    {
+      "key": "issued",
+      "value": "2018-12-07T21:21:20.979178"
+    },
+    {
+      "key": "language",
+      "value": "[\"spa\"]"
+    },
+    {
+      "key": "modified",
+      "value": "2019-10-24T11:11:31.585098"
+    },
+    {
+      "key": "spatial",
+      "value": "[\"ARG\"]"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"AGRI\", \"ECON\"]"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Agroganadería, pesca y forestación",
+      "display_name": "Agroganadería, pesca y forestación",
+      "id": "0c35ea38-7059-41d2-9827-5587769d0dc6",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225145.990789agroganaderia-pesca-forestacion.svg",
+      "name": "agri",
+      "title": "Agroganadería, pesca y forestación"
+    },
+    {
+      "description": "Economía y finanzas",
+      "display_name": "Economía y finanzas",
+      "id": "60b4b03e-10a1-4d67-b984-08008a249617",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225257.200233economia-finanzas.svg",
+      "name": "econ",
+      "title": "Economía y finanzas"
+    }
+  ],
+  "id": "agroindustria_8b4d6a1f-753d-4707-9085-bdcbbc47f00b",
+  "isopen": true,
+  "license_id": "CC-BY-4.0",
+  "license_title": "Creative Commons Attribution 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "maintainer": "Dirección de Mercados Agrícolas",
+  "maintainer_email": "sma@magyp.gob.ar",
+  "metadata_created": "2019-12-04T20:00:35.213524",
+  "metadata_modified": "2021-04-29T17:10:51.607694",
+  "name": "agroindustria-frutas-hortalizas---precios-mayoristas",
+  "notes": "Precios mayoristas de frutas y hortalizas de diferentes mercados concentradores de América del Sur. Los valores están expresados en dólares estadounidenses por kilogramo de producto. Los campos vacíos indican datos no asentados.",
+  "num_resources": 5,
+  "num_tags": 68,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:07.834957",
+    "description": "",
+    "id": "b10c94e2-ade1-4a97-8c4c-b1ada7878d60",
+    "image_url": "",
+    "is_organization": true,
+    "name": "agroindustria",
+    "revision_id": "f7c3b6e9-d48f-4522-9f7a-388d805c8392",
+    "state": "active",
+    "title": "Ministerio de Agricultura, Ganadería y Pesca",
+    "type": "organization"
+  },
+  "owner_org": "b10c94e2-ade1-4a97-8c4c-b1ada7878d60",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "http://datos.agroindustria.gob.ar/dataset/8b4d6a1f-753d-4707-9085-bdcbbc47f00b/resource/6dce1e87-7988-4eaf-b0e1-b3abbb3964da",
+      "attributesDescription": "[{\"type\": \"integer\", \"description\": \"pais_id\", \"title\": \"pais_id\"}, {\"type\": \"string\", \"description\": \"pais\", \"title\": \"pais\"}, {\"type\": \"string\", \"description\": \"mercado\", \"title\": \"mercado\"}, {\"type\": \"integer\", \"description\": \"a\\u00f1o\", \"title\": \"a\\u00f1o\"}, {\"type\": \"string\", \"description\": \"mes\", \"title\": \"mes\"}, {\"type\": \"string\", \"description\": \"producto\", \"title\": \"producto\"}, {\"type\": \"string\", \"description\": \"variedad\", \"title\": \"variedad\"}, {\"type\": \"string\", \"description\": \"origen\", \"title\": \"origen\"}, {\"type\": \"number\", \"description\": \"precio_usd_kg\", \"title\": \"precio_usd_kg\"}, {\"type\": \"string\", \"description\": \"moneda_cod\", \"title\": \"moneda_cod\"}, {\"type\": \"string\", \"description\": \"moneda\", \"title\": \"moneda\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2018-09-27T18:41:54.185361",
+      "datastore_active": false,
+      "description": "Precios mayoristas de frutas y hortalizas del Mercado Central de Buenos Aires, Argentina. Los valores están expresados en dólares estadounidenses por kilogramo de producto.",
+      "fileName": "precios-fyh-mercadocentral-bsas-arg-2017-2c2018-.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "agroindustria_6dce1e87-7988-4eaf-b0e1-b3abbb3964da",
+      "last_modified": "2019-01-17T19:10:16.021616",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Precios mayoristas de frutas y hortalizas del Mercado Central de Buenos Aires",
+      "package_id": "agroindustria_8b4d6a1f-753d-4707-9085-bdcbbc47f00b",
+      "position": 0,
+      "resource_type": "file.upload",
+      "revision_id": "c3a3be50-5b6c-4cf0-9406-13a737dada0c",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.agroindustria.gob.ar/dataset/8b4d6a1f-753d-4707-9085-bdcbbc47f00b/resource/6dce1e87-7988-4eaf-b0e1-b3abbb3964da/download/precios-fyh-mercadocentral-bsas-arg-2017-2c2018-.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos.agroindustria.gob.ar/dataset/8b4d6a1f-753d-4707-9085-bdcbbc47f00b/resource/f6393c63-6664-4340-ad25-915098a02aa3",
+      "attributesDescription": "[{\"type\": \"integer\", \"description\": \"pais_id\", \"title\": \"pais_id\"}, {\"type\": \"string\", \"description\": \"pais\", \"title\": \"pais\"}, {\"type\": \"string\", \"description\": \"mercado\", \"title\": \"mercado\"}, {\"type\": \"integer\", \"description\": \"a\\u00f1o\", \"title\": \"a\\u00f1o\"}, {\"type\": \"string\", \"description\": \"mes\", \"title\": \"mes\"}, {\"type\": \"string\", \"description\": \"producto\", \"title\": \"producto\"}, {\"type\": \"string\", \"description\": \"variedad\", \"title\": \"variedad\"}, {\"type\": \"string\", \"description\": \"origen\", \"title\": \"origen\"}, {\"type\": \"number\", \"description\": \"precio_usd_kg\", \"title\": \"precio_usd_kg\"}, {\"type\": \"string\", \"description\": \"moneda_cod\", \"title\": \"moneda_cod\"}, {\"type\": \"string\", \"description\": \"moneda\", \"title\": \"moneda\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2018-11-09T15:29:34.600825",
+      "datastore_active": false,
+      "description": "Precios mayoristas de frutas y hortalizas del Mercado Ceagesp de San Pablo, Brasil. Los valores están expresados en dólares estadounidenses por kilogramo de producto.",
+      "fileName": "precios-fyh-mercado-sanpablo-brasil-2017-2c2018-.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "agroindustria_f6393c63-6664-4340-ad25-915098a02aa3",
+      "last_modified": "2019-01-17T19:12:22.799004",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Precios mayoristas de frutas y hortalizas del Mercado de San Pablo",
+      "package_id": "agroindustria_8b4d6a1f-753d-4707-9085-bdcbbc47f00b",
+      "position": 1,
+      "resource_type": "file.upload",
+      "revision_id": "68d62e45-bb23-4db0-b9b6-2741eb4fd2c5",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.agroindustria.gob.ar/dataset/8b4d6a1f-753d-4707-9085-bdcbbc47f00b/resource/f6393c63-6664-4340-ad25-915098a02aa3/download/precios-fyh-mercado-sanpablo-brasil-2017-2c2018-.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos.agroindustria.gob.ar/dataset/8b4d6a1f-753d-4707-9085-bdcbbc47f00b/resource/812813d9-d2c2-465d-a0ab-2b3e2c3ffb9f",
+      "attributesDescription": "[{\"type\": \"integer\", \"description\": \"pais_id\", \"title\": \"pais_id\"}, {\"type\": \"string\", \"description\": \"pais\", \"title\": \"pais\"}, {\"type\": \"string\", \"description\": \"mercado\", \"title\": \"mercado\"}, {\"type\": \"integer\", \"description\": \"a\\u00f1o\", \"title\": \"a\\u00f1o\"}, {\"type\": \"string\", \"description\": \"mes\", \"title\": \"mes\"}, {\"type\": \"string\", \"description\": \"producto\", \"title\": \"producto\"}, {\"type\": \"string\", \"description\": \"variedad\", \"title\": \"variedad\"}, {\"type\": \"string\", \"description\": \"origen\", \"title\": \"origen\"}, {\"type\": \"number\", \"description\": \"precio_usd_kg\", \"title\": \"precio_usd_kg\"}, {\"type\": \"string\", \"description\": \"moneda_cod\", \"title\": \"moneda_cod\"}, {\"type\": \"string\", \"description\": \"moneda\", \"title\": \"moneda\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2018-11-09T15:31:59.249794",
+      "datastore_active": false,
+      "description": "Precios mayoristas de frutas y hortalizas del Mercado Central de Asunción, Paraguay. Los valores están expresados en dólares estadounidenses por kilogramo de producto.",
+      "fileName": "precios-fyh-mercado-asuncion-paraguay-2017-2c2018-.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "agroindustria_812813d9-d2c2-465d-a0ab-2b3e2c3ffb9f",
+      "last_modified": "2019-01-29T14:02:02.820494",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Precios mayoristas de frutas y hortalizas del Mercado Central de Asunción",
+      "package_id": "agroindustria_8b4d6a1f-753d-4707-9085-bdcbbc47f00b",
+      "position": 2,
+      "resource_type": "file.upload",
+      "revision_id": "c3a3be50-5b6c-4cf0-9406-13a737dada0c",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.agroindustria.gob.ar/dataset/8b4d6a1f-753d-4707-9085-bdcbbc47f00b/resource/812813d9-d2c2-465d-a0ab-2b3e2c3ffb9f/download/precios-fyh-mercado-asuncion-paraguay-2017-2c2018-.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos.agroindustria.gob.ar/dataset/8b4d6a1f-753d-4707-9085-bdcbbc47f00b/resource/42e2bf41-2d45-411b-9e09-56f9f07958a9",
+      "attributesDescription": "[{\"type\": \"integer\", \"description\": \"pais_id\", \"title\": \"pais_id\"}, {\"type\": \"string\", \"description\": \"pais\", \"title\": \"pais\"}, {\"type\": \"string\", \"description\": \"mercado\", \"title\": \"mercado\"}, {\"type\": \"integer\", \"description\": \"a\\u00f1o\", \"title\": \"a\\u00f1o\"}, {\"type\": \"string\", \"description\": \"mes\", \"title\": \"mes\"}, {\"type\": \"string\", \"description\": \"producto\", \"title\": \"producto\"}, {\"type\": \"string\", \"description\": \"variedad\", \"title\": \"variedad\"}, {\"type\": \"string\", \"description\": \"origen\", \"title\": \"origen\"}, {\"type\": \"number\", \"description\": \"precio_usd_kg\", \"title\": \"precio_usd_kg\"}, {\"type\": \"string\", \"description\": \"moneda_cod\", \"title\": \"moneda_cod\"}, {\"type\": \"string\", \"description\": \"moneda\", \"title\": \"moneda\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2018-11-09T15:33:35.377017",
+      "datastore_active": false,
+      "description": "Precios mayoristas de frutas y hortalizas del Mercado Lo Valledor de Santiago de Chile. Los valores están expresados en dólares estadounidenses por kilogramo de producto.",
+      "fileName": "precios-fyh-mercado-Santiago-Chile-2017-2C2018-.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "agroindustria_42e2bf41-2d45-411b-9e09-56f9f07958a9",
+      "last_modified": "2019-01-16T15:38:57.385882",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Precios mayoristas de frutas y hortalizas del Mercado Lo Valledor de Santiago de Chile",
+      "package_id": "agroindustria_8b4d6a1f-753d-4707-9085-bdcbbc47f00b",
+      "position": 3,
+      "resource_type": "file.upload",
+      "revision_id": "c3a3be50-5b6c-4cf0-9406-13a737dada0c",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.agroindustria.gob.ar/dataset/8b4d6a1f-753d-4707-9085-bdcbbc47f00b/resource/42e2bf41-2d45-411b-9e09-56f9f07958a9/download/precios-fyh-mercado-santiago-chile-2017-2c2018-.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos2.agroindustria.gob.ar/dataset/8b4d6a1f-753d-4707-9085-bdcbbc47f00b/archivo/72067f03-0eb7-4e15-bba3-20df6b0e0b76",
+      "attributesDescription": "[{\"type\": \"integer\", \"description\": \"pais_id\", \"title\": \"pais_id\"}, {\"type\": \"string\", \"description\": \"pais\", \"title\": \"pais\"}, {\"type\": \"string\", \"description\": \"mercado\", \"title\": \"mercado\"}, {\"type\": \"integer\", \"description\": \"a\\u00f1o\", \"title\": \"a\\u00f1o\"}, {\"type\": \"string\", \"description\": \"mes\", \"title\": \"mes\"}, {\"type\": \"string\", \"description\": \"producto\", \"title\": \"producto\"}, {\"type\": \"string\", \"description\": \"variedad\", \"title\": \"variedad\"}, {\"type\": \"string\", \"description\": \"origen\", \"title\": \"origen\"}, {\"type\": \"number\", \"description\": \"precio_usd_kg\", \"title\": \"precio_usd_kg\"}, {\"type\": \"string\", \"description\": \"moneda_cod\", \"title\": \"moneda_cod\"}, {\"type\": \"string\", \"description\": \"moneda\", \"title\": \"moneda\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2018-11-09T15:34:57.906345",
+      "datastore_active": false,
+      "description": "Precios mayoristas de frutas y hortalizas del Mercado Modelo de Uruguay. Los valores están expresados en dólares estadounidenses por kilogramo de producto.",
+      "fileName": "precios-fyh-mercado-uruguay-2017-2c2018-2.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "agroindustria_72067f03-0eb7-4e15-bba3-20df6b0e0b76",
+      "last_modified": "2019-01-22T15:15:56.165273",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Precios mayoristas de frutas y hortalizas del Mercado Modelo de Uruguay",
+      "package_id": "agroindustria_8b4d6a1f-753d-4707-9085-bdcbbc47f00b",
+      "position": 4,
+      "resource_type": "file.upload",
+      "revision_id": "c3a3be50-5b6c-4cf0-9406-13a737dada0c",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.agroindustria.gob.ar/dataset/8b4d6a1f-753d-4707-9085-bdcbbc47f00b/resource/72067f03-0eb7-4e15-bba3-20df6b0e0b76/download/precios-fyh-mercado-uruguay-2017-2c2018-2.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "4ca05a1d-0104-42b1-bbc7-3881e41e6b73",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "Mercado Central",
+      "id": "547c51fb-e8da-48ea-9090-255caffcf56d",
+      "name": "Mercado Central",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Mercado Lo Valledor",
+      "id": "8b740a7e-9094-48fd-8f80-7c9c7ebd02da",
+      "name": "Mercado Lo Valledor",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Mercado Modelo de Uruguay",
+      "id": "37fc3563-78df-42f6-9479-f7a065c441c8",
+      "name": "Mercado Modelo de Uruguay",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "acelga",
+      "id": "9340b798-e47f-47f9-b076-5b109a684b8f",
+      "name": "acelga",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "aji",
+      "id": "f1d54e6d-d52c-462c-a6ed-91b01fe5a2e6",
+      "name": "aji",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "ajo",
+      "id": "b15e6159-7960-45b9-bdc8-7d1be8a4f6ce",
+      "name": "ajo",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "albahaca",
+      "id": "bc07ecfd-0cf3-457a-a774-dca6d67b6b3c",
+      "name": "albahaca",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "anana",
+      "id": "8a1daa16-7668-482d-8020-e39ffd22f689",
+      "name": "anana",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "anco",
+      "id": "9e553ed6-e799-49ad-9cc3-98147de7381d",
+      "name": "anco",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "apio",
+      "id": "e5313beb-aed1-4871-8890-0a833018340b",
+      "name": "apio",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "arveja",
+      "id": "a41a7c6b-d875-4020-bd7b-27d16c4a5cf2",
+      "name": "arveja",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "banana",
+      "id": "02252d7d-bec5-4ea9-ae2e-c4d181942aaf",
+      "name": "banana",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "batata",
+      "id": "cb9c972f-47b9-46a7-a790-b8a88eed29d1",
+      "name": "batata",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "berenjena",
+      "id": "f199f8df-6d1a-4ee1-aabe-9a2c6020c3b1",
+      "name": "berenjena",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "brocoli",
+      "id": "e3a5c8ab-ef25-432d-9d1d-09a4c3c2f936",
+      "name": "brocoli",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "calabaza",
+      "id": "c9fcb6af-1b7f-43e6-b56e-04ae417dd8d6",
+      "name": "calabaza",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "cebolla",
+      "id": "0858912b-f4b3-440d-b235-1e8df9db0f0a",
+      "name": "cebolla",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "cebolla colorada",
+      "id": "ce0ff727-5a51-44b8-b11b-517d54227e98",
+      "name": "cebolla colorada",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "chaucha",
+      "id": "a648c22d-28ea-4e10-93f2-efcf77ebd240",
+      "name": "chaucha",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "chirimoya",
+      "id": "bb574a6c-ace8-4627-b5ae-3b47dbb39ca0",
+      "name": "chirimoya",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "choclo",
+      "id": "269edc97-f8a7-4546-9384-5b5fd7db0c47",
+      "name": "choclo",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "ciruela",
+      "id": "519cb889-ee69-4630-a1a2-6e497285cf8d",
+      "name": "ciruela",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "coliflor",
+      "id": "cf8557a3-4f4b-4dec-99b4-3a7ec149285c",
+      "name": "coliflor",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "dolares",
+      "id": "55b8c4d9-c06e-4866-be27-b8cb063f0cec",
+      "name": "dolares",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "durazno",
+      "id": "adbc4dda-0676-4dd8-a7ad-639528a45905",
+      "name": "durazno",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "epinaca",
+      "id": "e4e63f95-8ffb-413a-a268-031361c49dd1",
+      "name": "epinaca",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "espinaca",
+      "id": "3f48b508-d15c-4461-9438-1f8849d4dfad",
+      "name": "espinaca",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "frambuesa",
+      "id": "c9848001-770c-48b6-b3f6-6891391a08fe",
+      "name": "frambuesa",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "frutas",
+      "id": "d88cda2c-194e-4939-abfd-78852b720952",
+      "name": "frutas",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "frutilla",
+      "id": "df51bdbd-1953-4c20-aae6-f19870225c7f",
+      "name": "frutilla",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "hortalizas",
+      "id": "9ef19104-8144-47fd-8e4f-eac787ca3d0c",
+      "name": "hortalizas",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "kiwi",
+      "id": "0a7dbfd8-bfa0-4f3a-8ecf-be34a56f3b5c",
+      "name": "kiwi",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "lechuga",
+      "id": "f0ed0c57-f2ae-4cfc-9ca3-b815891202fe",
+      "name": "lechuga",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "lechuga criolla",
+      "id": "62b783fa-2abf-43f7-9768-5e0a4ae8607c",
+      "name": "lechuga criolla",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "limon",
+      "id": "b8b6ae49-31ed-4e75-b2f8-7bdd1f3c2ca1",
+      "name": "limon",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "mamon",
+      "id": "5dc9b705-d817-46ac-95d2-1fc6d5b76fa0",
+      "name": "mamon",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "mandarina",
+      "id": "bc2b0154-64d3-4baa-81bd-4ae692fac1f4",
+      "name": "mandarina",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "mango",
+      "id": "c444a39a-684a-4869-ad1c-471252b9be62",
+      "name": "mango",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "manzana",
+      "id": "af49a216-a66b-40a4-83fd-9b6dc73c4ac5",
+      "name": "manzana",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "melon",
+      "id": "d4a60b76-0473-4a82-9a9d-856caa021e8c",
+      "name": "melon",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "morron",
+      "id": "56a9ed02-9daf-4272-aad7-73f9a8039bef",
+      "name": "morron",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "nabo",
+      "id": "d53d61e3-b9a9-4e48-8c32-72e0e5f58abe",
+      "name": "nabo",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "naranja",
+      "id": "593d0771-b768-46d8-a077-7e5f3677a48c",
+      "name": "naranja",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "palta",
+      "id": "b08e2eff-9603-4036-a2d7-17862f5bb416",
+      "name": "palta",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "papa",
+      "id": "411841f0-5f40-46bb-8645-b6e7097c09ed",
+      "name": "papa",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "pepino",
+      "id": "abf87821-516b-46e9-9c3a-fec25c3f5a9f",
+      "name": "pepino",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "pera",
+      "id": "be3b2802-8835-4810-86df-5a737b4aa1e8",
+      "name": "pera",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "perejil",
+      "id": "dbd465a3-7596-4832-b404-0133448122b0",
+      "name": "perejil",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "pimenta",
+      "id": "62c3606d-2b23-409a-9eb7-82e95fa99f46",
+      "name": "pimenta",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "pimiento",
+      "id": "077f2728-3e5b-427f-a94d-1a081a01feeb",
+      "name": "pimiento",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "pimiento rojo",
+      "id": "42cadd7c-4b1f-424a-b756-2ae4b735c575",
+      "name": "pimiento rojo",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "pimiento verde",
+      "id": "d24537d9-408b-4d9d-acb8-c1b53e400bf4",
+      "name": "pimiento verde",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "platano",
+      "id": "f29011c9-d6c6-495a-a72e-bed3ca33384f",
+      "name": "platano",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "pomelo",
+      "id": "f9737a16-44ec-42bc-9601-8974d943dd09",
+      "name": "pomelo",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "poroto verde",
+      "id": "47ba7781-16a0-4426-aefb-22e9797b397e",
+      "name": "poroto verde",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "precio frutas",
+      "id": "18ff007b-4fee-4bc4-8522-a8ebf88f7800",
+      "name": "precio frutas",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "precio hortalizas",
+      "id": "a2b26b77-1bc8-445b-a326-29c4e265997c",
+      "name": "precio hortalizas",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "radicheta",
+      "id": "2d7f430d-96bb-46e9-8913-8180f5dbae84",
+      "name": "radicheta",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "remolacha",
+      "id": "e9442436-9e9b-4d68-8c2e-1a9dc8cd3980",
+      "name": "remolacha",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "repollo tomate",
+      "id": "7d4cd3d3-ef48-4f10-b294-a5767a6137ad",
+      "name": "repollo tomate",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "sandia",
+      "id": "3dad477a-01d0-45f4-b0f8-5dea381cc2f6",
+      "name": "sandia",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "tomate",
+      "id": "a7354b94-21f4-437c-8392-3b950bded702",
+      "name": "tomate",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "tomate lisa",
+      "id": "4edb25d8-f070-49b6-b2bc-cd2754ff3da1",
+      "name": "tomate lisa",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "tomate santa cruz",
+      "id": "f7c2d079-44d1-4411-9445-de678ace94a7",
+      "name": "tomate santa cruz",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "uva",
+      "id": "7ae78437-8d26-4ebe-9f13-6cec4fef2bf6",
+      "name": "uva",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "zanahoria",
+      "id": "e93e7b98-b6db-4500-80f3-8ee867c7c5ef",
+      "name": "zanahoria",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "zapallito",
+      "id": "27b82c0a-d740-4597-ba21-8ebe58e9acad",
+      "name": "zapallito",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "zapallo",
+      "id": "da530aba-6a1a-42b7-b40a-d1f90f6d9a34",
+      "name": "zapallo",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Frutas y hortalizas - Precios mayoristas",
+  "type": "dataset",
+  "url": "https://datos.agroindustria.gob.ar/dataset/precios-mayoristas-frutas-hortalizas",
+  "version": null
+}

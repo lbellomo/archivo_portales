@@ -1,0 +1,250 @@
+{
+  "author": "Dirección Nacional Láctea",
+  "author_email": "estadisticaslecheria@magyp.gob.ar",
+  "creator_user_id": "dc157489-51c6-44ce-bd63-3bd983d60778",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P1Y"
+    },
+    {
+      "key": "issued",
+      "value": "2018-12-07T21:26:08.554198"
+    },
+    {
+      "key": "language",
+      "value": "[\"spa\"]"
+    },
+    {
+      "key": "modified",
+      "value": "2019-10-24T10:37:02.548771"
+    },
+    {
+      "key": "spatial",
+      "value": "[\"ARG\"]"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"AGRI\"]"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Agroganadería, pesca y forestación",
+      "display_name": "Agroganadería, pesca y forestación",
+      "id": "0c35ea38-7059-41d2-9827-5587769d0dc6",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225145.990789agroganaderia-pesca-forestacion.svg",
+      "name": "agri",
+      "title": "Agroganadería, pesca y forestación"
+    }
+  ],
+  "id": "agroindustria_98360787-d5f7-4a09-bfcd-73e7303fe190",
+  "isopen": true,
+  "license_id": "CC-BY-4.0",
+  "license_title": "Creative Commons Attribution 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "maintainer": "Dirección Nacional Láctea",
+  "maintainer_email": "estadisticaslecheria@magyp.gob.ar",
+  "metadata_created": "2019-12-04T20:01:09.860819",
+  "metadata_modified": "2021-04-29T17:10:16.459660",
+  "name": "agroindustria-lacteos---estimacion-distribucion-consumo",
+  "notes": "Información mensual sobre la distribución y consumo per capita de productos lácteos en miles de litros o toneladas dependiendo del producto.",
+  "num_resources": 2,
+  "num_tags": 17,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:07.834957",
+    "description": "",
+    "id": "b10c94e2-ade1-4a97-8c4c-b1ada7878d60",
+    "image_url": "",
+    "is_organization": true,
+    "name": "agroindustria",
+    "revision_id": "f7c3b6e9-d48f-4522-9f7a-388d805c8392",
+    "state": "active",
+    "title": "Ministerio de Agricultura, Ganadería y Pesca",
+    "type": "organization"
+  },
+  "owner_org": "b10c94e2-ade1-4a97-8c4c-b1ada7878d60",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "http://datos.agroindustria.gob.ar/dataset/98360787-d5f7-4a09-bfcd-73e7303fe190/resource/da5ebce6-c018-40a8-b6af-16c03ed29dcf",
+      "attributesDescription": "[{\"type\": \"integer\", \"description\": \"pais_id\", \"title\": \"pais_id\"}, {\"type\": \"string\", \"description\": \"pais\", \"title\": \"pais\"}, {\"type\": \"integer\", \"description\": \"a\\u0144o\", \"title\": \"a\\u0144o\"}, {\"type\": \"integer\", \"description\": \"mes\", \"title\": \"mes\"}, {\"type\": \"integer\", \"description\": \"ccp\", \"title\": \"ccp\"}, {\"type\": \"string\", \"description\": \"producto\", \"title\": \"producto\"}, {\"type\": \"number\", \"description\": \"distribuci\\u00f3n\", \"title\": \"distribuci\\u00f3n\"}, {\"type\": \"string\", \"description\": \"unidad_med_distribuci\\u00f3n\", \"title\": \"unidad_med_distribuci\\u00f3n\"}, {\"type\": \"number\", \"description\": \"consumo_per_c\\u00e1pita\", \"title\": \"consumo_per_c\\u00e1pita\"}, {\"type\": \"string\", \"description\": \"uni_med_consumu_id\", \"title\": \"uni_med_consumu_id\"}, {\"type\": \"string\", \"description\": \"uni_med_consumo _per_capita\", \"title\": \"uni_med_consumo _per_capita\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-08-01T14:52:52.688695",
+      "datastore_active": false,
+      "description": "Información mensual sobre la distribución y el consumo per cápita de productos lácteos expresada en miles de litros.",
+      "fileName": "estimacion-del-consumo-de-productos-lacteos-liquidos.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "agroindustria_da5ebce6-c018-40a8-b6af-16c03ed29dcf",
+      "last_modified": "2019-04-12T10:35:59.881649",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Estimación del consumo de productos lácteos líquidos",
+      "package_id": "agroindustria_98360787-d5f7-4a09-bfcd-73e7303fe190",
+      "position": 0,
+      "resource_type": "file.upload",
+      "revision_id": "478c8ab1-2f5a-464c-9b88-7fabfeca4c7a",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.agroindustria.gob.ar/dataset/98360787-d5f7-4a09-bfcd-73e7303fe190/resource/da5ebce6-c018-40a8-b6af-16c03ed29dcf/download/estimacion-del-consumo-de-productos-lacteos-liquidos.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos.agroindustria.gob.ar/dataset/98360787-d5f7-4a09-bfcd-73e7303fe190/resource/19ed0821-8c3f-45fc-b4af-b89ebc46af1a",
+      "attributesDescription": "[{\"type\": \"integer\", \"description\": \"pais_id\", \"title\": \"pais_id\"}, {\"type\": \"string\", \"description\": \"pais\", \"title\": \"pais\"}, {\"type\": \"integer\", \"description\": \"a\\u0144o\", \"title\": \"a\\u0144o\"}, {\"type\": \"integer\", \"description\": \"mes\", \"title\": \"mes\"}, {\"type\": \"integer\", \"description\": \"ccp\", \"title\": \"ccp\"}, {\"type\": \"string\", \"description\": \"producto\", \"title\": \"producto\"}, {\"type\": \"number\", \"description\": \"distribuci\\u00f3n\", \"title\": \"distribuci\\u00f3n\"}, {\"type\": \"string\", \"description\": \"unidad_med_distribuci\\u00f3n_id\", \"title\": \"unidad_med_distribuci\\u00f3n_id\"}, {\"type\": \"string\", \"description\": \"unidad_med_distribuci\\u00f3n\", \"title\": \"unidad_med_distribuci\\u00f3n\"}, {\"type\": \"number\", \"description\": \"consumo_per_c\\u00e1pita\", \"title\": \"consumo_per_c\\u00e1pita\"}, {\"type\": \"string\", \"description\": \"uni_med_consumu_id\", \"title\": \"uni_med_consumu_id\"}, {\"type\": \"string\", \"description\": \"uni_med_consumo _per_capita\", \"title\": \"uni_med_consumo _per_capita\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-08-01T14:55:18.578472",
+      "datastore_active": false,
+      "description": "Información mensual sobre la distribución toneladas de productos lácteos y sobre el consumo per cápita en kilogramos de tales productos.",
+      "fileName": "estimacion-del-consumo-de-productos-lacteos-solidos.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "agroindustria_19ed0821-8c3f-45fc-b4af-b89ebc46af1a",
+      "last_modified": "2019-04-12T10:36:31.284531",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Estimación del consumo de productos lácteos sólidos",
+      "package_id": "agroindustria_98360787-d5f7-4a09-bfcd-73e7303fe190",
+      "position": 1,
+      "resource_type": "file.upload",
+      "revision_id": "e90f2e4f-0cef-4c92-86e9-6a4cdb63cee4",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.agroindustria.gob.ar/dataset/98360787-d5f7-4a09-bfcd-73e7303fe190/resource/19ed0821-8c3f-45fc-b4af-b89ebc46af1a/download/estimacion-del-consumo-de-productos-lacteos-solidos.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "c78f99bb-aea3-464e-be9c-8b8a2e893a91",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "caseína",
+      "id": "bf718005-5a4b-43a0-ae33-7139066cad38",
+      "name": "caseína",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "casinatos",
+      "id": "f10dc658-0d90-4b31-af65-93c0078cc887",
+      "name": "casinatos",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "dulce de leche",
+      "id": "584e9a29-0c01-4c6e-8cc7-341aba5a08a2",
+      "name": "dulce de leche",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "lacteos",
+      "id": "9e6b26d8-1663-4102-b84b-8d3d36505c78",
+      "name": "lacteos",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "leche",
+      "id": "50198eec-058b-4999-a070-8cf268e8e576",
+      "name": "leche",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "leche en polvo",
+      "id": "5e130014-d6db-46ea-a8f9-fd79b8663b31",
+      "name": "leche en polvo",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "leche polvo",
+      "id": "f3bb9797-decc-498e-bfbb-bb3a46bb045c",
+      "name": "leche polvo",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "manteca",
+      "id": "926ca4b2-ae59-4c6b-b4eb-0ff6376e0678",
+      "name": "manteca",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "pasteurizada",
+      "id": "f1a9ae68-e12d-4630-8d68-821710c5619f",
+      "name": "pasteurizada",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "postres",
+      "id": "70b56a32-9afb-43f1-b773-3f76faba93be",
+      "name": "postres",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "queso",
+      "id": "e73c5190-7977-4682-a005-1ff89d34f1d9",
+      "name": "queso",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "queso fundido",
+      "id": "ac294b27-77a8-4ee7-a4c4-3ff0a0550f79",
+      "name": "queso fundido",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "quesos",
+      "id": "b0b24e15-9255-46fc-b909-d521a750fa3e",
+      "name": "quesos",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "quesos alta humedad",
+      "id": "33f44644-4dd7-41f5-8876-bbc6ae0d59f9",
+      "name": "quesos alta humedad",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "quesos baja humedad",
+      "id": "c55e0018-8d75-4daf-a845-d5ad47e16e42",
+      "name": "quesos baja humedad",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "quesos mediana humedad",
+      "id": "0e2d1897-25d2-40df-bf08-25e0cb9491a6",
+      "name": "quesos mediana humedad",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "yogur",
+      "id": "2fab1903-353f-4844-b324-aebbb168ffc7",
+      "name": "yogur",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Lácteos - Estimación de la distribución y consumo",
+  "type": "dataset",
+  "url": "https://datos.agroindustria.gob.ar/dataset/estimacion-consumo-productos-lacteos",
+  "version": null
+}

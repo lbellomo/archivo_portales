@@ -1,0 +1,166 @@
+{
+  "author": "Ente Nacional de Comunicaciones (ENACOM)",
+  "author_email": "contacto@enacom.gob.ar",
+  "creator_user_id": "4720e75a-9e17-4dc3-879d-041917c7f9f9",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P1Y"
+    },
+    {
+      "key": "issued",
+      "value": "2018-11-14T15:41:13"
+    },
+    {
+      "key": "language",
+      "value": "[\"spa\"]"
+    },
+    {
+      "key": "modified",
+      "value": "2020-05-12T16:45:18Z"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"TECH\"]"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Ciencia y tecnología",
+      "display_name": "Ciencia y tecnología",
+      "id": "0dd7dd0e-aae8-402f-8660-f1e8b6b6084c",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225221.170833ciencia-tecnologia.svg",
+      "name": "tech",
+      "title": "Ciencia y tecnología"
+    }
+  ],
+  "id": "enacom_AUTOR-RADIO",
+  "isopen": false,
+  "license_id": "notspecified",
+  "license_title": "No se especificó la licencia",
+  "maintainer": null,
+  "maintainer_email": null,
+  "metadata_created": "2019-11-26T14:55:33.497257",
+  "metadata_modified": "2021-04-29T17:04:29.782024",
+  "name": "enacom-dias-promedio-gestion-tramites-autorizaciones",
+  "notes": "Gestión de trámites autorizaciones radioeléectricas",
+  "num_resources": 3,
+  "num_tags": 3,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:07.525331",
+    "description": "",
+    "id": "6eb7d19b-2d42-494f-8e57-d67c501d23eb",
+    "image_url": "",
+    "is_organization": true,
+    "name": "enacom",
+    "revision_id": "f2d2a5ad-7015-4d68-9d9c-5a82fadbbbf3",
+    "state": "active",
+    "title": "Ente Nacional de Comunicaciones",
+    "type": "organization"
+  },
+  "owner_org": "6eb7d19b-2d42-494f-8e57-d67c501d23eb",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/249773/dias-promedio-gestion-tramites-autorizaciones/",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2018-11-14T15:41:13",
+      "datastore_active": false,
+      "description": "Gestión de trámites autorizaciones radioeléectricas",
+      "format": "CSV",
+      "hash": "",
+      "id": "enacom_AUTOR-RADIO_0",
+      "last_modified": "2020-05-12T13:45:18",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Días promedio gestión trámites autorizaciones",
+      "package_id": "enacom_AUTOR-RADIO",
+      "position": 0,
+      "resource_type": null,
+      "revision_id": "1886ee3c-b3dd-433c-997c-5682de82b6d5",
+      "size": null,
+      "state": "active",
+      "url": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/AUTOR-RADIO/data.csv?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/249773/dias-promedio-gestion-tramites-autorizaciones/",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2018-11-14T15:41:13",
+      "datastore_active": false,
+      "description": "Gestión de trámites autorizaciones radioeléectricas",
+      "format": "XLS",
+      "hash": "",
+      "id": "enacom_AUTOR-RADIO_1",
+      "last_modified": "2020-05-12T13:45:18",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Días promedio gestión trámites autorizaciones",
+      "package_id": "enacom_AUTOR-RADIO",
+      "position": 1,
+      "resource_type": null,
+      "revision_id": "a0fd7838-7581-46ab-ac73-2895ab28a6a4",
+      "size": null,
+      "state": "active",
+      "url": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/AUTOR-RADIO/data.xls?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/249773/dias-promedio-gestion-tramites-autorizaciones/",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2018-11-14T15:41:13",
+      "datastore_active": false,
+      "description": "Gestión de trámites autorizaciones radioeléectricas",
+      "format": "JSON",
+      "hash": "",
+      "id": "enacom_AUTOR-RADIO_2",
+      "last_modified": "2020-05-12T13:45:18",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Días promedio gestión trámites autorizaciones",
+      "package_id": "enacom_AUTOR-RADIO",
+      "position": 2,
+      "resource_type": null,
+      "revision_id": "97f554f9-4ef1-4ec4-8888-c9e0a8765a69",
+      "size": null,
+      "state": "active",
+      "url": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/AUTOR-RADIO/data.json?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1",
+      "url_type": null
+    }
+  ],
+  "revision_id": "f70e0c33-b659-4c99-bf46-1dc1990da058",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "Espectro Radioelectrico",
+      "id": "2210187b-2a13-4592-9ff0-5229ea6e10e3",
+      "name": "Espectro Radioelectrico",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "autorizaciones",
+      "id": "6e0019e0-e7f5-43c9-97e5-6735f720e6ec",
+      "name": "autorizaciones",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "espectro radioelectrico",
+      "id": "52f960d8-1c89-4eea-9bf9-300611eef0a0",
+      "name": "espectro radioelectrico",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Días promedio gestión trámites autorizaciones",
+  "type": "dataset",
+  "url": "http://api.datosabiertos.enacom.gob.ar/dataset/enacom-dias-promedio-gestion-tramites-autorizaciones",
+  "version": null
+}

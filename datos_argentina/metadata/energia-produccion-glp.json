@@ -1,0 +1,148 @@
+{
+  "author": "Secretaría de Gobierno de Energía.Subsecretaría de Planeamiento Energético.Dirección Nacional de Información Energética",
+  "author_email": "tienerg@energia.gob.ar",
+  "creator_user_id": "4720e75a-9e17-4dc3-879d-041917c7f9f9",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P1M"
+    },
+    {
+      "key": "issued",
+      "value": "2017-01-20T16:33:27.594071"
+    },
+    {
+      "key": "modified",
+      "value": "2019-07-24T15:33:45.730089"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"ENER\"]"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Energía",
+      "display_name": "Energía",
+      "id": "a4d3f632-eb48-4163-9791-165989c16035",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225337.421630energia.svg",
+      "name": "ener",
+      "title": "Energía"
+    }
+  ],
+  "id": "energia_55b83784-8f04-4018-91c7-027163c615b3",
+  "isopen": false,
+  "license_id": "notspecified",
+  "license_title": "No se especificó la licencia",
+  "maintainer": " Ministerio de Energía y Minería.Secretaría de Recursos Hidrocarburíferos.Subsecretaría de Exploración y Producción.Dirección Nacional de Exploración y Producción.",
+  "maintainer_email": null,
+  "metadata_created": "2019-11-26T14:59:18.957599",
+  "metadata_modified": "2021-04-29T17:17:26.541818",
+  "name": "energia-produccion-glp",
+  "notes": "Producción de Gas Licuado de Petróleo por Planta de Procesamiento de Gas. SESCO.",
+  "num_resources": 2,
+  "num_tags": 4,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:09.221510",
+    "description": "",
+    "id": "cd1b32a2-2d3a-44ac-8c98-a425a7b62d42",
+    "image_url": "",
+    "is_organization": true,
+    "name": "energia",
+    "revision_id": "a184cf69-99ad-4f84-a254-020031d7fe63",
+    "state": "active",
+    "title": "Secretaría de Energía",
+    "type": "organization"
+  },
+  "owner_org": "cd1b32a2-2d3a-44ac-8c98-a425a7b62d42",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "http://datos.minem.gob.ar/dataset/55b83784-8f04-4018-91c7-027163c615b3/resource/8ccafc38-252d-404f-b354-71465519a01f",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-05-04T12:42:29.186253",
+      "datastore_active": false,
+      "description": "",
+      "fileName": "produccin-de-glp-condensado-y-gasolina-estabilizada-produccin-de-glp.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "energia_8ccafc38-252d-404f-b354-71465519a01f",
+      "last_modified": "2020-10-20T05:20:51.361975",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Producción de GLP Condensado y Gasolina Estabilizada - Producción de GLP",
+      "package_id": "energia_55b83784-8f04-4018-91c7-027163c615b3",
+      "position": 0,
+      "resource_type": null,
+      "revision_id": "f73db580-3b52-4483-b626-5d56a8490dd9",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.minem.gob.ar/dataset/55b83784-8f04-4018-91c7-027163c615b3/resource/8ccafc38-252d-404f-b354-71465519a01f/download/produccin-de-glp-condensado-y-gasolina-estabilizada-produccin-de-glp.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos.minem.gob.ar/dataset/55b83784-8f04-4018-91c7-027163c615b3/resource/6abeecd8-ed64-48ca-904a-53b61a00ece7",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-05-04T13:57:58.353953",
+      "datastore_active": false,
+      "description": "",
+      "fileName": "produccin-de-glp-por-planta-ant-2009.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "energia_6abeecd8-ed64-48ca-904a-53b61a00ece7",
+      "last_modified": "2020-10-20T05:14:29.079305",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Producción de GLP por planta ant. 2009",
+      "package_id": "energia_55b83784-8f04-4018-91c7-027163c615b3",
+      "position": 1,
+      "resource_type": null,
+      "revision_id": "f73db580-3b52-4483-b626-5d56a8490dd9",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.minem.gob.ar/dataset/55b83784-8f04-4018-91c7-027163c615b3/resource/6abeecd8-ed64-48ca-904a-53b61a00ece7/download/produccin-de-glp-por-planta-ant-2009.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "fb50cf2c-a684-4904-ba5e-2c039c201706",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "GLP",
+      "id": "951dbc22-916e-425d-8836-d4d993c616ac",
+      "name": "GLP",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Hidrocarburos",
+      "id": "f2511ea4-b37a-445a-913a-8948f1b90df6",
+      "name": "Hidrocarburos",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Producción",
+      "id": "e43bd381-9301-4aa7-a861-35fc73f7fa2c",
+      "name": "Producción",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Refinación de Hidrocarburos",
+      "id": "ba9ff4aa-8122-4c93-a330-e39a44fe5d8c",
+      "name": "Refinación de Hidrocarburos",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Producción de GLP",
+  "type": "dataset",
+  "url": "http://datos.minem.gob.ar/dataset/",
+  "version": null
+}

@@ -1,0 +1,182 @@
+{
+  "author": "Ministerio de Desarrollo Social de la Nación. Secretaría de Economía Social.",
+  "author_email": "datosabiertos@desarrollosocial.gob.ar",
+  "creator_user_id": "dc157489-51c6-44ce-bd63-3bd983d60778",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "eventual"
+    },
+    {
+      "key": "issued",
+      "value": "2021-04-17T14:44:44.488451"
+    },
+    {
+      "key": "language",
+      "value": "[\"spa\"]"
+    },
+    {
+      "key": "modified",
+      "value": "2021-04-26T09:29:25.311869"
+    },
+    {
+      "key": "spatial",
+      "value": "[\"ARG\"]"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"EDUC\", \"GOVE\", \"REGI\", \"SOCI\"]"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Educación, cultura y deportes",
+      "display_name": "Educación, cultura y deportes",
+      "id": "b5ebe955-de3d-4e0b-b28c-16df2b2af99f",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225313.459997educacion-cultura-deportes.svg",
+      "name": "educ",
+      "title": "Educación, cultura y deportes"
+    },
+    {
+      "description": "Gobierno y sector público",
+      "display_name": "Gobierno y sector público",
+      "id": "e6f07c77-3987-4e71-98a6-731b1aaf74f4",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225353.395233gobierno-sector-publico.svg",
+      "name": "gove",
+      "title": "Gobierno y sector público"
+    },
+    {
+      "description": "Población y sociedad",
+      "display_name": "Población y sociedad",
+      "id": "eb5df7fa-064a-4b51-89f6-af323ee1bf85",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225728.341804poblacion-sociedad.svg",
+      "name": "soci",
+      "title": "Población y sociedad"
+    },
+    {
+      "description": "Regiones y ciudades",
+      "display_name": "Regiones y ciudades",
+      "id": "c506f0a0-fc8a-4278-b007-eb7f76875914",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225752.196815regiones-ciudades.svg",
+      "name": "regi",
+      "title": "Regiones y ciudades"
+    }
+  ],
+  "id": "desarrollo-social_10df5dbf-061a-4ff5-a4f7-63678f0dd8e8",
+  "isopen": false,
+  "license_id": "notspecified",
+  "license_title": "No se especificó la licencia",
+  "maintainer": "Ministerio de Desarrollo Social de la Nación. Unidad de Gabinete de Asesores. Dirección General de Información Social Estratégica",
+  "maintainer_email": "datosabiertos@desarrollosocial.gob.ar",
+  "metadata_created": "2021-04-20T19:20:05.016989",
+  "metadata_modified": "2021-04-29T17:04:06.737797",
+  "name": "desarrollo-social-programa-ingreso-social-con-trabajo-2009-2018",
+  "notes": "Datos correspondientes a los titulares del Programa Ingreso Social con Trabaja -Argentina Trabaja-, creado por Resolución 3182/2009 del Ministerio de Desarrollo Social, y de la línea programática Ellas Hacen, creada por  Resolución SCyMI Nro. 2176/13.",
+  "num_resources": 2,
+  "num_tags": 4,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:10.908821",
+    "description": "",
+    "id": "ef25c735-2abb-4165-94a6-a6798a103603",
+    "image_url": "",
+    "is_organization": true,
+    "name": "desarrollo-social",
+    "revision_id": "a896ab9d-5ddd-4b93-9ecf-6578b069aee8",
+    "state": "active",
+    "title": "Ministerio de Desarrollo Social",
+    "type": "organization"
+  },
+  "owner_org": "ef25c735-2abb-4165-94a6-a6798a103603",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "https://datosabiertos.desarrollosocial.gob.ar//dataset/10df5dbf-061a-4ff5-a4f7-63678f0dd8e8/resource/776d890c-42d5-4bfd-9a01-93456b2b9e37",
+      "attributesDescription": "[{\"type\": \"date\", \"description\": \"Periodo de tiempo analizado. La l\\u00ednea program\\u00e1tica estuvo vigente entre mayo 2013 y enero 2018\", \"title\": \"periodo\"}, {\"type\": \"string\", \"description\": \"C\\u00f3digo de provincia codificado seg\\u00f1n la Base de Asentamientos Humanos de la Rep\\u00f1blica Argentina  \\n\", \"title\": \"cod_provincia\"}, {\"type\": \"string\", \"description\": \"Nombre de la provincia\\n\", \"title\": \"provincia\"}, {\"type\": \"string\", \"description\": \"C\\u00f3digo de departamento codificado seg\\u00f1n la Base de Asentamientos Humanos de la Rep\\u00f1blica Argentina\\n\", \"title\": \"cod_depto\"}, {\"type\": \"string\", \"description\": \"Nombre del departamento\\n\", \"title\": \"departamento\"}, {\"type\": \"integer\", \"description\": \"Titulares que recibieron el subsidio. No puede calcularse el total de titulares \\u00f1nicos sumando la columna\", \"title\": \"titulares_activos\"}, {\"type\": \"integer\", \"description\": \"Titulares que adem\\u00e1s de recibir el subsidio, recibieron incentivo por producci\\u00f3n.\", \"title\": \"presentismo\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2021-04-17T14:45:32.184870",
+      "datastore_active": false,
+      "description": "Titulares activos por mes del PRIST. Los datos geográficos responden al domicilio del titular al recibir su ñltimo subsidio. No incluyen los titulares de la línea Ellas Hacen",
+      "fileName": "argentina-trabaja-titulares-activos-2018-01-31.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "desarrollo-social_776d890c-42d5-4bfd-9a01-93456b2b9e37",
+      "last_modified": "2021-04-17T14:47:08.060851",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Titulares activos por mes Programa Ingreso Social con Trabaja - Argentina Trabaja (PRIST)",
+      "package_id": "desarrollo-social_10df5dbf-061a-4ff5-a4f7-63678f0dd8e8",
+      "position": 0,
+      "resource_type": "file.upload",
+      "revision_id": "d67545fa-0a42-402b-8edc-73bdc18c2557",
+      "size": null,
+      "state": "active",
+      "url": "https://datosabiertos.desarrollosocial.gob.ar/dataset/10df5dbf-061a-4ff5-a4f7-63678f0dd8e8/resource/776d890c-42d5-4bfd-9a01-93456b2b9e37/download/argentina-trabaja-titulares-activos-2018-01-31.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://datosabiertos.desarrollosocial.gob.ar//dataset/10df5dbf-061a-4ff5-a4f7-63678f0dd8e8/resource/19c29463-85c7-4c17-95d1-9c322b42d308",
+      "attributesDescription": "[{\"type\": \"date\", \"description\": \"Periodo de tiempo analizado. La l\\u00ednea program\\u00e1tica estuvo vigente entre mayo 2013 y enero 2018\", \"title\": \"periodo\"}, {\"type\": \"string\", \"description\": \"C\\u00f3digo de provincia codificado seg\\u00f1n la Base de Asentamientos Humanos de la Rep\\u00f1blica Argentina  \\n\", \"title\": \"cod_provincia\"}, {\"type\": \"string\", \"description\": \"Nombre de la provincia\\n\", \"title\": \"provincia\"}, {\"type\": \"string\", \"description\": \"C\\u00f3digo de departamento codificado seg\\u00f1n la Base de Asentamientos Humanos de la Rep\\u00f1blica Argentina\\n\", \"title\": \"cod_depto\"}, {\"type\": \"string\", \"description\": \"Nombre del departamento\\n\", \"title\": \"departamento\"}, {\"type\": \"integer\", \"description\": \"Titulares que recibieron el subsidio. No puede calcularse el total de titulares \\u00f1nicos sumando la columna\", \"title\": \"titulares_activos\"}, {\"type\": \"integer\", \"description\": \"Titulares que adem\\u00e1s de recibir el subsidio, recibieron incentivo por producci\\u00f3n.\", \"title\": \"presentismo\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2021-04-17T14:46:29.670712",
+      "datastore_active": false,
+      "description": "Titulares activos por mes de la línea programática Ellas Hacen del Programa Ingreso Social con Trabajo. Los datos geográficos responden al domicilio del titular al recibir su ñltimo subsidio.",
+      "fileName": "ellas-hacen-titulares-activos-2018-01-31.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "desarrollo-social_19c29463-85c7-4c17-95d1-9c322b42d308",
+      "last_modified": "2021-04-17T14:46:29.588863",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Titulares activos por mes Ellas Hacen",
+      "package_id": "desarrollo-social_10df5dbf-061a-4ff5-a4f7-63678f0dd8e8",
+      "position": 1,
+      "resource_type": "file.upload",
+      "revision_id": "d67545fa-0a42-402b-8edc-73bdc18c2557",
+      "size": null,
+      "state": "active",
+      "url": "https://datosabiertos.desarrollosocial.gob.ar/dataset/10df5dbf-061a-4ff5-a4f7-63678f0dd8e8/resource/19c29463-85c7-4c17-95d1-9c322b42d308/download/ellas-hacen-titulares-activos-2018-01-31.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "d67545fa-0a42-402b-8edc-73bdc18c2557",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "argentina trabaja",
+      "id": "4350b33c-02c6-4449-a7a1-2c72c8500c16",
+      "name": "argentina trabaja",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "inclusion laboral",
+      "id": "4e1b9231-da94-41dd-b860-df57d9efc153",
+      "name": "inclusion laboral",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "inclusion social",
+      "id": "b9f9d3d1-9d35-4ce5-940f-661f67dd0bd8",
+      "name": "inclusion social",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "prist",
+      "id": "ee5facb6-cb21-4c65-aa6a-086bfba31956",
+      "name": "prist",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Programa Ingreso Social con Trabajo (2009-2018)",
+  "type": "dataset",
+  "url": "https://datosabiertos.desarrollosocial.gob.ar/dataset/prist",
+  "version": null
+}

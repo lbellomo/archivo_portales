@@ -1,0 +1,232 @@
+{
+  "author": "Ministerio de Ambiente y Desarrollo Sostenible.",
+  "author_email": "fsacagnetti@ambiente.gob.ar",
+  "creator_user_id": "4720e75a-9e17-4dc3-879d-041917c7f9f9",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "eventual"
+    },
+    {
+      "key": "issued",
+      "value": "2017-09-05T15:32:10.860505"
+    },
+    {
+      "key": "language",
+      "value": "[\"spa\"]"
+    },
+    {
+      "key": "modified",
+      "value": "2020-09-30T13:31:16.838259"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"ENVI\"]"
+    },
+    {
+      "key": "temporal",
+      "value": "2014-01-01T03:00:00.000Z/2017-09-01T03:00:00.000Z"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Medio ambiente",
+      "display_name": "Medio ambiente",
+      "id": "f71fe9d7-c703-43be-8d9d-af9441c326ba",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225440.964279medio-ambiente.svg",
+      "name": "envi",
+      "title": "Medio ambiente"
+    }
+  ],
+  "id": "ambiente_9052dd12-505e-456e-9162-e3abdf60dba9",
+  "isopen": false,
+  "license_id": "notspecified",
+  "license_title": "No se especificó la licencia",
+  "maintainer": "Ministerio de Ambiente y Desarrollo Sostenible.",
+  "maintainer_email": "fscagnetti@ambiente.gob.ar",
+  "metadata_created": "2019-11-26T14:58:05.752082",
+  "metadata_modified": "2021-04-29T17:18:09.855988",
+  "name": "ambiente-programa-reconversion-industrial---pri",
+  "notes": "Información sobre los Programas de Reconversión Industrial (PRI) voluntarios que lleva el organismo, con provincias y empresas a partir de brindar asistencia técnica, capacitación y acompañamiento en su implementación, y con el fin de mejorar el desempeño y la gestión ambiental del sector productivo y de actividades de servicio. ",
+  "num_resources": 3,
+  "num_tags": 11,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:07.043831",
+    "description": "",
+    "id": "0e5aa328-825e-4509-851d-5421e866635e",
+    "image_url": "",
+    "is_organization": true,
+    "name": "ambiente",
+    "revision_id": "105eb915-270c-4f67-9b4e-e6a3f08be6d7",
+    "state": "active",
+    "title": "Ministerio de Ambiente y Desarrollo Sostenible",
+    "type": "organization"
+  },
+  "owner_org": "0e5aa328-825e-4509-851d-5421e866635e",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "http://datos.ambiente.gob.ar/dataset/9052dd12-505e-456e-9162-e3abdf60dba9/resource/47db353d-b9ed-4054-a8a9-546c97d2833b",
+      "attributesDescription": "[{\"type\": \"integer\", \"description\": \"Identificaci\\u00f3n de la provincia que acord\\u00f3 con Naci\\u00f3n trabajar en Programas de Reconversi\\u00f3n Industrial.\", \"title\": \"provincia_id\"}, {\"type\": \"string\", \"description\": \"Descripci\\u00f3n de la provincia que acord\\u00f3 con Naci\\u00f3n trabajar en Programas de Reconversi\\u00f3n Industrial.\", \"title\": \"provincia_desc\"}, {\"type\": \"boolean\", \"description\": \"Identificaci\\u00f3n de la existencia de acuerdo\", \"title\": \"tiene_acuerdo_pri\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-09-05T15:37:57.562993",
+      "datastore_active": false,
+      "description": "Identificación de las provincias que acordaron trabajar con MAyDS en Programas de Reconversión Industrial (capacitación, asistencia técnica e implementación)",
+      "fileName": "acuerdos-pri-provincia.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "ambiente_47db353d-b9ed-4054-a8a9-546c97d2833b",
+      "last_modified": "2020-09-29T11:23:29.340092",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Acuerdos PRI por provincia",
+      "package_id": "ambiente_9052dd12-505e-456e-9162-e3abdf60dba9",
+      "position": 0,
+      "resource_type": "file.upload",
+      "revision_id": "db298977-384f-42af-9b5e-49db5f31c268",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.ambiente.gob.ar/dataset/9052dd12-505e-456e-9162-e3abdf60dba9/resource/47db353d-b9ed-4054-a8a9-546c97d2833b/download/acuerdos-pri-provincia.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos.ambiente.gob.ar/dataset/9052dd12-505e-456e-9162-e3abdf60dba9/resource/3f34caf7-4e7f-4ed6-ab66-9c83a6aafcab",
+      "attributesDescription": "[{\"type\": \"integer\", \"description\": \"C\\u00f3digo provincial del sistema de identificadores de la cartograf\\u00eda censal del Censo Nacional 2010 del Instituto Nacional de Estad\\u00edsticas y Censos\", \"title\": \"provincia_id\"}, {\"type\": \"string\", \"description\": \"Descripci\\u00f3n de la provincia que se encuentra implementando Programas de Reconversi\\u00f3n Industrial en empresas desde 2014.\", \"title\": \"provincia_desc\"}, {\"type\": \"string\", \"description\": \"Cantidad de empresas con Programa de Reconversi\\u00f3n Industrial firmados en implementaci\\u00f3n desde 2014, para cada provincia.\", \"title\": \"empresas_pri_activos_numero\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-09-05T16:41:27.135592",
+      "datastore_active": false,
+      "description": "Cantidad de empresas con Programas de Reconversión Industrial - PRI - firmados en proceso de implementación desde 2014, discriminadas por provincia.",
+      "fileName": "empresas-pri-activos-provincia.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "ambiente_3f34caf7-4e7f-4ed6-ab66-9c83a6aafcab",
+      "last_modified": "2020-09-29T11:30:14.830204",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Empresas con PRI activos por provincia",
+      "package_id": "ambiente_9052dd12-505e-456e-9162-e3abdf60dba9",
+      "position": 1,
+      "resource_type": "file.upload",
+      "revision_id": "db298977-384f-42af-9b5e-49db5f31c268",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.ambiente.gob.ar/dataset/9052dd12-505e-456e-9162-e3abdf60dba9/resource/3f34caf7-4e7f-4ed6-ab66-9c83a6aafcab/download/empresas-pri-activos-provincia.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos.ambiente.gob.ar/dataset/9052dd12-505e-456e-9162-e3abdf60dba9/resource/ce96d534-e437-4f14-b807-b0bf041ad4f2",
+      "attributesDescription": "[{\"type\": \"integer\", \"description\": \"Identificaci\\u00f3n de la actividad econ\\u00f3mica de las empresas con programa en proceso de implementaci\\u00f3n\", \"title\": \"actividad_economica_id\"}, {\"type\": \"string\", \"description\": \"Descripci\\u00f3n de la actividad econ\\u00f3mica de las empresas con programa en proceso de implementaci\\u00f3n\", \"title\": \"actividad_economica_descripcion\"}, {\"type\": \"integer\", \"description\": \"Cantidad de empresas con PRI firmados en proceso de implementaci\\u00f3n desde 2014, para la actividad econ\\u00f3mica.\", \"title\": \"empresas_pri_activos_cantidad\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-09-05T16:52:07.542993",
+      "datastore_active": false,
+      "description": "Cantidad de empresas con Programas de Reconversión Industrial – PRI - firmados en proceso de implementación desde 2014, discriminadas por actividad económica",
+      "fileName": "empresas-pri-activos-por-actividad-economica.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "ambiente_ce96d534-e437-4f14-b807-b0bf041ad4f2",
+      "last_modified": "2020-09-29T14:31:42.569543",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Empresas con PRI activos por actividad económica",
+      "package_id": "ambiente_9052dd12-505e-456e-9162-e3abdf60dba9",
+      "position": 2,
+      "resource_type": "file.upload",
+      "revision_id": "3972a32f-f025-4aa4-b1d7-d604f84c9fe3",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.ambiente.gob.ar/dataset/9052dd12-505e-456e-9162-e3abdf60dba9/resource/ce96d534-e437-4f14-b807-b0bf041ad4f2/download/empresas-pri-activos-por-actividad-economica.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "3972a32f-f025-4aa4-b1d7-d604f84c9fe3",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "PRI",
+      "id": "e4cd0e77-69a3-49c8-a5c1-6e93742f36b1",
+      "name": "PRI",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Producción y consumo sustentable",
+      "id": "7e7daca8-db6d-4ec0-98a0-b9ad24cb4215",
+      "name": "Producción y consumo sustentable",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "consumo sustentable",
+      "id": "66f4ac4e-15ab-4333-9c73-31feab82cd08",
+      "name": "consumo sustentable",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "contaminación",
+      "id": "5dd96be5-d38e-4917-b763-e85022f9c2c2",
+      "name": "contaminación",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "eficiencia energía",
+      "id": "36627b6e-7542-4acd-9579-d881c89a1077",
+      "name": "eficiencia energía",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "gestión de residuos",
+      "id": "6f6d3f37-8cb6-4506-a93f-c15e0f6fa1bd",
+      "name": "gestión de residuos",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "industria",
+      "id": "940caad6-c326-4992-9835-5c3c93dc6d78",
+      "name": "industria",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "industrial",
+      "id": "fbce9602-4e0b-415a-92ee-ed7c06924186",
+      "name": "industrial",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "producción",
+      "id": "7a77940d-e62a-4972-b0d3-e254e07040fa",
+      "name": "producción",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "programa",
+      "id": "21032c50-f22f-4179-a1e4-41458b446d51",
+      "name": "programa",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "reconversión",
+      "id": "e03166b4-953e-4677-9243-62789c17230a",
+      "name": "reconversión",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Programa de Reconversión Industrial - PRI",
+  "type": "dataset",
+  "url": "http://datos.ambiente.gob.ar/dataset/",
+  "version": null
+}

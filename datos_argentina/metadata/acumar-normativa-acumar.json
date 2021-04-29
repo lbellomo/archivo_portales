@@ -1,0 +1,155 @@
+{
+  "author": "Coordinación de Normativa",
+  "author_email": null,
+  "creator_user_id": "dc157489-51c6-44ce-bd63-3bd983d60778",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P3M"
+    },
+    {
+      "key": "issued",
+      "value": "2017-10-26T19:40:25.310333"
+    },
+    {
+      "key": "modified",
+      "value": "2019-11-15T15:14:40.482591"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"ENVI\", \"GOVE\", \"JUST\"]"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Gobierno y sector público",
+      "display_name": "Gobierno y sector público",
+      "id": "e6f07c77-3987-4e71-98a6-731b1aaf74f4",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225353.395233gobierno-sector-publico.svg",
+      "name": "gove",
+      "title": "Gobierno y sector público"
+    },
+    {
+      "description": "Justicia, seguridad y legales",
+      "display_name": "Justicia, seguridad y legales",
+      "id": "69ac5e1d-79f0-4470-9514-8a173d9ae44c",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225406.604073justicia-seguridad-legales.svg",
+      "name": "just",
+      "title": "Justicia, seguridad y legales"
+    },
+    {
+      "description": "Medio ambiente",
+      "display_name": "Medio ambiente",
+      "id": "f71fe9d7-c703-43be-8d9d-af9441c326ba",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225440.964279medio-ambiente.svg",
+      "name": "envi",
+      "title": "Medio ambiente"
+    }
+  ],
+  "id": "acumar_997c6d6d-8154-48fd-8f8c-4dc45ae91169",
+  "isopen": false,
+  "license_id": "notspecified",
+  "license_title": "No se especificó la licencia",
+  "maintainer": null,
+  "maintainer_email": null,
+  "metadata_created": "2019-12-04T20:03:50.009533",
+  "metadata_modified": "2021-04-29T17:11:20.392188",
+  "name": "acumar-normativa-acumar",
+  "notes": "Datos correspondientes a la Normativa de ACUMAR desde 2007 hasta la fecha. ",
+  "num_resources": 1,
+  "num_tags": 6,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:10.306987",
+    "description": "",
+    "id": "1b6b28cd-098f-41d7-b43f-d5a01ffa8759",
+    "image_url": "",
+    "is_organization": true,
+    "name": "acumar",
+    "revision_id": "0e2a184d-b675-43ae-b2dd-e1ed0c459c04",
+    "state": "active",
+    "title": "Autoridad de Cuenca Matanza Riachuelo",
+    "type": "organization"
+  },
+  "owner_org": "1b6b28cd-098f-41d7-b43f-d5a01ffa8759",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "http://datos.acumar.gob.ar/dataset/997c6d6d-8154-48fd-8f8c-4dc45ae91169/resource/6b863e73-0493-4c10-819f-015e879451b9",
+      "attributesDescription": "[{\"type\": \"integer\", \"description\": \"N\\u00famero de identificaci\\u00f3n brindado por ACUMAR.\\n\", \"title\": \"norma_id\"}, {\"type\": \"string\", \"description\": \"Tipo de norma de la que se trata: Ley;Resoluci\\u00f3n;Disposici\\u00f3n;Circular; Aviso Oficial\\n\", \"title\": \"norma_tipo\"}, {\"type\": \"string\", \"description\": \"Organismo que promulg\\u00f3 la normativa.\\n\", \"title\": \"organismo_origen\"}, {\"type\": \"date\", \"description\": \"Fecha en que se sancion\\u00f3 la norma en ACUMAR.\\n\", \"title\": \"fecha_sancion\"}, {\"type\": \"integer\", \"description\": \"N\\u00famero de Edici\\u00f3n del Bolet\\u00edn Oficial en el que se public\\u00f3 la norma.\", \"title\": \"boletin_numero\"}, {\"type\": \"date\", \"description\": \"Fecha en la que la norma fue publicada en el Bolet\\u00edn Oficial\\n\", \"title\": \"boletin_fecha\"}, {\"type\": \"integer\", \"description\": \"P\\u00e1gina del Bolet\\u00edn Oficial en la que fue publicada.\", \"title\": \"boletin_pagina\"}, {\"type\": \"string\", \"description\": \"T\\u00edtulo de la norma.\\n\", \"title\": \"norma_titulo\"}, {\"type\": \"string\", \"description\": \"Tema principal de la norma.\\n\", \"title\": \"norma_resumen\"}, {\"type\": \"any\", \"description\": \"URL original para acceder a la norma.\\n\", \"title\": \"norma_enlace_original\"}, {\"type\": \"any\", \"description\": \"URL actualizada para acceder a la norma.\\n\", \"title\": \"norma_enlace_actualizado\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2018-12-04T17:49:20.265621",
+      "datastore_active": false,
+      "description": "Detalle del Digesto Normativo de ACUMAR. Contiene número de Normativa Boletín Oficial y ACUMAR, descripción de la normativa y enlace de acceso.",
+      "fileName": "Normativa2019.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "acumar_6b863e73-0493-4c10-819f-015e879451b9",
+      "last_modified": "2019-11-15T12:14:40.452808",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Normativa ACUMAR publicada en el Boletín Oficial",
+      "package_id": "acumar_997c6d6d-8154-48fd-8f8c-4dc45ae91169",
+      "position": 0,
+      "resource_type": "file.upload",
+      "revision_id": "5cc3eef1-bb04-4487-bd21-0a214a2a2f10",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.acumar.gob.ar/dataset/997c6d6d-8154-48fd-8f8c-4dc45ae91169/resource/6b863e73-0493-4c10-819f-015e879451b9/download/normativa2019.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "dcd63eb2-c2b4-4436-bf17-75b05e72b74a",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "Transparencia",
+      "id": "21a0e417-6815-4adf-aaf4-0d8a71309d0c",
+      "name": "Transparencia",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "boletín oficial",
+      "id": "010053de-6f69-4ffc-ab00-62f4985c8b49",
+      "name": "boletín oficial",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "digesto normativo",
+      "id": "730fc38b-96c2-4896-a528-44449c6f25ce",
+      "name": "digesto normativo",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "infoleg",
+      "id": "0917bf5d-e557-4159-acb5-76d39c29cf9a",
+      "name": "infoleg",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "normativa",
+      "id": "fc0f665b-5ff8-4119-bba2-90ad90ab9d66",
+      "name": "normativa",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "resoluciones",
+      "id": "a984961b-4494-428d-aa1d-0dbf651c99ef",
+      "name": "resoluciones",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Normativa ACUMAR",
+  "type": "dataset",
+  "url": "http://datos.acumar.gob.ar/dataset/resoluciones-acumar",
+  "version": null
+}

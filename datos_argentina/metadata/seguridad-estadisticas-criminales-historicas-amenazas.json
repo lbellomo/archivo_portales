@@ -1,0 +1,168 @@
+{
+  "author": "Ministerio de Seguridad de la Nación. Unidad de Gabinete de Asesores. Dirección Nacional de Estadística Criminal. Dirección de Relevamiento y Análisis de la información",
+  "author_email": "snic-sat@minseg.gob.ar",
+  "creator_user_id": "dc157489-51c6-44ce-bd63-3bd983d60778",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P1Y"
+    },
+    {
+      "key": "issued",
+      "value": "2019-08-29T00:00:00"
+    },
+    {
+      "key": "language",
+      "value": "[\"SPA\"]"
+    },
+    {
+      "key": "source",
+      "value": "Ministerio de Seguridad de la Nación. Unidad de Gabinete de Asesores. Dirección Nacional de Estadística Criminal. Dirección de Relevamiento y Análisis de la información"
+    },
+    {
+      "key": "spatial",
+      "value": "ARG"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"JUST\"]"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Justicia, seguridad y legales",
+      "display_name": "Justicia, seguridad y legales",
+      "id": "69ac5e1d-79f0-4470-9514-8a173d9ae44c",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225406.604073justicia-seguridad-legales.svg",
+      "name": "just",
+      "title": "Justicia, seguridad y legales"
+    }
+  ],
+  "id": "seguridad_5",
+  "isopen": true,
+  "license_id": "CC-BY-4.0",
+  "license_title": "Creative Commons Attribution 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "maintainer": "Ministerio de Seguridad de la Nación. Unidad de Gabinete de Asesores. Dirección Nacional de Estadística Criminal. Dirección de Relevamiento y Análisis de la información",
+  "maintainer_email": null,
+  "metadata_created": "2019-12-04T20:05:15.253118",
+  "metadata_modified": "2021-04-29T17:05:47.050802",
+  "name": "seguridad-estadisticas-criminales-historicas-amenazas",
+  "notes": "Series históricas de hechos y tasas (cada 100 mil habitantes) de Amenazas para el total nacional y para cada provincia.",
+  "num_resources": 3,
+  "num_tags": 2,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:11.361783",
+    "description": "",
+    "id": "908fd413-5a22-40e7-9204-38ef380ae232",
+    "image_url": "",
+    "is_organization": true,
+    "name": "seguridad",
+    "revision_id": "36e7fa3c-9253-4f00-90f9-2b5a9709ea29",
+    "state": "active",
+    "title": " Ministerio de Seguridad",
+    "type": "organization"
+  },
+  "owner_org": "908fd413-5a22-40e7-9204-38ef380ae232",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "https://estadisticascriminales.minseg.gob.ar/",
+      "attributesDescription": "[{\"title\": \"indice_tiempo\", \"type\": \"date\", \"specialType\": \"time_index\", \"specialTypeDetail\": \"R/P1Y\", \"id\": \"snic_time_index_5.1\"}, {\"title\": \"amenazas_hechos\", \"type\": \"integer\", \"description\": \"Cantidad de hechos de robos y tentativa de robo a nivel nacional, seg\\u00fan el Sistema Nacional de Informaci\\u00f3n Criminal\", \"id\": \"snic_ah_arg\", \"units\": \"Cantidad\"}, {\"title\": \"amenazas_tasa\", \"type\": \"number\", \"description\": \"Tasa de hechos de robos y tentativa de robo a nivel nacional cada 100000 habitantes, seg\\u00fan el Sistema Nacional de Informaci\\u00f3n Criminal\", \"id\": \"snic_at_arg\", \"units\": \"Tasa cada 100000 habitantes\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-11-27T00:00:00",
+      "datastore_active": false,
+      "description": "Contiene las series de tiempo sobre víctimas y tasas (cada 100 mil habitantes) de amenazas en la República Argentina a partir del año 2001.",
+      "fileName": "snic-amenazas-pais-series.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "seguridad_5.1",
+      "last_modified": "2020-09-01T00:00:00",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Amenazas en la República Argentina (series)",
+      "package_id": "seguridad_5",
+      "position": 0,
+      "resource_type": "file",
+      "revision_id": "850f0778-71c3-493a-8331-4e475336dd29",
+      "size": null,
+      "state": "active",
+      "url": "https://estadisticascriminales.minseg.gob.ar/datos/snic-amenazas-pais-series.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://estadisticascriminales.minseg.gob.ar/",
+      "attributesDescription": "[{\"title\": \"indice_tiempo\", \"type\": \"date\", \"specialType\": \"time_index\", \"specialTypeDetail\": \"R/P1Y\", \"id\": \"snic_time_index_5.2\"}, {\"title\": \"amenazas_hechos_caba\", \"type\": \"integer\", \"description\": \"Cantidad de amenazas en Ciudad Aut\\u00f3noma de Buenos Aires.\", \"id\": \"snic_ah_02\", \"units\": \"Cantidad\"}, {\"title\": \"amenazas_hechos_buenos_aires\", \"type\": \"integer\", \"description\": \"Cantidad de amenazas en la provincia de Buenos Aires\", \"id\": \"snic_ah_06\", \"units\": \"Cantidad\"}, {\"title\": \"amenazas_hechos_catamarca\", \"type\": \"integer\", \"description\": \"Cantidad de amenazas en la provincia de Catamarca\", \"id\": \"snic_ah_10\", \"units\": \"Cantidad\"}, {\"title\": \"amenazas_hechos_cordoba\", \"type\": \"integer\", \"description\": \"Cantidad de amenazas en la provincia de C\\u00f3rdoba\", \"id\": \"snic_ah_14\", \"units\": \"Cantidad\"}, {\"title\": \"amenazas_hechos_corrientes\", \"type\": \"integer\", \"description\": \"Cantidad de amenazas en la provincia de Corrientes\", \"id\": \"snic_ah_18\", \"units\": \"Cantidad\"}, {\"title\": \"amenazas_hechos_chaco\", \"type\": \"integer\", \"description\": \"Cantidad de amenazas en la provincia de Chaco\", \"id\": \"snic_ah_22\", \"units\": \"Cantidad\"}, {\"title\": \"amenazas_hechos_chubut\", \"type\": \"integer\", \"description\": \"Cantidad de amenazas en la provincia de Chubut\", \"id\": \"snic_ah_26\", \"units\": \"Cantidad\"}, {\"title\": \"amenazas_hechos_entre_rios\", \"type\": \"integer\", \"description\": \"Cantidad de amenazas en la provincia de Entre R\\u00edos\", \"id\": \"snic_ah_30\", \"units\": \"Cantidad\"}, {\"title\": \"amenazas_hechos_formosa\", \"type\": \"integer\", \"description\": \"Cantidad de amenazas en la provincia de Formosa\", \"id\": \"snic_ah_34\", \"units\": \"Cantidad\"}, {\"title\": \"amenazas_hechos_jujuy\", \"type\": \"integer\", \"description\": \"Cantidad de amenazas en la provincia de Jujuy\", \"id\": \"snic_ah_38\", \"units\": \"Cantidad\"}, {\"title\": \"amenazas_hechos_la_pampa\", \"type\": \"integer\", \"description\": \"Cantidad de amenazas en la provincia de La Pampa\", \"id\": \"snic_ah_42\", \"units\": \"Cantidad\"}, {\"title\": \"amenazas_hechos_la_rioja\", \"type\": \"integer\", \"description\": \"Cantidad de amenazas en la provincia de La Rioja\", \"id\": \"snic_ah_46\", \"units\": \"Cantidad\"}, {\"title\": \"amenazas_hechos_mendoza\", \"type\": \"integer\", \"description\": \"Cantidad de amenazas en la provincia de Mendoza\", \"id\": \"snic_ah_50\", \"units\": \"Cantidad\"}, {\"title\": \"amenazas_hechos_misiones\", \"type\": \"integer\", \"description\": \"Cantidad de amenazas en la provincia de Misiones\", \"id\": \"snic_ah_54\", \"units\": \"Cantidad\"}, {\"title\": \"amenazas_hechos_neuquen\", \"type\": \"integer\", \"description\": \"Cantidad de amenazas en la provincia de Neuqu\\u00e9n\", \"id\": \"snic_ah_58\", \"units\": \"Cantidad\"}, {\"title\": \"amenazas_hechos_rio_negro\", \"type\": \"integer\", \"description\": \"Cantidad de amenazas en la provincia de R\\u00edo Negro\", \"id\": \"snic_ah_62\", \"units\": \"Cantidad\"}, {\"title\": \"amenazas_hechos_salta\", \"type\": \"integer\", \"description\": \"Cantidad de amenazas en la provincia de Salta\", \"id\": \"snic_ah_66\", \"units\": \"Cantidad\"}, {\"title\": \"amenazas_hechos_san_juan\", \"type\": \"integer\", \"description\": \"Cantidad de amenazas en la provincia de San Juan\", \"id\": \"snic_ah_70\", \"units\": \"Cantidad\"}, {\"title\": \"amenazas_hechos_san_luis\", \"type\": \"integer\", \"description\": \"Cantidad de amenazas en la provincia de San Luis\", \"id\": \"snic_ah_74\", \"units\": \"Cantidad\"}, {\"title\": \"amenazas_hechos_santa_cruz\", \"type\": \"integer\", \"description\": \"Cantidad de amenazas en la provincia de Santa Cruz\", \"id\": \"snic_ah_78\", \"units\": \"Cantidad\"}, {\"title\": \"amenazas_hechos_santa_fe\", \"type\": \"integer\", \"description\": \"Cantidad de amenazas en la provincia de Santa Fe\", \"id\": \"snic_ah_82\", \"units\": \"Cantidad\"}, {\"title\": \"amenazas_hechos_stgo_estero\", \"type\": \"integer\", \"description\": \"Cantidad de amenazas en la provincia de Santiago del Estero\", \"id\": \"snic_ah_86\", \"units\": \"Cantidad\"}, {\"title\": \"amenazas_hechos_tucuman\", \"type\": \"integer\", \"description\": \"Cantidad de amenazas en la provincia de Tucum\\u00e1n\", \"id\": \"snic_ah_90\", \"units\": \"Cantidad\"}, {\"title\": \"amenazas_hechos_tierra_del_fuego\", \"type\": \"integer\", \"description\": \"Cantidad de amenazas en la provincia de Tierra del Fuego\", \"id\": \"snic_ah_94\", \"units\": \"Cantidad\"}, {\"title\": \"amenazas_tasa_caba\", \"type\": \"number\", \"description\": \"Tasa de amenazas cada 100000 habitantes en la Ciudad Aut\\u00f3noma de Buenos Aires\", \"id\": \"snic_at_02\", \"units\": \"Tasa cada 100000 habitantes\"}, {\"title\": \"amenazas_tasa_buenos_aires\", \"type\": \"number\", \"description\": \"Tasa de amenazas cada 100000 habitantes en la provincia de Buenos Aires\", \"id\": \"snic_at_06\", \"units\": \"Tasa cada 100000 habitantes\"}, {\"title\": \"amenazas_tasa_catamarca\", \"type\": \"number\", \"description\": \"Tasa de amenazas cada 100000 habitantes en la provincia de Catamarca\", \"id\": \"snic_at_10\", \"units\": \"Tasa cada 100000 habitantes\"}, {\"title\": \"amenazas_tasa_cordoba\", \"type\": \"number\", \"description\": \"Tasa de amenazas cada 100000 habitantes en la provincia de C\\u00f3rdoba\", \"id\": \"snic_at_14\", \"units\": \"Tasa cada 100000 habitantes\"}, {\"title\": \"amenazas_tasa_corrientes\", \"type\": \"number\", \"description\": \"Tasa de amenazas cada 100000 habitantes en la provincia de Corrientes\", \"id\": \"snic_at_18\", \"units\": \"Tasa cada 100000 habitantes\"}, {\"title\": \"amenazas_tasa_chaco\", \"type\": \"number\", \"description\": \"Tasa de amenazas cada 100000 habitantes en la provincia de Chaco\", \"id\": \"snic_at_22\", \"units\": \"Tasa cada 100000 habitantes\"}, {\"title\": \"amenazas_tasa_chubut\", \"type\": \"number\", \"description\": \"Tasa de amenazas cada 100000 habitantes en la provincia de Chubut\", \"id\": \"snic_at_26\", \"units\": \"Tasa cada 100000 habitantes\"}, {\"title\": \"amenazas_tasa_entre_rios\", \"type\": \"number\", \"description\": \"Tasa de amenazas cada 100000 habitantes en la provincia de Entre R\\u00edos\", \"id\": \"snic_at_30\", \"units\": \"Tasa cada 100000 habitantes\"}, {\"title\": \"amenazas_tasa_formosa\", \"type\": \"number\", \"description\": \"Tasa de amenazas cada 100000 habitantes en la provincia de Formosa\", \"id\": \"snic_at_34\", \"units\": \"Tasa cada 100000 habitantes\"}, {\"title\": \"amenazas_tasa_jujuy\", \"type\": \"number\", \"description\": \"Tasa de amenazas cada 100000 habitantes en la provincia de Jujuy\", \"id\": \"snic_at_38\", \"units\": \"Tasa cada 100000 habitantes\"}, {\"title\": \"amenazas_tasa_la_pampa\", \"type\": \"number\", \"description\": \"Tasa de amenazas cada 100000 habitantes en la provincia de La Pampa\", \"id\": \"snic_at_42\", \"units\": \"Tasa cada 100000 habitantes\"}, {\"title\": \"amenazas_tasa_la_rioja\", \"type\": \"number\", \"description\": \"Tasa de amenazas cada 100000 habitantes en la provincia de La Rioja\", \"id\": \"snic_at_46\", \"units\": \"Tasa cada 100000 habitantes\"}, {\"title\": \"amenazas_tasa_mendoza\", \"type\": \"number\", \"description\": \"Tasa de amenazas cada 100000 habitantes en la provincia de Mendoza\", \"id\": \"snic_at_50\", \"units\": \"Tasa cada 100000 habitantes\"}, {\"title\": \"amenazas_tasa_misiones\", \"type\": \"number\", \"description\": \"Tasa de amenazas cada 100000 habitantes en la provincia de Misiones\", \"id\": \"snic_at_54\", \"units\": \"Tasa cada 100000 habitantes\"}, {\"title\": \"amenazas_tasa_neuquen\", \"type\": \"number\", \"description\": \"Tasa de amenazas cada 100000 habitantes en la provincia de Neuqu\\u00e9n\", \"id\": \"snic_at_58\", \"units\": \"Tasa cada 100000 habitantes\"}, {\"title\": \"amenazas_tasa_rio_negro\", \"type\": \"number\", \"description\": \"Tasa de amenazas cada 100000 habitantes en la provincia de R\\u00edo Negro\", \"id\": \"snic_at_62\", \"units\": \"Tasa cada 100000 habitantes\"}, {\"title\": \"amenazas_tasa_salta\", \"type\": \"number\", \"description\": \"Tasa de amenazas cada 100000 habitantes en la provincia de Salta\", \"id\": \"snic_at_66\", \"units\": \"Tasa cada 100000 habitantes\"}, {\"title\": \"amenazas_tasa_san_juan\", \"type\": \"number\", \"description\": \"Tasa de amenazas cada 100000 habitantes en la provincia de San Juan\", \"id\": \"snic_at_70\", \"units\": \"Tasa cada 100000 habitantes\"}, {\"title\": \"amenazas_tasa_san_luis\", \"type\": \"number\", \"description\": \"Tasa de amenazas cada 100000 habitantes en la provincia de San Luis\", \"id\": \"snic_at_74\", \"units\": \"Tasa cada 100000 habitantes\"}, {\"title\": \"amenazas_tasa_santa_cruz\", \"type\": \"number\", \"description\": \"Tasa de amenazas cada 100000 habitantes en la provincia de Santa Cruz\", \"id\": \"snic_at_78\", \"units\": \"Tasa cada 100000 habitantes\"}, {\"title\": \"amenazas_tasa_santa_fe\", \"type\": \"number\", \"description\": \"Tasa de amenazas cada 100000 habitantes en la provincia de Santa Fe\", \"id\": \"snic_at_82\", \"units\": \"Tasa cada 100000 habitantes\"}, {\"title\": \"amenazas_tasa_stgo_estero\", \"type\": \"number\", \"description\": \"Tasa de amenazas cada 100000 habitantes en la provincia de Santiago del Estero\", \"id\": \"snic_at_86\", \"units\": \"Tasa cada 100000 habitantes\"}, {\"title\": \"amenazas_tasa_tucuman\", \"type\": \"number\", \"description\": \"Tasa de amenazas cada 100000 habitantes en la provincia de Tucum\\u00e1n\", \"id\": \"snic_at_90\", \"units\": \"Tasa cada 100000 habitantes\"}, {\"title\": \"amenazas_tasa_tierra_del_fuego\", \"type\": \"number\", \"description\": \"Tasa de amenazas cada 100000 habitantes en la provincia de Tierra del Fuego\", \"id\": \"snic_at_94\", \"units\": \"Tasa cada 100000 habitantes\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-11-27T00:00:00",
+      "datastore_active": false,
+      "description": "Contiene las series de tiempo sobre víctimas y tasas (cada 100 mil habitantes) de amenazas en la República Argentina por provincias a partir del año 2001.",
+      "fileName": "snic-amenazas-provincias-series.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "seguridad_5.2",
+      "last_modified": "2020-09-01T00:00:00",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Amenazas en la República Argentina por provincia (series)",
+      "package_id": "seguridad_5",
+      "position": 1,
+      "resource_type": "file",
+      "revision_id": "c3d7a570-ec06-400b-a411-eb0fa1e85e6a",
+      "size": null,
+      "state": "active",
+      "url": "https://estadisticascriminales.minseg.gob.ar/datos/snic-amenazas-provincias-series.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://estadisticascriminales.minseg.gob.ar/",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-11-27T00:00:00",
+      "datastore_active": false,
+      "description": "Incluye apartados sobre la explicación del proceso de reconstrucción de las series y anexos metodológicos varios.",
+      "format": "PDF",
+      "hash": "",
+      "id": "seguridad_5.3",
+      "last_modified": "2019-11-27T00:00:00",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Amenazas en la República Argentina (informe)",
+      "package_id": "seguridad_5",
+      "position": 2,
+      "resource_type": "file",
+      "revision_id": "bcf16f1d-871a-4326-996b-e1cab3a7eac8",
+      "size": null,
+      "state": "active",
+      "url": "https://estadisticascriminales.minseg.gob.ar/reports/Informe%20serie%20historica%20AMENAZAS%202001%20al%202018.pdf",
+      "url_type": null
+    }
+  ],
+  "revision_id": "1bc11325-6ebd-4b30-95f3-101d17c2d360",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "Amenazas",
+      "id": "09a47fae-1a27-4914-820b-84e8a4687f97",
+      "name": "Amenazas",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Hechos.",
+      "id": "864269b6-c8c4-4133-aa4f-516e826220fe",
+      "name": "Hechos.",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Estadísticas criminales históricas. Amenazas",
+  "type": "dataset",
+  "url": "https://estadisticascriminales.minseg.gob.ar/",
+  "version": null
+}

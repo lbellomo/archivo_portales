@@ -1,0 +1,172 @@
+{
+  "author": "Ministerio de Ambiente y Desarrollo Sostenible. Dirección Nacional de Planificación y Ordenamiento Ambiental del territorio. ",
+  "author_email": "desersuelo@ambiente.gob.ar",
+  "creator_user_id": "4720e75a-9e17-4dc3-879d-041917c7f9f9",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "eventual"
+    },
+    {
+      "key": "issued",
+      "value": "2017-09-05T13:41:27.618043"
+    },
+    {
+      "key": "language",
+      "value": "[\"spa\"]"
+    },
+    {
+      "key": "modified",
+      "value": "2020-09-30T13:17:57.438704"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"ENVI\"]"
+    },
+    {
+      "key": "temporal",
+      "value": "2010-01-01T03:00:00.000Z/2010-12-31T03:00:00.000Z"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Medio ambiente",
+      "display_name": "Medio ambiente",
+      "id": "f71fe9d7-c703-43be-8d9d-af9441c326ba",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225440.964279medio-ambiente.svg",
+      "name": "envi",
+      "title": "Medio ambiente"
+    }
+  ],
+  "id": "ambiente_2e21c5a0-9c96-44ad-8574-f865be07cad7",
+  "isopen": false,
+  "license_id": "notspecified",
+  "license_title": "No se especificó la licencia",
+  "maintainer": "Ministerio de Ambiente y Desarrollo Sostenible. Dirección Nacional de Planificación y Ordenamiento Ambiental del Territorio. ",
+  "maintainer_email": "desersuelo@ambiente.gob.ar",
+  "metadata_created": "2019-11-26T14:57:51.482756",
+  "metadata_modified": "2021-04-29T17:18:03.228925",
+  "name": "ambiente-grado-degradacion-tierras-secas-argentina",
+  "notes": "Indica el grado de degradación de tierras secas en Argentina. Se define como tierras secas a aquellas que se encuentran por debajo la isohieta de  600 milímetros anuales. El grado se define como la intensidad del proceso de degradación. Incluye diferentes tipos de degradación",
+  "num_resources": 2,
+  "num_tags": 6,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:07.043831",
+    "description": "",
+    "id": "0e5aa328-825e-4509-851d-5421e866635e",
+    "image_url": "",
+    "is_organization": true,
+    "name": "ambiente",
+    "revision_id": "105eb915-270c-4f67-9b4e-e6a3f08be6d7",
+    "state": "active",
+    "title": "Ministerio de Ambiente y Desarrollo Sostenible",
+    "type": "organization"
+  },
+  "owner_org": "0e5aa328-825e-4509-851d-5421e866635e",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "http://datos.ambiente.gob.ar/dataset/2e21c5a0-9c96-44ad-8574-f865be07cad7/resource/c2b2a095-1fa0-47b2-9980-07a52aa6d48f",
+      "attributesDescription": "[{\"type\": \"string\", \"description\": \"Tipo de proceso de  degradaci\\u00f3n, puede ser erosi\\u00f3n h\\u00eddrica, erosi\\u00f3n e\\u00f3lica, degradaci\\u00f3n f\\u00edsica o degradaci\\u00f3n qu\\u00edmica de la tierra\", \"title\": \"degradacion_tipo\"}, {\"type\": \"number\", \"description\": \"Superficie de tierras secas afectada en grado leve. Etapa inicial, rehabilitaci\\u00f3n de la tierra posible con menor esfuerzo.\", \"title\": \"degradacion_baja_superficie_km2\"}, {\"type\": \"number\", \"description\": \"Superficie de tierras secas afectada en grado moderado. Control y rehabilitaci\\u00f3n posible.\", \"title\": \"degradacion_moderada_superficie_km2\"}, {\"type\": \"number\", \"description\": \"Superficie de tierras secas afectada en grado fuerte. Etapa avanzada, rehabilitaci\\u00f3n dif\\u00edcil en un l\\u00edmite de tiempo razonable.\", \"title\": \"degradacion_fuerte_superficie_km2\"}, {\"type\": \"number\", \"description\": \"Superficie de tierras secas afectada en grado extremo. Rehabilitaci\\u00f3n imposible. \", \"title\": \"degradacion_extrema_superficie_km2\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-09-05T13:51:52.481292",
+      "datastore_active": false,
+      "description": "Estima el grado de degradación en 4 clases y tipos de degradación de tierras. La metodología se basa en el proyecto WOCAT (World Overview of Conservation Approaches and Technologies) LADA/FAO(2011)",
+      "fileName": "superficie-degradada-en-tierras-secas.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "ambiente_c2b2a095-1fa0-47b2-9980-07a52aa6d48f",
+      "last_modified": "2019-11-07T16:06:28.561537",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Superficie degradada en tierras secas por tipo",
+      "package_id": "ambiente_2e21c5a0-9c96-44ad-8574-f865be07cad7",
+      "position": 0,
+      "resource_type": "file.upload",
+      "revision_id": "59b05550-5a6d-40cc-ab18-1fa7f9d723b0",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.ambiente.gob.ar/dataset/2e21c5a0-9c96-44ad-8574-f865be07cad7/resource/c2b2a095-1fa0-47b2-9980-07a52aa6d48f/download/superficie-degradada-en-tierras-secas.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos.ambiente.gob.ar/dataset/2e21c5a0-9c96-44ad-8574-f865be07cad7/resource/921eea56-b7d7-4852-b24b-35df3187e935",
+      "attributesDescription": "[{\"type\": \"string\", \"description\": \"Tipo de tierras\", \"title\": \"tierras_secas_pais\"}, {\"type\": \"integer\", \"description\": \"Superficie de tierras secas en kil\\u00f3metros cuadrados\", \"title\": \"superficie\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-09-05T13:57:10.636710",
+      "datastore_active": false,
+      "description": "Estima la superficie de tierras secas del país según el régimen de precipitaciones. Se considera dentro de la categoría de tierras secas a todas aquellas tierras comprendidas debajo  isohieta 600mm.",
+      "fileName": "superficie-tierras-secas-segun-precipitacion.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "ambiente_921eea56-b7d7-4852-b24b-35df3187e935",
+      "last_modified": "2019-11-07T16:09:05.079204",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Superficie de tierra seca según precipitación",
+      "package_id": "ambiente_2e21c5a0-9c96-44ad-8574-f865be07cad7",
+      "position": 1,
+      "resource_type": "file.upload",
+      "revision_id": "79a2fbb5-0c44-47fc-aab5-9b4d33ba126a",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.ambiente.gob.ar/dataset/2e21c5a0-9c96-44ad-8574-f865be07cad7/resource/921eea56-b7d7-4852-b24b-35df3187e935/download/superficie-tierras-secas-segun-precipitacion.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "6ee5ca18-d79d-4a7f-893b-e96e766c6c32",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "Degradación",
+      "id": "e50516f0-6286-4071-9f54-8b8e05f29159",
+      "name": "Degradación",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Tierra y suelo",
+      "id": "3d553b85-61e4-41df-b2dd-ac3ed39debdb",
+      "name": "Tierra y suelo",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "desertificación",
+      "id": "27c43fc1-b75b-4eaa-a768-2df5f39b0f94",
+      "name": "desertificación",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "erosión eólica",
+      "id": "a4b83cd0-9f97-419c-95c5-e21f0e21c089",
+      "name": "erosión eólica",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "erosión hídrica",
+      "id": "1e984f7a-d533-469f-b112-3b87ee2e6b1e",
+      "name": "erosión hídrica",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "tierras secas",
+      "id": "437a7001-4394-4078-8235-0dfc8a2b3750",
+      "name": "tierras secas",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Grado de la degradación de tierras secas en Argentina",
+  "type": "dataset",
+  "url": "http://www.desertificacion.gob.ar",
+  "version": null
+}

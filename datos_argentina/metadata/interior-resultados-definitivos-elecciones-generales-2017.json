@@ -1,0 +1,134 @@
+{
+  "author": "Dirección Nacional Electoral",
+  "author_email": null,
+  "creator_user_id": "4720e75a-9e17-4dc3-879d-041917c7f9f9",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P2Y"
+    },
+    {
+      "key": "issued",
+      "value": "2017-12-12T20:41:25.944286"
+    },
+    {
+      "key": "modified",
+      "value": "2017-12-13T11:54:16.370463"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"GOVE\"]"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Gobierno y sector público",
+      "display_name": "Gobierno y sector público",
+      "id": "e6f07c77-3987-4e71-98a6-731b1aaf74f4",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225353.395233gobierno-sector-publico.svg",
+      "name": "gove",
+      "title": "Gobierno y sector público"
+    }
+  ],
+  "id": "interior_b79d08e4-3aa8-4c20-a449-6cb049de6d90",
+  "isopen": false,
+  "license_id": "notspecified",
+  "license_title": "No se especificó la licencia",
+  "maintainer": null,
+  "maintainer_email": null,
+  "metadata_created": "2019-11-26T14:57:04.233767",
+  "metadata_modified": "2021-04-29T17:17:41.733638",
+  "name": "interior-resultados-definitivos-elecciones-generales-2017",
+  "notes": "Resultados Definitivos Elecciones Generales 2017 - Desagregado por Distrito Electoral",
+  "num_resources": 2,
+  "num_tags": 2,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:10.155022",
+    "description": "",
+    "id": "c88b1ad1-f78d-4cf9-848d-d73ccae6cd8e",
+    "image_url": "",
+    "is_organization": true,
+    "name": "interior",
+    "revision_id": "e67eb335-8122-437e-8616-a002d02f7076",
+    "state": "active",
+    "title": " Ministerio del Interior",
+    "type": "organization"
+  },
+  "owner_org": "c88b1ad1-f78d-4cf9-848d-d73ccae6cd8e",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "https://datos.mininterior.gob.ar/dataset/b79d08e4-3aa8-4c20-a449-6cb049de6d90/resource/83a3fcf3-9f7b-48ad-ba22-db3e672acca1",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-12-12T20:42:58.445150",
+      "datastore_active": false,
+      "description": "Resultados Definitivos - Elecciones PASO 2017 - Senadores Nacionales - Desagregados por Distrito Electoral.",
+      "fileName": "generales-2017definitivosndistrito.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "interior_83a3fcf3-9f7b-48ad-ba22-db3e672acca1",
+      "last_modified": "2017-12-12T20:42:58.347791",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Resultados Definitivos - Elecciones Generales 2017 - Senadores Nacionales",
+      "package_id": "interior_b79d08e4-3aa8-4c20-a449-6cb049de6d90",
+      "position": 0,
+      "resource_type": null,
+      "revision_id": "ec200990-4ce8-458a-a8bc-9b70f1a63bbb",
+      "size": null,
+      "state": "active",
+      "url": "https://datos.mininterior.gob.ar/dataset/b79d08e4-3aa8-4c20-a449-6cb049de6d90/resource/83a3fcf3-9f7b-48ad-ba22-db3e672acca1/download/generales-2017definitivosndistrito.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://datos.mininterior.gob.ar/dataset/b79d08e4-3aa8-4c20-a449-6cb049de6d90/resource/664c6c96-5868-461d-bf88-c9a1d4fb00bf",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-12-12T22:00:40.260252",
+      "datastore_active": false,
+      "description": "Resultados Definitivos - Elecciones Generales 2017 - Diputados Nacionales - Desagregados por Distrito Electoral.",
+      "fileName": "generales-2017definitivodndistrito.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "interior_664c6c96-5868-461d-bf88-c9a1d4fb00bf",
+      "last_modified": "2017-12-12T22:00:40.193562",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Resultados Definitivos - Elecciones Generales 2017 - Diputados Nacionales",
+      "package_id": "interior_b79d08e4-3aa8-4c20-a449-6cb049de6d90",
+      "position": 1,
+      "resource_type": null,
+      "revision_id": "ec200990-4ce8-458a-a8bc-9b70f1a63bbb",
+      "size": null,
+      "state": "active",
+      "url": "https://datos.mininterior.gob.ar/dataset/b79d08e4-3aa8-4c20-a449-6cb049de6d90/resource/664c6c96-5868-461d-bf88-c9a1d4fb00bf/download/generales-2017definitivodndistrito.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "49992627-2c77-4a04-803e-e4438b7ed5f2",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "Elecciones Generales",
+      "id": "5650162b-1b61-4e18-b640-a8a3cc69f545",
+      "name": "Elecciones Generales",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Resultados Electorales",
+      "id": "b55eb859-ae0b-40c0-8403-eb85066cde10",
+      "name": "Resultados Electorales",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Resultados Definitivos Elecciones Generales 2017",
+  "type": "dataset",
+  "url": "https://datos.mininterior.gob.ar/dataset/resultados-definitivos-elecciones-generales-2017",
+  "version": null
+}

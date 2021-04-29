@@ -1,0 +1,166 @@
+{
+  "author": "Ministerio de Energía y Minería.Secretaría de Coordinación de Planeamiento Energético.Dirección Nacional de Información Energética.Tecnología de la Información.",
+  "author_email": "tienerg@energia.gob.ar",
+  "creator_user_id": "4720e75a-9e17-4dc3-879d-041917c7f9f9",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "eventual"
+    },
+    {
+      "key": "issued",
+      "value": "2016-11-07T13:33:34.985951"
+    },
+    {
+      "key": "modified",
+      "value": "2018-03-08T11:10:40.969971"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"ENER\"]"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Energía",
+      "display_name": "Energía",
+      "id": "a4d3f632-eb48-4163-9791-165989c16035",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225337.421630energia.svg",
+      "name": "ener",
+      "title": "Energía"
+    }
+  ],
+  "id": "energia_a94977b7-d6a2-4501-b422-a20c909cc60f",
+  "isopen": false,
+  "license_id": "notspecified",
+  "license_title": "No se especificó la licencia",
+  "maintainer": "Ministerio de Energía y Minería.Secretaría de Planeamiento Energético Estratégico.Subsecretaría de Infraestructura Energética.",
+  "maintainer_email": null,
+  "metadata_created": "2019-11-26T15:00:58.077846",
+  "metadata_modified": "2021-04-29T17:17:24.831980",
+  "name": "energia-obras-transmision-distribucion",
+  "notes": "Listado de obras vigentes que se desarrollan con aporte de fondos del Estado Nacional. Incluye obras de tendido de líneas de alta, media y baja tensión, estaciones transformadoras, centros de transformación, adquisición de transformadores, etc.Este listado fue confeccionado por la Subsecretaría de Infraestructura Energética del Ministerio de Energía y Minería de la Nación y surge del seguimiento que la Coordinación de Transmisión y Distribución de Electricidad realiza del desarrollo de las obras",
+  "num_resources": 1,
+  "num_tags": 10,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:09.221510",
+    "description": "",
+    "id": "cd1b32a2-2d3a-44ac-8c98-a425a7b62d42",
+    "image_url": "",
+    "is_organization": true,
+    "name": "energia",
+    "revision_id": "a184cf69-99ad-4f84-a254-020031d7fe63",
+    "state": "active",
+    "title": "Secretaría de Energía",
+    "type": "organization"
+  },
+  "owner_org": "cd1b32a2-2d3a-44ac-8c98-a425a7b62d42",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "http://datos.minem.gob.ar/dataset/a94977b7-d6a2-4501-b422-a20c909cc60f/resource/2ada83a0-7fb1-4dca-a9cd-c6ac7f75d1b6",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-05-04T20:00:45.941001",
+      "datastore_active": false,
+      "description": "",
+      "fileName": "obras-electricas.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "energia_2ada83a0-7fb1-4dca-a9cd-c6ac7f75d1b6",
+      "last_modified": "2017-08-10T09:04:10.601711",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Obras de transmisión y distribución",
+      "package_id": "energia_a94977b7-d6a2-4501-b422-a20c909cc60f",
+      "position": 0,
+      "resource_type": null,
+      "revision_id": "65d30b0b-c8aa-4579-b890-e7c9fba5b8dd",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.minem.gob.ar/dataset/a94977b7-d6a2-4501-b422-a20c909cc60f/resource/2ada83a0-7fb1-4dca-a9cd-c6ac7f75d1b6/download/obras-electricas.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "a3352a94-f501-4223-98cc-7e79a22f4925",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "Alumbrado público",
+      "id": "86dbe2d3-a8ed-43bd-9327-530eacb01fea",
+      "name": "Alumbrado público",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Centro de transformación",
+      "id": "a65d4bcf-621c-4821-aa3e-281ea5fbecff",
+      "name": "Centro de transformación",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Estación transformadora",
+      "id": "901bfb73-29bb-493f-9de1-d7cb481075bd",
+      "name": "Estación transformadora",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Línea de alta tensión",
+      "id": "2d9b2695-4ce4-4900-9ad9-0230fe64b4e6",
+      "name": "Línea de alta tensión",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Línea de baja tensión",
+      "id": "3517e944-1890-4c0b-8b2b-97683dc83ef8",
+      "name": "Línea de baja tensión",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Línea de media tensión",
+      "id": "97da6093-eb86-40e1-a983-230461662e46",
+      "name": "Línea de media tensión",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Obras",
+      "id": "c4f93fc7-2266-449a-8cf6-d24e119de697",
+      "name": "Obras",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Parque generador",
+      "id": "76c9bc37-ca56-4c50-9c30-3bb6e3fcd85b",
+      "name": "Parque generador",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Transformadores",
+      "id": "9e8c5ea4-cb0a-4b09-959d-eb542517d017",
+      "name": "Transformadores",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Transporte de Energía Eléctrica",
+      "id": "562e77eb-ac43-473c-9541-332179c74918",
+      "name": "Transporte de Energía Eléctrica",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Obras de transmisión y distribución",
+  "type": "dataset",
+  "url": "http://datos.minem.gob.ar/dataset/obras-de-transmision-y-distribucion",
+  "version": null
+}

@@ -1,0 +1,214 @@
+{
+  "author": "Ministerio de Ambiente y Desarrollo Sostenible. Dirección Nacional de Cambio Climático.",
+  "author_email": "cambioclimatico@ambiente.gob.ar",
+  "creator_user_id": "4720e75a-9e17-4dc3-879d-041917c7f9f9",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P2Y"
+    },
+    {
+      "key": "issued",
+      "value": "2017-09-07T12:49:11.613542"
+    },
+    {
+      "key": "language",
+      "value": "[\"spa\"]"
+    },
+    {
+      "key": "modified",
+      "value": "2020-09-30T13:22:05.406625"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"ENVI\"]"
+    },
+    {
+      "key": "temporal",
+      "value": "1990-03-01T03:00:00.000Z/2019-12-31T03:00:00.000Z"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Medio ambiente",
+      "display_name": "Medio ambiente",
+      "id": "f71fe9d7-c703-43be-8d9d-af9441c326ba",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225440.964279medio-ambiente.svg",
+      "name": "envi",
+      "title": "Medio ambiente"
+    }
+  ],
+  "id": "ambiente_477e90ae-905a-4c0e-9afc-164fa11784b7",
+  "isopen": false,
+  "license_id": "notspecified",
+  "license_title": "No se especificó la licencia",
+  "maintainer": "Ministerio de Ambiente y Desarrollo Sostenible. Dirección Nacional de Cambio Climático.",
+  "maintainer_email": "cambioclimatico@ambiente.gob.ar",
+  "metadata_created": "2019-11-26T14:58:02.393607",
+  "metadata_modified": "2021-04-29T17:18:07.212388",
+  "name": "ambiente-emisiones-gases-efecto-invernadero-gei",
+  "notes": "Contabilización de las emisiones totales de gases de efecto invernadero (dióxido de carbono, metano, óxido nitroso, clorofluorocarbonos, hidrofluorocarbonos, hexafluoruro de azufre) a nivel nacional, provenientes de las distintas actividades humanas. Estos gases tienen la propiedad de retener momentáneamente la energía solar, por lo que incrementan el efecto invernadero y el cambio climático",
+  "num_resources": 2,
+  "num_tags": 12,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:07.043831",
+    "description": "",
+    "id": "0e5aa328-825e-4509-851d-5421e866635e",
+    "image_url": "",
+    "is_organization": true,
+    "name": "ambiente",
+    "revision_id": "105eb915-270c-4f67-9b4e-e6a3f08be6d7",
+    "state": "active",
+    "title": "Ministerio de Ambiente y Desarrollo Sostenible",
+    "type": "organization"
+  },
+  "owner_org": "0e5aa328-825e-4509-851d-5421e866635e",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "http://datos.ambiente.gob.ar/dataset/477e90ae-905a-4c0e-9afc-164fa11784b7/resource/5726fc76-5659-445a-8acd-61d01d015bec",
+      "attributesDescription": "[{\"type\": \"string\", \"description\": \"Sectores de los que se originan los GEI: Energ\\u00eda; Procesos Industriales y Uso de Productos; Agricultura, Ganader\\u00eda, Silvicultura y Otros Usos de la Tierra; Residuos\", \"title\": \"emisiones_gei_sector\"}, {\"type\": \"string\", \"description\": \"Tipos de GEI seg\\u00fan su composici\\u00f3n qu\\u00edmica: CO2 (di\\u00f3xido de carbono), CH4 (metano), N2O (\\u00f3xido nitroso), HFC (hidrofluorocarbonos), PFC (perfluorocarbnos), SF6 (hexafloruro de azufre)\", \"title\": \"emisiones_gei_tipo\"}, {\"type\": \"number\", \"description\": \"Emisiones de GEI para cada una de las categor\\u00edas para el a\\u00f1o 2014\", \"title\": \"emisiones_gei\"}, {\"type\": \"string\", \"description\": \"Megatoneladas de di\\u00f3xido de carbono equivalente\", \"title\": \"emisiones_gei_unidad_medida\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-09-07T12:59:35.043261",
+      "datastore_active": false,
+      "description": "Emisiones de GEI discriminadas por el sector que los origina y el tipo de gas (composición química)",
+      "fileName": "emisiones-gei-por-sector-y-tipo-2016_dncc.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "ambiente_5726fc76-5659-445a-8acd-61d01d015bec",
+      "last_modified": "2020-09-29T12:39:31.675907",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Emisiones de gases de efecto invernadero (GEI) por sector y tipo - Año 2016",
+      "package_id": "ambiente_477e90ae-905a-4c0e-9afc-164fa11784b7",
+      "position": 0,
+      "resource_type": "file.upload",
+      "revision_id": "a46ef842-1ea9-4b87-8ba5-3c71bfffda83",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.ambiente.gob.ar/dataset/477e90ae-905a-4c0e-9afc-164fa11784b7/resource/5726fc76-5659-445a-8acd-61d01d015bec/download/emisiones-gei-por-sector-y-tipo-2016_dncc.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos.ambiente.gob.ar/dataset/477e90ae-905a-4c0e-9afc-164fa11784b7/resource/de51f713-b19f-4b2f-9a1a-c1d47588b822",
+      "attributesDescription": "[{\"type\": \"integer\", \"description\": \"A\\u00f1o de la toma del dato\", \"title\": \"emisiones_gei_anio\"}, {\"type\": \"string\", \"description\": \"Sectores de las actividades humanas que generan GEI: Energ\\u00eda; Procesos Industriales y Uso de Productos; Agricultura, Ganader\\u00eda, Silvicultura y Otros Usos de la Tierra; Residuos\", \"title\": \"emisiones_gei_sector\"}, {\"type\": \"integer\", \"description\": \"Emisiones de GEI para cada uno de los sectores y cada a\\u00f1o de la serie\", \"title\": \"emisiones_gei\"}, {\"type\": \"string\", \"description\": \"Megatoneladas de di\\u00f3xido de carbono equivalente\", \"title\": \"emisiones_gei_unidad_medida\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-09-07T13:33:08.838849",
+      "datastore_active": false,
+      "description": "Emisiones de GEI provenientes de sectores de las actividades humanas (Energía; Procesos Industriales y Uso de Productos; Agricultura, Ganadería, Silvicultura y Otros Usos de la Tierra; Residuos)",
+      "fileName": "emisiones-gei-por-sector_dncc.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "ambiente_de51f713-b19f-4b2f-9a1a-c1d47588b822",
+      "last_modified": "2020-09-29T13:18:48.952459",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Emisiones de gases de efecto invernadero (GEI) por sector",
+      "package_id": "ambiente_477e90ae-905a-4c0e-9afc-164fa11784b7",
+      "position": 1,
+      "resource_type": "file.upload",
+      "revision_id": "a46ef842-1ea9-4b87-8ba5-3c71bfffda83",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.ambiente.gob.ar/dataset/477e90ae-905a-4c0e-9afc-164fa11784b7/resource/de51f713-b19f-4b2f-9a1a-c1d47588b822/download/emisiones-gei-por-sector_dncc.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "a46ef842-1ea9-4b87-8ba5-3c71bfffda83",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "CFC",
+      "id": "e7d9a1cb-b106-467d-b94a-c0e8c4926748",
+      "name": "CFC",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "CH4",
+      "id": "9584006e-9751-49aa-bea6-396b28f9dca3",
+      "name": "CH4",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "CO2",
+      "id": "a6210cfc-84fd-4f94-9a7a-de8a4f9bd5ed",
+      "name": "CO2",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Cambio climático",
+      "id": "b088cbdf-158c-440e-aac9-c35efa014812",
+      "name": "Cambio climático",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Efecto invernadero",
+      "id": "8129421a-1175-42fc-b0a1-ec26d393c666",
+      "name": "Efecto invernadero",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Emisiones",
+      "id": "ae3dd0f9-a5c0-4885-b786-5bfb6f3e2eee",
+      "name": "Emisiones",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "GEI",
+      "id": "d09a201e-49b2-4d64-ad97-cd32093e6764",
+      "name": "GEI",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Gases",
+      "id": "27eaadb9-7339-4389-b838-196316810be1",
+      "name": "Gases",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "HFC",
+      "id": "1ceac0ba-86ab-4c5c-800f-7fe38b73ff0e",
+      "name": "HFC",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "N2O",
+      "id": "8e3172b4-3382-4699-998d-8f6f7cacdd52",
+      "name": "N2O",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "SF6",
+      "id": "1f139f21-0a1d-4322-a6d9-5a36dcfb8cfd",
+      "name": "SF6",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "cambio climático",
+      "id": "ae778e67-b88a-4379-9a8b-aee070bab11e",
+      "name": "cambio climático",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Emisiones de gases de efecto invernadero (GEI)",
+  "type": "dataset",
+  "url": "https://inventariogei.ambiente.gob.ar/",
+  "version": null
+}

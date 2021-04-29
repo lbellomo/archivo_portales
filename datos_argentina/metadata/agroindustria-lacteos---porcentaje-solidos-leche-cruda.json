@@ -1,0 +1,252 @@
+{
+  "author": "Dirección Nacional Láctea",
+  "author_email": "estadisticaslecheria@magyp.gob.ar",
+  "creator_user_id": "dc157489-51c6-44ce-bd63-3bd983d60778",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P1M"
+    },
+    {
+      "key": "issued",
+      "value": "2018-12-07T21:26:14.827551"
+    },
+    {
+      "key": "language",
+      "value": "[\"spa\"]"
+    },
+    {
+      "key": "modified",
+      "value": "2019-10-24T10:31:28.749445"
+    },
+    {
+      "key": "source",
+      "value": "MAGyP"
+    },
+    {
+      "key": "spatial",
+      "value": "[\"ARG\"]"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"AGRI\"]"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Agroganadería, pesca y forestación",
+      "display_name": "Agroganadería, pesca y forestación",
+      "id": "0c35ea38-7059-41d2-9827-5587769d0dc6",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225145.990789agroganaderia-pesca-forestacion.svg",
+      "name": "agri",
+      "title": "Agroganadería, pesca y forestación"
+    }
+  ],
+  "id": "agroindustria_534a4ff8-9eb2-47db-b449-aef801d963a3",
+  "isopen": true,
+  "license_id": "CC-BY-4.0",
+  "license_title": "Creative Commons Attribution 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "maintainer": "Dirección Nacional Láctea",
+  "maintainer_email": "estadisticaslecheria@magyp.gob.ar",
+  "metadata_created": "2019-12-04T21:13:18.721079",
+  "metadata_modified": "2021-04-29T17:06:42.149157",
+  "name": "agroindustria-lacteos---porcentaje-solidos-leche-cruda",
+  "notes": "Porcentaje de sólidos en leche cruda. Los recursos que contiene el dataset muestran el % de grasa butirosa y % de proteínas por kilogramos de sólidos que contiene la leche cruda, desde 2013 hasta la actualidad.",
+  "num_resources": 5,
+  "num_tags": 6,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:07.834957",
+    "description": "",
+    "id": "b10c94e2-ade1-4a97-8c4c-b1ada7878d60",
+    "image_url": "",
+    "is_organization": true,
+    "name": "agroindustria",
+    "revision_id": "f7c3b6e9-d48f-4522-9f7a-388d805c8392",
+    "state": "active",
+    "title": "Ministerio de Agricultura, Ganadería y Pesca",
+    "type": "organization"
+  },
+  "owner_org": "b10c94e2-ade1-4a97-8c4c-b1ada7878d60",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "http://datos.agroindustria.gob.ar/dataset/534a4ff8-9eb2-47db-b449-aef801d963a3/resource/0a8c550e-36c4-49f6-9595-3d37e784d046",
+      "attributesDescription": "[{\"type\": \"string\", \"description\": \"pais_id\", \"title\": \"pais_id\"}, {\"type\": \"string\", \"description\": \"pa\\u00eds\", \"title\": \"pa\\u00eds\"}, {\"type\": \"string\", \"description\": \"a\\u00f1o\", \"title\": \"a\\u00f1o\"}, {\"type\": \"string\", \"description\": \"mes\", \"title\": \"mes\"}, {\"type\": \"integer\", \"description\": \"producto_id\", \"title\": \"producto_id\"}, {\"type\": \"string\", \"description\": \"producto\", \"title\": \"producto\"}, {\"type\": \"string\", \"description\": \"unidad_de_medida\", \"title\": \"unidad_de_medida\"}, {\"type\": \"number\", \"description\": \"cantidad\", \"title\": \"cantidad\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-10-20T18:14:45.514165",
+      "datastore_active": false,
+      "description": "Porcentaje de grasa butirosa por kilogramo de sólidos en leche cruda, a nivel nacional, desde 2013 a la actualidad.",
+      "fileName": "datasetlecheria10grasabutirosanacional.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "agroindustria_0a8c550e-36c4-49f6-9595-3d37e784d046",
+      "last_modified": "2019-01-22T12:40:17.989636",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Porcentaje de grasa butirosa por kilogramo de sólidos en leche cruda, a nivel nacional",
+      "package_id": "agroindustria_534a4ff8-9eb2-47db-b449-aef801d963a3",
+      "position": 0,
+      "resource_type": "file.upload",
+      "revision_id": "273ff99d-61a1-4422-817f-e708e0adfd9a",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.agroindustria.gob.ar/dataset/534a4ff8-9eb2-47db-b449-aef801d963a3/resource/0a8c550e-36c4-49f6-9595-3d37e784d046/download/porcentaje-grasa-butirosa-por-kilogramo-solidos-leche-cruda-nivel-nacional.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos.agroindustria.gob.ar/dataset/534a4ff8-9eb2-47db-b449-aef801d963a3/resource/f68cc1ac-c2cf-47d9-8efb-fc13393f34e9",
+      "attributesDescription": "[{\"type\": \"string\", \"description\": \"pais_id\", \"title\": \"pais_id\"}, {\"type\": \"string\", \"description\": \"pais\", \"title\": \"pais\"}, {\"type\": \"integer\", \"description\": \"provincia_id\", \"title\": \"provincia_id\"}, {\"type\": \"string\", \"description\": \"provincia\", \"title\": \"provincia\"}, {\"type\": \"string\", \"description\": \"a\\u00f1o\", \"title\": \"a\\u00f1o\"}, {\"type\": \"string\", \"description\": \"mes\", \"title\": \"mes\"}, {\"type\": \"integer\", \"description\": \"producto_id\", \"title\": \"producto_id\"}, {\"type\": \"string\", \"description\": \"producto\", \"title\": \"producto\"}, {\"type\": \"string\", \"description\": \"unidad_medida\", \"title\": \"unidad_medida\"}, {\"type\": \"number\", \"description\": \"cantidad\", \"title\": \"cantidad\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-10-20T18:15:34.451323",
+      "datastore_active": false,
+      "description": "Porcentaje de grasa butirosa por kilogramo de sólidos en leche cruda, a nivel provincial, desde 2013 a la actualidad.",
+      "fileName": "porcentaje-grasa-butirosa-por-kilogramo-sólidos-leche-cruda-nivel-provincial.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "agroindustria_f68cc1ac-c2cf-47d9-8efb-fc13393f34e9",
+      "last_modified": "2019-01-31T14:18:32.291979",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Porcentaje de grasa butirosa por kilogramo de sólidos en leche cruda, a nivel provincial",
+      "package_id": "agroindustria_534a4ff8-9eb2-47db-b449-aef801d963a3",
+      "position": 1,
+      "resource_type": "file.upload",
+      "revision_id": "273ff99d-61a1-4422-817f-e708e0adfd9a",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.agroindustria.gob.ar/dataset/534a4ff8-9eb2-47db-b449-aef801d963a3/resource/f68cc1ac-c2cf-47d9-8efb-fc13393f34e9/download/porcentaje-grasa-butirosa-por-kilogramo-solidos-leche-cruda-nivel-provincial.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos2.agroindustria.gob.ar/dataset/534a4ff8-9eb2-47db-b449-aef801d963a3/archivo/acb3ec47-7691-4e2b-b948-0decdcaafa00",
+      "attributesDescription": "[{\"type\": \"string\", \"description\": \"pais_id\", \"title\": \"pais_id\"}, {\"type\": \"string\", \"description\": \"pais\", \"title\": \"pais\"}, {\"type\": \"string\", \"description\": \"a\\u00f1o\", \"title\": \"a\\u00f1o\"}, {\"type\": \"string\", \"description\": \"mes\", \"title\": \"mes\"}, {\"type\": \"integer\", \"description\": \"producto_id\", \"title\": \"producto_id\"}, {\"type\": \"string\", \"description\": \"producto\", \"title\": \"producto\"}, {\"type\": \"string\", \"description\": \"unidad_medida\", \"title\": \"unidad_medida\"}, {\"type\": \"number\", \"description\": \"cantidad\", \"title\": \"cantidad\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-10-20T18:16:26.668606",
+      "datastore_active": false,
+      "description": "Porcentaje de proteína por kilogramo de sólidos en leche cruda, a nivel nacional, desde  2013 a la actualidad.",
+      "fileName": "porcentaje-proteina-por-kilogramo-solidos-leche-cruda-nivel-nacional.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "agroindustria_acb3ec47-7691-4e2b-b948-0decdcaafa00",
+      "last_modified": "2019-03-18T22:12:24.814593",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Porcentaje de proteína por kilogramo de sólidos en leche cruda, a nivel nacional",
+      "package_id": "agroindustria_534a4ff8-9eb2-47db-b449-aef801d963a3",
+      "position": 2,
+      "resource_type": "file.upload",
+      "revision_id": "273ff99d-61a1-4422-817f-e708e0adfd9a",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.agroindustria.gob.ar/dataset/534a4ff8-9eb2-47db-b449-aef801d963a3/resource/acb3ec47-7691-4e2b-b948-0decdcaafa00/download/porcentaje-proteina-por-kilogramo-solidos-leche-cruda-nivel-nacional.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos.agroindustria.gob.ar/dataset/534a4ff8-9eb2-47db-b449-aef801d963a3/archivo/05a3c4bd-53c6-460b-88ad-bf8f3593c86f",
+      "attributesDescription": "[{\"type\": \"string\", \"description\": \"pais_id\", \"title\": \"pais_id\"}, {\"type\": \"string\", \"description\": \"pais\", \"title\": \"pais\"}, {\"type\": \"integer\", \"description\": \"provincia_id\", \"title\": \"provincia_id\"}, {\"type\": \"string\", \"description\": \"provincia\", \"title\": \"provincia\"}, {\"type\": \"string\", \"description\": \"a\\u00f1o\", \"title\": \"a\\u00f1o\"}, {\"type\": \"string\", \"description\": \"mes\", \"title\": \"mes\"}, {\"type\": \"integer\", \"description\": \"producto_id\", \"title\": \"producto_id\"}, {\"type\": \"string\", \"description\": \"producto\", \"title\": \"producto\"}, {\"type\": \"string\", \"description\": \"unidad_medida\", \"title\": \"unidad_medida\"}, {\"type\": \"number\", \"description\": \"cantidad\", \"title\": \"cantidad\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-10-20T18:17:28.981142",
+      "datastore_active": false,
+      "description": "Porcentaje de proteína por kilogramo de sólidos en leche cruda, a nivel provincial, desde 2013 a la actualidad.",
+      "fileName": "porcentaje-proteina-por-kilogramo-solidos-leche-cruda-nivel-provincial.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "agroindustria_05a3c4bd-53c6-460b-88ad-bf8f3593c86f",
+      "last_modified": "2019-03-18T18:16:21.835254",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Porcentaje de proteína por kilogramo de sólidos en leche cruda, a nivel provincial",
+      "package_id": "agroindustria_534a4ff8-9eb2-47db-b449-aef801d963a3",
+      "position": 3,
+      "resource_type": "file.upload",
+      "revision_id": "273ff99d-61a1-4422-817f-e708e0adfd9a",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.agroindustria.gob.ar/dataset/534a4ff8-9eb2-47db-b449-aef801d963a3/resource/05a3c4bd-53c6-460b-88ad-bf8f3593c86f/download/porcentaje-proteina-por-kilogramo-solidos-leche-cruda-nivel-provincial.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos.agroindustria.gob.ar/dataset/534a4ff8-9eb2-47db-b449-aef801d963a3/resource/830454b9-9f80-460b-9bcc-e30babc83949",
+      "attributesDescription": "[{\"specialType\": \"time_index\", \"specialTypeDetail\": \"R/P1M\", \"type\": \"date\", \"title\": \"indice_tiempo\"}, {\"units\": \"Porcentaje por KG\", \"id\": \"AGRO_0207\", \"type\": \"number\", \"description\": \"porcentaje_grasa_butirosa_kg_solidos_leche_cruda_nivel_nacional\", \"title\": \"grasa_butirosa_nivel_nacional\"}, {\"units\": \"Porcentaje por KG\", \"id\": \"AGRO_0208\", \"type\": \"number\", \"description\": \"porcentaje_proteina_kg_solidos_leche_cruda_nivel_nacional\", \"title\": \"proteina_nivel_nacional\"}, {\"units\": \"Porcentaje por KG\", \"id\": \"AGRO_0209\", \"type\": \"number\", \"description\": \"porcentaje_grasa_butirosa_kg_solidos_leche_cruda_bs_as\", \"title\": \"grasa_butirosa_bs_as\"}, {\"units\": \"Porcentaje por KG\", \"id\": \"AGRO_0210\", \"type\": \"number\", \"description\": \"porcentaje_grasa_butirosa_kg_solidos_leche_cruda_cordoba\", \"title\": \"grasa_butirosa_cordoba\"}, {\"units\": \"Porcentaje por KG\", \"id\": \"AGRO_0211\", \"type\": \"number\", \"description\": \"porcentaje_grasa_butirosa_kg_solidos_leche_cruda_entre_rios\", \"title\": \"grasa_butirosa_entre_rios\"}, {\"units\": \"Porcentaje por KG\", \"id\": \"AGRO_0212\", \"type\": \"number\", \"description\": \"porcentaje_grasa_butirosa_kg_solidos_leche_cruda_la_pampa\", \"title\": \"grasa_butirosa_la_pampa\"}, {\"units\": \"Porcentaje por KG\", \"id\": \"AGRO_0213\", \"type\": \"number\", \"description\": \"porcentaje_grasa_butirosa_kg_solidos_leche_cruda_santa_fe\", \"title\": \"grasa_butirosa_santa_fe\"}, {\"units\": \"Porcentaje por KG\", \"id\": \"AGRO_0214\", \"type\": \"number\", \"description\": \"porcentaje_grasa_butirosa_kg_solidos_leche_cruda_santiago_del_estero\", \"title\": \"grasa_butirosa_santiago_del_estero\"}, {\"units\": \"Porcentaje por KG\", \"id\": \"AGRO_0215\", \"type\": \"number\", \"description\": \"porcentaje_proteina_kg_solidos_leche_cruda_bs_as\", \"title\": \"proteina_bs_as\"}, {\"units\": \"Porcentaje por KG\", \"id\": \"AGRO_0216\", \"type\": \"number\", \"description\": \"porcentaje_proteina_kg_solidos_leche_cruda_cordoba\", \"title\": \"proteina_cordoba\"}, {\"units\": \"Porcentaje por KG\", \"id\": \"AGRO_0217\", \"type\": \"number\", \"description\": \"porcentaje_proteina_kg_solidos_leche_cruda_entre_rios\", \"title\": \"proteina_entre_rios\"}, {\"units\": \"Porcentaje por KG\", \"id\": \"AGRO_0218\", \"type\": \"number\", \"description\": \"porcentaje_proteina_kg_solidos_leche_cruda_la_pampa\", \"title\": \"proteina_la_pampa\"}, {\"units\": \"Porcentaje por KG\", \"id\": \"AGRO_0219\", \"type\": \"number\", \"description\": \"porcentaje_proteina_kg_solidos_leche_cruda_santa_fe\", \"title\": \"proteina_santa_fe\"}, {\"units\": \"Porcentaje por KG\", \"id\": \"AGRO_0220\", \"type\": \"number\", \"description\": \"porcentaje_proteina_kg_solidos_leche_cruda_santiago_del_estero\", \"title\": \"proteina_santiago_del_estero\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-05-17T15:04:40.357296",
+      "datastore_active": false,
+      "description": "Evolución del porcentaje de grasa butirosa y proteínas por kilogramo de sólidos en leche cruda, a nivel nacional y provincial, desde 2013 a la actualidad.",
+      "fileName": "serie-tiempo-porcentaje-nacional-provincial-grasa-butirosa-proteinas-solidos-leche-cruda.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "agroindustria_830454b9-9f80-460b-9bcc-e30babc83949",
+      "last_modified": "2019-10-01T11:17:14.812283",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Serie de tiempo",
+      "package_id": "agroindustria_534a4ff8-9eb2-47db-b449-aef801d963a3",
+      "position": 4,
+      "resource_type": "file.upload",
+      "revision_id": "273ff99d-61a1-4422-817f-e708e0adfd9a",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.agroindustria.gob.ar/dataset/534a4ff8-9eb2-47db-b449-aef801d963a3/resource/830454b9-9f80-460b-9bcc-e30babc83949/download/serie-tiempo-porcentaje-nacional-provincial-grasa-butirosa-proteinas-solidos-leche-cruda.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "b9eff7f7-c72b-4407-945b-a9ac1cfa228f",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "KGB",
+      "id": "4fd30be4-670c-4921-a3a4-c228d01247d3",
+      "name": "KGB",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "butirosa",
+      "id": "9b4bd312-cfd3-4d58-a2f4-159f0d9f2e48",
+      "name": "butirosa",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "grasa butirosa",
+      "id": "ee1cd519-2874-4a9c-8c2a-39edb55b9bb0",
+      "name": "grasa butirosa",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "lacteos",
+      "id": "9e6b26d8-1663-4102-b84b-8d3d36505c78",
+      "name": "lacteos",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "leche",
+      "id": "50198eec-058b-4999-a070-8cf268e8e576",
+      "name": "leche",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "solidos totales",
+      "id": "44261614-9750-4eec-bba3-416b76cbe28a",
+      "name": "solidos totales",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Lácteos - Porcentaje de Sólidos en Leche Cruda",
+  "type": "dataset",
+  "url": "https://datos.agroindustria.gob.ar/dataset/porcentaje-de-solidos-en-leche-cruda",
+  "version": null
+}

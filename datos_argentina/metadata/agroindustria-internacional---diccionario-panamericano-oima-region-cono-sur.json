@@ -1,0 +1,137 @@
+{
+  "author": "Subsecretaría de Mercados Agropecuarios, Dirección Nacional de Estudios de Mercados",
+  "author_email": "sma@magyp.gob.ar",
+  "creator_user_id": "dc157489-51c6-44ce-bd63-3bd983d60778",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "eventual"
+    },
+    {
+      "key": "issued",
+      "value": "2018-12-07T21:28:43.004053"
+    },
+    {
+      "key": "language",
+      "value": "[\"spa\"]"
+    },
+    {
+      "key": "modified",
+      "value": "2019-10-24T10:47:20.146333"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"AGRI\"]"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Agroganadería, pesca y forestación",
+      "display_name": "Agroganadería, pesca y forestación",
+      "id": "0c35ea38-7059-41d2-9827-5587769d0dc6",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225145.990789agroganaderia-pesca-forestacion.svg",
+      "name": "agri",
+      "title": "Agroganadería, pesca y forestación"
+    }
+  ],
+  "id": "agroindustria_4cfd1404-c3b5-42f0-898b-3166d25f1fa1",
+  "isopen": true,
+  "license_id": "CC-BY-4.0",
+  "license_title": "Creative Commons Attribution 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "maintainer": null,
+  "maintainer_email": null,
+  "metadata_created": "2019-12-04T20:00:42.886249",
+  "metadata_modified": "2021-04-29T17:10:11.193268",
+  "name": "agroindustria-internacional---diccionario-panamericano-oima-region-cono-sur",
+  "notes": "Diccionario de productos agrícolas de países del Cono Sur, miembros de la Organización de Información de Mercados de Las Américas (OIMA).",
+  "num_resources": 1,
+  "num_tags": 5,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:07.834957",
+    "description": "",
+    "id": "b10c94e2-ade1-4a97-8c4c-b1ada7878d60",
+    "image_url": "",
+    "is_organization": true,
+    "name": "agroindustria",
+    "revision_id": "f7c3b6e9-d48f-4522-9f7a-388d805c8392",
+    "state": "active",
+    "title": "Ministerio de Agricultura, Ganadería y Pesca",
+    "type": "organization"
+  },
+  "owner_org": "b10c94e2-ade1-4a97-8c4c-b1ada7878d60",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "http://datos.agroindustria.gob.ar/dataset/4cfd1404-c3b5-42f0-898b-3166d25f1fa1/resource/2c8690d9-5e84-4a69-8a1b-f88970e3d101",
+      "attributesDescription": "[{\"type\": \"integer\", \"description\": \"oima_id\", \"title\": \"oima_id\"}, {\"type\": \"string\", \"description\": \"nom_cientifico\", \"title\": \"nom_cientifico\"}, {\"type\": \"string\", \"description\": \"ingles\", \"title\": \"ingles\"}, {\"type\": \"string\", \"description\": \"espaniol\", \"title\": \"espaniol\"}, {\"type\": \"string\", \"description\": \"argentina\", \"title\": \"argentina\"}, {\"type\": \"string\", \"description\": \"paraguay\", \"title\": \"paraguay\"}, {\"type\": \"string\", \"description\": \"uruguay\", \"title\": \"uruguay\"}, {\"type\": \"string\", \"description\": \"chile\", \"title\": \"chile\"}, {\"type\": \"string\", \"description\": \"brasil\", \"title\": \"brasil\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-10-03T20:20:31.431949",
+      "datastore_active": false,
+      "description": "Diccionario de productos agrícolas de países del Cono Sur, miembros de la Organización de Información de Mercados de Las Américas (OIMA).",
+      "fileName": "oima-diccionario-2017.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "agroindustria_2c8690d9-5e84-4a69-8a1b-f88970e3d101",
+      "last_modified": "2019-01-22T18:13:26.081734",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Diccionario Panamericano OIMA - Región Cono Sur",
+      "package_id": "agroindustria_4cfd1404-c3b5-42f0-898b-3166d25f1fa1",
+      "position": 0,
+      "resource_type": "file.upload",
+      "revision_id": "5930bdb9-a5ea-4adb-b0fa-6297e95e8c70",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.agroindustria.gob.ar/dataset/4cfd1404-c3b5-42f0-898b-3166d25f1fa1/resource/2c8690d9-5e84-4a69-8a1b-f88970e3d101/download/oima-diccionario-2017.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "dfd171db-5500-4367-a963-7b81fa4dbd2f",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "America",
+      "id": "67d111cf-8f31-4aa7-85d0-ce18f52478f0",
+      "name": "America",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Cono Sur",
+      "id": "17cedfcb-084b-4dd9-a329-b4b1c077b556",
+      "name": "Cono Sur",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "OIMA",
+      "id": "bae58a0a-01a3-4942-83f1-5e991968fc18",
+      "name": "OIMA",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "agricolas",
+      "id": "6c5c9436-e6bc-487e-a63c-79893e6eb14e",
+      "name": "agricolas",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "diccionario",
+      "id": "a9fbad22-357a-41a1-9835-d80e3973faa1",
+      "name": "diccionario",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Internacional - Diccionario Panamericano OIMA, Región Cono Sur",
+  "type": "dataset",
+  "url": "https://datos.agroindustria.gob.ar/dataset/diccionario-panamericano-oima---region-cono-sur",
+  "version": null
+}

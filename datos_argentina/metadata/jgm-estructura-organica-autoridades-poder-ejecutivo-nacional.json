@@ -1,0 +1,215 @@
+{
+  "author": "Jefatura de Gabinete de Ministros. Dirección Nacional de Diseño Organizacional. Coordinación Mapa del Estado.",
+  "author_email": "mapadelestado@jefatura.gob.ar",
+  "creator_user_id": "4720e75a-9e17-4dc3-879d-041917c7f9f9",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P1M"
+    },
+    {
+      "key": "issued",
+      "value": "2016-03-07T22:09:06.225695"
+    },
+    {
+      "key": "language",
+      "value": "[\"SPA\"]"
+    },
+    {
+      "key": "spatial",
+      "value": "ARG"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"GOVE\"]"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Gobierno y sector público",
+      "display_name": "Gobierno y sector público",
+      "id": "e6f07c77-3987-4e71-98a6-731b1aaf74f4",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225353.395233gobierno-sector-publico.svg",
+      "name": "gove",
+      "title": "Gobierno y sector público"
+    }
+  ],
+  "id": "jgm_2",
+  "isopen": true,
+  "license_id": "CC-BY-4.0",
+  "license_title": "Creative Commons Attribution 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "maintainer": "Jefatura de Gabinete de Ministros. Dirección Nacional de Diseño Organizacional. Coordinación Mapa del Estado.",
+  "maintainer_email": "mapadelestado@jefatura.gob.ar",
+  "metadata_created": "2019-11-26T14:56:11.099306",
+  "metadata_modified": "2021-04-29T17:15:50.685409",
+  "name": "jgm-estructura-organica-autoridades-poder-ejecutivo-nacional",
+  "notes": "Información acerca de estructura y autoridades de la Administración Centralizada del Estado Nacional, según Boletín Oficial y Decretos de designación en la Administración Pública Nacional (APN) hasta rango de Subsecretarios.\n\nNo incluye cargos extra-escalafonarios. La información suministrada está en proceso de actualización permanente. Los datos de contacto han sido relevados a partir de información publicada por los Organismos en distintas fuentes.\n\nEl Mapa del Estado se encuentra actualmente en proceso de actualización desde el cambio de administración del 10/12/2019.",
+  "num_resources": 4,
+  "num_tags": 6,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:06.745974",
+    "description": "",
+    "id": "f917ad65-28ea-42a9-81ae-61a2bb8f58d0",
+    "image_url": "",
+    "is_organization": true,
+    "name": "jgm",
+    "revision_id": "ddd4eb90-3b5d-40d0-a290-414515935bf3",
+    "state": "active",
+    "title": " Jefatura de Gabinete de Ministros",
+    "type": "organization"
+  },
+  "owner_org": "f917ad65-28ea-42a9-81ae-61a2bb8f58d0",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "https://mapadelestado.jefatura.gob.ar/estructura.php",
+      "attributesDescription": "[{\"title\": \"jurisdiccion\", \"type\": \"string\", \"description\": \"Nombre de la jurisdicci\\u00f3n.\"}, {\"title\": \"subjurisdiccion\", \"type\": \"string\", \"description\": \"Nombre de la subjurisdicci\\u00f3n.\"}, {\"title\": \"unidad_de_nivel_politico\", \"type\": \"string\", \"description\": \"Nombre de la unidad de nivel pol\\u00edtico.\"}, {\"title\": \"unidad\", \"type\": \"string\", \"description\": \"Nombre de la unidad.\"}, {\"title\": \"reporta_a\", \"type\": \"string\", \"description\": \"Nombre de la unidad de nivel pol\\u00edtcio  a la cual reporta.\"}, {\"title\": \"tipo_administracion\", \"type\": \"string\", \"description\": \"Tipo de administraci\\u00f3n.\"}, {\"title\": \"unidad_rango\", \"type\": \"string\", \"description\": \"Rango de la unidad.\"}, {\"title\": \"unidad_clase\", \"type\": \"string\", \"description\": \"Clase de unidad.\"}, {\"title\": \"norma_competencias_objetivos\", \"type\": \"string\", \"description\": \"Competencias y objetivos seg\\u00fan norma.\"}, {\"title\": \"cargo\", \"type\": \"string\", \"description\": \"Nombre del cargo.\"}, {\"title\": \"car_nivel\", \"type\": \"string\", \"description\": \"Nivel del cargo.\"}, {\"title\": \"car_rango_jerarquia\", \"type\": \"string\", \"description\": \"Jerarqu\\u00eda del rango del cargo.\"}, {\"title\": \"car_categoria\", \"type\": \"string\", \"description\": \"Categor\\u00eda del cargo.\"}, {\"title\": \"car_extraescalafonario\", \"type\": \"boolean\", \"description\": \"Es cargo extraescalafonario.\"}, {\"title\": \"car_escalafon\", \"type\": \"string\", \"description\": \"Escalaf\\u00f3n del cargo.\"}, {\"title\": \"car_suplemento\", \"type\": \"string\", \"description\": \"Suplemento del cargo.\"}, {\"title\": \"autoridad_tratamiento\", \"type\": \"string\", \"description\": \"Tratamiento de la autoridad.\"}, {\"title\": \"autoridad_nombre\", \"type\": \"string\", \"description\": \"Nombre de la autoridad.\"}, {\"title\": \"autoridad_apellido\", \"type\": \"string\", \"description\": \"Apellido de la autoridad.\"}, {\"title\": \"autoridad_dni\", \"type\": \"integer\", \"description\": \"DNI de la autoridad.\"}, {\"title\": \"autoridad_cuil\", \"type\": \"integer\", \"description\": \"CUIL de la autoridad.\"}, {\"title\": \"autoridad_sexo\", \"type\": \"string\", \"description\": \"Sexo de la autoridad.\"}, {\"title\": \"autoridad_norma_designacion\", \"type\": \"string\", \"description\": \"Norma sobre la designaci\\u00f3n de la autoridad.\"}, {\"title\": \"web\", \"type\": \"string\", \"description\": \"P\\u00e1gina web.\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-06-07T00:00:00",
+      "datastore_active": false,
+      "description": "Estructura orgánica y autoridades del Poder Ejecutivo Nacional al 9 de Diciembre del 2019.",
+      "fileName": "estructura-20191209.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "jgm_2.1",
+      "last_modified": "2019-12-13T00:00:00",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Estructura Orgánica y Autoridades del PEN al 09/12/2019",
+      "package_id": "jgm_2",
+      "position": 0,
+      "resource_type": null,
+      "revision_id": "1dfba256-dbe7-45ee-bdaa-ab07ff3a2479",
+      "size": null,
+      "state": "active",
+      "url": "http://infra.datos.gob.ar/catalog/jgm/dataset/2/distribution/2.1/download/estructura-20191209.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://mapadelestado.jefatura.gob.ar/estructura.php",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-06-07T00:00:00",
+      "datastore_active": false,
+      "description": "Estructura orgánica y autoridades del Poder Ejecutivo Nacional al 9 de Diciembre del 2019.",
+      "fileName": "estructura-20191209.xlsx",
+      "format": "XLSX",
+      "hash": "",
+      "id": "jgm_2.2",
+      "last_modified": "2019-12-16T00:00:00",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Estructura Orgánica y Autoridades del PEN al 09/12/2019",
+      "package_id": "jgm_2",
+      "position": 1,
+      "resource_type": null,
+      "revision_id": "1dfba256-dbe7-45ee-bdaa-ab07ff3a2479",
+      "size": null,
+      "state": "active",
+      "url": "http://infra.datos.gob.ar/catalog/jgm/dataset/2/distribution/2.2/download/estructura-20191209.xlsx",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://mapadelestado.jefatura.gob.ar/estructura.php",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-12-20T00:00:00",
+      "datastore_active": false,
+      "description": "Estructura orgánica y autoridades del Poder Ejecutivo Nacional vigentes.",
+      "format": "PDF",
+      "hash": "",
+      "id": "jgm_2.3",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Estructura Orgánica y Autoridades del PEN vigentes (pdf)",
+      "package_id": "jgm_2",
+      "position": 2,
+      "resource_type": null,
+      "revision_id": "50401e35-04c9-4d3a-9776-e8a9aaeb499d",
+      "size": null,
+      "state": "active",
+      "url": "https://mapadelestado.jefatura.gob.ar/organigramas/autoridadesapn.pdf",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://mapadelestado.jefatura.gob.ar/estructura.php",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2020-01-30T00:00:00",
+      "datastore_active": false,
+      "description": "Estructura orgánica y autoridades del Poder Ejecutivo Nacional vigentes al 30 de julio de 2020.",
+      "fileName": "estructura.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "jgm_2.4",
+      "last_modified": "2020-08-07T00:00:00",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Estructura Orgánica y Autoridades del PEN vigentes (CSV)",
+      "package_id": "jgm_2",
+      "position": 3,
+      "resource_type": null,
+      "revision_id": "c1d29d3b-922f-4119-af6c-ff83b3c86c45",
+      "size": null,
+      "state": "active",
+      "url": "https://mapadelestado.jefatura.gob.ar/includes/estructura_csv.php?r=0",
+      "url_type": null
+    }
+  ],
+  "revision_id": "f39084d6-2106-4b98-bda0-382b92f2c4bb",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "Autoridades",
+      "id": "3d2a9a95-7d18-442d-83dc-0369dcd7b348",
+      "name": "Autoridades",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Cargos",
+      "id": "63269cc0-9892-42b4-a5fd-02e26097392a",
+      "name": "Cargos",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Estructuras",
+      "id": "24cf500e-3e24-4f0a-a3fc-6110ad1425b5",
+      "name": "Estructuras",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Gobierno y sector público",
+      "id": "cabcb959-4dbc-4a58-b35e-dfd1f6d6ae5f",
+      "name": "Gobierno y sector público",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Jerarquía",
+      "id": "49d0023f-e6b2-40e8-ba2d-f450721e6125",
+      "name": "Jerarquía",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Organigramas",
+      "id": "f659fd8d-e7c1-4523-b9ba-194832093fac",
+      "name": "Organigramas",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Estructura Orgánica y Autoridades del Poder Ejecutivo Nacional",
+  "type": "dataset",
+  "url": "http://mapadelestado.jefatura.gob.ar/",
+  "version": null
+}

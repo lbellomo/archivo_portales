@@ -1,0 +1,256 @@
+{
+  "author": "Ministerio de Justicia y Derechos Humanos. Subsecretaría de Asuntos Registrales. Dirección Nacional de Registros Nacionales de la Propiedad Automotor y Créditos Prendarios.",
+  "author_email": "accesobd@dnrpa.gov.ar",
+  "creator_user_id": "dc157489-51c6-44ce-bd63-3bd983d60778",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P1M"
+    },
+    {
+      "key": "issued",
+      "value": "2017-06-28T18:19:55.932924"
+    },
+    {
+      "key": "modified",
+      "value": "2021-04-05T12:41:46.845265"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"JUST\"]"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Justicia, seguridad y legales",
+      "display_name": "Justicia, seguridad y legales",
+      "id": "69ac5e1d-79f0-4470-9514-8a173d9ae44c",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225406.604073justicia-seguridad-legales.svg",
+      "name": "just",
+      "title": "Justicia, seguridad y legales"
+    }
+  ],
+  "id": "justicia_852b58b1-98b5-4f80-9f80-62e09cf3cfbb",
+  "isopen": true,
+  "license_id": "CC-BY-4.0",
+  "license_title": "Creative Commons Attribution 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "maintainer": "Dirección Nacional de Registros Nacionales de la Propiedad Automotor y Créditos Prendarios",
+  "maintainer_email": "accesobd@dnrpa.gov.ar",
+  "metadata_created": "2019-12-04T20:02:12.374806",
+  "metadata_modified": "2021-04-29T17:06:28.765968",
+  "name": "justicia-estadistica-tramites-maquinarias",
+  "notes": "En este conjunto de datos se detalla la cantidad de maquinarias 0km inscriptas y maquinarias transferidas, discriminadas por año, mes y provincia a la que pertenece el registro seccional en el cual se inscribió el trámite. Se consideran maquinarias aquellas de uso agrícola, vial e industrial.",
+  "num_resources": 4,
+  "num_tags": 13,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:10.018297",
+    "description": "",
+    "id": "06b380f8-888f-43c0-8367-16a7ddf47d4f",
+    "image_url": "",
+    "is_organization": true,
+    "name": "justicia",
+    "revision_id": "637d68f0-a296-4d39-b846-4370270a96a1",
+    "state": "active",
+    "title": " Ministerio de Justicia y Derechos Humanos",
+    "type": "organization"
+  },
+  "owner_org": "06b380f8-888f-43c0-8367-16a7ddf47d4f",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "http://datos.jus.gob.ar/dataset/852b58b1-98b5-4f80-9f80-62e09cf3cfbb/resource/c8ca86f7-beb5-4a40-bc26-3a411d87de5e",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2018-04-04T10:47:42.885688",
+      "datastore_active": false,
+      "description": "Estadística de inscripciones iniciales de maquinarias agrícolas, viales e industriales,  por año, mes y provincia a la que pertenece el registro seccional en el cual se inscribió el trámite.",
+      "format": "CSV",
+      "hash": "",
+      "id": "justicia_c8ca86f7-beb5-4a40-bc26-3a411d87de5e",
+      "last_modified": "2021-04-05T09:40:15.903199",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Estadística de inscripciones iniciales de maquinarias - 201309 - 202103",
+      "package_id": "justicia_852b58b1-98b5-4f80-9f80-62e09cf3cfbb",
+      "position": 0,
+      "resource_type": null,
+      "revision_id": "d4d27545-fab3-4ca8-ba0e-77da9a9bc6f1",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.jus.gob.ar/dataset/852b58b1-98b5-4f80-9f80-62e09cf3cfbb/resource/c8ca86f7-beb5-4a40-bc26-3a411d87de5e/download/estadistica-inscripciones-iniciales-maquinarias-2013-09-2021-03.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos.jus.gob.ar/dataset/852b58b1-98b5-4f80-9f80-62e09cf3cfbb/resource/9bb1bec9-c309-45d5-ac8b-dafb086c6298",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2018-04-04T10:50:22.291779",
+      "datastore_active": false,
+      "description": "Estadística de transferencias de maquinarias agrícolas, viales e industriales,  por año, mes y provincia a la que pertenece el registro seccional en el cual se inscribió el trámite.",
+      "format": "CSV",
+      "hash": "",
+      "id": "justicia_9bb1bec9-c309-45d5-ac8b-dafb086c6298",
+      "last_modified": "2021-04-05T09:41:00.116789",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Estadística de transferencias de maquinarias - 201309 - 202103",
+      "package_id": "justicia_852b58b1-98b5-4f80-9f80-62e09cf3cfbb",
+      "position": 1,
+      "resource_type": null,
+      "revision_id": "d4d27545-fab3-4ca8-ba0e-77da9a9bc6f1",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.jus.gob.ar/dataset/852b58b1-98b5-4f80-9f80-62e09cf3cfbb/resource/9bb1bec9-c309-45d5-ac8b-dafb086c6298/download/estadistica-transferencias-maquinarias-2013-09-2021-03.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos.jus.gob.ar/dataset/852b58b1-98b5-4f80-9f80-62e09cf3cfbb/resource/4e1fa83d-f7af-409f-843b-a28895cd95a7",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2020-10-06T16:13:42.107662",
+      "datastore_active": false,
+      "description": "Archivo comprimido que contiene las estadísticas de inscripciones iniciales y transferencias de maquinarias agrícolas, viales e industriales desde septiembre del año 2013.\r\n",
+      "format": "ZIP",
+      "hash": "",
+      "id": "justicia_4e1fa83d-f7af-409f-843b-a28895cd95a7",
+      "last_modified": "2021-04-05T09:41:46.816469",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Estadística de trámites de maquinarias",
+      "package_id": "justicia_852b58b1-98b5-4f80-9f80-62e09cf3cfbb",
+      "position": 2,
+      "resource_type": null,
+      "revision_id": "d4d27545-fab3-4ca8-ba0e-77da9a9bc6f1",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.jus.gob.ar/dataset/852b58b1-98b5-4f80-9f80-62e09cf3cfbb/resource/4e1fa83d-f7af-409f-843b-a28895cd95a7/download/estadistica-tramites-maquinarias.zip",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos.jus.gob.ar/dataset/852b58b1-98b5-4f80-9f80-62e09cf3cfbb/resource/c5d29396-02a0-473e-9843-b3792b7b823c",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2020-12-20T11:06:19.220026",
+      "datastore_active": false,
+      "description": "Gráficos estadísticos de inscripciones iniciales y transferencias de maquinaria agrícola, vial e industrial desde enero del año 2014",
+      "format": "gráfico",
+      "hash": "",
+      "id": "justicia_c5d29396-02a0-473e-9843-b3792b7b823c",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Gráfico de trámites de maquinaria agrícola, vial e industrial",
+      "package_id": "justicia_852b58b1-98b5-4f80-9f80-62e09cf3cfbb",
+      "position": 3,
+      "resource_type": null,
+      "revision_id": "8b2a7c6c-535a-4efd-8d35-ca56f29d66bd",
+      "size": null,
+      "state": "active",
+      "url": "https://public.tableau.com/profile/justicia.abierta#!/vizhome/estadisticatramitesautomotores/Maquinariasinscripcionesinicialesytransferencias?publish=yes",
+      "url_type": null
+    }
+  ],
+  "revision_id": "41e287b1-30ef-4cce-90f8-9ff2978f365f",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "0km",
+      "id": "47fa14b3-5df2-4e5f-b608-b08f37eecdb4",
+      "name": "0km",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Sistema Registral",
+      "id": "5c6998da-9901-4ddd-841b-9da8bcfc5ba4",
+      "name": "Sistema Registral",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "agrícola",
+      "id": "7225b65f-3720-48b2-9ac1-b4b4e754595b",
+      "name": "agrícola",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "dnrpa",
+      "id": "4a91d05b-d988-471d-8765-0c08e4fc2b76",
+      "name": "dnrpa",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "industriales",
+      "id": "d76ef4fe-6882-4507-ae06-cfd5e0d35f7d",
+      "name": "industriales",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "inscripciones",
+      "id": "4015e51a-5e05-4de4-b8f7-55cd813085a3",
+      "name": "inscripciones",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "maquinarias",
+      "id": "9162ef38-cfca-4ba7-a03c-75818b1a2cce",
+      "name": "maquinarias",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "mavi",
+      "id": "4c88f5ec-b4e8-4167-b5fe-ffbb7d6aafdf",
+      "name": "mavi",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "registración",
+      "id": "75a760c6-aa85-4b7a-a195-dbefb61958a1",
+      "name": "registración",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "registros seccionales",
+      "id": "d9bd9b09-4f11-49be-93ef-b32d63df485e",
+      "name": "registros seccionales",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "transferencias",
+      "id": "57db9448-1674-4ca5-8123-1c6edf325df9",
+      "name": "transferencias",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "trámites",
+      "id": "6d571187-c44f-4b80-84e8-f7cb06708e10",
+      "name": "trámites",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "viales",
+      "id": "9aedf5c0-c7e8-436b-a017-8623a8feb1ea",
+      "name": "viales",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Estadística de trámites de maquinarias",
+  "type": "dataset",
+  "url": "http://www.dnrpa.gov.ar",
+  "version": null
+}

@@ -1,0 +1,175 @@
+{
+  "author": "Coordinación Apícola - Registro Nacional de Productores Apícolas",
+  "author_email": "renapa@magyp.gob.ar",
+  "creator_user_id": "dc157489-51c6-44ce-bd63-3bd983d60778",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P1M"
+    },
+    {
+      "key": "issued",
+      "value": "2019-01-11T18:44:46.853332"
+    },
+    {
+      "key": "language",
+      "value": "[\"spa\"]"
+    },
+    {
+      "key": "modified",
+      "value": "2019-10-24T10:27:36.512221"
+    },
+    {
+      "key": "source",
+      "value": "RENAPA - Registro Nacional de Productores Apícolas"
+    },
+    {
+      "key": "spatial",
+      "value": "[\"ARG\"]"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"AGRI\"]"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Agroganadería, pesca y forestación",
+      "display_name": "Agroganadería, pesca y forestación",
+      "id": "0c35ea38-7059-41d2-9827-5587769d0dc6",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225145.990789agroganaderia-pesca-forestacion.svg",
+      "name": "agri",
+      "title": "Agroganadería, pesca y forestación"
+    }
+  ],
+  "id": "agroindustria_15fbd380-fa31-436c-9283-457c23e30ecc",
+  "isopen": true,
+  "license_id": "CC-BY-4.0",
+  "license_title": "Creative Commons Attribution 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "maintainer": "Coordinación Apícola",
+  "maintainer_email": "apicultura@magyp.gob.ar",
+  "metadata_created": "2019-12-04T20:01:39.286178",
+  "metadata_modified": "2021-04-29T17:11:31.867879",
+  "name": "agroindustria-apicultura---registro-nacional-productores-apicolas",
+  "notes": "Ubicación, cantidad de apiarios y suma de colmenas a nivel departamental vinculados a la producción de miel de acuerdo a los datos informados en el Registro Nacional de Productores Apícolas (RENAPA).",
+  "num_resources": 2,
+  "num_tags": 6,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:07.834957",
+    "description": "",
+    "id": "b10c94e2-ade1-4a97-8c4c-b1ada7878d60",
+    "image_url": "",
+    "is_organization": true,
+    "name": "agroindustria",
+    "revision_id": "f7c3b6e9-d48f-4522-9f7a-388d805c8392",
+    "state": "active",
+    "title": "Ministerio de Agricultura, Ganadería y Pesca",
+    "type": "organization"
+  },
+  "owner_org": "b10c94e2-ade1-4a97-8c4c-b1ada7878d60",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "http://datos.agroindustria.gob.ar/dataset/15fbd380-fa31-436c-9283-457c23e30ecc/resource/68c49b26-6953-4656-8a32-dae497315e11",
+      "attributesDescription": "[{\"type\": \"string\", \"description\": \"Nombre de la provincia.\", \"title\": \"provincia\"}, {\"type\": \"integer\", \"description\": \"C\\u00f3digo de la provincia.\", \"title\": \"provincia_id\"}, {\"type\": \"string\", \"description\": \"Nombre del departamento / partido.\", \"title\": \"departamento\"}, {\"type\": \"integer\", \"description\": \"C\\u00f3digo del departamento / partido.\", \"title\": \"departamento_id\"}, {\"type\": \"date\", \"description\": \"Fecha de actualizaci\\u00f3n apiarios y colmenas.\", \"title\": \"fecha_actualizacion\"}, {\"type\": \"integer\", \"description\": \"Cantidad de apiarios por departamento / partido\", \"title\": \"apiarios\"}, {\"type\": \"integer\", \"description\": \"Cantidad de colmenas. por departamento / partido.\", \"title\": \"colmenas\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-01-11T15:51:52.542998",
+      "datastore_active": false,
+      "description": "Cantidad de apiarios y suma de colmenas a nivel departamental vinculados a la producción de miel de acuerdo a los datos informados en el Registro Nacional de Productores Apícolas (RENAPA).",
+      "fileName": "RENAPA-apiarios-colmenas-provincia-departamento-2019-Octubre.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "agroindustria_68c49b26-6953-4656-8a32-dae497315e11",
+      "last_modified": "2019-10-09T15:30:09.178742",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Apiarios y colmenas - Por departamento",
+      "package_id": "agroindustria_15fbd380-fa31-436c-9283-457c23e30ecc",
+      "position": 0,
+      "resource_type": "file.upload",
+      "revision_id": "fd16d7f4-b858-4de8-b4cf-1a9da9463a81",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.agroindustria.gob.ar/dataset/15fbd380-fa31-436c-9283-457c23e30ecc/resource/68c49b26-6953-4656-8a32-dae497315e11/download/renapa-apiarios-colmenas-provincia-departamento-2019-octubre.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://geoportal.agroindustria.gob.ar/tematizador/apicola/",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-03-11T17:55:54.089674",
+      "datastore_active": false,
+      "description": "Vaya a \"descargar\" para acceder al visor: https://geoportal.agroindustria.gob.ar/tematizador/apicola/",
+      "format": "url",
+      "hash": "",
+      "id": "agroindustria_c22f929d-f374-47be-881a-d8a4b48f123e",
+      "last_modified": "2019-08-07T09:35:06.064275",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Visor de Apiarios y Colmenas",
+      "package_id": "agroindustria_15fbd380-fa31-436c-9283-457c23e30ecc",
+      "position": 1,
+      "resource_type": "file",
+      "revision_id": "2f55dc3b-2ce3-4f91-bcb5-be6f35e42d61",
+      "size": null,
+      "state": "active",
+      "url": "https://geoportal.agroindustria.gob.ar/tematizador/apicola/",
+      "url_type": null
+    }
+  ],
+  "revision_id": "2f55dc3b-2ce3-4f91-bcb5-be6f35e42d61",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "RENAPA",
+      "id": "386149a0-743a-4938-acf0-8b5a3279cc34",
+      "name": "RENAPA",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "abejas",
+      "id": "54dc7e11-3445-4353-8cba-5e3f1624db81",
+      "name": "abejas",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "apiario",
+      "id": "2b57ba38-9875-40c5-987f-b08bcec11621",
+      "name": "apiario",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "apiarios",
+      "id": "f62ff2a3-62d5-4388-ae97-4bc529cabae8",
+      "name": "apiarios",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "colmenas",
+      "id": "7fdbac6a-1dfb-447d-be44-ba21532395f6",
+      "name": "colmenas",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "miel",
+      "id": "e83705a2-45b9-4a23-9dfb-c8f5fc9c3e1b",
+      "name": "miel",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Apicultura - Registro Nacional de Productores Apícolas",
+  "type": "dataset",
+  "url": "https://datos.agroindustria.gob.ar/dataset/registro-nacional-de-productores-apicolas",
+  "version": null
+}

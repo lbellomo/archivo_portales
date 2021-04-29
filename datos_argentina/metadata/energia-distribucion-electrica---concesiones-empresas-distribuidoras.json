@@ -1,0 +1,169 @@
+{
+  "author": "Ministerio de Energía y Minería.Secretaría de Coordinación de Planeamiento Energético.Dirección Nacional de Información Energética.Tecnología de la Información.",
+  "author_email": "tienerg@energia.gob.ar",
+  "creator_user_id": "4720e75a-9e17-4dc3-879d-041917c7f9f9",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "eventual"
+    },
+    {
+      "key": "issued",
+      "value": "2016-11-07T13:33:34.985951"
+    },
+    {
+      "key": "modified",
+      "value": "2018-03-09T18:07:08.064163"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"ENER\"]"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Energía",
+      "display_name": "Energía",
+      "id": "a4d3f632-eb48-4163-9791-165989c16035",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225337.421630energia.svg",
+      "name": "ener",
+      "title": "Energía"
+    }
+  ],
+  "id": "energia_96d78704-874e-44eb-920b-2a13f346622c",
+  "isopen": false,
+  "license_id": "notspecified",
+  "license_title": "No se especificó la licencia",
+  "maintainer": "Ministerio de Energía y Minería.Secretaría de Coordinación de Planeamiento Energético.Dirección Nacional de Información Energética.Tecnología de la Información.",
+  "maintainer_email": "tienerg@minem.gob.ar",
+  "metadata_created": "2019-11-26T15:00:03.280006",
+  "metadata_modified": "2021-04-29T17:17:27.552046",
+  "name": "energia-distribucion-electrica---concesiones-empresas-distribuidoras",
+  "notes": "Concesiones de empresas distribuidoras eléctricas. ISO 19126: PowerSupplies, Este subgrupo se compone de conceptos que se relacionan con la producción, transporte y distribución de energía.",
+  "num_resources": 2,
+  "num_tags": 7,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:09.221510",
+    "description": "",
+    "id": "cd1b32a2-2d3a-44ac-8c98-a425a7b62d42",
+    "image_url": "",
+    "is_organization": true,
+    "name": "energia",
+    "revision_id": "a184cf69-99ad-4f84-a254-020031d7fe63",
+    "state": "active",
+    "title": "Secretaría de Energía",
+    "type": "organization"
+  },
+  "owner_org": "cd1b32a2-2d3a-44ac-8c98-a425a7b62d42",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "http://datos.minem.gob.ar/dataset/96d78704-874e-44eb-920b-2a13f346622c/resource/0862d65d-b90d-41cd-9c35-5c83bfecb6f3",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-05-04T18:24:49.140459",
+      "datastore_active": false,
+      "description": "Archivos prj, shp, shx, dbf, xml. Sistema de Proyección EPSG:4326",
+      "fileName": "distribucin-elctrica-concesiones-de-empresas-distribuidoras.zip",
+      "format": "SHP",
+      "hash": "",
+      "id": "energia_0862d65d-b90d-41cd-9c35-5c83bfecb6f3",
+      "last_modified": "2017-05-04T18:24:48.880086",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Distribución Eléctrica - Concesiones de empresas distribuidoras",
+      "package_id": "energia_96d78704-874e-44eb-920b-2a13f346622c",
+      "position": 0,
+      "resource_type": null,
+      "revision_id": "24a5a196-85da-40ee-a38f-727b8001d274",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.minem.gob.ar/dataset/96d78704-874e-44eb-920b-2a13f346622c/resource/0862d65d-b90d-41cd-9c35-5c83bfecb6f3/download/distribucin-elctrica-concesiones-de-empresas-distribuidoras.zip",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos.minem.gob.ar/dataset/96d78704-874e-44eb-920b-2a13f346622c/resource/e0542ae9-b152-41a7-89eb-9f3bd70e508c",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-05-04T19:29:17.964889",
+      "datastore_active": false,
+      "description": "",
+      "fileName": "distribucin-elctrica-concesiones-de-empresas-distribuidoras.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "energia_e0542ae9-b152-41a7-89eb-9f3bd70e508c",
+      "last_modified": "2017-05-04T19:29:17.799070",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Distribución Eléctrica - Concesiones de empresas distribuidoras",
+      "package_id": "energia_96d78704-874e-44eb-920b-2a13f346622c",
+      "position": 1,
+      "resource_type": null,
+      "revision_id": "24a5a196-85da-40ee-a38f-727b8001d274",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.minem.gob.ar/dataset/96d78704-874e-44eb-920b-2a13f346622c/resource/e0542ae9-b152-41a7-89eb-9f3bd70e508c/download/distribucin-elctrica-concesiones-de-empresas-distribuidoras.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "6f69f103-6970-4886-9bc9-1a244c873797",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "Concesiones",
+      "id": "be2bf17d-60fa-4e5d-8a45-3cc73c7a2eb7",
+      "name": "Concesiones",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Distribución",
+      "id": "902c705a-5871-41e1-a10a-3b5485a51f24",
+      "name": "Distribución",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Distribución de Energía Eléctrica",
+      "id": "729bbc10-1c26-4b5a-85fa-6e553146c5ae",
+      "name": "Distribución de Energía Eléctrica",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Eléctrica",
+      "id": "65531076-1464-4bb1-9a93-eeb54f138458",
+      "name": "Eléctrica",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Empresas",
+      "id": "bbf63d22-0fee-4fe3-abcc-91f61c8ec4f1",
+      "name": "Empresas",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Información Geográfica",
+      "id": "d22bc8a4-252e-4fd8-89b2-3b9a08f6be42",
+      "name": "Información Geográfica",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Información geográfica",
+      "id": "24b3ee69-69cb-45de-a8b4-3566f4eab17c",
+      "name": "Información geográfica",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Distribución Eléctrica - Concesiones de empresas distribuidoras",
+  "type": "dataset",
+  "url": "http://datos.minem.gob.ar/dataset/distribucion-electrica-concesiones-de-empresas-distribuidoras-",
+  "version": null
+}

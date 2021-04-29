@@ -1,0 +1,125 @@
+{
+  "author": "Ministerio de Defensa. ",
+  "author_email": "transparencia@mindef.gov.ar",
+  "creator_user_id": "4720e75a-9e17-4dc3-879d-041917c7f9f9",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P1Y"
+    },
+    {
+      "key": "issued",
+      "value": "2019-02-26T13:54:01.662201"
+    },
+    {
+      "key": "modified",
+      "value": "2019-03-25T11:40:53.286300"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"GOVE\"]"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Gobierno y sector público",
+      "display_name": "Gobierno y sector público",
+      "id": "e6f07c77-3987-4e71-98a6-731b1aaf74f4",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225353.395233gobierno-sector-publico.svg",
+      "name": "gove",
+      "title": "Gobierno y sector público"
+    }
+  ],
+  "id": "defensa_c864a572-e5e9-4727-aee3-bed0faab88a1",
+  "isopen": false,
+  "license_id": "notspecified",
+  "license_title": "No se especificó la licencia",
+  "maintainer": null,
+  "maintainer_email": null,
+  "metadata_created": "2019-11-26T14:56:28.031348",
+  "metadata_modified": "2021-04-29T17:04:58.374670",
+  "name": "defensa-ministros-defensa",
+  "notes": "Listado de los Ministros de Defensa.",
+  "num_resources": 1,
+  "num_tags": 4,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:07.977275",
+    "description": "",
+    "id": "5e80ed4f-8bfb-4451-8240-e8f39e695ee1",
+    "image_url": "",
+    "is_organization": true,
+    "name": "defensa",
+    "revision_id": "6c78ab87-28d0-47ba-99bb-5850ddbf7279",
+    "state": "active",
+    "title": " Ministerio de Defensa",
+    "type": "organization"
+  },
+  "owner_org": "5e80ed4f-8bfb-4451-8240-e8f39e695ee1",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "http://datos.mindef.gov.ar/dataset/c864a572-e5e9-4727-aee3-bed0faab88a1/resource/ce829ee7-c5d1-4226-a2d0-3e4a95b71c66",
+      "attributesDescription": "[{\"type\": \"string\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-02-26T10:54:43.370004",
+      "datastore_active": false,
+      "description": "Listado de los Ministros de Defensa",
+      "fileName": "ministros-defensa-historico.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "defensa_ce829ee7-c5d1-4226-a2d0-3e4a95b71c66",
+      "last_modified": "2019-09-18T12:51:57.257172",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Ministros de Defensa: Histórico",
+      "package_id": "defensa_c864a572-e5e9-4727-aee3-bed0faab88a1",
+      "position": 0,
+      "resource_type": "file.upload",
+      "revision_id": "93157144-46c9-4dae-bbca-1625db7cf87d",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.mindef.gov.ar/dataset/c864a572-e5e9-4727-aee3-bed0faab88a1/resource/ce829ee7-c5d1-4226-a2d0-3e4a95b71c66/download/ministros-defensa-historico.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "4d5b7cbf-a628-493a-84f3-672dbfb11c4e",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "Historico",
+      "id": "3e66662d-cbf1-446c-a4c6-9e5d59e0c9cb",
+      "name": "Historico",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Institucional",
+      "id": "542bbef5-2c77-4dab-8bc8-b40151c9a6c2",
+      "name": "Institucional",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Ministerio de Defensa",
+      "id": "21a6c998-519d-49c2-b62b-7d613ced9b06",
+      "name": "Ministerio de Defensa",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Ministros",
+      "id": "efb00fc9-9030-4928-a816-f9f39cf59154",
+      "name": "Ministros",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Ministros de Defensa",
+  "type": "dataset",
+  "url": "http://datos.mindef.gov.ar/dataset/ministros-de-defensa",
+  "version": null
+}

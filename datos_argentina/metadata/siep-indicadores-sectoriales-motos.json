@@ -1,0 +1,166 @@
+{
+  "author": "Ministerio de Producción. Secretaría de Transformación Productiva. Subsecretaría de Desarrollo y Planeamiento Productivo.",
+  "author_email": "datos@produccion.gob.ar",
+  "creator_user_id": "4720e75a-9e17-4dc3-879d-041917c7f9f9",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P1M"
+    },
+    {
+      "key": "issued",
+      "value": "2018-06-12"
+    },
+    {
+      "key": "language",
+      "value": "[\"SPA\"]"
+    },
+    {
+      "key": "source",
+      "value": "Ministerio de Producción. Secretaría de la Transformación Productiva. Subsecretaría de Desarrollo y Planeamiento Productivo."
+    },
+    {
+      "key": "spatial",
+      "value": "ARG"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"ECON\"]"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Economía y finanzas",
+      "display_name": "Economía y finanzas",
+      "id": "60b4b03e-10a1-4d67-b984-08008a249617",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225257.200233economia-finanzas.svg",
+      "name": "econ",
+      "title": "Economía y finanzas"
+    }
+  ],
+  "id": "siep_14",
+  "isopen": true,
+  "license_id": "CC-BY-4.0",
+  "license_title": "Creative Commons Attribution 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "maintainer": "Ministerio de Producción. Secretaría de la Transformación Productiva. Subsecretaría de Desarrollo y Planeamiento Productivo.",
+  "maintainer_email": "datos@produccion.gob.ar",
+  "metadata_created": "2019-11-26T15:02:46.435181",
+  "metadata_modified": "2021-04-29T17:05:08.967632",
+  "name": "siep-indicadores-sectoriales-motos",
+  "notes": "Resumen de los principales indicadores del sector de Motos, incluyendo motocicletas, scooters, ciclomotores, cuatriciclos y similares.",
+  "num_resources": 2,
+  "num_tags": 5,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:10.618326",
+    "description": "",
+    "id": "83a04686-747a-4ba3-a0b1-2f05c3196bc4",
+    "image_url": "",
+    "is_organization": true,
+    "name": "siep",
+    "revision_id": "23a30f6e-13f4-45a1-8e98-d49541d6ce75",
+    "state": "active",
+    "title": "Secretaría de Transformación Productiva",
+    "type": "organization"
+  },
+  "owner_org": "83a04686-747a-4ba3-a0b1-2f05c3196bc4",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "http://estadisticas.produccion.gob.ar/",
+      "attributesDescription": "[{\"title\": \"indice_tiempo\", \"type\": \"date\", \"specialType\": \"time_index\", \"specialTypeDetail\": \"R/P1M\", \"description\": \"\\u00cdndice de tiempo de las series\", \"id\": \"Motos_patentamiento_oqzKxd\"}, {\"title\": \"ciclomotor\", \"type\": \"number\", \"description\": \"Motos: n\\u00famero de patentamientos de ciclomotores\", \"id\": \"Motos_patentamiento_H4hPcL\", \"units\": \"Unidades\"}, {\"title\": \"cuatriciclo\", \"type\": \"number\", \"description\": \"Motos: n\\u00famero de patentamientos de cuatriciclos\", \"id\": \"Motos_patentamiento_8rO6AO\", \"units\": \"Unidades\"}, {\"title\": \"motocicleta\", \"type\": \"number\", \"description\": \"Motos: n\\u00famero de patentamientos de motocicletas\", \"id\": \"Motos_patentamiento_8myrF9\", \"units\": \"Unidades\"}, {\"title\": \"otros\", \"type\": \"number\", \"description\": \"Motos: n\\u00famero de patentamientos de otros\", \"id\": \"Motos_patentamiento_iYvsva\", \"units\": \"Unidades\"}, {\"title\": \"scooter\", \"type\": \"number\", \"description\": \"Motos: n\\u00famero de patentamientos de scooters\", \"id\": \"Motos_patentamiento_KiZqL3\", \"units\": \"Unidades\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2018-06-12T00:00:00",
+      "datastore_active": false,
+      "description": "Motos: número de patentamientos por categoría de motocicleta en formato de series",
+      "fileName": "motos-paten-series.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "siep_14.1",
+      "last_modified": "2018-09-28T00:00:00",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Motos: número de patentamientos por categoría de motocicleta (series)",
+      "package_id": "siep_14",
+      "position": 0,
+      "resource_type": "file",
+      "revision_id": "edd1fd78-7038-400b-840e-549bdfa6b404",
+      "size": null,
+      "state": "active",
+      "url": "http://estadisticas.produccion.gob.ar/app/dataset/14/distribution/14.1/motos-paten-series.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://estadisticas.produccion.gob.ar/",
+      "attributesDescription": "[{\"title\": \"indice_tiempo\", \"type\": \"date\", \"description\": \"\\u00cdndice de tiempo de los datos de panel\", \"id\": \"Motos_patentamiento_Yitbmk\"}, {\"title\": \"categoria\", \"type\": \"string\", \"description\": \"Categor\\u00eda\", \"id\": \"Motos_patentamiento_SXTsOy\"}, {\"title\": \"valor\", \"type\": \"number\", \"description\": \"Cantidad de veh\\u00edculos pertenecientes al sector motocicletas patentados\", \"id\": \"Motos_patentamiento_sTtNrs\", \"units\": \"Unidades\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2018-06-12T00:00:00",
+      "datastore_active": false,
+      "description": "Motos: número de patentamientos por categoría de motocicleta en formato de datos de panel",
+      "fileName": "motos-paten-panel.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "siep_14.2",
+      "last_modified": "2018-09-28T00:00:00",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Motos: número de patentamientos por categoría de motocicleta (panel)",
+      "package_id": "siep_14",
+      "position": 1,
+      "resource_type": "file",
+      "revision_id": "edd1fd78-7038-400b-840e-549bdfa6b404",
+      "size": null,
+      "state": "active",
+      "url": "http://estadisticas.produccion.gob.ar/app/dataset/14/distribution/14.2/motos-paten-panel.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "edd1fd78-7038-400b-840e-549bdfa6b404",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "Consumo",
+      "id": "f5518b98-9614-432f-92a1-54b04add2c71",
+      "name": "Consumo",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Motos",
+      "id": "c53eac47-6905-4731-ac83-ee84d8b4f314",
+      "name": "Motos",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "indicador",
+      "id": "9a05b182-e758-4dcc-af49-080e396255ce",
+      "name": "indicador",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "patentamientos",
+      "id": "f6c7f725-0a04-474e-875c-0d00416acc20",
+      "name": "patentamientos",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "sector",
+      "id": "86e5b9d4-8b55-4472-89be-ca0d197f9fcc",
+      "name": "sector",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Indicadores Sectoriales de Motos",
+  "type": "dataset",
+  "url": "http://estadisticas.produccion.gob.ar/",
+  "version": null
+}

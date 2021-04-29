@@ -1,0 +1,168 @@
+{
+  "author": "Ministerio de Seguridad de la Nación. Unidad de Gabinete de Asesores. Dirección Nacional de Estadística Criminal. Dirección de Relevamiento y Análisis de la información",
+  "author_email": "snic-sat@minseg.gob.ar",
+  "creator_user_id": "dc157489-51c6-44ce-bd63-3bd983d60778",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P1Y"
+    },
+    {
+      "key": "issued",
+      "value": "2019-08-29T00:00:00"
+    },
+    {
+      "key": "language",
+      "value": "[\"SPA\"]"
+    },
+    {
+      "key": "source",
+      "value": "Ministerio de Seguridad de la Nación. Unidad de Gabinete de Asesores. Dirección Nacional de Estadística Criminal. Dirección de Relevamiento y Análisis de la información"
+    },
+    {
+      "key": "spatial",
+      "value": "ARG"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"JUST\"]"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Justicia, seguridad y legales",
+      "display_name": "Justicia, seguridad y legales",
+      "id": "69ac5e1d-79f0-4470-9514-8a173d9ae44c",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225406.604073justicia-seguridad-legales.svg",
+      "name": "just",
+      "title": "Justicia, seguridad y legales"
+    }
+  ],
+  "id": "seguridad_4",
+  "isopen": true,
+  "license_id": "CC-BY-4.0",
+  "license_title": "Creative Commons Attribution 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "maintainer": "Ministerio de Seguridad de la Nación. Unidad de Gabinete de Asesores. Dirección Nacional de Estadística Criminal. Dirección de Relevamiento y Análisis de la información",
+  "maintainer_email": null,
+  "metadata_created": "2019-12-04T20:05:14.584844",
+  "metadata_modified": "2021-04-29T17:05:47.397633",
+  "name": "seguridad-estadisticas-criminales-historicas-robos-tentativas-robo",
+  "notes": "Series históricas de hechos y tasas (cada 100 mil habitantes) de Robos y tentativas de robo para el total nacional y para cada provincia.",
+  "num_resources": 3,
+  "num_tags": 2,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:11.361783",
+    "description": "",
+    "id": "908fd413-5a22-40e7-9204-38ef380ae232",
+    "image_url": "",
+    "is_organization": true,
+    "name": "seguridad",
+    "revision_id": "36e7fa3c-9253-4f00-90f9-2b5a9709ea29",
+    "state": "active",
+    "title": " Ministerio de Seguridad",
+    "type": "organization"
+  },
+  "owner_org": "908fd413-5a22-40e7-9204-38ef380ae232",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "https://estadisticascriminales.minseg.gob.ar/",
+      "attributesDescription": "[{\"title\": \"indice_tiempo\", \"type\": \"date\", \"specialType\": \"time_index\", \"specialTypeDetail\": \"R/P1Y\", \"id\": \"snic_time_index_4.1\"}, {\"title\": \"robos_hechos\", \"type\": \"integer\", \"description\": \"Cantidad de hechos de robos y tentativa de robo a nivel nacional, seg\\u00fan el Sistema Nacional de Informaci\\u00f3n Criminal\", \"id\": \"snic_rh_arg\", \"units\": \"Cantidad\"}, {\"title\": \"robos_tasa\", \"type\": \"number\", \"description\": \"Tasa de hechos de robos y tentativa de robo a nivel nacional cada 100000 habitantes, seg\\u00fan el Sistema Nacional de Informaci\\u00f3n Criminal\", \"id\": \"snic_rt_arg\", \"units\": \"Tasa cada 100000 habitantes\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-11-27T00:00:00",
+      "datastore_active": false,
+      "description": "Contiene las series de tiempo sobre víctimas y tasas (cada 100 mil habitantes) de robos y tentativas de robo en la República Argentina a partir del año 2001.",
+      "fileName": "snic-robos-pais-series.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "seguridad_4.1",
+      "last_modified": "2020-09-01T00:00:00",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Robos y tentativas de robo en la República Argentina (series)",
+      "package_id": "seguridad_4",
+      "position": 0,
+      "resource_type": "file",
+      "revision_id": "eb13b710-903a-49e8-8f2b-8bb80e411b4f",
+      "size": null,
+      "state": "active",
+      "url": "https://estadisticascriminales.minseg.gob.ar/datos/snic-robos-pais-series.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://estadisticascriminales.minseg.gob.ar/",
+      "attributesDescription": "[{\"title\": \"indice_tiempo\", \"type\": \"date\", \"specialType\": \"time_index\", \"specialTypeDetail\": \"R/P1Y\", \"id\": \"snic_time_index_4.2\"}, {\"title\": \"robos_hechos_caba\", \"type\": \"integer\", \"description\": \"Cantidad de hechos de robos y tentativa de robo en Ciudad Aut\\u00f3noma de Buenos Aires.\", \"id\": \"snic_rh_02\", \"units\": \"Cantidad\"}, {\"title\": \"robos_hechos_buenos_aires\", \"type\": \"integer\", \"description\": \"Cantidad de hechos de robos y tentativa de robo en la provincia de Buenos Aires\", \"id\": \"snic_rh_06\", \"units\": \"Cantidad\"}, {\"title\": \"robos_hechos_catamarca\", \"type\": \"integer\", \"description\": \"Cantidad de hechos de robos y tentativa de robo en la provincia de Catamarca\", \"id\": \"snic_rh_10\", \"units\": \"Cantidad\"}, {\"title\": \"robos_hechos_cordoba\", \"type\": \"integer\", \"description\": \"Cantidad de hechos de robos y tentativa de robo en la provincia de C\\u00f3rdoba\", \"id\": \"snic_rh_14\", \"units\": \"Cantidad\"}, {\"title\": \"robos_hechos_corrientes\", \"type\": \"integer\", \"description\": \"Cantidad de hechos de robos y tentativa de robo en la provincia de Corrientes\", \"id\": \"snic_rh_18\", \"units\": \"Cantidad\"}, {\"title\": \"robos_hechos_chaco\", \"type\": \"integer\", \"description\": \"Cantidad de hechos de robos y tentativa de robo en la provincia de Chaco\", \"id\": \"snic_rh_22\", \"units\": \"Cantidad\"}, {\"title\": \"robos_hechos_chubut\", \"type\": \"integer\", \"description\": \"Cantidad de hechos de robos y tentativa de robo en la provincia de Chubut\", \"id\": \"snic_rh_26\", \"units\": \"Cantidad\"}, {\"title\": \"robos_hechos_entre_rios\", \"type\": \"integer\", \"description\": \"Cantidad de hechos de robos y tentativa de robo en la provincia de Entre R\\u00edos\", \"id\": \"snic_rh_30\", \"units\": \"Cantidad\"}, {\"title\": \"robos_hechos_formosa\", \"type\": \"integer\", \"description\": \"Cantidad de hechos de robos y tentativa de robo en la provincia de Formosa\", \"id\": \"snic_rh_34\", \"units\": \"Cantidad\"}, {\"title\": \"robos_hechos_jujuy\", \"type\": \"integer\", \"description\": \"Cantidad de hechos de robos y tentativa de robo en la provincia de Jujuy\", \"id\": \"snic_rh_38\", \"units\": \"Cantidad\"}, {\"title\": \"robos_hechos_la_pampa\", \"type\": \"integer\", \"description\": \"Cantidad de hechos de robos y tentativa de robo en la provincia de La Pampa\", \"id\": \"snic_rh_42\", \"units\": \"Cantidad\"}, {\"title\": \"robos_hechos_la_rioja\", \"type\": \"integer\", \"description\": \"Cantidad de hechos de robos y tentativa de robo en la provincia de La Rioja\", \"id\": \"snic_rh_46\", \"units\": \"Cantidad\"}, {\"title\": \"robos_hechos_mendoza\", \"type\": \"integer\", \"description\": \"Cantidad de hechos de robos y tentativa de robo en la provincia de Mendoza\", \"id\": \"snic_rh_50\", \"units\": \"Cantidad\"}, {\"title\": \"robos_hechos_misiones\", \"type\": \"integer\", \"description\": \"Cantidad de hechos de robos y tentativa de robo en la provincia de Misiones\", \"id\": \"snic_rh_54\", \"units\": \"Cantidad\"}, {\"title\": \"robos_hechos_neuquen\", \"type\": \"integer\", \"description\": \"Cantidad de hechos de robos y tentativa de robo en la provincia de Neuqu\\u00e9n\", \"id\": \"snic_rh_58\", \"units\": \"Cantidad\"}, {\"title\": \"robos_hechos_rio_negro\", \"type\": \"integer\", \"description\": \"Cantidad de hechos de robos y tentativa de robo en la provincia de R\\u00edo Negro\", \"id\": \"snic_rh_62\", \"units\": \"Cantidad\"}, {\"title\": \"robos_hechos_salta\", \"type\": \"integer\", \"description\": \"Cantidad de hechos de robos y tentativa de robo en la provincia de Salta\", \"id\": \"snic_rh_66\", \"units\": \"Cantidad\"}, {\"title\": \"robos_hechos_san_juan\", \"type\": \"integer\", \"description\": \"Cantidad de hechos de robos y tentativa de robo en la provincia de San Juan\", \"id\": \"snic_rh_70\", \"units\": \"Cantidad\"}, {\"title\": \"robos_hechos_san_luis\", \"type\": \"integer\", \"description\": \"Cantidad de hechos de robos y tentativa de robo en la provincia de San Luis\", \"id\": \"snic_rh_74\", \"units\": \"Cantidad\"}, {\"title\": \"robos_hechos_santa_cruz\", \"type\": \"integer\", \"description\": \"Cantidad de hechos de robos y tentativa de robo en la provincia de Santa Cruz\", \"id\": \"snic_rh_78\", \"units\": \"Cantidad\"}, {\"title\": \"robos_hechos_santa_fe\", \"type\": \"integer\", \"description\": \"Cantidad de hechos de robos y tentativa de robo en la provincia de Santa Fe\", \"id\": \"snic_rh_82\", \"units\": \"Cantidad\"}, {\"title\": \"robos_hechos_stgo_estero\", \"type\": \"integer\", \"description\": \"Cantidad de hechos de robos y tentativa de robo en la provincia de Santiago del Estero\", \"id\": \"snic_rh_86\", \"units\": \"Cantidad\"}, {\"title\": \"robos_hechos_tucuman\", \"type\": \"integer\", \"description\": \"Cantidad de hechos de robos y tentativa de robo en la provincia de Tucum\\u00e1n\", \"id\": \"snic_rh_90\", \"units\": \"Cantidad\"}, {\"title\": \"robos_hechos_tierra_del_fuego\", \"type\": \"integer\", \"description\": \"Cantidad de hechos de robos y tentativa de robo en la provincia de Tierra del Fuego\", \"id\": \"snic_rh_94\", \"units\": \"Cantidad\"}, {\"title\": \"robos_tasa_caba\", \"type\": \"number\", \"description\": \"Tasa de hechos de robos y tentativa de robo cada 100000 habitantes en la Ciudad Aut\\u00f3noma de Buenos Aires\", \"id\": \"snic_rt_02\", \"units\": \"Tasa cada 100000 habitantes\"}, {\"title\": \"robos_tasa_buenos_aires\", \"type\": \"number\", \"description\": \"Tasa de hechos de robos y tentativa de robo cada 100000 habitantes en la provincia de Buenos Aires\", \"id\": \"snic_rt_06\", \"units\": \"Tasa cada 100000 habitantes\"}, {\"title\": \"robos_tasa_catamarca\", \"type\": \"number\", \"description\": \"Tasa de hechos de robos y tentativa de robo cada 100000 habitantes en la provincia de Catamarca\", \"id\": \"snic_rt_10\", \"units\": \"Tasa cada 100000 habitantes\"}, {\"title\": \"robos_tasa_cordoba\", \"type\": \"number\", \"description\": \"Tasa de hechos de robos y tentativa de robo cada 100000 habitantes en la provincia de C\\u00f3rdoba\", \"id\": \"snic_rt_14\", \"units\": \"Tasa cada 100000 habitantes\"}, {\"title\": \"robos_tasa_corrientes\", \"type\": \"number\", \"description\": \"Tasa de hechos de robos y tentativa de robo cada 100000 habitantes en la provincia de Corrientes\", \"id\": \"snic_rt_18\", \"units\": \"Tasa cada 100000 habitantes\"}, {\"title\": \"robos_tasa_chaco\", \"type\": \"number\", \"description\": \"Tasa de hechos de robos y tentativa de robo cada 100000 habitantes en la provincia de Chaco\", \"id\": \"snic_rt_22\", \"units\": \"Tasa cada 100000 habitantes\"}, {\"title\": \"robos_tasa_chubut\", \"type\": \"number\", \"description\": \"Tasa de hechos de robos y tentativa de robo cada 100000 habitantes en la provincia de Chubut\", \"id\": \"snic_rt_26\", \"units\": \"Tasa cada 100000 habitantes\"}, {\"title\": \"robos_tasa_entre_rios\", \"type\": \"number\", \"description\": \"Tasa de hechos de robos y tentativa de robo cada 100000 habitantes en la provincia de Entre R\\u00edos\", \"id\": \"snic_rt_30\", \"units\": \"Tasa cada 100000 habitantes\"}, {\"title\": \"robos_tasa_formosa\", \"type\": \"number\", \"description\": \"Tasa de hechos de robos y tentativa de robo cada 100000 habitantes en la provincia de Formosa\", \"id\": \"snic_rt_34\", \"units\": \"Tasa cada 100000 habitantes\"}, {\"title\": \"robos_tasa_jujuy\", \"type\": \"number\", \"description\": \"Tasa de hechos de robos y tentativa de robo cada 100000 habitantes en la provincia de Jujuy\", \"id\": \"snic_rt_38\", \"units\": \"Tasa cada 100000 habitantes\"}, {\"title\": \"robos_tasa_la_pampa\", \"type\": \"number\", \"description\": \"Tasa de hechos de robos y tentativa de robo cada 100000 habitantes en la provincia de La Pampa\", \"id\": \"snic_rt_42\", \"units\": \"Tasa cada 100000 habitantes\"}, {\"title\": \"robos_tasa_la_rioja\", \"type\": \"number\", \"description\": \"Tasa de hechos de robos y tentativa de robo cada 100000 habitantes en la provincia de La Rioja\", \"id\": \"snic_rt_46\", \"units\": \"Tasa cada 100000 habitantes\"}, {\"title\": \"robos_tasa_mendoza\", \"type\": \"number\", \"description\": \"Tasa de hechos de robos y tentativa de robo cada 100000 habitantes en la provincia de Mendoza\", \"id\": \"snic_rt_50\", \"units\": \"Tasa cada 100000 habitantes\"}, {\"title\": \"robos_tasa_misiones\", \"type\": \"number\", \"description\": \"Tasa de hechos de robos y tentativa de robo cada 100000 habitantes en la provincia de Misiones\", \"id\": \"snic_rt_54\", \"units\": \"Tasa cada 100000 habitantes\"}, {\"title\": \"robos_tasa_neuquen\", \"type\": \"number\", \"description\": \"Tasa de hechos de robos y tentativa de robo cada 100000 habitantes en la provincia de Neuqu\\u00e9n\", \"id\": \"snic_rt_58\", \"units\": \"Tasa cada 100000 habitantes\"}, {\"title\": \"robos_tasa_rio_negro\", \"type\": \"number\", \"description\": \"Tasa de hechos de robos y tentativa de robo cada 100000 habitantes en la provincia de R\\u00edo Negro\", \"id\": \"snic_rt_62\", \"units\": \"Tasa cada 100000 habitantes\"}, {\"title\": \"robos_tasa_salta\", \"type\": \"number\", \"description\": \"Tasa de hechos de robos y tentativa de robo cada 100000 habitantes en la provincia de Salta\", \"id\": \"snic_rt_66\", \"units\": \"Tasa cada 100000 habitantes\"}, {\"title\": \"robos_tasa_san_juan\", \"type\": \"number\", \"description\": \"Tasa de hechos de robos y tentativa de robo cada 100000 habitantes en la provincia de San Juan\", \"id\": \"snic_rt_70\", \"units\": \"Tasa cada 100000 habitantes\"}, {\"title\": \"robos_tasa_san_luis\", \"type\": \"number\", \"description\": \"Tasa de hechos de robos y tentativa de robo cada 100000 habitantes en la provincia de San Luis\", \"id\": \"snic_rt_74\", \"units\": \"Tasa cada 100000 habitantes\"}, {\"title\": \"robos_tasa_santa_cruz\", \"type\": \"number\", \"description\": \"Tasa de hechos de robos y tentativa de robo cada 100000 habitantes en la provincia de Santa Cruz\", \"id\": \"snic_rt_78\", \"units\": \"Tasa cada 100000 habitantes\"}, {\"title\": \"robos_tasa_santa_fe\", \"type\": \"number\", \"description\": \"Tasa de hechos de robos y tentativa de robo cada 100000 habitantes en la provincia de Santa Fe\", \"id\": \"snic_rt_82\", \"units\": \"Tasa cada 100000 habitantes\"}, {\"title\": \"robos_tasa_stgo_estero\", \"type\": \"number\", \"description\": \"Tasa de hechos de robos y tentativa de robo cada 100000 habitantes en la provincia de Santiago del Estero\", \"id\": \"snic_rt_86\", \"units\": \"Tasa cada 100000 habitantes\"}, {\"title\": \"robos_tasa_tucuman\", \"type\": \"number\", \"description\": \"Tasa de hechos de robos y tentativa de robo cada 100000 habitantes en la provincia de Tucum\\u00e1n\", \"id\": \"snic_rt_90\", \"units\": \"Tasa cada 100000 habitantes\"}, {\"title\": \"robos_tasa_tierra_del_fuego\", \"type\": \"number\", \"description\": \"Tasa de hechos de robos y tentativa de robo cada 100000 habitantes en la provincia de Tierra del Fuego\", \"id\": \"snic_rt_94\", \"units\": \"Tasa cada 100000 habitantes\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-11-27T00:00:00",
+      "datastore_active": false,
+      "description": "Contiene las series de tiempo sobre víctimas y tasas (cada 100 mil habitantes) de robos y tentativas de robo en la República Argentina por provincias a partir del año 2001.",
+      "fileName": "snic-robos-provincias-series.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "seguridad_4.2",
+      "last_modified": "2020-09-01T00:00:00",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Robos y tentativas de robo en la República Argentina por provincia (series)",
+      "package_id": "seguridad_4",
+      "position": 1,
+      "resource_type": "file",
+      "revision_id": "db9104ca-a857-4395-9d30-dc7bb9e054db",
+      "size": null,
+      "state": "active",
+      "url": "https://estadisticascriminales.minseg.gob.ar/datos/snic-robos-provincias-series.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://estadisticascriminales.minseg.gob.ar/",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-11-27T00:00:00",
+      "datastore_active": false,
+      "description": "Incluye apartados sobre la explicación del proceso de reconstrucción de las series y anexos metodológicos varios.",
+      "format": "PDF",
+      "hash": "",
+      "id": "seguridad_4.3",
+      "last_modified": "2019-11-27T00:00:00",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Robos y tentativas de robo en la República Argentina (informe)",
+      "package_id": "seguridad_4",
+      "position": 2,
+      "resource_type": "file",
+      "revision_id": "177c7a3a-487a-4714-b1e7-7b184da0a525",
+      "size": null,
+      "state": "active",
+      "url": "https://estadisticascriminales.minseg.gob.ar/reports/ROBOS_Y_TENTATIVAS_DE_ROBO_2001_al_2018.pdf",
+      "url_type": null
+    }
+  ],
+  "revision_id": "a8fc2c85-1d55-45cf-9796-8c8738a720f9",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "Hechos.",
+      "id": "864269b6-c8c4-4133-aa4f-516e826220fe",
+      "name": "Hechos.",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Robos",
+      "id": "1210d6a8-7df1-44bd-9892-c10599cca0fd",
+      "name": "Robos",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Estadísticas criminales históricas. Robos y tentativas de robo",
+  "type": "dataset",
+  "url": "https://estadisticascriminales.minseg.gob.ar/",
+  "version": null
+}

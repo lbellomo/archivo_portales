@@ -1,0 +1,163 @@
+{
+  "author": "Secretaría de Emprendedores y PyMEs",
+  "author_email": "datos.abiertos@produccion.gob.ar",
+  "creator_user_id": "4720e75a-9e17-4dc3-879d-041917c7f9f9",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P1Y"
+    },
+    {
+      "key": "issued",
+      "value": "2018-10-09T19:06:04.000Z"
+    },
+    {
+      "key": "modified",
+      "value": "2020-02-26T21:09:36.000Z"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"econ\"]"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Economía y finanzas",
+      "display_name": "Economía y finanzas",
+      "id": "60b4b03e-10a1-4d67-b984-08008a249617",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225257.200233economia-finanzas.svg",
+      "name": "econ",
+      "title": "Economía y finanzas"
+    }
+  ],
+  "id": "produccion_HJiiTdq97",
+  "isopen": true,
+  "license_id": "CC-BY-4.0",
+  "license_title": "Creative Commons Attribution 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "maintainer": null,
+  "maintainer_email": null,
+  "metadata_created": "2019-11-26T14:57:10.307881",
+  "metadata_modified": "2021-04-29T17:04:40.057190",
+  "name": "produccion-registro-instituciones-capital-emprendedor-rice",
+  "notes": "El RICE otorga a los Inversores de Capital Emprendedor el beneficio de deducir el 75% de los aportes de inversión en capital realizados. Éste está reglado por la Ley 27.349\n ",
+  "num_resources": 3,
+  "num_tags": 3,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:10.463340",
+    "description": "",
+    "id": "1ca8d15b-31fc-4f09-ba09-53edd3d4cce6",
+    "image_url": "",
+    "is_organization": true,
+    "name": "produccion",
+    "revision_id": "36d8ec89-d20f-4fe1-866c-e38988d28442",
+    "state": "active",
+    "title": "Ministerio de Desarrollo Productivo",
+    "type": "organization"
+  },
+  "owner_org": "1ca8d15b-31fc-4f09-ba09-53edd3d4cce6",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "http://datos.produccion.gob.ar/dataset/registro-de-instituciones-de-capital-emprendedor-rice",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2018-10-09T16:06:04",
+      "datastore_active": false,
+      "description": "Nombre de la institución, provincia a la que pertecene y datos de contacto.",
+      "format": "CSV",
+      "hash": "",
+      "id": "produccion_r1AW0dc57",
+      "last_modified": "2019-02-05T16:29:45",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Instituciones inscriptas",
+      "package_id": "produccion_HJiiTdq97",
+      "position": 0,
+      "resource_type": null,
+      "revision_id": "83b65bab-81ff-4d3c-9b88-70d309f86bda",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.produccion.gob.ar/api/files/instituciones-inscriptas.csv/download",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos.produccion.gob.ar/dataset/registro-de-instituciones-de-capital-emprendedor-rice",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2018-10-09T16:06:04",
+      "datastore_active": false,
+      "description": "Guía explicativa de cada uno de los campos de los recursos que conforman el dataset y ejemplos de los mismos.",
+      "format": "PDF",
+      "hash": "",
+      "id": "produccion_S1WAOdyaX",
+      "last_modified": "2019-02-05T16:29:45",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Guía de datos RICE",
+      "package_id": "produccion_HJiiTdq97",
+      "position": 1,
+      "resource_type": null,
+      "revision_id": "d137a0cb-0e4a-4e1c-823f-0073a739d65c",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.produccion.gob.ar/api/files/guia-de-datos-rice.pdf/download",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos.produccion.gob.ar/dataset/registro-de-instituciones-de-capital-emprendedor-rice",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2018-10-09T16:06:04",
+      "datastore_active": false,
+      "description": "Inversores que recibieron beneficios fiscales por monto de aporte y de beneficio.",
+      "format": "CSV",
+      "hash": "",
+      "id": "produccion_SypGWFq9X",
+      "last_modified": "2019-02-05T16:29:45",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Beneficios otorgados a inversores",
+      "package_id": "produccion_HJiiTdq97",
+      "position": 2,
+      "resource_type": null,
+      "revision_id": "399fee06-45cc-4534-9d1a-14ecc84b3952",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.produccion.gob.ar/api/files/beneficios-otorgados-a-inversores.csv/download",
+      "url_type": null
+    }
+  ],
+  "revision_id": "ddcf2ad9-bc31-4ec6-8d4a-8762f5bf7874",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "Emprendedores",
+      "id": "1ec9b06b-31d5-4d1c-a198-bbeb43c48486",
+      "name": "Emprendedores",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "RICE",
+      "id": "c5c22cc9-778a-49aa-93e5-b4953de49af1",
+      "name": "RICE",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Registro de Instituciones de Capital Emprendedor",
+      "id": "267a420a-6ba7-4299-94a8-f2e4aaad7ced",
+      "name": "Registro de Instituciones de Capital Emprendedor",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Registro de Instituciones de Capital Emprendedor (RICE)",
+  "type": "dataset",
+  "url": "http://datos.produccion.gob.ar/dataset/registro-de-instituciones-de-capital-emprendedor-rice",
+  "version": null
+}

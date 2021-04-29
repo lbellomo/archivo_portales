@@ -1,0 +1,148 @@
+{
+  "author": "Ministerio de Desarrollo Social de la Nación. Secretaría de Economía Social, Comisión Nacional de Microcrédito",
+  "author_email": "datosabiertos@desarrollosocial.gob.ar",
+  "creator_user_id": "dc157489-51c6-44ce-bd63-3bd983d60778",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P3M"
+    },
+    {
+      "key": "issued",
+      "value": "2021-04-17T14:29:49.143440"
+    },
+    {
+      "key": "language",
+      "value": "[\"spa\"]"
+    },
+    {
+      "key": "modified",
+      "value": "2021-04-26T09:28:46.448017"
+    },
+    {
+      "key": "spatial",
+      "value": "[\"ARG\"]"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"REGI\", \"SOCI\"]"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Población y sociedad",
+      "display_name": "Población y sociedad",
+      "id": "eb5df7fa-064a-4b51-89f6-af323ee1bf85",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225728.341804poblacion-sociedad.svg",
+      "name": "soci",
+      "title": "Población y sociedad"
+    },
+    {
+      "description": "Regiones y ciudades",
+      "display_name": "Regiones y ciudades",
+      "id": "c506f0a0-fc8a-4278-b007-eb7f76875914",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225752.196815regiones-ciudades.svg",
+      "name": "regi",
+      "title": "Regiones y ciudades"
+    }
+  ],
+  "id": "desarrollo-social_70583b90-d36c-4f9e-accf-4272e557ac8f",
+  "isopen": false,
+  "license_id": "notspecified",
+  "license_title": "No se especificó la licencia",
+  "maintainer": "Ministerio de Desarrollo Social de la Nación. Unidad de Gabinete de Asesores. Dirección General de Información Social Estratégica",
+  "maintainer_email": "datosabiertos@desarrollosocial.gob.ar",
+  "metadata_created": "2021-04-20T19:20:14.503818",
+  "metadata_modified": "2021-04-29T17:03:51.239868",
+  "name": "desarrollo-social-microcreditos-otorgados",
+  "notes": "Cantidad de microcréditos y capital otorgado por organizaciones administradoras inscriptas en el Registro Nacional de Instituciones de Microcrédito, agrupados por mes de otorgamiento, provincia, departamento y localidad.",
+  "num_resources": 1,
+  "num_tags": 5,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:10.908821",
+    "description": "",
+    "id": "ef25c735-2abb-4165-94a6-a6798a103603",
+    "image_url": "",
+    "is_organization": true,
+    "name": "desarrollo-social",
+    "revision_id": "a896ab9d-5ddd-4b93-9ecf-6578b069aee8",
+    "state": "active",
+    "title": "Ministerio de Desarrollo Social",
+    "type": "organization"
+  },
+  "owner_org": "ef25c735-2abb-4165-94a6-a6798a103603",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "https://datosabiertos.desarrollosocial.gob.ar//dataset/70583b90-d36c-4f9e-accf-4272e557ac8f/resource/cea60c83-1ff5-4e07-bf94-bd4926000815",
+      "attributesDescription": "[{\"specialType\": \"time_index\", \"specialTypeDetail\": \"R/P1M\", \"type\": \"date\", \"description\": \"Periodo de tiempo analizado \", \"title\": \"indice_tiempo\"}, {\"type\": \"string\", \"description\": \"C\\u00f3digo de provincia codificado seg\\u00fan la Base de Asentamientos Humanos de la Rep\\u00fablica Argentina  \\n\", \"title\": \"codigo_indec_provincia\"}, {\"type\": \"string\", \"description\": \"Nombre de la provincia\", \"title\": \"provincia\"}, {\"type\": \"string\", \"description\": \"C\\u00f3digo de departamento codificado seg\\u00fan la Base de Asentamientos Humanos de la Rep\\u00fablica Argentina\", \"title\": \"codigo_indec_departamento\"}, {\"type\": \"string\", \"description\": \"Nombre del departamento\", \"title\": \"departamento\"}, {\"type\": \"string\", \"description\": \"C\\u00f3digo de localidad codificado seg\\u00fan la Base de Asentamientos Humanos de la Rep\\u00fablica Argentina\", \"title\": \"codigo_indec_localidad\"}, {\"type\": \"string\", \"description\": \"\", \"title\": \"localidad\"}, {\"type\": \"integer\", \"description\": \"Microcr\\u00e9ditos otorgados\", \"title\": \"microcreditos\"}, {\"type\": \"number\", \"description\": \"Capital otorgado por el total de cr\\u00e9ditos\", \"title\": \"monto_microcreditos\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2021-04-17T14:30:53.050137",
+      "datastore_active": false,
+      "description": "Cantidad de microcréditos y capital otorgado por organizaciones administradoras, agrupados por mes de otorgamiento, provincia, departamento y localidad hasta el periodo 202103",
+      "fileName": "microcreditos-2021-04-16.xlsx",
+      "format": "CSV",
+      "hash": "",
+      "id": "desarrollo-social_cea60c83-1ff5-4e07-bf94-bd4926000815",
+      "last_modified": "2021-04-17T14:30:52.974280",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Microcréditos otorgados",
+      "package_id": "desarrollo-social_70583b90-d36c-4f9e-accf-4272e557ac8f",
+      "position": 0,
+      "resource_type": "file.upload",
+      "revision_id": "8c26f382-43c3-4857-b8a6-7b0ad236a4e2",
+      "size": null,
+      "state": "active",
+      "url": "https://datosabiertos.desarrollosocial.gob.ar/dataset/70583b90-d36c-4f9e-accf-4272e557ac8f/resource/cea60c83-1ff5-4e07-bf94-bd4926000815/download/microcreditos-2021-04-16.xlsx",
+      "url_type": null
+    }
+  ],
+  "revision_id": "8c26f382-43c3-4857-b8a6-7b0ad236a4e2",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "conami",
+      "id": "00b251e1-2847-475c-ae58-0e431acd5979",
+      "name": "conami",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "economia social",
+      "id": "3b6bfb8a-90bc-4643-b5c2-eea383cddf82",
+      "name": "economia social",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "inclusion laboral",
+      "id": "4e1b9231-da94-41dd-b860-df57d9efc153",
+      "name": "inclusion laboral",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "inclusion social",
+      "id": "b9f9d3d1-9d35-4ce5-940f-661f67dd0bd8",
+      "name": "inclusion social",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "microcreditos",
+      "id": "364de67d-17cb-4fd4-9da2-5a93b3117884",
+      "name": "microcreditos",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Microcréditos otorgados",
+  "type": "dataset",
+  "url": "https://www.argentina.gob.ar/desarrollosocial/conami",
+  "version": null
+}

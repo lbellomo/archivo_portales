@@ -1,0 +1,171 @@
+{
+  "author": "Dirección de Fiscalización y Adecuación Ambiental",
+  "author_email": "agarcia@acumar.gov.ar",
+  "creator_user_id": "dc157489-51c6-44ce-bd63-3bd983d60778",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "eventual"
+    },
+    {
+      "key": "issued",
+      "value": "2018-02-05T14:53:35.012060"
+    },
+    {
+      "key": "modified",
+      "value": "2018-05-04T14:44:51.676610"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"ENVI\"]"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Medio ambiente",
+      "display_name": "Medio ambiente",
+      "id": "f71fe9d7-c703-43be-8d9d-af9441c326ba",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225440.964279medio-ambiente.svg",
+      "name": "envi",
+      "title": "Medio ambiente"
+    }
+  ],
+  "id": "acumar_6847477e-a9e8-4d01-8655-9f882dad8301",
+  "isopen": false,
+  "license_id": "notspecified",
+  "license_title": "No se especificó la licencia",
+  "maintainer": "Coordinación de Comunicación y Prensa",
+  "maintainer_email": "prensa@acumar.gov.ar",
+  "metadata_created": "2019-12-04T20:03:20.898911",
+  "metadata_modified": "2021-04-29T17:11:55.371408",
+  "name": "acumar-establecimientos-reconvertidos-cuenca-matanza-riachuelo",
+  "notes": "Datos correspondientes a los establecimientos de la Cuenca Matanza Riachuelo que han finalizado su Plan de Adecuación Ambiental reconvirtiendo sus procesos productivos y sus prácticas.",
+  "num_resources": 2,
+  "num_tags": 7,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:10.306987",
+    "description": "",
+    "id": "1b6b28cd-098f-41d7-b43f-d5a01ffa8759",
+    "image_url": "",
+    "is_organization": true,
+    "name": "acumar",
+    "revision_id": "0e2a184d-b675-43ae-b2dd-e1ed0c459c04",
+    "state": "active",
+    "title": "Autoridad de Cuenca Matanza Riachuelo",
+    "type": "organization"
+  },
+  "owner_org": "1b6b28cd-098f-41d7-b43f-d5a01ffa8759",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "http://datos.acumar.gob.ar/dataset/6847477e-a9e8-4d01-8655-9f882dad8301/resource/181afd7d-f32a-4d6c-8854-f763f4022db2",
+      "attributesDescription": "[{\"type\": \"number\", \"description\": \"C\\u00f3digo \\u00danico de Registro Territorial\", \"title\": \"establecimiento_curt\"}, {\"type\": \"string\", \"description\": \"Nombre del establecimiento\", \"title\": \"establecimiento_razon_social\"}, {\"type\": \"string\", \"description\": \"Nombre de la calle del domicilio legal del establecimiento\", \"title\": \"calle_nombre\"}, {\"type\": \"string\", \"description\": \"Altura de la calle del domicilio legal del establecimiento\", \"title\": \"calle_numero\"}, {\"type\": \"string\", \"description\": \"Barrio de ubicaci\\u00f3n del establecimiento\", \"title\": \"establecimiento_barrio\"}, {\"type\": \"integer\", \"description\": \"C\\u00f3digo utilizado en el Censo Nacional para la localidad respectiva\", \"title\": \"localidad_id\"}, {\"type\": \"integer\", \"description\": \"Nombre de la localidad en la que se ubica el establecimiento\", \"title\": \"localidad_descripcion\"}, {\"type\": \"integer\", \"description\": \"C\\u00f3digo utilizado en el Censo Nacional para municipio respectivo\", \"title\": \"partido_id\"}, {\"type\": \"string\", \"description\": \"Municipio en el cual se ubica el establecimiento\", \"title\": \"partido_descripcion\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2018-02-05T14:56:35.434733",
+      "datastore_active": false,
+      "description": "N° de CURT, Razón Social, localidad y municipio de los establecimientos de la Cuenca Matanza Riachuelo que han completado sus Programas de Adecuación Ambiental y declarados como Reconvertidos a diciembre de 2017.\r\n\r\n",
+      "fileName": "establecimientos-reconvertidos-201712.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "acumar_181afd7d-f32a-4d6c-8854-f763f4022db2",
+      "last_modified": "2018-02-22T14:41:17.734050",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Listado de Establecimientos Reconvertidos - 2017",
+      "package_id": "acumar_6847477e-a9e8-4d01-8655-9f882dad8301",
+      "position": 0,
+      "resource_type": null,
+      "revision_id": "2a500a74-e0d1-4d4b-b1b9-d4930eb7fccb",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.acumar.gob.ar/dataset/6847477e-a9e8-4d01-8655-9f882dad8301/resource/181afd7d-f32a-4d6c-8854-f763f4022db2/download/establecimientos-reconvertidos-201712.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos.acumar.gob.ar/dataset/6847477e-a9e8-4d01-8655-9f882dad8301/resource/2da4771a-3b02-4e9e-b13c-c1db108b5fee",
+      "attributesDescription": "[{\"type\": \"number\", \"description\": \"C\\u00f3digo \\u00danico de Registro Territorial\", \"title\": \"establecimiento_curt\"}, {\"type\": \"string\", \"description\": \"Nombre del establecimiento\", \"title\": \"establecimiento_razon_social\"}, {\"type\": \"string\", \"description\": \"Nombre de la calle del domicilio legal del establecimiento\", \"title\": \"calle_nombre\"}, {\"type\": \"integer\", \"description\": \"Altura (n\\u00famero) de la calle del domicilio legal del establecimiento\", \"title\": \"calle_altura_numero\"}, {\"type\": \"string\", \"description\": \"Altura (KM, SN, u otras aclaraciones) de la calle del domicilio legal del establecimiento\", \"title\": \"calle_altura_otro\"}, {\"type\": \"string\", \"description\": \"Barrio de ubicaci\\u00f3n del establecimiento\", \"title\": \"establecimiento_barrio\"}, {\"type\": \"integer\", \"description\": \"C\\u00f3digo utilizado en el Censo Nacional para la localidad respectiva\", \"title\": \"localidad_id\"}, {\"type\": \"string\", \"description\": \"Nombre de la localidad en la que se ubica el establecimiento\", \"title\": \"localidad_descripcion\"}, {\"type\": \"integer\", \"description\": \"C\\u00f3digo utilizado en el Censo Nacional para municipio respectivo\", \"title\": \"partido_id\"}, {\"type\": \"string\", \"description\": \"Municipio en el cual se ubica el establecimiento\", \"title\": \"partido_descripcion\"}, {\"type\": \"string\", \"description\": \"Estado administrativo del establecimiento\", \"title\": \"establecimiento_estado_administrativo\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2018-05-04T14:44:51.798146",
+      "datastore_active": false,
+      "description": "N° de CURT, Razón Social, localidad y municipio de los establecimientos de la Cuenca Matanza Riachuelo que han completado sus Programas de Adecuación Ambiental y declarados como Reconvertidos (03.18)",
+      "fileName": "establecimientos-reconvertidos-201803",
+      "format": "CSV",
+      "hash": "",
+      "id": "acumar_2da4771a-3b02-4e9e-b13c-c1db108b5fee",
+      "last_modified": "2018-05-04T14:44:51.632604",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Listado de Establecimientos Reconvertidos - 2018",
+      "package_id": "acumar_6847477e-a9e8-4d01-8655-9f882dad8301",
+      "position": 1,
+      "resource_type": null,
+      "revision_id": "2a500a74-e0d1-4d4b-b1b9-d4930eb7fccb",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.acumar.gob.ar/dataset/6847477e-a9e8-4d01-8655-9f882dad8301/resource/2da4771a-3b02-4e9e-b13c-c1db108b5fee/download/establecimientos-reconvertidos-201803.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "eec8c09a-bd40-4630-847a-c620893ab823",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "Control",
+      "id": "27509986-815e-4ddb-9ed5-a2bb0730435b",
+      "name": "Control",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Eje Ambiental",
+      "id": "372cb546-0e92-4061-9b08-2537ffc593a2",
+      "name": "Eje Ambiental",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "adecuación",
+      "id": "9d87077f-f8b2-46af-a324-ab475d229018",
+      "name": "adecuación",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "control",
+      "id": "233d956c-305b-41c7-ba74-03b3c09c3ac3",
+      "name": "control",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "establecimientos",
+      "id": "b070442d-5091-4f08-aad3-b60ca38e2ba8",
+      "name": "establecimientos",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "fiscalización",
+      "id": "1a4f2a7d-65a8-4f6d-9f44-675c3705d429",
+      "name": "fiscalización",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "reconvertidos",
+      "id": "f0a8f65e-4e41-4c44-b0c7-afa0b801b1f3",
+      "name": "reconvertidos",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Establecimientos Reconvertidos en la Cuenca Matanza Riachuelo",
+  "type": "dataset",
+  "url": "http://datos.acumar.gob.ar/dataset/establecimientos-reconvertidos-en-la-cuenca-matanza-riachuelo",
+  "version": null
+}

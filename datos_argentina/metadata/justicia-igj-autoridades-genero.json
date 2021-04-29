@@ -1,0 +1,210 @@
+{
+  "author": "Ministerio de Justicia y Derechos Humanos. Subsecretaría de Asuntos Registrales. Inspección General de Justicia",
+  "author_email": "dmiralles@jus.gov.ar",
+  "creator_user_id": "dc157489-51c6-44ce-bd63-3bd983d60778",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "eventual"
+    },
+    {
+      "key": "issued",
+      "value": "2018-03-21T18:21:02.653033"
+    },
+    {
+      "key": "modified",
+      "value": "2021-02-11T12:45:55.947773"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"JUST\"]"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Justicia, seguridad y legales",
+      "display_name": "Justicia, seguridad y legales",
+      "id": "69ac5e1d-79f0-4470-9514-8a173d9ae44c",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225406.604073justicia-seguridad-legales.svg",
+      "name": "just",
+      "title": "Justicia, seguridad y legales"
+    }
+  ],
+  "id": "justicia_30f36834-49f0-4d9e-91d9-33621fb52b6d",
+  "isopen": true,
+  "license_id": "CC-BY-4.0",
+  "license_title": "Creative Commons Attribution 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "maintainer": "Ministerio de Justicia y Derechos Humanos. Subsecretaría de Asuntos Registrales. Inspección General de Justicia",
+  "maintainer_email": "dmiralles@jus.gov.ar",
+  "metadata_created": "2019-12-04T20:03:19.046887",
+  "metadata_modified": "2021-04-29T17:06:48.777721",
+  "name": "justicia-igj-autoridades-genero",
+  "notes": "Este dataset contiene datos de las autoridades constituidas en la Inspección General de Justicia (IGJ) con el agregado del tipo de sociedad a la que pertenece y el dato de género de la autoridad asignado automáticamente en base al nombre de la autoridad, a los efectos de realizar análisis estadísticos de género.",
+  "num_resources": 2,
+  "num_tags": 13,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:10.018297",
+    "description": "",
+    "id": "06b380f8-888f-43c0-8367-16a7ddf47d4f",
+    "image_url": "",
+    "is_organization": true,
+    "name": "justicia",
+    "revision_id": "637d68f0-a296-4d39-b846-4370270a96a1",
+    "state": "active",
+    "title": " Ministerio de Justicia y Derechos Humanos",
+    "type": "organization"
+  },
+  "owner_org": "06b380f8-888f-43c0-8367-16a7ddf47d4f",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "http://datos.jus.gob.ar/dataset/30f36834-49f0-4d9e-91d9-33621fb52b6d/resource/30558188-9c77-41cb-8c83-06f3bb84b0bf",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2021-02-08T14:40:53.277092",
+      "datastore_active": false,
+      "description": "Este recurso contiene los datos de las autoridades de entidades constituidas en la IGJ con el agregado del dato de género, asignado mediante procesos automáticos en base al nombre de la autoridad, a los efectos de realizar análisis estadísticos de género. Los tipos de entidades seleccionados fueron Sociedad Anónima, Sociedad de Responsabilidad Limitada, Sociedad Extranjera, Asociaciones Civiles y Fundaciones.",
+      "format": "CSV",
+      "hash": "",
+      "id": "justicia_30558188-9c77-41cb-8c83-06f3bb84b0bf",
+      "last_modified": "2021-02-08T18:10:14.935918",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "IGJ. Autoridades de entidades por género - 202012",
+      "package_id": "justicia_30f36834-49f0-4d9e-91d9-33621fb52b6d",
+      "position": 0,
+      "resource_type": null,
+      "revision_id": "47b1fe59-78ab-42f1-848c-01a9c1df53cb",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.jus.gob.ar/dataset/30f36834-49f0-4d9e-91d9-33621fb52b6d/resource/30558188-9c77-41cb-8c83-06f3bb84b0bf/download/igj-autoridades-genero-202012.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos.jus.gob.ar/dataset/30f36834-49f0-4d9e-91d9-33621fb52b6d/resource/a928d672-cb61-4805-a943-2ccdd5231d31",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2020-10-02T12:52:15.670910",
+      "datastore_active": false,
+      "description": "Este recurso contiene los datos de las autoridades de entidades constituidas en la IGJ con el agregado del dato de género, asignado mediante procesos automáticos en base al nombre de la autoridad, a los efectos de realizar análisis estadísticos de género. Los tipos de entidades seleccionados fueron Sociedad Anónima, Sociedad de Responsabilidad Limitada, Sociedad Extranjera, Asociaciones Civiles y Fundaciones.",
+      "format": "Gráfico",
+      "hash": "",
+      "id": "justicia_a928d672-cb61-4805-a943-2ccdd5231d31",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "IJG . Autoridades de entidades por género. Gráficos estadísticos",
+      "package_id": "justicia_30f36834-49f0-4d9e-91d9-33621fb52b6d",
+      "position": 1,
+      "resource_type": null,
+      "revision_id": "09747b7f-8829-41dd-a9dd-97f743dd523e",
+      "size": null,
+      "state": "active",
+      "url": "https://public.tableau.com/views/igj_autoridades_genero/AutoridadesIGJ?:language=es&:display_count=y&publish=yes&:origin=viz_share_link",
+      "url_type": null
+    }
+  ],
+  "revision_id": "52d4a678-61ad-49aa-a9c9-802f75c77934",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "Género",
+      "id": "9e310bae-531e-4a09-b4d5-04de534cfa4f",
+      "name": "Género",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "IGJ",
+      "id": "48ee46be-195b-4e61-9729-e42810a37ab6",
+      "name": "IGJ",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "asociaciones civiles",
+      "id": "ec86623e-3d1a-44bd-828e-2dfe1696b17c",
+      "name": "asociaciones civiles",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "autoridades",
+      "id": "de3fb9af-0ba3-45f6-9426-fe27e9cc540c",
+      "name": "autoridades",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "entidades",
+      "id": "9d05c4f4-239e-4d6c-98cf-86bb9f508cdc",
+      "name": "entidades",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "fundaciones",
+      "id": "17af7af0-a6ab-4889-8005-29ac3cfc436a",
+      "name": "fundaciones",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "genero",
+      "id": "7f50f28f-3ef9-4b0e-bfed-33e27af67cd0",
+      "name": "genero",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "personas jurídicas",
+      "id": "e6dfa046-bafb-453c-a179-932257e5c3cb",
+      "name": "personas jurídicas",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "sexo",
+      "id": "d6f9e5a8-7004-48c9-a0e5-2a9c453b2636",
+      "name": "sexo",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "sociedad de responsabilidad limitada",
+      "id": "bd0c3d0a-1a2c-426c-be97-dc946d01e421",
+      "name": "sociedad de responsabilidad limitada",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "sociedades",
+      "id": "628e163a-b529-4766-b57a-5a2d95a43ab5",
+      "name": "sociedades",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "sociedades anónimas",
+      "id": "b9666db3-f0c3-4a23-a9f2-24aea79842c0",
+      "name": "sociedades anónimas",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "sociedades extranjeras",
+      "id": "f0597a0b-5400-4801-8c90-53d0e3d97da7",
+      "name": "sociedades extranjeras",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "IGJ. Autoridades género",
+  "type": "dataset",
+  "url": "",
+  "version": null
+}

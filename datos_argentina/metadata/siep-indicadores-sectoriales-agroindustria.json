@@ -1,0 +1,162 @@
+{
+  "author": "Ministerio de Producción. Secretaría de Transformación Productiva. Subsecretaría de Desarrollo y Planeamiento Productivo.",
+  "author_email": "datos@produccion.gob.ar",
+  "creator_user_id": "4720e75a-9e17-4dc3-879d-041917c7f9f9",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P1M"
+    },
+    {
+      "key": "issued",
+      "value": "2018-06-12"
+    },
+    {
+      "key": "language",
+      "value": "[\"SPA\"]"
+    },
+    {
+      "key": "source",
+      "value": "Ministerio de Producción. Secretaría de la Transformación Productiva. Subsecretaría de Desarrollo y Planeamiento Productivo."
+    },
+    {
+      "key": "spatial",
+      "value": "ARG"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"ECON\"]"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Economía y finanzas",
+      "display_name": "Economía y finanzas",
+      "id": "60b4b03e-10a1-4d67-b984-08008a249617",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225257.200233economia-finanzas.svg",
+      "name": "econ",
+      "title": "Economía y finanzas"
+    }
+  ],
+  "id": "siep_5",
+  "isopen": true,
+  "license_id": "CC-BY-4.0",
+  "license_title": "Creative Commons Attribution 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "maintainer": "Ministerio de Producción. Secretaría de la Transformación Productiva. Subsecretaría de Desarrollo y Planeamiento Productivo.",
+  "maintainer_email": "datos@produccion.gob.ar",
+  "metadata_created": "2019-11-26T15:02:30.419663",
+  "metadata_modified": "2021-04-29T17:05:12.372695",
+  "name": "siep-indicadores-sectoriales-agroindustria",
+  "notes": "Resumen de los principales indicadores del sector Agroindustrial.",
+  "num_resources": 1,
+  "num_tags": 8,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:10.618326",
+    "description": "",
+    "id": "83a04686-747a-4ba3-a0b1-2f05c3196bc4",
+    "image_url": "",
+    "is_organization": true,
+    "name": "siep",
+    "revision_id": "23a30f6e-13f4-45a1-8e98-d49541d6ce75",
+    "state": "active",
+    "title": "Secretaría de Transformación Productiva",
+    "type": "organization"
+  },
+  "owner_org": "83a04686-747a-4ba3-a0b1-2f05c3196bc4",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "http://estadisticas.produccion.gob.ar/",
+      "attributesDescription": "[{\"title\": \"indice_tiempo\", \"type\": \"date\", \"specialType\": \"time_index\", \"specialTypeDetail\": \"R/P1M\", \"description\": \"\\u00cdndice de tiempo de las series\", \"id\": \"Agroindustria_TPHceE\"}, {\"title\": \"valor\", \"type\": \"number\", \"description\": \"Valor de la liquidaci\\u00f3n de divisas\", \"id\": \"Agroindustria_XFGHjx\", \"units\": \"Millones de d\\u00f3lares\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2018-06-12T00:00:00",
+      "datastore_active": false,
+      "description": "Agroindustria: liquidación de divisas en concepto de oleaginosas y cereales en formato de series",
+      "fileName": "agroindustria-liquid-divisas-series.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "siep_5.1",
+      "last_modified": "2018-09-28T00:00:00",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Agroindustria: liquidación de divisas en concepto de oleaginosas y cereales (series)",
+      "package_id": "siep_5",
+      "position": 0,
+      "resource_type": "file",
+      "revision_id": "d14509bf-34ee-44aa-8e2e-eee3e1ae2db4",
+      "size": null,
+      "state": "active",
+      "url": "http://estadisticas.produccion.gob.ar/app/dataset/5/distribution/5.1/agroindustria-liquid-divisas-series.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "d14509bf-34ee-44aa-8e2e-eee3e1ae2db4",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "Agroindustria",
+      "id": "9350aa54-0335-4755-821a-9bb469179fa0",
+      "name": "Agroindustria",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Producción",
+      "id": "e43bd381-9301-4aa7-a861-35fc73f7fa2c",
+      "name": "Producción",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "cereales",
+      "id": "feab8340-6956-4ca8-9441-ba08780e8bbb",
+      "name": "cereales",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "divisas",
+      "id": "4fed909f-9443-4382-b689-37972743b76b",
+      "name": "divisas",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "indicador",
+      "id": "9a05b182-e758-4dcc-af49-080e396255ce",
+      "name": "indicador",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "liquidación",
+      "id": "d6415356-fed9-44c2-bd0b-5ece69e26922",
+      "name": "liquidación",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "oleaginosas",
+      "id": "82272362-9b90-41d8-9215-aefa48c21b66",
+      "name": "oleaginosas",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "sector",
+      "id": "86e5b9d4-8b55-4472-89be-ca0d197f9fcc",
+      "name": "sector",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Indicadores Sectoriales de Agroindustria",
+  "type": "dataset",
+  "url": "http://estadisticas.produccion.gob.ar/",
+  "version": null
+}

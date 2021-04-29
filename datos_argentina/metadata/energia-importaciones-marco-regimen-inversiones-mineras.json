@@ -1,0 +1,103 @@
+{
+  "author": "Ministerio de Energía y Minería.Secretaría de Coordinación de Planeamiento Energético.Dirección Nacional de Información Energética.Tecnología de la Información.",
+  "author_email": "tienerg@energia.gob.ar",
+  "creator_user_id": "4720e75a-9e17-4dc3-879d-041917c7f9f9",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "eventual"
+    },
+    {
+      "key": "issued",
+      "value": "2016-11-07T13:33:34.985951"
+    },
+    {
+      "key": "modified",
+      "value": "2019-04-04T10:46:00.852650"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"ENER\"]"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Energía",
+      "display_name": "Energía",
+      "id": "a4d3f632-eb48-4163-9791-165989c16035",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225337.421630energia.svg",
+      "name": "ener",
+      "title": "Energía"
+    }
+  ],
+  "id": "energia_0b2c26b8-7919-4ac6-8ffe-7f911b26fe58",
+  "isopen": false,
+  "license_id": "notspecified",
+  "license_title": "No se especificó la licencia",
+  "maintainer": "Ministerio de Energía y Minería.Secretaría de Minería.",
+  "maintainer_email": null,
+  "metadata_created": "2019-11-26T15:01:10.453383",
+  "metadata_modified": "2021-04-29T17:17:19.656857",
+  "name": "energia-importaciones-marco-regimen-inversiones-mineras",
+  "notes": "Importaciones de bienes de capital, partes, accesorios e insumos efectuadas en el régimen de inversiones mineras (Ley 24.196). Años 1993-2015 (en U$S FOB)",
+  "num_resources": 1,
+  "num_tags": 1,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:09.221510",
+    "description": "",
+    "id": "cd1b32a2-2d3a-44ac-8c98-a425a7b62d42",
+    "image_url": "",
+    "is_organization": true,
+    "name": "energia",
+    "revision_id": "a184cf69-99ad-4f84-a254-020031d7fe63",
+    "state": "active",
+    "title": "Secretaría de Energía",
+    "type": "organization"
+  },
+  "owner_org": "cd1b32a2-2d3a-44ac-8c98-a425a7b62d42",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "http://datos.minem.gob.ar/dataset/0b2c26b8-7919-4ac6-8ffe-7f911b26fe58/resource/70f019bd-db28-48a4-936e-bfe2e44e1c37",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-05-04T20:55:42.592573",
+      "datastore_active": false,
+      "description": "",
+      "fileName": "impo-bs-capital-insumos-mineria.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "energia_70f019bd-db28-48a4-936e-bfe2e44e1c37",
+      "last_modified": "2017-08-10T12:09:35.637358",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Importaciones en el marco del régimen de inversiones mineras",
+      "package_id": "energia_0b2c26b8-7919-4ac6-8ffe-7f911b26fe58",
+      "position": 0,
+      "resource_type": null,
+      "revision_id": "1806e084-311a-4a2e-a2a8-0fd504c2373c",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.minem.gob.ar/dataset/0b2c26b8-7919-4ac6-8ffe-7f911b26fe58/resource/70f019bd-db28-48a4-936e-bfe2e44e1c37/download/impo-bs-capital-insumos-mineria.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "60d9e0a3-70b8-4c61-a024-6c70f264b1fe",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "Minería",
+      "id": "4688f00a-f28f-45cd-96bb-8c9b5ba316be",
+      "name": "Minería",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Importaciones en el marco del régimen de inversiones mineras",
+  "type": "dataset",
+  "url": "http://datos.minem.gob.ar/dataset/",
+  "version": null
+}

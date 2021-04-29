@@ -1,0 +1,131 @@
+{
+  "author": "Ministerio de Energía y Minería.Secretaría de Coordinación de Planeamiento Energético.Dirección Nacional de Información Energética.Tecnología de la Información.",
+  "author_email": "tienerg@energia.gob.ar",
+  "creator_user_id": "4720e75a-9e17-4dc3-879d-041917c7f9f9",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "eventual"
+    },
+    {
+      "key": "issued",
+      "value": "2017-01-20T16:33:25.473968"
+    },
+    {
+      "key": "modified",
+      "value": "2018-05-17T11:39:13.785865"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"ENER\"]"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Energía",
+      "display_name": "Energía",
+      "id": "a4d3f632-eb48-4163-9791-165989c16035",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225337.421630energia.svg",
+      "name": "ener",
+      "title": "Energía"
+    }
+  ],
+  "id": "energia_b33aca04-81d8-44ef-8842-162aa69330ca",
+  "isopen": false,
+  "license_id": "notspecified",
+  "license_title": "No se especificó la licencia",
+  "maintainer": null,
+  "maintainer_email": null,
+  "metadata_created": "2019-11-26T15:00:47.234712",
+  "metadata_modified": "2021-04-29T17:17:11.269939",
+  "name": "energia-proyectos-hidroelectricos",
+  "notes": "Inventario de documentos y planos de los Proyectos Hidroeléctricos.",
+  "num_resources": 1,
+  "num_tags": 5,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:09.221510",
+    "description": "",
+    "id": "cd1b32a2-2d3a-44ac-8c98-a425a7b62d42",
+    "image_url": "",
+    "is_organization": true,
+    "name": "energia",
+    "revision_id": "a184cf69-99ad-4f84-a254-020031d7fe63",
+    "state": "active",
+    "title": "Secretaría de Energía",
+    "type": "organization"
+  },
+  "owner_org": "cd1b32a2-2d3a-44ac-8c98-a425a7b62d42",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "http://datos.minem.gob.ar/dataset/b33aca04-81d8-44ef-8842-162aa69330ca/resource/ddcd82c5-318e-4bf2-8a2c-c637048d4b03",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-05-04T12:49:56.588459",
+      "datastore_active": false,
+      "description": "",
+      "fileName": "inventario-de-textos-y-planos-correspondientes-a-proyectos-hidroelctricos.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "energia_ddcd82c5-318e-4bf2-8a2c-c637048d4b03",
+      "last_modified": "2017-06-01T02:00:47.177509",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Inventario de documentos y planos correspondientes a proyectos hidroeléctricos",
+      "package_id": "energia_b33aca04-81d8-44ef-8842-162aa69330ca",
+      "position": 0,
+      "resource_type": null,
+      "revision_id": "a79d2733-1eed-4383-bbdb-020b4e02d38c",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.minem.gob.ar/dataset/b33aca04-81d8-44ef-8842-162aa69330ca/resource/ddcd82c5-318e-4bf2-8a2c-c637048d4b03/download/inventario-de-textos-y-planos-correspondientes-a-proyectos-hidroelctricos.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "f0b0e34f-3c5f-4ee8-8e84-0b2378e427e3",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "Centrales de generación",
+      "id": "aeef7728-2990-4af3-b938-b8746d76ea09",
+      "name": "Centrales de generación",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Electricidad",
+      "id": "485ec278-8308-4f37-993d-949cd25183d5",
+      "name": "Electricidad",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Generación",
+      "id": "1488ccb6-26ca-479f-ae10-26499141beb7",
+      "name": "Generación",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Generación de Energía Eléctrica",
+      "id": "bdfac485-4a3e-47e3-8ee0-60850e834019",
+      "name": "Generación de Energía Eléctrica",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Obras",
+      "id": "c4f93fc7-2266-449a-8cf6-d24e119de697",
+      "name": "Obras",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Proyectos hidroeléctricos",
+  "type": "dataset",
+  "url": "http://datos.minem.gob.ar/dataset/proyectos-hidroelectricos",
+  "version": null
+}

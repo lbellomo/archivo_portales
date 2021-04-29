@@ -1,0 +1,162 @@
+{
+  "author": "Ministerio de Energía y Minería.Secretaría de Coordinación de Planeamiento Energético.Dirección Nacional de Información Energética.Tecnología de la Información.  ",
+  "author_email": "tienerg@energia.gob.ar",
+  "creator_user_id": "4720e75a-9e17-4dc3-879d-041917c7f9f9",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "eventual"
+    },
+    {
+      "key": "issued",
+      "value": "2016-11-07T13:33:34.985951"
+    },
+    {
+      "key": "modified",
+      "value": "2018-04-24T21:40:57.969051"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"ENER\"]"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Energía",
+      "display_name": "Energía",
+      "id": "a4d3f632-eb48-4163-9791-165989c16035",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225337.421630energia.svg",
+      "name": "ener",
+      "title": "Energía"
+    }
+  ],
+  "id": "energia_2dddc76d-1b55-4076-883a-cbc38546b9d2",
+  "isopen": false,
+  "license_id": "notspecified",
+  "license_title": "No se especificó la licencia",
+  "maintainer": "Ministerio de Energía y Minería.Secretaría de Coordinación de Planeamiento Energético.Dirección Nacional de Información Energética.Tecnología de la Información.  ",
+  "maintainer_email": "tienerg@minem.gob.ar",
+  "metadata_created": "2019-11-26T15:00:55.503813",
+  "metadata_modified": "2021-04-29T17:17:30.215466",
+  "name": "energia-geologia-climatologia-isobatas",
+  "notes": "Isobatas. ISO 19126: Depths, Este subgrupo se compone de conceptos que se utilizan para describir las profundidades de las masas de agua.",
+  "num_resources": 2,
+  "num_tags": 6,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:09.221510",
+    "description": "",
+    "id": "cd1b32a2-2d3a-44ac-8c98-a425a7b62d42",
+    "image_url": "",
+    "is_organization": true,
+    "name": "energia",
+    "revision_id": "a184cf69-99ad-4f84-a254-020031d7fe63",
+    "state": "active",
+    "title": "Secretaría de Energía",
+    "type": "organization"
+  },
+  "owner_org": "cd1b32a2-2d3a-44ac-8c98-a425a7b62d42",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "http://datos.minem.gob.ar/dataset/2dddc76d-1b55-4076-883a-cbc38546b9d2/resource/cc72d88f-5c67-4f64-8a97-014f5742c531",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-05-04T18:00:11.175664",
+      "datastore_active": false,
+      "description": "",
+      "fileName": "geologa-climatologa-isobatas.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "energia_cc72d88f-5c67-4f64-8a97-014f5742c531",
+      "last_modified": "2017-05-04T18:00:11.066728",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Geología Climatología Isobatas",
+      "package_id": "energia_2dddc76d-1b55-4076-883a-cbc38546b9d2",
+      "position": 0,
+      "resource_type": null,
+      "revision_id": "4f243cbe-d421-4593-88f7-79a34df7b917",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.minem.gob.ar/dataset/2dddc76d-1b55-4076-883a-cbc38546b9d2/resource/cc72d88f-5c67-4f64-8a97-014f5742c531/download/geologa-climatologa-isobatas.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos.minem.gob.ar/dataset/2dddc76d-1b55-4076-883a-cbc38546b9d2/resource/b44d78b6-141d-40db-85e8-c5d2a69c3621",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-05-04T19:41:40.104855",
+      "datastore_active": false,
+      "description": "Archivos prj, shp, shx, dbf, xml. Sistema de Proyección EPSG:4326",
+      "fileName": "geologa-climatologa-isobatas.zip",
+      "format": "SHP",
+      "hash": "",
+      "id": "energia_b44d78b6-141d-40db-85e8-c5d2a69c3621",
+      "last_modified": "2017-05-04T19:41:39.939943",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Geología Climatología Isobatas",
+      "package_id": "energia_2dddc76d-1b55-4076-883a-cbc38546b9d2",
+      "position": 1,
+      "resource_type": null,
+      "revision_id": "7d9f7a23-672c-45cb-a403-332c7f9130d4",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.minem.gob.ar/dataset/2dddc76d-1b55-4076-883a-cbc38546b9d2/resource/b44d78b6-141d-40db-85e8-c5d2a69c3621/download/geologa-climatologa-isobatas.zip",
+      "url_type": null
+    }
+  ],
+  "revision_id": "ca29e3f4-4460-41cd-aaa7-4c7763ee48d5",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "Geología",
+      "id": "76ee66e8-1ba7-43ed-a6de-9bd06784ddd5",
+      "name": "Geología",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Información Geográfica",
+      "id": "d22bc8a4-252e-4fd8-89b2-3b9a08f6be42",
+      "name": "Información Geográfica",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Información geográfica",
+      "id": "24b3ee69-69cb-45de-a8b4-3566f4eab17c",
+      "name": "Información geográfica",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Isobatas",
+      "id": "c3602740-f3f7-4cfd-a7a4-90f51f5937b6",
+      "name": "Isobatas",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Otros",
+      "id": "1be82c1d-f2fe-4f6e-b7af-625c96c443b3",
+      "name": "Otros",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "YPF",
+      "id": "2eaefd5c-359a-4631-8f33-7f5f7f2697cd",
+      "name": "YPF",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Geología Climatología Isobatas",
+  "type": "dataset",
+  "url": "http://datos.minem.gob.ar/dataset/geologia-climatologia-isobatas",
+  "version": null
+}

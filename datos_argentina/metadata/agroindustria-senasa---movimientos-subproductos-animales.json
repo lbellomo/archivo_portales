@@ -1,0 +1,166 @@
+{
+  "author": "Servicio Nacional de Sanidad y Calidad Agroalimentaria",
+  "author_email": "desycg@senasa.gob.ar",
+  "creator_user_id": "dc157489-51c6-44ce-bd63-3bd983d60778",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P1M"
+    },
+    {
+      "key": "issued",
+      "value": "2019-09-23T15:53:51.624234"
+    },
+    {
+      "key": "language",
+      "value": "[\"spa\"]"
+    },
+    {
+      "key": "modified",
+      "value": "2019-12-05T12:28:38.952615"
+    },
+    {
+      "key": "source",
+      "value": "Servicio Nacional de Sanidad y Calidad Agroalimentaria - SENASA"
+    },
+    {
+      "key": "spatial",
+      "value": "[\"ARG\"]"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"AGRI\"]"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Agroganadería, pesca y forestación",
+      "display_name": "Agroganadería, pesca y forestación",
+      "id": "0c35ea38-7059-41d2-9827-5587769d0dc6",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225145.990789agroganaderia-pesca-forestacion.svg",
+      "name": "agri",
+      "title": "Agroganadería, pesca y forestación"
+    }
+  ],
+  "id": "agroindustria_0f40a8df-9687-4990-8e71-3c19795cb6df",
+  "isopen": true,
+  "license_id": "CC-BY-4.0",
+  "license_title": "Creative Commons Attribution 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "maintainer": "Dirección Nacional de Sanidad Animal",
+  "maintainer_email": "desycg@senasa.gob.ar",
+  "metadata_created": "2019-12-12T19:46:03.190145",
+  "metadata_modified": "2021-04-29T17:06:44.813590",
+  "name": "agroindustria-senasa---movimientos-subproductos-animales",
+  "notes": "Datos mensuales de los movimientos de subproductos animales, detallando provincia origen y destino.",
+  "num_resources": 1,
+  "num_tags": 8,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:07.834957",
+    "description": "",
+    "id": "b10c94e2-ade1-4a97-8c4c-b1ada7878d60",
+    "image_url": "",
+    "is_organization": true,
+    "name": "agroindustria",
+    "revision_id": "f7c3b6e9-d48f-4522-9f7a-388d805c8392",
+    "state": "active",
+    "title": "Ministerio de Agricultura, Ganadería y Pesca",
+    "type": "organization"
+  },
+  "owner_org": "b10c94e2-ade1-4a97-8c4c-b1ada7878d60",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "http://datos.agroindustria.gob.ar/dataset/0f40a8df-9687-4990-8e71-3c19795cb6df/resource/7d068012-5e8d-4f5f-8f48-e0281cd28230",
+      "attributesDescription": "[{\"type\": \"date\", \"title\": \"fecha\"}, {\"type\": \"string\", \"description\": \"Lugar del que sale.\", \"title\": \"salido_de\"}, {\"type\": \"string\", \"description\": \"Lugar al que ingresa.\", \"title\": \"ingresado_a\"}, {\"type\": \"string\", \"description\": \"Nombre de la provincia de origen.\", \"title\": \"provinicia_origen\"}, {\"type\": \"integer\", \"description\": \"C\\u00f3digo de la provincia de origen.\", \"title\": \"provincia_origen_id\"}, {\"type\": \"string\", \"description\": \"Nombre de la provincia de destino.\", \"title\": \"provincia_destino\"}, {\"type\": \"integer\", \"description\": \"C\\u00f3digo de la provincia de destino.\", \"title\": \"provincia_destino_id\"}, {\"type\": \"integer\", \"description\": \"Cantidad de cueros y pieles\", \"title\": \"cueros_pieles_brutas\"}, {\"type\": \"integer\", \"description\": \"Cantidad de lana sucia.\", \"title\": \"lana_sucia\"}, {\"type\": \"integer\", \"description\": \"Cantidad de lana limpia.\", \"title\": \"lana_limpia\"}, {\"type\": \"integer\", \"description\": \"Cantidad de vell\\u00f3n de lana sucia.\", \"title\": \"lana_sucia_vellon\"}, {\"type\": \"integer\", \"description\": \"Cantidad de lana sucia, que no corresponde a vell\\u00f3n.\", \"title\": \"lana_sucia_no_vellon\"}, {\"type\": \"integer\", \"description\": \"Cantidad de pelos y cerdas.\", \"title\": \"pelos_cerdas\"}, {\"type\": \"integer\", \"description\": \"Cantidad de esti\\u00e9rcol.\", \"title\": \"estiercol\"}, {\"type\": \"integer\", \"description\": \"Cantidad de guano aviar.\", \"title\": \"guano_aviar\"}, {\"type\": \"integer\", \"description\": \"Cantidad de guano.\", \"title\": \"guano_cap\"}, {\"type\": \"integer\", \"description\": \"Cantidad de cama de pollo.\", \"title\": \"cama_pollo\"}, {\"type\": \"integer\", \"description\": \"Cantidad de aves muertas.\", \"title\": \"aves_muertas\"}, {\"type\": \"integer\", \"description\": \"Cantidad de pasto.\", \"title\": \"pasto_fresco_heno_TdF\"}, {\"type\": \"integer\", \"description\": \"Cantidad de huesos y despojos de faena.\", \"title\": \"huesos_despojos_faena\"}, {\"type\": \"integer\", \"description\": \"Cantidad de trofeos de caza.\", \"title\": \"trofeo_caza\"}, {\"type\": \"integer\", \"description\": \"Cantidad de astas por volteo de ciervos.\", \"title\": \"astas_volteo_ciervos\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-09-27T14:19:35.020562",
+      "datastore_active": false,
+      "description": "Datos de los movimientos de subproductos por mes para el periodo 2013 a 2018.",
+      "fileName": "movimiento-subproductos-animales-provincia-2013-2018.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "agroindustria_7d068012-5e8d-4f5f-8f48-e0281cd28230",
+      "last_modified": "2019-12-05T12:27:51.179849",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Movimiento de subproductos animales 2013 a 2018",
+      "package_id": "agroindustria_0f40a8df-9687-4990-8e71-3c19795cb6df",
+      "position": 0,
+      "resource_type": "file.upload",
+      "revision_id": "644261e3-23e3-4dbf-abde-7720756d7da6",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.agroindustria.gob.ar/dataset/0f40a8df-9687-4990-8e71-3c19795cb6df/resource/7d068012-5e8d-4f5f-8f48-e0281cd28230/download/movimiento-subproductos-animales-provincia-2013-2018.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "31e38309-ffeb-47e6-b945-887b97650a68",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "cama aviar",
+      "id": "71a73bd6-1264-4889-8141-00c73950c0ce",
+      "name": "cama aviar",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "cama pollo",
+      "id": "36e171f7-660a-41c4-9585-57cad07fcfd6",
+      "name": "cama pollo",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "cuero",
+      "id": "35294497-a467-4b11-ad79-9af44a3ed9c1",
+      "name": "cuero",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "guano",
+      "id": "6eeee9a6-4c3d-450b-912e-3d0b2354e578",
+      "name": "guano",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "lana",
+      "id": "ed55907f-66c4-4f6f-8f73-1a507115bc33",
+      "name": "lana",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "movimiento ganadero",
+      "id": "5d3fb22d-977e-4fc3-ac41-277f36a967a1",
+      "name": "movimiento ganadero",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "pelo",
+      "id": "d9403db9-3786-4031-b9ad-fea0f524075f",
+      "name": "pelo",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "semen",
+      "id": "8a0f8de5-06ec-402f-894f-79d781d8099d",
+      "name": "semen",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "SENASA - Movimientos subproductos animales",
+  "type": "dataset",
+  "url": "https://datos.agroindustria.gob.ar/dataset/senasa-movimientos-productos-y-subproductos-animales",
+  "version": null
+}

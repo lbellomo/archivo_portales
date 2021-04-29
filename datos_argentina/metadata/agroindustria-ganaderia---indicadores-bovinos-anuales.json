@@ -1,0 +1,195 @@
+{
+  "author": "Ministerio de Agricultura, Ganadería y Pesca - Subsecretaría de Ganadería",
+  "author_email": "productos_pecuarios@magyp.gob.ar",
+  "creator_user_id": "dc157489-51c6-44ce-bd63-3bd983d60778",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P1Y"
+    },
+    {
+      "key": "issued",
+      "value": "2018-12-07T21:25:37.819562"
+    },
+    {
+      "key": "language",
+      "value": "[\"spa\"]"
+    },
+    {
+      "key": "modified",
+      "value": "2019-10-02T11:37:39.090566"
+    },
+    {
+      "key": "spatial",
+      "value": "[\"ARG\"]"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"AGRI\", \"ECON\"]"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Agroganadería, pesca y forestación",
+      "display_name": "Agroganadería, pesca y forestación",
+      "id": "0c35ea38-7059-41d2-9827-5587769d0dc6",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225145.990789agroganaderia-pesca-forestacion.svg",
+      "name": "agri",
+      "title": "Agroganadería, pesca y forestación"
+    },
+    {
+      "description": "Economía y finanzas",
+      "display_name": "Economía y finanzas",
+      "id": "60b4b03e-10a1-4d67-b984-08008a249617",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225257.200233economia-finanzas.svg",
+      "name": "econ",
+      "title": "Economía y finanzas"
+    }
+  ],
+  "id": "agroindustria_6c17e5cd-bccd-4536-a08c-ff01d4e0f0e7",
+  "isopen": true,
+  "license_id": "CC-BY-4.0",
+  "license_title": "Creative Commons Attribution 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "maintainer": "Ministerio de Agricultura, Ganadería y Pesca - Subsecretaría de Ganadería",
+  "maintainer_email": "productos_pecuarios@magyp.gob.ar",
+  "metadata_created": "2020-04-29T17:10:25.018469",
+  "metadata_modified": "2021-04-29T17:10:29.028136",
+  "name": "agroindustria-ganaderia---indicadores-bovinos-anuales",
+  "notes": "Resumen de los principales indicadores de la actividad del sector bovino nacional. \r\nEsta información se presenta en forma anual.",
+  "num_resources": 2,
+  "num_tags": 8,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:07.834957",
+    "description": "",
+    "id": "b10c94e2-ade1-4a97-8c4c-b1ada7878d60",
+    "image_url": "",
+    "is_organization": true,
+    "name": "agroindustria",
+    "revision_id": "f7c3b6e9-d48f-4522-9f7a-388d805c8392",
+    "state": "active",
+    "title": "Ministerio de Agricultura, Ganadería y Pesca",
+    "type": "organization"
+  },
+  "owner_org": "b10c94e2-ade1-4a97-8c4c-b1ada7878d60",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "https://datos.agroindustria.gob.ar/dataset/6c17e5cd-bccd-4536-a08c-ff01d4e0f0e7/archivo/848a6d41-44be-42a5-b3b3-01a5ba496994",
+      "attributesDescription": "[{\"type\": \"integer\", \"description\": \"pais_id\", \"title\": \"pais_id\"}, {\"type\": \"string\", \"description\": \"pais\", \"title\": \"pais\"}, {\"type\": \"integer\", \"description\": \"A\\u0144o\", \"title\": \"anio\"}, {\"type\": \"integer\", \"description\": \"Faena total pa\\u00eds en cantidad de cabezas\", \"title\": \"faena_total_pais_cabezas\"}, {\"type\": \"integer\", \"description\": \"Peso promedio de la res\", \"title\": \"peso_promedio_res\"}, {\"type\": \"number\", \"description\": \"Participaci\\u00f3n en porcentaje de novillos\", \"title\": \"participacion_novillos_porcentual\"}, {\"type\": \"number\", \"description\": \"Participaci\\u00f3n en porcentaje de hembras\", \"title\": \"participacion_hembras_porcentual\"}, {\"type\": \"integer\", \"description\": \"Producci\\u00f3n en miles de toneladas res con hueso\", \"title\": \"produccion_miles_toneladas_res_con_hueso\"}, {\"type\": \"integer\", \"description\": \"Exportaciones: en cantidad de toneladas de res con hueso\", \"title\": \"expo_toneladas_res_con_hueso\"}, {\"type\": \"integer\", \"description\": \"Exportaciones: en miles de d\\u00f3lares\", \"title\": \"expo_miles_dolares\"}, {\"type\": \"number\", \"description\": \"Exportaciones: precio de la res con hueso en d\\u00f3lares por tonelada\", \"title\": \"expo_dolares_tonealadas_res_con_hueso\"}, {\"type\": \"number\", \"description\": \"Porcentaje de las exportaciones respecto de la producci\\u00f3n\", \"title\": \"exportacion_produccion_porcentual\"}, {\"type\": \"integer\", \"description\": \"Mercado interno: consumo aparente en miles de toneladas de res con hueso\", \"title\": \"mercado_interno_consumo_aparente\"}, {\"type\": \"number\", \"description\": \"Mercado interno: consumo en kilos por habitante\", \"title\": \"mercado_interno_consumo_per_capita\"}, {\"type\": \"number\", \"description\": \"Mercado de Liniers: precio del novillo en pesos por kilo vivo\", \"title\": \"liniers_novillos_precio_kilo_vivo_pesos\"}, {\"type\": \"number\", \"description\": \"Mercado de Liniers: precio del novillo en d\\u00f3lares por kilo vivo\", \"title\": \"liniers_novillos_precio_kilo_vivo_dolares\"}, {\"type\": \"integer\", \"description\": \"Mercado de Liniers: peso del novillo vivo\", \"title\": \"liniers_novillos_peso_kilo_vivo\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-09-07T18:30:33.213733",
+      "datastore_active": false,
+      "description": "Principales indicadores de la actividad del sector bovino nacional. Información anual. Para los años 1990 y 1991, el precio de \"Novillos en el Mercado de Liniers\" se expresa en \"australes\".",
+      "fileName": "indicadores-ganaderos-anuales.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "agroindustria_848a6d41-44be-42a5-b3b3-01a5ba496994",
+      "last_modified": "2020-04-29T12:22:48.269639",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Indicadores anuales del sector bovino",
+      "package_id": "agroindustria_6c17e5cd-bccd-4536-a08c-ff01d4e0f0e7",
+      "position": 0,
+      "resource_type": "file.upload",
+      "revision_id": "4f2f14f9-8503-4476-894f-0f3f8b128541",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.agroindustria.gob.ar/dataset/6c17e5cd-bccd-4536-a08c-ff01d4e0f0e7/resource/848a6d41-44be-42a5-b3b3-01a5ba496994/download/indicadores-ganaderos-anuales.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos.agroindustria.gob.ar/dataset/6c17e5cd-bccd-4536-a08c-ff01d4e0f0e7/resource/ccaf798e-3998-4163-873f-98379a10797d",
+      "attributesDescription": "[{\"specialType\": \"time_index\", \"specialTypeDetail\": \"R/P1Y\", \"type\": \"date\", \"title\": \"indice_tiempo\"}, {\"units\": \"Unidades\", \"id\": \"AGRO_0234\", \"type\": \"integer\", \"description\": \"Faena total pa\\u00eds en cantidad de cabezas\", \"title\": \"faena_total_pais_cabezas\"}, {\"id\": \"AGRO_0235\", \"type\": \"integer\", \"description\": \"Peso promedio de la res\", \"title\": \"peso_promedio_res\"}, {\"units\": \"Porcentaje\", \"id\": \"AGRO_0236\", \"type\": \"number\", \"description\": \"Participaci\\u00f3n en porcentaje de novillos\", \"title\": \"participacion_novillos_porcentual\"}, {\"units\": \"Porcentaje\", \"id\": \"AGRO_0237\", \"type\": \"number\", \"description\": \"Participaci\\u00f3n en porcentaje de hembras\", \"title\": \"participacion_hembras_porcentual\"}, {\"units\": \"Miles de toneladas\", \"id\": \"AGRO_0238\", \"type\": \"integer\", \"description\": \"Producci\\u00f3n en miles de toneladas res con hueso\", \"title\": \"produccion_miles_toneladas_res_con_hueso\"}, {\"units\": \"Toneladas\", \"id\": \"AGRO_0239\", \"type\": \"integer\", \"description\": \"Exportaciones: en toneladas de res con hueso\", \"title\": \"expo_toneladas_res_con_hueso\"}, {\"units\": \"Dolares\", \"id\": \"AGRO_0240\", \"type\": \"integer\", \"description\": \"Exportaciones: en miles de d\\u00f3lares\", \"title\": \"expo_miles_dolares\"}, {\"units\": \"Dolares\", \"id\": \"AGRO_0241\", \"type\": \"number\", \"description\": \"Exportaciones: d\\u00f3lares por tonelada de res con hueso\", \"title\": \"expo_dolares_toneladas_res_con_hueso\"}, {\"units\": \"Porcentaje\", \"id\": \"AGRO_0242\", \"type\": \"number\", \"description\": \"Porcentaje de las exportaciones respecto de la producci\\u00f3n \", \"title\": \"exportacion_produccion_porcentual\"}, {\"units\": \"Miles de toneladas\", \"id\": \"AGRO_0243\", \"type\": \"integer\", \"description\": \"Mercado interno: consumo aparente en miles de toneladas de res con hueso\", \"title\": \"mercado_interno_consumo_aparente\"}, {\"units\": \"Kilogramos\", \"id\": \"AGRO_0244\", \"type\": \"number\", \"description\": \"Mercado interno: consumo en kilos por habitante\", \"title\": \"mercado_interno_consumo_per_capita\"}, {\"units\": \"Kilogramos\", \"id\": \"AGRO_0245\", \"type\": \"number\", \"description\": \"Mercado de Liniers: precio del novillo en pesos por kilo vivo\", \"title\": \"liniers_novillos_precio_kilo_vivo_pesos\"}, {\"units\": \"Australes\", \"id\": \"AGRO_0246\", \"type\": \"number\", \"description\": \"Mercado de Liniers: precio del novillo en australes por kilo vivo\", \"title\": \"liniers_novillos_precio_kilo_vivo_australes\"}, {\"units\": \"Dolares\", \"id\": \"AGRO_0247\", \"type\": \"number\", \"description\": \"Mercado de Liniers: precio del novillo en d\\u00f3lares por kilo vivo\", \"title\": \"liniers_novillos_precio_kilo_vivo_dolares\"}, {\"units\": \"Kilogramos\", \"id\": \"AGRO_0248\", \"type\": \"integer\", \"description\": \"Mercado de Liniers: peso del novillo vivo\", \"title\": \"liniers_novillos_peso_kilo_vivo\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-05-22T15:34:46.964908",
+      "datastore_active": false,
+      "description": "Evolución del resumen de los principales indicadores de la actividad del sector bovino nacional. Esta información se presenta en forma anual.",
+      "fileName": "serie-tiempo-indicadores-ganaderos-anuales.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "agroindustria_ccaf798e-3998-4163-873f-98379a10797d",
+      "last_modified": "2020-04-29T12:17:42.783468",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Serie de tiempo",
+      "package_id": "agroindustria_6c17e5cd-bccd-4536-a08c-ff01d4e0f0e7",
+      "position": 1,
+      "resource_type": "file.upload",
+      "revision_id": "bf4e62a7-5e48-4498-9b45-7142679fdefa",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.agroindustria.gob.ar/dataset/6c17e5cd-bccd-4536-a08c-ff01d4e0f0e7/resource/ccaf798e-3998-4163-873f-98379a10797d/download/serie-tiempo-indicadores-ganaderos-anuales.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "627b7f3b-1fa3-4796-9e83-123f280d36f0",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "bovino",
+      "id": "cc1d16c6-0568-4e84-8b13-5577a31abfc8",
+      "name": "bovino",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "faena",
+      "id": "d758fa81-9c05-4f8f-a2f5-3db059339bb7",
+      "name": "faena",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "hembras",
+      "id": "cebf1485-6ff2-4f93-b7e6-dc32ccb81117",
+      "name": "hembras",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "invernada",
+      "id": "4595f46f-4602-425c-b609-d5feaa353d34",
+      "name": "invernada",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "mercados",
+      "id": "6d9c3d18-454a-4717-89ce-4e036d867102",
+      "name": "mercados",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "novillos",
+      "id": "080a770e-4b7b-4506-b388-b0a81e745fa1",
+      "name": "novillos",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "res",
+      "id": "3f071b66-b2ae-4a53-ad45-6ba53f6c8e92",
+      "name": "res",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "transformacion",
+      "id": "748dab5e-a5f5-4ea4-8638-34f4407b70e5",
+      "name": "transformacion",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Ganadería - Indicadores bovinos anuales",
+  "type": "dataset",
+  "url": "https://datos.agroindustria.gob.ar/dataset/indicadores-anuales-sector-bovino",
+  "version": null
+}

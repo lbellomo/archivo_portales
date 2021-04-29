@@ -1,0 +1,168 @@
+{
+  "author": "Secretaría de Gobierno de Energía.Subsecretaría de Planeamiento Energético.Dirección Nacional de Información Energética.",
+  "author_email": "tienerg@energia.gob.ar",
+  "creator_user_id": "4720e75a-9e17-4dc3-879d-041917c7f9f9",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P1D"
+    },
+    {
+      "key": "issued",
+      "value": "2019-10-25T16:53:11.167642"
+    },
+    {
+      "key": "modified",
+      "value": "2020-01-29T15:05:59.200375"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"ENER\"]"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Energía",
+      "display_name": "Energía",
+      "id": "a4d3f632-eb48-4163-9791-165989c16035",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225337.421630energia.svg",
+      "name": "ener",
+      "title": "Energía"
+    }
+  ],
+  "id": "energia_71fa2e84-0316-4a1b-af68-7f35e41f58d7",
+  "isopen": false,
+  "license_id": "notspecified",
+  "license_title": "No se especificó la licencia",
+  "maintainer": "Secretaría de Gobierno de Energía.Subsecretaría de Hidrocarburos y Combustibles.Dirección Nacional de Exploración y Producción. ",
+  "maintainer_email": null,
+  "metadata_created": "2019-11-26T14:59:02.847281",
+  "metadata_modified": "2021-04-29T17:17:16.811440",
+  "name": "energia-datos-fractura-pozos-hidrocarburos-adjunto-iv",
+  "notes": "Detalle por pozo, formación, tipo de reservorio, yacimiento, concesión y provincia de: longitud de rama horizontal (m), cantidad de etapas de fractura, tipo de terminación, toneladas de arena bombeada nacional e importada (t), agua inyectada (m3), CO2 inyectado (m3), presión máxima (psi), potencia de equipos de fractura (hp), fechas de inicio y fin de fractura, y empresa informante.\r\n\r\nDatos preliminares sujetos a revisión.\r\n",
+  "num_resources": 2,
+  "num_tags": 7,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:09.221510",
+    "description": "",
+    "id": "cd1b32a2-2d3a-44ac-8c98-a425a7b62d42",
+    "image_url": "",
+    "is_organization": true,
+    "name": "energia",
+    "revision_id": "a184cf69-99ad-4f84-a254-020031d7fe63",
+    "state": "active",
+    "title": "Secretaría de Energía",
+    "type": "organization"
+  },
+  "owner_org": "cd1b32a2-2d3a-44ac-8c98-a425a7b62d42",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "http://datos.minem.gob.ar/dataset/71fa2e84-0316-4a1b-af68-7f35e41f58d7/resource/2280ad92-6ed3-403e-a095-50139863ab0d",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-11-01T18:24:56.878134",
+      "datastore_active": false,
+      "description": "",
+      "fileName": "datos-de-fractura-de-pozos-de-hidrocarburos-adjunto-iv-actualizacin-diaria.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "energia_2280ad92-6ed3-403e-a095-50139863ab0d",
+      "last_modified": "2020-11-17T04:01:47.900390",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Datos de fractura de pozos de hidrocarburos (Adjunto IV) - Actualización diaria",
+      "package_id": "energia_71fa2e84-0316-4a1b-af68-7f35e41f58d7",
+      "position": 0,
+      "resource_type": null,
+      "revision_id": "2093a832-dfec-4d80-b17f-dcac0597c468",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.minem.gob.ar/dataset/71fa2e84-0316-4a1b-af68-7f35e41f58d7/resource/2280ad92-6ed3-403e-a095-50139863ab0d/download/datos-de-fractura-de-pozos-de-hidrocarburos-adjunto-iv-actualizacin-diaria.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos.minem.gob.ar/dataset/71fa2e84-0316-4a1b-af68-7f35e41f58d7/resource/7d605931-60c9-49ab-be6c-32433f42bfd4",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-12-05T10:49:07.969610",
+      "datastore_active": false,
+      "description": " ",
+      "format": "PDF",
+      "hash": "",
+      "id": "energia_7d605931-60c9-49ab-be6c-32433f42bfd4",
+      "last_modified": "2019-12-05T10:49:07.969610",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Infografía Hidrocarburos No Convencionales",
+      "package_id": "energia_71fa2e84-0316-4a1b-af68-7f35e41f58d7",
+      "position": 1,
+      "resource_type": null,
+      "revision_id": "d02e4091-f557-4a16-874c-c667d42b6a8e",
+      "size": null,
+      "state": "active",
+      "url": "http://www.energia.gob.ar/contenidos/archivos/Reorganizacion/planeamiento/infografias/lamina_dneype_C_01.pdf",
+      "url_type": null
+    }
+  ],
+  "revision_id": "ddfb9b24-f1d1-4f9a-8790-4f743aeb7bbf",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "Capítulo IV",
+      "id": "70bbdb7f-0445-4547-a6c7-b23352307485",
+      "name": "Capítulo IV",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Exploración y Producción de Hidrocarburos",
+      "id": "578b8b35-2010-450c-adc5-ee88dfabdcb9",
+      "name": "Exploración y Producción de Hidrocarburos",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Gas",
+      "id": "eed5254c-896b-4775-be02-1f8b96553271",
+      "name": "Gas",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Hidrocarburos",
+      "id": "f2511ea4-b37a-445a-913a-8948f1b90df6",
+      "name": "Hidrocarburos",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Petróleo",
+      "id": "abf5e30e-5f64-4421-925f-f35b1535ce49",
+      "name": "Petróleo",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Pozos",
+      "id": "f8d8c0c0-8218-4d15-8a77-0bf7d3b7e292",
+      "name": "Pozos",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Producción",
+      "id": "e43bd381-9301-4aa7-a861-35fc73f7fa2c",
+      "name": "Producción",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Datos de fractura de pozos de hidrocarburos (Adjunto IV)",
+  "type": "dataset",
+  "url": "http://datos.minem.gob.ar/dataset/datos-de-fractura-de-pozos-adjunto-iv",
+  "version": null
+}

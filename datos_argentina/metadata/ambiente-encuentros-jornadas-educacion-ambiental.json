@@ -1,0 +1,179 @@
+{
+  "author": "Ministerio de Ambiente y Desarrollo Sostenible. Dirección Nacional de Educación Ambiental y Participación Ciudadana.",
+  "author_email": "jgoldschtein@ambiente.gob.ar",
+  "creator_user_id": "4720e75a-9e17-4dc3-879d-041917c7f9f9",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "eventual"
+    },
+    {
+      "key": "issued",
+      "value": "2017-09-06T16:58:20.032556"
+    },
+    {
+      "key": "language",
+      "value": "[\"spa\"]"
+    },
+    {
+      "key": "modified",
+      "value": "2020-09-29T13:41:41.938891"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"ENVI\"]"
+    },
+    {
+      "key": "temporal",
+      "value": "2016-03-01T03:00:00.000Z/2017-08-31T03:00:00.000Z"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Medio ambiente",
+      "display_name": "Medio ambiente",
+      "id": "f71fe9d7-c703-43be-8d9d-af9441c326ba",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225440.964279medio-ambiente.svg",
+      "name": "envi",
+      "title": "Medio ambiente"
+    }
+  ],
+  "id": "ambiente_9a4a51ef-26e4-416c-b97d-7ea48dac04df",
+  "isopen": false,
+  "license_id": "notspecified",
+  "license_title": "No se especificó la licencia",
+  "maintainer": "Ministerio de Ambiente y Desarrollo Sostenible. Dirección Nacional de Educación Ambiental y Participación Ciudadana.",
+  "maintainer_email": "jgoldschtein@ambiente.gob.ar",
+  "metadata_created": "2019-11-26T14:57:49.984491",
+  "metadata_modified": "2021-04-29T17:18:05.708126",
+  "name": "ambiente-encuentros-jornadas-educacion-ambiental",
+  "notes": "Son los encuentros, capacitaciones y cursos que contribuyen con los procesos de enseñanza y aprendizaje basados en la integración de contenidos ambientales, vinculados con la vida cotidiana y comunitaria, el mundo del trabajo, la participación democrática y  los valores éticos de solidaridad y responsabilidad, realizados en el marco de la Estrategia Nacional de Educación Ambiental.",
+  "num_resources": 2,
+  "num_tags": 7,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:07.043831",
+    "description": "",
+    "id": "0e5aa328-825e-4509-851d-5421e866635e",
+    "image_url": "",
+    "is_organization": true,
+    "name": "ambiente",
+    "revision_id": "105eb915-270c-4f67-9b4e-e6a3f08be6d7",
+    "state": "active",
+    "title": "Ministerio de Ambiente y Desarrollo Sostenible",
+    "type": "organization"
+  },
+  "owner_org": "0e5aa328-825e-4509-851d-5421e866635e",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "http://datos.ambiente.gob.ar/dataset/9a4a51ef-26e4-416c-b97d-7ea48dac04df/resource/0db23dc2-a196-42bd-a1b3-8a1036beffea",
+      "attributesDescription": "[{\"type\": \"integer\", \"description\": \"A\\u00f1o en el cual se realiza el encuentro de Educaci\\u00f3n Ambiental\", \"title\": \"encuentro_anio\"}, {\"type\": \"integer\", \"description\": \"Cantidad de encuentros de tem\\u00e1tica ambiental en el a\\u00f1o dado\", \"title\": \"encuentro_numero\"}, {\"type\": \"integer\", \"description\": \"Cantidad de participantes en el encuentro de Educaci\\u00f3n Ambiental\", \"title\": \"encuentro_participantes\"}, {\"type\": \"string\", \"description\": \"Tipo de encuentro de Educaci\\u00f3n Ambiental\", \"title\": \"encuentro_tematica\"}, {\"type\": \"string\", \"description\": \"Destinatarios del encuentro de Educaci\\u00f3n Ambiental\", \"title\": \"encuentro_destinatarios\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-09-06T17:07:49.317701",
+      "datastore_active": false,
+      "description": "Son los encuentros de educación ambiental realizados con el propósito de generar compromisos de acciones educativas articuladas  con diversos organismos estatales, instituciones y sectores sociales.",
+      "fileName": "encuentro-educacion-ambiental.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "ambiente_0db23dc2-a196-42bd-a1b3-8a1036beffea",
+      "last_modified": "2019-11-25T13:33:08.394440",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Encuentros de educación ambiental",
+      "package_id": "ambiente_9a4a51ef-26e4-416c-b97d-7ea48dac04df",
+      "position": 0,
+      "resource_type": "file.upload",
+      "revision_id": "127db7a5-25a0-4ca0-b00a-6d000656c33a",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.ambiente.gob.ar/dataset/9a4a51ef-26e4-416c-b97d-7ea48dac04df/resource/0db23dc2-a196-42bd-a1b3-8a1036beffea/download/encuentro-educacion-ambiental.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos.ambiente.gob.ar/dataset/9a4a51ef-26e4-416c-b97d-7ea48dac04df/resource/88702f60-1007-4182-b73d-c6b01dcb457f",
+      "attributesDescription": "[{\"type\": \"integer\", \"description\": \"A\\u00f1o en el cual se realiza el curso o capacitaci\\u00f3n de educaci\\u00f3n ambiental\", \"title\": \"capacitacion_anio\"}, {\"type\": \"integer\", \"description\": \"Cantidad de cursos o capacitaciones en la tem\\u00e1tica ambiental en el a\\u00f1o dado\", \"title\": \"capacitacion_numero\"}, {\"type\": \"integer\", \"description\": \"Cantidad de participantes en los cursos o capacitaciones en la tem\\u00e1tica ambiental\", \"title\": \"capacitacion_participantes_numero\"}, {\"type\": \"string\", \"description\": \"Tipo de curso o capacitaci\\u00f3n de Educaci\\u00f3n Ambiental \", \"title\": \"capacitaci\\u00f3n_tematica\"}, {\"type\": \"string\", \"description\": \"Destinatarios del curso o capacitaci\\u00f3n de Educaci\\u00f3n Ambiental\", \"title\": \"capacitaci\\u00f3n_destinatarios\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-09-06T17:41:31.629104",
+      "datastore_active": false,
+      "description": "Son las capacitaciones de Educación Ambiental que contribuyen con los procesos de enseñanza y aprendizaje basados en la integración de contenidos ambientales.",
+      "fileName": "capacitaciones-educacion-ambiental.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "ambiente_88702f60-1007-4182-b73d-c6b01dcb457f",
+      "last_modified": "2019-11-25T10:56:09.611945",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Capacitaciones de educación ambiental",
+      "package_id": "ambiente_9a4a51ef-26e4-416c-b97d-7ea48dac04df",
+      "position": 1,
+      "resource_type": "file.upload",
+      "revision_id": "a46a7264-b7ad-4b96-b851-61e5f8f73efd",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.ambiente.gob.ar/dataset/9a4a51ef-26e4-416c-b97d-7ea48dac04df/resource/88702f60-1007-4182-b73d-c6b01dcb457f/download/capacitaciones-educacion-ambiental.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "127db7a5-25a0-4ca0-b00a-6d000656c33a",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "Agroecología",
+      "id": "d15dc63b-6534-40f2-861f-65ad21202318",
+      "name": "Agroecología",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Educación",
+      "id": "6b5009d1-95d4-4085-914d-681e8dcdf55d",
+      "name": "Educación",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Educación ambiental",
+      "id": "ae91e279-5829-495c-8ba2-5ee6631cf18e",
+      "name": "Educación ambiental",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Estrategia Nacional",
+      "id": "e1911b0f-549c-43de-ba01-56d707c9097b",
+      "name": "Estrategia Nacional",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Ser Sustentable",
+      "id": "350b880f-bd65-4ab2-b5bf-6d2b7f94d343",
+      "name": "Ser Sustentable",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "encuentros",
+      "id": "b3ef42de-38b5-4d8a-aed1-913efb8ddc4c",
+      "name": "encuentros",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "jornadas",
+      "id": "01fd2c6f-6dbb-427a-85f3-301aaf932b59",
+      "name": "jornadas",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Encuentros y jornadas de educación ambiental",
+  "type": "dataset",
+  "url": "http://datos.ambiente.gob.ar/dataset/",
+  "version": null
+}

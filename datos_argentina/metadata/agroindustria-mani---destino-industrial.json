@@ -1,0 +1,219 @@
+{
+  "author": "Subsecretaría de Mercados Agropecuarios",
+  "author_email": "sma@magyp.gob.ar",
+  "creator_user_id": "dc157489-51c6-44ce-bd63-3bd983d60778",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P1M"
+    },
+    {
+      "key": "issued",
+      "value": "2018-12-07T21:27:05.192198"
+    },
+    {
+      "key": "language",
+      "value": "[\"spa\"]"
+    },
+    {
+      "key": "modified",
+      "value": "2019-10-24T10:41:55.664957"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"AGRI\"]"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Agroganadería, pesca y forestación",
+      "display_name": "Agroganadería, pesca y forestación",
+      "id": "0c35ea38-7059-41d2-9827-5587769d0dc6",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225145.990789agroganaderia-pesca-forestacion.svg",
+      "name": "agri",
+      "title": "Agroganadería, pesca y forestación"
+    }
+  ],
+  "id": "agroindustria_60dcfab2-ebb9-4e13-b812-306940676b58",
+  "isopen": true,
+  "license_id": "CC-BY-4.0",
+  "license_title": "Creative Commons Attribution 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "maintainer": null,
+  "maintainer_email": null,
+  "metadata_created": "2019-12-04T21:13:21.365809",
+  "metadata_modified": "2021-04-29T17:06:21.097965",
+  "name": "agroindustria-mani---destino-industrial",
+  "notes": "Ingreso de granos de maní a la industria aceitera. Productos y subproductos de la industria aceitera.\r\nAño Comercial de Marzo a Febrero.",
+  "num_resources": 4,
+  "num_tags": 6,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:07.834957",
+    "description": "",
+    "id": "b10c94e2-ade1-4a97-8c4c-b1ada7878d60",
+    "image_url": "",
+    "is_organization": true,
+    "name": "agroindustria",
+    "revision_id": "f7c3b6e9-d48f-4522-9f7a-388d805c8392",
+    "state": "active",
+    "title": "Ministerio de Agricultura, Ganadería y Pesca",
+    "type": "organization"
+  },
+  "owner_org": "b10c94e2-ade1-4a97-8c4c-b1ada7878d60",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "http://datos2.agroindustria.gob.ar/dataset/60dcfab2-ebb9-4e13-b812-306940676b58/archivo/c78d5c02-477e-4ec2-b42a-2a3228a748de",
+      "attributesDescription": "[{\"type\": \"integer\", \"description\": \"cod_pais\", \"title\": \"cod_pais\"}, {\"type\": \"string\", \"description\": \"nom_pais\", \"title\": \"nom_pais\"}, {\"type\": \"integer\", \"description\": \"a\\u00f1o\", \"title\": \"a\\u00f1o\"}, {\"type\": \"string\", \"description\": \"producto\", \"title\": \"producto\"}, {\"type\": \"string\", \"description\": \"destino\", \"title\": \"destino\"}, {\"type\": \"string\", \"description\": \"uni_med\", \"title\": \"uni_med\"}, {\"type\": \"integer\", \"description\": \"nom_unidad\", \"title\": \"nom_unidad\"}, {\"type\": \"integer\", \"description\": \"enero\", \"title\": \"enero\"}, {\"type\": \"integer\", \"description\": \"febrero\", \"title\": \"febrero\"}, {\"type\": \"integer\", \"description\": \"marzo\", \"title\": \"marzo\"}, {\"type\": \"integer\", \"description\": \"abril\", \"title\": \"abril\"}, {\"type\": \"integer\", \"description\": \"mayo\", \"title\": \"mayo\"}, {\"type\": \"integer\", \"description\": \"junio\", \"title\": \"junio\"}, {\"type\": \"integer\", \"description\": \"julio\", \"title\": \"julio\"}, {\"type\": \"integer\", \"description\": \"agosto\", \"title\": \"agosto\"}, {\"type\": \"integer\", \"description\": \"septiembre\", \"title\": \"septiembre\"}, {\"type\": \"integer\", \"description\": \"octubre\", \"title\": \"octubre\"}, {\"type\": \"integer\", \"description\": \"noviembre\", \"title\": \"noviembre\"}, {\"type\": \"integer\", \"description\": \"diciembre\", \"title\": \"diciembre\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2018-05-07T13:14:23.186377",
+      "datastore_active": false,
+      "description": "Granos de maní en toneladas que ingresan a la industria aceitera.\r\n \"0\" indica informado \"Sin Movimiento\".",
+      "fileName": "ingreso-de-mani-a-la-industria-aceitera-.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "agroindustria_c78d5c02-477e-4ec2-b42a-2a3228a748de",
+      "last_modified": "2019-04-12T12:52:04.501881",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Ingreso de maní a la industria aceitera",
+      "package_id": "agroindustria_60dcfab2-ebb9-4e13-b812-306940676b58",
+      "position": 0,
+      "resource_type": "file.upload",
+      "revision_id": "8e652c80-669d-42d2-b80b-9c6bfa2f265f",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.agroindustria.gob.ar/dataset/60dcfab2-ebb9-4e13-b812-306940676b58/resource/c78d5c02-477e-4ec2-b42a-2a3228a748de/download/ingreso-de-mani-a-la-industria-aceitera-.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos2.agroindustria.gob.ar/dataset/60dcfab2-ebb9-4e13-b812-306940676b58/archivo/52a9c1d3-4491-49ff-8f65-510fc1080298",
+      "attributesDescription": "[{\"type\": \"integer\", \"description\": \"cod_pais\", \"title\": \"cod_pais\"}, {\"type\": \"string\", \"description\": \"nom_pais\", \"title\": \"nom_pais\"}, {\"type\": \"integer\", \"description\": \"a\\u00f1o\", \"title\": \"a\\u00f1o\"}, {\"type\": \"string\", \"description\": \"producto\", \"title\": \"producto\"}, {\"type\": \"string\", \"description\": \"unidad_id\", \"title\": \"unidad_id\"}, {\"type\": \"integer\", \"description\": \"nom_unidad\", \"title\": \"nom_unidad\"}, {\"type\": \"integer\", \"description\": \"enero\", \"title\": \"enero\"}, {\"type\": \"integer\", \"description\": \"febrero\", \"title\": \"febrero\"}, {\"type\": \"integer\", \"description\": \"marzo\", \"title\": \"marzo\"}, {\"type\": \"integer\", \"description\": \"abril\", \"title\": \"abril\"}, {\"type\": \"integer\", \"description\": \"mayo\", \"title\": \"mayo\"}, {\"type\": \"integer\", \"description\": \"junio\", \"title\": \"junio\"}, {\"type\": \"integer\", \"description\": \"julio\", \"title\": \"julio\"}, {\"type\": \"integer\", \"description\": \"agosto\", \"title\": \"agosto\"}, {\"type\": \"integer\", \"description\": \"septiembre\", \"title\": \"septiembre\"}, {\"type\": \"integer\", \"description\": \"octubre\", \"title\": \"octubre\"}, {\"type\": \"integer\", \"description\": \"noviembre\", \"title\": \"noviembre\"}, {\"type\": \"integer\", \"description\": \"diciembre\", \"title\": \"diciembre\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2018-05-07T13:18:38.209534",
+      "datastore_active": false,
+      "description": "Detalle mensual de la producción de aceite de maní en toneladas.\r\n \"0\" indica informado \"Sin Movimiento\".",
+      "fileName": "produccion-aceite-mani.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "agroindustria_52a9c1d3-4491-49ff-8f65-510fc1080298",
+      "last_modified": "2019-01-29T16:40:52.156906",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Producción de aceite de maní",
+      "package_id": "agroindustria_60dcfab2-ebb9-4e13-b812-306940676b58",
+      "position": 1,
+      "resource_type": "file.upload",
+      "revision_id": "b0413d26-22fd-4978-a853-d558d7c4fb05",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.agroindustria.gob.ar/dataset/60dcfab2-ebb9-4e13-b812-306940676b58/resource/52a9c1d3-4491-49ff-8f65-510fc1080298/download/produccion-aceite-mani.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos.agroindustria.gob.ar/dataset/60dcfab2-ebb9-4e13-b812-306940676b58/resource/f3e3cef9-67f2-4d12-9955-05a634dd26b0",
+      "attributesDescription": "[{\"type\": \"integer\", \"description\": \"cod_pais\", \"title\": \"cod_pais\"}, {\"type\": \"string\", \"description\": \"nom_pais\", \"title\": \"nom_pais\"}, {\"type\": \"integer\", \"description\": \"a\\u00f1o\", \"title\": \"a\\u00f1o\"}, {\"type\": \"string\", \"description\": \"producto\", \"title\": \"producto\"}, {\"type\": \"string\", \"description\": \"unidad_id\", \"title\": \"unidad_id\"}, {\"type\": \"integer\", \"description\": \"nom_unidad\", \"title\": \"nom_unidad\"}, {\"type\": \"integer\", \"description\": \"enero\", \"title\": \"enero\"}, {\"type\": \"integer\", \"description\": \"febrero\", \"title\": \"febrero\"}, {\"type\": \"integer\", \"description\": \"marzo\", \"title\": \"marzo\"}, {\"type\": \"integer\", \"description\": \"abril\", \"title\": \"abril\"}, {\"type\": \"integer\", \"description\": \"mayo\", \"title\": \"mayo\"}, {\"type\": \"integer\", \"description\": \"junio\", \"title\": \"junio\"}, {\"type\": \"integer\", \"description\": \"julio\", \"title\": \"julio\"}, {\"type\": \"integer\", \"description\": \"agosto\", \"title\": \"agosto\"}, {\"type\": \"integer\", \"description\": \"septiembre\", \"title\": \"septiembre\"}, {\"type\": \"integer\", \"description\": \"octubre\", \"title\": \"octubre\"}, {\"type\": \"integer\", \"description\": \"noviembre\", \"title\": \"noviembre\"}, {\"type\": \"integer\", \"description\": \"diciembre\", \"title\": \"diciembre\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2018-05-07T13:22:58.125288",
+      "datastore_active": false,
+      "description": "Detalle mensual de la producción de pellets de maní en toneladas.\r\n \"0\" indica informado \"Sin Movimiento\".",
+      "fileName": "produccion-de-pellets-de-mani-.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "agroindustria_f3e3cef9-67f2-4d12-9955-05a634dd26b0",
+      "last_modified": "2019-01-22T12:03:34.449457",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Producción de pellets de maní",
+      "package_id": "agroindustria_60dcfab2-ebb9-4e13-b812-306940676b58",
+      "position": 2,
+      "resource_type": "file.upload",
+      "revision_id": "8e652c80-669d-42d2-b80b-9c6bfa2f265f",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.agroindustria.gob.ar/dataset/60dcfab2-ebb9-4e13-b812-306940676b58/resource/f3e3cef9-67f2-4d12-9955-05a634dd26b0/download/produccion-pellets-mani.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos.agroindustria.gob.ar/dataset/60dcfab2-ebb9-4e13-b812-306940676b58/resource/dcd6d482-11fa-4543-b449-8add44b9a736",
+      "attributesDescription": "[{\"specialType\": \"time_index\", \"specialTypeDetail\": \"R/P1M\", \"type\": \"date\", \"description\": \"Indice de Tiempo\", \"title\": \"indice_tiempo\"}, {\"units\": \"Toneladas\", \"id\": \"AGRO_0040\", \"type\": \"integer\", \"description\": \"Ingreso de man\\u00ed a la industria aceitera.\", \"title\": \"ingreso_grano_mani\"}, {\"units\": \"Toneladas\", \"id\": \"AGRO_0041\", \"type\": \"integer\", \"description\": \"Producci\\u00f3n de aceite de man\\u00ed.\", \"title\": \"produccion_aceite_mani\"}, {\"units\": \"Toneladas\", \"id\": \"AGRO_0042\", \"type\": \"integer\", \"description\": \"Producci\\u00f3n de pellets de man\\u00ed.\", \"title\": \"produccion_pellets_mani\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-04-30T11:37:50.168772",
+      "datastore_active": false,
+      "description": "Evolución del ingreso de granos de maní a la industria aceitera. Productos y subproductos de la industria aceitera. Año Comercial de Marzo a Febrero.",
+      "fileName": "serie-tiempo-mani-destino-industria.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "agroindustria_dcd6d482-11fa-4543-b449-8add44b9a736",
+      "last_modified": "2019-09-16T09:38:56.632450",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Serie de tiempo",
+      "package_id": "agroindustria_60dcfab2-ebb9-4e13-b812-306940676b58",
+      "position": 3,
+      "resource_type": "file.upload",
+      "revision_id": "32998296-e3ed-4e25-b2c6-2e62a12924c1",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.agroindustria.gob.ar/dataset/60dcfab2-ebb9-4e13-b812-306940676b58/resource/dcd6d482-11fa-4543-b449-8add44b9a736/download/serie-tiempo-mani-destino-industria.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "d987ad92-f941-4551-a923-ab018ba9b2fb",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "aceite maní",
+      "id": "2c7ca09f-264e-4bae-a376-7384bc5b9683",
+      "name": "aceite maní",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "industria aceitera",
+      "id": "846315f4-50ab-42e2-8508-b4e91d9949ab",
+      "name": "industria aceitera",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "industrial aceitero",
+      "id": "65a89a4f-f530-4d26-9ae2-f85c257e2374",
+      "name": "industrial aceitero",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "maní",
+      "id": "e27e5212-d24a-49f5-a599-470cfde68d22",
+      "name": "maní",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "mercados",
+      "id": "6d9c3d18-454a-4717-89ce-4e036d867102",
+      "name": "mercados",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "pellets",
+      "id": "c4731bb5-fa31-4e3c-825a-61d6e9b8dcaf",
+      "name": "pellets",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Maní - Destino industrial",
+  "type": "dataset",
+  "url": "https://datos.agroindustria.gob.ar/dataset/mani-con-destino-industria",
+  "version": null
+}

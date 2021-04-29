@@ -1,0 +1,363 @@
+{
+  "author": "Coordinación de Warrants y Certificados de Depósito",
+  "author_email": "warrants@magyp.gob.ar",
+  "creator_user_id": "dc157489-51c6-44ce-bd63-3bd983d60778",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P1M"
+    },
+    {
+      "key": "issued",
+      "value": "2018-12-07T21:22:16.287982"
+    },
+    {
+      "key": "language",
+      "value": "[\"spa\"]"
+    },
+    {
+      "key": "modified",
+      "value": "2019-07-04T15:15:32.355171"
+    },
+    {
+      "key": "spatial",
+      "value": "[\"ARG\"]"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"AGRI\", \"ECON\"]"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Agroganadería, pesca y forestación",
+      "display_name": "Agroganadería, pesca y forestación",
+      "id": "0c35ea38-7059-41d2-9827-5587769d0dc6",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225145.990789agroganaderia-pesca-forestacion.svg",
+      "name": "agri",
+      "title": "Agroganadería, pesca y forestación"
+    },
+    {
+      "description": "Economía y finanzas",
+      "display_name": "Economía y finanzas",
+      "id": "60b4b03e-10a1-4d67-b984-08008a249617",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225257.200233economia-finanzas.svg",
+      "name": "econ",
+      "title": "Economía y finanzas"
+    }
+  ],
+  "id": "agroindustria_8db61fea-b869-4451-a76a-1918ce590277",
+  "isopen": true,
+  "license_id": "ODbL-1.0",
+  "license_title": "Open Data Commons Open Database License 1.0 (ODbL)",
+  "license_url": "https://opendefinition.org/licenses/odc-odbl",
+  "maintainer": "Coordinación de Warrants y Certificados de Depósito",
+  "maintainer_email": "warrants@magyp.gob.ar",
+  "metadata_created": "2019-12-04T20:00:51.872221",
+  "metadata_modified": "2021-04-29T17:16:19.203502",
+  "name": "agroindustria-warrants---lista-certificados-vigentes",
+  "notes": "Warrants - Evolución de certificados vigentes desagregados por los principales productos y provincias. Datos correspondientes al año 2017.",
+  "num_resources": 2,
+  "num_tags": 32,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:07.834957",
+    "description": "",
+    "id": "b10c94e2-ade1-4a97-8c4c-b1ada7878d60",
+    "image_url": "",
+    "is_organization": true,
+    "name": "agroindustria",
+    "revision_id": "f7c3b6e9-d48f-4522-9f7a-388d805c8392",
+    "state": "active",
+    "title": "Ministerio de Agricultura, Ganadería y Pesca",
+    "type": "organization"
+  },
+  "owner_org": "b10c94e2-ade1-4a97-8c4c-b1ada7878d60",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "http://datos.agroindustria.gob.ar/dataset/8db61fea-b869-4451-a76a-1918ce590277/resource/7f98b672-cdcc-4533-b458-4490dae811df",
+      "attributesDescription": "[{\"type\": \"integer\", \"description\": \"pais_id\", \"title\": \"pais_id\"}, {\"type\": \"string\", \"description\": \"pais\", \"title\": \"pais\"}, {\"type\": \"integer\", \"description\": \"a\\u0144o\", \"title\": \"a\\u0144o\"}, {\"type\": \"string\", \"description\": \"mes\", \"title\": \"mes\"}, {\"type\": \"string\", \"description\": \"id_moneda\", \"title\": \"id_moneda\"}, {\"type\": \"string\", \"description\": \"moneda\", \"title\": \"moneda\"}, {\"type\": \"number\", \"description\": \"prod_agroalimentarios\", \"title\": \"prod_agroalimentarios\"}, {\"type\": \"number\", \"description\": \"prod_agroindustriales\", \"title\": \"prod_agroindustriales\"}, {\"type\": \"number\", \"description\": \"otros productos\", \"title\": \"otros productos\"}, {\"type\": \"number\", \"description\": \"total_USD\", \"title\": \"total_USD\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2018-07-16T11:56:17.134923",
+      "datastore_active": false,
+      "description": "Total de evolución anual de warrants vigentes, distinguido por productos agroalimentarios y agroindustriales, del año 2017.",
+      "fileName": "totalwarrantsvigentesproducto2017.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "agroindustria_7f98b672-cdcc-4533-b458-4490dae811df",
+      "last_modified": "2019-01-24T12:01:49.512287",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Total Warrants Vigentes por Producto 2017",
+      "package_id": "agroindustria_8db61fea-b869-4451-a76a-1918ce590277",
+      "position": 0,
+      "resource_type": "file.upload",
+      "revision_id": "f0f75c1c-3d50-4d1a-bd6d-04de679e6019",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.agroindustria.gob.ar/dataset/8db61fea-b869-4451-a76a-1918ce590277/resource/7f98b672-cdcc-4533-b458-4490dae811df/download/total-warrants-vigentes-producto-2017-.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos.agroindustria.gob.ar/dataset/8db61fea-b869-4451-a76a-1918ce590277/archivo/790b9ff6-2a8c-4d85-b02b-f3def6078115",
+      "attributesDescription": "[{\"type\": \"integer\", \"description\": \"pais_id\", \"title\": \"pais_id\"}, {\"type\": \"string\", \"description\": \"pais\", \"title\": \"pais\"}, {\"type\": \"integer\", \"description\": \"a\\u0144o\", \"title\": \"a\\u0144o\"}, {\"type\": \"string\", \"description\": \"provincia\", \"title\": \"provincia\"}, {\"type\": \"string\", \"description\": \"id_moneda\", \"title\": \"id_moneda\"}, {\"type\": \"string\", \"description\": \"moneda\", \"title\": \"moneda\"}, {\"type\": \"number\", \"description\": \"enero\", \"title\": \"enero\"}, {\"type\": \"number\", \"description\": \"febrero\", \"title\": \"febrero\"}, {\"type\": \"number\", \"description\": \"marzo\", \"title\": \"marzo\"}, {\"type\": \"number\", \"description\": \"abril\", \"title\": \"abril\"}, {\"type\": \"number\", \"description\": \"mayo\", \"title\": \"mayo\"}, {\"type\": \"number\", \"description\": \"junio\", \"title\": \"junio\"}, {\"type\": \"number\", \"description\": \"julio\", \"title\": \"julio\"}, {\"type\": \"number\", \"description\": \"agosto\", \"title\": \"agosto\"}, {\"type\": \"number\", \"description\": \"septiembre\", \"title\": \"septiembre\"}, {\"type\": \"number\", \"description\": \"octubre\", \"title\": \"octubre\"}, {\"type\": \"number\", \"description\": \"noviembre\", \"title\": \"noviembre\"}, {\"type\": \"number\", \"description\": \"diciembre\", \"title\": \"diciembre\"}, {\"type\": \"number\", \"description\": \"total_USD\", \"title\": \"total_USD\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2018-07-16T12:00:00.735848",
+      "datastore_active": false,
+      "description": "Total de evolución anual de warrants vigentes, distinguido por provincias, del año 2017.",
+      "fileName": "total-warrants-vigentes-provincia-2017-.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "agroindustria_790b9ff6-2a8c-4d85-b02b-f3def6078115",
+      "last_modified": "2019-07-12T14:20:31.203356",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Total Warrants Vigentes por Provincia 2017",
+      "package_id": "agroindustria_8db61fea-b869-4451-a76a-1918ce590277",
+      "position": 1,
+      "resource_type": "file.upload",
+      "revision_id": "775c90b2-aa15-4f30-8a5a-f91da811a0e1",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.agroindustria.gob.ar/dataset/8db61fea-b869-4451-a76a-1918ce590277/resource/790b9ff6-2a8c-4d85-b02b-f3def6078115/download/total-warrants-vigentes-provincia-2017-.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "83edba19-a40e-469a-b45b-d4d5cad59d72",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "Buenos Aires",
+      "id": "a64d8bda-865a-4f0d-ba0c-5cc2adfda147",
+      "name": "Buenos Aires",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Catamarca",
+      "id": "390c55ad-fe7d-4606-8f08-85269de97b38",
+      "name": "Catamarca",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Chaco",
+      "id": "e3286e11-fc9b-4fd8-a16a-228328eac19f",
+      "name": "Chaco",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Chubut",
+      "id": "31b31a0b-5ecb-4c09-a842-53ba71128475",
+      "name": "Chubut",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Cordoba",
+      "id": "61f8d014-bdf2-46c7-9bd0-873845dbcb45",
+      "name": "Cordoba",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Corrientes",
+      "id": "f2038a5f-e254-4f51-8f4f-069ae50c7ddb",
+      "name": "Corrientes",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Entre Rios",
+      "id": "dafa5658-21a0-4b67-8a5b-cc8a286f2b8e",
+      "name": "Entre Rios",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Jujuy",
+      "id": "e840e4eb-4243-4d8d-bf13-b8a068f04e1a",
+      "name": "Jujuy",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "La Pampa",
+      "id": "964ccb10-2ecc-4944-a4c2-7c5d705b46c2",
+      "name": "La Pampa",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "La Rioja",
+      "id": "467b4f8d-c7d4-4a22-9241-133e5e00a8ae",
+      "name": "La Rioja",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Mendoza",
+      "id": "57a86743-2e26-4f17-8ae7-760d624e890a",
+      "name": "Mendoza",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Misiones",
+      "id": "88b01243-8df4-423f-a7e7-c816d3c59cfc",
+      "name": "Misiones",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Neuquen",
+      "id": "0cf4c882-0cb3-41fa-85ef-38281c1ad1e0",
+      "name": "Neuquen",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Rio Negro",
+      "id": "a56b9614-45b0-4d1e-9b47-f1cd8f8d094c",
+      "name": "Rio Negro",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Salta",
+      "id": "75690a55-6ca2-4952-ad7f-fa5b6ed4f22b",
+      "name": "Salta",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "San Juan",
+      "id": "7b962c68-4dc2-4cad-81cb-7e0a90e1fdd0",
+      "name": "San Juan",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "San Luis",
+      "id": "4087bdaf-26bb-414f-9169-774a945962f3",
+      "name": "San Luis",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Santa Cruz",
+      "id": "3a0df385-9ffa-4459-89ea-6d34d051dd98",
+      "name": "Santa Cruz",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Santa Fe",
+      "id": "a0d13c88-5e93-4639-abd6-639c3eba7100",
+      "name": "Santa Fe",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Santiago del Estero",
+      "id": "ed368a40-734b-40e7-be46-e8d526d1b88b",
+      "name": "Santiago del Estero",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Tierra del Fuego",
+      "id": "b3233b60-f44f-40e2-9aa4-9b77a35437e6",
+      "name": "Tierra del Fuego",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Tucuman",
+      "id": "c4f94e25-88ee-4c01-900e-acc053f936b6",
+      "name": "Tucuman",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "agroalimentario",
+      "id": "9f15e2d9-100a-4bd3-b76b-71067efa34a7",
+      "name": "agroalimentario",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "agroindustrial",
+      "id": "9275c8e3-e804-41fa-9e7c-44328901eaa6",
+      "name": "agroindustrial",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "certificados",
+      "id": "668880a7-432c-4f2e-99e8-9ef6743ec5d1",
+      "name": "certificados",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "depositos",
+      "id": "2d5009e7-fade-40ea-bebc-ee204f691004",
+      "name": "depositos",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "dolares",
+      "id": "55b8c4d9-c06e-4866-be27-b8cb063f0cec",
+      "name": "dolares",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "emitidos",
+      "id": "95f332e0-36ec-4063-b238-3f541e29eaa1",
+      "name": "emitidos",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "estadistica",
+      "id": "034dbd7b-b160-46d3-9327-4b05fb3924d1",
+      "name": "estadistica",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "producto",
+      "id": "3eb6d812-1c77-4952-9d03-09850b074d9b",
+      "name": "producto",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "vigente",
+      "id": "2386c9f0-7020-44c4-95f8-c8e017ea167a",
+      "name": "vigente",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "warrants",
+      "id": "77c49ff1-46fb-4026-a33d-6f6bfe54989b",
+      "name": "warrants",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Warrants - Lista de certificados vigentes",
+  "type": "dataset",
+  "url": "https://datos.agroindustria.gob.ar/dataset/warrants---lista-certificados-vigentes",
+  "version": null
+}

@@ -1,0 +1,140 @@
+{
+  "author": "Dirección General Ambiental",
+  "author_email": null,
+  "creator_user_id": "dc157489-51c6-44ce-bd63-3bd983d60778",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P6M"
+    },
+    {
+      "key": "issued",
+      "value": "2019-11-22T15:48:53.250747"
+    },
+    {
+      "key": "modified",
+      "value": "2019-11-22T15:48:53.250747"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"ENVI\"]"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Medio ambiente",
+      "display_name": "Medio ambiente",
+      "id": "f71fe9d7-c703-43be-8d9d-af9441c326ba",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225440.964279medio-ambiente.svg",
+      "name": "envi",
+      "title": "Medio ambiente"
+    }
+  ],
+  "id": "acumar_5a693eb2-0dab-49f4-b6b3-493271ebd17e",
+  "isopen": true,
+  "license_id": "ODbL-1.0",
+  "license_title": "Open Data Commons Open Database License 1.0 (ODbL)",
+  "license_url": "https://opendefinition.org/licenses/odc-odbl",
+  "maintainer": null,
+  "maintainer_email": null,
+  "metadata_created": "2019-12-04T20:03:36.685197",
+  "metadata_modified": "2021-04-29T17:11:59.917925",
+  "name": "acumar-limpieza-basurales-espejo-agua-cmr",
+  "notes": "Datos generados correspondientes a la actividad de limpieza de basurales y del espejo de agua del Río Matanza Riachuelo.\r\n\r\n",
+  "num_resources": 1,
+  "num_tags": 6,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:10.306987",
+    "description": "",
+    "id": "1b6b28cd-098f-41d7-b43f-d5a01ffa8759",
+    "image_url": "",
+    "is_organization": true,
+    "name": "acumar",
+    "revision_id": "0e2a184d-b675-43ae-b2dd-e1ed0c459c04",
+    "state": "active",
+    "title": "Autoridad de Cuenca Matanza Riachuelo",
+    "type": "organization"
+  },
+  "owner_org": "1b6b28cd-098f-41d7-b43f-d5a01ffa8759",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "http://datos.acumar.gob.ar/dataset/5a693eb2-0dab-49f4-b6b3-493271ebd17e/resource/425b9692-7c20-4b3a-9a8a-6a2722c1c549",
+      "attributesDescription": "[{\"type\": \"string\", \"description\": \"Mes del a\\u00f1o correspondiente al registro.\", \"title\": \"mes\"}, {\"type\": \"integer\", \"description\": \"A\\u00f1o correspondiente al registro.\", \"title\": \"a\\u00f1o\"}, {\"type\": \"number\", \"description\": \"Suma de las toneladas retiradas seg\\u00fan los renglones 1,2 y 4 del acuerdo para la limpieza de basurales en la CMR.\", \"title\": \"tn_retiradas_basurales\"}, {\"type\": \"number\", \"description\": \"Cantidad de residuos retirados mensualmente del espejo de agua .\\n\", \"title\": \"tn_retiradas_espejo\"}, {\"type\": \"number\", \"description\": \"Toneladas totales retiradas en la CMR.\", \"title\": \"tn_retiradas_totales\"}, {\"type\": \"number\", \"description\": \"Promedio de toneladas totales retiradas por mes.\", \"title\": \"tn_retiradas_promedio\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-11-22T15:56:45.466023",
+      "datastore_active": false,
+      "description": "Detalle de las toneladas retiradas de la CMR desde 2017 hasta Octubre 2019",
+      "fileName": "tn_retiradas_CMR_Nov2019.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "acumar_425b9692-7c20-4b3a-9a8a-6a2722c1c549",
+      "last_modified": "2019-11-22T15:56:45.466023",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Toneladas de residuos retiradas de la Cuenca Matanza Riachuelo 2017-2019",
+      "package_id": "acumar_5a693eb2-0dab-49f4-b6b3-493271ebd17e",
+      "position": 0,
+      "resource_type": "file.upload",
+      "revision_id": "52bea764-eb70-4cc8-ac9d-d36533686799",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.acumar.gob.ar/dataset/5a693eb2-0dab-49f4-b6b3-493271ebd17e/resource/425b9692-7c20-4b3a-9a8a-6a2722c1c549/download/tn_retiradas_cmr_nov2019.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "a381b6d9-184f-4f6a-b949-8bb2ca869361",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "Basurales",
+      "id": "7544f037-4dcd-49bb-a782-986418f7f9a7",
+      "name": "Basurales",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Cuenca Matanza Riachuelo",
+      "id": "27746378-5ea2-42aa-a35a-68ebd21b56cc",
+      "name": "Cuenca Matanza Riachuelo",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Espejo de Agua",
+      "id": "7560c79a-6125-41cd-82d9-a75019a0659b",
+      "name": "Espejo de Agua",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Residuos",
+      "id": "44611997-f7be-4839-a5a3-26424734761f",
+      "name": "Residuos",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Toneladas Retiradas",
+      "id": "ce915bb6-e5f1-4695-bca8-7085f69d98df",
+      "name": "Toneladas Retiradas",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Transparencia",
+      "id": "21a0e417-6815-4adf-aaf4-0d8a71309d0c",
+      "name": "Transparencia",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Limpieza de Basurales y Espejo de Agua de la CMR",
+  "type": "dataset",
+  "url": "http://datos.acumar.gob.ar/dataset/limpieza-de-basurales-y-espejo-de-agua-de-la-cmr",
+  "version": null
+}

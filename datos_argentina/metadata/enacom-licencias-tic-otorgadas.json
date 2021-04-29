@@ -1,0 +1,159 @@
+{
+  "author": "Ente Nacional de Comunicaciones (ENACOM)",
+  "author_email": "contacto@enacom.gob.ar",
+  "creator_user_id": "4720e75a-9e17-4dc3-879d-041917c7f9f9",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P1Y"
+    },
+    {
+      "key": "issued",
+      "value": "2017-12-21T14:38:16"
+    },
+    {
+      "key": "language",
+      "value": "[\"spa\"]"
+    },
+    {
+      "key": "modified",
+      "value": "2019-11-08T22:09:05Z"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"TECH\"]"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Ciencia y tecnología",
+      "display_name": "Ciencia y tecnología",
+      "id": "0dd7dd0e-aae8-402f-8660-f1e8b6b6084c",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225221.170833ciencia-tecnologia.svg",
+      "name": "tech",
+      "title": "Ciencia y tecnología"
+    }
+  ],
+  "id": "enacom_LICEN-TIC-OTORG",
+  "isopen": false,
+  "license_id": "notspecified",
+  "license_title": "No se especificó la licencia",
+  "maintainer": null,
+  "maintainer_email": null,
+  "metadata_created": "2019-11-26T14:55:27.877277",
+  "metadata_modified": "2021-04-29T17:04:28.325288",
+  "name": "enacom-licencias-tic-otorgadas",
+  "notes": "Licencias TIC otorgadas por ENACOM",
+  "num_resources": 3,
+  "num_tags": 2,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:07.525331",
+    "description": "",
+    "id": "6eb7d19b-2d42-494f-8e57-d67c501d23eb",
+    "image_url": "",
+    "is_organization": true,
+    "name": "enacom",
+    "revision_id": "f2d2a5ad-7015-4d68-9d9c-5a82fadbbbf3",
+    "state": "active",
+    "title": "Ente Nacional de Comunicaciones",
+    "type": "organization"
+  },
+  "owner_org": "6eb7d19b-2d42-494f-8e57-d67c501d23eb",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/244212/licencias-tic-otorgadas/",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-12-21T14:38:16",
+      "datastore_active": false,
+      "description": "Licencias TIC otorgadas por ENACOM",
+      "format": "CSV",
+      "hash": "",
+      "id": "enacom_LICEN-TIC-OTORG_0",
+      "last_modified": "2019-11-08T19:09:05",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Licencias TIC otorgadas",
+      "package_id": "enacom_LICEN-TIC-OTORG",
+      "position": 0,
+      "resource_type": null,
+      "revision_id": "57fbe20b-4717-48e4-b9fb-b8c533b3713b",
+      "size": null,
+      "state": "active",
+      "url": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/LICEN-TIC-OTORG/data.csv?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/244212/licencias-tic-otorgadas/",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-12-21T14:38:16",
+      "datastore_active": false,
+      "description": "Licencias TIC otorgadas por ENACOM",
+      "format": "XLS",
+      "hash": "",
+      "id": "enacom_LICEN-TIC-OTORG_1",
+      "last_modified": "2019-11-08T19:09:05",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Licencias TIC otorgadas",
+      "package_id": "enacom_LICEN-TIC-OTORG",
+      "position": 1,
+      "resource_type": null,
+      "revision_id": "d3093922-e976-4a61-b1e5-829da9adab83",
+      "size": null,
+      "state": "active",
+      "url": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/LICEN-TIC-OTORG/data.xls?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/244212/licencias-tic-otorgadas/",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-12-21T14:38:16",
+      "datastore_active": false,
+      "description": "Licencias TIC otorgadas por ENACOM",
+      "format": "JSON",
+      "hash": "",
+      "id": "enacom_LICEN-TIC-OTORG_2",
+      "last_modified": "2019-11-08T19:09:05",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Licencias TIC otorgadas",
+      "package_id": "enacom_LICEN-TIC-OTORG",
+      "position": 2,
+      "resource_type": null,
+      "revision_id": "09d77811-aed3-4c7e-a93f-5679b2e98ebf",
+      "size": null,
+      "state": "active",
+      "url": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/LICEN-TIC-OTORG/data.json?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1",
+      "url_type": null
+    }
+  ],
+  "revision_id": "09d77811-aed3-4c7e-a93f-5679b2e98ebf",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "Licencias",
+      "id": "c87a16c9-6013-4d51-8ea9-d09d9b76300f",
+      "name": "Licencias",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "licencias",
+      "id": "d2d00e8b-dd28-49e6-8f61-54908fe97ea2",
+      "name": "licencias",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Licencias TIC otorgadas",
+  "type": "dataset",
+  "url": "http://api.datosabiertos.enacom.gob.ar/dataset/enacom-licencias-tic-otorgadas",
+  "version": null
+}

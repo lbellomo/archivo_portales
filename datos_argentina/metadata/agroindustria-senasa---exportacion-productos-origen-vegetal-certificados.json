@@ -1,0 +1,145 @@
+{
+  "author": "Servicio Nacional de Sanidad y Calidad Agroalimentaria - SENASA",
+  "author_email": "certificacion@senasa.gob.ar",
+  "creator_user_id": "dc157489-51c6-44ce-bd63-3bd983d60778",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P1M"
+    },
+    {
+      "key": "issued",
+      "value": "2020-07-06T14:03:48.537464"
+    },
+    {
+      "key": "language",
+      "value": "[\"spa\"]"
+    },
+    {
+      "key": "modified",
+      "value": "2020-07-06T14:03:48.537464"
+    },
+    {
+      "key": "source",
+      "value": "Servicio Nacional de Sanidad y Calidad Agroalimentaria - SENASA"
+    },
+    {
+      "key": "spatial",
+      "value": "[\"ARG\"]"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"AGRI\"]"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Agroganadería, pesca y forestación",
+      "display_name": "Agroganadería, pesca y forestación",
+      "id": "0c35ea38-7059-41d2-9827-5587769d0dc6",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225145.990789agroganaderia-pesca-forestacion.svg",
+      "name": "agri",
+      "title": "Agroganadería, pesca y forestación"
+    }
+  ],
+  "id": "agroindustria_f4accb3a-3d8a-4135-ac1c-a59c440d1354",
+  "isopen": true,
+  "license_id": "CC-BY-4.0",
+  "license_title": "Creative Commons Attribution 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "maintainer": "Dirección de Comercio Exterior Vegetal",
+  "maintainer_email": "certificacion@senasa.gob.ar",
+  "metadata_created": "2020-12-04T16:39:14.476115",
+  "metadata_modified": "2021-04-29T17:16:00.858738",
+  "name": "agroindustria-senasa---exportacion-productos-origen-vegetal-certificados",
+  "notes": "Datos de exportaciones de origen vegetal con certificación fitosanitario emitiodos por Senasa.",
+  "num_resources": 1,
+  "num_tags": 5,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:07.834957",
+    "description": "",
+    "id": "b10c94e2-ade1-4a97-8c4c-b1ada7878d60",
+    "image_url": "",
+    "is_organization": true,
+    "name": "agroindustria",
+    "revision_id": "f7c3b6e9-d48f-4522-9f7a-388d805c8392",
+    "state": "active",
+    "title": "Ministerio de Agricultura, Ganadería y Pesca",
+    "type": "organization"
+  },
+  "owner_org": "b10c94e2-ade1-4a97-8c4c-b1ada7878d60",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "http://datos.agroindustria.gob.ar/dataset/f4accb3a-3d8a-4135-ac1c-a59c440d1354/resource/a40bae1b-7621-463e-9f88-5566068ff9ac",
+      "attributesDescription": "[{\"type\": \"time\", \"title\": \"fecha\"}, {\"type\": \"string\", \"description\": \"Oficina de Senasa en donde se registro.\", \"title\": \"oficina_cf\"}, {\"type\": \"string\", \"description\": \"Nombre de la provincia en donde se encuentra la oficina de Senasa.\", \"title\": \"provincia\"}, {\"type\": \"integer\", \"description\": \"C\\u00f3digo de la provincia.\", \"title\": \"provincia_id\"}, {\"type\": \"string\", \"description\": \"Nombre del pa\\u00eds a donde se destino la mercader\\u00eda.\", \"title\": \"pais_destino\"}, {\"type\": \"integer\", \"description\": \"C\\u00f3digo del pa\\u00eds seg\\u00fan nomenclador Indec.\", \"title\": \"pais_destino_id\"}, {\"type\": \"string\", \"description\": \"C\\u00f3digo del pa\\u00eds seg\\u00fan nomenclador ISO-3166-1.\", \"title\": \"pais_desitno_id_iso_3166_1\"}, {\"type\": \"string\", \"description\": \"Nombre del continente a donde se destino la mercader\\u00eda.\", \"title\": \"continente\"}, {\"type\": \"string\", \"description\": \"Descripci\\u00f3n del producto declarado.\", \"title\": \"mercaderia_certificada\"}, {\"type\": \"string\", \"description\": \"Tipo de transporte empleado.\", \"title\": \"transporte\"}, {\"type\": \"number\", \"description\": \"Cantidad de toneladas exportadas.\", \"title\": \"tn\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2020-07-06T10:02:27.924653",
+      "datastore_active": false,
+      "description": "Datos de las exportaciones 2020 de origen vegetal certificadas, con detalle de: fecha, oficina certificante, país de destino, mercadería certificada, medio de transporte y toneladas.",
+      "fileName": "expo-2020-vegetales-certificados-senasa.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "agroindustria_a40bae1b-7621-463e-9f88-5566068ff9ac",
+      "last_modified": "2020-07-10T20:51:30.959830",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Exportaciones vegetales certificads 2020",
+      "package_id": "agroindustria_f4accb3a-3d8a-4135-ac1c-a59c440d1354",
+      "position": 0,
+      "resource_type": "file.upload",
+      "revision_id": "7c0a4e95-264f-4d35-88e9-667315070bc7",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.agroindustria.gob.ar/dataset/f4accb3a-3d8a-4135-ac1c-a59c440d1354/resource/a40bae1b-7621-463e-9f88-5566068ff9ac/download/expo-2020-vegetales-certificados-senasa.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "7c0a4e95-264f-4d35-88e9-667315070bc7",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "certificación fitosanitaria",
+      "id": "3acd72e4-2317-487d-9bb7-612f8f6c71c2",
+      "name": "certificación fitosanitaria",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "certificada",
+      "id": "e5c8d238-43b5-4be9-97e5-8ba354bd688d",
+      "name": "certificada",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "exportaciones",
+      "id": "b031f9a3-080d-41b1-ada8-7c7d000f35d1",
+      "name": "exportaciones",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "senasa",
+      "id": "b5b00d0b-a66a-4e6a-ae50-58f69b0fa328",
+      "name": "senasa",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "vegetales",
+      "id": "5e157b0f-6e4c-48ef-b960-c67a20b53215",
+      "name": "vegetales",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "SENASA - Exportación de productos de origen vegetal certificados",
+  "type": "dataset",
+  "url": "https://datos.agroindustria.gob.ar/dataset/senasa-exportacion-de-productos-de-origen-vegetal-certificados",
+  "version": null
+}

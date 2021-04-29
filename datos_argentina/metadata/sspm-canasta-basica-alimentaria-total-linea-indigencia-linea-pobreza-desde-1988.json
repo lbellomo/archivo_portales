@@ -1,0 +1,181 @@
+{
+  "author": "Subsecretaría de Programación Macroeconómica",
+  "author_email": "datoseconomicos@mecon.gov.ar",
+  "creator_user_id": "4720e75a-9e17-4dc3-879d-041917c7f9f9",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P1M"
+    },
+    {
+      "key": "issued",
+      "value": "2017-09-28"
+    },
+    {
+      "key": "language",
+      "value": "[\"SPA\"]"
+    },
+    {
+      "key": "source",
+      "value": "Instituto Nacional de Estadística y Censos (INDEC)"
+    },
+    {
+      "key": "spatial",
+      "value": "ARG"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"ECON\"]"
+    },
+    {
+      "key": "temporal",
+      "value": "1988-01-01/2007-01-01"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Economía y finanzas",
+      "display_name": "Economía y finanzas",
+      "id": "60b4b03e-10a1-4d67-b984-08008a249617",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225257.200233economia-finanzas.svg",
+      "name": "econ",
+      "title": "Economía y finanzas"
+    }
+  ],
+  "id": "sspm_59",
+  "isopen": true,
+  "license_id": "CC-BY-4.0",
+  "license_title": "Creative Commons Attribution 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "maintainer": "Subsecretaría de Programación Macroeconómica.",
+  "maintainer_email": "datoseconomicos@mecon.gov.ar",
+  "metadata_created": "2019-11-26T15:04:54.407761",
+  "metadata_modified": "2021-04-29T17:04:44.181139",
+  "name": "sspm-canasta-basica-alimentaria-total-linea-indigencia-linea-pobreza-desde-1988",
+  "notes": "Valores de la Canasta Básica de Alimentos (CBA) y de la Canasta Básica Total (CBT) para el adulto equivalente, y Linea de Indigencia (LI) y Línea de Pobreza (LP) para la familia tipo. Aglomerado Gran Buenos Aires. En pesos corrientes desde 1988",
+  "num_resources": 3,
+  "num_tags": 3,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:09.718132",
+    "description": "",
+    "id": "68f9ee22-5ec3-44cf-a32b-b87d9db46b93",
+    "image_url": "",
+    "is_organization": true,
+    "name": "sspm",
+    "revision_id": "bc058ce0-3540-4204-96cd-9f9ec79045b3",
+    "state": "active",
+    "title": "Subsecretaría de Programación Macroeconómica",
+    "type": "organization"
+  },
+  "owner_org": "68f9ee22-5ec3-44cf-a32b-b87d9db46b93",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/",
+      "attributesDescription": "[{\"title\": \"indice_tiempo\", \"type\": \"date\", \"specialType\": \"time_index\", \"specialTypeDetail\": \"R/P3M\", \"id\": \"59.2_IT_0_D_13\", \"scrapingIdentifierCell\": \"I12\", \"scrapingDataStartCell\": \"I13\", \"dataset_identifier\": \"59\", \"distribution_identifier\": \"59.2\"}, {\"title\": \"canasta_basica_alimentaria\", \"type\": \"number\", \"description\": \"Canasta b\\u00e1sica alimentaria desde 2000 hasta 2006. Pesos corrientes.\", \"id\": \"59.2_CBA_0_D_26\", \"scrapingIdentifierCell\": \"J12\", \"scrapingDataStartCell\": \"J13\", \"units\": \"Pesos corrientes\", \"dataset_identifier\": \"59\", \"distribution_identifier\": \"59.2\"}, {\"title\": \"canasta_basica_total\", \"type\": \"number\", \"description\": \"Canasta b\\u00e1sica total desde 2000 hasta 2006. Pesos corrientes.\", \"id\": \"59.2_CBT_0_D_20\", \"scrapingIdentifierCell\": \"K12\", \"scrapingDataStartCell\": \"K13\", \"units\": \"Pesos corrientes\", \"dataset_identifier\": \"59\", \"distribution_identifier\": \"59.2\"}, {\"title\": \"linea_indigencia\", \"type\": \"number\", \"description\": \"L\\u00ednea de indigencia desde 2000 hasta 2006. Pesos corrientes.\", \"id\": \"59.2_LI_0_D_16\", \"scrapingIdentifierCell\": \"L12\", \"scrapingDataStartCell\": \"L13\", \"units\": \"Pesos corrientes\", \"dataset_identifier\": \"59\", \"distribution_identifier\": \"59.2\"}, {\"title\": \"linea_pobreza\", \"type\": \"number\", \"description\": \"L\\u00ednea de pobreza desde 2000 hasta 2006. Pesos corrientes.\", \"id\": \"59.2_LP_0_D_13\", \"scrapingIdentifierCell\": \"M12\", \"scrapingDataStartCell\": \"M13\", \"units\": \"Pesos corrientes\", \"dataset_identifier\": \"59\", \"distribution_identifier\": \"59.2\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-09-28T00:00:00",
+      "datastore_active": false,
+      "description": "Valores de CBA y CBT para el adulto equivalente, y LI y LP para la familia tipo. Aglomerado GBA. Valores trimestrales en pesos corrientes desde 1988",
+      "fileName": "canasta-basica-alimentaria-gba-valores-trimestrales-pesos-corrientes-desde-1988.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "sspm_59.2",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Canasta Básica Alimentaria y Total por adulto equivalente, y Lineas de indigencia y pobreza desde 1988. GBA. Pesos corrientes. Valores mensuales",
+      "package_id": "sspm_59",
+      "position": 0,
+      "resource_type": null,
+      "revision_id": "5ce027e5-95c7-4656-9a83-a4b7f916e117",
+      "size": null,
+      "state": "active",
+      "url": "https://infra.datos.gob.ar/catalog/sspm/dataset/59/distribution/59.2/download/canasta-basica-alimentaria-gba-valores-trimestrales-pesos-corrientes-desde-1988.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/",
+      "attributesDescription": "[{\"title\": \"indice_tiempo\", \"type\": \"date\", \"specialType\": \"time_index\", \"specialTypeDetail\": \"R/P6M\", \"id\": \"59.3_ICE_TIEMPO_0_0_13\", \"scrapingIdentifierCell\": \"A22\", \"scrapingDataStartCell\": \"A23\", \"dataset_identifier\": \"59\", \"distribution_identifier\": \"59.3\"}, {\"title\": \"canasta_basica_alimentaria\", \"type\": \"number\", \"description\": \"Canasta b\\u00e1sica alimentaria en pesos corrientes desde 1992 hasta 2000\", \"id\": \"59.3_CSTA_BARIA_0_0_26\", \"scrapingIdentifierCell\": \"C22\", \"scrapingDataStartCell\": \"C23\", \"units\": \"Pesos corrientes\", \"dataset_identifier\": \"59\", \"distribution_identifier\": \"59.3\"}, {\"title\": \"inversa_coeficiente_engel\", \"type\": \"number\", \"description\": \"\\u00cdndice de Coeficiente de Engel desde 1992 hasta 2000\", \"id\": \"59.3_IRSA_COGEL_0_0_25\", \"scrapingIdentifierCell\": \"D22\", \"scrapingDataStartCell\": \"D23\", \"units\": \"Pesos corrientes\", \"dataset_identifier\": \"59\", \"distribution_identifier\": \"59.3\"}, {\"title\": \"canasta_basica_total\", \"type\": \"number\", \"description\": \"Canasta b\\u00e1sica total en pesos corrientes desde 1992 hasta 2000\", \"id\": \"59.3_CSTA_BATAL_0_0_20\", \"scrapingIdentifierCell\": \"E22\", \"scrapingDataStartCell\": \"E23\", \"units\": \"Pesos corrientes\", \"dataset_identifier\": \"59\", \"distribution_identifier\": \"59.3\"}, {\"title\": \"linea_indigencia\", \"type\": \"number\", \"description\": \"L\\u00ednea de indigencia en pesos corrientes desde 1992 hasta 2000\", \"id\": \"59.3_LA_INDICIA_0_0_16\", \"scrapingIdentifierCell\": \"F22\", \"scrapingDataStartCell\": \"F23\", \"units\": \"Pesos corrientes\", \"dataset_identifier\": \"59\", \"distribution_identifier\": \"59.3\"}, {\"title\": \"linea_pobreza\", \"type\": \"number\", \"description\": \"L\\u00ednea de pobreza en pesos corrientes desde 1992 hasta 2000\", \"id\": \"59.3_LA_POBREZA_0_0_13\", \"scrapingIdentifierCell\": \"G22\", \"scrapingDataStartCell\": \"G23\", \"units\": \"Pesos corrientes\", \"dataset_identifier\": \"59\", \"distribution_identifier\": \"59.3\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-09-28T00:00:00",
+      "datastore_active": false,
+      "description": "Valores de CBA y CBT para el adulto equivalente, y LI y LP para la familia tipo. Aglomerado GBA. Valores trimestrales en pesos corrientes desde 1988",
+      "fileName": "canasta-basica-alimentaria-gba-valores-semestrales-pesos-corrientes-desde-1992.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "sspm_59.3",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Canasta Básica Alimentaria y Total por adulto equivalente, y Lineas de indigencia y pobreza desde 1992. GBA. Pesos corrientes. Valores mensuales",
+      "package_id": "sspm_59",
+      "position": 1,
+      "resource_type": null,
+      "revision_id": "5ce027e5-95c7-4656-9a83-a4b7f916e117",
+      "size": null,
+      "state": "active",
+      "url": "https://infra.datos.gob.ar/catalog/sspm/dataset/59/distribution/59.3/download/canasta-basica-alimentaria-gba-valores-semestrales-pesos-corrientes-desde-1992.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/",
+      "attributesDescription": "[{\"title\": \"indice_tiempo\", \"type\": \"number\", \"specialType\": \"time_index\", \"specialTypeDetail\": \"R/P1M\", \"id\": \"59.4_ICE_TIEMPO_0_0_13\", \"scrapingIdentifierCell\": \"A41\", \"scrapingDataStartCell\": \"A42\", \"dataset_identifier\": \"59\", \"distribution_identifier\": \"59.4\"}, {\"title\": \"canasta_basica_alimentaria\", \"type\": \"number\", \"description\": \"Canasta b\\u00e1sica alimentaria en pesos corrientes desde 2000 hasta 2000\", \"id\": \"59.4_CSTA_BARIA_0_0_26\", \"scrapingIdentifierCell\": \"C41\", \"scrapingDataStartCell\": \"C42\", \"units\": \"Pesos corrientes\", \"dataset_identifier\": \"59\", \"distribution_identifier\": \"59.4\"}, {\"title\": \"inversa_coeficiente_engel\", \"type\": \"number\", \"description\": \"\\u00cdndice de Coeficiente de Engel desde 2000 hasta 2000\", \"id\": \"59.4_IRSA_COGEL_0_0_25\", \"scrapingIdentifierCell\": \"D41\", \"scrapingDataStartCell\": \"D42\", \"units\": \"Pesos corrientes\", \"dataset_identifier\": \"59\", \"distribution_identifier\": \"59.4\"}, {\"title\": \"canasta_basica_total\", \"type\": \"number\", \"description\": \"Canasta b\\u00e1sica total en pesos corrientes desde 2000 hasta 2000\", \"id\": \"59.4_CSTA_BATAL_0_0_20\", \"scrapingIdentifierCell\": \"E41\", \"scrapingDataStartCell\": \"E42\", \"units\": \"Pesos corrientes\", \"dataset_identifier\": \"59\", \"distribution_identifier\": \"59.4\"}, {\"title\": \"linea_indigencia\", \"type\": \"number\", \"description\": \"L\\u00ednea de indigencia en pesos corrientes desde 2000 hasta 2000\", \"id\": \"59.4_LA_INDICIA_0_0_16\", \"scrapingIdentifierCell\": \"F41\", \"scrapingDataStartCell\": \"F42\", \"units\": \"Pesos corrientes\", \"dataset_identifier\": \"59\", \"distribution_identifier\": \"59.4\"}, {\"title\": \"linea_pobreza\", \"type\": \"number\", \"description\": \"L\\u00ednea de pobreza en pesos corrientes desde 2000 hasta 2000\", \"id\": \"59.4_LA_POBREZA_0_0_13\", \"scrapingIdentifierCell\": \"G41\", \"scrapingDataStartCell\": \"G42\", \"units\": \"Pesos corrientes\", \"dataset_identifier\": \"59\", \"distribution_identifier\": \"59.4\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-09-28T00:00:00",
+      "datastore_active": false,
+      "description": "Valores de CBA y CBT para el adulto equivalente, y LI y LP para la familia tipo. Aglomerado GBA. Valores trimestrales en pesos corrientes desde 1988",
+      "fileName": "canasta-basica-alimentaria-gba-valores-mensuales-pesos-corrientes-desde-2000.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "sspm_59.4",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Canasta Básica Alimentaria y Total por adulto equivalente, y Lineas de indigencia y pobreza desde 2000. GBA. Pesos corrientes. Valores mensuales",
+      "package_id": "sspm_59",
+      "position": 2,
+      "resource_type": null,
+      "revision_id": "5ce027e5-95c7-4656-9a83-a4b7f916e117",
+      "size": null,
+      "state": "active",
+      "url": "https://infra.datos.gob.ar/catalog/sspm/dataset/59/distribution/59.4/download/canasta-basica-alimentaria-gba-valores-mensuales-pesos-corrientes-desde-2000.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "5ce027e5-95c7-4656-9a83-a4b7f916e117",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "Empleo e Ingresos",
+      "id": "0d41bcfd-c3a4-4ff7-8aa1-dd5c3ac51d0b",
+      "name": "Empleo e Ingresos",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Información Económica al Día",
+      "id": "0d300a9a-0802-46c3-9a40-2f28ddf050ec",
+      "name": "Información Económica al Día",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Precios",
+      "id": "308c2aaf-f177-4728-bda5-fd41662741a2",
+      "name": "Precios",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Canasta básica alimentaria y total, línea de indigencia y línea de pobreza desde 1988",
+  "type": "dataset",
+  "url": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/",
+  "version": null
+}

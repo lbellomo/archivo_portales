@@ -1,0 +1,219 @@
+{
+  "author": "Ministerio de Salud. Dirección de Estadística e Información en Salud (DEIS)",
+  "author_email": "informaciondeis@gmail.com",
+  "creator_user_id": "4720e75a-9e17-4dc3-879d-041917c7f9f9",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P1Y"
+    },
+    {
+      "key": "issued",
+      "value": "2019-03-18T15:21:10.898104"
+    },
+    {
+      "key": "language",
+      "value": "[\"spa\"]"
+    },
+    {
+      "key": "modified",
+      "value": "2020-05-15T16:03:05.012214"
+    },
+    {
+      "key": "source",
+      "value": "Ministerio de Salud. Dirección de Estadística e Información en Salud (DEIS)"
+    },
+    {
+      "key": "spatial",
+      "value": "[\"ARG\"]"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"HEAL\"]"
+    },
+    {
+      "key": "temporal",
+      "value": "2017-01-01T03:00:00.000Z/2017-12-31T03:00:00.000Z"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Salud",
+      "display_name": "Salud",
+      "id": "65cc1fbf-703a-43bf-8a14-232a55c34976",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225809.913196salud.svg",
+      "name": "heal",
+      "title": "Salud"
+    }
+  ],
+  "id": "salud_27c588e8-43d0-411a-a40c-7ecc563c2c9f",
+  "isopen": false,
+  "license_id": "notspecified",
+  "license_title": "No se especificó la licencia",
+  "maintainer": "Ministerio de Salud. Dirección de Estadística e Información en Salud (DEIS)",
+  "maintainer_email": "informaciondeis@gmail.com",
+  "metadata_created": "2019-11-26T15:01:57.689993",
+  "metadata_modified": "2021-04-29T17:05:45.407250",
+  "name": "salud-defunciones-ocurridas-registradas-republica-argentina",
+  "notes": "Cantidad de defunciones ocurridas y registradas en la República Argentina. Incluye las variables sociodemográficas: provincia de residencia, sexo, causa y edad de la defunción. También especifica si la muerte ocurrida fue materna.",
+  "num_resources": 4,
+  "num_tags": 5,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-11-15T11:12:22.202856",
+    "description": "",
+    "id": "dd1f2018-587f-43af-9b07-fc32f5ab588b",
+    "image_url": "",
+    "is_organization": true,
+    "name": "salud",
+    "revision_id": "14f0bb85-f97d-4325-b1c8-a7c1d3a815bf",
+    "state": "active",
+    "title": "Ministerio de Salud",
+    "type": "organization"
+  },
+  "owner_org": "dd1f2018-587f-43af-9b07-fc32f5ab588b",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "http://datos.salud.gob.ar/dataset/27c588e8-43d0-411a-a40c-7ecc563c2c9f/resource/26c1be0a-e74f-48c7-bba0-1fdcd02da85b",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-03-18T12:24:17.992666",
+      "datastore_active": false,
+      "description": "Datos de defunciones ocurridas y registradas en Argentina incluyendo residencia, sexo, causa y grupo de edad en el año 2017; se especifica si la muerte ocurrida fue materna.",
+      "fileName": "estadisticas-vitales-defunciones-2017.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "salud_26c1be0a-e74f-48c7-bba0-1fdcd02da85b",
+      "last_modified": "2019-04-11T12:19:51.893164",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Defunciones ocurridas y registradas en la República Argentina en el año 2017",
+      "package_id": "salud_27c588e8-43d0-411a-a40c-7ecc563c2c9f",
+      "position": 0,
+      "resource_type": "file.upload",
+      "revision_id": "bbc1a816-9153-41f1-b1fa-905b1bbf73df",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.salud.gob.ar/dataset/27c588e8-43d0-411a-a40c-7ecc563c2c9f/resource/26c1be0a-e74f-48c7-bba0-1fdcd02da85b/download/estadisticas-vitales-defunciones-2017.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos.salud.gob.ar/dataset/27c588e8-43d0-411a-a40c-7ecc563c2c9f/resource/b1c09aca-6187-4921-bf8a-ea3f712497b7",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-04-04T11:21:55.863551",
+      "datastore_active": false,
+      "description": "Datos de defunciones ocurridas y registradas en Argentina incluyendo residencia, sexo, causa y grupo de edad en el año 2016; se especifica si la muerte ocurrida fue materna a partir del año 2012",
+      "fileName": "estadisticas-vitales-defunciones-2016.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "salud_b1c09aca-6187-4921-bf8a-ea3f712497b7",
+      "last_modified": "2019-04-11T12:14:00.182048",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Defunciones ocurridas y registradas en la República Argentina en el año 2016",
+      "package_id": "salud_27c588e8-43d0-411a-a40c-7ecc563c2c9f",
+      "position": 1,
+      "resource_type": "file.upload",
+      "revision_id": "bbc1a816-9153-41f1-b1fa-905b1bbf73df",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.salud.gob.ar/dataset/27c588e8-43d0-411a-a40c-7ecc563c2c9f/resource/b1c09aca-6187-4921-bf8a-ea3f712497b7/download/estadisticas-vitales-defunciones-2016.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos.salud.gob.ar/dataset/27c588e8-43d0-411a-a40c-7ecc563c2c9f/resource/24804068-7c81-461b-a219-2f9acb50d634",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-04-05T12:17:58.870001",
+      "datastore_active": false,
+      "description": "Cantidad de defunciones ocurridas y registradas en la República Argentina entre los años 2005-2019",
+      "format": "",
+      "hash": "",
+      "id": "salud_24804068-7c81-461b-a219-2f9acb50d634",
+      "last_modified": "2021-04-27T19:08:12.919864",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Defunciones ocurridas y registradas en la República Argentina entre los años 2005-2019.",
+      "package_id": "salud_27c588e8-43d0-411a-a40c-7ecc563c2c9f",
+      "position": 2,
+      "resource_type": "file",
+      "revision_id": "05cddd04-e704-41a0-b559-2f45103528bb",
+      "size": null,
+      "state": "active",
+      "url": "http://www.deis.msal.gov.ar/index.php/base-de-datos/",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos.salud.gob.ar/dataset/27c588e8-43d0-411a-a40c-7ecc563c2c9f/resource/75621151-2d67-4535-9b69-0f99c6a8cf52",
+      "attributesDescription": "[{\"type\": \"integer\", \"description\": \"C\\u00f3digo de Jurisdicci\\u00f3n de Residencia\", \"title\": \"jurisdiccion_de_residencia_id\"}, {\"type\": \"string\", \"description\": \"Nombre de Jurisdicci\\u00f3n de Residencia\", \"title\": \"jurisdiccion_de_residencia_nombre\"}, {\"type\": \"integer\", \"description\": \"C\\u00f3digo Sexo\", \"title\": \"sexo_id\"}, {\"type\": \"string\", \"description\": \"Nombre Sexo\", \"title\": \"sexo_nombre\"}, {\"type\": \"integer\", \"description\": \"C\\u00f3digo de la causa de defunci\\u00f3n, clasificaci\\u00f3n internacional estad\\u00edstica de enfermedades\", \"title\": \"cie10_causa_id\"}, {\"type\": \"string\", \"description\": \"Nombre de la causa de defunci\\u00f3n, clasificaci\\u00f3n internacional estad\\u00edstica de enfermedades\", \"title\": \"cie10_causa_nombre\"}, {\"type\": \"integer\", \"description\": \"C\\u00f3digo grupo etario\", \"title\": \"grupos_edad_id\"}, {\"type\": \"string\", \"description\": \"Descripci\\u00f3n grupos etarios\", \"title\": \"grupos_edad_nombre\"}, {\"type\": \"integer\", \"description\": \"C\\u00f3digo de la defunci\\u00f3n materna\", \"title\": \"muerte_materna_id\"}, {\"type\": \"string\", \"description\": \"Descripci\\u00f3n de la defunci\\u00f3n materna\", \"title\": \"muerte_materna_tipo_nombre\"}, {\"type\": \"integer\", \"description\": \"Cantidad de defunciones\", \"title\": \"cantidad_de_defunciones\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2020-01-10T15:20:49.784890",
+      "datastore_active": false,
+      "description": "Datos de defunciones ocurridas y registradas en Argentina incluyendo residencia, sexo, causa y grupo de edad en el año 2018; se especifica si la muerte ocurrida fue materna.",
+      "fileName": "defunciones-vitales2018.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "salud_75621151-2d67-4535-9b69-0f99c6a8cf52",
+      "last_modified": "2020-01-10T15:20:49.784890",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Defunciones ocurridas y registradas en la República Argentina en el año 2018",
+      "package_id": "salud_27c588e8-43d0-411a-a40c-7ecc563c2c9f",
+      "position": 3,
+      "resource_type": "file.upload",
+      "revision_id": "68eb77bc-b320-4cee-a29e-1419acaaa525",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.salud.gob.ar/dataset/27c588e8-43d0-411a-a40c-7ecc563c2c9f/resource/75621151-2d67-4535-9b69-0f99c6a8cf52/download/defunciones-vitales2018.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "3f319a93-0f20-4231-90c1-f5c839d914c0",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "DEIS",
+      "id": "757ea859-76a5-465b-800a-495a12a734fd",
+      "name": "DEIS",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Estadísticas Vitales",
+      "id": "703ed79e-49fd-4419-ab3a-0a132602f568",
+      "name": "Estadísticas Vitales",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "defunciones",
+      "id": "a321c18d-0bc5-44e4-beb6-5248e88ab09a",
+      "name": "defunciones",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "jurisdiccion",
+      "id": "456957e6-0168-40c5-86dd-f2a03b164223",
+      "name": "jurisdiccion",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "nacional",
+      "id": "0b2d0529-f704-4a59-8e62-51c67dd89ea2",
+      "name": "nacional",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Defunciones ocurridas y registradas en la República Argentina",
+  "type": "dataset",
+  "url": "http://www.deis.msal.gov.ar/index.php/estadisticas-vitales/",
+  "version": null
+}

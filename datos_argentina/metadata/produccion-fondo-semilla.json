@@ -1,0 +1,179 @@
+{
+  "author": "Secretaría de Emprendedores y PyMEs",
+  "author_email": "datos.abiertos@produccion.gob.ar",
+  "creator_user_id": "4720e75a-9e17-4dc3-879d-041917c7f9f9",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P2Y"
+    },
+    {
+      "key": "issued",
+      "value": "2018-10-09T18:38:56.000Z"
+    },
+    {
+      "key": "modified",
+      "value": "2020-02-26T21:09:34.000Z"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"econ\"]"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Economía y finanzas",
+      "display_name": "Economía y finanzas",
+      "id": "60b4b03e-10a1-4d67-b984-08008a249617",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225257.200233economia-finanzas.svg",
+      "name": "econ",
+      "title": "Economía y finanzas"
+    }
+  ],
+  "id": "produccion_HkJUDdqcQ",
+  "isopen": true,
+  "license_id": "CC-BY-4.0",
+  "license_title": "Creative Commons Attribution 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "maintainer": null,
+  "maintainer_email": null,
+  "metadata_created": "2019-11-26T14:57:06.383902",
+  "metadata_modified": "2021-04-29T17:04:46.684064",
+  "name": "produccion-fondo-semilla",
+  "notes": "Ofrece asistencia a emprendimientos sociales, ambientales y/o de género. Otorga préstamos de hasta $250.000 y una incubadora como guía para aplicar al programa, acceder al préstamo, armar un plan de negocios y mejorar el producto o servicio.",
+  "num_resources": 4,
+  "num_tags": 2,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:10.463340",
+    "description": "",
+    "id": "1ca8d15b-31fc-4f09-ba09-53edd3d4cce6",
+    "image_url": "",
+    "is_organization": true,
+    "name": "produccion",
+    "revision_id": "36d8ec89-d20f-4fe1-866c-e38988d28442",
+    "state": "active",
+    "title": "Ministerio de Desarrollo Productivo",
+    "type": "organization"
+  },
+  "owner_org": "1ca8d15b-31fc-4f09-ba09-53edd3d4cce6",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "http://datos.produccion.gob.ar/dataset/fondo-semilla",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2018-10-09T15:38:56",
+      "datastore_active": false,
+      "description": "Ganadores de la edición 2017, por monto otorgado, género, provincia, localidad, sector y rubro. Estos proyectos recibieron préstamos sin interés de hasta $250.000 y asesoramiento de instituciones públicas, privadas y mixtas.",
+      "format": "CSV",
+      "hash": "",
+      "id": "produccion_BJ5vd_cc7",
+      "last_modified": "2019-02-05T16:29:45",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Ganadores Fondo Semilla 2017",
+      "package_id": "produccion_HkJUDdqcQ",
+      "position": 0,
+      "resource_type": null,
+      "revision_id": "1890e472-4e81-4936-a4f7-5d1ed2f14ff5",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.produccion.gob.ar/api/files/ganadores-fondo-semilla-2017.csv/download",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos.produccion.gob.ar/dataset/fondo-semilla",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2018-10-09T15:38:56",
+      "datastore_active": false,
+      "description": "Guía explicativa de cada uno de los campos de los recursos que conforman el dataset y ejemplos de los mismos.",
+      "format": "PDF",
+      "hash": "",
+      "id": "produccion_HyOTu0T3Q",
+      "last_modified": "2019-02-05T16:29:45",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Guía de datos de Fondo semilla",
+      "package_id": "produccion_HkJUDdqcQ",
+      "position": 1,
+      "resource_type": null,
+      "revision_id": "0fa79c9d-6548-4d1f-afb8-2fb9700ce20a",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.produccion.gob.ar/api/files/guia-de-datos-de-fondo-semilla.pdf/download",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos.produccion.gob.ar/dataset/fondo-semilla",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2018-10-09T15:38:56",
+      "datastore_active": false,
+      "description": "Ganadores de la edición 2016, por monto otorgado, género, provincia, departamento, tipo de proyecto y actividad. Estos proyectos recibieron préstamos sin interés de hasta $250.000 y asesoramiento de instituciones públicas, privadas y mixtas.",
+      "format": "CSV",
+      "hash": "",
+      "id": "produccion_rJf2w_597",
+      "last_modified": "2019-02-05T16:29:45",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Ganadores Fondo Semilla 2016",
+      "package_id": "produccion_HkJUDdqcQ",
+      "position": 2,
+      "resource_type": null,
+      "revision_id": "48bf1ca4-5394-40bd-ae33-493e2cf9dc81",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.produccion.gob.ar/api/files/ganadores-fondo-semilla-2016.csv/download",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos.produccion.gob.ar/dataset/fondo-semilla",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2018-10-09T15:38:56",
+      "datastore_active": false,
+      "description": "Inscriptos a la edición 2017 que aún continua en ejecución, por sector, rubro, subrubro y etapa de desarrollo del proyecto.",
+      "format": "CSV",
+      "hash": "",
+      "id": "produccion_SyBGjdc5Q",
+      "last_modified": "2019-02-05T16:29:45",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Participantes Fondo Semilla 2017",
+      "package_id": "produccion_HkJUDdqcQ",
+      "position": 3,
+      "resource_type": null,
+      "revision_id": "c44021c3-4582-4144-b8f2-8255fdda9bec",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.produccion.gob.ar/api/files/participantes-fondo-semilla-2017.csv/download",
+      "url_type": null
+    }
+  ],
+  "revision_id": "8bafbf23-3a91-4484-9fcf-4fdf662740c3",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "Emprendedores",
+      "id": "1ec9b06b-31d5-4d1c-a198-bbeb43c48486",
+      "name": "Emprendedores",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Fondo semilla",
+      "id": "d652aa69-b93b-4840-b279-a94aa00c931b",
+      "name": "Fondo semilla",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Fondo Semilla",
+  "type": "dataset",
+  "url": "http://datos.produccion.gob.ar/dataset/fondo-semilla",
+  "version": null
+}

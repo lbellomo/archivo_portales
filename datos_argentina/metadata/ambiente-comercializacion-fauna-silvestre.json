@@ -1,0 +1,133 @@
+{
+  "author": "Ministerio de Ambiente y Desarrollo Sostenible. Dirección Nacional de Biodiversidad.",
+  "author_email": "fscagnetti@ambiente.gob.ar",
+  "creator_user_id": "4720e75a-9e17-4dc3-879d-041917c7f9f9",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P1Y"
+    },
+    {
+      "key": "issued",
+      "value": "2017-09-05T19:05:20.317245"
+    },
+    {
+      "key": "language",
+      "value": "[\"spa\"]"
+    },
+    {
+      "key": "modified",
+      "value": "2020-09-30T13:05:19.957439"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"ENVI\"]"
+    },
+    {
+      "key": "temporal",
+      "value": "2012-03-01T03:00:00.000Z/2017-08-31T03:00:00.000Z"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Medio ambiente",
+      "display_name": "Medio ambiente",
+      "id": "f71fe9d7-c703-43be-8d9d-af9441c326ba",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225440.964279medio-ambiente.svg",
+      "name": "envi",
+      "title": "Medio ambiente"
+    }
+  ],
+  "id": "ambiente_3015d5f5-d032-4abc-a959-4eaea8c98fc2",
+  "isopen": false,
+  "license_id": "notspecified",
+  "license_title": "No se especificó la licencia",
+  "maintainer": "Ministerio de Ambiente y Desarrollo Sostenible. Dirección Nacional de Biodiversidad.",
+  "maintainer_email": "fsacgnetti@ambiente.gob.ar",
+  "metadata_created": "2019-11-26T14:58:05.323376",
+  "metadata_modified": "2021-04-29T17:18:09.266464",
+  "name": "ambiente-comercializacion-fauna-silvestre",
+  "notes": "Muestra las actuaciones del área de comercialización de la Dirección de Fauna y Conservación de la Biodiversidad",
+  "num_resources": 1,
+  "num_tags": 4,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:07.043831",
+    "description": "",
+    "id": "0e5aa328-825e-4509-851d-5421e866635e",
+    "image_url": "",
+    "is_organization": true,
+    "name": "ambiente",
+    "revision_id": "105eb915-270c-4f67-9b4e-e6a3f08be6d7",
+    "state": "active",
+    "title": "Ministerio de Ambiente y Desarrollo Sostenible",
+    "type": "organization"
+  },
+  "owner_org": "0e5aa328-825e-4509-851d-5421e866635e",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "http://datos.ambiente.gob.ar/dataset/3015d5f5-d032-4abc-a959-4eaea8c98fc2/resource/f1000f91-ce4d-4a48-9f04-babe46f156c4",
+      "attributesDescription": "[{\"type\": \"integer\", \"description\": \"A\\u00f1o de la serie\", \"title\": \"autorizaciones_anio\"}, {\"type\": \"integer\", \"description\": \"Cantidad de importaciones autorizadas\", \"title\": \"autorizaciones_importaciones_numero\"}, {\"type\": \"integer\", \"description\": \"Cantidad de exportaciones autorizadas\", \"title\": \"autorizaciones_exportaciones_numero\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-09-05T19:08:49.861673",
+      "datastore_active": false,
+      "description": "Son las autorizaciones de importaciones y exportaciones de flora y fauna",
+      "fileName": "autorizaciones-importaciones-exportaciones-flora-fauna.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "ambiente_f1000f91-ce4d-4a48-9f04-babe46f156c4",
+      "last_modified": "2017-09-05T19:08:49.809444",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Autorizaciones de importaciones y exportaciones de flora y fauna silvestre",
+      "package_id": "ambiente_3015d5f5-d032-4abc-a959-4eaea8c98fc2",
+      "position": 0,
+      "resource_type": null,
+      "revision_id": "7319a31c-9b98-4031-9236-e9fe21a581f0",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.ambiente.gob.ar/dataset/3015d5f5-d032-4abc-a959-4eaea8c98fc2/resource/f1000f91-ce4d-4a48-9f04-babe46f156c4/download/autorizaciones-importaciones-exportaciones-flora-fauna.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "d06a21e4-6188-43e0-a5dc-1e99a0558040",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "Autorizaciones",
+      "id": "31d0d9ce-5571-45e3-9167-3f3788f328b5",
+      "name": "Autorizaciones",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Biodiversidad",
+      "id": "f2a0f44e-c65a-413e-a967-c9facc9f820e",
+      "name": "Biodiversidad",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "exportaciones de fauna",
+      "id": "3ee1cd1c-53cb-428c-9179-13a6e515acbe",
+      "name": "exportaciones de fauna",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "importaciones de fauna",
+      "id": "bffae448-5fbe-45ff-a8be-4c2b52a01ec5",
+      "name": "importaciones de fauna",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Comercialización de fauna silvestre",
+  "type": "dataset",
+  "url": "http://datos.ambiente.gob.ar/dataset/",
+  "version": null
+}

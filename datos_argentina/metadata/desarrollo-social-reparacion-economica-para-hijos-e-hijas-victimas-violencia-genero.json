@@ -1,0 +1,178 @@
+{
+  "author": "Ministerio de Desarrollo Social de la Nación. Secretaría Nacional de niñez, adolescencia y familia",
+  "author_email": "datosabiertos@desarrollosocial.gob.ar",
+  "creator_user_id": "dc157489-51c6-44ce-bd63-3bd983d60778",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P3M"
+    },
+    {
+      "key": "issued",
+      "value": "2021-04-17T16:15:57.131830"
+    },
+    {
+      "key": "language",
+      "value": "[\"spa\"]"
+    },
+    {
+      "key": "modified",
+      "value": "2021-04-26T09:30:30.953652"
+    },
+    {
+      "key": "spatial",
+      "value": "[\"ARG\"]"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"GOVE\", \"HEAL\", \"JUST\", \"SOCI\"]"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Gobierno y sector público",
+      "display_name": "Gobierno y sector público",
+      "id": "e6f07c77-3987-4e71-98a6-731b1aaf74f4",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225353.395233gobierno-sector-publico.svg",
+      "name": "gove",
+      "title": "Gobierno y sector público"
+    },
+    {
+      "description": "Justicia, seguridad y legales",
+      "display_name": "Justicia, seguridad y legales",
+      "id": "69ac5e1d-79f0-4470-9514-8a173d9ae44c",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225406.604073justicia-seguridad-legales.svg",
+      "name": "just",
+      "title": "Justicia, seguridad y legales"
+    },
+    {
+      "description": "Población y sociedad",
+      "display_name": "Población y sociedad",
+      "id": "eb5df7fa-064a-4b51-89f6-af323ee1bf85",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225728.341804poblacion-sociedad.svg",
+      "name": "soci",
+      "title": "Población y sociedad"
+    },
+    {
+      "description": "Salud",
+      "display_name": "Salud",
+      "id": "65cc1fbf-703a-43bf-8a14-232a55c34976",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225809.913196salud.svg",
+      "name": "heal",
+      "title": "Salud"
+    }
+  ],
+  "id": "desarrollo-social_974f504d-1fdf-4883-bd2f-e08b31cdffa3",
+  "isopen": false,
+  "license_id": "notspecified",
+  "license_title": "No se especificó la licencia",
+  "maintainer": "Ministerio de Desarrollo Social de la Nación. Unidad de Gabinete de Asesores. Dirección General de Información Social Estratégica",
+  "maintainer_email": "datosabiertos@desarrollosocial.gob.ar",
+  "metadata_created": "2021-04-20T19:20:20.353379",
+  "metadata_modified": "2021-04-29T17:04:08.454100",
+  "name": "desarrollo-social-reparacion-economica-para-hijos-e-hijas-victimas-violencia-genero",
+  "notes": "Datos correspondientes a los destinatarios del régimen de Reparación económica para hijos e hijas de víctimas de violencia de género - LEY 27.452* (RENNyA)",
+  "num_resources": 1,
+  "num_tags": 7,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:10.908821",
+    "description": "",
+    "id": "ef25c735-2abb-4165-94a6-a6798a103603",
+    "image_url": "",
+    "is_organization": true,
+    "name": "desarrollo-social",
+    "revision_id": "a896ab9d-5ddd-4b93-9ecf-6578b069aee8",
+    "state": "active",
+    "title": "Ministerio de Desarrollo Social",
+    "type": "organization"
+  },
+  "owner_org": "ef25c735-2abb-4165-94a6-a6798a103603",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "https://datosabiertos.desarrollosocial.gob.ar//dataset/974f504d-1fdf-4883-bd2f-e08b31cdffa3/resource/e70c1a75-60d7-4f32-afe4-5c7823da9158",
+      "attributesDescription": "[{\"type\": \"date\", \"description\": \"Periodo de tiempo analizado\", \"title\": \"periodo\"}, {\"type\": \"string\", \"description\": \"C\\u00f3digo de provincia codificado seg\\u00fan la Base de Asentamientos Humanos de la Rep\\u00f1blica Argentina  \", \"title\": \"cod_provincia\"}, {\"type\": \"string\", \"description\": \"Nombre de la provincia  \", \"title\": \"provincia\"}, {\"type\": \"integer\", \"description\": \"Cantidad de destinatarios vigentes que fueron incluidos en la n\\u00f3mina de pago en el mes de referencia, que efectivamente recibieron o recibir\\u00e1n pago por la prestaci\\u00f3n correspondiente a ese mes.\", \"title\": \"destinatarios\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2021-04-17T16:16:32.330412",
+      "datastore_active": false,
+      "description": "Cantidad de destinatarios y monto correspondientes al régimen de Reparación económica para hijos e hijas de víctimas de violencia de género - LEY 27.452 (RENNyA)",
+      "fileName": "rennya_2020-12-31.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "desarrollo-social_e70c1a75-60d7-4f32-afe4-5c7823da9158",
+      "last_modified": "2021-04-20T14:35:59.243763",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Destinatarios vigentes RENNyA",
+      "package_id": "desarrollo-social_974f504d-1fdf-4883-bd2f-e08b31cdffa3",
+      "position": 0,
+      "resource_type": "file.upload",
+      "revision_id": "70270906-e6da-4ef2-a56e-2a7eb0486e0c",
+      "size": null,
+      "state": "active",
+      "url": "https://datosabiertos.desarrollosocial.gob.ar/dataset/974f504d-1fdf-4883-bd2f-e08b31cdffa3/resource/e70c1a75-60d7-4f32-afe4-5c7823da9158/download/rennya_2020-12-31.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "6414455c-ffb7-4802-806f-61c2500bd254",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "adolescencia",
+      "id": "338b5ec9-577e-44fa-bc9e-a99375dc3ef0",
+      "name": "adolescencia",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "adultos mayores",
+      "id": "7b0bd409-121f-4995-a3e9-3613bb3b5244",
+      "name": "adultos mayores",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "familia",
+      "id": "513838fa-b801-4269-a46e-c02886b53304",
+      "name": "familia",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "niñez",
+      "id": "1686f09f-7502-42f5-abe3-5908e1d7f67f",
+      "name": "niñez",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "politicas de cuidado",
+      "id": "02777909-f7d9-4d8d-b55b-e4dd64e31fbf",
+      "name": "politicas de cuidado",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "rennya",
+      "id": "ea16c836-9bfe-40a0-97e8-d9babda4a0c0",
+      "name": "rennya",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "sennaf",
+      "id": "c01c24c1-1a9c-4922-9809-a5cda5314710",
+      "name": "sennaf",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Reparación económica para hijos e hijas de víctimas de violencia de género",
+  "type": "dataset",
+  "url": "https://www.argentina.gob.ar/rennya",
+  "version": null
+}

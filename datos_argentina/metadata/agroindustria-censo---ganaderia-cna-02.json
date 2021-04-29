@@ -1,0 +1,305 @@
+{
+  "author": "Instituto Nacional de Estadísticas y Censos - INDEC",
+  "author_email": null,
+  "creator_user_id": "dc157489-51c6-44ce-bd63-3bd983d60778",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "eventual"
+    },
+    {
+      "key": "issued",
+      "value": "2020-02-14T14:33:27.097407"
+    },
+    {
+      "key": "language",
+      "value": "[\"spa\"]"
+    },
+    {
+      "key": "modified",
+      "value": "2020-02-19T08:28:27.437898"
+    },
+    {
+      "key": "source",
+      "value": "Instituto Nacional de Estadística y Censos de la República Argentina - INDEC"
+    },
+    {
+      "key": "spatial",
+      "value": "[\"ARG\"]"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"AGRI\"]"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Agroganadería, pesca y forestación",
+      "display_name": "Agroganadería, pesca y forestación",
+      "id": "0c35ea38-7059-41d2-9827-5587769d0dc6",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225145.990789agroganaderia-pesca-forestacion.svg",
+      "name": "agri",
+      "title": "Agroganadería, pesca y forestación"
+    }
+  ],
+  "id": "agroindustria_348f503f-85f3-44c5-b1b4-d892eb436cd5",
+  "isopen": true,
+  "license_id": "CC-BY-4.0",
+  "license_title": "Creative Commons Attribution 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "maintainer": null,
+  "maintainer_email": null,
+  "metadata_created": "2020-02-17T18:37:00.612281",
+  "metadata_modified": "2021-04-29T17:06:36.957921",
+  "name": "agroindustria-censo---ganaderia-cna-02",
+  "notes": "Datos de la cantidad de ganado en las explotaciones agropecuarias según el Censo Nacional Agropecuario 2002 (CNA 02).",
+  "num_resources": 6,
+  "num_tags": 10,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:07.834957",
+    "description": "",
+    "id": "b10c94e2-ade1-4a97-8c4c-b1ada7878d60",
+    "image_url": "",
+    "is_organization": true,
+    "name": "agroindustria",
+    "revision_id": "f7c3b6e9-d48f-4522-9f7a-388d805c8392",
+    "state": "active",
+    "title": "Ministerio de Agricultura, Ganadería y Pesca",
+    "type": "organization"
+  },
+  "owner_org": "b10c94e2-ade1-4a97-8c4c-b1ada7878d60",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "http://datos.agroindustria.gob.ar/dataset/348f503f-85f3-44c5-b1b4-d892eb436cd5/resource/0afab1d6-9fae-4ddb-8483-285d9bfcab44",
+      "attributesDescription": "[{\"type\": \"date\", \"title\": \"anio\"}, {\"type\": \"string\", \"description\": \"Nombre de la provincia.\", \"title\": \"provincia\"}, {\"type\": \"string\", \"description\": \"C\\u00f3digo de la provincia.\", \"title\": \"provincia_id\"}, {\"type\": \"integer\", \"description\": \"Cantidad de cabezas bovinos en explotaciones con limites definidos.\", \"title\": \"bovinos-cabezas-eap-con-limite-definido\"}, {\"type\": \"integer\", \"description\": \"Cantidad de explotaciones con limites definidos que tienen bovinos.\", \"title\": \"bovinos-eap-con-limite-definido\"}, {\"type\": \"integer\", \"description\": \"Cantidad de cabezas bovinos en explotaciones sin limites definidos.\", \"title\": \"bovinos-cabezas-eap-sin-limite-definido\"}, {\"type\": \"integer\", \"description\": \"Cantidad de explotaciones sin limites definidos que tienen bovinos.\", \"title\": \"bovinos-eap-sin-limite-definido\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2020-02-14T11:50:44.453746",
+      "datastore_active": false,
+      "description": "Datos del CNA-02 de la cantidad de bovinos por provincia y tipo de explotación agropecuaria. Se presenta en cabezas y EAP.",
+      "fileName": "cna-02-bovinos-provincia-cabezas-eap.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "agroindustria_0afab1d6-9fae-4ddb-8483-285d9bfcab44",
+      "last_modified": "2020-02-19T08:34:09.971886",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Bovinos por provincia y EAPs - CNA-02",
+      "package_id": "agroindustria_348f503f-85f3-44c5-b1b4-d892eb436cd5",
+      "position": 0,
+      "resource_type": "file.upload",
+      "revision_id": "14f3f57e-4b72-42b1-b071-802358484615",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.agroindustria.gob.ar/dataset/348f503f-85f3-44c5-b1b4-d892eb436cd5/resource/0afab1d6-9fae-4ddb-8483-285d9bfcab44/download/cna-02-bovinos-provincia-cabezas-eap.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos.agroindustria.gob.ar/dataset/348f503f-85f3-44c5-b1b4-d892eb436cd5/resource/235217dd-4f75-440b-9b2f-6823e15c2d07",
+      "attributesDescription": "[{\"type\": \"date\", \"title\": \"anio\"}, {\"type\": \"string\", \"description\": \"Nombre de la provincia.\", \"title\": \"provincia\"}, {\"type\": \"string\", \"description\": \"C\\u00f3digo de la provincia.\", \"title\": \"provincia_id\"}, {\"description\": \"Cantidad de cabezas camelidae en explotaciones con limites definidos. \", \"title\": \"camelidos-cabezas-eap-con-limite-definido\"}, {\"description\": \"Cantidad de explotaciones con limites definidos que tienen cam\\u00e9lidos.\", \"title\": \"camelidos-eap-con-limite-definido\"}, {\"description\": \"Cantidad de cabezas camelidae en explotaciones sin limites definidos. \", \"title\": \"camelidos-cabezas-eap-sin-limite-definido\"}, {\"type\": \"integer\", \"description\": \"Cantidad de explotaciones sin limites definidos que tienen cam\\u00e9lidos.\", \"title\": \"camelidos-eap-sin-limite-definido\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2020-02-14T11:58:27.457294",
+      "datastore_active": false,
+      "description": "Datos de la cantidad de camélidos por provincia y tipo de explotación agropecuaria. Se presenta en cabezas y EAP.",
+      "fileName": "CNA-02-camelidos-provincia-cabezas-eap.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "agroindustria_235217dd-4f75-440b-9b2f-6823e15c2d07",
+      "last_modified": "2020-02-14T11:58:27.457294",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Camélidos por provincia y EAPs",
+      "package_id": "agroindustria_348f503f-85f3-44c5-b1b4-d892eb436cd5",
+      "position": 1,
+      "resource_type": "file.upload",
+      "revision_id": "9ce0ff3b-4d21-4986-9d49-a5e186b7d642",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.agroindustria.gob.ar/dataset/348f503f-85f3-44c5-b1b4-d892eb436cd5/resource/235217dd-4f75-440b-9b2f-6823e15c2d07/download/cna-02-camelidos-provincia-cabezas-eap.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos.agroindustria.gob.ar/dataset/348f503f-85f3-44c5-b1b4-d892eb436cd5/resource/74e917b1-1179-4656-8294-a9c28c83cb4e",
+      "attributesDescription": "[{\"type\": \"date\", \"title\": \"anio\"}, {\"type\": \"string\", \"description\": \"Nombre de la provincia.\", \"title\": \"provincia\"}, {\"type\": \"string\", \"description\": \"C\\u00f3digo de la provincia. \", \"title\": \"provincia_id \"}, {\"type\": \"integer\", \"description\": \"Cantidad de cabezas caprinas en explotaciones con limites definidos.\", \"title\": \"caprinos-cabezas-eap-con-limite-definido\"}, {\"type\": \"integer\", \"description\": \"Cantidad de explotaciones con limites definidos que tienen caprinos. \", \"title\": \"caprinos-eap-con-limite-definido\"}, {\"type\": \"integer\", \"description\": \"Cantidad de cabezas caprinas en explotaciones sin limites definidos. \", \"title\": \"caprinos-cabezas-eap-sin-limite-definido\"}, {\"type\": \"integer\", \"description\": \"Cantidad de explotaciones sin limites definidos que tienen caprinos.\", \"title\": \"caprinos-eap-sin-limite-definido\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2020-02-14T12:03:01.462758",
+      "datastore_active": false,
+      "description": "Datos del CNA-02 de la cantidad de caprinos por provincia y tipo de explotación agropecuaria. Se presenta en cabezas y EAP.",
+      "fileName": "cna-02-caprinos-provincia-cabezas-eap.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "agroindustria_74e917b1-1179-4656-8294-a9c28c83cb4e",
+      "last_modified": "2020-02-19T08:34:00.740364",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Caprinos por provincia y EAPs - CNA-02",
+      "package_id": "agroindustria_348f503f-85f3-44c5-b1b4-d892eb436cd5",
+      "position": 2,
+      "resource_type": "file.upload",
+      "revision_id": "9ce0ff3b-4d21-4986-9d49-a5e186b7d642",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.agroindustria.gob.ar/dataset/348f503f-85f3-44c5-b1b4-d892eb436cd5/resource/74e917b1-1179-4656-8294-a9c28c83cb4e/download/cna-02-caprinos-provincia-cabezas-eap.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos.agroindustria.gob.ar/dataset/348f503f-85f3-44c5-b1b4-d892eb436cd5/resource/9fe659aa-a222-4292-88af-c67f99e91899",
+      "attributesDescription": "[{\"type\": \"time\", \"title\": \"anio\"}, {\"type\": \"string\", \"description\": \"Nombre de la provincia.\", \"title\": \"provincia\"}, {\"type\": \"string\", \"description\": \"C\\u00f3digo de la provincia.\", \"title\": \"provincia_id\"}, {\"type\": \"integer\", \"description\": \"Cantidad de cabezas equinas en explotaciones con limites definidos. \", \"title\": \"equinos-cabezas-eap-con-limite-definido\"}, {\"type\": \"integer\", \"description\": \"Cantidad de explotaciones con limites definidos que tienen equinos.\", \"title\": \"equinos-eap-con-limite-definido\"}, {\"type\": \"integer\", \"description\": \"Cantidad de cabezas equinas en explotaciones sin limites definidos. \", \"title\": \"equinos-cabezas-eap-sin-limite-definido\"}, {\"type\": \"integer\", \"description\": \"Cantidad de explotaciones sin limites definidos que tienen equinos.\", \"title\": \"equinos-eap-sin-limite-definido\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2020-02-14T12:07:24.927265",
+      "datastore_active": false,
+      "description": "Datos del CNA-02 de la cantidad de equinos por provincia y tipo de explotación agropecuaria. Se presenta en cabezas y EAP.",
+      "fileName": "cna-02-equinos-provincia-cabezas-eap.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "agroindustria_9fe659aa-a222-4292-88af-c67f99e91899",
+      "last_modified": "2020-02-19T08:33:57.090830",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Equinos por provincia y EAPs - CNA-02",
+      "package_id": "agroindustria_348f503f-85f3-44c5-b1b4-d892eb436cd5",
+      "position": 3,
+      "resource_type": "file.upload",
+      "revision_id": "beeb221e-33c0-45ff-a5cb-e70a3bf0b47e",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.agroindustria.gob.ar/dataset/348f503f-85f3-44c5-b1b4-d892eb436cd5/resource/9fe659aa-a222-4292-88af-c67f99e91899/download/cna-02-equinos-provincia-cabezas-eap.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos.agroindustria.gob.ar/dataset/348f503f-85f3-44c5-b1b4-d892eb436cd5/resource/d158d3bf-b09c-436c-8d99-bf7a8923e811",
+      "attributesDescription": "[{\"type\": \"time\", \"title\": \"anio\"}, {\"type\": \"string\", \"description\": \"Nombre de la provincia.\", \"title\": \"provincia\"}, {\"type\": \"string\", \"description\": \"C\\u00f3digo de la provincia.\", \"title\": \"provincia_id\"}, {\"type\": \"integer\", \"description\": \"Cantidad de cabezas ovinas en explotaciones con limites definidos.\", \"title\": \"ovinos-cabezas-eap-con-limite-definido\"}, {\"type\": \"integer\", \"description\": \"Cantidad de explotaciones con limites definidos que tienen ovinos.\", \"title\": \"ovinos-eap-con-limite-definido\"}, {\"type\": \"integer\", \"description\": \"Cantidad de cabezas ovinas en explotaciones sin limites definidos.\", \"title\": \"ovinos-cabezas-eap-sin-limite-definido\"}, {\"type\": \"integer\", \"description\": \"Cantidad de explotaciones sin limites definidos que tienen ovinos.\", \"title\": \"ovinos-eap-sin-limite-definido\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2020-02-14T12:11:47.728383",
+      "datastore_active": false,
+      "description": "Datos del CNA-02 de la cantidad de ovinos por provincia y tipo de explotación agropecuaria. Se presenta en cabezas y EAP.",
+      "fileName": "cna-02-ovinos-provincia-cabezas-eap.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "agroindustria_d158d3bf-b09c-436c-8d99-bf7a8923e811",
+      "last_modified": "2020-02-19T08:33:50.783017",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Ovinos por provincia y EAPs - CNA-02",
+      "package_id": "agroindustria_348f503f-85f3-44c5-b1b4-d892eb436cd5",
+      "position": 4,
+      "resource_type": "file.upload",
+      "revision_id": "9ce0ff3b-4d21-4986-9d49-a5e186b7d642",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.agroindustria.gob.ar/dataset/348f503f-85f3-44c5-b1b4-d892eb436cd5/resource/d158d3bf-b09c-436c-8d99-bf7a8923e811/download/cna-02-ovinos-provincia-cabezas-eap.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos.agroindustria.gob.ar/dataset/348f503f-85f3-44c5-b1b4-d892eb436cd5/resource/faf2e734-e737-44d7-ad8c-47dc0b0096cd",
+      "attributesDescription": "[{\"title\": \"anio\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2020-02-14T12:12:33.477227",
+      "datastore_active": false,
+      "description": "Datos del CNA-02 de la cantidad de porcinos por provincia y tipo de explotación agropecuaria. Se presenta en cabezas y EAP.",
+      "fileName": "cna-02-porcinos-provincia-cabezas-eap.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "agroindustria_faf2e734-e737-44d7-ad8c-47dc0b0096cd",
+      "last_modified": "2020-02-19T08:33:40.599775",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Porcinos por provincia y EAPs - CNA-02",
+      "package_id": "agroindustria_348f503f-85f3-44c5-b1b4-d892eb436cd5",
+      "position": 5,
+      "resource_type": "file.upload",
+      "revision_id": "9ce0ff3b-4d21-4986-9d49-a5e186b7d642",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.agroindustria.gob.ar/dataset/348f503f-85f3-44c5-b1b4-d892eb436cd5/resource/faf2e734-e737-44d7-ad8c-47dc0b0096cd/download/cna-02-porcinos-provincia-cabezas-eap.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "6d46e70b-4337-4b08-aad3-00d0b409750c",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "bovinos",
+      "id": "67950875-be60-4495-a907-63c1e6b2f47b",
+      "name": "bovinos",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "camelidos",
+      "id": "36629943-59b2-4b17-b632-1ed39607c15c",
+      "name": "camelidos",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "caprinos",
+      "id": "9af2ffdb-91a8-47e4-b66c-71933e85783c",
+      "name": "caprinos",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "censo",
+      "id": "3afd172c-45af-41bd-b023-b1ed9844c3ba",
+      "name": "censo",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "censo nacional agropecuario 2002",
+      "id": "f83b1c92-2234-4ff6-bf44-66d1727ec583",
+      "name": "censo nacional agropecuario 2002",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "cna 02",
+      "id": "a6e31f8c-5ed2-44b8-8ef2-2dbd7fded11b",
+      "name": "cna 02",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "equinos",
+      "id": "bfca9653-75cf-4a1d-a11c-34771ac80631",
+      "name": "equinos",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "ganaderia",
+      "id": "13df53d9-0f53-44f8-96c1-659296b694cf",
+      "name": "ganaderia",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "ovinos",
+      "id": "aea957ca-9fc7-47fb-9872-206451ad96f2",
+      "name": "ovinos",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "porcinos",
+      "id": "db772add-17e9-4cbc-b827-3b9f8fae3043",
+      "name": "porcinos",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Censo - Ganadería CNA 02",
+  "type": "dataset",
+  "url": "https://datos.agroindustria.gob.ar/dataset/censo-ganaderia-cna-02",
+  "version": null
+}

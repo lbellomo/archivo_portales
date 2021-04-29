@@ -1,0 +1,186 @@
+{
+  "author": "Ministerio de Energía y Minería.Secretaría de Coordinación de Planeamiento Energético.Dirección Nacional de Información Energética.Tecnología de la Información.",
+  "author_email": null,
+  "creator_user_id": "4720e75a-9e17-4dc3-879d-041917c7f9f9",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "eventual"
+    },
+    {
+      "key": "issued",
+      "value": "2018-03-22T16:58:45.525810"
+    },
+    {
+      "key": "modified",
+      "value": "2020-06-10T09:30:20.979936"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"ENER\"]"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Energía",
+      "display_name": "Energía",
+      "id": "a4d3f632-eb48-4163-9791-165989c16035",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225337.421630energia.svg",
+      "name": "ener",
+      "title": "Energía"
+    }
+  ],
+  "id": "energia_570627b9-3e2e-41b9-b661-71afa37bd63e",
+  "isopen": false,
+  "license_id": "notspecified",
+  "license_title": "No se especificó la licencia",
+  "maintainer": null,
+  "maintainer_email": null,
+  "metadata_created": "2019-11-26T15:00:38.220565",
+  "metadata_modified": "2021-04-29T17:17:35.280540",
+  "name": "energia-elaboracion-combustibles",
+  "notes": "Cargas de Petróleo y otros cortes a las Refinerías del país",
+  "num_resources": 3,
+  "num_tags": 6,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:09.221510",
+    "description": "",
+    "id": "cd1b32a2-2d3a-44ac-8c98-a425a7b62d42",
+    "image_url": "",
+    "is_organization": true,
+    "name": "energia",
+    "revision_id": "a184cf69-99ad-4f84-a254-020031d7fe63",
+    "state": "active",
+    "title": "Secretaría de Energía",
+    "type": "organization"
+  },
+  "owner_org": "cd1b32a2-2d3a-44ac-8c98-a425a7b62d42",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "http://datos.minem.gob.ar/dataset/570627b9-3e2e-41b9-b661-71afa37bd63e/resource/7fc0a5ad-a79b-4f3f-b8f6-63a66e30645c",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2018-03-22T13:59:56.552050",
+      "datastore_active": false,
+      "description": "",
+      "fileName": "procesamiento-de-petroleo-crudo-y-otras-cargas.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "energia_7fc0a5ad-a79b-4f3f-b8f6-63a66e30645c",
+      "last_modified": "2018-03-22T13:59:56.506810",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Procesamiento de Petróleo Crudo y Otras Cargas",
+      "package_id": "energia_570627b9-3e2e-41b9-b661-71afa37bd63e",
+      "position": 0,
+      "resource_type": null,
+      "revision_id": "2b2e438e-a985-4182-a7ae-a41531d335cb",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.minem.gob.ar/dataset/570627b9-3e2e-41b9-b661-71afa37bd63e/resource/7fc0a5ad-a79b-4f3f-b8f6-63a66e30645c/download/procesamiento-de-petroleo-crudo-y-otras-cargas.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos.minem.gob.ar/dataset/570627b9-3e2e-41b9-b661-71afa37bd63e/resource/b63cbd72-c6a5-4c09-9db4-5554942a06d3",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2018-03-22T14:00:23.143705",
+      "datastore_active": false,
+      "description": "",
+      "fileName": "subproductos-procesados-por-refineria-ant-2009.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "energia_b63cbd72-c6a5-4c09-9db4-5554942a06d3",
+      "last_modified": "2018-03-22T14:00:23.098456",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Subproductos procesados por refineria ant. 2009",
+      "package_id": "energia_570627b9-3e2e-41b9-b661-71afa37bd63e",
+      "position": 1,
+      "resource_type": null,
+      "revision_id": "2b2e438e-a985-4182-a7ae-a41531d335cb",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.minem.gob.ar/dataset/570627b9-3e2e-41b9-b661-71afa37bd63e/resource/b63cbd72-c6a5-4c09-9db4-5554942a06d3/download/subproductos-procesados-por-refineria-ant-2009.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos.minem.gob.ar/dataset/570627b9-3e2e-41b9-b661-71afa37bd63e/resource/af4d70db-8b0a-44c4-9f84-c20904d08ada",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2018-03-22T14:00:58.274708",
+      "datastore_active": false,
+      "description": "",
+      "fileName": "petroleo-procesado-por-refineria-anterior-al-2009.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "energia_af4d70db-8b0a-44c4-9f84-c20904d08ada",
+      "last_modified": "2018-03-22T14:00:58.216719",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Petróleo procesado por refineria anterior al 2009",
+      "package_id": "energia_570627b9-3e2e-41b9-b661-71afa37bd63e",
+      "position": 2,
+      "resource_type": null,
+      "revision_id": "2b2e438e-a985-4182-a7ae-a41531d335cb",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.minem.gob.ar/dataset/570627b9-3e2e-41b9-b661-71afa37bd63e/resource/af4d70db-8b0a-44c4-9f84-c20904d08ada/download/petroleo-procesado-por-refineria-anterior-al-2009.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "70159473-8cd5-46b7-bea5-e9d7e4a510ae",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "Combustibles",
+      "id": "91332bf3-1e78-4385-b177-146099d2e48b",
+      "name": "Combustibles",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Downstream",
+      "id": "adb27786-57c1-4921-8a3b-3675bf11af71",
+      "name": "Downstream",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Petróleo",
+      "id": "abf5e30e-5f64-4421-925f-f35b1535ce49",
+      "name": "Petróleo",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Refinación de Hidrocarburos",
+      "id": "ba9ff4aa-8122-4c93-a330-e39a44fe5d8c",
+      "name": "Refinación de Hidrocarburos",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Refinerías",
+      "id": "a41da4fa-d610-4ec9-84ac-be592b780b1a",
+      "name": "Refinerías",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "SESCO",
+      "id": "e1ce85d2-7435-438e-a416-e291181d930f",
+      "name": "SESCO",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Elaboración de combustibles",
+  "type": "dataset",
+  "url": "http://datos.minem.gob.ar/dataset/",
+  "version": null
+}

@@ -1,0 +1,401 @@
+{
+  "author": "Dirección de Mercados Agrícolas - Subsecretaría de Mercados Agropecuarios",
+  "author_email": "sma@magyp.gob.ar",
+  "creator_user_id": "dc157489-51c6-44ce-bd63-3bd983d60778",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P1Y"
+    },
+    {
+      "key": "issued",
+      "value": "2018-12-07T21:21:41.585500"
+    },
+    {
+      "key": "language",
+      "value": "[\"spa\"]"
+    },
+    {
+      "key": "modified",
+      "value": "2019-10-24T10:28:59.386497"
+    },
+    {
+      "key": "spatial",
+      "value": "[\"ARG\"]"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"AGRI\"]"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Agroganadería, pesca y forestación",
+      "display_name": "Agroganadería, pesca y forestación",
+      "id": "0c35ea38-7059-41d2-9827-5587769d0dc6",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225145.990789agroganaderia-pesca-forestacion.svg",
+      "name": "agri",
+      "title": "Agroganadería, pesca y forestación"
+    }
+  ],
+  "id": "agroindustria_d08e3793-27a8-4318-ad3c-926c3e4d0264",
+  "isopen": true,
+  "license_id": "CC-BY-4.0",
+  "license_title": "Creative Commons Attribution 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "maintainer": null,
+  "maintainer_email": null,
+  "metadata_created": "2019-12-04T20:00:44.785164",
+  "metadata_modified": "2021-04-29T13:05:18.150274",
+  "name": "agroindustria-frutas---anuario-exportaciones",
+  "notes": "Exportaciones argentinas por país de destino de: arándanos, ciruelas, duraznos, limones, mandarinas, manzanas, naranjas, peras, pomelos y uvas. Expresado en dólares y por toneladas desde el año 2013 hasta 2017, según datos de INDEC.",
+  "num_resources": 3,
+  "num_tags": 35,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:07.834957",
+    "description": "",
+    "id": "b10c94e2-ade1-4a97-8c4c-b1ada7878d60",
+    "image_url": "",
+    "is_organization": true,
+    "name": "agroindustria",
+    "revision_id": "f7c3b6e9-d48f-4522-9f7a-388d805c8392",
+    "state": "active",
+    "title": "Ministerio de Agricultura, Ganadería y Pesca",
+    "type": "organization"
+  },
+  "owner_org": "b10c94e2-ade1-4a97-8c4c-b1ada7878d60",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "http://datos.agroindustria.gob.ar/dataset/d08e3793-27a8-4318-ad3c-926c3e4d0264/resource/8540cc11-24da-4fd6-9bf7-bd29430b3937",
+      "attributesDescription": "[{\"type\": \"string\", \"description\": \"paisorigen_id\", \"title\": \"paisorigen_id\"}, {\"type\": \"string\", \"description\": \"pais_origen\", \"title\": \"pais_origen\"}, {\"type\": \"string\", \"description\": \"producto\", \"title\": \"producto\"}, {\"type\": \"string\", \"description\": \"paisdestino_id\", \"title\": \"paisdestino_id\"}, {\"type\": \"string\", \"description\": \"pais_destino\", \"title\": \"pais_destino\"}, {\"type\": \"string\", \"description\": \"a\\u00f1o\", \"title\": \"a\\u00f1o\"}, {\"type\": \"string\", \"description\": \"unimed_cod\", \"title\": \"unimed_cod\"}, {\"type\": \"string\", \"description\": \"unidad_medida\", \"title\": \"unidad_medida\"}, {\"type\": \"integer\", \"description\": \"totales_tn\", \"title\": \"totales_tn\"}, {\"type\": \"string\", \"description\": \"moneda_cod\", \"title\": \"moneda_cod\"}, {\"type\": \"string\", \"description\": \"moneda\", \"title\": \"moneda\"}, {\"type\": \"string\", \"description\": \"totales_usd\", \"title\": \"totales_usd\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2018-09-28T17:41:45.593102",
+      "datastore_active": false,
+      "description": "Exportaciones argentinas por país de destino de: arándanos, ciruelas, duraznos, limones, mandarinas, manzanas, naranjas, peras, pomelos y uvas. Expresado en dólares y toneladas desde el 2013 al 2017.",
+      "fileName": "exportaciones-de-frutas-del-anio-2013-al-2017.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "agroindustria_8540cc11-24da-4fd6-9bf7-bd29430b3937",
+      "last_modified": "2019-07-10T09:35:52.007663",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Exportaciones de frutas del año 2013 al 2017",
+      "package_id": "agroindustria_d08e3793-27a8-4318-ad3c-926c3e4d0264",
+      "position": 0,
+      "resource_type": "file.upload",
+      "revision_id": "406013b0-49d8-4760-8f03-890c73340cee",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.agroindustria.gob.ar/dataset/d08e3793-27a8-4318-ad3c-926c3e4d0264/resource/8540cc11-24da-4fd6-9bf7-bd29430b3937/download/exportaciones-de-frutas-del-anio-2013-al-2017.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos.agroindustria.gob.ar/dataset/d08e3793-27a8-4318-ad3c-926c3e4d0264/resource/d6a47033-1f54-43d8-a001-0e5ad43b2eef",
+      "attributesDescription": "[{\"type\": \"string\", \"description\": \"paisorigen_id\", \"title\": \"paisorigen_id\"}, {\"type\": \"string\", \"description\": \"pais_origen\", \"title\": \"pais_origen\"}, {\"type\": \"string\", \"description\": \"producto\", \"title\": \"producto\"}, {\"type\": \"string\", \"description\": \"paisdestino_id\", \"title\": \"paisdestino_id\"}, {\"type\": \"string\", \"description\": \"pais_destino\", \"title\": \"pais_destino\"}, {\"type\": \"string\", \"description\": \"a\\u00f1o\", \"title\": \"a\\u00f1o\"}, {\"type\": \"string\", \"description\": \"unimed_cod\", \"title\": \"unimed_cod\"}, {\"type\": \"string\", \"description\": \"unidad_medida\", \"title\": \"unidad_medida\"}, {\"type\": \"integer\", \"description\": \"totales\", \"title\": \"totales\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2018-09-27T14:06:41.630318",
+      "datastore_active": false,
+      "description": "Exportaciones argentinas por país de destino de: arándanos, ciruelas, duraznos, limones, mandarinas, manzanas, naranjas, peras, pomelos y uvas. Expresado en toneladas desde el año 2013 hasta 2017.",
+      "fileName": "exportaciones-de-frutas-desde-el-anio-2013-al-2017-en-toneladas.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "agroindustria_d6a47033-1f54-43d8-a001-0e5ad43b2eef",
+      "last_modified": "2019-10-02T13:38:22.503341",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Exportaciones de frutas desde el año 2013 al 2017 en toneladas",
+      "package_id": "agroindustria_d08e3793-27a8-4318-ad3c-926c3e4d0264",
+      "position": 1,
+      "resource_type": "file.upload",
+      "revision_id": "406013b0-49d8-4760-8f03-890c73340cee",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.agroindustria.gob.ar/dataset/d08e3793-27a8-4318-ad3c-926c3e4d0264/resource/d6a47033-1f54-43d8-a001-0e5ad43b2eef/download/exportaciones-de-frutas-desde-el-anio-2013-al-2017-en-toneladas.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos.agroindustria.gob.ar/dataset/d08e3793-27a8-4318-ad3c-926c3e4d0264/resource/13a7d3b6-2326-4da0-8600-06c56fd6c436",
+      "attributesDescription": "[{\"type\": \"string\", \"description\": \"paisorigen_id\", \"title\": \"paisorigen_id\"}, {\"type\": \"string\", \"description\": \"pais_origen\", \"title\": \"pais_origen\"}, {\"type\": \"string\", \"description\": \"producto\", \"title\": \"producto\"}, {\"type\": \"string\", \"description\": \"paisdestino_id\", \"title\": \"paisdestino_id\"}, {\"type\": \"string\", \"description\": \"pais_destino\", \"title\": \"pais_destino\"}, {\"type\": \"string\", \"description\": \"a\\u00f1o\", \"title\": \"a\\u00f1o\"}, {\"type\": \"string\", \"description\": \"unimed_cod\", \"title\": \"unimed_cod\"}, {\"type\": \"string\", \"description\": \"unidad_medida\", \"title\": \"unidad_medida\"}, {\"type\": \"integer\", \"description\": \"totales\", \"title\": \"totales\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2018-09-27T14:08:09.181508",
+      "datastore_active": false,
+      "description": "Exportaciones argentinas por país de destino de: arándanos, ciruelas, duraznos, limones, mandarinas, manzanas, naranjas, peras, pomelos y uvas. Expresado en dólares desde el año 2013 hasta 2017.",
+      "fileName": "exportaciones-de-frutas-del-anio-2013-al-2017-expresadas-en-usd.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "agroindustria_13a7d3b6-2326-4da0-8600-06c56fd6c436",
+      "last_modified": "2019-10-02T13:38:48.971376",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Exportaciones de frutas desde el año 2013 al 2017 expresadas en dolares",
+      "package_id": "agroindustria_d08e3793-27a8-4318-ad3c-926c3e4d0264",
+      "position": 2,
+      "resource_type": "file.upload",
+      "revision_id": "406013b0-49d8-4760-8f03-890c73340cee",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.agroindustria.gob.ar/dataset/d08e3793-27a8-4318-ad3c-926c3e4d0264/resource/13a7d3b6-2326-4da0-8600-06c56fd6c436/download/exportaciones-de-frutas-del-anio-2013-al-2017-expresadas-en-usd.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "915f1295-dc39-421c-93a5-09d5d4ffe333",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "Alemania",
+      "id": "79923eb0-ff1b-42b8-8bae-6db36fab2f4d",
+      "name": "Alemania",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Argentina",
+      "id": "3621bdf5-40c1-48fa-8ede-5a91198a4743",
+      "name": "Argentina",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Bolivia",
+      "id": "b49f3062-7e18-4f06-944a-5450ac64c488",
+      "name": "Bolivia",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Brasil",
+      "id": "7a9a9e26-eaf2-4892-91b1-33114c26aad3",
+      "name": "Brasil",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Canadá",
+      "id": "79cae3bf-4f16-4227-93cb-b3dbf06b696a",
+      "name": "Canadá",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Emiratos Arabes Unidos",
+      "id": "063c1829-3dca-4c14-8a76-bcc4ddbd3ab4",
+      "name": "Emiratos Arabes Unidos",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "España",
+      "id": "77380651-6494-46d1-88e5-98cf677940a2",
+      "name": "España",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Estados Unidos",
+      "id": "89799ede-2058-417e-8bf0-6db57af7dfa6",
+      "name": "Estados Unidos",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Filipinas",
+      "id": "119b5b54-8583-4935-a81c-a1ad28e234ee",
+      "name": "Filipinas",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Grecia",
+      "id": "f656d93e-8222-4460-b276-b33758e720d6",
+      "name": "Grecia",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Indonesia",
+      "id": "b5f24817-dbb9-45bf-95f8-9a22d173dd62",
+      "name": "Indonesia",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Italia",
+      "id": "aa17c068-cb39-47ab-b71f-5315e1777f98",
+      "name": "Italia",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Paraguay",
+      "id": "291acd66-5f68-455b-85ef-03e610c908fa",
+      "name": "Paraguay",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Países Bajos",
+      "id": "58cfabce-fe55-4168-a93a-a6fe52f9b083",
+      "name": "Países Bajos",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Reino Unido",
+      "id": "d008eb0c-c43f-45a0-acb9-14b466e4a6b5",
+      "name": "Reino Unido",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Rusia",
+      "id": "68ede75c-c96b-4024-a27c-f52eb861d4a7",
+      "name": "Rusia",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Uruguay",
+      "id": "a56146fa-b5a5-4cb5-9ad5-4cf94f05005f",
+      "name": "Uruguay",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "anuario",
+      "id": "36ddd256-cd59-49f8-85a1-754047529074",
+      "name": "anuario",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "arandano",
+      "id": "6ee34c42-6553-475e-a80e-aab349be54f3",
+      "name": "arandano",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "ciruela",
+      "id": "519cb889-ee69-4630-a1a2-6e497285cf8d",
+      "name": "ciruela",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "dolares",
+      "id": "55b8c4d9-c06e-4866-be27-b8cb063f0cec",
+      "name": "dolares",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "durazno",
+      "id": "adbc4dda-0676-4dd8-a7ad-639528a45905",
+      "name": "durazno",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "exportacion",
+      "id": "614f1727-098b-43ba-8536-bf4f5f14c27c",
+      "name": "exportacion",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "frutas",
+      "id": "d88cda2c-194e-4939-abfd-78852b720952",
+      "name": "frutas",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "limon",
+      "id": "b8b6ae49-31ed-4e75-b2f8-7bdd1f3c2ca1",
+      "name": "limon",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "mandarina",
+      "id": "bc2b0154-64d3-4baa-81bd-4ae692fac1f4",
+      "name": "mandarina",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "manzana",
+      "id": "af49a216-a66b-40a4-83fd-9b6dc73c4ac5",
+      "name": "manzana",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "naranja",
+      "id": "593d0771-b768-46d8-a077-7e5f3677a48c",
+      "name": "naranja",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "pera",
+      "id": "be3b2802-8835-4810-86df-5a737b4aa1e8",
+      "name": "pera",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "pomelo",
+      "id": "f9737a16-44ec-42bc-9601-8974d943dd09",
+      "name": "pomelo",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "precio",
+      "id": "c270495f-6e37-40a3-a07d-77e3efa504fc",
+      "name": "precio",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "toneladas",
+      "id": "f6ee989f-ec04-4704-bca2-a562d99f7811",
+      "name": "toneladas",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "uva",
+      "id": "7ae78437-8d26-4ebe-9f13-6cec4fef2bf6",
+      "name": "uva",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "valor",
+      "id": "06a39e55-867d-465e-b731-92fdc5a7f38d",
+      "name": "valor",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "volumen",
+      "id": "2e7010ca-fe00-4e85-81ab-161409904aea",
+      "name": "volumen",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Frutas - Anuario de exportaciones",
+  "type": "dataset",
+  "url": "https://datos.agroindustria.gob.ar/dataset/anuario-exportaciones-frutas",
+  "version": null
+}

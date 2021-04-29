@@ -1,0 +1,109 @@
+{
+  "author": "Ministerio de Relaciones Exteriores y Culto",
+  "author_email": "abc@cancilleria.gov.ar",
+  "creator_user_id": "4720e75a-9e17-4dc3-879d-041917c7f9f9",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "eventual"
+    },
+    {
+      "key": "issued",
+      "value": "2018-08-31T00:00:00"
+    },
+    {
+      "key": "language",
+      "value": "[\"SPA\"]"
+    },
+    {
+      "key": "modified",
+      "value": "2018-08-31T00:00:00"
+    },
+    {
+      "key": "source",
+      "value": "Ministerio de Relaciones Exteriores y Culto - Subsecretaria de culto"
+    },
+    {
+      "key": "spatial",
+      "value": "ARG"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"INTR\"]"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Asuntos internacionales",
+      "display_name": "Asuntos internacionales",
+      "id": "df438560-59b5-416a-ad3a-b0548e6d0d04",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225205.444151asuntos-internacionales.svg",
+      "name": "intr",
+      "title": "Asuntos internacionales"
+    }
+  ],
+  "id": "exterior_02",
+  "isopen": true,
+  "license_id": "CC-BY-4.0",
+  "license_title": "Creative Commons Attribution 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "maintainer": "Alejandra Campana",
+  "maintainer_email": "abc@cancilleria.gov.ar",
+  "metadata_created": "2019-11-26T14:57:20.956285",
+  "metadata_modified": "2021-04-29T17:05:49.924856",
+  "name": "exterior-registro-institutos-vida-consagrada",
+  "notes": "Datos del Registros de Institutos de Vida Consagrada",
+  "num_resources": 1,
+  "num_tags": 0,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:10.769194",
+    "description": "",
+    "id": "89cd05f2-11c1-4f1a-875f-b4faf97eb4d4",
+    "image_url": "",
+    "is_organization": true,
+    "name": "exterior",
+    "revision_id": "720fa79f-1247-4a8d-adb1-dbd949d76266",
+    "state": "active",
+    "title": "Ministerio de Relaciones Exteriores, Comercio Internacional y Culto",
+    "type": "organization"
+  },
+  "owner_org": "89cd05f2-11c1-4f1a-875f-b4faf97eb4d4",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "https://cancilleria.gob.ar/iniciativas/datos-abiertos/set-de-datos-de-culto",
+      "attributesDescription": "[{\"title\": \"nombre\", \"type\": \"texto\", \"description\": \"Nombre del Institutos de Vida Consagrada\"}, {\"title\": \"resolucion\", \"type\": \"texto\", \"description\": \"N\\u00famero de Resoluci\\u00f3n\"}, {\"title\": \"fecha_resolucion\", \"type\": \"Fecha\", \"description\": \"Fecha de Resoluci\\u00f3n\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2018-08-31T00:00:00",
+      "datastore_active": false,
+      "description": "Datos Registro de Institutos de Vida Consagrada",
+      "fileName": "registro-institutos-vida-consagrada.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "exterior_02.01",
+      "last_modified": "2018-08-31T00:00:00",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Datos Registro de Institutos de Vida Consagrada",
+      "package_id": "exterior_02",
+      "position": 0,
+      "resource_type": null,
+      "revision_id": "83f38f7d-3499-4116-abf7-62ad76074c6d",
+      "size": null,
+      "state": "active",
+      "url": "https://cancilleria.gob.ar/userfiles/datos/registro-institutos-vida-consagrada.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "0c7faba8-248d-444f-a844-5d820744dbfa",
+  "state": "active",
+  "tags": [],
+  "title": "Registro de Institutos de Vida Consagrada",
+  "type": "dataset",
+  "url": "https://cancilleria.gob.ar/es/iniciativas/datos-abiertos",
+  "version": null
+}

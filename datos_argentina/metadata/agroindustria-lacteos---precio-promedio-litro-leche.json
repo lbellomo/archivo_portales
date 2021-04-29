@@ -1,0 +1,167 @@
+{
+  "author": "Dirección Nacional Láctea",
+  "author_email": "estadisticaslecheria@magyp.gob.ar",
+  "creator_user_id": "dc157489-51c6-44ce-bd63-3bd983d60778",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P1Y"
+    },
+    {
+      "key": "issued",
+      "value": "2018-12-07T21:25:45.933920"
+    },
+    {
+      "key": "language",
+      "value": "[\"spa\"]"
+    },
+    {
+      "key": "modified",
+      "value": "2019-10-24T10:37:12.643438"
+    },
+    {
+      "key": "spatial",
+      "value": "[\"ARG\"]"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"AGRI\", \"ECON\"]"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Agroganadería, pesca y forestación",
+      "display_name": "Agroganadería, pesca y forestación",
+      "id": "0c35ea38-7059-41d2-9827-5587769d0dc6",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225145.990789agroganaderia-pesca-forestacion.svg",
+      "name": "agri",
+      "title": "Agroganadería, pesca y forestación"
+    },
+    {
+      "description": "Economía y finanzas",
+      "display_name": "Economía y finanzas",
+      "id": "60b4b03e-10a1-4d67-b984-08008a249617",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225257.200233economia-finanzas.svg",
+      "name": "econ",
+      "title": "Economía y finanzas"
+    }
+  ],
+  "id": "agroindustria_091cb5ae-fa89-4c5d-a9cf-cd846dc13301",
+  "isopen": true,
+  "license_id": "CC-BY-4.0",
+  "license_title": "Creative Commons Attribution 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "maintainer": "Dirección Nacional Láctea",
+  "maintainer_email": "estadisticaslecheria@magyp.gob.ar",
+  "metadata_created": "2019-12-04T20:00:46.909084",
+  "metadata_modified": "2021-04-29T17:10:41.788862",
+  "name": "agroindustria-lacteos---precio-promedio-litro-leche",
+  "notes": "Precio promedio mensual del litro de leche pagado al productor, expresado en pesos argentinos.",
+  "num_resources": 2,
+  "num_tags": 4,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:07.834957",
+    "description": "",
+    "id": "b10c94e2-ade1-4a97-8c4c-b1ada7878d60",
+    "image_url": "",
+    "is_organization": true,
+    "name": "agroindustria",
+    "revision_id": "f7c3b6e9-d48f-4522-9f7a-388d805c8392",
+    "state": "active",
+    "title": "Ministerio de Agricultura, Ganadería y Pesca",
+    "type": "organization"
+  },
+  "owner_org": "b10c94e2-ade1-4a97-8c4c-b1ada7878d60",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "http://datos.agroindustria.gob.ar/dataset/091cb5ae-fa89-4c5d-a9cf-cd846dc13301/resource/27f12956-ab54-4494-90a4-342a1190d81b",
+      "attributesDescription": "[{\"type\": \"integer\", \"description\": \"pais_id\", \"title\": \"pais_id\"}, {\"type\": \"string\", \"description\": \"pais\", \"title\": \"pais\"}, {\"type\": \"integer\", \"description\": \"a\\u0144o\", \"title\": \"a\\u0144o\"}, {\"type\": \"integer\", \"description\": \"mes\", \"title\": \"mes\"}, {\"type\": \"integer\", \"description\": \"ccp\", \"title\": \"ccp\"}, {\"type\": \"string\", \"description\": \"producto\", \"title\": \"producto\"}, {\"type\": \"number\", \"description\": \"precio_promedio_Kg\", \"title\": \"precio_promedio_Kg\"}, {\"type\": \"string\", \"description\": \"moneda_id\", \"title\": \"moneda_id\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-08-01T14:36:06.798170",
+      "datastore_active": false,
+      "description": "Precio promedio mensual del litro de leche. Expresado en pesos argentinos.",
+      "fileName": "precio-promedio-del-litro-de-leche-2011-2017.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "agroindustria_27f12956-ab54-4494-90a4-342a1190d81b",
+      "last_modified": "2019-03-20T10:53:45.555072",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Precio promedio del litro de leche - 2011 -2017",
+      "package_id": "agroindustria_091cb5ae-fa89-4c5d-a9cf-cd846dc13301",
+      "position": 0,
+      "resource_type": "file.upload",
+      "revision_id": "1a48430c-bef0-453a-8566-f9cef4ff8c5e",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.agroindustria.gob.ar/dataset/091cb5ae-fa89-4c5d-a9cf-cd846dc13301/resource/27f12956-ab54-4494-90a4-342a1190d81b/download/precio-promedio-del-litro-de-leche-2011-2017.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos.agroindustria.gob.ar/dataset/091cb5ae-fa89-4c5d-a9cf-cd846dc13301/resource/df8f7d09-797e-4e0b-9ad0-160f99edf2c0",
+      "attributesDescription": "[{\"specialType\": \"time_index\", \"specialTypeDetail\": \"R/P1M\", \"type\": \"date\", \"title\": \"indice_tiempo\"}, {\"units\": \"Pesos argentinos\", \"id\": \"AGRO_0010\", \"type\": \"number\", \"description\": \"Promedio del precio por kg.\", \"title\": \"leche_cruda_precio_promedio_kg\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-04-30T11:50:23.925327",
+      "datastore_active": false,
+      "description": "Evolución del precio promedio mensual del litro de leche expresado en pesos argentinos.",
+      "fileName": "serie-tiempo-precio-promedio-del-litro-de-leche-2011-2017.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "agroindustria_df8f7d09-797e-4e0b-9ad0-160f99edf2c0",
+      "last_modified": "2019-05-03T15:19:48.123038",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Serie de tiempo",
+      "package_id": "agroindustria_091cb5ae-fa89-4c5d-a9cf-cd846dc13301",
+      "position": 1,
+      "resource_type": "file.upload",
+      "revision_id": "1a48430c-bef0-453a-8566-f9cef4ff8c5e",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.agroindustria.gob.ar/dataset/091cb5ae-fa89-4c5d-a9cf-cd846dc13301/resource/df8f7d09-797e-4e0b-9ad0-160f99edf2c0/download/serie-tiempo-precio-promedio-del-litro-de-leche-2011-2017.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "74ab9990-9978-4816-b95c-935b52fa0ac6",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "lacteos",
+      "id": "9e6b26d8-1663-4102-b84b-8d3d36505c78",
+      "name": "lacteos",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "leche",
+      "id": "50198eec-058b-4999-a070-8cf268e8e576",
+      "name": "leche",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "precio leche",
+      "id": "07d46043-f353-496a-9d4a-ddab367cc4d0",
+      "name": "precio leche",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "precio productor",
+      "id": "fe20ffb9-c809-42c6-9041-aecf9ae8a8de",
+      "name": "precio productor",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Lácteos - Precio promedio del litro de leche",
+  "type": "dataset",
+  "url": "https://datos.agroindustria.gob.ar/dataset/precio-promedio-litro-leche-pagado-al-productor",
+  "version": null
+}

@@ -1,0 +1,226 @@
+{
+  "author": "Dirección Nacional Láctea",
+  "author_email": "estadisticaslecheria@magyp.gob.ar",
+  "creator_user_id": "dc157489-51c6-44ce-bd63-3bd983d60778",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P1Y"
+    },
+    {
+      "key": "issued",
+      "value": "2018-12-07T21:25:55.790201"
+    },
+    {
+      "key": "language",
+      "value": "[\"spa\"]"
+    },
+    {
+      "key": "modified",
+      "value": "2019-10-24T10:39:16.285361"
+    },
+    {
+      "key": "spatial",
+      "value": "[\"ARG\"]"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"AGRI\"]"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Agroganadería, pesca y forestación",
+      "display_name": "Agroganadería, pesca y forestación",
+      "id": "0c35ea38-7059-41d2-9827-5587769d0dc6",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225145.990789agroganaderia-pesca-forestacion.svg",
+      "name": "agri",
+      "title": "Agroganadería, pesca y forestación"
+    }
+  ],
+  "id": "agroindustria_ad9e97d9-a427-4bea-af07-d0217b60eff4",
+  "isopen": true,
+  "license_id": "CC-BY-4.0",
+  "license_title": "Creative Commons Attribution 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "maintainer": "Dirección Nacional Láctea",
+  "maintainer_email": "estadisticaslecheria@magyp.gob.ar",
+  "metadata_created": "2019-12-04T20:00:24.104014",
+  "metadata_modified": "2021-04-29T17:11:08.150886",
+  "name": "agroindustria-lacteos---existencias-litros-equivalentes",
+  "notes": "Existencias lácteas desagregadas por mes y producto expresadas en litros equivalentes.",
+  "num_resources": 3,
+  "num_tags": 10,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:07.834957",
+    "description": "",
+    "id": "b10c94e2-ade1-4a97-8c4c-b1ada7878d60",
+    "image_url": "",
+    "is_organization": true,
+    "name": "agroindustria",
+    "revision_id": "f7c3b6e9-d48f-4522-9f7a-388d805c8392",
+    "state": "active",
+    "title": "Ministerio de Agricultura, Ganadería y Pesca",
+    "type": "organization"
+  },
+  "owner_org": "b10c94e2-ade1-4a97-8c4c-b1ada7878d60",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "http://datos.agroindustria.gob.ar/dataset/ad9e97d9-a427-4bea-af07-d0217b60eff4/resource/35a74487-c4c9-4b39-a9d8-25fd195701d6",
+      "attributesDescription": "[{\"type\": \"integer\", \"description\": \"pais_id\", \"title\": \"pais_id\"}, {\"type\": \"string\", \"description\": \"pa\\u00eds\", \"title\": \"pa\\u00eds\"}, {\"type\": \"integer\", \"description\": \"a\\u0144o\", \"title\": \"a\\u0144o\"}, {\"type\": \"integer\", \"description\": \"mes\", \"title\": \"mes\"}, {\"type\": \"integer\", \"description\": \"ccp\", \"title\": \"ccp\"}, {\"type\": \"string\", \"description\": \"producto\", \"title\": \"producto\"}, {\"type\": \"string\", \"description\": \"uni_med_id\", \"title\": \"uni_med_id\"}, {\"type\": \"string\", \"description\": \"uni_med\", \"title\": \"uni_med\"}, {\"type\": \"number\", \"description\": \"cantidad_por_miles\", \"title\": \"cantidad_por_miles\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-08-01T14:31:34.639733",
+      "datastore_active": false,
+      "description": "Existencias lácteas desagregadas por mes y producto expresadas en litros equivalentes.",
+      "fileName": "existencias-en-litros-equiv-2013-2016--.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "agroindustria_35a74487-c4c9-4b39-a9d8-25fd195701d6",
+      "last_modified": "2019-01-15T11:18:36.178411",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Existencias lácteas en litros equivalentes 2013 - 2016",
+      "package_id": "agroindustria_ad9e97d9-a427-4bea-af07-d0217b60eff4",
+      "position": 0,
+      "resource_type": "file.upload",
+      "revision_id": "59bb7ceb-8513-4476-8e6c-d1eb576a9337",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.agroindustria.gob.ar/dataset/ad9e97d9-a427-4bea-af07-d0217b60eff4/resource/35a74487-c4c9-4b39-a9d8-25fd195701d6/download/existencias-en-litros-equiv-2013-2016-.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos.agroindustria.gob.ar/dataset/ad9e97d9-a427-4bea-af07-d0217b60eff4/archivo/cf704e7c-b397-43bc-97ae-e53465e1e9a1",
+      "attributesDescription": "[{\"type\": \"integer\", \"description\": \"pais_id\", \"title\": \"pais_id\"}, {\"type\": \"string\", \"description\": \"pa\\u00eds\", \"title\": \"pa\\u00eds\"}, {\"type\": \"integer\", \"description\": \"a\\u0144o\", \"title\": \"a\\u0144o\"}, {\"type\": \"integer\", \"description\": \"mes\", \"title\": \"mes\"}, {\"type\": \"any\", \"description\": \"ccp\", \"title\": \"ccp\"}, {\"type\": \"string\", \"description\": \"producto\", \"title\": \"producto\"}, {\"type\": \"string\", \"description\": \"uni_med_id\", \"title\": \"uni_med_id\"}, {\"type\": \"string\", \"description\": \"uni_med\", \"title\": \"uni_med\"}, {\"type\": \"number\", \"description\": \"cantidad_por_miles\", \"title\": \"cantidad_por_miles\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-08-01T14:32:21.434247",
+      "datastore_active": false,
+      "description": "Existencias lácteas por mes expresadas en litros equivalentes.",
+      "fileName": "existencias-lacteas-litros-equivalentes-1998-2012.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "agroindustria_cf704e7c-b397-43bc-97ae-e53465e1e9a1",
+      "last_modified": "2019-03-18T18:12:19.536768",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Existencias lácteas en litros equivalentes 1998 - 2012",
+      "package_id": "agroindustria_ad9e97d9-a427-4bea-af07-d0217b60eff4",
+      "position": 1,
+      "resource_type": "file.upload",
+      "revision_id": "3c4ce8a6-7a00-468e-bc8c-9785a045a983",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.agroindustria.gob.ar/dataset/ad9e97d9-a427-4bea-af07-d0217b60eff4/resource/cf704e7c-b397-43bc-97ae-e53465e1e9a1/download/existencias-lacteas-litros-equivalentes-1998-2012.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos.agroindustria.gob.ar/dataset/ad9e97d9-a427-4bea-af07-d0217b60eff4/resource/6e79add0-52d6-4eaf-b715-4636259f3aed",
+      "attributesDescription": "[{\"specialType\": \"time_index\", \"specialTypeDetail\": \"R/P1M\", \"type\": \"date\", \"title\": \"indice_tiempo\"}, {\"units\": \"Litros\", \"id\": \"AGRO_0070\", \"type\": \"number\", \"description\": \"cantidad_por_miles_todos_los_prod\", \"title\": \"cantidad_por_miles_todos_los_prod\"}, {\"units\": \"Litros\", \"id\": \"AGRO_0071\", \"type\": \"number\", \"description\": \"cantidad_por_miles_leche_en_polvo_entera\", \"title\": \"cantidad_por_miles_leche_en_polvo_entera\"}, {\"units\": \"Litros\", \"id\": \"AGRO_0072\", \"type\": \"number\", \"description\": \"cantidad_por_miles_leche_en_polvo_desc\", \"title\": \"cantidad_por_miles_leche_en_polvo_desc\"}, {\"units\": \"Litros\", \"id\": \"AGRO_0073\", \"type\": \"number\", \"description\": \"cantidad_por_miles_quesos_baja_humedad\", \"title\": \"cantidad_por_miles_quesos_baja_humedad\"}, {\"units\": \"Litros\", \"id\": \"AGRO_0074\", \"type\": \"number\", \"description\": \"cantidad_por_miles_quesos_mediana_humedad\", \"title\": \"cantidad_por_miles_quesos_mediana_humedad\"}, {\"units\": \"Litros\", \"id\": \"AGRO_0075\", \"type\": \"number\", \"description\": \"cantidad_por_miles_quesos_alta_humedad\", \"title\": \"cantidad_por_miles_quesos_alta_humedad\"}, {\"units\": \"Litros\", \"id\": \"AGRO_0076\", \"type\": \"number\", \"description\": \"cantidad_por_miles_otros_prod_lacteos\", \"title\": \"cantidad_por_miles_otros_prod_lacteos\"}, {\"units\": \"Litros\", \"id\": \"AGRO_0077\", \"type\": \"number\", \"description\": \"cantidad_por_miles_leche_en_polvo_entera1\", \"title\": \"cantidad_por_miles_leche_en_polvo_entera1\"}, {\"units\": \"Litros\", \"id\": \"AGRO_0078\", \"type\": \"number\", \"description\": \"cantidad_por_miles_leche_en_polvo_descremada1\", \"title\": \"cantidad_por_miles_leche_en_polvo_descremada1\"}, {\"units\": \"Litros\", \"id\": \"AGRO_0079\", \"type\": \"number\", \"description\": \"cantidad_por_miles_quesos_baja_humedad1\", \"title\": \"cantidad_por_miles_quesos_baja_humedad1\"}, {\"units\": \"Litros\", \"id\": \"AGRO_0080\", \"type\": \"number\", \"description\": \"cantidad_por_miles_quesos_mediana_humedad1\", \"title\": \"cantidad_por_miles_quesos_mediana_humedad1\"}, {\"units\": \"Litros\", \"id\": \"AGRO_0081\", \"type\": \"number\", \"description\": \"cantidad_por_miles_quesos_alta_humedad1\", \"title\": \"cantidad_por_miles_quesos_alta_humedad1\"}, {\"units\": \"Litros\", \"id\": \"AGRO_0082\", \"type\": \"number\", \"description\": \"cantidad_por_miles_otros_prod_lacteos1\", \"title\": \"cantidad_por_miles_otros_prod_lacteos1\"}, {\"units\": \"Litros\", \"id\": \"AGRO_0083\", \"type\": \"number\", \"description\": \"cantidad_por_miles_leche_en_polvo_entera2\", \"title\": \"cantidad_por_miles_leche_en_polvo_entera2\"}, {\"units\": \"Litros\", \"id\": \"AGRO_0084\", \"type\": \"number\", \"description\": \"cantidad_por_miles_leche_en_polvo_descremada2\", \"title\": \"cantidad_por_miles_leche_en_polvo_descremada2\"}, {\"units\": \"Litros\", \"id\": \"AGRO_0085\", \"type\": \"number\", \"description\": \"cantidad_por_miles_quesos_baja_humedad2\", \"title\": \"cantidad_por_miles_quesos_baja_humedad2\"}, {\"units\": \"Litros\", \"id\": \"AGRO_0086\", \"type\": \"number\", \"description\": \"cantidad_por_miles_quesos_mediana_humedad2\", \"title\": \"cantidad_por_miles_quesos_mediana_humedad2\"}, {\"units\": \"Litros\", \"id\": \"AGRO_0087\", \"type\": \"number\", \"description\": \"cantidad_por_miles_quesos_alta_humedad2\", \"title\": \"cantidad_por_miles_quesos_alta_humedad2\"}, {\"units\": \"Litros\", \"id\": \"AGRO_0088\", \"type\": \"number\", \"description\": \"cantidad_por_miles_otros_prod2\", \"title\": \"cantidad_por_miles_otros_prod2\"}, {\"units\": \"Litros\", \"id\": \"AGRO_0089\", \"type\": \"number\", \"description\": \"cantidad_por_miles_leche_en_polvo_entera3\", \"title\": \"cantidad_por_miles_leche_en_polvo_entera3\"}, {\"units\": \"Litros\", \"id\": \"AGRO_0090\", \"type\": \"number\", \"description\": \"cantidad_por_miles_leche_en_polvo_desc3\", \"title\": \"cantidad_por_miles_leche_en_polvo_desc3\"}, {\"units\": \"Litros\", \"id\": \"AGRO_0091\", \"type\": \"number\", \"description\": \"cantidad_por_miles_quesos_baja_humedad3\", \"title\": \"cantidad_por_miles_quesos_baja_humedad3\"}, {\"units\": \"Litros\", \"id\": \"AGRO_0092\", \"type\": \"number\", \"description\": \"cantidad_por_miles_quesos_mediana_humedad3\", \"title\": \"cantidad_por_miles_quesos_mediana_humedad3\"}, {\"units\": \"Litros\", \"id\": \"AGRO_0093\", \"type\": \"number\", \"description\": \"cantidad_por_miles_quesos_alta_humedad3\", \"title\": \"cantidad_por_miles_quesos_alta_humedad3\"}, {\"units\": \"Litros\", \"id\": \"AGRO_0094\", \"type\": \"number\", \"description\": \"cantidad_por_miles_otros_prod3\", \"title\": \"cantidad_por_miles_otros_prod3\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-05-07T15:03:35.856385",
+      "datastore_active": false,
+      "description": "Evolucion de existencias lácteas desagregadas por mes y producto expresadas en litros equivalentes.",
+      "fileName": "serie-tiempo-existencias-lacteas-litros-equivalentes.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "agroindustria_6e79add0-52d6-4eaf-b715-4636259f3aed",
+      "last_modified": "2019-09-16T17:40:25.506567",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Serie de tiempo",
+      "package_id": "agroindustria_ad9e97d9-a427-4bea-af07-d0217b60eff4",
+      "position": 2,
+      "resource_type": "file.upload",
+      "revision_id": "3725f662-6624-438f-901c-feeff718f1f6",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.agroindustria.gob.ar/dataset/ad9e97d9-a427-4bea-af07-d0217b60eff4/resource/6e79add0-52d6-4eaf-b715-4636259f3aed/download/serie-tiempo-existencias-lacteas-litros-equivalentes.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "5e7cc7e4-277d-4eed-b866-e2dddaa067ae",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "lacteos",
+      "id": "9e6b26d8-1663-4102-b84b-8d3d36505c78",
+      "name": "lacteos",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "leche",
+      "id": "50198eec-058b-4999-a070-8cf268e8e576",
+      "name": "leche",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "leche en polvo",
+      "id": "5e130014-d6db-46ea-a8f9-fd79b8663b31",
+      "name": "leche en polvo",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "leche polvo",
+      "id": "f3bb9797-decc-498e-bfbb-bb3a46bb045c",
+      "name": "leche polvo",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "quesos",
+      "id": "b0b24e15-9255-46fc-b909-d521a750fa3e",
+      "name": "quesos",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "quesos alta humedad",
+      "id": "33f44644-4dd7-41f5-8876-bbc6ae0d59f9",
+      "name": "quesos alta humedad",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "quesos baja humedad",
+      "id": "c55e0018-8d75-4daf-a845-d5ad47e16e42",
+      "name": "quesos baja humedad",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "quesos mediana humedad",
+      "id": "0e2d1897-25d2-40df-bf08-25e0cb9491a6",
+      "name": "quesos mediana humedad",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "quesos pasta",
+      "id": "5ea64df0-968d-4a78-91a2-5dfeb31847ff",
+      "name": "quesos pasta",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "semidura",
+      "id": "ba84059b-9545-4346-b1ae-89464a0010e5",
+      "name": "semidura",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Lácteos - Existencias en litros equivalentes",
+  "type": "dataset",
+  "url": "https://datos.agroindustria.gob.ar/dataset/existencias-lacteas-litros-equivalentes",
+  "version": null
+}

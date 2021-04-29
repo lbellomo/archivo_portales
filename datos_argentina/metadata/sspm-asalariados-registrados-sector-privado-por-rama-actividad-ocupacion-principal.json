@@ -1,0 +1,124 @@
+{
+  "author": "Subsecretaría de Programación Macroeconómica",
+  "author_email": "datoseconomicos@mecon.gov.ar",
+  "creator_user_id": "4720e75a-9e17-4dc3-879d-041917c7f9f9",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P1M"
+    },
+    {
+      "key": "issued",
+      "value": "2017-09-28"
+    },
+    {
+      "key": "language",
+      "value": "[\"SPA\"]"
+    },
+    {
+      "key": "source",
+      "value": "Ministerio de Hacienda"
+    },
+    {
+      "key": "spatial",
+      "value": "ARG"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"ECON\"]"
+    },
+    {
+      "key": "temporal",
+      "value": "2009-01-01/2017-04-01"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Economía y finanzas",
+      "display_name": "Economía y finanzas",
+      "id": "60b4b03e-10a1-4d67-b984-08008a249617",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225257.200233economia-finanzas.svg",
+      "name": "econ",
+      "title": "Economía y finanzas"
+    }
+  ],
+  "id": "sspm_152",
+  "isopen": true,
+  "license_id": "CC-BY-4.0",
+  "license_title": "Creative Commons Attribution 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "maintainer": "Subsecretaría de Programación Macroeconómica.",
+  "maintainer_email": "datoseconomicos@mecon.gov.ar",
+  "metadata_created": "2019-11-26T15:04:56.688568",
+  "metadata_modified": "2021-04-29T17:05:34.350982",
+  "name": "sspm-asalariados-registrados-sector-privado-por-rama-actividad-ocupacion-principal",
+  "notes": "Total de asalariados registrados del sector privado según rama de actividad de la ocupación principal, en miles. Base 2009",
+  "num_resources": 1,
+  "num_tags": 2,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:09.718132",
+    "description": "",
+    "id": "68f9ee22-5ec3-44cf-a32b-b87d9db46b93",
+    "image_url": "",
+    "is_organization": true,
+    "name": "sspm",
+    "revision_id": "bc058ce0-3540-4204-96cd-9f9ec79045b3",
+    "state": "active",
+    "title": "Subsecretaría de Programación Macroeconómica",
+    "type": "organization"
+  },
+  "owner_org": "68f9ee22-5ec3-44cf-a32b-b87d9db46b93",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/",
+      "attributesDescription": "[{\"title\": \"indice_tiempo\", \"type\": \"date\", \"specialType\": \"time_index\", \"specialTypeDetail\": \"R/P1M\", \"id\": \"152.1_ICE_TIEMPO_2009_M_13\", \"scrapingIdentifierCell\": \"A12\", \"scrapingDataStartCell\": \"A13\", \"dataset_identifier\": \"152\", \"distribution_identifier\": \"152.1\"}, {\"title\": \"agricultura_ganaderia_caza_silvicultura_est\", \"type\": \"number\", \"description\": \"Asalariados. Sector privado. Agricultura, ganader\\u00eda y caza. Con estacionalidad.\", \"id\": \"152.1_ACULTUREST_2009_M_43\", \"scrapingIdentifierCell\": \"B12\", \"scrapingDataStartCell\": \"B13\", \"units\": \"Miles de Personas\", \"dataset_identifier\": \"152\", \"distribution_identifier\": \"152.1\"}, {\"title\": \"pesca_est\", \"type\": \"number\", \"description\": \"Asalariados. Sector privado. Pesca. Con estacionalidad.\", \"id\": \"152.1_PA_ESTEST_2009_M_9\", \"scrapingIdentifierCell\": \"C12\", \"scrapingDataStartCell\": \"C13\", \"units\": \"Miles de Personas\", \"dataset_identifier\": \"152\", \"distribution_identifier\": \"152.1\"}, {\"title\": \"explotacion_minas_canteras_est\", \"type\": \"number\", \"description\": \"Asalariados. Sector privado. Explotaci\\u00f3n de minas y canteras. Con estacionalidad.\", \"id\": \"152.1_EOTACIOEST_2009_M_30\", \"scrapingIdentifierCell\": \"D12\", \"scrapingDataStartCell\": \"D13\", \"units\": \"Miles de Personas\", \"dataset_identifier\": \"152\", \"distribution_identifier\": \"152.1\"}, {\"title\": \"industrias_manufactureras_est\", \"type\": \"number\", \"description\": \"Asalariados. Sector privado. Industrias manufactureras. Con estacionalidad.\", \"id\": \"152.1_ISTRIASEST_2009_M_29\", \"scrapingIdentifierCell\": \"E12\", \"scrapingDataStartCell\": \"E13\", \"units\": \"Miles de Personas\", \"dataset_identifier\": \"152\", \"distribution_identifier\": \"152.1\"}, {\"title\": \"suministro_electricidad_gas_agua_est\", \"type\": \"number\", \"description\": \"Asalariados. Sector privado. Suministro de electricidad, gas y agua. Con estacionalidad.\", \"id\": \"152.1_SNISTROEST_2009_M_36\", \"scrapingIdentifierCell\": \"F12\", \"scrapingDataStartCell\": \"F13\", \"units\": \"Miles de Personas\", \"dataset_identifier\": \"152\", \"distribution_identifier\": \"152.1\"}, {\"title\": \"construccion_est\", \"type\": \"number\", \"description\": \"Asalariados. Sector privado. Construcci\\u00f3n. Con estacionalidad.\", \"id\": \"152.1_CTRUCCIEST_2009_M_16\", \"scrapingIdentifierCell\": \"G12\", \"scrapingDataStartCell\": \"G13\", \"units\": \"Miles de Personas\", \"dataset_identifier\": \"152\", \"distribution_identifier\": \"152.1\"}, {\"title\": \"comercio_reparaciones_est\", \"type\": \"number\", \"description\": \"Asalariados. Sector privado. Comercio y reparaciones. Con estacionalidad.\", \"id\": \"152.1_CRCIO_REST_2009_M_25\", \"scrapingIdentifierCell\": \"H12\", \"scrapingDataStartCell\": \"H13\", \"units\": \"Miles de Personas\", \"dataset_identifier\": \"152\", \"distribution_identifier\": \"152.1\"}, {\"title\": \"hoteles_restaurantes_est\", \"type\": \"number\", \"description\": \"Asalariados. Sector privado. Hoteles y restaurantes. Con estacionalidad.\", \"id\": \"152.1_HLES_REEST_2009_M_24\", \"scrapingIdentifierCell\": \"I12\", \"scrapingDataStartCell\": \"I13\", \"units\": \"Miles de Personas\", \"dataset_identifier\": \"152\", \"distribution_identifier\": \"152.1\"}, {\"title\": \"transporte_almacen_comunicacion_est\", \"type\": \"number\", \"description\": \"Asalariados. Sector privado. Transporte, almacen y comunicaci\\u00f3n. Con estacionalidad.\", \"id\": \"152.1_TSPORTEEST_2009_M_35\", \"scrapingIdentifierCell\": \"J12\", \"scrapingDataStartCell\": \"J13\", \"units\": \"Miles de Personas\", \"dataset_identifier\": \"152\", \"distribution_identifier\": \"152.1\"}, {\"title\": \"intermediacion_financiera_est\", \"type\": \"number\", \"description\": \"Asalariados. Sector privado. Intermediaci\\u00f3n financiera. Con estacionalidad.\", \"id\": \"152.1_IRMEDIAEST_2009_M_29\", \"scrapingIdentifierCell\": \"K12\", \"scrapingDataStartCell\": \"K13\", \"units\": \"Miles de Personas\", \"dataset_identifier\": \"152\", \"distribution_identifier\": \"152.1\"}, {\"title\": \"actividades_inmobiliarias_empresariales_alquiler_est\", \"type\": \"number\", \"description\": \"Asalariados. Sector privado. Actividades inmobiliarias, empresariales y de alquiler. Con estacionalidad.\", \"id\": \"152.1_AVIDADEEST_2009_M_52\", \"scrapingIdentifierCell\": \"L12\", \"scrapingDataStartCell\": \"L13\", \"units\": \"Miles de Personas\", \"dataset_identifier\": \"152\", \"distribution_identifier\": \"152.1\"}, {\"title\": \"ensenanza_est\", \"type\": \"number\", \"description\": \"Asalariados. Sector privado. Ense\\u00f1anza. Con estacionalidad.\", \"id\": \"152.1_ENANZA_EST_2009_M_13\", \"scrapingIdentifierCell\": \"M12\", \"scrapingDataStartCell\": \"M13\", \"units\": \"Miles de Personas\", \"dataset_identifier\": \"152\", \"distribution_identifier\": \"152.1\"}, {\"title\": \"servicios_sociales_salud_est\", \"type\": \"number\", \"description\": \"Asalariados. Sector privado. Servicios sociales y de salud. Con estacionalidad.\", \"id\": \"152.1_SICIOS_EST_2009_M_28\", \"scrapingIdentifierCell\": \"N12\", \"scrapingDataStartCell\": \"N13\", \"units\": \"Miles de Personas\", \"dataset_identifier\": \"152\", \"distribution_identifier\": \"152.1\"}, {\"title\": \"servicios_comunitarios_sociales_personales_est\", \"type\": \"number\", \"description\": \"Asalariados. Sector privado. Servicios comunitarios, sociales y personales. Con estacionalidad.\", \"id\": \"152.1_SICIOS_EST_2009_M_46\", \"scrapingIdentifierCell\": \"O12\", \"scrapingDataStartCell\": \"O13\", \"units\": \"Miles de Personas\", \"dataset_identifier\": \"152\", \"distribution_identifier\": \"152.1\"}, {\"title\": \"sin_especificar_est\", \"type\": \"number\", \"description\": \"Asalariados. Sector privado. Sin especificar. Con estacionalidad.\", \"id\": \"152.1_SESPECIEST_2009_M_19\", \"scrapingIdentifierCell\": \"P12\", \"scrapingDataStartCell\": \"P13\", \"units\": \"Miles de Personas\", \"dataset_identifier\": \"152\", \"distribution_identifier\": \"152.1\"}, {\"title\": \"total_est\", \"type\": \"number\", \"description\": \"Asalariados. Sector privado. Total. Con estacionalidad.\", \"id\": \"152.1_TL_ESTEST_2009_M_9\", \"scrapingIdentifierCell\": \"Q12\", \"scrapingDataStartCell\": \"Q13\", \"units\": \"Miles de Personas\", \"dataset_identifier\": \"152\", \"distribution_identifier\": \"152.1\"}, {\"title\": \"agricultura_ganaderia_caza_silvicultura_sin_est\", \"type\": \"number\", \"description\": \"Asalariados. Sector privado. Agricultura, ganader\\u00eda y caza. Sin estacionalidad.\", \"id\": \"152.1_ACULTUREST_2009_M_47\", \"scrapingIdentifierCell\": \"T12\", \"scrapingDataStartCell\": \"T13\", \"units\": \"Miles de Personas\", \"dataset_identifier\": \"152\", \"distribution_identifier\": \"152.1\"}, {\"title\": \"pesca_sin_est\", \"type\": \"number\", \"description\": \"Asalariados. Sector privado. Pesca. Sin estacionalidad.\", \"id\": \"152.1_PA_SIN_EST_2009_M_13\", \"scrapingIdentifierCell\": \"U12\", \"scrapingDataStartCell\": \"U13\", \"units\": \"Miles de Personas\", \"dataset_identifier\": \"152\", \"distribution_identifier\": \"152.1\"}, {\"title\": \"explotacion_minas_canteras_sin_est\", \"type\": \"number\", \"description\": \"Asalariados. Sector privado. Explotaci\\u00f3n de minas y canteras. Sin estacionalidad.\", \"id\": \"152.1_EOTACIOEST_2009_M_34\", \"scrapingIdentifierCell\": \"V12\", \"scrapingDataStartCell\": \"V13\", \"units\": \"Miles de Personas\", \"dataset_identifier\": \"152\", \"distribution_identifier\": \"152.1\"}, {\"title\": \"industrias_manufactureras_sin_est\", \"type\": \"number\", \"description\": \"Asalariados. Sector privado. Industrias manufactureras. Sin estacionalidad.\", \"id\": \"152.1_ISTRIASEST_2009_M_33\", \"scrapingIdentifierCell\": \"W12\", \"scrapingDataStartCell\": \"W13\", \"units\": \"Miles de Personas\", \"dataset_identifier\": \"152\", \"distribution_identifier\": \"152.1\"}, {\"title\": \"suministro_electricidad_gas_agua_sin_est\", \"type\": \"number\", \"description\": \"Asalariados. Sector privado. Suministro de electricidad, gas y agua. Sin estacionalidad.\", \"id\": \"152.1_SNISTROEST_2009_M_40\", \"scrapingIdentifierCell\": \"X12\", \"scrapingDataStartCell\": \"X13\", \"units\": \"Miles de Personas\", \"dataset_identifier\": \"152\", \"distribution_identifier\": \"152.1\"}, {\"title\": \"construccion_sin_est\", \"type\": \"number\", \"description\": \"Asalariados. Sector privado. sinstrucci\\u00f3n. Sin estacionalidad.\", \"id\": \"152.1_CTRUCCIEST_2009_M_20\", \"scrapingIdentifierCell\": \"Y12\", \"scrapingDataStartCell\": \"Y13\", \"units\": \"Miles de Personas\", \"dataset_identifier\": \"152\", \"distribution_identifier\": \"152.1\"}, {\"title\": \"comercio_reparaciones_sin_est\", \"type\": \"number\", \"description\": \"Asalariados. Sector privado. Comercio y reparaciones. Sin estacionalidad.\", \"id\": \"152.1_CRCIO_REST_2009_M_29\", \"scrapingIdentifierCell\": \"Z12\", \"scrapingDataStartCell\": \"Z13\", \"units\": \"Miles de Personas\", \"dataset_identifier\": \"152\", \"distribution_identifier\": \"152.1\"}, {\"title\": \"hoteles_restaurantes_sin_est\", \"type\": \"number\", \"description\": \"Asalariados. Sector privado. Hoteles y restaurantes. Sin estacionalidad.\", \"id\": \"152.1_HLES_REEST_2009_M_28\", \"scrapingIdentifierCell\": \"AA12\", \"scrapingDataStartCell\": \"AA13\", \"units\": \"Miles de Personas\", \"dataset_identifier\": \"152\", \"distribution_identifier\": \"152.1\"}, {\"title\": \"transporte_almacen_comunicacion_sin_est\", \"type\": \"number\", \"description\": \"Asalariados. Sector privado. Transporte, almacen y comunicaci\\u00f3n. Sin estacionalidad.\", \"id\": \"152.1_TSPORTEEST_2009_M_39\", \"scrapingIdentifierCell\": \"AB12\", \"scrapingDataStartCell\": \"AB13\", \"units\": \"Miles de Personas\", \"dataset_identifier\": \"152\", \"distribution_identifier\": \"152.1\"}, {\"title\": \"intermediacion_financiera_sin_est\", \"type\": \"number\", \"description\": \"Asalariados. Sector privado. Intermediaci\\u00f3n financiera. Sin estacionalidad.\", \"id\": \"152.1_IRMEDIAEST_2009_M_33\", \"scrapingIdentifierCell\": \"AC12\", \"scrapingDataStartCell\": \"AC13\", \"units\": \"Miles de Personas\", \"dataset_identifier\": \"152\", \"distribution_identifier\": \"152.1\"}, {\"title\": \"actividades_inmobiliarias_empresariales_alquiler_sin_est\", \"type\": \"number\", \"description\": \"Asalariados. Sector privado. Actividades inmobiliarias, empresariales y de alquiler. Sin estacionalidad.\", \"id\": \"152.1_AVIDADEEST_2009_M_56\", \"scrapingIdentifierCell\": \"AD12\", \"scrapingDataStartCell\": \"AD13\", \"units\": \"Miles de Personas\", \"dataset_identifier\": \"152\", \"distribution_identifier\": \"152.1\"}, {\"title\": \"ensenanza_sin_est\", \"type\": \"number\", \"description\": \"Asalariados. Sector privado. Ense\\u00f1anza. Sin estacionalidad.\", \"id\": \"152.1_ENANZA_EST_2009_M_17\", \"scrapingIdentifierCell\": \"AE12\", \"scrapingDataStartCell\": \"AE13\", \"units\": \"Miles de Personas\", \"dataset_identifier\": \"152\", \"distribution_identifier\": \"152.1\"}, {\"title\": \"servicios_sociales_salud_sin_est\", \"type\": \"number\", \"description\": \"Asalariados. Sector privado. Servicios sociales y de salud. Sin estacionalidad.\", \"id\": \"152.1_SICIOS_EST_2009_M_32\", \"scrapingIdentifierCell\": \"AF12\", \"scrapingDataStartCell\": \"AF13\", \"units\": \"Miles de Personas\", \"dataset_identifier\": \"152\", \"distribution_identifier\": \"152.1\"}, {\"title\": \"servicios_comunitarios_sociales_personales_sin_est\", \"type\": \"number\", \"description\": \"Asalariados. Sector privado. Servicios comunitarios, sociales y personales. Sin estacionalidad.\", \"id\": \"152.1_SICIOS_EST_2009_M_50\", \"scrapingIdentifierCell\": \"AG12\", \"scrapingDataStartCell\": \"AG13\", \"units\": \"Miles de Personas\", \"dataset_identifier\": \"152\", \"distribution_identifier\": \"152.1\"}, {\"title\": \"sin_especificar_sin_est\", \"type\": \"number\", \"description\": \"Asalariados. Sector privado. Sin especificar. Sin estacionalidad.\", \"id\": \"152.1_SESPECIEST_2009_M_23\", \"scrapingIdentifierCell\": \"AH12\", \"scrapingDataStartCell\": \"AH13\", \"units\": \"Miles de Personas\", \"dataset_identifier\": \"152\", \"distribution_identifier\": \"152.1\"}, {\"title\": \"total_sin_est\", \"type\": \"number\", \"description\": \"Asalariados. Sector privado. Total. Sin estacionalidad.\", \"id\": \"152.1_TL_SIN_EST_2009_M_13\", \"scrapingIdentifierCell\": \"AI12\", \"scrapingDataStartCell\": \"AI13\", \"units\": \"Miles de Personas\", \"dataset_identifier\": \"152\", \"distribution_identifier\": \"152.1\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-09-28T00:00:00",
+      "datastore_active": false,
+      "description": "Asalariados registrados del sec. Priv. Según rama de actividad de la ocupación. Valores mensuales",
+      "fileName": "asalariados-registrados-sector-privado-segun-rama-actividad-ocupacion-mensual-base-2009.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "sspm_152.1",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Asalariados registrados del sector privado, por rama de actividad de la ocupacion. Base 2009. Valores mensuales",
+      "package_id": "sspm_152",
+      "position": 0,
+      "resource_type": null,
+      "revision_id": "42ef9b45-05c8-4a78-a79f-a448fd133ca1",
+      "size": null,
+      "state": "active",
+      "url": "https://infra.datos.gob.ar/catalog/sspm/dataset/152/distribution/152.1/download/asalariados-registrados-sector-privado-segun-rama-actividad-ocupacion-mensual-base-2009.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "42ef9b45-05c8-4a78-a79f-a448fd133ca1",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "Empleo e Ingresos",
+      "id": "0d41bcfd-c3a4-4ff7-8aa1-dd5c3ac51d0b",
+      "name": "Empleo e Ingresos",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Información Económica al Día",
+      "id": "0d300a9a-0802-46c3-9a40-2f28ddf050ec",
+      "name": "Información Económica al Día",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Asalariados registrados del sector privado, por rama de actividad de la ocupación principal.",
+  "type": "dataset",
+  "url": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/",
+  "version": null
+}

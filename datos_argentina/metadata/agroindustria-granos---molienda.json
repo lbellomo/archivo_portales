@@ -1,0 +1,194 @@
+{
+  "author": "Subsecretaría de Mercados Agropecuarios, Dirección de Mercados Agrícolas",
+  "author_email": "sma@magyp.gob.ar",
+  "creator_user_id": "dc157489-51c6-44ce-bd63-3bd983d60778",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P1M"
+    },
+    {
+      "key": "issued",
+      "value": "2018-12-07T21:28:40.665779"
+    },
+    {
+      "key": "language",
+      "value": "[\"spa\"]"
+    },
+    {
+      "key": "modified",
+      "value": "2019-10-24T11:25:19.152258"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"AGRI\"]"
+    },
+    {
+      "key": "temporal",
+      "value": "1950-01-01T03:00:00.000Z/2015-12-31T03:00:00.000Z"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Agroganadería, pesca y forestación",
+      "display_name": "Agroganadería, pesca y forestación",
+      "id": "0c35ea38-7059-41d2-9827-5587769d0dc6",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225145.990789agroganaderia-pesca-forestacion.svg",
+      "name": "agri",
+      "title": "Agroganadería, pesca y forestación"
+    }
+  ],
+  "id": "agroindustria_c0d9a055-7c21-4616-840b-f70410996489",
+  "isopen": true,
+  "license_id": "CC-BY-4.0",
+  "license_title": "Creative Commons Attribution 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "maintainer": null,
+  "maintainer_email": null,
+  "metadata_created": "2019-12-04T21:12:56.454436",
+  "metadata_modified": "2021-04-29T17:10:38.674637",
+  "name": "agroindustria-granos---molienda",
+  "notes": "Serie de molienda por cultivo y año de la República Argentina. Los valores de molienda se expresan en toneladas.",
+  "num_resources": 2,
+  "num_tags": 9,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:07.834957",
+    "description": "",
+    "id": "b10c94e2-ade1-4a97-8c4c-b1ada7878d60",
+    "image_url": "",
+    "is_organization": true,
+    "name": "agroindustria",
+    "revision_id": "f7c3b6e9-d48f-4522-9f7a-388d805c8392",
+    "state": "active",
+    "title": "Ministerio de Agricultura, Ganadería y Pesca",
+    "type": "organization"
+  },
+  "owner_org": "b10c94e2-ade1-4a97-8c4c-b1ada7878d60",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "http://datos2.agroindustria.gob.ar/dataset/c0d9a055-7c21-4616-840b-f70410996489/archivo/b3d4cfd1-97bd-4590-9797-a347f863c23c",
+      "attributesDescription": "[{\"type\": \"integer\", \"description\": \"pais_id\", \"title\": \"pais_id\"}, {\"type\": \"string\", \"description\": \"nom_pais\", \"title\": \"nom_pais\"}, {\"type\": \"integer\", \"description\": \"a\\u0144o\", \"title\": \"a\\u0144o\"}, {\"type\": \"string\", \"description\": \"uni_med_id\", \"title\": \"uni_med_id\"}, {\"type\": \"string\", \"description\": \"nom_unimed\", \"title\": \"nom_unimed\"}, {\"type\": \"integer\", \"description\": \"lino\", \"title\": \"lino\"}, {\"type\": \"integer\", \"description\": \"girasol\", \"title\": \"girasol\"}, {\"type\": \"integer\", \"description\": \"man\\u00ed\", \"title\": \"man\\u00ed\"}, {\"type\": \"integer\", \"description\": \"trigo candeal\", \"title\": \"trigo candeal\"}, {\"type\": \"integer\", \"description\": \"trigo pan\", \"title\": \"trigo pan\"}, {\"type\": \"integer\", \"description\": \"maiz\", \"title\": \"maiz\"}, {\"type\": \"integer\", \"description\": \"sorgo granifero\", \"title\": \"sorgo granifero\"}, {\"type\": \"integer\", \"description\": \"soja\", \"title\": \"soja\"}, {\"type\": \"integer\", \"description\": \"arroz\", \"title\": \"arroz\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-08-02T16:20:27.045987",
+      "datastore_active": false,
+      "description": "Serie de Molienda por cultivo y año de la República Argentina. Los valores de molienda se expresan en toneladas.",
+      "fileName": "molienda-de-granos-a-diciembre-2017.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "agroindustria_b3d4cfd1-97bd-4590-9797-a347f863c23c",
+      "last_modified": "2019-01-22T21:25:02.539553",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Molienda de granos",
+      "package_id": "agroindustria_c0d9a055-7c21-4616-840b-f70410996489",
+      "position": 0,
+      "resource_type": "file.upload",
+      "revision_id": "479344b7-3f2b-4cd9-8c66-27b9ce0de59a",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.agroindustria.gob.ar/dataset/c0d9a055-7c21-4616-840b-f70410996489/resource/b3d4cfd1-97bd-4590-9797-a347f863c23c/download/molienda-de-granos-a-diciembre-2017.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos.agroindustria.gob.ar/dataset/c0d9a055-7c21-4616-840b-f70410996489/resource/1c3fb8f1-065c-4b2b-8b25-c32b1a14a241",
+      "attributesDescription": "[{\"specialType\": \"time_index\", \"specialTypeDetail\": \"R/P1Y\", \"type\": \"date\", \"description\": \"A\\u00f1o correspondiente\", \"title\": \"indice_tiempo\"}, {\"units\": \"toneladas\", \"id\": \"AGRO_0012\", \"type\": \"integer\", \"description\": \"Cantidad de toneladas molidas de lino\", \"title\": \"molienda_lino\"}, {\"units\": \"toneladas\", \"id\": \"AGRO_0013\", \"type\": \"integer\", \"description\": \"Cantidad de toneladas molidas de girasol\\n\", \"title\": \"molienda_girasol\"}, {\"units\": \"toneladas\", \"id\": \"AGRO_0014\", \"type\": \"integer\", \"description\": \"Cantidad de toneladas molidas de man\\u00ed\\n\", \"title\": \"molienda_mani\"}, {\"units\": \"toneladas\", \"id\": \"AGRO_0015\", \"type\": \"integer\", \"description\": \"Cantidad de toneladas molidas de trigo candeal\\n\", \"title\": \"molienda_trigo_candeal\"}, {\"units\": \"toneladas\", \"id\": \"AGRO_0016\", \"type\": \"integer\", \"description\": \"Cantidad de toneladas molidas de trigo pan\", \"title\": \"molienda_trigo_pan\"}, {\"units\": \"toneladas\", \"id\": \"AGRO_0017\", \"type\": \"integer\", \"description\": \"Cantidad de toneladas molidas de ma\\u00edz\\n\", \"title\": \"molienda_maiz\"}, {\"units\": \"toneladas\", \"id\": \"AGRO_0018\", \"type\": \"integer\", \"description\": \"Cantidad de toneladas molidas de sorgo gran\\u00edfero\", \"title\": \"molienda_sorgo_granifero\"}, {\"units\": \"toneladas\", \"id\": \"AGRO_0011\", \"type\": \"integer\", \"description\": \"Cantidad de toneladas molidas de soja\\n\", \"title\": \"molienda_soja\"}, {\"units\": \"toneladas\", \"id\": \"AGRO_0019\", \"type\": \"integer\", \"description\": \"Cantidad de toneladas molidas de arroz\\n\", \"title\": \"molienda_arroz\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2018-12-20T18:00:29.116232",
+      "datastore_active": false,
+      "description": "Serie de tiempo de molienda por cultivo y año de la República Argentina.",
+      "fileName": "molienda_granos.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "agroindustria_1c3fb8f1-065c-4b2b-8b25-c32b1a14a241",
+      "last_modified": "2019-05-06T12:59:16.112274",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Serie de tiempo",
+      "package_id": "agroindustria_c0d9a055-7c21-4616-840b-f70410996489",
+      "position": 1,
+      "resource_type": "file.upload",
+      "revision_id": "9529218e-63b1-4345-9ad0-0de9db63b5fc",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.agroindustria.gob.ar/dataset/c0d9a055-7c21-4616-840b-f70410996489/resource/1c3fb8f1-065c-4b2b-8b25-c32b1a14a241/download/molienda_granos.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "cda0e3c6-2420-4d65-aea1-7c0046075daa",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "arroz",
+      "id": "0505d80b-cf0d-492f-855a-1bd28981237f",
+      "name": "arroz",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "girasol",
+      "id": "0a6c0a50-77c6-448a-af4d-e5d9a869e21c",
+      "name": "girasol",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "lino",
+      "id": "a76d55de-8f3e-41bd-bc8b-9d8eaac37692",
+      "name": "lino",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "maiz",
+      "id": "ae324ffd-6569-440f-ae0f-27edc3ac104a",
+      "name": "maiz",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "mani",
+      "id": "288f6707-c6e1-4bc2-97b3-6719e3370832",
+      "name": "mani",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "molienda",
+      "id": "0a96f44a-6667-4e1a-9111-73d7b1ff61b6",
+      "name": "molienda",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "soja",
+      "id": "fcbafe29-23bd-47c6-8253-eaba1377cd8f",
+      "name": "soja",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "sorgo",
+      "id": "f5386bee-4546-4f3d-9076-2b4b2bea0833",
+      "name": "sorgo",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "trigo",
+      "id": "ba98c56a-aab4-45cf-8592-9025a6c14ca9",
+      "name": "trigo",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Granos - Molienda",
+  "type": "dataset",
+  "url": "https://datos.agroindustria.gob.ar/dataset/molienda-granos",
+  "version": null
+}

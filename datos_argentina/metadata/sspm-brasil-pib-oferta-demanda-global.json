@@ -1,0 +1,138 @@
+{
+  "author": "Subsecretaría de Programación Macroeconómica",
+  "author_email": "datoseconomicos@mecon.gov.ar",
+  "creator_user_id": "4720e75a-9e17-4dc3-879d-041917c7f9f9",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P3M"
+    },
+    {
+      "key": "issued",
+      "value": "2017-10-30"
+    },
+    {
+      "key": "language",
+      "value": "[\"SPA\"]"
+    },
+    {
+      "key": "source",
+      "value": "Ministerio de Hacienda"
+    },
+    {
+      "key": "spatial",
+      "value": "BRA"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"ECON\"]"
+    },
+    {
+      "key": "temporal",
+      "value": "1995-01-01/2017-06-30"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Economía y finanzas",
+      "display_name": "Economía y finanzas",
+      "id": "60b4b03e-10a1-4d67-b984-08008a249617",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225257.200233economia-finanzas.svg",
+      "name": "econ",
+      "title": "Economía y finanzas"
+    }
+  ],
+  "id": "sspm_308",
+  "isopen": true,
+  "license_id": "CC-BY-4.0",
+  "license_title": "Creative Commons Attribution 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "maintainer": "Subsecretaría de Programación Macroeconómica.",
+  "maintainer_email": "datoseconomicos@mecon.gov.ar",
+  "metadata_created": "2019-11-26T15:04:50.952102",
+  "metadata_modified": "2021-04-29T17:05:56.972424",
+  "name": "sspm-brasil-pib-oferta-demanda-global",
+  "notes": "Brasil PIB Oferta y demanda global",
+  "num_resources": 1,
+  "num_tags": 4,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:09.718132",
+    "description": "",
+    "id": "68f9ee22-5ec3-44cf-a32b-b87d9db46b93",
+    "image_url": "",
+    "is_organization": true,
+    "name": "sspm",
+    "revision_id": "bc058ce0-3540-4204-96cd-9f9ec79045b3",
+    "state": "active",
+    "title": "Subsecretaría de Programación Macroeconómica",
+    "type": "organization"
+  },
+  "owner_org": "68f9ee22-5ec3-44cf-a32b-b87d9db46b93",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/",
+      "attributesDescription": "[{\"title\": \"indice_tiempo\", \"type\": \"date\", \"specialType\": \"time_index\", \"specialTypeDetail\": \"R/P3M\", \"id\": \"308.1_INDICE_TIEMPO_0_T_13\", \"scrapingIdentifierCell\": \"A8\", \"scrapingDataStartCell\": \"A9\", \"dataset_identifier\": \"308\", \"distribution_identifier\": \"308.1\"}, {\"title\": \"pib_agropecuario\", \"type\": \"number\", \"description\": \"Del sector Agropecuario de Brasil\", \"id\": \"308.1_PIB_AGROPERIO_0_T_16\", \"scrapingIdentifierCell\": \"B8\", \"scrapingDataStartCell\": \"B9\", \"units\": \"Variaci\\u00f3n porcentual\", \"dataset_identifier\": \"308\", \"distribution_identifier\": \"308.1\"}, {\"title\": \"pib_industria\", \"type\": \"number\", \"description\": \"Del sector Industria de Brasil\", \"id\": \"308.1_PIB_INDUSTRIA_0_T_13\", \"scrapingIdentifierCell\": \"C8\", \"scrapingDataStartCell\": \"C9\", \"units\": \"Variaci\\u00f3n porcentual\", \"dataset_identifier\": \"308\", \"distribution_identifier\": \"308.1\"}, {\"title\": \"pib_servicios\", \"type\": \"number\", \"description\": \"Del sector Servicios de Brasil\", \"id\": \"308.1_PIB_SERVICIOS_0_T_13\", \"scrapingIdentifierCell\": \"D8\", \"scrapingDataStartCell\": \"D9\", \"units\": \"Variaci\\u00f3n porcentual\", \"dataset_identifier\": \"308\", \"distribution_identifier\": \"308.1\"}, {\"title\": \"pib_pib\", \"type\": \"number\", \"description\": \"Del PIB de Brasil\", \"id\": \"308.1_PIB_PIBPIB_0_T_7\", \"scrapingIdentifierCell\": \"E8\", \"scrapingDataStartCell\": \"E9\", \"units\": \"Variaci\\u00f3n porcentual\", \"dataset_identifier\": \"308\", \"distribution_identifier\": \"308.1\"}, {\"title\": \"pib_consumo\", \"type\": \"number\", \"description\": \"Del sector Consumo de Brasil\", \"id\": \"308.1_PIB_CONSUMUMO_0_T_11\", \"scrapingIdentifierCell\": \"F8\", \"scrapingDataStartCell\": \"F9\", \"units\": \"Variaci\\u00f3n porcentual\", \"dataset_identifier\": \"308\", \"distribution_identifier\": \"308.1\"}, {\"title\": \"pib_gasto_publico\", \"type\": \"number\", \"description\": \"Del sector Gasto p\\u00fablico de Brasil\", \"id\": \"308.1_PIB_GASTO_ICO_0_T_17\", \"scrapingIdentifierCell\": \"G8\", \"scrapingDataStartCell\": \"G9\", \"units\": \"Variaci\\u00f3n porcentual\", \"dataset_identifier\": \"308\", \"distribution_identifier\": \"308.1\"}, {\"title\": \"pib_inversion_privada\", \"type\": \"number\", \"description\": \"De Inversi\\u00f3n privada de Brasil\", \"id\": \"308.1_PIB_INVERSADA_0_T_21\", \"scrapingIdentifierCell\": \"H8\", \"scrapingDataStartCell\": \"H9\", \"units\": \"Variaci\\u00f3n porcentual\", \"dataset_identifier\": \"308\", \"distribution_identifier\": \"308.1\"}, {\"title\": \"pib_exportaciones\", \"type\": \"number\", \"description\": \"De Exportaciones de Brasil\", \"id\": \"308.1_PIB_EXPORTNES_0_T_17\", \"scrapingIdentifierCell\": \"I8\", \"scrapingDataStartCell\": \"I9\", \"units\": \"Variaci\\u00f3n porcentual\", \"dataset_identifier\": \"308\", \"distribution_identifier\": \"308.1\"}, {\"title\": \"pib_importaciones\", \"type\": \"number\", \"description\": \"De Importaciones de Brasil\", \"id\": \"308.1_PIB_IMPORTNES_0_T_17\", \"scrapingIdentifierCell\": \"J8\", \"scrapingDataStartCell\": \"J9\", \"units\": \"Variaci\\u00f3n porcentual\", \"dataset_identifier\": \"308\", \"distribution_identifier\": \"308.1\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-10-30T00:00:00",
+      "datastore_active": false,
+      "description": "Oferta y demanda global. Valores trimestrales",
+      "fileName": "brasil-pib-oferta-y-demanda-global.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "sspm_308.1",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Brasil PIB Oferta y demanda global. Valores trimestrales",
+      "package_id": "sspm_308",
+      "position": 0,
+      "resource_type": null,
+      "revision_id": "a8adb18f-4f79-44b8-b7ff-d142b7fae837",
+      "size": null,
+      "state": "active",
+      "url": "https://infra.datos.gob.ar/catalog/sspm/dataset/308/distribution/308.1/download/brasil-pib-oferta-y-demanda-global.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "a8adb18f-4f79-44b8-b7ff-d142b7fae837",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "Actividad",
+      "id": "a7695c51-c893-4ece-8ff9-306c197afdd7",
+      "name": "Actividad",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Economía Internacional",
+      "id": "260fd24c-9abc-4b59-b810-6c7f9ccd538d",
+      "name": "Economía Internacional",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Información Económica al Día",
+      "id": "0d300a9a-0802-46c3-9a40-2f28ddf050ec",
+      "name": "Información Económica al Día",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Internacional",
+      "id": "380bd819-36c2-40ab-917e-a0ac0fb1e76f",
+      "name": "Internacional",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Brasil PIB Oferta y demanda global",
+  "type": "dataset",
+  "url": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/",
+  "version": null
+}

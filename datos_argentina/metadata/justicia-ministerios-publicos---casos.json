@@ -1,0 +1,449 @@
+{
+  "author": "Ministerio de Justicia y Derechos Humanos. Secretaría de Justicia. Subsecretaría de Justicia y Política Criminal. Programa de Justicia Abierta",
+  "author_email": "justiciaabierta@jus.gov.ar",
+  "creator_user_id": "dc157489-51c6-44ce-bd63-3bd983d60778",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "eventual"
+    },
+    {
+      "key": "issued",
+      "value": "2019-05-09T18:58:41.072875"
+    },
+    {
+      "key": "modified",
+      "value": "2021-03-31T12:50:07.223381"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"JUST\"]"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Justicia, seguridad y legales",
+      "display_name": "Justicia, seguridad y legales",
+      "id": "69ac5e1d-79f0-4470-9514-8a173d9ae44c",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225406.604073justicia-seguridad-legales.svg",
+      "name": "just",
+      "title": "Justicia, seguridad y legales"
+    }
+  ],
+  "id": "justicia_731b108b-5d8d-4d98-9b50-c897cd9c2d52",
+  "isopen": true,
+  "license_id": "CC-BY-4.0",
+  "license_title": "Creative Commons Attribution 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "maintainer": "Ministerio de Justicia y Derechos Humanos. Secretaría de Justicia. Subsecretaría de Justicia y Política Criminal. Programa de Justicia Abierta",
+  "maintainer_email": "justiciaabierta@jus.gov.ar",
+  "metadata_created": "2019-12-04T20:02:38.929301",
+  "metadata_modified": "2021-04-29T17:06:45.328642",
+  "name": "justicia-ministerios-publicos---casos",
+  "notes": "En este conjunto de datos se presentan los datos obtenidos a partir de datos primarios remitidos por los ministerios públicos, siguiendo el Protocolo Técnico de Datos y de Procesos, en el marco del Convenio Interjurisdiccional de Datos Abiertos de Justicia.",
+  "num_resources": 6,
+  "num_tags": 34,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:10.018297",
+    "description": "",
+    "id": "06b380f8-888f-43c0-8367-16a7ddf47d4f",
+    "image_url": "",
+    "is_organization": true,
+    "name": "justicia",
+    "revision_id": "637d68f0-a296-4d39-b846-4370270a96a1",
+    "state": "active",
+    "title": " Ministerio de Justicia y Derechos Humanos",
+    "type": "organization"
+  },
+  "owner_org": "06b380f8-888f-43c0-8367-16a7ddf47d4f",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "http://datos.jus.gob.ar/dataset/731b108b-5d8d-4d98-9b50-c897cd9c2d52/resource/2c914212-fc66-49a4-b9a7-ab88a58fb57b",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-05-10T09:10:40.524561",
+      "datastore_active": false,
+      "description": "Datos obtenidos a partir de datos primarios remitidos por los ministerios públicos, correspondientes a actos procesales.",
+      "format": "ZIP",
+      "hash": "",
+      "id": "justicia_2c914212-fc66-49a4-b9a7-ab88a58fb57b",
+      "last_modified": "2021-03-31T09:47:33.078839",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Ministerios públicos - Actos procesales",
+      "package_id": "justicia_731b108b-5d8d-4d98-9b50-c897cd9c2d52",
+      "position": 0,
+      "resource_type": null,
+      "revision_id": "97f1cea1-8c24-42fb-a4e1-5d202871cc7a",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.jus.gob.ar/dataset/731b108b-5d8d-4d98-9b50-c897cd9c2d52/resource/2c914212-fc66-49a4-b9a7-ab88a58fb57b/download/ministerios-publicos-actos-procesales.zip",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos.jus.gob.ar/dataset/731b108b-5d8d-4d98-9b50-c897cd9c2d52/resource/498fb9a5-5175-4f06-8209-a0a3ae9b3e6d",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-05-09T16:36:15.781035",
+      "datastore_active": false,
+      "description": "Muestreo de 1000 registros, obtenidos a partir de datos primarios remitidos por los ministerios públicos, correspondientes a actos procesales. Los datos completos están publicados en formato zip",
+      "format": "CSV",
+      "hash": "",
+      "id": "justicia_498fb9a5-5175-4f06-8209-a0a3ae9b3e6d",
+      "last_modified": "2021-03-31T09:43:32.318003",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Ministerios públicos - Actos procesales - Muestreo",
+      "package_id": "justicia_731b108b-5d8d-4d98-9b50-c897cd9c2d52",
+      "position": 1,
+      "resource_type": null,
+      "revision_id": "97f1cea1-8c24-42fb-a4e1-5d202871cc7a",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.jus.gob.ar/dataset/731b108b-5d8d-4d98-9b50-c897cd9c2d52/resource/498fb9a5-5175-4f06-8209-a0a3ae9b3e6d/download/ministerios-publicos-actos-procesales-muestreo.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos.jus.gob.ar/dataset/731b108b-5d8d-4d98-9b50-c897cd9c2d52/resource/60ea3973-a2c1-4a69-88da-21f59f825d84",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-05-09T16:29:22.333886",
+      "datastore_active": false,
+      "description": "Muestreo de 1000 registros, obtenidos a partir de datos primarios remitidos por los ministerios públicos, correspondientes a casos iniciados. Los datos completos están publicados en formato zip",
+      "format": "CSV",
+      "hash": "",
+      "id": "justicia_60ea3973-a2c1-4a69-88da-21f59f825d84",
+      "last_modified": "2021-03-31T09:44:11.260757",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Ministerios públicos - Casos iniciados - Muestreo",
+      "package_id": "justicia_731b108b-5d8d-4d98-9b50-c897cd9c2d52",
+      "position": 2,
+      "resource_type": null,
+      "revision_id": "97f1cea1-8c24-42fb-a4e1-5d202871cc7a",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.jus.gob.ar/dataset/731b108b-5d8d-4d98-9b50-c897cd9c2d52/resource/60ea3973-a2c1-4a69-88da-21f59f825d84/download/ministerios-publicos-casos-iniciados-muestreo.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos.jus.gob.ar/dataset/731b108b-5d8d-4d98-9b50-c897cd9c2d52/resource/70328a19-14d8-4bcf-9e3e-b0f425f57db0",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-05-14T16:10:58.998144",
+      "datastore_active": false,
+      "description": "Índice de provincias y años disponibles publicados.",
+      "format": "CSV",
+      "hash": "",
+      "id": "justicia_70328a19-14d8-4bcf-9e3e-b0f425f57db0",
+      "last_modified": "2021-03-31T09:44:34.211190",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Ministerios Públicos - provincias y años disponibles",
+      "package_id": "justicia_731b108b-5d8d-4d98-9b50-c897cd9c2d52",
+      "position": 3,
+      "resource_type": null,
+      "revision_id": "97f1cea1-8c24-42fb-a4e1-5d202871cc7a",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.jus.gob.ar/dataset/731b108b-5d8d-4d98-9b50-c897cd9c2d52/resource/70328a19-14d8-4bcf-9e3e-b0f425f57db0/download/ministerios-publicos-provincias-y-anios-disponibles.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos.jus.gob.ar/dataset/731b108b-5d8d-4d98-9b50-c897cd9c2d52/resource/d514bfca-eec7-4f72-9a1a-3b2eb8bada5e",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2020-09-28T22:20:06.505038",
+      "datastore_active": false,
+      "description": "Gráficos estadísticos elaborados en base a los datos primarios remitidos por los ministerios públicos, correspondientes a casos iniciados y a actos procesales",
+      "format": "Gráfico",
+      "hash": "",
+      "id": "justicia_d514bfca-eec7-4f72-9a1a-3b2eb8bada5e",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Gráficos estadísticos de los casos iniciados en los Ministerios Públicos",
+      "package_id": "justicia_731b108b-5d8d-4d98-9b50-c897cd9c2d52",
+      "position": 4,
+      "resource_type": null,
+      "revision_id": "64e313ec-0bec-49f4-b8a4-70fd37d2b974",
+      "size": null,
+      "state": "active",
+      "url": "https://public.tableau.com/profile/justicia.abierta#!/vizhome/EstadisticasjudicialesMinisterioPblicoFiscal/PENALMPF",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos.jus.gob.ar/dataset/731b108b-5d8d-4d98-9b50-c897cd9c2d52/resource/72406ac0-ec55-4324-8406-3aaf367e26fa",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-05-09T16:05:31.587722",
+      "datastore_active": false,
+      "description": "Datos obtenidos a partir de datos primarios remitidos por los ministerios públicos, correspondientes a casos iniciados.",
+      "format": "ZIP",
+      "hash": "",
+      "id": "justicia_72406ac0-ec55-4324-8406-3aaf367e26fa",
+      "last_modified": "2021-03-31T09:50:07.195524",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Ministerios públicos - Casos iniciados",
+      "package_id": "justicia_731b108b-5d8d-4d98-9b50-c897cd9c2d52",
+      "position": 5,
+      "resource_type": null,
+      "revision_id": "97f1cea1-8c24-42fb-a4e1-5d202871cc7a",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.jus.gob.ar/dataset/731b108b-5d8d-4d98-9b50-c897cd9c2d52/resource/72406ac0-ec55-4324-8406-3aaf367e26fa/download/ministerios-publicos-casos-iniciados.zip",
+      "url_type": null
+    }
+  ],
+  "revision_id": "8b048349-0a60-4328-9c65-527c0562d722",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "Buenos Aires",
+      "id": "a64d8bda-865a-4f0d-ba0c-5cc2adfda147",
+      "name": "Buenos Aires",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Catamarca",
+      "id": "390c55ad-fe7d-4606-8f08-85269de97b38",
+      "name": "Catamarca",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Chaco",
+      "id": "e3286e11-fc9b-4fd8-a16a-228328eac19f",
+      "name": "Chaco",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Chubut",
+      "id": "31b31a0b-5ecb-4c09-a842-53ba71128475",
+      "name": "Chubut",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Ciudad Autónoma de Buenos Aires",
+      "id": "942f81b6-f4e9-4143-a43e-afa4b4fa2673",
+      "name": "Ciudad Autónoma de Buenos Aires",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Corrientes",
+      "id": "f2038a5f-e254-4f51-8f4f-069ae50c7ddb",
+      "name": "Corrientes",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Córdoba",
+      "id": "60077799-c6f2-42ff-a94f-7ba128ddf67a",
+      "name": "Córdoba",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Entre Ríos",
+      "id": "edde64f2-98b1-4e29-8908-7684437a439b",
+      "name": "Entre Ríos",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Formosa",
+      "id": "462e3b6c-3655-4e06-808a-0489ab0d59e4",
+      "name": "Formosa",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Instituciones de Justicia",
+      "id": "4530aca9-51ff-4bec-ad01-7560402f81e5",
+      "name": "Instituciones de Justicia",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Jujuy",
+      "id": "e840e4eb-4243-4d8d-bf13-b8a068f04e1a",
+      "name": "Jujuy",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "La Pampa",
+      "id": "964ccb10-2ecc-4944-a4c2-7c5d705b46c2",
+      "name": "La Pampa",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "La Rioja",
+      "id": "467b4f8d-c7d4-4a22-9241-133e5e00a8ae",
+      "name": "La Rioja",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Mendoza",
+      "id": "57a86743-2e26-4f17-8ae7-760d624e890a",
+      "name": "Mendoza",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Misiones",
+      "id": "88b01243-8df4-423f-a7e7-c816d3c59cfc",
+      "name": "Misiones",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Neuquén",
+      "id": "0b661e1b-df10-43f5-bc27-2b87789ffc7d",
+      "name": "Neuquén",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Río Negro",
+      "id": "b10d429c-76ed-499e-a162-d4f49749d5b1",
+      "name": "Río Negro",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Salta",
+      "id": "75690a55-6ca2-4952-ad7f-fa5b6ed4f22b",
+      "name": "Salta",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "San Juan",
+      "id": "7b962c68-4dc2-4cad-81cb-7e0a90e1fdd0",
+      "name": "San Juan",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "San Luis",
+      "id": "4087bdaf-26bb-414f-9169-774a945962f3",
+      "name": "San Luis",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Santa Cruz",
+      "id": "3a0df385-9ffa-4459-89ea-6d34d051dd98",
+      "name": "Santa Cruz",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Santa Fe",
+      "id": "a0d13c88-5e93-4639-abd6-639c3eba7100",
+      "name": "Santa Fe",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Santiago del Estero",
+      "id": "ed368a40-734b-40e7-be46-e8d526d1b88b",
+      "name": "Santiago del Estero",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Tierra del Fuego",
+      "id": "b3233b60-f44f-40e2-9aa4-9b77a35437e6",
+      "name": "Tierra del Fuego",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Tucumán",
+      "id": "f09d9c12-9a5e-49eb-b1fe-ff617fdb9181",
+      "name": "Tucumán",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "actos procesales",
+      "id": "6eb52fbb-0cf3-4d6d-92d9-ab05922fc55c",
+      "name": "actos procesales",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "casos",
+      "id": "f00ed300-2cf5-4306-82ad-126107029807",
+      "name": "casos",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "código penal",
+      "id": "91af4c28-4671-4952-9136-99efd9efa5f5",
+      "name": "código penal",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "delitos",
+      "id": "0a650bd4-0c75-4525-ba11-087d486e4d7c",
+      "name": "delitos",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "instituciones",
+      "id": "946ce69f-0784-4f43-a887-52c604bdf71e",
+      "name": "instituciones",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "investigacion penal preparatoria",
+      "id": "183b01fd-79ea-412d-834c-8a6f76bd7792",
+      "name": "investigacion penal preparatoria",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "ministerios públicos",
+      "id": "b28eff13-cb54-4841-978d-2c846fbf7fdd",
+      "name": "ministerios públicos",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "sistemas acusatorios",
+      "id": "3275917a-059e-411c-b360-847c3e28c1cb",
+      "name": "sistemas acusatorios",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "sistemas inquisitorios",
+      "id": "c7b67235-11a1-406c-8efb-6b95045db364",
+      "name": "sistemas inquisitorios",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Ministerios públicos - Casos",
+  "type": "dataset",
+  "url": "http://datos.jus.gob.ar/dataset/ministerios-publicos-casos",
+  "version": null
+}

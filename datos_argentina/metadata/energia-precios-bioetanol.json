@@ -1,0 +1,171 @@
+{
+  "author": "Secretaría de Gobierno de Energía.Subsecretaría de Planeamiento Energético.Dirección Nacional de Información Energética.",
+  "author_email": "tienerg@energia.gob.ar",
+  "creator_user_id": "4720e75a-9e17-4dc3-879d-041917c7f9f9",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P1M"
+    },
+    {
+      "key": "issued",
+      "value": "2017-01-20T16:34:26.708783"
+    },
+    {
+      "key": "modified",
+      "value": "2019-08-01T17:15:53.954582"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"ENER\"]"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Energía",
+      "display_name": "Energía",
+      "id": "a4d3f632-eb48-4163-9791-165989c16035",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225337.421630energia.svg",
+      "name": "ener",
+      "title": "Energía"
+    }
+  ],
+  "id": "energia_227cd0b0-2b36-4d4f-8a12-36c9c0ec4875",
+  "isopen": false,
+  "license_id": "notspecified",
+  "license_title": "No se especificó la licencia",
+  "maintainer": "Secretaría de Gobierno de Energía.Secretaría de Recursos No Renovables y Mercado de los Combustibles.Subsecretaría de Hidrocarburos y Combustibles.Dirección de Biocombustibles",
+  "maintainer_email": null,
+  "metadata_created": "2019-11-26T15:01:00.671715",
+  "metadata_modified": "2021-04-29T17:17:06.018860",
+  "name": "energia-precios-bioetanol",
+  "notes": "Detalle mensual de precios de bioetanol por tipo (caña, maíz), en AR$/l.\r\n",
+  "num_resources": 3,
+  "num_tags": 4,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:09.221510",
+    "description": "",
+    "id": "cd1b32a2-2d3a-44ac-8c98-a425a7b62d42",
+    "image_url": "",
+    "is_organization": true,
+    "name": "energia",
+    "revision_id": "a184cf69-99ad-4f84-a254-020031d7fe63",
+    "state": "active",
+    "title": "Secretaría de Energía",
+    "type": "organization"
+  },
+  "owner_org": "cd1b32a2-2d3a-44ac-8c98-a425a7b62d42",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "http://datos.minem.gob.ar/dataset/227cd0b0-2b36-4d4f-8a12-36c9c0ec4875/resource/72685628-9fef-4e72-8097-6b65ee036b5f",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2018-01-02T08:31:11.421395",
+      "datastore_active": false,
+      "description": "Precios en AR$/l. ",
+      "format": "PHP",
+      "hash": "",
+      "id": "energia_72685628-9fef-4e72-8097-6b65ee036b5f",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Biocombustibles - Precios de bioetanol",
+      "package_id": "energia_227cd0b0-2b36-4d4f-8a12-36c9c0ec4875",
+      "position": 0,
+      "resource_type": null,
+      "revision_id": "5832354b-7050-49be-9f71-a4895820ff0d",
+      "size": null,
+      "state": "active",
+      "url": "https://glp.se.gob.ar/biocombustible/reporte_precios_bioetanol.php",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos.minem.gob.ar/dataset/227cd0b0-2b36-4d4f-8a12-36c9c0ec4875/resource/77d33231-3982-496a-8ba3-dd699964c89a",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-05-04T12:19:45.157472",
+      "datastore_active": false,
+      "description": "",
+      "fileName": "categoras-de-empresas.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "energia_77d33231-3982-496a-8ba3-dd699964c89a",
+      "last_modified": "2020-11-17T15:03:13.671931",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Categorías de Empresas",
+      "package_id": "energia_227cd0b0-2b36-4d4f-8a12-36c9c0ec4875",
+      "position": 1,
+      "resource_type": null,
+      "revision_id": "295fbadf-10d9-42dd-877a-29dcf42d673e",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.minem.gob.ar/dataset/227cd0b0-2b36-4d4f-8a12-36c9c0ec4875/resource/77d33231-3982-496a-8ba3-dd699964c89a/download/categoras-de-empresas.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos.minem.gob.ar/dataset/227cd0b0-2b36-4d4f-8a12-36c9c0ec4875/resource/a03c0076-d089-447d-9659-cf54bb89c725",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-05-04T14:34:39.396718",
+      "datastore_active": false,
+      "description": "Precios en AR$/l. (Hasta octubre 2017)",
+      "fileName": "biocombustible-precios-de-bioetanol.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "energia_a03c0076-d089-447d-9659-cf54bb89c725",
+      "last_modified": "2018-01-01T21:49:55.495190",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Biocombustibles - Precios de bioetanol",
+      "package_id": "energia_227cd0b0-2b36-4d4f-8a12-36c9c0ec4875",
+      "position": 2,
+      "resource_type": null,
+      "revision_id": "39829496-4cb5-4dd4-bbbe-b030bba753c4",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.minem.gob.ar/dataset/227cd0b0-2b36-4d4f-8a12-36c9c0ec4875/resource/a03c0076-d089-447d-9659-cf54bb89c725/download/biocombustible-precios-de-bioetanol.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "39ced484-579f-4e1c-b348-eca7ac74e161",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "Biocombustibles",
+      "id": "ac3e690e-0b68-4dce-bc68-c01ecd522ef2",
+      "name": "Biocombustibles",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Bioetanol",
+      "id": "7245f950-8b07-4815-bb40-e5e16b6f4aed",
+      "name": "Bioetanol",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Energías Renovables",
+      "id": "5ed67cf4-5bbe-49c1-869c-ede36d86486c",
+      "name": "Energías Renovables",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Precios",
+      "id": "308c2aaf-f177-4728-bda5-fd41662741a2",
+      "name": "Precios",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Precios de bioetanol",
+  "type": "dataset",
+  "url": "http://datos.minem.gob.ar/dataset/",
+  "version": null
+}

@@ -1,0 +1,154 @@
+{
+  "author": "Secretaría de Comercio",
+  "author_email": "datos.abiertos@produccion.gob.ar",
+  "creator_user_id": "4720e75a-9e17-4dc3-879d-041917c7f9f9",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "eventual"
+    },
+    {
+      "key": "issued",
+      "value": "2018-10-29T19:10:30.000Z"
+    },
+    {
+      "key": "modified",
+      "value": "2020-02-26T02:44:52.000Z"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"econ\"]"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Economía y finanzas",
+      "display_name": "Economía y finanzas",
+      "id": "60b4b03e-10a1-4d67-b984-08008a249617",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225257.200233economia-finanzas.svg",
+      "name": "econ",
+      "title": "Economía y finanzas"
+    }
+  ],
+  "id": "produccion_SJRQsRNnm",
+  "isopen": true,
+  "license_id": "CC-BY-4.0",
+  "license_title": "Creative Commons Attribution 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "maintainer": null,
+  "maintainer_email": null,
+  "metadata_created": "2019-11-26T14:57:14.653168",
+  "metadata_modified": "2021-04-29T17:04:44.338844",
+  "name": "produccion-defensa-consumidor",
+  "notes": "La Dirección Nacional de Defensa del consumidor permite realizar reclamos si la empresa proveedora de bienes o servicios no cumplió con el compromiso asumido con el consumidor.",
+  "num_resources": 2,
+  "num_tags": 5,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:10.463340",
+    "description": "",
+    "id": "1ca8d15b-31fc-4f09-ba09-53edd3d4cce6",
+    "image_url": "",
+    "is_organization": true,
+    "name": "produccion",
+    "revision_id": "36d8ec89-d20f-4fe1-866c-e38988d28442",
+    "state": "active",
+    "title": "Ministerio de Desarrollo Productivo",
+    "type": "organization"
+  },
+  "owner_org": "1ca8d15b-31fc-4f09-ba09-53edd3d4cce6",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "http://datos.produccion.gob.ar/dataset/defensa-del-consumidor",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2018-10-29T16:10:30",
+      "datastore_active": false,
+      "description": "Guía explicativa de cada uno de los campos de los recursos que conforman el dataset y ejemplos de los mismos.",
+      "format": "PDF",
+      "hash": "",
+      "id": "produccion_ryURxJBnX",
+      "last_modified": "2019-05-31T12:28:32",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Guía de datos de Defensa del consumidor",
+      "package_id": "produccion_SJRQsRNnm",
+      "position": 0,
+      "resource_type": null,
+      "revision_id": "3fd7026c-75d9-4fbe-bd99-0fee119cc797",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.produccion.gob.ar/api/files/guia-de-datos-de-defensa-del-consumidor.pdf/download",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos.produccion.gob.ar/dataset/defensa-del-consumidor",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2018-10-29T16:10:30",
+      "datastore_active": false,
+      "description": "Información sobre los reclamos ingresados en la Dirección Nacional de Defensa del consumidor desde enero de 2018. Contiene datos de la empresa reclamada como categoría y rubro, los motivos del reclamo y provincia y edad del reclamante.",
+      "format": "CSV",
+      "hash": "",
+      "id": "produccion_Sk3QeJrnQ",
+      "last_modified": "2019-07-31T13:48:37",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Reclamos ingresados",
+      "package_id": "produccion_SJRQsRNnm",
+      "position": 1,
+      "resource_type": null,
+      "revision_id": "42642bf3-27dd-406d-9dd0-f46c8730fcf1",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.produccion.gob.ar/api/files/reclamos-ingresados.csv/download",
+      "url_type": null
+    }
+  ],
+  "revision_id": "a792b5a5-69bd-4a9a-8451-66a93909e0e6",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "COPREC",
+      "id": "7490a943-e61e-48bb-88fd-f0078f4a94ea",
+      "name": "COPREC",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Comercio",
+      "id": "5d89066f-3127-4103-8c37-d929e6845329",
+      "name": "Comercio",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Defensa del consumidor",
+      "id": "40d24d2d-eeae-4ec3-b109-d357762a7aa5",
+      "name": "Defensa del consumidor",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "SNAC",
+      "id": "8058fd0b-ccd1-4b2b-9d65-2017e2867e17",
+      "name": "SNAC",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Ventanilla Única de Defensa del Consumidor",
+      "id": "54f0796b-2db8-40ce-8228-d8e965a45737",
+      "name": "Ventanilla Única de Defensa del Consumidor",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Defensa del consumidor",
+  "type": "dataset",
+  "url": "http://datos.produccion.gob.ar/dataset/defensa-del-consumidor",
+  "version": null
+}

@@ -1,0 +1,125 @@
+{
+  "author": "Ministerio de Defensa. Dirección General de Integridad, Transparencia y Fortalecimiento Institucional",
+  "author_email": "transparencia@mindef.gov.ar",
+  "creator_user_id": "4720e75a-9e17-4dc3-879d-041917c7f9f9",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P6M"
+    },
+    {
+      "key": "issued",
+      "value": "2019-09-15T23:08:04.749558"
+    },
+    {
+      "key": "modified",
+      "value": "2020-01-10T10:35:25.531478"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"GOVE\"]"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Gobierno y sector público",
+      "display_name": "Gobierno y sector público",
+      "id": "e6f07c77-3987-4e71-98a6-731b1aaf74f4",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225353.395233gobierno-sector-publico.svg",
+      "name": "gove",
+      "title": "Gobierno y sector público"
+    }
+  ],
+  "id": "defensa_be7ca757-f49c-41f4-a4e7-fe0dc4eca3b8",
+  "isopen": false,
+  "license_id": "notspecified",
+  "license_title": "No se especificó la licencia",
+  "maintainer": null,
+  "maintainer_email": null,
+  "metadata_created": "2019-11-26T14:56:23.725234",
+  "metadata_modified": "2021-04-29T17:04:58.051567",
+  "name": "defensa-solicitud-aip-mindef-2017",
+  "notes": "Listado de solicitud de Pedidos de Acceso a la Información Publica del Ministerio de Defensa 2017",
+  "num_resources": 1,
+  "num_tags": 4,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:07.977275",
+    "description": "",
+    "id": "5e80ed4f-8bfb-4451-8240-e8f39e695ee1",
+    "image_url": "",
+    "is_organization": true,
+    "name": "defensa",
+    "revision_id": "6c78ab87-28d0-47ba-99bb-5850ddbf7279",
+    "state": "active",
+    "title": " Ministerio de Defensa",
+    "type": "organization"
+  },
+  "owner_org": "5e80ed4f-8bfb-4451-8240-e8f39e695ee1",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "http://datos.mindef.gov.ar/dataset/be7ca757-f49c-41f4-a4e7-fe0dc4eca3b8/resource/850b2617-caf8-4b43-a1b2-869be31ecc2b",
+      "attributesDescription": "[{\"id\": \"mindef_aip_1\", \"type\": \"time\", \"description\": \"A\\u00f1o de la solicitud\", \"title\": \"solicitud_anio\"}, {\"id\": \"mindef_aip_2\", \"type\": \"string\", \"description\": \"Mes de la solicitud\", \"title\": \"solicitud_mes\"}, {\"id\": \"mindef_aip_3\", \"type\": \"string\", \"description\": \"Numero de expediente\", \"title\": \"expediente_numero\"}, {\"id\": \"mindef_aip_4\", \"type\": \"string\", \"description\": \"Apellido 1 del solicitante\", \"title\": \"solicitante_apellido_1\"}, {\"id\": \"mindef_aip_5\", \"type\": \"string\", \"description\": \"Apellido 2 del solicitante\", \"title\": \"solicitante_apellido_2\"}, {\"id\": \"mindef_aip_6\", \"type\": \"string\", \"description\": \"Apellido 3 del solicitante\", \"title\": \"solicitante_apellido_\"}, {\"id\": \"mindef_aip_7\", \"type\": \"string\", \"description\": \"Nombre 1 del solicitante\", \"title\": \"solicitante_nombre_1\"}, {\"id\": \"mindef_aip_8\", \"type\": \"string\", \"description\": \"Nombre 2 del solicitante\", \"title\": \"solicitante_nombre_2\"}, {\"id\": \"mindef_aip_9\", \"type\": \"string\", \"description\": \"Nombre 3 del solicitante\", \"title\": \"solicitante_nombre_3\"}, {\"id\": \"mindef_aip_10\", \"type\": \"string\", \"description\": \"Tipo de respuesta de la solicitud\", \"title\": \"respuesta_tipo\"}, {\"id\": \"mindef_aip_11\", \"type\": \"string\", \"description\": \"Plazo de la respuesta\", \"title\": \"plazo\"}, {\"id\": \"mindef_aip_12\", \"type\": \"string\", \"description\": \"Provincia solicitante de la solicitud\", \"title\": \"provincia_solicitante\"}, {\"id\": \"mindef_aip_13\", \"type\": \"string\", \"description\": \"Sujeto obligado\", \"title\": \"sujeto_obligado\"}, {\"id\": \"mindef_aip_14\", \"type\": \"string\", \"description\": \"Estado de la solicitud\", \"title\": \"estado\"}, {\"id\": \"mindef_aip_15\", \"type\": \"string\", \"description\": \"Estado del expediente\", \"title\": \"estado_expediente\"}, {\"id\": \"mindef_aip_16\", \"type\": \"date\", \"description\": \"Fecha de caratulacion de la solicitud\", \"title\": \"fecha_caratulacion\"}, {\"id\": \"mindef_aip_17\", \"type\": \"date\", \"description\": \"Fecha del ultimo pase del expediente\", \"title\": \"fecha_ultimo_pase\"}, {\"id\": \"mindef_aip_18\", \"type\": \"date\", \"description\": \"Fecha del primer vencimiento de la solicitud\", \"title\": \"fecha_primer_vencimiento\"}, {\"id\": \"mindef_aip_19\", \"type\": \"date\", \"description\": \"Fecha del segundo vencimiento de la solicitud\", \"title\": \"fecha_segundo_vencimiento\"}, {\"id\": \"mindef_aip_20\", \"type\": \"string\", \"description\": \"Organismo al que se solicito el pedido\", \"title\": \"organismo \"}, {\"id\": \"mindef_aip_21\", \"type\": \"string\", \"description\": \"Dependencia disponible de la informaci\\u00f3n solicitada\", \"title\": \"dependencia\"}, {\"id\": \"mindef_aip_22\", \"type\": \"string\", \"description\": \"Descripci\\u00f3n de la solicitud\", \"title\": \"solicitud_descripcion\"}, {\"id\": \"mindef_aip_23\", \"type\": \"string\", \"description\": \"S\\u00edntesis de la respuesta\", \"title\": \"respuesta_sintesis\"}, {\"id\": \"mindef_aip_24\", \"type\": \"string\", \"description\": \"Sistema creador de expediente\", \"title\": \"sistema_creador\"}, {\"id\": \"mindef_aip_25\", \"type\": \"string\", \"description\": \"Tipo de respuesta enviada\", \"title\": \"respuesta_tipo\"}, {\"id\": \"mindef_aip_26\", \"type\": \"date\", \"description\": \"Fecha en que se respondi\\u00f3 la solicitud\", \"title\": \"fecha_respuesta\"}, {\"id\": \"mindef_aip_27\", \"type\": \"string\", \"description\": \"Grupo del tramite\", \"title\": \"grupo_tramite\"}, {\"id\": \"mindef_aip_28\", \"type\": \"string\", \"description\": \"Solicitud de prorroga\", \"title\": \"solicitud_prorroga\"}, {\"id\": \"mindef_aip_29\", \"type\": \"string\", \"description\": \"Tipo de informaci\\u00f3n \", \"title\": \"informacion_tipo\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-09-15T21:04:14.670278",
+      "datastore_active": false,
+      "description": "Listado de solicitudes de Acceso a la Información Pública del Ministerio de Defensa 2017",
+      "fileName": "mindef-solicitud-aip-2017.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "defensa_850b2617-caf8-4b43-a1b2-869be31ecc2b",
+      "last_modified": "2019-09-15T21:04:14.670278",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Solicitud de Acceso a la Información Pública 2017",
+      "package_id": "defensa_be7ca757-f49c-41f4-a4e7-fe0dc4eca3b8",
+      "position": 0,
+      "resource_type": "file.upload",
+      "revision_id": "c8184a93-809b-4efd-a474-8c5285a70242",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.mindef.gov.ar/dataset/be7ca757-f49c-41f4-a4e7-fe0dc4eca3b8/resource/850b2617-caf8-4b43-a1b2-869be31ecc2b/download/mindef-solicitud-aip-2017.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "6f9ce8e9-b571-489c-b00d-254d2ad492f2",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "AIP",
+      "id": "0eea5d26-a4e1-439a-ba85-800b846693e6",
+      "name": "AIP",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Informacion publica",
+      "id": "e3711e30-3bfe-46f5-9902-92957a5f8825",
+      "name": "Informacion publica",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Mindef",
+      "id": "f25adc42-5777-477d-9b69-aff50e5e03fa",
+      "name": "Mindef",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Transparencia Activa",
+      "id": "75291f1b-150c-46a3-baae-102fdcee1861",
+      "name": "Transparencia Activa",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Solicitud AIP Mindef 2017",
+  "type": "dataset",
+  "url": "http://datos.mindef.gov.ar/dataset/mindef-solicitud-aip-2017",
+  "version": null
+}

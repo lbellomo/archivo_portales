@@ -1,0 +1,140 @@
+{
+  "author": "Secretaría de Emprendedores y PyMEs",
+  "author_email": "datos.abiertos@produccion.gob.ar",
+  "creator_user_id": "4720e75a-9e17-4dc3-879d-041917c7f9f9",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P3M"
+    },
+    {
+      "key": "issued",
+      "value": "2018-10-09T13:49:20.000Z"
+    },
+    {
+      "key": "modified",
+      "value": "2020-02-26T02:44:56.000Z"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"econ\"]"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Economía y finanzas",
+      "display_name": "Economía y finanzas",
+      "id": "60b4b03e-10a1-4d67-b984-08008a249617",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225257.200233economia-finanzas.svg",
+      "name": "econ",
+      "title": "Economía y finanzas"
+    }
+  ],
+  "id": "produccion_HkuFZ495X",
+  "isopen": true,
+  "license_id": "CC-BY-4.0",
+  "license_title": "Creative Commons Attribution 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "maintainer": null,
+  "maintainer_email": null,
+  "metadata_created": "2019-11-26T14:57:09.215525",
+  "metadata_modified": "2021-04-29T17:04:43.594223",
+  "name": "produccion-dia-pyme",
+  "notes": "Son jornadas que brindan asesoramiento de especialistas a micro, pequeñas y medianas empresas sobre registro PyME, las líneas de financiamiento y capacitaciones para emprendedores y empleados.",
+  "num_resources": 2,
+  "num_tags": 3,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:10.463340",
+    "description": "",
+    "id": "1ca8d15b-31fc-4f09-ba09-53edd3d4cce6",
+    "image_url": "",
+    "is_organization": true,
+    "name": "produccion",
+    "revision_id": "36d8ec89-d20f-4fe1-866c-e38988d28442",
+    "state": "active",
+    "title": "Ministerio de Desarrollo Productivo",
+    "type": "organization"
+  },
+  "owner_org": "1ca8d15b-31fc-4f09-ba09-53edd3d4cce6",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "http://datos.produccion.gob.ar/dataset/dia-pyme",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2018-10-09T10:49:20",
+      "datastore_active": false,
+      "description": "Fechas de las jornadas realizadas durante 2018 por provincia, ciudad, organizador y cantidad de asistentes.",
+      "format": "CSV",
+      "hash": "",
+      "id": "produccion_ryOC-N557",
+      "last_modified": "2019-02-05T16:28:01",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Día PyME 2018",
+      "package_id": "produccion_HkuFZ495X",
+      "position": 0,
+      "resource_type": null,
+      "revision_id": "1d886b6b-118f-460c-90c5-4ba441d107e0",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.produccion.gob.ar/api/files/dia-pyme-2018.csv/download",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos.produccion.gob.ar/dataset/dia-pyme",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2018-10-09T10:49:20",
+      "datastore_active": false,
+      "description": "Guía explicativa de cada uno de los campos de los recursos que conforman el dataset y ejemplos de los mismos.",
+      "format": "PDF",
+      "hash": "",
+      "id": "produccion_S1czGV9q7",
+      "last_modified": "2019-02-05T16:28:01",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Guía de datos Día PyME",
+      "package_id": "produccion_HkuFZ495X",
+      "position": 1,
+      "resource_type": null,
+      "revision_id": "9248b63b-6f24-41c6-923b-dd75967430ee",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.produccion.gob.ar/api/files/guia-de-datos-dia-pyme.pdf/download",
+      "url_type": null
+    }
+  ],
+  "revision_id": "056d0a14-b495-4ab1-b449-f9e5f2f02fd3",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "Día PyME",
+      "id": "e3d9cae2-4b66-4c6f-bf4a-fc9159b36490",
+      "name": "Día PyME",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "PyMEs",
+      "id": "5e48e296-35ca-43d6-8f07-7a3010aeb059",
+      "name": "PyMEs",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Pymes",
+      "id": "97635f98-f203-4647-ae25-9a02f74c1d28",
+      "name": "Pymes",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Día PyME",
+  "type": "dataset",
+  "url": "http://datos.produccion.gob.ar/dataset/dia-pyme",
+  "version": null
+}

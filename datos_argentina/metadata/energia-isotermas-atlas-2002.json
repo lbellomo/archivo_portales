@@ -1,0 +1,155 @@
+{
+  "author": "Ministerio de Energía y Minería.Secretaría de Coordinación de Planeamiento Energético.Dirección Nacional de Información Energética.Tecnología de la Información.",
+  "author_email": "tienerg@energia.gob.ar",
+  "creator_user_id": "4720e75a-9e17-4dc3-879d-041917c7f9f9",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "eventual"
+    },
+    {
+      "key": "issued",
+      "value": "2016-11-07T13:33:34.985951"
+    },
+    {
+      "key": "modified",
+      "value": "2019-04-04T11:42:22.328759"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"ENER\"]"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Energía",
+      "display_name": "Energía",
+      "id": "a4d3f632-eb48-4163-9791-165989c16035",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225337.421630energia.svg",
+      "name": "ener",
+      "title": "Energía"
+    }
+  ],
+  "id": "energia_5a005898-adf2-4c23-984b-8a46467b7868",
+  "isopen": false,
+  "license_id": "notspecified",
+  "license_title": "No se especificó la licencia",
+  "maintainer": "Ministerio de Energía y Minería.Secretaría de Coordinación de Planeamiento Energético.Dirección Nacional de Información Energética.Tecnología de la Información.",
+  "maintainer_email": "tienerg@minem.gob.ar",
+  "metadata_created": "2019-11-26T15:00:52.910863",
+  "metadata_modified": "2021-04-29T17:17:31.740963",
+  "name": "energia-isotermas-atlas-2002",
+  "notes": "Isotermas Atlas 2002.",
+  "num_resources": 2,
+  "num_tags": 5,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:09.221510",
+    "description": "",
+    "id": "cd1b32a2-2d3a-44ac-8c98-a425a7b62d42",
+    "image_url": "",
+    "is_organization": true,
+    "name": "energia",
+    "revision_id": "a184cf69-99ad-4f84-a254-020031d7fe63",
+    "state": "active",
+    "title": "Secretaría de Energía",
+    "type": "organization"
+  },
+  "owner_org": "cd1b32a2-2d3a-44ac-8c98-a425a7b62d42",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "http://datos.minem.gob.ar/dataset/5a005898-adf2-4c23-984b-8a46467b7868/resource/9938994f-791a-4ae5-8ffd-3b5ebf0f1575",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-05-04T19:22:34.974571",
+      "datastore_active": false,
+      "description": "Archivos prj, shp, shx, dbf, xml. Sistema de Proyección EPSG:4326",
+      "fileName": "isotermas-atlas-2002.zip",
+      "format": "SHP",
+      "hash": "",
+      "id": "energia_9938994f-791a-4ae5-8ffd-3b5ebf0f1575",
+      "last_modified": "2017-05-04T19:22:34.865955",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Isotermas Atlas 2002",
+      "package_id": "energia_5a005898-adf2-4c23-984b-8a46467b7868",
+      "position": 0,
+      "resource_type": null,
+      "revision_id": "f212851e-1a0a-449e-91b5-163039702b12",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.minem.gob.ar/dataset/5a005898-adf2-4c23-984b-8a46467b7868/resource/9938994f-791a-4ae5-8ffd-3b5ebf0f1575/download/isotermas-atlas-2002.zip",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos.minem.gob.ar/dataset/5a005898-adf2-4c23-984b-8a46467b7868/resource/b637e72d-ee33-4933-95c4-b0cb7eba2669",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-05-04T20:58:03.414324",
+      "datastore_active": false,
+      "description": "",
+      "fileName": "isotermas-atlas-2002.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "energia_b637e72d-ee33-4933-95c4-b0cb7eba2669",
+      "last_modified": "2017-05-04T20:58:03.303090",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Isotermas Atlas 2002",
+      "package_id": "energia_5a005898-adf2-4c23-984b-8a46467b7868",
+      "position": 1,
+      "resource_type": null,
+      "revision_id": "b64ecbcf-f110-4691-88b7-fd4847d2c5cb",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.minem.gob.ar/dataset/5a005898-adf2-4c23-984b-8a46467b7868/resource/b637e72d-ee33-4933-95c4-b0cb7eba2669/download/isotermas-atlas-2002.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "5f1ac48f-2282-47cb-aae8-c16727810fca",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "Información Geográfica",
+      "id": "d22bc8a4-252e-4fd8-89b2-3b9a08f6be42",
+      "name": "Información Geográfica",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Información geográfica",
+      "id": "24b3ee69-69cb-45de-a8b4-3566f4eab17c",
+      "name": "Información geográfica",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Isotermas",
+      "id": "48282b23-b2e9-4b8d-b223-c6a01bc757e6",
+      "name": "Isotermas",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Otros",
+      "id": "1be82c1d-f2fe-4f6e-b7af-625c96c443b3",
+      "name": "Otros",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Recursos hídricos",
+      "id": "5e3c263e-2981-454f-b12f-d7af03ad26b1",
+      "name": "Recursos hídricos",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Isotermas Atlas 2002",
+  "type": "dataset",
+  "url": "http://datos.minem.gob.ar/dataset/",
+  "version": null
+}

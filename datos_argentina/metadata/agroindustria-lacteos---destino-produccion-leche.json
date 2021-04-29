@@ -1,0 +1,307 @@
+{
+  "author": "Dirección Nacional Láctea",
+  "author_email": "estadisticaslecheria@magyp.gob.ar",
+  "creator_user_id": "dc157489-51c6-44ce-bd63-3bd983d60778",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P1Y"
+    },
+    {
+      "key": "issued",
+      "value": "2018-12-07T21:25:48.200156"
+    },
+    {
+      "key": "language",
+      "value": "[\"spa\"]"
+    },
+    {
+      "key": "modified",
+      "value": "2019-10-24T10:36:40.449858"
+    },
+    {
+      "key": "spatial",
+      "value": "[\"ARG\"]"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"AGRI\"]"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Agroganadería, pesca y forestación",
+      "display_name": "Agroganadería, pesca y forestación",
+      "id": "0c35ea38-7059-41d2-9827-5587769d0dc6",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225145.990789agroganaderia-pesca-forestacion.svg",
+      "name": "agri",
+      "title": "Agroganadería, pesca y forestación"
+    }
+  ],
+  "id": "agroindustria_bec553ed-dda5-4107-b14d-417d3c97207a",
+  "isopen": true,
+  "license_id": "CC-BY-4.0",
+  "license_title": "Creative Commons Attribution 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "maintainer": "Dirección Nacional Láctea",
+  "maintainer_email": "estadisticaslecheria@magyp.gob.ar",
+  "metadata_created": "2019-12-04T20:00:38.363993",
+  "metadata_modified": "2021-04-29T17:12:00.417183",
+  "name": "agroindustria-lacteos---destino-produccion-leche",
+  "notes": "Destino de la leche cruda a producto se presenta con distinto nivel de apertura para los siguientes periodos: de 1983 a 1988 el mínimo nivel de apertura (a leche fluida, informal y productos), de 1989 y 2007 mayor nivel de apertura (pero sin distinguir entre descremada, semi descremada y entera para las leches fluidas) y de 2008 a la actualidad con máximo nivel de apertura.",
+  "num_resources": 4,
+  "num_tags": 18,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:07.834957",
+    "description": "",
+    "id": "b10c94e2-ade1-4a97-8c4c-b1ada7878d60",
+    "image_url": "",
+    "is_organization": true,
+    "name": "agroindustria",
+    "revision_id": "f7c3b6e9-d48f-4522-9f7a-388d805c8392",
+    "state": "active",
+    "title": "Ministerio de Agricultura, Ganadería y Pesca",
+    "type": "organization"
+  },
+  "owner_org": "b10c94e2-ade1-4a97-8c4c-b1ada7878d60",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "http://datos.agroindustria.gob.ar/dataset/bec553ed-dda5-4107-b14d-417d3c97207a/resource/62fb3853-aa0e-4787-8d04-19b6ac5fea3b",
+      "attributesDescription": "[{\"type\": \"integer\", \"description\": \"pais_id\", \"title\": \"pais_id\"}, {\"type\": \"string\", \"description\": \"pais\", \"title\": \"pais\"}, {\"type\": \"integer\", \"description\": \"a\\u0144o\", \"title\": \"a\\u0144o\"}, {\"type\": \"integer\", \"description\": \"mes\", \"title\": \"mes\"}, {\"type\": \"integer\", \"description\": \"ccp_origen\", \"title\": \"ccp_origen\"}, {\"type\": \"string\", \"description\": \"producto_origen\", \"title\": \"producto_origen\"}, {\"type\": \"integer\", \"description\": \"ccp_destino\", \"title\": \"ccp_destino\"}, {\"type\": \"string\", \"description\": \"producto_destino\", \"title\": \"producto_destino\"}, {\"type\": \"string\", \"description\": \"uni_med_id\", \"title\": \"uni_med_id\"}, {\"type\": \"string\", \"description\": \"uni_med\", \"title\": \"uni_med\"}, {\"type\": \"number\", \"description\": \"cantidad_por_millon\", \"title\": \"cantidad_por_millon\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-08-01T13:32:21.588276",
+      "datastore_active": false,
+      "description": "Destino de la leche cruda a producto expresado en millones de litros equivalentes, con un mínimo nivel de apertura. La categoría \"productos\" refiere al resto de los productos.",
+      "fileName": "destino-produccion-leche-1983-1988.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "agroindustria_62fb3853-aa0e-4787-8d04-19b6ac5fea3b",
+      "last_modified": "2019-01-31T12:26:18.900830",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Destinos de producción de leche - 1983-1988",
+      "package_id": "agroindustria_bec553ed-dda5-4107-b14d-417d3c97207a",
+      "position": 0,
+      "resource_type": "file.upload",
+      "revision_id": "eceb6882-7cf9-4c8f-ae43-06e8683d1d6b",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.agroindustria.gob.ar/dataset/bec553ed-dda5-4107-b14d-417d3c97207a/resource/62fb3853-aa0e-4787-8d04-19b6ac5fea3b/download/destino-produccion-leche-1983-1988.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos.agroindustria.gob.ar/dataset/bec553ed-dda5-4107-b14d-417d3c97207a/resource/e36825ea-4252-4d20-9abf-55b62960bb19",
+      "attributesDescription": "[{\"type\": \"integer\", \"description\": \"pais_id\", \"title\": \"pais_id\"}, {\"type\": \"string\", \"description\": \"pais\", \"title\": \"pais\"}, {\"type\": \"integer\", \"description\": \"a\\u0144o\", \"title\": \"a\\u0144o\"}, {\"type\": \"integer\", \"description\": \"mes\", \"title\": \"mes\"}, {\"type\": \"integer\", \"description\": \"ccp_origen\", \"title\": \"ccp_origen\"}, {\"type\": \"string\", \"description\": \"producto_origen\", \"title\": \"producto_origen\"}, {\"type\": \"integer\", \"description\": \"ccp_destino\", \"title\": \"ccp_destino\"}, {\"type\": \"string\", \"description\": \"producto_destino\", \"title\": \"producto_destino\"}, {\"type\": \"string\", \"description\": \"uni_med_id\", \"title\": \"uni_med_id\"}, {\"type\": \"string\", \"description\": \"uni_med\", \"title\": \"uni_med\"}, {\"type\": \"number\", \"description\": \"cantidad_por_millon\", \"title\": \"cantidad_por_millon\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-08-01T13:35:10.239592",
+      "datastore_active": false,
+      "description": "Destino de la leche cruda a producto expresado en millones de litros equivalentes, se ven las leches fluidas (esterilizada y pasteurizada) sin distinguir entre descremada, semi descremada y entera.",
+      "fileName": "destino-produccion-leche-1989-2007.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "agroindustria_e36825ea-4252-4d20-9abf-55b62960bb19",
+      "last_modified": "2019-01-31T12:23:36.124353",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Destino de producción de la leche - 1989-2007",
+      "package_id": "agroindustria_bec553ed-dda5-4107-b14d-417d3c97207a",
+      "position": 1,
+      "resource_type": "file.upload",
+      "revision_id": "c39f5be2-fc4e-4fa4-bbbb-53c7b6cded27",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.agroindustria.gob.ar/dataset/bec553ed-dda5-4107-b14d-417d3c97207a/resource/e36825ea-4252-4d20-9abf-55b62960bb19/download/destino-produccion-leche-1989-2007.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos.agroindustria.gob.ar/dataset/bec553ed-dda5-4107-b14d-417d3c97207a/resource/37d21f23-982e-43f9-b3aa-65006473c10d",
+      "attributesDescription": "[{\"type\": \"integer\", \"description\": \"pais_id\", \"title\": \"pais_id\"}, {\"type\": \"string\", \"description\": \"pais\", \"title\": \"pais\"}, {\"type\": \"integer\", \"description\": \"a\\u0144o\", \"title\": \"a\\u0144o\"}, {\"type\": \"integer\", \"description\": \"mes\", \"title\": \"mes\"}, {\"type\": \"integer\", \"description\": \"ccp_origen\", \"title\": \"ccp_origen\"}, {\"type\": \"string\", \"description\": \"producto_origen\", \"title\": \"producto_origen\"}, {\"type\": \"integer\", \"description\": \"ccp_destino\", \"title\": \"ccp_destino\"}, {\"type\": \"string\", \"description\": \"producto_destino\", \"title\": \"producto_destino\"}, {\"type\": \"string\", \"description\": \"uni_med_id\", \"title\": \"uni_med_id\"}, {\"type\": \"string\", \"description\": \"uni_med\", \"title\": \"uni_med\"}, {\"type\": \"number\", \"description\": \"cantidad_por_millon\", \"title\": \"cantidad_por_millon\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-08-01T13:36:05.005491",
+      "datastore_active": false,
+      "description": "Destino de la leche cruda a producto expresado en millones de litros equivalentes, se ven las leches fluidas (esterilizada y pasteurizada) con distinción entre descremada, semi descremada y entera.",
+      "fileName": "destino-produccion-leche-2008-2016.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "agroindustria_37d21f23-982e-43f9-b3aa-65006473c10d",
+      "last_modified": "2019-01-30T14:36:49.683636",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Destino de producción de la leche - 2008-2016",
+      "package_id": "agroindustria_bec553ed-dda5-4107-b14d-417d3c97207a",
+      "position": 2,
+      "resource_type": "file.upload",
+      "revision_id": "c39f5be2-fc4e-4fa4-bbbb-53c7b6cded27",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.agroindustria.gob.ar/dataset/bec553ed-dda5-4107-b14d-417d3c97207a/resource/37d21f23-982e-43f9-b3aa-65006473c10d/download/destino-produccion-leche-2008-2016.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos.agroindustria.gob.ar/dataset/bec553ed-dda5-4107-b14d-417d3c97207a/resource/f7c928d6-2cb0-4426-acf2-a11c242c813a",
+      "attributesDescription": "[{\"specialType\": \"time_index\", \"specialTypeDetail\": \"R/P1M\", \"type\": \"date\", \"title\": \"indice_tiempo\"}, {\"units\": \"megalitro\", \"id\": \"AGRO_0046\", \"type\": \"number\", \"description\": \"Leche cruda destinada a leche fluida\", \"title\": \"leche_cruda_destinada_a_leche_fluida\"}, {\"units\": \"megalitro\", \"id\": \"AGRO_0047\", \"type\": \"number\", \"description\": \"Leche cruda destinada a leche informal\", \"title\": \"leche_cruda_destinada_a_leche_informal\"}, {\"units\": \"megalitro\", \"id\": \"AGRO_0048\", \"type\": \"number\", \"description\": \"Leche cruda destinada a productos l\\u00e1cteos\", \"title\": \"leche_cruda_destinada_a_productos\"}, {\"units\": \"megalitro\", \"id\": \"AGRO_0049\", \"type\": \"number\", \"description\": \"Leche cruda destinada a dulce de leche\", \"title\": \"leche_cruda_destinada_a_dulce_de_leche\"}, {\"units\": \"megalitro\", \"id\": \"AGRO_0050\", \"type\": \"number\", \"description\": \"Leche cruda destinada a leche chocolatada\", \"title\": \"leche_cruda_destinada_a_leche_chocolatada\"}, {\"units\": \"megalitro\", \"id\": \"AGRO_0051\", \"type\": \"number\", \"description\": \"Leche cruda destinada a leche condensada\", \"title\": \"leche_cruda_destinada_a_leche_condesada\"}, {\"units\": \"megalitro\", \"id\": \"AGRO_0052\", \"type\": \"number\", \"description\": \"Leche cruda destinada a leche en polvo\", \"title\": \"leche_cruda_destinada_a_leche_en_polvo_descremada\"}, {\"units\": \"megalitro\", \"id\": \"AGRO_0053\", \"type\": \"number\", \"description\": \"Leche cruda destinada a leche en polvo entera\", \"title\": \"leche_cruda_destinada_a_leche_en_polvo_entera\"}, {\"units\": \"megalitro\", \"id\": \"AGRO_0054\", \"type\": \"number\", \"description\": \"Leche cruda destinada a leche esterilizada\", \"title\": \"leche_cruda_destinada_a_leche_esterilizada\"}, {\"units\": \"megalitro\", \"id\": \"AGRO_0055\", \"type\": \"number\", \"description\": \"Leche cruda destinada a leche esterilizada descremada\", \"title\": \"leche_cruda_destinada_a_leche_esterilizada_descremada\"}, {\"units\": \"megalitro\", \"id\": \"AGRO_0056\", \"type\": \"number\", \"description\": \"Leche cruda destinada a leche esterilizada entera\", \"title\": \"leche_cruda_destinada_a_leche_esterilizada_entera\"}, {\"units\": \"megalitro\", \"id\": \"AGRO_0057\", \"type\": \"number\", \"description\": \"Leche destinada a leche esterilizada semidescremada\", \"title\": \"leche_cruda_destinada_a_leche_esterilizada_semidescremada\"}, {\"units\": \"megalitro\", \"id\": \"AGRO_0058\", \"type\": \"number\", \"description\": \"Leche cruda destinada a leche pasteurizada\", \"title\": \"leche_cruda_destinada_a_leche_pasteurizada\"}, {\"units\": \"megalitro\", \"id\": \"AGRO_0059\", \"type\": \"number\", \"description\": \"Leche cruda destinada a leche pasteurizada descremada\", \"title\": \"leche_cruda_destinada_a_leche_pasteurizada_descremada\"}, {\"units\": \"megalitro\", \"id\": \"AGRO_0060\", \"type\": \"number\", \"description\": \"Leche cruda destinada a leche pasteurizada entera\", \"title\": \"leche_cruda_destinada_a_leche_pasteurizada_entera\"}, {\"units\": \"megalitro\", \"id\": \"AGRO_0061\", \"type\": \"number\", \"description\": \"Leche cruda destinada a leche pasteurizada semidescremada\", \"title\": \"leche_cruda_destinada_a_leche_pasteurizada_semidescremada\"}, {\"units\": \"megalitro\", \"id\": \"AGRO_0062\", \"type\": \"number\", \"description\": \"Leche cruda destinada a manteca\", \"title\": \"leche_cruda_destinada_a_manteca\"}, {\"units\": \"megalitro\", \"id\": \"AGRO_0063\", \"type\": \"number\", \"description\": \"Leche cruda destinada a postres l\\u00e1cteos y flanes\", \"title\": \"leche_cruda_destinada_a_postres_lacteos_flanes\"}, {\"units\": \"megalitro\", \"id\": \"AGRO_0064\", \"type\": \"number\", \"description\": \"Leche cruda destinada a quesos de alta humedad\", \"title\": \"leche_cruda_destinada_a_quesos_alta_humedad\"}, {\"units\": \"megalitro\", \"id\": \"AGRO_0065\", \"type\": \"number\", \"description\": \"Leche cruda destinada a quesos de baja humedad\", \"title\": \"leche_cruda_destinada_a_quesos_baja_humedad\"}, {\"units\": \"megalitro\", \"id\": \"AGRO_0066\", \"type\": \"number\", \"description\": \"Leche cruda destinada a quesos de mediana humedad\", \"title\": \"leche_cruda_destinada_a_quesos_mediana_humedad\"}, {\"units\": \"megalitro\", \"id\": \"AGRO_0067\", \"type\": \"number\", \"description\": \"Leche cruda destinada a yogurt\", \"title\": \"leche_cruda_destinada_a_yogur\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-05-06T09:41:35.875246",
+      "datastore_active": false,
+      "description": "Serie de tiempo del destino de producción de leche en millones de litros equivalentes desde el año 1983 hasta el año 2016",
+      "fileName": "serie_tiempo-destino-de-produccion-de-la-leche-1983-2016.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "agroindustria_f7c928d6-2cb0-4426-acf2-a11c242c813a",
+      "last_modified": "2019-05-17T09:29:20.341300",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Serie de Tiempo",
+      "package_id": "agroindustria_bec553ed-dda5-4107-b14d-417d3c97207a",
+      "position": 3,
+      "resource_type": "file.upload",
+      "revision_id": "c39f5be2-fc4e-4fa4-bbbb-53c7b6cded27",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.agroindustria.gob.ar/dataset/bec553ed-dda5-4107-b14d-417d3c97207a/resource/f7c928d6-2cb0-4426-acf2-a11c242c813a/download/serie_tiempo-destino-de-produccion-de-la-leche-1983-2016.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "9dac713c-2915-4e53-a351-8239f479327d",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "dulce de leche",
+      "id": "584e9a29-0c01-4c6e-8cc7-341aba5a08a2",
+      "name": "dulce de leche",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "esterilizada",
+      "id": "f89a0da6-1ba0-43a6-992c-21137c41bdaa",
+      "name": "esterilizada",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "lacteos",
+      "id": "9e6b26d8-1663-4102-b84b-8d3d36505c78",
+      "name": "lacteos",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "leche",
+      "id": "50198eec-058b-4999-a070-8cf268e8e576",
+      "name": "leche",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "manteca",
+      "id": "926ca4b2-ae59-4c6b-b4eb-0ff6376e0678",
+      "name": "manteca",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "pasta blanda",
+      "id": "d4e2b4bc-808e-4ef0-884a-459c83e1931e",
+      "name": "pasta blanda",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "pasta dura",
+      "id": "315461ab-12d8-4dfa-83ff-8f54f008451b",
+      "name": "pasta dura",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "pasta semidura",
+      "id": "77906407-cd2c-448c-8aac-d5bf3f5e7392",
+      "name": "pasta semidura",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "pasteurizada",
+      "id": "f1a9ae68-e12d-4630-8d68-821710c5619f",
+      "name": "pasteurizada",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "polvo",
+      "id": "c43eaca4-34c0-4d15-9b3e-b2683b2f67c0",
+      "name": "polvo",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "postres",
+      "id": "70b56a32-9afb-43f1-b773-3f76faba93be",
+      "name": "postres",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "producción leche",
+      "id": "f74a1fed-9707-4984-b326-75a0cb77077c",
+      "name": "producción leche",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "productos",
+      "id": "74e1a191-a4e9-479b-8544-c8c1ee1439d0",
+      "name": "productos",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "productos lácteos",
+      "id": "c757c0d1-0444-4d9b-bdda-7064a71b2059",
+      "name": "productos lácteos",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "quesos alta humedad",
+      "id": "33f44644-4dd7-41f5-8876-bbc6ae0d59f9",
+      "name": "quesos alta humedad",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "quesos baja humedad",
+      "id": "c55e0018-8d75-4daf-a845-d5ad47e16e42",
+      "name": "quesos baja humedad",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "quesos mediana humedad",
+      "id": "0e2d1897-25d2-40df-bf08-25e0cb9491a6",
+      "name": "quesos mediana humedad",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "yogur",
+      "id": "2fab1903-353f-4844-b324-aebbb168ffc7",
+      "name": "yogur",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Lácteos - Destino de producción de leche",
+  "type": "dataset",
+  "url": "https://datos.agroindustria.gob.ar/dataset/destino-produccion-leche",
+  "version": null
+}

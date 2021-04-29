@@ -1,0 +1,145 @@
+{
+  "author": "Área de Incendios Forestales - Dirección Nacional de Desarrollo Foresto Industrial",
+  "author_email": "incendiosforestales@magyp.gob.ar",
+  "creator_user_id": "dc157489-51c6-44ce-bd63-3bd983d60778",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P1M"
+    },
+    {
+      "key": "issued",
+      "value": "2019-07-23T21:26:53.789488"
+    },
+    {
+      "key": "language",
+      "value": "[\"spa\"]"
+    },
+    {
+      "key": "modified",
+      "value": "2019-09-30T11:36:18.580515"
+    },
+    {
+      "key": "source",
+      "value": "Direcciones de Bosques Provinciales u otros Organismos Provinciales"
+    },
+    {
+      "key": "spatial",
+      "value": "[\"ARG\"]"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"AGRI\"]"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Agroganadería, pesca y forestación",
+      "display_name": "Agroganadería, pesca y forestación",
+      "id": "0c35ea38-7059-41d2-9827-5587769d0dc6",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225145.990789agroganaderia-pesca-forestacion.svg",
+      "name": "agri",
+      "title": "Agroganadería, pesca y forestación"
+    }
+  ],
+  "id": "agroindustria_6d036c22-04ba-4c79-bdc7-bbc68ade3c78",
+  "isopen": true,
+  "license_id": "CC-BY-4.0",
+  "license_title": "Creative Commons Attribution 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "maintainer": "Área de Incendios Forestales - Dirección Nacional de Desarrollo Foresto Industrial",
+  "maintainer_email": "incendiosforestales@magyp.gob.ar",
+  "metadata_created": "2019-12-04T20:00:33.811636",
+  "metadata_modified": "2021-04-29T17:06:35.799602",
+  "name": "agroindustria-forestales---tamano-cantidad-focos-incendios",
+  "notes": "Estadística de incendios forestales descritos por tamaño (hectárea), número de focos por mes y año.",
+  "num_resources": 1,
+  "num_tags": 5,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:07.834957",
+    "description": "",
+    "id": "b10c94e2-ade1-4a97-8c4c-b1ada7878d60",
+    "image_url": "",
+    "is_organization": true,
+    "name": "agroindustria",
+    "revision_id": "f7c3b6e9-d48f-4522-9f7a-388d805c8392",
+    "state": "active",
+    "title": "Ministerio de Agricultura, Ganadería y Pesca",
+    "type": "organization"
+  },
+  "owner_org": "b10c94e2-ade1-4a97-8c4c-b1ada7878d60",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "http://datos.agroindustria.gob.ar/dataset/6d036c22-04ba-4c79-bdc7-bbc68ade3c78/resource/e48b3714-1daf-4cd5-b85a-1ff2b17d43f0",
+      "attributesDescription": "[{\"specialType\": \"time_index\", \"specialTypeDetail\": \"R/P1M\", \"type\": \"date\", \"description\": \"Fecha en la que se informa el inicio del foco de incendio.\", \"title\": \"indice_tiempo\"}, {\"units\": \"hect\\u00e1reas\", \"id\": \"AGRO_0350\", \"type\": \"integer\", \"description\": \"Tama\\u00f1o m\\u00ednimo del foco de incendio\", \"title\": \"focos_tamanio_minimo\"}, {\"units\": \"hect\\u00e1reas\", \"id\": \"AGRO_0351\", \"type\": \"integer\", \"description\": \"Tama\\u00f1o m\\u00e1ximo del foco de incendio\", \"title\": \"focos_tamanio_maximo\"}, {\"units\": \"Cantidad de focos de incendio\", \"id\": \"AGRO_0352\", \"type\": \"integer\", \"description\": \"Cantidad de focos de incendio en ese mes\", \"title\": \"focos_cantidad\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-07-24T11:06:07.400889",
+      "datastore_active": false,
+      "description": "Estadísticas de incendios forestales por tamaño (divididos en rangos que van desde 0-5; 5,1-20; 20,1-50; 50,1-100; 100, 1-500; >500 hectáreas), número de focos por mes y año. ",
+      "fileName": "tamanio-y-cantidad-de-focos-por-anio.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "agroindustria_e48b3714-1daf-4cd5-b85a-1ff2b17d43f0",
+      "last_modified": "2019-10-21T09:42:13.387606",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Forestal - Tamaño y cantidad de focos de incendios",
+      "package_id": "agroindustria_6d036c22-04ba-4c79-bdc7-bbc68ade3c78",
+      "position": 0,
+      "resource_type": "file.upload",
+      "revision_id": "b8e79719-72b8-491e-a31c-ca0d38e403dc",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.agroindustria.gob.ar/dataset/6d036c22-04ba-4c79-bdc7-bbc68ade3c78/resource/e48b3714-1daf-4cd5-b85a-1ff2b17d43f0/download/tamanio-y-cantidad-de-focos-por-anio.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "b4aba778-d8eb-476f-91ac-8e00d963800a",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "focos de incendio",
+      "id": "90a89016-66ec-4ea8-8191-9acad89f88c7",
+      "name": "focos de incendio",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "forestal",
+      "id": "b28a94d6-df19-4c7d-908a-16e17698a9b9",
+      "name": "forestal",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "incendio",
+      "id": "a7952a30-970b-49f0-a87a-20fcf3b98692",
+      "name": "incendio",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "superficie",
+      "id": "4ad5d183-55e4-4f37-b74b-2e71a48c2059",
+      "name": "superficie",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "tamaño de focos",
+      "id": "fc2a7e85-c456-4560-8a2b-35bc7d502926",
+      "name": "tamaño de focos",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Forestales - Tamaño y cantidad de focos de incendios",
+  "type": "dataset",
+  "url": "https://datos.agroindustria.gob.ar/dataset/forestales-tamano-y-cantidad-de-focos-de-incendios",
+  "version": null
+}

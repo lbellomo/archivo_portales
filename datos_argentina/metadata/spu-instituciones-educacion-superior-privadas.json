@@ -1,0 +1,137 @@
+{
+  "author": "Ministerio de Educación , Cultura , Ciencia y Tecnología . Secretaria de Políticas Universitarias - Dirección Nacional de Presupuesto e Información Universitaria ",
+  "author_email": "leticia.miras@educacion.gob.ar",
+  "creator_user_id": "4720e75a-9e17-4dc3-879d-041917c7f9f9",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/PT1S"
+    },
+    {
+      "key": "issued",
+      "value": "2018-10-03T15:33:52.114936"
+    },
+    {
+      "key": "language",
+      "value": "[\"spa\"]"
+    },
+    {
+      "key": "modified",
+      "value": "2019-01-29T14:25:42.323100"
+    },
+    {
+      "key": "source",
+      "value": "Secretaría de Políticas Universitarias -  Departamento de Información Universitaria "
+    },
+    {
+      "key": "spatial",
+      "value": "[\"ARG\", \"02\"]"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"EDUC\"]"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Educación, cultura y deportes",
+      "display_name": "Educación, cultura y deportes",
+      "id": "b5ebe955-de3d-4e0b-b28c-16df2b2af99f",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225313.459997educacion-cultura-deportes.svg",
+      "name": "educ",
+      "title": "Educación, cultura y deportes"
+    }
+  ],
+  "id": "spu_ae944f17-e50b-4ca1-8a03-3b51d3ca9a2a",
+  "isopen": false,
+  "license_id": "notspecified",
+  "license_title": "No se especificó la licencia",
+  "maintainer": "Ministerio de Educación , Cultura , Ciencia y Tecnología . Secretaria de Políticas Universitarias - Dirección Nacional de Presupuesto e Información Universitaria ",
+  "maintainer_email": "leticia.miras@educacion.gob.ar",
+  "metadata_created": "2019-11-26T15:02:22.793095",
+  "metadata_modified": "2021-04-29T17:18:03.157684",
+  "name": "spu-instituciones-educacion-superior-privadas",
+  "notes": "Listado de Instituciones de Educación Superior  Privadas",
+  "num_resources": 1,
+  "num_tags": 4,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:08.915439",
+    "description": "",
+    "id": "dd9e5d2b-3d9e-4597-be41-147150ba808f",
+    "image_url": "",
+    "is_organization": true,
+    "name": "spu",
+    "revision_id": "0c3a1ab3-8fa4-4e9b-aaee-80c27e18b6ba",
+    "state": "active",
+    "title": "Secretaría de Políticas Universitarias",
+    "type": "organization"
+  },
+  "owner_org": "dd9e5d2b-3d9e-4597-be41-147150ba808f",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "http://andino.siu.edu.ar:80/dataset/ae944f17-e50b-4ca1-8a03-3b51d3ca9a2a/resource/4c8852b3-5e79-4e37-9c80-3fd9169544e0",
+      "attributesDescription": "[{\"type\": \"integer\", \"description\": \"Codigo instituci\\u00f3n - Sistema Araucano\", \"title\": \"Codigo instituci\\u00f3n\"}, {\"type\": \"string\", \"description\": \"Nombre instituci\\u00f3n\", \"title\": \"Descripcion institucion\"}, {\"type\": \"string\", \"description\": \"Nombre corto \", \"title\": \"Nombre corto \"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2018-10-03T12:35:56.753801",
+      "datastore_active": false,
+      "description": "Listado de instituciones de educación Superior Privadas ",
+      "fileName": "listado-de-instituciones-privadas.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "spu_4c8852b3-5e79-4e37-9c80-3fd9169544e0",
+      "last_modified": "2018-10-03T12:35:56.753801",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Listado de instituciones de educación Superior Privadas ",
+      "package_id": "spu_ae944f17-e50b-4ca1-8a03-3b51d3ca9a2a",
+      "position": 0,
+      "resource_type": "file.upload",
+      "revision_id": "0ac2c1d0-ba90-496f-a10a-02ff655414ad",
+      "size": null,
+      "state": "active",
+      "url": "http://andino.siu.edu.ar:80/dataset/ae944f17-e50b-4ca1-8a03-3b51d3ca9a2a/resource/4c8852b3-5e79-4e37-9c80-3fd9169544e0/download/listado-de-instituciones-privadas.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "0d74df19-7ecf-4103-9a2d-17638205d3e0",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "Instituciones Universitarias",
+      "id": "20f00aac-7c50-4b54-8657-701ed511b387",
+      "name": "Instituciones Universitarias",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Institución",
+      "id": "218afbf5-372a-42b1-9278-44c082e20cb5",
+      "name": "Institución",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Universidades",
+      "id": "56d7f0bb-820a-4dc2-967b-1b0d59cdfca8",
+      "name": "Universidades",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Universidades Privadas",
+      "id": "33dff64b-d87f-4bd1-930f-fd0b57255d9a",
+      "name": "Universidades Privadas",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Instituciones de Educación Superior  Privadas",
+  "type": "dataset",
+  "url": "http://andino.siu.edu.ar/dataset/listado-de-instituciones-de-educacion-superior-privadas",
+  "version": null
+}

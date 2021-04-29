@@ -1,0 +1,180 @@
+{
+  "author": "Dirección de Ovinos, Caprinos y Camélidos",
+  "author_email": "docyc@magyp.gob.ar",
+  "creator_user_id": "dc157489-51c6-44ce-bd63-3bd983d60778",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P1Y"
+    },
+    {
+      "key": "issued",
+      "value": "2018-12-07T21:24:57.427934"
+    },
+    {
+      "key": "language",
+      "value": "[\"spa\"]"
+    },
+    {
+      "key": "modified",
+      "value": "2019-10-24T10:27:03.412588"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"AGRI\"]"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Agroganadería, pesca y forestación",
+      "display_name": "Agroganadería, pesca y forestación",
+      "id": "0c35ea38-7059-41d2-9827-5587769d0dc6",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225145.990789agroganaderia-pesca-forestacion.svg",
+      "name": "agri",
+      "title": "Agroganadería, pesca y forestación"
+    }
+  ],
+  "id": "agroindustria_8d88fe6b-68cf-4656-85ee-bb4b7029d456",
+  "isopen": true,
+  "license_id": "CC-BY-4.0",
+  "license_title": "Creative Commons Attribution 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "maintainer": null,
+  "maintainer_email": null,
+  "metadata_created": "2019-12-04T20:01:32.706299",
+  "metadata_modified": "2021-04-29T17:10:42.309937",
+  "name": "agroindustria-ganaderia---existencias-ovinas-desde-1875-al-2017",
+  "notes": "Datos anuales provinciales sobre existencias ovinas.",
+  "num_resources": 3,
+  "num_tags": 4,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:07.834957",
+    "description": "",
+    "id": "b10c94e2-ade1-4a97-8c4c-b1ada7878d60",
+    "image_url": "",
+    "is_organization": true,
+    "name": "agroindustria",
+    "revision_id": "f7c3b6e9-d48f-4522-9f7a-388d805c8392",
+    "state": "active",
+    "title": "Ministerio de Agricultura, Ganadería y Pesca",
+    "type": "organization"
+  },
+  "owner_org": "b10c94e2-ade1-4a97-8c4c-b1ada7878d60",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "http://datos.agroindustria.gob.ar/dataset/8d88fe6b-68cf-4656-85ee-bb4b7029d456/resource/fb8dbe9d-28b7-4feb-ad0b-c45d24e1d358",
+      "attributesDescription": "[{\"type\": \"integer\", \"description\": \"pais_id\", \"title\": \"pais_id\"}, {\"type\": \"string\", \"description\": \"pais\", \"title\": \"pais\"}, {\"type\": \"integer\", \"description\": \"provincia_id\", \"title\": \"provincia_id\"}, {\"type\": \"string\", \"description\": \"provincia\", \"title\": \"provincia\"}, {\"type\": \"integer\", \"description\": \"a\\u00f1o\", \"title\": \"a\\u00f1o\"}, {\"type\": \"number\", \"description\": \"cantidad (miles de cabezas)\", \"title\": \"cantidad (miles de cabezas)\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2018-10-26T18:38:23.976626",
+      "datastore_active": false,
+      "description": "Datos anuales provinciales sobre existencias ovinas. Período 1875-1964. Los años faltantes no tienen registros asentados.",
+      "fileName": "existencias-ovinas-1875-1964-.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "agroindustria_fb8dbe9d-28b7-4feb-ad0b-c45d24e1d358",
+      "last_modified": "2019-01-17T10:09:32.655037",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Existencias ovinas 1875-1964",
+      "package_id": "agroindustria_8d88fe6b-68cf-4656-85ee-bb4b7029d456",
+      "position": 0,
+      "resource_type": "file.upload",
+      "revision_id": "7d94a064-7c9c-4da4-a8f0-a5ef21206425",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.agroindustria.gob.ar/dataset/8d88fe6b-68cf-4656-85ee-bb4b7029d456/resource/fb8dbe9d-28b7-4feb-ad0b-c45d24e1d358/download/existencias-ovinas-1875-1964-.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos.agroindustria.gob.ar/dataset/8d88fe6b-68cf-4656-85ee-bb4b7029d456/resource/2c7ef5ff-a570-43aa-a61a-ff7d2bb6a8e0",
+      "attributesDescription": "[{\"type\": \"string\", \"description\": \"fuente\", \"title\": \"fuente\"}, {\"type\": \"integer\", \"description\": \"pais_id\", \"title\": \"pais_id\"}, {\"type\": \"string\", \"description\": \"pais\", \"title\": \"pais\"}, {\"type\": \"integer\", \"description\": \"provincia_id\", \"title\": \"provincia_id\"}, {\"type\": \"string\", \"description\": \"provincia\", \"title\": \"provincia\"}, {\"type\": \"integer\", \"description\": \"desde_a\\u00f1o\", \"title\": \"desde_a\\u00f1o\"}, {\"type\": \"integer\", \"description\": \"hasta_a\\u00f1o\", \"title\": \"hasta_a\\u00f1o\"}, {\"type\": \"number\", \"description\": \"cantidad (miles de cabezas)\", \"title\": \"cantidad (miles de cabezas)\"}, {\"type\": \"string\", \"description\": \"fuente\", \"title\": \"fuente\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2018-10-26T19:02:07.535711",
+      "datastore_active": false,
+      "description": "Datos anuales provinciales sobre existencias ovinas. Período 1965-2017. Los años faltantes no tienen registros asentados.",
+      "fileName": "existencias-ovinas-1965-2017.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "agroindustria_2c7ef5ff-a570-43aa-a61a-ff7d2bb6a8e0",
+      "last_modified": "2019-04-30T11:41:05.910004",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Existencias ovinas 1965-2017",
+      "package_id": "agroindustria_8d88fe6b-68cf-4656-85ee-bb4b7029d456",
+      "position": 1,
+      "resource_type": "file.upload",
+      "revision_id": "7d94a064-7c9c-4da4-a8f0-a5ef21206425",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.agroindustria.gob.ar/dataset/8d88fe6b-68cf-4656-85ee-bb4b7029d456/resource/2c7ef5ff-a570-43aa-a61a-ff7d2bb6a8e0/download/existencias-ovinas-1965-2017.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos.agroindustria.gob.ar/dataset/8d88fe6b-68cf-4656-85ee-bb4b7029d456/resource/704fc523-7f74-4c30-8e0e-fb6338ae6731",
+      "attributesDescription": "[{\"specialType\": \"time_index\", \"specialTypeDetail\": \"R/P1Y\", \"type\": \"date\", \"description\": \"Indice de Tiempo\", \"title\": \"indice_tiempo\"}, {\"units\": \"unidad\", \"id\": \"AGRO_0163\", \"type\": \"integer\", \"description\": \"Indica la cantidad de cabezas de ganado ovino en la provincia de Buenos Aires\", \"title\": \"buenos_aires\"}, {\"units\": \"unidad\", \"id\": \"AGRO_0164\", \"type\": \"integer\", \"description\": \"Indica la cantidad de cabezas de ganado ovino en la provincia de Catamarca\", \"title\": \"catamarca\"}, {\"units\": \"unidad\", \"id\": \"AGRO_0165\", \"type\": \"integer\", \"description\": \"Indica la cantidad de cabezas de ganado ovino en la provincia que en su momento se llamaba Los Andes\", \"title\": \"catamarca_jujuy_ex_los_andes\"}, {\"units\": \"unidad\", \"id\": \"AGRO_0166\", \"type\": \"integer\", \"description\": \"Indica la cantidad de cabezas de ganado ovino en la provincia del Chaco\", \"title\": \"chaco\"}, {\"units\": \"unidad\", \"id\": \"AGRO_0167\", \"type\": \"integer\", \"description\": \"Indica la cantidad de cabezas de ganado ovino en la provincia de Chubut\", \"title\": \"chubut\"}, {\"units\": \"unidad\", \"id\": \"AGRO_0168\", \"type\": \"integer\", \"description\": \"Indica la cantidad de cabezas de ganado ovino en la provincia de C\\u00f3rdoba\", \"title\": \"cordoba\"}, {\"units\": \"unidad \", \"id\": \"AGRO_0169\", \"type\": \"integer\", \"description\": \"Indica la cantidad de cabezas de ganado ovino en la provincia de Corrientes\", \"title\": \"corrientes\"}, {\"units\": \"unidad\", \"id\": \"AGRO_0170\", \"type\": \"integer\", \"description\": \"Indica la cantidad de cabezas de ganado ovino en la provincia de Entre R\\u00edos\", \"title\": \"entre_rios\"}, {\"units\": \"unidad\", \"id\": \"AGRO_0171\", \"type\": \"integer\", \"description\": \"Indica la cantidad de cabezas de ganado ovino en la provincia de Formosa\", \"title\": \"formosa\"}, {\"units\": \"unidad\", \"id\": \"AGRO_0172\", \"type\": \"integer\", \"description\": \"Indica la cantidad de cabezas de ganado ovino en G.M.C. Rivadavia\", \"title\": \"g_m_c_rivadavia\"}, {\"units\": \"unidad\", \"id\": \"AGRO_0173\", \"type\": \"integer\", \"description\": \"Indica la cantidad de cabezas de ganado ovino en la provincia de Jujuy\", \"title\": \"jujuy\"}, {\"units\": \"unidad\", \"id\": \"AGRO_0174\", \"type\": \"integer\", \"description\": \"Indica la cantidad de cabezas de ganado ovino en la provincia de La Pampa\", \"title\": \"la_pampa\"}, {\"units\": \"unidad\", \"id\": \"AGRO_0175\", \"type\": \"integer\", \"description\": \"Indica la cantidad de cabezas de ganado ovino en la provincia de La Rioja\", \"title\": \"la_rioja\"}, {\"units\": \"unidad\", \"id\": \"AGRO_0176\", \"type\": \"integer\", \"description\": \"Indica la cantidad de cabezas de ganado ovino en la provincia de Mendoza\", \"title\": \"mendoza\"}, {\"units\": \"unidad\", \"id\": \"AGRO_0177\", \"type\": \"integer\", \"description\": \"Indica la cantidad de cabezas de ganado ovino en la provincia de Misiones\", \"title\": \"misiones\"}, {\"units\": \"unidad\", \"id\": \"AGRO_0178\", \"type\": \"integer\", \"description\": \"Indica la cantidad de cabezas de ganado ovino en la provincia de Neuqu\\u00e9n\", \"title\": \"neuquen\"}, {\"units\": \"unidad\", \"id\": \"AGRO_0179\", \"type\": \"integer\", \"description\": \"Indica la cantidad de cabezas de ganado ovino en la provincia de R\\u00edo Negro\", \"title\": \"rio_negro\"}, {\"units\": \"unidad\", \"id\": \"AGRO_0180\", \"type\": \"integer\", \"description\": \"Indica la cantidad de cabezas de ganado ovino en la provincia de Salta\", \"title\": \"salta\"}, {\"units\": \"unidad\", \"id\": \"AGRO_0181\", \"type\": \"integer\", \"description\": \"Indica la cantidad de cabezas de ganado ovino en la provincia de San Juan\", \"title\": \"san_juan\"}, {\"units\": \"unidad\", \"id\": \"AGRO_0182\", \"type\": \"integer\", \"description\": \"Indica la cantidad de cabezas de ganado ovino en la provincia de San Luis\", \"title\": \"san_luis\"}, {\"units\": \"unidad\", \"id\": \"AGRO_0183\", \"type\": \"integer\", \"description\": \"Indica la cantidad de cabezas de ganado ovino en la provincia de Santa Cruz\", \"title\": \"santa_cruz\"}, {\"units\": \"unidad\", \"id\": \"AGRO_0184\", \"type\": \"integer\", \"description\": \"Indica la cantidad de cabezas de ganado ovino en la provincia de Santa Fe\", \"title\": \"santa_fe\"}, {\"units\": \"unidad\", \"id\": \"AGRO_0185\", \"type\": \"integer\", \"description\": \"Indica la cantidad de cabezas de ganado ovino en la provincia de Santiago del Estero\", \"title\": \"santiago_del_estero\"}, {\"units\": \"unidad\", \"id\": \"AGRO_0186\", \"type\": \"integer\", \"description\": \"Indica la cantidad de cabezas de ganado ovino en la provincia de Tierra del Fuego\", \"title\": \"tierra_del_fuego\"}, {\"units\": \"unidad\", \"id\": \"AGRO_0187\", \"type\": \"integer\", \"description\": \"Indica la cantidad de cabezas de ganado ovino en la provincia de Tucuman\", \"title\": \"tucuman\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-05-16T14:22:58.030996",
+      "datastore_active": false,
+      "description": "Serie de tiempo de existencias ovinas desde el año 1875 al 2017 , los campos sin datos son informados con la sigla s/d.",
+      "fileName": "serie_existencias_ovinas-1875_2017.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "agroindustria_704fc523-7f74-4c30-8e0e-fb6338ae6731",
+      "last_modified": "2019-10-10T12:34:36.736079",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Serie de Tiempo de Existencias ovinas desde el año 1875 al 2017",
+      "package_id": "agroindustria_8d88fe6b-68cf-4656-85ee-bb4b7029d456",
+      "position": 2,
+      "resource_type": "file.upload",
+      "revision_id": "7d94a064-7c9c-4da4-a8f0-a5ef21206425",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.agroindustria.gob.ar/dataset/8d88fe6b-68cf-4656-85ee-bb4b7029d456/resource/704fc523-7f74-4c30-8e0e-fb6338ae6731/download/serie_existencias_ovinas-1875_2017.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "334e618d-c35a-4d3b-9a2a-67ae67806584",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "Existencias Nacionales",
+      "id": "416a08e0-9538-4805-bcde-0e559ab14b31",
+      "name": "Existencias Nacionales",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "existencias",
+      "id": "c5dff3d5-3abe-4c89-b5f1-35b75496bcdb",
+      "name": "existencias",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "ganado",
+      "id": "1439f647-fc24-437b-83e9-387e0578927c",
+      "name": "ganado",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "ovinos",
+      "id": "aea957ca-9fc7-47fb-9872-206451ad96f2",
+      "name": "ovinos",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Ganadería - Existencias ovinas desde 1875 al 2017",
+  "type": "dataset",
+  "url": "https://datos.agroindustria.gob.ar/dataset/existencias-ovinas-nacionales-desde-1875-al-2017",
+  "version": null
+}

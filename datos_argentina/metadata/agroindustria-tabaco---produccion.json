@@ -1,0 +1,197 @@
+{
+  "author": "Coordinación de Cultivos Industrializables - Subsecretaría de Agricultura",
+  "author_email": "finanzasfet@magyp.gob.ar",
+  "creator_user_id": "dc157489-51c6-44ce-bd63-3bd983d60778",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P1Y"
+    },
+    {
+      "key": "issued",
+      "value": "2018-12-07T21:24:03.597848"
+    },
+    {
+      "key": "language",
+      "value": "[\"spa\"]"
+    },
+    {
+      "key": "modified",
+      "value": "2019-10-24T11:11:04.713158"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"AGRI\"]"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Agroganadería, pesca y forestación",
+      "display_name": "Agroganadería, pesca y forestación",
+      "id": "0c35ea38-7059-41d2-9827-5587769d0dc6",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225145.990789agroganaderia-pesca-forestacion.svg",
+      "name": "agri",
+      "title": "Agroganadería, pesca y forestación"
+    }
+  ],
+  "id": "agroindustria_fd345982-d53c-4fea-bc9b-151caa6a3780",
+  "isopen": true,
+  "license_id": "CC-BY-4.0",
+  "license_title": "Creative Commons Attribution 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "maintainer": null,
+  "maintainer_email": null,
+  "metadata_created": "2019-12-04T20:00:57.401195",
+  "metadata_modified": "2021-04-29T17:06:43.825133",
+  "name": "agroindustria-tabaco---produccion",
+  "notes": "Datos históricos y actuales de producción primaria de tabaco: área plantada, cosechada, producción y rendimiento. Datos desde 1986/1987 a la actualidad.",
+  "num_resources": 2,
+  "num_tags": 10,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:07.834957",
+    "description": "",
+    "id": "b10c94e2-ade1-4a97-8c4c-b1ada7878d60",
+    "image_url": "",
+    "is_organization": true,
+    "name": "agroindustria",
+    "revision_id": "f7c3b6e9-d48f-4522-9f7a-388d805c8392",
+    "state": "active",
+    "title": "Ministerio de Agricultura, Ganadería y Pesca",
+    "type": "organization"
+  },
+  "owner_org": "b10c94e2-ade1-4a97-8c4c-b1ada7878d60",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "http://datos.agroindustria.gob.ar/dataset/fd345982-d53c-4fea-bc9b-151caa6a3780/resource/0cdce5db-3d84-445b-aa00-1343e0ab5613",
+      "attributesDescription": "[{\"type\": \"integer\", \"description\": \"pais_id\", \"title\": \"pais_id\"}, {\"type\": \"string\", \"description\": \"pais\", \"title\": \"pais\"}, {\"type\": \"string\", \"description\": \"campa\\u0144a\", \"title\": \"campa\\u0144a\"}, {\"type\": \"string\", \"description\": \"tipo de tabaco\", \"title\": \"tipo de tabaco\"}, {\"type\": \"number\", \"description\": \"superficie_plantada\", \"title\": \"superficie_plantada\"}, {\"type\": \"number\", \"description\": \"superficie_cosechada\", \"title\": \"superficie_cosechada\"}, {\"type\": \"string\", \"description\": \"unidad_sup_id\", \"title\": \"unidad_sup_id\"}, {\"type\": \"string\", \"description\": \"unidad_superficie\", \"title\": \"unidad_superficie\"}, {\"type\": \"number\", \"description\": \"produccion\", \"title\": \"produccion\"}, {\"type\": \"string\", \"description\": \"unidad_prod_id\", \"title\": \"unidad_prod_id\"}, {\"type\": \"string\", \"description\": \"unidad_produccion\", \"title\": \"unidad_produccion\"}, {\"type\": \"number\", \"description\": \"rendimiento\", \"title\": \"rendimiento\"}, {\"type\": \"string\", \"description\": \"unidad_rendimiento\", \"title\": \"unidad_rendimiento\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2018-08-22T19:47:38.236624",
+      "datastore_active": false,
+      "description": "Producción primaria de tabaco: área total plantada, cosechada, producción y rendimiento por tipo de tabaco. Datos históricos desde 1986/1987 a la actualidad.",
+      "fileName": "areastabacototales1986-2017.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "agroindustria_0cdce5db-3d84-445b-aa00-1343e0ab5613",
+      "last_modified": "2019-01-24T12:47:23.654163",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Superficie y producción por tipo de tabaco",
+      "package_id": "agroindustria_fd345982-d53c-4fea-bc9b-151caa6a3780",
+      "position": 0,
+      "resource_type": "file.upload",
+      "revision_id": "7474c157-b97f-464b-bc51-42f945410bb2",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.agroindustria.gob.ar/dataset/fd345982-d53c-4fea-bc9b-151caa6a3780/resource/0cdce5db-3d84-445b-aa00-1343e0ab5613/download/areastabacototales1986-2017.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos.agroindustria.gob.ar/dataset/fd345982-d53c-4fea-bc9b-151caa6a3780/archivo/a27a781b-ea81-4806-afbb-c6e4e947003e",
+      "attributesDescription": "[{\"type\": \"integer\", \"description\": \"pais_id\", \"title\": \"pais_id\"}, {\"type\": \"string\", \"description\": \"pais\", \"title\": \"pais\"}, {\"type\": \"integer\", \"description\": \"provincia_id\", \"title\": \"provincia_id\"}, {\"type\": \"string\", \"description\": \"provincia\", \"title\": \"provincia\"}, {\"type\": \"string\", \"description\": \"campa\\u0144a\", \"title\": \"campa\\u0144a\"}, {\"type\": \"string\", \"description\": \"tipo de tabaco\", \"title\": \"tipo de tabaco\"}, {\"type\": \"number\", \"description\": \"superficie_plantada\", \"title\": \"superficie_plantada\"}, {\"type\": \"number\", \"description\": \"superficie_cosechada\", \"title\": \"superficie_cosechada\"}, {\"type\": \"string\", \"description\": \"unidad_sup_id\", \"title\": \"unidad_sup_id\"}, {\"type\": \"string\", \"description\": \"unidad_superficie\", \"title\": \"unidad_superficie\"}, {\"type\": \"number\", \"description\": \"produccion\", \"title\": \"produccion\"}, {\"type\": \"string\", \"description\": \"unidad_prod_id\", \"title\": \"unidad_prod_id\"}, {\"type\": \"string\", \"description\": \"unidad_produccion\", \"title\": \"unidad_produccion\"}, {\"type\": \"number\", \"description\": \"rendimiento\", \"title\": \"rendimiento\"}, {\"type\": \"string\", \"description\": \"unidad_rendimiento\", \"title\": \"unidad_rendimiento\"}, {\"type\": \"number\", \"description\": \"precio_acopio\", \"title\": \"precio_acopio\"}, {\"type\": \"number\", \"description\": \"precio_fet\", \"title\": \"precio_fet\"}, {\"type\": \"number\", \"description\": \"precio_total\", \"title\": \"precio_total\"}, {\"type\": \"string\", \"description\": \"precio_moneda_id\", \"title\": \"precio_moneda_id\"}, {\"type\": \"string\", \"description\": \"precio_moneda\", \"title\": \"precio_moneda\"}, {\"type\": \"string\", \"description\": \"unidad_precio\", \"title\": \"unidad_precio\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2018-08-22T19:50:07.691548",
+      "datastore_active": false,
+      "description": "Producción primaria de tabaco: área total plantada, cosechada, producción y rendimiento por tipo de tabaco, desagregado por provincias. Datos históricos desde 1986/1987 a la actualidad.",
+      "fileName": "areastabacototalesprovincias1986-2017.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "agroindustria_a27a781b-ea81-4806-afbb-c6e4e947003e",
+      "last_modified": "2019-03-18T17:51:05.493116",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Superficie y producción por tipo de tabaco desagregado por provincias",
+      "package_id": "agroindustria_fd345982-d53c-4fea-bc9b-151caa6a3780",
+      "position": 1,
+      "resource_type": "file.upload",
+      "revision_id": "7474c157-b97f-464b-bc51-42f945410bb2",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.agroindustria.gob.ar/dataset/fd345982-d53c-4fea-bc9b-151caa6a3780/resource/a27a781b-ea81-4806-afbb-c6e4e947003e/download/areastabacototalesprovincias1986-2017.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "7a0594e1-a7f7-4778-8a8e-8313726562e6",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "burley",
+      "id": "726e42bf-0a35-4284-a7ae-38c51be9c3ff",
+      "name": "burley",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "criollo",
+      "id": "77be3749-3652-46c5-b7b1-8dfac9e4a7ce",
+      "name": "criollo",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "criollo argentino",
+      "id": "8b2ab1a9-0ee4-41e5-97e6-2e2bda4a576b",
+      "name": "criollo argentino",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "criollo chaqueño",
+      "id": "76417817-a213-4cac-99ef-6b4029f23f3e",
+      "name": "criollo chaqueño",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "criollo correntino",
+      "id": "c0f2462c-279f-4532-a849-9f384775afc6",
+      "name": "criollo correntino",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "criollo misionero",
+      "id": "ff6a59e6-5c00-45c6-a642-8e2de91c6329",
+      "name": "criollo misionero",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "kentucky",
+      "id": "18ed41b4-2110-49fe-9820-812c59e80f03",
+      "name": "kentucky",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "kentucky ahumado",
+      "id": "a748dd65-415f-4582-9a41-8178debc4adb",
+      "name": "kentucky ahumado",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "tabaco",
+      "id": "0f174849-c4a1-4294-862f-dc44006b2ed7",
+      "name": "tabaco",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "virginia",
+      "id": "a7ef0d84-a899-4c5c-affd-f4b3e205e10a",
+      "name": "virginia",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Tabaco - Producción",
+  "type": "dataset",
+  "url": "https://datos.agroindustria.gob.ar/dataset/produccion-primaria-tabaco",
+  "version": null
+}

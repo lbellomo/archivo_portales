@@ -1,0 +1,180 @@
+{
+  "author": "Dirección Nacional de Desarrollo Foresto Industrial",
+  "author_email": "ssdfi@magyp.gob.ar",
+  "creator_user_id": "dc157489-51c6-44ce-bd63-3bd983d60778",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P3M"
+    },
+    {
+      "key": "issued",
+      "value": "2018-12-07T21:24:50.841105"
+    },
+    {
+      "key": "language",
+      "value": "[\"spa\"]"
+    },
+    {
+      "key": "modified",
+      "value": "2019-10-24T11:10:13.282389"
+    },
+    {
+      "key": "spatial",
+      "value": "[\"ARG\"]"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"AGRI\"]"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Agroganadería, pesca y forestación",
+      "display_name": "Agroganadería, pesca y forestación",
+      "id": "0c35ea38-7059-41d2-9827-5587769d0dc6",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225145.990789agroganaderia-pesca-forestacion.svg",
+      "name": "agri",
+      "title": "Agroganadería, pesca y forestación"
+    }
+  ],
+  "id": "agroindustria_d6a7d971-0344-4a8e-8dcc-ccc8c2561154",
+  "isopen": true,
+  "license_id": "CC-BY-4.0",
+  "license_title": "Creative Commons Attribution 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "maintainer": "Dirección Nacional de Desarrollo Foresto Industrial",
+  "maintainer_email": "ssdfi@magyp.gob.ar",
+  "metadata_created": "2019-12-04T20:01:34.686504",
+  "metadata_modified": "2021-04-29T17:10:04.661156",
+  "name": "agroindustria-forestales---series-precios",
+  "notes": "Series de precios de productos de origen forestal desde 1996 dividido por especie: madera aserrada, machimbre, chips y tableros.",
+  "num_resources": 2,
+  "num_tags": 7,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:07.834957",
+    "description": "",
+    "id": "b10c94e2-ade1-4a97-8c4c-b1ada7878d60",
+    "image_url": "",
+    "is_organization": true,
+    "name": "agroindustria",
+    "revision_id": "f7c3b6e9-d48f-4522-9f7a-388d805c8392",
+    "state": "active",
+    "title": "Ministerio de Agricultura, Ganadería y Pesca",
+    "type": "organization"
+  },
+  "owner_org": "b10c94e2-ade1-4a97-8c4c-b1ada7878d60",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "http://datos.agroindustria.gob.ar/dataset/d6a7d971-0344-4a8e-8dcc-ccc8c2561154/resource/fd3d8683-e8e6-4d61-863d-9f403f85851c",
+      "attributesDescription": "[{\"type\": \"string\", \"description\": \"pais_id\", \"title\": \"pais_id\"}, {\"type\": \"string\", \"description\": \"pais\", \"title\": \"pais\"}, {\"type\": \"integer\", \"description\": \"provincia_id\", \"title\": \"provincia_id\"}, {\"type\": \"string\", \"description\": \"provincia\", \"title\": \"provincia\"}, {\"type\": \"string\", \"description\": \"a\\u00f1o\", \"title\": \"a\\u00f1o\"}, {\"type\": \"string\", \"description\": \"destino\", \"title\": \"destino\"}, {\"type\": \"string\", \"description\": \"categor\\u00eda\", \"title\": \"categor\\u00eda\"}, {\"type\": \"string\", \"description\": \"espesor_uni_med\", \"title\": \"espesor_uni_med\"}, {\"type\": \"string\", \"description\": \"espesor\", \"title\": \"espesor\"}, {\"type\": \"string\", \"description\": \"Especie\", \"title\": \"Especie\"}, {\"type\": \"string\", \"description\": \"moneda_id\", \"title\": \"moneda_id\"}, {\"type\": \"string\", \"description\": \"uni_med\", \"title\": \"uni_med\"}, {\"type\": \"number\", \"description\": \"precio / uni_med\", \"title\": \"precio / uni_med\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-08-25T12:25:36.758397",
+      "datastore_active": false,
+      "description": "Series de precios de Productos de origen forestal desde 1996 dividido por especie: Madera aserrada, Machimbre, Chips y Tableros.",
+      "fileName": "evolucion-precio-productos-forestales-provincia.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "agroindustria_fd3d8683-e8e6-4d61-863d-9f403f85851c",
+      "last_modified": "2019-01-29T13:36:48.805509",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Series de precios de productos forestales por provincia",
+      "package_id": "agroindustria_d6a7d971-0344-4a8e-8dcc-ccc8c2561154",
+      "position": 0,
+      "resource_type": "file.upload",
+      "revision_id": "a6b1224b-7cb9-4c3a-89c1-5fbc158caa8c",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.agroindustria.gob.ar/dataset/d6a7d971-0344-4a8e-8dcc-ccc8c2561154/resource/fd3d8683-e8e6-4d61-863d-9f403f85851c/download/evolucion-precio-productos-forestales-provincia.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos.agroindustria.gob.ar/dataset/d6a7d971-0344-4a8e-8dcc-ccc8c2561154/resource/049e0dbe-9b39-4433-9978-e928424b7b4f",
+      "attributesDescription": "[{\"type\": \"string\", \"description\": \"pais_id\", \"title\": \"pais_id\"}, {\"type\": \"string\", \"description\": \"pais\", \"title\": \"pais\"}, {\"type\": \"string\", \"description\": \"region\", \"title\": \"region\"}, {\"type\": \"string\", \"description\": \"a\\u00f1o\", \"title\": \"a\\u00f1o\"}, {\"type\": \"string\", \"description\": \"destino\", \"title\": \"destino\"}, {\"type\": \"string\", \"description\": \"Especie\", \"title\": \"Especie\"}, {\"type\": \"string\", \"description\": \"moneda_id\", \"title\": \"moneda_id\"}, {\"type\": \"string\", \"description\": \"uni_med\", \"title\": \"uni_med\"}, {\"type\": \"number\", \"description\": \"precio / uni_med\", \"title\": \"precio / uni_med\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-08-25T12:26:36.663753",
+      "datastore_active": false,
+      "description": "Series de precios de Productos de origen forestal desde 1996 dividido por especie: Madera aserrada, Machimbre, Chips y Tableros.",
+      "fileName": "evolucion-precio-productos-forestales-region.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "agroindustria_049e0dbe-9b39-4433-9978-e928424b7b4f",
+      "last_modified": "2019-01-29T13:27:45.750668",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Series de precios de productos forestales por región",
+      "package_id": "agroindustria_d6a7d971-0344-4a8e-8dcc-ccc8c2561154",
+      "position": 1,
+      "resource_type": "file.upload",
+      "revision_id": "5fac56b0-1313-4577-a86e-9b336d50274b",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.agroindustria.gob.ar/dataset/d6a7d971-0344-4a8e-8dcc-ccc8c2561154/resource/049e0dbe-9b39-4433-9978-e928424b7b4f/download/evolucion-precio-productos-forestales-region.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "ff88c40e-1b40-4449-b1d7-e704896ed20c",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "aserrada",
+      "id": "89c6c441-d63e-4519-88e7-138521d07e2a",
+      "name": "aserrada",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "chips",
+      "id": "a1c934bf-c445-4ccf-8b4a-11309e16464a",
+      "name": "chips",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "forestal",
+      "id": "b28a94d6-df19-4c7d-908a-16e17698a9b9",
+      "name": "forestal",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "machimbres",
+      "id": "0bbd38b7-8461-44da-9c11-e703f9cd48fe",
+      "name": "machimbres",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "madera",
+      "id": "356c82a5-9895-4e5f-a6f6-d0093f2bc421",
+      "name": "madera",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "madera aserrada",
+      "id": "30d021dc-fda6-450d-be6b-50a4cc162a56",
+      "name": "madera aserrada",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "tableros",
+      "id": "b26fe6c3-5d5b-49c6-98ed-d79d2620d8d8",
+      "name": "tableros",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Forestales - Series de precios",
+  "type": "dataset",
+  "url": "https://datos.agroindustria.gob.ar/dataset/series-precios-productos-forestales",
+  "version": null
+}

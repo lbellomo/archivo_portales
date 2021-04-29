@@ -1,0 +1,223 @@
+{
+  "author": "Ministerio de Justicia y Derechos Humanos. Oficina Anticorrupción.",
+  "author_email": "aferrer@anticorrupcion.gob.ar",
+  "creator_user_id": "dc157489-51c6-44ce-bd63-3bd983d60778",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P1M"
+    },
+    {
+      "key": "issued",
+      "value": "2017-05-03T19:19:38.230133"
+    },
+    {
+      "key": "modified",
+      "value": "2021-04-26T15:59:47.328731"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"JUST\"]"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Justicia, seguridad y legales",
+      "display_name": "Justicia, seguridad y legales",
+      "id": "69ac5e1d-79f0-4470-9514-8a173d9ae44c",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225406.604073justicia-seguridad-legales.svg",
+      "name": "just",
+      "title": "Justicia, seguridad y legales"
+    }
+  ],
+  "id": "justicia_5ddf7915-47c7-44d1-9246-30573ec05f95",
+  "isopen": true,
+  "license_id": "CC-BY-4.0",
+  "license_title": "Creative Commons Attribution 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "maintainer": "Ministerio de Justicia y Derechos Humanos. Oficina Anticorrupción.",
+  "maintainer_email": "aferrer@anticorrupcion.gob.ar",
+  "metadata_created": "2019-12-04T20:02:52.229947",
+  "metadata_modified": "2021-04-29T17:08:43.579649",
+  "name": "justicia-registro-viajes-financiados-por-terceros",
+  "notes": "Este conjunto de datos contiene el registro de viajes de los funcionarios públicos financiados por terceros a partir de la implementación del Decreto 1179/16, reglamentario de la Ley de Ética en el Ejercicio de la Función Pública N° 25.188. Dicho Decreto regula la registración de los viajes y/o estadías financiados por terceros (gobiernos, entidades o personas) a los funcionarios, para el dictado de conferencias, cursos o actividades académicas o culturales, o la participación en ellas, beneficio que puede ser aceptado por los agentes públicos sólo bajo ciertas condiciones y siempre que no resultare incompatibles con las funciones del cargo o prohibido por normas especiales.",
+  "num_resources": 5,
+  "num_tags": 5,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:10.018297",
+    "description": "",
+    "id": "06b380f8-888f-43c0-8367-16a7ddf47d4f",
+    "image_url": "",
+    "is_organization": true,
+    "name": "justicia",
+    "revision_id": "637d68f0-a296-4d39-b846-4370270a96a1",
+    "state": "active",
+    "title": " Ministerio de Justicia y Derechos Humanos",
+    "type": "organization"
+  },
+  "owner_org": "06b380f8-888f-43c0-8367-16a7ddf47d4f",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "http://datos.jus.gob.ar/dataset/5ddf7915-47c7-44d1-9246-30573ec05f95/resource/b4751561-9c18-4b57-a47d-061fdd9a0134",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2018-06-04T12:06:18.310616",
+      "datastore_active": false,
+      "description": "Detalle del registro de viajes de los funcionarios públicos financiados por terceros a partir de la implementación del Decreto 1179/16, reglamentario de la Ley de Ética en el Ejercicio de la Función Pública N° 25.188.",
+      "format": "CSV",
+      "hash": "",
+      "id": "justicia_b4751561-9c18-4b57-a47d-061fdd9a0134",
+      "last_modified": "2021-04-26T12:58:53.026284",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Registro de viajes financiados por terceros - 20210426",
+      "package_id": "justicia_5ddf7915-47c7-44d1-9246-30573ec05f95",
+      "position": 0,
+      "resource_type": null,
+      "revision_id": "05dfd51d-d7af-45f4-b3fa-5cdb26ee1324",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.jus.gob.ar/dataset/5ddf7915-47c7-44d1-9246-30573ec05f95/resource/b4751561-9c18-4b57-a47d-061fdd9a0134/download/registro-viajes-financiados-terceros-20210426.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos.jus.gob.ar/dataset/5ddf7915-47c7-44d1-9246-30573ec05f95/resource/c5a8b0b5-c36c-49b1-a318-9fc437615cbc",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2021-01-20T15:42:53.767096",
+      "datastore_active": false,
+      "description": "Registro de viajes de funcionarios públicos financiados por terceros informados en 2021.",
+      "format": "ZIP",
+      "hash": "",
+      "id": "justicia_c5a8b0b5-c36c-49b1-a318-9fc437615cbc",
+      "last_modified": "2021-04-26T12:59:47.302990",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Registro de viajes financiados por terceros - 2021",
+      "package_id": "justicia_5ddf7915-47c7-44d1-9246-30573ec05f95",
+      "position": 1,
+      "resource_type": null,
+      "revision_id": "05dfd51d-d7af-45f4-b3fa-5cdb26ee1324",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.jus.gob.ar/dataset/5ddf7915-47c7-44d1-9246-30573ec05f95/resource/c5a8b0b5-c36c-49b1-a318-9fc437615cbc/download/registro-viajes-financiados-terceros-2021.zip",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos.jus.gob.ar/dataset/5ddf7915-47c7-44d1-9246-30573ec05f95/resource/4f8d88b1-6b20-4c8d-8f27-0f17ac64e8d9",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2020-01-09T12:38:39.682576",
+      "datastore_active": false,
+      "description": "Registro de viajes de funcionarios públicos financiados por terceros informados en 2020.",
+      "format": "ZIP",
+      "hash": "",
+      "id": "justicia_4f8d88b1-6b20-4c8d-8f27-0f17ac64e8d9",
+      "last_modified": "2020-12-18T16:46:04.246995",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Registro de viajes financiados por terceros - 2020",
+      "package_id": "justicia_5ddf7915-47c7-44d1-9246-30573ec05f95",
+      "position": 2,
+      "resource_type": null,
+      "revision_id": "e56e3b4a-faf2-4558-8121-c1e3d94e0e0d",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.jus.gob.ar/dataset/5ddf7915-47c7-44d1-9246-30573ec05f95/resource/4f8d88b1-6b20-4c8d-8f27-0f17ac64e8d9/download/registro-viajes-financiados-terceros-2020.zip",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos.jus.gob.ar/dataset/5ddf7915-47c7-44d1-9246-30573ec05f95/resource/3acb1773-d466-4048-824d-f11b5235713f",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-06-04T11:57:04.838988",
+      "datastore_active": false,
+      "description": "Registro de viajes de funcionarios públicos financiados por terceros informados en 2019.",
+      "format": "ZIP",
+      "hash": "",
+      "id": "justicia_3acb1773-d466-4048-824d-f11b5235713f",
+      "last_modified": "2020-01-09T12:37:02.843505",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Registro de viajes financiados por terceros - 2019",
+      "package_id": "justicia_5ddf7915-47c7-44d1-9246-30573ec05f95",
+      "position": 3,
+      "resource_type": null,
+      "revision_id": "e56e3b4a-faf2-4558-8121-c1e3d94e0e0d",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.jus.gob.ar/dataset/5ddf7915-47c7-44d1-9246-30573ec05f95/resource/3acb1773-d466-4048-824d-f11b5235713f/download/registro-viajes-financiados-terceros-2019.zip",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos.jus.gob.ar/dataset/5ddf7915-47c7-44d1-9246-30573ec05f95/resource/aa0b3c87-092f-4663-b82a-4f8b64304028",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-06-04T11:57:38.647659",
+      "datastore_active": false,
+      "description": "Registro de viajes de funcionarios públicos financiados por terceros informados en 2018.",
+      "format": "ZIP",
+      "hash": "",
+      "id": "justicia_aa0b3c87-092f-4663-b82a-4f8b64304028",
+      "last_modified": "2019-06-04T11:57:38.534109",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Registro de viajes financiados por terceros - 2018",
+      "package_id": "justicia_5ddf7915-47c7-44d1-9246-30573ec05f95",
+      "position": 4,
+      "resource_type": null,
+      "revision_id": "e56e3b4a-faf2-4558-8121-c1e3d94e0e0d",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.jus.gob.ar/dataset/5ddf7915-47c7-44d1-9246-30573ec05f95/resource/aa0b3c87-092f-4663-b82a-4f8b64304028/download/registro-viajes-financiados-terceros-2018.zip",
+      "url_type": null
+    }
+  ],
+  "revision_id": "ff735bcd-f81a-45ae-b02b-fd1d3efcacbc",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "Transparencia y anticorrupción",
+      "id": "3a322558-698e-4a10-91ec-edcdf80e3b8d",
+      "name": "Transparencia y anticorrupción",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "anticorrupción",
+      "id": "c71529c1-083d-46fc-85a7-cc06bec9ecec",
+      "name": "anticorrupción",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "funcionarios",
+      "id": "c0f88144-2404-4bde-9306-12df29a63bcf",
+      "name": "funcionarios",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "transparencia",
+      "id": "386586a3-8a46-4bcd-bee2-cdb642865d2c",
+      "name": "transparencia",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "viajes",
+      "id": "bd37bd22-c749-4fee-b35d-da8fb6c741a3",
+      "name": "viajes",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Registro de viajes financiados por terceros",
+  "type": "dataset",
+  "url": "http://datos.jus.gob.ar/dataset/registro-de-viajes-financiados-por-terceros",
+  "version": null
+}

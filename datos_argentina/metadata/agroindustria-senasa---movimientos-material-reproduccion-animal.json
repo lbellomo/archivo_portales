@@ -1,0 +1,145 @@
+{
+  "author": "Servicio Nacional de Sanidad y Calidad Agroalimentaria",
+  "author_email": "desycg@senasa.gob.ar",
+  "creator_user_id": "dc157489-51c6-44ce-bd63-3bd983d60778",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P1M"
+    },
+    {
+      "key": "issued",
+      "value": "2019-09-27T19:25:09.325750"
+    },
+    {
+      "key": "language",
+      "value": "[\"spa\"]"
+    },
+    {
+      "key": "modified",
+      "value": "2019-12-05T12:26:14.714304"
+    },
+    {
+      "key": "source",
+      "value": "Servicio Nacional de Sanidad y Calidad Agroalimentaria - SENASA"
+    },
+    {
+      "key": "spatial",
+      "value": "[\"ARG\"]"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"AGRI\"]"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Agroganadería, pesca y forestación",
+      "display_name": "Agroganadería, pesca y forestación",
+      "id": "0c35ea38-7059-41d2-9827-5587769d0dc6",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225145.990789agroganaderia-pesca-forestacion.svg",
+      "name": "agri",
+      "title": "Agroganadería, pesca y forestación"
+    }
+  ],
+  "id": "agroindustria_faaf14f0-aaa7-4fb3-871a-522250f9d130",
+  "isopen": true,
+  "license_id": "CC-BY-4.0",
+  "license_title": "Creative Commons Attribution 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "maintainer": "Dirección Nacional de Sanidad Animal",
+  "maintainer_email": "desycg@senasa.gob.ar",
+  "metadata_created": "2019-12-12T19:40:45.161656",
+  "metadata_modified": "2021-04-29T17:12:16.653680",
+  "name": "agroindustria-senasa---movimientos-material-reproduccion-animal",
+  "notes": "Datos mensuales de los movimientos de los materiales de reproducción animal detallando provincia origen y destino.",
+  "num_resources": 1,
+  "num_tags": 5,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:07.834957",
+    "description": "",
+    "id": "b10c94e2-ade1-4a97-8c4c-b1ada7878d60",
+    "image_url": "",
+    "is_organization": true,
+    "name": "agroindustria",
+    "revision_id": "f7c3b6e9-d48f-4522-9f7a-388d805c8392",
+    "state": "active",
+    "title": "Ministerio de Agricultura, Ganadería y Pesca",
+    "type": "organization"
+  },
+  "owner_org": "b10c94e2-ade1-4a97-8c4c-b1ada7878d60",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "http://datos.agroindustria.gob.ar/dataset/faaf14f0-aaa7-4fb3-871a-522250f9d130/resource/90352cfa-0a17-48ce-b583-4f0f3314a597",
+      "attributesDescription": "[{\"specialType\": \"time_index\", \"type\": \"date\", \"title\": \"fecha\"}, {\"type\": \"string\", \"description\": \"Lugar del que sale.\", \"title\": \"salido_de\"}, {\"type\": \"string\", \"description\": \"Lugar al que ingresa.\", \"title\": \"ingresado_a\"}, {\"type\": \"string\", \"description\": \"Nombre de la provincia de origen.\", \"title\": \"provincia_origen\"}, {\"type\": \"integer\", \"description\": \"C\\u00f3digo de la provincia de origen.\", \"title\": \"provincia_origen_id\"}, {\"type\": \"string\", \"description\": \"Nombre de la provincia de destino.\", \"title\": \"provincia_destino\"}, {\"type\": \"integer\", \"description\": \"C\\u00f3digo de la provincia de destino.\", \"title\": \"provincia_destino_id\"}, {\"type\": \"string\", \"description\": \"unidad_medida\", \"title\": \"unidad_medida\"}, {\"type\": \"integer\", \"description\": \"Cantidad de semen para reproducci\\u00f3n animal.\", \"title\": \"mat_rep_semen\"}, {\"type\": \"integer\", \"description\": \"Cantidad de material de embriones para reproducci\\u00f3n animal.\\n\", \"title\": \"mat_rep_embriones\"}, {\"type\": \"integer\", \"description\": \"Cantidad de huevos f\\u00e9rtiles para reproducci\\u00f3n animal.\", \"title\": \"mat_rep_huevo_fertil\"}, {\"type\": \"integer\", \"description\": \"Cantidad de semen bovino para reproducci\\u00f3n animal.\", \"title\": \"mat_rep_semen_bovino\"}, {\"type\": \"integer\", \"description\": \"Cantidad de semen ovino para reproducci\\u00f3n animal.\\n\", \"title\": \"mat_rep_semen_ovino\"}, {\"type\": \"integer\", \"description\": \"Cantidad de semen caprino para reproducci\\u00f3n animal.\", \"title\": \"mat_rep_semen_caprino\"}, {\"type\": \"integer\", \"description\": \"Cantidad de semen equino para reproducci\\u00f3n animal.\", \"title\": \"mat_rep_semen_equido\"}, {\"type\": \"integer\", \"description\": \"Cantidad de semen porcino para reproducci\\u00f3n animal.\\n\", \"title\": \"mat_rep_semen_porcino\"}, {\"type\": \"integer\", \"description\": \"Cantidad de embriones bovinos para reproducci\\u00f3n animal.\\n\", \"title\": \"mat_rep_embriones_bovino\"}, {\"type\": \"integer\", \"description\": \"Cantidad de embriones ovinos para reproducci\\u00f3n animal.\", \"title\": \"mat_rep_embriones_ovino\"}, {\"type\": \"integer\", \"description\": \"Cantidad de embriones caprinos para reproducci\\u00f3n animal.\\n\", \"title\": \"mat_rep_embriones_caprino\"}, {\"type\": \"integer\", \"description\": \"Cantidad de embriones equinos para reproducci\\u00f3n animal\\n\", \"title\": \"mat_rep_embriones_equido\"}, {\"type\": \"integer\", \"description\": \"Cantidad de embriones porcinos para reproducci\\u00f3n animal.\\n\", \"title\": \"mat_rep_embriones_porcino\"}, {\"type\": \"integer\", \"description\": \"Cantidad de ovocitos bovinos para reproducci\\u00f3n animal.\", \"title\": \"mat_rep_ovocitos_bovinos\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-09-27T16:26:33.574216",
+      "datastore_active": false,
+      "description": "Datos de los movimientos del material de reproducción animal por categoría y mes para el periodo 2013 a 2018.",
+      "fileName": "movimiento-material-reproduccion-animal-provincia-2013-2018.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "agroindustria_90352cfa-0a17-48ce-b583-4f0f3314a597",
+      "last_modified": "2019-12-05T12:24:57.737127",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Movimientos material reproducción animal 2013 a 2018",
+      "package_id": "agroindustria_faaf14f0-aaa7-4fb3-871a-522250f9d130",
+      "position": 0,
+      "resource_type": "file.upload",
+      "revision_id": "ad3fde5d-eb6c-41ee-b710-e568378a3c06",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.agroindustria.gob.ar/dataset/faaf14f0-aaa7-4fb3-871a-522250f9d130/resource/90352cfa-0a17-48ce-b583-4f0f3314a597/download/movimiento-material-reproduccion-animal-provincia-2013-2018.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "c76798cf-2127-4113-9dd0-751b4fbcafcf",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "embrion",
+      "id": "7d3fedd4-2edc-4893-bba8-7a0b8cf28557",
+      "name": "embrion",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "huevo",
+      "id": "d684a7a7-6fed-4585-b913-dd27a9132c81",
+      "name": "huevo",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "ovocito",
+      "id": "04c30a62-cfa3-43f4-8a3f-8511c2601ca5",
+      "name": "ovocito",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "reproducción animal",
+      "id": "d8b2c6c4-4c08-4092-9fb4-6182ed80e255",
+      "name": "reproducción animal",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "semen",
+      "id": "8a0f8de5-06ec-402f-894f-79d781d8099d",
+      "name": "semen",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "SENASA - Movimientos material reproducción animal",
+  "type": "dataset",
+  "url": "https://datos.agroindustria.gob.ar/dataset/senasa-movimientos-material-reproduccion-animal",
+  "version": null
+}

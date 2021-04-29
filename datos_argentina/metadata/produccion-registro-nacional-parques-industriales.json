@@ -1,0 +1,140 @@
+{
+  "author": "Secretaría de Industria",
+  "author_email": "datos.abiertos@produccion.gob.ar",
+  "creator_user_id": "4720e75a-9e17-4dc3-879d-041917c7f9f9",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P1Y"
+    },
+    {
+      "key": "issued",
+      "value": "2018-10-08T18:48:16.000Z"
+    },
+    {
+      "key": "modified",
+      "value": "2020-02-26T23:26:23.000Z"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"econ\"]"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Economía y finanzas",
+      "display_name": "Economía y finanzas",
+      "id": "60b4b03e-10a1-4d67-b984-08008a249617",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225257.200233economia-finanzas.svg",
+      "name": "econ",
+      "title": "Economía y finanzas"
+    }
+  ],
+  "id": "produccion_rJ2OUXKcX",
+  "isopen": true,
+  "license_id": "CC-BY-4.0",
+  "license_title": "Creative Commons Attribution 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "maintainer": null,
+  "maintainer_email": null,
+  "metadata_created": "2019-11-26T14:57:09.720913",
+  "metadata_modified": "2021-04-29T17:04:44.069972",
+  "name": "produccion-registro-nacional-parques-industriales",
+  "notes": "Es el listado de parques industriales en Argentina, inscriptos en el RENPI. Algunos de ellos, de tramitaron aportes no reintegrables (ANR) para obras y préstamos con tasa bonificada para las empresas a radicarse o ya instaladas.",
+  "num_resources": 2,
+  "num_tags": 3,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:10.463340",
+    "description": "",
+    "id": "1ca8d15b-31fc-4f09-ba09-53edd3d4cce6",
+    "image_url": "",
+    "is_organization": true,
+    "name": "produccion",
+    "revision_id": "36d8ec89-d20f-4fe1-866c-e38988d28442",
+    "state": "active",
+    "title": "Ministerio de Desarrollo Productivo",
+    "type": "organization"
+  },
+  "owner_org": "1ca8d15b-31fc-4f09-ba09-53edd3d4cce6",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "http://datos.produccion.gob.ar/dataset/registro-nacional-de-parques-industriales",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2018-10-08T15:48:16",
+      "datastore_active": false,
+      "description": "Entes registrados por provincia, localidad, dirección y contacto.",
+      "format": "CSV",
+      "hash": "",
+      "id": "produccion_H1PZwXKq7",
+      "last_modified": "2019-09-23T15:49:11",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Parques inscriptos",
+      "package_id": "produccion_rJ2OUXKcX",
+      "position": 0,
+      "resource_type": null,
+      "revision_id": "8e0b8979-902d-4bdd-ae96-e15b1868b9b2",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.produccion.gob.ar/api/files/parques-inscriptos.csv/download",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos.produccion.gob.ar/dataset/registro-nacional-de-parques-industriales",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2018-10-08T15:48:16",
+      "datastore_active": false,
+      "description": "Guía explicativa de cada uno de los campos de los recursos que conforman el dataset y ejemplos de los mismos.",
+      "format": "PDF",
+      "hash": "",
+      "id": "produccion_HJKo87t5Q",
+      "last_modified": "2019-06-04T16:45:56",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Guía de datos Registro Nacional de Parques Industriales",
+      "package_id": "produccion_rJ2OUXKcX",
+      "position": 1,
+      "resource_type": null,
+      "revision_id": "39cb6a6a-7773-47cd-b1c7-54e319785741",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.produccion.gob.ar/api/files/guia-de-datos-registro-nacional-de-parques-industriales.pdf/download",
+      "url_type": null
+    }
+  ],
+  "revision_id": "95cedeac-cff4-47dc-b0ac-9c8f5eb1275e",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "Industria",
+      "id": "a12abc5f-bfc1-40b5-9620-ebf5463eecaf",
+      "name": "Industria",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Parques Industriales",
+      "id": "d467eab7-5381-45e6-be69-8bceb4a4ec67",
+      "name": "Parques Industriales",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "RENPI",
+      "id": "74a4f545-457e-44d3-b399-e2dafa58038f",
+      "name": "RENPI",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Registro Nacional de Parques Industriales",
+  "type": "dataset",
+  "url": "http://datos.produccion.gob.ar/dataset/registro-nacional-de-parques-industriales",
+  "version": null
+}

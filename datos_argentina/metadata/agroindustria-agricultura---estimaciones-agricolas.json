@@ -1,0 +1,662 @@
+{
+  "author": "Dirección de Estimaciones Agrícolas",
+  "author_email": "direstiagri@magyp.gob.ar",
+  "creator_user_id": "dc157489-51c6-44ce-bd63-3bd983d60778",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P6M"
+    },
+    {
+      "key": "issued",
+      "value": "2018-12-07T21:18:57.130066"
+    },
+    {
+      "key": "language",
+      "value": "[\"spa\"]"
+    },
+    {
+      "key": "modified",
+      "value": "2019-11-20T14:00:06.513299"
+    },
+    {
+      "key": "source",
+      "value": "MAGyP"
+    },
+    {
+      "key": "spatial",
+      "value": "[\"ARG\"]"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"AGRI\"]"
+    },
+    {
+      "key": "temporal",
+      "value": "1969-01-01T03:00:00.000Z"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Agroganadería, pesca y forestación",
+      "display_name": "Agroganadería, pesca y forestación",
+      "id": "0c35ea38-7059-41d2-9827-5587769d0dc6",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225145.990789agroganaderia-pesca-forestacion.svg",
+      "name": "agri",
+      "title": "Agroganadería, pesca y forestación"
+    }
+  ],
+  "id": "agroindustria_9e1e77ba-267e-4eaa-a59f-3296e86b5f36",
+  "isopen": true,
+  "license_id": "CC-BY-4.0",
+  "license_title": "Creative Commons Attribution 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "maintainer": "Dirección de Estimaciones Agrícolas",
+  "maintainer_email": "direstiagri@magyp.gob.ar",
+  "metadata_created": "2019-12-04T21:12:57.806848",
+  "metadata_modified": "2021-04-29T17:15:55.701655",
+  "name": "agroindustria-agricultura---estimaciones-agricolas",
+  "notes": "Serie de estadística agrícola, por cultivo, campaña, provincia y partido/departamento de la República Argentina. Contiene los siguientes datos: superficie sembrada, superficie cosechada, producción y rendimiento. Las superficies se muestran en hectáreas, la producción en toneladas y el rendimiento en kg/ha. Los datos se actualizan semestralmente.",
+  "num_resources": 6,
+  "num_tags": 61,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:07.834957",
+    "description": "",
+    "id": "b10c94e2-ade1-4a97-8c4c-b1ada7878d60",
+    "image_url": "",
+    "is_organization": true,
+    "name": "agroindustria",
+    "revision_id": "f7c3b6e9-d48f-4522-9f7a-388d805c8392",
+    "state": "active",
+    "title": "Ministerio de Agricultura, Ganadería y Pesca",
+    "type": "organization"
+  },
+  "owner_org": "b10c94e2-ade1-4a97-8c4c-b1ada7878d60",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "http://datosestimaciones.magyp.gob.ar/reportes.php?reporte=Estimaciones",
+      "attributesDescription": "[{\"type\": \"integer\", \"description\": \"C\\u00f3digo de provincia\", \"title\": \"id_provincia\"}, {\"type\": \"string\", \"description\": \"Nombre de la provincia\", \"title\": \"provincia\"}, {\"type\": \"integer\", \"description\": \"C\\u00f3digo de departamento\", \"title\": \"id_departamento\"}, {\"type\": \"string\", \"description\": \"Nombre de departamento\", \"title\": \"departamento\"}, {\"type\": \"integer\", \"description\": \"C\\u00f3digo del cultivo\", \"title\": \"id_cultivo\"}, {\"type\": \"string\", \"description\": \"Nombre del cultivo\", \"title\": \"cultivo\"}, {\"type\": \"integer\", \"description\": \"C\\u00f3digo de la campa\\u00f1a\", \"title\": \"id_campa\\u00f1a\"}, {\"type\": \"string\", \"description\": \"A\\u00f1o de la campa\\u00f1a\", \"title\": \"campa\\u00f1a\"}, {\"units\": \"Hect\\u00e1rea\", \"type\": \"number\", \"description\": \"Cantidad de superficie semabrada en hectareas\", \"title\": \"sup_sembrada\"}, {\"units\": \"Hect\\u00e1rea\", \"type\": \"number\", \"description\": \"Cantidad de superficie cosechada en hectareas\", \"title\": \"sup_cosechada\"}, {\"units\": \"Toneladas\", \"type\": \"number\", \"description\": \"Cantidad de produccion en toneladas\", \"title\": \"producci\\u00f3n\"}, {\"units\": \"kilogramo por hect\\u00e1rea\", \"type\": \"number\", \"description\": \"Cantidad de rendimiento en kilos por hectarea\", \"title\": \"rendimiento\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-08-07T13:38:04.185700",
+      "datastore_active": false,
+      "description": "Serie completa de cultivos por campaña, provincia y partido/departamento de Argentina. Contiene datos de: superficie sembrada, cosechada, producción y rendimiento. Descarga completa de datos.",
+      "fileName": "Estimaciones-agricolas-2020-08.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "agroindustria_95d066e6-8a0f-4a80-b59d-6f28f88eacd5",
+      "last_modified": "2020-09-08T20:37:31.909413",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Estimaciones agrícolas",
+      "package_id": "agroindustria_9e1e77ba-267e-4eaa-a59f-3296e86b5f36",
+      "position": 0,
+      "resource_type": "file.upload",
+      "revision_id": "be6831d6-a18f-41c2-b87b-c7a2a68b5f2c",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.agroindustria.gob.ar/dataset/9e1e77ba-267e-4eaa-a59f-3296e86b5f36/resource/95d066e6-8a0f-4a80-b59d-6f28f88eacd5/download/estimaciones-agricolas-2020-08.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datosestimaciones.magyp.gob.ar/reportes.php?reporte=Estimaciones",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-03-18T18:42:25.790251",
+      "datastore_active": false,
+      "description": "Para obtener gráficos y filtros vaya a \"descargar\". Podrá acotar la información que necesita y bajarla a su dispositivo. ",
+      "format": "url",
+      "hash": "",
+      "id": "agroindustria_2f68cf94-3fc9-4750-bcce-9e5f94ff1895",
+      "last_modified": "2020-01-23T09:33:12.512684",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Visualización Avanzada",
+      "package_id": "agroindustria_9e1e77ba-267e-4eaa-a59f-3296e86b5f36",
+      "position": 1,
+      "resource_type": "file",
+      "revision_id": "e305b868-7fac-43ca-9e45-85848632b76d",
+      "size": null,
+      "state": "active",
+      "url": "http://datosestimaciones.magyp.gob.ar/reportes.php?reporte=Estimaciones",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos.agroindustria.gob.ar/dataset/9e1e77ba-267e-4eaa-a59f-3296e86b5f36/resource/b6ac0298-ece2-4f5c-b434-047a8ad0cf35",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-12-17T17:10:59.325453",
+      "datastore_active": false,
+      "description": "Vaya a \"Descargar\" para acceder al visor. Encontrará mapeadas las diferentes dimensiones medidas por cultivo, provincia y partido/departamento.",
+      "format": "url",
+      "hash": "",
+      "id": "agroindustria_b6ac0298-ece2-4f5c-b434-047a8ad0cf35",
+      "last_modified": "2020-01-23T09:31:05.193491",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Visor de cultivos",
+      "package_id": "agroindustria_9e1e77ba-267e-4eaa-a59f-3296e86b5f36",
+      "position": 2,
+      "resource_type": "file",
+      "revision_id": "e305b868-7fac-43ca-9e45-85848632b76d",
+      "size": null,
+      "state": "active",
+      "url": "https://geoportal.agroindustria.gob.ar/tematizador/agricola/",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos.agroindustria.gob.ar/dataset/9e1e77ba-267e-4eaa-a59f-3296e86b5f36/resource/155e4f22-12e5-4026-a0f0-ca1ecb3c9950",
+      "attributesDescription": "[{\"specialType\": \"time_index\", \"specialTypeDetail\": \"R/P1Y\", \"type\": \"date\", \"description\": \"A\\u00f1o de inicio de la campa\\u00f1a. Ej: 1979 equivale campa\\u00f1a 79/80\", \"title\": \"indice_tiempo\"}, {\"units\": \"Hect\\u00e1reas\", \"id\": \"AGRO_0249\", \"type\": \"integer\", \"description\": \"Estimaci\\u00f3n de las hect\\u00e1reas sembradas de girasol\", \"title\": \"superficie_sembrada_girasol\"}, {\"units\": \"Hect\\u00e1reas\", \"id\": \"AGRO_0250\", \"type\": \"integer\", \"description\": \"Estimaci\\u00f3n de las hect\\u00e1reas cosechadas de girasol\", \"title\": \"superficie_cosechada_girasol\"}, {\"units\": \"Toneladas\", \"id\": \"AGRO_0251\", \"type\": \"integer\", \"description\": \"Estimaci\\u00f3n de la producci\\u00f3n  de girasol en toneladas\", \"title\": \"produccion_girasol\"}, {\"units\": \"kilogramos por hect\\u00e1rea\", \"id\": \"AGRO_0252\", \"type\": \"integer\", \"description\": \"Estimaci\\u00f3n del rendimiento en kilogramos por hect\\u00e1rea de girasol\", \"title\": \"rendimiento_girasol\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-06-11T14:26:39.577357",
+      "datastore_active": false,
+      "description": "Evolución de la estimación de hectáreas sembradas, cosechadas, producción y rendimiento de girasol. La campaña se indica con el año de inicio. Ej: 1979 es campaña 79/80",
+      "fileName": "Girasol.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "agroindustria_155e4f22-12e5-4026-a0f0-ca1ecb3c9950",
+      "last_modified": "2019-06-11T15:43:02.150494",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Serie de Tiempo Estimación de Girasol",
+      "package_id": "agroindustria_9e1e77ba-267e-4eaa-a59f-3296e86b5f36",
+      "position": 3,
+      "resource_type": "file.upload",
+      "revision_id": "974d5539-1086-4646-81b5-6f3af92d1e50",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.agroindustria.gob.ar/dataset/9e1e77ba-267e-4eaa-a59f-3296e86b5f36/resource/155e4f22-12e5-4026-a0f0-ca1ecb3c9950/download/girasol.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos.agroindustria.gob.ar/dataset/9e1e77ba-267e-4eaa-a59f-3296e86b5f36/resource/f8732c7c-33d2-4503-8181-396cd348d380",
+      "attributesDescription": "[{\"specialType\": \"time_index\", \"specialTypeDetail\": \"R/P1Y\", \"type\": \"date\", \"description\": \"A\\u00f1o de inicio de la campa\\u00f1a. Ej: 1979 equivale campa\\u00f1a 79/80\", \"title\": \"indice_tiempo\"}, {\"units\": \"Hect\\u00e1reas\", \"id\": \"AGRO_0096\", \"type\": \"integer\", \"description\": \"Estimaci\\u00f3n de las hect\\u00e1reas sembradas de soja\", \"title\": \"superficie_sembrada_soja\"}, {\"units\": \"Hect\\u00e1reas\", \"id\": \"AGRO_0097\", \"type\": \"integer\", \"description\": \"Estimaci\\u00f3n de las hect\\u00e1reas cosechadas de SOJA\", \"title\": \"superficie_cosechada_soja\"}, {\"units\": \"Toneladas\", \"id\": \"AGRO_0098\", \"type\": \"integer\", \"description\": \"Estimaci\\u00f3n de la producci\\u00f3n  de soja en toneladas\", \"title\": \"produccion_soja\"}, {\"units\": \"kilogramos por hect\\u00e1rea\", \"id\": \"AGRO_0099\", \"type\": \"integer\", \"description\": \"Estimaci\\u00f3n del rendimiento en kilogramos por hect\\u00e1rea de soja\", \"title\": \"rendimiento_soja\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-07-02T12:39:07.377521",
+      "datastore_active": false,
+      "description": "Evolución de la estimación de hectáreas sembradas, cosechadas, producción y rendimiento de soja. La campaña se indica con el año de inicio. Ej: 1979 es campaña 79/80",
+      "fileName": "serie-de-tiempo-soja.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "agroindustria_f8732c7c-33d2-4503-8181-396cd348d380",
+      "last_modified": "2019-09-16T13:05:27.080972",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Serie de Tiempo Estimación de Soja",
+      "package_id": "agroindustria_9e1e77ba-267e-4eaa-a59f-3296e86b5f36",
+      "position": 4,
+      "resource_type": "file.upload",
+      "revision_id": "24b00c5a-a6ab-4dee-a15d-d9e3701cec8b",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.agroindustria.gob.ar/dataset/9e1e77ba-267e-4eaa-a59f-3296e86b5f36/resource/f8732c7c-33d2-4503-8181-396cd348d380/download/serie-de-tiempo-soja.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos.agroindustria.gob.ar/dataset/9e1e77ba-267e-4eaa-a59f-3296e86b5f36/resource/ca5e31b5-a51f-4738-bae0-773838b5dd1e",
+      "attributesDescription": "[{\"specialType\": \"time_index\", \"specialTypeDetail\": \"R/P1Y\", \"type\": \"date\", \"description\": \"A\\u00f1o de inicio de la campa\\u00f1a. Ej: 1979 equivale campa\\u00f1a 79/80\", \"title\": \"indice_tiempo\"}, {\"units\": \"Hect\\u00e1reas\", \"id\": \"AGRO_0100\", \"type\": \"integer\", \"description\": \"Estimaci\\u00f3n de las hect\\u00e1reas sembradas de trigo pan\", \"title\": \"superficie_sembrada_trigo_pan\"}, {\"units\": \"Hect\\u00e1reas\", \"id\": \"AGRO_0101\", \"type\": \"integer\", \"description\": \"Estimaci\\u00f3n de las hect\\u00e1reas cosechadas de trigo pan\", \"title\": \"superficie_cosechada_trigo_pan\"}, {\"units\": \"Toneladas\", \"id\": \"AGRO_0102\", \"type\": \"integer\", \"description\": \"Estimaci\\u00f3n de la producci\\u00f3n  de trigo pan en toneladas\", \"title\": \"produccion_trigo_pan\"}, {\"units\": \"Kilogramos por hect\\u00e1rea\", \"id\": \"AGRO_0103\", \"type\": \"integer\", \"description\": \"Estimaci\\u00f3n del rendimiento en kilogramos por hect\\u00e1rea de trigo pan\", \"title\": \"rendimiento_trigo_pan\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-07-02T13:08:49.166082",
+      "datastore_active": false,
+      "description": "Evolución de la estimación de hectáreas sembradas, cosechadas, producción y rendimiento de trigo pan. La campaña se indica con el año de inicio. Ej: 1979 es campaña 79/80",
+      "fileName": "serie-de-tiempo-trigo.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "agroindustria_ca5e31b5-a51f-4738-bae0-773838b5dd1e",
+      "last_modified": "2019-07-02T13:08:49.166082",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Serie de Tiempo Estimación de Trigo Pan",
+      "package_id": "agroindustria_9e1e77ba-267e-4eaa-a59f-3296e86b5f36",
+      "position": 5,
+      "resource_type": "file.upload",
+      "revision_id": "24b00c5a-a6ab-4dee-a15d-d9e3701cec8b",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.agroindustria.gob.ar/dataset/9e1e77ba-267e-4eaa-a59f-3296e86b5f36/resource/ca5e31b5-a51f-4738-bae0-773838b5dd1e/download/serie-de-tiempo-trigo.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "0218ade1-17f8-4e23-8599-6a5edeab9bb9",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "Buenos Aires",
+      "id": "a64d8bda-865a-4f0d-ba0c-5cc2adfda147",
+      "name": "Buenos Aires",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Catamarca",
+      "id": "390c55ad-fe7d-4606-8f08-85269de97b38",
+      "name": "Catamarca",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Chaco",
+      "id": "e3286e11-fc9b-4fd8-a16a-228328eac19f",
+      "name": "Chaco",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Chubut",
+      "id": "31b31a0b-5ecb-4c09-a842-53ba71128475",
+      "name": "Chubut",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Cordoba",
+      "id": "61f8d014-bdf2-46c7-9bd0-873845dbcb45",
+      "name": "Cordoba",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Corrientes",
+      "id": "f2038a5f-e254-4f51-8f4f-069ae50c7ddb",
+      "name": "Corrientes",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Entre Rios",
+      "id": "dafa5658-21a0-4b67-8a5b-cc8a286f2b8e",
+      "name": "Entre Rios",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Formosa",
+      "id": "462e3b6c-3655-4e06-808a-0489ab0d59e4",
+      "name": "Formosa",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Jujuy",
+      "id": "e840e4eb-4243-4d8d-bf13-b8a068f04e1a",
+      "name": "Jujuy",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "La Pampa",
+      "id": "964ccb10-2ecc-4944-a4c2-7c5d705b46c2",
+      "name": "La Pampa",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "La Rioja",
+      "id": "467b4f8d-c7d4-4a22-9241-133e5e00a8ae",
+      "name": "La Rioja",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Mendoza",
+      "id": "57a86743-2e26-4f17-8ae7-760d624e890a",
+      "name": "Mendoza",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Misiones",
+      "id": "88b01243-8df4-423f-a7e7-c816d3c59cfc",
+      "name": "Misiones",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Neuquen",
+      "id": "0cf4c882-0cb3-41fa-85ef-38281c1ad1e0",
+      "name": "Neuquen",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Rio Negro",
+      "id": "a56b9614-45b0-4d1e-9b47-f1cd8f8d094c",
+      "name": "Rio Negro",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Salta",
+      "id": "75690a55-6ca2-4952-ad7f-fa5b6ed4f22b",
+      "name": "Salta",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "San Juan",
+      "id": "7b962c68-4dc2-4cad-81cb-7e0a90e1fdd0",
+      "name": "San Juan",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "San Luis",
+      "id": "4087bdaf-26bb-414f-9169-774a945962f3",
+      "name": "San Luis",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Santa Cruz",
+      "id": "3a0df385-9ffa-4459-89ea-6d34d051dd98",
+      "name": "Santa Cruz",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Santa fe",
+      "id": "70f19e99-0048-4a34-bba9-6a364056757b",
+      "name": "Santa fe",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Santiago del Estero",
+      "id": "ed368a40-734b-40e7-be46-e8d526d1b88b",
+      "name": "Santiago del Estero",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Tierra del Fuego",
+      "id": "b3233b60-f44f-40e2-9aa4-9b77a35437e6",
+      "name": "Tierra del Fuego",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Tucuman",
+      "id": "c4f94e25-88ee-4c01-900e-acc053f936b6",
+      "name": "Tucuman",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "ajo",
+      "id": "b15e6159-7960-45b9-bdc8-7d1be8a4f6ce",
+      "name": "ajo",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "algodon",
+      "id": "ec0cd0f4-5348-47a6-a8c4-5e8edd139f0a",
+      "name": "algodon",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "alpiste",
+      "id": "3cab93a4-75f9-43d7-9107-b9fe04fe1a51",
+      "name": "alpiste",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "arroz",
+      "id": "0505d80b-cf0d-492f-855a-1bd28981237f",
+      "name": "arroz",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "avena",
+      "id": "726a06a3-7131-45a7-87c0-27787386b117",
+      "name": "avena",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "azucar",
+      "id": "fddaac43-c985-4bb1-be38-9edc3a640759",
+      "name": "azucar",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "banana",
+      "id": "02252d7d-bec5-4ea9-ae2e-c4d181942aaf",
+      "name": "banana",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "campana",
+      "id": "f356b0b3-e4b1-493e-b60c-df2e03f81ed2",
+      "name": "campana",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "campaña",
+      "id": "d0db196a-e336-4c79-be66-f363093830e1",
+      "name": "campaña",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "cartamo",
+      "id": "7bf32d9c-eab5-4506-816c-afcd3900db81",
+      "name": "cartamo",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "cebada",
+      "id": "6aeb3f84-2e6c-43ff-ba71-c8a731167691",
+      "name": "cebada",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "cebolla",
+      "id": "0858912b-f4b3-440d-b235-1e8df9db0f0a",
+      "name": "cebolla",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "centeno",
+      "id": "0a41dcd7-fb3a-4b96-947a-d126e2b1ff18",
+      "name": "centeno",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "colza",
+      "id": "2629064e-d16c-4847-8313-47dbf18a0fae",
+      "name": "colza",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "cosechada",
+      "id": "4a3da6e7-9544-4965-bd0f-de1b47680850",
+      "name": "cosechada",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "cultivo",
+      "id": "87f70deb-5b3c-453f-bc59-26385348b4e1",
+      "name": "cultivo",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "girasol",
+      "id": "0a6c0a50-77c6-448a-af4d-e5d9a869e21c",
+      "name": "girasol",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "jojoba",
+      "id": "cea56774-74dd-4de8-bafd-1d29cedcc2a0",
+      "name": "jojoba",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "limon",
+      "id": "b8b6ae49-31ed-4e75-b2f8-7bdd1f3c2ca1",
+      "name": "limon",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "lino",
+      "id": "a76d55de-8f3e-41bd-bc8b-9d8eaac37692",
+      "name": "lino",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "maiz",
+      "id": "ae324ffd-6569-440f-ae0f-27edc3ac104a",
+      "name": "maiz",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "mandarina",
+      "id": "bc2b0154-64d3-4baa-81bd-4ae692fac1f4",
+      "name": "mandarina",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "mani",
+      "id": "288f6707-c6e1-4bc2-97b3-6719e3370832",
+      "name": "mani",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "mijo",
+      "id": "e989f787-8985-48b9-8bd3-cbe13f0b4d10",
+      "name": "mijo",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "naranja",
+      "id": "593d0771-b768-46d8-a077-7e5f3677a48c",
+      "name": "naranja",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "papa",
+      "id": "411841f0-5f40-46bb-8645-b6e7097c09ed",
+      "name": "papa",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "pomelo",
+      "id": "f9737a16-44ec-42bc-9601-8974d943dd09",
+      "name": "pomelo",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "poroto",
+      "id": "8e0267da-207e-4689-bf23-2b2a5dce1511",
+      "name": "poroto",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "produccion",
+      "id": "bdc270a4-66a0-4647-9e28-c31133499bc6",
+      "name": "produccion",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "rendimiento",
+      "id": "984c6c4d-0717-4098-b2db-6f2227ca05b6",
+      "name": "rendimiento",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "sembrada",
+      "id": "2fc6bade-8689-4273-9120-96beb28e8023",
+      "name": "sembrada",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "soja",
+      "id": "fcbafe29-23bd-47c6-8253-eaba1377cd8f",
+      "name": "soja",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "sorgo",
+      "id": "f5386bee-4546-4f3d-9076-2b4b2bea0833",
+      "name": "sorgo",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "superficie",
+      "id": "4ad5d183-55e4-4f37-b74b-2e71a48c2059",
+      "name": "superficie",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "te",
+      "id": "9cf81e4b-17d6-46c5-9b48-f145878c178c",
+      "name": "te",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "trigo",
+      "id": "ba98c56a-aab4-45cf-8592-9025a6c14ca9",
+      "name": "trigo",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "tung",
+      "id": "296b2140-76af-4d99-9f66-0687f3c42b08",
+      "name": "tung",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "yerba mate",
+      "id": "ea4768a7-1264-4c1b-bd57-1d9423b1ea31",
+      "name": "yerba mate",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Agricultura - Estimaciones agrícolas",
+  "type": "dataset",
+  "url": "https://datos.agroindustria.gob.ar/dataset/estimaciones-agricolas",
+  "version": null
+}

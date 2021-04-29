@@ -1,0 +1,222 @@
+{
+  "author": "Ministerio de Salud. Superintendencia de Servicios de Salud. Gerencia de Sistemas de Información. Coordinación de Diseño y Procesamiento de la Información.",
+  "author_email": "datos@sssalud.gob.ar",
+  "creator_user_id": "4720e75a-9e17-4dc3-879d-041917c7f9f9",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P1Y"
+    },
+    {
+      "key": "issued",
+      "value": "2018-07-23T11:45:16.740377"
+    },
+    {
+      "key": "language",
+      "value": "[\"spa\"]"
+    },
+    {
+      "key": "modified",
+      "value": "2020-05-15T15:44:39.716785"
+    },
+    {
+      "key": "source",
+      "value": "Ministerio de Salud. Superintendencia de Servicios de Salud. Gerencia de Sistemas de Información. Coordinación de Diseño y Procesamiento de la Información."
+    },
+    {
+      "key": "spatial",
+      "value": "[\"ARG\"]"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"HEAL\"]"
+    },
+    {
+      "key": "temporal",
+      "value": "2018-08-18T03:00:00.000Z/2019-07-18T03:00:00.000Z"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Salud",
+      "display_name": "Salud",
+      "id": "65cc1fbf-703a-43bf-8a14-232a55c34976",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225809.913196salud.svg",
+      "name": "heal",
+      "title": "Salud"
+    }
+  ],
+  "id": "salud_0fe5fc87-d980-41c2-8e71-3a7d0964350c",
+  "isopen": false,
+  "license_id": "notspecified",
+  "license_title": "No se especificó la licencia",
+  "maintainer": "Ministerio de Salud. Superintendencia de Servicios de Salud. Gerencia de Sistemas de Información. Coordinación de Diseño y Procesamiento de la Información.",
+  "maintainer_email": "datos@sssalud.gob.ar",
+  "metadata_created": "2019-11-26T15:01:58.282427",
+  "metadata_modified": "2021-04-29T17:05:38.669711",
+  "name": "salud-padron-beneficiarios-obras-sociales-nacionales",
+  "notes": "Total de titulares y familiares por provincia correspondientes al Padrón de Beneficiarios de la Superintendencia de Servicios de Salud.",
+  "num_resources": 4,
+  "num_tags": 5,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-11-15T11:12:22.202856",
+    "description": "",
+    "id": "dd1f2018-587f-43af-9b07-fc32f5ab588b",
+    "image_url": "",
+    "is_organization": true,
+    "name": "salud",
+    "revision_id": "14f0bb85-f97d-4325-b1c8-a7c1d3a815bf",
+    "state": "active",
+    "title": "Ministerio de Salud",
+    "type": "organization"
+  },
+  "owner_org": "dd1f2018-587f-43af-9b07-fc32f5ab588b",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "http://datos.salud.gob.ar/dataset/0fe5fc87-d980-41c2-8e71-3a7d0964350c/resource/7486a94a-047f-4e19-a742-5b6f2db9c854",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2018-07-23T11:48:20.186808",
+      "datastore_active": false,
+      "description": "Total de titulares y familiares por provincia correspondientes al Padrón de Beneficiarios de la Superintendencia de Servicios de Salud.\r\n",
+      "fileName": "padron-de-beneficiarios-de-obras-sociales-nacionales-20181217.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "salud_7486a94a-047f-4e19-a742-5b6f2db9c854",
+      "last_modified": "2018-12-17T10:09:58.100826",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Padrón de beneficiarios de Obras Sociales Nacionales",
+      "package_id": "salud_0fe5fc87-d980-41c2-8e71-3a7d0964350c",
+      "position": 0,
+      "resource_type": null,
+      "revision_id": "4686b95a-9710-44ed-94a3-497b8f494f83",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.salud.gob.ar/dataset/0fe5fc87-d980-41c2-8e71-3a7d0964350c/resource/7486a94a-047f-4e19-a742-5b6f2db9c854/download/padron-de-beneficiarios-de-obras-sociales-nacionales-20181217.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos.salud.gob.ar/dataset/0fe5fc87-d980-41c2-8e71-3a7d0964350c/resource/50fa8280-2270-47c5-a8cd-4fd4544064cf",
+      "attributesDescription": "[{\"type\": \"integer\", \"description\": \"C\\u00f3digo de jurisdicci\\u00f3n\", \"title\": \"provincia_id\"}, {\"type\": \"string\", \"description\": \"Nombre de la jurisdicci\\u00f3n\", \"title\": \"provincia_nombre\"}, {\"type\": \"integer\", \"description\": \"Cantidad total de titulares\", \"title\": \"total_titulares\"}, {\"type\": \"integer\", \"description\": \"Cantidad total de familiares\", \"title\": \"total_familiares\"}, {\"type\": \"integer\", \"description\": \"Cantidad total de beneficiarios\", \"title\": \"total_beneficiarios\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-08-13T09:35:53.424619",
+      "datastore_active": false,
+      "description": "Total de titulares y familiares por provincia correspondientes al Padrón de Beneficiarios de la Superintendencia de Servicios de Salud.",
+      "fileName": "padron-beneficiarios-obras-sociales-nacionales-082019.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "salud_50fa8280-2270-47c5-a8cd-4fd4544064cf",
+      "last_modified": "2019-08-13T09:36:41.454387",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Padrón de beneficiarios de Obras Sociales Nacionales - Agosto 2019",
+      "package_id": "salud_0fe5fc87-d980-41c2-8e71-3a7d0964350c",
+      "position": 1,
+      "resource_type": "file.upload",
+      "revision_id": "78ed1e9f-24bf-4f95-a1bb-a610319be731",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.salud.gob.ar/dataset/0fe5fc87-d980-41c2-8e71-3a7d0964350c/resource/50fa8280-2270-47c5-a8cd-4fd4544064cf/download/padron-beneficiarios-obras-sociales-nacionales-082019.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos.salud.gob.ar/dataset/0fe5fc87-d980-41c2-8e71-3a7d0964350c/resource/d5cda4cf-8e9d-415e-aa04-91ccf7ae5367",
+      "attributesDescription": "[{\"type\": \"integer\", \"description\": \"C\\u00f3digo de jurisdicci\\u00f3n \", \"title\": \"provincia_id \"}, {\"type\": \"string\", \"description\": \"Nombre de la jurisdicci\\u00f3n \", \"title\": \"provincia_nombre\"}, {\"type\": \"integer\", \"description\": \"Cantidad total de titulares \", \"title\": \"total_titulares \"}, {\"type\": \"integer\", \"description\": \"Cantidad total de familiares \", \"title\": \"total_familiares \"}, {\"type\": \"integer\", \"description\": \"Cantidad total de beneficiarios \", \"title\": \"total_beneficiarios \"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-08-13T09:39:20.317676",
+      "datastore_active": false,
+      "description": "Total de titulares y familiares por provincia correspondientes al Padrón de Beneficiarios de la Superintendencia de Servicios de Salud",
+      "fileName": "padron-beneficiarios-obras-sociales-nacionales-082019.xls",
+      "format": "XLS",
+      "hash": "",
+      "id": "salud_d5cda4cf-8e9d-415e-aa04-91ccf7ae5367",
+      "last_modified": "2019-08-13T09:39:20.317676",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Padrón de beneficiarios de Obras Sociales Nacionales - Agosto 2019",
+      "package_id": "salud_0fe5fc87-d980-41c2-8e71-3a7d0964350c",
+      "position": 2,
+      "resource_type": "file.upload",
+      "revision_id": "4686b95a-9710-44ed-94a3-497b8f494f83",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.salud.gob.ar/dataset/0fe5fc87-d980-41c2-8e71-3a7d0964350c/resource/d5cda4cf-8e9d-415e-aa04-91ccf7ae5367/download/padron-beneficiarios-obras-sociales-nacionales-082019.xls",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos.salud.gob.ar/dataset/0fe5fc87-d980-41c2-8e71-3a7d0964350c/resource/3859b923-e7ef-4ab0-b014-cbadd2fabbfd",
+      "attributesDescription": "[{\"type\": \"integer\", \"description\": \"C\\u00f3digo de jurisdicci\\u00f3n \\n\", \"title\": \"provincia_id \"}, {\"type\": \"string\", \"description\": \"Nombre de la jurisdicci\\u00f3n \", \"title\": \"provincia_nombre \"}, {\"type\": \"integer\", \"description\": \"Cantidad total de titulares \", \"title\": \"total_titulares \"}, {\"type\": \"integer\", \"description\": \"Cantidad total de familiares \", \"title\": \"total_familiares \"}, {\"type\": \"integer\", \"description\": \"Cantidad total de beneficiarios \", \"title\": \"total_beneficiarios \"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-08-13T09:41:02.809579",
+      "datastore_active": false,
+      "description": "Total de titulares y familiares por provincia correspondientes al Padrón de Beneficiarios de la Superintendencia de Servicios de Salud.",
+      "fileName": "padron-beneficiarios-obras-sociales-nacionales-082019.json",
+      "format": "JSON",
+      "hash": "",
+      "id": "salud_3859b923-e7ef-4ab0-b014-cbadd2fabbfd",
+      "last_modified": "2019-08-13T09:43:32.804895",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Padrón de beneficiarios de Obras Sociales Nacionales - Agosto 2019",
+      "package_id": "salud_0fe5fc87-d980-41c2-8e71-3a7d0964350c",
+      "position": 3,
+      "resource_type": "file.upload",
+      "revision_id": "bf671779-e831-4af6-9e5e-fc08e9bc45e5",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.salud.gob.ar/dataset/0fe5fc87-d980-41c2-8e71-3a7d0964350c/resource/3859b923-e7ef-4ab0-b014-cbadd2fabbfd/download/padron-beneficiarios-obras-sociales-nacionales-082019.json",
+      "url_type": null
+    }
+  ],
+  "revision_id": "e883b7a7-b097-4d7d-b396-a6d4aad3912d",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "Registros Padrones  yo Listados Nacionales en Salud",
+      "id": "064bcc0a-bba2-4db9-ac12-879c4cdb82b0",
+      "name": "Registros Padrones  yo Listados Nacionales en Salud",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "SSS",
+      "id": "2cc03fb7-dd56-4ee4-a757-8585898f7446",
+      "name": "SSS",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "beneficiarios",
+      "id": "c81a4a2c-9c7c-40bc-aed6-d161749d380b",
+      "name": "beneficiarios",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "obras sociales",
+      "id": "ada1ecbb-15d9-48e1-9131-21d7bdc95b27",
+      "name": "obras sociales",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "padron",
+      "id": "33f25311-b18e-46e5-ae0b-e05eff7d9e39",
+      "name": "padron",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Padrón de beneficiarios de Obras Sociales Nacionales",
+  "type": "dataset",
+  "url": "https://www.sssalud.gob.ar/index.php?cat=consultas&page=estadisticas",
+  "version": null
+}

@@ -1,0 +1,149 @@
+{
+  "author": "Subsecretaría de Programación Macroeconómica",
+  "author_email": "datoseconomicos@mecon.gov.ar",
+  "creator_user_id": "4720e75a-9e17-4dc3-879d-041917c7f9f9",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P3M"
+    },
+    {
+      "key": "issued",
+      "value": "2017-09-28"
+    },
+    {
+      "key": "language",
+      "value": "[\"SPA\"]"
+    },
+    {
+      "key": "source",
+      "value": "Instituto Nacional de Estadística y Censos (INDEC)"
+    },
+    {
+      "key": "spatial",
+      "value": "ARG"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"ECON\"]"
+    },
+    {
+      "key": "temporal",
+      "value": "1993-01-01/2013-09-30"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Economía y finanzas",
+      "display_name": "Economía y finanzas",
+      "id": "60b4b03e-10a1-4d67-b984-08008a249617",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225257.200233economia-finanzas.svg",
+      "name": "econ",
+      "title": "Economía y finanzas"
+    }
+  ],
+  "id": "sspm_27",
+  "isopen": true,
+  "license_id": "CC-BY-4.0",
+  "license_title": "Creative Commons Attribution 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "maintainer": "Subsecretaría de Programación Macroeconómica.",
+  "maintainer_email": "datoseconomicos@mecon.gov.ar",
+  "metadata_created": "2019-11-26T15:06:06.916554",
+  "metadata_modified": "2021-04-29T17:05:05.259378",
+  "name": "sspm-ahorro-externo-ahorro-interno-base-1993",
+  "notes": "Ahorro externo e interno en pesos constantes de 1993",
+  "num_resources": 2,
+  "num_tags": 2,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:09.718132",
+    "description": "",
+    "id": "68f9ee22-5ec3-44cf-a32b-b87d9db46b93",
+    "image_url": "",
+    "is_organization": true,
+    "name": "sspm",
+    "revision_id": "bc058ce0-3540-4204-96cd-9f9ec79045b3",
+    "state": "active",
+    "title": "Subsecretaría de Programación Macroeconómica",
+    "type": "organization"
+  },
+  "owner_org": "68f9ee22-5ec3-44cf-a32b-b87d9db46b93",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/",
+      "attributesDescription": "[{\"title\": \"indice_tiempo\", \"type\": \"date\", \"specialType\": \"time_index\", \"specialTypeDetail\": \"R/P1Y\", \"id\": \"27.1_IT_0_A_13\", \"scrapingIdentifierCell\": \"A8\", \"scrapingDataStartCell\": \"A9\", \"dataset_identifier\": \"27\", \"distribution_identifier\": \"27.1\"}, {\"title\": \"importaciones_bienes_servicios\", \"type\": \"number\", \"description\": \"Importaciones de bienes y servicios en pesos corrientes\", \"id\": \"27.1_IBS_0_A_30\", \"scrapingIdentifierCell\": \"B8\", \"scrapingDataStartCell\": \"B9\", \"units\": \"Millones de pesos\", \"dataset_identifier\": \"27\", \"distribution_identifier\": \"27.1\"}, {\"title\": \"exportaciones_bienes_servicios\", \"type\": \"number\", \"description\": \"Exportaciones de bienes y servicios en pesos corrientes\", \"id\": \"27.1_EBS_0_A_30\", \"scrapingIdentifierCell\": \"C8\", \"scrapingDataStartCell\": \"C9\", \"units\": \"Millones de pesos\", \"dataset_identifier\": \"27\", \"distribution_identifier\": \"27.1\"}, {\"title\": \"remuneracion_neta_factores_exterior\", \"type\": \"number\", \"description\": \"Remuneraci\\u00f3n neta a factores del exterior en pesos corrientes\", \"id\": \"27.1_RNFE_0_A_35\", \"scrapingIdentifierCell\": \"D8\", \"scrapingDataStartCell\": \"D9\", \"units\": \"Millones de pesos\", \"dataset_identifier\": \"27\", \"distribution_identifier\": \"27.1\"}, {\"title\": \"transferencias_corrientes_netas\", \"type\": \"number\", \"description\": \"Transferencias corrientes netas en pesos corrientes\", \"id\": \"27.1_TCN_0_A_31\", \"scrapingIdentifierCell\": \"E8\", \"scrapingDataStartCell\": \"E9\", \"units\": \"Millones de pesos\", \"dataset_identifier\": \"27\", \"distribution_identifier\": \"27.1\"}, {\"title\": \"ahorro_resto_del_mundo\", \"type\": \"number\", \"description\": \"Ahorro del Resto del Mundo en pesos corrientes\", \"id\": \"27.1_ARDM_0_A_22\", \"scrapingIdentifierCell\": \"F8\", \"scrapingDataStartCell\": \"F9\", \"units\": \"Millones de pesos\", \"dataset_identifier\": \"27\", \"distribution_identifier\": \"27.1\"}, {\"title\": \"ahorro_nacional_bruto\", \"type\": \"number\", \"description\": \"Ahorro Nacional Bruto en pesos corrientes\", \"id\": \"27.1_ANB_0_A_21\", \"scrapingIdentifierCell\": \"G8\", \"scrapingDataStartCell\": \"G9\", \"units\": \"Millones de pesos\", \"dataset_identifier\": \"27\", \"distribution_identifier\": \"27.1\"}, {\"title\": \"ahorro_interno_bruto\", \"type\": \"number\", \"description\": \"Ahorro Interno Bruto en pesos corrientes\", \"id\": \"27.1_AIB_0_A_20\", \"scrapingIdentifierCell\": \"H8\", \"scrapingDataStartCell\": \"H9\", \"units\": \"Millones de pesos\", \"dataset_identifier\": \"27\", \"distribution_identifier\": \"27.1\"}, {\"title\": \"inversion_interna_bruta_fija\", \"type\": \"number\", \"description\": \"Inversi\\u00f3n Interna Bruta Fija en pesos corrientes\", \"id\": \"27.1_IIBF_0_A_28\", \"scrapingIdentifierCell\": \"I8\", \"scrapingDataStartCell\": \"I9\", \"units\": \"Millones de pesos\", \"dataset_identifier\": \"27\", \"distribution_identifier\": \"27.1\"}, {\"title\": \"discrepancia_estadistica_variacion_existencias\", \"type\": \"number\", \"description\": \"Discrepancia estad\\u00edstica y variaci\\u00f3n de existencias en pesos corrientes\", \"id\": \"27.1_DEVE_0_A_46\", \"scrapingIdentifierCell\": \"J8\", \"scrapingDataStartCell\": \"J9\", \"units\": \"Millones de pesos\", \"dataset_identifier\": \"27\", \"distribution_identifier\": \"27.1\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-09-28T00:00:00",
+      "datastore_active": false,
+      "description": "Valores anuales del Ahorro externo y Ahorro interno (Base 1993)",
+      "fileName": "ahorro-externo-ahorro-interno-valores-anuales-precios-corrientes.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "sspm_27.1",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Ahorro externo y ahorro interno, Valores anuales",
+      "package_id": "sspm_27",
+      "position": 0,
+      "resource_type": null,
+      "revision_id": "868f522e-9f43-4839-89ac-cfe33132ca7d",
+      "size": null,
+      "state": "active",
+      "url": "https://infra.datos.gob.ar/catalog/sspm/dataset/27/distribution/27.1/download/ahorro-externo-ahorro-interno-valores-anuales-precios-corrientes.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/",
+      "attributesDescription": "[{\"title\": \"indice_tiempo\", \"type\": \"date\", \"specialType\": \"time_index\", \"specialTypeDetail\": \"R/P3M\", \"id\": \"27.2_IT_0_T_13\", \"scrapingIdentifierCell\": \"A54\", \"scrapingDataStartCell\": \"A55\", \"dataset_identifier\": \"27\", \"distribution_identifier\": \"27.2\"}, {\"title\": \"importaciones_bienes_servicios\", \"type\": \"number\", \"description\": \"Importaciones de bienes y servicios en pesos corrientes\", \"id\": \"27.2_IBS_0_T_30\", \"scrapingIdentifierCell\": \"B54\", \"scrapingDataStartCell\": \"B55\", \"units\": \"Millones de pesos\", \"dataset_identifier\": \"27\", \"distribution_identifier\": \"27.2\"}, {\"title\": \"exportaciones_bienes_servicios\", \"type\": \"number\", \"description\": \"Exportaciones de bienes y servicios en pesos corrientes\", \"id\": \"27.2_EBS_0_T_30\", \"scrapingIdentifierCell\": \"C54\", \"scrapingDataStartCell\": \"C55\", \"units\": \"Millones de pesos\", \"dataset_identifier\": \"27\", \"distribution_identifier\": \"27.2\"}, {\"title\": \"remuneracion_neta_factores_exterior\", \"type\": \"number\", \"description\": \"Remuneraci\\u00f3n neta a factores del exterior en pesos corrientes\", \"id\": \"27.2_RNFE_0_T_35\", \"scrapingIdentifierCell\": \"D54\", \"scrapingDataStartCell\": \"D55\", \"units\": \"Millones de pesos\", \"dataset_identifier\": \"27\", \"distribution_identifier\": \"27.2\"}, {\"title\": \"transferencias_corrientes_netas\", \"type\": \"number\", \"description\": \"Transferencias corrientes netas en pesos corrientes\", \"id\": \"27.2_TCN_0_T_31\", \"scrapingIdentifierCell\": \"E54\", \"scrapingDataStartCell\": \"E55\", \"units\": \"Millones de pesos\", \"dataset_identifier\": \"27\", \"distribution_identifier\": \"27.2\"}, {\"title\": \"ahorro_resto_del_mundo\", \"type\": \"number\", \"description\": \"Ahorro del Resto del Mundo en pesos corrientes\", \"id\": \"27.2_ARDM_0_T_22\", \"scrapingIdentifierCell\": \"F54\", \"scrapingDataStartCell\": \"F55\", \"units\": \"Millones de pesos\", \"dataset_identifier\": \"27\", \"distribution_identifier\": \"27.2\"}, {\"title\": \"ahorro_nacional_bruto\", \"type\": \"number\", \"description\": \"Ahorro Nacional Bruto en pesos corrientes\", \"id\": \"27.2_ANB_0_T_21\", \"scrapingIdentifierCell\": \"G54\", \"scrapingDataStartCell\": \"G55\", \"units\": \"Millones de pesos\", \"dataset_identifier\": \"27\", \"distribution_identifier\": \"27.2\"}, {\"title\": \"ahorro_interno_bruto\", \"type\": \"number\", \"description\": \"Ahorro Interno Bruto en pesos corrientes\", \"id\": \"27.2_AIB_0_T_20\", \"scrapingIdentifierCell\": \"H54\", \"scrapingDataStartCell\": \"H55\", \"units\": \"Millones de pesos\", \"dataset_identifier\": \"27\", \"distribution_identifier\": \"27.2\"}, {\"title\": \"inversion_interna_bruta_fija\", \"type\": \"number\", \"description\": \"Inversi\\u00f3n Interna Bruta Fija en pesos corrientes\", \"id\": \"27.2_IIBF_0_T_28\", \"scrapingIdentifierCell\": \"I54\", \"scrapingDataStartCell\": \"I55\", \"units\": \"Millones de pesos\", \"dataset_identifier\": \"27\", \"distribution_identifier\": \"27.2\"}, {\"title\": \"discrepancia_estadistica_variacion_existencias\", \"type\": \"number\", \"description\": \"Discrepancia estad\\u00edstica y variaci\\u00f3n de existencias en pesos corrientes\", \"id\": \"27.2_DEVE_0_T_46\", \"scrapingIdentifierCell\": \"J54\", \"scrapingDataStartCell\": \"J55\", \"units\": \"Millones de pesos\", \"dataset_identifier\": \"27\", \"distribution_identifier\": \"27.2\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-09-28T00:00:00",
+      "datastore_active": false,
+      "description": "Valores trimestrales del Ahorro externo y Ahorro interno (Base 1993)",
+      "fileName": "ahorro-externo-ahorro-interno-valores-trimestrales-precios-corrientes.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "sspm_27.2",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Ahorro externo y ahorro interno, Valores trimestrales",
+      "package_id": "sspm_27",
+      "position": 1,
+      "resource_type": null,
+      "revision_id": "868f522e-9f43-4839-89ac-cfe33132ca7d",
+      "size": null,
+      "state": "active",
+      "url": "https://infra.datos.gob.ar/catalog/sspm/dataset/27/distribution/27.2/download/ahorro-externo-ahorro-interno-valores-trimestrales-precios-corrientes.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "868f522e-9f43-4839-89ac-cfe33132ca7d",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "Actividad",
+      "id": "a7695c51-c893-4ece-8ff9-306c197afdd7",
+      "name": "Actividad",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Información Económica al Día",
+      "id": "0d300a9a-0802-46c3-9a40-2f28ddf050ec",
+      "name": "Información Económica al Día",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Ahorro externo y ahorro interno. Base 1993",
+  "type": "dataset",
+  "url": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/",
+  "version": null
+}

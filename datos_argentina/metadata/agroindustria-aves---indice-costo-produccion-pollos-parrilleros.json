@@ -1,0 +1,241 @@
+{
+  "author": "Dirección de Aves de Granja y No Tradicionales ",
+  "author_email": "animen@magyp.gob.ar",
+  "creator_user_id": "dc157489-51c6-44ce-bd63-3bd983d60778",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P1M"
+    },
+    {
+      "key": "issued",
+      "value": "2018-10-04T14:22:59.457688"
+    },
+    {
+      "key": "language",
+      "value": "[\"spa\"]"
+    },
+    {
+      "key": "modified",
+      "value": "2020-07-13T18:12:13.142900"
+    },
+    {
+      "key": "spatial",
+      "value": "[\"ARG\"]"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"AGRI\", \"ECON\"]"
+    },
+    {
+      "key": "temporal",
+      "value": "2014-01-01T03:00:00.000Z"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Agroganadería, pesca y forestación",
+      "display_name": "Agroganadería, pesca y forestación",
+      "id": "0c35ea38-7059-41d2-9827-5587769d0dc6",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225145.990789agroganaderia-pesca-forestacion.svg",
+      "name": "agri",
+      "title": "Agroganadería, pesca y forestación"
+    },
+    {
+      "description": "Economía y finanzas",
+      "display_name": "Economía y finanzas",
+      "id": "60b4b03e-10a1-4d67-b984-08008a249617",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225257.200233economia-finanzas.svg",
+      "name": "econ",
+      "title": "Economía y finanzas"
+    }
+  ],
+  "id": "agroindustria_8fbbf6a5-44c9-4e89-895f-445f821e7029",
+  "isopen": true,
+  "license_id": "CC-BY-4.0",
+  "license_title": "Creative Commons Attribution 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "maintainer": "Dirección de Aves de Granja y No Tradicionales ",
+  "maintainer_email": "animen@magyp.gob.ar",
+  "metadata_created": "2020-12-04T16:39:17.210504",
+  "metadata_modified": "2021-04-29T17:16:02.302007",
+  "name": "agroindustria-aves---indice-costo-produccion-pollos-parrilleros",
+  "notes": "Medición de las variaciones mensuales que experimenta el costo de la\r\nproducción de pollos parrilleros bajo el sistema de producción integrada en las provincias de\r\nBuenos Aires y Entre Ríos.",
+  "num_resources": 3,
+  "num_tags": 11,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:07.834957",
+    "description": "",
+    "id": "b10c94e2-ade1-4a97-8c4c-b1ada7878d60",
+    "image_url": "",
+    "is_organization": true,
+    "name": "agroindustria",
+    "revision_id": "f7c3b6e9-d48f-4522-9f7a-388d805c8392",
+    "state": "active",
+    "title": "Ministerio de Agricultura, Ganadería y Pesca",
+    "type": "organization"
+  },
+  "owner_org": "b10c94e2-ade1-4a97-8c4c-b1ada7878d60",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "http://datos.agroindustria.gob.ar/dataset/8fbbf6a5-44c9-4e89-895f-445f821e7029/resource/57b16ac4-def4-4665-88a8-f3b73fdb7297",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2018-10-09T15:10:06.525810",
+      "datastore_active": false,
+      "description": "Medición de las variaciones mensuales que experimenta el costo de la producción de pollos parrilleros",
+      "fileName": "indice-de-costo-de-pollos-parrilleros.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "agroindustria_57b16ac4-def4-4665-88a8-f3b73fdb7297",
+      "last_modified": "2021-04-16T09:43:37.340673",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Índice de Costo de Pollos Parrilleros",
+      "package_id": "agroindustria_8fbbf6a5-44c9-4e89-895f-445f821e7029",
+      "position": 0,
+      "resource_type": "file.upload",
+      "revision_id": "84a57100-9fea-4789-854e-38b7c90b986b",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.agroindustria.gob.ar/dataset/8fbbf6a5-44c9-4e89-895f-445f821e7029/resource/57b16ac4-def4-4665-88a8-f3b73fdb7297/download/indice-de-costo-de-pollos-parrilleros.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://www.agroindustria.gob.ar/sitio/areas/aves/indice/index2.php?accion=imp",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-01-10T17:21:35.880646",
+      "datastore_active": false,
+      "description": "Se presenta una visualización avanzada de las variaciones mensuales que experimenta el costo de la\r\nproducción de pollos parrilleros. Vaya a \"descargar\" para visualizar.",
+      "format": "url",
+      "hash": "",
+      "id": "agroindustria_8132c506-bf35-48b8-a919-454b3e7b49b4",
+      "last_modified": "2019-03-19T12:13:03.381642",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Índice del Costo de la Producción de Pollos Parrilleros",
+      "package_id": "agroindustria_8fbbf6a5-44c9-4e89-895f-445f821e7029",
+      "position": 1,
+      "resource_type": "documentation",
+      "revision_id": "f42121de-e2bb-415b-b1f4-cb1e52708b30",
+      "size": null,
+      "state": "active",
+      "url": "http://www.agroindustria.gob.ar/sitio/areas/aves/indice/index2.php?accion=imp",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos.agroindustria.gob.ar/dataset/8fbbf6a5-44c9-4e89-895f-445f821e7029/resource/69a21bc9-2f87-4727-9f96-52f3a2c697d6",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2020-07-13T18:11:33.099395",
+      "datastore_active": false,
+      "description": "Informe mensual del índice del costo de producción de pollos parrilleros.",
+      "fileName": "pollo-parrillero-2021-03Mar-indice-costo-produccion.pdf",
+      "format": "PDF",
+      "hash": "",
+      "id": "agroindustria_69a21bc9-2f87-4727-9f96-52f3a2c697d6",
+      "last_modified": "2021-04-16T09:47:36.488755",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Informe Marzo 2021 del índice de costo de producción de pollos parrilleros",
+      "package_id": "agroindustria_8fbbf6a5-44c9-4e89-895f-445f821e7029",
+      "position": 2,
+      "resource_type": "documentation",
+      "revision_id": "84a57100-9fea-4789-854e-38b7c90b986b",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.agroindustria.gob.ar/dataset/8fbbf6a5-44c9-4e89-895f-445f821e7029/resource/69a21bc9-2f87-4727-9f96-52f3a2c697d6/download/pollo-parrillero-2021-03mar-indice-costo-produccion.pdf",
+      "url_type": null
+    }
+  ],
+  "revision_id": "f42121de-e2bb-415b-b1f4-cb1e52708b30",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "Ave",
+      "id": "1f7491a4-d6f9-43c0-8b85-cd8f1df6c405",
+      "name": "Ave",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Aves",
+      "id": "4135ec70-7177-4bb1-b8fc-7cee159ecdb2",
+      "name": "Aves",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Avícultura",
+      "id": "ad60e6c2-f574-4343-8a81-9312b7af5f13",
+      "name": "Avícultura",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Costos Pollos",
+      "id": "a0aacd68-6a7b-44af-a14a-cc9ecd9ff3e7",
+      "name": "Costos Pollos",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Pollo",
+      "id": "9a6f61c8-1a88-4b51-af97-d9bb056df299",
+      "name": "Pollo",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Pollos",
+      "id": "0a46dc40-be86-41b5-821d-16363611408c",
+      "name": "Pollos",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Pollos Buenos Aires",
+      "id": "e77544f1-adb4-45a1-83a0-d5b2a04a84e5",
+      "name": "Pollos Buenos Aires",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Pollos Entre Ríos",
+      "id": "9bd342df-38ae-4976-813d-36d8d1f31224",
+      "name": "Pollos Entre Ríos",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Pollos Parrilleros",
+      "id": "983ca890-242e-494c-b240-f9cb4737cc22",
+      "name": "Pollos Parrilleros",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Sistema Integrado de Produccion de Pollos",
+      "id": "5c57183a-26b0-49c2-84cb-d0d47413a3b7",
+      "name": "Sistema Integrado de Produccion de Pollos",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "índice de costo",
+      "id": "cdd232f8-0e40-4096-8048-bf2ee972d5c6",
+      "name": "índice de costo",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Aves - Índice del Costo de la Producción de Pollos Parrilleros",
+  "type": "dataset",
+  "url": "https://datos.agroindustria.gob.ar/dataset/indice-de-costo-de-pollos-parrilleros",
+  "version": null
+}

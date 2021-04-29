@@ -1,0 +1,169 @@
+{
+  "author": "Subsecretaría de Mercados Agropecuarios",
+  "author_email": "sma@magyp.gob.ar",
+  "creator_user_id": "dc157489-51c6-44ce-bd63-3bd983d60778",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P1M"
+    },
+    {
+      "key": "issued",
+      "value": "2018-12-07T21:26:51.448465"
+    },
+    {
+      "key": "language",
+      "value": "[\"spa\"]"
+    },
+    {
+      "key": "modified",
+      "value": "2019-10-24T10:40:28.186359"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"AGRI\"]"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Agroganadería, pesca y forestación",
+      "display_name": "Agroganadería, pesca y forestación",
+      "id": "0c35ea38-7059-41d2-9827-5587769d0dc6",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225145.990789agroganaderia-pesca-forestacion.svg",
+      "name": "agri",
+      "title": "Agroganadería, pesca y forestación"
+    }
+  ],
+  "id": "agroindustria_ae22dbcb-9e30-434f-b9c3-bf4c021320e2",
+  "isopen": true,
+  "license_id": "CC-BY-4.0",
+  "license_title": "Creative Commons Attribution 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "maintainer": null,
+  "maintainer_email": null,
+  "metadata_created": "2019-12-04T20:01:18.151489",
+  "metadata_modified": "2021-04-29T17:16:20.701971",
+  "name": "agroindustria-avena---destino-industrial",
+  "notes": "Ingreso a planta de granos de avena con destino a la industria.\r\nAño comercial desde Diciembre a Noviembre.",
+  "num_resources": 2,
+  "num_tags": 6,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:07.834957",
+    "description": "",
+    "id": "b10c94e2-ade1-4a97-8c4c-b1ada7878d60",
+    "image_url": "",
+    "is_organization": true,
+    "name": "agroindustria",
+    "revision_id": "f7c3b6e9-d48f-4522-9f7a-388d805c8392",
+    "state": "active",
+    "title": "Ministerio de Agricultura, Ganadería y Pesca",
+    "type": "organization"
+  },
+  "owner_org": "b10c94e2-ade1-4a97-8c4c-b1ada7878d60",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "http://datos.agroindustria.gob.ar/dataset/ae22dbcb-9e30-434f-b9c3-bf4c021320e2/archivo/670ec3c6-8f65-4ce6-b877-e4d1ebbb2595",
+      "attributesDescription": "[{\"type\": \"integer\", \"description\": \"cod_pais\", \"title\": \"cod_pais\"}, {\"type\": \"string\", \"description\": \"nom_pais\", \"title\": \"nom_pais\"}, {\"type\": \"integer\", \"description\": \"a\\u00f1o\", \"title\": \"a\\u00f1o\"}, {\"type\": \"string\", \"description\": \"producto\", \"title\": \"producto\"}, {\"type\": \"string\", \"description\": \"unidad_id\", \"title\": \"unidad_id\"}, {\"type\": \"string\", \"description\": \"nombre_unidad\", \"title\": \"nombre_unidad\"}, {\"type\": \"number\", \"description\": \"enero\", \"title\": \"enero\"}, {\"type\": \"number\", \"description\": \"febrero\", \"title\": \"febrero\"}, {\"type\": \"number\", \"description\": \"marzo\", \"title\": \"marzo\"}, {\"type\": \"number\", \"description\": \"abril\", \"title\": \"abril\"}, {\"type\": \"number\", \"description\": \"mayo\", \"title\": \"mayo\"}, {\"type\": \"number\", \"description\": \"junio\", \"title\": \"junio\"}, {\"type\": \"number\", \"description\": \"julio\", \"title\": \"julio\"}, {\"type\": \"number\", \"description\": \"agosto\", \"title\": \"agosto\"}, {\"type\": \"number\", \"description\": \"septiembre\", \"title\": \"septiembre\"}, {\"type\": \"number\", \"description\": \"octubre\", \"title\": \"octubre\"}, {\"type\": \"number\", \"description\": \"noviembre\", \"title\": \"noviembre\"}, {\"type\": \"number\", \"description\": \"diciembre\", \"title\": \"diciembre\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2018-08-07T11:09:05.300916",
+      "datastore_active": false,
+      "description": "Ingreso a planta de granos de avena en toneladas para su industrialización.\r\n \"0\" indica informado \"Sin Movimiento\".",
+      "fileName": "avena-con-destino-a-la-industria-.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "agroindustria_670ec3c6-8f65-4ce6-b877-e4d1ebbb2595",
+      "last_modified": "2019-03-18T17:38:17.036388",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Ingreso avena para su industrialización",
+      "package_id": "agroindustria_ae22dbcb-9e30-434f-b9c3-bf4c021320e2",
+      "position": 0,
+      "resource_type": "file.upload",
+      "revision_id": "df5762e0-bae3-4136-ba17-c9ddabb81208",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.agroindustria.gob.ar/dataset/ae22dbcb-9e30-434f-b9c3-bf4c021320e2/resource/670ec3c6-8f65-4ce6-b877-e4d1ebbb2595/download/avena-con-destino-a-la-industria-.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos.agroindustria.gob.ar/dataset/ae22dbcb-9e30-434f-b9c3-bf4c021320e2/resource/ff0bf38f-a245-4173-882a-4ef3d61a06bc",
+      "attributesDescription": "[{\"specialType\": \"time_index\", \"specialTypeDetail\": \"R/P1M\", \"type\": \"date\", \"title\": \"indice_tiempo\"}, {\"units\": \"toneladas\", \"id\": \"AGRO_0107\", \"type\": \"integer\", \"description\": \"Ingreso avena para su industrializaci\\u00f3n\", \"title\": \"ingreso_avena_industria\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-05-02T15:44:08.612187",
+      "datastore_active": false,
+      "description": "Ingreso a planta de granos de Avena con destino a la industria. Año Comercial desde Diciembre a Noviembre.",
+      "fileName": "serie-de-tiempo-avena.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "agroindustria_ff0bf38f-a245-4173-882a-4ef3d61a06bc",
+      "last_modified": "2019-09-17T10:38:38.099939",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Serie de tiempo",
+      "package_id": "agroindustria_ae22dbcb-9e30-434f-b9c3-bf4c021320e2",
+      "position": 1,
+      "resource_type": "file.upload",
+      "revision_id": "df5762e0-bae3-4136-ba17-c9ddabb81208",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.agroindustria.gob.ar/dataset/ae22dbcb-9e30-434f-b9c3-bf4c021320e2/resource/ff0bf38f-a245-4173-882a-4ef3d61a06bc/download/serie-de-tiempo-avena.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "bb40e7b6-2e40-470f-a985-d25f9530b312",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "agricola",
+      "id": "2346a81a-3616-4316-8f8e-850077f164b6",
+      "name": "agricola",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "avena",
+      "id": "726a06a3-7131-45a7-87c0-27787386b117",
+      "name": "avena",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "campaña",
+      "id": "d0db196a-e336-4c79-be66-f363093830e1",
+      "name": "campaña",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "estimaciones",
+      "id": "6ef4e2a9-864a-44f4-ba2a-7848b9c865d5",
+      "name": "estimaciones",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "mercados",
+      "id": "6d9c3d18-454a-4717-89ce-4e036d867102",
+      "name": "mercados",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "molino",
+      "id": "d1d442c2-e909-4bef-a6ea-ca5cabb25a82",
+      "name": "molino",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Avena - Destino industrial",
+  "type": "dataset",
+  "url": "https://datos.agroindustria.gob.ar/dataset/avena-con-destino-industria",
+  "version": null
+}

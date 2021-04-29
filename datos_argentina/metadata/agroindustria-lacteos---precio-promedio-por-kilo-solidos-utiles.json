@@ -1,0 +1,135 @@
+{
+  "author": "Dirección Nacional Láctea",
+  "author_email": "estadisticaslecheria@magyp.gob.ar",
+  "creator_user_id": "dc157489-51c6-44ce-bd63-3bd983d60778",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P1Y"
+    },
+    {
+      "key": "issued",
+      "value": "2018-12-07T21:26:12.578243"
+    },
+    {
+      "key": "language",
+      "value": "[\"spa\"]"
+    },
+    {
+      "key": "modified",
+      "value": "2019-10-24T10:37:22.514253"
+    },
+    {
+      "key": "spatial",
+      "value": "[\"ARG\"]"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"AGRI\", \"ECON\"]"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Agroganadería, pesca y forestación",
+      "display_name": "Agroganadería, pesca y forestación",
+      "id": "0c35ea38-7059-41d2-9827-5587769d0dc6",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225145.990789agroganaderia-pesca-forestacion.svg",
+      "name": "agri",
+      "title": "Agroganadería, pesca y forestación"
+    },
+    {
+      "description": "Economía y finanzas",
+      "display_name": "Economía y finanzas",
+      "id": "60b4b03e-10a1-4d67-b984-08008a249617",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225257.200233economia-finanzas.svg",
+      "name": "econ",
+      "title": "Economía y finanzas"
+    }
+  ],
+  "id": "agroindustria_1ec710c5-2651-463b-82da-4c547c2b352a",
+  "isopen": true,
+  "license_id": "CC-BY-4.0",
+  "license_title": "Creative Commons Attribution 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "maintainer": "Dirección Nacional Láctea",
+  "maintainer_email": "estadisticaslecheria@magyp.gob.ar",
+  "metadata_created": "2019-12-04T20:00:31.983086",
+  "metadata_modified": "2021-04-29T17:06:43.176473",
+  "name": "agroindustria-lacteos---precio-promedio-por-kilo-solidos-utiles",
+  "notes": "Precio promedio mensual, en pesos argentinos, pagados al productor por kilogramo de productos sólidos útiles para la industria.",
+  "num_resources": 1,
+  "num_tags": 3,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:07.834957",
+    "description": "",
+    "id": "b10c94e2-ade1-4a97-8c4c-b1ada7878d60",
+    "image_url": "",
+    "is_organization": true,
+    "name": "agroindustria",
+    "revision_id": "f7c3b6e9-d48f-4522-9f7a-388d805c8392",
+    "state": "active",
+    "title": "Ministerio de Agricultura, Ganadería y Pesca",
+    "type": "organization"
+  },
+  "owner_org": "b10c94e2-ade1-4a97-8c4c-b1ada7878d60",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "http://datos.agroindustria.gob.ar/dataset/1ec710c5-2651-463b-82da-4c547c2b352a/resource/9cb90c20-ccc2-4eba-bf36-9fa8caf0df0e",
+      "attributesDescription": "[{\"type\": \"string\", \"description\": \"pais_id\", \"title\": \"pais_id\"}, {\"type\": \"string\", \"description\": \"pa\\u00eds\", \"title\": \"pa\\u00eds\"}, {\"type\": \"string\", \"description\": \"a\\u00f1o\", \"title\": \"a\\u00f1o\"}, {\"type\": \"string\", \"description\": \"mes\", \"title\": \"mes\"}, {\"type\": \"integer\", \"description\": \"ccp\", \"title\": \"ccp\"}, {\"type\": \"string\", \"description\": \"producto\", \"title\": \"producto\"}, {\"type\": \"number\", \"description\": \"precio_promedio_kg\", \"title\": \"precio_promedio_kg\"}, {\"type\": \"string\", \"description\": \"moneda_id\", \"title\": \"moneda_id\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-08-01T15:02:24.209977",
+      "datastore_active": false,
+      "description": "Precio promedio mensual, en pesos argentinos, pagados al productor por kilogramo de productos sólidos útiles para la industria.",
+      "fileName": "precio-promedio-por-kg-de-solidos-utiles.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "agroindustria_9cb90c20-ccc2-4eba-bf36-9fa8caf0df0e",
+      "last_modified": "2019-03-01T15:12:42.609090",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Precio promedio por kg de sólidos útiles",
+      "package_id": "agroindustria_1ec710c5-2651-463b-82da-4c547c2b352a",
+      "position": 0,
+      "resource_type": "file.upload",
+      "revision_id": "e1b141bf-17a8-47de-a2f6-d8eda4be153f",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.agroindustria.gob.ar/dataset/1ec710c5-2651-463b-82da-4c547c2b352a/resource/9cb90c20-ccc2-4eba-bf36-9fa8caf0df0e/download/precio-promedio-por-kg-de-solidos-utiles.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "f4473f36-b50a-4d9b-bacd-0fde5e51308c",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "lacteos",
+      "id": "9e6b26d8-1663-4102-b84b-8d3d36505c78",
+      "name": "lacteos",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "leche",
+      "id": "50198eec-058b-4999-a070-8cf268e8e576",
+      "name": "leche",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "precio solidos",
+      "id": "ba63c10e-8bc5-431b-ba8a-04c617961988",
+      "name": "precio solidos",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Lácteos - Precio promedio por kilo de sólidos útiles",
+  "type": "dataset",
+  "url": "https://datos.agroindustria.gob.ar/dataset/precio-promedio-por-kg-solidos-utiles-pagados-al-productor",
+  "version": null
+}

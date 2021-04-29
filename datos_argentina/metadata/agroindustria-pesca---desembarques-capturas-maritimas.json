@@ -1,0 +1,540 @@
+{
+  "author": "Subsecretaría de Pesca y Acuicultura",
+  "author_email": null,
+  "creator_user_id": "dc157489-51c6-44ce-bd63-3bd983d60778",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P1M"
+    },
+    {
+      "key": "issued",
+      "value": "2019-07-26T12:31:31.326059"
+    },
+    {
+      "key": "language",
+      "value": "[\"spa\"]"
+    },
+    {
+      "key": "modified",
+      "value": "2019-11-19T08:27:37.166108"
+    },
+    {
+      "key": "source",
+      "value": "Dirección Nacional de Coordinación y Fiscalización Pesquera"
+    },
+    {
+      "key": "spatial",
+      "value": "[\"ARG\"]"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"AGRI\"]"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Agroganadería, pesca y forestación",
+      "display_name": "Agroganadería, pesca y forestación",
+      "id": "0c35ea38-7059-41d2-9827-5587769d0dc6",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225145.990789agroganaderia-pesca-forestacion.svg",
+      "name": "agri",
+      "title": "Agroganadería, pesca y forestación"
+    }
+  ],
+  "id": "agroindustria_e2f12522-4dea-495e-877a-b6d2737ae6bf",
+  "isopen": true,
+  "license_id": "CC-BY-4.0",
+  "license_title": "Creative Commons Attribution 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "maintainer": "Dirección Nacional de Coordinación y Fiscalización Pesquera",
+  "maintainer_email": null,
+  "metadata_created": "2019-12-04T21:12:53.339345",
+  "metadata_modified": "2021-04-29T17:06:39.893812",
+  "name": "agroindustria-pesca---desembarques-capturas-maritimas",
+  "notes": "Datos correspondientes al desembarque de capturas marítimas por flota, puerto, especie y mes, para el período Enero 2010 a la actualidad.",
+  "num_resources": 4,
+  "num_tags": 51,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:07.834957",
+    "description": "",
+    "id": "b10c94e2-ade1-4a97-8c4c-b1ada7878d60",
+    "image_url": "",
+    "is_organization": true,
+    "name": "agroindustria",
+    "revision_id": "f7c3b6e9-d48f-4522-9f7a-388d805c8392",
+    "state": "active",
+    "title": "Ministerio de Agricultura, Ganadería y Pesca",
+    "type": "organization"
+  },
+  "owner_org": "b10c94e2-ade1-4a97-8c4c-b1ada7878d60",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "http://datos.agroindustria.gob.ar/dataset/e2f12522-4dea-495e-877a-b6d2737ae6bf/resource/1996a5ec-7075-4062-9a79-05868fc2a2e2",
+      "attributesDescription": "[{\"type\": \"date\", \"title\": \"fecha\"}, {\"type\": \"string\", \"description\": \"Tipo de flota de captura.\", \"title\": \"flota\"}, {\"type\": \"string\", \"description\": \"Nombre del puerto.\", \"title\": \"puerto\"}, {\"type\": \"string\", \"description\": \"Nombre de la provincia.\", \"title\": \"provincia\"}, {\"type\": \"integer\", \"description\": \"C\\u00f3digo de la provincia.\", \"title\": \"provincia_id\"}, {\"type\": \"string\", \"description\": \"Nombre del departamento.\", \"title\": \"departamento\"}, {\"type\": \"integer\", \"description\": \"C\\u00f3digo del departamento.\", \"title\": \"departamento_id\"}, {\"type\": \"number\", \"description\": \"Coordenada de latitud del puerto.\", \"title\": \"latitud\"}, {\"type\": \"number\", \"description\": \"Coordenada de longitud del puerto.\", \"title\": \"longitud\"}, {\"type\": \"string\", \"description\": \"Nombre de la categor\\u00eda capturada.\", \"title\": \"categoria\"}, {\"type\": \"string\", \"description\": \"Nombre de la especie capturada.\", \"title\": \"especie\"}, {\"type\": \"string\", \"description\": \"Nombre de las principales especies capturadas.\", \"title\": \"especie_agrupada\"}, {\"type\": \"number\", \"description\": \"Cantidad de kilos capturados.\", \"title\": \"captura\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-10-23T10:01:25.823177",
+      "datastore_active": false,
+      "description": "Datos del desembarque de captura marítima por puerto, flota y especie para el período Enero 2010 a Diciembre 2018.",
+      "fileName": "captura-puerto-flota-2010-2018.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "agroindustria_1996a5ec-7075-4062-9a79-05868fc2a2e2",
+      "last_modified": "2019-12-05T15:09:32.609247",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Desembarque de captura de especies marítimas 2010 a 2018",
+      "package_id": "agroindustria_e2f12522-4dea-495e-877a-b6d2737ae6bf",
+      "position": 0,
+      "resource_type": "file.upload",
+      "revision_id": "f608ade8-f3af-4304-b704-a8fe14d22fc2",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.agroindustria.gob.ar/dataset/e2f12522-4dea-495e-877a-b6d2737ae6bf/resource/1996a5ec-7075-4062-9a79-05868fc2a2e2/download/captura-puerto-flota-2010-2018.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos.agroindustria.gob.ar/dataset/e2f12522-4dea-495e-877a-b6d2737ae6bf/resource/77a15b4a-71e1-4b81-9732-ae0b6863c8cc",
+      "attributesDescription": "[{\"type\": \"date\", \"title\": \"fecha\"}, {\"type\": \"string\", \"description\": \"Tipo de flota de captura.\", \"title\": \"flota\"}, {\"type\": \"string\", \"description\": \"Nombre del puerto\", \"title\": \"puerto\"}, {\"type\": \"string\", \"description\": \"Nombre de la provincia.\", \"title\": \"provincia\"}, {\"type\": \"integer\", \"description\": \"C\\u00f3digo de la provincia.\", \"title\": \"provincia_id\"}, {\"type\": \"string\", \"description\": \"Nombre del departamento\", \"title\": \"departamento\"}, {\"type\": \"integer\", \"description\": \"C\\u00f3digo del departamento.\", \"title\": \"departamento_id\"}, {\"type\": \"number\", \"description\": \"Coordenada de latitud del puerto.\", \"title\": \"latitud\"}, {\"type\": \"number\", \"description\": \"Coordenada de longitud del puerto.\", \"title\": \"longitud\"}, {\"type\": \"string\", \"description\": \"Nombre de la categor\\u00eda capturada.\", \"title\": \"categoria\"}, {\"type\": \"integer\", \"description\": \"Nombre de la especie capturada.\", \"title\": \"especie\"}, {\"type\": \"string\", \"description\": \"Nombre de las principales especies capturadas.\", \"title\": \"especie_agrupada\"}, {\"type\": \"number\", \"description\": \"Cantidad de kilos capturados.\", \"title\": \"captura\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-10-23T10:00:24.949149",
+      "datastore_active": false,
+      "description": "Datos del desembarque de captura marítima por puerto, flota y especie para el período Enero 2019 a la actualidad.",
+      "fileName": "captura-puerto-flota-2019.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "agroindustria_77a15b4a-71e1-4b81-9732-ae0b6863c8cc",
+      "last_modified": "2019-11-19T08:26:41.832871",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Desembarque de captura de especies marítimas 2019",
+      "package_id": "agroindustria_e2f12522-4dea-495e-877a-b6d2737ae6bf",
+      "position": 1,
+      "resource_type": "file.upload",
+      "revision_id": "edd5fcb1-b20c-414e-88d7-7046fe3f2077",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.agroindustria.gob.ar/dataset/e2f12522-4dea-495e-877a-b6d2737ae6bf/resource/77a15b4a-71e1-4b81-9732-ae0b6863c8cc/download/captura-puerto-flota-2019.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos.agroindustria.gob.ar/dataset/e2f12522-4dea-495e-877a-b6d2737ae6bf/resource/1e46bdfc-ffe4-4569-ba6e-f532a8ff7e22",
+      "attributesDescription": "[{\"specialType\": \"time_index\", \"specialTypeDetail\": \"R/P1M\", \"type\": \"date\", \"title\": \"indice_tiempo\"}, {\"type\": \"integer\", \"description\": \"Cantidad de captura en KG.\", \"title\": \"captura\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-11-21T11:37:47.211520",
+      "datastore_active": false,
+      "description": "Evolución del desembarque de captura marítima por puerto, flota y especie desde 2010 a la actualidad.",
+      "fileName": "captura-puerto-flota-serie-tiempo.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "agroindustria_1e46bdfc-ffe4-4569-ba6e-f532a8ff7e22",
+      "last_modified": "2019-11-21T11:58:13.421927",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Serie de tiempo",
+      "package_id": "agroindustria_e2f12522-4dea-495e-877a-b6d2737ae6bf",
+      "position": 2,
+      "resource_type": "file.upload",
+      "revision_id": "f608ade8-f3af-4304-b704-a8fe14d22fc2",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.agroindustria.gob.ar/dataset/e2f12522-4dea-495e-877a-b6d2737ae6bf/resource/1e46bdfc-ffe4-4569-ba6e-f532a8ff7e22/download/captura-puerto-flota-serie-tiempo.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://geoportal.agroindustria.gob.ar/tematizador/pesca/",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-12-05T15:16:21.500894",
+      "datastore_active": false,
+      "description": "Visualización interactiva de los puertos, flotas y especies capturadas.",
+      "format": "web",
+      "hash": "",
+      "id": "agroindustria_5c7d925f-eae0-4379-96f3-abe7be684d58",
+      "last_modified": "2019-12-05T15:16:21.500894",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Mapeo de los puertos y capturas",
+      "package_id": "agroindustria_e2f12522-4dea-495e-877a-b6d2737ae6bf",
+      "position": 3,
+      "resource_type": "documentation",
+      "revision_id": "ff7c89c0-abe8-45ce-a3f4-13a30eeb5aa5",
+      "size": null,
+      "state": "active",
+      "url": "https://geoportal.agroindustria.gob.ar/tematizador/pesca/",
+      "url_type": null
+    }
+  ],
+  "revision_id": "7e4bf9b7-2ac5-4ae1-af31-e07670a532f7",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "abadejo",
+      "id": "8bbd4f43-15c9-4731-a78b-91284a9cbcf3",
+      "name": "abadejo",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "anchoa",
+      "id": "1bcc743a-13de-4875-9b55-835f233e2be4",
+      "name": "anchoa",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "bacalao",
+      "id": "bb13daf0-bb7c-4c7d-92ac-8734a1342f00",
+      "name": "bacalao",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "bagre",
+      "id": "48a1ac32-f452-4dfe-ba4e-ef63fd857f40",
+      "name": "bagre",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "besugo",
+      "id": "7ce12a4e-5521-4fb4-8bc1-7247202f7edf",
+      "name": "besugo",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "bonito",
+      "id": "03cd7910-c361-4130-999c-7838db55d121",
+      "name": "bonito",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "brotola",
+      "id": "d26290ae-8d0c-48d3-90b6-535aa6202a62",
+      "name": "brotola",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "cablla",
+      "id": "ab722209-8c56-4e34-a614-77d90c733879",
+      "name": "cablla",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "calamar",
+      "id": "0482e7cd-b2ff-4454-a1c5-1c22aea7c8f1",
+      "name": "calamar",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "camaron",
+      "id": "74c3fa63-9764-431d-b28f-56bd3080af2d",
+      "name": "camaron",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "cangrejo",
+      "id": "4b7db2ce-71b0-4585-8de4-edb0ef878bb0",
+      "name": "cangrejo",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "captura marítima",
+      "id": "4c2151c0-8756-456b-acc3-17968651c54a",
+      "name": "captura marítima",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "caracol",
+      "id": "9a26eae7-b563-4496-82a7-9c6600851a7c",
+      "name": "caracol",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "castneta",
+      "id": "f2c5d8c5-0f4c-4d2f-b141-637170d1050b",
+      "name": "castneta",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "cazon",
+      "id": "b0b62499-f739-47ce-b3b7-8f9fc9df041f",
+      "name": "cazon",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "centolla",
+      "id": "f71813ac-a3ef-4ebd-a290-ba1803786846",
+      "name": "centolla",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "chernia",
+      "id": "78d14dc6-e8e2-4784-a57b-8f72871c5fdb",
+      "name": "chernia",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "chucho",
+      "id": "e004ec8d-791f-4983-8710-27ef4725c620",
+      "name": "chucho",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "congeladores",
+      "id": "59679e64-4106-4017-a77c-afa4603b9aab",
+      "name": "congeladores",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "congrio",
+      "id": "fb1a8c08-9dc9-49b9-b7d3-8e2abd13b9d4",
+      "name": "congrio",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "cornalito",
+      "id": "61be7169-4920-40ca-9d11-9fa1d4749201",
+      "name": "cornalito",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "corvina",
+      "id": "cd02a6e8-d2ab-4608-941d-9343a8001036",
+      "name": "corvina",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "crustáceos",
+      "id": "5303c57f-8c3d-4624-baca-5ef5bfa6d9db",
+      "name": "crustáceos",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "flota",
+      "id": "c0d85eae-29f4-48a4-9b00-5341082c1196",
+      "name": "flota",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "fresqueros",
+      "id": "2188dec6-d301-4439-95cc-2e081a118426",
+      "name": "fresqueros",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "gatuzo",
+      "id": "d665de14-78cd-46c3-ad2b-b00cbb06a152",
+      "name": "gatuzo",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "jurel",
+      "id": "c5c313b1-14b3-4380-88f6-2f1d6c9fb049",
+      "name": "jurel",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "langostino",
+      "id": "e521efd7-6b07-436f-b92c-5b8e3ee61506",
+      "name": "langostino",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "lenguado",
+      "id": "e6d15dfa-6f64-464e-8aa6-2cc56e5ee5c8",
+      "name": "lenguado",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "lisa",
+      "id": "d52bf21a-011e-4242-b36f-f2bd4c4c7374",
+      "name": "lisa",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "merluza",
+      "id": "a5b3f2bd-5256-40cd-b8ee-518575447c61",
+      "name": "merluza",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "mero",
+      "id": "b071726b-2bc9-4b93-b29c-0710ff053ec1",
+      "name": "mero",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "moluscos",
+      "id": "7c0306a3-0799-4ae9-afeb-d4fcda65b1cf",
+      "name": "moluscos",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "notothenia",
+      "id": "a68987bc-75ef-46bc-8aaf-65cf49b51db2",
+      "name": "notothenia",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "palometa",
+      "id": "00a9911d-8ae7-4387-b834-48ddb52baba8",
+      "name": "palometa",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "pampanito",
+      "id": "fef2cbec-1917-4e4e-bb92-f6d35a86d883",
+      "name": "pampanito",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "pargo",
+      "id": "985dba1c-51ec-4cec-82a3-9a392fa3099c",
+      "name": "pargo",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "peces",
+      "id": "8cb8715f-f41c-42b5-854f-36a560e4e9a8",
+      "name": "peces",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "pejerrey",
+      "id": "07a109c8-5b1f-4dff-94ea-02ece4526c20",
+      "name": "pejerrey",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "pesca",
+      "id": "f88af091-f830-408b-985f-69a1f7417574",
+      "name": "pesca",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "pescadilla",
+      "id": "55df4c33-b3a6-4b5b-b17a-0893f8ab5495",
+      "name": "pescadilla",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "pueto",
+      "id": "7310f594-a625-4498-ab54-7e3256aee1d8",
+      "name": "pueto",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "pulpo",
+      "id": "a98040fc-e36f-42b4-9bf6-c4e7c9e0fa95",
+      "name": "pulpo",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "raya",
+      "id": "4edc3eca-384a-4b9f-8b0b-c7450b2eed41",
+      "name": "raya",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "robalo",
+      "id": "8e64b5b1-40f3-4017-8ce1-3862b2061855",
+      "name": "robalo",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "salmon",
+      "id": "f619241b-989f-479a-8ff0-ca32e8058999",
+      "name": "salmon",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "saraca",
+      "id": "4916332b-00cc-4aa6-9aa8-ce287766f087",
+      "name": "saraca",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "sargo",
+      "id": "ad4431b8-40d9-4927-8a9f-ead6541659ac",
+      "name": "sargo",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "surimeros",
+      "id": "ff896028-7c25-46b9-af19-027440cec62b",
+      "name": "surimeros",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "tiburon",
+      "id": "0b80b68c-c9ad-46c3-b165-2e22028b3002",
+      "name": "tiburon",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "vieira",
+      "id": "4ca17de2-989d-4a7f-8636-ca3cc95b872b",
+      "name": "vieira",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Pesca - Desembarques de capturas marítimas",
+  "type": "dataset",
+  "url": "https://datos.agroindustria.gob.ar/dataset/http-www-agroindustria-gob-ar-sitio-areas-pesca-maritima-desembarques",
+  "version": null
+}

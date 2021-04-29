@@ -1,0 +1,147 @@
+{
+  "author": "Secretaría de Comercio",
+  "author_email": "datos.abiertos@produccion.gob.ar",
+  "creator_user_id": "4720e75a-9e17-4dc3-879d-041917c7f9f9",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "eventual"
+    },
+    {
+      "key": "issued",
+      "value": "2019-01-15T15:31:17.000Z"
+    },
+    {
+      "key": "modified",
+      "value": "2020-02-26T02:44:52.000Z"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"econ\"]"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Economía y finanzas",
+      "display_name": "Economía y finanzas",
+      "id": "60b4b03e-10a1-4d67-b984-08008a249617",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225257.200233economia-finanzas.svg",
+      "name": "econ",
+      "title": "Economía y finanzas"
+    }
+  ],
+  "id": "produccion_rJMwIyp5m",
+  "isopen": true,
+  "license_id": "CC-BY-4.0",
+  "license_title": "Creative Commons Attribution 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "maintainer": null,
+  "maintainer_email": null,
+  "metadata_created": "2019-11-26T14:57:13.588200",
+  "metadata_modified": "2021-04-29T17:04:45.672029",
+  "name": "produccion-el-mercado-tu-barrio",
+  "notes": "El programa está compuesto por mercados donde proveedores locales ofrecen productos frescos a precios accesibles.",
+  "num_resources": 2,
+  "num_tags": 4,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:10.463340",
+    "description": "",
+    "id": "1ca8d15b-31fc-4f09-ba09-53edd3d4cce6",
+    "image_url": "",
+    "is_organization": true,
+    "name": "produccion",
+    "revision_id": "36d8ec89-d20f-4fe1-866c-e38988d28442",
+    "state": "active",
+    "title": "Ministerio de Desarrollo Productivo",
+    "type": "organization"
+  },
+  "owner_org": "1ca8d15b-31fc-4f09-ba09-53edd3d4cce6",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "http://datos.produccion.gob.ar/dataset/el-mercado-en-tu-barrio",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-01-15T12:31:17",
+      "datastore_active": false,
+      "description": "guia.",
+      "format": "PDF",
+      "hash": "",
+      "id": "produccion_ByUiIk6qQ",
+      "last_modified": "2019-02-05T16:28:01",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Guia de datos mercado en tu barrio",
+      "package_id": "produccion_rJMwIyp5m",
+      "position": 0,
+      "resource_type": null,
+      "revision_id": "fdec8b19-687a-4b9a-a2f9-01871e0f1477",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.produccion.gob.ar/api/files/guia-de-datos-mercado-en-tu-barrio.pdf/download",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos.produccion.gob.ar/dataset/el-mercado-en-tu-barrio",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-01-15T12:31:17",
+      "datastore_active": false,
+      "description": "Ubicación de los mercados indicando el tipo de mercado, ubicación, día y horario de apertura.",
+      "format": "CSV",
+      "hash": "",
+      "id": "produccion_r1ZgDk6qm",
+      "last_modified": "2019-02-05T16:33:04",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Mercados en curso",
+      "package_id": "produccion_rJMwIyp5m",
+      "position": 1,
+      "resource_type": null,
+      "revision_id": "0307595b-d1ff-4d1d-b9b4-c7a5ca2385df",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.produccion.gob.ar/api/files/mercados-en-curso.csv/download",
+      "url_type": null
+    }
+  ],
+  "revision_id": "eec611ad-fde5-4342-997a-d1a05ae88fe9",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "Comercio",
+      "id": "5d89066f-3127-4103-8c37-d929e6845329",
+      "name": "Comercio",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Comercio local",
+      "id": "9939a650-4167-4a31-8ecf-07d825b7a910",
+      "name": "Comercio local",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "El Mercado en tu Barrio",
+      "id": "17cb1107-7006-4803-8239-00969e5507de",
+      "name": "El Mercado en tu Barrio",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Supermercados",
+      "id": "c539cc4f-f9ac-497b-9ad8-0751229aa685",
+      "name": "Supermercados",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "El Mercado en tu Barrio",
+  "type": "dataset",
+  "url": "http://datos.produccion.gob.ar/dataset/el-mercado-en-tu-barrio",
+  "version": null
+}

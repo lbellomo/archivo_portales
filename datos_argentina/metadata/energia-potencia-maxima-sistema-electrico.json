@@ -1,0 +1,132 @@
+{
+  "author": "Ministerio de Energía y Minería.Secretaría de Coordinación de Planeamiento Energético.Dirección Nacional de Información Energética.Tecnología de la Información.",
+  "author_email": "tienerg@energia.gob.ar",
+  "creator_user_id": "4720e75a-9e17-4dc3-879d-041917c7f9f9",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "eventual"
+    },
+    {
+      "key": "issued",
+      "value": "2016-12-28T15:32:54.566507"
+    },
+    {
+      "key": "modified",
+      "value": "2020-01-16T19:43:03.535743"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"ENER\"]"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Energía",
+      "display_name": "Energía",
+      "id": "a4d3f632-eb48-4163-9791-165989c16035",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225337.421630energia.svg",
+      "name": "ener",
+      "title": "Energía"
+    }
+  ],
+  "id": "energia_6dd0bcd6-b339-408e-8a6e-e5021ed42f2d",
+  "isopen": false,
+  "license_id": "notspecified",
+  "license_title": "No se especificó la licencia",
+  "maintainer": "Ministerio de Energía y Minería.Secretaría de Energía Eléctrica.",
+  "maintainer_email": null,
+  "metadata_created": "2019-11-26T15:00:09.485497",
+  "metadata_modified": "2021-04-29T17:17:53.877815",
+  "name": "energia-potencia-maxima-sistema-electrico",
+  "notes": "Evolución de la potencia máxima mensual del sistema interconectado nacional - período 1980 - 2017 en MW",
+  "num_resources": 2,
+  "num_tags": 2,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:09.221510",
+    "description": "",
+    "id": "cd1b32a2-2d3a-44ac-8c98-a425a7b62d42",
+    "image_url": "",
+    "is_organization": true,
+    "name": "energia",
+    "revision_id": "a184cf69-99ad-4f84-a254-020031d7fe63",
+    "state": "active",
+    "title": "Secretaría de Energía",
+    "type": "organization"
+  },
+  "owner_org": "cd1b32a2-2d3a-44ac-8c98-a425a7b62d42",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "http://datos.minem.gob.ar/dataset/6dd0bcd6-b339-408e-8a6e-e5021ed42f2d/resource/5183b95b-bf24-4246-ab92-aa036050b406",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2016-12-28T12:34:39.654026",
+      "datastore_active": false,
+      "description": "Evolución de la potencia máxima mensual del sistema interconectado nacional- Período 1980 - jun 2017 -  En MW.  A partir del año 2006 se integran el sistema SIN (Sistema Interconectado Nacional) con el SIP (Sistema Interconectado Patagónico).",
+      "format": "XLS",
+      "hash": "",
+      "id": "energia_5183b95b-bf24-4246-ab92-aa036050b406",
+      "last_modified": "2020-01-16T16:09:44.697892",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Potencia Máxima del Sistema Eléctrico ",
+      "package_id": "energia_6dd0bcd6-b339-408e-8a6e-e5021ed42f2d",
+      "position": 0,
+      "resource_type": null,
+      "revision_id": "4d01a3a5-fa88-4246-90d8-d82cda9711e8",
+      "size": null,
+      "state": "active",
+      "url": "http://www.energia.gob.ar/contenidos/archivos/Reorganizacion/informacion_del_mercado/publicaciones/mercado_electrico/historicos/evoluc-pot-maxsistema-hasta-junio-2017.xls",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos.minem.gob.ar/dataset/6dd0bcd6-b339-408e-8a6e-e5021ed42f2d/resource/2f675add-c7de-4f63-ac0b-2ec932914e04",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-08-11T11:22:45.670174",
+      "datastore_active": false,
+      "description": "Evolución de la potencia máxima mensual del sistema interconectado nacional- Período 1980 - jun 2017 -  En MW.  A partir del año 2006 se integran el sistema SIN (Sistema Interconectado Nacional) con el SIP (Sistema Interconectado Patagónico). ",
+      "format": "CSV",
+      "hash": "",
+      "id": "energia_2f675add-c7de-4f63-ac0b-2ec932914e04",
+      "last_modified": "2020-01-16T16:43:03.506532",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Potencia Máxima del Sistema Eléctrico ",
+      "package_id": "energia_6dd0bcd6-b339-408e-8a6e-e5021ed42f2d",
+      "position": 1,
+      "resource_type": null,
+      "revision_id": "4d01a3a5-fa88-4246-90d8-d82cda9711e8",
+      "size": null,
+      "state": "active",
+      "url": "http://www.energia.gob.ar/contenidos/archivos/Reorganizacion/informacion_del_mercado/publicaciones/mercado_electrico/historicos/potencia-maxima-del-sistema-electrico-1980-2017.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "4d01a3a5-fa88-4246-90d8-d82cda9711e8",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "Electricidad",
+      "id": "485ec278-8308-4f37-993d-949cd25183d5",
+      "name": "Electricidad",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Generación de Energía Eléctrica",
+      "id": "bdfac485-4a3e-47e3-8ee0-60850e834019",
+      "name": "Generación de Energía Eléctrica",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Potencia Máxima del Sistema Eléctrico",
+  "type": "dataset",
+  "url": "http://www.energia.gob.ar/dataset/potencia-maxima-del-sistema-electrico-1980-2017",
+  "version": null
+}

@@ -1,0 +1,159 @@
+{
+  "author": "Ente Nacional de Comunicaciones (ENACOM)",
+  "author_email": "contacto@enacom.gob.ar",
+  "creator_user_id": "4720e75a-9e17-4dc3-879d-041917c7f9f9",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P1Y"
+    },
+    {
+      "key": "issued",
+      "value": "2018-09-19T14:40:43"
+    },
+    {
+      "key": "language",
+      "value": "[\"spa\"]"
+    },
+    {
+      "key": "modified",
+      "value": "2020-04-21T00:36:29Z"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"TECH\"]"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Ciencia y tecnología",
+      "display_name": "Ciencia y tecnología",
+      "id": "0dd7dd0e-aae8-402f-8660-f1e8b6b6084c",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225221.170833ciencia-tecnologia.svg",
+      "name": "tech",
+      "title": "Ciencia y tecnología"
+    }
+  ],
+  "id": "enacom_TOTAL-NACIO-DE-ACCES-40941",
+  "isopen": false,
+  "license_id": "notspecified",
+  "license_title": "No se especificó la licencia",
+  "maintainer": null,
+  "maintainer_email": null,
+  "metadata_created": "2019-11-26T14:55:49.974440",
+  "metadata_modified": "2021-04-29T17:04:36.769428",
+  "name": "enacom-total-nacional-accesos-television-por-suscripcion-television-satelital",
+  "notes": "Número total de acesos a televisión por suscripción y satelital (trimestral)",
+  "num_resources": 3,
+  "num_tags": 2,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:07.525331",
+    "description": "",
+    "id": "6eb7d19b-2d42-494f-8e57-d67c501d23eb",
+    "image_url": "",
+    "is_organization": true,
+    "name": "enacom",
+    "revision_id": "f2d2a5ad-7015-4d68-9d9c-5a82fadbbbf3",
+    "state": "active",
+    "title": "Ente Nacional de Comunicaciones",
+    "type": "organization"
+  },
+  "owner_org": "6eb7d19b-2d42-494f-8e57-d67c501d23eb",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/241322/total-nacional-de-accesos-a-television-por-suscripcion-y-television-satelital/",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2018-09-19T14:40:43",
+      "datastore_active": false,
+      "description": "Número total de acesos a televisión por suscripción y satelital (trimestral)",
+      "format": "CSV",
+      "hash": "",
+      "id": "enacom_TOTAL-NACIO-DE-ACCES-40941_0",
+      "last_modified": "2020-04-20T21:36:29",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Total nacional de accesos a televisión por suscripción y televisión satelital",
+      "package_id": "enacom_TOTAL-NACIO-DE-ACCES-40941",
+      "position": 0,
+      "resource_type": null,
+      "revision_id": "abfb1866-de30-497b-84c7-12931962282a",
+      "size": null,
+      "state": "active",
+      "url": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/TOTAL-NACIO-DE-ACCES-40941/data.csv?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/241322/total-nacional-de-accesos-a-television-por-suscripcion-y-television-satelital/",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2018-09-19T14:40:43",
+      "datastore_active": false,
+      "description": "Número total de acesos a televisión por suscripción y satelital (trimestral)",
+      "format": "XLS",
+      "hash": "",
+      "id": "enacom_TOTAL-NACIO-DE-ACCES-40941_1",
+      "last_modified": "2020-04-20T21:36:29",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Total nacional de accesos a televisión por suscripción y televisión satelital",
+      "package_id": "enacom_TOTAL-NACIO-DE-ACCES-40941",
+      "position": 1,
+      "resource_type": null,
+      "revision_id": "abfb1866-de30-497b-84c7-12931962282a",
+      "size": null,
+      "state": "active",
+      "url": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/TOTAL-NACIO-DE-ACCES-40941/data.xls?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/241322/total-nacional-de-accesos-a-television-por-suscripcion-y-television-satelital/",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2018-09-19T14:40:43",
+      "datastore_active": false,
+      "description": "Número total de acesos a televisión por suscripción y satelital (trimestral)",
+      "format": "JSON",
+      "hash": "",
+      "id": "enacom_TOTAL-NACIO-DE-ACCES-40941_2",
+      "last_modified": "2020-04-20T21:36:29",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Total nacional de accesos a televisión por suscripción y televisión satelital",
+      "package_id": "enacom_TOTAL-NACIO-DE-ACCES-40941",
+      "position": 2,
+      "resource_type": null,
+      "revision_id": "e0d94b3e-1fdc-4ee0-a819-df0352b1ed44",
+      "size": null,
+      "state": "active",
+      "url": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/TOTAL-NACIO-DE-ACCES-40941/data.json?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1",
+      "url_type": null
+    }
+  ],
+  "revision_id": "cc780f0b-527c-4d17-9a10-bbb467ba8f41",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "televisión por suscripción",
+      "id": "fe33a46f-da15-4f4b-8a73-95580b2e90a7",
+      "name": "televisión por suscripción",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "televisión satelital",
+      "id": "d6a3772c-7421-4a50-aa99-e65cc292f651",
+      "name": "televisión satelital",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Total nacional de accesos a televisión por suscripción y televisión satelital",
+  "type": "dataset",
+  "url": "http://api.datosabiertos.enacom.gob.ar/dataset/enacom-total-nacional-accesos-television-por-suscripcion-television-satelital",
+  "version": null
+}

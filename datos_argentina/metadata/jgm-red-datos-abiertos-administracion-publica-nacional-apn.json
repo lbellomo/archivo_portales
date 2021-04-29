@@ -1,0 +1,229 @@
+{
+  "author": "Jefatura de Gabinete de Ministros. Secretaría de Innovación Pública. Subsecretaría de Gobierno Abierto y País Digital.",
+  "author_email": "datosargentina@jefatura.gob.ar",
+  "creator_user_id": "dc157489-51c6-44ce-bd63-3bd983d60778",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "eventual"
+    },
+    {
+      "key": "issued",
+      "value": "2018-09-06T00:00:00"
+    },
+    {
+      "key": "language",
+      "value": "[\"SPA\"]"
+    },
+    {
+      "key": "modified",
+      "value": "2020-01-29"
+    },
+    {
+      "key": "spatial",
+      "value": "ARG"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"GOVE\"]"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Gobierno y sector público",
+      "display_name": "Gobierno y sector público",
+      "id": "e6f07c77-3987-4e71-98a6-731b1aaf74f4",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225353.395233gobierno-sector-publico.svg",
+      "name": "gove",
+      "title": "Gobierno y sector público"
+    }
+  ],
+  "id": "jgm_9",
+  "isopen": true,
+  "license_id": "CC-BY-4.0",
+  "license_title": "Creative Commons Attribution 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "maintainer": "Secretaría de Innovación Pública. Subsecretaría de Gobierno Abierto y País Digital.",
+  "maintainer_email": "datosargentina@jefatura.gob.ar",
+  "metadata_created": "2020-01-30T15:58:08.016908",
+  "metadata_modified": "2021-04-29T17:15:47.293962",
+  "name": "jgm-red-datos-abiertos-administracion-publica-nacional-apn",
+  "notes": "Datos sobre los catálogos de datos abiertos y los organismos que forman parte de la política de apertura de datos de la Administración Pública Nacional.",
+  "num_resources": 5,
+  "num_tags": 4,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:06.745974",
+    "description": "",
+    "id": "f917ad65-28ea-42a9-81ae-61a2bb8f58d0",
+    "image_url": "",
+    "is_organization": true,
+    "name": "jgm",
+    "revision_id": "ddd4eb90-3b5d-40d0-a290-414515935bf3",
+    "state": "active",
+    "title": " Jefatura de Gabinete de Ministros",
+    "type": "organization"
+  },
+  "owner_org": "f917ad65-28ea-42a9-81ae-61a2bb8f58d0",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "https://datos.gob.ar/dataset/jgm-red-datos-abiertos-administracion-publica-nacional-apn/archivo/jgm_9.1",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-05-29T00:00:00",
+      "datastore_active": false,
+      "description": "Listado de nodos de la APN que publican un catálogo de datos abiertos según los estándares del Perfil Nacional de Metadatos de Datos Abiertos (CSV).",
+      "fileName": "nodos.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "jgm_9.1",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Nodos (CSV)",
+      "package_id": "jgm_9",
+      "position": 0,
+      "resource_type": null,
+      "revision_id": "5e1de3d3-c140-443d-a20b-9cbe1bdc1468",
+      "size": null,
+      "state": "active",
+      "url": "https://monitoreo.datos.gob.ar/nodos.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://datos.gob.ar/dataset/jgm-red-datos-abiertos-administracion-publica-nacional-apn/archivo/jgm_9.2",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-05-29T00:00:00",
+      "datastore_active": false,
+      "description": "Listado de nodos de la APN que publican un catálogo de datos abiertos según los estándares del Perfil Nacional de Metadatos de Datos Abiertos (XLSX).",
+      "fileName": "nodos.xlsx",
+      "format": "XLSX",
+      "hash": "",
+      "id": "jgm_9.2",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Nodos (XLSX)",
+      "package_id": "jgm_9",
+      "position": 1,
+      "resource_type": null,
+      "revision_id": "5e1de3d3-c140-443d-a20b-9cbe1bdc1468",
+      "size": null,
+      "state": "active",
+      "url": "https://monitoreo.datos.gob.ar/nodos.xlsx",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://datos.gob.ar/dataset/jgm-red-datos-abiertos-administracion-publica-nacional-apn/archivo/jgm_9.3",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-05-29T00:00:00",
+      "datastore_active": false,
+      "description": "Listado de nodos de la APN que publican un catálogo de datos abiertos según los estándares del Perfil Nacional de Metadatos de Datos Abiertos (JSON).",
+      "fileName": "nodes.json",
+      "format": "JSON",
+      "hash": "",
+      "id": "jgm_9.3",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Nodos (JSON)",
+      "package_id": "jgm_9",
+      "position": 2,
+      "resource_type": null,
+      "revision_id": "5e1de3d3-c140-443d-a20b-9cbe1bdc1468",
+      "size": null,
+      "state": "active",
+      "url": "https://monitoreo.datos.gob.ar/nodes.json",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://datos.gob.ar/dataset/jgm-red-datos-abiertos-administracion-publica-nacional-apn/archivo/jgm_9.4",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-05-29T00:00:00",
+      "datastore_active": false,
+      "description": "Listado de distribuciones o recursos (archivos descargables o recursos en línea) documentados en los catálogos de la Red de Datos Abiertos de la APN (CSV).",
+      "fileName": "distribuciones.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "jgm_9.4",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Distribuciones (CSV)",
+      "package_id": "jgm_9",
+      "position": 3,
+      "resource_type": null,
+      "revision_id": "5e1de3d3-c140-443d-a20b-9cbe1bdc1468",
+      "size": null,
+      "state": "active",
+      "url": "https://infra.datos.gob.ar/catalog/modernizacion/dataset/8/distribution/8.3/download/distribuciones.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://datos.gob.ar/dataset/jgm-red-datos-abiertos-administracion-publica-nacional-apn/archivo/jgm_9.5",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-09-04T00:00:00",
+      "datastore_active": false,
+      "description": "Listado de distribuciones o recursos (archivos descargables o recursos en línea) documentados en los catálogos de la Red de Datos Abiertos de la APN (XLSX).",
+      "fileName": "distribuciones.xlsx",
+      "format": "XLSX",
+      "hash": "",
+      "id": "jgm_9.5",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Distribuciones (XLSX)",
+      "package_id": "jgm_9",
+      "position": 4,
+      "resource_type": null,
+      "revision_id": "5e1de3d3-c140-443d-a20b-9cbe1bdc1468",
+      "size": null,
+      "state": "active",
+      "url": "https://monitoreo.datos.gob.ar/distribuciones.xlsx",
+      "url_type": null
+    }
+  ],
+  "revision_id": "d0d18520-07f9-4f9e-a70c-16d2933947af",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "Gobierno y sector público",
+      "id": "cabcb959-4dbc-4a58-b35e-dfd1f6d6ae5f",
+      "name": "Gobierno y sector público",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "catalogos",
+      "id": "4871191b-f8cf-4ffb-8098-e42ed496d871",
+      "name": "catalogos",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "datos abiertos",
+      "id": "8933b506-a681-4f9e-aeb9-4a3603ca2821",
+      "name": "datos abiertos",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "nodos",
+      "id": "10d79f2b-2c77-4c7e-b4f7-d4718b900c70",
+      "name": "nodos",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Red de Datos Abiertos de la Administración Pública Nacional (APN)",
+  "type": "dataset",
+  "url": "https://datos.gob.ar/dataset/jgm-red-datos-abiertos-apn",
+  "version": null
+}

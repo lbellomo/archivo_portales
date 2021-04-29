@@ -1,0 +1,148 @@
+{
+  "author": "Ministerio de Producción. Secretaría de Transformación Productiva. Subsecretaría de Desarrollo y Planeamiento Productivo.",
+  "author_email": "datos@produccion.gob.ar",
+  "creator_user_id": "4720e75a-9e17-4dc3-879d-041917c7f9f9",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P1M"
+    },
+    {
+      "key": "issued",
+      "value": "2018-06-12"
+    },
+    {
+      "key": "language",
+      "value": "[\"SPA\"]"
+    },
+    {
+      "key": "source",
+      "value": "Ministerio de Producción. Secretaría de la Transformación Productiva. Subsecretaría de Desarrollo y Planeamiento Productivo."
+    },
+    {
+      "key": "spatial",
+      "value": "ARG"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"ECON\"]"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Economía y finanzas",
+      "display_name": "Economía y finanzas",
+      "id": "60b4b03e-10a1-4d67-b984-08008a249617",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225257.200233economia-finanzas.svg",
+      "name": "econ",
+      "title": "Economía y finanzas"
+    }
+  ],
+  "id": "siep_8",
+  "isopen": true,
+  "license_id": "CC-BY-4.0",
+  "license_title": "Creative Commons Attribution 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "maintainer": "Ministerio de Producción. Secretaría de la Transformación Productiva. Subsecretaría de Desarrollo y Planeamiento Productivo.",
+  "maintainer_email": "datos@produccion.gob.ar",
+  "metadata_created": "2019-11-26T15:02:25.969948",
+  "metadata_modified": "2021-04-29T17:05:09.285155",
+  "name": "siep-indicadores-sectoriales-energia",
+  "notes": "Resumen de los principales indicadores del sector de Energía.",
+  "num_resources": 1,
+  "num_tags": 6,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:10.618326",
+    "description": "",
+    "id": "83a04686-747a-4ba3-a0b1-2f05c3196bc4",
+    "image_url": "",
+    "is_organization": true,
+    "name": "siep",
+    "revision_id": "23a30f6e-13f4-45a1-8e98-d49541d6ce75",
+    "state": "active",
+    "title": "Secretaría de Transformación Productiva",
+    "type": "organization"
+  },
+  "owner_org": "83a04686-747a-4ba3-a0b1-2f05c3196bc4",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "http://estadisticas.produccion.gob.ar/",
+      "attributesDescription": "[{\"title\": \"indice_tiempo\", \"type\": \"date\", \"specialType\": \"time_index\", \"specialTypeDetail\": \"R/P1M\", \"description\": \"\\u00cdndice de tiempo de las series\", \"id\": \"Precio_petroleo_b3Rkzq\"}, {\"title\": \"valor\", \"type\": \"number\", \"description\": \"Energ\\u00eda: precio internacional del petr\\u00f3leo\", \"id\": \"Precio_petroleo_RgR2vi\", \"units\": \"D\\u00f3lares por barril\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2018-06-12T00:00:00",
+      "datastore_active": false,
+      "description": "Energía: precio internacional del petróleo en formato de series",
+      "fileName": "precio-petro-series.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "siep_8.1",
+      "last_modified": "2018-09-28T00:00:00",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Energía: precio internacional del petróleo (series)",
+      "package_id": "siep_8",
+      "position": 0,
+      "resource_type": "file",
+      "revision_id": "e857ddf1-39b4-4efc-b7ef-9956ceec3d3a",
+      "size": null,
+      "state": "active",
+      "url": "http://estadisticas.produccion.gob.ar/app/dataset/8/distribution/8.1/precio-petro-series.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "e857ddf1-39b4-4efc-b7ef-9956ceec3d3a",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "Energía",
+      "id": "458a763f-0d87-42dc-9cad-7aca53b6d204",
+      "name": "Energía",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Precios",
+      "id": "308c2aaf-f177-4728-bda5-fd41662741a2",
+      "name": "Precios",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "indicador",
+      "id": "9a05b182-e758-4dcc-af49-080e396255ce",
+      "name": "indicador",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "petróleo",
+      "id": "8fefce76-47b3-4002-96e7-7977bfb45df4",
+      "name": "petróleo",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "precio",
+      "id": "c270495f-6e37-40a3-a07d-77e3efa504fc",
+      "name": "precio",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "sector",
+      "id": "86e5b9d4-8b55-4472-89be-ca0d197f9fcc",
+      "name": "sector",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Indicadores Sectoriales de Energía",
+  "type": "dataset",
+  "url": "http://estadisticas.produccion.gob.ar/",
+  "version": null
+}

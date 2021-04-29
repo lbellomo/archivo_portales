@@ -1,0 +1,140 @@
+{
+  "author": "Ministerio de Energía y Minería.Secretaría de Coordinación de Planeamiento Energético.Dirección Nacional de Información Energética.Tecnología de la Información.",
+  "author_email": "tienerg@energia.gob.ar",
+  "creator_user_id": "4720e75a-9e17-4dc3-879d-041917c7f9f9",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "eventual"
+    },
+    {
+      "key": "issued",
+      "value": "2016-11-07T13:33:34.985951"
+    },
+    {
+      "key": "modified",
+      "value": "2018-09-12T10:42:59.629017"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"ENER\"]"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Energía",
+      "display_name": "Energía",
+      "id": "a4d3f632-eb48-4163-9791-165989c16035",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225337.421630energia.svg",
+      "name": "ener",
+      "title": "Energía"
+    }
+  ],
+  "id": "energia_5210866d-2caf-43fd-95d8-085dc18f39cc",
+  "isopen": false,
+  "license_id": "notspecified",
+  "license_title": "No se especificó la licencia",
+  "maintainer": "Ministerio de Energía y Minería.Secretaría de Planeamiento Energético Estratégico.Subsecretaría de Escenarios y Evaluación de Proyectos.",
+  "maintainer_email": null,
+  "metadata_created": "2019-11-26T15:00:30.208867",
+  "metadata_modified": "2021-04-29T17:17:39.505523",
+  "name": "energia-produccion-gas-natural-desde-1950",
+  "notes": "Serie de datos de producción de gas natural en Argentina desde el año 1950. La misma fue confeccionada por la Subsecretaría de Escenarios y Evaluación de Proyectos de la Secretaría de Planeamiento Energético Estratégico del Ministerio de Energía y Minería de la Nación, y surge del empalme de series disponibles en otras fuentes oficiales.",
+  "num_resources": 2,
+  "num_tags": 3,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:09.221510",
+    "description": "",
+    "id": "cd1b32a2-2d3a-44ac-8c98-a425a7b62d42",
+    "image_url": "",
+    "is_organization": true,
+    "name": "energia",
+    "revision_id": "a184cf69-99ad-4f84-a254-020031d7fe63",
+    "state": "active",
+    "title": "Secretaría de Energía",
+    "type": "organization"
+  },
+  "owner_org": "cd1b32a2-2d3a-44ac-8c98-a425a7b62d42",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "http://datos.minem.gob.ar/dataset/5210866d-2caf-43fd-95d8-085dc18f39cc/resource/0622e111-dbfd-45e9-bf94-bdce83b978c0",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-05-04T21:59:56.627571",
+      "datastore_active": false,
+      "description": "",
+      "fileName": "producciongasnaturaldesde-1950.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "energia_0622e111-dbfd-45e9-bf94-bdce83b978c0",
+      "last_modified": "2018-09-12T10:17:21.137926",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Producción Gas Natural desde 1950",
+      "package_id": "energia_5210866d-2caf-43fd-95d8-085dc18f39cc",
+      "position": 0,
+      "resource_type": "file",
+      "revision_id": "f9481800-5131-48a2-92cc-7d8cf3b2fde5",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.minem.gob.ar/dataset/5210866d-2caf-43fd-95d8-085dc18f39cc/resource/0622e111-dbfd-45e9-bf94-bdce83b978c0/download/producciongasnaturaldesde-1950.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos.minem.gob.ar/dataset/5210866d-2caf-43fd-95d8-085dc18f39cc/resource/b4b77198-e0fa-4621-ad39-50d0bd33180a",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2018-05-02T14:00:06.534665",
+      "datastore_active": false,
+      "description": "Producción gas natural desde 1950 - Documento Metodológico",
+      "format": "PDF",
+      "hash": "",
+      "id": "energia_b4b77198-e0fa-4621-ad39-50d0bd33180a",
+      "last_modified": "2020-01-13T17:16:50.337571",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Producción gas natural desde 1950 - Documento Metodológico",
+      "package_id": "energia_5210866d-2caf-43fd-95d8-085dc18f39cc",
+      "position": 1,
+      "resource_type": null,
+      "revision_id": "3c71b93b-35e1-4eca-9df9-1cadf0ceddff",
+      "size": null,
+      "state": "active",
+      "url": "http://www.energia.gob.ar/contenidos/archivos/Reorganizacion/informacion_del_mercado/publicaciones/mercado_hidrocarburos/produccion_desde_1950/serieproducciondegasnaturalenargentinadesde1950.pdf",
+      "url_type": null
+    }
+  ],
+  "revision_id": "4562768d-a76e-4734-ab5f-77b33826c8ca",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "ENARGAS",
+      "id": "712fae2f-b93f-4618-852c-6560282fa0d3",
+      "name": "ENARGAS",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Gas",
+      "id": "eed5254c-896b-4775-be02-1f8b96553271",
+      "name": "Gas",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Producción",
+      "id": "e43bd381-9301-4aa7-a861-35fc73f7fa2c",
+      "name": "Producción",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Producción Gas Natural desde 1950",
+  "type": "dataset",
+  "url": "http://datos.minem.gob.ar/dataset/",
+  "version": null
+}

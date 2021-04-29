@@ -1,0 +1,148 @@
+{
+  "author": "Subsecretaría de Agricultura Familiar y Desarrollo Territorial.",
+  "author_email": null,
+  "creator_user_id": "dc157489-51c6-44ce-bd63-3bd983d60778",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "eventual"
+    },
+    {
+      "key": "issued",
+      "value": "2019-09-17T20:12:22.894109"
+    },
+    {
+      "key": "language",
+      "value": "[\"spa\"]"
+    },
+    {
+      "key": "modified",
+      "value": "2019-12-26T15:40:59.138935"
+    },
+    {
+      "key": "spatial",
+      "value": "[\"ARG\"]"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"AGRI\"]"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Agroganadería, pesca y forestación",
+      "display_name": "Agroganadería, pesca y forestación",
+      "id": "0c35ea38-7059-41d2-9827-5587769d0dc6",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225145.990789agroganaderia-pesca-forestacion.svg",
+      "name": "agri",
+      "title": "Agroganadería, pesca y forestación"
+    }
+  ],
+  "id": "agroindustria_6cfc8839-8532-4f74-977e-78120d6c3473",
+  "isopen": true,
+  "license_id": "CC-BY-4.0",
+  "license_title": "Creative Commons Attribution 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "maintainer": null,
+  "maintainer_email": null,
+  "metadata_created": "2020-12-04T16:39:46.816710",
+  "metadata_modified": "2021-04-29T17:16:21.724363",
+  "name": "agroindustria-agricultura-familiar---huertas-por-provincia",
+  "notes": "Datos de la cantidad de huertas en cada provincia.",
+  "num_resources": 1,
+  "num_tags": 6,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:07.834957",
+    "description": "",
+    "id": "b10c94e2-ade1-4a97-8c4c-b1ada7878d60",
+    "image_url": "",
+    "is_organization": true,
+    "name": "agroindustria",
+    "revision_id": "f7c3b6e9-d48f-4522-9f7a-388d805c8392",
+    "state": "active",
+    "title": "Ministerio de Agricultura, Ganadería y Pesca",
+    "type": "organization"
+  },
+  "owner_org": "b10c94e2-ade1-4a97-8c4c-b1ada7878d60",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "http://datos.agroindustria.gob.ar/dataset/6cfc8839-8532-4f74-977e-78120d6c3473/resource/8a59e6d5-2f42-4719-8092-093e141a3b1a",
+      "attributesDescription": "[{\"type\": \"integer\", \"description\": \"C\\u00f3digo de la provincia.\", \"title\": \"provincia_id\"}, {\"type\": \"string\", \"description\": \"Nombre de la provincia.\", \"title\": \"provincia\"}, {\"type\": \"integer\", \"description\": \"Datos del a\\u00f1o 2016.\", \"title\": \"2016\"}, {\"type\": \"integer\", \"description\": \"Datos del a\\u00f1o 2017.\", \"title\": \"2017\"}, {\"type\": \"integer\", \"description\": \"Datos del a\\u00f1o 2018.\", \"title\": \"2018\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-09-17T17:16:33.538822",
+      "datastore_active": false,
+      "description": "El indicador permite determinar la variación en la cantidad de huertas familiares que se encuentran en funcionamiento.",
+      "fileName": "huertas-familiares-por-provincia.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "agroindustria_8a59e6d5-2f42-4719-8092-093e141a3b1a",
+      "last_modified": "2019-12-30T08:59:42.651723",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Cantidad de huertas familiares por provincia",
+      "package_id": "agroindustria_6cfc8839-8532-4f74-977e-78120d6c3473",
+      "position": 0,
+      "resource_type": "file.upload",
+      "revision_id": "d2f51fde-fa32-45d7-8f7d-b24674714dd1",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.agroindustria.gob.ar/dataset/6cfc8839-8532-4f74-977e-78120d6c3473/resource/8a59e6d5-2f42-4719-8092-093e141a3b1a/download/huertas-familiares-por-provincia.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "d2f51fde-fa32-45d7-8f7d-b24674714dd1",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "agricultura familiar",
+      "id": "4253a7fd-ee18-42e9-b469-d3d4b7392da2",
+      "name": "agricultura familiar",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "huertas",
+      "id": "ccc9a31b-a67e-4046-bc68-59311728f725",
+      "name": "huertas",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "huertas familiar",
+      "id": "bc28c02a-832e-4f71-8e53-e20323475645",
+      "name": "huertas familiar",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "pro-huerta",
+      "id": "68451dc6-a57c-4e6f-a044-5a40f0085285",
+      "name": "pro-huerta",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "producción agroecologica",
+      "id": "27009e77-0b86-4351-8a66-907ce74d90fe",
+      "name": "producción agroecologica",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "seguridad alimentaria",
+      "id": "3d8ab18d-33fd-4fb6-9e1c-a6ac5cee0432",
+      "name": "seguridad alimentaria",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Agricultura familiar - Huertas por provincia",
+  "type": "dataset",
+  "url": "https://datos.agroindustria.gob.ar/dataset/agricultura-familiar-huertas-por-provincia",
+  "version": null
+}

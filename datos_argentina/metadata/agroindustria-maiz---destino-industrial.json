@@ -1,0 +1,155 @@
+{
+  "author": "Subsecretaría de Mercados Agropecuarios",
+  "author_email": "sma@magyp.gob.ar",
+  "creator_user_id": "dc157489-51c6-44ce-bd63-3bd983d60778",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P1M"
+    },
+    {
+      "key": "issued",
+      "value": "2018-12-07T21:26:52.877005"
+    },
+    {
+      "key": "language",
+      "value": "[\"spa\"]"
+    },
+    {
+      "key": "modified",
+      "value": "2019-10-24T10:41:44.982903"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"AGRI\"]"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Agroganadería, pesca y forestación",
+      "display_name": "Agroganadería, pesca y forestación",
+      "id": "0c35ea38-7059-41d2-9827-5587769d0dc6",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225145.990789agroganaderia-pesca-forestacion.svg",
+      "name": "agri",
+      "title": "Agroganadería, pesca y forestación"
+    }
+  ],
+  "id": "agroindustria_de482fcc-ecbb-4a79-8211-76d42c862048",
+  "isopen": true,
+  "license_id": "CC-BY-4.0",
+  "license_title": "Creative Commons Attribution 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "maintainer": null,
+  "maintainer_email": null,
+  "metadata_created": "2019-12-04T20:00:51.263629",
+  "metadata_modified": "2021-04-29T17:10:01.471122",
+  "name": "agroindustria-maiz---destino-industrial",
+  "notes": "Granos de Maíz en toneladas que ingresan a la industria.",
+  "num_resources": 2,
+  "num_tags": 4,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:07.834957",
+    "description": "",
+    "id": "b10c94e2-ade1-4a97-8c4c-b1ada7878d60",
+    "image_url": "",
+    "is_organization": true,
+    "name": "agroindustria",
+    "revision_id": "f7c3b6e9-d48f-4522-9f7a-388d805c8392",
+    "state": "active",
+    "title": "Ministerio de Agricultura, Ganadería y Pesca",
+    "type": "organization"
+  },
+  "owner_org": "b10c94e2-ade1-4a97-8c4c-b1ada7878d60",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "http://datos.agroindustria.gob.ar/dataset/de482fcc-ecbb-4a79-8211-76d42c862048/resource/60387474-a248-42dd-8967-5c78a557cdd8",
+      "attributesDescription": "[{\"type\": \"integer\", \"description\": \"id_pais\", \"title\": \"id_pais\"}, {\"type\": \"string\", \"description\": \"nom_pais\", \"title\": \"nom_pais\"}, {\"type\": \"integer\", \"description\": \"a\\u00f1o\", \"title\": \"a\\u00f1o\"}, {\"type\": \"string\", \"description\": \"unidad_id\", \"title\": \"unidad_id\"}, {\"type\": \"string\", \"description\": \"nombre_unidad\", \"title\": \"nombre_unidad\"}, {\"type\": \"number\", \"description\": \"enero\", \"title\": \"enero\"}, {\"type\": \"number\", \"description\": \"febrero\", \"title\": \"febrero\"}, {\"type\": \"number\", \"description\": \"marzo\", \"title\": \"marzo\"}, {\"type\": \"number\", \"description\": \"abril\", \"title\": \"abril\"}, {\"type\": \"number\", \"description\": \"mayo\", \"title\": \"mayo\"}, {\"type\": \"number\", \"description\": \"junio\", \"title\": \"junio\"}, {\"type\": \"number\", \"description\": \"julio\", \"title\": \"julio\"}, {\"type\": \"number\", \"description\": \"agosto\", \"title\": \"agosto\"}, {\"type\": \"number\", \"description\": \"septiembre\", \"title\": \"septiembre\"}, {\"type\": \"number\", \"description\": \"octubre\", \"title\": \"octubre\"}, {\"type\": \"number\", \"description\": \"noviembre\", \"title\": \"noviembre\"}, {\"type\": \"number\", \"description\": \"diciembre\", \"title\": \"diciembre\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2018-10-11T18:44:47.707336",
+      "datastore_active": false,
+      "description": "Granos de Maíz expresados en toneladas que ingresan a la industria.\r\nEl año comercial rige desde Marzo a Febrero del año calendario siguiente.",
+      "fileName": "maiz-con-destino-a-la-industria-.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "agroindustria_60387474-a248-42dd-8967-5c78a557cdd8",
+      "last_modified": "2019-01-31T15:34:29.238696",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Maiz con destino a la industria",
+      "package_id": "agroindustria_de482fcc-ecbb-4a79-8211-76d42c862048",
+      "position": 0,
+      "resource_type": "file.upload",
+      "revision_id": "d9d548df-8a4e-4f4e-ba1c-71044ce63412",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.agroindustria.gob.ar/dataset/de482fcc-ecbb-4a79-8211-76d42c862048/resource/60387474-a248-42dd-8967-5c78a557cdd8/download/maiz-con-destino-a-la-industria-.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos.agroindustria.gob.ar/dataset/de482fcc-ecbb-4a79-8211-76d42c862048/resource/cb9e7399-b8ce-4979-a273-75a1cd285fa0",
+      "attributesDescription": "[{\"specialType\": \"time_index\", \"specialTypeDetail\": \"R/P1M\", \"type\": \"date\", \"title\": \"indice_tiempo\"}, {\"units\": \"tonelada\", \"id\": \"AGRO_0204\", \"type\": \"integer\", \"description\": \"Ma\\u00edz con destino a la industria\", \"title\": \"maiz_destino_industria\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-05-17T10:19:52.627158",
+      "datastore_active": false,
+      "description": "Serie de Tiempo del maíz con destino a la industria desde el año 1950 a la actualidad",
+      "fileName": "serie-maiz-con-destino-a-la-industria.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "agroindustria_cb9e7399-b8ce-4979-a273-75a1cd285fa0",
+      "last_modified": "2019-11-01T09:16:06.212394",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Serie de Tiempo del maíz con destino a la industria",
+      "package_id": "agroindustria_de482fcc-ecbb-4a79-8211-76d42c862048",
+      "position": 1,
+      "resource_type": "file.upload",
+      "revision_id": "d9d548df-8a4e-4f4e-ba1c-71044ce63412",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.agroindustria.gob.ar/dataset/de482fcc-ecbb-4a79-8211-76d42c862048/resource/cb9e7399-b8ce-4979-a273-75a1cd285fa0/download/serie-maiz-con-destino-a-la-industria.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "4a767a41-5715-4bc2-9b0e-e8f6f610772a",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "agroalimentos",
+      "id": "e7f8750d-99e4-4207-8569-95cc40c1d55d",
+      "name": "agroalimentos",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "alimentos",
+      "id": "de02fc97-e337-46eb-87a1-6f09e61ac2fa",
+      "name": "alimentos",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "maíz",
+      "id": "53ca583a-0b77-4831-9274-30c7e1a4ea16",
+      "name": "maíz",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "mercados",
+      "id": "6d9c3d18-454a-4717-89ce-4e036d867102",
+      "name": "mercados",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Maíz - Destino industrial",
+  "type": "dataset",
+  "url": "https://datos.agroindustria.gob.ar/dataset/maiz-con-destino-industria",
+  "version": null
+}

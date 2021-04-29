@@ -1,0 +1,141 @@
+{
+  "author": "Dirección Nacional Electoral",
+  "author_email": null,
+  "creator_user_id": "4720e75a-9e17-4dc3-879d-041917c7f9f9",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P2Y"
+    },
+    {
+      "key": "issued",
+      "value": "2017-12-12T04:41:34.883729"
+    },
+    {
+      "key": "modified",
+      "value": "2017-12-13T11:58:38.482376"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"GOVE\"]"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Gobierno y sector público",
+      "display_name": "Gobierno y sector público",
+      "id": "e6f07c77-3987-4e71-98a6-731b1aaf74f4",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225353.395233gobierno-sector-publico.svg",
+      "name": "gove",
+      "title": "Gobierno y sector público"
+    }
+  ],
+  "id": "interior_3d510b38-4744-44e7-a1f2-2c5a0a2696dd",
+  "isopen": false,
+  "license_id": "notspecified",
+  "license_title": "No se especificó la licencia",
+  "maintainer": null,
+  "maintainer_email": null,
+  "metadata_created": "2019-11-26T14:57:01.904655",
+  "metadata_modified": "2021-04-29T17:17:38.468890",
+  "name": "interior-resultados-definitivos-elecciones-paso-2017",
+  "notes": "Resultados Definitivos Elecciones PASO 2017 - Desagregado por Distrito Electoral",
+  "num_resources": 2,
+  "num_tags": 3,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:10.155022",
+    "description": "",
+    "id": "c88b1ad1-f78d-4cf9-848d-d73ccae6cd8e",
+    "image_url": "",
+    "is_organization": true,
+    "name": "interior",
+    "revision_id": "e67eb335-8122-437e-8616-a002d02f7076",
+    "state": "active",
+    "title": " Ministerio del Interior",
+    "type": "organization"
+  },
+  "owner_org": "c88b1ad1-f78d-4cf9-848d-d73ccae6cd8e",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "https://datos.mininterior.gob.ar/dataset/3d510b38-4744-44e7-a1f2-2c5a0a2696dd/resource/ef7321f6-64c6-4d95-bac8-3d8576df550f",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-12-12T04:43:49.696213",
+      "datastore_active": false,
+      "description": "Resultados Definitivos - Elecciones PASO 2017 - Senadores Nacionales - Desagregados por Distrito Electoral.",
+      "fileName": "paso-2017definitivosndistrito.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "interior_ef7321f6-64c6-4d95-bac8-3d8576df550f",
+      "last_modified": "2017-12-12T20:09:28.580668",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Resultados Definitivos - Elecciones PASO 2017 - Senadores Nacionales",
+      "package_id": "interior_3d510b38-4744-44e7-a1f2-2c5a0a2696dd",
+      "position": 0,
+      "resource_type": null,
+      "revision_id": "1644d69d-d45b-4e64-809e-f3707a736660",
+      "size": null,
+      "state": "active",
+      "url": "https://datos.mininterior.gob.ar/dataset/3d510b38-4744-44e7-a1f2-2c5a0a2696dd/resource/ef7321f6-64c6-4d95-bac8-3d8576df550f/download/paso-2017definitivosndistrito.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://datos.mininterior.gob.ar/dataset/3d510b38-4744-44e7-a1f2-2c5a0a2696dd/resource/c13ca10c-9f61-40bd-a953-83bf6252e057",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-12-12T04:55:03.362736",
+      "datastore_active": false,
+      "description": "Resultados Definitivos - Elecciones PASO 2017 - Diputados Nacionales - Desagregados por Distrito Electoral.",
+      "fileName": "definitivopaso2017dntotaldistrito.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "interior_c13ca10c-9f61-40bd-a953-83bf6252e057",
+      "last_modified": "2017-12-12T04:49:28.604081",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Resultados Definitivos - Elecciones PASO 2017 - Diputados Nacionales",
+      "package_id": "interior_3d510b38-4744-44e7-a1f2-2c5a0a2696dd",
+      "position": 1,
+      "resource_type": null,
+      "revision_id": "1644d69d-d45b-4e64-809e-f3707a736660",
+      "size": null,
+      "state": "active",
+      "url": "https://datos.mininterior.gob.ar/dataset/3d510b38-4744-44e7-a1f2-2c5a0a2696dd/resource/c13ca10c-9f61-40bd-a953-83bf6252e057/download/definitivopaso2017dntotaldistrito.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "390d6390-c9b4-43e4-b942-d9ad087f0826",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "Elecciones",
+      "id": "621c26a4-bb93-4f03-a7f5-fc2ee4eca073",
+      "name": "Elecciones",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Elecciones PASO",
+      "id": "c8fd326d-e54d-423f-a93d-19e1ebdf2680",
+      "name": "Elecciones PASO",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Resultados definitivos",
+      "id": "60843475-1ab3-49be-ab9a-bb31084fc6db",
+      "name": "Resultados definitivos",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Resultados Definitivos Elecciones PASO 2017",
+  "type": "dataset",
+  "url": "https://datos.mininterior.gob.ar/dataset/resultados-definitivos-elecciones-paso-2017",
+  "version": null
+}

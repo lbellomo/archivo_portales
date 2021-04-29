@@ -1,0 +1,176 @@
+{
+  "author": "Ministerio de Producción. Secretaría de Transformación Productiva. Subsecretaría de Desarrollo y Planeamiento Productivo.",
+  "author_email": "datos@produccion.gob.ar",
+  "creator_user_id": "4720e75a-9e17-4dc3-879d-041917c7f9f9",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P1M"
+    },
+    {
+      "key": "issued",
+      "value": "2018-06-12"
+    },
+    {
+      "key": "language",
+      "value": "[\"SPA\"]"
+    },
+    {
+      "key": "source",
+      "value": "Ministerio de Producción. Secretaría de la Transformación Productiva. Subsecretaría de Desarrollo y Planeamiento Productivo."
+    },
+    {
+      "key": "spatial",
+      "value": "ARG"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"ECON\"]"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Economía y finanzas",
+      "display_name": "Economía y finanzas",
+      "id": "60b4b03e-10a1-4d67-b984-08008a249617",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225257.200233economia-finanzas.svg",
+      "name": "econ",
+      "title": "Economía y finanzas"
+    }
+  ],
+  "id": "siep_9",
+  "isopen": true,
+  "license_id": "CC-BY-4.0",
+  "license_title": "Creative Commons Attribution 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "maintainer": "Ministerio de Producción. Secretaría de la Transformación Productiva. Subsecretaría de Desarrollo y Planeamiento Productivo.",
+  "maintainer_email": "datos@produccion.gob.ar",
+  "metadata_created": "2019-11-26T15:02:39.072839",
+  "metadata_modified": "2021-04-29T17:05:09.122181",
+  "name": "siep-indicador-mensual-inversion",
+  "notes": "Indicador elaborado por la Secretaría de Transformación Productiva, el cual anticipa el dato de Formación Bruta de Capital Fijo de INDEC, basándose en 14 indicadores económicos de distintas fuentes. Se utiliza una metodología basada en Nowcast.",
+  "num_resources": 3,
+  "num_tags": 3,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:10.618326",
+    "description": "",
+    "id": "83a04686-747a-4ba3-a0b1-2f05c3196bc4",
+    "image_url": "",
+    "is_organization": true,
+    "name": "siep",
+    "revision_id": "23a30f6e-13f4-45a1-8e98-d49541d6ce75",
+    "state": "active",
+    "title": "Secretaría de Transformación Productiva",
+    "type": "organization"
+  },
+  "owner_org": "83a04686-747a-4ba3-a0b1-2f05c3196bc4",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "http://estadisticas.produccion.gob.ar/",
+      "attributesDescription": "[{\"title\": \"indice_tiempo\", \"type\": \"date\", \"specialType\": \"time_index\", \"specialTypeDetail\": \"R/P1M\", \"description\": \"\\u00cdndice de tiempo de las series\", \"id\": \"IMAI_5g5kfU\"}, {\"title\": \"1_nivel_general\", \"type\": \"number\", \"description\": \"Indicador Mensual Adelantado de Inversi\\u00f3n. Nivel general\", \"id\": \"IMAI_EOVKqw\", \"units\": \"\\u00cdndice - Enero 2004 = 100\"}, {\"title\": \"1_1_equipo_de_transporte\", \"type\": \"number\", \"description\": \"Indicador Mensual Adelantado de Inversi\\u00f3n. Equipo de transporte\", \"id\": \"IMAI_Ulmwdn\", \"units\": \"\\u00cdndice - Enero 2004 = 100\"}, {\"title\": \"1_2_construccion\", \"type\": \"number\", \"description\": \"Indicador Mensual Adelantado de Inversi\\u00f3n. Construccion\", \"id\": \"IMAI_B9WflB\", \"units\": \"\\u00cdndice - Enero 2004 = 100\"}, {\"title\": \"1_3_maquinaria_y_equipo\", \"type\": \"number\", \"description\": \"Indicador Mensual Adelantado de Inversi\\u00f3n. Maquinaria y equipo\", \"id\": \"IMAI_NWfdWs\", \"units\": \"\\u00cdndice - Enero 2004 = 100\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2018-06-12T00:00:00",
+      "datastore_active": false,
+      "description": "Indicador Mensual Adelantado de Inversión en formato de series",
+      "fileName": "imai-series.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "siep_9.1",
+      "last_modified": "2018-09-28T00:00:00",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Indicador Mensual Adelantado de Inversión (series)",
+      "package_id": "siep_9",
+      "position": 0,
+      "resource_type": "file",
+      "revision_id": "c13b2e37-28ea-4124-be7a-339954f133ea",
+      "size": null,
+      "state": "active",
+      "url": "http://estadisticas.produccion.gob.ar/app/dataset/9/distribution/9.1/imai-series.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://estadisticas.produccion.gob.ar/",
+      "attributesDescription": "[{\"title\": \"indice_tiempo\", \"type\": \"date\", \"description\": \"\\u00cdndice de tiempo de los datos de panel\", \"id\": \"IMAI_gPL8tg\"}, {\"title\": \"categoria\", \"type\": \"string\", \"description\": \"Categor\\u00eda\", \"id\": \"IMAI_Jo2i1X\"}, {\"title\": \"valor\", \"type\": \"number\", \"description\": \"Valor del Indicador Mensual Adelantado de Inversi\\u00f3n\", \"id\": \"IMAI_xrlM8s\", \"units\": \"\\u00cdndice - Enero 2004 = 100\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2018-06-12T00:00:00",
+      "datastore_active": false,
+      "description": "Indicador Mensual Adelantado de Inversión en formato de datos de panel",
+      "fileName": "imai-panel.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "siep_9.2",
+      "last_modified": "2018-09-28T00:00:00",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Indicador Mensual Adelantado de Inversión (panel)",
+      "package_id": "siep_9",
+      "position": 1,
+      "resource_type": "file",
+      "revision_id": "c13b2e37-28ea-4124-be7a-339954f133ea",
+      "size": null,
+      "state": "active",
+      "url": "http://estadisticas.produccion.gob.ar/app/dataset/9/distribution/9.2/imai-panel.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://estadisticas.produccion.gob.ar/",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2018-06-12T00:00:00",
+      "datastore_active": false,
+      "description": "Documento metodológico del dataset Indicador Mensual Adelantado de Inversión",
+      "fileName": "imai-metodologia.pdf",
+      "format": "PDF",
+      "hash": "",
+      "id": "siep_9.3",
+      "last_modified": "2018-09-28T00:00:00",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Indicador Mensual Adelantado de Inversión: metodología",
+      "package_id": "siep_9",
+      "position": 2,
+      "resource_type": "documentation",
+      "revision_id": "f7ffc576-7476-45a2-8b93-b7f93a4877f5",
+      "size": null,
+      "state": "active",
+      "url": "http://estadisticas.produccion.gob.ar/app/documentos/imai-metodologia.pdf",
+      "url_type": null
+    }
+  ],
+  "revision_id": "c13b2e37-28ea-4124-be7a-339954f133ea",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "Inversión",
+      "id": "aed0dea3-f589-4ff2-9af8-a47df0c766d6",
+      "name": "Inversión",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "imai",
+      "id": "3ce5a8e6-a3f2-497a-9c30-a3b4df652a95",
+      "name": "imai",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "indicador",
+      "id": "9a05b182-e758-4dcc-af49-080e396255ce",
+      "name": "indicador",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Indicador Mensual de Inversión",
+  "type": "dataset",
+  "url": "http://estadisticas.produccion.gob.ar/",
+  "version": null
+}

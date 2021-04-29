@@ -1,0 +1,209 @@
+{
+  "author": "Subsecretaría de Mercados Agropecuarios",
+  "author_email": "sma@magyp.gob.ar",
+  "creator_user_id": "dc157489-51c6-44ce-bd63-3bd983d60778",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P1M"
+    },
+    {
+      "key": "issued",
+      "value": "2018-12-07T21:26:41.347268"
+    },
+    {
+      "key": "language",
+      "value": "[\"spa\"]"
+    },
+    {
+      "key": "modified",
+      "value": "2019-10-24T11:08:40.707113"
+    },
+    {
+      "key": "spatial",
+      "value": "[\"ARG\"]"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"AGRI\"]"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Agroganadería, pesca y forestación",
+      "display_name": "Agroganadería, pesca y forestación",
+      "id": "0c35ea38-7059-41d2-9827-5587769d0dc6",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225145.990789agroganaderia-pesca-forestacion.svg",
+      "name": "agri",
+      "title": "Agroganadería, pesca y forestación"
+    }
+  ],
+  "id": "agroindustria_d1b9696f-95e5-4918-a59c-471c16082328",
+  "isopen": true,
+  "license_id": "CC-BY-4.0",
+  "license_title": "Creative Commons Attribution 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "maintainer": null,
+  "maintainer_email": null,
+  "metadata_created": "2019-12-04T21:12:45.390606",
+  "metadata_modified": "2021-04-29T17:06:51.571458",
+  "name": "agroindustria-trigo-pan---destino-industrial",
+  "notes": "Ingreso de granos de Trigo pan con destino a la industria molinera y balanceadora. Productos y subproductos obtenidos de la industria molinera.",
+  "num_resources": 4,
+  "num_tags": 4,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:07.834957",
+    "description": "",
+    "id": "b10c94e2-ade1-4a97-8c4c-b1ada7878d60",
+    "image_url": "",
+    "is_organization": true,
+    "name": "agroindustria",
+    "revision_id": "f7c3b6e9-d48f-4522-9f7a-388d805c8392",
+    "state": "active",
+    "title": "Ministerio de Agricultura, Ganadería y Pesca",
+    "type": "organization"
+  },
+  "owner_org": "b10c94e2-ade1-4a97-8c4c-b1ada7878d60",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "http://datos.agroindustria.gob.ar/dataset/d1b9696f-95e5-4918-a59c-471c16082328/resource/a4edcc85-9c89-4d4b-90bd-588c6527fd0f",
+      "attributesDescription": "[{\"type\": \"integer\", \"description\": \"cod_pais\", \"title\": \"cod_pais\"}, {\"type\": \"string\", \"description\": \"nom_pais\", \"title\": \"nom_pais\"}, {\"type\": \"integer\", \"description\": \"a\\u0144o\", \"title\": \"a\\u0144o\"}, {\"type\": \"string\", \"description\": \"producto\", \"title\": \"producto\"}, {\"type\": \"string\", \"description\": \"destino\", \"title\": \"destino\"}, {\"type\": \"string\", \"description\": \"cod_uni\", \"title\": \"cod_uni\"}, {\"type\": \"string\", \"description\": \"nom_uni\", \"title\": \"nom_uni\"}, {\"type\": \"number\", \"description\": \"enero\", \"title\": \"enero\"}, {\"type\": \"number\", \"description\": \"febrero\", \"title\": \"febrero\"}, {\"type\": \"number\", \"description\": \"marzo\", \"title\": \"marzo\"}, {\"type\": \"number\", \"description\": \"abril\", \"title\": \"abril\"}, {\"type\": \"number\", \"description\": \"mayo\", \"title\": \"mayo\"}, {\"type\": \"number\", \"description\": \"junio\", \"title\": \"junio\"}, {\"type\": \"number\", \"description\": \"julio\", \"title\": \"julio\"}, {\"type\": \"number\", \"description\": \"agosto\", \"title\": \"agosto\"}, {\"type\": \"number\", \"description\": \"septiembre\", \"title\": \"septiembre\"}, {\"type\": \"number\", \"description\": \"octubre\", \"title\": \"octubre\"}, {\"type\": \"number\", \"description\": \"noviembre\", \"title\": \"noviembre\"}, {\"type\": \"number\", \"description\": \"diciembre\", \"title\": \"diciembre\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2018-04-27T16:32:38.381128",
+      "datastore_active": false,
+      "description": "Granos de Trigo Pan en toneladas que ingresan a la industria balanceadora.\r\n \"0\" indica informado \"Sin Movimiento\".",
+      "fileName": "ingreso-de-trigo-pan-con-destino-a-la-industria-balanceadora-.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "agroindustria_a4edcc85-9c89-4d4b-90bd-588c6527fd0f",
+      "last_modified": "2019-01-18T10:38:27.131870",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Ingreso de Trigo Pan con destino a la industria balanceadora",
+      "package_id": "agroindustria_d1b9696f-95e5-4918-a59c-471c16082328",
+      "position": 0,
+      "resource_type": "file.upload",
+      "revision_id": "ea300de0-a63f-4b17-b42e-4d59e678e902",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.agroindustria.gob.ar/dataset/d1b9696f-95e5-4918-a59c-471c16082328/resource/a4edcc85-9c89-4d4b-90bd-588c6527fd0f/download/ingreso-de-trigo-pan-con-destino-a-la-industria-balanceadora-.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos2.agroindustria.gob.ar/dataset/d1b9696f-95e5-4918-a59c-471c16082328/archivo/f180b877-44b6-45dd-a779-c9b32818cff7",
+      "attributesDescription": "[{\"type\": \"integer\", \"description\": \"cod_pais\", \"title\": \"cod_pais\"}, {\"type\": \"string\", \"description\": \"nom_pais\", \"title\": \"nom_pais\"}, {\"type\": \"integer\", \"description\": \"a\\u0144o\", \"title\": \"a\\u0144o\"}, {\"type\": \"string\", \"description\": \"producto\", \"title\": \"producto\"}, {\"type\": \"string\", \"description\": \"destino\", \"title\": \"destino\"}, {\"type\": \"string\", \"description\": \"cod_uni\", \"title\": \"cod_uni\"}, {\"type\": \"string\", \"description\": \"nom_uni\", \"title\": \"nom_uni\"}, {\"type\": \"number\", \"description\": \"enero\", \"title\": \"enero\"}, {\"type\": \"number\", \"description\": \"febrero\", \"title\": \"febrero\"}, {\"type\": \"number\", \"description\": \"marzo\", \"title\": \"marzo\"}, {\"type\": \"number\", \"description\": \"abril\", \"title\": \"abril\"}, {\"type\": \"number\", \"description\": \"mayo\", \"title\": \"mayo\"}, {\"type\": \"number\", \"description\": \"junio\", \"title\": \"junio\"}, {\"type\": \"number\", \"description\": \"julio\", \"title\": \"julio\"}, {\"type\": \"number\", \"description\": \"agosto\", \"title\": \"agosto\"}, {\"type\": \"number\", \"description\": \"septiembre\", \"title\": \"septiembre\"}, {\"type\": \"number\", \"description\": \"octubre\", \"title\": \"octubre\"}, {\"type\": \"number\", \"description\": \"noviembre\", \"title\": \"noviembre\"}, {\"type\": \"number\", \"description\": \"diciembre\", \"title\": \"diciembre\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2018-04-27T16:31:48.064354",
+      "datastore_active": false,
+      "description": "Granos de Trigo Pan en toneladas que ingresan a la industria molinera .\r\n \"0\" indica informado \"Sin Movimiento\".",
+      "fileName": "ingreso-de-trigo-pan-con-destino-a-la-industria-molinera-.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "agroindustria_f180b877-44b6-45dd-a779-c9b32818cff7",
+      "last_modified": "2019-01-22T15:18:50.959146",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Ingreso de Trigo Pan con destino a la industria molinera",
+      "package_id": "agroindustria_d1b9696f-95e5-4918-a59c-471c16082328",
+      "position": 1,
+      "resource_type": "file.upload",
+      "revision_id": "ea300de0-a63f-4b17-b42e-4d59e678e902",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.agroindustria.gob.ar/dataset/d1b9696f-95e5-4918-a59c-471c16082328/resource/f180b877-44b6-45dd-a779-c9b32818cff7/download/ingreso-de-trigo-pan-con-destino-a-la-industria-molinera-.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos.agroindustria.gob.ar/dataset/d1b9696f-95e5-4918-a59c-471c16082328/archivo/8ad97776-30be-4dfa-a5ee-e9bf8fbac6f5",
+      "attributesDescription": "[{\"type\": \"integer\", \"description\": \"cod_pais\", \"title\": \"cod_pais\"}, {\"type\": \"string\", \"description\": \"nom_pais\", \"title\": \"nom_pais\"}, {\"type\": \"integer\", \"description\": \"a\\u0144o\", \"title\": \"a\\u0144o\"}, {\"type\": \"string\", \"description\": \"producto\", \"title\": \"producto\"}, {\"type\": \"string\", \"description\": \"cod_uni\", \"title\": \"cod_uni\"}, {\"type\": \"string\", \"description\": \"nom_uni\", \"title\": \"nom_uni\"}, {\"type\": \"number\", \"description\": \"enero\", \"title\": \"enero\"}, {\"type\": \"number\", \"description\": \"febrero\", \"title\": \"febrero\"}, {\"type\": \"number\", \"description\": \"marzo\", \"title\": \"marzo\"}, {\"type\": \"number\", \"description\": \"abril\", \"title\": \"abril\"}, {\"type\": \"number\", \"description\": \"mayo\", \"title\": \"mayo\"}, {\"type\": \"number\", \"description\": \"junio\", \"title\": \"junio\"}, {\"type\": \"number\", \"description\": \"julio\", \"title\": \"julio\"}, {\"type\": \"number\", \"description\": \"agosto\", \"title\": \"agosto\"}, {\"type\": \"number\", \"description\": \"septiembre\", \"title\": \"septiembre\"}, {\"type\": \"number\", \"description\": \"octubre\", \"title\": \"octubre\"}, {\"type\": \"number\", \"description\": \"noviembre\", \"title\": \"noviembre\"}, {\"type\": \"number\", \"description\": \"diciembre\", \"title\": \"diciembre\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2018-04-27T16:33:16.724325",
+      "datastore_active": false,
+      "description": "Detalle mensual de la producción de harina de Trigo Pan en toneladas.\r\n \"0\" indica informado \"Sin Movimiento\".",
+      "fileName": "produccion-de-harina-de-trigo-pan-.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "agroindustria_8ad97776-30be-4dfa-a5ee-e9bf8fbac6f5",
+      "last_modified": "2019-03-18T17:37:28.662197",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Producción de harina de Trigo Pan",
+      "package_id": "agroindustria_d1b9696f-95e5-4918-a59c-471c16082328",
+      "position": 2,
+      "resource_type": "file.upload",
+      "revision_id": "ea300de0-a63f-4b17-b42e-4d59e678e902",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.agroindustria.gob.ar/dataset/d1b9696f-95e5-4918-a59c-471c16082328/resource/8ad97776-30be-4dfa-a5ee-e9bf8fbac6f5/download/produccion-de-harina-de-trigo-pan-.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://datos2.agroindustria.gob.ar/dataset/d1b9696f-95e5-4918-a59c-471c16082328/archivo/0c2284d0-5a06-4497-9c25-001c54443173",
+      "attributesDescription": "[{\"type\": \"integer\", \"description\": \"cod_pais\", \"title\": \"cod_pais\"}, {\"type\": \"string\", \"description\": \"nom_pais\", \"title\": \"nom_pais\"}, {\"type\": \"integer\", \"description\": \"a\\u0144o\", \"title\": \"a\\u0144o\"}, {\"type\": \"string\", \"description\": \"producto\", \"title\": \"producto\"}, {\"type\": \"string\", \"description\": \"destino\", \"title\": \"destino\"}, {\"type\": \"string\", \"description\": \"cod_uni\", \"title\": \"cod_uni\"}, {\"type\": \"string\", \"description\": \"nom_uni\", \"title\": \"nom_uni\"}, {\"type\": \"number\", \"description\": \"enero\", \"title\": \"enero\"}, {\"type\": \"number\", \"description\": \"febrero\", \"title\": \"febrero\"}, {\"type\": \"number\", \"description\": \"marzo\", \"title\": \"marzo\"}, {\"type\": \"number\", \"description\": \"abril\", \"title\": \"abril\"}, {\"type\": \"number\", \"description\": \"mayo\", \"title\": \"mayo\"}, {\"type\": \"number\", \"description\": \"junio\", \"title\": \"junio\"}, {\"type\": \"number\", \"description\": \"julio\", \"title\": \"julio\"}, {\"type\": \"number\", \"description\": \"agosto\", \"title\": \"agosto\"}, {\"type\": \"number\", \"description\": \"septiembre\", \"title\": \"septiembre\"}, {\"type\": \"number\", \"description\": \"octubre\", \"title\": \"octubre\"}, {\"type\": \"number\", \"description\": \"noviembre\", \"title\": \"noviembre\"}, {\"type\": \"number\", \"description\": \"diciembre\", \"title\": \"diciembre\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2018-04-27T16:33:48.400516",
+      "datastore_active": false,
+      "description": "Detalle mensual de la producción de pellets de Trigo Pan en toneladas.\r\n \"0\" indica informado \"Sin Movimiento\".",
+      "fileName": "produccion-de-pellets-de-trigo-pan-.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "agroindustria_0c2284d0-5a06-4497-9c25-001c54443173",
+      "last_modified": "2019-01-22T15:08:24.665563",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Producción de pellets de Trigo Pan",
+      "package_id": "agroindustria_d1b9696f-95e5-4918-a59c-471c16082328",
+      "position": 3,
+      "resource_type": "file.upload",
+      "revision_id": "ea300de0-a63f-4b17-b42e-4d59e678e902",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.agroindustria.gob.ar/dataset/d1b9696f-95e5-4918-a59c-471c16082328/resource/0c2284d0-5a06-4497-9c25-001c54443173/download/produccion-de-pellets-de-trigo-pan-.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "fa91476b-b370-4f41-8b84-b7934513b054",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "harina",
+      "id": "510419f9-5c68-4d87-ba40-b6a66d707240",
+      "name": "harina",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "pan",
+      "id": "98192774-4de8-4f45-a1a2-d15eaa43d035",
+      "name": "pan",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "trigo",
+      "id": "ba98c56a-aab4-45cf-8592-9025a6c14ca9",
+      "name": "trigo",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "trigo pan",
+      "id": "4fd057c4-a19a-486d-b888-2b832a5a4608",
+      "name": "trigo pan",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Trigo pan - destino industrial",
+  "type": "dataset",
+  "url": "https://datos.agroindustria.gob.ar/dataset/trigo-pan-con-destino-industria",
+  "version": null
+}

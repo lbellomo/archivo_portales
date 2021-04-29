@@ -1,0 +1,183 @@
+{
+  "author": "Ministerio de Energía y Minería.Secretaría de Coordinación de Planeamiento Energético.Dirección Nacional de Información Energética.Tecnología de la Información.",
+  "author_email": "tienerg@energia.gob.ar",
+  "creator_user_id": "4720e75a-9e17-4dc3-879d-041917c7f9f9",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "eventual"
+    },
+    {
+      "key": "issued",
+      "value": "2016-11-07T13:33:34.985951"
+    },
+    {
+      "key": "modified",
+      "value": "2020-01-06T13:28:31.910747"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"ENER\"]"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Energía",
+      "display_name": "Energía",
+      "id": "a4d3f632-eb48-4163-9791-165989c16035",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225337.421630energia.svg",
+      "name": "ener",
+      "title": "Energía"
+    }
+  ],
+  "id": "energia_4adf2cf0-621c-49e6-8434-9d787765d9ea",
+  "isopen": false,
+  "license_id": "notspecified",
+  "license_title": "No se especificó la licencia",
+  "maintainer": "Ministerio de Energía y Minería.Secretaría de Coordinación de Planeamiento Energético.Dirección Nacional de Información Energética.Tecnología de la Información.",
+  "maintainer_email": "tienerg@minem.gob.ar",
+  "metadata_created": "2019-11-26T15:00:49.894225",
+  "metadata_modified": "2021-04-29T17:17:20.975283",
+  "name": "energia-comercializacion-hidrocarburos---combustibles-liquidos---aeroplantas",
+  "notes": "Ubicación de aeroplantas YPF. ISO 19126: PowerSupplies, Este subgrupo se compone de conceptos que se relacionan con la producción, transporte y distribución de energía.",
+  "num_resources": 2,
+  "num_tags": 9,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:09.221510",
+    "description": "",
+    "id": "cd1b32a2-2d3a-44ac-8c98-a425a7b62d42",
+    "image_url": "",
+    "is_organization": true,
+    "name": "energia",
+    "revision_id": "a184cf69-99ad-4f84-a254-020031d7fe63",
+    "state": "active",
+    "title": "Secretaría de Energía",
+    "type": "organization"
+  },
+  "owner_org": "cd1b32a2-2d3a-44ac-8c98-a425a7b62d42",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "http://datos.minem.gob.ar/dataset/4adf2cf0-621c-49e6-8434-9d787765d9ea/resource/b557e8ac-d149-4f9f-af9e-ee31cfb3a777",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-05-04T20:13:35.651406",
+      "datastore_active": false,
+      "description": "Archivos prj, shp, shx, dbf, xml. Sistema de Proyección EPSG:4326",
+      "fileName": "comercializacin-hidrocarburos-combustibles-lquidos-aeroplantas.zip",
+      "format": "SHP",
+      "hash": "",
+      "id": "energia_b557e8ac-d149-4f9f-af9e-ee31cfb3a777",
+      "last_modified": "2020-01-06T13:28:31.891977",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Comercialización Hidrocarburos Combustibles Líquidos Aeroplantas",
+      "package_id": "energia_4adf2cf0-621c-49e6-8434-9d787765d9ea",
+      "position": 0,
+      "resource_type": null,
+      "revision_id": "d0af48ee-52a4-4dc3-a06c-e91999d8671e",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.minem.gob.ar/dataset/4adf2cf0-621c-49e6-8434-9d787765d9ea/resource/b557e8ac-d149-4f9f-af9e-ee31cfb3a777/download/comercializacin-hidrocarburos-combustibles-lquidos-aeroplantas.zip",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos.minem.gob.ar/dataset/4adf2cf0-621c-49e6-8434-9d787765d9ea/resource/8b91f8fe-fc9b-4473-8001-b1fc5f9391fd",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-05-04T21:23:54.266423",
+      "datastore_active": false,
+      "description": "",
+      "fileName": "comercializacin-hidrocarburos-combustibles-lquidos-aeroplantas.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "energia_8b91f8fe-fc9b-4473-8001-b1fc5f9391fd",
+      "last_modified": "2017-05-04T21:23:53.968117",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Comercialización Hidrocarburos Combustibles Líquidos Aeroplantas",
+      "package_id": "energia_4adf2cf0-621c-49e6-8434-9d787765d9ea",
+      "position": 1,
+      "resource_type": null,
+      "revision_id": "a9617a91-451f-4e9f-90a5-22c66ffc88c9",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.minem.gob.ar/dataset/4adf2cf0-621c-49e6-8434-9d787765d9ea/resource/8b91f8fe-fc9b-4473-8001-b1fc5f9391fd/download/comercializacin-hidrocarburos-combustibles-lquidos-aeroplantas.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "4c900c30-5895-4313-86c1-fe35132d467d",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "Aeroplantas",
+      "id": "c0cd61e1-a4ed-439d-92f6-a96de4ceb0a3",
+      "name": "Aeroplantas",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Combustibles",
+      "id": "91332bf3-1e78-4385-b177-146099d2e48b",
+      "name": "Combustibles",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Comercialización",
+      "id": "ca1806a8-1a94-436c-8d08-6d4b19af165e",
+      "name": "Comercialización",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Comercialización de Hidrocarburos Líquidos",
+      "id": "c81df453-550a-4172-b461-0412ecdac4e7",
+      "name": "Comercialización de Hidrocarburos Líquidos",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Hidrocarburos",
+      "id": "f2511ea4-b37a-445a-913a-8948f1b90df6",
+      "name": "Hidrocarburos",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Información Geográfica",
+      "id": "d22bc8a4-252e-4fd8-89b2-3b9a08f6be42",
+      "name": "Información Geográfica",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Información geográfica",
+      "id": "24b3ee69-69cb-45de-a8b4-3566f4eab17c",
+      "name": "Información geográfica",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Líquidos",
+      "id": "ad9fb649-7336-47b5-9d6d-83692175787f",
+      "name": "Líquidos",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "YPF",
+      "id": "2eaefd5c-359a-4631-8f33-7f5f7f2697cd",
+      "name": "YPF",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Comercialización de hidrocarburos - Combustibles líquidos - Aeroplantas",
+  "type": "dataset",
+  "url": "http://datos.minem.gob.ar/dataset/comercializacion-hidrocarburos-combustibles-liquidos-aeroplantas",
+  "version": null
+}

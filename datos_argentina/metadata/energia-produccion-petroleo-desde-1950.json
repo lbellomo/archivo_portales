@@ -1,0 +1,132 @@
+{
+  "author": "Ministerio de Energía y Minería.Secretaría de Coordinación de Planeamiento Energético.Dirección Nacional de Información Energética.Tecnología de la Información.",
+  "author_email": "tienerg@energia.gob.ar",
+  "creator_user_id": "4720e75a-9e17-4dc3-879d-041917c7f9f9",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "eventual"
+    },
+    {
+      "key": "issued",
+      "value": "2016-11-07T13:33:34.985951"
+    },
+    {
+      "key": "modified",
+      "value": "2020-01-22T12:18:00.038564"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"ENER\"]"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Energía",
+      "display_name": "Energía",
+      "id": "a4d3f632-eb48-4163-9791-165989c16035",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225337.421630energia.svg",
+      "name": "ener",
+      "title": "Energía"
+    }
+  ],
+  "id": "energia_f91e3405-2bd0-47eb-81bd-5d73835ec005",
+  "isopen": false,
+  "license_id": "notspecified",
+  "license_title": "No se especificó la licencia",
+  "maintainer": "Ministerio de Energía y Minería.Secretaría de Planeamiento Energético Estratégico.Subsecretaría de Escenarios y Evaluación de Proyectos.",
+  "maintainer_email": null,
+  "metadata_created": "2019-11-26T15:00:58.969813",
+  "metadata_modified": "2021-04-29T17:17:59.093787",
+  "name": "energia-produccion-petroleo-desde-1950",
+  "notes": "Serie de datos de producción de petróleo en Argentina desde el año 1950. La misma fue confeccionada por la Subsecretaría de Escenarios y Evaluación de Proyectos de la Secretaría de Planeamiento Energético Estratégico del Ministerio de Energía y Minería de la Nación, y surge del empalme de series disponibles en otras fuentes oficiales.",
+  "num_resources": 2,
+  "num_tags": 2,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:09.221510",
+    "description": "",
+    "id": "cd1b32a2-2d3a-44ac-8c98-a425a7b62d42",
+    "image_url": "",
+    "is_organization": true,
+    "name": "energia",
+    "revision_id": "a184cf69-99ad-4f84-a254-020031d7fe63",
+    "state": "active",
+    "title": "Secretaría de Energía",
+    "type": "organization"
+  },
+  "owner_org": "cd1b32a2-2d3a-44ac-8c98-a425a7b62d42",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "http://datos.minem.gob.ar/dataset/f91e3405-2bd0-47eb-81bd-5d73835ec005/resource/1c527265-4ba5-4090-b2d0-d5d618c154c3",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-05-04T22:27:46.788911",
+      "datastore_active": false,
+      "description": " ",
+      "format": "CSV",
+      "hash": "",
+      "id": "energia_1c527265-4ba5-4090-b2d0-d5d618c154c3",
+      "last_modified": "2020-01-22T09:13:48.778832",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Producción de Petróleo desde 1950",
+      "package_id": "energia_f91e3405-2bd0-47eb-81bd-5d73835ec005",
+      "position": 0,
+      "resource_type": null,
+      "revision_id": "0204305c-1368-4283-b73a-64f3fcf8fe01",
+      "size": null,
+      "state": "active",
+      "url": "http://www.energia.gob.ar/contenidos/archivos/Reorganizacion/informacion_del_mercado/mercado_hidrocarburos/informacion_estadistica/serie-produccion-petroleo-total-pais-desde-1950.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos.minem.gob.ar/dataset/f91e3405-2bd0-47eb-81bd-5d73835ec005/resource/77f143f7-fcde-4b28-a31d-1bdc45485eed",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2018-05-02T13:56:30.840990",
+      "datastore_active": false,
+      "description": "Producción petróleo desde 1950 - Documento Metodológico   ",
+      "format": "PDF",
+      "hash": "",
+      "id": "energia_77f143f7-fcde-4b28-a31d-1bdc45485eed",
+      "last_modified": "2020-01-13T17:18:17.184028",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Producción petróleo desde 1950 - Documento Metodológico   ",
+      "package_id": "energia_f91e3405-2bd0-47eb-81bd-5d73835ec005",
+      "position": 1,
+      "resource_type": null,
+      "revision_id": "8ae89fa4-bff2-4efb-af87-a9fa632a29dc",
+      "size": null,
+      "state": "active",
+      "url": "http://www.energia.gob.ar/contenidos/archivos/Reorganizacion/informacion_del_mercado/publicaciones/mercado_hidrocarburos/produccion_desde_1950/serieproducciondepetroleoenargentinadesde1950.pdf",
+      "url_type": null
+    }
+  ],
+  "revision_id": "0204305c-1368-4283-b73a-64f3fcf8fe01",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "Petróleo",
+      "id": "abf5e30e-5f64-4421-925f-f35b1535ce49",
+      "name": "Petróleo",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Producción",
+      "id": "e43bd381-9301-4aa7-a861-35fc73f7fa2c",
+      "name": "Producción",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Producción de Petróleo desde 1950",
+  "type": "dataset",
+  "url": "http://www.energia.gob.ar/dataset/produccion-de-petroleo-desde-1950",
+  "version": null
+}

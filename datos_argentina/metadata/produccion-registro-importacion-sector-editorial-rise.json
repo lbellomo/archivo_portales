@@ -1,0 +1,140 @@
+{
+  "author": "Secretaría de Industria",
+  "author_email": "datos.abiertos@produccion.gob.ar",
+  "creator_user_id": "4720e75a-9e17-4dc3-879d-041917c7f9f9",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P1Y"
+    },
+    {
+      "key": "issued",
+      "value": "2018-10-12T12:56:23.000Z"
+    },
+    {
+      "key": "modified",
+      "value": "2020-02-26T02:44:56.000Z"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"econ\"]"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Economía y finanzas",
+      "display_name": "Economía y finanzas",
+      "id": "60b4b03e-10a1-4d67-b984-08008a249617",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225257.200233economia-finanzas.svg",
+      "name": "econ",
+      "title": "Economía y finanzas"
+    }
+  ],
+  "id": "produccion_H15Z9z05X",
+  "isopen": true,
+  "license_id": "CC-BY-4.0",
+  "license_title": "Creative Commons Attribution 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "maintainer": null,
+  "maintainer_email": null,
+  "metadata_created": "2019-11-26T14:57:11.871980",
+  "metadata_modified": "2021-04-29T17:04:46.498259",
+  "name": "produccion-registro-importacion-sector-editorial-rise",
+  "notes": "En el RISE están listadas aquellas empresas que tramitaron su inscripción para obtener la excención en los derechos de importación de papel para uso editorial.",
+  "num_resources": 2,
+  "num_tags": 3,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:10.463340",
+    "description": "",
+    "id": "1ca8d15b-31fc-4f09-ba09-53edd3d4cce6",
+    "image_url": "",
+    "is_organization": true,
+    "name": "produccion",
+    "revision_id": "36d8ec89-d20f-4fe1-866c-e38988d28442",
+    "state": "active",
+    "title": "Ministerio de Desarrollo Productivo",
+    "type": "organization"
+  },
+  "owner_org": "1ca8d15b-31fc-4f09-ba09-53edd3d4cce6",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "http://datos.produccion.gob.ar/dataset/registro-de-importacion-del-sector-editorial-rise",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2018-10-12T09:56:23",
+      "datastore_active": false,
+      "description": "Listado de empresas registradas en el RISE por razón social, tipo de persona, cuit, condición de IVA y categorías.",
+      "format": "CSV",
+      "hash": "",
+      "id": "produccion_S1wa9GC5Q",
+      "last_modified": "2019-02-05T16:29:45",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Editoriales inscriptas",
+      "package_id": "produccion_H15Z9z05X",
+      "position": 0,
+      "resource_type": null,
+      "revision_id": "b43c173e-c367-4c91-b955-3514e9fe0de7",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.produccion.gob.ar/api/files/editoriales-inscriptas.csv/download",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos.produccion.gob.ar/dataset/registro-de-importacion-del-sector-editorial-rise",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2018-10-12T09:56:23",
+      "datastore_active": false,
+      "description": "Guía explicativa de cada uno de los campos de los recursos que conforman el dataset y ejemplos de los mismos.",
+      "format": "PDF",
+      "hash": "",
+      "id": "produccion_SJcb5ERqX",
+      "last_modified": "2019-02-05T16:29:45",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Guía de datos RISE",
+      "package_id": "produccion_H15Z9z05X",
+      "position": 1,
+      "resource_type": null,
+      "revision_id": "2c4b3861-8f7f-45d8-b32b-d2fb3b8b692c",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.produccion.gob.ar/api/files/guia-de-datos-rise.pdf/download",
+      "url_type": null
+    }
+  ],
+  "revision_id": "fd63eedb-30a9-4911-962c-04e36545fc09",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "Industria",
+      "id": "a12abc5f-bfc1-40b5-9620-ebf5463eecaf",
+      "name": "Industria",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "RISE",
+      "id": "b66db381-672d-4990-b3fa-c8183cc88127",
+      "name": "RISE",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Registro de Importación del Sector Editorial",
+      "id": "dfad036f-19a5-4688-807c-6ec42166aaed",
+      "name": "Registro de Importación del Sector Editorial",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Registro de Importación del Sector Editorial (RISE)",
+  "type": "dataset",
+  "url": "http://datos.produccion.gob.ar/dataset/registro-de-importacion-del-sector-editorial-rise",
+  "version": null
+}

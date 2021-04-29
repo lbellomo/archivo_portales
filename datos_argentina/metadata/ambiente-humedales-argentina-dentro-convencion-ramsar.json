@@ -1,0 +1,161 @@
+{
+  "author": "Ministerio de Ambiente y Desarrollo Sostenible. Dirección Nacional de Gestión Ambiental del Agua y los Ecosistemas Acuáticos. ",
+  "author_email": "dgarhya@ambiente.gob.ar",
+  "creator_user_id": "4720e75a-9e17-4dc3-879d-041917c7f9f9",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "eventual"
+    },
+    {
+      "key": "issued",
+      "value": "2017-09-05T15:40:12.325746"
+    },
+    {
+      "key": "language",
+      "value": "[\"spa\"]"
+    },
+    {
+      "key": "modified",
+      "value": "2020-09-30T13:13:39.286830"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"ENVI\"]"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Medio ambiente",
+      "display_name": "Medio ambiente",
+      "id": "f71fe9d7-c703-43be-8d9d-af9441c326ba",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225440.964279medio-ambiente.svg",
+      "name": "envi",
+      "title": "Medio ambiente"
+    }
+  ],
+  "id": "ambiente_0060e144-5b8a-405d-a8fc-bad574ed2153",
+  "isopen": false,
+  "license_id": "notspecified",
+  "license_title": "No se especificó la licencia",
+  "maintainer": "Ministerio de Ambiente y Desarrollo Sostenible. Dirección Nacional de Gestión Ambiental del Agua y los Ecosistemas Acuáticos. ",
+  "maintainer_email": "dgarhya@ambiente.gob.ar",
+  "metadata_created": "2019-11-26T14:57:53.002316",
+  "metadata_modified": "2021-04-29T17:17:49.125433",
+  "name": "ambiente-humedales-argentina-dentro-convencion-ramsar",
+  "notes": "El datasets muestra el listado de humedales de la Argentina incluidos dentro del listado de humedales de Importancia Internacional en el marco de la convención de Ramsar. Los sitios Ramsar son un conjunto de humedales   de gran valor para el país y para el mundo por los servicios y beneficios que proporcionan  y son designados a partir de la propuesta de los países firmantes",
+  "num_resources": 2,
+  "num_tags": 5,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:07.043831",
+    "description": "",
+    "id": "0e5aa328-825e-4509-851d-5421e866635e",
+    "image_url": "",
+    "is_organization": true,
+    "name": "ambiente",
+    "revision_id": "105eb915-270c-4f67-9b4e-e6a3f08be6d7",
+    "state": "active",
+    "title": "Ministerio de Ambiente y Desarrollo Sostenible",
+    "type": "organization"
+  },
+  "owner_org": "0e5aa328-825e-4509-851d-5421e866635e",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "http://datos.ambiente.gob.ar/dataset/0060e144-5b8a-405d-a8fc-bad574ed2153/resource/39d12a68-e36c-4c18-816c-d43aef874724",
+      "attributesDescription": "[{\"type\": \"string\", \"description\": \"Denominaci\\u00f3n del sitio Ramsar\", \"title\": \"sitio_ramsar_nombre\"}, {\"type\": \"string\", \"description\": \"Provincia donde se ubica el sitio Ramsar\", \"title\": \"sitio_ramsar_provincia_nombre\"}, {\"type\": \"string\", \"description\": \"Ecorregi\\u00f3n donde se ubica el sitio Ramsar\", \"title\": \"sitio_ramsar_ecorregi\\u00f3n_ocupada_nombre\"}, {\"type\": \"integer\", \"description\": \"Superficie ocupada por el sitio Ramsar en hectareas\", \"title\": \"sitio_ramsar_superficie_hectareas\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-09-05T15:44:59.531995",
+      "datastore_active": false,
+      "description": "El datasets muestra el listado de humedales de la Argentina designados como humedales de importancia internacional en el marco de la convención de Ramsar",
+      "fileName": "humedales-argentina-dentro-convenio-ramsar.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "ambiente_39d12a68-e36c-4c18-816c-d43aef874724",
+      "last_modified": "2019-11-06T15:50:15.543853",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Humedales de Argentina dentro de la Convención Ramsar",
+      "package_id": "ambiente_0060e144-5b8a-405d-a8fc-bad574ed2153",
+      "position": 0,
+      "resource_type": "file.upload",
+      "revision_id": "1f092555-6f00-44e8-bd06-1d5a7b14fc7e",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.ambiente.gob.ar/dataset/0060e144-5b8a-405d-a8fc-bad574ed2153/resource/39d12a68-e36c-4c18-816c-d43aef874724/download/humedales-argentina-dentro-convenio-ramsar.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos.ambiente.gob.ar/dataset/0060e144-5b8a-405d-a8fc-bad574ed2153/resource/625bfabf-398c-49c7-966d-28a510e24af6",
+      "attributesDescription": "[{\"type\": \"integer\", \"description\": \"id de la provincia\", \"title\": \"provincia_id\"}, {\"type\": \"string\", \"description\": \"Denominaci\\u00f3n de la provincia\", \"title\": \"provincia_nombre\"}, {\"type\": \"integer\", \"description\": \"Superficie total de la provincia\", \"title\": \"provincia_superficie\"}, {\"units\": \"Hect\\u00e1reas\", \"type\": \"integer\", \"description\": \"Superficie en hect\\u00e1reas de sitios designados como humedales de importancia internacional en el marco de la convenci\\u00f3n de Ramsar\", \"title\": \"provincia_sitio_ramsar_superficie\"}, {\"units\": \"Porcentaje\", \"type\": \"number\", \"description\": \"Porcentaje de la superficie provincial se sitios designados como humedales de importancia internacional en el marco de la convenci\\u00f3n de Ramsar.\", \"title\": \"provincia_sitio_ramsar_porcentaje_superficie\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-09-05T15:55:49.248246",
+      "datastore_active": false,
+      "description": "El datasets muestra la superficie y el porcentaje de territorio provincial de humedales designados como humedales de importancia internacional en el marco de la convención de Ramsar",
+      "fileName": "superficie-sitio-ramsar-por-provincia.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "ambiente_625bfabf-398c-49c7-966d-28a510e24af6",
+      "last_modified": "2019-11-06T15:52:41.277367",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Superficie de los sitios Ramsar por provincia",
+      "package_id": "ambiente_0060e144-5b8a-405d-a8fc-bad574ed2153",
+      "position": 1,
+      "resource_type": "file.upload",
+      "revision_id": "52992f5e-f0c4-453e-a3d6-8dc65a22c134",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.ambiente.gob.ar/dataset/0060e144-5b8a-405d-a8fc-bad574ed2153/resource/625bfabf-398c-49c7-966d-28a510e24af6/download/superficie-sitio-ramsar-por-provincia.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "8e328012-d3cd-4ae7-ac29-307ba14758e2",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "Agua",
+      "id": "af4aa031-3f91-41d8-8f0b-4950573dc4a4",
+      "name": "Agua",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Humedales",
+      "id": "7079db77-fb74-4fb5-888b-1e51babc0263",
+      "name": "Humedales",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "SR",
+      "id": "14ee5e9a-b94b-41a8-9bae-7e753fd3b78a",
+      "name": "SR",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "aves acuáticas migratorias",
+      "id": "678b6760-ca47-44e9-ac41-ac9afead2c6a",
+      "name": "aves acuáticas migratorias",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "sitios Ramsar",
+      "id": "b5c82bb5-0e2c-4186-8cb1-6a256404b22f",
+      "name": "sitios Ramsar",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Humedales de Argentina dentro de la Convención Ramsar",
+  "type": "dataset",
+  "url": "http://datos.ambiente.gob.ar/dataset/",
+  "version": null
+}

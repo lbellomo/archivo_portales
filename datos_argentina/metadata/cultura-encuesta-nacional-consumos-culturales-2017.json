@@ -1,0 +1,171 @@
+{
+  "author": "Ministerio de Cultura de la Nación",
+  "author_email": "sinca@cultura.gob.ar",
+  "creator_user_id": "dc157489-51c6-44ce-bd63-3bd983d60778",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P4Y"
+    },
+    {
+      "key": "issued",
+      "value": "2019-11-08T15:42:19.289821"
+    },
+    {
+      "key": "language",
+      "value": "[\"spa\"]"
+    },
+    {
+      "key": "modified",
+      "value": "2021-03-22T15:10:23.958446"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"EDUC\", \"SOCI\"]"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Educación, cultura y deportes",
+      "display_name": "Educación, cultura y deportes",
+      "id": "b5ebe955-de3d-4e0b-b28c-16df2b2af99f",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225313.459997educacion-cultura-deportes.svg",
+      "name": "educ",
+      "title": "Educación, cultura y deportes"
+    },
+    {
+      "description": "Población y sociedad",
+      "display_name": "Población y sociedad",
+      "id": "eb5df7fa-064a-4b51-89f6-af323ee1bf85",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225728.341804poblacion-sociedad.svg",
+      "name": "soci",
+      "title": "Población y sociedad"
+    }
+  ],
+  "id": "cultura_251c2ac2-e670-451c-9dbf-a4212af225b5",
+  "isopen": true,
+  "license_id": "CC-BY-4.0",
+  "license_title": "Creative Commons Attribution 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "maintainer": "Sistema de Información Cultural de la Argentina",
+  "maintainer_email": "sinca@cultura.gob.ar",
+  "metadata_created": "2020-12-15T23:13:41.502011",
+  "metadata_modified": "2021-04-29T17:12:19.260699",
+  "name": "cultura-encuesta-nacional-consumos-culturales-2017",
+  "notes": "La Encuesta Nacional de Consumos Culturales busca conocer en profundidad el comportamiento de la población argentina respecto de los hábitos y consumos culturales.",
+  "num_resources": 3,
+  "num_tags": 2,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:08.752381",
+    "description": "",
+    "id": "9fcc8ffc-3dcc-4437-acc8-72c5b08d8d51",
+    "image_url": "",
+    "is_organization": true,
+    "name": "cultura",
+    "revision_id": "193e1e6e-9956-47e2-9b51-711fbc1320dd",
+    "state": "active",
+    "title": "Ministerio de Cultura",
+    "type": "organization"
+  },
+  "owner_org": "9fcc8ffc-3dcc-4437-acc8-72c5b08d8d51",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "https://datos.cultura.gob.ar/dataset/251c2ac2-e670-451c-9dbf-a4212af225b5/resource/171494ce-e3cf-43fb-ad6e-f204bae1bb19",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-11-22T15:50:59.626098",
+      "datastore_active": false,
+      "description": "La edición 2017 toma como punto de partida la encuesta realizada 2013 y otros relevamientos de la región.",
+      "fileName": "encc_2017.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "cultura_171494ce-e3cf-43fb-ad6e-f204bae1bb19",
+      "last_modified": "2019-11-22T15:50:59.626098",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Encuesta Nacional de Consumos Culturales",
+      "package_id": "cultura_251c2ac2-e670-451c-9dbf-a4212af225b5",
+      "position": 0,
+      "resource_type": "file.upload",
+      "revision_id": "674e4e91-567e-42c7-9d65-4cad0843dfc9",
+      "size": null,
+      "state": "active",
+      "url": "https://datos.cultura.gob.ar/dataset/251c2ac2-e670-451c-9dbf-a4212af225b5/resource/171494ce-e3cf-43fb-ad6e-f204bae1bb19/download/encc_2017.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://datos.cultura.gob.ar/dataset/251c2ac2-e670-451c-9dbf-a4212af225b5/resource/18ccc305-eada-44e7-a06a-5877ec83e0b8",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-11-11T15:12:18.859870",
+      "datastore_active": false,
+      "description": "Cuestionario utilizado en la Encuesta Nacional de Consumos Culturales 2017",
+      "fileName": "Cuestionario_ENCC-2017.pdf",
+      "format": "PDF",
+      "hash": "",
+      "id": "cultura_18ccc305-eada-44e7-a06a-5877ec83e0b8",
+      "last_modified": "2019-11-11T15:12:18.859870",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Cuestionario aplicado",
+      "package_id": "cultura_251c2ac2-e670-451c-9dbf-a4212af225b5",
+      "position": 1,
+      "resource_type": "documentation",
+      "revision_id": "674e4e91-567e-42c7-9d65-4cad0843dfc9",
+      "size": null,
+      "state": "active",
+      "url": "https://datos.cultura.gob.ar/dataset/251c2ac2-e670-451c-9dbf-a4212af225b5/resource/18ccc305-eada-44e7-a06a-5877ec83e0b8/download/cuestionario_encc-2017.pdf",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://datos.cultura.gob.ar/dataset/251c2ac2-e670-451c-9dbf-a4212af225b5/resource/9a97dde5-3a33-4689-8333-24a2fa5b4a6e",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-11-11T15:14:10.572701",
+      "datastore_active": false,
+      "description": "Informe sobre la ENCC 2017. Incluye ficha técnica (página 7)",
+      "fileName": "ENCC-2017-Informe-General.pdf",
+      "format": "PDF",
+      "hash": "",
+      "id": "cultura_9a97dde5-3a33-4689-8333-24a2fa5b4a6e",
+      "last_modified": "2019-11-11T15:14:10.572701",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Informe General ENCC 2017",
+      "package_id": "cultura_251c2ac2-e670-451c-9dbf-a4212af225b5",
+      "position": 2,
+      "resource_type": "documentation",
+      "revision_id": "674e4e91-567e-42c7-9d65-4cad0843dfc9",
+      "size": null,
+      "state": "active",
+      "url": "https://back.sinca.gob.ar/download.aspx?id=2457",
+      "url_type": null
+    }
+  ],
+  "revision_id": "2e33e423-603a-47b8-b47e-f3685e237fd2",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "Consumos Culturales",
+      "id": "f8be5b1c-8d28-441e-b328-10d8ef706702",
+      "name": "Consumos Culturales",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Encuesta Nacional de Consumos Culturales",
+      "id": "d9c34da3-9622-4631-b559-d912da26d918",
+      "name": "Encuesta Nacional de Consumos Culturales",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Encuesta Nacional de Consumos Culturales (2017)",
+  "type": "dataset",
+  "url": "https://datos.cultura.gob.ar/dataset/encuesta-nacional-de-consumos-culturales-2017",
+  "version": null
+}

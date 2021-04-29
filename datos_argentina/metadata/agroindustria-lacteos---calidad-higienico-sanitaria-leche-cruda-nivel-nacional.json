@@ -1,0 +1,224 @@
+{
+  "author": "Secretaria de Gobierno de Agroindustria - Dirección Nacional Láctea",
+  "author_email": "estadisticaslecheria@magyp.gob.ar",
+  "creator_user_id": "dc157489-51c6-44ce-bd63-3bd983d60778",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P1M"
+    },
+    {
+      "key": "issued",
+      "value": "2018-12-07T21:26:36.819348"
+    },
+    {
+      "key": "language",
+      "value": "[\"spa\"]"
+    },
+    {
+      "key": "modified",
+      "value": "2019-10-24T10:47:00.205353"
+    },
+    {
+      "key": "spatial",
+      "value": "[\"ARG\"]"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"AGRI\"]"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Agroganadería, pesca y forestación",
+      "display_name": "Agroganadería, pesca y forestación",
+      "id": "0c35ea38-7059-41d2-9827-5587769d0dc6",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225145.990789agroganaderia-pesca-forestacion.svg",
+      "name": "agri",
+      "title": "Agroganadería, pesca y forestación"
+    }
+  ],
+  "id": "agroindustria_904bcc30-6a67-4241-b641-4e9f466dc839",
+  "isopen": true,
+  "license_id": "CC-BY-4.0",
+  "license_title": "Creative Commons Attribution 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "maintainer": "Secretaria de Gobierno de Agroindustria - Dirección Nacional Láctea",
+  "maintainer_email": "estadisticaslecheria@magyp.gob.ar",
+  "metadata_created": "2019-12-04T20:00:28.967460",
+  "metadata_modified": "2021-04-29T17:11:35.629977",
+  "name": "agroindustria-lacteos---calidad-higienico-sanitaria-leche-cruda-nivel-nacional",
+  "notes": "Miles de unidades formadoras de colonias y células somáticas en cada cm3 de leche cruda. Se presenta el promedio a nivel nacional.",
+  "num_resources": 3,
+  "num_tags": 10,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:07.834957",
+    "description": "",
+    "id": "b10c94e2-ade1-4a97-8c4c-b1ada7878d60",
+    "image_url": "",
+    "is_organization": true,
+    "name": "agroindustria",
+    "revision_id": "f7c3b6e9-d48f-4522-9f7a-388d805c8392",
+    "state": "active",
+    "title": "Ministerio de Agricultura, Ganadería y Pesca",
+    "type": "organization"
+  },
+  "owner_org": "b10c94e2-ade1-4a97-8c4c-b1ada7878d60",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "https://datos.agroindustria.gob.ar/dataset/904bcc30-6a67-4241-b641-4e9f466dc839/archivo/73c45576-7503-4816-8756-f9a0aa1253d8",
+      "attributesDescription": "[{\"type\": \"string\", \"description\": \"C\\u00f3digo identificador de pa\\u00eds.\", \"title\": \"pais_id\"}, {\"type\": \"string\", \"description\": \"Nombre del pa\\u00eds.\", \"title\": \"pais\"}, {\"type\": \"string\", \"description\": \"A\\u00f1o de referencia.\", \"title\": \"a\\u00f1o\"}, {\"type\": \"string\", \"description\": \"Mes de referencia.\", \"title\": \"mes\"}, {\"type\": \"string\", \"description\": \"C\\u00f3digo identificador del producto.\", \"title\": \"producto_id\"}, {\"type\": \"string\", \"description\": \"Nombre del producto.\", \"title\": \"producto\"}, {\"type\": \"string\", \"description\": \"Medida de referencia.\", \"title\": \"unidad_de medida\"}, {\"type\": \"number\", \"description\": \"Valor presente en el producto, expresado seg\\u00fan la medida de referencia.\", \"title\": \"cantidad\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-10-23T15:44:14.739474",
+      "datastore_active": false,
+      "description": "Recuento de células somáticas promedio nacional desde enero 2013 hasta la actualidad.",
+      "fileName": "recuento-de-celulas-somaticas-promedio-nacional.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "agroindustria_73c45576-7503-4816-8756-f9a0aa1253d8",
+      "last_modified": "2019-06-13T15:29:52.678251",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Recuento de células somáticas promedio nacional",
+      "package_id": "agroindustria_904bcc30-6a67-4241-b641-4e9f466dc839",
+      "position": 0,
+      "resource_type": "file.upload",
+      "revision_id": "d1bfe973-6695-4050-8aa9-964920eb7a3c",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.agroindustria.gob.ar/dataset/904bcc30-6a67-4241-b641-4e9f466dc839/resource/73c45576-7503-4816-8756-f9a0aa1253d8/download/recuento-de-celulas-somaticas-promedio-nacional.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos.agroindustria.gob.ar/dataset/904bcc30-6a67-4241-b641-4e9f466dc839/resource/3311b181-3828-4901-b210-446c86e31cda",
+      "attributesDescription": "[{\"type\": \"string\", \"description\": \"pais_id\", \"title\": \"pais_id\"}, {\"type\": \"string\", \"description\": \"pais\", \"title\": \"pais\"}, {\"type\": \"string\", \"description\": \"a\\u00f1o\", \"title\": \"a\\u00f1o\"}, {\"type\": \"string\", \"description\": \"mes\", \"title\": \"mes\"}, {\"type\": \"string\", \"description\": \"producto_id\", \"title\": \"producto_id\"}, {\"type\": \"string\", \"description\": \"producto\", \"title\": \"producto\"}, {\"type\": \"string\", \"description\": \"unidad_de medida\", \"title\": \"unidad_de medida\"}, {\"type\": \"number\", \"description\": \"cantidad\", \"title\": \"cantidad\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-10-23T15:48:44.278821",
+      "datastore_active": false,
+      "description": "Unidades formadoras de colonias promedio nacional desde enero 2013 hasta la actualidad.",
+      "fileName": "unidades-formadoras-de-colonias-promedio-nacional.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "agroindustria_3311b181-3828-4901-b210-446c86e31cda",
+      "last_modified": "2019-06-12T09:23:24.821983",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Unidades formadoras de colonias promedio nacional",
+      "package_id": "agroindustria_904bcc30-6a67-4241-b641-4e9f466dc839",
+      "position": 1,
+      "resource_type": "file.upload",
+      "revision_id": "d1bfe973-6695-4050-8aa9-964920eb7a3c",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.agroindustria.gob.ar/dataset/904bcc30-6a67-4241-b641-4e9f466dc839/resource/3311b181-3828-4901-b210-446c86e31cda/download/unidades-formadoras-de-colonias-promedio-nacional.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos.agroindustria.gob.ar/dataset/904bcc30-6a67-4241-b641-4e9f466dc839/resource/9feded30-cebd-47d2-9d66-0d5805f0bfbc",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-12-18T12:28:30.970307",
+      "datastore_active": false,
+      "description": "Vaya a \"Descargar\" para acceder al visor.",
+      "format": "url",
+      "hash": "",
+      "id": "agroindustria_9feded30-cebd-47d2-9d66-0d5805f0bfbc",
+      "last_modified": "2019-12-18T12:28:30.970307",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Visor de calidad de leche",
+      "package_id": "agroindustria_904bcc30-6a67-4241-b641-4e9f466dc839",
+      "position": 2,
+      "resource_type": "file",
+      "revision_id": "a234e04d-0797-4430-9bbb-254fd3054997",
+      "size": null,
+      "state": "active",
+      "url": "https://geoportal.agroindustria.gob.ar/tematizador/lecheria/",
+      "url_type": null
+    }
+  ],
+  "revision_id": "a7ad0200-9920-450d-ac25-6016826d2433",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "RCS",
+      "id": "2f661c0d-842f-47c5-a23a-c10d1c5b7119",
+      "name": "RCS",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "UFC",
+      "id": "0616cac9-4221-45e1-823a-24b56565a35e",
+      "name": "UFC",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "calidad leche",
+      "id": "3e1deac0-a97f-4789-9b7b-f5dec40c57dc",
+      "name": "calidad leche",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "lacteos",
+      "id": "9e6b26d8-1663-4102-b84b-8d3d36505c78",
+      "name": "lacteos",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "leche",
+      "id": "50198eec-058b-4999-a070-8cf268e8e576",
+      "name": "leche",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "leche cruda",
+      "id": "1c7b38ce-7271-4ea2-9478-e793e3b65848",
+      "name": "leche cruda",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "lechería",
+      "id": "ca9639ff-f99d-4320-9f52-eb8d1235be2c",
+      "name": "lechería",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "recuento células somáticas",
+      "id": "64f7fa6b-d716-41f3-80b1-725783f46770",
+      "name": "recuento células somáticas",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "somáticas",
+      "id": "e49ddae5-15c0-4ec8-bb58-18c75eac87e4",
+      "name": "somáticas",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "unidades formadoras de colonias",
+      "id": "a02049ad-d1d0-4035-aaaa-7a72cf74c791",
+      "name": "unidades formadoras de colonias",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Lácteos - Calidad higiénico sanitaria de la leche cruda a nivel nacional",
+  "type": "dataset",
+  "url": "https://datos.agroindustria.gob.ar/dataset/calidad-higienico-sanitaria-produccion-leche-cruda-nivel-nacional",
+  "version": null
+}

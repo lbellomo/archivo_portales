@@ -1,0 +1,358 @@
+{
+  "author": "SIO Carnes",
+  "author_email": "sio-carnes@magyp.gob.ar",
+  "creator_user_id": "dc157489-51c6-44ce-bd63-3bd983d60778",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P1M"
+    },
+    {
+      "key": "issued",
+      "value": "2018-08-21T17:56:40.015537"
+    },
+    {
+      "key": "language",
+      "value": "[\"spa\"]"
+    },
+    {
+      "key": "modified",
+      "value": "2019-01-22T11:25:01.711190"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"AGRI\", \"ECON\"]"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Agroganadería, pesca y forestación",
+      "display_name": "Agroganadería, pesca y forestación",
+      "id": "0c35ea38-7059-41d2-9827-5587769d0dc6",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225145.990789agroganaderia-pesca-forestacion.svg",
+      "name": "agri",
+      "title": "Agroganadería, pesca y forestación"
+    },
+    {
+      "description": "Economía y finanzas",
+      "display_name": "Economía y finanzas",
+      "id": "60b4b03e-10a1-4d67-b984-08008a249617",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225257.200233economia-finanzas.svg",
+      "name": "econ",
+      "title": "Economía y finanzas"
+    }
+  ],
+  "id": "agroindustria_19c2c34b-1f77-4893-afb0-3821d62891fa",
+  "isopen": false,
+  "license_id": "notspecified",
+  "license_title": "No se especificó la licencia",
+  "maintainer": null,
+  "maintainer_email": null,
+  "metadata_created": "2019-12-04T20:01:05.818728",
+  "metadata_modified": "2021-04-29T17:16:18.750097",
+  "name": "agroindustria-sio-carnes",
+  "notes": "Sistema unificado de información de operaciones de compra venta de ganado con destino a faena. Surge de los datos obtenidos de las liquidaciones electrónicas presentadas a la AFIP (Resolución General No. 3964/2016 y modificatoria), junto con los Documentos de Tránsito Electrónicos (DTE) obtenidos del SENASA.",
+  "num_resources": 4,
+  "num_tags": 25,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:07.834957",
+    "description": "",
+    "id": "b10c94e2-ade1-4a97-8c4c-b1ada7878d60",
+    "image_url": "",
+    "is_organization": true,
+    "name": "agroindustria",
+    "revision_id": "f7c3b6e9-d48f-4522-9f7a-388d805c8392",
+    "state": "active",
+    "title": "Ministerio de Agricultura, Ganadería y Pesca",
+    "type": "organization"
+  },
+  "owner_org": "b10c94e2-ade1-4a97-8c4c-b1ada7878d60",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "http://datos.agroindustria.gob.ar/dataset/19c2c34b-1f77-4893-afb0-3821d62891fa/resource/e4ff4d34-e5d6-4fc5-aea0-f231f1fd2e43",
+      "attributesDescription": "[{\"type\": \"integer\", \"description\": \"pais_id\", \"title\": \"pais_id\"}, {\"type\": \"string\", \"description\": \"pais\", \"title\": \"pais\"}, {\"type\": \"integer\", \"description\": \"provincia_origen_id\", \"title\": \"provincia_origen_id\"}, {\"type\": \"string\", \"description\": \"provincia_origen\", \"title\": \"provincia_origen\"}, {\"type\": \"integer\", \"description\": \"departamento_origen_id\", \"title\": \"departamento_origen_id\"}, {\"type\": \"string\", \"description\": \"departamento_origen\", \"title\": \"departamento_origen\"}, {\"type\": \"string\", \"description\": \"zona_destino\", \"title\": \"zona_destino\"}, {\"type\": \"date\", \"description\": \"fecha_comprobante\", \"title\": \"fecha_comprobante\"}, {\"type\": \"string\", \"description\": \"raza\", \"title\": \"raza\"}, {\"type\": \"string\", \"description\": \"categoria\", \"title\": \"categoria\"}, {\"type\": \"integer\", \"description\": \"cabezas_comercializadas\", \"title\": \"cabezas_comercializadas\"}, {\"type\": \"string\", \"description\": \"unidad de Medida\", \"title\": \"unidad de Medida\"}, {\"type\": \"integer\", \"description\": \"precio($)_cabeza\", \"title\": \"precio($)_cabeza\"}, {\"type\": \"integer\", \"description\": \"precio($)_kg_vivo\", \"title\": \"precio($)_kg_vivo\"}, {\"type\": \"integer\", \"description\": \"cantidad_de_kg\", \"title\": \"cantidad_de_kg\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2018-08-21T17:59:24.756371",
+      "datastore_active": false,
+      "description": "Registro de operaciones de compra venta de ganado con destino a faena. El periodo tomado corresponde del 01/01/2018 al 30/06/2018",
+      "fileName": "sio-carnes-01-ene-a-30-jun-.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "agroindustria_e4ff4d34-e5d6-4fc5-aea0-f231f1fd2e43",
+      "last_modified": "2019-01-25T10:38:27.831543",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "SIO Carnes",
+      "package_id": "agroindustria_19c2c34b-1f77-4893-afb0-3821d62891fa",
+      "position": 0,
+      "resource_type": "file.upload",
+      "revision_id": "a132d87a-8920-4335-9b3d-c8def401ef7b",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.agroindustria.gob.ar/dataset/19c2c34b-1f77-4893-afb0-3821d62891fa/resource/e4ff4d34-e5d6-4fc5-aea0-f231f1fd2e43/download/sio-carnes-01-ene-a-30-jun-.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos.agroindustria.gob.ar/dataset/19c2c34b-1f77-4893-afb0-3821d62891fa/resource/5e6fadc1-522f-4435-9d96-55b7f9cce71b",
+      "attributesDescription": "[{\"type\": \"string\", \"description\": \"zona\", \"title\": \"zona\"}, {\"type\": \"string\", \"description\": \"provincia\", \"title\": \"provincia\"}, {\"type\": \"string\", \"description\": \"departamento\", \"title\": \"departamento\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2018-08-24T15:28:41.992424",
+      "datastore_active": false,
+      "description": "Se detallan cada una de las zonas a las cuales hace referencia el recurso \"SIO Carnes\"",
+      "fileName": "zonas-sio-carnes.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "agroindustria_5e6fadc1-522f-4435-9d96-55b7f9cce71b",
+      "last_modified": "2019-01-22T13:57:05.017314",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Zonas SIO Carnes",
+      "package_id": "agroindustria_19c2c34b-1f77-4893-afb0-3821d62891fa",
+      "position": 1,
+      "resource_type": "file.upload",
+      "revision_id": "e5e18dae-a3ca-4046-93bd-716b76e671ee",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.agroindustria.gob.ar/dataset/19c2c34b-1f77-4893-afb0-3821d62891fa/resource/5e6fadc1-522f-4435-9d96-55b7f9cce71b/download/zonas-sio-carnes-.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos.agroindustria.gob.ar/dataset/19c2c34b-1f77-4893-afb0-3821d62891fa/resource/ba5c07e5-162a-4396-a046-77f50cf39d0f",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2018-08-28T18:44:35.673368",
+      "datastore_active": false,
+      "description": "En el siguiente mapa se visualizan cada una de las zonas utilizadas por SIO Carnes",
+      "fileName": "mapaarg.jpg",
+      "format": "JPEG",
+      "hash": "",
+      "id": "agroindustria_ba5c07e5-162a-4396-a046-77f50cf39d0f",
+      "last_modified": "2019-05-06T12:31:05.168394",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Mapa de zonas SIO carnes",
+      "package_id": "agroindustria_19c2c34b-1f77-4893-afb0-3821d62891fa",
+      "position": 2,
+      "resource_type": "file.upload",
+      "revision_id": "d6215e42-518a-4a93-b955-d473d9d17f81",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.agroindustria.gob.ar/dataset/19c2c34b-1f77-4893-afb0-3821d62891fa/resource/ba5c07e5-162a-4396-a046-77f50cf39d0f/download/mapaarg.jpg",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos.agroindustria.gob.ar/dataset/19c2c34b-1f77-4893-afb0-3821d62891fa/resource/c19da40a-383b-4a1f-a50d-a12c820b6da7",
+      "attributesDescription": "[{\"type\": \"integer\", \"description\": \"pais_id\", \"title\": \"pais_id\"}, {\"type\": \"string\", \"description\": \"pais\", \"title\": \"pais\"}, {\"type\": \"integer\", \"description\": \"provincia_origen_id\", \"title\": \"provincia_origen_id\"}, {\"type\": \"string\", \"description\": \"provincia_origen\", \"title\": \"provincia_origen\"}, {\"type\": \"integer\", \"description\": \"departamento_origen_id\", \"title\": \"departamento_origen_id\"}, {\"type\": \"string\", \"description\": \"departamento_origen\", \"title\": \"departamento_origen\"}, {\"type\": \"string\", \"description\": \"zona_destino\", \"title\": \"zona_destino\"}, {\"type\": \"date\", \"description\": \"fecha_comprobante\", \"title\": \"fecha_comprobante\"}, {\"type\": \"string\", \"description\": \"raza\", \"title\": \"raza\"}, {\"type\": \"string\", \"description\": \"categoria\", \"title\": \"categoria\"}, {\"type\": \"integer\", \"description\": \"cabezas_comercializadas\", \"title\": \"cabezas_comercializadas\"}, {\"type\": \"string\", \"description\": \"unidad de Medida\", \"title\": \"unidad de Medida\"}, {\"type\": \"integer\", \"description\": \"precio($)_cabeza\", \"title\": \"precio($)_cabeza\"}, {\"type\": \"integer\", \"description\": \"precio($)_kg_vivo\", \"title\": \"precio($)_kg_vivo\"}, {\"type\": \"integer\", \"description\": \"cantidad_de_kg\", \"title\": \"cantidad_de_kg\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2018-10-25T14:06:32.235888",
+      "datastore_active": false,
+      "description": "Registro de operaciones de compra venta de ganado con destino a faena. El periodo tomado corresponde del 01/01/2019 a la actualidad.",
+      "fileName": "SIO-Carnes-2019-01-ene-hasta-28-feb.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "agroindustria_c19da40a-383b-4a1f-a50d-a12c820b6da7",
+      "last_modified": "2019-04-26T15:49:33.403697",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "SIO Carnes",
+      "package_id": "agroindustria_19c2c34b-1f77-4893-afb0-3821d62891fa",
+      "position": 3,
+      "resource_type": "file.upload",
+      "revision_id": "a132d87a-8920-4335-9b3d-c8def401ef7b",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.agroindustria.gob.ar/dataset/19c2c34b-1f77-4893-afb0-3821d62891fa/resource/c19da40a-383b-4a1f-a50d-a12c820b6da7/download/sio-carnes-2019-01-ene-hasta-28-feb.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "d6215e42-518a-4a93-b955-d473d9d17f81",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "SIO",
+      "id": "32f965ff-0aec-4d43-a9a2-e2bc3978c89a",
+      "name": "SIO",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "SIO Carnes",
+      "id": "8f4aadbd-979b-444f-91fc-ddaa0e7365a3",
+      "name": "SIO Carnes",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "bovino",
+      "id": "cc1d16c6-0568-4e84-8b13-5577a31abfc8",
+      "name": "bovino",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "bueyes",
+      "id": "a72b5204-90f0-4be9-b8a8-99d1342a4031",
+      "name": "bueyes",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "cabeza",
+      "id": "dd6cad86-651a-4311-960e-b8532a99fdda",
+      "name": "cabeza",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "carne vacuna",
+      "id": "19023695-a5ae-4117-8df4-ccfceca4d3af",
+      "name": "carne vacuna",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "carnes",
+      "id": "fc53853f-1703-4ddb-8491-fac26f4e0712",
+      "name": "carnes",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "cebu",
+      "id": "d61c9d0b-86e5-4c6e-99b2-e891acfca533",
+      "name": "cebu",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "faena",
+      "id": "d758fa81-9c05-4f8f-a2f5-3db059339bb7",
+      "name": "faena",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "ganado",
+      "id": "1439f647-fc24-437b-83e9-387e0578927c",
+      "name": "ganado",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "ganado para faena",
+      "id": "0da8a10e-3fda-448d-be81-e0f095b1ced9",
+      "name": "ganado para faena",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "kg vivo",
+      "id": "e87912bf-b1b0-455a-9578-f22db9d36fdb",
+      "name": "kg vivo",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "mercado de carnes",
+      "id": "15f1e753-ffef-4b1c-b489-514291d27078",
+      "name": "mercado de carnes",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "movimiento de ganado",
+      "id": "ed1ba5de-a7d1-41f3-84c8-ec196f9e2422",
+      "name": "movimiento de ganado",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "novillito",
+      "id": "341645da-c630-4f26-b2f4-cf58d9c3701d",
+      "name": "novillito",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "novillo",
+      "id": "b96937cc-c66b-4f15-b1c3-96f5a2ffe392",
+      "name": "novillo",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "precio",
+      "id": "c270495f-6e37-40a3-a07d-77e3efa504fc",
+      "name": "precio",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "precio de carne",
+      "id": "750765d0-52e1-4196-82e4-7c5f85616315",
+      "name": "precio de carne",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "raza",
+      "id": "cf1ad954-1327-45d3-95fa-f5a1298e1e9e",
+      "name": "raza",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "ternera",
+      "id": "6478a20e-77dd-4199-9cc6-044d0812df52",
+      "name": "ternera",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "ternero",
+      "id": "e98f428f-dc7a-4875-b990-4e4f0f0fb439",
+      "name": "ternero",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "torito",
+      "id": "71087238-b1d3-400e-b0fc-7304ccc60c2a",
+      "name": "torito",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "toro",
+      "id": "7ded858e-186d-4dce-9da2-0fe49645d3ed",
+      "name": "toro",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "vaca",
+      "id": "88bdc13b-7543-4d51-befe-a7300078fe0f",
+      "name": "vaca",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "vaquillona",
+      "id": "d0a5f205-2554-418c-a286-953123ec0ddd",
+      "name": "vaquillona",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "SIO Carnes",
+  "type": "dataset",
+  "url": "https://datos.agroindustria.gob.ar/dataset/sio-carnes",
+  "version": null
+}

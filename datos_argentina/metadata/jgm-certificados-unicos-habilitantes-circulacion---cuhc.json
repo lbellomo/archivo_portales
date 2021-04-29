@@ -1,0 +1,148 @@
+{
+  "author": "Jefatura de Gabinete de Ministros. Secretaría de Innovación Pública. Subsecretaría de Gobierno Abierto y País Digital.",
+  "author_email": "datosargentina@jefatura.gob.ar",
+  "creator_user_id": "dc157489-51c6-44ce-bd63-3bd983d60778",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P1M"
+    },
+    {
+      "key": "issued",
+      "value": "2020-11-12T00:00:00"
+    },
+    {
+      "key": "language",
+      "value": "[\"SPA\"]"
+    },
+    {
+      "key": "modified",
+      "value": "2021-04-09T00:00:00"
+    },
+    {
+      "key": "spatial",
+      "value": "ARG"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"GOVE\"]"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Gobierno y sector público",
+      "display_name": "Gobierno y sector público",
+      "id": "e6f07c77-3987-4e71-98a6-731b1aaf74f4",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225353.395233gobierno-sector-publico.svg",
+      "name": "gove",
+      "title": "Gobierno y sector público"
+    }
+  ],
+  "id": "jgm_20",
+  "isopen": true,
+  "license_id": "CC-BY-4.0",
+  "license_title": "Creative Commons Attribution 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "maintainer": "Jefatura de Gabinete de Ministros. Secretaría de Innovación Pública. Subsecretaría de Gobierno Abierto y País Digital.",
+  "maintainer_email": "datosargentina@jefatura.gob.ar",
+  "metadata_created": "2020-11-12T23:26:49.304348",
+  "metadata_modified": "2021-04-29T17:16:01.542376",
+  "name": "jgm-certificados-unicos-habilitantes-circulacion---cuhc",
+  "notes": "Certificados de circulación emitidos durante la emergencia sanitaria.",
+  "num_resources": 1,
+  "num_tags": 6,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:06.745974",
+    "description": "",
+    "id": "f917ad65-28ea-42a9-81ae-61a2bb8f58d0",
+    "image_url": "",
+    "is_organization": true,
+    "name": "jgm",
+    "revision_id": "ddd4eb90-3b5d-40d0-a290-414515935bf3",
+    "state": "active",
+    "title": " Jefatura de Gabinete de Ministros",
+    "type": "organization"
+  },
+  "owner_org": "f917ad65-28ea-42a9-81ae-61a2bb8f58d0",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "https://datos.gob.ar/dataset/jgm-certificados-unicos-habilitantes-circulacion---cuhc/archivo/jgm_20.1",
+      "attributesDescription": "[{\"title\": \"fecha_actualizacion\", \"type\": \"date\", \"description\": \"Fecha de corte de actualizaci\\u00f3n.\"}, {\"title\": \"categoria_certificado\", \"type\": \"string\", \"description\": \"Categor\\u00eda de Certificado emitido.\"}, {\"title\": \"tipo_certificado\", \"type\": \"string\", \"description\": \"Tipo de Certificado emitido.\"}, {\"title\": \"certificados_emitidos\", \"type\": \"number\", \"description\": \"Cantidades totales de Certificados emitidos a la fecha de actualizaci\\u00f3n.\", \"units\": \"Cantidad\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2020-11-12T00:00:00",
+      "datastore_active": false,
+      "description": "Cantidad de certificados totales emitidos a nivel nacional clasificados por tipo y categoría.",
+      "fileName": "cuhc_totales_nacional.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "jgm_20.1",
+      "last_modified": "2021-04-09T00:00:00",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Certificados totales emitidos por tipo a nivel nacional - Panel",
+      "package_id": "jgm_20",
+      "position": 0,
+      "resource_type": null,
+      "revision_id": "faa37f3b-93d9-4e91-8a40-6b166fff83ec",
+      "size": null,
+      "state": "active",
+      "url": "https://infra.datos.gob.ar/catalog/jgm/dataset/20/distribution/20.1/download/cuhc_totales_nacional.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "7bdec6e9-7803-402a-8b33-d6a59e7cf71e",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "Gobierno y sector público",
+      "id": "cabcb959-4dbc-4a58-b35e-dfd1f6d6ae5f",
+      "name": "Gobierno y sector público",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "certificados",
+      "id": "668880a7-432c-4f2e-99e8-9ef6743ec5d1",
+      "name": "certificados",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "circular",
+      "id": "670edcf1-0523-43fd-bad4-8aef902a4bc6",
+      "name": "circular",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "coronavirus",
+      "id": "d961d018-73ff-47c0-ac1d-bb4054bbe424",
+      "name": "coronavirus",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "covid",
+      "id": "21acfd34-1d2a-494e-a177-675cebee1e2b",
+      "name": "covid",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "permiso",
+      "id": "c73ddabe-6018-4bc2-97bc-fc6652299926",
+      "name": "permiso",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Certificados Únicos Habilitantes de Circulación - CUHC",
+  "type": "dataset",
+  "url": "https://www.argentina.gob.ar/circular",
+  "version": null
+}

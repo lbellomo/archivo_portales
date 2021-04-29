@@ -1,0 +1,166 @@
+{
+  "author": "Ente Nacional de Comunicaciones (ENACOM)",
+  "author_email": "contacto@enacom.gob.ar",
+  "creator_user_id": "4720e75a-9e17-4dc3-879d-041917c7f9f9",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P1Y"
+    },
+    {
+      "key": "issued",
+      "value": "2017-07-26T17:03:46"
+    },
+    {
+      "key": "language",
+      "value": "[\"spa\"]"
+    },
+    {
+      "key": "modified",
+      "value": "2020-04-21T18:11:13Z"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"TECH\"]"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Ciencia y tecnología",
+      "display_name": "Ciencia y tecnología",
+      "id": "0dd7dd0e-aae8-402f-8660-f1e8b6b6084c",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225221.170833ciencia-tecnologia.svg",
+      "name": "tech",
+      "title": "Ciencia y tecnología"
+    }
+  ],
+  "id": "enacom_INGRE-TRIME-POR-LA-96059",
+  "isopen": false,
+  "license_id": "notspecified",
+  "license_title": "No se especificó la licencia",
+  "maintainer": null,
+  "maintainer_email": null,
+  "metadata_created": "2019-11-26T14:55:39.954457",
+  "metadata_modified": "2021-04-29T17:04:36.526810",
+  "name": "enacom-ingresos-trimestrales-por-prestacion-servicio-telefonia-fija",
+  "notes": "Ingresos trimestrales de los operadores por el servicio de telefonía fija (miles de $)",
+  "num_resources": 3,
+  "num_tags": 3,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:07.525331",
+    "description": "",
+    "id": "6eb7d19b-2d42-494f-8e57-d67c501d23eb",
+    "image_url": "",
+    "is_organization": true,
+    "name": "enacom",
+    "revision_id": "f2d2a5ad-7015-4d68-9d9c-5a82fadbbbf3",
+    "state": "active",
+    "title": "Ente Nacional de Comunicaciones",
+    "type": "organization"
+  },
+  "owner_org": "6eb7d19b-2d42-494f-8e57-d67c501d23eb",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/241318/ingresos-trimestrales-por-la-prestacion-del-servicio-de-telefonia-fija/",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-07-26T17:03:46",
+      "datastore_active": false,
+      "description": "Ingresos trimestrales de los operadores por el servicio de telefonía fija (miles de $)",
+      "format": "CSV",
+      "hash": "",
+      "id": "enacom_INGRE-TRIME-POR-LA-96059_0",
+      "last_modified": "2020-04-21T15:11:13",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Ingresos trimestrales por la prestación del servicio de telefonía fija",
+      "package_id": "enacom_INGRE-TRIME-POR-LA-96059",
+      "position": 0,
+      "resource_type": null,
+      "revision_id": "5ee5eef6-5a0d-4ac5-86b3-d91bdd30eb7b",
+      "size": null,
+      "state": "active",
+      "url": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/INGRE-TRIME-POR-LA-96059/data.csv?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/241318/ingresos-trimestrales-por-la-prestacion-del-servicio-de-telefonia-fija/",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-07-26T17:03:46",
+      "datastore_active": false,
+      "description": "Ingresos trimestrales de los operadores por el servicio de telefonía fija (miles de $)",
+      "format": "XLS",
+      "hash": "",
+      "id": "enacom_INGRE-TRIME-POR-LA-96059_1",
+      "last_modified": "2020-04-21T15:11:13",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Ingresos trimestrales por la prestación del servicio de telefonía fija",
+      "package_id": "enacom_INGRE-TRIME-POR-LA-96059",
+      "position": 1,
+      "resource_type": null,
+      "revision_id": "699dd1c1-eef8-49ca-87c4-95c0fac144e3",
+      "size": null,
+      "state": "active",
+      "url": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/INGRE-TRIME-POR-LA-96059/data.xls?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/241318/ingresos-trimestrales-por-la-prestacion-del-servicio-de-telefonia-fija/",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-07-26T17:03:46",
+      "datastore_active": false,
+      "description": "Ingresos trimestrales de los operadores por el servicio de telefonía fija (miles de $)",
+      "format": "JSON",
+      "hash": "",
+      "id": "enacom_INGRE-TRIME-POR-LA-96059_2",
+      "last_modified": "2020-04-21T15:11:13",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Ingresos trimestrales por la prestación del servicio de telefonía fija",
+      "package_id": "enacom_INGRE-TRIME-POR-LA-96059",
+      "position": 2,
+      "resource_type": null,
+      "revision_id": "c0b4688a-ffbe-40d0-ab38-2af0b74220b9",
+      "size": null,
+      "state": "active",
+      "url": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/INGRE-TRIME-POR-LA-96059/data.json?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1",
+      "url_type": null
+    }
+  ],
+  "revision_id": "041fff9b-b13c-424c-a881-bd6d1cf37e20",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "Telefonía fija",
+      "id": "78ad5a25-be43-4c36-8b73-8094785b2f3b",
+      "name": "Telefonía fija",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "ingresos",
+      "id": "cf1ad8c2-e25e-40d2-9761-a8487d16ee5c",
+      "name": "ingresos",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "telefonia fija",
+      "id": "2a52ff80-7cbf-4145-b045-11f5b9b73751",
+      "name": "telefonia fija",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Ingresos trimestrales por la prestación del servicio de telefonía fija",
+  "type": "dataset",
+  "url": "http://api.datosabiertos.enacom.gob.ar/dataset/enacom-ingresos-trimestrales-por-prestacion-servicio-telefonia-fija",
+  "version": null
+}

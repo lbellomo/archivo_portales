@@ -1,0 +1,169 @@
+{
+  "author": "Secretaría de Gobierno de Energía.Subsecretaría de Planeamiento Energético.Dirección Nacional de Información Energética",
+  "author_email": "tienerg@energia.gob.ar",
+  "creator_user_id": "4720e75a-9e17-4dc3-879d-041917c7f9f9",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P1M"
+    },
+    {
+      "key": "issued",
+      "value": "2016-11-07T13:33:34.985951"
+    },
+    {
+      "key": "modified",
+      "value": "2020-04-22T17:40:02.318942"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"ENER\"]"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Energía",
+      "display_name": "Energía",
+      "id": "a4d3f632-eb48-4163-9791-165989c16035",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225337.421630energia.svg",
+      "name": "ener",
+      "title": "Energía"
+    }
+  ],
+  "id": "energia_071b7a3e-0a34-426c-a605-d24e7bdef9a3",
+  "isopen": false,
+  "license_id": "notspecified",
+  "license_title": "No se especificó la licencia",
+  "maintainer": "Ministerio de Energía y Minería.Secretaría de Coordinación de Planeamiento Energético.Dirección Nacional de Información Energética.Tecnología de la Información.",
+  "maintainer_email": "tienerg@minem.gob.ar",
+  "metadata_created": "2019-11-26T14:59:51.008336",
+  "metadata_modified": "2021-04-29T17:17:51.324362",
+  "name": "energia-exploracion-hidrocarburos---inventario-lineas-sismicas-2d",
+  "notes": "Inventario de Sísmicas 2D. ISO 19126: Extraction, Este subgrupo se compone de conceptos que se refieren a la extracción de materias primas y la excavación del suelo.",
+  "num_resources": 2,
+  "num_tags": 7,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:09.221510",
+    "description": "",
+    "id": "cd1b32a2-2d3a-44ac-8c98-a425a7b62d42",
+    "image_url": "",
+    "is_organization": true,
+    "name": "energia",
+    "revision_id": "a184cf69-99ad-4f84-a254-020031d7fe63",
+    "state": "active",
+    "title": "Secretaría de Energía",
+    "type": "organization"
+  },
+  "owner_org": "cd1b32a2-2d3a-44ac-8c98-a425a7b62d42",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "http://datos.minem.gob.ar/dataset/071b7a3e-0a34-426c-a605-d24e7bdef9a3/resource/fb01c3ae-dc61-4845-885a-457ea9c5f796",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-05-04T15:21:39.297845",
+      "datastore_active": false,
+      "description": "",
+      "fileName": "exploracin-hidrocarburos-lineas-ssmicas-2d.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "energia_fb01c3ae-dc61-4845-885a-457ea9c5f796",
+      "last_modified": "2020-11-01T05:13:52.976814",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Exploración Hidrocarburos Lineas Sísmicas 2D",
+      "package_id": "energia_071b7a3e-0a34-426c-a605-d24e7bdef9a3",
+      "position": 0,
+      "resource_type": null,
+      "revision_id": "41a43e72-a8f7-494e-b783-4f2fe84ee67f",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.minem.gob.ar/dataset/071b7a3e-0a34-426c-a605-d24e7bdef9a3/resource/fb01c3ae-dc61-4845-885a-457ea9c5f796/download/exploracin-hidrocarburos-lineas-ssmicas-2d.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos.minem.gob.ar/dataset/071b7a3e-0a34-426c-a605-d24e7bdef9a3/resource/30038505-6226-4383-b165-d27f5f6dcc9c",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-05-04T20:00:32.265737",
+      "datastore_active": false,
+      "description": "Archivos prj, shp, shx, dbf, xml. Sistema de Proyección EPSG:4326",
+      "fileName": "exploracin-hidrocarburos-lineas-ssmicas-2d.zip",
+      "format": "SHP",
+      "hash": "",
+      "id": "energia_30038505-6226-4383-b165-d27f5f6dcc9c",
+      "last_modified": "2020-11-01T05:12:09.166541",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Exploración Hidrocarburos Lineas Sísmicas 2D",
+      "package_id": "energia_071b7a3e-0a34-426c-a605-d24e7bdef9a3",
+      "position": 1,
+      "resource_type": null,
+      "revision_id": "41a43e72-a8f7-494e-b783-4f2fe84ee67f",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.minem.gob.ar/dataset/071b7a3e-0a34-426c-a605-d24e7bdef9a3/resource/30038505-6226-4383-b165-d27f5f6dcc9c/download/exploracin-hidrocarburos-lineas-ssmicas-2d.zip",
+      "url_type": null
+    }
+  ],
+  "revision_id": "8b6bbca4-c9c3-4494-aaa7-5db98de8178c",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "2D",
+      "id": "35b52d8b-3cab-4719-a588-4e9d721e6b3f",
+      "name": "2D",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Exploración",
+      "id": "98d23bb3-e657-4b7c-b8fe-04ad4d1244c1",
+      "name": "Exploración",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Exploración y Producción de Hidrocarburos",
+      "id": "578b8b35-2010-450c-adc5-ee88dfabdcb9",
+      "name": "Exploración y Producción de Hidrocarburos",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Información Geográfica",
+      "id": "d22bc8a4-252e-4fd8-89b2-3b9a08f6be42",
+      "name": "Información Geográfica",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Información geográfica",
+      "id": "24b3ee69-69cb-45de-a8b4-3566f4eab17c",
+      "name": "Información geográfica",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Planos base",
+      "id": "7703abed-f4b1-4541-b686-b178883e0ef9",
+      "name": "Planos base",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Sísmica",
+      "id": "098194ff-a17e-4c30-9b72-75c84563f016",
+      "name": "Sísmica",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Exploración de Hidrocarburos -  Inventario de Líneas Sísmicas 2D",
+  "type": "dataset",
+  "url": "http://datos.minem.gob.ar/dataset/",
+  "version": null
+}

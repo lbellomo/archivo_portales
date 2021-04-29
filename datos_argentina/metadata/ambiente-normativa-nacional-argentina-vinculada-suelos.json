@@ -1,0 +1,140 @@
+{
+  "author": "Ministerio de Ambiente y Desarrollo Sostenible. Dirección Nacional de Planificación y Ordenamiento Ambiental del Territorio.",
+  "author_email": "desersuelo@ambiente.gob.a",
+  "creator_user_id": "4720e75a-9e17-4dc3-879d-041917c7f9f9",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/PT1S"
+    },
+    {
+      "key": "issued",
+      "value": "2017-09-05T14:03:45.076961"
+    },
+    {
+      "key": "language",
+      "value": "[\"spa\"]"
+    },
+    {
+      "key": "modified",
+      "value": "2020-09-30T13:07:31.678383"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"ENVI\"]"
+    },
+    {
+      "key": "temporal",
+      "value": "1981-01-01T03:00:00.000Z/2017-09-01T03:00:00.000Z"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Medio ambiente",
+      "display_name": "Medio ambiente",
+      "id": "f71fe9d7-c703-43be-8d9d-af9441c326ba",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225440.964279medio-ambiente.svg",
+      "name": "envi",
+      "title": "Medio ambiente"
+    }
+  ],
+  "id": "ambiente_ec41f092-2a01-43ed-a12b-22d2a4c12bf8",
+  "isopen": false,
+  "license_id": "notspecified",
+  "license_title": "No se especificó la licencia",
+  "maintainer": "Ministerio de Ambiente y Desarrollo Sostenible. Dirección Nacional de Planificación y Ordenamiento Ambiental del Territorio.",
+  "maintainer_email": "desersuelo@ambiente.gob.ar",
+  "metadata_created": "2019-11-26T14:57:56.410911",
+  "metadata_modified": "2021-04-29T17:18:04.620969",
+  "name": "ambiente-normativa-nacional-argentina-vinculada-suelos",
+  "notes": "El dataset muestra el listado de la normativa nacional argentina vigente vinculada con la temática de suelos. ",
+  "num_resources": 1,
+  "num_tags": 5,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:07.043831",
+    "description": "",
+    "id": "0e5aa328-825e-4509-851d-5421e866635e",
+    "image_url": "",
+    "is_organization": true,
+    "name": "ambiente",
+    "revision_id": "105eb915-270c-4f67-9b4e-e6a3f08be6d7",
+    "state": "active",
+    "title": "Ministerio de Ambiente y Desarrollo Sostenible",
+    "type": "organization"
+  },
+  "owner_org": "0e5aa328-825e-4509-851d-5421e866635e",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "http://datos.ambiente.gob.ar/dataset/ec41f092-2a01-43ed-a12b-22d2a4c12bf8/resource/91803a80-013f-4694-89cb-16f1cfd9fb9a",
+      "attributesDescription": "[{\"type\": \"string\", \"description\": \"Tipo de normativa\", \"title\": \"normativa_tipo\"}, {\"type\": \"string\", \"description\": \"N\\u00famero de norma\", \"title\": \"normativa_numero\"}, {\"type\": \"string\", \"description\": \"Organismo que emiti\\u00f3 la norma\", \"title\": \"normativa_organismo_emisor\"}, {\"type\": \"date\", \"description\": \"Fecha de publicaci\\u00f3n de la norma en el Bolet\\u00edn Oficial de la Rep\\u00fablica Argentina\", \"title\": \"normativa_fecha_publicacion_boletin_oficial\"}, {\"type\": \"string\", \"description\": \"S\\u00edntesis tem\\u00e1tica de la norma\", \"title\": \"normativa_sumario\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-09-05T14:10:42.666688",
+      "datastore_active": false,
+      "description": "El dataset muestra el listado de la normativa nacional argentina vigente vinculada con la temática de suelos.",
+      "fileName": "normativa-nacional-argentina-suelos.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "ambiente_91803a80-013f-4694-89cb-16f1cfd9fb9a",
+      "last_modified": "2017-09-05T14:10:42.625724",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Normativa Nacional Argentina en la temática de suelos",
+      "package_id": "ambiente_ec41f092-2a01-43ed-a12b-22d2a4c12bf8",
+      "position": 0,
+      "resource_type": null,
+      "revision_id": "eea326b7-d2d7-4b8d-915f-9d2a313c7932",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.ambiente.gob.ar/dataset/ec41f092-2a01-43ed-a12b-22d2a4c12bf8/resource/91803a80-013f-4694-89cb-16f1cfd9fb9a/download/normativa-nacional-argentina-suelos.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "aba51d44-9071-409f-98d1-0d82b5c25ef0",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "Normativa ambiental",
+      "id": "a02c082e-e0ce-418d-8494-fe371f4cf3dc",
+      "name": "Normativa ambiental",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Tierra y suelo",
+      "id": "3d553b85-61e4-41df-b2dd-ac3ed39debdb",
+      "name": "Tierra y suelo",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "manejo sustentable de tierras",
+      "id": "37ce3ba5-8d85-4813-9f62-b8ca00372314",
+      "name": "manejo sustentable de tierras",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "normativa vinculada a suelos",
+      "id": "fd8d90c9-b653-497e-ba8b-2d3c3cd51e8b",
+      "name": "normativa vinculada a suelos",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "suelos",
+      "id": "e7b1fd32-f943-461d-b402-c62450abb927",
+      "name": "suelos",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Normativa nacional Argentina vinculada a Suelos",
+  "type": "dataset",
+  "url": "http://ambiente.gob.ar/suelos",
+  "version": null
+}

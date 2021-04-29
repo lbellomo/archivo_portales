@@ -1,0 +1,156 @@
+{
+  "author": "Subsecretaría de Programación Macroeconómica",
+  "author_email": "datoseconomicos@mecon.gov.ar",
+  "creator_user_id": "4720e75a-9e17-4dc3-879d-041917c7f9f9",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P3M"
+    },
+    {
+      "key": "issued",
+      "value": "2017-09-28"
+    },
+    {
+      "key": "language",
+      "value": "[\"SPA\"]"
+    },
+    {
+      "key": "source",
+      "value": "Instituto Nacional de Estadística y Censos (INDEC)"
+    },
+    {
+      "key": "spatial",
+      "value": "ARG"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"ECON\"]"
+    },
+    {
+      "key": "temporal",
+      "value": "2006-01-01/2015-06-01"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Economía y finanzas",
+      "display_name": "Economía y finanzas",
+      "id": "60b4b03e-10a1-4d67-b984-08008a249617",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225257.200233economia-finanzas.svg",
+      "name": "econ",
+      "title": "Economía y finanzas"
+    }
+  ],
+  "id": "sspm_69",
+  "isopen": true,
+  "license_id": "CC-BY-4.0",
+  "license_title": "Creative Commons Attribution 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "maintainer": "Subsecretaría de Programación Macroeconómica.",
+  "maintainer_email": "datoseconomicos@mecon.gov.ar",
+  "metadata_created": "2019-11-26T15:05:55.734721",
+  "metadata_modified": "2021-04-29T17:04:37.389431",
+  "name": "sspm-costo-salarial-por-rama-actividad-economica",
+  "notes": "Costo salarial de los puestos de trabajo declarados por sector de actividad económica. Total del país. En pesos . Datos en valores trimestrales",
+  "num_resources": 2,
+  "num_tags": 3,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:09.718132",
+    "description": "",
+    "id": "68f9ee22-5ec3-44cf-a32b-b87d9db46b93",
+    "image_url": "",
+    "is_organization": true,
+    "name": "sspm",
+    "revision_id": "bc058ce0-3540-4204-96cd-9f9ec79045b3",
+    "state": "active",
+    "title": "Subsecretaría de Programación Macroeconómica",
+    "type": "organization"
+  },
+  "owner_org": "68f9ee22-5ec3-44cf-a32b-b87d9db46b93",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/",
+      "attributesDescription": "[{\"title\": \"indice_tiempo\", \"type\": \"date\", \"specialType\": \"time_index\", \"specialTypeDetail\": \"R/P1Y\", \"description\": \"\", \"id\": \"69.1_IT_E_0_A_13\", \"scrapingIdentifierCell\": \"B12\", \"scrapingDataStartCell\": \"B13\", \"dataset_identifier\": \"69\", \"distribution_identifier\": \"69.1\"}, {\"title\": \"total_sistema\", \"type\": \"number\", \"description\": \"Costo salarial promedio en pesos. Total sistema\", \"id\": \"69.1_TS_E_0_A_13\", \"scrapingIdentifierCell\": \"C12\", \"scrapingDataStartCell\": \"C13\", \"units\": \"Pesos\", \"dataset_identifier\": \"69\", \"distribution_identifier\": \"69.1\"}, {\"title\": \"total_sectores_productores_bienes\", \"type\": \"number\", \"description\": \"Costo salarial promedio en pesos. Sectores productores de bienes\", \"id\": \"69.1_TPB_E_0_A_33\", \"scrapingIdentifierCell\": \"D12\", \"scrapingDataStartCell\": \"D13\", \"units\": \"Pesos\", \"dataset_identifier\": \"69\", \"distribution_identifier\": \"69.1\"}, {\"title\": \"agricultura_ganaderia_caza_silvicultura\", \"type\": \"number\", \"description\": \"Costo salarial promedio en pesos. Agricultura Ganaderia Caza y Silvicultura\", \"id\": \"69.1_AGCS_E_0_A_39\", \"scrapingIdentifierCell\": \"E12\", \"scrapingDataStartCell\": \"E13\", \"units\": \"Pesos\", \"dataset_identifier\": \"69\", \"distribution_identifier\": \"69.1\"}, {\"title\": \"pesca_servicios_conexos\", \"type\": \"number\", \"description\": \"Costo salarial promedio en pesos. Pesca y servicios conexos\", \"id\": \"69.1_P_E_0_A_23\", \"scrapingIdentifierCell\": \"F12\", \"scrapingDataStartCell\": \"F13\", \"units\": \"Pesos\", \"dataset_identifier\": \"69\", \"distribution_identifier\": \"69.1\"}, {\"title\": \"explotacion_minas_canteras\", \"type\": \"number\", \"description\": \"Costo salarial promedio en pesos. Explotacion de Minas y Canteras\", \"id\": \"69.1_EC_E_0_A_26\", \"scrapingIdentifierCell\": \"G12\", \"scrapingDataStartCell\": \"G13\", \"units\": \"Pesos\", \"dataset_identifier\": \"69\", \"distribution_identifier\": \"69.1\"}, {\"title\": \"total_industria_manufacturera\", \"type\": \"number\", \"description\": \"Costo salarial promedio en pesos. neta Industria manufacturera\", \"id\": \"69.1_TM_E_0_A_29\", \"scrapingIdentifierCell\": \"H12\", \"scrapingDataStartCell\": \"H13\", \"units\": \"Pesos\", \"dataset_identifier\": \"69\", \"distribution_identifier\": \"69.1\"}, {\"title\": \"alimentos_bebidas_tabaco\", \"type\": \"number\", \"description\": \"Costo salarial promedio en pesos. Alimentos, bebidas y tabaco\", \"id\": \"69.1_ABT_E_0_A_24\", \"scrapingIdentifierCell\": \"I12\", \"scrapingDataStartCell\": \"I13\", \"units\": \"Pesos\", \"dataset_identifier\": \"69\", \"distribution_identifier\": \"69.1\"}, {\"title\": \"textiles_cuero\", \"type\": \"number\", \"description\": \"Costo salarial promedio en pesos. Textiles y cueros\", \"id\": \"69.1_T_E_0_A_14\", \"scrapingIdentifierCell\": \"J12\", \"scrapingDataStartCell\": \"J13\", \"units\": \"Pesos\", \"dataset_identifier\": \"69\", \"distribution_identifier\": \"69.1\"}, {\"title\": \"madera_papel_imprenta_editoriales\", \"type\": \"number\", \"description\": \"Costo salarial promedio en pesos. Madera, papel, imprenta y editoriales\", \"id\": \"69.1_MIE_E_0_A_33\", \"scrapingIdentifierCell\": \"K12\", \"scrapingDataStartCell\": \"K13\", \"units\": \"Pesos\", \"dataset_identifier\": \"69\", \"distribution_identifier\": \"69.1\"}, {\"title\": \"derivados_petroleo_quimicos\", \"type\": \"number\", \"description\": \"Costo salarial promedio en pesos.Derivados del petroleo y Quimicos\", \"id\": \"69.1_DPQ_E_0_A_27\", \"scrapingIdentifierCell\": \"L12\", \"scrapingDataStartCell\": \"L13\", \"units\": \"Pesos\", \"dataset_identifier\": \"69\", \"distribution_identifier\": \"69.1\"}, {\"title\": \"metalicas_basicas_productos_metalicos\", \"type\": \"number\", \"description\": \"Costo salarial promedio en pesos. Metalicas basicas, prod. met. excepto maq. y equipo\", \"id\": \"69.1_MBM_E_0_A_37\", \"scrapingIdentifierCell\": \"M12\", \"scrapingDataStartCell\": \"M13\", \"units\": \"Pesos\", \"dataset_identifier\": \"69\", \"distribution_identifier\": \"69.1\"}, {\"title\": \"material_transporte\", \"type\": \"number\", \"description\": \"Costo salarial promedio en pesos. Material de transporte\", \"id\": \"69.1_MT_E_0_A_19\", \"scrapingIdentifierCell\": \"N12\", \"scrapingDataStartCell\": \"N13\", \"units\": \"Pesos\", \"dataset_identifier\": \"69\", \"distribution_identifier\": \"69.1\"}, {\"title\": \"maquinarias_equipos\", \"type\": \"number\", \"description\": \"Costo salarial promedio en pesos. Maquinarias y equipos\", \"id\": \"69.1_M_E_0_A_19\", \"scrapingIdentifierCell\": \"O12\", \"scrapingDataStartCell\": \"O13\", \"units\": \"Pesos\", \"dataset_identifier\": \"69\", \"distribution_identifier\": \"69.1\"}, {\"title\": \"otras_industrias\", \"type\": \"number\", \"description\": \"Costo salarial promedio en pesos. Otras industrias\", \"id\": \"69.1_OI_E_0_A_16\", \"scrapingIdentifierCell\": \"P12\", \"scrapingDataStartCell\": \"P13\", \"units\": \"Pesos\", \"dataset_identifier\": \"69\", \"distribution_identifier\": \"69.1\"}, {\"title\": \"suministro_electricidad_gas_agua\", \"type\": \"number\", \"description\": \"Costo salarial promedio en pesos. Electricidad gas y agua\", \"id\": \"69.1_SEGA_E_0_A_32\", \"scrapingIdentifierCell\": \"Q12\", \"scrapingDataStartCell\": \"Q13\", \"units\": \"Pesos\", \"dataset_identifier\": \"69\", \"distribution_identifier\": \"69.1\"}, {\"title\": \"construccion\", \"type\": \"number\", \"description\": \"Costo salarial promedio en pesos. Construccion\", \"id\": \"69.1_C_E_0_A_12\", \"scrapingIdentifierCell\": \"R12\", \"scrapingDataStartCell\": \"R13\", \"units\": \"Pesos\", \"dataset_identifier\": \"69\", \"distribution_identifier\": \"69.1\"}, {\"title\": \"total_sectores_productores_servicios\", \"type\": \"number\", \"description\": \"Costo salarial promedio en pesos. Total Sectores productores de servicios\", \"id\": \"69.1_TPS_E_0_A_36\", \"scrapingIdentifierCell\": \"S12\", \"scrapingDataStartCell\": \"S13\", \"units\": \"Pesos\", \"dataset_identifier\": \"69\", \"distribution_identifier\": \"69.1\"}, {\"title\": \"comercio_mayorista_minorista_reparaciones\", \"type\": \"number\", \"description\": \"Costo salarial promedio en pesos. Comercio Mayorista, Minorista y Reparaciones\", \"id\": \"69.1_CMMR_E_0_A_41\", \"scrapingIdentifierCell\": \"T12\", \"scrapingDataStartCell\": \"T13\", \"units\": \"Pesos\", \"dataset_identifier\": \"69\", \"distribution_identifier\": \"69.1\"}, {\"title\": \"hoteles_restaurantes\", \"type\": \"number\", \"description\": \"Costo salarial promedio en pesos. Hoteles y Restaurantes\", \"id\": \"69.1_HR_E_0_A_20\", \"scrapingIdentifierCell\": \"U12\", \"scrapingDataStartCell\": \"U13\", \"units\": \"Pesos\", \"dataset_identifier\": \"69\", \"distribution_identifier\": \"69.1\"}, {\"title\": \"transporte_almacenamiento_comunicaciones\", \"type\": \"number\", \"description\": \"Costo salarial promedio en pesos. Transporte, Almacenamiento y Comunicaciones\", \"id\": \"69.1_TAC_E_0_A_40\", \"scrapingIdentifierCell\": \"V12\", \"scrapingDataStartCell\": \"V13\", \"units\": \"Pesos\", \"dataset_identifier\": \"69\", \"distribution_identifier\": \"69.1\"}, {\"title\": \"intermediacion_financiera\", \"type\": \"number\", \"description\": \"Costo salarial promedio en pesos. Intermediacion Financiera\", \"id\": \"69.1_IF_E_0_A_25\", \"scrapingIdentifierCell\": \"W12\", \"scrapingDataStartCell\": \"W13\", \"units\": \"Pesos\", \"dataset_identifier\": \"69\", \"distribution_identifier\": \"69.1\"}, {\"title\": \"actividades_inmobiliarias_empresariales_alquiler\", \"type\": \"number\", \"description\": \"Costo salarial promedio en pesos. Actividades Inmobiliarias, Empresariales y de Alquiler\", \"id\": \"69.1_AIEA_E_0_A_48\", \"scrapingIdentifierCell\": \"X12\", \"scrapingDataStartCell\": \"X13\", \"units\": \"Pesos\", \"dataset_identifier\": \"69\", \"distribution_identifier\": \"69.1\"}, {\"title\": \"admin_publica_defensa_orgs_organos_extraterritoriales\", \"type\": \"number\", \"description\": \"Costo salarial promedio en pesos. Administracion Publica, Defensa y Organizaciones y Organos Extraterritoriales\", \"id\": \"69.1_APDOE_E_0_A_53\", \"scrapingIdentifierCell\": \"Y12\", \"scrapingDataStartCell\": \"Y13\", \"units\": \"Pesos\", \"dataset_identifier\": \"69\", \"distribution_identifier\": \"69.1\"}, {\"title\": \"servicios_sociales_ensenianza_saludos_privados\", \"type\": \"number\", \"description\": \"Costo salarial promedio en pesos. Servicios Sociales, Ense\\u00f1anza y Salud Privados\", \"id\": \"69.1_SSESP_E_0_A_46\", \"scrapingIdentifierCell\": \"Z12\", \"scrapingDataStartCell\": \"Z13\", \"units\": \"Pesos\", \"dataset_identifier\": \"69\", \"distribution_identifier\": \"69.1\"}, {\"title\": \"otras_actividades_servicios_comunitarios_sociales_personales\", \"type\": \"number\", \"description\": \"Costo salarial promedio en pesos. Otras Actividades de Servicios Comunitarios Sociales y Personales\", \"id\": \"69.1_OASCSP_E_0_A_60\", \"scrapingIdentifierCell\": \"AA12\", \"scrapingDataStartCell\": \"AA13\", \"units\": \"Pesos\", \"dataset_identifier\": \"69\", \"distribution_identifier\": \"69.1\"}, {\"title\": \"sin_clasificar\", \"type\": \"number\", \"description\": \"Costo salarial promedio en pesos. Sin clasificar\", \"id\": \"69.1_SC_E_0_A_14\", \"scrapingIdentifierCell\": \"AB12\", \"scrapingDataStartCell\": \"AB13\", \"units\": \"Pesos\", \"dataset_identifier\": \"69\", \"distribution_identifier\": \"69.1\"}, {\"title\": \"sector_privado\", \"type\": \"number\", \"description\": \"Costo salarial promedio en pesos. Sector privado\", \"id\": \"69.1_SP_E_0_A_14\", \"scrapingIdentifierCell\": \"AD12\", \"scrapingDataStartCell\": \"AD13\", \"units\": \"Pesos\", \"dataset_identifier\": \"69\", \"distribution_identifier\": \"69.1\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-09-28T00:00:00",
+      "datastore_active": false,
+      "description": "Costo Salarial de los puestos de trabajo declarados por sector de actividad económica. Total país.Datos en valores anuales (en pesos)",
+      "fileName": "costo-salarial-puestos-trabajo-por-sector-actividad-anual-pesos.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "sspm_69.1",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Costo Salarial de los puestos de trabajo por sector de actividad económica. En pesos. Valores anuales",
+      "package_id": "sspm_69",
+      "position": 0,
+      "resource_type": null,
+      "revision_id": "bda346e1-26c4-426b-822c-9da81ef4a141",
+      "size": null,
+      "state": "active",
+      "url": "https://infra.datos.gob.ar/catalog/sspm/dataset/69/distribution/69.1/download/costo-salarial-puestos-trabajo-por-sector-actividad-anual-pesos.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/",
+      "attributesDescription": "[{\"title\": \"indice_tiempo\", \"type\": \"date\", \"specialType\": \"time_index\", \"specialTypeDetail\": \"R/P3M\", \"id\": \"69.2_IT_E_0_T_13\", \"scrapingIdentifierCell\": \"B28\", \"scrapingDataStartCell\": \"B29\", \"dataset_identifier\": \"69\", \"distribution_identifier\": \"69.2\"}, {\"title\": \"total_sistema\", \"type\": \"number\", \"description\": \"Costo salarial promedio en pesos. Total sistema\", \"id\": \"69.2_TS_E_0_T_13\", \"scrapingIdentifierCell\": \"C28\", \"scrapingDataStartCell\": \"C29\", \"units\": \"Pesos\", \"dataset_identifier\": \"69\", \"distribution_identifier\": \"69.2\"}, {\"title\": \"total_sectores_productores_bienes\", \"type\": \"number\", \"description\": \"Costo salarial promedio en pesos. Sectores productores de bienes\", \"id\": \"69.2_TPB_E_0_T_33\", \"scrapingIdentifierCell\": \"D28\", \"scrapingDataStartCell\": \"D29\", \"units\": \"Pesos\", \"dataset_identifier\": \"69\", \"distribution_identifier\": \"69.2\"}, {\"title\": \"agricultura_ganaderia_caza_silvicultura\", \"type\": \"number\", \"description\": \"Costo salarial promedio en pesos. Agricultura Ganaderia Caza y Silvicultura\", \"id\": \"69.2_AGCS_E_0_T_39\", \"scrapingIdentifierCell\": \"E28\", \"scrapingDataStartCell\": \"E29\", \"units\": \"Pesos\", \"dataset_identifier\": \"69\", \"distribution_identifier\": \"69.2\"}, {\"title\": \"pesca_servicios_conexos\", \"type\": \"number\", \"description\": \"Costo salarial promedio en pesos. Pesca y servicios conexos\", \"id\": \"69.2_P_E_0_T_23\", \"scrapingIdentifierCell\": \"F28\", \"scrapingDataStartCell\": \"F29\", \"units\": \"Pesos\", \"dataset_identifier\": \"69\", \"distribution_identifier\": \"69.2\"}, {\"title\": \"explotacion_minas_canteras\", \"type\": \"number\", \"description\": \"Costo salarial promedio en pesos. Explotacion de Minas y Canteras\", \"id\": \"69.2_EC_E_0_T_26\", \"scrapingIdentifierCell\": \"G28\", \"scrapingDataStartCell\": \"G29\", \"units\": \"Pesos\", \"dataset_identifier\": \"69\", \"distribution_identifier\": \"69.2\"}, {\"title\": \"total_industria_manufacturera\", \"type\": \"number\", \"description\": \"Costo salarial promedio en pesos. neta Industria manufacturera\", \"id\": \"69.2_TM_E_0_T_29\", \"scrapingIdentifierCell\": \"H28\", \"scrapingDataStartCell\": \"H29\", \"units\": \"Pesos\", \"dataset_identifier\": \"69\", \"distribution_identifier\": \"69.2\"}, {\"title\": \"alimentos_bebidas_tabaco\", \"type\": \"number\", \"description\": \"Costo salarial promedio en pesos. Alimentos, bebidas y tabaco\", \"id\": \"69.2_ABT_E_0_T_24\", \"scrapingIdentifierCell\": \"I28\", \"scrapingDataStartCell\": \"I29\", \"units\": \"Pesos\", \"dataset_identifier\": \"69\", \"distribution_identifier\": \"69.2\"}, {\"title\": \"textiles_cuero\", \"type\": \"number\", \"description\": \"Costo salarial promedio en pesos. Textiles y cueros\", \"id\": \"69.2_T_E_0_T_14\", \"scrapingIdentifierCell\": \"J28\", \"scrapingDataStartCell\": \"J29\", \"units\": \"Pesos\", \"dataset_identifier\": \"69\", \"distribution_identifier\": \"69.2\"}, {\"title\": \"madera_papel_imprenta_editoriales\", \"type\": \"number\", \"description\": \"Costo salarial promedio en pesos. Madera, papel, imprenta y editoriales\", \"id\": \"69.2_MIE_E_0_T_33\", \"scrapingIdentifierCell\": \"K28\", \"scrapingDataStartCell\": \"K29\", \"units\": \"Pesos\", \"dataset_identifier\": \"69\", \"distribution_identifier\": \"69.2\"}, {\"title\": \"derivados_petroleo_quimicos\", \"type\": \"number\", \"description\": \"Costo salarial promedio en pesos.Derivados del petroleo y Quimicos\", \"id\": \"69.2_DPQ_E_0_T_27\", \"scrapingIdentifierCell\": \"L28\", \"scrapingDataStartCell\": \"L29\", \"units\": \"Pesos\", \"dataset_identifier\": \"69\", \"distribution_identifier\": \"69.2\"}, {\"title\": \"metalicas_basicas_productos_metalicos\", \"type\": \"number\", \"description\": \"Costo salarial promedio en pesos. Metalicas basicas, prod. met. excepto maq. y equipo\", \"id\": \"69.2_MBM_E_0_T_37\", \"scrapingIdentifierCell\": \"M28\", \"scrapingDataStartCell\": \"M29\", \"units\": \"Pesos\", \"dataset_identifier\": \"69\", \"distribution_identifier\": \"69.2\"}, {\"title\": \"material_transporte\", \"type\": \"number\", \"description\": \"Costo salarial promedio en pesos. Material de transporte\", \"id\": \"69.2_MT_E_0_T_19\", \"scrapingIdentifierCell\": \"N28\", \"scrapingDataStartCell\": \"N29\", \"units\": \"Pesos\", \"dataset_identifier\": \"69\", \"distribution_identifier\": \"69.2\"}, {\"title\": \"maquinarias_equipos\", \"type\": \"number\", \"description\": \"Costo salarial promedio en pesos. Maquinarias y equipos\", \"id\": \"69.2_M_E_0_T_19\", \"scrapingIdentifierCell\": \"O28\", \"scrapingDataStartCell\": \"O29\", \"units\": \"Pesos\", \"dataset_identifier\": \"69\", \"distribution_identifier\": \"69.2\"}, {\"title\": \"otras_industrias\", \"type\": \"number\", \"description\": \"Costo salarial promedio en pesos. Otras industrias\", \"id\": \"69.2_OI_E_0_T_16\", \"scrapingIdentifierCell\": \"P28\", \"scrapingDataStartCell\": \"P29\", \"units\": \"Pesos\", \"dataset_identifier\": \"69\", \"distribution_identifier\": \"69.2\"}, {\"title\": \"suministro_electricidad_gas_agua\", \"type\": \"number\", \"description\": \"Costo salarial promedio en pesos. Electricidad gas y agua\", \"id\": \"69.2_SEGA_E_0_T_32\", \"scrapingIdentifierCell\": \"Q28\", \"scrapingDataStartCell\": \"Q29\", \"units\": \"Pesos\", \"dataset_identifier\": \"69\", \"distribution_identifier\": \"69.2\"}, {\"title\": \"construccion\", \"type\": \"number\", \"description\": \"Costo salarial promedio en pesos. Construccion\", \"id\": \"69.2_C_E_0_T_12\", \"scrapingIdentifierCell\": \"R28\", \"scrapingDataStartCell\": \"R29\", \"units\": \"Pesos\", \"dataset_identifier\": \"69\", \"distribution_identifier\": \"69.2\"}, {\"title\": \"total_sectores_productores_servicios\", \"type\": \"number\", \"description\": \"Costo salarial promedio en pesos. Total Sectores productores de servicios\", \"id\": \"69.2_TPS_E_0_T_36\", \"scrapingIdentifierCell\": \"S28\", \"scrapingDataStartCell\": \"S29\", \"units\": \"Pesos\", \"dataset_identifier\": \"69\", \"distribution_identifier\": \"69.2\"}, {\"title\": \"comercio_mayorista_minorista_reparaciones\", \"type\": \"number\", \"description\": \"Costo salarial promedio en pesos. Comercio Mayorista, Minorista y Reparaciones\", \"id\": \"69.2_CMMR_E_0_T_41\", \"scrapingIdentifierCell\": \"T28\", \"scrapingDataStartCell\": \"T29\", \"units\": \"Pesos\", \"dataset_identifier\": \"69\", \"distribution_identifier\": \"69.2\"}, {\"title\": \"hoteles_restaurantes\", \"type\": \"number\", \"description\": \"Costo salarial promedio en pesos. Hoteles y Restaurantes\", \"id\": \"69.2_HR_E_0_T_20\", \"scrapingIdentifierCell\": \"U28\", \"scrapingDataStartCell\": \"U29\", \"units\": \"Pesos\", \"dataset_identifier\": \"69\", \"distribution_identifier\": \"69.2\"}, {\"title\": \"transporte_almacenamiento_comunicaciones\", \"type\": \"number\", \"description\": \"Costo salarial promedio en pesos. Transporte, Almacenamiento y Comunicaciones\", \"id\": \"69.2_TAC_E_0_T_40\", \"scrapingIdentifierCell\": \"V28\", \"scrapingDataStartCell\": \"V29\", \"units\": \"Pesos\", \"dataset_identifier\": \"69\", \"distribution_identifier\": \"69.2\"}, {\"title\": \"intermediacion_financiera\", \"type\": \"number\", \"description\": \"Costo salarial promedio en pesos. Intermediacion Financiera\", \"id\": \"69.2_IF_E_0_T_25\", \"scrapingIdentifierCell\": \"W28\", \"scrapingDataStartCell\": \"W29\", \"units\": \"Pesos\", \"dataset_identifier\": \"69\", \"distribution_identifier\": \"69.2\"}, {\"title\": \"actividades_inmobiliarias_empresariales_alquiler\", \"type\": \"number\", \"description\": \"Costo salarial promedio en pesos. Actividades Inmobiliarias, Empresariales y de Alquiler\", \"id\": \"69.2_AIEA_E_0_T_48\", \"scrapingIdentifierCell\": \"X28\", \"scrapingDataStartCell\": \"X29\", \"units\": \"Pesos\", \"dataset_identifier\": \"69\", \"distribution_identifier\": \"69.2\"}, {\"title\": \"admin_publica_defensa_orgs_organos_extraterritoriales\", \"type\": \"number\", \"description\": \"Costo salarial promedio en pesos. Administracion Publica, Defensa y Organizaciones y Organos Extraterritoriales\", \"id\": \"69.2_APDOE_E_0_T_53\", \"scrapingIdentifierCell\": \"Y28\", \"scrapingDataStartCell\": \"Y29\", \"units\": \"Pesos\", \"dataset_identifier\": \"69\", \"distribution_identifier\": \"69.2\"}, {\"title\": \"servicios_sociales_ensenianza_saludos_privados\", \"type\": \"number\", \"description\": \"Costo salarial promedio en pesos. Servicios Sociales, Ense\\u00f1anza y Salud Privados\", \"id\": \"69.2_SSESP_E_0_T_46\", \"scrapingIdentifierCell\": \"Z28\", \"scrapingDataStartCell\": \"Z29\", \"units\": \"Pesos\", \"dataset_identifier\": \"69\", \"distribution_identifier\": \"69.2\"}, {\"title\": \"otras_actividades_servicios_comunitarios_sociales_personales\", \"type\": \"number\", \"description\": \"Costo salarial promedio en pesos. Otras Actividades de Servicios Comunitarios Sociales y Personales\", \"id\": \"69.2_OASCSP_E_0_T_60\", \"scrapingIdentifierCell\": \"AA28\", \"scrapingDataStartCell\": \"AA29\", \"units\": \"Pesos\", \"dataset_identifier\": \"69\", \"distribution_identifier\": \"69.2\"}, {\"title\": \"sin_clasificar\", \"type\": \"number\", \"description\": \"Costo salarial promedio en pesos. Sin clasificar\", \"id\": \"69.2_SC_E_0_T_14\", \"scrapingIdentifierCell\": \"AB28\", \"scrapingDataStartCell\": \"AB29\", \"units\": \"Pesos\", \"dataset_identifier\": \"69\", \"distribution_identifier\": \"69.2\"}, {\"title\": \"sector_privado\", \"type\": \"number\", \"description\": \"Costo salarial promedio en pesos. Sector privado\", \"id\": \"69.2_SP_E_0_T_14\", \"scrapingIdentifierCell\": \"AD28\", \"scrapingDataStartCell\": \"AD29\", \"units\": \"Pesos\", \"dataset_identifier\": \"69\", \"distribution_identifier\": \"69.2\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-09-28T00:00:00",
+      "datastore_active": false,
+      "description": "Costo Salarial de los puestos de trabajo declarados por sector de actividad económica. Total país.Datos en valores trimestrales (en pesos)",
+      "fileName": "costo-salarial-puestos-trabajo-por-sector-actividad-trimestral-pesos.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "sspm_69.2",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Costo Salarial de los puestos de trabajo por sector de actividad económica. En pesos. Valores trimestrales",
+      "package_id": "sspm_69",
+      "position": 1,
+      "resource_type": null,
+      "revision_id": "bda346e1-26c4-426b-822c-9da81ef4a141",
+      "size": null,
+      "state": "active",
+      "url": "https://infra.datos.gob.ar/catalog/sspm/dataset/69/distribution/69.2/download/costo-salarial-puestos-trabajo-por-sector-actividad-trimestral-pesos.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "bda346e1-26c4-426b-822c-9da81ef4a141",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "Empleo e Ingresos",
+      "id": "0d41bcfd-c3a4-4ff7-8aa1-dd5c3ac51d0b",
+      "name": "Empleo e Ingresos",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Información Económica al Día",
+      "id": "0d300a9a-0802-46c3-9a40-2f28ddf050ec",
+      "name": "Información Económica al Día",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Precios",
+      "id": "308c2aaf-f177-4728-bda5-fd41662741a2",
+      "name": "Precios",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Costo Salarial, por rama de actividad económica",
+  "type": "dataset",
+  "url": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/",
+  "version": null
+}

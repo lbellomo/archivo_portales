@@ -1,0 +1,166 @@
+{
+  "author": "Servicio Nacional de Sanidad y Calidad Agroalimentaria",
+  "author_email": "desycg@senasa.gob.ar",
+  "creator_user_id": "dc157489-51c6-44ce-bd63-3bd983d60778",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P1M"
+    },
+    {
+      "key": "issued",
+      "value": "2019-09-23T15:49:38.518993"
+    },
+    {
+      "key": "language",
+      "value": "[\"spa\"]"
+    },
+    {
+      "key": "modified",
+      "value": "2019-12-19T16:38:41.070038"
+    },
+    {
+      "key": "source",
+      "value": "Servicio Nacional de Sanidad y Calidad Agroalimentaria - SENASA"
+    },
+    {
+      "key": "spatial",
+      "value": "[\"ARG\"]"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"AGRI\"]"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Agroganadería, pesca y forestación",
+      "display_name": "Agroganadería, pesca y forestación",
+      "id": "0c35ea38-7059-41d2-9827-5587769d0dc6",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225145.990789agroganaderia-pesca-forestacion.svg",
+      "name": "agri",
+      "title": "Agroganadería, pesca y forestación"
+    }
+  ],
+  "id": "agroindustria_62ced9ef-b243-4548-9637-4ed72d0af0ea",
+  "isopen": true,
+  "license_id": "CC-BY-4.0",
+  "license_title": "Creative Commons Attribution 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "maintainer": "Dirección Nacional de Sanidad Animal",
+  "maintainer_email": "desycg@senasa.gob.ar",
+  "metadata_created": "2019-12-20T14:38:59.213015",
+  "metadata_modified": "2021-04-29T17:11:44.189411",
+  "name": "agroindustria-senasa---movimientos-porcinos",
+  "notes": "Datos mensuales de los movimientos de la especie porcina detallando provincia y departamento de origen y destino.",
+  "num_resources": 1,
+  "num_tags": 8,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:07.834957",
+    "description": "",
+    "id": "b10c94e2-ade1-4a97-8c4c-b1ada7878d60",
+    "image_url": "",
+    "is_organization": true,
+    "name": "agroindustria",
+    "revision_id": "f7c3b6e9-d48f-4522-9f7a-388d805c8392",
+    "state": "active",
+    "title": "Ministerio de Agricultura, Ganadería y Pesca",
+    "type": "organization"
+  },
+  "owner_org": "b10c94e2-ade1-4a97-8c4c-b1ada7878d60",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "http://datos.agroindustria.gob.ar/dataset/62ced9ef-b243-4548-9637-4ed72d0af0ea/resource/63b6bcf0-c8c0-4ea9-8329-943073e3a610",
+      "attributesDescription": "[{\"specialType\": \"time_index\", \"type\": \"date\", \"title\": \"fecha\"}, {\"type\": \"string\", \"description\": \"Motivo por el que se genera el movimiento.\", \"title\": \"motivo\"}, {\"type\": \"string\", \"description\": \"Lugar del que sale.\", \"title\": \"salido_de\"}, {\"type\": \"string\", \"description\": \"Lugar al que ingresa.\", \"title\": \"ingresado_a\"}, {\"type\": \"string\", \"description\": \"Nombre de la provincia de origen.\", \"title\": \"provincia_origen\"}, {\"type\": \"integer\", \"description\": \"C\\u00f3digo de la provincia de origen.\", \"title\": \"provincia_origen_id\"}, {\"type\": \"string\", \"description\": \"Nombre del departamento de origen.\", \"title\": \"departamento_origen\"}, {\"type\": \"integer\", \"description\": \"C\\u00f3digo del departamento de origen.\", \"title\": \"departamento_origen_id\"}, {\"type\": \"string\", \"description\": \"Nombre de la provincia de destino.\", \"title\": \"provincia_destino\"}, {\"type\": \"integer\", \"description\": \"C\\u00f3digo de la provincia de destino.\", \"title\": \"provincia_destino_id\"}, {\"type\": \"string\", \"description\": \"Nombre del departamento de destino.\", \"title\": \"departamento_destino\"}, {\"type\": \"integer\", \"description\": \"C\\u00f3digo del departamento de destino.\", \"title\": \"departamento_destino_id\"}, {\"type\": \"integer\", \"description\": \"Cantidad de machos enteros adultos en edad reproductiva.\", \"title\": \"padrillo_porcino\"}, {\"type\": \"integer\", \"description\": \"Cantidad de hembras adultas en edad reproductiva.\", \"title\": \"cerda\"}, {\"type\": \"integer\", \"description\": \"Cantidad de machos j\\u00f3venes.\", \"title\": \"lechon\"}, {\"type\": \"integer\", \"description\": \"Cantidad de machos castrados destinados a engorde para faena.\", \"title\": \"capon_porcino\"}, {\"type\": \"integer\", \"description\": \"Cantidad de machos enteros j\\u00f3venes en desarrollo. \", \"title\": \"cachorro\"}, {\"type\": \"integer\", \"description\": \"Cantidad de machos enteros inmunol\\u00f3gicamente castrados o por m\\u00e9todos qu\\u00edmicos.\", \"title\": \"machos_enteros_inmunocastrados \"}, {\"description\": \"Cantidad de hembras j\\u00f3venes en desarrollo.\", \"title\": \"cachorra\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-09-27T14:37:19.767576",
+      "datastore_active": false,
+      "description": "Datos de los movimientos porcinos por categoría y mes para el periodo 2013 a .2018",
+      "fileName": "movimiento-porcino-2013-2018.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "agroindustria_63b6bcf0-c8c0-4ea9-8329-943073e3a610",
+      "last_modified": "2019-12-19T16:31:12.978136",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Movimientos porcinos 2013 a 2018",
+      "package_id": "agroindustria_62ced9ef-b243-4548-9637-4ed72d0af0ea",
+      "position": 0,
+      "resource_type": "file.upload",
+      "revision_id": "d4c31d90-3d26-4363-a03c-6c4bf6c68f28",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.agroindustria.gob.ar/dataset/62ced9ef-b243-4548-9637-4ed72d0af0ea/resource/63b6bcf0-c8c0-4ea9-8329-943073e3a610/download/movimiento-porcino-2013-2018.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "8c44f5b9-df56-4066-aba0-e46f138ec481",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "cachorra",
+      "id": "2408ded8-aa9a-48ff-867f-6a0245356f11",
+      "name": "cachorra",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "cachorro",
+      "id": "d4ed3b38-0152-4d3e-b002-a4a942ac6113",
+      "name": "cachorro",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "capon",
+      "id": "bc4e1456-a5e5-4ae1-9c30-2c704f98c576",
+      "name": "capon",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "cerda",
+      "id": "d9d8d1a8-d20a-4089-9192-9d46f732899c",
+      "name": "cerda",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "lechon",
+      "id": "d88fd67b-c438-47a5-a57a-3cfd5f7ce61a",
+      "name": "lechon",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "mei",
+      "id": "05c919b6-0dd0-492e-85f4-b6e88dd4c1a2",
+      "name": "mei",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "padrillo",
+      "id": "aa84fe6f-ecc6-48f3-a159-8672c5c27857",
+      "name": "padrillo",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "porcino",
+      "id": "79aed79c-d3be-492d-b04c-33387de986e4",
+      "name": "porcino",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "SENASA - Movimientos porcinos",
+  "type": "dataset",
+  "url": "https://datos.agroindustria.gob.ar/dataset/senasa-movimientos-porcinos",
+  "version": null
+}

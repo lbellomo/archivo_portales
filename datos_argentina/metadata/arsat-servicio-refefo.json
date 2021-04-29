@@ -1,0 +1,169 @@
+{
+  "author": "ARSAT",
+  "author_email": null,
+  "creator_user_id": "dc157489-51c6-44ce-bd63-3bd983d60778",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P1M"
+    },
+    {
+      "key": "issued",
+      "value": "2021-01-11T12:47:15.463730"
+    },
+    {
+      "key": "language",
+      "value": "[\"spa\"]"
+    },
+    {
+      "key": "modified",
+      "value": "2021-01-11T12:53:15.711181"
+    },
+    {
+      "key": "source",
+      "value": "ARSAT"
+    },
+    {
+      "key": "spatial",
+      "value": "[\"ARG\", \"06\", \"060805\"]"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"GOVE\", \"TECH\"]"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Ciencia y tecnología",
+      "display_name": "Ciencia y tecnología",
+      "id": "0dd7dd0e-aae8-402f-8660-f1e8b6b6084c",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225221.170833ciencia-tecnologia.svg",
+      "name": "tech",
+      "title": "Ciencia y tecnología"
+    },
+    {
+      "description": "Gobierno y sector público",
+      "display_name": "Gobierno y sector público",
+      "id": "e6f07c77-3987-4e71-98a6-731b1aaf74f4",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225353.395233gobierno-sector-publico.svg",
+      "name": "gove",
+      "title": "Gobierno y sector público"
+    }
+  ],
+  "id": "arsat_e16bc3f2-8bdb-4cbf-969e-3122799f38ba",
+  "isopen": true,
+  "license_id": "CC-BY-4.0",
+  "license_title": "Creative Commons Attribution 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "maintainer": null,
+  "maintainer_email": null,
+  "metadata_created": "2021-01-15T18:15:31.263444",
+  "metadata_modified": "2021-04-29T17:03:57.950365",
+  "name": "arsat-servicio-refefo",
+  "notes": "Clientes en servicio de la Red Federal de Fibra Óptica.",
+  "num_resources": 2,
+  "num_tags": 4,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:07.367973",
+    "description": "",
+    "id": "b2509ac0-3af6-4f66-9ffa-8c6fb4206791",
+    "image_url": "",
+    "is_organization": true,
+    "name": "arsat",
+    "revision_id": "0dcb42ba-2d5b-4c6e-bfc3-bfcbe273dbb4",
+    "state": "active",
+    "title": "Empresa Argentina de Soluciones Satelitales",
+    "type": "organization"
+  },
+  "owner_org": "b2509ac0-3af6-4f66-9ffa-8c6fb4206791",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "https://datos.arsat.com.ar/dataset/e16bc3f2-8bdb-4cbf-969e-3122799f38ba/resource/1185c150-f36d-4352-bcaf-ef4fea8ca51b",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2021-01-11T12:49:31.425492",
+      "datastore_active": false,
+      "description": "Evolución mensual de la cantidad de clientes en servicio",
+      "fileName": "20210401_evolucion-mensual-de-la-cantidad-de-clientes-en-servicio.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "arsat_1185c150-f36d-4352-bcaf-ef4fea8ca51b",
+      "last_modified": "2021-04-16T14:41:16.535087",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Evolución de cantidad de clientes en servicio",
+      "package_id": "arsat_e16bc3f2-8bdb-4cbf-969e-3122799f38ba",
+      "position": 0,
+      "resource_type": "file.upload",
+      "revision_id": "d308f315-8ed8-429c-8773-15c9e58d03dc",
+      "size": null,
+      "state": "active",
+      "url": "https://datos.arsat.com.ar/dataset/e16bc3f2-8bdb-4cbf-969e-3122799f38ba/resource/1185c150-f36d-4352-bcaf-ef4fea8ca51b/download/20210401_evolucion-mensual-de-la-cantidad-de-clientes-en-servicio.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://datos.arsat.com.ar/dataset/e16bc3f2-8bdb-4cbf-969e-3122799f38ba/resource/811b8f60-bea2-4c7e-945e-169644a389e3",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2021-01-11T12:52:13.369137",
+      "datastore_active": false,
+      "description": "Cantidad de clientes en servicio por provincia",
+      "fileName": "20210401_clientes_en_servicio_por_provincia.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "arsat_811b8f60-bea2-4c7e-945e-169644a389e3",
+      "last_modified": "2021-04-16T14:41:40.046383",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Clientes en servicio por provincia",
+      "package_id": "arsat_e16bc3f2-8bdb-4cbf-969e-3122799f38ba",
+      "position": 1,
+      "resource_type": "file.upload",
+      "revision_id": "d308f315-8ed8-429c-8773-15c9e58d03dc",
+      "size": null,
+      "state": "active",
+      "url": "https://datos.arsat.com.ar/dataset/e16bc3f2-8bdb-4cbf-969e-3122799f38ba/resource/811b8f60-bea2-4c7e-945e-169644a389e3/download/20210401_clientes_en_servicio_por_provincia.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "bf488b6d-ad86-4b19-873d-f5438d76e519",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "Clientes",
+      "id": "56387dab-47ef-4fe7-a9de-08ec3b7ffb8b",
+      "name": "Clientes",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Internet",
+      "id": "70087cf0-a5c5-4148-95d9-0bd9489c6a89",
+      "name": "Internet",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Red Federal de Fibra Óptica",
+      "id": "54468930-3198-4e9a-989d-b0bfa2e516c4",
+      "name": "Red Federal de Fibra Óptica",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Servicio",
+      "id": "4f3e0cd7-4c9d-4e39-9edf-7d76cc2513b0",
+      "name": "Servicio",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Servicio REFEFO",
+  "type": "dataset",
+  "url": "http://datos.arsat.com.ar/dataset/servicio-refefo",
+  "version": null
+}

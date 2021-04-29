@@ -1,0 +1,170 @@
+{
+  "author": "Ministerio del Interior, Obras Públicas y Vivienda. Secretaría de Asuntos Políticos y Fortalecimiento Institucional. Subsecretaría de Reforma Institucional y Fortalecimiento de la Democracia.",
+  "author_email": null,
+  "creator_user_id": "dc157489-51c6-44ce-bd63-3bd983d60778",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "eventual"
+    },
+    {
+      "key": "issued",
+      "value": "2016-03-07T19:03:12.554469"
+    },
+    {
+      "key": "language",
+      "value": "[\"SPA\"]"
+    },
+    {
+      "key": "modified",
+      "value": "2017-01-12T06:12:35.854665"
+    },
+    {
+      "key": "spatial",
+      "value": "ARG"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"GOVE\"]"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Gobierno y sector público",
+      "display_name": "Gobierno y sector público",
+      "id": "e6f07c77-3987-4e71-98a6-731b1aaf74f4",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225353.395233gobierno-sector-publico.svg",
+      "name": "gove",
+      "title": "Gobierno y sector público"
+    }
+  ],
+  "id": "otros_10",
+  "isopen": true,
+  "license_id": "CC-BY-4.0",
+  "license_title": "Creative Commons Attribution 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "maintainer": "Ministerio del Interior, Obras Públicas y Vivienda. Secretaría de Asuntos Políticos y Fortalecimiento Institucional. Subsecretaría de Reforma Institucional y Fortalecimiento de la Democracia.",
+  "maintainer_email": null,
+  "metadata_created": "2019-12-04T19:58:27.456432",
+  "metadata_modified": "2021-04-29T17:18:10.720803",
+  "name": "otros-registro-unico-audiencias-gestion-intereses",
+  "notes": "Información sobre las Audiencias solicitadas a Funcionarios Públicos. La misma surge del Registro Único de Audiencias de Gestión de Intereses del Poder Ejecutivo Nacional, establecido por el Decreto 1172/2003.",
+  "num_resources": 2,
+  "num_tags": 6,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:11.814764",
+    "description": "",
+    "id": "109d53ef-3ed3-498e-97d0-a456698969f7",
+    "image_url": "",
+    "is_organization": true,
+    "name": "otros",
+    "revision_id": "8e89e6e3-016b-4706-97c0-8cb55e1ce2c8",
+    "state": "active",
+    "title": "Otros organismos",
+    "type": "organization"
+  },
+  "owner_org": "109d53ef-3ed3-498e-97d0-a456698969f7",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "http://datos.gob.ar/dataset/otros_10/resource/otros_10.1",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2016-03-07T17:55:39.686273",
+      "datastore_active": false,
+      "description": "Datos provenientes del sistema de Registro Único de Audiencias\nde Gestión de Intereses utilizado hasta diciembre de 2016.",
+      "fileName": "audiencias-historico.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "otros_10.1",
+      "last_modified": "2017-01-11T19:26:04.302283",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Audiencias Histórico",
+      "package_id": "otros_10",
+      "position": 0,
+      "resource_type": "file",
+      "revision_id": "6fe014dd-eb43-4e1d-8b39-1779107cd4ac",
+      "size": null,
+      "state": "active",
+      "url": "https://infra.datos.gob.ar/catalog/otros/dataset/10/distribution/10.1/download/audiencias-historico.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://audiencias.mininterior.gob.ar",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-01-11T16:25:00.093591",
+      "datastore_active": false,
+      "description": "Datos sobre las fechas de solicitud y realización de la audiencia con Funcionarios Públicos, sus participantes y una síntesis de los temas discutidos.",
+      "format": "CSV",
+      "hash": "",
+      "id": "otros_10.2",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Audiencias",
+      "package_id": "otros_10",
+      "position": 1,
+      "resource_type": "file",
+      "revision_id": "6fe014dd-eb43-4e1d-8b39-1779107cd4ac",
+      "size": null,
+      "state": "active",
+      "url": "https://audiencias.mininterior.gob.ar/audiencias.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "6fe014dd-eb43-4e1d-8b39-1779107cd4ac",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "Agendas",
+      "id": "97d963f6-c1f9-4ace-9df1-e642e69d7786",
+      "name": "Agendas",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Audiencias",
+      "id": "cb6585a9-c5ca-4651-bcc3-3554351d2c05",
+      "name": "Audiencias",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Funcionarios",
+      "id": "9e563c22-6fb1-4de3-8ce9-eade0cfbcb74",
+      "name": "Funcionarios",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Gobierno y sector público",
+      "id": "cabcb959-4dbc-4a58-b35e-dfd1f6d6ae5f",
+      "name": "Gobierno y sector público",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Registros",
+      "id": "465411f1-a672-444c-929d-7b03ed23dc93",
+      "name": "Registros",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Reuniones",
+      "id": "1d6c04ad-d917-4d62-a032-74dceb9db0f9",
+      "name": "Reuniones",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Registro Único de Audiencias de Gestión de Intereses",
+  "type": "dataset",
+  "url": "http://audiencias.jgm.gob.ar/registrodeaudiencias/searchjgm.php",
+  "version": null
+}

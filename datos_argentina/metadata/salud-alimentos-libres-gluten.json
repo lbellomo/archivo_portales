@@ -1,0 +1,222 @@
+{
+  "author": "Ministerio de Salud. Secretaría de Políticas. Regulación e Institutos. Administración Nacional de Medicamentos. Alimentos y Tecnología Médica (ANMAT). Dirección General de Información técnica",
+  "author_email": "alimentos.especiales.inal@gmail.com",
+  "creator_user_id": "4720e75a-9e17-4dc3-879d-041917c7f9f9",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "eventual"
+    },
+    {
+      "key": "issued",
+      "value": "2018-07-26T09:43:42.812258"
+    },
+    {
+      "key": "language",
+      "value": "[\"spa\"]"
+    },
+    {
+      "key": "modified",
+      "value": "2020-05-15T15:42:43.211139"
+    },
+    {
+      "key": "source",
+      "value": "Ministerio de Salud. Secretaría de Políticas. Regulación e Institutos. Administración Nacional de Medicamentos. Alimentos y Tecnología Médica (ANMAT). Dirección General de Información técnica"
+    },
+    {
+      "key": "spatial",
+      "value": "[\"ARG\"]"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"HEAL\"]"
+    },
+    {
+      "key": "temporal",
+      "value": "2017-07-20T03:00:00.000Z/2018-07-20T03:00:00.000Z"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Salud",
+      "display_name": "Salud",
+      "id": "65cc1fbf-703a-43bf-8a14-232a55c34976",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225809.913196salud.svg",
+      "name": "heal",
+      "title": "Salud"
+    }
+  ],
+  "id": "salud_2ebd602e-3138-40c0-847a-f3eb8f520887",
+  "isopen": false,
+  "license_id": "notspecified",
+  "license_title": "No se especificó la licencia",
+  "maintainer": "Ministerio de Salud. Secretaría de Políticas. Regulación e Institutos. Administración Nacional de Medicamentos. Alimentos y Tecnología Médica (ANMAT). Dirección General de Información técnica",
+  "maintainer_email": "alimentos.especiales.inal@gmail.com",
+  "metadata_created": "2019-11-26T15:01:55.320358",
+  "metadata_modified": "2021-04-29T17:05:32.029025",
+  "name": "salud-alimentos-libres-gluten",
+  "notes": "Datos correspondientes a los Alimentos Libres de Gluten aptos para consumo en el territorio de la República Argentina.\r\n",
+  "num_resources": 4,
+  "num_tags": 5,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-11-15T11:12:22.202856",
+    "description": "",
+    "id": "dd1f2018-587f-43af-9b07-fc32f5ab588b",
+    "image_url": "",
+    "is_organization": true,
+    "name": "salud",
+    "revision_id": "14f0bb85-f97d-4325-b1c8-a7c1d3a815bf",
+    "state": "active",
+    "title": "Ministerio de Salud",
+    "type": "organization"
+  },
+  "owner_org": "dd1f2018-587f-43af-9b07-fc32f5ab588b",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "http://datos.salud.gob.ar/dataset/2ebd602e-3138-40c0-847a-f3eb8f520887/resource/197b5905-016f-420a-8c30-89032787c71c",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2018-07-26T09:44:17.185838",
+      "datastore_active": false,
+      "description": "Datos correspondientes a los Alimentos Libres de Gluten aptos para consumo en el territorio de la República Argentina para el mes de julio 2018\r\n",
+      "fileName": "alg-a-junio-2018.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "salud_197b5905-016f-420a-8c30-89032787c71c",
+      "last_modified": "2019-04-15T13:38:39.052207",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Alimentos Libres de Gluten - julio 2018",
+      "package_id": "salud_2ebd602e-3138-40c0-847a-f3eb8f520887",
+      "position": 0,
+      "resource_type": "file",
+      "revision_id": "a509f9d1-d88e-4a02-a0a0-0b14f998ed30",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.salud.gob.ar/dataset/2ebd602e-3138-40c0-847a-f3eb8f520887/resource/197b5905-016f-420a-8c30-89032787c71c/download/alg-a-junio-2018.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos.salud.gob.ar/dataset/2ebd602e-3138-40c0-847a-f3eb8f520887/resource/853d467c-5de5-46ae-bf04-5642c4960d1d",
+      "attributesDescription": "[{\"type\": \"string\", \"description\": \"Marca del producto comercial de los alimentos libres de gluten\", \"title\": \"marca\"}, {\"type\": \"string\", \"description\": \"Nombre de fantas\\u00eda  de los alimentos libres de gluten\", \"title\": \"nombre_fantasia\"}, {\"type\": \"string\", \"description\": \"Alimentos libres de gluten\", \"title\": \"denominacion\"}, {\"type\": \"string\", \"description\": \"C\\u00f3digo certificado de las autoridades sanitarias jurisdiccionales que otorgan a las empresas elaboradora de productos alimenticios.\", \"title\": \"RNPA\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-07-10T11:08:41.890542",
+      "datastore_active": false,
+      "description": "Datos correspondientes a los Alimentos Libres de Gluten aptos para consumo en el territorio de la República Argentina para el mes de julio 2019",
+      "fileName": "alimentos-libres-de-gluten.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "salud_853d467c-5de5-46ae-bf04-5642c4960d1d",
+      "last_modified": "2019-07-10T11:08:41.890542",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Alimentos Libres de Gluten - julio 2019",
+      "package_id": "salud_2ebd602e-3138-40c0-847a-f3eb8f520887",
+      "position": 1,
+      "resource_type": "file.upload",
+      "revision_id": "a509f9d1-d88e-4a02-a0a0-0b14f998ed30",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.salud.gob.ar/dataset/2ebd602e-3138-40c0-847a-f3eb8f520887/resource/853d467c-5de5-46ae-bf04-5642c4960d1d/download/alimentos-libres-de-gluten.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos.salud.gob.ar/dataset/2ebd602e-3138-40c0-847a-f3eb8f520887/resource/7869f858-1475-4391-9286-b9109b83f840",
+      "attributesDescription": "[{\"type\": \"string\", \"description\": \"Marca del producto comercial de los alimentos libres de gluten \", \"title\": \"marca\"}, {\"type\": \"string\", \"description\": \"Nombre de fantas\\u00eda de los alimentos libres de gluten \", \"title\": \"nombre_fantasia\"}, {\"type\": \"string\", \"description\": \"Alimentos libres de gluten \", \"title\": \"denominacion\"}, {\"type\": \"string\", \"description\": \"C\\u00f3digo certificado de las autoridades sanitarias jurisdiccionales que otorgan a las empresas elaboradora de productos alimenticios.\", \"title\": \"RNPA\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-07-10T11:19:33.628963",
+      "datastore_active": false,
+      "description": "Datos correspondientes a los Alimentos Libres de Gluten aptos para consumo en el territorio de la República Argentina para el mes de julio 2019",
+      "fileName": "alimentos-libres-de-gluten.xls",
+      "format": "XLS",
+      "hash": "",
+      "id": "salud_7869f858-1475-4391-9286-b9109b83f840",
+      "last_modified": "2019-07-10T11:19:33.628963",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Alimentos Libres de Gluten - julio 2019",
+      "package_id": "salud_2ebd602e-3138-40c0-847a-f3eb8f520887",
+      "position": 2,
+      "resource_type": "file.upload",
+      "revision_id": "a509f9d1-d88e-4a02-a0a0-0b14f998ed30",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.salud.gob.ar/dataset/2ebd602e-3138-40c0-847a-f3eb8f520887/resource/7869f858-1475-4391-9286-b9109b83f840/download/alimentos-libres-de-gluten.xls",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos.salud.gob.ar/dataset/2ebd602e-3138-40c0-847a-f3eb8f520887/resource/328d2a1b-ce9e-420f-a4e5-da86151d96d1",
+      "attributesDescription": "[{\"type\": \"string\", \"description\": \"Marca del producto comercial de los alimentos libres de gluten\", \"title\": \"marca\"}, {\"type\": \"string\", \"description\": \"Nombre de fantas\\u00eda de los alimentos libres de gluten \", \"title\": \"nombre_fantasia\"}, {\"type\": \"string\", \"description\": \"Alimentos libres de gluten\", \"title\": \"denominacion\"}, {\"type\": \"string\", \"description\": \"C\\u00f3digo certificado de las autoridades sanitarias jurisdiccionales que otorgan a las empresas elaboradora de productos alimenticios.\", \"title\": \"RNPA\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-07-10T11:23:46.323601",
+      "datastore_active": false,
+      "description": "Datos correspondientes a los Alimentos Libres de Gluten aptos para consumo en el territorio de la República Argentina para el mes de julio 2019",
+      "fileName": "alimentos-libres-de-gluten.json",
+      "format": "JSON",
+      "hash": "",
+      "id": "salud_328d2a1b-ce9e-420f-a4e5-da86151d96d1",
+      "last_modified": "2019-07-10T11:23:46.323601",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Alimentos Libres de Gluten - julio 2019",
+      "package_id": "salud_2ebd602e-3138-40c0-847a-f3eb8f520887",
+      "position": 3,
+      "resource_type": "file.upload",
+      "revision_id": "a509f9d1-d88e-4a02-a0a0-0b14f998ed30",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.salud.gob.ar/dataset/2ebd602e-3138-40c0-847a-f3eb8f520887/resource/328d2a1b-ce9e-420f-a4e5-da86151d96d1/download/alimentos-libres-de-gluten.json",
+      "url_type": null
+    }
+  ],
+  "revision_id": "24ce761d-4dc5-4166-a635-6d900926888b",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "ANMAT",
+      "id": "9d3e5cea-c392-4baf-8d75-2643eda05c98",
+      "name": "ANMAT",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Alimentos",
+      "id": "34e8db8f-7f87-45fa-911e-087ac22b1cb3",
+      "name": "Alimentos",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "alimentos",
+      "id": "de02fc97-e337-46eb-87a1-6f09e61ac2fa",
+      "name": "alimentos",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "gluten",
+      "id": "82054485-992c-478d-97d3-1ce61cf41ef6",
+      "name": "gluten",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "listados",
+      "id": "ccd4ecdb-96f4-4747-a3df-183fd9243ea7",
+      "name": "listados",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Alimentos Libres de Gluten",
+  "type": "dataset",
+  "url": "https://extranet.anmat.gov.ar/ALG_Mobile/asp/wfAlimentos.aspx",
+  "version": null
+}

@@ -1,0 +1,128 @@
+{
+  "author": "INSSJP",
+  "author_email": null,
+  "creator_user_id": "4720e75a-9e17-4dc3-879d-041917c7f9f9",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P4M"
+    },
+    {
+      "key": "issued",
+      "value": "2019-05-17T13:17:45.772958"
+    },
+    {
+      "key": "modified",
+      "value": "2019-05-17T13:17:45.772958"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"GOVE\", \"HEAL\"]"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Gobierno y sector público",
+      "display_name": "Gobierno y sector público",
+      "id": "e6f07c77-3987-4e71-98a6-731b1aaf74f4",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225353.395233gobierno-sector-publico.svg",
+      "name": "gove",
+      "title": "Gobierno y sector público"
+    },
+    {
+      "description": "Salud",
+      "display_name": "Salud",
+      "id": "65cc1fbf-703a-43bf-8a14-232a55c34976",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225809.913196salud.svg",
+      "name": "heal",
+      "title": "Salud"
+    }
+  ],
+  "id": "pami_9ed42856-dab7-45c9-abc6-d58295de07aa",
+  "isopen": true,
+  "license_id": "CC-BY-4.0",
+  "license_title": "Creative Commons Attribution 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "maintainer": null,
+  "maintainer_email": null,
+  "metadata_created": "2019-11-26T14:56:07.451167",
+  "metadata_modified": "2021-04-29T17:05:23.736376",
+  "name": "pami-listado-medicamentos-mas-consumidos",
+  "notes": "Ranking de los medicamentos más consumidos ",
+  "num_resources": 2,
+  "num_tags": 0,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:11.042876",
+    "description": "",
+    "id": "81c393aa-4d8e-43dc-82fd-70ae0bd18bb9",
+    "image_url": "",
+    "is_organization": true,
+    "name": "pami",
+    "revision_id": "c5370bbe-7ff7-4ad1-b192-1d839927048f",
+    "state": "active",
+    "title": " Instituto Nacional de Servicios Sociales para Jubilados y Pensionados (PAMI)",
+    "type": "organization"
+  },
+  "owner_org": "81c393aa-4d8e-43dc-82fd-70ae0bd18bb9",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "http://datos.pami.org.ar/dataset/9ed42856-dab7-45c9-abc6-d58295de07aa/resource/5a730074-46c2-43e4-809a-b2657f5e72a5",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-07-18T15:33:32.258363",
+      "datastore_active": false,
+      "description": "Ranking de los medicamentos más consumidos",
+      "fileName": "rank-medicamento-consumido-.xlsx",
+      "format": "XLSX",
+      "hash": "",
+      "id": "pami_5a730074-46c2-43e4-809a-b2657f5e72a5",
+      "last_modified": "2020-01-08T20:06:02.405909",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Listado de los medicamentos más consumidos",
+      "package_id": "pami_9ed42856-dab7-45c9-abc6-d58295de07aa",
+      "position": 0,
+      "resource_type": "file",
+      "revision_id": "94b4644b-a110-4559-a6c7-3ac26d637720",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.pami.org.ar/dataset/9ed42856-dab7-45c9-abc6-d58295de07aa/resource/5a730074-46c2-43e4-809a-b2657f5e72a5/download/rank-medicamento-consumido-.xlsx",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos.pami.org.ar/dataset/9ed42856-dab7-45c9-abc6-d58295de07aa/resource/a7ad1bfa-2f1d-44f4-a5dc-102cf793859c",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-07-18T15:34:46.636032",
+      "datastore_active": false,
+      "description": "Ranking de los medicamentos más consumidos",
+      "fileName": "rank-medicamento-consumido-.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "pami_a7ad1bfa-2f1d-44f4-a5dc-102cf793859c",
+      "last_modified": "2020-01-08T20:06:41.102505",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Listado de los medicamentos más consumidos",
+      "package_id": "pami_9ed42856-dab7-45c9-abc6-d58295de07aa",
+      "position": 1,
+      "resource_type": "file",
+      "revision_id": "5a7260da-9fcc-449a-9752-3037ad647f42",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.pami.org.ar/dataset/9ed42856-dab7-45c9-abc6-d58295de07aa/resource/a7ad1bfa-2f1d-44f4-a5dc-102cf793859c/download/rank-medicamento-consumido-.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "0b72ba2e-6e4d-4777-b638-0c61c3fbbadf",
+  "state": "active",
+  "tags": [],
+  "title": "Listado de los medicamentos más consumidos",
+  "type": "dataset",
+  "url": "http://datos2.pami.org.ar/dataset/medicamentos-mas-consumidos",
+  "version": null
+}

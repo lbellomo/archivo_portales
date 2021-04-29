@@ -1,0 +1,152 @@
+{
+  "author": "Ente Nacional de Comunicaciones (ENACOM)",
+  "author_email": "contacto@enacom.gob.ar",
+  "creator_user_id": "4720e75a-9e17-4dc3-879d-041917c7f9f9",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P1Y"
+    },
+    {
+      "key": "issued",
+      "value": "2018-12-10T14:54:59"
+    },
+    {
+      "key": "language",
+      "value": "[\"spa\"]"
+    },
+    {
+      "key": "modified",
+      "value": "2020-05-15T22:49:06Z"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"TECH\"]"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Ciencia y tecnología",
+      "display_name": "Ciencia y tecnología",
+      "id": "0dd7dd0e-aae8-402f-8660-f1e8b6b6084c",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225221.170833ciencia-tecnologia.svg",
+      "name": "tech",
+      "title": "Ciencia y tecnología"
+    }
+  ],
+  "id": "enacom_LISTA-DE-ESTAC-REPET-AUTOR",
+  "isopen": false,
+  "license_id": "notspecified",
+  "license_title": "No se especificó la licencia",
+  "maintainer": null,
+  "maintainer_email": null,
+  "metadata_created": "2019-11-26T14:55:21.769907",
+  "metadata_modified": "2021-04-29T17:04:38.194597",
+  "name": "enacom-listado-estaciones-repetidoras-autorizadas",
+  "notes": "Estaciones repetidoras autorizadas",
+  "num_resources": 3,
+  "num_tags": 1,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:07.525331",
+    "description": "",
+    "id": "6eb7d19b-2d42-494f-8e57-d67c501d23eb",
+    "image_url": "",
+    "is_organization": true,
+    "name": "enacom",
+    "revision_id": "f2d2a5ad-7015-4d68-9d9c-5a82fadbbbf3",
+    "state": "active",
+    "title": "Ente Nacional de Comunicaciones",
+    "type": "organization"
+  },
+  "owner_org": "6eb7d19b-2d42-494f-8e57-d67c501d23eb",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/243051/listado-de-estaciones-repetidoras-autorizadas/",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2018-12-10T14:54:59",
+      "datastore_active": false,
+      "description": "Estaciones repetidoras autorizadas",
+      "format": "CSV",
+      "hash": "",
+      "id": "enacom_LISTA-DE-ESTAC-REPET-AUTOR_0",
+      "last_modified": "2020-05-15T19:49:06",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Listado de estaciones repetidoras autorizadas",
+      "package_id": "enacom_LISTA-DE-ESTAC-REPET-AUTOR",
+      "position": 0,
+      "resource_type": null,
+      "revision_id": "08d22680-a26b-428d-8f24-45b87ceee7d2",
+      "size": null,
+      "state": "active",
+      "url": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/LISTA-DE-ESTAC-REPET-AUTOR/data.csv?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/243051/listado-de-estaciones-repetidoras-autorizadas/",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2018-12-10T14:54:59",
+      "datastore_active": false,
+      "description": "Estaciones repetidoras autorizadas",
+      "format": "XLS",
+      "hash": "",
+      "id": "enacom_LISTA-DE-ESTAC-REPET-AUTOR_1",
+      "last_modified": "2020-05-15T19:49:06",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Listado de estaciones repetidoras autorizadas",
+      "package_id": "enacom_LISTA-DE-ESTAC-REPET-AUTOR",
+      "position": 1,
+      "resource_type": null,
+      "revision_id": "08d22680-a26b-428d-8f24-45b87ceee7d2",
+      "size": null,
+      "state": "active",
+      "url": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/LISTA-DE-ESTAC-REPET-AUTOR/data.xls?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/243051/listado-de-estaciones-repetidoras-autorizadas/",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2018-12-10T14:54:59",
+      "datastore_active": false,
+      "description": "Estaciones repetidoras autorizadas",
+      "format": "JSON",
+      "hash": "",
+      "id": "enacom_LISTA-DE-ESTAC-REPET-AUTOR_2",
+      "last_modified": "2020-05-15T19:49:06",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Listado de estaciones repetidoras autorizadas",
+      "package_id": "enacom_LISTA-DE-ESTAC-REPET-AUTOR",
+      "position": 2,
+      "resource_type": null,
+      "revision_id": "cacf4985-5187-4a85-895c-7aafe6c790ab",
+      "size": null,
+      "state": "active",
+      "url": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/LISTA-DE-ESTAC-REPET-AUTOR/data.json?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1",
+      "url_type": null
+    }
+  ],
+  "revision_id": "77ae1ad6-96d8-47d7-b06a-50bbda53cbe2",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "Espectro Radioelectrico",
+      "id": "2210187b-2a13-4592-9ff0-5229ea6e10e3",
+      "name": "Espectro Radioelectrico",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Listado de estaciones repetidoras autorizadas",
+  "type": "dataset",
+  "url": "http://api.datosabiertos.enacom.gob.ar/dataset/enacom-listado-estaciones-repetidoras-autorizadas",
+  "version": null
+}

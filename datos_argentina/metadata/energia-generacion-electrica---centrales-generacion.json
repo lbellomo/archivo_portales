@@ -1,0 +1,162 @@
+{
+  "author": "Secretaría de Gobierno de Energía.Subsecretaría de Planeamiento Energético.Dirección Nacional de Información Energética",
+  "author_email": "tienerg@energia.gob.ar",
+  "creator_user_id": "4720e75a-9e17-4dc3-879d-041917c7f9f9",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P1Y"
+    },
+    {
+      "key": "issued",
+      "value": "2016-11-07T13:33:34.985951"
+    },
+    {
+      "key": "modified",
+      "value": "2019-07-24T15:36:11.080276"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"ENER\"]"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Energía",
+      "display_name": "Energía",
+      "id": "a4d3f632-eb48-4163-9791-165989c16035",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225337.421630energia.svg",
+      "name": "ener",
+      "title": "Energía"
+    }
+  ],
+  "id": "energia_c62df6c6-73af-4039-b956-db081ff6eebe",
+  "isopen": false,
+  "license_id": "notspecified",
+  "license_title": "No se especificó la licencia",
+  "maintainer": "Ministerio de Energía y Minería.Secretaría de Coordinación de Planeamiento Energético.Dirección Nacional de Información Energética.Tecnología de la Información.",
+  "maintainer_email": "tienerg@energia.gob.ar",
+  "metadata_created": "2019-11-26T14:59:52.122631",
+  "metadata_modified": "2021-04-29T17:17:50.558709",
+  "name": "energia-generacion-electrica---centrales-generacion",
+  "notes": "Centrales de generación. ISO 19126: PowerSupplies, Este subgrupo se compone de conceptos que se relacionan con la producción, transporte y distribución de energía.",
+  "num_resources": 2,
+  "num_tags": 6,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:09.221510",
+    "description": "",
+    "id": "cd1b32a2-2d3a-44ac-8c98-a425a7b62d42",
+    "image_url": "",
+    "is_organization": true,
+    "name": "energia",
+    "revision_id": "a184cf69-99ad-4f84-a254-020031d7fe63",
+    "state": "active",
+    "title": "Secretaría de Energía",
+    "type": "organization"
+  },
+  "owner_org": "cd1b32a2-2d3a-44ac-8c98-a425a7b62d42",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "http://datos.minem.gob.ar/dataset/c62df6c6-73af-4039-b956-db081ff6eebe/resource/512e8588-35dc-4b95-bf7a-89cd3bd00842",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-05-04T23:03:23.441770",
+      "datastore_active": false,
+      "description": "Archivos prj, shp, shx, dbf, xml. Sistema de Proyección EPSG:4326",
+      "fileName": "generacin-elctrica-centrales-de-generacin.zip",
+      "format": "SHP",
+      "hash": "",
+      "id": "energia_512e8588-35dc-4b95-bf7a-89cd3bd00842",
+      "last_modified": "2020-11-03T05:06:44.446065",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Generación Eléctrica Centrales de Generación",
+      "package_id": "energia_c62df6c6-73af-4039-b956-db081ff6eebe",
+      "position": 0,
+      "resource_type": null,
+      "revision_id": "dd9c2407-45d4-419a-8595-dbb0e47028bc",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.minem.gob.ar/dataset/c62df6c6-73af-4039-b956-db081ff6eebe/resource/512e8588-35dc-4b95-bf7a-89cd3bd00842/download/generacin-elctrica-centrales-de-generacin.zip",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos.minem.gob.ar/dataset/c62df6c6-73af-4039-b956-db081ff6eebe/resource/230fdf38-8f12-4017-a1e8-d7a1bc4a1c1c",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-05-04T23:16:52.665010",
+      "datastore_active": false,
+      "description": "",
+      "fileName": "generacin-elctrica-centrales-de-generacin.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "energia_230fdf38-8f12-4017-a1e8-d7a1bc4a1c1c",
+      "last_modified": "2020-11-03T05:06:43.354922",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Generación Eléctrica Centrales de Generación",
+      "package_id": "energia_c62df6c6-73af-4039-b956-db081ff6eebe",
+      "position": 1,
+      "resource_type": null,
+      "revision_id": "dd9c2407-45d4-419a-8595-dbb0e47028bc",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.minem.gob.ar/dataset/c62df6c6-73af-4039-b956-db081ff6eebe/resource/230fdf38-8f12-4017-a1e8-d7a1bc4a1c1c/download/generacin-elctrica-centrales-de-generacin.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "80de6672-b244-4b11-aa6e-004947a47b32",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "Centrales de generación",
+      "id": "aeef7728-2990-4af3-b938-b8746d76ea09",
+      "name": "Centrales de generación",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Eléctrica",
+      "id": "65531076-1464-4bb1-9a93-eeb54f138458",
+      "name": "Eléctrica",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Generación",
+      "id": "1488ccb6-26ca-479f-ae10-26499141beb7",
+      "name": "Generación",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Generación de Energía Eléctrica",
+      "id": "bdfac485-4a3e-47e3-8ee0-60850e834019",
+      "name": "Generación de Energía Eléctrica",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Información Geográfica",
+      "id": "d22bc8a4-252e-4fd8-89b2-3b9a08f6be42",
+      "name": "Información Geográfica",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Información geográfica",
+      "id": "24b3ee69-69cb-45de-a8b4-3566f4eab17c",
+      "name": "Información geográfica",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Generación Eléctrica - Centrales de generación",
+  "type": "dataset",
+  "url": "http://datos.minem.gob.ar/dataset/",
+  "version": null
+}

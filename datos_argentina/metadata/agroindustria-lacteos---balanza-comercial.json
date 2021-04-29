@@ -1,0 +1,198 @@
+{
+  "author": "Ministerio de Agricultura, Ganadería y Pesca",
+  "author_email": "estadisticaslecheria@magyp.gob.ar",
+  "creator_user_id": "dc157489-51c6-44ce-bd63-3bd983d60778",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P3M"
+    },
+    {
+      "key": "issued",
+      "value": "2019-12-26T18:20:30.058005"
+    },
+    {
+      "key": "language",
+      "value": "[\"spa\"]"
+    },
+    {
+      "key": "modified",
+      "value": "2020-01-06T09:25:14.151830"
+    },
+    {
+      "key": "spatial",
+      "value": "[\"ARG\"]"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"AGRI\", \"ECON\"]"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Agroganadería, pesca y forestación",
+      "display_name": "Agroganadería, pesca y forestación",
+      "id": "0c35ea38-7059-41d2-9827-5587769d0dc6",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225145.990789agroganaderia-pesca-forestacion.svg",
+      "name": "agri",
+      "title": "Agroganadería, pesca y forestación"
+    },
+    {
+      "description": "Economía y finanzas",
+      "display_name": "Economía y finanzas",
+      "id": "60b4b03e-10a1-4d67-b984-08008a249617",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225257.200233economia-finanzas.svg",
+      "name": "econ",
+      "title": "Economía y finanzas"
+    }
+  ],
+  "id": "agroindustria_9cecf504-6352-4dae-bacb-0a8bfead3e7c",
+  "isopen": true,
+  "license_id": "CC-BY-4.0",
+  "license_title": "Creative Commons Attribution 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "maintainer": "Dirección Nacional Láctea",
+  "maintainer_email": "estadisticaslecheria@magyp.gob.ar",
+  "metadata_created": "2020-01-13T14:41:28.517251",
+  "metadata_modified": "2021-04-29T17:16:06.464475",
+  "name": "agroindustria-lacteos---balanza-comercial",
+  "notes": "Datos de la balanza comercial de productos lácteos.\r\n(Diferencia entre Exportaciones e Importaciones)",
+  "num_resources": 1,
+  "num_tags": 12,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:07.834957",
+    "description": "",
+    "id": "b10c94e2-ade1-4a97-8c4c-b1ada7878d60",
+    "image_url": "",
+    "is_organization": true,
+    "name": "agroindustria",
+    "revision_id": "f7c3b6e9-d48f-4522-9f7a-388d805c8392",
+    "state": "active",
+    "title": "Ministerio de Agricultura, Ganadería y Pesca",
+    "type": "organization"
+  },
+  "owner_org": "b10c94e2-ade1-4a97-8c4c-b1ada7878d60",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "http://datos.agroindustria.gob.ar/dataset/9cecf504-6352-4dae-bacb-0a8bfead3e7c/resource/79d0e117-6f2e-4c7c-8a39-b4b0b71c5c74",
+      "attributesDescription": "[{\"specialType\": \"time_index\", \"specialTypeDetail\": \"R/P1Y\", \"type\": \"date\", \"description\": \"Indice de Tiempo\", \"title\": \"Indice_tiempo\"}, {\"units\": \"Dolares\", \"id\": \"AGRO_0401\", \"type\": \"number\", \"description\": \"Cantidad de d\\u00f3lares en la balanza comercial de leche fluida.\", \"title\": \"leche_fluida\"}, {\"units\": \"Dolares\", \"id\": \"AGRO_0402\", \"type\": \"number\", \"description\": \"Cantidad de d\\u00f3lares en la balanza comercial de leche en polvo entera.\", \"title\": \"leche_polvo_entera\"}, {\"units\": \"Dolares\", \"id\": \"AGRO_0403\", \"type\": \"number\", \"description\": \"Cantidad de d\\u00f3lares en la balanza comercial de leche en polvo descremada.\", \"title\": \"leche_polvo_descremada\"}, {\"units\": \"Dolares\", \"id\": \"AGRO_0404\", \"type\": \"number\", \"description\": \"Cantidad de d\\u00f3lares en la balanza comercial de leche maternizada. Incluye leche en polvo modificada.\", \"title\": \"leche_maternizada\"}, {\"units\": \"Dolares\", \"id\": \"AGRO_0405\", \"type\": \"number\", \"description\": \"Cantidad de d\\u00f3lares en la balanza comercial de leche condensada.\", \"title\": \"leche_condensada\"}, {\"units\": \"Dolares\", \"id\": \"AGRO_0406\", \"type\": \"number\", \"description\": \"Cantidad de d\\u00f3lares en la balanza comercial de dulce de leche.\", \"title\": \"dulce_de_leche\"}, {\"units\": \"Dolares\", \"id\": \"AGRO_0407\", \"type\": \"number\", \"description\": \"Cantidad de d\\u00f3lares en la balanza comercial de queso de pasta blanda.\", \"title\": \"queso_pasta_blanda\"}, {\"units\": \"Dolares\", \"id\": \"AGRO_0408\", \"type\": \"number\", \"description\": \"Cantidad de d\\u00f3lares en la balanza comercial de queso de pasta semidura.\", \"title\": \"queso_pasta_semidura\"}, {\"units\": \"Dolares\", \"id\": \"AGRO_0409\", \"type\": \"number\", \"description\": \"Cantidad de d\\u00f3lares en la balanza comercial de queso de pasta dura.\", \"title\": \"queso_pasta_dura\"}, {\"units\": \"Dolares\", \"id\": \"AGRO_0410\", \"type\": \"number\", \"description\": \"Cantidad de d\\u00f3lares en la balanza comercial de queso rallado.\", \"title\": \"queso_rallado\"}, {\"units\": \"Dolares\", \"id\": \"AGRO_0411\", \"type\": \"number\", \"description\": \"Cantidad de d\\u00f3lares en la balanza comercial de queso fundido.\", \"title\": \"queso_fundido\"}, {\"units\": \"Dolares\", \"id\": \"AGRO_0412\", \"type\": \"number\", \"description\": \"Cantidad de d\\u00f3lares en la balanza comercial de otros quesos.\", \"title\": \"otros_quesos\"}, {\"units\": \"Dolares\", \"id\": \"AGRO_0413\", \"type\": \"number\", \"description\": \"Cantidad de d\\u00f3lares en la balanza comercial de manteca.\", \"title\": \"manteca\"}, {\"units\": \"Dolares\", \"id\": \"AGRO_0414\", \"type\": \"number\", \"description\": \"Cantidad de d\\u00f3lares en la balanza comercial de aceite but\\u00edrico.\", \"title\": \"aceite_butirico\"}, {\"units\": \"Dolares\", \"id\": \"AGRO_0415\", \"type\": \"number\", \"description\": \"Cantidad de d\\u00f3lares en la balanza comercial de crema.\", \"title\": \"crema\"}, {\"units\": \"Dolares\", \"id\": \"AGRO_0416\", \"type\": \"number\", \"description\": \"Cantidad de d\\u00f3lares en la balanza comercial de yogur.\", \"title\": \"yogur\"}, {\"units\": \"Dolares\", \"id\": \"AGRO_0417\", \"type\": \"number\", \"description\": \"Cantidad de d\\u00f3lares en la balanza comercial de otros fermentados. Incluye productos fermentados que no son yogur.\", \"title\": \"otros_fermentados\"}, {\"units\": \"Dolares\", \"id\": \"AGRO_0418\", \"type\": \"number\", \"description\": \"Cantidad de d\\u00f3lares en la balanza comercial de caseina.\", \"title\": \"caseina\"}, {\"units\": \"Dolares\", \"id\": \"AGRO_0419\", \"type\": \"number\", \"description\": \"Cantidad de d\\u00f3lares en la balanza comercial de caseinatos.\", \"title\": \"caseinatos\"}, {\"units\": \"Dolares\", \"id\": \"AGRO_0420\", \"type\": \"number\", \"description\": \"Cantidad de d\\u00f3lares en la balanza comercial de suero.\", \"title\": \"suero\"}, {\"units\": \"Dolares\", \"id\": \"AGRO_0421\", \"type\": \"number\", \"description\": \"Cantidad de d\\u00f3lares en la balanza comercial de derivados del suero.\", \"title\": \"derivados_suero\"}, {\"units\": \"Dolares\", \"id\": \"AGRO_0422\", \"type\": \"number\", \"description\": \"Cantidad de d\\u00f3lares en la balanza comercial de lactosa.\", \"title\": \"lactosa\"}, {\"units\": \"Dolares\", \"id\": \"AGRO_0423\", \"type\": \"number\", \"description\": \"Cantidad de d\\u00f3lares en la balanza comercial de helados.\", \"title\": \"helados\"}, {\"units\": \"Dolares\", \"id\": \"AGRO_0424\", \"type\": \"number\", \"description\": \"Cantidad de d\\u00f3lares en la balanza comercial de otros l\\u00e1cteos.\", \"title\": \"otros_lacteos\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-12-26T15:30:13.006040",
+      "datastore_active": false,
+      "description": "Serie de Tiempo de la balanza comercial anual de productos lácteos en dólares de 1989 a 2009.",
+      "fileName": "lacteos-balanza-anual-dolares-1989-2009.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "agroindustria_79d0e117-6f2e-4c7c-8a39-b4b0b71c5c74",
+      "last_modified": "2020-01-09T10:32:27.174537",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Serie de Tiempo de Balanza comercial anual de productos lácteos",
+      "package_id": "agroindustria_9cecf504-6352-4dae-bacb-0a8bfead3e7c",
+      "position": 0,
+      "resource_type": "file.upload",
+      "revision_id": "87401ae1-3f70-4374-b38d-d8d272f27902",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.agroindustria.gob.ar/dataset/9cecf504-6352-4dae-bacb-0a8bfead3e7c/resource/79d0e117-6f2e-4c7c-8a39-b4b0b71c5c74/download/lacteos-balanza-anual-dolares-1989-2009.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "b826038e-2405-4257-a785-60b853804203",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "balanza comercial",
+      "id": "59510ec0-e8cf-401e-89a6-227f26f1a320",
+      "name": "balanza comercial",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "caseina",
+      "id": "8004f494-2a54-4af3-b532-54bf685c1cb3",
+      "name": "caseina",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "caseinatos",
+      "id": "312277fa-f679-4acf-af20-c639b32946f3",
+      "name": "caseinatos",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "elaboración productos lácteos",
+      "id": "4063e1bf-edf2-48fb-bbb9-45c20aa26820",
+      "name": "elaboración productos lácteos",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "exportacion",
+      "id": "614f1727-098b-43ba-8536-bf4f5f14c27c",
+      "name": "exportacion",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "importaciones",
+      "id": "b549bb73-5f13-4578-82a6-02bf6a564e08",
+      "name": "importaciones",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "leche en polvo",
+      "id": "5e130014-d6db-46ea-a8f9-fd79b8663b31",
+      "name": "leche en polvo",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "leche maternizada",
+      "id": "fc9f910c-2345-487d-87c0-1763a815a98f",
+      "name": "leche maternizada",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "manteca",
+      "id": "926ca4b2-ae59-4c6b-b4eb-0ff6376e0678",
+      "name": "manteca",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "queso",
+      "id": "e73c5190-7977-4682-a005-1ff89d34f1d9",
+      "name": "queso",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "suero",
+      "id": "f5fe95a0-e8cd-47c6-ac63-71612a7e9c93",
+      "name": "suero",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "yogur",
+      "id": "2fab1903-353f-4844-b324-aebbb168ffc7",
+      "name": "yogur",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Lácteos - Balanza comercial",
+  "type": "dataset",
+  "url": "https://datos.agroindustria.gob.ar/dataset/lacteos-balanza-comercial",
+  "version": null
+}

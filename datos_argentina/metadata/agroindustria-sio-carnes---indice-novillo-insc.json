@@ -1,0 +1,214 @@
+{
+  "author": "SIO Carnes",
+  "author_email": "sio-carnes@magyp.gob.ar",
+  "creator_user_id": "dc157489-51c6-44ce-bd63-3bd983d60778",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P1M"
+    },
+    {
+      "key": "issued",
+      "value": "2018-12-07T21:26:48.552306"
+    },
+    {
+      "key": "language",
+      "value": "[\"spa\"]"
+    },
+    {
+      "key": "modified",
+      "value": "2019-10-24T10:47:29.432909"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"AGRI\", \"ECON\"]"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Agroganadería, pesca y forestación",
+      "display_name": "Agroganadería, pesca y forestación",
+      "id": "0c35ea38-7059-41d2-9827-5587769d0dc6",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225145.990789agroganaderia-pesca-forestacion.svg",
+      "name": "agri",
+      "title": "Agroganadería, pesca y forestación"
+    },
+    {
+      "description": "Economía y finanzas",
+      "display_name": "Economía y finanzas",
+      "id": "60b4b03e-10a1-4d67-b984-08008a249617",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225257.200233economia-finanzas.svg",
+      "name": "econ",
+      "title": "Economía y finanzas"
+    }
+  ],
+  "id": "agroindustria_175f48c6-312c-486a-b533-91f80de4ebbe",
+  "isopen": true,
+  "license_id": "CC-BY-4.0",
+  "license_title": "Creative Commons Attribution 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "maintainer": null,
+  "maintainer_email": null,
+  "metadata_created": "2019-12-04T20:01:24.807794",
+  "metadata_modified": "2021-04-29T17:06:23.391402",
+  "name": "agroindustria-sio-carnes---indice-novillo-insc",
+  "notes": "Permite encontrar valores representativos de mercado para la hacienda que se comercializa en Argentina. Surge del precio promedio ponderado diario de las liquidaciones registradas en kg. vivo, de todas las categorías de Novillo en las Zonas 1 a 6 del SIO Carnes (Sistema unificado de información de operaciones de compra venta de ganado con destino a faena).",
+  "num_resources": 3,
+  "num_tags": 8,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:07.834957",
+    "description": "",
+    "id": "b10c94e2-ade1-4a97-8c4c-b1ada7878d60",
+    "image_url": "",
+    "is_organization": true,
+    "name": "agroindustria",
+    "revision_id": "f7c3b6e9-d48f-4522-9f7a-388d805c8392",
+    "state": "active",
+    "title": "Ministerio de Agricultura, Ganadería y Pesca",
+    "type": "organization"
+  },
+  "owner_org": "b10c94e2-ade1-4a97-8c4c-b1ada7878d60",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "http://datos.agroindustria.gob.ar/dataset/175f48c6-312c-486a-b533-91f80de4ebbe/resource/f599d23f-2be9-4738-855e-205d2e064b6a",
+      "attributesDescription": "[{\"type\": \"integer\", \"description\": \"pais_id\", \"title\": \"pais_id\"}, {\"type\": \"string\", \"description\": \"pais\", \"title\": \"pais\"}, {\"type\": \"string\", \"description\": \"zonas_contempladas\", \"title\": \"zonas_contempladas\"}, {\"type\": \"date-time\", \"description\": \"fecha\", \"title\": \"fecha\"}, {\"type\": \"number\", \"description\": \"INSC($)\", \"title\": \"INSC($)\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2018-08-21T14:14:17.647064",
+      "datastore_active": false,
+      "description": "Surge del precio promedio ponderado diario de las liquidaciones registradas en kg. vivo, de todas las categorías de Novillo en las Zonas 1 a 6 del SIO Carnes.",
+      "fileName": "indice-novillo-sio-carnes.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "agroindustria_f599d23f-2be9-4738-855e-205d2e064b6a",
+      "last_modified": "2019-02-22T10:29:20.404499",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Índice Novillo del SIO Carnes -INSC-",
+      "package_id": "agroindustria_175f48c6-312c-486a-b533-91f80de4ebbe",
+      "position": 0,
+      "resource_type": "file.upload",
+      "revision_id": "020b6387-0bfa-4c99-b500-7a4725921de3",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.agroindustria.gob.ar/dataset/175f48c6-312c-486a-b533-91f80de4ebbe/resource/f599d23f-2be9-4738-855e-205d2e064b6a/download/indice-novillo-sio-carnes.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos.agroindustria.gob.ar/dataset/175f48c6-312c-486a-b533-91f80de4ebbe/resource/7a827081-02dd-4fd8-9da6-4ecce84c77c1",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2018-08-28T19:09:48.809868",
+      "datastore_active": false,
+      "description": "Metodología utilizada por el SIO Carnes para la obtención del INSC",
+      "fileName": "calculo-del-insc.jpg",
+      "format": "JPEG",
+      "hash": "",
+      "id": "agroindustria_7a827081-02dd-4fd8-9da6-4ecce84c77c1",
+      "last_modified": "2019-05-07T10:48:14.582191",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Cálculo del INSC",
+      "package_id": "agroindustria_175f48c6-312c-486a-b533-91f80de4ebbe",
+      "position": 1,
+      "resource_type": "file.upload",
+      "revision_id": "bec492ad-97d2-4f06-bf77-ae5b8bd77019",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.agroindustria.gob.ar/dataset/175f48c6-312c-486a-b533-91f80de4ebbe/resource/7a827081-02dd-4fd8-9da6-4ecce84c77c1/download/calculo-del-insc.jpg",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos.agroindustria.gob.ar/dataset/175f48c6-312c-486a-b533-91f80de4ebbe/resource/2de1bafd-8ba9-4940-9c46-bfd21a545868",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2018-08-28T19:10:56.719472",
+      "datastore_active": false,
+      "description": "En el siguiente mapa se visualizan cada una de las zonas utilizadas por SIO Carnes",
+      "fileName": "mapaarg.jpg",
+      "format": "JPEG",
+      "hash": "",
+      "id": "agroindustria_2de1bafd-8ba9-4940-9c46-bfd21a545868",
+      "last_modified": "2019-05-06T12:34:52.543872",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Mapa de zonas SIO carnes",
+      "package_id": "agroindustria_175f48c6-312c-486a-b533-91f80de4ebbe",
+      "position": 2,
+      "resource_type": "file.upload",
+      "revision_id": "bec492ad-97d2-4f06-bf77-ae5b8bd77019",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.agroindustria.gob.ar/dataset/175f48c6-312c-486a-b533-91f80de4ebbe/resource/2de1bafd-8ba9-4940-9c46-bfd21a545868/download/mapaarg.jpg",
+      "url_type": null
+    }
+  ],
+  "revision_id": "bec492ad-97d2-4f06-bf77-ae5b8bd77019",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "Carne Vacuna",
+      "id": "0392e2f7-ffe9-4329-b6b6-0d9b199f36af",
+      "name": "Carne Vacuna",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Indice novillo",
+      "id": "183b681a-2cb5-45ff-bf86-05421f0716b2",
+      "name": "Indice novillo",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Mercado de carnes",
+      "id": "c6ed2ec5-87ed-427d-9141-b4e5b665b454",
+      "name": "Mercado de carnes",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "SIO Carnes",
+      "id": "8f4aadbd-979b-444f-91fc-ddaa0e7365a3",
+      "name": "SIO Carnes",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "carne",
+      "id": "70c3e8f3-6451-4182-a639-afd54f9cf514",
+      "name": "carne",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "novillo",
+      "id": "b96937cc-c66b-4f15-b1c3-96f5a2ffe392",
+      "name": "novillo",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "precio de carne",
+      "id": "750765d0-52e1-4196-82e4-7c5f85616315",
+      "name": "precio de carne",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "precio del novillo",
+      "id": "0cfe935e-9528-4c2b-b116-e2ea3350c8b2",
+      "name": "precio del novillo",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "SIO Carnes - Índice Novillo INSC",
+  "type": "dataset",
+  "url": "https://datos.agroindustria.gob.ar/dataset/indice-novillo-sio-carnes--insc-",
+  "version": null
+}

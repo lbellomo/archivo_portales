@@ -1,0 +1,186 @@
+{
+  "author": "Dirección de Certificación y Control - INASE",
+  "author_email": "rncyfs@inase.gov.ar",
+  "creator_user_id": "dc157489-51c6-44ce-bd63-3bd983d60778",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P2M"
+    },
+    {
+      "key": "issued",
+      "value": "2018-12-07T21:19:57.459548"
+    },
+    {
+      "key": "language",
+      "value": "[\"spa\"]"
+    },
+    {
+      "key": "modified",
+      "value": "2019-10-24T10:44:07.663477"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"AGRI\"]"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Agroganadería, pesca y forestación",
+      "display_name": "Agroganadería, pesca y forestación",
+      "id": "0c35ea38-7059-41d2-9827-5587769d0dc6",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225145.990789agroganaderia-pesca-forestacion.svg",
+      "name": "agri",
+      "title": "Agroganadería, pesca y forestación"
+    }
+  ],
+  "id": "agroindustria_684dea1a-7e35-486e-9ae1-ddda2b847859",
+  "isopen": true,
+  "license_id": "CC-BY-4.0",
+  "license_title": "Creative Commons Attribution 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "maintainer": null,
+  "maintainer_email": null,
+  "metadata_created": "2019-12-04T20:01:35.432146",
+  "metadata_modified": "2021-04-29T17:16:22.148093",
+  "name": "agroindustria-inase---empresas-vigentes-inscriptas-rncyfs",
+  "notes": "Datos de empresas vigentes inscriptas en el Registro Nacional de Comercio y Fiscalización de Semillas, con actualización bimestral, dependiente del Instituto Nacional de Semillas.",
+  "num_resources": 3,
+  "num_tags": 5,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:07.834957",
+    "description": "",
+    "id": "b10c94e2-ade1-4a97-8c4c-b1ada7878d60",
+    "image_url": "",
+    "is_organization": true,
+    "name": "agroindustria",
+    "revision_id": "f7c3b6e9-d48f-4522-9f7a-388d805c8392",
+    "state": "active",
+    "title": "Ministerio de Agricultura, Ganadería y Pesca",
+    "type": "organization"
+  },
+  "owner_org": "b10c94e2-ade1-4a97-8c4c-b1ada7878d60",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "http://datos.agroindustria.gob.ar/dataset/684dea1a-7e35-486e-9ae1-ddda2b847859/resource/163a8374-2b20-44e0-97df-1f6d36a64ddb",
+      "attributesDescription": "[{\"type\": \"string\", \"description\": \"Clave \\u00danica de Identificaci\\u00f3n Tributaria\", \"title\": \"cuit\"}, {\"type\": \"string\", \"description\": \"Nombre o Raz\\u00f3n Social de la empresa\", \"title\": \"nombre\"}, {\"type\": \"string\", \"description\": \"Id. correspondiente a la empresa\", \"title\": \"registro\"}, {\"type\": \"string\", \"description\": \"Fecha de Inscripci\\u00f3n en el Registro Nacional de Comercio y Fiscalizaci\\u00f3n de Semillas\", \"title\": \"fecha_de_ingreso\"}, {\"type\": \"string\", \"description\": \"Es el lugar donde tienen establecido el asiento principal de su residencia y de sus negocios.\", \"title\": \"domicilio_real\"}, {\"type\": \"string\", \"description\": \"Es el lugar donde tienen establecido el asiento principal de su residencia y de sus negocios.\", \"title\": \"localidad_real\"}, {\"type\": \"string\", \"description\": \"Es el lugar donde tienen establecido el asiento principal de su residencia y de sus negocios.\", \"title\": \"provincia_real\"}, {\"type\": \"string\", \"description\": \"Es el c\\u00f3digo postal del domicilio real donde tienen establecido el asiento principal de su residencia y de sus negocios.\", \"title\": \"codigo_postal_real\"}, {\"type\": \"string\", \"description\": \"Empresas con muchos establecimientos o sucursales tienen su domicilio especial en dichos establecimientos para s\\u00f3lo la ejecuci\\u00f3n de las obligaciones all\\u00ed contra\\u00eddas por los agentes de la sociedad\", \"title\": \"domicilio_especial\"}, {\"type\": \"string\", \"description\": \"Empresas con muchos establecimientos o sucursales tienen su domicilio especial en dichos establecimientos para s\\u00f3lo la ejecuci\\u00f3n de las obligaciones all\\u00ed contra\\u00eddas por los agentes de la sociedad\", \"title\": \"localidad_especial\"}, {\"type\": \"string\", \"description\": \"Empresas con muchos establecimientos o sucursales tienen su domicilio especial en dichos establecimientos para s\\u00f3lo la ejecuci\\u00f3n de las obligaciones all\\u00ed contra\\u00eddas por los agentes de la sociedad\", \"title\": \"provincia_especial\"}, {\"type\": \"string\", \"description\": \"Es el c\\u00f3digo postal del domicilio especial en el lugar de dichos establecimientos para s\\u00f3lo la ejecuci\\u00f3n de las obligaciones all\\u00ed contra\\u00eddas por los agentes locales de la sociedad sus negocios.\\n\", \"title\": \"codigo_postal_especial\"}, {\"type\": \"string\", \"description\": \"Es el numero de tel\\u00e9fono del domicilio real\", \"title\": \"telefono_real\"}, {\"type\": \"string\", \"description\": \"Es el numero de tel\\u00e9fono del domicilio especial\", \"title\": \"telefono_especial\"}, {\"type\": \"string\", \"description\": \"Direcci\\u00f3n de correo electr\\u00f3nico de la empresa\", \"title\": \"correo_electronico\"}, {\"type\": \"string\", \"description\": \"C\\u00f3digo compuesto por  Id Asociado a la empresa + las categor\\u00edas habilitadas para la misma\\n\", \"title\": \"categorias\"}, {\"type\": \"string\", \"description\": \"Organismo en el cual la empresa se encuentra inscrito.\", \"title\": \"organismo\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2018-10-18T13:49:21.950590",
+      "datastore_active": false,
+      "description": "Datos de empresas vigentes inscriptas en el Registro Nacional de Comercio y Fiscalización de Semillas con actualización bimestral.",
+      "fileName": "empresas-vigentes-inscriptas-rncyfs-2018-septiembre.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "agroindustria_163a8374-2b20-44e0-97df-1f6d36a64ddb",
+      "last_modified": "2019-01-31T13:52:06.422027",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Empresas vigentes inscriptas en el RNCyF de Semillas (Septiembre 2018)",
+      "package_id": "agroindustria_684dea1a-7e35-486e-9ae1-ddda2b847859",
+      "position": 0,
+      "resource_type": "file.upload",
+      "revision_id": "21233649-b2d6-4df0-b2af-e2440194f5b8",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.agroindustria.gob.ar/dataset/684dea1a-7e35-486e-9ae1-ddda2b847859/resource/163a8374-2b20-44e0-97df-1f6d36a64ddb/download/empresas-vigentes-inscriptas-rncyfs-2018-septiembre.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos.agroindustria.gob.ar/dataset/684dea1a-7e35-486e-9ae1-ddda2b847859/resource/56a5b8a9-b1c1-4520-a039-c61a07eff37d",
+      "attributesDescription": "[{\"type\": \"string\", \"description\": \"Clave \\u00danica de Identificaci\\u00f3n Tributaria\", \"title\": \"cuit\"}, {\"type\": \"string\", \"description\": \"Nombre o Raz\\u00f3n Social de la empresa\", \"title\": \"nombre\"}, {\"type\": \"string\", \"description\": \"Id. correspondiente a la empresa\", \"title\": \"registro\"}, {\"type\": \"string\", \"description\": \"Fecha de Inscripci\\u00f3n en el Registro Nacional de Comercio y Fiscalizaci\\u00f3n de Semillas\", \"title\": \"fecha_de_ingreso\"}, {\"type\": \"string\", \"description\": \"Es el lugar donde tienen establecido el asiento principal de su residencia y de sus negocios.\", \"title\": \"domicilio_real\"}, {\"type\": \"string\", \"description\": \"Es el lugar donde tienen establecido el asiento principal de su residencia y de sus negocios.\", \"title\": \"localidad_real\"}, {\"type\": \"string\", \"description\": \"Es el lugar donde tienen establecido el asiento principal de su residencia y de sus negocios.\", \"title\": \"provincia_real\"}, {\"type\": \"string\", \"description\": \"Es el c\\u00f3digo postal del domicilio real donde tienen establecido el asiento principal de su residencia y de sus negocios.\", \"title\": \"codigo_postal_real\"}, {\"type\": \"string\", \"description\": \"Empresas con muchos establecimientos o sucursales tienen su domicilio especial en dichos establecimientos para s\\u00f3lo la ejecuci\\u00f3n de las obligaciones all\\u00ed contra\\u00eddas por los agentes de la sociedad\", \"title\": \"domicilio_especial\"}, {\"type\": \"string\", \"description\": \"Empresas con muchos establecimientos o sucursales tienen su domicilio especial en dichos establecimientos para s\\u00f3lo la ejecuci\\u00f3n de las obligaciones all\\u00ed contra\\u00eddas por los agentes de la sociedad\", \"title\": \"localidad_especial\"}, {\"type\": \"string\", \"description\": \"Empresas con muchos establecimientos o sucursales tienen su domicilio especial en dichos establecimientos para s\\u00f3lo la ejecuci\\u00f3n de las obligaciones all\\u00ed contra\\u00eddas por los agentes de la sociedad\", \"title\": \"provincia_especial\"}, {\"type\": \"string\", \"description\": \"Es el codigo postal del domicilio especial en el lugar de dichos establecimientos para s\\u00f3lo la ejecuci\\u00f3n de las obligaciones all\\u00ed contra\\u00eddas por los agentes locales de la sociedadsus negocios.\\n\", \"title\": \"codigo_postal_especial\"}, {\"type\": \"string\", \"description\": \"Es el numero de tel\\u00e9fono del domicilio real\", \"title\": \"telefono_real\"}, {\"type\": \"string\", \"description\": \"Es el numero de tel\\u00e9fono del domicilio especial\", \"title\": \"telefono_especial\"}, {\"type\": \"string\", \"description\": \"Direcci\\u00f3n de correo electr\\u00f3nico de la empresa\", \"title\": \"correo_electronico\"}, {\"type\": \"string\", \"description\": \"C\\u00f3digo compuesto por  Id Asociado a la empresa + las categor\\u00edas habilitadas para la misma\\n\", \"title\": \"categorias\"}, {\"type\": \"string\", \"description\": \"Organismo en el cual la empresa se encuentra inscrito\", \"title\": \"organismo\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-09-07T21:53:10.819481",
+      "datastore_active": false,
+      "description": "Datos de empresas vigentes inscriptas en el Registro Nacional de Comercio y Fiscalización de Semillas con actualización bimestral.",
+      "fileName": "empresas-vigentes-inscriptas-rncyfs-2017-diciembre.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "agroindustria_56a5b8a9-b1c1-4520-a039-c61a07eff37d",
+      "last_modified": "2019-01-31T14:01:59.243013",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Empresas vigentes inscriptas en el RNCyF de Semillas (Diciembre 2017)",
+      "package_id": "agroindustria_684dea1a-7e35-486e-9ae1-ddda2b847859",
+      "position": 1,
+      "resource_type": "file.upload",
+      "revision_id": "bad5798b-a927-4a1f-906c-566dfc9f9ae8",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.agroindustria.gob.ar/dataset/684dea1a-7e35-486e-9ae1-ddda2b847859/resource/56a5b8a9-b1c1-4520-a039-c61a07eff37d/download/empresas-vigentes-inscriptas-rncyfs-2017-diciembre.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos.agroindustria.gob.ar/dataset/684dea1a-7e35-486e-9ae1-ddda2b847859/resource/37b78428-728a-4dd9-bd02-8f3abf573d0a",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-09-07T21:54:20.720821",
+      "datastore_active": false,
+      "description": "Detalle de cada una de las columnas que integran el recurso.",
+      "fileName": "empresas-vigentes-al-30-6-2017-referencias.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "agroindustria_37b78428-728a-4dd9-bd02-8f3abf573d0a",
+      "last_modified": "2019-01-22T12:46:43.008801",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Referencias de empresas vigentes",
+      "package_id": "agroindustria_684dea1a-7e35-486e-9ae1-ddda2b847859",
+      "position": 2,
+      "resource_type": "file.upload",
+      "revision_id": "bad5798b-a927-4a1f-906c-566dfc9f9ae8",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.agroindustria.gob.ar/dataset/684dea1a-7e35-486e-9ae1-ddda2b847859/resource/37b78428-728a-4dd9-bd02-8f3abf573d0a/download/empresas-vigentes-al-30-6-2017-referencias.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "218e475e-fdf7-4c28-ad03-1f16d5f9b030",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "empresas semilleras",
+      "id": "d13d8e38-f2f5-4b7a-aefe-c0849c5ae54a",
+      "name": "empresas semilleras",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "fiscalización semillas",
+      "id": "b2d144bb-846e-46f8-a014-40398ec6a055",
+      "name": "fiscalización semillas",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "inase",
+      "id": "fef8e7c8-820a-4a9f-bf0b-fc446d483f54",
+      "name": "inase",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "registro semillas",
+      "id": "5c7019e3-f21a-4b1e-be97-55d2a1dde247",
+      "name": "registro semillas",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "semillas",
+      "id": "5a39e674-4fad-489a-b085-782f39a59715",
+      "name": "semillas",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "INASE - Empresas vigentes inscriptas en el RNCyFS",
+  "type": "dataset",
+  "url": "https://datos.agroindustria.gob.ar/dataset/empresas-vigentes-inscriptas-rncyf-semillas",
+  "version": null
+}

@@ -1,0 +1,184 @@
+{
+  "author": "Secretaría de Gobierno de Energía.Subsecretaría de Planeamiento Energético.Dirección Nacional de Información Energética. \r\n\r\n",
+  "author_email": "tienerg@energia.gob.ar",
+  "creator_user_id": "4720e75a-9e17-4dc3-879d-041917c7f9f9",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P1M"
+    },
+    {
+      "key": "issued",
+      "value": "2019-11-01T12:22:18.004099"
+    },
+    {
+      "key": "modified",
+      "value": "2019-11-01T14:40:22.000841"
+    },
+    {
+      "key": "spatial",
+      "value": "[\"ARG\"]"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"TRAN\"]"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Transporte",
+      "display_name": "Transporte",
+      "id": "57227cfc-80a6-45d3-9faa-711a98ac8ede",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225933.272993transporte.svg",
+      "name": "tran",
+      "title": "Transporte"
+    }
+  ],
+  "id": "energia_25a691da-fc1d-4ae3-bee5-ec5c5f9aa08b",
+  "isopen": false,
+  "license_id": "notspecified",
+  "license_title": "No se especificó la licencia",
+  "maintainer": "Secretaría de Gobierno de Energía. Secretaría de Recursos No Renovables y Mercado de los Combustibles. Subsecretaría de Hidrocarburos y Combustibles. Dirección Nacional de Transporte y Actividades Intermedias en Hidrocarburos.",
+  "maintainer_email": null,
+  "metadata_created": "2019-11-26T14:59:10.683356",
+  "metadata_modified": "2021-04-29T17:17:25.923883",
+  "name": "energia-transporte-hidrocarburos",
+  "notes": "Datos de volúmenes de Transporte proporcionados mensualmente por las empresas transportistas.",
+  "num_resources": 4,
+  "num_tags": 2,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:09.221510",
+    "description": "",
+    "id": "cd1b32a2-2d3a-44ac-8c98-a425a7b62d42",
+    "image_url": "",
+    "is_organization": true,
+    "name": "energia",
+    "revision_id": "a184cf69-99ad-4f84-a254-020031d7fe63",
+    "state": "active",
+    "title": "Secretaría de Energía",
+    "type": "organization"
+  },
+  "owner_org": "cd1b32a2-2d3a-44ac-8c98-a425a7b62d42",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "http://datos.minem.gob.ar/dataset/25a691da-fc1d-4ae3-bee5-ec5c5f9aa08b/resource/f959c49c-7af5-42f9-ad1e-4cf1ffa315e9",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-11-01T14:31:42.807504",
+      "datastore_active": false,
+      "description": "Transporte de hidrocarburos líquidos por ductos - Planilla 20",
+      "format": "XLSX",
+      "hash": "",
+      "id": "energia_f959c49c-7af5-42f9-ad1e-4cf1ffa315e9",
+      "last_modified": "2019-11-01T14:35:38.174755",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Transporte de hidrocarburos líquidos por ductos - Planilla 20",
+      "package_id": "energia_25a691da-fc1d-4ae3-bee5-ec5c5f9aa08b",
+      "position": 0,
+      "resource_type": null,
+      "revision_id": "a89f78a9-2a42-4416-9fb2-926a621db8be",
+      "size": null,
+      "state": "active",
+      "url": "http://www.energia.gob.ar/contenidos/archivos/Reorganizacion/informacion_del_mercado/mercado_hidrocarburos/transporte/planillas/Planilla20_transporte_por_ductos_odbc.xlsx",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos.minem.gob.ar/dataset/25a691da-fc1d-4ae3-bee5-ec5c5f9aa08b/resource/b883dc48-1daf-42bc-841c-f3b6e70bb33e",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-11-01T14:33:20.203230",
+      "datastore_active": false,
+      "description": "Almacenamiento de hidrocarburos líquidos - Planilla 21",
+      "format": "XLSX",
+      "hash": "",
+      "id": "energia_b883dc48-1daf-42bc-841c-f3b6e70bb33e",
+      "last_modified": "2019-11-01T14:33:20.203230",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Almacenamiento de hidrocarburos líquidos - Planilla 21",
+      "package_id": "energia_25a691da-fc1d-4ae3-bee5-ec5c5f9aa08b",
+      "position": 1,
+      "resource_type": null,
+      "revision_id": "a89f78a9-2a42-4416-9fb2-926a621db8be",
+      "size": null,
+      "state": "active",
+      "url": "http://www.energia.gob.ar/contenidos/archivos/Reorganizacion/informacion_del_mercado/mercado_hidrocarburos/transporte/planillas/Planilla21_almacenamiento_odbc.xlsx",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos.minem.gob.ar/dataset/25a691da-fc1d-4ae3-bee5-ec5c5f9aa08b/resource/f1d13dac-fca5-4464-940d-ce86c16cbff3",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-11-01T18:10:21.579724",
+      "datastore_active": false,
+      "description": " ",
+      "fileName": "volumnenes-de-transporte-de-hidrocarburos-planilla-20.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "energia_f1d13dac-fca5-4464-940d-ce86c16cbff3",
+      "last_modified": "2020-10-25T06:21:25.588227",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Volumenes de Transporte de Hidrocarburos - Planilla 20",
+      "package_id": "energia_25a691da-fc1d-4ae3-bee5-ec5c5f9aa08b",
+      "position": 2,
+      "resource_type": "file",
+      "revision_id": "00b3299a-4523-4cfd-964c-1f5e82867cc4",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.minem.gob.ar/dataset/25a691da-fc1d-4ae3-bee5-ec5c5f9aa08b/resource/f1d13dac-fca5-4464-940d-ce86c16cbff3/download/volumnenes-de-transporte-de-hidrocarburos-planilla-20.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos.minem.gob.ar/dataset/25a691da-fc1d-4ae3-bee5-ec5c5f9aa08b/resource/2144967c-07c5-4ec1-8659-21bd7c1ba89e",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-11-01T18:10:40.462372",
+      "datastore_active": false,
+      "description": "",
+      "fileName": "volumenes-de-transporte-de-hidrocarburos-planilla-21.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "energia_2144967c-07c5-4ec1-8659-21bd7c1ba89e",
+      "last_modified": "2020-10-25T05:00:24.722268",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Volumenes de Transporte de Hidrocarburos - Planilla 21",
+      "package_id": "energia_25a691da-fc1d-4ae3-bee5-ec5c5f9aa08b",
+      "position": 3,
+      "resource_type": null,
+      "revision_id": "00b3299a-4523-4cfd-964c-1f5e82867cc4",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.minem.gob.ar/dataset/25a691da-fc1d-4ae3-bee5-ec5c5f9aa08b/resource/2144967c-07c5-4ec1-8659-21bd7c1ba89e/download/volumenes-de-transporte-de-hidrocarburos-planilla-21.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "e80dd1b9-5d81-4270-a98e-7a173e6de866",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "Transporte",
+      "id": "e17f5f3a-09d8-4b8e-85c3-ebdd333da334",
+      "name": "Transporte",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Transporte de Hidrocarburos",
+      "id": "51cc7b9e-9c0d-478e-bb61-fbbdfdf3cddd",
+      "name": "Transporte de Hidrocarburos",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Transporte de Hidrocarburos",
+  "type": "dataset",
+  "url": "http://datos.minem.gob.ar/dataset/transporte-de-hidrocarburos",
+  "version": null
+}

@@ -1,0 +1,168 @@
+{
+  "author": "Ministerio de Justicia y Derechos Humanos. Secretaría de Justicia. Subsecretaría de Justicia y Política Criminal. Programa de Justicia Abierta",
+  "author_email": "justiciaabierta@jus.gov.ar",
+  "creator_user_id": "dc157489-51c6-44ce-bd63-3bd983d60778",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "eventual"
+    },
+    {
+      "key": "issued",
+      "value": "2019-09-23T12:28:10.229173"
+    },
+    {
+      "key": "modified",
+      "value": "2020-06-22T17:34:52.774708"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"JUST\"]"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Justicia, seguridad y legales",
+      "display_name": "Justicia, seguridad y legales",
+      "id": "69ac5e1d-79f0-4470-9514-8a173d9ae44c",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225406.604073justicia-seguridad-legales.svg",
+      "name": "just",
+      "title": "Justicia, seguridad y legales"
+    }
+  ],
+  "id": "justicia_193c7501-9628-4cb6-8a25-33b26963a55c",
+  "isopen": true,
+  "license_id": "CC-BY-4.0",
+  "license_title": "Creative Commons Attribution 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "maintainer": "Ministerio de Justicia y Derechos Humanos. Secretaría de Justicia. Subsecretaría de Justicia y Política Criminal. Programa de Justicia Abierta",
+  "maintainer_email": "justiciaabierta@jus.gov.ar",
+  "metadata_created": "2019-12-04T20:02:26.890712",
+  "metadata_modified": "2021-04-29T17:06:50.569391",
+  "name": "justicia-procuracion-general-nacion---casos",
+  "notes": "En este conjunto de datos se presentan los datos obtenidos a partir de datos primarios remitidos por la Procuración General de la Nación, siguiendo el Protocolo Técnico de Datos y de Procesos, en el marco del Convenio Interjurisdiccional de Datos Abiertos de Justicia.\r\n",
+  "num_resources": 2,
+  "num_tags": 7,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:10.018297",
+    "description": "",
+    "id": "06b380f8-888f-43c0-8367-16a7ddf47d4f",
+    "image_url": "",
+    "is_organization": true,
+    "name": "justicia",
+    "revision_id": "637d68f0-a296-4d39-b846-4370270a96a1",
+    "state": "active",
+    "title": " Ministerio de Justicia y Derechos Humanos",
+    "type": "organization"
+  },
+  "owner_org": "06b380f8-888f-43c0-8367-16a7ddf47d4f",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "http://datos.jus.gob.ar/dataset/193c7501-9628-4cb6-8a25-33b26963a55c/resource/349c889a-4419-44bb-8425-6e3c449b3ced",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-09-23T09:29:48.850287",
+      "datastore_active": false,
+      "description": "Muestreo de 1000 registros, obtenidos a partir de datos primarios remitidos por la Procuración General de la Nación, correspondientes a casos iniciados de la justicia federal. Los datos completos están publicados en formato zip.",
+      "format": "CSV",
+      "hash": "",
+      "id": "justicia_349c889a-4419-44bb-8425-6e3c449b3ced",
+      "last_modified": "2019-11-05T09:35:59.608302",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Procuración General de la Nación - Casos iniciados - Justicia Federal - Muestreo",
+      "package_id": "justicia_193c7501-9628-4cb6-8a25-33b26963a55c",
+      "position": 0,
+      "resource_type": null,
+      "revision_id": "3d840b30-3d4c-4aa0-91cf-b5554331920c",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.jus.gob.ar/dataset/193c7501-9628-4cb6-8a25-33b26963a55c/resource/349c889a-4419-44bb-8425-6e3c449b3ced/download/pgn-casos-iniciados-justicia-federal-muestreo.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos.jus.gob.ar/dataset/193c7501-9628-4cb6-8a25-33b26963a55c/resource/f79323fc-e69c-4430-8af9-a126401d8a51",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-10-31T15:14:01.746664",
+      "datastore_active": false,
+      "description": "Contiene los archivos con los datos elaborados a partir de datos primarios remitidos por la Procuración General de la Nación, correspondientes a casos iniciados de la justicia federal.",
+      "format": "ZIP",
+      "hash": "",
+      "id": "justicia_f79323fc-e69c-4430-8af9-a126401d8a51",
+      "last_modified": "2019-11-05T09:43:54.036640",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Procuración General de la Nación - Casos iniciados - Justicia Federal",
+      "package_id": "justicia_193c7501-9628-4cb6-8a25-33b26963a55c",
+      "position": 1,
+      "resource_type": null,
+      "revision_id": "fe5413cd-2c1f-4882-9900-0c32281a587d",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.jus.gob.ar/dataset/193c7501-9628-4cb6-8a25-33b26963a55c/resource/f79323fc-e69c-4430-8af9-a126401d8a51/download/pgn-casos-iniciados-justicia-federal.zip",
+      "url_type": null
+    }
+  ],
+  "revision_id": "dfdedad5-f57a-48bf-840b-a60fa73d593f",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "Instituciones de Justicia",
+      "id": "4530aca9-51ff-4bec-ad01-7560402f81e5",
+      "name": "Instituciones de Justicia",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Procuración General de la Nación",
+      "id": "8248002d-acb2-4cca-8c55-c567a7267b10",
+      "name": "Procuración General de la Nación",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "casos",
+      "id": "f00ed300-2cf5-4306-82ad-126107029807",
+      "name": "casos",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "código penal",
+      "id": "91af4c28-4671-4952-9136-99efd9efa5f5",
+      "name": "código penal",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "delitos",
+      "id": "0a650bd4-0c75-4525-ba11-087d486e4d7c",
+      "name": "delitos",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "instituciones",
+      "id": "946ce69f-0784-4f43-a887-52c604bdf71e",
+      "name": "instituciones",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "justicia federal",
+      "id": "bacc1b9d-9f60-440b-863e-83612eb572eb",
+      "name": "justicia federal",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Procuración General de la Nación - Casos",
+  "type": "dataset",
+  "url": "http://datos.jus.gob.ar/dataset/procuracion-general-de-la-nacion-casos",
+  "version": null
+}

@@ -1,0 +1,223 @@
+{
+  "author": "Ministerio de Salud. Secretaría de Prevención de Enfermedades Comunicables e Inmunoprevenibles. Dirección de Sida, Enfermedades de Transmisión Sexual, Hepatitis y Tuberculosis.",
+  "author_email": "secretaria.sidayets@gmail.com",
+  "creator_user_id": "4720e75a-9e17-4dc3-879d-041917c7f9f9",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P1Y"
+    },
+    {
+      "key": "issued",
+      "value": "2018-06-15T10:17:18.880900"
+    },
+    {
+      "key": "language",
+      "value": "[\"spa\"]"
+    },
+    {
+      "key": "modified",
+      "value": "2021-01-27T14:05:21.722738"
+    },
+    {
+      "key": "source",
+      "value": "Ministerio de Salud. Secretaría de Prevención de Enfermedades Comunicables e Inmunoprevenibles. Dirección de Sida, Enfermedades de Transmisión Sexual, Hepatitis y Tuberculosis."
+    },
+    {
+      "key": "spatial",
+      "value": "[\"ARG\"]"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"HEAL\"]"
+    },
+    {
+      "key": "temporal",
+      "value": "2015-01-01T03:00:00.000Z/2017-07-01T03:00:00.000Z"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Salud",
+      "display_name": "Salud",
+      "id": "65cc1fbf-703a-43bf-8a14-232a55c34976",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225809.913196salud.svg",
+      "name": "heal",
+      "title": "Salud"
+    }
+  ],
+  "id": "salud_03058c84-a766-4fcd-b16a-533b21ce6766",
+  "isopen": false,
+  "license_id": "notspecified",
+  "license_title": "No se especificó la licencia",
+  "maintainer": "Ministerio de Salud. Secretaría de Prevención de Enfermedades Comunicables e Inmunoprevenibles. Dirección de Sida, Enfermedades de Transmisión Sexual, Hepatitis y Tuberculosis.",
+  "maintainer_email": "secretaria.sidayets@gmail.com",
+  "metadata_created": "2019-11-26T15:01:48.771045",
+  "metadata_modified": "2021-04-29T17:05:29.003340",
+  "name": "salud-notificaciones-vih-por-jurisdiccion-argentina",
+  "notes": "Datos correspondientes a las notificaciones realizadas por jurisdicción en Argentina. ",
+  "num_resources": 4,
+  "num_tags": 5,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-11-15T11:12:22.202856",
+    "description": "",
+    "id": "dd1f2018-587f-43af-9b07-fc32f5ab588b",
+    "image_url": "",
+    "is_organization": true,
+    "name": "salud",
+    "revision_id": "14f0bb85-f97d-4325-b1c8-a7c1d3a815bf",
+    "state": "active",
+    "title": "Ministerio de Salud",
+    "type": "organization"
+  },
+  "owner_org": "dd1f2018-587f-43af-9b07-fc32f5ab588b",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "http://datos.salud.gob.ar/dataset/03058c84-a766-4fcd-b16a-533b21ce6766/resource/08c7c922-69f8-46df-b1be-21db2873b905",
+      "attributesDescription": "[{\"type\": \"string\", \"description\": \"Nombre de Jurisdicci\\u00f3n\", \"title\": \"jurisdiccion_nombre\"}, {\"type\": \"integer\", \"description\": \"C\\u00f3digo de Jurisdicci\\u00f3n\", \"title\": \"jurisdiccion_id\"}, {\"type\": \"integer\", \"description\": \"Cantidad de casos notificados de HIV durante el a\\u00f1o 2015\", \"title\": \"cantidad_casos_2015\"}, {\"type\": \"number\", \"description\": \"Tasa de notificaci\\u00f3n de HIV durante el a\\u00f1o 2015\", \"title\": \"tasa_2015\"}, {\"type\": \"integer\", \"description\": \"Cantidad de casos notificados de HIV durante el a\\u00f1o 2016\", \"title\": \"cantidad_casos_2016\"}, {\"type\": \"number\", \"description\": \"Tasa de notificaci\\u00f3n de HIV durante el a\\u00f1o 2016\", \"title\": \"tasa_2016\"}, {\"type\": \"integer\", \"description\": \"Cantidad de casos notificados de HIV durante el a\\u00f1o 2017\", \"title\": \"cantidad_casos_2017\"}, {\"type\": \"number\", \"description\": \"Tasa de notificaci\\u00f3n de HIV durante el a\\u00f1o 2017\", \"title\": \"tasa_2017\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2018-06-15T10:18:26.303359",
+      "datastore_active": false,
+      "description": "Datos correspondientes a las notificaciones realizadas por jurisdicción durante los años 2015, 2016, y 2017 en Argentina. ",
+      "fileName": "notificaciones-vih-jurisdiccion-2015-2017.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "salud_08c7c922-69f8-46df-b1be-21db2873b905",
+      "last_modified": "2019-08-27T09:33:41.848475",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Notificaciones de VIH por jurisdicción 2015-2016-2017, Argentina.",
+      "package_id": "salud_03058c84-a766-4fcd-b16a-533b21ce6766",
+      "position": 0,
+      "resource_type": "file.upload",
+      "revision_id": "72539aa0-3227-4619-a219-16c7ce53ffaa",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.salud.gob.ar/dataset/03058c84-a766-4fcd-b16a-533b21ce6766/resource/08c7c922-69f8-46df-b1be-21db2873b905/download/notificaciones-vih-jurisdiccion-2015-2017.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos.salud.gob.ar/dataset/03058c84-a766-4fcd-b16a-533b21ce6766/resource/7ed7e485-80bb-45c0-92a5-f5a1020cf5fd",
+      "attributesDescription": "[{\"type\": \"string\", \"description\": \"Nombre de Jurisdicci\\u00f3n\", \"title\": \"jurisdiccion_nombre\"}, {\"type\": \"integer\", \"description\": \"C\\u00f3digo de Jurisdicci\\u00f3n\", \"title\": \"jurisdiccion_id\"}, {\"type\": \"integer\", \"description\": \"Cantidad de casos notificados de HIV durante el a\\u00f1o 2015\", \"title\": \"cantidad_casos_2015\"}, {\"type\": \"number\", \"description\": \"Tasa de notificaci\\u00f3n de HIV durante el a\\u00f1o 2015\", \"title\": \"tasa_2015\"}, {\"type\": \"integer\", \"description\": \"Cantidad de casos notificados de HIV durante el a\\u00f1o 2016\", \"title\": \"cantidad_casos_2016\"}, {\"type\": \"number\", \"description\": \"Tasa de notificaci\\u00f3n de HIV durante el a\\u00f1o 2016\", \"title\": \"tasa_2016\"}, {\"type\": \"integer\", \"description\": \"Cantidad de casos notificados de HIV durante el a\\u00f1o 2017\", \"title\": \"cantidad_casos_2017\"}, {\"type\": \"number\", \"description\": \"Tasa de notificaci\\u00f3n de HIV durante el a\\u00f1o 2017\", \"title\": \"tasa_2017\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-08-27T09:36:12.156514",
+      "datastore_active": false,
+      "description": "Datos correspondientes a las notificaciones realizadas por jurisdicción durante los años 2015, 2016, y 2017 en Argentina.",
+      "fileName": "notificaciones-vih-jurisdiccion-2015-2017.xls",
+      "format": "XLS",
+      "hash": "",
+      "id": "salud_7ed7e485-80bb-45c0-92a5-f5a1020cf5fd",
+      "last_modified": "2019-08-27T09:36:12.156514",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Notificaciones de VIH por jurisdicción 2015-2016-2017, Argentina.",
+      "package_id": "salud_03058c84-a766-4fcd-b16a-533b21ce6766",
+      "position": 1,
+      "resource_type": "file.upload",
+      "revision_id": "66fb2d8b-feed-4381-8989-3f852a44ef1d",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.salud.gob.ar/dataset/03058c84-a766-4fcd-b16a-533b21ce6766/resource/7ed7e485-80bb-45c0-92a5-f5a1020cf5fd/download/notificaciones-vih-jurisdiccion-2015-2017.xls",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos.salud.gob.ar/dataset/03058c84-a766-4fcd-b16a-533b21ce6766/resource/3e4e5352-bcbe-474b-bad3-5b730e396e1b",
+      "attributesDescription": "[{\"type\": \"string\", \"description\": \"Nombre de Jurisdicci\\u00f3n\", \"title\": \"jurisdiccion_nombre\"}, {\"type\": \"integer\", \"description\": \"C\\u00f3digo de Jurisdicci\\u00f3n\", \"title\": \"jurisdiccion_id\"}, {\"type\": \"integer\", \"description\": \"Cantidad de casos notificados de HIV durante el a\\u00f1o 2015\", \"title\": \"cantidad_casos_2015\"}, {\"type\": \"number\", \"description\": \"Tasa de notificaci\\u00f3n de HIV durante el a\\u00f1o 2015\", \"title\": \"tasa_2015\"}, {\"type\": \"integer\", \"description\": \"Cantidad de casos notificados de HIV durante el a\\u00f1o 2016\", \"title\": \"cantidad_casos_2016\"}, {\"type\": \"number\", \"description\": \"Tasa de notificaci\\u00f3n de HIV durante el a\\u00f1o 2016\", \"title\": \"tasa_2016\"}, {\"type\": \"integer\", \"description\": \"Cantidad de casos notificados de HIV durante el a\\u00f1o 2017\", \"title\": \"cantidad_casos_2017\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-08-27T09:38:40.943114",
+      "datastore_active": false,
+      "description": "Datos correspondientes a las notificaciones realizadas por jurisdicción durante los años 2015, 2016, y 2017 en Argentina. ",
+      "fileName": "notificaciones-vih-jurisdiccion-2015-2017.json",
+      "format": "JSON",
+      "hash": "",
+      "id": "salud_3e4e5352-bcbe-474b-bad3-5b730e396e1b",
+      "last_modified": "2019-08-27T09:40:38.423215",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Notificaciones de VIH por jurisdicción 2015-2016-2017, Argentina",
+      "package_id": "salud_03058c84-a766-4fcd-b16a-533b21ce6766",
+      "position": 2,
+      "resource_type": "file.upload",
+      "revision_id": "fb2c0ed1-7fe0-4b0f-aace-7465e0a866e1",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.salud.gob.ar/dataset/03058c84-a766-4fcd-b16a-533b21ce6766/resource/3e4e5352-bcbe-474b-bad3-5b730e396e1b/download/notificaciones-vih-jurisdiccion-2015-2017.json",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos.salud.gob.ar/dataset/03058c84-a766-4fcd-b16a-533b21ce6766/resource/68a6bb8f-4635-411c-bf21-687cc6b3dbf7",
+      "attributesDescription": "[{\"type\": \"string\", \"description\": \"Nombre de Jurisdicci\\u00f3n\", \"title\": \"jurisdiccion_nombre\"}, {\"type\": \"integer\", \"description\": \"C\\u00f3digo de Jurisdicci\\u00f3n\", \"title\": \"jurisdiccion_id\"}, {\"type\": \"integer\", \"description\": \"Cantidad de casos notificados de HIV durante el a\\u00f1o 2015\", \"title\": \"cantidad_casos_2015\"}, {\"type\": \"number\", \"description\": \"Tasa de notificaci\\u00f3n de HIV durante el a\\u00f1o 2015\", \"title\": \"tasa_2015\"}, {\"type\": \"integer\", \"description\": \"Cantidad de casos notificados de HIV durante el a\\u00f1o 2016\", \"title\": \"cantidad_casos_2016\"}, {\"type\": \"number\", \"description\": \"Tasa de notificaci\\u00f3n de HIV durante el a\\u00f1o 2016\", \"title\": \"tasa_2016\"}, {\"type\": \"integer\", \"description\": \"Cantidad de casos notificados de HIV durante el a\\u00f1o 2017\", \"title\": \"cantidad_casos_2017\"}, {\"type\": \"number\", \"description\": \"Tasa de notificaci\\u00f3n de HIV durante el a\\u00f1o 2017\", \"title\": \"tasa_2017\"}, {\"type\": \"integer\", \"description\": \"Cantidad de casos notificados de HIV durante el a\\u00f1o 2018\", \"title\": \"cantidad_casos_2018\"}, {\"type\": \"number\", \"description\": \"Tasa de notificaci\\u00f3n de HIV durante el a\\u00f1o 2018\", \"title\": \"tasa_2018\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2021-01-26T22:21:59.820286",
+      "datastore_active": false,
+      "description": "Datos correspondientes a las notificaciones realizadas por jurisdicción durante los años 2015, 2016, 2017 y 2018 en Argentina.",
+      "fileName": "notificaciones-vih-por-jurisdiccion-2015-2016-2017-2018.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "salud_68a6bb8f-4635-411c-bf21-687cc6b3dbf7",
+      "last_modified": "2021-01-27T14:15:00.816802",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Notificaciones de VIH por jurisdicción 2015-2016-2017-2018, Argentina.",
+      "package_id": "salud_03058c84-a766-4fcd-b16a-533b21ce6766",
+      "position": 3,
+      "resource_type": "file.upload",
+      "revision_id": "f2bf8950-5f81-4a3e-a62c-de3e2e8d89a5",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.salud.gob.ar/dataset/03058c84-a766-4fcd-b16a-533b21ce6766/resource/68a6bb8f-4635-411c-bf21-687cc6b3dbf7/download/notificaciones-vih-por-jurisdiccion-2015-2016-2017-2018.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "f2bf8950-5f81-4a3e-a62c-de3e2e8d89a5",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "HIV",
+      "id": "0befa3fe-df94-48f6-80d7-8fb9597c1449",
+      "name": "HIV",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "SIDA",
+      "id": "2b79fb01-f05b-4a88-b1fd-7959347d0132",
+      "name": "SIDA",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Vigilancia yo Notificación de Enfermedades",
+      "id": "8a004832-236c-4995-b02e-ea22643ad2a2",
+      "name": "Vigilancia yo Notificación de Enfermedades",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "jurisdiccion",
+      "id": "456957e6-0168-40c5-86dd-f2a03b164223",
+      "name": "jurisdiccion",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "notificaciones",
+      "id": "7b10eac2-9ec2-475f-9e13-418bcb039888",
+      "name": "notificaciones",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Notificaciones de VIH por jurisdicción. Argentina.",
+  "type": "dataset",
+  "url": "http://www.salud.gob.ar/sida/",
+  "version": null
+}

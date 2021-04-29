@@ -1,0 +1,140 @@
+{
+  "author": "Secretaría de Emprendedores y PyMEs",
+  "author_email": "datos.abiertos@produccion.gob.ar",
+  "creator_user_id": "4720e75a-9e17-4dc3-879d-041917c7f9f9",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P3M"
+    },
+    {
+      "key": "issued",
+      "value": "2018-10-09T13:59:29.000Z"
+    },
+    {
+      "key": "modified",
+      "value": "2020-02-26T16:33:32.000Z"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"econ\"]"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Economía y finanzas",
+      "display_name": "Economía y finanzas",
+      "id": "60b4b03e-10a1-4d67-b984-08008a249617",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225257.200233economia-finanzas.svg",
+      "name": "econ",
+      "title": "Economía y finanzas"
+    }
+  ],
+  "id": "produccion_BkuJNE99Q",
+  "isopen": true,
+  "license_id": "CC-BY-4.0",
+  "license_title": "Creative Commons Attribution 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "maintainer": null,
+  "maintainer_email": null,
+  "metadata_created": "2019-11-26T14:57:07.062813",
+  "metadata_modified": "2021-04-29T17:04:40.427467",
+  "name": "produccion-registro-pyme",
+  "notes": "Nuclea a las micro, pequeñas y medianas empresas que realizan actividades productivas en el país y les otorga los beneficios de la ley 27264 como alivio fiscal, fomento a inversiones, menos retenciones, más crédito y mejoras para exportadores.",
+  "num_resources": 2,
+  "num_tags": 3,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:10.463340",
+    "description": "",
+    "id": "1ca8d15b-31fc-4f09-ba09-53edd3d4cce6",
+    "image_url": "",
+    "is_organization": true,
+    "name": "produccion",
+    "revision_id": "36d8ec89-d20f-4fe1-866c-e38988d28442",
+    "state": "active",
+    "title": "Ministerio de Desarrollo Productivo",
+    "type": "organization"
+  },
+  "owner_org": "1ca8d15b-31fc-4f09-ba09-53edd3d4cce6",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "http://datos.produccion.gob.ar/dataset/registro-pyme",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2018-10-09T10:59:29",
+      "datastore_active": false,
+      "description": "Micro, pequeñas o medianas empresas que están acreditadas como PyMEs ante el Ministerio de Producción y terceros, especificadas por fecha de inscripción, vigencia, categoría, sector, provincia, partido, actividad y mes de cierre.",
+      "format": "CSV",
+      "hash": "",
+      "id": "produccion_HkJO4V95Q",
+      "last_modified": "2019-02-05T16:30:44",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Empresas inscriptas",
+      "package_id": "produccion_BkuJNE99Q",
+      "position": 0,
+      "resource_type": null,
+      "revision_id": "a5e908a4-f894-4714-9d44-958583a7cfc0",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.produccion.gob.ar/api/files/empresas-inscriptas.csv/download",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos.produccion.gob.ar/dataset/registro-pyme",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2018-10-09T10:59:29",
+      "datastore_active": false,
+      "description": "Guia de datos.",
+      "format": "PDF",
+      "hash": "",
+      "id": "produccion_S1jXrVc9Q",
+      "last_modified": "2019-02-05T16:28:01",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Guia de datos Registro Pyme",
+      "package_id": "produccion_BkuJNE99Q",
+      "position": 1,
+      "resource_type": null,
+      "revision_id": "58643421-a7ec-4963-888d-8ae73bec2f67",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.produccion.gob.ar/api/files/guia-de-datos-registro-pyme.pdf/download",
+      "url_type": null
+    }
+  ],
+  "revision_id": "20aa7436-9eef-4138-8b9d-499f3942bb70",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "PyMEs",
+      "id": "5e48e296-35ca-43d6-8f07-7a3010aeb059",
+      "name": "PyMEs",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Pymes",
+      "id": "97635f98-f203-4647-ae25-9a02f74c1d28",
+      "name": "Pymes",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Registro PyME",
+      "id": "ae4ee4d7-5c77-433e-a5d6-2f8ab69a56db",
+      "name": "Registro PyME",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Registro Pyme",
+  "type": "dataset",
+  "url": "http://datos.produccion.gob.ar/dataset/registro-pyme",
+  "version": null
+}

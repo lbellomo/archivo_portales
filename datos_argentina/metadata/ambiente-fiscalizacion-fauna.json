@@ -1,0 +1,133 @@
+{
+  "author": "Ministerio de Ambiente y Desarrollo Sostenible. ",
+  "author_email": "rnegreira@ambiente.gob.ar",
+  "creator_user_id": "4720e75a-9e17-4dc3-879d-041917c7f9f9",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P1Y"
+    },
+    {
+      "key": "issued",
+      "value": "2017-09-05T18:54:04.317639"
+    },
+    {
+      "key": "language",
+      "value": "[\"spa\"]"
+    },
+    {
+      "key": "modified",
+      "value": "2020-09-29T14:14:47.849631"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"ENVI\"]"
+    },
+    {
+      "key": "temporal",
+      "value": "2012-03-01T03:00:00.000Z/2016-12-30T03:00:00.000Z"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Medio ambiente",
+      "display_name": "Medio ambiente",
+      "id": "f71fe9d7-c703-43be-8d9d-af9441c326ba",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225440.964279medio-ambiente.svg",
+      "name": "envi",
+      "title": "Medio ambiente"
+    }
+  ],
+  "id": "ambiente_c8864d14-0ac1-4c97-9fe6-10b12ef3ecdc",
+  "isopen": false,
+  "license_id": "notspecified",
+  "license_title": "No se especificó la licencia",
+  "maintainer": "Ministerio de Ambiente y Desarrollo Sostenible.",
+  "maintainer_email": "rnegreira@ambiente.gob.ar",
+  "metadata_created": "2019-11-26T14:57:52.137673",
+  "metadata_modified": "2021-04-29T17:18:00.467078",
+  "name": "ambiente-fiscalizacion-fauna",
+  "notes": "Muestra las actuaciones del área de fiscalización de la Dirección Nacional de Biodiversidad",
+  "num_resources": 1,
+  "num_tags": 4,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:07.043831",
+    "description": "",
+    "id": "0e5aa328-825e-4509-851d-5421e866635e",
+    "image_url": "",
+    "is_organization": true,
+    "name": "ambiente",
+    "revision_id": "105eb915-270c-4f67-9b4e-e6a3f08be6d7",
+    "state": "active",
+    "title": "Ministerio de Ambiente y Desarrollo Sostenible",
+    "type": "organization"
+  },
+  "owner_org": "0e5aa328-825e-4509-851d-5421e866635e",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "http://datos.ambiente.gob.ar/dataset/c8864d14-0ac1-4c97-9fe6-10b12ef3ecdc/resource/52fa3a64-83be-4aed-b590-a2425bf8cfdd",
+      "attributesDescription": "[{\"type\": \"integer\", \"description\": \"A\\u00f1o de la serie\", \"title\": \"actas_elaboradas_y_notificadas_anio\"}, {\"type\": \"integer\", \"description\": \"Cantidad de actas que se elaboran y notifican\", \"title\": \"actas_elaboradas_y_notificadas_numero\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-09-05T18:59:04.627263",
+      "datastore_active": false,
+      "description": "Son las actas que se elaboran y notifica el Área de Fiscalización de la Dirección Nacional de Biodiversidad",
+      "fileName": "actas-elaboradas-notificadas-por-fiscalizacion-de-fauna.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "ambiente_52fa3a64-83be-4aed-b590-a2425bf8cfdd",
+      "last_modified": "2019-11-06T16:39:45.974339",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Actas elaboradas y notificadas por fiscalización de fauna",
+      "package_id": "ambiente_c8864d14-0ac1-4c97-9fe6-10b12ef3ecdc",
+      "position": 0,
+      "resource_type": "file.upload",
+      "revision_id": "736a6413-ca41-4939-961a-1c3d44fbb80f",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.ambiente.gob.ar/dataset/c8864d14-0ac1-4c97-9fe6-10b12ef3ecdc/resource/52fa3a64-83be-4aed-b590-a2425bf8cfdd/download/actas-elaboradas-notificadas-por-fiscalizacion-de-fauna.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "79110969-10c6-4140-b7c3-078c93c13117",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "Actas",
+      "id": "7fe06647-818b-46c1-8616-2540ecdce75a",
+      "name": "Actas",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Biodiversidad",
+      "id": "f2a0f44e-c65a-413e-a967-c9facc9f820e",
+      "name": "Biodiversidad",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Fauna",
+      "id": "da715ec1-ff9a-4f68-b41a-edc7a78908b5",
+      "name": "Fauna",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Fiscalización",
+      "id": "7e5f9404-5c6f-49e0-849b-477fff8bdd0c",
+      "name": "Fiscalización",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Fiscalización de fauna",
+  "type": "dataset",
+  "url": "http://datos.ambiente.gob.ar/dataset/",
+  "version": null
+}

@@ -1,0 +1,141 @@
+{
+  "author": "Dirección de Información y Estadística Pública - Secretaría de Mercados Agroindustriales",
+  "author_email": "datospublicos@magyp.gob.ar",
+  "creator_user_id": "dc157489-51c6-44ce-bd63-3bd983d60778",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P1M"
+    },
+    {
+      "key": "issued",
+      "value": "2018-12-07T21:25:34.744330"
+    },
+    {
+      "key": "language",
+      "value": "[\"spa\"]"
+    },
+    {
+      "key": "modified",
+      "value": "2019-10-24T11:27:52.525890"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"AGRI\"]"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Agroganadería, pesca y forestación",
+      "display_name": "Agroganadería, pesca y forestación",
+      "id": "0c35ea38-7059-41d2-9827-5587769d0dc6",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225145.990789agroganaderia-pesca-forestacion.svg",
+      "name": "agri",
+      "title": "Agroganadería, pesca y forestación"
+    }
+  ],
+  "id": "agroindustria_8109e9e8-f8e9-41d1-978a-d20fcd2fe5f5",
+  "isopen": true,
+  "license_id": "CC-BY-4.0",
+  "license_title": "Creative Commons Attribution 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "maintainer": null,
+  "maintainer_email": null,
+  "metadata_created": "2019-12-04T21:13:02.600322",
+  "metadata_modified": "2021-04-29T17:10:19.502510",
+  "name": "agroindustria-ganaderia---existencia-ciervo-colorado",
+  "notes": "Información ligada a la actividad pecuaria no tradicional (ciervo colorado), asociada a regiones definidas.",
+  "num_resources": 2,
+  "num_tags": 2,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:07.834957",
+    "description": "",
+    "id": "b10c94e2-ade1-4a97-8c4c-b1ada7878d60",
+    "image_url": "",
+    "is_organization": true,
+    "name": "agroindustria",
+    "revision_id": "f7c3b6e9-d48f-4522-9f7a-388d805c8392",
+    "state": "active",
+    "title": "Ministerio de Agricultura, Ganadería y Pesca",
+    "type": "organization"
+  },
+  "owner_org": "b10c94e2-ade1-4a97-8c4c-b1ada7878d60",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "http://datos2.agroindustria.gob.ar/dataset/8109e9e8-f8e9-41d1-978a-d20fcd2fe5f5/archivo/6b505218-6bc3-47b8-a229-8993bc3ab4e0",
+      "attributesDescription": "[{\"type\": \"integer\", \"description\": \"pais_id\", \"title\": \"pais_id\"}, {\"type\": \"string\", \"description\": \"pais\", \"title\": \"pais\"}, {\"type\": \"string\", \"description\": \"sag\", \"title\": \"sag\"}, {\"type\": \"string\", \"description\": \"reg\", \"title\": \"reg\"}, {\"type\": \"integer\", \"description\": \"cod\", \"title\": \"cod\"}, {\"type\": \"integer\", \"description\": \"up\", \"title\": \"up\"}, {\"type\": \"integer\", \"description\": \"ciervos\", \"title\": \"ciervos\"}, {\"type\": \"date-time\", \"description\": \"fecha\", \"title\": \"fecha\"}, {\"type\": \"string\", \"description\": \"vinculo\", \"title\": \"vinculo\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-09-07T14:54:00.182147",
+      "datastore_active": false,
+      "description": "Información ligada a la actividad pecuaria no tradicional (ciervo colorado), asociada a regiones definidas.",
+      "fileName": "existencia-de-ciervo-colorado.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "agroindustria_6b505218-6bc3-47b8-a229-8993bc3ab4e0",
+      "last_modified": "2019-02-11T14:07:53.156593",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Existencia de ciervo colorado",
+      "package_id": "agroindustria_8109e9e8-f8e9-41d1-978a-d20fcd2fe5f5",
+      "position": 0,
+      "resource_type": "file.upload",
+      "revision_id": "683e550c-f0b4-443e-8d61-0b60e9a0f04c",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.agroindustria.gob.ar/dataset/8109e9e8-f8e9-41d1-978a-d20fcd2fe5f5/resource/6b505218-6bc3-47b8-a229-8993bc3ab4e0/download/existencia-de-ciervo-colorado.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos2.agroindustria.gob.ar/dataset/8109e9e8-f8e9-41d1-978a-d20fcd2fe5f5/archivo/014902e5-83eb-45d7-9931-9abe6cb8421e",
+      "attributesDescription": "[{\"type\": \"string\", \"description\": \"nom_campo\", \"title\": \"nom_campo\"}, {\"type\": \"string\", \"description\": \"nom_descripcion\", \"title\": \"nom_descripcion\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-09-07T17:16:29.427368",
+      "datastore_active": false,
+      "description": "Información ligada a la actividad pecuaria no tradicional (ciervo colorado), asociada a regiones definidas.",
+      "fileName": "referenciaciervocolorado.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "agroindustria_014902e5-83eb-45d7-9931-9abe6cb8421e",
+      "last_modified": "2019-01-22T20:44:25.358507",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Referencia de existencia de ciervo colorado",
+      "package_id": "agroindustria_8109e9e8-f8e9-41d1-978a-d20fcd2fe5f5",
+      "position": 1,
+      "resource_type": "file.upload",
+      "revision_id": "5e0b0b69-4ae3-488b-9ffc-4f62eaad4508",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.agroindustria.gob.ar/dataset/8109e9e8-f8e9-41d1-978a-d20fcd2fe5f5/resource/014902e5-83eb-45d7-9931-9abe6cb8421e/download/referenciaciervocolorado.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "d730ecef-32fa-4abf-a90c-292e8c314649",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "ciervo",
+      "id": "d64f4503-483e-4a58-98dc-032f1dff2121",
+      "name": "ciervo",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "ciervo colorado",
+      "id": "10fdb2a4-75ec-437e-926f-f8c648516daa",
+      "name": "ciervo colorado",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Ganadería - Existencia de ciervo colorado",
+  "type": "dataset",
+  "url": "https://datos.agroindustria.gob.ar/dataset/existencia-ciervo-colorado",
+  "version": null
+}

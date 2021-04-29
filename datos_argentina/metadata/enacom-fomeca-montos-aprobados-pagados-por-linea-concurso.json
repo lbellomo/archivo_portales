@@ -1,0 +1,152 @@
+{
+  "author": "Ente Nacional de Comunicaciones (ENACOM)",
+  "author_email": "contacto@enacom.gob.ar",
+  "creator_user_id": "4720e75a-9e17-4dc3-879d-041917c7f9f9",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P1Y"
+    },
+    {
+      "key": "issued",
+      "value": "2019-11-08T20:38:02"
+    },
+    {
+      "key": "language",
+      "value": "[\"spa\"]"
+    },
+    {
+      "key": "modified",
+      "value": "2019-11-08T23:38:06Z"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"TECH\"]"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Ciencia y tecnología",
+      "display_name": "Ciencia y tecnología",
+      "id": "0dd7dd0e-aae8-402f-8660-f1e8b6b6084c",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225221.170833ciencia-tecnologia.svg",
+      "name": "tech",
+      "title": "Ciencia y tecnología"
+    }
+  ],
+  "id": "enacom_FOMEC-MONTO-APROB-Y-PAGAD",
+  "isopen": false,
+  "license_id": "notspecified",
+  "license_title": "No se especificó la licencia",
+  "maintainer": null,
+  "maintainer_email": null,
+  "metadata_created": "2019-11-26T14:55:29.147007",
+  "metadata_modified": "2021-04-29T17:04:33.989414",
+  "name": "enacom-fomeca-montos-aprobados-pagados-por-linea-concurso",
+  "notes": "Montos aprobados y pagados a las entidades beneficiadas por el programa Fomeca (corte octubre 31 de 2019)",
+  "num_resources": 3,
+  "num_tags": 1,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:07.525331",
+    "description": "",
+    "id": "6eb7d19b-2d42-494f-8e57-d67c501d23eb",
+    "image_url": "",
+    "is_organization": true,
+    "name": "enacom",
+    "revision_id": "f2d2a5ad-7015-4d68-9d9c-5a82fadbbbf3",
+    "state": "active",
+    "title": "Ente Nacional de Comunicaciones",
+    "type": "organization"
+  },
+  "owner_org": "6eb7d19b-2d42-494f-8e57-d67c501d23eb",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/240985/fomeca-montos-aprobados-y-pagados-por-linea-de-concurso/",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-11-08T20:38:02",
+      "datastore_active": false,
+      "description": "Montos aprobados y pagados a las entidades beneficiadas por el programa Fomeca (corte octubre 31 de 2019)",
+      "format": "CSV",
+      "hash": "",
+      "id": "enacom_FOMEC-MONTO-APROB-Y-PAGAD_0",
+      "last_modified": "2019-11-08T20:38:06",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Fomeca: montos aprobados y pagados por línea de concurso",
+      "package_id": "enacom_FOMEC-MONTO-APROB-Y-PAGAD",
+      "position": 0,
+      "resource_type": null,
+      "revision_id": "10ea2494-36db-4215-a78e-10e250a9db3e",
+      "size": null,
+      "state": "active",
+      "url": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/FOMEC-MONTO-APROB-Y-PAGAD/data.csv?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/240985/fomeca-montos-aprobados-y-pagados-por-linea-de-concurso/",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-11-08T20:38:02",
+      "datastore_active": false,
+      "description": "Montos aprobados y pagados a las entidades beneficiadas por el programa Fomeca (corte octubre 31 de 2019)",
+      "format": "XLS",
+      "hash": "",
+      "id": "enacom_FOMEC-MONTO-APROB-Y-PAGAD_1",
+      "last_modified": "2019-11-08T20:38:06",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Fomeca: montos aprobados y pagados por línea de concurso",
+      "package_id": "enacom_FOMEC-MONTO-APROB-Y-PAGAD",
+      "position": 1,
+      "resource_type": null,
+      "revision_id": "003e1b6b-dee2-4633-a9f6-aef8f1e43dbf",
+      "size": null,
+      "state": "active",
+      "url": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/FOMEC-MONTO-APROB-Y-PAGAD/data.xls?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/240985/fomeca-montos-aprobados-y-pagados-por-linea-de-concurso/",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-11-08T20:38:02",
+      "datastore_active": false,
+      "description": "Montos aprobados y pagados a las entidades beneficiadas por el programa Fomeca (corte octubre 31 de 2019)",
+      "format": "JSON",
+      "hash": "",
+      "id": "enacom_FOMEC-MONTO-APROB-Y-PAGAD_2",
+      "last_modified": "2019-11-08T20:38:06",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Fomeca: montos aprobados y pagados por línea de concurso",
+      "package_id": "enacom_FOMEC-MONTO-APROB-Y-PAGAD",
+      "position": 2,
+      "resource_type": null,
+      "revision_id": "6f498139-b8c9-4c82-9321-fac6b6e4d64c",
+      "size": null,
+      "state": "active",
+      "url": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/FOMEC-MONTO-APROB-Y-PAGAD/data.json?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1",
+      "url_type": null
+    }
+  ],
+  "revision_id": "6f498139-b8c9-4c82-9321-fac6b6e4d64c",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "FOMECA",
+      "id": "3f01fdb6-1245-41ab-9c4c-e95ebed08b83",
+      "name": "FOMECA",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Fomeca: montos aprobados y pagados por línea de concurso",
+  "type": "dataset",
+  "url": "http://api.datosabiertos.enacom.gob.ar/dataset/enacom-fomeca-montos-aprobados-pagados-por-linea-concurso",
+  "version": null
+}

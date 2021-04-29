@@ -1,0 +1,155 @@
+{
+  "author": "Dirección de Información y Estadística Pública - Secretaría de Mercados Agroindustriales",
+  "author_email": "datospublicos@magyp.gob.ar",
+  "creator_user_id": "4720e75a-9e17-4dc3-879d-041917c7f9f9",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "eventual"
+    },
+    {
+      "key": "issued",
+      "value": "2018-12-07T21:20:05.756186"
+    },
+    {
+      "key": "language",
+      "value": "[\"spa\"]"
+    },
+    {
+      "key": "modified",
+      "value": "2019-10-24T10:29:14.014993"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"AGRI\"]"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Agroganadería, pesca y forestación",
+      "display_name": "Agroganadería, pesca y forestación",
+      "id": "0c35ea38-7059-41d2-9827-5587769d0dc6",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225145.990789agroganaderia-pesca-forestacion.svg",
+      "name": "agri",
+      "title": "Agroganadería, pesca y forestación"
+    }
+  ],
+  "id": "agroindustria_242b9a43-ebeb-4fde-bb73-56290635b7d5",
+  "isopen": true,
+  "license_id": "CC-BY-4.0",
+  "license_title": "Creative Commons Attribution 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "maintainer": null,
+  "maintainer_email": null,
+  "metadata_created": "2019-11-26T14:56:16.828984",
+  "metadata_modified": "2021-04-29T17:06:20.756062",
+  "name": "agroindustria-censo---metodos-riego-cna-02",
+  "notes": "Conjunto de datos que da cuenta de la situación de los métodos de riego a nivel departamental de acuerdo a lo recolectado en el Censo Nacional Agropecuario 2002 (CNA 02).",
+  "num_resources": 2,
+  "num_tags": 4,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:07.834957",
+    "description": "",
+    "id": "b10c94e2-ade1-4a97-8c4c-b1ada7878d60",
+    "image_url": "",
+    "is_organization": true,
+    "name": "agroindustria",
+    "revision_id": "f7c3b6e9-d48f-4522-9f7a-388d805c8392",
+    "state": "active",
+    "title": "Ministerio de Agricultura, Ganadería y Pesca",
+    "type": "organization"
+  },
+  "owner_org": "b10c94e2-ade1-4a97-8c4c-b1ada7878d60",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "http://datos.agroindustria.gob.ar/dataset/242b9a43-ebeb-4fde-bb73-56290635b7d5/resource/a9da3f05-3c0e-4ca0-818f-159b9ce21ad8",
+      "attributesDescription": "[{\"type\": \"integer\", \"description\": \"pais_id\", \"title\": \"pais_id\"}, {\"type\": \"string\", \"description\": \"pais\", \"title\": \"pais\"}, {\"type\": \"integer\", \"description\": \"provincia_id\", \"title\": \"provincia_id\"}, {\"type\": \"string\", \"description\": \"provincia\", \"title\": \"provincia\"}, {\"type\": \"integer\", \"description\": \"departamento_id\", \"title\": \"departamento_id\"}, {\"type\": \"string\", \"description\": \"departamento\", \"title\": \"departamento\"}, {\"type\": \"integer\", \"description\": \"link\", \"title\": \"link\"}, {\"type\": \"number\", \"description\": \"sup_eap\", \"title\": \"sup_eap\"}, {\"type\": \"number\", \"description\": \"rieg_tot\", \"title\": \"rieg_tot\"}, {\"type\": \"number\", \"description\": \"gravit\", \"title\": \"gravit\"}, {\"type\": \"number\", \"description\": \"asper\", \"title\": \"asper\"}, {\"type\": \"number\", \"description\": \"loc_got\", \"title\": \"loc_got\"}, {\"type\": \"number\", \"description\": \"loc_mic\", \"title\": \"loc_mic\"}, {\"type\": \"number\", \"description\": \"loc_ot\", \"title\": \"loc_ot\"}, {\"type\": \"number\", \"description\": \"sin_disc\", \"title\": \"sin_disc\"}, {\"type\": \"number\", \"description\": \"p_sup_rega\", \"title\": \"p_sup_rega\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-08-31T14:40:41.371600",
+      "datastore_active": false,
+      "description": "Situación de los métodos de riego a nivel departamental de acuerdo a lo recolectado en el Censo Nacional Agropecuario 2002. El valor \"-1\" se refiere a que no hay datos.",
+      "fileName": "metodos-de-riego-segun-cna-2002.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "agroindustria_a9da3f05-3c0e-4ca0-818f-159b9ce21ad8",
+      "last_modified": "2019-04-17T11:49:40.920541",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Métodos de riego según el CNA 2002",
+      "package_id": "agroindustria_242b9a43-ebeb-4fde-bb73-56290635b7d5",
+      "position": 0,
+      "resource_type": "file.upload",
+      "revision_id": "e06d9f1b-9b6d-441a-870e-a50aea44d226",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.agroindustria.gob.ar/dataset/242b9a43-ebeb-4fde-bb73-56290635b7d5/resource/a9da3f05-3c0e-4ca0-818f-159b9ce21ad8/download/metodos-de-riego-segun-cna-2002.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos.agroindustria.gob.ar/dataset/242b9a43-ebeb-4fde-bb73-56290635b7d5/resource/037bcb6b-357c-4a2a-ba11-7715fbcbfd6a",
+      "attributesDescription": "[{\"type\": \"string\", \"description\": \"Campo\", \"title\": \"Campo\"}, {\"type\": \"string\", \"description\": \"Descripci\\u00f3n\", \"title\": \"Descripci\\u00f3n\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-08-31T14:41:30.942885",
+      "datastore_active": false,
+      "description": "Detalle de las columnas que componen el recurso.",
+      "fileName": "referencias-métodos-de-riego-CNA-2002.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "agroindustria_037bcb6b-357c-4a2a-ba11-7715fbcbfd6a",
+      "last_modified": "2019-04-17T11:51:57.716166",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Referencias sobre métodos de riego según CNA 2002",
+      "package_id": "agroindustria_242b9a43-ebeb-4fde-bb73-56290635b7d5",
+      "position": 1,
+      "resource_type": "file.upload",
+      "revision_id": "e06d9f1b-9b6d-441a-870e-a50aea44d226",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.agroindustria.gob.ar/dataset/242b9a43-ebeb-4fde-bb73-56290635b7d5/resource/037bcb6b-357c-4a2a-ba11-7715fbcbfd6a/download/referencias-metodos-de-riego-cna-2002.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "5a071848-f7c0-4c3f-a277-51b6ed7848ec",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "censo",
+      "id": "3afd172c-45af-41bd-b023-b1ed9844c3ba",
+      "name": "censo",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "censo nacional agropecuario",
+      "id": "65e55d56-ea2e-4dc5-94dc-c25c37efa24e",
+      "name": "censo nacional agropecuario",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "cna 02",
+      "id": "a6e31f8c-5ed2-44b8-8ef2-2dbd7fded11b",
+      "name": "cna 02",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "riego",
+      "id": "5be4e480-5cb0-4550-ad15-78074153e47f",
+      "name": "riego",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Censo - Métodos de riego CNA 02",
+  "type": "dataset",
+  "url": "https://datos.agroindustria.gob.ar/dataset/metodos-riego-segun-censo-nacional-agropecuario-2002",
+  "version": null
+}

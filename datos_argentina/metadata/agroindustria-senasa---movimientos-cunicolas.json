@@ -1,0 +1,131 @@
+{
+  "author": "Servicio Nacional de Sanidad y Calidad Agroalimentaria",
+  "author_email": "desycg@senasa.gob.ar",
+  "creator_user_id": "dc157489-51c6-44ce-bd63-3bd983d60778",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P1M"
+    },
+    {
+      "key": "issued",
+      "value": "2019-09-23T15:35:39.765342"
+    },
+    {
+      "key": "language",
+      "value": "[\"spa\"]"
+    },
+    {
+      "key": "modified",
+      "value": "2019-12-04T16:07:40.097734"
+    },
+    {
+      "key": "source",
+      "value": "Servicio Nacional de Sanidad y Calidad Agroalimentaria - SENASA"
+    },
+    {
+      "key": "spatial",
+      "value": "[\"ARG\"]"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"AGRI\"]"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Agroganadería, pesca y forestación",
+      "display_name": "Agroganadería, pesca y forestación",
+      "id": "0c35ea38-7059-41d2-9827-5587769d0dc6",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225145.990789agroganaderia-pesca-forestacion.svg",
+      "name": "agri",
+      "title": "Agroganadería, pesca y forestación"
+    }
+  ],
+  "id": "agroindustria_77e9d9a5-b762-4171-9766-7ef6af7a0391",
+  "isopen": true,
+  "license_id": "CC-BY-4.0",
+  "license_title": "Creative Commons Attribution 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "maintainer": "Dirección Nacional de Sanidad Animal",
+  "maintainer_email": "desycg@senasa.gob.ar",
+  "metadata_created": "2019-12-12T19:45:23.121129",
+  "metadata_modified": "2021-04-29T17:09:51.750808",
+  "name": "agroindustria-senasa---movimientos-cunicolas",
+  "notes": "Datos mensuales de los movimientos de la especie cunícola detallando provincia origen y destino.",
+  "num_resources": 1,
+  "num_tags": 3,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:07.834957",
+    "description": "",
+    "id": "b10c94e2-ade1-4a97-8c4c-b1ada7878d60",
+    "image_url": "",
+    "is_organization": true,
+    "name": "agroindustria",
+    "revision_id": "f7c3b6e9-d48f-4522-9f7a-388d805c8392",
+    "state": "active",
+    "title": "Ministerio de Agricultura, Ganadería y Pesca",
+    "type": "organization"
+  },
+  "owner_org": "b10c94e2-ade1-4a97-8c4c-b1ada7878d60",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "http://datos.agroindustria.gob.ar/dataset/77e9d9a5-b762-4171-9766-7ef6af7a0391/resource/e290fef7-cfc0-4514-ba0c-c1644132d9e5",
+      "attributesDescription": "[{\"type\": \"date\", \"title\": \"fecha\"}, {\"type\": \"string\", \"description\": \"Especie animal.\", \"title\": \"especie\"}, {\"type\": \"string\", \"description\": \"Motivo por el que se realiza el movimiento.\", \"title\": \"motivo\"}, {\"type\": \"string\", \"description\": \"Lugar del que sale.\", \"title\": \"salido_de\"}, {\"type\": \"string\", \"description\": \"Lugar al que ingresa.\", \"title\": \"ingresado_a\"}, {\"type\": \"string\", \"description\": \"Nombre de la provincia de origen.\", \"title\": \"provincia_origen\"}, {\"type\": \"string\", \"description\": \"C\\u00f3digo de la provincia de origen.\", \"title\": \"provincia_origen_id\"}, {\"type\": \"string\", \"description\": \"Nombre de la provincia de destino.\", \"title\": \"provincia_destino\"}, {\"type\": \"string\", \"description\": \"C\\u00f3digo de la provincia de destino.\", \"title\": \"provincia_destino_id\"}, {\"type\": \"integer\", \"description\": \"conejos\", \"title\": \"conejos\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-09-27T16:06:50.835133",
+      "datastore_active": false,
+      "description": "Datos de los movimientos cunícolas por categoría y mes para el período 2013 a 2018.",
+      "fileName": "movimiento-cunicolas-provincia-2013-2018.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "agroindustria_e290fef7-cfc0-4514-ba0c-c1644132d9e5",
+      "last_modified": "2019-12-04T16:06:41.440584",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Movimientos cunícolas 2013 a 2018",
+      "package_id": "agroindustria_77e9d9a5-b762-4171-9766-7ef6af7a0391",
+      "position": 0,
+      "resource_type": "file.upload",
+      "revision_id": "93ff56c3-687b-440d-ad4b-8639783eae0c",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.agroindustria.gob.ar/dataset/77e9d9a5-b762-4171-9766-7ef6af7a0391/resource/e290fef7-cfc0-4514-ba0c-c1644132d9e5/download/movimiento-cunicolas-provincia-2013-2018.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "e43b2450-fe7e-4dc9-b7bf-cfc0d1f1a358",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "conejo",
+      "id": "6ff44f15-4f59-4afe-a449-f29ff9f9c428",
+      "name": "conejo",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "movimiento ganadero",
+      "id": "5d3fb22d-977e-4fc3-ac41-277f36a967a1",
+      "name": "movimiento ganadero",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "pilifero",
+      "id": "b1a8d0a7-7b2b-481a-b33e-b1c72b4d28c6",
+      "name": "pilifero",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "SENASA - Movimientos cunícolas",
+  "type": "dataset",
+  "url": "https://datos.agroindustria.gob.ar/dataset/senasa-movimientos-cunicolas",
+  "version": null
+}

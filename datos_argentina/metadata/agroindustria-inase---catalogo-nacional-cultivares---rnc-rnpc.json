@@ -1,0 +1,169 @@
+{
+  "author": "Dirección de Certificación y Control - INASE",
+  "author_email": "rncyfs@inase.gov.ar",
+  "creator_user_id": "dc157489-51c6-44ce-bd63-3bd983d60778",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P2M"
+    },
+    {
+      "key": "issued",
+      "value": "2018-12-07T21:19:09.073373"
+    },
+    {
+      "key": "language",
+      "value": "[\"spa\"]"
+    },
+    {
+      "key": "modified",
+      "value": "2019-10-24T10:44:26.072087"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"AGRI\"]"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Agroganadería, pesca y forestación",
+      "display_name": "Agroganadería, pesca y forestación",
+      "id": "0c35ea38-7059-41d2-9827-5587769d0dc6",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225145.990789agroganaderia-pesca-forestacion.svg",
+      "name": "agri",
+      "title": "Agroganadería, pesca y forestación"
+    }
+  ],
+  "id": "agroindustria_e21dfda4-d28a-4141-ab8e-67112f2ef24a",
+  "isopen": true,
+  "license_id": "CC-BY-4.0",
+  "license_title": "Creative Commons Attribution 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "maintainer": null,
+  "maintainer_email": null,
+  "metadata_created": "2019-12-04T21:12:52.474699",
+  "metadata_modified": "2021-04-29T17:15:42.612296",
+  "name": "agroindustria-inase---catalogo-nacional-cultivares---rnc-rnpc",
+  "notes": "Datos de las variedades inscriptas en el Registro Nacional de Cultivares (RNC)  y Registro Nacional de la Propiedad de Cultivares (RNPC), dependiente del Instituto Nacional de Semillas (INaSe).",
+  "num_resources": 2,
+  "num_tags": 6,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:07.834957",
+    "description": "",
+    "id": "b10c94e2-ade1-4a97-8c4c-b1ada7878d60",
+    "image_url": "",
+    "is_organization": true,
+    "name": "agroindustria",
+    "revision_id": "f7c3b6e9-d48f-4522-9f7a-388d805c8392",
+    "state": "active",
+    "title": "Ministerio de Agricultura, Ganadería y Pesca",
+    "type": "organization"
+  },
+  "owner_org": "b10c94e2-ade1-4a97-8c4c-b1ada7878d60",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "http://datos.agroindustria.gob.ar/dataset/e21dfda4-d28a-4141-ab8e-67112f2ef24a/resource/38735bc0-c807-41d3-9834-0d6f6555225d",
+      "attributesDescription": "[{\"type\": \"integer\", \"description\": \"cod_pais\", \"title\": \"cod_pais\"}, {\"type\": \"string\", \"description\": \"nom_pais\", \"title\": \"nom_pais\"}, {\"type\": \"integer\", \"description\": \"N\\u00famero de expediente INASE.\", \"title\": \"expediente\"}, {\"type\": \"string\", \"description\": \"Especie declarada\", \"title\": \"especie\"}, {\"type\": \"date\", \"description\": \"Fecha declarada de inicio del cultivar\", \"title\": \"fecha_inicio(desde)\"}, {\"type\": \"date\", \"description\": \"Fecha declarada de final del cultivar\", \"title\": \"fecha_final(hasta)\"}, {\"type\": \"string\", \"description\": \"Empresa solicitante del expediente\", \"title\": \"empresa_solicitante\"}, {\"type\": \"string\", \"description\": \"Vais de origen\", \"title\": \"pais_origen\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-09-07T22:22:16.592335",
+      "datastore_active": false,
+      "description": "Datos de las variedades inscriptas en el Registro Nacional de Cultivares  y Registro Nacional de la Propiedad de Cultivares .",
+      "fileName": "catalogo-nacional-de-cultivares-septiembre_2019.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "agroindustria_38735bc0-c807-41d3-9834-0d6f6555225d",
+      "last_modified": "2019-10-25T11:38:27.945154",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Catálogo nacional de cultivares a Septiembre del año 2019",
+      "package_id": "agroindustria_e21dfda4-d28a-4141-ab8e-67112f2ef24a",
+      "position": 0,
+      "resource_type": "file.upload",
+      "revision_id": "4d2a26de-dd82-4609-b68e-80e2abe34d07",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.agroindustria.gob.ar/dataset/e21dfda4-d28a-4141-ab8e-67112f2ef24a/resource/38735bc0-c807-41d3-9834-0d6f6555225d/download/catalogo-nacional-de-cultivares-septiembre_2019.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos.agroindustria.gob.ar/dataset/e21dfda4-d28a-4141-ab8e-67112f2ef24a/resource/87d31129-11c4-4231-8668-81ee2049dec3",
+      "attributesDescription": "[{\"type\": \"string\", \"description\": \"Nombre del Campo\", \"title\": \"campo\"}, {\"type\": \"string\", \"description\": \"Descripci\\u00f3n del significado del nombre del campo\", \"title\": \"descripcion\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-09-07T22:27:31.042569",
+      "datastore_active": false,
+      "description": "Detalle de cada una de las columnas que integran el recurso.",
+      "fileName": "catalogo-nacional-de-cultivares-referencias.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "agroindustria_87d31129-11c4-4231-8668-81ee2049dec3",
+      "last_modified": "2019-10-25T11:57:21.397562",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Referencias de catálogo nacional de cultivares",
+      "package_id": "agroindustria_e21dfda4-d28a-4141-ab8e-67112f2ef24a",
+      "position": 1,
+      "resource_type": "file.upload",
+      "revision_id": "4bc5b923-6682-47a9-8043-90edc98bf54d",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.agroindustria.gob.ar/dataset/e21dfda4-d28a-4141-ab8e-67112f2ef24a/resource/87d31129-11c4-4231-8668-81ee2049dec3/download/catalogo-nacional-de-cultivares-referencias.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "574a380c-ef10-48b3-a781-b380ad5153b1",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "INASE",
+      "id": "ad93b88f-2d5d-4ab3-8054-cee3801c9761",
+      "name": "INASE",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "catálogo",
+      "id": "fb1ce701-9295-4afa-9de3-9e790ff33975",
+      "name": "catálogo",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "cultivar",
+      "id": "bb9a8233-0aa6-4abf-b348-bf8fe3816ce8",
+      "name": "cultivar",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "cultivares",
+      "id": "80677b91-d8fa-4c8a-ad8a-9189df774487",
+      "name": "cultivares",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "especie",
+      "id": "a059c7d3-b110-452f-b992-cdabd0071988",
+      "name": "especie",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "registro semillas",
+      "id": "5c7019e3-f21a-4b1e-be97-55d2a1dde247",
+      "name": "registro semillas",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "INASE - Catálogo nacional de cultivares - RNC y RNPC",
+  "type": "dataset",
+  "url": "https://datos.agroindustria.gob.ar/dataset/catalogo-nacional-cultivares-registrados-rnc-rnpc",
+  "version": null
+}

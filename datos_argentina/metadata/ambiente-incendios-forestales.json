@@ -1,0 +1,239 @@
+{
+  "author": "Ministerio de Ambiente y Desarrollo Sostenible. Dirección Nacional de Bosques.",
+  "author_email": "fscagnetti@ambiente.gob.ar",
+  "creator_user_id": "4720e75a-9e17-4dc3-879d-041917c7f9f9",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P1Y"
+    },
+    {
+      "key": "issued",
+      "value": "2017-09-06T14:32:31.882477"
+    },
+    {
+      "key": "modified",
+      "value": "2020-09-30T12:06:07.839346"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"ENVI\"]"
+    },
+    {
+      "key": "temporal",
+      "value": "1993-03-01T03:00:00.000Z/2019-12-31T03:00:00.000Z"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Medio ambiente",
+      "display_name": "Medio ambiente",
+      "id": "f71fe9d7-c703-43be-8d9d-af9441c326ba",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225440.964279medio-ambiente.svg",
+      "name": "envi",
+      "title": "Medio ambiente"
+    }
+  ],
+  "id": "ambiente_12f60bea-3225-4375-935c-1fb9ebe3ef57",
+  "isopen": false,
+  "license_id": "notspecified",
+  "license_title": "No se especificó la licencia",
+  "maintainer": "Ministerio de Ambiente y Desarrollo Sostenible. Dirección Nacional de Bosques.",
+  "maintainer_email": "fscagnetti@ambiente.gob.ar",
+  "metadata_created": "2019-11-26T14:57:55.635221",
+  "metadata_modified": "2021-04-29T17:17:49.466864",
+  "name": "ambiente-incendios-forestales",
+  "notes": "Se denomina Incendio forestal a cualquier fuego que se extiende sin control en terreno forestal afectando vegetación que no estaba destinada a arder",
+  "num_resources": 4,
+  "num_tags": 9,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:07.043831",
+    "description": "",
+    "id": "0e5aa328-825e-4509-851d-5421e866635e",
+    "image_url": "",
+    "is_organization": true,
+    "name": "ambiente",
+    "revision_id": "105eb915-270c-4f67-9b4e-e6a3f08be6d7",
+    "state": "active",
+    "title": "Ministerio de Ambiente y Desarrollo Sostenible",
+    "type": "organization"
+  },
+  "owner_org": "0e5aa328-825e-4509-851d-5421e866635e",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "http://datos.ambiente.gob.ar/dataset/12f60bea-3225-4375-935c-1fb9ebe3ef57/resource/6c3a726b-f2d0-43d4-81ac-72e55a84a6a3",
+      "attributesDescription": "[{\"type\": \"integer\", \"description\": \"A\\u00f1o de la serie\", \"title\": \"incendio_anio\"}, {\"type\": \"integer\", \"description\": \"Cantidad de incendios ocurridos en el a\\u00f1o dado\", \"title\": \"incendio_total_numero\"}, {\"type\": \"integer\", \"description\": \"Cantidad de incendios producidos por negligencia (fuego provocado por descuido) para el a\\u00f1o dado\", \"title\": \"incendio_negligencia_numero\"}, {\"type\": \"integer\", \"description\": \"Cantidad de incendios cuya causa fue intencional (fuego provocado para obtener un beneficio) para el a\\u00f1o dado\", \"title\": \"incendio_intencional_numero\"}, {\"type\": \"integer\", \"description\": \"Cantidad de incendios cuya causa fue natural (fuego provocado por las sequias, altas temperaturas, tormentas el\\u00e9ctricas) para el a\\u00f1o dado\", \"title\": \"incendio_natural_numero\"}, {\"type\": \"integer\", \"description\": \"Cantidad de incendios cuya causa fue desconocida (fuego cuya causa es imposible determinar) para el a\\u00f1o dado\", \"title\": \"incendio_desconocida_numero\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-09-06T14:41:05.212552",
+      "datastore_active": false,
+      "description": "Cantidad de incendios ocurridos en los Parques Naciones según causas principales",
+      "fileName": "incendios-cantidad-causas-parques-nacionales.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "ambiente_6c3a726b-f2d0-43d4-81ac-72e55a84a6a3",
+      "last_modified": "2020-09-30T12:06:53.143665",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Causas y cantidad de incendios en parques nacionales",
+      "package_id": "ambiente_12f60bea-3225-4375-935c-1fb9ebe3ef57",
+      "position": 0,
+      "resource_type": "file.upload",
+      "revision_id": "779535a2-c2d2-4223-9724-08f9f6a857d6",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.ambiente.gob.ar/dataset/12f60bea-3225-4375-935c-1fb9ebe3ef57/resource/6c3a726b-f2d0-43d4-81ac-72e55a84a6a3/download/incendios-cantidad-causas-parques-nacionales.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos.ambiente.gob.ar/dataset/12f60bea-3225-4375-935c-1fb9ebe3ef57/resource/93c2f293-9698-4457-92cf-e07856d8edb2",
+      "attributesDescription": "[{\"type\": \"integer\", \"description\": \"A\\u00f1o de la serie\", \"title\": \"incendio_anio\"}, {\"type\": \"string\", \"description\": \"Denominaci\\u00f3n de la provincia\", \"title\": \"incendio_provincia\"}, {\"type\": \"integer\", \"description\": \"Cantidad de incendios ocurridos en el a\\u00f1o dado\", \"title\": \"incendio_total_numero\"}, {\"type\": \"integer\", \"description\": \"Cantidad de incendios cuya causa fue negligencia (fuego provocado por descuido) para el a\\u00f1o dado\", \"title\": \"incendio_negligencia_numero\"}, {\"type\": \"integer\", \"description\": \"Cantidad de incendios cuya causa fue intencional (fuego provocado para obtener un beneficio) para el a\\u00f1o dado\", \"title\": \"incendio_intencional_numero\"}, {\"type\": \"integer\", \"description\": \"Cantidad de incendios cuya causa fue natural (fuego provocado por las sequias, altas temperaturas, tormentas el\\u00e9ctricas) para el a\\u00f1o dado\", \"title\": \"incendio_natural_numero\"}, {\"type\": \"integer\", \"description\": \"Cantidad de incendios cuya causa fue desconocida (fuego cuya causa es imposible determinar) para el a\\u00f1o dado\", \"title\": \"incendio_desconocida_numero\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-09-06T14:51:01.880477",
+      "datastore_active": false,
+      "description": "Cantidad de incendios ocurridos por provincia según causas principales",
+      "fileName": "incendios-cantidad-causas-provincia.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "ambiente_93c2f293-9698-4457-92cf-e07856d8edb2",
+      "last_modified": "2020-09-30T12:08:13.286193",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Causas y cantidad de incendios por provincia",
+      "package_id": "ambiente_12f60bea-3225-4375-935c-1fb9ebe3ef57",
+      "position": 1,
+      "resource_type": "file.upload",
+      "revision_id": "779535a2-c2d2-4223-9724-08f9f6a857d6",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.ambiente.gob.ar/dataset/12f60bea-3225-4375-935c-1fb9ebe3ef57/resource/93c2f293-9698-4457-92cf-e07856d8edb2/download/incendios-cantidad-causas-provincia.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos.ambiente.gob.ar/dataset/12f60bea-3225-4375-935c-1fb9ebe3ef57/resource/00cb98c3-993e-40c5-8ad7-e8a4262cf6bd",
+      "attributesDescription": "[{\"type\": \"integer\", \"description\": \"A\\u00f1o de la serie\", \"title\": \"superficie_afectada_por_incendios_total_anio\"}, {\"type\": \"number\", \"description\": \"Superficie total afectada por incendios en Parques Nacionales, en hect\\u00e1reas\", \"title\": \"superficie_afectada_por_incendios_total _hectareas\"}, {\"type\": \"number\", \"description\": \"Superficie afectada por incendios en bosques nativos (bosque que ha evolucionado a partir de organismos que ya estaban en el lugar (predominio de especies aut\\u00f3ctonas) y cuya cobertura es de al menos el 20% de la superficie y la altura de los \\u00e1rboles a la madurez es mayor o igual > o = a cuatro metros) para el a\\u00f1o dado\", \"title\": \"superficie_afectada_por_incendios_bosque_nativo_hectareas\"}, {\"type\": \"number\", \"description\": \"Superficie afectada por incendios en bosques cultivados (plantaci\\u00f3n forestal obtenida mediante la implantaci\\u00f3n de \\u00e1rboles o estacas) para el a\\u00f1o dado\", \"title\": \"superficie_afectada_por_incendios_bosque_cultivado_hectareas\"}, {\"type\": \"number\", \"description\": \"Superficie afectada por incendios en arbustales o matorrales (terreno con plantas que se diferencian de las hierbas por sus tallos persistentes y le\\u00f1osos y de los bosques por su poca altura (hasta 4 metros) y su tendencia a ramificarse desde la base) para el a\\u00f1o dado\", \"title\": \"superficie_afectada_por_incendios_arbustal_hectareas\"}, {\"type\": \"number\", \"description\": \"Superficie afectada por incendios en pastizales (terreno de pastos, en el que el combustible principal es hierba, sin importar la altura) para el a\\u00f1o dado\", \"title\": \"superficie_afectada_por_incendios_pastizal_hectareas\"}, {\"type\": \"number\", \"description\": \"Superficie afectada por incendios en un tipo de vegetaci\\u00f3n que no se puede determinar\", \"title\": \"superficie_afectada_por_incendios_sin_determinar_hectareas\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-09-06T15:08:57.114345",
+      "datastore_active": false,
+      "description": "Superficie  afectada por incendios en parques nacionales, según tipo de vegetación, por año y en hectáreas",
+      "fileName": "superficie-incendiada-parques-nacionales-tipo-de-vegetacion.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "ambiente_00cb98c3-993e-40c5-8ad7-e8a4262cf6bd",
+      "last_modified": "2020-09-30T12:10:16.682180",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Superficie afectada por incendios en parques nacionales por tipo de vegetación",
+      "package_id": "ambiente_12f60bea-3225-4375-935c-1fb9ebe3ef57",
+      "position": 2,
+      "resource_type": "file.upload",
+      "revision_id": "779535a2-c2d2-4223-9724-08f9f6a857d6",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.ambiente.gob.ar/dataset/12f60bea-3225-4375-935c-1fb9ebe3ef57/resource/00cb98c3-993e-40c5-8ad7-e8a4262cf6bd/download/superficie-incendiada-parques-nacionales-tipo-de-vegetacion.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos.ambiente.gob.ar/dataset/12f60bea-3225-4375-935c-1fb9ebe3ef57/resource/c7b70f96-5562-4673-9b61-6ead123a99f7",
+      "attributesDescription": "[{\"type\": \"integer\", \"description\": \"A\\u00f1o de la serie\", \"title\": \"superficie_afectada_por_incendios_total_anio\"}, {\"type\": \"string\", \"description\": \"Denominaci\\u00f3n de la provincia\", \"title\": \"superficie_afectada_por_incendios_provincia\"}, {\"type\": \"number\", \"description\": \"Superficie total afectada por incendios en provincia en hect\\u00e1reas\", \"title\": \"superficie_afectada_por_incendios_total_hectareas\"}, {\"type\": \"number\", \"description\": \"Superficie afectada por incendios en bosques nativos( bosque que ha evolucionado a partir de organismos que ya estaban en el lugar (predominio de especies aut\\u00f3ctonas) y cuya cobertura es de al menos el 20% de la superficie y la altura de los \\u00e1rboles a la madurez es mayor o igual > o = a cuatro metros)para el a\\u00f1o dado\", \"title\": \"superficie_afectada_por_incendios _bosque_nativo_hectareas\"}, {\"type\": \"number\", \"description\": \"Superficie afectada por incendios en bosques cultivados (plantaci\\u00f3n forestal obtenida mediante la implantaci\\u00f3n de \\u00e1rboles o estacas) para el a\\u00f1o dado\", \"title\": \"superficie_afectada_por_incendios_bosque_cultivado_hectareas\"}, {\"type\": \"number\", \"description\": \"Superficie afectada por incendios en arbustales o matorrales (terreno con plantas que se diferencian de las hierbas por sus tallos persistentes y le\\u00f1osos y de los bosques por su poca altura (hasta 4 metros) y su tendencia a ramificarse desde la base) para el a\\u00f1o dado\", \"title\": \"superficie_afectada_por_incendios_arbustal_hectareas\"}, {\"type\": \"number\", \"description\": \"Superficie afectada por incendios en pastizales (terreno de pastos, en el que el combustible principal es hierbas, sin importar la altura) para el a\\u00f1o dado\", \"title\": \"superficie_afectada_por_incendios_pastizal_hectareas\"}, {\"type\": \"number\", \"description\": \"Superficie afectada por incendios en un tipo de vegetaci\\u00f3n que no se puede determinar\", \"title\": \"superficie_afectada_por_incendios_sin_determinar_hectareas\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-09-06T15:18:44.707234",
+      "datastore_active": false,
+      "description": "Superficie afectada por incendios por provincia, según tipo de vegetación y  año, en hectáreas",
+      "fileName": "superficie-incendiada-provincias-tipo-de-vegetacion.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "ambiente_c7b70f96-5562-4673-9b61-6ead123a99f7",
+      "last_modified": "2020-11-13T19:23:36.055242",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Superficie afectada por incendios por provincia y tipo de vegetación",
+      "package_id": "ambiente_12f60bea-3225-4375-935c-1fb9ebe3ef57",
+      "position": 3,
+      "resource_type": "file.upload",
+      "revision_id": "a386eb2d-8b52-4300-8640-891fcdf6ede5",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.ambiente.gob.ar/dataset/12f60bea-3225-4375-935c-1fb9ebe3ef57/resource/c7b70f96-5562-4673-9b61-6ead123a99f7/download/superficie-incendiada-provincias-tipo-de-vegetacion.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "779535a2-c2d2-4223-9724-08f9f6a857d6",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "Bosques",
+      "id": "b9aad93c-075e-43df-8b5f-befcf406f1c6",
+      "name": "Bosques",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Incendios",
+      "id": "5b77fe80-6bb8-42f3-bdab-f74e7d7d331d",
+      "name": "Incendios",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Incendios forestal",
+      "id": "0644ac07-b1ac-4fa3-aff8-f53dcbeb88af",
+      "name": "Incendios forestal",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "arbustal",
+      "id": "3eb8428a-cde4-494d-b680-1d30b1632419",
+      "name": "arbustal",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "bosque cultivado",
+      "id": "5b67c231-8553-401e-b24b-ae6ea96d1ceb",
+      "name": "bosque cultivado",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "bosque nativo",
+      "id": "e00cac99-54b5-4f3c-8355-da244e638576",
+      "name": "bosque nativo",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "causas",
+      "id": "59c6dbe6-52eb-4bea-8262-aa6ba12260a0",
+      "name": "causas",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "parques nacionales",
+      "id": "da248e29-0cb5-44aa-9c66-111439356be4",
+      "name": "parques nacionales",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "pastizal",
+      "id": "0b079ea5-2c44-45ef-9c98-4f7226c6471e",
+      "name": "pastizal",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Incendios forestales",
+  "type": "dataset",
+  "url": "http://datos.ambiente.gob.ar/dataset/",
+  "version": null
+}

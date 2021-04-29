@@ -1,0 +1,165 @@
+{
+  "author": "Ministerio de Ambiente y Desarrollo Sostenible. Coordinación de Emisiones Vehiculares.",
+  "author_email": "mestevez@ambiente.gov.ar",
+  "creator_user_id": "4720e75a-9e17-4dc3-879d-041917c7f9f9",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P1M"
+    },
+    {
+      "key": "issued",
+      "value": "2018-08-28T16:57:28.043079"
+    },
+    {
+      "key": "language",
+      "value": "[\"spa\"]"
+    },
+    {
+      "key": "modified",
+      "value": "2020-09-29T13:30:53.861684"
+    },
+    {
+      "key": "spatial",
+      "value": "[\"ARG\"]"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"ENVI\"]"
+    },
+    {
+      "key": "temporal",
+      "value": "2017-09-01T03:00:00.000Z/2018-08-13T03:00:00.000Z"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Medio ambiente",
+      "display_name": "Medio ambiente",
+      "id": "f71fe9d7-c703-43be-8d9d-af9441c326ba",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225440.964279medio-ambiente.svg",
+      "name": "envi",
+      "title": "Medio ambiente"
+    }
+  ],
+  "id": "ambiente_501cb1f2-781d-44d0-9f91-4984587bbe35",
+  "isopen": false,
+  "license_id": "notspecified",
+  "license_title": "No se especificó la licencia",
+  "maintainer": "Ministerio de Ambiente y Desarrollo Sostenible. Coordinación de Emisiones Vehiculares.",
+  "maintainer_email": "mestevez@ambiente.gov.ar",
+  "metadata_created": "2019-11-26T14:57:55.133126",
+  "metadata_modified": "2021-04-29T17:17:45.538232",
+  "name": "ambiente-certificaciones-emisiones-gases-efecto-invernadero-consumo-vehiculos-livianos",
+  "notes": "Contiene los datos y valores certificados requeridos para aprobar las configuraciones de modelos para sistematizar en una base de datos de acceso al público los valores certificados de emisiones de CO2 y consumo de combustible, requeridos en los Artículos 2° y 3° de la Resolución 797/2017.",
+  "num_resources": 1,
+  "num_tags": 8,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:07.043831",
+    "description": "",
+    "id": "0e5aa328-825e-4509-851d-5421e866635e",
+    "image_url": "",
+    "is_organization": true,
+    "name": "ambiente",
+    "revision_id": "105eb915-270c-4f67-9b4e-e6a3f08be6d7",
+    "state": "active",
+    "title": "Ministerio de Ambiente y Desarrollo Sostenible",
+    "type": "organization"
+  },
+  "owner_org": "0e5aa328-825e-4509-851d-5421e866635e",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "http://datos.ambiente.gob.ar/dataset/501cb1f2-781d-44d0-9f91-4984587bbe35/resource/fc0039f7-bb75-4960-9a33-3a51955c8e9f",
+      "attributesDescription": "[{\"type\": \"string\", \"description\": \"Marca comercial\", \"title\": \"vehiculo_marca\"}, {\"type\": \"string\", \"description\": \"Modelo comercial dentro de la marca\", \"title\": \"vehiculo_modelo\"}, {\"type\": \"string\", \"description\": \"Tipo de  carrocer\\u00eda del veh\\u00edculo\", \"title\": \"vehiculo_tipo\"}, {\"type\": \"string\", \"description\": \"Tipo de tracci\\u00f3n ( 4x4,4x2,etc)\", \"title\": \"vehiculo_traccion\"}, {\"type\": \"string\", \"description\": \"Identificaci\\u00f3n del motor\", \"title\": \"vehiculo_id_motor\"}, {\"type\": \"integer\", \"description\": \"Cilindrada\", \"title\": \"vehiculo_cilindrada\"}, {\"type\": \"integer\", \"description\": \"Potencia motor (kW)\", \"title\": \"vehiculo_potencia\"}, {\"type\": \"string\", \"description\": \"Tipo de transmision ( manual, automatica,etc)\", \"title\": \"vehiculo_tipo_transmision\"}, {\"type\": \"string\", \"description\": \"Combustible ( nafta,gasoil, etc)\", \"title\": \"vehiculo_tipo_combustible\"}, {\"type\": \"string\", \"description\": \"Norma  standard de emision (EURO IV , EURO V, etc)\", \"title\": \"vehiculo_standard_emision\"}, {\"type\": \"integer\", \"description\": \"Numero de Licencia de Configuraci\\u00f3n Ambiental\", \"title\": \"lca_numero\"}, {\"type\": \"date\", \"description\": \"Fecha de firma de LCA / extensi\\u00f3n\", \"title\": \"fecha_firma\"}, {\"type\": \"string\", \"description\": \"N\\u00ba de Certificado Ensayo de contaminantes criterio\", \"title\": \"ensayo_gei_numero\"}, {\"type\": \"string\", \"description\": \"Laboratorio que realiza el ensayo\", \"title\": \"ensayo_gei_laboratorio\"}, {\"type\": \"number\", \"description\": \"Emision Dioxido de Carbono bajo ciclo de conducci\\u00f3n New European Driving Cycle  (g/Km)\", \"title\": \"emision_co2\"}, {\"type\": \"number\", \"description\": \"Consumo de combustible en zona urbanizada (lts/100km)\", \"title\": \"consumo_urbano\"}, {\"type\": \"number\", \"description\": \"Consumo de combustible en zona extra urbana (lts/100km)\", \"title\": \"consumo_extraurbano\"}, {\"type\": \"number\", \"description\": \"Consumo mixto de combustible  (lts/100km)\", \"title\": \"consumo_mixto\"}, {\"type\": \"string\", \"description\": \"Identificaci\\u00f3n de etiqueta\", \"title\": \"id_etiqueta\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2018-08-28T16:07:55.575792",
+      "datastore_active": false,
+      "description": "Valores certificados de emisiones CO2 y de consumo de combustible conforme a Directivas Europeas. De aplicación al Programa de Etiquetado de Eficiencia Energética Vehicular.",
+      "fileName": "tabla-iva.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "ambiente_fc0039f7-bb75-4960-9a33-3a51955c8e9f",
+      "last_modified": "2021-04-29T10:20:53.241004",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Vehículos livianos con LCA y Certificado de Emisiones Gaseosas (CEG) Listado de resultados de emisión gases efecto invernadero y consumo",
+      "package_id": "ambiente_501cb1f2-781d-44d0-9f91-4984587bbe35",
+      "position": 0,
+      "resource_type": "file.upload",
+      "revision_id": "68f21962-2183-4dba-a599-7a534940911f",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.ambiente.gob.ar/dataset/501cb1f2-781d-44d0-9f91-4984587bbe35/resource/fc0039f7-bb75-4960-9a33-3a51955c8e9f/download/tabla-iva.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "3a25cc2a-21da-4948-b8eb-1aecf258951e",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "CO2",
+      "id": "a6210cfc-84fd-4f94-9a7a-de8a4f9bd5ed",
+      "name": "CO2",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Certificación",
+      "id": "291034e1-07e3-4a27-a8f5-33848cbda838",
+      "name": "Certificación",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Consumo",
+      "id": "f5518b98-9614-432f-92a1-54b04add2c71",
+      "name": "Consumo",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Emisiones",
+      "id": "ae3dd0f9-a5c0-4885-b786-5bfb6f3e2eee",
+      "name": "Emisiones",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Etiqueta",
+      "id": "ea2ed463-830b-4d08-8b8f-f306f47d0383",
+      "name": "Etiqueta",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Fiscalización",
+      "id": "7e5f9404-5c6f-49e0-849b-477fff8bdd0c",
+      "name": "Fiscalización",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Gaseosas",
+      "id": "da30140e-05f9-452c-a402-1815570ddbcb",
+      "name": "Gaseosas",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "LCA",
+      "id": "0a0108b6-9b35-4a2e-8d16-51b7ec53e52d",
+      "name": "LCA",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Certificaciones de emisiones gases efecto invernadero y consumo de vehículos livianos",
+  "type": "dataset",
+  "url": "http://datos.ambiente.gob.ar/dataset/certificaciones-de-emisiones-gases-efecto-invernadero-y-consumo-de-vehiculos-livianos",
+  "version": null
+}

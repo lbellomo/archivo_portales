@@ -1,0 +1,213 @@
+{
+  "author": "Ministerio de Obras Públicas. Secretaría de Gestión Administrativa.Dirección General de Tecnologías de la Información y las Comunicaciones.Dirección de Información de Gestión.",
+  "author_email": "transparencia@obraspublicas.gob.ar",
+  "creator_user_id": "dc157489-51c6-44ce-bd63-3bd983d60778",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P1M"
+    },
+    {
+      "key": "issued",
+      "value": "2020-12-16T00:00:00"
+    },
+    {
+      "key": "language",
+      "value": "[\"SPA\"]"
+    },
+    {
+      "key": "modified",
+      "value": "2020-12-16T00:00:00"
+    },
+    {
+      "key": "source",
+      "value": "Ministerio de Obras Públicas. Secretaría de Gestión Administrativa.Dirección General de Tecnologías de la Información y las Comunicaciones.Dirección de Información de Gestión."
+    },
+    {
+      "key": "spatial",
+      "value": "ARG"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"GOVE\"]"
+    },
+    {
+      "key": "temporal",
+      "value": "2019-01-01/2020-12-31"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Gobierno y sector público",
+      "display_name": "Gobierno y sector público",
+      "id": "e6f07c77-3987-4e71-98a6-731b1aaf74f4",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225353.395233gobierno-sector-publico.svg",
+      "name": "gove",
+      "title": "Gobierno y sector público"
+    }
+  ],
+  "id": "obras_1",
+  "isopen": true,
+  "license_id": "CC-BY-4.0",
+  "license_title": "Creative Commons Attribution 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "maintainer": "Ministerio de Obras Públicas. Secretaría de Gestión Administrativa.Dirección General de Tecnologías de la Información y las Comunicaciones.Dirección de Información de Gestión.",
+  "maintainer_email": "transparencia@obraspublicas.gob.ar",
+  "metadata_created": "2020-12-18T17:33:49.641074",
+  "metadata_modified": "2021-04-29T17:05:22.107864",
+  "name": "obras-mapa-inversiones-argentina",
+  "notes": "Datos sobre el presupuesto y la ejecución de las obras del Ministerio de Obras Públicas de la Repúblia Argentina.",
+  "num_resources": 3,
+  "num_tags": 7,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-12-17T18:31:41.674252",
+    "description": "",
+    "id": "a544d94b-e1ca-46de-9997-2660b9ec3674",
+    "image_url": "",
+    "is_organization": true,
+    "name": "obras",
+    "revision_id": "7655a3ae-d122-449b-8f89-b4ff934b9b3c",
+    "state": "active",
+    "title": "Ministerio de Obras Públicas",
+    "type": "organization"
+  },
+  "owner_org": "a544d94b-e1ca-46de-9997-2660b9ec3674",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "https://mapainversiones.obraspublicas.gob.ar/",
+      "attributesDescription": "[{\"title\": \"idproyecto\", \"type\": \"number\", \"description\": \"Identificador \\u00fanico de la obra\"}, {\"title\": \"numeroobra\", \"type\": \"number\", \"description\": \"N\\u00famero de la obra\"}, {\"title\": \"codigobapin\", \"type\": \"string\", \"description\": \"C\\u00f3digo BAPIN (https://www.argentina.gob.ar/dnip/bapin) del proyecto al cual hace referencia la obra\"}, {\"title\": \"fechainicio\", \"type\": \"date\", \"description\": \"Fecha de inicio de la obra\"}, {\"title\": \"fechainiciomes\", \"type\": \"string\", \"description\": \"Mes de inicio de la obra\"}, {\"title\": \"fechainicioanio\", \"type\": \"number\", \"description\": \"A\\u00f1o de inicio de la obra\"}, {\"title\": \"fechafin\", \"type\": \"date\", \"description\": \"Fecha de fin de la obra\"}, {\"title\": \"fechafinmes\", \"type\": \"string\", \"description\": \"Mes de fin de la obra\"}, {\"title\": \"fechafinanio\", \"type\": \"number\", \"description\": \"A\\u00f1o de fin de la obra\"}, {\"title\": \"nombreobra\", \"type\": \"string\", \"description\": \"Nombre de la obra\"}, {\"title\": \"descripicionfisica\", \"type\": \"String\", \"description\": \"Descripci\\u00f3n f\\u00edsica de la obra\"}, {\"title\": \"montototal\", \"type\": \"number\", \"description\": \"Monto total de la obra\"}, {\"title\": \"sectorid\", \"type\": \"number\", \"description\": \"Identificador del sector\"}, {\"title\": \"sectornombre\", \"type\": \"string\", \"description\": \"Sector encargado de la obra\"}, {\"title\": \"avancefinanciero\", \"type\": \"number\", \"description\": \"Porcentaje de avance financiero de la obra\"}, {\"title\": \"avancefisico\", \"type\": \"number\", \"description\": \"Porcentaje de avance f\\u00edsico de la obra\"}, {\"title\": \"entidadejecutoraid\", \"type\": \"string\", \"description\": \"Identificador de la entidad ejecutora\"}, {\"title\": \"entidadejecutoranombre\", \"type\": \"string\", \"description\": \"Nombre de la entidad ejecutora\"}, {\"title\": \"duracionobra\", \"type\": \"number\", \"description\": \"Duraci\\u00f3n en a\\u00f1os de la obra\"}, {\"title\": \"plazodias\", \"type\": \"number\", \"description\": \"Duraci\\u00f3n en d\\u00edas de la obra\"}, {\"title\": \"objetivogeneral\", \"type\": \"string\", \"description\": \"Objetivo general de la obra\"}, {\"title\": \"tipoproyecto\", \"type\": \"string\", \"description\": \"Tipo de proyecto de la obra\"}, {\"title\": \"nombredepto\", \"type\": \"String\", \"description\": \"Nombre del Departamento (primeros 5 digitos codigo BAHRA) http://www.bahra.gob.ar/descargas/codificacion.pdf\"}, {\"title\": \"nombreprovincia\", \"type\": \"string\", \"description\": \"Nombre de la Provincia (primeros 2 digitos codigo BAHRA) http://www.bahra.gob.ar/descargas/codificacion.pdf\"}, {\"title\": \"codigobahra\", \"type\": \"string\", \"description\": \"Codigo de la Base de Asentamientos Humanos de la Rep\\u00fablica Argentina (BAHRA) http://www.bahra.gob.ar\"}, {\"title\": \"etapaobra\", \"type\": \"string\", \"description\": \"Etapa en que se encuentra la obra\"}, {\"title\": \"numerosaf\", \"type\": \"string\", \"description\": \"N\\u00famero de Servicio Financiero Ref: http://forotgn.mecon.gov.ar/vinculos/tec/aper_safs.pdf\"}, {\"title\": \"tipomoneda\", \"type\": \"string\", \"description\": \"Tipo de moneda en la que se representa el monto total de la obra\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2020-11-30T00:00:00",
+      "datastore_active": false,
+      "description": "Información sobre el presupuesto y la ejecución de las obras del Ministerio de Obras Públicas de la Repúblia Argentina.",
+      "fileName": "dataset_mop.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "obras_1.1",
+      "last_modified": "2020-11-30T00:00:00",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Obras",
+      "package_id": "obras_1",
+      "position": 0,
+      "resource_type": "file",
+      "revision_id": "6d133130-6466-46d6-8113-bd9ab1212970",
+      "size": null,
+      "state": "active",
+      "url": "https://mapainversiones.obraspublicas.gob.ar/opendata/dataset_mop.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://mapainversiones.obraspublicas.gob.ar/",
+      "attributesDescription": "[{\"title\": \"idproyecto\", \"type\": \"number\", \"description\": \"Identificador \\u00fanico de la obra\"}, {\"title\": \"numeroobra\", \"type\": \"number\", \"description\": \"N\\u00famero de la obra\"}, {\"title\": \"codigobapin\", \"type\": \"string\", \"description\": \"C\\u00f3digo BAPIN (https://www.argentina.gob.ar/dnip/bapin) del proyecto al cual hace referencia la obra\"}, {\"title\": \"fechainicio\", \"type\": \"date\", \"description\": \"Fecha de inicio de la obra\"}, {\"title\": \"fechainiciomes\", \"type\": \"string\", \"description\": \"Mes de inicio de la obra\"}, {\"title\": \"fechainicioanio\", \"type\": \"number\", \"description\": \"A\\u00f1o de inicio de la obra\"}, {\"title\": \"fechafin\", \"type\": \"date\", \"description\": \"Fecha de fin de la obra\"}, {\"title\": \"fechafinmes\", \"type\": \"string\", \"description\": \"Mes de fin de la obra\"}, {\"title\": \"fechafinanio\", \"type\": \"number\", \"description\": \"A\\u00f1o de fin de la obra\"}, {\"title\": \"nombreobra\", \"type\": \"string\", \"description\": \"Nombre de la obra\"}, {\"title\": \"descripicionfisica\", \"type\": \"String\", \"description\": \"Descripci\\u00f3n f\\u00edsica de la obra\"}, {\"title\": \"montototal\", \"type\": \"number\", \"description\": \"Monto total de la obra\"}, {\"title\": \"sectorid\", \"type\": \"number\", \"description\": \"Identificador del sector\"}, {\"title\": \"sectornombre\", \"type\": \"string\", \"description\": \"Sector encargado de la obra\"}, {\"title\": \"avancefinanciero\", \"type\": \"number\", \"description\": \"Porcentaje de avance financiero de la obra\"}, {\"title\": \"avancefisico\", \"type\": \"number\", \"description\": \"Porcentaje de avance f\\u00edsico de la obra\"}, {\"title\": \"entidadejecutoraid\", \"type\": \"string\", \"description\": \"Identificador de la entidad ejecutora\"}, {\"title\": \"entidadejecutoranombre\", \"type\": \"string\", \"description\": \"Nombre de la entidad ejecutora\"}, {\"title\": \"duracionobra\", \"type\": \"number\", \"description\": \"Duraci\\u00f3n en a\\u00f1os de la obra\"}, {\"title\": \"plazodias\", \"type\": \"number\", \"description\": \"Duraci\\u00f3n en d\\u00edas de la obra\"}, {\"title\": \"objetivogeneral\", \"type\": \"string\", \"description\": \"Objetivo general de la obra\"}, {\"title\": \"tipoproyecto\", \"type\": \"string\", \"description\": \"Tipo de proyecto de la obra\"}, {\"title\": \"nombredepto\", \"type\": \"String\", \"description\": \"Nombre del Departamento (primeros 5 digitos codigo BAHRA) http://www.bahra.gob.ar/descargas/codificacion.pdf\"}, {\"title\": \"nombreprovincia\", \"type\": \"string\", \"description\": \"Nombre de la Provincia (primeros 2 digitos codigo BAHRA) http://www.bahra.gob.ar/descargas/codificacion.pdf\"}, {\"title\": \"codigobahra\", \"type\": \"string\", \"description\": \"Codigo de la Base de Asentamientos Humanos de la Rep\\u00fablica Argentina (BAHRA) http://www.bahra.gob.ar\"}, {\"title\": \"etapaobra\", \"type\": \"string\", \"description\": \"Etapa en que se encuentra la obra\"}, {\"title\": \"numerosaf\", \"type\": \"string\", \"description\": \"N\\u00famero de Servicio Financiero Ref: http://forotgn.mecon.gov.ar/vinculos/tec/aper_safs.pdf\"}, {\"title\": \"tipomoneda\", \"type\": \"string\", \"description\": \"Tipo de moneda en la que se representa el monto total de la obra\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2020-11-30T00:00:00",
+      "datastore_active": false,
+      "description": "Información sobre la ejecución de los Hospitales Modulares de Emergencia a consecuencia de la Emergencia Sanitaria por COVID-19",
+      "fileName": "dataset_hospitales.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "obras_1.2",
+      "last_modified": "2020-11-30T00:00:00",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Hospitales modulares",
+      "package_id": "obras_1",
+      "position": 1,
+      "resource_type": "file",
+      "revision_id": "6d133130-6466-46d6-8113-bd9ab1212970",
+      "size": null,
+      "state": "active",
+      "url": "https://mapainversiones.obraspublicas.gob.ar/opendata/dataset_hospitales.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://mapainversiones.obraspublicas.gob.ar/",
+      "attributesDescription": "[{\"title\": \"Nombre de campo\", \"type\": \"string\", \"description\": \"Nombre del Campo en el registro de Obras\"}, {\"title\": \"Tipo de datos\", \"type\": \"string\", \"description\": \"Formato del campo.\"}, {\"title\": \"Descripci\\u00f3n del campo\", \"type\": \"string\", \"description\": \"Descripci\\u00f3n del contenido del campo.\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2020-11-30T00:00:00",
+      "datastore_active": false,
+      "description": "DIccionario de datos sobre obras",
+      "fileName": "dataset_diccionario.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "obras_1.3",
+      "last_modified": "2020-11-30T00:00:00",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Diccionario de Datos",
+      "package_id": "obras_1",
+      "position": 2,
+      "resource_type": "file",
+      "revision_id": "6d133130-6466-46d6-8113-bd9ab1212970",
+      "size": null,
+      "state": "active",
+      "url": "https://mapainversiones.obraspublicas.gob.ar/opendata/Dictionary/dataset_diccionario.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "6d133130-6466-46d6-8113-bd9ab1212970",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "Obras",
+      "id": "c4f93fc7-2266-449a-8cf6-d24e119de697",
+      "name": "Obras",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "departamento",
+      "id": "66021d4c-97dc-4ab6-b734-0367575ad860",
+      "name": "departamento",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "ejecucion",
+      "id": "c713f22c-0924-4d3a-ae9f-6f36b6aebea7",
+      "name": "ejecucion",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "estado",
+      "id": "ec462af0-e1cf-4c46-88db-446c05cebe8d",
+      "name": "estado",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "obra",
+      "id": "1ec62bf5-d4e4-480d-977a-baa23545bba9",
+      "name": "obra",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "provincia",
+      "id": "c2394600-993e-45b7-b977-9e5b67833d35",
+      "name": "provincia",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "sector",
+      "id": "86e5b9d4-8b55-4472-89be-ca0d197f9fcc",
+      "name": "sector",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Mapa de inversiones Argentina",
+  "type": "dataset",
+  "url": "https://mapainversiones.obraspublicas.gob.ar/",
+  "version": null
+}

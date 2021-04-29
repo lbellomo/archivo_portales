@@ -1,0 +1,211 @@
+{
+  "author": "Ministerio de Agricultura, Ganadería y Pesca - Dirección de Ganadería Bovina",
+  "author_email": "dgbovina@magyp.gob.ar",
+  "creator_user_id": "dc157489-51c6-44ce-bd63-3bd983d60778",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "eventual"
+    },
+    {
+      "key": "issued",
+      "value": "2019-08-23T19:41:54.519157"
+    },
+    {
+      "key": "language",
+      "value": "[\"spa\"]"
+    },
+    {
+      "key": "modified",
+      "value": "2019-10-24T10:34:52.001662"
+    },
+    {
+      "key": "source",
+      "value": "Dirección de Ganadería Bovina - MAGyP"
+    },
+    {
+      "key": "spatial",
+      "value": "[\"ARG\"]"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"AGRI\", \"ECON\"]"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Agroganadería, pesca y forestación",
+      "display_name": "Agroganadería, pesca y forestación",
+      "id": "0c35ea38-7059-41d2-9827-5587769d0dc6",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225145.990789agroganaderia-pesca-forestacion.svg",
+      "name": "agri",
+      "title": "Agroganadería, pesca y forestación"
+    },
+    {
+      "description": "Economía y finanzas",
+      "display_name": "Economía y finanzas",
+      "id": "60b4b03e-10a1-4d67-b984-08008a249617",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225257.200233economia-finanzas.svg",
+      "name": "econ",
+      "title": "Economía y finanzas"
+    }
+  ],
+  "id": "agroindustria_d87f574f-d3da-4ec6-aad5-0fd6d43a6504",
+  "isopen": true,
+  "license_id": "CC-BY-4.0",
+  "license_title": "Creative Commons Attribution 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "maintainer": "Ministerio de Agricultura, Ganadería y Pesca - Dirección de Ganadería Bovina",
+  "maintainer_email": "dgbovina@magyp.gob.ar",
+  "metadata_created": "2019-12-04T20:00:52.891983",
+  "metadata_modified": "2021-04-29T17:11:05.458334",
+  "name": "agroindustria-bovinos---limitantes-tecnologicas-cria-bovina",
+  "notes": "Se muestran las limitantes a la productividad en la cría bovina, priorizadas por su impacto, identificadas en cada partido/departamento y estrato de productor. Como así también las tecnologías disponibles para superarlas, visualizado todo esto mediante un mapa dinámico.",
+  "num_resources": 2,
+  "num_tags": 10,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:07.834957",
+    "description": "",
+    "id": "b10c94e2-ade1-4a97-8c4c-b1ada7878d60",
+    "image_url": "",
+    "is_organization": true,
+    "name": "agroindustria",
+    "revision_id": "f7c3b6e9-d48f-4522-9f7a-388d805c8392",
+    "state": "active",
+    "title": "Ministerio de Agricultura, Ganadería y Pesca",
+    "type": "organization"
+  },
+  "owner_org": "b10c94e2-ade1-4a97-8c4c-b1ada7878d60",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "http://datos.agroindustria.gob.ar/dataset/d87f574f-d3da-4ec6-aad5-0fd6d43a6504/resource/ac80ddfb-3ea9-4cf0-91e7-b39a26ce0745",
+      "attributesDescription": "[{\"type\": \"integer\", \"description\": \"Concatenaci\\u00f3n de los c\\u00f3digos de Provincia y Partido/Departamento\", \"title\": \"ID_Prov/Dto\"}, {\"type\": \"string\", \"description\": \"Nombre de las distintas Provincias Argentinas\", \"title\": \"Provincia\"}, {\"type\": \"string\", \"description\": \"Nombre de los distintos Partidos/departamentos\", \"title\": \"Departamento\"}, {\"type\": \"string\", \"title\": \"Escala\"}, {\"type\": \"integer\", \"title\": \"Prioridad\"}, {\"type\": \"string\", \"description\": \"Categor\\u00edas de limitantes encontradas.\", \"title\": \"Limitante\"}, {\"type\": \"string\", \"description\": \"Tecnolog\\u00eda para suplir la limitante.\", \"title\": \"Tecnologia\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-08-23T16:49:18.684737",
+      "datastore_active": false,
+      "description": "Se muestran las limitantes a la productividad en la cría bovina identificadas en cada partido/departamento y las tecnologías disponibles para mitigar su impacto sobre la misma.",
+      "fileName": "Limitantes_tecnologicas_de_la_cria_bovina.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "agroindustria_ac80ddfb-3ea9-4cf0-91e7-b39a26ce0745",
+      "last_modified": "2019-08-30T13:25:16.645877",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Limitantes tecnológicas de la cría bovina",
+      "package_id": "agroindustria_d87f574f-d3da-4ec6-aad5-0fd6d43a6504",
+      "position": 0,
+      "resource_type": "file.upload",
+      "revision_id": "d1e9768d-b354-4c7e-822f-99cb9d6b7adc",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.agroindustria.gob.ar/dataset/d87f574f-d3da-4ec6-aad5-0fd6d43a6504/resource/ac80ddfb-3ea9-4cf0-91e7-b39a26ce0745/download/limitantes_tecnologicas_de_la_cria_bovina.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://geoportal.agroindustria.gob.ar/tematizador/bovino/",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-08-23T16:52:27.280190",
+      "datastore_active": false,
+      "description": "Se presenta una herramienta que mapea las diferentes limitantes señaladas. Ir a \"Descargar\" para abrir la herramienta.",
+      "format": "url",
+      "hash": "",
+      "id": "agroindustria_f2e659cc-605c-4f1b-92b1-c535f5a5e3bc",
+      "last_modified": "2019-08-26T16:48:28.785166",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Herramienta  de mapeo para visualización de limitantes a la productividad de la cría bovina y las tecnologías que mitigan su impacto",
+      "package_id": "agroindustria_d87f574f-d3da-4ec6-aad5-0fd6d43a6504",
+      "position": 1,
+      "resource_type": "documentation",
+      "revision_id": "1a8705e7-8178-4823-9539-7ad2637fea50",
+      "size": null,
+      "state": "active",
+      "url": "https://geoportal.agroindustria.gob.ar/tematizador/bovino/",
+      "url_type": null
+    }
+  ],
+  "revision_id": "1a8705e7-8178-4823-9539-7ad2637fea50",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "bovinos",
+      "id": "67950875-be60-4495-a907-63c1e6b2f47b",
+      "name": "bovinos",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "cria",
+      "id": "321231c2-d9ff-42a0-936d-5cc8f0458586",
+      "name": "cria",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "cria bovina",
+      "id": "3e72a199-e4d8-469c-8e91-6a5e3b0be5ee",
+      "name": "cria bovina",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "cría",
+      "id": "2b98c0ab-85e8-4414-a616-caaf0041dd23",
+      "name": "cría",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "cría bovina",
+      "id": "aac29e9b-6ec1-4532-ae4c-09a3cd54588e",
+      "name": "cría bovina",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "eficiencia de produccion",
+      "id": "c3f236d8-009d-438c-9071-f5dc89ab3ce0",
+      "name": "eficiencia de produccion",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "ganado",
+      "id": "1439f647-fc24-437b-83e9-387e0578927c",
+      "name": "ganado",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "productividad bovina",
+      "id": "349790a0-5185-4bf6-9be4-b8f28a00d9ec",
+      "name": "productividad bovina",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "ternero",
+      "id": "e98f428f-dc7a-4875-b990-4e4f0f0fb439",
+      "name": "ternero",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "vaca",
+      "id": "88bdc13b-7543-4d51-befe-a7300078fe0f",
+      "name": "vaca",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Bovinos - Limitantes tecnológicas de la Cría Bovina",
+  "type": "dataset",
+  "url": "https://datos.agroindustria.gob.ar/dataset/bovinos-limitantes-tecnologicas-de-la-cria-bovina",
+  "version": null
+}

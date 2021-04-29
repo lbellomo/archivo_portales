@@ -1,0 +1,230 @@
+{
+  "author": "Dirección de Control de Enfermedades inmunoprevenibles. Patricia Torrilla",
+  "author_email": "ptorrilla@dicei.msal.gov.ar",
+  "creator_user_id": "4720e75a-9e17-4dc3-879d-041917c7f9f9",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P1Y"
+    },
+    {
+      "key": "issued",
+      "value": "2019-10-09T13:06:35.831741"
+    },
+    {
+      "key": "language",
+      "value": "[\"spa\"]"
+    },
+    {
+      "key": "modified",
+      "value": "2021-03-17T21:44:56.060976"
+    },
+    {
+      "key": "source",
+      "value": "Dirección de Control de Enfermedades inmunoprevenibles. Dr. Cristian Biscayart"
+    },
+    {
+      "key": "spatial",
+      "value": "[\"ARG\"]"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"HEAL\"]"
+    },
+    {
+      "key": "temporal",
+      "value": "2009-01-01T02:00:00.000Z/2018-12-01T03:00:00.000Z"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Salud",
+      "display_name": "Salud",
+      "id": "65cc1fbf-703a-43bf-8a14-232a55c34976",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225809.913196salud.svg",
+      "name": "heal",
+      "title": "Salud"
+    }
+  ],
+  "id": "salud_f70b1357-b57e-4077-9746-af8193243207",
+  "isopen": false,
+  "license_id": "notspecified",
+  "license_title": "No se especificó la licencia",
+  "maintainer": "Dirección de Control de Enfermedades inmunoprevenibles. Patricia Torrilla",
+  "maintainer_email": "ptorrilla@dicei.msal.gov.ar",
+  "metadata_created": "2019-11-26T15:01:38.393483",
+  "metadata_modified": "2021-04-29T17:05:29.626771",
+  "name": "salud-porc-cobertura-vacuna-triple-viral-srp-sarampion-parotiditis-o-paperas-rubeola",
+  "notes": "Porcentaje de Cobertura de la vacuna Triple Viral (SRP), primera dosis a los 12 meses de vida, segunda dosis al ingreso escolar. Para mayor información del cálculo del porcentaje de coberturas remitirse a http://www.paho.org/immunization/toolkit/resources/reporting-monitoring/es/Modulo2-coberturas-administrativas.pdf?ua=1. Para un mayor detalle de las vacunas en Argentina, remitirse al sitio: https://www.argentina.gob.ar/salud/inmunoprevenibles/coberturas-de-vacunacion  ",
+  "num_resources": 4,
+  "num_tags": 6,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-11-15T11:12:22.202856",
+    "description": "",
+    "id": "dd1f2018-587f-43af-9b07-fc32f5ab588b",
+    "image_url": "",
+    "is_organization": true,
+    "name": "salud",
+    "revision_id": "14f0bb85-f97d-4325-b1c8-a7c1d3a815bf",
+    "state": "active",
+    "title": "Ministerio de Salud",
+    "type": "organization"
+  },
+  "owner_org": "dd1f2018-587f-43af-9b07-fc32f5ab588b",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "http://datos.salud.gob.ar/dataset/f70b1357-b57e-4077-9746-af8193243207/resource/8fc99b19-d439-4b1c-87c8-6c44efe98503",
+      "attributesDescription": "[{\"type\": \"integer\", \"description\": \"C\\u00f3digo de Jurisdicci\\u00f3n\", \"title\": \"jurisdiccion_id\"}, {\"type\": \"string\", \"description\": \"Nombre de Jurisdicci\\u00f3n\", \"title\": \"jurisdiccion_nombre\"}, {\"type\": \"number\", \"description\": \"Porcentaje cobertura 1 dosis a los 12 meses de vida a\\u00f1o 2009\", \"title\": \"2009_cob_ 1_ dosis_12_meses\"}, {\"type\": \"number\", \"description\": \"Porcentaje cobertura 2 dosis al ingreso escolar a\\u00f1o 2009\", \"title\": \"2009_cob_ 2_ dosis_ingreso_escolar\"}, {\"type\": \"number\", \"description\": \"Porcentaje cobertura 1 dosis a los 12 meses de vida a\\u00f1o 2010\", \"title\": \"2010_cob_ 1_ dosis_12_meses\"}, {\"type\": \"number\", \"description\": \"Porcentaje cobertura 2 dosis al ingreso escolar a\\u00f1o 2010\", \"title\": \"2010_cob_ 2_ dosis_ingreso_escolar\"}, {\"type\": \"number\", \"description\": \"Porcentaje cobertura 1 dosis a los 12 meses de vida a\\u00f1o 2011\", \"title\": \"2011_cob_ 1_ dosis_12_meses\"}, {\"type\": \"number\", \"description\": \"Porcentaje cobertura 2 dosis al ingreso escolar a\\u00f1o 2011\", \"title\": \"2011_cob_ 2_ dosis_ingreso_escolar\"}, {\"type\": \"number\", \"description\": \"Porcentaje cobertura 1 dosis a los 12 meses de vida a\\u00f1o 2012\", \"title\": \"2012_cob_ 1_ dosis_12_meses\"}, {\"type\": \"number\", \"description\": \"Porcentaje cobertura 2 dosis al ingreso escolar a\\u00f1o 2012\", \"title\": \"2012_cob_ 2_ dosis_ingreso_escolar\"}, {\"type\": \"number\", \"description\": \"Porcentaje cobertura 1 dosis a los 12 meses de vida a\\u00f1o 2013\", \"title\": \"2013_cob_ 1_ dosis_12_meses\"}, {\"type\": \"number\", \"description\": \"Porcentaje cobertura 2 dosis al ingreso escolar a\\u00f1o 2013\", \"title\": \"2013_cob_ 2_ dosis_ingreso_escolar\"}, {\"type\": \"number\", \"description\": \"Porcentaje cobertura 1 dosis a los 12 meses de vida a\\u00f1o 2014\", \"title\": \"2014_cob_ 1_ dosis_al_12_meses\"}, {\"type\": \"number\", \"description\": \"Porcentaje cobertura 2 dosis al ingreso escolar a\\u00f1o 2014\", \"title\": \"2014_cob_ 2_ dosis_ingreso_escolar\"}, {\"type\": \"number\", \"description\": \"Porcentaje cobertura 1 dosis a los 12 meses de vida a\\u00f1o 2015\", \"title\": \"2015_cob_ 1_ dosis_12_meses\"}, {\"type\": \"number\", \"description\": \"Porcentaje cobertura 2 dosis al ingreso escolar a\\u00f1o 2015\", \"title\": \"2015_cob_ 2_ dosis_ingreso_escolar\"}, {\"type\": \"number\", \"description\": \"Porcentaje cobertura 1 dosis a los 12 meses de vida a\\u00f1o 2016\", \"title\": \"2016_cob_ 1_ dosis_12_meses\"}, {\"type\": \"number\", \"description\": \"Porcentaje cobertura 2 dosis al ingreso escolar a\\u00f1o 2016\", \"title\": \"2016_cob_ 2_ dosis_ingreso_escolar\"}, {\"type\": \"number\", \"description\": \"Porcentaje cobertura 1 dosis a los 12 meses de vida a\\u00f1o 2017\", \"title\": \"2017_cob_ 1_ dosis_12_meses\"}, {\"type\": \"number\", \"description\": \"Porcentaje cobertura 2 dosis al ingreso escolar a\\u00f1o 2017\", \"title\": \"2017_cob_ 2_ dosis_ingreso_escolar\"}, {\"type\": \"number\", \"description\": \"Porcentaje cobertura 1 dosis a los 12 meses de vida a\\u00f1o 2018\", \"title\": \"2018_cob_ 1_ dosis_12_meses\"}, {\"type\": \"number\", \"description\": \"Porcentaje cobertura 2 dosis al ingreso escolar a\\u00f1o 2018\", \"title\": \"2018_cob_ 2_ dosis_ingreso_escolar\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-10-09T10:17:20.627369",
+      "datastore_active": false,
+      "description": "Porcentaje de Cobertura de la vacuna Triple Viral (SRP). La vacuna Triple Viral (SRP) inmuniza a la población contra el Sarampión, la Parotiditis o Paperas y la Rubeóla.",
+      "fileName": "dicei-vacunas-srp-2009-2018.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "salud_8fc99b19-d439-4b1c-87c8-6c44efe98503",
+      "last_modified": "2019-10-09T10:17:20.627369",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Porc. de Cobertura de la vacuna Triple Viral (SRP), 1ra dosis a los 12 meses de vida, 2da dosis ingreso escolar, por jurisdicción, años 2009-2018",
+      "package_id": "salud_f70b1357-b57e-4077-9746-af8193243207",
+      "position": 0,
+      "resource_type": "file.upload",
+      "revision_id": "adb93785-c51e-4b9e-83ea-8b2ccbf6f53d",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.salud.gob.ar/dataset/f70b1357-b57e-4077-9746-af8193243207/resource/8fc99b19-d439-4b1c-87c8-6c44efe98503/download/dicei-vacunas-srp-2009-2018.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos.salud.gob.ar/dataset/f70b1357-b57e-4077-9746-af8193243207/resource/590e6ec1-e1c2-4a2b-8502-19cf7f4cc530",
+      "attributesDescription": "[{\"type\": \"integer\", \"description\": \"C\\u00f3digo de Jurisdicci\\u00f3n\", \"title\": \"jurisdiccion_id \"}, {\"type\": \"string\", \"description\": \"Nombre de Jurisdicci\\u00f3n\", \"title\": \"jurisdiccion_nombre \"}, {\"type\": \"number\", \"description\": \"Porcentaje cobertura 1 dosis a los 12 meses de vida a\\u00f1o 2009\", \"title\": \"2009_cob_ 1_ dosis_12_meses\"}, {\"type\": \"number\", \"description\": \"Porcentaje cobertura 2 dosis al ingreso escolar a\\u00f1o 2009\", \"title\": \"2009_cob_ 2_ dosis_ingreso_escolar\"}, {\"type\": \"number\", \"description\": \"Porcentaje cobertura 1 dosis a los 12 meses de vida a\\u00f1o 2010\", \"title\": \"2010_cob_ 1_ dosis_12_meses\"}, {\"type\": \"number\", \"description\": \"Porcentaje cobertura 2 dosis al ingreso escolar a\\u00f1o 2010\", \"title\": \"2010_cob_ 2_ dosis_ingreso_escolar\"}, {\"type\": \"number\", \"description\": \"Porcentaje cobertura 1 dosis a los 12 meses de vida a\\u00f1o 2011\", \"title\": \"2011_cob_ 1_ dosis_12_meses\"}, {\"type\": \"number\", \"description\": \"Porcentaje cobertura 2 dosis al ingreso escolar a\\u00f1o 2011\", \"title\": \"2011_cob_ 2_ dosis_ingreso_escolar\"}, {\"type\": \"number\", \"description\": \"Porcentaje cobertura 1 dosis a los 12 meses de vida a\\u00f1o 2012\", \"title\": \"2012_cob_ 1_ dosis_12_meses\"}, {\"type\": \"number\", \"description\": \"Porcentaje cobertura 2 dosis al ingreso escolar a\\u00f1o 2012\", \"title\": \"2012_cob_ 2_ dosis_ingreso_escolar\"}, {\"type\": \"number\", \"description\": \"Porcentaje cobertura 1 dosis a los 12 meses de vida a\\u00f1o 2013\", \"title\": \"2013_cob_ 1_ dosis_12_meses\"}, {\"type\": \"number\", \"description\": \"Porcentaje cobertura 2 dosis al ingreso escolar a\\u00f1o 2013\", \"title\": \"2013_cob_ 2_ dosis_ingreso_escolar\"}, {\"type\": \"number\", \"description\": \"Porcentaje cobertura 1 dosis a los 12 meses de vida a\\u00f1o 2014\", \"title\": \"2014_cob_ 1_ dosis_al_12_meses\"}, {\"type\": \"number\", \"description\": \"Porcentaje cobertura 2 dosis al ingreso escolar a\\u00f1o 2014\", \"title\": \"2014_cob_ 2_ dosis_ingreso_escolar\"}, {\"type\": \"number\", \"description\": \"Porcentaje cobertura 1 dosis a los 12 meses de vida a\\u00f1o 2015\", \"title\": \"2015_cob_ 1_ dosis_12_meses\"}, {\"type\": \"number\", \"description\": \"Porcentaje cobertura 2 dosis al ingreso escolar a\\u00f1o 2015\", \"title\": \"2015_cob_ 2_ dosis_ingreso_escolar\"}, {\"type\": \"number\", \"description\": \"Porcentaje cobertura 1 dosis a los 12 meses de vida a\\u00f1o 2016\", \"title\": \"2016_cob_ 1_ dosis_12_meses\"}, {\"type\": \"number\", \"description\": \"Porcentaje cobertura 2 dosis al ingreso escolar a\\u00f1o 2016\", \"title\": \"2016_cob_ 2_ dosis_ingreso_escolar\"}, {\"type\": \"integer\", \"description\": \"Porcentaje cobertura 1 dosis a los 12 meses de vida a\\u00f1o 2017\", \"title\": \"2017_cob_ 1_ dosis_12_meses\"}, {\"type\": \"integer\", \"description\": \"Porcentaje cobertura 2 dosis al ingreso escolar a\\u00f1o 2017\", \"title\": \"2017_cob_ 2_ dosis_ingreso_escolar\"}, {\"type\": \"number\", \"description\": \"Porcentaje cobertura 1 dosis a los 12 meses de vida a\\u00f1o 2018\", \"title\": \"2018_cob_ 1_ dosis_12_meses\"}, {\"type\": \"number\", \"description\": \"Porcentaje cobertura 2 dosis al ingreso escolar a\\u00f1o 2018\", \"title\": \"2018_cob_ 2_ dosis_ingreso_escolar\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-10-09T10:38:51.389967",
+      "datastore_active": false,
+      "description": "Porcentaje de Cobertura de la vacuna Triple Viral (SRP). La vacuna Triple Viral (SRP) inmuniza a la población contra el Sarampión, la Parotiditis o Paperas y la Rubeóla.",
+      "fileName": "dicei-vacunas-srp-2009-2018.xls",
+      "format": "XLS",
+      "hash": "",
+      "id": "salud_590e6ec1-e1c2-4a2b-8502-19cf7f4cc530",
+      "last_modified": "2019-10-09T10:38:51.389967",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Porc. de Cobertura de la vacuna Triple Viral (SRP), 1ra dosis a los 12 meses de vida, 2da dosis ingreso escolar, por jurisdicción, años 2009-2018",
+      "package_id": "salud_f70b1357-b57e-4077-9746-af8193243207",
+      "position": 1,
+      "resource_type": "file.upload",
+      "revision_id": "adb93785-c51e-4b9e-83ea-8b2ccbf6f53d",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.salud.gob.ar/dataset/f70b1357-b57e-4077-9746-af8193243207/resource/590e6ec1-e1c2-4a2b-8502-19cf7f4cc530/download/dicei-vacunas-srp-2009-2018.xls",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos.salud.gob.ar/dataset/f70b1357-b57e-4077-9746-af8193243207/resource/72e25727-f4c2-4c04-80c5-6d2c2891ffb9",
+      "attributesDescription": "[{\"type\": \"integer\", \"description\": \"C\\u00f3digo de Jurisdicci\\u00f3n\", \"title\": \"jurisdiccion_id\"}, {\"type\": \"string\", \"description\": \"Nombre de Jurisdicci\\u00f3n\", \"title\": \"jurisdiccion_nombre\"}, {\"type\": \"number\", \"description\": \"Porcentaje cobertura 1 dosis a los 12 meses de vida a\\u00f1o 2009\", \"title\": \"2009_cob_ 1_ dosis_12_meses\"}, {\"type\": \"number\", \"description\": \"Porcentaje cobertura 2 dosis al ingreso escolar a\\u00f1o 2009\", \"title\": \"2009_cob_ 2_ dosis_ingreso_escolar\"}, {\"type\": \"number\", \"description\": \"Porcentaje cobertura 1 dosis a los 12 meses de vida a\\u00f1o 2010\", \"title\": \"2010_cob_ 1_ dosis_12_meses\"}, {\"type\": \"number\", \"description\": \"Porcentaje cobertura 2 dosis al ingreso escolar a\\u00f1o 2010\", \"title\": \"2010_cob_ 2_ dosis_ingreso_escolar\"}, {\"type\": \"number\", \"description\": \"Porcentaje cobertura 1 dosis a los 12 meses de vida a\\u00f1o 2011\", \"title\": \"2011_cob_ 1_ dosis_12_meses\"}, {\"type\": \"integer\", \"description\": \"Porcentaje cobertura 2 dosis al ingreso escolar a\\u00f1o 2011\", \"title\": \"2011_cob_ 2_ dosis_ingreso_escolar\"}, {\"type\": \"number\", \"description\": \"Porcentaje cobertura 1 dosis a los 12 meses de vida a\\u00f1o 2012\", \"title\": \"2012_cob_ 1_ dosis_12_meses\"}, {\"type\": \"number\", \"description\": \"Porcentaje cobertura 2 dosis al ingreso escolar a\\u00f1o 2012\", \"title\": \"2012_cob_ 2_ dosis_ingreso_escolar\"}, {\"type\": \"number\", \"description\": \"Porcentaje cobertura 1 dosis a los 12 meses de vida a\\u00f1o 2013\", \"title\": \"2013_cob_ 1_ dosis_12_meses\"}, {\"type\": \"number\", \"description\": \"Porcentaje cobertura 2 dosis al ingreso escolar a\\u00f1o 2013\", \"title\": \"2013_cob_ 2_ dosis_ingreso_escolar\"}, {\"type\": \"number\", \"description\": \"Porcentaje cobertura 1 dosis a los 12 meses de vida a\\u00f1o 2014\", \"title\": \"2014_cob_ 1_ dosis_al_12_meses\"}, {\"type\": \"number\", \"description\": \"Porcentaje cobertura 2 dosis al ingreso escolar a\\u00f1o 2014\", \"title\": \"2014_cob_ 2_ dosis_ingreso_escolar\"}, {\"type\": \"number\", \"description\": \"Porcentaje cobertura 1 dosis a los 12 meses de vida a\\u00f1o 2015\", \"title\": \"2015_cob_ 1_ dosis_12_meses\"}, {\"type\": \"number\", \"description\": \"Porcentaje cobertura 2 dosis al ingreso escolar a\\u00f1o 2015\", \"title\": \"2015_cob_ 2_ dosis_ingreso_escolar\"}, {\"type\": \"number\", \"description\": \"Porcentaje cobertura 1 dosis a los 12 meses de vida a\\u00f1o 2016\", \"title\": \"2016_cob_ 1_ dosis_12_meses\"}, {\"type\": \"number\", \"description\": \"Porcentaje cobertura 2 dosis al ingreso escolar a\\u00f1o 2016\", \"title\": \"2016_cob_ 2_ dosis_ingreso_escolar\"}, {\"type\": \"number\", \"description\": \"Porcentaje cobertura 1 dosis a los 12 meses de vida a\\u00f1o 2017\", \"title\": \"2017_cob_ 1_ dosis_12_meses\"}, {\"type\": \"number\", \"description\": \"Porcentaje cobertura 2 dosis al ingreso escolar a\\u00f1o 2017\", \"title\": \"2017_cob_ 2_ dosis_ingreso_escolar\"}, {\"type\": \"number\", \"description\": \"Porcentaje cobertura 1 dosis a los 12 meses de vida a\\u00f1o 2018\", \"title\": \"2018_cob_ 1_ dosis_12_meses\"}, {\"type\": \"number\", \"description\": \"Porcentaje cobertura 2 dosis al ingreso escolar a\\u00f1o 2018\", \"title\": \"2018_cob_ 2_ dosis_ingreso_escolar\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-10-09T10:45:22.082358",
+      "datastore_active": false,
+      "description": "Porcentaje de Cobertura de la vacuna Triple Viral (SRP). La vacuna Triple Viral (SRP) inmuniza a la población contra el Sarampión, la Parotiditis o Paperas y la Rubeóla.",
+      "fileName": "dicei-vacunas-srp-2009-2018.json",
+      "format": "JSON",
+      "hash": "",
+      "id": "salud_72e25727-f4c2-4c04-80c5-6d2c2891ffb9",
+      "last_modified": "2019-10-09T10:45:22.082358",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Porc. de Cobertura de la vacuna Triple Viral (SRP), 1ra dosis a los 12 meses de vida, 2da dosis ingreso escolar, por jurisdicción, años 2009-2018",
+      "package_id": "salud_f70b1357-b57e-4077-9746-af8193243207",
+      "position": 2,
+      "resource_type": "file.upload",
+      "revision_id": "d8cfd273-57b6-41f0-8f85-3bd8ec27fe98",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.salud.gob.ar/dataset/f70b1357-b57e-4077-9746-af8193243207/resource/72e25727-f4c2-4c04-80c5-6d2c2891ffb9/download/dicei-vacunas-srp-2009-2018.json",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos.salud.gob.ar/dataset/f70b1357-b57e-4077-9746-af8193243207/resource/1ffe6748-9d6c-467e-9f01-13578bd54ad7",
+      "attributesDescription": "[{\"type\": \"integer\", \"description\": \"C\\u00f3digo de Jurisdicci\\u00f3n\", \"title\": \"jurisdiccion_id\"}, {\"type\": \"string\", \"description\": \"Nombre de Jurisdicci\\u00f3n\", \"title\": \"jurisdiccion_nombre\"}, {\"type\": \"number\", \"description\": \"Porcentaje cobertura 1 dosis a los 12 meses de vida a\\u00f1o 2009\", \"title\": \"2009_cob_ 1_ dosis_12_meses\"}, {\"type\": \"number\", \"description\": \"Porcentaje cobertura 2 dosis al ingreso escolar a\\u00f1o 2009\", \"title\": \"2009_cob_ 2_ dosis_ingreso_escolar\"}, {\"type\": \"number\", \"description\": \"Porcentaje cobertura 1 dosis a los 12 meses de vida a\\u00f1o 2010\", \"title\": \"2010_cob_ 1_ dosis_12_meses\"}, {\"type\": \"number\", \"description\": \"Porcentaje cobertura 2 dosis al ingreso escolar a\\u00f1o 2010\", \"title\": \"2010_cob_ 2_ dosis_ingreso_escolar\"}, {\"type\": \"number\", \"description\": \"Porcentaje cobertura 1 dosis a los 12 meses de vida a\\u00f1o 2011\", \"title\": \"2011_cob_ 1_ dosis_12_meses\"}, {\"type\": \"number\", \"description\": \"Porcentaje cobertura 2 dosis al ingreso escolar a\\u00f1o 2011\", \"title\": \"2011_cob_ 2_ dosis_ingreso_escolar\"}, {\"type\": \"number\", \"description\": \"Porcentaje cobertura 1 dosis a los 12 meses de vida a\\u00f1o 2012\", \"title\": \"2012_cob_ 1_ dosis_12_meses\"}, {\"type\": \"number\", \"description\": \"Porcentaje cobertura 2 dosis al ingreso escolar a\\u00f1o 2012\", \"title\": \"2012_cob_ 2_ dosis_ingreso_escolar\"}, {\"type\": \"number\", \"description\": \"Porcentaje cobertura 1 dosis a los 12 meses de vida a\\u00f1o 2013\", \"title\": \"2013_cob_ 1_ dosis_12_meses\"}, {\"type\": \"number\", \"description\": \"Porcentaje cobertura 2 dosis al ingreso escolar a\\u00f1o 2013\", \"title\": \"2013_cob_ 2_ dosis_ingreso_escolar\"}, {\"type\": \"number\", \"description\": \"Porcentaje cobertura 1 dosis a los 12 meses de vida a\\u00f1o 2014\", \"title\": \"2014_cob_ 1_ dosis_al_12_meses\"}, {\"type\": \"number\", \"description\": \"Porcentaje cobertura 2 dosis al ingreso escolar a\\u00f1o 2014\", \"title\": \"2014_cob_ 2_ dosis_ingreso_escolar\"}, {\"type\": \"number\", \"description\": \"Porcentaje cobertura 1 dosis a los 12 meses de vida a\\u00f1o 2015\", \"title\": \"2015_cob_ 1_ dosis_12_meses\"}, {\"type\": \"number\", \"description\": \"Porcentaje cobertura 2 dosis al ingreso escolar a\\u00f1o 2015\", \"title\": \"2015_cob_ 2_ dosis_ingreso_escolar\"}, {\"type\": \"number\", \"description\": \"Porcentaje cobertura 1 dosis a los 12 meses de vida a\\u00f1o 2016\", \"title\": \"2016_cob_ 1_ dosis_12_meses\"}, {\"type\": \"number\", \"description\": \"Porcentaje cobertura 2 dosis al ingreso escolar a\\u00f1o 2016\", \"title\": \"2016_cob_ 2_ dosis_ingreso_escolar\"}, {\"type\": \"number\", \"description\": \"Porcentaje cobertura 1 dosis a los 12 meses de vida a\\u00f1o 2017\", \"title\": \"2017_cob_ 1_ dosis_12_meses\"}, {\"type\": \"number\", \"description\": \"Porcentaje cobertura 2 dosis al ingreso escolar a\\u00f1o 2017\", \"title\": \"2017_cob_ 2_ dosis_ingreso_escolar\"}, {\"type\": \"number\", \"description\": \"Porcentaje cobertura 1 dosis a los 12 meses de vida a\\u00f1o 2018\", \"title\": \"2018_cob_ 1_ dosis_12_meses\"}, {\"type\": \"number\", \"description\": \"Porcentaje cobertura 2 dosis al ingreso escolar a\\u00f1o 2018\", \"title\": \"2018_cob_ 2_ dosis_ingreso_escolar\"}, {\"type\": \"number\", \"description\": \"Porcentaje cobertura 1 dosis a los 12 meses de vida a\\u00f1o 2019\", \"title\": \"2019_cob_ 1_ dosis_12_meses\"}, {\"type\": \"number\", \"description\": \"Porcentaje cobertura 2 dosis al ingreso escolar a\\u00f1o 2019\", \"title\": \"2019_cob_ 2_ dosis_ingreso_escolar\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2020-09-14T13:07:05.321771",
+      "datastore_active": false,
+      "description": "Porcentaje de Cobertura de la vacuna Triple Viral (SRP). La vacuna Triple Viral (SRP) inmuniza a la población contra el Sarampión, la Parotiditis o Paperas y la Rubeóla.",
+      "fileName": "dicei-vacunas-srp-2009-2019.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "salud_1ffe6748-9d6c-467e-9f01-13578bd54ad7",
+      "last_modified": "2020-09-14T13:07:05.321771",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Porc. de Cobertura de la vacuna Triple Viral (SRP), 1ra dosis a los 12 meses de vida, 2da dosis ingreso escolar, por jurisdicción, años 2009-2019",
+      "package_id": "salud_f70b1357-b57e-4077-9746-af8193243207",
+      "position": 3,
+      "resource_type": "file.upload",
+      "revision_id": "6dddd260-b0c3-4b16-8b04-7942c63b336f",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.salud.gob.ar/dataset/f70b1357-b57e-4077-9746-af8193243207/resource/1ffe6748-9d6c-467e-9f01-13578bd54ad7/download/dicei-vacunas-srp-2009-2019.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "bb528fa4-942b-4792-aa21-b7a9131a69e2",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "SRP",
+      "id": "9d59f862-d0b8-4689-935e-aeb5b53c3c65",
+      "name": "SRP",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Vigilancia yo Notificación de Enfermedades",
+      "id": "8a004832-236c-4995-b02e-ea22643ad2a2",
+      "name": "Vigilancia yo Notificación de Enfermedades",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "salud",
+      "id": "76ad04f5-ea5f-4242-ab54-c9a854cb6f04",
+      "name": "salud",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "triple viral",
+      "id": "e23be983-0642-4a9f-866c-6f0d35821d47",
+      "name": "triple viral",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "vacunas",
+      "id": "35a2bb52-c70b-4cd0-b771-89ebcc6600f6",
+      "name": "vacunas",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "vigilancia epidemiologica",
+      "id": "cda75db6-7282-4773-9fbc-281762cd6bd2",
+      "name": "vigilancia epidemiologica",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Porc. de Cobertura de la vacuna Triple Viral (SRP). Sarampión, Parotiditis o Paperas y Rubeóla.",
+  "type": "dataset",
+  "url": "https://www.argentina.gob.ar/salud/inmunoprevenibles",
+  "version": null
+}

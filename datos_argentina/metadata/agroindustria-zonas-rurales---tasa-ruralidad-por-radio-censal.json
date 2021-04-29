@@ -1,0 +1,159 @@
+{
+  "author": "Dirección de Información y Estadística Pública - Secretaría de Mercados Agroindustriales",
+  "author_email": "datospublicos@magyp.gob.ar",
+  "creator_user_id": "dc157489-51c6-44ce-bd63-3bd983d60778",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "eventual"
+    },
+    {
+      "key": "issued",
+      "value": "2018-12-07T21:20:38.269156"
+    },
+    {
+      "key": "language",
+      "value": "[\"spa\"]"
+    },
+    {
+      "key": "modified",
+      "value": "2019-10-24T11:08:50.727573"
+    },
+    {
+      "key": "spatial",
+      "value": "[\"ARG\"]"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"AGRI\"]"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Agroganadería, pesca y forestación",
+      "display_name": "Agroganadería, pesca y forestación",
+      "id": "0c35ea38-7059-41d2-9827-5587769d0dc6",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225145.990789agroganaderia-pesca-forestacion.svg",
+      "name": "agri",
+      "title": "Agroganadería, pesca y forestación"
+    }
+  ],
+  "id": "agroindustria_e3152064-2394-4820-bc80-291f85596642",
+  "isopen": true,
+  "license_id": "CC-BY-4.0",
+  "license_title": "Creative Commons Attribution 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "maintainer": null,
+  "maintainer_email": null,
+  "metadata_created": "2019-12-04T20:00:18.140538",
+  "metadata_modified": "2021-04-29T17:16:22.582205",
+  "name": "agroindustria-zonas-rurales---tasa-ruralidad-por-radio-censal",
+  "notes": "Información del porcentaje de población que vive en zonas rurales, definidas sobre aquellas áreas que no superen los 2000 habitantes.",
+  "num_resources": 2,
+  "num_tags": 4,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:07.834957",
+    "description": "",
+    "id": "b10c94e2-ade1-4a97-8c4c-b1ada7878d60",
+    "image_url": "",
+    "is_organization": true,
+    "name": "agroindustria",
+    "revision_id": "f7c3b6e9-d48f-4522-9f7a-388d805c8392",
+    "state": "active",
+    "title": "Ministerio de Agricultura, Ganadería y Pesca",
+    "type": "organization"
+  },
+  "owner_org": "b10c94e2-ade1-4a97-8c4c-b1ada7878d60",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "http://datos.agroindustria.gob.ar/dataset/e3152064-2394-4820-bc80-291f85596642/resource/3c3de08a-ed6a-4b5f-b151-984f5bb9e3f4",
+      "attributesDescription": "[{\"type\": \"integer\", \"description\": \"pais_id\", \"title\": \"pais_id\"}, {\"type\": \"string\", \"description\": \"pais\", \"title\": \"pais\"}, {\"type\": \"string\", \"description\": \"SAG\", \"title\": \"SAG\"}, {\"type\": \"string\", \"description\": \"PROVINCIA\", \"title\": \"PROVINCIA\"}, {\"type\": \"string\", \"description\": \"PARTIDO\", \"title\": \"PARTIDO\"}, {\"type\": \"integer\", \"description\": \"LINK2\", \"title\": \"LINK2\"}, {\"type\": \"integer\", \"description\": \"LINK\", \"title\": \"LINK\"}, {\"type\": \"integer\", \"description\": \"COD_PROV\", \"title\": \"COD_PROV\"}, {\"type\": \"integer\", \"description\": \"COD_DEPTO\", \"title\": \"COD_DEPTO\"}, {\"type\": \"integer\", \"description\": \"URB\", \"title\": \"URB\"}, {\"type\": \"integer\", \"description\": \"r_ruruagr\", \"title\": \"r_ruruagr\"}, {\"type\": \"integer\", \"description\": \"r_rurdisp\", \"title\": \"r_rurdisp\"}, {\"type\": \"integer\", \"description\": \"r_rurtot\", \"title\": \"r_rurtot\"}, {\"type\": \"integer\", \"description\": \"T_URB_RUR\", \"title\": \"T_URB_RUR\"}, {\"type\": \"integer\", \"description\": \"P_URB\", \"title\": \"P_URB\"}, {\"type\": \"integer\", \"description\": \"r_porcrur\", \"title\": \"r_porcrur\"}, {\"type\": \"any\", \"description\": \"CODSET\", \"title\": \"CODSET\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-09-05T17:10:30.710663",
+      "datastore_active": false,
+      "description": "Información a nivel de radio censal sobre el porcentaje de población que vive en zonas rurales definidas sobre aquellas áreas que no superen los 2000 habitantes.",
+      "fileName": "censo2010ruralidad.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "agroindustria_3c3de08a-ed6a-4b5f-b151-984f5bb9e3f4",
+      "last_modified": "2019-07-11T12:29:37.674084",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Tasa de ruralidad por radio censal",
+      "package_id": "agroindustria_e3152064-2394-4820-bc80-291f85596642",
+      "position": 0,
+      "resource_type": "file.upload",
+      "revision_id": "483bf52f-ce09-4ad8-96b9-d6f42f5f021b",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.agroindustria.gob.ar/dataset/e3152064-2394-4820-bc80-291f85596642/resource/3c3de08a-ed6a-4b5f-b151-984f5bb9e3f4/download/censo2010ruralidad.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos.agroindustria.gob.ar/dataset/e3152064-2394-4820-bc80-291f85596642/archivo/d952a566-d401-4524-80a4-f115664d0c17",
+      "attributesDescription": "[{\"type\": \"string\", \"description\": \"campo\", \"title\": \"campo\"}, {\"type\": \"string\", \"description\": \"descripcion\", \"title\": \"descripcion\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-09-05T17:16:19.118039",
+      "datastore_active": false,
+      "description": "Detalle de cada una de las columnas que integran el recurso.",
+      "fileName": "referenciaruralidadcenso2010.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "agroindustria_d952a566-d401-4524-80a4-f115664d0c17",
+      "last_modified": "2019-07-11T12:28:39.372292",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Referencias tasa de ruralidad por radio censal",
+      "package_id": "agroindustria_e3152064-2394-4820-bc80-291f85596642",
+      "position": 1,
+      "resource_type": "file.upload",
+      "revision_id": "35e6400a-d8ae-449e-8dd4-04e2c4eb7be9",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.agroindustria.gob.ar/dataset/e3152064-2394-4820-bc80-291f85596642/resource/d952a566-d401-4524-80a4-f115664d0c17/download/referenciaruralidadcenso2010.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "6c246922-43b1-4126-a6ce-78943bba02d3",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "población rural",
+      "id": "5ff25500-7a08-4e11-8f1b-27ce31855229",
+      "name": "población rural",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "pueblos",
+      "id": "669f96c4-54f5-432b-ac0c-5db343ec94fb",
+      "name": "pueblos",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "ruralidad",
+      "id": "ef1180e0-e511-4df8-889c-7004552883ef",
+      "name": "ruralidad",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "zona rural",
+      "id": "ddfae703-0989-42a4-8f9f-66ff28124da6",
+      "name": "zona rural",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Zonas rurales - Tasa de ruralidad por radio censal",
+  "type": "dataset",
+  "url": "https://datos.agroindustria.gob.ar/dataset/tasa-ruralidad-por-radio-censal",
+  "version": null
+}

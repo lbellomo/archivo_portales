@@ -1,0 +1,155 @@
+{
+  "author": "Ministerio de Ambiente y Desarrollo Sostenible. Dirección Nacional de Gestión Ambiental del Agua y los Ecosistemas Acuáticos. ",
+  "author_email": "dnaguas@ambiente.gob.ar",
+  "creator_user_id": "4720e75a-9e17-4dc3-879d-041917c7f9f9",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "eventual"
+    },
+    {
+      "key": "issued",
+      "value": "2017-09-05T15:09:47.780765"
+    },
+    {
+      "key": "language",
+      "value": "[\"spa\"]"
+    },
+    {
+      "key": "modified",
+      "value": "2020-09-30T13:12:50.105179"
+    },
+    {
+      "key": "source",
+      "value": "Instituto Nacional de Nivología, Glaciología y Ciencias Ambientales (IANIGLA)"
+    },
+    {
+      "key": "spatial",
+      "value": "[\"ARG\"]"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"ENVI\"]"
+    },
+    {
+      "key": "temporal",
+      "value": "2011-03-02T03:00:00.000Z/2019-12-26T03:00:00.000Z"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Medio ambiente",
+      "display_name": "Medio ambiente",
+      "id": "f71fe9d7-c703-43be-8d9d-af9441c326ba",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225440.964279medio-ambiente.svg",
+      "name": "envi",
+      "title": "Medio ambiente"
+    }
+  ],
+  "id": "ambiente_a0f15169-f826-4657-b53f-0471bf6392e3",
+  "isopen": false,
+  "license_id": "notspecified",
+  "license_title": "No se especificó la licencia",
+  "maintainer": "Ministerio de Ambiente y Desarrollo Sostenible. Dirección Nacional de Gestión Ambiental del Agua y los Ecosistemas Acuáticos. ",
+  "maintainer_email": "dnaguas@ambiente.gob.ar",
+  "metadata_created": "2019-11-26T14:57:56.863987",
+  "metadata_modified": "2021-04-29T17:18:10.674182",
+  "name": "ambiente-inventario-nacional-glaciares---ley-ndeg-26639",
+  "notes": "El 28 de Octubre de 2010 fue promulgada la Ley 26.639 de “Presupuestos Mínimos para la Preservación de los Glaciares y del Ambiente Periglacial”, que contempla entre otras medidas, la creación de un Inventario Nacional de Glaciares.\r\nLos datos corresponden a la recopilación de los 69 informes del Primer Inventario Nacional de Glaciares, que fuera publicado por resolución MAyDS Nº 358/2018 el 7 de Junio de 2018.",
+  "num_resources": 1,
+  "num_tags": 6,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:07.043831",
+    "description": "",
+    "id": "0e5aa328-825e-4509-851d-5421e866635e",
+    "image_url": "",
+    "is_organization": true,
+    "name": "ambiente",
+    "revision_id": "105eb915-270c-4f67-9b4e-e6a3f08be6d7",
+    "state": "active",
+    "title": "Ministerio de Ambiente y Desarrollo Sostenible",
+    "type": "organization"
+  },
+  "owner_org": "0e5aa328-825e-4509-851d-5421e866635e",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "http://datos.ambiente.gob.ar/dataset/a0f15169-f826-4657-b53f-0471bf6392e3/resource/1ece7132-b379-4fb3-b9d9-7295e59e97fa",
+      "attributesDescription": "[{\"type\": \"integer\", \"description\": \"N\\u00famero de identificaci\\u00f3n de las 69 subcuencas del Inventario Nacional de Glaciares\", \"title\": \"subcuenca_id\"}, {\"type\": \"string\", \"description\": \"Nombre de la subcuenca del Inventario Nacional de Glaciares (ING)\", \"title\": \"subcuenca_nombre\"}, {\"type\": \"string\", \"description\": \"Nombre de la cuenca de acuerdo a la denominaci\\u00f3n del Atlas de Cuencas y Regiones H\\u00eddricas Superficiales de la Rep\\u00fablica Argentina\", \"title\": \"cuenca_nombre\"}, {\"type\": \"string\", \"description\": \"Regi\\u00f3n a la cual pertenece la subcuenca de acuerdo a las definidas por el Decreto Reglamentario 207/11\", \"title\": \"region_nombre\"}, {\"type\": \"integer\", \"description\": \"C\\u00f3digo provincial del sistema de identificadores de la cartograf\\u00eda censal del Censo Nacional 2010 del Instituto Nacional de Estad\\u00edsticas y Censos\", \"title\": \"provincia_1_en_subcuenca_id\"}, {\"type\": \"string\", \"description\": \"Provincia que es parte de la subcuenca\", \"title\": \"provincia_1_en_subcuenca_nombre\"}, {\"type\": \"integer\", \"description\": \"C\\u00f3digo provincial del sistema de identificadores de la cartograf\\u00eda censal del Censo Nacional 2010 del Instituto Nacional de Estad\\u00edsticas y Censos\", \"title\": \"provincia_2_en_subcuenca_id\"}, {\"type\": \"string\", \"description\": \"Segunda provincia que es parte de la subcuenca, si hubiera\", \"title\": \"provincia_2_en_subcuenca_nombre\"}, {\"type\": \"integer\", \"description\": \"C\\u00f3digo provincial del sistema de identificadores de la cartograf\\u00eda censal del Censo Nacional 2010 del Instituto Nacional de Estad\\u00edsticas y Censos\", \"title\": \"provincia_3_en_subcuenca_id\"}, {\"type\": \"string\", \"description\": \"Tercer provincia que es parte de la subcuenca, si hubiera\", \"title\": \"provincia_3_en_subcuenca_nombre\"}, {\"type\": \"integer\", \"description\": \"\\u00c1rea de la subcuenca expresada en km2\", \"title\": \"subcuenca_area_total\"}, {\"type\": \"integer\", \"description\": \"Total de n\\u00fameros de cuerpos de hielo en la subcuenca\", \"title\": \"subcuenca_cuerpos_hielo_numero\"}, {\"type\": \"number\", \"description\": \"\\u00c1rea del total de los cuerpos de hielo en la subcuenca, expresada en km2\", \"title\": \"subcuenca_area_englazada\"}, {\"type\": \"number\", \"description\": \"Porcentaje de la subcuenca que tiene glaciares\", \"title\": \"subcuenca_porcentaje_englazado\"}, {\"type\": \"number\", \"description\": \"\\u00c1rea de la subcuenca que no est\\u00e1 cubierta por cuerpos de hielo\", \"title\": \"subcuenca_area_no_englazada\"}, {\"type\": \"string\", \"description\": \"Corresponde al tipo de normativa que public\\u00f3 la subcuenca\", \"title\": \"normativa_publicacion_tipo\"}, {\"type\": \"string\", \"description\": \"Ministerio de Ambiente y Desarrollo Sustentable de la Naci\\u00f3n, actual Secretar\\u00eda de Gobierno de Ambiente y Desarrollo Sustentable de la Naci\\u00f3n, organismo que public\\u00f3 la subcuenca\", \"title\": \"normativa_publicacion_organismo\"}, {\"type\": \"integer\", \"description\": \"N\\u00famero de resoluci\\u00f3n de publicaci\\u00f3n de la subcuenca\", \"title\": \"normativa_publicacion_numero\"}, {\"type\": \"integer\", \"description\": \"A\\u00f1o que se public\\u00f3 la subcuenca\", \"title\": \"normativa_publicacion_anio\"}, {\"type\": \"string\", \"description\": \"N\\u00famero de Informe GDE de acuerdo al listado correspondiente al ANEXO IV de la Resoluci\\u00f3n MAyDS N\\u00ba 358/2018.\", \"title\": \"informe_publicacion_gde\"}, {\"type\": \"string\", \"description\": \"N\\u00famero de Informe GDE de acuerdo al listado correspondiente al ANEXO IV de la Resoluci\\u00f3n MAyDS N\\u00ba 358/2018.\", \"title\": \"mapa_publicacion_gde\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-09-05T15:25:25.621833",
+      "datastore_active": false,
+      "description": "Tabla que resume los resultados del ING, cuyo objetivo es la individualización de todos los glaciares y geoformas periglaciales que actúan como reserva hídricas existentes en el territorio nacional.",
+      "fileName": "area-englazada-por-subcuenca.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "ambiente_1ece7132-b379-4fb3-b9d9-7295e59e97fa",
+      "last_modified": "2019-02-27T11:17:35.325720",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Área englazada por subcuenca publicada del Inventario Nacional de Glaciares (ING).",
+      "package_id": "ambiente_a0f15169-f826-4657-b53f-0471bf6392e3",
+      "position": 0,
+      "resource_type": "file.upload",
+      "revision_id": "6f30c2ee-fa76-47f2-a183-6b13d29803a5",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.ambiente.gob.ar/dataset/a0f15169-f826-4657-b53f-0471bf6392e3/resource/1ece7132-b379-4fb3-b9d9-7295e59e97fa/download/area-englazada-por-subcuenca.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "d8d2d0a4-cf52-4ef1-aac0-bc798a718fa8",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "Agua",
+      "id": "af4aa031-3f91-41d8-8f0b-4950573dc4a4",
+      "name": "Agua",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Glaciares",
+      "id": "2bba855f-d07d-4473-a238-204183213264",
+      "name": "Glaciares",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "IANIGLA",
+      "id": "3896e45c-53b1-4641-a532-1df6df8c51e7",
+      "name": "IANIGLA",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Inventario",
+      "id": "47b11d52-4926-46c7-8e70-f42e6a56415c",
+      "name": "Inventario",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "ley 26639",
+      "id": "3d500e52-b4b8-4320-b6dd-88a4cd915241",
+      "name": "ley 26639",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Área englazada",
+      "id": "a6b772ee-09ed-4c32-9ff1-d1bc9d81014c",
+      "name": "Área englazada",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Inventario Nacional de Glaciares - Ley N° 26639",
+  "type": "dataset",
+  "url": "http://www.glaciaresargentinos.gob.ar",
+  "version": null
+}

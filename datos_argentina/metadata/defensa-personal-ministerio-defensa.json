@@ -1,0 +1,136 @@
+{
+  "author": "Dirección General de Recursos Humanos. Ministerio de Defensa",
+  "author_email": "recursoshumanos@mindef.gov.ar",
+  "creator_user_id": "4720e75a-9e17-4dc3-879d-041917c7f9f9",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P1Y"
+    },
+    {
+      "key": "issued",
+      "value": "2019-10-07T12:25:52.590413"
+    },
+    {
+      "key": "modified",
+      "value": "2019-10-07T12:25:52.590413"
+    },
+    {
+      "key": "spatial",
+      "value": "[\"ARG\", \"02\"]"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"GOVE\"]"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Gobierno y sector público",
+      "display_name": "Gobierno y sector público",
+      "id": "e6f07c77-3987-4e71-98a6-731b1aaf74f4",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225353.395233gobierno-sector-publico.svg",
+      "name": "gove",
+      "title": "Gobierno y sector público"
+    }
+  ],
+  "id": "defensa_5dd37fda-830c-49e6-8645-b4559fa38840",
+  "isopen": false,
+  "license_id": "notspecified",
+  "license_title": "No se especificó la licencia",
+  "maintainer": null,
+  "maintainer_email": null,
+  "metadata_created": "2019-11-26T14:56:18.862707",
+  "metadata_modified": "2021-04-29T17:04:57.873925",
+  "name": "defensa-personal-ministerio-defensa",
+  "notes": "Nomina del personal del Ministerio de Defensa",
+  "num_resources": 1,
+  "num_tags": 5,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:07.977275",
+    "description": "",
+    "id": "5e80ed4f-8bfb-4451-8240-e8f39e695ee1",
+    "image_url": "",
+    "is_organization": true,
+    "name": "defensa",
+    "revision_id": "6c78ab87-28d0-47ba-99bb-5850ddbf7279",
+    "state": "active",
+    "title": " Ministerio de Defensa",
+    "type": "organization"
+  },
+  "owner_org": "5e80ed4f-8bfb-4451-8240-e8f39e695ee1",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "http://datos.mindef.gov.ar/dataset/5dd37fda-830c-49e6-8645-b4559fa38840/resource/4e883b86-8e1a-4559-820e-f2c10ee0273d",
+      "attributesDescription": "[{\"id\": \"mindef_nomina_1\", \"type\": \"string\", \"description\": \"Apellido 1\", \"title\": \"apellidos_1\"}, {\"id\": \"mindef_nomina_2\", \"type\": \"string\", \"description\": \"Apellido 2\", \"title\": \"apellidos_2\"}, {\"id\": \"mindef_nomina_3\", \"type\": \"string\", \"description\": \"Apellido 3\", \"title\": \"apellidos_3\"}, {\"id\": \"mindef_nomina_4\", \"type\": \"string\", \"description\": \"Apellido 4\", \"title\": \"apellidos_4\"}, {\"id\": \"mindef_nomina_5\", \"type\": \"string\", \"description\": \"Nombre 1\\n\", \"title\": \"nombres_1\"}, {\"id\": \"mindef_nomina_6\", \"type\": \"string\", \"description\": \"Nombre 2\", \"title\": \"nombres_2\"}, {\"id\": \"mindef_nomina_7\", \"type\": \"string\", \"description\": \"Nombre 3\", \"title\": \"nombres_3\"}, {\"id\": \"mindef_nomina_8\", \"type\": \"number\", \"description\": \"Numero de CUIL\", \"title\": \"cuil\"}, {\"id\": \"mindef_nomina_9\", \"type\": \"string\", \"description\": \"Tipo de Contrato\", \"title\": \"modalidad_vinculacion\"}, {\"id\": \"mindef_nomina_10\", \"type\": \"string\", \"description\": \"Letra del cargo\", \"title\": \"cargo_nivel\"}, {\"id\": \"mindef_nomina_11\", \"type\": \"string\", \"description\": \"Funci\\u00f3n ejecutiva\", \"title\": \"funcion_ejecutiva\"}, {\"id\": \"mindef_nomina_12\", \"type\": \"string\", \"description\": \"Sede donde trabaja\", \"title\": \"sede\"}, {\"id\": \"mindef_nomina_13\", \"type\": \"string\", \"description\": \"Escalaf\\u00f3n\", \"title\": \"escalafon_descripcion\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-10-07T12:35:04.519581",
+      "datastore_active": false,
+      "description": "Nomina del personal del Ministerio de Defensa al 31 de agosto de 2019",
+      "fileName": "Ministerio-Defensa-Nomina-hasta-agosto-2019.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "defensa_4e883b86-8e1a-4559-820e-f2c10ee0273d",
+      "last_modified": "2019-10-07T12:35:04.519581",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Ministerio-Defensa-Nomina-personal-hasta-agosto-2019",
+      "package_id": "defensa_5dd37fda-830c-49e6-8645-b4559fa38840",
+      "position": 0,
+      "resource_type": "file.upload",
+      "revision_id": "8f985d4d-f989-4a3c-be8b-3915de44eebf",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.mindef.gov.ar/dataset/5dd37fda-830c-49e6-8645-b4559fa38840/resource/4e883b86-8e1a-4559-820e-f2c10ee0273d/download/ministerio-defensa-nomina-hasta-agosto-2019.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "5098976a-9251-4bb2-897c-15846fcd9a6f",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "Empleados",
+      "id": "cefe36cf-64fc-4050-bd28-a100a474ff44",
+      "name": "Empleados",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Mindef",
+      "id": "f25adc42-5777-477d-9b69-aff50e5e03fa",
+      "name": "Mindef",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Nomina",
+      "id": "d44d357a-1f53-4d51-a778-44eba8ace2e4",
+      "name": "Nomina",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Personal",
+      "id": "f7ed71c9-e9e9-4b9d-be87-6c99f967bd15",
+      "name": "Personal",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Transparencia Activa",
+      "id": "75291f1b-150c-46a3-baae-102fdcee1861",
+      "name": "Transparencia Activa",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Personal del Ministerio de Defensa",
+  "type": "dataset",
+  "url": "http://datos.mindef.gov.ar/dataset/personal-del-ministerio-de-defensa",
+  "version": null
+}

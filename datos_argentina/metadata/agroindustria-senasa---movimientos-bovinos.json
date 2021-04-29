@@ -1,0 +1,312 @@
+{
+  "author": "Servicio Nacional de Sanidad y Calidad Agroalimentaria",
+  "author_email": "desycg@senasa.gob.ar",
+  "creator_user_id": "dc157489-51c6-44ce-bd63-3bd983d60778",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P1M"
+    },
+    {
+      "key": "issued",
+      "value": "2019-09-23T15:19:34.780771"
+    },
+    {
+      "key": "language",
+      "value": "[\"spa\"]"
+    },
+    {
+      "key": "modified",
+      "value": "2019-12-02T13:30:40.983851"
+    },
+    {
+      "key": "source",
+      "value": "Servicio Nacional de Sanidad y Calidad Agroalimentaria - SENASA"
+    },
+    {
+      "key": "spatial",
+      "value": "[\"ARG\"]"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"AGRI\"]"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Agroganadería, pesca y forestación",
+      "display_name": "Agroganadería, pesca y forestación",
+      "id": "0c35ea38-7059-41d2-9827-5587769d0dc6",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225145.990789agroganaderia-pesca-forestacion.svg",
+      "name": "agri",
+      "title": "Agroganadería, pesca y forestación"
+    }
+  ],
+  "id": "agroindustria_aa0600b2-13f7-45be-8fdf-656262d73005",
+  "isopen": true,
+  "license_id": "CC-BY-4.0",
+  "license_title": "Creative Commons Attribution 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "maintainer": "Dirección Nacional de Sanidad Animal",
+  "maintainer_email": "desycg@senasa.gob.ar",
+  "metadata_created": "2019-12-12T19:43:00.372980",
+  "metadata_modified": "2021-04-29T17:16:18.549035",
+  "name": "agroindustria-senasa---movimientos-bovinos",
+  "notes": "Datos mensuales de los movimientos de la especie bovina detallando provincia y departamento de origen y destino.",
+  "num_resources": 6,
+  "num_tags": 11,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:07.834957",
+    "description": "",
+    "id": "b10c94e2-ade1-4a97-8c4c-b1ada7878d60",
+    "image_url": "",
+    "is_organization": true,
+    "name": "agroindustria",
+    "revision_id": "f7c3b6e9-d48f-4522-9f7a-388d805c8392",
+    "state": "active",
+    "title": "Ministerio de Agricultura, Ganadería y Pesca",
+    "type": "organization"
+  },
+  "owner_org": "b10c94e2-ade1-4a97-8c4c-b1ada7878d60",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "http://datos.agroindustria.gob.ar/dataset/aa0600b2-13f7-45be-8fdf-656262d73005/resource/81330b51-8dd9-420d-842e-aefe56151d3a",
+      "attributesDescription": "[{\"specialType\": \"time_index\", \"type\": \"date\", \"title\": \"fecha\"}, {\"type\": \"string\", \"description\": \"Lugar del que sale.\", \"title\": \"salido_de\"}, {\"type\": \"string\", \"description\": \"Lugar al que ingresa.\", \"title\": \"ingresado_a\"}, {\"type\": \"string\", \"description\": \"Nombre de la provincia de origen.\", \"title\": \"provinicia_origen\"}, {\"type\": \"integer\", \"description\": \"C\\u00f3digo de la provincia de origen.\", \"title\": \"provincia_origen_id\"}, {\"type\": \"string\", \"description\": \"Nombre del departamento de origen.\", \"title\": \"departamento_origen\"}, {\"type\": \"integer\", \"description\": \"C\\u00f3digo del departamento de origen.\", \"title\": \"departamento_origen_id\"}, {\"type\": \"string\", \"description\": \"Nombre de la provincia de destino.\", \"title\": \"provincia_destino\"}, {\"type\": \"integer\", \"description\": \"C\\u00f3digo de la provincia de destino.\", \"title\": \"provincia_destino_id\"}, {\"type\": \"string\", \"description\": \"Nombre del departamento de destino.\", \"title\": \"departamento_destino\"}, {\"type\": \"integer\", \"description\": \"C\\u00f3digo del departamento de destino.\", \"title\": \"departamento_destino_id\"}, {\"type\": \"integer\", \"description\": \"Cantidad de hembras que han tenido al menos una parici\\u00f3n.\", \"title\": \"vaca\"}, {\"type\": \"integer\", \"description\": \"Cantidad de hembras j\\u00f3venes que no han tenido parici\\u00f3n alguna.\", \"title\": \"vaquillona\"}, {\"type\": \"integer\", \"description\": \"Cantidad de machos castrados.\", \"title\": \"novillo\"}, {\"type\": \"integer\", \"description\": \"Cantidad de machos castrados.\", \"title\": \"novillito\"}, {\"type\": \"integer\", \"description\": \"Cantidad de machos menores de un a\\u00f1o, sin considerar si est\\u00e1n o no al pi\\u00e9 de la madre.\", \"title\": \"ternero\"}, {\"type\": \"integer\", \"description\": \"Cantidad de hembras menores de un a\\u00f1o, sin considerar si est\\u00e1n o no al pi\\u00e9 de la madre.\", \"title\": \"ternera\"}, {\"type\": \"integer\", \"description\": \"Cantidad de toros j\\u00f3venes mayores de un a\\u00f1o que a\\u00fan no han entrado a servicio.\", \"title\": \"torito\"}, {\"type\": \"integer\", \"description\": \"Cantidad de machos destinados a reproducci\\u00f3n.\", \"title\": \"toro\"}, {\"type\": \"integer\", \"description\": \"Cantidad de machos adultos castrados para trabajo, o inf\\u00e9rtiles.\", \"title\": \"bueyes\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-09-27T14:08:11.335830",
+      "datastore_active": false,
+      "description": "Datos de los movimientos bovinos por categoría y mes para el año 2018.",
+      "fileName": "movimiento-bovinos-2018.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "agroindustria_81330b51-8dd9-420d-842e-aefe56151d3a",
+      "last_modified": "2019-11-19T15:50:33.807785",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Movimientos bovinos 2018",
+      "package_id": "agroindustria_aa0600b2-13f7-45be-8fdf-656262d73005",
+      "position": 0,
+      "resource_type": "file.upload",
+      "revision_id": "247e2360-cfa6-439a-babe-46247620f84c",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.agroindustria.gob.ar/dataset/aa0600b2-13f7-45be-8fdf-656262d73005/resource/81330b51-8dd9-420d-842e-aefe56151d3a/download/movimiento-bovinos-2018.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos.agroindustria.gob.ar/dataset/aa0600b2-13f7-45be-8fdf-656262d73005/resource/9cd595bd-c2f4-46a5-993f-3b84f75f1b3f",
+      "attributesDescription": "[{\"type\": \"date\", \"title\": \"fecha\"}, {\"type\": \"string\", \"description\": \"Lugar del que sale. \\n\", \"title\": \"salido_de\"}, {\"type\": \"string\", \"description\": \"Lugar al que ingresa. \\n\", \"title\": \"ingresado_a\"}, {\"type\": \"string\", \"description\": \"Nombre de la provincia de origen. \\n\", \"title\": \"provincia_origen\"}, {\"type\": \"integer\", \"description\": \"C\\u00f3digo de la provincia de origen. \\n\", \"title\": \"provincia_origen_id\"}, {\"type\": \"string\", \"description\": \"Nombre del departamento de origen. \\n\", \"title\": \"departamento_origen\"}, {\"type\": \"integer\", \"description\": \"C\\u00f3digo del departamento de origen. \\n\", \"title\": \"departamento_origen_id\"}, {\"type\": \"string\", \"description\": \"Nombre de la provincia de destino. \\n\", \"title\": \"provincia_destino\"}, {\"type\": \"integer\", \"description\": \"C\\u00f3digo de la provincia de destino. \\n\", \"title\": \"provincia_destino_id\"}, {\"type\": \"string\", \"description\": \"Nombre del departamento de destino. \\n\", \"title\": \"departamento_destino\"}, {\"type\": \"integer\", \"description\": \"C\\u00f3digo del departamento de destino. \\n\", \"title\": \"departamento_destino_id\"}, {\"type\": \"integer\", \"description\": \"Cantidad de hembras que han tenido al menos una parici\\u00f3n.\\n\", \"title\": \"vaca\"}, {\"type\": \"integer\", \"description\": \"Cantidad de hembras j\\u00f3venes que no han tenido parici\\u00f3n alguna.\\n\", \"title\": \"vaquillona\"}, {\"type\": \"integer\", \"description\": \"Cantidad de machos castrados.\\n\", \"title\": \"novillo\"}, {\"type\": \"integer\", \"description\": \"Cantidad de machos castrados.\\n\", \"title\": \"novillito\"}, {\"type\": \"integer\", \"description\": \"Cantidad de machos menores de un a\\u00f1o, sin considerar si est\\u00e1n o no al pi\\u00e9 de la madre.\\n\", \"title\": \"ternero\"}, {\"type\": \"integer\", \"description\": \"Cantidad de hembras menores de un a\\u00f1o, sin considerar si est\\u00e1n o no al pi\\u00e9 de la madre.\\n\", \"title\": \"ternera\"}, {\"type\": \"integer\", \"description\": \"Cantidad de toros j\\u00f3venes mayores de un a\\u00f1o que a\\u00fan no han entrado a servicio.\\n\", \"title\": \"torito\"}, {\"type\": \"integer\", \"description\": \"Cantidad de machos destinados a reproducci\\u00f3n.\\n\", \"title\": \"toro\"}, {\"type\": \"integer\", \"description\": \"Cantidad de machos adultos castrados para trabajo, o inf\\u00e9rtiles.\", \"title\": \"bueyes\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-10-02T14:20:22.982618",
+      "datastore_active": false,
+      "description": "Datos de los movimientos bovinos por categoría y mes para el año 2017.",
+      "fileName": "movimiento-bovinos-2017.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "agroindustria_9cd595bd-c2f4-46a5-993f-3b84f75f1b3f",
+      "last_modified": "2019-11-19T15:51:58.249942",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Movimientos bovinos 2017",
+      "package_id": "agroindustria_aa0600b2-13f7-45be-8fdf-656262d73005",
+      "position": 1,
+      "resource_type": "file.upload",
+      "revision_id": "741395f4-deb3-448a-b057-3ca292f56782",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.agroindustria.gob.ar/dataset/aa0600b2-13f7-45be-8fdf-656262d73005/resource/9cd595bd-c2f4-46a5-993f-3b84f75f1b3f/download/movimiento-bovinos-2017.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos.agroindustria.gob.ar/dataset/aa0600b2-13f7-45be-8fdf-656262d73005/resource/9e1e089c-668d-4614-8289-40aaba1efbfc",
+      "attributesDescription": "[{\"type\": \"date\", \"title\": \"fecha\"}, {\"type\": \"string\", \"description\": \"Lugar del que sale. \\n\", \"title\": \"salido_de\"}, {\"type\": \"string\", \"description\": \"Lugar al que ingresa. \\n\", \"title\": \"ingresado_a\"}, {\"type\": \"string\", \"description\": \"Nombre de la provincia de origen. \\n\\n\", \"title\": \"provincia_origen\"}, {\"type\": \"integer\", \"description\": \"C\\u00f3digo de la provincia de origen. \\n\", \"title\": \"provincia_origen_id\"}, {\"type\": \"string\", \"description\": \"Nombre del departamento de origen. \\n\", \"title\": \"departamento_origen\"}, {\"type\": \"integer\", \"description\": \"C\\u00f3digo del departamento de origen. \\n\", \"title\": \"departamento_origen_id\"}, {\"type\": \"string\", \"description\": \"Nombre de la provincia de destino. \\n\", \"title\": \"provincia_destino\"}, {\"type\": \"integer\", \"description\": \"C\\u00f3digo de la provincia de destino. \\n\", \"title\": \"provincia_destino_id\"}, {\"type\": \"string\", \"description\": \"Nombre del departamento de destino. \\n\", \"title\": \"departamento_destino\"}, {\"type\": \"integer\", \"description\": \"C\\u00f3digo del departamento de destino. \\n\", \"title\": \"departamento_destino_id\"}, {\"type\": \"integer\", \"description\": \"Cantidad de hembras que han tenido al menos una parici\\u00f3n.\", \"title\": \"vaca\"}, {\"type\": \"integer\", \"description\": \"Cantidad de hembras j\\u00f3venes que no han tenido parici\\u00f3n alguna.\\n\", \"title\": \"vaquillona\"}, {\"type\": \"integer\", \"description\": \"Cantidad de machos castrados.\\n\", \"title\": \"novillo\"}, {\"type\": \"integer\", \"description\": \"Cantidad de machos castrados.\\n\", \"title\": \"novillito\"}, {\"type\": \"integer\", \"description\": \"Cantidad de machos menores de un a\\u00f1o, sin considerar si est\\u00e1n o no al pi\\u00e9 de la madre.\", \"title\": \"ternero\"}, {\"type\": \"integer\", \"description\": \"Cantidad de hembras menores de un a\\u00f1o, sin considerar si est\\u00e1n o no al pi\\u00e9 de la madre.\\n\", \"title\": \"ternera\"}, {\"type\": \"integer\", \"description\": \"Cantidad de toros j\\u00f3venes mayores de un a\\u00f1o que a\\u00fan no han entrado a servicio.\\n\", \"title\": \"torito\"}, {\"type\": \"integer\", \"description\": \"Cantidad de machos destinados a reproducci\\u00f3n.\", \"title\": \"toro\"}, {\"type\": \"integer\", \"description\": \"Cantidad de machos adultos castrados para trabajo, o inf\\u00e9rtiles.\\n\", \"title\": \"bueyes\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-10-02T14:18:35.119888",
+      "datastore_active": false,
+      "description": "Datos de los movimientos bovinos por categoría y mes para el año 2016.",
+      "fileName": "movimiento-bovinos-2016.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "agroindustria_9e1e089c-668d-4614-8289-40aaba1efbfc",
+      "last_modified": "2019-11-19T15:53:46.706006",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Movimientos bovinos 2016",
+      "package_id": "agroindustria_aa0600b2-13f7-45be-8fdf-656262d73005",
+      "position": 2,
+      "resource_type": "file.upload",
+      "revision_id": "8761f7b9-7ae9-4b27-9dcc-04a9342e78fa",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.agroindustria.gob.ar/dataset/aa0600b2-13f7-45be-8fdf-656262d73005/resource/9e1e089c-668d-4614-8289-40aaba1efbfc/download/movimiento-bovinos-2016.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos.agroindustria.gob.ar/dataset/aa0600b2-13f7-45be-8fdf-656262d73005/resource/463f8b0f-b14c-4bfe-ad7c-6420d0f22a7c",
+      "attributesDescription": "[{\"type\": \"date\", \"title\": \"fecha\"}, {\"type\": \"string\", \"description\": \"Lugar del que sale.  \\n\", \"title\": \"salido_de\"}, {\"type\": \"string\", \"description\": \"Lugar al que ingresa.  \\n\", \"title\": \"ingresado_a\"}, {\"type\": \"string\", \"description\": \"Nombre de la provincia de origen.  \\n\", \"title\": \"provincia_origen\"}, {\"type\": \"integer\", \"description\": \"C\\u00f3digo de la provincia de origen.  \\n\", \"title\": \"provincia_origen_id\"}, {\"type\": \"string\", \"description\": \"Nombre del departamento de origen.  \\n\", \"title\": \"departamento_origen\"}, {\"type\": \"integer\", \"description\": \"C\\u00f3digo del departamento de origen.  \\n\", \"title\": \"departamento_origen_id\"}, {\"type\": \"string\", \"description\": \"Nombre de la provincia de destino.  \\n\", \"title\": \"provincia_destino\"}, {\"type\": \"integer\", \"description\": \"C\\u00f3digo de la provincia de destino.  \\n\", \"title\": \"provincia_destino_id\"}, {\"type\": \"string\", \"description\": \"Nombre del departamento de destino.  \\n\", \"title\": \"departamento_destino\"}, {\"type\": \"integer\", \"description\": \"C\\u00f3digo del departamento de destino.  \\n\", \"title\": \"departamento_destino_id\"}, {\"type\": \"integer\", \"description\": \"Cantidad de hembras que han tenido al menos una parici\\u00f3n.\\n\", \"title\": \"vaca\"}, {\"type\": \"integer\", \"description\": \"Cantidad de hembras j\\u00f3venes que no han tenido parici\\u00f3n alguna.\\n\", \"title\": \"vaquillona\"}, {\"type\": \"integer\", \"description\": \"Cantidad de machos castrados.\\n\", \"title\": \"novillo\"}, {\"type\": \"integer\", \"description\": \"Cantidad de machos castrados.\\n\", \"title\": \"novillito\"}, {\"type\": \"integer\", \"description\": \"Cantidad de machos menores de un a\\u00f1o, sin considerar si est\\u00e1n o no al pi\\u00e9 de la madre.\", \"title\": \"ternero\"}, {\"type\": \"integer\", \"description\": \"Cantidad de hembras menores de un a\\u00f1o, sin considerar si est\\u00e1n o no al pi\\u00e9 de la madre.\\n\", \"title\": \"ternera\"}, {\"type\": \"integer\", \"description\": \"Cantidad de toros j\\u00f3venes mayores de un a\\u00f1o que a\\u00fan no han entrado a servicio.\\n\", \"title\": \"torito\"}, {\"type\": \"integer\", \"description\": \"Cantidad de machos destinados a reproducci\\u00f3n.\", \"title\": \"toro\"}, {\"type\": \"integer\", \"description\": \"Cantidad de machos adultos castrados para trabajo, o inf\\u00e9rtiles.\\n\", \"title\": \"bueyes\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-10-02T14:17:38.805145",
+      "datastore_active": false,
+      "description": "Datos de los movimientos bovinos por categoría y mes para el año 2015.",
+      "fileName": "movimiento-bovinos-2015.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "agroindustria_463f8b0f-b14c-4bfe-ad7c-6420d0f22a7c",
+      "last_modified": "2019-11-19T15:55:17.933347",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Movimientos bovinos 2015",
+      "package_id": "agroindustria_aa0600b2-13f7-45be-8fdf-656262d73005",
+      "position": 3,
+      "resource_type": "file.upload",
+      "revision_id": "fa57e3d0-5d36-4576-9b61-0867169f878c",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.agroindustria.gob.ar/dataset/aa0600b2-13f7-45be-8fdf-656262d73005/resource/463f8b0f-b14c-4bfe-ad7c-6420d0f22a7c/download/movimiento-bovinos-2015.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos.agroindustria.gob.ar/dataset/aa0600b2-13f7-45be-8fdf-656262d73005/resource/d633a49e-4911-4cad-935e-292a3bca4736",
+      "attributesDescription": "[{\"type\": \"date\", \"title\": \"fecha\"}, {\"type\": \"string\", \"description\": \"Lugar del que sale.  \\n\", \"title\": \"salido_de\"}, {\"type\": \"string\", \"description\": \"Lugar al que ingresa.  \\n\", \"title\": \"ingresado_a\"}, {\"type\": \"string\", \"description\": \"Nombre de la provincia de origen.  \\n\", \"title\": \"provincia_origen\"}, {\"type\": \"integer\", \"description\": \"C\\u00f3digo de la provincia de origen.  \\n\", \"title\": \"provincia_origen_id\"}, {\"type\": \"string\", \"description\": \"Nombre del departamento de origen.  \\n\", \"title\": \"departamento_origen\"}, {\"type\": \"integer\", \"description\": \"C\\u00f3digo del departamento de origen.  \\n\", \"title\": \"departamento_origen_id\"}, {\"type\": \"string\", \"description\": \"Nombre de la provincia de destino.  \\n\", \"title\": \"provincia_destino\"}, {\"type\": \"integer\", \"description\": \"C\\u00f3digo de la provincia de destino.  \\n\", \"title\": \"provincia_destino_id\"}, {\"type\": \"string\", \"description\": \"Nombre del departamento de destino.  \\n\", \"title\": \"departamento_destino\"}, {\"type\": \"integer\", \"description\": \"C\\u00f3digo del departamento de destino.  \\n\", \"title\": \"departamento_destino_id\"}, {\"type\": \"integer\", \"description\": \"Cantidad de hembras que han tenido al menos una parici\\u00f3n.\\n\", \"title\": \"vaca\"}, {\"type\": \"integer\", \"description\": \"Cantidad de hembras j\\u00f3venes que no han tenido parici\\u00f3n alguna.\\n\", \"title\": \"vaquillona\"}, {\"type\": \"integer\", \"description\": \"Cantidad de machos castrados.\\n\", \"title\": \"novillo\"}, {\"type\": \"integer\", \"description\": \"Cantidad de machos castrados.\\n\", \"title\": \"novillito\"}, {\"type\": \"integer\", \"description\": \"Cantidad de machos menores de un a\\u00f1o, sin considerar si est\\u00e1n o no al pi\\u00e9 de la madre.\", \"title\": \"ternero\"}, {\"type\": \"integer\", \"description\": \"Cantidad de hembras menores de un a\\u00f1o, sin considerar si est\\u00e1n o no al pi\\u00e9 de la madre.\\n\", \"title\": \"ternera\"}, {\"type\": \"integer\", \"description\": \"Cantidad de toros j\\u00f3venes mayores de un a\\u00f1o que a\\u00fan no han entrado a servicio.\", \"title\": \"torito\"}, {\"type\": \"integer\", \"description\": \"Cantidad de machos destinados a reproducci\\u00f3n.\", \"title\": \"toro\"}, {\"type\": \"integer\", \"description\": \"Cantidad de machos adultos castrados para trabajo, o inf\\u00e9rtiles.\\n\", \"title\": \"bueyes\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-10-02T14:14:53.254366",
+      "datastore_active": false,
+      "description": "Datos de los movimientos bovinos por categoría y mes para el año 2014.",
+      "fileName": "movimiento-bovinos-2014.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "agroindustria_d633a49e-4911-4cad-935e-292a3bca4736",
+      "last_modified": "2019-11-19T15:56:40.404638",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Movimientos bovinos 2014",
+      "package_id": "agroindustria_aa0600b2-13f7-45be-8fdf-656262d73005",
+      "position": 4,
+      "resource_type": "file.upload",
+      "revision_id": "598ea247-ad0b-4254-b81c-e2080b81ea30",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.agroindustria.gob.ar/dataset/aa0600b2-13f7-45be-8fdf-656262d73005/resource/d633a49e-4911-4cad-935e-292a3bca4736/download/movimiento-bovinos-2014.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos.agroindustria.gob.ar/dataset/aa0600b2-13f7-45be-8fdf-656262d73005/resource/101241a2-eb59-4d31-aca4-21dc4a0b5c35",
+      "attributesDescription": "[{\"type\": \"date\", \"title\": \"fecha\"}, {\"type\": \"string\", \"description\": \"Lugar del que sale. \\n\", \"title\": \"salido_de\"}, {\"type\": \"string\", \"description\": \"Lugar al que ingresa. \\n\", \"title\": \"ingresado_a\"}, {\"type\": \"string\", \"description\": \"Nombre de la provincia de origen. \\n\", \"title\": \"provincia_origen\"}, {\"type\": \"integer\", \"description\": \"C\\u00f3digo de la provincia de origen. \\n\", \"title\": \"provincia_origen_id\"}, {\"type\": \"string\", \"description\": \"Nombre del departamento de origen. \\n\", \"title\": \"departamento_origen\"}, {\"type\": \"integer\", \"description\": \"C\\u00f3digo del departamento de origen. \\n\", \"title\": \"departamento_origen_id\"}, {\"type\": \"string\", \"description\": \"Nombre de la provincia de destino. \\n\", \"title\": \"provincia_destino\"}, {\"type\": \"integer\", \"description\": \"C\\u00f3digo de la provincia de destino. \\n\", \"title\": \"provincia_destino_id\"}, {\"type\": \"string\", \"description\": \"Nombre del departamento de destino. \\n\", \"title\": \"departamento_destino\"}, {\"type\": \"integer\", \"description\": \"C\\u00f3digo del departamento de destino. \\n\", \"title\": \"departamento_destino_id\"}, {\"type\": \"integer\", \"description\": \"Cantidad de hembras que han tenido al menos una parici\\u00f3n.\\n\", \"title\": \"vaca\"}, {\"type\": \"integer\", \"description\": \"Cantidad de hembras j\\u00f3venes que no han tenido parici\\u00f3n alguna.\\n\", \"title\": \"vaquillona\"}, {\"type\": \"integer\", \"description\": \"Cantidad de machos castrados.\", \"title\": \"novillo\"}, {\"type\": \"integer\", \"description\": \"Cantidad de machos castrados.\\n\", \"title\": \"novillito\"}, {\"type\": \"integer\", \"description\": \"Cantidad de machos menores de un a\\u00f1o, sin considerar si est\\u00e1n o no al pi\\u00e9 de la madre.\", \"title\": \"ternero\"}, {\"type\": \"integer\", \"description\": \"Cantidad de hembras menores de un a\\u00f1o, sin considerar si est\\u00e1n o no al pi\\u00e9 de la madre.\\n\", \"title\": \"ternera\"}, {\"type\": \"integer\", \"description\": \"Cantidad de toros j\\u00f3venes mayores de un a\\u00f1o que a\\u00fan no han entrado a servicio.\\n\", \"title\": \"torito\"}, {\"type\": \"integer\", \"description\": \"Cantidad de machos destinados a reproducci\\u00f3n.\\n\", \"title\": \"toro\"}, {\"type\": \"integer\", \"description\": \"Cantidad de machos adultos castrados para trabajo, o inf\\u00e9rtiles.\\n\", \"title\": \"bueyes\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-10-02T14:21:27.245828",
+      "datastore_active": false,
+      "description": "Datos de los movimientos bovinos por categoría y mes para el año 2013.",
+      "fileName": "movimiento-bovinos-2013.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "agroindustria_101241a2-eb59-4d31-aca4-21dc4a0b5c35",
+      "last_modified": "2019-11-19T15:58:31.149939",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Movimientos bovinos 2013",
+      "package_id": "agroindustria_aa0600b2-13f7-45be-8fdf-656262d73005",
+      "position": 5,
+      "resource_type": "file.upload",
+      "revision_id": "fa57e3d0-5d36-4576-9b61-0867169f878c",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.agroindustria.gob.ar/dataset/aa0600b2-13f7-45be-8fdf-656262d73005/resource/101241a2-eb59-4d31-aca4-21dc4a0b5c35/download/movimiento-bovinos-2013.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "eec58a0d-51c1-497d-846c-882dbed289e7",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "bovino",
+      "id": "cc1d16c6-0568-4e84-8b13-5577a31abfc8",
+      "name": "bovino",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "bueyes",
+      "id": "a72b5204-90f0-4be9-b8a8-99d1342a4031",
+      "name": "bueyes",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "movimiento ganadero",
+      "id": "5d3fb22d-977e-4fc3-ac41-277f36a967a1",
+      "name": "movimiento ganadero",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "novillito",
+      "id": "341645da-c630-4f26-b2f4-cf58d9c3701d",
+      "name": "novillito",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "novillo",
+      "id": "b96937cc-c66b-4f15-b1c3-96f5a2ffe392",
+      "name": "novillo",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "ternera",
+      "id": "6478a20e-77dd-4199-9cc6-044d0812df52",
+      "name": "ternera",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "ternero",
+      "id": "e98f428f-dc7a-4875-b990-4e4f0f0fb439",
+      "name": "ternero",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "torito",
+      "id": "71087238-b1d3-400e-b0fc-7304ccc60c2a",
+      "name": "torito",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "toro",
+      "id": "7ded858e-186d-4dce-9da2-0fe49645d3ed",
+      "name": "toro",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "vaca",
+      "id": "88bdc13b-7543-4d51-befe-a7300078fe0f",
+      "name": "vaca",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "vaquillona",
+      "id": "d0a5f205-2554-418c-a286-953123ec0ddd",
+      "name": "vaquillona",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "SENASA - Movimientos bovinos",
+  "type": "dataset",
+  "url": "https://datos.agroindustria.gob.ar/dataset/senasa-movimientos-bovinos",
+  "version": null
+}

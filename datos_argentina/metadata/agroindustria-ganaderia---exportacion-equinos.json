@@ -1,0 +1,189 @@
+{
+  "author": "Dirección de equinos",
+  "author_email": "hipica@magyp.gob.ar",
+  "creator_user_id": "dc157489-51c6-44ce-bd63-3bd983d60778",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P6M"
+    },
+    {
+      "key": "issued",
+      "value": "2018-12-07T21:25:10.765444"
+    },
+    {
+      "key": "language",
+      "value": "[\"spa\"]"
+    },
+    {
+      "key": "modified",
+      "value": "2019-10-24T11:27:44.293390"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"AGRI\", \"ECON\"]"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Agroganadería, pesca y forestación",
+      "display_name": "Agroganadería, pesca y forestación",
+      "id": "0c35ea38-7059-41d2-9827-5587769d0dc6",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225145.990789agroganaderia-pesca-forestacion.svg",
+      "name": "agri",
+      "title": "Agroganadería, pesca y forestación"
+    },
+    {
+      "description": "Economía y finanzas",
+      "display_name": "Economía y finanzas",
+      "id": "60b4b03e-10a1-4d67-b984-08008a249617",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225257.200233economia-finanzas.svg",
+      "name": "econ",
+      "title": "Economía y finanzas"
+    }
+  ],
+  "id": "agroindustria_dd869135-da85-4739-a0dc-e1351e1ca2cd",
+  "isopen": true,
+  "license_id": "CC-BY-4.0",
+  "license_title": "Creative Commons Attribution 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "maintainer": null,
+  "maintainer_email": null,
+  "metadata_created": "2019-12-04T21:13:09.111464",
+  "metadata_modified": "2021-04-29T17:10:34.318442",
+  "name": "agroindustria-ganaderia---exportacion-equinos",
+  "notes": "Destino, peso, valor FOB y cantidad de ganado equino y subproductos exportados.",
+  "num_resources": 2,
+  "num_tags": 8,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:07.834957",
+    "description": "",
+    "id": "b10c94e2-ade1-4a97-8c4c-b1ada7878d60",
+    "image_url": "",
+    "is_organization": true,
+    "name": "agroindustria",
+    "revision_id": "f7c3b6e9-d48f-4522-9f7a-388d805c8392",
+    "state": "active",
+    "title": "Ministerio de Agricultura, Ganadería y Pesca",
+    "type": "organization"
+  },
+  "owner_org": "b10c94e2-ade1-4a97-8c4c-b1ada7878d60",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "http://datos.agroindustria.gob.ar/dataset/dd869135-da85-4739-a0dc-e1351e1ca2cd/resource/a5e5a6ab-d24f-4e8e-9e84-bf0947d50e57",
+      "attributesDescription": "[{\"type\": \"integer\", \"description\": \"a\\u0144o\", \"title\": \"a\\u0144o\"}, {\"type\": \"integer\", \"description\": \"mes\", \"title\": \"mes\"}, {\"type\": \"string\", \"description\": \"Nom\", \"title\": \"Nom\"}, {\"type\": \"string\", \"description\": \"producto\", \"title\": \"producto\"}, {\"type\": \"string\", \"description\": \"descripcion\", \"title\": \"descripcion\"}, {\"type\": \"string\", \"description\": \"descripcionGR\", \"title\": \"descripcionGR\"}, {\"type\": \"integer\", \"description\": \"pais_salida_id\", \"title\": \"pais_salida_id\"}, {\"type\": \"string\", \"description\": \"pais_salida\", \"title\": \"pais_salida\"}, {\"type\": \"integer\", \"description\": \"pais_destino_id\", \"title\": \"pais_destino_id\"}, {\"type\": \"string\", \"description\": \"pais_destino\", \"title\": \"pais_destino\"}, {\"type\": \"number\", \"description\": \"cantidad\", \"title\": \"cantidad\"}, {\"type\": \"string\", \"description\": \"uni_peso\", \"title\": \"uni_peso\"}, {\"type\": \"number\", \"description\": \"peso_neto\", \"title\": \"peso_neto\"}, {\"type\": \"string\", \"description\": \"moneda_id\", \"title\": \"moneda_id\"}, {\"type\": \"number\", \"description\": \"FOB_dolar\", \"title\": \"FOB_dolar\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2018-06-12T13:23:03.326104",
+      "datastore_active": false,
+      "description": "Exportación de animales vivos, desagregados por destino, peso, valor FOB y cantidad.",
+      "format": "CSV",
+      "hash": "",
+      "id": "agroindustria_a5e5a6ab-d24f-4e8e-9e84-bf0947d50e57",
+      "last_modified": "2019-02-21T11:44:08.098129",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Exportaciones de equinos vivos entre los años 2010-2017",
+      "package_id": "agroindustria_dd869135-da85-4739-a0dc-e1351e1ca2cd",
+      "position": 0,
+      "resource_type": "file.upload",
+      "revision_id": "8f9f03bd-3690-40c9-8634-6ea65f8a5ab2",
+      "size": null,
+      "state": "active",
+      "url": "https://datos.agroindustria.gob.ar/dataset/dd869135-da85-4739-a0dc-e1351e1ca2cd/resource/a5e5a6ab-d24f-4e8e-9e84-bf0947d50e57/download/animales-vivos-.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos.agroindustria.gob.ar/dataset/dd869135-da85-4739-a0dc-e1351e1ca2cd/resource/c71f81f9-e862-4a4c-a713-809bd9d7d528",
+      "attributesDescription": "[{\"type\": \"integer\", \"description\": \"a\\u0144o\", \"title\": \"a\\u0144o\"}, {\"type\": \"integer\", \"description\": \"mes\", \"title\": \"mes\"}, {\"type\": \"string\", \"description\": \"Nom\", \"title\": \"Nom\"}, {\"type\": \"string\", \"description\": \"producto\", \"title\": \"producto\"}, {\"type\": \"string\", \"description\": \"descripcion\", \"title\": \"descripcion\"}, {\"type\": \"string\", \"description\": \"descripcionGR\", \"title\": \"descripcionGR\"}, {\"type\": \"integer\", \"description\": \"pais_salida_id\", \"title\": \"pais_salida_id\"}, {\"type\": \"string\", \"description\": \"pais_salida\", \"title\": \"pais_salida\"}, {\"type\": \"integer\", \"description\": \"pais_destino_id\", \"title\": \"pais_destino_id\"}, {\"type\": \"string\", \"description\": \"pais_destino\", \"title\": \"pais_destino\"}, {\"type\": \"string\", \"description\": \"moneda_id\", \"title\": \"moneda_id\"}, {\"type\": \"number\", \"description\": \"FOB_dolar\", \"title\": \"FOB_dolar\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2018-06-12T13:26:13.834655",
+      "datastore_active": false,
+      "description": "Exportación de otros productos equinos derivados, desagrados por destino y precio FOB",
+      "format": "CSV",
+      "hash": "",
+      "id": "agroindustria_c71f81f9-e862-4a4c-a713-809bd9d7d528",
+      "last_modified": "2019-02-21T11:46:12.075910",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Exportaciones de productos derivados de equinos entre los años 2010-2015",
+      "package_id": "agroindustria_dd869135-da85-4739-a0dc-e1351e1ca2cd",
+      "position": 1,
+      "resource_type": "file.upload",
+      "revision_id": "8f9f03bd-3690-40c9-8634-6ea65f8a5ab2",
+      "size": null,
+      "state": "active",
+      "url": "https://datos.agroindustria.gob.ar/dataset/dd869135-da85-4739-a0dc-e1351e1ca2cd/resource/c71f81f9-e862-4a4c-a713-809bd9d7d528/download/otros-productos-derivados-2010-2015.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "8f9f03bd-3690-40c9-8634-6ea65f8a5ab2",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "caballos",
+      "id": "be597aab-fa9d-4843-b635-d20697427e54",
+      "name": "caballos",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "equinos",
+      "id": "bfca9653-75cf-4a1d-a11c-34771ac80631",
+      "name": "equinos",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "exportación caballos",
+      "id": "d2a52581-128e-42c3-bb26-46465bc89483",
+      "name": "exportación caballos",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "exportación equinos",
+      "id": "aae0dc89-68c0-449b-b0bd-fc6cf638750b",
+      "name": "exportación equinos",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "ganado caballar",
+      "id": "0586704e-1473-4d6a-bedc-182a972b2402",
+      "name": "ganado caballar",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "reproductores",
+      "id": "ec6ee337-cbf2-4026-be6d-7408a812e14c",
+      "name": "reproductores",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "sangre pura",
+      "id": "75856a9f-0111-44e1-8413-1a353eca3853",
+      "name": "sangre pura",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "semen",
+      "id": "8a0f8de5-06ec-402f-894f-79d781d8099d",
+      "name": "semen",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Ganadería - Exportación de equinos",
+  "type": "dataset",
+  "url": "https://datos.agroindustria.gob.ar/dataset/exportacion-productos-equinos",
+  "version": null
+}

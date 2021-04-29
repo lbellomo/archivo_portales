@@ -1,0 +1,215 @@
+{
+  "author": "Ministerio de Salud. Superintendencia de Servicios de Salud. Gerencia de Atención y Servicios al Usuario del Sistema de Salud.",
+  "author_email": "datos@sssalud.gob.ar",
+  "creator_user_id": "4720e75a-9e17-4dc3-879d-041917c7f9f9",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P6M"
+    },
+    {
+      "key": "issued",
+      "value": "2018-10-05T11:33:19.973313"
+    },
+    {
+      "key": "language",
+      "value": "[\"spa\"]"
+    },
+    {
+      "key": "modified",
+      "value": "2020-05-15T15:52:00.097322"
+    },
+    {
+      "key": "source",
+      "value": "Ministerio de Salud. Superintendencia de Servicios de Salud. Gerencia de Atención y Servicios al Usuario del Sistema de Salud."
+    },
+    {
+      "key": "spatial",
+      "value": "[\"ARG\"]"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"HEAL\"]"
+    },
+    {
+      "key": "temporal",
+      "value": "2018-01-01T03:00:00.000Z/2018-12-17T03:00:00.000Z"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Salud",
+      "display_name": "Salud",
+      "id": "65cc1fbf-703a-43bf-8a14-232a55c34976",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225809.913196salud.svg",
+      "name": "heal",
+      "title": "Salud"
+    }
+  ],
+  "id": "salud_89f2a927-5d69-4cfd-a169-22c4326afaf7",
+  "isopen": false,
+  "license_id": "notspecified",
+  "license_title": "No se especificó la licencia",
+  "maintainer": "Ministerio de Salud. Superintendencia de Servicios de Salud. Gerencia de Atención y Servicios al Usuario del Sistema de Salud.",
+  "maintainer_email": "datos@sssalud.gob.ar",
+  "metadata_created": "2019-11-26T15:01:33.360950",
+  "metadata_modified": "2021-04-29T17:05:41.375394",
+  "name": "salud-cantidad-reclamos-realizados-superintendencia-servicios-salud",
+  "notes": "Gestión de Reclamos totales por provincia de la Superintendencia de Servicios de Salud \r\n",
+  "num_resources": 4,
+  "num_tags": 4,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-11-15T11:12:22.202856",
+    "description": "",
+    "id": "dd1f2018-587f-43af-9b07-fc32f5ab588b",
+    "image_url": "",
+    "is_organization": true,
+    "name": "salud",
+    "revision_id": "14f0bb85-f97d-4325-b1c8-a7c1d3a815bf",
+    "state": "active",
+    "title": "Ministerio de Salud",
+    "type": "organization"
+  },
+  "owner_org": "dd1f2018-587f-43af-9b07-fc32f5ab588b",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "http://datos.salud.gob.ar/dataset/89f2a927-5d69-4cfd-a169-22c4326afaf7/resource/83999647-c054-4d8f-8709-3a4b68248a83",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2018-10-05T11:33:54.597426",
+      "datastore_active": false,
+      "description": "Gestión de Reclamos totales por provincia de la Superintendencia de Servicios de Salud desde enero a septiembre de 2018\r\n",
+      "fileName": "cantidad-de-reclamos-realizados-en-la-superintendencia-de-servicios-de-salud-20181217.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "salud_83999647-c054-4d8f-8709-3a4b68248a83",
+      "last_modified": "2018-12-17T11:25:15.672260",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Cantidad de Reclamos Realizados en  la Superintendencia de Servicios de Salud a septiembre de 2018",
+      "package_id": "salud_89f2a927-5d69-4cfd-a169-22c4326afaf7",
+      "position": 0,
+      "resource_type": "file",
+      "revision_id": "2854f05d-2b02-48da-836d-86759ebb771f",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.salud.gob.ar/dataset/89f2a927-5d69-4cfd-a169-22c4326afaf7/resource/83999647-c054-4d8f-8709-3a4b68248a83/download/cantidad-de-reclamos-realizados-en-la-superintendencia-de-servicios-de-salud-20181217.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos.salud.gob.ar/dataset/89f2a927-5d69-4cfd-a169-22c4326afaf7/resource/51547c2a-f4e1-4464-abf8-289b3b98ce41",
+      "attributesDescription": "[{\"type\": \"integer\", \"description\": \"C\\u00f3digo de Jurisdicci\\u00f3n\", \"title\": \"jurisdiccion_id\"}, {\"type\": \"string\", \"description\": \"Nombre de Jurisdicci\\u00f3n\", \"title\": \"jurisdiccion_nombre\"}, {\"type\": \"integer\", \"description\": \"Cantidad de reclamos\", \"title\": \"cantidad\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-09-03T10:35:16.933921",
+      "datastore_active": false,
+      "description": "Gestión de Reclamos totales por provincia de la Superintendencia de Servicios de Salud desde enero a septiembre de 2019",
+      "fileName": "total-reclamos-por-provincia-sss-20190826.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "salud_51547c2a-f4e1-4464-abf8-289b3b98ce41",
+      "last_modified": "2019-09-03T10:35:16.933921",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Cantidad de Reclamos Realizados en la Superintendencia de Servicios de Salud a septiembre de 2019",
+      "package_id": "salud_89f2a927-5d69-4cfd-a169-22c4326afaf7",
+      "position": 1,
+      "resource_type": "file.upload",
+      "revision_id": "14f9cbf5-a9df-491d-a933-55c233866444",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.salud.gob.ar/dataset/89f2a927-5d69-4cfd-a169-22c4326afaf7/resource/51547c2a-f4e1-4464-abf8-289b3b98ce41/download/total-reclamos-por-provincia-sss-20190826.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos.salud.gob.ar/dataset/89f2a927-5d69-4cfd-a169-22c4326afaf7/resource/b181cf0b-987a-4605-ae9d-fe09b61f50d1",
+      "attributesDescription": "[{\"type\": \"integer\", \"description\": \"C\\u00f3digo de Jurisdicci\\u00f3n\", \"title\": \"jurisdiccion_id\"}, {\"type\": \"string\", \"description\": \"Nombre de Jurisdicci\\u00f3n\", \"title\": \"jurisdiccion_nombre\"}, {\"type\": \"integer\", \"description\": \"Cantidad de reclamos\", \"title\": \"cantidad\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-09-03T10:36:34.770634",
+      "datastore_active": false,
+      "description": "Gestión de Reclamos totales por provincia de la Superintendencia de Servicios de Salud desde enero a septiembre de 2019",
+      "fileName": "total-reclamos-por-provincia-sss-20190826.xls",
+      "format": "XLS",
+      "hash": "",
+      "id": "salud_b181cf0b-987a-4605-ae9d-fe09b61f50d1",
+      "last_modified": "2019-09-03T10:36:34.770634",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Cantidad de Reclamos Realizados en la Superintendencia de Servicios de Salud a septiembre de 2019",
+      "package_id": "salud_89f2a927-5d69-4cfd-a169-22c4326afaf7",
+      "position": 2,
+      "resource_type": "file.upload",
+      "revision_id": "eb6326d6-0deb-4085-a9d0-52feb54c46e3",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.salud.gob.ar/dataset/89f2a927-5d69-4cfd-a169-22c4326afaf7/resource/b181cf0b-987a-4605-ae9d-fe09b61f50d1/download/total-reclamos-por-provincia-sss-20190826.xls",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos.salud.gob.ar/dataset/89f2a927-5d69-4cfd-a169-22c4326afaf7/resource/d8463203-dbc8-40f3-b9f3-61a647b8496a",
+      "attributesDescription": "[{\"type\": \"integer\", \"description\": \"C\\u00f3digo de Jurisdicci\\u00f3n\", \"title\": \"jurisdiccion_id\"}, {\"type\": \"string\", \"description\": \"Nombre de Jurisdicci\\u00f3n\", \"title\": \"jurisdiccion_nombre\"}, {\"type\": \"integer\", \"description\": \"Cantidad de reclamos\", \"title\": \"cantidad\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-09-03T10:37:52.665436",
+      "datastore_active": false,
+      "description": "Gestión de Reclamos totales por provincia de la Superintendencia de Servicios de Salud desde enero a septiembre de 2019",
+      "fileName": "total-reclamos-por-provincia-sss-20190826.json",
+      "format": "JSON",
+      "hash": "",
+      "id": "salud_d8463203-dbc8-40f3-b9f3-61a647b8496a",
+      "last_modified": "2019-09-03T10:37:52.665436",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Cantidad de Reclamos Realizados en la Superintendencia de Servicios de Salud a septiembre de 2019",
+      "package_id": "salud_89f2a927-5d69-4cfd-a169-22c4326afaf7",
+      "position": 3,
+      "resource_type": "file.upload",
+      "revision_id": "da0267d2-7173-4cdf-b774-19c58bdb95b7",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.salud.gob.ar/dataset/89f2a927-5d69-4cfd-a169-22c4326afaf7/resource/d8463203-dbc8-40f3-b9f3-61a647b8496a/download/total-reclamos-por-provincia-sss-20190826.json",
+      "url_type": null
+    }
+  ],
+  "revision_id": "917651e8-33f0-4421-911e-0bfca14f44a3",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "Estadísticas de Servicios",
+      "id": "fef77caa-2552-421f-b49d-81c89075b3f0",
+      "name": "Estadísticas de Servicios",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "SSS",
+      "id": "2cc03fb7-dd56-4ee4-a757-8585898f7446",
+      "name": "SSS",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "atencion",
+      "id": "71bf5f1b-5599-457c-aeac-51e409774878",
+      "name": "atencion",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "reclamos",
+      "id": "f72200a6-cc85-4be0-b9fa-67dbced8233a",
+      "name": "reclamos",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Cantidad de Reclamos Realizados en  la Superintendencia de Servicios de Salud",
+  "type": "dataset",
+  "url": "https://www.sssalud.gob.ar/",
+  "version": null
+}

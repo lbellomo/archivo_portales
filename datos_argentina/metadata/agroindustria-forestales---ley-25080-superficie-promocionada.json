@@ -1,0 +1,148 @@
+{
+  "author": "Dirección Nacional de Desarrollo Foresto Industrial",
+  "author_email": "ssdfi@magyp.gob.ar",
+  "creator_user_id": "dc157489-51c6-44ce-bd63-3bd983d60778",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P1M"
+    },
+    {
+      "key": "issued",
+      "value": "2018-12-07T21:24:42.861623"
+    },
+    {
+      "key": "language",
+      "value": "[\"spa\"]"
+    },
+    {
+      "key": "modified",
+      "value": "2019-10-24T11:26:48.674184"
+    },
+    {
+      "key": "spatial",
+      "value": "[\"ARG\"]"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"AGRI\"]"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Agroganadería, pesca y forestación",
+      "display_name": "Agroganadería, pesca y forestación",
+      "id": "0c35ea38-7059-41d2-9827-5587769d0dc6",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225145.990789agroganaderia-pesca-forestacion.svg",
+      "name": "agri",
+      "title": "Agroganadería, pesca y forestación"
+    }
+  ],
+  "id": "agroindustria_795c4b13-4e7a-454b-aec7-8e12f2571f05",
+  "isopen": true,
+  "license_id": "CC-BY-4.0",
+  "license_title": "Creative Commons Attribution 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "maintainer": "Dirección Nacional de Desarrollo Foresto Industrial",
+  "maintainer_email": "ssdfi@magyp.gob.ar",
+  "metadata_created": "2019-12-04T20:00:50.301542",
+  "metadata_modified": "2021-04-29T13:05:33.206858",
+  "name": "agroindustria-forestales---ley-25080-superficie-promocionada",
+  "notes": "Superficie forestal presentada, certificada, inspeccionada y registrada por provincia, desde el año 2005 hasta la actualidad.",
+  "num_resources": 1,
+  "num_tags": 6,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:07.834957",
+    "description": "",
+    "id": "b10c94e2-ade1-4a97-8c4c-b1ada7878d60",
+    "image_url": "",
+    "is_organization": true,
+    "name": "agroindustria",
+    "revision_id": "f7c3b6e9-d48f-4522-9f7a-388d805c8392",
+    "state": "active",
+    "title": "Ministerio de Agricultura, Ganadería y Pesca",
+    "type": "organization"
+  },
+  "owner_org": "b10c94e2-ade1-4a97-8c4c-b1ada7878d60",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "http://datos.agroindustria.gob.ar/dataset/795c4b13-4e7a-454b-aec7-8e12f2571f05/resource/f829af43-51a9-461b-b660-64728cd3b997",
+      "attributesDescription": "[{\"type\": \"integer\", \"description\": \"pais_id\", \"title\": \"pais_id\"}, {\"type\": \"string\", \"description\": \"pais\", \"title\": \"pais\"}, {\"type\": \"integer\", \"description\": \"provincia_id\", \"title\": \"provincia_id\"}, {\"type\": \"string\", \"description\": \"provincia\", \"title\": \"provincia\"}, {\"type\": \"integer\", \"description\": \"a\\u0144o_plan\", \"title\": \"a\\u0144o_plan\"}, {\"type\": \"number\", \"description\": \"Sup.Certificada\", \"title\": \"Sup.Certificada\"}, {\"type\": \"number\", \"description\": \"Sup.Inspeccionada\", \"title\": \"Sup.Inspeccionada\"}, {\"type\": \"number\", \"description\": \"Sup.Presentada\", \"title\": \"Sup.Presentada\"}, {\"type\": \"number\", \"description\": \"Sup.Registrada\", \"title\": \"Sup.Registrada\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-09-12T15:41:39.587228",
+      "datastore_active": false,
+      "description": "Superficie forestal presentada, certificada, inspeccionada y registrada por provincia desde el año 2005 hasta la actualidad.",
+      "fileName": "ley-25080-sup-promocionada-.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "agroindustria_f829af43-51a9-461b-b660-64728cd3b997",
+      "last_modified": "2019-02-01T15:28:46.872918",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Ley 25.080, superficie forestal promocionada",
+      "package_id": "agroindustria_795c4b13-4e7a-454b-aec7-8e12f2571f05",
+      "position": 0,
+      "resource_type": "file.upload",
+      "revision_id": "130a8318-70d8-4738-92bb-063935d57170",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.agroindustria.gob.ar/dataset/795c4b13-4e7a-454b-aec7-8e12f2571f05/resource/f829af43-51a9-461b-b660-64728cd3b997/download/ley-25080-sup-promocionada-.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "c7dd6d92-cbb8-4044-ba26-4bb49f15058c",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "Ley 25080",
+      "id": "7d1dc788-8d74-4e88-975e-cc9bfebd9b11",
+      "name": "Ley 25080",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Ley 26432",
+      "id": "0c8cf819-1d87-4b8c-b714-f84216c09666",
+      "name": "Ley 26432",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "bosques",
+      "id": "4443410b-8701-4097-bc3d-991a6f1c2d3f",
+      "name": "bosques",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "especies forestales",
+      "id": "3e0a4b4c-57d7-4731-9923-980329418321",
+      "name": "especies forestales",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "forestada",
+      "id": "c7c06cdf-2810-4b3b-b8c0-07e30030dfc0",
+      "name": "forestada",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "superficie",
+      "id": "4ad5d183-55e4-4f37-b74b-2e71a48c2059",
+      "name": "superficie",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Forestales - Ley 25.080, superficie promocionada",
+  "type": "dataset",
+  "url": "https://datos.agroindustria.gob.ar/dataset/ley-25080-superficie-forestal-promocionada",
+  "version": null
+}

@@ -1,0 +1,158 @@
+{
+  "author": "Dirección de Información y Estadística Pública - Secretaría de Mercados Agroindustriales",
+  "author_email": "datospublicos@magyp.gob.ar",
+  "creator_user_id": "dc157489-51c6-44ce-bd63-3bd983d60778",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "eventual"
+    },
+    {
+      "key": "issued",
+      "value": "2018-12-07T21:20:11.069771"
+    },
+    {
+      "key": "language",
+      "value": "[\"spa\"]"
+    },
+    {
+      "key": "modified",
+      "value": "2019-10-24T11:10:53.214352"
+    },
+    {
+      "key": "spatial",
+      "value": "[\"ARG\"]"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"AGRI\"]"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Agroganadería, pesca y forestación",
+      "display_name": "Agroganadería, pesca y forestación",
+      "id": "0c35ea38-7059-41d2-9827-5587769d0dc6",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225145.990789agroganaderia-pesca-forestacion.svg",
+      "name": "agri",
+      "title": "Agroganadería, pesca y forestación"
+    }
+  ],
+  "id": "agroindustria_69bc0e07-74bf-4a18-ba02-5af6439a55b2",
+  "isopen": true,
+  "license_id": "CC-BY-4.0",
+  "license_title": "Creative Commons Attribution 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "maintainer": null,
+  "maintainer_email": null,
+  "metadata_created": "2019-12-04T20:01:31.360173",
+  "metadata_modified": "2021-04-29T17:07:01.022931",
+  "name": "agroindustria-censo---tenencia-tierra-cna-02",
+  "notes": "Situación de los regímenes de tenencia de la tierra a nivel departamental de acuerdo al Censo Nacional Agropecuario 2002 (CNA 02).",
+  "num_resources": 2,
+  "num_tags": 4,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:07.834957",
+    "description": "",
+    "id": "b10c94e2-ade1-4a97-8c4c-b1ada7878d60",
+    "image_url": "",
+    "is_organization": true,
+    "name": "agroindustria",
+    "revision_id": "f7c3b6e9-d48f-4522-9f7a-388d805c8392",
+    "state": "active",
+    "title": "Ministerio de Agricultura, Ganadería y Pesca",
+    "type": "organization"
+  },
+  "owner_org": "b10c94e2-ade1-4a97-8c4c-b1ada7878d60",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "http://datos.agroindustria.gob.ar/dataset/69bc0e07-74bf-4a18-ba02-5af6439a55b2/resource/89625cb6-6d91-42d0-875e-5fc27602edf3",
+      "attributesDescription": "[{\"type\": \"integer\", \"description\": \"C\\u00f3digo Nacional\", \"title\": \"pais_id\"}, {\"type\": \"string\", \"description\": \"Divisi\\u00f3n pol\\u00edtica mundial\", \"title\": \"pais\"}, {\"type\": \"integer\", \"description\": \"C\\u00f3digo Provincial\", \"title\": \"provincia_id\"}, {\"type\": \"string\", \"description\": \"Divisi\\u00f3n pol\\u00edtica provincial\", \"title\": \"provincia\"}, {\"type\": \"integer\", \"description\": \"C\\u00f3digo departamental\", \"title\": \"departamento_id\"}, {\"type\": \"string\", \"description\": \"Divisi\\u00f3n pol\\u00edtica departamental\", \"title\": \"departamento\"}, {\"type\": \"integer\", \"description\": \"C\\u00f3digo que permite identificar de forma \\u00fanica los departamentos. Por medio de este c\\u00f3digo se puede asociar los objetos geogr\\u00e1ficos con la informaci\\u00f3n.\", \"title\": \"link\"}, {\"type\": \"number\", \"description\": \"Superficie total de explotaciones agropecuarias del departamento expresada en hect\\u00e1reas.\", \"title\": \"sup_total\"}, {\"type\": \"number\", \"description\": \"Superficie de tierras privadas de explotaciones agropecuarias, expresada en hect\\u00e1reas\", \"title\": \"sup_priv\"}, {\"type\": \"number\", \"description\": \"Porcentaje de tierras privadas de explotaciones agropecuarias sobre el total de tierras del departamento\", \"title\": \"por_suppriv\"}, {\"type\": \"number\", \"description\": \"Superficie de tierras fiscales de explotaciones agropecuarias, expresada en hect\\u00e1reas\", \"title\": \"sup_fisc\"}, {\"type\": \"number\", \"description\": \"Porcentaje de tierras privadas de explotaciones agropecuarias sobre el total de tierras del departamento\", \"title\": \"por_supfisc\"}, {\"type\": \"number\", \"description\": \"Superficie de tierras bajo r\\u00e9gimen de propiedad, expresada en hect\\u00e1reas\", \"title\": \"rt2001\"}, {\"type\": \"number\", \"description\": \"Porcentaje de tierras bajo r\\u00e9gimen de propiedad, calculado sobre el total de tierras de explotaciones agropecuarias del departamento\", \"title\": \"por_rt2001\"}, {\"type\": \"number\", \"description\": \"Superficie de tierras bajo r\\u00e9gimen de sucesion indivisa, expresada en hect\\u00e1reas\", \"title\": \"rt2002\"}, {\"type\": \"number\", \"description\": \"Porcentaje de tierras bajo r\\u00e9gimen de sucesion indivisa, calculado sobre el total de tierras de explotaciones agropecuarias del departamento\", \"title\": \"por_rt2002\"}, {\"type\": \"number\", \"description\": \"Superficie de tierras bajo r\\u00e9gimen de arrendamiento, expresada en hect\\u00e1reas\", \"title\": \"rt2003\"}, {\"type\": \"number\", \"description\": \"Porcentaje de tierras bajo r\\u00e9gimen de arrendamiento, calculado sobre el total de tierras de explotaciones agropecuarias del departamento\", \"title\": \"por_rt2003\"}, {\"type\": \"number\", \"description\": \"Superficie de tierras bajo r\\u00e9gimen de aparcer\\u00eda, expresada en hect\\u00e1reas\", \"title\": \"rt2004\"}, {\"type\": \"number\", \"description\": \"Porcentaje de tierras bajo r\\u00e9gimen de aparcer\\u00eda, calculado sobre el total de tierras de explotaciones agropecuarias del departamento\", \"title\": \"por_rt2004\"}, {\"type\": \"number\", \"description\": \"Superficie de tierras bajo r\\u00e9gimen de contrato accidental, expresada en hect\\u00e1reas\", \"title\": \"rt2005\"}, {\"type\": \"number\", \"description\": \"Porcentaje de tierras bajo r\\u00e9gimen de contrato accidental, calculado sobre el total de tierras de explotaciones agropecuarias del departamento\", \"title\": \"por_rt2005\"}, {\"type\": \"number\", \"description\": \"Superficie de tierras bajo r\\u00e9gimen de ocupaci\\u00f3n con permiso, expresada en hect\\u00e1reas\", \"title\": \"rt2006\"}, {\"type\": \"number\", \"description\": \"Porcentaje de tierras bajo r\\u00e9gimen de ocupaci\\u00f3n con permiso, calculado sobre el total de tierras de explotaciones agropecuarias del departamento\", \"title\": \"por_rt2006\"}, {\"type\": \"number\", \"description\": \"Superficie de tierras bajo r\\u00e9gimen de ocupaci\\u00f3n de hecho, expresada en hect\\u00e1reas\", \"title\": \"rt2007\"}, {\"type\": \"number\", \"description\": \"Porcentaje de tierras bajo r\\u00e9gimen de ocupaci\\u00f3n de hecho, calculado sobre el total de tierras de explotaciones agropecuarias del departamento\", \"title\": \"por_rt2007\"}, {\"type\": \"number\", \"description\": \"Superficie de tierras bajo otros reg\\u00edmenes, expresada en hect\\u00e1reas\", \"title\": \"rt2009\"}, {\"type\": \"number\", \"description\": \"Porcentaje de tierras bajo otros reg\\u00edmenes, calculado sobre el total de tierras de explotaciones agropecuarias del departamento\", \"title\": \"por_rt2009\"}, {\"type\": \"number\", \"description\": \"Sin Discriminar\", \"title\": \"sin_disc\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-08-31T14:55:33.675719",
+      "datastore_active": false,
+      "description": "Situación de los regímenes de tenencia a nivel departamental de acuerdo a lo recolectado en el Censo Nacional Agropecuario 2002. El valor \"-1\" se refiere a que no hay valor.",
+      "fileName": "cna2002rtt.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "agroindustria_89625cb6-6d91-42d0-875e-5fc27602edf3",
+      "last_modified": "2019-01-14T12:39:32.086482",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Regímenes de tenencia de tierra - CNA 2002",
+      "package_id": "agroindustria_69bc0e07-74bf-4a18-ba02-5af6439a55b2",
+      "position": 0,
+      "resource_type": "file.upload",
+      "revision_id": "030ae910-eb42-4364-b3c2-cd74ebbe45a2",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.agroindustria.gob.ar/dataset/69bc0e07-74bf-4a18-ba02-5af6439a55b2/resource/89625cb6-6d91-42d0-875e-5fc27602edf3/download/cna2002rtt.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos.agroindustria.gob.ar/dataset/69bc0e07-74bf-4a18-ba02-5af6439a55b2/resource/eba024a1-c842-4926-bd36-32128277be1d",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-02-26T13:19:18.371138",
+      "datastore_active": false,
+      "description": "Detalle de las columnas que componen el recurso.",
+      "fileName": "referencias-sobre-tenencia-de-tierra-segun-cna-2002.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "agroindustria_eba024a1-c842-4926-bd36-32128277be1d",
+      "last_modified": "2019-02-26T13:19:18.371138",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Referencias sobre la tenencia de tierra según CNA 2002",
+      "package_id": "agroindustria_69bc0e07-74bf-4a18-ba02-5af6439a55b2",
+      "position": 1,
+      "resource_type": "file.upload",
+      "revision_id": "030ae910-eb42-4364-b3c2-cd74ebbe45a2",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.agroindustria.gob.ar/dataset/69bc0e07-74bf-4a18-ba02-5af6439a55b2/resource/eba024a1-c842-4926-bd36-32128277be1d/download/referencias-sobre-tenencia-de-tierra-segun-cna-2002.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "e29c8933-40ab-4fb9-8cd3-592b24b0a4e0",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "cna",
+      "id": "0cdcc96e-34b4-45b0-9380-2d602e5ff709",
+      "name": "cna",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "cna 02",
+      "id": "a6e31f8c-5ed2-44b8-8ef2-2dbd7fded11b",
+      "name": "cna 02",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "cna 2002",
+      "id": "6c9b522b-0fd4-40e2-912d-585983633f48",
+      "name": "cna 2002",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "tenencia tierra",
+      "id": "d65d9ac0-0c09-476a-b99c-b8db9f625834",
+      "name": "tenencia tierra",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Censo - Tenencia de tierra CNA 02",
+  "type": "dataset",
+  "url": "https://datos.agroindustria.gob.ar/dataset/regimenes-tenencia-tierra-segun-censo-nacional-agropecuario-2002",
+  "version": null
+}

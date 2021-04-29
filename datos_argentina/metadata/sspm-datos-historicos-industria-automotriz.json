@@ -1,0 +1,174 @@
+{
+  "author": "Subsecretaría de Programación Macroeconómica",
+  "author_email": "datoseconomicos@mecon.gov.ar",
+  "creator_user_id": "4720e75a-9e17-4dc3-879d-041917c7f9f9",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P1M"
+    },
+    {
+      "key": "issued",
+      "value": "2017-11-28"
+    },
+    {
+      "key": "language",
+      "value": "[\"SPA\"]"
+    },
+    {
+      "key": "source",
+      "value": "ADEFA"
+    },
+    {
+      "key": "spatial",
+      "value": "ARG"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"ECON\"]"
+    },
+    {
+      "key": "temporal",
+      "value": "1951-01-01/2017-08-01"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Economía y finanzas",
+      "display_name": "Economía y finanzas",
+      "id": "60b4b03e-10a1-4d67-b984-08008a249617",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225257.200233economia-finanzas.svg",
+      "name": "econ",
+      "title": "Economía y finanzas"
+    }
+  ],
+  "id": "sspm_330",
+  "isopen": true,
+  "license_id": "CC-BY-4.0",
+  "license_title": "Creative Commons Attribution 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "maintainer": "indice-precios-al-consumidor-bienes-servicios-base-diciembre-2016-mensual.csv",
+  "maintainer_email": "datoseconomicos@mecon.gov.ar",
+  "metadata_created": "2019-11-26T15:05:00.151770",
+  "metadata_modified": "2021-04-29T17:04:24.012770",
+  "name": "sspm-datos-historicos-industria-automotriz",
+  "notes": "Datos históricos de la industria automotriz  en unidades",
+  "num_resources": 3,
+  "num_tags": 2,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:09.718132",
+    "description": "",
+    "id": "68f9ee22-5ec3-44cf-a32b-b87d9db46b93",
+    "image_url": "",
+    "is_organization": true,
+    "name": "sspm",
+    "revision_id": "bc058ce0-3540-4204-96cd-9f9ec79045b3",
+    "state": "active",
+    "title": "Subsecretaría de Programación Macroeconómica",
+    "type": "organization"
+  },
+  "owner_org": "68f9ee22-5ec3-44cf-a32b-b87d9db46b93",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/",
+      "attributesDescription": "[{\"title\": \"indice_tiempo\", \"type\": \"date\", \"specialType\": \"time_index\", \"specialTypeDetail\": \"R/P1Y\", \"id\": \"330.1_INDICE_TIEMPO__13\", \"scrapingIdentifierCell\": \"A9\", \"scrapingDataStartCell\": \"A10\", \"dataset_identifier\": \"330\", \"distribution_identifier\": \"330.1\"}, {\"title\": \"produccion_automoviles\", \"type\": \"number\", \"description\": \"Hist\\u00f3ricos de la produccion automoviles\", \"id\": \"330.1_PRODUCCIONLES__22\", \"scrapingIdentifierCell\": \"B9\", \"scrapingDataStartCell\": \"B10\", \"units\": \"Unidades\", \"dataset_identifier\": \"330\", \"distribution_identifier\": \"330.1\"}, {\"title\": \"produccion_resto\", \"type\": \"number\", \"description\": \"Hist\\u00f3ricos de la produccion resto\", \"id\": \"330.1_PRODUCCIONSTO__16\", \"scrapingIdentifierCell\": \"C9\", \"scrapingDataStartCell\": \"C10\", \"units\": \"Unidades\", \"dataset_identifier\": \"330\", \"distribution_identifier\": \"330.1\"}, {\"title\": \"produccion_utilitarios\", \"type\": \"number\", \"description\": \"Hist\\u00f3ricos de la produccion utilitarios\", \"id\": \"330.1_PRODUCCIONIOS__22\", \"scrapingIdentifierCell\": \"D9\", \"scrapingDataStartCell\": \"D10\", \"units\": \"Unidades\", \"dataset_identifier\": \"330\", \"distribution_identifier\": \"330.1\"}, {\"title\": \"produccion_categoria_b\", \"type\": \"number\", \"description\": \"Hist\\u00f3ricos de la produccion categoria b\", \"id\": \"330.1_PRODUCCIONA_B__22\", \"scrapingIdentifierCell\": \"E9\", \"scrapingDataStartCell\": \"E10\", \"units\": \"Unidades\", \"dataset_identifier\": \"330\", \"distribution_identifier\": \"330.1\"}, {\"title\": \"exportaciones_automoviles\", \"type\": \"number\", \"description\": \"Hist\\u00f3ricos de la exportaciones automoviles\", \"id\": \"330.1_EXPORTACIOLES__25\", \"scrapingIdentifierCell\": \"G9\", \"scrapingDataStartCell\": \"G10\", \"units\": \"Unidades\", \"dataset_identifier\": \"330\", \"distribution_identifier\": \"330.1\"}, {\"title\": \"exportaciones_resto\", \"type\": \"number\", \"description\": \"Hist\\u00f3ricos de la exportaciones resto\", \"id\": \"330.1_EXPORTACIOSTO__19\", \"scrapingIdentifierCell\": \"H9\", \"scrapingDataStartCell\": \"H10\", \"units\": \"Unidades\", \"dataset_identifier\": \"330\", \"distribution_identifier\": \"330.1\"}, {\"title\": \"exportaciones_utilitarios\", \"type\": \"number\", \"description\": \"Hist\\u00f3ricos de la exportaciones utilitarios\", \"id\": \"330.1_EXPORTACIOIOS__25\", \"scrapingIdentifierCell\": \"I9\", \"scrapingDataStartCell\": \"I10\", \"units\": \"Unidades\", \"dataset_identifier\": \"330\", \"distribution_identifier\": \"330.1\"}, {\"title\": \"exportaciones_categoria_b\", \"type\": \"number\", \"description\": \"Hist\\u00f3ricos de la exportaciones categoria b\", \"id\": \"330.1_EXPORTACIOA_B__25\", \"scrapingIdentifierCell\": \"J9\", \"scrapingDataStartCell\": \"J10\", \"units\": \"Unidades\", \"dataset_identifier\": \"330\", \"distribution_identifier\": \"330.1\"}, {\"title\": \"ventas_mercado_interno_automoviles\", \"type\": \"number\", \"description\": \"Hist\\u00f3ricos de la ventas mercado interno automoviles\", \"id\": \"330.1_VENTAS_MERLES__34\", \"scrapingIdentifierCell\": \"L9\", \"scrapingDataStartCell\": \"L10\", \"units\": \"Unidades\", \"dataset_identifier\": \"330\", \"distribution_identifier\": \"330.1\"}, {\"title\": \"ventas_mercado_interno_resto\", \"type\": \"number\", \"description\": \"Hist\\u00f3ricos de la ventas mercado interno resto\", \"id\": \"330.1_VENTAS_MERSTO__28\", \"scrapingIdentifierCell\": \"M9\", \"scrapingDataStartCell\": \"M10\", \"units\": \"Unidades\", \"dataset_identifier\": \"330\", \"distribution_identifier\": \"330.1\"}, {\"title\": \"ventas_mercado_interno_utilitarios\", \"type\": \"number\", \"description\": \"Hist\\u00f3ricos de la ventas mercado interno utilitarios\", \"id\": \"330.1_VENTAS_MERIOS__34\", \"scrapingIdentifierCell\": \"N9\", \"scrapingDataStartCell\": \"N10\", \"units\": \"Unidades\", \"dataset_identifier\": \"330\", \"distribution_identifier\": \"330.1\"}, {\"title\": \"ventas_mercado_interno_categoria_b\", \"type\": \"number\", \"description\": \"Hist\\u00f3ricos de la ventas mercado interno categoria b\", \"id\": \"330.1_VENTAS_MERA_B__34\", \"scrapingIdentifierCell\": \"O9\", \"scrapingDataStartCell\": \"O10\", \"units\": \"Unidades\", \"dataset_identifier\": \"330\", \"distribution_identifier\": \"330.1\"}, {\"title\": \"ventas_mercado_interno_vehiculos_nacionales_automoviles\", \"type\": \"number\", \"description\": \"Hist\\u00f3ricos de la ventas mercado interno de vehiculos nacionales automoviles\", \"id\": \"330.1_VENTAS_MERLES__55\", \"scrapingIdentifierCell\": \"Q9\", \"scrapingDataStartCell\": \"Q10\", \"units\": \"Unidades\", \"dataset_identifier\": \"330\", \"distribution_identifier\": \"330.1\"}, {\"title\": \"ventas_mercado_interno_vehiculos_nacionales_utilitarios\", \"type\": \"number\", \"description\": \"Hist\\u00f3ricos de la ventas mercado interno de vehiculos nacionales utilitarios\", \"id\": \"330.1_VENTAS_MERIOS__55\", \"scrapingIdentifierCell\": \"R9\", \"scrapingDataStartCell\": \"R10\", \"units\": \"Unidades\", \"dataset_identifier\": \"330\", \"distribution_identifier\": \"330.1\"}, {\"title\": \"ventas_mercado_interno_vehiculos_nacionales_categoria_b\", \"type\": \"number\", \"description\": \"Hist\\u00f3ricos de la ventas mercado interno de vehiculos nacionales categoria b\", \"id\": \"330.1_VENTAS_MERA_B__55\", \"scrapingIdentifierCell\": \"S9\", \"scrapingDataStartCell\": \"S10\", \"units\": \"Unidades\", \"dataset_identifier\": \"330\", \"distribution_identifier\": \"330.1\"}, {\"title\": \"ventas_mercado_interno_vehiculos_nacionales_total\", \"type\": \"number\", \"description\": \"Hist\\u00f3ricos de la ventas mercado interno de vehiculos nacionales total\", \"id\": \"330.1_VENTAS_MERTAL__49\", \"scrapingIdentifierCell\": \"T9\", \"scrapingDataStartCell\": \"T10\", \"units\": \"Unidades\", \"dataset_identifier\": \"330\", \"distribution_identifier\": \"330.1\"}, {\"title\": \"ventas_mercado_interno_vehiculos_importados_automoviles\", \"type\": \"number\", \"description\": \"Hist\\u00f3ricos de la ventas mercado interno de vehiculos importados automoviles\", \"id\": \"330.1_VENTAS_MERLES_II__55\", \"scrapingIdentifierCell\": \"V9\", \"scrapingDataStartCell\": \"V10\", \"units\": \"Unidades\", \"dataset_identifier\": \"330\", \"distribution_identifier\": \"330.1\"}, {\"title\": \"ventas_mercado_interno_vehiculos_importados_utilitarios\", \"type\": \"number\", \"description\": \"Hist\\u00f3ricos de la ventas mercado interno de vehiculos importados utilitarios\", \"id\": \"330.1_VENTAS_MERIOS_V__55\", \"scrapingIdentifierCell\": \"W9\", \"scrapingDataStartCell\": \"W10\", \"units\": \"Unidades\", \"dataset_identifier\": \"330\", \"distribution_identifier\": \"330.1\"}, {\"title\": \"ventas_mercado_interno_vehiculos_importados_categoria_b\", \"type\": \"number\", \"description\": \"Hist\\u00f3ricos de la ventas mercado interno de vehiculos importados categoria b\", \"id\": \"330.1_VENTAS_MERA_B_II__55\", \"scrapingIdentifierCell\": \"X9\", \"scrapingDataStartCell\": \"X10\", \"units\": \"Unidades\", \"dataset_identifier\": \"330\", \"distribution_identifier\": \"330.1\"}, {\"title\": \"ventas_mercado_interno_vehiculos_importados_total\", \"type\": \"number\", \"description\": \"Hist\\u00f3ricos de la ventas mercado interno de vehiculos importados total\", \"id\": \"330.1_VENTAS_MERTAL_III__49\", \"scrapingIdentifierCell\": \"Y9\", \"scrapingDataStartCell\": \"Y10\", \"units\": \"Unidades\", \"dataset_identifier\": \"330\", \"distribution_identifier\": \"330.1\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-11-28T00:00:00",
+      "datastore_active": false,
+      "description": "Datos históricos de la industria automotriz en unidades. Datos anuales",
+      "fileName": "datos-historicos-industria-automotriz-unidades-anuales.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "sspm_330.1",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Datos históricos de la industria automotriz. Datos anuales",
+      "package_id": "sspm_330",
+      "position": 0,
+      "resource_type": null,
+      "revision_id": "b57f3483-e7c8-4b7a-aa9f-49c54687aec2",
+      "size": null,
+      "state": "active",
+      "url": "https://infra.datos.gob.ar/catalog/sspm/dataset/330/distribution/330.1/download/datos-historicos-industria-automotriz-unidades-anuales.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/",
+      "attributesDescription": "[{\"title\": \"indice_tiempo\", \"type\": \"date\", \"specialType\": \"time_index\", \"specialTypeDetail\": \"R/P3M\", \"id\": \"330.2_INDICE_TIEMPO__13\", \"scrapingIdentifierCell\": \"A80\", \"scrapingDataStartCell\": \"A81\", \"dataset_identifier\": \"330\", \"distribution_identifier\": \"330.2\"}, {\"title\": \"produccion_automoviles\", \"type\": \"number\", \"description\": \"Hist\\u00f3ricos de la produccion automoviles\", \"id\": \"330.2_PRODUCCIONLES__22\", \"scrapingIdentifierCell\": \"B80\", \"scrapingDataStartCell\": \"B81\", \"units\": \"Unidades\", \"dataset_identifier\": \"330\", \"distribution_identifier\": \"330.2\"}, {\"title\": \"produccion_resto\", \"type\": \"number\", \"description\": \"Hist\\u00f3ricos de la produccion resto\", \"id\": \"330.2_PRODUCCIONSTO__16\", \"scrapingIdentifierCell\": \"C80\", \"scrapingDataStartCell\": \"C81\", \"units\": \"Unidades\", \"dataset_identifier\": \"330\", \"distribution_identifier\": \"330.2\"}, {\"title\": \"produccion_utilitarios\", \"type\": \"number\", \"description\": \"Hist\\u00f3ricos de la produccion utilitarios\", \"id\": \"330.2_PRODUCCIONIOS__22\", \"scrapingIdentifierCell\": \"D80\", \"scrapingDataStartCell\": \"D81\", \"units\": \"Unidades\", \"dataset_identifier\": \"330\", \"distribution_identifier\": \"330.2\"}, {\"title\": \"produccion_categoria_b\", \"type\": \"number\", \"description\": \"Hist\\u00f3ricos de la produccion categoria b\", \"id\": \"330.2_PRODUCCIONA_B__22\", \"scrapingIdentifierCell\": \"E80\", \"scrapingDataStartCell\": \"E81\", \"units\": \"Unidades\", \"dataset_identifier\": \"330\", \"distribution_identifier\": \"330.2\"}, {\"title\": \"exportaciones_automoviles\", \"type\": \"number\", \"description\": \"Hist\\u00f3ricos de la exportaciones automoviles\", \"id\": \"330.2_EXPORTACIOLES__25\", \"scrapingIdentifierCell\": \"G80\", \"scrapingDataStartCell\": \"G81\", \"units\": \"Unidades\", \"dataset_identifier\": \"330\", \"distribution_identifier\": \"330.2\"}, {\"title\": \"exportaciones_resto\", \"type\": \"number\", \"description\": \"Hist\\u00f3ricos de la exportaciones resto\", \"id\": \"330.2_EXPORTACIOSTO__19\", \"scrapingIdentifierCell\": \"H80\", \"scrapingDataStartCell\": \"H81\", \"units\": \"Unidades\", \"dataset_identifier\": \"330\", \"distribution_identifier\": \"330.2\"}, {\"title\": \"exportaciones_utilitarios\", \"type\": \"number\", \"description\": \"Hist\\u00f3ricos de la exportaciones utilitarios\", \"id\": \"330.2_EXPORTACIOIOS__25\", \"scrapingIdentifierCell\": \"I80\", \"scrapingDataStartCell\": \"I81\", \"units\": \"Unidades\", \"dataset_identifier\": \"330\", \"distribution_identifier\": \"330.2\"}, {\"title\": \"exportaciones_categoria_b\", \"type\": \"number\", \"description\": \"Hist\\u00f3ricos de la exportaciones categoria b\", \"id\": \"330.2_EXPORTACIOA_B__25\", \"scrapingIdentifierCell\": \"J80\", \"scrapingDataStartCell\": \"J81\", \"units\": \"Unidades\", \"dataset_identifier\": \"330\", \"distribution_identifier\": \"330.2\"}, {\"title\": \"ventas_mercado_interno_automoviles\", \"type\": \"number\", \"description\": \"Hist\\u00f3ricos de la ventas mercado interno automoviles\", \"id\": \"330.2_VENTAS_MERLES__34\", \"scrapingIdentifierCell\": \"L80\", \"scrapingDataStartCell\": \"L81\", \"units\": \"Unidades\", \"dataset_identifier\": \"330\", \"distribution_identifier\": \"330.2\"}, {\"title\": \"ventas_mercado_interno_resto\", \"type\": \"number\", \"description\": \"Hist\\u00f3ricos de la ventas mercado interno resto\", \"id\": \"330.2_VENTAS_MERSTO__28\", \"scrapingIdentifierCell\": \"M80\", \"scrapingDataStartCell\": \"M81\", \"units\": \"Unidades\", \"dataset_identifier\": \"330\", \"distribution_identifier\": \"330.2\"}, {\"title\": \"ventas_mercado_interno_utilitarios\", \"type\": \"number\", \"description\": \"Hist\\u00f3ricos de la ventas mercado interno utilitarios\", \"id\": \"330.2_VENTAS_MERIOS__34\", \"scrapingIdentifierCell\": \"N80\", \"scrapingDataStartCell\": \"N81\", \"units\": \"Unidades\", \"dataset_identifier\": \"330\", \"distribution_identifier\": \"330.2\"}, {\"title\": \"ventas_mercado_interno_categoria_b\", \"type\": \"number\", \"description\": \"Hist\\u00f3ricos de la ventas mercado interno categoria b\", \"id\": \"330.2_VENTAS_MERA_B__34\", \"scrapingIdentifierCell\": \"O80\", \"scrapingDataStartCell\": \"O81\", \"units\": \"Unidades\", \"dataset_identifier\": \"330\", \"distribution_identifier\": \"330.2\"}, {\"title\": \"ventas_mercado_interno_vehiculos_nacionales_automoviles\", \"type\": \"number\", \"description\": \"Hist\\u00f3ricos de la ventas mercado interno de vehiculos nacionales automoviles\", \"id\": \"330.2_VENTAS_MERLES__55\", \"scrapingIdentifierCell\": \"Q80\", \"scrapingDataStartCell\": \"Q81\", \"units\": \"Unidades\", \"dataset_identifier\": \"330\", \"distribution_identifier\": \"330.2\"}, {\"title\": \"ventas_mercado_interno_vehiculos_nacionales_utilitarios\", \"type\": \"number\", \"description\": \"Hist\\u00f3ricos de la ventas mercado interno de vehiculos nacionales utilitarios\", \"id\": \"330.2_VENTAS_MERIOS__55\", \"scrapingIdentifierCell\": \"R80\", \"scrapingDataStartCell\": \"R81\", \"units\": \"Unidades\", \"dataset_identifier\": \"330\", \"distribution_identifier\": \"330.2\"}, {\"title\": \"ventas_mercado_interno_vehiculos_nacionales_categoria_b\", \"type\": \"number\", \"description\": \"Hist\\u00f3ricos de la ventas mercado interno de vehiculos nacionales categoria b\", \"id\": \"330.2_VENTAS_MERA_B__55\", \"scrapingIdentifierCell\": \"S80\", \"scrapingDataStartCell\": \"S81\", \"units\": \"Unidades\", \"dataset_identifier\": \"330\", \"distribution_identifier\": \"330.2\"}, {\"title\": \"ventas_mercado_interno_vehiculos_nacionales_total\", \"type\": \"number\", \"description\": \"Hist\\u00f3ricos de la ventas mercado interno de vehiculos nacionales total\", \"id\": \"330.2_VENTAS_MERTAL__49\", \"scrapingIdentifierCell\": \"T80\", \"scrapingDataStartCell\": \"T81\", \"units\": \"Unidades\", \"dataset_identifier\": \"330\", \"distribution_identifier\": \"330.2\"}, {\"title\": \"ventas_mercado_interno_vehiculos_importados_automoviles\", \"type\": \"number\", \"description\": \"Hist\\u00f3ricos de la ventas mercado interno de vehiculos importados automoviles\", \"id\": \"330.2_VENTAS_MERLES_II__55\", \"scrapingIdentifierCell\": \"V80\", \"scrapingDataStartCell\": \"V81\", \"units\": \"Unidades\", \"dataset_identifier\": \"330\", \"distribution_identifier\": \"330.2\"}, {\"title\": \"ventas_mercado_interno_vehiculos_importados_utilitarios\", \"type\": \"number\", \"description\": \"Hist\\u00f3ricos de la ventas mercado interno de vehiculos importados utilitarios\", \"id\": \"330.2_VENTAS_MERIOS_V__55\", \"scrapingIdentifierCell\": \"W80\", \"scrapingDataStartCell\": \"W81\", \"units\": \"Unidades\", \"dataset_identifier\": \"330\", \"distribution_identifier\": \"330.2\"}, {\"title\": \"ventas_mercado_interno_vehiculos_importados_categoria_b\", \"type\": \"number\", \"description\": \"Hist\\u00f3ricos de la ventas mercado interno de vehiculos importados categoria b\", \"id\": \"330.2_VENTAS_MERA_B_II__55\", \"scrapingIdentifierCell\": \"X80\", \"scrapingDataStartCell\": \"X81\", \"units\": \"Unidades\", \"dataset_identifier\": \"330\", \"distribution_identifier\": \"330.2\"}, {\"title\": \"ventas_mercado_interno_vehiculos_importados_total\", \"type\": \"number\", \"description\": \"Hist\\u00f3ricos de la ventas mercado interno de vehiculos importados total\", \"id\": \"330.2_VENTAS_MERTAL_III__49\", \"scrapingIdentifierCell\": \"Y80\", \"scrapingDataStartCell\": \"Y81\", \"units\": \"Unidades\", \"dataset_identifier\": \"330\", \"distribution_identifier\": \"330.2\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-11-28T00:00:00",
+      "datastore_active": false,
+      "description": "Datos históricos de la industria automotriz en unidades. Datos anuales",
+      "fileName": "datos-historicos-industria-automotriz-unidades-trimestrales.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "sspm_330.2",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Datos históricos de la industria automotriz. Datos trimestrales",
+      "package_id": "sspm_330",
+      "position": 1,
+      "resource_type": null,
+      "revision_id": "b57f3483-e7c8-4b7a-aa9f-49c54687aec2",
+      "size": null,
+      "state": "active",
+      "url": "https://infra.datos.gob.ar/catalog/sspm/dataset/330/distribution/330.2/download/datos-historicos-industria-automotriz-unidades-trimestrales.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/",
+      "attributesDescription": "[{\"title\": \"indice_tiempo\", \"type\": \"date\", \"specialType\": \"time_index\", \"specialTypeDetail\": \"R/P1M\", \"id\": \"330.3_INDICE_TIEMPO__13\", \"scrapingIdentifierCell\": \"A321\", \"scrapingDataStartCell\": \"A311\", \"dataset_identifier\": \"330\", \"distribution_identifier\": \"330.3\"}, {\"title\": \"produccion_automoviles\", \"type\": \"number\", \"description\": \"Hist\\u00f3ricos de la produccion automoviles\", \"id\": \"330.3_PRODUCCIONLES__22\", \"scrapingIdentifierCell\": \"B321\", \"scrapingDataStartCell\": \"B322\", \"units\": \"Unidades\", \"dataset_identifier\": \"330\", \"distribution_identifier\": \"330.3\"}, {\"title\": \"produccion_resto\", \"type\": \"number\", \"description\": \"Hist\\u00f3ricos de la produccion resto\", \"id\": \"330.3_PRODUCCIONSTO__16\", \"scrapingIdentifierCell\": \"C321\", \"scrapingDataStartCell\": \"C322\", \"units\": \"Unidades\", \"dataset_identifier\": \"330\", \"distribution_identifier\": \"330.3\"}, {\"title\": \"produccion_utilitarios\", \"type\": \"number\", \"description\": \"Hist\\u00f3ricos de la produccion utilitarios\", \"id\": \"330.3_PRODUCCIONIOS__22\", \"scrapingIdentifierCell\": \"D321\", \"scrapingDataStartCell\": \"D322\", \"units\": \"Unidades\", \"dataset_identifier\": \"330\", \"distribution_identifier\": \"330.3\"}, {\"title\": \"produccion_categoria_b\", \"type\": \"number\", \"description\": \"Hist\\u00f3ricos de la produccion categoria b\", \"id\": \"330.3_PRODUCCIONA_B__22\", \"scrapingIdentifierCell\": \"E321\", \"scrapingDataStartCell\": \"E322\", \"units\": \"Unidades\", \"dataset_identifier\": \"330\", \"distribution_identifier\": \"330.3\"}, {\"title\": \"exportaciones_automoviles\", \"type\": \"number\", \"description\": \"Hist\\u00f3ricos de la exportaciones automoviles\", \"id\": \"330.3_EXPORTACIOLES__25\", \"scrapingIdentifierCell\": \"G321\", \"scrapingDataStartCell\": \"G322\", \"units\": \"Unidades\", \"dataset_identifier\": \"330\", \"distribution_identifier\": \"330.3\"}, {\"title\": \"exportaciones_resto\", \"type\": \"number\", \"description\": \"Hist\\u00f3ricos de la exportaciones resto\", \"id\": \"330.3_EXPORTACIOSTO__19\", \"scrapingIdentifierCell\": \"H321\", \"scrapingDataStartCell\": \"H322\", \"units\": \"Unidades\", \"dataset_identifier\": \"330\", \"distribution_identifier\": \"330.3\"}, {\"title\": \"exportaciones_utilitarios\", \"type\": \"number\", \"description\": \"Hist\\u00f3ricos de la exportaciones utilitarios\", \"id\": \"330.3_EXPORTACIOIOS__25\", \"scrapingIdentifierCell\": \"I321\", \"scrapingDataStartCell\": \"I322\", \"units\": \"Unidades\", \"dataset_identifier\": \"330\", \"distribution_identifier\": \"330.3\"}, {\"title\": \"exportaciones_categoria_b\", \"type\": \"number\", \"description\": \"Hist\\u00f3ricos de la exportaciones categoria b\", \"id\": \"330.3_EXPORTACIOA_B__25\", \"scrapingIdentifierCell\": \"J321\", \"scrapingDataStartCell\": \"J322\", \"units\": \"Unidades\", \"dataset_identifier\": \"330\", \"distribution_identifier\": \"330.3\"}, {\"title\": \"ventas_mercado_interno_automoviles\", \"type\": \"number\", \"description\": \"Hist\\u00f3ricos de la ventas mercado interno automoviles\", \"id\": \"330.3_VENTAS_MERLES__34\", \"scrapingIdentifierCell\": \"L321\", \"scrapingDataStartCell\": \"L322\", \"units\": \"Unidades\", \"dataset_identifier\": \"330\", \"distribution_identifier\": \"330.3\"}, {\"title\": \"ventas_mercado_interno_resto\", \"type\": \"number\", \"description\": \"Hist\\u00f3ricos de la ventas mercado interno resto\", \"id\": \"330.3_VENTAS_MERSTO__28\", \"scrapingIdentifierCell\": \"M321\", \"scrapingDataStartCell\": \"M322\", \"units\": \"Unidades\", \"dataset_identifier\": \"330\", \"distribution_identifier\": \"330.3\"}, {\"title\": \"ventas_mercado_interno_utilitarios\", \"type\": \"number\", \"description\": \"Hist\\u00f3ricos de la ventas mercado interno utilitarios\", \"id\": \"330.3_VENTAS_MERIOS__34\", \"scrapingIdentifierCell\": \"N321\", \"scrapingDataStartCell\": \"N322\", \"units\": \"Unidades\", \"dataset_identifier\": \"330\", \"distribution_identifier\": \"330.3\"}, {\"title\": \"ventas_mercado_interno_categoria_b\", \"type\": \"number\", \"description\": \"Hist\\u00f3ricos de la ventas mercado interno categoria b\", \"id\": \"330.3_VENTAS_MERA_B__34\", \"scrapingIdentifierCell\": \"O321\", \"scrapingDataStartCell\": \"O322\", \"units\": \"Unidades\", \"dataset_identifier\": \"330\", \"distribution_identifier\": \"330.3\"}, {\"title\": \"ventas_mercado_interno_vehiculos_nacionales_automoviles\", \"type\": \"number\", \"description\": \"Hist\\u00f3ricos de la ventas mercado interno de vehiculos nacionales automoviles\", \"id\": \"330.3_VENTAS_MERLES__55\", \"scrapingIdentifierCell\": \"Q321\", \"scrapingDataStartCell\": \"Q322\", \"units\": \"Unidades\", \"dataset_identifier\": \"330\", \"distribution_identifier\": \"330.3\"}, {\"title\": \"ventas_mercado_interno_vehiculos_nacionales_utilitarios\", \"type\": \"number\", \"description\": \"Hist\\u00f3ricos de la ventas mercado interno de vehiculos nacionales utilitarios\", \"id\": \"330.3_VENTAS_MERIOS__55\", \"scrapingIdentifierCell\": \"R321\", \"scrapingDataStartCell\": \"R322\", \"units\": \"Unidades\", \"dataset_identifier\": \"330\", \"distribution_identifier\": \"330.3\"}, {\"title\": \"ventas_mercado_interno_vehiculos_nacionales_categoria_b\", \"type\": \"number\", \"description\": \"Hist\\u00f3ricos de la ventas mercado interno de vehiculos nacionales categoria b\", \"id\": \"330.3_VENTAS_MERA_B__55\", \"scrapingIdentifierCell\": \"S321\", \"scrapingDataStartCell\": \"S322\", \"units\": \"Unidades\", \"dataset_identifier\": \"330\", \"distribution_identifier\": \"330.3\"}, {\"title\": \"ventas_mercado_interno_vehiculos_nacionales_total\", \"type\": \"number\", \"description\": \"Hist\\u00f3ricos de la ventas mercado interno de vehiculos nacionales total\", \"id\": \"330.3_VENTAS_MERTAL__49\", \"scrapingIdentifierCell\": \"T321\", \"scrapingDataStartCell\": \"T322\", \"units\": \"Unidades\", \"dataset_identifier\": \"330\", \"distribution_identifier\": \"330.3\"}, {\"title\": \"ventas_mercado_interno_vehiculos_importados_automoviles\", \"type\": \"number\", \"description\": \"Hist\\u00f3ricos de la ventas mercado interno de vehiculos importados automoviles\", \"id\": \"330.3_VENTAS_MERLES_II__55\", \"scrapingIdentifierCell\": \"V321\", \"scrapingDataStartCell\": \"V322\", \"units\": \"Unidades\", \"dataset_identifier\": \"330\", \"distribution_identifier\": \"330.3\"}, {\"title\": \"ventas_mercado_interno_vehiculos_importados_utilitarios\", \"type\": \"number\", \"description\": \"Hist\\u00f3ricos de la ventas mercado interno de vehiculos importados utilitarios\", \"id\": \"330.3_VENTAS_MERIOS_V__55\", \"scrapingIdentifierCell\": \"W321\", \"scrapingDataStartCell\": \"W322\", \"units\": \"Unidades\", \"dataset_identifier\": \"330\", \"distribution_identifier\": \"330.3\"}, {\"title\": \"ventas_mercado_interno_vehiculos_importados_categoria_b\", \"type\": \"number\", \"description\": \"Hist\\u00f3ricos de la ventas mercado interno de vehiculos importados categoria b\", \"id\": \"330.3_VENTAS_MERA_B_II__55\", \"scrapingIdentifierCell\": \"X321\", \"scrapingDataStartCell\": \"X322\", \"units\": \"Unidades\", \"dataset_identifier\": \"330\", \"distribution_identifier\": \"330.3\"}, {\"title\": \"ventas_mercado_interno_vehiculos_importados_total\", \"type\": \"number\", \"description\": \"Hist\\u00f3ricos de la ventas mercado interno de vehiculos importados total\", \"id\": \"330.3_VENTAS_MERTAL_III__49\", \"scrapingIdentifierCell\": \"Y321\", \"scrapingDataStartCell\": \"Y322\", \"units\": \"Unidades\", \"dataset_identifier\": \"330\", \"distribution_identifier\": \"330.3\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-11-28T00:00:00",
+      "datastore_active": false,
+      "description": "Datos históricos de la industria automotriz en unidades. Datos anuales",
+      "fileName": "datos-historicos-industria-automotriz-unidades-mensuales.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "sspm_330.3",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Datos históricos de la industria automotriz. Datos menuales",
+      "package_id": "sspm_330",
+      "position": 2,
+      "resource_type": null,
+      "revision_id": "bb8b7175-2ffd-4a1b-8fda-a40db6b43626",
+      "size": null,
+      "state": "active",
+      "url": "https://infra.datos.gob.ar/catalog/sspm/dataset/330/distribution/330.3/download/datos-historicos-industria-automotriz-unidades-mensuales.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "b57f3483-e7c8-4b7a-aa9f-49c54687aec2",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "Actividad",
+      "id": "a7695c51-c893-4ece-8ff9-306c197afdd7",
+      "name": "Actividad",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Información Económica al Día",
+      "id": "0d300a9a-0802-46c3-9a40-2f28ddf050ec",
+      "name": "Información Económica al Día",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Datos históricos de la industria automotriz",
+  "type": "dataset",
+  "url": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/",
+  "version": null
+}

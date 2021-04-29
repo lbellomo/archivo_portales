@@ -1,0 +1,162 @@
+{
+  "author": "Subsecretaría de Mercados Agropecuarios",
+  "author_email": "sma@magyp.gob.ar",
+  "creator_user_id": "dc157489-51c6-44ce-bd63-3bd983d60778",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P1M"
+    },
+    {
+      "key": "issued",
+      "value": "2018-12-07T21:27:17.294833"
+    },
+    {
+      "key": "language",
+      "value": "[\"spa\"]"
+    },
+    {
+      "key": "modified",
+      "value": "2019-10-24T10:40:44.003734"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"AGRI\"]"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Agroganadería, pesca y forestación",
+      "display_name": "Agroganadería, pesca y forestación",
+      "id": "0c35ea38-7059-41d2-9827-5587769d0dc6",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225145.990789agroganaderia-pesca-forestacion.svg",
+      "name": "agri",
+      "title": "Agroganadería, pesca y forestación"
+    }
+  ],
+  "id": "agroindustria_2394b066-b1b9-49e0-ae4f-30863a8290b2",
+  "isopen": true,
+  "license_id": "CC-BY-4.0",
+  "license_title": "Creative Commons Attribution 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "maintainer": null,
+  "maintainer_email": null,
+  "metadata_created": "2019-12-04T20:01:38.492828",
+  "metadata_modified": "2021-04-29T17:16:00.334276",
+  "name": "agroindustria-centeno---destino-industrial",
+  "notes": "Ingreso de granos de centeno a planta con destino a la industria.\r\nAño comercial de Diciembre a Noviembre.",
+  "num_resources": 2,
+  "num_tags": 5,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:07.834957",
+    "description": "",
+    "id": "b10c94e2-ade1-4a97-8c4c-b1ada7878d60",
+    "image_url": "",
+    "is_organization": true,
+    "name": "agroindustria",
+    "revision_id": "f7c3b6e9-d48f-4522-9f7a-388d805c8392",
+    "state": "active",
+    "title": "Ministerio de Agricultura, Ganadería y Pesca",
+    "type": "organization"
+  },
+  "owner_org": "b10c94e2-ade1-4a97-8c4c-b1ada7878d60",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "http://datos.agroindustria.gob.ar/dataset/2394b066-b1b9-49e0-ae4f-30863a8290b2/resource/263767b3-3696-4ca1-8117-8d10ac51e760",
+      "attributesDescription": "[{\"type\": \"integer\", \"description\": \"cod_pais\", \"title\": \"cod_pais\"}, {\"type\": \"string\", \"description\": \"nom_pais\", \"title\": \"nom_pais\"}, {\"type\": \"integer\", \"description\": \"a\\u00f1o\", \"title\": \"a\\u00f1o\"}, {\"type\": \"string\", \"description\": \"producto\", \"title\": \"producto\"}, {\"type\": \"string\", \"description\": \"unidad_id\", \"title\": \"unidad_id\"}, {\"type\": \"string\", \"description\": \"nom_unidad\", \"title\": \"nom_unidad\"}, {\"type\": \"integer\", \"description\": \"enero\", \"title\": \"enero\"}, {\"type\": \"integer\", \"description\": \"febrero\", \"title\": \"febrero\"}, {\"type\": \"integer\", \"description\": \"marzo\", \"title\": \"marzo\"}, {\"type\": \"integer\", \"description\": \"abril\", \"title\": \"abril\"}, {\"type\": \"integer\", \"description\": \"mayo\", \"title\": \"mayo\"}, {\"type\": \"integer\", \"description\": \"junio\", \"title\": \"junio\"}, {\"type\": \"integer\", \"description\": \"julio\", \"title\": \"julio\"}, {\"type\": \"integer\", \"description\": \"agosto\", \"title\": \"agosto\"}, {\"type\": \"integer\", \"description\": \"septiembre\", \"title\": \"septiembre\"}, {\"type\": \"integer\", \"description\": \"octubre\", \"title\": \"octubre\"}, {\"type\": \"integer\", \"description\": \"noviembre\", \"title\": \"noviembre\"}, {\"type\": \"integer\", \"description\": \"diciembre\", \"title\": \"diciembre\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2018-08-07T12:02:33.885016",
+      "datastore_active": false,
+      "description": "Ingreso de granos Centeno en toneladas para su industrialización.\r\n\"0\" indica informado \"Sin Movimiento\".",
+      "fileName": "centeno-con-destino-a-la-industria.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "agroindustria_263767b3-3696-4ca1-8117-8d10ac51e760",
+      "last_modified": "2019-04-15T16:29:43.021334",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Ingreso de Centeno para su industrialización",
+      "package_id": "agroindustria_2394b066-b1b9-49e0-ae4f-30863a8290b2",
+      "position": 0,
+      "resource_type": "file.upload",
+      "revision_id": "4a22bb10-a4b1-4089-b972-2ce7a720f6f7",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.agroindustria.gob.ar/dataset/2394b066-b1b9-49e0-ae4f-30863a8290b2/resource/263767b3-3696-4ca1-8117-8d10ac51e760/download/centeno-con-destino-a-la-industria.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos.agroindustria.gob.ar/dataset/2394b066-b1b9-49e0-ae4f-30863a8290b2/resource/aa7aefc2-1bd8-4a9f-88a0-c0c6b76629d5",
+      "attributesDescription": "[{\"specialType\": \"time_index\", \"specialTypeDetail\": \"R/P1M\", \"type\": \"date\", \"description\": \"Fecha correspondiente\\n\", \"title\": \"indice_tiempo\"}, {\"units\": \"Toneladas\", \"id\": \"AGRO_0026\", \"type\": \"integer\", \"description\": \"Cantidad de granos de centeno que ingresan a planta para su industrializaci\\u00f3n\", \"title\": \"ingreso_centeno_industria\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2018-12-21T16:39:50.195300",
+      "datastore_active": false,
+      "description": "Ingreso de granos Centeno en toneladas para su industrialización.",
+      "fileName": "serie_tiempo_centeno_con_destino_a_la_industria_bk.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "agroindustria_aa7aefc2-1bd8-4a9f-88a0-c0c6b76629d5",
+      "last_modified": "2019-09-16T12:04:12.682675",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Serie de tiempo",
+      "package_id": "agroindustria_2394b066-b1b9-49e0-ae4f-30863a8290b2",
+      "position": 1,
+      "resource_type": "file.upload",
+      "revision_id": "104b973d-40bc-498f-bbcf-9f6c4ac44c66",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.agroindustria.gob.ar/dataset/2394b066-b1b9-49e0-ae4f-30863a8290b2/resource/aa7aefc2-1bd8-4a9f-88a0-c0c6b76629d5/download/serie_tiempo_centeno_con_destino_a_la_industria.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "1afbbaf1-d072-485c-9a9b-340eb70461c6",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "agricola",
+      "id": "2346a81a-3616-4316-8f8e-850077f164b6",
+      "name": "agricola",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "campaña",
+      "id": "d0db196a-e336-4c79-be66-f363093830e1",
+      "name": "campaña",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "centeno",
+      "id": "0a41dcd7-fb3a-4b96-947a-d126e2b1ff18",
+      "name": "centeno",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "estimaciones",
+      "id": "6ef4e2a9-864a-44f4-ba2a-7848b9c865d5",
+      "name": "estimaciones",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "mercado",
+      "id": "958fc0f3-41dd-4bdd-8ea5-b3cdd9d09216",
+      "name": "mercado",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Centeno - Destino industrial",
+  "type": "dataset",
+  "url": "https://datos.agroindustria.gob.ar/dataset/centeno-con-destino-industria",
+  "version": null
+}

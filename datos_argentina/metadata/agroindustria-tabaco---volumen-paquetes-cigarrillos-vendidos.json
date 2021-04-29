@@ -1,0 +1,127 @@
+{
+  "author": "Área de Acopio, Producción, Estudios y Finanzas - Coordinación de Cultivos Industrializables",
+  "author_email": "finanzasfet@magyp.gob.ar",
+  "creator_user_id": "dc157489-51c6-44ce-bd63-3bd983d60778",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P1M"
+    },
+    {
+      "key": "issued",
+      "value": "2018-12-10T15:44:10.763823"
+    },
+    {
+      "key": "language",
+      "value": "[\"spa\"]"
+    },
+    {
+      "key": "modified",
+      "value": "2019-10-24T10:46:08.730756"
+    },
+    {
+      "key": "spatial",
+      "value": "[\"ARG\"]"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"AGRI\", \"ECON\"]"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Agroganadería, pesca y forestación",
+      "display_name": "Agroganadería, pesca y forestación",
+      "id": "0c35ea38-7059-41d2-9827-5587769d0dc6",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225145.990789agroganaderia-pesca-forestacion.svg",
+      "name": "agri",
+      "title": "Agroganadería, pesca y forestación"
+    },
+    {
+      "description": "Economía y finanzas",
+      "display_name": "Economía y finanzas",
+      "id": "60b4b03e-10a1-4d67-b984-08008a249617",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225257.200233economia-finanzas.svg",
+      "name": "econ",
+      "title": "Economía y finanzas"
+    }
+  ],
+  "id": "agroindustria_6854a357-7160-4086-8b2c-91e471d47628",
+  "isopen": true,
+  "license_id": "CC-BY-4.0",
+  "license_title": "Creative Commons Attribution 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "maintainer": "Área de Acopio, Producción, Estudios y Finanzas - Coordinación de Cultivos Industrializables",
+  "maintainer_email": "finanzasfet@magyp.gob.ar",
+  "metadata_created": "2019-12-04T20:01:10.490855",
+  "metadata_modified": "2021-04-29T17:11:46.696097",
+  "name": "agroindustria-tabaco---volumen-paquetes-cigarrillos-vendidos",
+  "notes": "Volumen vendido de paquetes de cigarrillos equivalentes a veinte unidades.",
+  "num_resources": 1,
+  "num_tags": 2,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:07.834957",
+    "description": "",
+    "id": "b10c94e2-ade1-4a97-8c4c-b1ada7878d60",
+    "image_url": "",
+    "is_organization": true,
+    "name": "agroindustria",
+    "revision_id": "f7c3b6e9-d48f-4522-9f7a-388d805c8392",
+    "state": "active",
+    "title": "Ministerio de Agricultura, Ganadería y Pesca",
+    "type": "organization"
+  },
+  "owner_org": "b10c94e2-ade1-4a97-8c4c-b1ada7878d60",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "http://datos.agroindustria.gob.ar/dataset/6854a357-7160-4086-8b2c-91e471d47628/resource/02393f01-bea1-4106-8462-3772ba643018",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2018-12-10T12:44:54.389562",
+      "datastore_active": false,
+      "description": "Volúmenes de paquetes de cigarrillos vendidos de veinte unidades, precio inferior, superior y promedio.\r\nEl numero negativo (-) indica que para ese cuartil solo hay devoluciones de paquetes a fabrica",
+      "fileName": "tabaco-volumen-de-paquetes-de-cigarrillos-vendidos.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "agroindustria_02393f01-bea1-4106-8462-3772ba643018",
+      "last_modified": "2019-01-30T14:15:24.915679",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Tabaco - Volumen de Paquetes de Cigarrillos Vendidos",
+      "package_id": "agroindustria_6854a357-7160-4086-8b2c-91e471d47628",
+      "position": 0,
+      "resource_type": "file.upload",
+      "revision_id": "f09a3917-30a5-4886-a64c-fc76cc1158b0",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.agroindustria.gob.ar/dataset/6854a357-7160-4086-8b2c-91e471d47628/resource/02393f01-bea1-4106-8462-3772ba643018/download/tabaco-volumen-de-paquetes-de-cigarrillos-vendidos.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "b1204d4a-cf95-4080-9525-34b825ee34c9",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "cigarrillos",
+      "id": "65d02129-59aa-44cd-864c-cf52ff07c1e4",
+      "name": "cigarrillos",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "tabaco",
+      "id": "0f174849-c4a1-4294-862f-dc44006b2ed7",
+      "name": "tabaco",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Tabaco - Volumen de paquetes de cigarrillos vendidos",
+  "type": "dataset",
+  "url": "https://datos.agroindustria.gob.ar/dataset/tabaco-volumen-de-paquetes-de-cigarrillos-vendidos",
+  "version": null
+}

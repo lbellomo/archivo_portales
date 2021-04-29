@@ -1,0 +1,134 @@
+{
+  "author": "Ministerio de Desarrollo Productivo",
+  "author_email": "datosargentina@jefatura.gob.ar",
+  "creator_user_id": "dc157489-51c6-44ce-bd63-3bd983d60778",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P1M"
+    },
+    {
+      "key": "issued",
+      "value": "2020-08-04T00:00:00"
+    },
+    {
+      "key": "language",
+      "value": "[\"SPA\"]"
+    },
+    {
+      "key": "modified",
+      "value": "2020-10-13T00:00:00"
+    },
+    {
+      "key": "spatial",
+      "value": "ARG"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"GOVE\"]"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Gobierno y sector público",
+      "display_name": "Gobierno y sector público",
+      "id": "e6f07c77-3987-4e71-98a6-731b1aaf74f4",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225353.395233gobierno-sector-publico.svg",
+      "name": "gove",
+      "title": "Gobierno y sector público"
+    }
+  ],
+  "id": "jgm_18",
+  "isopen": true,
+  "license_id": "CC-BY-4.0",
+  "license_title": "Creative Commons Attribution 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "maintainer": "Jefatura de Gabinete de Ministros. Secretaría de Innovación Pública. Subsecretaría de Gobierno Abierto y País Digital.",
+  "maintainer_email": "datosargentina@jefatura.gob.ar",
+  "metadata_created": "2020-08-04T22:13:29.136069",
+  "metadata_modified": "2021-04-29T17:16:11.361240",
+  "name": "jgm-ingreso-familiar-emergencia",
+  "notes": "Listado de beneficios otorgados por el Ingreso Familiar de Emergencia (IFE) en marco de la Emergencia Sanitaria para trabajadores informales y monotributistas de las primeras categorías.",
+  "num_resources": 1,
+  "num_tags": 4,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:06.745974",
+    "description": "",
+    "id": "f917ad65-28ea-42a9-81ae-61a2bb8f58d0",
+    "image_url": "",
+    "is_organization": true,
+    "name": "jgm",
+    "revision_id": "ddd4eb90-3b5d-40d0-a290-414515935bf3",
+    "state": "active",
+    "title": " Jefatura de Gabinete de Ministros",
+    "type": "organization"
+  },
+  "owner_org": "f917ad65-28ea-42a9-81ae-61a2bb8f58d0",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "https://datos.gob.ar/dataset/jgm-ingreso-familiar-emergencia/archivo/jgm_18.1",
+      "attributesDescription": "[{\"title\": \"provincia_id\", \"type\": \"string\", \"description\": \"C\\u00f3digo identificador de la provincia.\"}, {\"title\": \"provincia_nombre\", \"type\": \"string\", \"description\": \"Nombre de la provincia.\"}, {\"title\": \"personas\", \"type\": \"number\", \"description\": \"Cantidad de personas.\"}, {\"title\": \"monto\", \"type\": \"number\", \"description\": \"Monto (en millones de $ - primeras dos rondas).\"}, {\"title\": \"gasto_per_capita\", \"type\": \"number\", \"description\": \"Gasto per c\\u00e1pita.\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2020-08-04T00:00:00",
+      "datastore_active": false,
+      "description": "Cantidad de personas y montos otorgados a través del IFE desagregado por provincia.",
+      "fileName": "ife_provincias.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "jgm_18.1",
+      "last_modified": "2020-10-13T00:00:00",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Beneficiarios IFE - Por provincia",
+      "package_id": "jgm_18",
+      "position": 0,
+      "resource_type": null,
+      "revision_id": "e79a7253-493a-4327-8e1a-56dfb04629bf",
+      "size": null,
+      "state": "active",
+      "url": "https://infra.datos.gob.ar/catalog/jgm/dataset/18/distribution/18.1/download/ife_provincias.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "d5ef5a42-039d-4579-836c-b7da5f45d553",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "Gobierno y sector público",
+      "id": "cabcb959-4dbc-4a58-b35e-dfd1f6d6ae5f",
+      "name": "Gobierno y sector público",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "IFE",
+      "id": "6ebc1969-91f9-4f20-9fce-fb7c2650b6b4",
+      "name": "IFE",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "coronavirus",
+      "id": "d961d018-73ff-47c0-ac1d-bb4054bbe424",
+      "name": "coronavirus",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "covid",
+      "id": "21acfd34-1d2a-494e-a177-675cebee1e2b",
+      "name": "covid",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Ingreso Familiar de Emergencia",
+  "type": "dataset",
+  "url": "https://datos.gob.ar/dataset/jgm-ingreso-familiar-emergencia",
+  "version": null
+}

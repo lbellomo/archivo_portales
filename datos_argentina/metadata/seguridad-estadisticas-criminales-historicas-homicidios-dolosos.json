@@ -1,0 +1,168 @@
+{
+  "author": "Ministerio de Seguridad de la Nación. Unidad de Gabinete de Asesores. Dirección Nacional de Estadística Criminal. Dirección de Relevamiento y Análisis de la información",
+  "author_email": "snic-sat@minseg.gob.ar",
+  "creator_user_id": "4720e75a-9e17-4dc3-879d-041917c7f9f9",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P1Y"
+    },
+    {
+      "key": "issued",
+      "value": "2019-08-29T00:00:00"
+    },
+    {
+      "key": "language",
+      "value": "[\"SPA\"]"
+    },
+    {
+      "key": "source",
+      "value": "Ministerio de Seguridad de la Nación. Unidad de Gabinete de Asesores. Dirección Nacional de Estadística Criminal. Dirección de Relevamiento y Análisis de la información"
+    },
+    {
+      "key": "spatial",
+      "value": "ARG"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"JUST\"]"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Justicia, seguridad y legales",
+      "display_name": "Justicia, seguridad y legales",
+      "id": "69ac5e1d-79f0-4470-9514-8a173d9ae44c",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225406.604073justicia-seguridad-legales.svg",
+      "name": "just",
+      "title": "Justicia, seguridad y legales"
+    }
+  ],
+  "id": "seguridad_3",
+  "isopen": true,
+  "license_id": "CC-BY-4.0",
+  "license_title": "Creative Commons Attribution 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "maintainer": "Ministerio de Seguridad de la Nación. Unidad de Gabinete de Asesores. Dirección Nacional de Estadística Criminal. Dirección de Relevamiento y Análisis de la información",
+  "maintainer_email": null,
+  "metadata_created": "2019-11-26T14:57:30.553760",
+  "metadata_modified": "2021-04-29T17:05:46.313007",
+  "name": "seguridad-estadisticas-criminales-historicas-homicidios-dolosos",
+  "notes": "Series históricas de víctimas y tasas (cada 100 mil habitantes) de Homicidios Dolosos para el total nacional y para cada provincia.",
+  "num_resources": 3,
+  "num_tags": 2,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:11.361783",
+    "description": "",
+    "id": "908fd413-5a22-40e7-9204-38ef380ae232",
+    "image_url": "",
+    "is_organization": true,
+    "name": "seguridad",
+    "revision_id": "36e7fa3c-9253-4f00-90f9-2b5a9709ea29",
+    "state": "active",
+    "title": " Ministerio de Seguridad",
+    "type": "organization"
+  },
+  "owner_org": "908fd413-5a22-40e7-9204-38ef380ae232",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "https://estadisticascriminales.minseg.gob.ar/",
+      "attributesDescription": "[{\"title\": \"indice_tiempo\", \"type\": \"date\", \"specialType\": \"time_index\", \"specialTypeDetail\": \"R/P1Y\", \"id\": \"snic_time_index_3.1\"}, {\"title\": \"homicidios_dolosos_victimas\", \"type\": \"integer\", \"description\": \"Cantidad de v\\u00edctimas de homicidios dolosos a nivel nacional, seg\\u00fan el Sistema Nacional de Informaci\\u00f3n Criminal\", \"id\": \"snic_hdv_arg\", \"units\": \"Cantidad\"}, {\"title\": \"homicidios_dolosos_tasa\", \"type\": \"number\", \"description\": \"Tasa de v\\u00edctimas de homicidios dolosos a nivel nacional cada 100000 habitantes, seg\\u00fan el Sistema Nacional de Informaci\\u00f3n Criminal\", \"id\": \"snic_hdt_arg\", \"units\": \"Tasa cada 100000 habitantes\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-08-29T00:00:00",
+      "datastore_active": false,
+      "description": "Contiene las series de tiempo sobre víctimas y tasas (cada 100 mil habitantes) de homicidios dolosos en la República Argentina a partir del año 2001.",
+      "fileName": "snic-homicidios-dolosos-pais-series.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "seguridad_3.1",
+      "last_modified": "2020-09-01T00:00:00",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Homicidios dolosos en la República Argentina (series)",
+      "package_id": "seguridad_3",
+      "position": 0,
+      "resource_type": "file",
+      "revision_id": "d2abe7ba-565a-41ea-9b2d-bac20957ad43",
+      "size": null,
+      "state": "active",
+      "url": "https://estadisticascriminales.minseg.gob.ar/datos/snic-homicidios-dolosos-pais-series.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://estadisticascriminales.minseg.gob.ar/",
+      "attributesDescription": "[{\"title\": \"indice_tiempo\", \"type\": \"date\", \"specialType\": \"time_index\", \"specialTypeDetail\": \"R/P1Y\", \"id\": \"snic_time_index_3.2\"}, {\"title\": \"homicidios_dolosos_victimas_caba\", \"type\": \"integer\", \"description\": \"Cantidad de v\\u00edctimas de homicidios dolosos en Ciudad Aut\\u00f3noma de Buenos Aires.\", \"id\": \"snic_hdv_02\", \"units\": \"Cantidad\"}, {\"title\": \"homicidios_dolosos_victimas_buenos_aires\", \"type\": \"integer\", \"description\": \"Cantidad de v\\u00edctimas de homicidios dolosos en la provincia de Buenos Aires\", \"id\": \"snic_hdv_06\", \"units\": \"Cantidad\"}, {\"title\": \"homicidios_dolosos_victimas_catamarca\", \"type\": \"integer\", \"description\": \"Cantidad de v\\u00edctimas de homicidios dolosos en la provincia de Catamarca\", \"id\": \"snic_hdv_10\", \"units\": \"Cantidad\"}, {\"title\": \"homicidios_dolosos_victimas_cordoba\", \"type\": \"integer\", \"description\": \"Cantidad de v\\u00edctimas de homicidios dolosos en la provincia de C\\u00f3rdoba\", \"id\": \"snic_hdv_14\", \"units\": \"Cantidad\"}, {\"title\": \"homicidios_dolosos_victimas_corrientes\", \"type\": \"integer\", \"description\": \"Cantidad de v\\u00edctimas de homicidios dolosos en la provincia de Corrientes\", \"id\": \"snic_hdv_18\", \"units\": \"Cantidad\"}, {\"title\": \"homicidios_dolosos_victimas_chaco\", \"type\": \"integer\", \"description\": \"Cantidad de v\\u00edctimas de homicidios dolosos en la provincia de Chaco\", \"id\": \"snic_hdv_22\", \"units\": \"Cantidad\"}, {\"title\": \"homicidios_dolosos_victimas_chubut\", \"type\": \"integer\", \"description\": \"Cantidad de v\\u00edctimas de homicidios dolosos en la provincia de Chubut\", \"id\": \"snic_hdv_26\", \"units\": \"Cantidad\"}, {\"title\": \"homicidios_dolosos_victimas_entre_rios\", \"type\": \"integer\", \"description\": \"Cantidad de v\\u00edctimas de homicidios dolosos en la provincia de Entre R\\u00edos\", \"id\": \"snic_hdv_30\", \"units\": \"Cantidad\"}, {\"title\": \"homicidios_dolosos_victimas_formosa\", \"type\": \"integer\", \"description\": \"Cantidad de v\\u00edctimas de homicidios dolosos en la provincia de Formosa\", \"id\": \"snic_hdv_34\", \"units\": \"Cantidad\"}, {\"title\": \"homicidios_dolosos_victimas_jujuy\", \"type\": \"integer\", \"description\": \"Cantidad de v\\u00edctimas de homicidios dolosos en la provincia de Jujuy\", \"id\": \"snic_hdv_38\", \"units\": \"Cantidad\"}, {\"title\": \"homicidios_dolosos_victimas_la_pampa\", \"type\": \"integer\", \"description\": \"Cantidad de v\\u00edctimas de homicidios dolosos en la provincia de La Pampa\", \"id\": \"snic_hdv_42\", \"units\": \"Cantidad\"}, {\"title\": \"homicidios_dolosos_victimas_la_rioja\", \"type\": \"integer\", \"description\": \"Cantidad de v\\u00edctimas de homicidios dolosos en la provincia de La Rioja\", \"id\": \"snic_hdv_46\", \"units\": \"Cantidad\"}, {\"title\": \"homicidios_dolosos_victimas_mendoza\", \"type\": \"integer\", \"description\": \"Cantidad de v\\u00edctimas de homicidios dolosos en la provincia de Mendoza\", \"id\": \"snic_hdv_50\", \"units\": \"Cantidad\"}, {\"title\": \"homicidios_dolosos_victimas_misiones\", \"type\": \"integer\", \"description\": \"Cantidad de v\\u00edctimas de homicidios dolosos en la provincia de Misiones\", \"id\": \"snic_hdv_54\", \"units\": \"Cantidad\"}, {\"title\": \"homicidios_dolosos_victimas_neuquen\", \"type\": \"integer\", \"description\": \"Cantidad de v\\u00edctimas de homicidios dolosos en la provincia de Neuqu\\u00e9n\", \"id\": \"snic_hdv_58\", \"units\": \"Cantidad\"}, {\"title\": \"homicidios_dolosos_victimas_rio_negro\", \"type\": \"integer\", \"description\": \"Cantidad de v\\u00edctimas de homicidios dolosos en la provincia de R\\u00edo Negro\", \"id\": \"snic_hdv_62\", \"units\": \"Cantidad\"}, {\"title\": \"homicidios_dolosos_victimas_salta\", \"type\": \"integer\", \"description\": \"Cantidad de v\\u00edctimas de homicidios dolosos en la provincia de Salta\", \"id\": \"snic_hdv_66\", \"units\": \"Cantidad\"}, {\"title\": \"homicidios_dolosos_victimas_san_juan\", \"type\": \"integer\", \"description\": \"Cantidad de v\\u00edctimas de homicidios dolosos en la provincia de San Juan\", \"id\": \"snic_hdv_70\", \"units\": \"Cantidad\"}, {\"title\": \"homicidios_dolosos_victimas_san_luis\", \"type\": \"integer\", \"description\": \"Cantidad de v\\u00edctimas de homicidios dolosos en la provincia de San Luis\", \"id\": \"snic_hdv_74\", \"units\": \"Cantidad\"}, {\"title\": \"homicidios_dolosos_victimas_santa_cruz\", \"type\": \"integer\", \"description\": \"Cantidad de v\\u00edctimas de homicidios dolosos en la provincia de Santa Cruz\", \"id\": \"snic_hdv_78\", \"units\": \"Cantidad\"}, {\"title\": \"homicidios_dolosos_victimas_santa_fe\", \"type\": \"integer\", \"description\": \"Cantidad de v\\u00edctimas de homicidios dolosos en la provincia de Santa Fe\", \"id\": \"snic_hdv_82\", \"units\": \"Cantidad\"}, {\"title\": \"homicidios_dolosos_victimas_stgo_estero\", \"type\": \"integer\", \"description\": \"Cantidad de v\\u00edctimas de homicidios dolosos en la provincia de Santiago del Estero\", \"id\": \"snic_hdv_86\", \"units\": \"Cantidad\"}, {\"title\": \"homicidios_dolosos_victimas_tucuman\", \"type\": \"integer\", \"description\": \"Cantidad de v\\u00edctimas de homicidios dolosos en la provincia de Tucum\\u00e1n\", \"id\": \"snic_hdv_90\", \"units\": \"Cantidad\"}, {\"title\": \"homicidios_dolosos_victimas_tierra_del_fuego\", \"type\": \"integer\", \"description\": \"Cantidad de v\\u00edctimas de homicidios dolosos en la provincia de Tierra del Fuego\", \"id\": \"snic_hdv_94\", \"units\": \"Cantidad\"}, {\"title\": \"homicidios_dolosos_tasa_caba\", \"type\": \"number\", \"description\": \"Tasa de v\\u00edctimas de homicidios dolosos cada 100000 habitantes en la Ciudad Aut\\u00f3noma de Buenos Aires\", \"id\": \"snic_hdt_02\", \"units\": \"Tasa cada 100000 habitantes\"}, {\"title\": \"homicidios_dolosos_tasa_buenos_aires\", \"type\": \"number\", \"description\": \"Tasa de v\\u00edctimas de homicidios dolosos cada 100000 habitantes en la provincia de Buenos Aires\", \"id\": \"snic_hdt_06\", \"units\": \"Tasa cada 100000 habitantes\"}, {\"title\": \"homicidios_dolosos_tasa_catamarca\", \"type\": \"number\", \"description\": \"Tasa de v\\u00edctimas de homicidios dolosos cada 100000 habitantes en la provincia de Catamarca\", \"id\": \"snic_hdt_10\", \"units\": \"Tasa cada 100000 habitantes\"}, {\"title\": \"homicidios_dolosos_tasa_cordoba\", \"type\": \"number\", \"description\": \"Tasa de v\\u00edctimas de homicidios dolosos cada 100000 habitantes en la provincia de C\\u00f3rdoba\", \"id\": \"snic_hdt_14\", \"units\": \"Tasa cada 100000 habitantes\"}, {\"title\": \"homicidios_dolosos_tasa_corrientes\", \"type\": \"number\", \"description\": \"Tasa de v\\u00edctimas de homicidios dolosos cada 100000 habitantes en la provincia de Corrientes\", \"id\": \"snic_hdt_18\", \"units\": \"Tasa cada 100000 habitantes\"}, {\"title\": \"homicidios_dolosos_tasa_chaco\", \"type\": \"number\", \"description\": \"Tasa de v\\u00edctimas de homicidios dolosos cada 100000 habitantes en la provincia de Chaco\", \"id\": \"snic_hdt_22\", \"units\": \"Tasa cada 100000 habitantes\"}, {\"title\": \"homicidios_dolosos_tasa_chubut\", \"type\": \"number\", \"description\": \"Tasa de v\\u00edctimas de homicidios dolosos cada 100000 habitantes en la provincia de Chubut\", \"id\": \"snic_hdt_26\", \"units\": \"Tasa cada 100000 habitantes\"}, {\"title\": \"homicidios_dolosos_tasa_entre_rios\", \"type\": \"number\", \"description\": \"Tasa de v\\u00edctimas de homicidios dolosos cada 100000 habitantes en la provincia de Entre R\\u00edos\", \"id\": \"snic_hdt_30\", \"units\": \"Tasa cada 100000 habitantes\"}, {\"title\": \"homicidios_dolosos_tasa_formosa\", \"type\": \"number\", \"description\": \"Tasa de v\\u00edctimas de homicidios dolosos cada 100000 habitantes en la provincia de Formosa\", \"id\": \"snic_hdt_34\", \"units\": \"Tasa cada 100000 habitantes\"}, {\"title\": \"homicidios_dolosos_tasa_jujuy\", \"type\": \"number\", \"description\": \"Tasa de v\\u00edctimas de homicidios dolosos cada 100000 habitantes en la provincia de Jujuy\", \"id\": \"snic_hdt_38\", \"units\": \"Tasa cada 100000 habitantes\"}, {\"title\": \"homicidios_dolosos_tasa_la_pampa\", \"type\": \"number\", \"description\": \"Tasa de v\\u00edctimas de homicidios dolosos cada 100000 habitantes en la provincia de La Pampa\", \"id\": \"snic_hdt_42\", \"units\": \"Tasa cada 100000 habitantes\"}, {\"title\": \"homicidios_dolosos_tasa_la_rioja\", \"type\": \"number\", \"description\": \"Tasa de v\\u00edctimas de homicidios dolosos cada 100000 habitantes en la provincia de La Rioja\", \"id\": \"snic_hdt_46\", \"units\": \"Tasa cada 100000 habitantes\"}, {\"title\": \"homicidios_dolosos_tasa_mendoza\", \"type\": \"number\", \"description\": \"Tasa de v\\u00edctimas de homicidios dolosos cada 100000 habitantes en la provincia de Mendoza\", \"id\": \"snic_hdt_50\", \"units\": \"Tasa cada 100000 habitantes\"}, {\"title\": \"homicidios_dolosos_tasa_misiones\", \"type\": \"number\", \"description\": \"Tasa de v\\u00edctimas de homicidios dolosos cada 100000 habitantes en la provincia de Misiones\", \"id\": \"snic_hdt_54\", \"units\": \"Tasa cada 100000 habitantes\"}, {\"title\": \"homicidios_dolosos_tasa_neuquen\", \"type\": \"number\", \"description\": \"Tasa de v\\u00edctimas de homicidios dolosos cada 100000 habitantes en la provincia de Neuqu\\u00e9n\", \"id\": \"snic_hdt_58\", \"units\": \"Tasa cada 100000 habitantes\"}, {\"title\": \"homicidios_dolosos_tasa_rio_negro\", \"type\": \"number\", \"description\": \"Tasa de v\\u00edctimas de homicidios dolosos cada 100000 habitantes en la provincia de R\\u00edo Negro\", \"id\": \"snic_hdt_62\", \"units\": \"Tasa cada 100000 habitantes\"}, {\"title\": \"homicidios_dolosos_tasa_salta\", \"type\": \"number\", \"description\": \"Tasa de v\\u00edctimas de homicidios dolosos cada 100000 habitantes en la provincia de Salta\", \"id\": \"snic_hdt_66\", \"units\": \"Tasa cada 100000 habitantes\"}, {\"title\": \"homicidios_dolosos_tasa_san_juan\", \"type\": \"number\", \"description\": \"Tasa de v\\u00edctimas de homicidios dolosos cada 100000 habitantes en la provincia de San Juan\", \"id\": \"snic_hdt_70\", \"units\": \"Tasa cada 100000 habitantes\"}, {\"title\": \"homicidios_dolosos_tasa_san_luis\", \"type\": \"number\", \"description\": \"Tasa de v\\u00edctimas de homicidios dolosos cada 100000 habitantes en la provincia de San Luis\", \"id\": \"snic_hdt_74\", \"units\": \"Tasa cada 100000 habitantes\"}, {\"title\": \"homicidios_dolosos_tasa_santa_cruz\", \"type\": \"number\", \"description\": \"Tasa de v\\u00edctimas de homicidios dolosos cada 100000 habitantes en la provincia de Santa Cruz\", \"id\": \"snic_hdt_78\", \"units\": \"Tasa cada 100000 habitantes\"}, {\"title\": \"homicidios_dolosos_tasa_santa_fe\", \"type\": \"number\", \"description\": \"Tasa de v\\u00edctimas de homicidios dolosos cada 100000 habitantes en la provincia de Santa Fe\", \"id\": \"snic_hdt_82\", \"units\": \"Tasa cada 100000 habitantes\"}, {\"title\": \"homicidios_dolosos_tasa_stgo_estero\", \"type\": \"number\", \"description\": \"Tasa de v\\u00edctimas de homicidios dolosos cada 100000 habitantes en la provincia de Santiago del Estero\", \"id\": \"snic_hdt_86\", \"units\": \"Tasa cada 100000 habitantes\"}, {\"title\": \"homicidios_dolosos_tasa_tucuman\", \"type\": \"number\", \"description\": \"Tasa de v\\u00edctimas de homicidios dolosos cada 100000 habitantes en la provincia de Tucum\\u00e1n\", \"id\": \"snic_hdt_90\", \"units\": \"Tasa cada 100000 habitantes\"}, {\"title\": \"homicidios_dolosos_tasa_tierra_del_fuego\", \"type\": \"number\", \"description\": \"Tasa de v\\u00edctimas de homicidios dolosos cada 100000 habitantes en la provincia de Tierra del Fuego\", \"id\": \"snic_hdt_94\", \"units\": \"Tasa cada 100000 habitantes\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-08-29T00:00:00",
+      "datastore_active": false,
+      "description": "Contiene las series de tiempo sobre víctimas y tasas (cada 100 mil habitantes) de homicidios dolosos en la República Argentina por provincias a partir del año 2001.",
+      "fileName": "snic-homicidios-dolosos-provincias-series.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "seguridad_3.2",
+      "last_modified": "2020-09-01T00:00:00",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Homicidios dolosos en la República Argentina por provincia (series)",
+      "package_id": "seguridad_3",
+      "position": 1,
+      "resource_type": "file",
+      "revision_id": "d81d8d80-b256-4f72-8c14-ba1d92ed409e",
+      "size": null,
+      "state": "active",
+      "url": "https://estadisticascriminales.minseg.gob.ar/datos/snic-homicidios-dolosos-provincias-series.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://estadisticascriminales.minseg.gob.ar/",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-08-29T00:00:00",
+      "datastore_active": false,
+      "description": "Incluye apartados sobre la explicación del proceso de reconstrucción de las series y anexos metodológicos varios.",
+      "format": "PDF",
+      "hash": "",
+      "id": "seguridad_3.3",
+      "last_modified": "2019-08-29T00:00:00",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Homicidios dolosos en la República Argentina (informe)",
+      "package_id": "seguridad_3",
+      "position": 2,
+      "resource_type": "file",
+      "revision_id": "dd41e591-fd55-425d-878c-3938fdbeae1a",
+      "size": null,
+      "state": "active",
+      "url": "https://estadisticascriminales.minseg.gob.ar/reports/Informe%20serie%20historica%20HOMICIDIOS%20DOLOSOS%202001%20al%202018.pdf",
+      "url_type": null
+    }
+  ],
+  "revision_id": "7b9af915-a85e-4cae-8484-6da2b919e81e",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "Homicidios",
+      "id": "763be517-2d32-4b47-ad5e-a99cb8ced96b",
+      "name": "Homicidios",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Victimas.",
+      "id": "115dbc09-5e18-4819-a779-33656a7fec0b",
+      "name": "Victimas.",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Estadísticas criminales históricas. Homicidios Dolosos",
+  "type": "dataset",
+  "url": "https://estadisticascriminales.minseg.gob.ar/",
+  "version": null
+}

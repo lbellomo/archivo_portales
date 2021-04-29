@@ -1,0 +1,128 @@
+{
+  "author": "INSSJP",
+  "author_email": null,
+  "creator_user_id": "4720e75a-9e17-4dc3-879d-041917c7f9f9",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P1Y"
+    },
+    {
+      "key": "issued",
+      "value": "2019-05-13T19:20:58.003835"
+    },
+    {
+      "key": "modified",
+      "value": "2019-05-13T19:20:58.003835"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"GOVE\", \"HEAL\"]"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Gobierno y sector público",
+      "display_name": "Gobierno y sector público",
+      "id": "e6f07c77-3987-4e71-98a6-731b1aaf74f4",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225353.395233gobierno-sector-publico.svg",
+      "name": "gove",
+      "title": "Gobierno y sector público"
+    },
+    {
+      "description": "Salud",
+      "display_name": "Salud",
+      "id": "65cc1fbf-703a-43bf-8a14-232a55c34976",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225809.913196salud.svg",
+      "name": "heal",
+      "title": "Salud"
+    }
+  ],
+  "id": "pami_b92952dd-7ab2-4b62-9251-70d41e9f4bde",
+  "isopen": true,
+  "license_id": "CC-BY-4.0",
+  "license_title": "Creative Commons Attribution 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "maintainer": null,
+  "maintainer_email": null,
+  "metadata_created": "2019-11-26T14:56:08.071832",
+  "metadata_modified": "2021-04-29T17:05:26.390195",
+  "name": "pami-centros-dia",
+  "notes": " Datos sobre los prestadores de centros de día, segmentados por dependencia de PAMI, por nombre de profesional o institución y su CUIL/CUIT correspondiente.",
+  "num_resources": 2,
+  "num_tags": 0,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:11.042876",
+    "description": "",
+    "id": "81c393aa-4d8e-43dc-82fd-70ae0bd18bb9",
+    "image_url": "",
+    "is_organization": true,
+    "name": "pami",
+    "revision_id": "c5370bbe-7ff7-4ad1-b192-1d839927048f",
+    "state": "active",
+    "title": " Instituto Nacional de Servicios Sociales para Jubilados y Pensionados (PAMI)",
+    "type": "organization"
+  },
+  "owner_org": "81c393aa-4d8e-43dc-82fd-70ae0bd18bb9",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "http://datos.pami.org.ar/dataset/b92952dd-7ab2-4b62-9251-70d41e9f4bde/resource/c714836a-e3d2-42a7-abf9-a52e4533d3c1",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-05-13T19:22:06.622628",
+      "datastore_active": false,
+      "description": "Listado de establecimientos donde se presta servicios de centro de día a los afiliados de PAMI",
+      "fileName": "listado-de-centros-de-dia-1.xlsx",
+      "format": "XLSX",
+      "hash": "",
+      "id": "pami_c714836a-e3d2-42a7-abf9-a52e4533d3c1",
+      "last_modified": "2020-01-10T15:41:00.637353",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Centros de día",
+      "package_id": "pami_b92952dd-7ab2-4b62-9251-70d41e9f4bde",
+      "position": 0,
+      "resource_type": "file",
+      "revision_id": "22bd0956-0703-4456-8c2b-d71a07bdd9d5",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.pami.org.ar/dataset/b92952dd-7ab2-4b62-9251-70d41e9f4bde/resource/c714836a-e3d2-42a7-abf9-a52e4533d3c1/download/listado-de-centros-de-dia-1.xlsx",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos.pami.org.ar/dataset/b92952dd-7ab2-4b62-9251-70d41e9f4bde/resource/b41c2ab7-6376-42a9-83c0-f41b1b0c39b7",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-07-18T15:23:26.142825",
+      "datastore_active": false,
+      "description": "Listado de establecimientos donde se presta servicios de centro de día a los afiliados de PAMI",
+      "fileName": "listado-de-centros-de-dia-1.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "pami_b41c2ab7-6376-42a9-83c0-f41b1b0c39b7",
+      "last_modified": "2020-01-10T15:41:40.890807",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Centros de día",
+      "package_id": "pami_b92952dd-7ab2-4b62-9251-70d41e9f4bde",
+      "position": 1,
+      "resource_type": "file",
+      "revision_id": "50a464ec-56d6-4dd5-9c3c-629f24950110",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.pami.org.ar/dataset/b92952dd-7ab2-4b62-9251-70d41e9f4bde/resource/b41c2ab7-6376-42a9-83c0-f41b1b0c39b7/download/listado-de-centros-de-dia-1.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "8ae5cbc1-6075-4e11-ad5d-a0c22a0b1e58",
+  "state": "active",
+  "tags": [],
+  "title": "Centros de día",
+  "type": "dataset",
+  "url": "http://datos2.pami.org.ar/dataset/centros-de-dia",
+  "version": null
+}

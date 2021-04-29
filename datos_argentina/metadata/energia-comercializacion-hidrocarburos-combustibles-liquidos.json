@@ -1,0 +1,155 @@
+{
+  "author": "Ministerio de Energía y Minería.Secretaría de Coordinación de Planeamiento Energético.Dirección Nacional de Información Energética.Tecnología de la Información.",
+  "author_email": "tienerg@energia.gob.ar",
+  "creator_user_id": "4720e75a-9e17-4dc3-879d-041917c7f9f9",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "eventual"
+    },
+    {
+      "key": "issued",
+      "value": "2017-01-17T16:06:06.994436"
+    },
+    {
+      "key": "modified",
+      "value": "2018-05-14T11:20:28.268131"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"ENER\"]"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Energía",
+      "display_name": "Energía",
+      "id": "a4d3f632-eb48-4163-9791-165989c16035",
+      "image_display_url": "http://datos.gob.ar/uploads/group/2019-12-04-225337.421630energia.svg",
+      "name": "ener",
+      "title": "Energía"
+    }
+  ],
+  "id": "energia_669615be-17f4-41ad-9aad-4c438cb974f9",
+  "isopen": false,
+  "license_id": "notspecified",
+  "license_title": "No se especificó la licencia",
+  "maintainer": "Ministerio de Energía y Minería.Secretaría de Planeamiento Energético Estratégico.Subsecretaría de Escenarios y Evaluación de Proyectos. Dirección Nacional de Información Energética.Tecnología de la Información. ",
+  "maintainer_email": "tienerg@minem.gob.ar",
+  "metadata_created": "2019-11-26T15:00:00.746726",
+  "metadata_modified": "2020-05-08T13:08:31.183690",
+  "name": "energia-comercializacion-hidrocarburos-combustibles-liquidos",
+  "notes": "Estaciones de servicio. ISO 19126: PowerSupplies, Este subgrupo se compone de conceptos que se relacionan con la producción, transporte y distribución de energía.",
+  "num_resources": 2,
+  "num_tags": 5,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:09.221510",
+    "description": "",
+    "id": "cd1b32a2-2d3a-44ac-8c98-a425a7b62d42",
+    "image_url": "",
+    "is_organization": true,
+    "name": "energia",
+    "revision_id": "a184cf69-99ad-4f84-a254-020031d7fe63",
+    "state": "active",
+    "title": "Secretaría de Energía",
+    "type": "organization"
+  },
+  "owner_org": "cd1b32a2-2d3a-44ac-8c98-a425a7b62d42",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "http://datos.minem.gob.ar/dataset/669615be-17f4-41ad-9aad-4c438cb974f9/resource/e1933d80-e981-49b1-ab92-4715e978e32b",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-05-04T22:02:49.976698",
+      "datastore_active": false,
+      "description": "Archivos prj, shp, shx, dbf, xml. Sistema de Proyección EPSG:4326",
+      "fileName": "estaciones-de-servicio.zip",
+      "format": "SHP",
+      "hash": "",
+      "id": "energia_e1933d80-e981-49b1-ab92-4715e978e32b",
+      "last_modified": "2017-05-04T22:02:49.653722",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Estaciones de servicio",
+      "package_id": "energia_669615be-17f4-41ad-9aad-4c438cb974f9",
+      "position": 0,
+      "resource_type": null,
+      "revision_id": "b0f60e14-5304-48d7-b9ea-f05f273b6ae3",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.minem.gob.ar/dataset/669615be-17f4-41ad-9aad-4c438cb974f9/resource/e1933d80-e981-49b1-ab92-4715e978e32b/download/estaciones-de-servicio.zip",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos.minem.gob.ar/dataset/669615be-17f4-41ad-9aad-4c438cb974f9/resource/b7c42965-f140-4430-892d-0a065a6aeb35",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-05-04T23:04:08.904220",
+      "datastore_active": false,
+      "description": "",
+      "fileName": "estaciones-de-servicio.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "energia_b7c42965-f140-4430-892d-0a065a6aeb35",
+      "last_modified": "2017-09-11T15:19:22.543483",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Estaciones de servicio",
+      "package_id": "energia_669615be-17f4-41ad-9aad-4c438cb974f9",
+      "position": 1,
+      "resource_type": null,
+      "revision_id": "7ac70d09-a2ae-4e8f-b42b-5dc4204d0a2b",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.minem.gob.ar/dataset/669615be-17f4-41ad-9aad-4c438cb974f9/resource/b7c42965-f140-4430-892d-0a065a6aeb35/download/estaciones-de-servicio.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "4f9245dc-5142-4ab4-97f1-f02ad00068c7",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "Combustibles",
+      "id": "91332bf3-1e78-4385-b177-146099d2e48b",
+      "name": "Combustibles",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Comercialización",
+      "id": "ca1806a8-1a94-436c-8d08-6d4b19af165e",
+      "name": "Comercialización",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Estaciones de servicio",
+      "id": "9365d195-dca0-4dce-92ac-6e1036564197",
+      "name": "Estaciones de servicio",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Hidrocarburos",
+      "id": "f2511ea4-b37a-445a-913a-8948f1b90df6",
+      "name": "Hidrocarburos",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Información Geográfica",
+      "id": "d22bc8a4-252e-4fd8-89b2-3b9a08f6be42",
+      "name": "Información Geográfica",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Comercialización Hidrocarburos Combustibles Líquidos",
+  "type": "dataset",
+  "url": "http://datos.minem.gob.ar/dataset/comercializacion-hidrocarburos-combustibles-liquidos",
+  "version": null
+}

@@ -1,0 +1,103 @@
+{
+  "author": "Ministerio de Energía y Minería.Secretaría de Coordinación de Planeamiento Energético.Dirección Nacional de Información Energética.Tecnología de la Información.",
+  "author_email": "tienerg@energia.gob.ar",
+  "creator_user_id": "4720e75a-9e17-4dc3-879d-041917c7f9f9",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "eventual"
+    },
+    {
+      "key": "issued",
+      "value": "2016-11-07T13:33:34.985951"
+    },
+    {
+      "key": "modified",
+      "value": "2017-08-15T14:30:54.218211"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"ENER\"]"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Energía",
+      "display_name": "Energía",
+      "id": "a4d3f632-eb48-4163-9791-165989c16035",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225337.421630energia.svg",
+      "name": "ener",
+      "title": "Energía"
+    }
+  ],
+  "id": "energia_6f15bd25-c036-47fd-88fc-84f53b4170d4",
+  "isopen": false,
+  "license_id": "notspecified",
+  "license_title": "No se especificó la licencia",
+  "maintainer": "Ministerio de Energía y Minería.Secretaría de Minería.",
+  "maintainer_email": null,
+  "metadata_created": "2019-11-26T15:01:01.233651",
+  "metadata_modified": "2021-04-29T17:17:21.306087",
+  "name": "energia-principales-productos-exportados-por-rubro",
+  "notes": "Exportación de sustancias minerales y productos derivados. Principales productos por rubros (en U$S FOB). Años 2001-2015. Metales: Los totales pueden diferir de difusiones anteriores de la Secretaría de Minería ya que se excluye la posición arancelaria 76011000 (aluminio sin alear). Minerales no Metalíferos: Incluye carbonato y cloruro de litio (forma en la que se exporta), turba asfaltitas y rocas asfálticas.",
+  "num_resources": 1,
+  "num_tags": 1,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:09.221510",
+    "description": "",
+    "id": "cd1b32a2-2d3a-44ac-8c98-a425a7b62d42",
+    "image_url": "",
+    "is_organization": true,
+    "name": "energia",
+    "revision_id": "a184cf69-99ad-4f84-a254-020031d7fe63",
+    "state": "active",
+    "title": "Secretaría de Energía",
+    "type": "organization"
+  },
+  "owner_org": "cd1b32a2-2d3a-44ac-8c98-a425a7b62d42",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "http://datos.minem.gob.ar/dataset/6f15bd25-c036-47fd-88fc-84f53b4170d4/resource/a88223d5-a77d-4705-bfd4-3dd86e371342",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-05-04T19:49:48.051884",
+      "datastore_active": false,
+      "description": "",
+      "fileName": "principales-productos-exportados.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "energia_a88223d5-a77d-4705-bfd4-3dd86e371342",
+      "last_modified": "2017-08-10T12:06:09.017721",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Principales productos exportados por rubro",
+      "package_id": "energia_6f15bd25-c036-47fd-88fc-84f53b4170d4",
+      "position": 0,
+      "resource_type": null,
+      "revision_id": "f2b05f3c-47d7-4c7f-8110-8889968aabde",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.minem.gob.ar/dataset/6f15bd25-c036-47fd-88fc-84f53b4170d4/resource/a88223d5-a77d-4705-bfd4-3dd86e371342/download/principales-productos-exportados.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "1f8e11d8-eae4-4241-b8e9-95be24656eb9",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "Minería",
+      "id": "4688f00a-f28f-45cd-96bb-8c9b5ba316be",
+      "name": "Minería",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Principales productos exportados por rubro",
+  "type": "dataset",
+  "url": "http://datos.minem.gob.ar/dataset/principales-productos-exportados-por-rubro",
+  "version": null
+}

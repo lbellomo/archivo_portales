@@ -1,0 +1,154 @@
+{
+  "author": "Ministerio de Ambiente y Desarrollo Sostenible. Dirección Nacional de Educación Ambiental y Participación Ciudadana.",
+  "author_email": "participacionciudadana@ambiente.gob.ar",
+  "creator_user_id": "4720e75a-9e17-4dc3-879d-041917c7f9f9",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P3M"
+    },
+    {
+      "key": "issued",
+      "value": "2017-09-05T17:05:16.269266"
+    },
+    {
+      "key": "language",
+      "value": "[\"spa\"]"
+    },
+    {
+      "key": "modified",
+      "value": "2020-09-29T14:09:52.004320"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"ENVI\"]"
+    },
+    {
+      "key": "temporal",
+      "value": "2017-04-01T03:00:00.000Z/2017-08-31T03:00:00.000Z"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Medio ambiente",
+      "display_name": "Medio ambiente",
+      "id": "f71fe9d7-c703-43be-8d9d-af9441c326ba",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225440.964279medio-ambiente.svg",
+      "name": "envi",
+      "title": "Medio ambiente"
+    }
+  ],
+  "id": "ambiente_b67a0774-0c7a-4a23-8d23-b5fb76a814b5",
+  "isopen": false,
+  "license_id": "notspecified",
+  "license_title": "No se especificó la licencia",
+  "maintainer": "Ministerio de Ambiente y Desarrollo Sostenible. Dirección Nacional de Educación Ambiental y Participación Ciudadana.",
+  "maintainer_email": "participacionciudadana@ambiente.gob.ar",
+  "metadata_created": "2019-11-26T14:57:50.952369",
+  "metadata_modified": "2021-04-29T17:17:47.858446",
+  "name": "ambiente-organizaciones-sociedad-civil",
+  "notes": "Organizaciones de la sociedad civil inscriptas en el Ministerio de Ambiente y Desarrollo Sostenible.",
+  "num_resources": 1,
+  "num_tags": 7,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:07.043831",
+    "description": "",
+    "id": "0e5aa328-825e-4509-851d-5421e866635e",
+    "image_url": "",
+    "is_organization": true,
+    "name": "ambiente",
+    "revision_id": "105eb915-270c-4f67-9b4e-e6a3f08be6d7",
+    "state": "active",
+    "title": "Ministerio de Ambiente y Desarrollo Sostenible",
+    "type": "organization"
+  },
+  "owner_org": "0e5aa328-825e-4509-851d-5421e866635e",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "http://datos.ambiente.gob.ar/dataset/b67a0774-0c7a-4a23-8d23-b5fb76a814b5/resource/f8960692-877e-427b-99cb-5079ff34c16b",
+      "attributesDescription": "[{\"type\": \"string\", \"description\": \"Denominaci\\u00f3n de la Organizaci\\u00f3n de la Sociedad Civil\", \"title\": \"organizacion_sociedad_civil_nombre\"}, {\"type\": \"string\", \"description\": \"Tipo de Organizaci\\u00f3n de Sociedad civil\", \"title\": \"organizacion_sociedad_civil_tipo\"}, {\"type\": \"string\", \"description\": \"Provincia donde est\\u00e1 radicada la OSC\", \"title\": \"organizacion_sociedad_civil_localizacion\"}, {\"type\": \"string\", \"description\": \"Mail de contacto de la OSC\", \"title\": \"organizacion_sociedad_civil_correo_electronico\"}, {\"type\": \"string\", \"description\": \"P\\u00e1gina Web de la OSC\", \"title\": \"organizacion_sociedad_civil_pagina_web\"}, {\"type\": \"string\", \"description\": \"Facebook de la OSC\", \"title\": \"organizacion_sociedad_civil_facebook\"}, {\"type\": \"string\", \"description\": \"Twitter de la OSC\", \"title\": \"organizacion_sociedad_civil_twitter\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-09-05T17:13:44.734830",
+      "datastore_active": false,
+      "description": "Son las sociedades que están inscriptas en el registro de participación ciudadana",
+      "fileName": "organizaciones-sociedad-civil-ambiente.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "ambiente_f8960692-877e-427b-99cb-5079ff34c16b",
+      "last_modified": "2019-11-07T15:56:24.825530",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Organizaciones de la sociedad civil (OSC)",
+      "package_id": "ambiente_b67a0774-0c7a-4a23-8d23-b5fb76a814b5",
+      "position": 0,
+      "resource_type": "file.upload",
+      "revision_id": "9ac9c0c2-6205-4901-84ce-acfb2a605c99",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.ambiente.gob.ar/dataset/b67a0774-0c7a-4a23-8d23-b5fb76a814b5/resource/f8960692-877e-427b-99cb-5079ff34c16b/download/organizaciones-sociedad-civil-ambiente.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "36a0cb30-e0ad-44e1-b215-da78404b72a7",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "Asociaciones y Fundaciones",
+      "id": "570abd8b-d407-4275-b0ae-a2a3779b5942",
+      "name": "Asociaciones y Fundaciones",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Necesidades sociales",
+      "id": "b01ba25b-d1fc-4594-89e7-6e6a22a7782d",
+      "name": "Necesidades sociales",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "ONG",
+      "id": "20ad788c-6ab8-4609-b088-2c9cd48bd152",
+      "name": "ONG",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "OSC",
+      "id": "ae8725fe-10e0-4a01-a87f-d346a3b55efc",
+      "name": "OSC",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Participación ciudadana",
+      "id": "3b405b01-deef-4217-ac59-76d04a902ec7",
+      "name": "Participación ciudadana",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Sin fines de lucro",
+      "id": "8174fb93-5eb4-445a-86cf-8fe80be02874",
+      "name": "Sin fines de lucro",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Sociedad civil",
+      "id": "7c5803f3-ae8c-458e-95e9-bc5bb66a242b",
+      "name": "Sociedad civil",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Organizaciones de la sociedad civil",
+  "type": "dataset",
+  "url": "http://datos.ambiente.gob.ar/dataset/",
+  "version": null
+}

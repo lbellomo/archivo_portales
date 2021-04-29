@@ -1,0 +1,124 @@
+{
+  "author": "Dirección de Aves de Granja y No Tradicionales",
+  "author_email": "animen@magyp.gob.ar",
+  "creator_user_id": "dc157489-51c6-44ce-bd63-3bd983d60778",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P1M"
+    },
+    {
+      "key": "issued",
+      "value": "2019-04-05T18:46:35.783438"
+    },
+    {
+      "key": "language",
+      "value": "[\"spa\"]"
+    },
+    {
+      "key": "modified",
+      "value": "2019-10-24T11:27:29.298749"
+    },
+    {
+      "key": "source",
+      "value": "SENASA"
+    },
+    {
+      "key": "spatial",
+      "value": "[\"ARG\"]"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"AGRI\"]"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Agroganadería, pesca y forestación",
+      "display_name": "Agroganadería, pesca y forestación",
+      "id": "0c35ea38-7059-41d2-9827-5587769d0dc6",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225145.990789agroganaderia-pesca-forestacion.svg",
+      "name": "agri",
+      "title": "Agroganadería, pesca y forestación"
+    }
+  ],
+  "id": "agroindustria_a14dc008-48d9-43ac-b119-72a585e6c692",
+  "isopen": true,
+  "license_id": "CC-BY-4.0",
+  "license_title": "Creative Commons Attribution 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "maintainer": "Dirección de Aves de Granja y No Tradicionales",
+  "maintainer_email": "animen@magyp.gob.ar",
+  "metadata_created": "2019-12-04T20:01:39.909613",
+  "metadata_modified": "2021-04-29T17:12:11.834229",
+  "name": "agroindustria-aves---faena-aviar",
+  "notes": "Se presenta la faena de aves realizada por mes y expresada en miles de cabezas. Los datos provienen del procesamiento de bases registradas en el SENASA.",
+  "num_resources": 1,
+  "num_tags": 2,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:07.834957",
+    "description": "",
+    "id": "b10c94e2-ade1-4a97-8c4c-b1ada7878d60",
+    "image_url": "",
+    "is_organization": true,
+    "name": "agroindustria",
+    "revision_id": "f7c3b6e9-d48f-4522-9f7a-388d805c8392",
+    "state": "active",
+    "title": "Ministerio de Agricultura, Ganadería y Pesca",
+    "type": "organization"
+  },
+  "owner_org": "b10c94e2-ade1-4a97-8c4c-b1ada7878d60",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "http://datos.agroindustria.gob.ar/dataset/a14dc008-48d9-43ac-b119-72a585e6c692/resource/84976af9-af2d-4759-87c3-0fb02ee7d8ec",
+      "attributesDescription": "[{\"specialType\": \"time_index\", \"specialTypeDetail\": \"R/P1M\", \"type\": \"date\", \"description\": \"Se presentan los datos de fecha en a\\u00f1o y mes en que se publica la faena\", \"title\": \"indice_tiempo\"}, {\"units\": \"miles de cabezas\", \"id\": \"AGRO_0029\", \"type\": \"integer\", \"description\": \"Se presenta la faena mensual en miles de cabezas\", \"title\": \"faena_miles_cabezas\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-04-05T15:53:08.308166",
+      "datastore_active": false,
+      "description": "Datos de la faena de aves mensual en miles de cabezas. Los datos provienen del procesamiento de bases del SENASA.",
+      "fileName": "faena_aviar.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "agroindustria_84976af9-af2d-4759-87c3-0fb02ee7d8ec",
+      "last_modified": "2020-07-31T12:39:40.204810",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Faena Aviar",
+      "package_id": "agroindustria_a14dc008-48d9-43ac-b119-72a585e6c692",
+      "position": 0,
+      "resource_type": "file.upload",
+      "revision_id": "0e81beaa-65c2-420a-a7cd-455367f5c070",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.agroindustria.gob.ar/dataset/a14dc008-48d9-43ac-b119-72a585e6c692/resource/84976af9-af2d-4759-87c3-0fb02ee7d8ec/download/faena_aviar.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "5505f396-6ce2-4744-ad5f-f9fb96d288ad",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "aves",
+      "id": "6fe3eb62-da9f-4cf5-b300-112ba8dc5947",
+      "name": "aves",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "faena aviar",
+      "id": "2603f2b1-da8f-43ee-8a04-c449b1b8c04a",
+      "name": "faena aviar",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Aves - Faena aviar",
+  "type": "dataset",
+  "url": "https://datos.agroindustria.gob.ar/dataset/faena-aviar",
+  "version": null
+}

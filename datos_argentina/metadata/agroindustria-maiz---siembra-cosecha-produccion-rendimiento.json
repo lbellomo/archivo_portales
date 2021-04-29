@@ -1,0 +1,167 @@
+{
+  "author": "Ministerio de Agricultura, Ganadería y Pesca - Dirección Nacional de Agricultura",
+  "author_email": "direstiagri@magyp.gob.ar",
+  "creator_user_id": "dc157489-51c6-44ce-bd63-3bd983d60778",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "eventual"
+    },
+    {
+      "key": "issued",
+      "value": "2021-03-17T20:16:23.261068"
+    },
+    {
+      "key": "language",
+      "value": "[\"spa\"]"
+    },
+    {
+      "key": "modified",
+      "value": "2021-03-23T15:03:18.552352"
+    },
+    {
+      "key": "source",
+      "value": "MAGyP"
+    },
+    {
+      "key": "spatial",
+      "value": "[\"ARG\"]"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"AGRI\"]"
+    },
+    {
+      "key": "temporal",
+      "value": "1923-01-01T04:00:00.000Z"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Agroganadería, pesca y forestación",
+      "display_name": "Agroganadería, pesca y forestación",
+      "id": "0c35ea38-7059-41d2-9827-5587769d0dc6",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225145.990789agroganaderia-pesca-forestacion.svg",
+      "name": "agri",
+      "title": "Agroganadería, pesca y forestación"
+    }
+  ],
+  "id": "agroindustria_514853fc-0a78-4b6f-a42f-8e89eab784c8",
+  "isopen": true,
+  "license_id": "CC-BY-4.0",
+  "license_title": "Creative Commons Attribution 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "maintainer": "Dirección de Estimaciones Agrícolas",
+  "maintainer_email": "direstiagri@magyp.gob.ar",
+  "metadata_created": "2021-03-25T16:20:03.916640",
+  "metadata_modified": "2021-04-29T17:16:01.517953",
+  "name": "agroindustria-maiz---siembra-cosecha-produccion-rendimiento",
+  "notes": "Serie histórica de la superficie sembrada, superficie cosechada, producción y rendimiento de maíz en la Argentina desde 1923.",
+  "num_resources": 2,
+  "num_tags": 4,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:07.834957",
+    "description": "",
+    "id": "b10c94e2-ade1-4a97-8c4c-b1ada7878d60",
+    "image_url": "",
+    "is_organization": true,
+    "name": "agroindustria",
+    "revision_id": "f7c3b6e9-d48f-4522-9f7a-388d805c8392",
+    "state": "active",
+    "title": "Ministerio de Agricultura, Ganadería y Pesca",
+    "type": "organization"
+  },
+  "owner_org": "b10c94e2-ade1-4a97-8c4c-b1ada7878d60",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "http://datos.agroindustria.gob.ar/dataset/514853fc-0a78-4b6f-a42f-8e89eab784c8/resource/c4696e28-4e54-464b-bc3b-19c608371231",
+      "attributesDescription": "[{\"specialType\": \"time_index\", \"specialTypeDetail\": \"R/P1Y\", \"type\": \"date\", \"description\": \"A\\u00f1o de inicio de la campa\\u00f1a. Ejemplo1979 equivale campa\\u00f1a 1979/1980\", \"title\": \"indice_tiempo\"}, {\"units\": \"hect\\u00e1reas\", \"id\": \"AGRO_0043\", \"type\": \"integer\", \"description\": \"Hect\\u00e1reas sembradas de ma\\u00edz.\", \"title\": \"superficie_sembrada_maiz_ha\"}, {\"units\": \"hect\\u00e1reas\", \"id\": \"AGRO_0044\", \"type\": \"integer\", \"description\": \"Hect\\u00e1reas cosechadas de ma\\u00edz.\", \"title\": \"superficie_cosechada_maiz_ha\"}, {\"units\": \"toneladas\", \"id\": \"AGRO_0045\", \"type\": \"integer\", \"description\": \"Producci\\u00f3n anual de ma\\u00edz en toneladas.\", \"title\": \"produccion_maiz_t\"}, {\"units\": \"kilogramo por hect\\u00e1rea\", \"id\": \"AGRO_0095\", \"type\": \"integer\", \"description\": \"Rendimiento en kilogramos por hect\\u00e1rea de ma\\u00edz.\", \"title\": \"rendimiento_maiz_kgxha\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2021-03-21T18:07:18.019407",
+      "datastore_active": false,
+      "description": "Evolución de las hectáreas sembradas, cosechadas, producción y rendimiento de maíz. La campaña se indica con el año de inicio. Ej: 1979 corresponde a la campaña 1979/1980",
+      "fileName": "maiz-serie-1923-2019-anual.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "agroindustria_c4696e28-4e54-464b-bc3b-19c608371231",
+      "last_modified": "2021-03-21T18:07:18.019407",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Serie de tiempo de maíz",
+      "package_id": "agroindustria_514853fc-0a78-4b6f-a42f-8e89eab784c8",
+      "position": 0,
+      "resource_type": "file.upload",
+      "revision_id": "40160911-39d8-4be8-b764-37da68113a2c",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.agroindustria.gob.ar/dataset/514853fc-0a78-4b6f-a42f-8e89eab784c8/resource/c4696e28-4e54-464b-bc3b-19c608371231/download/maiz-serie-1923-2019-anual.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos.agroindustria.gob.ar/dataset/514853fc-0a78-4b6f-a42f-8e89eab784c8/resource/9a6a02f8-ef58-4250-87c2-f639fec502f1",
+      "attributesDescription": "[{\"type\": \"string\", \"description\": \"Nombre del cultivo.\", \"title\": \"cultivo_nombre\"}, {\"type\": \"integer\", \"description\": \"A\\u00f1o a que corresponden los datos.\", \"title\": \"anio\"}, {\"type\": \"string\", \"description\": \"Campa\\u00f1a en la que se desarrollo el cultivo.\", \"title\": \"campania\"}, {\"type\": \"string\", \"description\": \"Nombre de la provincia.\", \"title\": \"provincia_nombre\"}, {\"type\": \"integer\", \"description\": \"C\\u00f3digo de la provincia.\", \"title\": \"provincia_id\"}, {\"type\": \"string\", \"description\": \"Nombre del departamento.\", \"title\": \"departamento_nombre\"}, {\"type\": \"integer\", \"description\": \"C\\u00f3digo del departamento.\", \"title\": \"departamento_id\"}, {\"type\": \"integer\", \"description\": \"Superficie sembrada en hect\\u00e1reas.\", \"title\": \"superficie_sembrada_ha\"}, {\"type\": \"integer\", \"description\": \"Superficie cosechada en hect\\u00e1reas.\", \"title\": \"superficie_cosechada_ha\"}, {\"type\": \"integer\", \"description\": \"Producci\\u00f3n en toneladas.\", \"title\": \"produccion_tm\"}, {\"type\": \"integer\", \"description\": \"Rendimiento en kilos por hect\\u00e1rea.\", \"title\": \"rendimiento_kgxha\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2021-03-23T13:19:51.699976",
+      "datastore_active": false,
+      "description": "Serie de datos de maíz sobre la superficie sembrada, cosechada, producción y rendimiento, por provincia y departamento desde 1923 a 2019. La campaña se indica con el año de inicio (1979 = 1979/1980).",
+      "fileName": "maiz-serie-1923-2019-anual.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "agroindustria_9a6a02f8-ef58-4250-87c2-f639fec502f1",
+      "last_modified": "2021-03-23T13:28:43.382077",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Maíz - serie siembra, cosecha, producción, rendimiento",
+      "package_id": "agroindustria_514853fc-0a78-4b6f-a42f-8e89eab784c8",
+      "position": 1,
+      "resource_type": "file.upload",
+      "revision_id": "40160911-39d8-4be8-b764-37da68113a2c",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.agroindustria.gob.ar/dataset/514853fc-0a78-4b6f-a42f-8e89eab784c8/resource/9a6a02f8-ef58-4250-87c2-f639fec502f1/download/maiz-serie-1923-2019-anual.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "40160911-39d8-4be8-b764-37da68113a2c",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "maíz",
+      "id": "53ca583a-0b77-4831-9274-30c7e1a4ea16",
+      "name": "maíz",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "rendimiento",
+      "id": "984c6c4d-0717-4098-b2db-6f2227ca05b6",
+      "name": "rendimiento",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "superficie cosechada",
+      "id": "a388241c-f855-4d56-96ee-242399f62db1",
+      "name": "superficie cosechada",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "superficie sembrada",
+      "id": "8990af13-21b0-45cd-a2b6-c64bb0a5d6f4",
+      "name": "superficie sembrada",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Maíz - siembra, cosecha, producción, rendimiento",
+  "type": "dataset",
+  "url": "https://datos.agroindustria.gob.ar/dataset/maiz-siembra-cosecha-rendimiento-produccion",
+  "version": null
+}

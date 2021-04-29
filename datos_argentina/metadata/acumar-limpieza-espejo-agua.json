@@ -1,0 +1,132 @@
+{
+  "author": "Dirección General Ambiental",
+  "author_email": null,
+  "creator_user_id": "dc157489-51c6-44ce-bd63-3bd983d60778",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P6M"
+    },
+    {
+      "key": "issued",
+      "value": "2018-08-23T13:16:49.556344"
+    },
+    {
+      "key": "modified",
+      "value": "2018-08-23T13:16:49.556344"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"ENVI\"]"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Medio ambiente",
+      "display_name": "Medio ambiente",
+      "id": "f71fe9d7-c703-43be-8d9d-af9441c326ba",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225440.964279medio-ambiente.svg",
+      "name": "envi",
+      "title": "Medio ambiente"
+    }
+  ],
+  "id": "acumar_bb7d7700-9247-4e7e-8e41-9d5d4cb39504",
+  "isopen": false,
+  "license_id": "notspecified",
+  "license_title": "No se especificó la licencia",
+  "maintainer": null,
+  "maintainer_email": null,
+  "metadata_created": "2019-12-04T20:03:51.964710",
+  "metadata_modified": "2021-04-29T17:11:49.955360",
+  "name": "acumar-limpieza-espejo-agua",
+  "notes": "Datos generados correspondientes a la actividad de limpieza de espejo de agua del Río Matanza Riachuelo.",
+  "num_resources": 1,
+  "num_tags": 5,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:10.306987",
+    "description": "",
+    "id": "1b6b28cd-098f-41d7-b43f-d5a01ffa8759",
+    "image_url": "",
+    "is_organization": true,
+    "name": "acumar",
+    "revision_id": "0e2a184d-b675-43ae-b2dd-e1ed0c459c04",
+    "state": "active",
+    "title": "Autoridad de Cuenca Matanza Riachuelo",
+    "type": "organization"
+  },
+  "owner_org": "1b6b28cd-098f-41d7-b43f-d5a01ffa8759",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "http://datos.acumar.gob.ar/dataset/bb7d7700-9247-4e7e-8e41-9d5d4cb39504/resource/b76661d0-233a-4303-940b-db093ec6bee5",
+      "attributesDescription": "[{\"type\": \"string\", \"description\": \"Mes de inicio del registro\", \"title\": \"mes_inicio\"}, {\"type\": \"string\", \"description\": \"Mes de finalizaci\\u00f3n del registro\", \"title\": \"mes_finalizacion\"}, {\"type\": \"number\", \"description\": \"Cantidad de residuos retirados mensualmente del espejo de agua\", \"title\": \"toneladas_retiradas\"}, {\"type\": \"integer\", \"description\": \"A\\u00f1o del registro\", \"title\": \"a\\u00f1o\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2018-08-23T13:20:09.319813",
+      "datastore_active": false,
+      "description": "Detalle de las toneladas extraídas de residuos del espejo de agua del Río Matanza Riachuelo desde 2015 hasta la mayo 2019",
+      "fileName": "toneladas_retiradas_espejo_2019.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "acumar_b76661d0-233a-4303-940b-db093ec6bee5",
+      "last_modified": "2019-11-22T14:56:22.963693",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Toneladas de residuos extraídas del espejo de agua 2015-2019 - ACUMAR",
+      "package_id": "acumar_bb7d7700-9247-4e7e-8e41-9d5d4cb39504",
+      "position": 0,
+      "resource_type": "file.upload",
+      "revision_id": "4976742b-199b-4afb-92c5-e60b3ab35928",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.acumar.gob.ar/dataset/bb7d7700-9247-4e7e-8e41-9d5d4cb39504/resource/b76661d0-233a-4303-940b-db093ec6bee5/download/toneladas_retiradas_espejo_2019.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "dd2ad85a-5567-4257-8b63-2014a79e4d1a",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "Eje Ambiental",
+      "id": "372cb546-0e92-4061-9b08-2537ffc593a2",
+      "name": "Eje Ambiental",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Espejo de Agua",
+      "id": "7560c79a-6125-41cd-82d9-a75019a0659b",
+      "name": "Espejo de Agua",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Limpieza",
+      "id": "e4210783-16bb-47a2-be30-e6d1cd3e9372",
+      "name": "Limpieza",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Residuos",
+      "id": "44611997-f7be-4839-a5a3-26424734761f",
+      "name": "Residuos",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Toneladas",
+      "id": "d2e06d41-9bc3-416f-9a8b-f67199eb8fc0",
+      "name": "Toneladas",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Limpieza de Espejo de Agua",
+  "type": "dataset",
+  "url": "http://datos.acumar.gob.ar/dataset/limpieza-de-espejo-de-agua",
+  "version": null
+}

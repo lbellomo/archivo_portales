@@ -1,0 +1,176 @@
+{
+  "author": "Dirección de Bioenergía, Secretaria de Alimentos y Bioeconomía",
+  "author_email": "dae@magyp.gob.ar",
+  "creator_user_id": "dc157489-51c6-44ce-bd63-3bd983d60778",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P1M"
+    },
+    {
+      "key": "issued",
+      "value": "2018-12-07T21:21:11.049844"
+    },
+    {
+      "key": "language",
+      "value": "[\"spa\"]"
+    },
+    {
+      "key": "modified",
+      "value": "2019-10-24T10:40:00.782939"
+    },
+    {
+      "key": "spatial",
+      "value": "[\"ARG\"]"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"AGRI\", \"ECON\", \"ENER\", \"ENVI\"]"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Agroganadería, pesca y forestación",
+      "display_name": "Agroganadería, pesca y forestación",
+      "id": "0c35ea38-7059-41d2-9827-5587769d0dc6",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225145.990789agroganaderia-pesca-forestacion.svg",
+      "name": "agri",
+      "title": "Agroganadería, pesca y forestación"
+    },
+    {
+      "description": "Economía y finanzas",
+      "display_name": "Economía y finanzas",
+      "id": "60b4b03e-10a1-4d67-b984-08008a249617",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225257.200233economia-finanzas.svg",
+      "name": "econ",
+      "title": "Economía y finanzas"
+    },
+    {
+      "description": "Energía",
+      "display_name": "Energía",
+      "id": "a4d3f632-eb48-4163-9791-165989c16035",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225337.421630energia.svg",
+      "name": "ener",
+      "title": "Energía"
+    },
+    {
+      "description": "Medio ambiente",
+      "display_name": "Medio ambiente",
+      "id": "f71fe9d7-c703-43be-8d9d-af9441c326ba",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225440.964279medio-ambiente.svg",
+      "name": "envi",
+      "title": "Medio ambiente"
+    }
+  ],
+  "id": "agroindustria_79fde464-1ed9-4c5d-8c84-0da29ff355ca",
+  "isopen": true,
+  "license_id": "CC-BY-4.0",
+  "license_title": "Creative Commons Attribution 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "maintainer": "Dirección de Bioenergía",
+  "maintainer_email": "dae@magyp.gob.ar",
+  "metadata_created": "2019-12-04T21:13:15.317997",
+  "metadata_modified": "2021-04-29T17:06:56.097462",
+  "name": "agroindustria-biocombustible---produccion-biodiesel-por-planta",
+  "notes": "Producción mensual de biodiesel según tamaño de planta productora. \r\nLas cantidades están expresadas en toneladas y poseen información desde el año 2014 hasta la actualidad.",
+  "num_resources": 2,
+  "num_tags": 3,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:07.834957",
+    "description": "",
+    "id": "b10c94e2-ade1-4a97-8c4c-b1ada7878d60",
+    "image_url": "",
+    "is_organization": true,
+    "name": "agroindustria",
+    "revision_id": "f7c3b6e9-d48f-4522-9f7a-388d805c8392",
+    "state": "active",
+    "title": "Ministerio de Agricultura, Ganadería y Pesca",
+    "type": "organization"
+  },
+  "owner_org": "b10c94e2-ade1-4a97-8c4c-b1ada7878d60",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "http://datos.agroindustria.gob.ar/dataset/79fde464-1ed9-4c5d-8c84-0da29ff355ca/resource/7d3b1519-25a1-4b6f-bf73-fed99f40b9c6",
+      "attributesDescription": "[{\"type\": \"integer\", \"description\": \"id_cod_pais\", \"title\": \"id_cod_pais\"}, {\"type\": \"integer\", \"description\": \"id_nom_pais\", \"title\": \"id_nom_pais\"}, {\"type\": \"integer\", \"description\": \"a\\u00f1o\", \"title\": \"a\\u00f1o\"}, {\"type\": \"integer\", \"description\": \"mes\", \"title\": \"mes\"}, {\"type\": \"integer\", \"description\": \"id_uni_med\", \"title\": \"id_uni_med\"}, {\"type\": \"integer\", \"description\": \"id_nom_med\", \"title\": \"id_nom_med\"}, {\"type\": \"integer\", \"description\": \"grande\", \"title\": \"grande\"}, {\"type\": \"integer\", \"description\": \"grande no integrada\", \"title\": \"grande no integrada\"}, {\"type\": \"integer\", \"description\": \"mediana\", \"title\": \"mediana\"}, {\"type\": \"integer\", \"description\": \"peque\\u00f1a\", \"title\": \"peque\\u00f1a\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2018-07-13T16:00:10.133646",
+      "datastore_active": false,
+      "description": "Producción mensual de biodiesel por tamaño de planta productora. Cantidades expresadas en toneladas, y poseen información desde el año 2014 hasta la actualidad.",
+      "fileName": "produccion-de-biodiesel-por-planta-de-produccion-.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "agroindustria_7d3b1519-25a1-4b6f-bf73-fed99f40b9c6",
+      "last_modified": "2019-08-27T10:58:00.510100",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Producción de biodiesel por planta",
+      "package_id": "agroindustria_79fde464-1ed9-4c5d-8c84-0da29ff355ca",
+      "position": 0,
+      "resource_type": "file.upload",
+      "revision_id": "f2a55e67-9deb-4737-be7e-d1e568ca4250",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.agroindustria.gob.ar/dataset/79fde464-1ed9-4c5d-8c84-0da29ff355ca/resource/7d3b1519-25a1-4b6f-bf73-fed99f40b9c6/download/produccion-de-biodiesel-por-planta-de-produccion-.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos.agroindustria.gob.ar/dataset/79fde464-1ed9-4c5d-8c84-0da29ff355ca/resource/fa12cdeb-263b-485d-b6b6-d354bb038719",
+      "attributesDescription": "[{\"specialType\": \"time_index\", \"specialTypeDetail\": \"R/P1M\", \"type\": \"date\", \"description\": \"Indice de Tiempo\", \"title\": \"indice_tiempo\"}, {\"units\": \"Toneladas\", \"id\": \"AGRO_0335\", \"type\": \"integer\", \"description\": \"Tipo de la planta de Producci\\u00f3n (Grande)\", \"title\": \"grande\"}, {\"units\": \"Toneladas\", \"id\": \"AGRO_0336\", \"type\": \"integer\", \"description\": \"Tipo de la planta de Producci\\u00f3n (Grande no integrada)\", \"title\": \"grande_no_integrada\"}, {\"units\": \"Toneladas\", \"id\": \"AGRO_0337\", \"type\": \"integer\", \"description\": \"Tipo de la planta de Producci\\u00f3n (Mediana)\", \"title\": \"mediana\"}, {\"units\": \"Toneladas\", \"id\": \"AGRO_0338\", \"type\": \"integer\", \"description\": \"Tipo de la planta de Producci\\u00f3n (Peque\\u00f1a)\", \"title\": \"pequenia\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-09-23T11:40:24.680024",
+      "datastore_active": false,
+      "description": "Serie de Tiempo de producción de Biodiesel por planta",
+      "fileName": "st_biodiesel_por_planta.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "agroindustria_fa12cdeb-263b-485d-b6b6-d354bb038719",
+      "last_modified": "2019-09-24T10:18:53.473884",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Serie de Tiempo de producción de Biodiesel por planta",
+      "package_id": "agroindustria_79fde464-1ed9-4c5d-8c84-0da29ff355ca",
+      "position": 1,
+      "resource_type": "file.upload",
+      "revision_id": "b548107a-5ffc-4468-a926-122a045f30e2",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.agroindustria.gob.ar/dataset/79fde464-1ed9-4c5d-8c84-0da29ff355ca/resource/fa12cdeb-263b-485d-b6b6-d354bb038719/download/st_biodiesel_por_planta.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "dbf18af7-a70f-439c-80a8-fdd3ddfabfab",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "biocombustibles",
+      "id": "d3066907-436f-4516-a913-c4cc9469479d",
+      "name": "biocombustibles",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "biodiesel",
+      "id": "21150748-3914-4543-9f9f-2d7f58e873a4",
+      "name": "biodiesel",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "bioeconomía",
+      "id": "f80bf0c3-bb7c-419f-9433-774e2dc9815b",
+      "name": "bioeconomía",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Biocombustible - Producción de biodiesel por planta",
+  "type": "dataset",
+  "url": "https://datos.agroindustria.gob.ar/dataset/produccion-biodiesel-por-planta-produccion",
+  "version": null
+}

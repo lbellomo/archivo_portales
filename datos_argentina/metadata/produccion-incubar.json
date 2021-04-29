@@ -1,0 +1,154 @@
+{
+  "author": "Secretaría de Emprendedores y PyMEs",
+  "author_email": "datos.abiertos@produccion.gob.ar",
+  "creator_user_id": "4720e75a-9e17-4dc3-879d-041917c7f9f9",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "eventual"
+    },
+    {
+      "key": "issued",
+      "value": "2018-10-09T14:13:54.000Z"
+    },
+    {
+      "key": "modified",
+      "value": "2020-02-26T02:44:59.000Z"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"econ\"]"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Economía y finanzas",
+      "display_name": "Economía y finanzas",
+      "id": "60b4b03e-10a1-4d67-b984-08008a249617",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225257.200233economia-finanzas.svg",
+      "name": "econ",
+      "title": "Economía y finanzas"
+    }
+  ],
+  "id": "produccion_rJFrPN9cQ",
+  "isopen": true,
+  "license_id": "CC-BY-4.0",
+  "license_title": "Creative Commons Attribution 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "maintainer": null,
+  "maintainer_email": null,
+  "metadata_created": "2019-11-26T14:57:11.367261",
+  "metadata_modified": "2021-04-29T17:04:39.310950",
+  "name": "produccion-incubar",
+  "notes": "Las organizaciones registradas en la Red Nacional de Incubadoras apoyan a nuevos emprendedores a través asesoramiento, capacitación y asistencia financiera.",
+  "num_resources": 2,
+  "num_tags": 5,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:10.463340",
+    "description": "",
+    "id": "1ca8d15b-31fc-4f09-ba09-53edd3d4cce6",
+    "image_url": "",
+    "is_organization": true,
+    "name": "produccion",
+    "revision_id": "36d8ec89-d20f-4fe1-866c-e38988d28442",
+    "state": "active",
+    "title": "Ministerio de Desarrollo Productivo",
+    "type": "organization"
+  },
+  "owner_org": "1ca8d15b-31fc-4f09-ba09-53edd3d4cce6",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "http://datos.produccion.gob.ar/dataset/incubar",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2018-10-09T11:13:54",
+      "datastore_active": false,
+      "description": "guia.",
+      "format": "PDF",
+      "hash": "",
+      "id": "produccion_BJHeCH5q7",
+      "last_modified": "2019-02-05T16:28:01",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Guia de datos Incubar",
+      "package_id": "produccion_rJFrPN9cQ",
+      "position": 0,
+      "resource_type": null,
+      "revision_id": "c1b8cbb6-9ddb-451c-83d8-94cafe7d04a4",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.produccion.gob.ar/api/files/guia-de-datos-incubar.pdf/download",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos.produccion.gob.ar/dataset/incubar",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2018-10-09T11:13:54",
+      "datastore_active": false,
+      "description": "Organizaciones que incuban empresas o asisten a emprendedores en sus proyectos registradas en la Red Nacional de Incubadoras, por provincia, departamento y localidad.",
+      "format": "CSV",
+      "hash": "",
+      "id": "produccion_rJlFD45qm",
+      "last_modified": "2019-02-05T16:28:01",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Incubadoras registradas",
+      "package_id": "produccion_rJFrPN9cQ",
+      "position": 1,
+      "resource_type": null,
+      "revision_id": "c266a45a-d7a5-4100-8870-1265cd2b5e4d",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.produccion.gob.ar/api/files/incubadoras-registradas.csv/download",
+      "url_type": null
+    }
+  ],
+  "revision_id": "d3bd2d93-3b9a-49fe-88cb-98008f96d1af",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "Emprendedores",
+      "id": "1ec9b06b-31d5-4d1c-a198-bbeb43c48486",
+      "name": "Emprendedores",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Incubadoras",
+      "id": "2f0bbe67-054f-4883-bed2-09a0eab7daba",
+      "name": "Incubadoras",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Incubar",
+      "id": "4b9d5054-be2d-43fd-8718-9f13774ea804",
+      "name": "Incubar",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "PyMEs",
+      "id": "5e48e296-35ca-43d6-8f07-7a3010aeb059",
+      "name": "PyMEs",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Pymes",
+      "id": "97635f98-f203-4647-ae25-9a02f74c1d28",
+      "name": "Pymes",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Incubar",
+  "type": "dataset",
+  "url": "http://datos.produccion.gob.ar/dataset/incubar",
+  "version": null
+}

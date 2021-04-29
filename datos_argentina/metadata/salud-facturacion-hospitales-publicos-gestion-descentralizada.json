@@ -1,0 +1,246 @@
+{
+  "author": "Ministerio de Salud. Superintendencia de Servicios de Salud. Gerencia de Control Prestacional.",
+  "author_email": "datos@sssalud.gob.ar",
+  "creator_user_id": "4720e75a-9e17-4dc3-879d-041917c7f9f9",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P6M"
+    },
+    {
+      "key": "issued",
+      "value": "2018-10-05T11:42:11.813712"
+    },
+    {
+      "key": "language",
+      "value": "[\"spa\"]"
+    },
+    {
+      "key": "modified",
+      "value": "2020-05-15T15:47:48.161971"
+    },
+    {
+      "key": "source",
+      "value": "Ministerio de Salud. Superintendencia de Servicios de Salud. Gerencia de Control Prestacional."
+    },
+    {
+      "key": "spatial",
+      "value": "[\"ARG\"]"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"HEAL\"]"
+    },
+    {
+      "key": "temporal",
+      "value": "2018-01-01T03:00:00.000Z/2018-12-17T03:00:00.000Z"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Salud",
+      "display_name": "Salud",
+      "id": "65cc1fbf-703a-43bf-8a14-232a55c34976",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225809.913196salud.svg",
+      "name": "heal",
+      "title": "Salud"
+    }
+  ],
+  "id": "salud_9d6315aa-6ba3-4ac2-acfd-f26233cba241",
+  "isopen": false,
+  "license_id": "notspecified",
+  "license_title": "No se especificó la licencia",
+  "maintainer": "Ministerio de Salud. Superintendencia de Servicios de Salud. Gerencia de Control Prestacional.",
+  "maintainer_email": "datos@sssalud.gob.ar",
+  "metadata_created": "2019-11-26T15:01:50.436049",
+  "metadata_modified": "2021-04-29T17:05:30.673183",
+  "name": "salud-facturacion-hospitales-publicos-gestion-descentralizada",
+  "notes": "Facturas pagas por prestaciones Brindadas a Beneficiarios de Obras Sociales\r\n",
+  "num_resources": 5,
+  "num_tags": 5,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-11-15T11:12:22.202856",
+    "description": "",
+    "id": "dd1f2018-587f-43af-9b07-fc32f5ab588b",
+    "image_url": "",
+    "is_organization": true,
+    "name": "salud",
+    "revision_id": "14f0bb85-f97d-4325-b1c8-a7c1d3a815bf",
+    "state": "active",
+    "title": "Ministerio de Salud",
+    "type": "organization"
+  },
+  "owner_org": "dd1f2018-587f-43af-9b07-fc32f5ab588b",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "http://datos.salud.gob.ar/dataset/9d6315aa-6ba3-4ac2-acfd-f26233cba241/resource/d5857ba9-33a4-45ef-8af8-29ceaa9b8c70",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2018-10-05T11:43:45.668315",
+      "datastore_active": false,
+      "description": "Facturas pagas por prestaciones Brindadas a Beneficiarios de Obras Sociales, del 5/1/2018 al 6/12/2018",
+      "fileName": "facturacion-de-hospirales-publicos-de-gestion-descentralizada-20181217.xls",
+      "format": "XLS",
+      "hash": "",
+      "id": "salud_d5857ba9-33a4-45ef-8af8-29ceaa9b8c70",
+      "last_modified": "2019-04-16T10:27:51.550745",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Facturación de Hospitales Públicos de Gestión descentralizada",
+      "package_id": "salud_9d6315aa-6ba3-4ac2-acfd-f26233cba241",
+      "position": 0,
+      "resource_type": "file",
+      "revision_id": "058916c6-c626-4a02-a1e0-2957623bc1a6",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.salud.gob.ar/dataset/9d6315aa-6ba3-4ac2-acfd-f26233cba241/resource/d5857ba9-33a4-45ef-8af8-29ceaa9b8c70/download/facturacion-de-hospirales-publicos-de-gestion-descentralizada-20181217.xls",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos.salud.gob.ar/dataset/9d6315aa-6ba3-4ac2-acfd-f26233cba241/resource/148185dd-d9ae-4b0c-ae79-4f8e7f0fc2d5",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-04-16T10:35:17.141404",
+      "datastore_active": false,
+      "description": "Facturas pagas por prestaciones brindadas a Beneficiarios de Obras Sociales, del 5/1/2018 al 6/12/2018",
+      "fileName": "facturacion-de-hospitales-publicos-de-gestion-descentralizada-20181217.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "salud_148185dd-d9ae-4b0c-ae79-4f8e7f0fc2d5",
+      "last_modified": "2019-04-16T10:43:25.216410",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Facturación de Hospitales Públicos de Gestión descentralizada",
+      "package_id": "salud_9d6315aa-6ba3-4ac2-acfd-f26233cba241",
+      "position": 1,
+      "resource_type": "file.upload",
+      "revision_id": "058916c6-c626-4a02-a1e0-2957623bc1a6",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.salud.gob.ar/dataset/9d6315aa-6ba3-4ac2-acfd-f26233cba241/resource/148185dd-d9ae-4b0c-ae79-4f8e7f0fc2d5/download/facturacion-de-hospitales-publicos-de-gestion-descentralizada-20181217.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos.salud.gob.ar/dataset/9d6315aa-6ba3-4ac2-acfd-f26233cba241/resource/3bf928fc-7243-454d-bc5b-b428b0cdcf39",
+      "attributesDescription": "[{\"type\": \"date\", \"description\": \"Fecha de Deposito\", \"title\": \"fecha_deposito\"}, {\"type\": \"string\", \"description\": \"N\\u00famero de expediente\", \"title\": \"nro_expediente\"}, {\"type\": \"number\", \"description\": \"Importe Aprobado\", \"title\": \"importe_aprobado\"}, {\"type\": \"string\", \"description\": \"Nombre Hospital\", \"title\": \"nombre_hospital\"}, {\"type\": \"integer\", \"description\": \"C\\u00f3digo Refes\", \"title\": \"codigo_refes\"}, {\"type\": \"integer\", \"description\": \"C\\u00f3digo de Provincia\", \"title\": \"id_provincia\"}, {\"type\": \"string\", \"description\": \"Nombre de Provincia\", \"title\": \"provincia\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-08-27T10:07:17.911940",
+      "datastore_active": false,
+      "description": "Facturas pagas por prestaciones Brindadas a Beneficiarios de Obras Sociales, del diciembre 2018 a agosto 2019",
+      "fileName": "sss-facturacion-hospitales-publicos-gestion-descentralizada-2019.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "salud_3bf928fc-7243-454d-bc5b-b428b0cdcf39",
+      "last_modified": "2019-08-27T10:07:17.911940",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Facturación de Hospitales Públicos de Gestión descentralizada - Agosto 2019",
+      "package_id": "salud_9d6315aa-6ba3-4ac2-acfd-f26233cba241",
+      "position": 2,
+      "resource_type": "file.upload",
+      "revision_id": "058916c6-c626-4a02-a1e0-2957623bc1a6",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.salud.gob.ar/dataset/9d6315aa-6ba3-4ac2-acfd-f26233cba241/resource/3bf928fc-7243-454d-bc5b-b428b0cdcf39/download/sss-facturacion-hospitales-publicos-gestion-descentralizada-2019.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos.salud.gob.ar/dataset/9d6315aa-6ba3-4ac2-acfd-f26233cba241/resource/7db25c6d-0316-4d4d-a0c2-1cd4d85f50c3",
+      "attributesDescription": "[{\"type\": \"date\", \"description\": \"Fecha de Deposito \", \"title\": \"fecha_deposito\"}, {\"type\": \"string\", \"description\": \"N\\u00famero de expediente\", \"title\": \"nro_expediente\"}, {\"type\": \"number\", \"description\": \"Importe Aprobado\", \"title\": \"importe_aprobado\"}, {\"type\": \"string\", \"description\": \"Nombre Hospital\", \"title\": \"nombre_hospital\"}, {\"type\": \"integer\", \"description\": \"C\\u00f3digo Refes\", \"title\": \"codigo_refes\"}, {\"type\": \"integer\", \"description\": \"C\\u00f3digo de Provincia\", \"title\": \"id_provincia\"}, {\"type\": \"string\", \"description\": \"Nombre de Provincia\", \"title\": \"provincia \"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-08-27T10:10:08.488073",
+      "datastore_active": false,
+      "description": "Facturas pagas por prestaciones Brindadas a Beneficiarios de Obras Sociales, del diciembre 2018 a agosto 2019",
+      "fileName": "sss-facturacion-hospitales-publicos-gestion-descentralizada-2019.xls",
+      "format": "XLS",
+      "hash": "",
+      "id": "salud_7db25c6d-0316-4d4d-a0c2-1cd4d85f50c3",
+      "last_modified": "2019-08-27T10:10:08.488073",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Facturación de Hospitales Públicos de Gestión descentralizada - Agosto 2019",
+      "package_id": "salud_9d6315aa-6ba3-4ac2-acfd-f26233cba241",
+      "position": 3,
+      "resource_type": "file.upload",
+      "revision_id": "058916c6-c626-4a02-a1e0-2957623bc1a6",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.salud.gob.ar/dataset/9d6315aa-6ba3-4ac2-acfd-f26233cba241/resource/7db25c6d-0316-4d4d-a0c2-1cd4d85f50c3/download/sss-facturacion-hospitales-publicos-gestion-descentralizada-2019.xls",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos.salud.gob.ar/dataset/9d6315aa-6ba3-4ac2-acfd-f26233cba241/resource/eb180d53-b3b6-497e-9685-8f69588df88b",
+      "attributesDescription": "[{\"type\": \"date\", \"description\": \"Fecha de Deposito\", \"title\": \"fecha_deposito\"}, {\"type\": \"string\", \"description\": \"N\\u00famero de expediente\", \"title\": \"nro_expediente\"}, {\"type\": \"number\", \"description\": \"Importe Aprobado\", \"title\": \"importe_aprobado\"}, {\"type\": \"string\", \"description\": \"Nombre Hospital\", \"title\": \"nombre_hospital\"}, {\"type\": \"integer\", \"description\": \"C\\u00f3digo Refes\", \"title\": \"codigo_refes\"}, {\"type\": \"integer\", \"description\": \"C\\u00f3digo de Provincia\", \"title\": \"id_provincia\"}, {\"type\": \"string\", \"description\": \"Nombre de Provincia \", \"title\": \"provincia\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-08-27T10:12:48.694179",
+      "datastore_active": false,
+      "description": "Facturas pagas por prestaciones Brindadas a Beneficiarios de Obras Sociales, del diciembre 2018 a agosto 2019",
+      "fileName": "sss-facturacion-hospitales-publicos-gestion-descentralizada-2019.json",
+      "format": "JSON",
+      "hash": "",
+      "id": "salud_eb180d53-b3b6-497e-9685-8f69588df88b",
+      "last_modified": "2019-08-27T10:12:48.694179",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Facturación de Hospitales Públicos de Gestión descentralizada - Agosto 2019",
+      "package_id": "salud_9d6315aa-6ba3-4ac2-acfd-f26233cba241",
+      "position": 4,
+      "resource_type": "file.upload",
+      "revision_id": "058916c6-c626-4a02-a1e0-2957623bc1a6",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.salud.gob.ar/dataset/9d6315aa-6ba3-4ac2-acfd-f26233cba241/resource/eb180d53-b3b6-497e-9685-8f69588df88b/download/sss-facturacion-hospitales-publicos-gestion-descentralizada-2019.json",
+      "url_type": null
+    }
+  ],
+  "revision_id": "f5cb6da7-db75-492a-9841-8293df3a2d92",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "Gestión en Salud",
+      "id": "40df5559-014f-4ebc-abf9-edcf2ec496b2",
+      "name": "Gestión en Salud",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "SSS",
+      "id": "2cc03fb7-dd56-4ee4-a757-8585898f7446",
+      "name": "SSS",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "contratacion",
+      "id": "72611093-8640-45e4-99f3-31f9db5dc0ab",
+      "name": "contratacion",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "facturacion",
+      "id": "02ae0e01-c165-4978-b953-e01642b0fd84",
+      "name": "facturacion",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "hospitales públicos",
+      "id": "9d283c47-76cb-49da-988e-830a3370a84b",
+      "name": "hospitales públicos",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Facturación de Hospitales Públicos de Gestión Descentralizada",
+  "type": "dataset",
+  "url": "https://www.sssalud.gob.ar/",
+  "version": null
+}

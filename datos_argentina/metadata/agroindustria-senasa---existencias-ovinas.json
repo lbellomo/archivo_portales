@@ -1,0 +1,177 @@
+{
+  "author": "Dirección Nacional de Sanidad Animal",
+  "author_email": "desycg@senasa.gob.ar",
+  "creator_user_id": "dc157489-51c6-44ce-bd63-3bd983d60778",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P1Y"
+    },
+    {
+      "key": "issued",
+      "value": "2019-09-12T17:42:01.523865"
+    },
+    {
+      "key": "language",
+      "value": "[\"spa\"]"
+    },
+    {
+      "key": "modified",
+      "value": "2019-10-24T10:35:49.994143"
+    },
+    {
+      "key": "source",
+      "value": "Servicio Nacional de Sanidad y Calidad Agroalimentaria - SENASA"
+    },
+    {
+      "key": "spatial",
+      "value": "[\"ARG\"]"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"AGRI\"]"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Agroganadería, pesca y forestación",
+      "display_name": "Agroganadería, pesca y forestación",
+      "id": "0c35ea38-7059-41d2-9827-5587769d0dc6",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225145.990789agroganaderia-pesca-forestacion.svg",
+      "name": "agri",
+      "title": "Agroganadería, pesca y forestación"
+    }
+  ],
+  "id": "agroindustria_107f502f-d0f8-4835-860e-cc7d2fc5425f",
+  "isopen": true,
+  "license_id": "CC-BY-4.0",
+  "license_title": "Creative Commons Attribution 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "maintainer": "Dirección Nacional de Sanidad Animal",
+  "maintainer_email": "desycg@senasa.gob.ar",
+  "metadata_created": "2019-12-04T20:01:26.328370",
+  "metadata_modified": "2021-04-29T17:06:28.090047",
+  "name": "agroindustria-senasa---existencias-ovinas",
+  "notes": "Existencias ovinas por provincia y partido / departamento, clasificadas en categorías.",
+  "num_resources": 2,
+  "num_tags": 6,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:07.834957",
+    "description": "",
+    "id": "b10c94e2-ade1-4a97-8c4c-b1ada7878d60",
+    "image_url": "",
+    "is_organization": true,
+    "name": "agroindustria",
+    "revision_id": "f7c3b6e9-d48f-4522-9f7a-388d805c8392",
+    "state": "active",
+    "title": "Ministerio de Agricultura, Ganadería y Pesca",
+    "type": "organization"
+  },
+  "owner_org": "b10c94e2-ade1-4a97-8c4c-b1ada7878d60",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "http://datos.agroindustria.gob.ar/dataset/107f502f-d0f8-4835-860e-cc7d2fc5425f/resource/5dfb3c49-7260-4dc4-afa3-95f3459754a6",
+      "attributesDescription": "[{\"type\": \"date\", \"description\": \"A\\u00f1o correspondiente al relevamiento.\", \"title\": \"anio\"}, {\"type\": \"string\", \"description\": \"Nombre de la provincia.\", \"title\": \"provincia\"}, {\"type\": \"integer\", \"description\": \"C\\u00f3digo de la provincia.\", \"title\": \"provincia_id\"}, {\"type\": \"string\", \"description\": \"Nombre del partido / departamento.\", \"title\": \"departamento\"}, {\"type\": \"integer\", \"description\": \"C\\u00f3digo del partido / departamento.\", \"title\": \"departamento_id\"}, {\"type\": \"integer\", \"description\": \"Cantidad de machos enteros adultos en edad reproductiva.\", \"title\": \"carneros\"}, {\"type\": \"integer\", \"description\": \"Cantidad de hembras adultas en edad reproductiva.\", \"title\": \"ovejas\"}, {\"type\": \"integer\", \"description\": \"Cantidad de machos j\\u00f3venes de reposici\\u00f3n.\", \"title\": \"borregos\"}, {\"type\": \"integer\", \"description\": \"Cantidad de machos castrados.\", \"title\": \"capones\"}, {\"type\": \"integer\", \"description\": \"Cantidad de cr\\u00edas machos y hembras.\", \"title\": \"corderos_corderas\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-09-12T15:01:37.948729",
+      "datastore_active": false,
+      "description": "Existencias ovinas por provincia y partido / departamento, clasificadas por categorías. Totales anuales desde Marzo 2008 a la última actualización.",
+      "fileName": "Existencias-ovinas-provincia-departamento-2008-2019.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "agroindustria_5dfb3c49-7260-4dc4-afa3-95f3459754a6",
+      "last_modified": "2019-11-28T15:37:23.322810",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Existencias ovinas",
+      "package_id": "agroindustria_107f502f-d0f8-4835-860e-cc7d2fc5425f",
+      "position": 0,
+      "resource_type": "file.upload",
+      "revision_id": "1b8f0759-5230-4d53-ae47-10bfbdbc95a2",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.agroindustria.gob.ar/dataset/107f502f-d0f8-4835-860e-cc7d2fc5425f/resource/5dfb3c49-7260-4dc4-afa3-95f3459754a6/download/existencias-ovinas-provincia-departamento-2008-2019.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos.agroindustria.gob.ar/dataset/107f502f-d0f8-4835-860e-cc7d2fc5425f/resource/6fdd4867-6eab-49c0-b27a-2bfb511a124f",
+      "attributesDescription": "[{\"specialType\": \"time_index\", \"specialTypeDetail\": \"R/P1Y\", \"type\": \"date\", \"title\": \"indice_tiempo\"}, {\"units\": \"Unidad\", \"id\": \"AGRO_0113\", \"type\": \"integer\", \"description\": \"Cantidad de machos enteros adultos en edad reproductiva.\", \"title\": \"carneros\"}, {\"units\": \"Unidad\", \"id\": \"AGRO_0114\", \"type\": \"integer\", \"description\": \"Cantidad de hembras adultas en edad reproductiva.\", \"title\": \"ovejas\"}, {\"units\": \"Unidad\", \"id\": \"AGRO_0115\", \"type\": \"integer\", \"description\": \"Cantidad de machos j\\u00f3venes de reposici\\u00f3n.\", \"title\": \"borregos\"}, {\"units\": \"Unidad\", \"id\": \"AGRO_0116\", \"type\": \"integer\", \"description\": \"Cantidad de machos castrados.\", \"title\": \"capones\"}, {\"units\": \"Unidad\", \"id\": \"AGRO_0117\", \"type\": \"integer\", \"description\": \"Cantidad de cr\\u00edas machos y hembras.\", \"title\": \"corderos_corderas\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-09-12T15:04:12.788858",
+      "datastore_active": false,
+      "description": "Existencias ovinas clasificadas por categorías. Totales anuales desde 2008 a la última actualización.",
+      "fileName": "Existencias-ovinas-2008-2019.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "agroindustria_6fdd4867-6eab-49c0-b27a-2bfb511a124f",
+      "last_modified": "2019-11-28T15:43:01.314480",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Serie de tiempo",
+      "package_id": "agroindustria_107f502f-d0f8-4835-860e-cc7d2fc5425f",
+      "position": 1,
+      "resource_type": "file.upload",
+      "revision_id": "1b8f0759-5230-4d53-ae47-10bfbdbc95a2",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.agroindustria.gob.ar/dataset/107f502f-d0f8-4835-860e-cc7d2fc5425f/resource/6fdd4867-6eab-49c0-b27a-2bfb511a124f/download/existencias-ovinas-2008-2019.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "3df2941e-c2b8-4a0e-9b16-4fe53e21de01",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "borregos",
+      "id": "62166a1f-e16c-4a90-a8a7-5f9ace58652a",
+      "name": "borregos",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "capones",
+      "id": "319e7022-ca8a-4f05-b116-caef6e4a0b7f",
+      "name": "capones",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "carneros",
+      "id": "f91a51ed-2f5d-4845-9216-f8b86bdcde90",
+      "name": "carneros",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "corderas",
+      "id": "ea5e215c-9dbc-46ff-a036-dda91693d5be",
+      "name": "corderas",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "corderos",
+      "id": "86321089-3a04-40c8-97ca-c32b1c7b56cb",
+      "name": "corderos",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "ovejas",
+      "id": "7cd8a05f-32c4-4d7a-9635-cadec2e34d25",
+      "name": "ovejas",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "SENASA - Existencias ovinas",
+  "type": "dataset",
+  "url": "https://datos.agroindustria.gob.ar/dataset/senasa-existencias-ovinas",
+  "version": null
+}

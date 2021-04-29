@@ -1,0 +1,188 @@
+{
+  "author": "Ministerio de Salud. Secretaría de Políticas. Regulación e Institutos. Administración Nacional de Medicamentos. Alimentos y Tecnología Médica (ANMAT). Dirección General de Información técnica",
+  "author_email": null,
+  "creator_user_id": "4720e75a-9e17-4dc3-879d-041917c7f9f9",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "eventual"
+    },
+    {
+      "key": "issued",
+      "value": "2018-07-27T10:13:57.748631"
+    },
+    {
+      "key": "language",
+      "value": "[\"spa\"]"
+    },
+    {
+      "key": "modified",
+      "value": "2020-05-15T15:40:53.563717"
+    },
+    {
+      "key": "source",
+      "value": "Ministerio de Salud. Secretaría de Políticas. Regulación e Institutos. Administración Nacional de Medicamentos. Alimentos y Tecnología Médica (ANMAT). Dirección General de Información técnica"
+    },
+    {
+      "key": "spatial",
+      "value": "[\"ARG\"]"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"HEAL\"]"
+    },
+    {
+      "key": "temporal",
+      "value": "2017-07-11T03:00:00.000Z/2018-07-11T03:00:00.000Z"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Salud",
+      "display_name": "Salud",
+      "id": "65cc1fbf-703a-43bf-8a14-232a55c34976",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225809.913196salud.svg",
+      "name": "heal",
+      "title": "Salud"
+    }
+  ],
+  "id": "salud_3e28c31c-2bcf-4a74-81cf-f992152f9e6a",
+  "isopen": false,
+  "license_id": "notspecified",
+  "license_title": "No se especificó la licencia",
+  "maintainer": "Ministerio de Salud. Secretaría de Políticas. Regulación e Institutos. Administración Nacional de Medicamentos. Alimentos y Tecnología Médica (ANMAT). Dirección General de Información técnica",
+  "maintainer_email": null,
+  "metadata_created": "2019-11-26T15:01:54.455789",
+  "metadata_modified": "2021-04-29T17:05:30.545129",
+  "name": "salud-actualizaciones-vademecun-nacional-medicamentos-vnm",
+  "notes": "Datos sobre las actualizaciones de los medicamentos comercializados en la República Argentina incluyendo laboratorio titular, número de certificado, nombre comercial y genérico",
+  "num_resources": 3,
+  "num_tags": 4,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-11-15T11:12:22.202856",
+    "description": "",
+    "id": "dd1f2018-587f-43af-9b07-fc32f5ab588b",
+    "image_url": "",
+    "is_organization": true,
+    "name": "salud",
+    "revision_id": "14f0bb85-f97d-4325-b1c8-a7c1d3a815bf",
+    "state": "active",
+    "title": "Ministerio de Salud",
+    "type": "organization"
+  },
+  "owner_org": "dd1f2018-587f-43af-9b07-fc32f5ab588b",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "http://datos.salud.gob.ar/dataset/3e28c31c-2bcf-4a74-81cf-f992152f9e6a/resource/7c95c566-e1fa-4ebc-a5b6-7a9f236a2f38",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2018-07-27T10:15:17.554242",
+      "datastore_active": false,
+      "description": "Actualizaciones de los medicamentos comercializados en la República Argentina para el mes de julio 2018",
+      "fileName": "vnm-jun-2018-.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "salud_7c95c566-e1fa-4ebc-a5b6-7a9f236a2f38",
+      "last_modified": "2019-04-15T13:41:54.113742",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Actualizaciones del Vademecun Nacional de Medicamentos (VNM) - julio 2018",
+      "package_id": "salud_3e28c31c-2bcf-4a74-81cf-f992152f9e6a",
+      "position": 0,
+      "resource_type": "file",
+      "revision_id": "2533669e-a80e-4656-9953-0936d62fc6e8",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.salud.gob.ar/dataset/3e28c31c-2bcf-4a74-81cf-f992152f9e6a/resource/7c95c566-e1fa-4ebc-a5b6-7a9f236a2f38/download/vnm-jun-2018-.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos.salud.gob.ar/dataset/3e28c31c-2bcf-4a74-81cf-f992152f9e6a/resource/5237a950-b47e-4f79-88c0-94ae39e4a319",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2018-12-20T11:16:32.286986",
+      "datastore_active": false,
+      "description": "Actualizaciones de los medicamentos comercializados en la República Argentina para el mes de diciembre 2018",
+      "fileName": "vnm-2018.xls",
+      "format": "XLS",
+      "hash": "",
+      "id": "salud_5237a950-b47e-4f79-88c0-94ae39e4a319",
+      "last_modified": "2019-04-15T13:46:18.776754",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Actualizaciones del Vademecun Nacional de Medicamentos (VNM) - diciembre 2018",
+      "package_id": "salud_3e28c31c-2bcf-4a74-81cf-f992152f9e6a",
+      "position": 1,
+      "resource_type": "file.upload",
+      "revision_id": "5f7e383a-4b17-43a0-b842-1e8701f587de",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.salud.gob.ar/dataset/3e28c31c-2bcf-4a74-81cf-f992152f9e6a/resource/5237a950-b47e-4f79-88c0-94ae39e4a319/download/vnm-2018.xls",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos.salud.gob.ar/dataset/3e28c31c-2bcf-4a74-81cf-f992152f9e6a/resource/9d5a5ee0-5942-428e-84ad-67f0a10091a3",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-04-15T13:51:18.987744",
+      "datastore_active": false,
+      "description": "Actualizaciones de los medicamentos comercializados en la República Argentina para el mes de diciembre 2018",
+      "fileName": "vnm-2018.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "salud_9d5a5ee0-5942-428e-84ad-67f0a10091a3",
+      "last_modified": "2019-04-15T13:51:18.987744",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Actualizaciones del Vademecun Nacional de Medicamentos (VNM) - diciembre 2018",
+      "package_id": "salud_3e28c31c-2bcf-4a74-81cf-f992152f9e6a",
+      "position": 2,
+      "resource_type": "file.upload",
+      "revision_id": "45cd1374-1913-477a-bbf9-ed08affe0793",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.salud.gob.ar/dataset/3e28c31c-2bcf-4a74-81cf-f992152f9e6a/resource/9d5a5ee0-5942-428e-84ad-67f0a10091a3/download/vnm-2018.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "ceb03627-5c60-4005-b5e7-e18a024bcf98",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "ANMAT",
+      "id": "9d3e5cea-c392-4baf-8d75-2643eda05c98",
+      "name": "ANMAT",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Vademecum y Medicamentos",
+      "id": "c65b8016-8fa2-425d-8c57-039898f8f677",
+      "name": "Vademecum y Medicamentos",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "medicamentos",
+      "id": "a2a25b11-1384-4852-a1f9-476e13fc7306",
+      "name": "medicamentos",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "vademecum",
+      "id": "00a74b6b-1787-4eb6-8052-2e465e8308d9",
+      "name": "vademecum",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Actualizaciones del Vademecun Nacional de Medicamentos (VNM)",
+  "type": "dataset",
+  "url": "https://www.argentina.gob.ar/anmat",
+  "version": null
+}

@@ -1,0 +1,147 @@
+{
+  "author": "Ministerio de Salud. Superintendencia de Servicios de Salud (SSS). Secretaria General. Unidad Administrativa.",
+  "author_email": "datos@sssalud.gob.ar",
+  "creator_user_id": "4720e75a-9e17-4dc3-879d-041917c7f9f9",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P6M"
+    },
+    {
+      "key": "issued",
+      "value": "2018-10-05T10:08:08.284871"
+    },
+    {
+      "key": "language",
+      "value": "[\"spa\"]"
+    },
+    {
+      "key": "modified",
+      "value": "2020-05-15T15:37:52.538407"
+    },
+    {
+      "key": "source",
+      "value": "Ministerio de Salud. Superintendencia de Servicios de Salud (SSS). Secretaria General. Unidad Administrativa."
+    },
+    {
+      "key": "spatial",
+      "value": "[\"ARG\"]"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"HEAL\"]"
+    },
+    {
+      "key": "temporal",
+      "value": "2018-01-01T03:00:00.000Z/2018-06-30T03:00:00.000Z"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Salud",
+      "display_name": "Salud",
+      "id": "65cc1fbf-703a-43bf-8a14-232a55c34976",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225809.913196salud.svg",
+      "name": "heal",
+      "title": "Salud"
+    }
+  ],
+  "id": "salud_57f0c4df-924c-4dac-b4bd-bce91c22e9d4",
+  "isopen": false,
+  "license_id": "notspecified",
+  "license_title": "No se especificó la licencia",
+  "maintainer": "Ministerio de Salud. Superintendencia de Servicios de Salud (SSS). Secretaria General. Unidad Administrativa.",
+  "maintainer_email": "datos@sssalud.gob.ar",
+  "metadata_created": "2019-11-26T15:01:48.334194",
+  "metadata_modified": "2021-04-29T17:05:44.195020",
+  "name": "salud-encuestas-satisfaccion-usuarios-centros-atencion-superintendencia-servicios-salud",
+  "notes": "Resultados de las encuestas de satisfacción realizadas en nuestros centros de atención en todo el país.\r\n",
+  "num_resources": 1,
+  "num_tags": 5,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-11-15T11:12:22.202856",
+    "description": "",
+    "id": "dd1f2018-587f-43af-9b07-fc32f5ab588b",
+    "image_url": "",
+    "is_organization": true,
+    "name": "salud",
+    "revision_id": "14f0bb85-f97d-4325-b1c8-a7c1d3a815bf",
+    "state": "active",
+    "title": "Ministerio de Salud",
+    "type": "organization"
+  },
+  "owner_org": "dd1f2018-587f-43af-9b07-fc32f5ab588b",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "http://datos.salud.gob.ar/dataset/57f0c4df-924c-4dac-b4bd-bce91c22e9d4/resource/35120aaa-3367-459b-9025-079f19137a86",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2018-10-05T10:08:43.874118",
+      "datastore_active": false,
+      "description": "Resultados de las encuestas de satisfacción realizadas en nuestros centros de atención en todo el país correspondientes al 1er semestre del año 2018.\r\n",
+      "fileName": "encuentas-satisfaccion-1-semetre-2018-.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "salud_35120aaa-3367-459b-9025-079f19137a86",
+      "last_modified": "2018-10-05T10:08:43.849051",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Encuestas de Satisfacción a Usuarios",
+      "package_id": "salud_57f0c4df-924c-4dac-b4bd-bce91c22e9d4",
+      "position": 0,
+      "resource_type": null,
+      "revision_id": "e30de85c-9b03-4511-9de3-e16d9c22846a",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.salud.gob.ar/dataset/57f0c4df-924c-4dac-b4bd-bce91c22e9d4/resource/35120aaa-3367-459b-9025-079f19137a86/download/encuentas-satisfaccion-1-semetre-2018-.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "2bc7a733-e80d-4a7b-a651-d872690aa573",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "Encuestas en Salud",
+      "id": "0d963466-94d3-4b03-b69c-c83160b3432f",
+      "name": "Encuestas en Salud",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "SSS",
+      "id": "2cc03fb7-dd56-4ee4-a757-8585898f7446",
+      "name": "SSS",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "encuesta",
+      "id": "53ab8b18-3edd-4232-a6c3-1779b492d455",
+      "name": "encuesta",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "satisfaccion",
+      "id": "8d805717-eafa-46c4-879a-24ecbf5469ed",
+      "name": "satisfaccion",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "usuarios",
+      "id": "a0a9da62-5b3b-4ae4-b366-f73b578889a1",
+      "name": "usuarios",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Encuestas Satisfacción a Usuarios en centros de atención de Superintendencia de Servicios de Salud",
+  "type": "dataset",
+  "url": "https://www.sssalud.gob.ar/",
+  "version": null
+}

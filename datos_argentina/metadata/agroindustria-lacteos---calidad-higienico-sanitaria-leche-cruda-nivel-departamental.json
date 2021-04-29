@@ -1,0 +1,217 @@
+{
+  "author": "Secretaría de Gobierno de Agroindustria - Dirección Nacional Láctea",
+  "author_email": "estadisticaslecheria@magyp.gob.ar",
+  "creator_user_id": "dc157489-51c6-44ce-bd63-3bd983d60778",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P1M"
+    },
+    {
+      "key": "issued",
+      "value": "2019-06-10T17:19:58.363607"
+    },
+    {
+      "key": "language",
+      "value": "[\"spa\"]"
+    },
+    {
+      "key": "modified",
+      "value": "2019-10-24T10:42:41.146359"
+    },
+    {
+      "key": "spatial",
+      "value": "[\"ARG\"]"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"AGRI\"]"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Agroganadería, pesca y forestación",
+      "display_name": "Agroganadería, pesca y forestación",
+      "id": "0c35ea38-7059-41d2-9827-5587769d0dc6",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225145.990789agroganaderia-pesca-forestacion.svg",
+      "name": "agri",
+      "title": "Agroganadería, pesca y forestación"
+    }
+  ],
+  "id": "agroindustria_110dc1d7-adcb-4700-aecb-dcc3d01b3d95",
+  "isopen": true,
+  "license_id": "CC-BY-4.0",
+  "license_title": "Creative Commons Attribution 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "maintainer": "Secretaría de Gobierno de Agroindustria - Dirección Nacional Láctea",
+  "maintainer_email": "estadisticaslecheria@magyp.gob.ar",
+  "metadata_created": "2019-12-04T21:12:49.574334",
+  "metadata_modified": "2021-04-29T17:11:00.325013",
+  "name": "agroindustria-lacteos---calidad-higienico-sanitaria-leche-cruda-nivel-departamental",
+  "notes": "Miles de unidades formadoras de colonias y células somáticas en cada cm3 de leche cruda. Se presenta el promedio a nivel departamental desde 2018 a la actualidad.",
+  "num_resources": 3,
+  "num_tags": 9,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:07.834957",
+    "description": "",
+    "id": "b10c94e2-ade1-4a97-8c4c-b1ada7878d60",
+    "image_url": "",
+    "is_organization": true,
+    "name": "agroindustria",
+    "revision_id": "f7c3b6e9-d48f-4522-9f7a-388d805c8392",
+    "state": "active",
+    "title": "Ministerio de Agricultura, Ganadería y Pesca",
+    "type": "organization"
+  },
+  "owner_org": "b10c94e2-ade1-4a97-8c4c-b1ada7878d60",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "http://datos.agroindustria.gob.ar/dataset/110dc1d7-adcb-4700-aecb-dcc3d01b3d95/resource/59a7f183-5735-4fc7-ad2d-f15d768f31bc",
+      "attributesDescription": "[{\"type\": \"date\", \"title\": \"indice_tiempo\"}, {\"type\": \"string\", \"description\": \"nombre_provincia\", \"title\": \"provincia\"}, {\"type\": \"integer\", \"description\": \"identificador_provincia\", \"title\": \"provincia_id\"}, {\"type\": \"string\", \"description\": \"nombre_departamento\", \"title\": \"departamento\"}, {\"type\": \"integer\", \"description\": \"identificador_departamento\", \"title\": \"departamento_id\"}, {\"type\": \"number\", \"description\": \"Recuento_Celulas_Somaticas_en_miles\", \"title\": \"RCS_miles\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-06-10T14:21:17.660548",
+      "datastore_active": false,
+      "description": "Cálculo del Recuento de Células Somáticas (RCS) promedio a nivel departamental por mes a partir de enero del 2018 hasta la actualidad",
+      "fileName": "RCS.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "agroindustria_59a7f183-5735-4fc7-ad2d-f15d768f31bc",
+      "last_modified": "2019-12-18T14:47:15.863257",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Recuento de Células Somáticas desde Enero del 2018 hasta la actualidad",
+      "package_id": "agroindustria_110dc1d7-adcb-4700-aecb-dcc3d01b3d95",
+      "position": 0,
+      "resource_type": "file.upload",
+      "revision_id": "bb079b04-b428-4a24-bc52-67c577e3f563",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.agroindustria.gob.ar/dataset/110dc1d7-adcb-4700-aecb-dcc3d01b3d95/resource/59a7f183-5735-4fc7-ad2d-f15d768f31bc/download/rcs.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos.agroindustria.gob.ar/dataset/110dc1d7-adcb-4700-aecb-dcc3d01b3d95/resource/a05ee41a-7a2b-4b22-972f-429079d0b826",
+      "attributesDescription": "[{\"type\": \"date\", \"title\": \"indice_tiempo\"}, {\"type\": \"string\", \"description\": \"nombre_provincia\", \"title\": \"provincia\"}, {\"type\": \"integer\", \"description\": \"identificador_provincia\", \"title\": \"provincia_id\"}, {\"type\": \"string\", \"description\": \"nombre_departamento\", \"title\": \"departamento\"}, {\"type\": \"integer\", \"description\": \"identificador_departamento\", \"title\": \"departamento_id\"}, {\"type\": \"number\", \"description\": \"Unidades_Formadoras_de_Colonias_en_miles\", \"title\": \"UFC_miles\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-06-12T11:26:14.755267",
+      "datastore_active": false,
+      "description": "Cálculo de Unidades Formadoras de Colonia (UFC) promedio a nivel departamental por mes\r\na nivel departamental desde 2018 a la actualidad.",
+      "fileName": "UFC.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "agroindustria_a05ee41a-7a2b-4b22-972f-429079d0b826",
+      "last_modified": "2019-12-18T14:47:50.102312",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Unidades Formadoras de Colonias desde Enero del 2018 a la actualidad",
+      "package_id": "agroindustria_110dc1d7-adcb-4700-aecb-dcc3d01b3d95",
+      "position": 1,
+      "resource_type": "file.upload",
+      "revision_id": "bb079b04-b428-4a24-bc52-67c577e3f563",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.agroindustria.gob.ar/dataset/110dc1d7-adcb-4700-aecb-dcc3d01b3d95/resource/a05ee41a-7a2b-4b22-972f-429079d0b826/download/ufc.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos.agroindustria.gob.ar/dataset/110dc1d7-adcb-4700-aecb-dcc3d01b3d95/resource/65760243-5712-4ef7-81ff-af250c5935d8",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-12-18T12:34:54.542218",
+      "datastore_active": false,
+      "description": "Vaya a \"Descargar\" para acceder al visor.",
+      "format": "url",
+      "hash": "",
+      "id": "agroindustria_65760243-5712-4ef7-81ff-af250c5935d8",
+      "last_modified": "2019-12-18T12:34:54.542218",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Visor de calidad de leche",
+      "package_id": "agroindustria_110dc1d7-adcb-4700-aecb-dcc3d01b3d95",
+      "position": 2,
+      "resource_type": "file",
+      "revision_id": "24e48e6d-8254-4417-9cb5-16f07edbd64e",
+      "size": null,
+      "state": "active",
+      "url": "https://geoportal.agroindustria.gob.ar/tematizador/lecheria/",
+      "url_type": null
+    }
+  ],
+  "revision_id": "e6073587-596e-4ae7-964a-71c32fed71e3",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "RCS",
+      "id": "2f661c0d-842f-47c5-a23a-c10d1c5b7119",
+      "name": "RCS",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "UFC",
+      "id": "0616cac9-4221-45e1-823a-24b56565a35e",
+      "name": "UFC",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "calidad",
+      "id": "f72ec936-6daf-4fb6-ae8b-8373ebc66735",
+      "name": "calidad",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "lacteos",
+      "id": "9e6b26d8-1663-4102-b84b-8d3d36505c78",
+      "name": "lacteos",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "leche",
+      "id": "50198eec-058b-4999-a070-8cf268e8e576",
+      "name": "leche",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "leche cruda",
+      "id": "1c7b38ce-7271-4ea2-9478-e793e3b65848",
+      "name": "leche cruda",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "lecheria",
+      "id": "b1eb85de-53de-4a37-b985-5ce538eb8d9c",
+      "name": "lecheria",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "recuento celulas somaticas",
+      "id": "47fd0382-eb5c-4735-9290-b1f671103a3c",
+      "name": "recuento celulas somaticas",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "unidades formadoras de colonias",
+      "id": "a02049ad-d1d0-4035-aaaa-7a72cf74c791",
+      "name": "unidades formadoras de colonias",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Lácteos - Calidad higiénico sanitaria de la leche cruda a nivel departamental",
+  "type": "dataset",
+  "url": "https://datos.agroindustria.gob.ar/dataset/recuento-de-celulas-somaticas-lecheria",
+  "version": null
+}

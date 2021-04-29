@@ -1,0 +1,175 @@
+{
+  "author": "Dirección de Bioenergía, Secretaria de Alimentos y Bioeconomía",
+  "author_email": "dae@magyp.gob.ar",
+  "creator_user_id": "dc157489-51c6-44ce-bd63-3bd983d60778",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P1M"
+    },
+    {
+      "key": "issued",
+      "value": "2018-12-07T21:21:18.107527"
+    },
+    {
+      "key": "language",
+      "value": "[\"spa\"]"
+    },
+    {
+      "key": "modified",
+      "value": "2019-10-24T10:39:50.711799"
+    },
+    {
+      "key": "spatial",
+      "value": "[\"ARG\"]"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"AGRI\", \"ECON\", \"TRAN\"]"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Agroganadería, pesca y forestación",
+      "display_name": "Agroganadería, pesca y forestación",
+      "id": "0c35ea38-7059-41d2-9827-5587769d0dc6",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225145.990789agroganaderia-pesca-forestacion.svg",
+      "name": "agri",
+      "title": "Agroganadería, pesca y forestación"
+    },
+    {
+      "description": "Economía y finanzas",
+      "display_name": "Economía y finanzas",
+      "id": "60b4b03e-10a1-4d67-b984-08008a249617",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225257.200233economia-finanzas.svg",
+      "name": "econ",
+      "title": "Economía y finanzas"
+    },
+    {
+      "description": "Transporte",
+      "display_name": "Transporte",
+      "id": "57227cfc-80a6-45d3-9faa-711a98ac8ede",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225933.272993transporte.svg",
+      "name": "tran",
+      "title": "Transporte"
+    }
+  ],
+  "id": "agroindustria_e45a80d7-08dc-499e-9f10-b864f260cf60",
+  "isopen": true,
+  "license_id": "CC-BY-4.0",
+  "license_title": "Creative Commons Attribution 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "maintainer": "Dirección de Bioenergía",
+  "maintainer_email": "dae@magyp.gob.ar",
+  "metadata_created": "2019-12-04T21:13:17.326433",
+  "metadata_modified": "2021-04-29T17:16:20.491235",
+  "name": "agroindustria-biocombustible---ventas-internas-biodiesel",
+  "notes": "Ventas Internas de Biodiesel para corte y otros usos.",
+  "num_resources": 2,
+  "num_tags": 4,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:07.834957",
+    "description": "",
+    "id": "b10c94e2-ade1-4a97-8c4c-b1ada7878d60",
+    "image_url": "",
+    "is_organization": true,
+    "name": "agroindustria",
+    "revision_id": "f7c3b6e9-d48f-4522-9f7a-388d805c8392",
+    "state": "active",
+    "title": "Ministerio de Agricultura, Ganadería y Pesca",
+    "type": "organization"
+  },
+  "owner_org": "b10c94e2-ade1-4a97-8c4c-b1ada7878d60",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "http://datos.agroindustria.gob.ar/dataset/e45a80d7-08dc-499e-9f10-b864f260cf60/resource/3fafd846-05f5-45d8-b010-74723ed017af",
+      "attributesDescription": "[{\"type\": \"string\", \"description\": \"id_pais\", \"title\": \"id_pais\"}, {\"type\": \"string\", \"description\": \"nom_pais\", \"title\": \"nom_pais\"}, {\"type\": \"string\", \"description\": \"a\\u00f1o\", \"title\": \"a\\u00f1o\"}, {\"type\": \"string\", \"description\": \"mes\", \"title\": \"mes\"}, {\"type\": \"string\", \"description\": \"cod_unimed\", \"title\": \"cod_unimed\"}, {\"type\": \"string\", \"description\": \"nom_unimed\", \"title\": \"nom_unimed\"}, {\"type\": \"integer\", \"description\": \"al corte\", \"title\": \"al corte\"}, {\"type\": \"integer\", \"description\": \"otros\", \"title\": \"otros\"}, {\"type\": \"integer\", \"description\": \"total\", \"title\": \"total\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2018-06-26T15:18:31.961847",
+      "datastore_active": false,
+      "description": "Ventas internas de biodiesel para corte y otros usos, expresados en toneladas.",
+      "fileName": "ventas-internas-de-biodiesel-.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "agroindustria_3fafd846-05f5-45d8-b010-74723ed017af",
+      "last_modified": "2019-06-12T14:56:54.248751",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Ventas internas de biodiesel",
+      "package_id": "agroindustria_e45a80d7-08dc-499e-9f10-b864f260cf60",
+      "position": 0,
+      "resource_type": "file.upload",
+      "revision_id": "14fe29b7-9112-4afa-8728-0840ebab5725",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.agroindustria.gob.ar/dataset/e45a80d7-08dc-499e-9f10-b864f260cf60/resource/3fafd846-05f5-45d8-b010-74723ed017af/download/ventas-internas-de-biodiesel-.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos.agroindustria.gob.ar/dataset/e45a80d7-08dc-499e-9f10-b864f260cf60/resource/d77168ed-f4d8-4841-8450-27eadc6b00bd",
+      "attributesDescription": "[{\"specialType\": \"time_index\", \"specialTypeDetail\": \"R/P1M\", \"type\": \"date\", \"description\": \"Indice de Tiempo\", \"title\": \"indice_tiempo\"}, {\"units\": \"Toneladas\", \"id\": \"AGRO_0339\", \"type\": \"integer\", \"description\": \"Venta interna de biodiesel para corte\", \"title\": \"al_corte\"}, {\"units\": \"Toneladas\", \"id\": \"AGRO_0340\", \"type\": \"integer\", \"description\": \"Venta interna de biodiesel por otros usos\", \"title\": \"otros\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-09-23T14:05:07.240059",
+      "datastore_active": false,
+      "description": "Serie de Tiempo de Ventas Internas de Biodiesel",
+      "fileName": "serie_tiempo_ventas_internas_de_biodiesel.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "agroindustria_d77168ed-f4d8-4841-8450-27eadc6b00bd",
+      "last_modified": "2019-09-24T10:19:41.906468",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Serie de Tiempo de Ventas Internas de Biodiesel",
+      "package_id": "agroindustria_e45a80d7-08dc-499e-9f10-b864f260cf60",
+      "position": 1,
+      "resource_type": "file.upload",
+      "revision_id": "14fe29b7-9112-4afa-8728-0840ebab5725",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.agroindustria.gob.ar/dataset/e45a80d7-08dc-499e-9f10-b864f260cf60/resource/d77168ed-f4d8-4841-8450-27eadc6b00bd/download/serie_tiempo_ventas_internas_de_biodiesel.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "76eed598-c0fe-4c93-a4a4-fb9334216c83",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "biocombustibles",
+      "id": "d3066907-436f-4516-a913-c4cc9469479d",
+      "name": "biocombustibles",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "biodiesel",
+      "id": "21150748-3914-4543-9f9f-2d7f58e873a4",
+      "name": "biodiesel",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "bioeconomia",
+      "id": "134f223d-8347-4703-a7c1-9dd34497ad54",
+      "name": "bioeconomia",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "bioenergia",
+      "id": "11e96f75-058b-4bbe-b859-eed71e9a22dc",
+      "name": "bioenergia",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Biocombustible - Ventas internas biodiesel",
+  "type": "dataset",
+  "url": "https://datos.agroindustria.gob.ar/dataset/ventas-internas-de-biodiesel",
+  "version": null
+}

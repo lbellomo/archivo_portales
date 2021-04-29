@@ -1,0 +1,141 @@
+{
+  "author": "Ministerio de Desarrollo Social de la Nación. Secretaría Nacional de Niñez, Adolescencia y Familia.",
+  "author_email": "datosabiertos@desarrollosocial.gob.ar",
+  "creator_user_id": "dc157489-51c6-44ce-bd63-3bd983d60778",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "eventual"
+    },
+    {
+      "key": "issued",
+      "value": "2021-04-17T11:02:10.074720"
+    },
+    {
+      "key": "language",
+      "value": "[\"spa\"]"
+    },
+    {
+      "key": "modified",
+      "value": "2021-04-26T09:30:45.498939"
+    },
+    {
+      "key": "spatial",
+      "value": "[\"ARG\"]"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"REGI\", \"SOCI\"]"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Población y sociedad",
+      "display_name": "Población y sociedad",
+      "id": "eb5df7fa-064a-4b51-89f6-af323ee1bf85",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225728.341804poblacion-sociedad.svg",
+      "name": "soci",
+      "title": "Población y sociedad"
+    },
+    {
+      "description": "Regiones y ciudades",
+      "display_name": "Regiones y ciudades",
+      "id": "c506f0a0-fc8a-4278-b007-eb7f76875914",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225752.196815regiones-ciudades.svg",
+      "name": "regi",
+      "title": "Regiones y ciudades"
+    }
+  ],
+  "id": "desarrollo-social_36230db2-2e9f-4d07-97f7-2abb2a344102",
+  "isopen": false,
+  "license_id": "notspecified",
+  "license_title": "No se especificó la licencia",
+  "maintainer": "Ministerio de Desarrollo Social de la Nación. Unidad de Gabinete de Asesores. Dirección General de Información Social Estratégica",
+  "maintainer_email": "datosabiertos@desarrollosocial.gob.ar",
+  "metadata_created": "2021-04-20T19:20:11.413672",
+  "metadata_modified": "2021-04-29T17:04:09.169706",
+  "name": "desarrollo-social-centros-desarrollo-infantil",
+  "notes": "Listado de Centros de Desarrollo Infantil por provincia y localidad.",
+  "num_resources": 1,
+  "num_tags": 4,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:10.908821",
+    "description": "",
+    "id": "ef25c735-2abb-4165-94a6-a6798a103603",
+    "image_url": "",
+    "is_organization": true,
+    "name": "desarrollo-social",
+    "revision_id": "a896ab9d-5ddd-4b93-9ecf-6578b069aee8",
+    "state": "active",
+    "title": "Ministerio de Desarrollo Social",
+    "type": "organization"
+  },
+  "owner_org": "ef25c735-2abb-4165-94a6-a6798a103603",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "https://datosabiertos.desarrollosocial.gob.ar//dataset/36230db2-2e9f-4d07-97f7-2abb2a344102/resource/b2c4fe19-a63c-4e56-b1b1-5e66ec55ea1a",
+      "attributesDescription": "[{\"type\": \"string\", \"description\": \"Nombre del Centro de Desarrollo Infantil\", \"title\": \"titulo\"}, {\"type\": \"string\", \"description\": \"Direcci\\u00f3n del Centro de Desarrollo Infantil\", \"title\": \"direccion\"}, {\"type\": \"string\", \"description\": \"Provincia d\\u00f3nde est\\u00e1 ubicado el Centro de Referencia\", \"title\": \"provincia\"}, {\"type\": \"string\", \"description\": \"Localidad d\\u00f3nde est\\u00e1 ubicado el Centro de Referencia\", \"title\": \"localidad\"}, {\"type\": \"string\", \"description\": \"Forma de contacto\", \"title\": \"contacto\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2021-04-17T11:02:30.743603",
+      "datastore_active": false,
+      "description": "Listado de Centros de Desarrollo Infantil por provincia y localidad",
+      "fileName": "centro_de_desarrollo_infantil-2021-04-20.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "desarrollo-social_b2c4fe19-a63c-4e56-b1b1-5e66ec55ea1a",
+      "last_modified": "2021-04-20T13:46:24.937870",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Centros de Desarrollo Infantil",
+      "package_id": "desarrollo-social_36230db2-2e9f-4d07-97f7-2abb2a344102",
+      "position": 0,
+      "resource_type": "file.upload",
+      "revision_id": "08a0654a-c7f3-41d3-b005-9481a49b1bfc",
+      "size": null,
+      "state": "active",
+      "url": "https://datosabiertos.desarrollosocial.gob.ar/dataset/36230db2-2e9f-4d07-97f7-2abb2a344102/resource/b2c4fe19-a63c-4e56-b1b1-5e66ec55ea1a/download/centro_de_desarrollo_infantil-2021-04-20.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "7ea87982-044b-4dcf-ba8d-7e49aa959230",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "adolescencia",
+      "id": "338b5ec9-577e-44fa-bc9e-a99375dc3ef0",
+      "name": "adolescencia",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "familia",
+      "id": "513838fa-b801-4269-a46e-c02886b53304",
+      "name": "familia",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "niñez",
+      "id": "1686f09f-7502-42f5-abe3-5908e1d7f67f",
+      "name": "niñez",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "politicas de cuidado",
+      "id": "02777909-f7d9-4d8d-b55b-e4dd64e31fbf",
+      "name": "politicas de cuidado",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Centros de Desarrollo Infantil",
+  "type": "dataset",
+  "url": "https://www.argentina.gob.ar/desarrollosocial/primerainfancia",
+  "version": null
+}

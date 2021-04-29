@@ -1,0 +1,187 @@
+{
+  "author": "Instituto Nacional de Vitivinicultura",
+  "author_email": "datosabiertos@inv.gov.ar",
+  "creator_user_id": "dc157489-51c6-44ce-bd63-3bd983d60778",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P1Y"
+    },
+    {
+      "key": "issued",
+      "value": "2018-12-07T21:20:54.650042"
+    },
+    {
+      "key": "language",
+      "value": "[\"spa\"]"
+    },
+    {
+      "key": "modified",
+      "value": "2019-10-24T10:42:58.610634"
+    },
+    {
+      "key": "spatial",
+      "value": "[\"ARG\"]"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"AGRI\"]"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Agroganadería, pesca y forestación",
+      "display_name": "Agroganadería, pesca y forestación",
+      "id": "0c35ea38-7059-41d2-9827-5587769d0dc6",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225145.990789agroganaderia-pesca-forestacion.svg",
+      "name": "agri",
+      "title": "Agroganadería, pesca y forestación"
+    }
+  ],
+  "id": "agroindustria_e217791c-e898-4204-8a62-63273cf81ef7",
+  "isopen": true,
+  "license_id": "CC-BY-4.0",
+  "license_title": "Creative Commons Attribution 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "maintainer": null,
+  "maintainer_email": null,
+  "metadata_created": "2019-12-04T21:12:51.222912",
+  "metadata_modified": "2021-04-29T17:10:43.251620",
+  "name": "agroindustria-inv---produccion-uvas",
+  "notes": "Producción de uvas - República Argentina - serie 2012 al 2017 - tiene por finalidad resaltar la producción total de uvas producidas en Argentina tanto para elaborar vinos - jugos de uvas (su posterior concentración) - uvas para consumo en fresco y pasas con destino a la venta en el mercado interno y exportación.",
+  "num_resources": 2,
+  "num_tags": 8,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:07.834957",
+    "description": "",
+    "id": "b10c94e2-ade1-4a97-8c4c-b1ada7878d60",
+    "image_url": "",
+    "is_organization": true,
+    "name": "agroindustria",
+    "revision_id": "f7c3b6e9-d48f-4522-9f7a-388d805c8392",
+    "state": "active",
+    "title": "Ministerio de Agricultura, Ganadería y Pesca",
+    "type": "organization"
+  },
+  "owner_org": "b10c94e2-ade1-4a97-8c4c-b1ada7878d60",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "http://datos.agroindustria.gob.ar/dataset/e217791c-e898-4204-8a62-63273cf81ef7/resource/ab0321ba-5a82-4b1e-8b96-9d6169b4e980",
+      "attributesDescription": "[{\"type\": \"string\", \"description\": \"pais_id\", \"title\": \"pais_id\"}, {\"type\": \"string\", \"description\": \"pais_productor\", \"title\": \"pais_productor\"}, {\"type\": \"string\", \"description\": \"provincia_id\", \"title\": \"provincia_id\"}, {\"type\": \"string\", \"description\": \"provincia_productora\", \"title\": \"provincia_productora\"}, {\"type\": \"string\", \"description\": \"departamento_id\", \"title\": \"departamento_id\"}, {\"type\": \"string\", \"description\": \"departamento_productor\", \"title\": \"departamento_productor\"}, {\"type\": \"string\", \"description\": \"localidad_productora\", \"title\": \"localidad_productora\"}, {\"type\": \"string\", \"description\": \"a\\u00f1o_cosecha\", \"title\": \"a\\u00f1o_cosecha\"}, {\"type\": \"string\", \"description\": \"quintales_producidos\", \"title\": \"quintales_producidos\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2018-07-17T12:09:03.594359",
+      "datastore_active": false,
+      "description": "Producción total de uvas destinadas a elaborar vinos, jugos de uvas, uvas para consumo en fresco y pasas, para la venta en el mercado interno y externo.",
+      "fileName": "produccion-de-uvas-de-argentina-2012-2017.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "agroindustria_ab0321ba-5a82-4b1e-8b96-9d6169b4e980",
+      "last_modified": "2019-05-16T12:31:10.520997",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Producción de uvas de Argentina. Serie 2012 - 2017",
+      "package_id": "agroindustria_e217791c-e898-4204-8a62-63273cf81ef7",
+      "position": 0,
+      "resource_type": "file.upload",
+      "revision_id": "b9c652c4-e8be-48bb-a954-6aa3898bc5c2",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.agroindustria.gob.ar/dataset/e217791c-e898-4204-8a62-63273cf81ef7/resource/ab0321ba-5a82-4b1e-8b96-9d6169b4e980/download/produccion-de-uvas-de-argentina-2012-2017.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos.agroindustria.gob.ar/dataset/e217791c-e898-4204-8a62-63273cf81ef7/resource/2a928aef-7f9e-4335-bf3d-a1c5eab49037",
+      "attributesDescription": "[{\"specialType\": \"time_index\", \"specialTypeDetail\": \"R/P1Y\", \"type\": \"date\", \"title\": \"indice_tiempo\"}, {\"units\": \"Quintales\", \"id\": \"AGRO_0188\", \"type\": \"number\", \"description\": \"Producci\\u00f3n de Buenos Aires.\", \"title\": \"produccion_bs_as\"}, {\"units\": \"Quintales\", \"id\": \"AGRO_0189\", \"type\": \"number\", \"description\": \"Producci\\u00f3n de Catamarca.\", \"title\": \"produccion_catamarca\"}, {\"units\": \"Quintales\", \"id\": \"AGRO_0190\", \"type\": \"number\", \"description\": \"Producci\\u00f3n de Chubut.\", \"title\": \"produccion_chubut\"}, {\"units\": \"Quintales\", \"id\": \"AGRO_0191\", \"type\": \"number\", \"description\": \"Producci\\u00f3n de C\\u00f3rdoba.\", \"title\": \"produccion_cordoba\"}, {\"units\": \"Quintales\", \"id\": \"AGRO_0192\", \"type\": \"number\", \"description\": \"Producci\\u00f3n de Entre R\\u00edos.\", \"title\": \"produccion_entre_rios\"}, {\"units\": \"Quintales\", \"id\": \"AGRO_0193\", \"type\": \"number\", \"description\": \"Producci\\u00f3n de Jujuy.\", \"title\": \"produccion_jujuy\"}, {\"units\": \"Quintales\", \"id\": \"AGRO_0194\", \"type\": \"number\", \"description\": \"Producci\\u00f3n de La Pampa.\", \"title\": \"produccion_la_pampa\"}, {\"units\": \"Quintales\", \"id\": \"AGRO_0195\", \"type\": \"number\", \"description\": \"Producci\\u00f3n de La Rioja.\", \"title\": \"produccion_la_rioja\"}, {\"units\": \"Quintales\", \"id\": \"AGRO_0196\", \"type\": \"number\", \"description\": \"Producci\\u00f3n de Mendoza.\", \"title\": \"produccion_mendoza\"}, {\"units\": \"Quintales\", \"id\": \"AGRO_0197\", \"type\": \"number\", \"description\": \"Producci\\u00f3n de Misiones.\", \"title\": \"produccion_misiones\"}, {\"units\": \"Quintales\", \"id\": \"AGRO_0198\", \"type\": \"number\", \"description\": \"Producci\\u00f3n de Neuquen.\", \"title\": \"produccion_neuquen\"}, {\"units\": \"Quintales\", \"id\": \"AGRO_0199\", \"type\": \"number\", \"description\": \"Producci\\u00f3n de R\\u00edo Negro.\", \"title\": \"produccion_rio_negro\"}, {\"units\": \"Quintales\", \"id\": \"AGRO_0200\", \"type\": \"number\", \"description\": \"Producci\\u00f3n de Salta.\", \"title\": \"produccion_salta\"}, {\"units\": \"Quintales\", \"id\": \"AGRO_0201\", \"type\": \"number\", \"description\": \"Producci\\u00f3n de San Juan.\", \"title\": \"produccion_san_juan\"}, {\"units\": \"Quintales\", \"id\": \"AGRO_0202\", \"type\": \"number\", \"description\": \"Producci\\u00f3n de San Luis.\", \"title\": \"produccion_san_luis\"}, {\"units\": \"Quintales\", \"id\": \"AGRO_0203\", \"type\": \"number\", \"description\": \"Producci\\u00f3n de Tucuman.\", \"title\": \"produccion_tucuman\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-05-16T15:50:53.311790",
+      "datastore_active": false,
+      "description": "Serie de la producción total de uvas destinadas a elaborar vinos, jugos de uvas, uvas para consumo en fresco y pasas, para la venta en el mercado interno y externo.",
+      "fileName": "serie-tiempo-produccion-de-uvas-de-argentina-2012-2017.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "agroindustria_2a928aef-7f9e-4335-bf3d-a1c5eab49037",
+      "last_modified": "2019-05-17T10:31:09.870361",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Serie de tiempo",
+      "package_id": "agroindustria_e217791c-e898-4204-8a62-63273cf81ef7",
+      "position": 1,
+      "resource_type": "file.upload",
+      "revision_id": "b9c652c4-e8be-48bb-a954-6aa3898bc5c2",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.agroindustria.gob.ar/dataset/e217791c-e898-4204-8a62-63273cf81ef7/resource/2a928aef-7f9e-4335-bf3d-a1c5eab49037/download/serie-tiempo-produccion-de-uvas-de-argentina-2012-2017.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "bd0e6fcd-298e-45a1-b27c-80f6acae3353",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "INV",
+      "id": "09b15d94-e213-45c6-95c9-5d88bb164b35",
+      "name": "INV",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "jugos de uva",
+      "id": "ea48eb8e-3c22-4b97-9632-c3136280e191",
+      "name": "jugos de uva",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "pasas",
+      "id": "2b266173-5a2e-4001-ad71-7585d7973a45",
+      "name": "pasas",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "pasas de uva",
+      "id": "21e38471-47fa-4312-83ca-19f5ef2c3ce3",
+      "name": "pasas de uva",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "uvas",
+      "id": "3cabde1a-df3a-4ccc-8b03-8d79b4cd7137",
+      "name": "uvas",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "vinos",
+      "id": "40c90abf-2b22-46da-9444-be9e3733e129",
+      "name": "vinos",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "vitivinicola",
+      "id": "0e87ece5-0aa8-4b0f-9f60-225e7dfb9d62",
+      "name": "vitivinicola",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "vitivinicultura",
+      "id": "70e9a1c4-e4b2-4813-93f4-29fd4774b005",
+      "name": "vitivinicultura",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "INV - Producción de uvas",
+  "type": "dataset",
+  "url": "https://datos.agroindustria.gob.ar/dataset/produccion-uvas-argentina",
+  "version": null
+}

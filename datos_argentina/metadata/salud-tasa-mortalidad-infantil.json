@@ -1,0 +1,134 @@
+{
+  "author": "Ministerio de Salud. Dirección de Estadística e Información en Salud (DEIS) ",
+  "author_email": "informaciondeis@gmail.com",
+  "creator_user_id": "4720e75a-9e17-4dc3-879d-041917c7f9f9",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P1Y"
+    },
+    {
+      "key": "issued",
+      "value": "2019-04-03T16:15:33.787131"
+    },
+    {
+      "key": "language",
+      "value": "[\"spa\"]"
+    },
+    {
+      "key": "modified",
+      "value": "2020-05-15T16:06:34.662212"
+    },
+    {
+      "key": "source",
+      "value": "Dirección de Estadística e Información en Salud (DEIS). Secretaría de Gobierno de Salud"
+    },
+    {
+      "key": "spatial",
+      "value": "[\"ARG\"]"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"HEAL\"]"
+    },
+    {
+      "key": "temporal",
+      "value": "1990-01-01T02:00:00.000Z/2017-12-31T03:00:00.000Z"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Salud",
+      "display_name": "Salud",
+      "id": "65cc1fbf-703a-43bf-8a14-232a55c34976",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225809.913196salud.svg",
+      "name": "heal",
+      "title": "Salud"
+    }
+  ],
+  "id": "salud_2eff770c-1c2b-4a22-9281-c3b5e9412086",
+  "isopen": false,
+  "license_id": "notspecified",
+  "license_title": "No se especificó la licencia",
+  "maintainer": "Ministerio de Salud. Dirección de Estadística e Información en Salud (DEIS) ",
+  "maintainer_email": "informaciondeis@gmail.com",
+  "metadata_created": "2019-11-26T15:01:52.035739",
+  "metadata_modified": "2021-04-29T17:05:40.295390",
+  "name": "salud-tasa-mortalidad-infantil",
+  "notes": "Tasa de Mortalidad Infantil por 1000 nacidos vivos por jurisdicción de residencia de la madre ocurridos en Argentina",
+  "num_resources": 1,
+  "num_tags": 3,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-11-15T11:12:22.202856",
+    "description": "",
+    "id": "dd1f2018-587f-43af-9b07-fc32f5ab588b",
+    "image_url": "",
+    "is_organization": true,
+    "name": "salud",
+    "revision_id": "14f0bb85-f97d-4325-b1c8-a7c1d3a815bf",
+    "state": "active",
+    "title": "Ministerio de Salud",
+    "type": "organization"
+  },
+  "owner_org": "dd1f2018-587f-43af-9b07-fc32f5ab588b",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "http://datos.salud.gob.ar/dataset/2eff770c-1c2b-4a22-9281-c3b5e9412086/resource/c1253897-d507-41f7-a3e1-6ed756e7243b",
+      "attributesDescription": "[{\"description\": \"Periodo de tiempo analizado\", \"specialTypeDetail\": \"R/P1Y\", \"title\": \"indice_tiempo\", \"specialType\": \"time_index\", \"type\": \"date\", \"id\": \"salud_0001\"}, {\"units\": \"Ni\\u00f1os menores de un a\\u00f1o de edad fallecidos por cada mil nacidos vivos\", \"id\": \"tmi_arg\", \"type\": \"number\", \"description\": \"Tasa de Mortalidad Infantil de Argentina\", \"title\": \"mortalidad_infantil_argentina\"}, {\"units\": \"Ni\\u00f1os menores de un a\\u00f1o de edad fallecidos por cada mil nacidos vivos\", \"id\": \"tmi_02\", \"type\": \"number\", \"description\": \"Tasa de Mortalidad Infantil de Ciudad Aut\\u00f3noma de Buenos Aires\", \"title\": \"mortalidad_infantil_caba\"}, {\"units\": \"Ni\\u00f1os menores de un a\\u00f1o de edad fallecidos por cada mil nacidos vivos\", \"id\": \"tmi_06\", \"type\": \"number\", \"description\": \"Tasa de Mortalidad Infantil de la Provincia de Buenos Aires\", \"title\": \"mortalidad_infantil_buenosaires\"}, {\"units\": \"Ni\\u00f1os menores de un a\\u00f1o de edad fallecidos por cada mil nacidos vivos\", \"id\": \"tmi_10\", \"type\": \"number\", \"description\": \"Tasa de Mortalidad Infantil de la Provincia de Catamarca\", \"title\": \"mortalidad_infantil_catamarca\"}, {\"units\": \"Ni\\u00f1os menores de un a\\u00f1o de edad fallecidos por cada mil nacidos vivos\", \"id\": \"tmi_14\", \"type\": \"number\", \"description\": \"Tasa de Mortalidad Infantil de la Provincia de C\\u00f3rdoba\", \"title\": \"mortalidad_infantil_cordoba\"}, {\"units\": \"Ni\\u00f1os menores de un a\\u00f1o de edad fallecidos por cada mil nacidos vivos\", \"id\": \"tmi_18\", \"type\": \"number\", \"description\": \"Tasa de Mortalidad Infantil de la Provincia de Corrientes\", \"title\": \"mortalidad_infantil_corrientes\"}, {\"units\": \"Ni\\u00f1os menores de un a\\u00f1o de edad fallecidos por cada mil nacidos vivos\", \"id\": \"tmi_22\", \"type\": \"number\", \"description\": \"Tasa de Mortalidad Infantil de la Provincia de Chaco\", \"title\": \"mortalidad_infantil_chaco\"}, {\"units\": \"Ni\\u00f1os menores de un a\\u00f1o de edad fallecidos por cada mil nacidos vivos\", \"id\": \"tmi_26\", \"type\": \"number\", \"description\": \"Tasa de Mortalidad Infantil de la Provincia de Chubut\", \"title\": \"mortalidad_infantil_chubut\"}, {\"units\": \"Ni\\u00f1os menores de un a\\u00f1o de edad fallecidos por cada mil nacidos vivos\", \"id\": \"tmi_30\", \"type\": \"number\", \"description\": \"Tasa de Mortalidad Infantil de la Provincia de Entre R\\u00edos\", \"title\": \"mortalidad_infantil_entrerios\"}, {\"units\": \"Ni\\u00f1os menores de un a\\u00f1o de edad fallecidos por cada mil nacidos vivos\", \"id\": \"tmi_34\", \"type\": \"number\", \"description\": \"Tasa de Mortalidad Infantil de la Provincia de Formosa\", \"title\": \"mortalidad_infantil_formosa\"}, {\"units\": \"Ni\\u00f1os menores de un a\\u00f1o de edad fallecidos por cada mil nacidos vivos\", \"id\": \"tmi_38\", \"type\": \"number\", \"description\": \"Tasa de Mortalidad Infantil de la Provincia de Jujuy\", \"title\": \"mortalidad_infantil_jujuy\"}, {\"units\": \"Ni\\u00f1os menores de un a\\u00f1o de edad fallecidos por cada mil nacidos vivos\", \"id\": \"tmi_42\", \"type\": \"number\", \"description\": \"Tasa de Mortalidad Infantil de la Provincia de La Pampa\", \"title\": \"mortalidad_infantil_lapampa\"}, {\"units\": \"Ni\\u00f1os menores de un a\\u00f1o de edad fallecidos por cada mil nacidos vivos\", \"id\": \"tmi_46\", \"type\": \"number\", \"description\": \"Tasa de Mortalidad Infantil de la Provincia de La Rioja\", \"title\": \"mortalidad_infantil_larioja\"}, {\"units\": \"Ni\\u00f1os menores de un a\\u00f1o de edad fallecidos por cada mil nacidos vivos\", \"id\": \"tmi_50\", \"type\": \"number\", \"description\": \"Tasa de Mortalidad Infantil de la Provincia de Mendoza\", \"title\": \"mortalidad_infantil_mendoza\"}, {\"units\": \"Ni\\u00f1os menores de un a\\u00f1o de edad fallecidos por cada mil nacidos vivos\", \"id\": \"tmi_54\", \"type\": \"number\", \"description\": \"Tasa de Mortalidad Infantil de la Provincia de Misiones\", \"title\": \"mortalidad_infantil_misiones\"}, {\"units\": \"Ni\\u00f1os menores de un a\\u00f1o de edad fallecidos por cada mil nacidos vivos\", \"id\": \"tmi_58\", \"type\": \"number\", \"description\": \"Tasa de Mortalidad Infantil de la Provincia de Neuquen\", \"title\": \"mortalidad_infantil_neuquen\"}, {\"units\": \"Ni\\u00f1os menores de un a\\u00f1o de edad fallecidos por cada mil nacidos vivos\", \"id\": \"tmi_62\", \"type\": \"number\", \"description\": \"Tasa de Mortalidad Infantil de la Provincia de R\\u00edo Negro\", \"title\": \"mortalidad_infantil_rionegro\"}, {\"units\": \"Ni\\u00f1os menores de un a\\u00f1o de edad fallecidos por cada mil nacidos vivos\", \"id\": \"tmi_66\", \"type\": \"number\", \"description\": \"Tasa de Mortalidad Infantil de la Provincia de Salta\", \"title\": \"mortalidad_infantil_salta\"}, {\"units\": \"Ni\\u00f1os menores de un a\\u00f1o de edad fallecidos por cada mil nacidos vivos\", \"id\": \"tmi_70\", \"type\": \"number\", \"description\": \"Tasa de Mortalidad Infantil de la Provincia de San Juan\", \"title\": \"mortalidad_infantil_sanjuan\"}, {\"units\": \"Ni\\u00f1os menores de un a\\u00f1o de edad fallecidos por cada mil nacidos vivos\", \"id\": \"tmi_74\", \"type\": \"number\", \"description\": \"Tasa de Mortalidad Infantil de la Provincia de San Luis\", \"title\": \"mortalidad_infantil_sanluis\"}, {\"units\": \"Ni\\u00f1os menores de un a\\u00f1o de edad fallecidos por cada mil nacidos vivos\", \"id\": \"tmi_78\", \"type\": \"number\", \"description\": \"Tasa de Mortalidad Infantil de la Provincia de Santa Cruz\", \"title\": \"mortalidad_infantil_santacruz\"}, {\"units\": \"Ni\\u00f1os menores de un a\\u00f1o de edad fallecidos por cada mil nacidos vivos\", \"id\": \"tmi_82\", \"type\": \"number\", \"description\": \"Tasa de Mortalidad Infantil de la Provincia de Santa Fe\", \"title\": \"mortalidad_infantil_santafe\"}, {\"units\": \"Ni\\u00f1os menores de un a\\u00f1o de edad fallecidos por cada mil nacidos vivos\", \"id\": \"tmi_86\", \"type\": \"number\", \"description\": \"Tasa de Mortalidad Infantil de la Provincia de Santiago del Estero\", \"title\": \"mortalidad_infantil_santiagodelestero\"}, {\"units\": \"Ni\\u00f1os menores de un a\\u00f1o de edad fallecidos por cada mil nacidos vivos\", \"id\": \"tmi_90\", \"type\": \"number\", \"description\": \"Tasa de Mortalidad Infantil de la Provincia de Tucum\\u00e1n\", \"title\": \"mortalidad_infantil_tucuman\"}, {\"units\": \"Ni\\u00f1os menores de un a\\u00f1o de edad fallecidos por cada mil nacidos vivos\", \"id\": \"tmi_94\", \"type\": \"number\", \"description\": \"Tasa de Mortalidad Infantil de la Provincia de Tierra del Fuego\", \"title\": \"mortalidad_infantil_tierradelfuego\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-04-03T13:31:16.223070",
+      "datastore_active": false,
+      "description": "Tasa de Mortalidad Infantil por 1000 nacidos vivos por jurisdicción de residencia de la madre ocurridos en Argentina. Periodo 1990-2018",
+      "fileName": "tasa-mortalidad-infantil.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "salud_c1253897-d507-41f7-a3e1-6ed756e7243b",
+      "last_modified": "2020-09-01T13:18:34.129741",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Tasa de Mortalidad Infantil",
+      "package_id": "salud_2eff770c-1c2b-4a22-9281-c3b5e9412086",
+      "position": 0,
+      "resource_type": "file.upload",
+      "revision_id": "f3e40628-339f-4d18-95b8-e228c5b50ee7",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.salud.gob.ar/dataset/2eff770c-1c2b-4a22-9281-c3b5e9412086/resource/c1253897-d507-41f7-a3e1-6ed756e7243b/download/tasa-mortalidad-infantil.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "07712b9d-c753-4bd8-a939-d14e3e8222e8",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "DEIS",
+      "id": "757ea859-76a5-465b-800a-495a12a734fd",
+      "name": "DEIS",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Estadísticas Vitales",
+      "id": "703ed79e-49fd-4419-ab3a-0a132602f568",
+      "name": "Estadísticas Vitales",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "mortalidad infantil",
+      "id": "ae841ba5-8202-48ae-95a4-d047f939893d",
+      "name": "mortalidad infantil",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Tasa de Mortalidad Infantil",
+  "type": "dataset",
+  "url": "http://datos.salud.gob.ar/dataset/tasa-de-mortalidad-infantil",
+  "version": null
+}

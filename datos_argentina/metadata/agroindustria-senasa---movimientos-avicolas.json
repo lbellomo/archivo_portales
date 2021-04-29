@@ -1,0 +1,308 @@
+{
+  "author": "Servicio Nacional de Sanidad y Calidad Agroalimentaria",
+  "author_email": "desycg@senasa.gob.ar",
+  "creator_user_id": "dc157489-51c6-44ce-bd63-3bd983d60778",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P1M"
+    },
+    {
+      "key": "issued",
+      "value": "2019-09-23T15:13:31.815718"
+    },
+    {
+      "key": "language",
+      "value": "[\"spa\"]"
+    },
+    {
+      "key": "modified",
+      "value": "2020-02-12T15:09:06.038301"
+    },
+    {
+      "key": "source",
+      "value": "Servicio Nacional de Sanidad y Calidad Agroalimentaria - SENASA"
+    },
+    {
+      "key": "spatial",
+      "value": "[\"ARG\"]"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"AGRI\"]"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Agroganadería, pesca y forestación",
+      "display_name": "Agroganadería, pesca y forestación",
+      "id": "0c35ea38-7059-41d2-9827-5587769d0dc6",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225145.990789agroganaderia-pesca-forestacion.svg",
+      "name": "agri",
+      "title": "Agroganadería, pesca y forestación"
+    }
+  ],
+  "id": "agroindustria_002440c3-8d9a-45dd-a7b5-79bf88d44846",
+  "isopen": true,
+  "license_id": "CC-BY-4.0",
+  "license_title": "Creative Commons Attribution 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "maintainer": "Dirección Nacional de Sanidad Animal",
+  "maintainer_email": "desycg@senasa.gob.ar",
+  "metadata_created": "2020-02-17T18:37:40.808061",
+  "metadata_modified": "2021-04-29T17:16:17.965187",
+  "name": "agroindustria-senasa---movimientos-avicolas",
+  "notes": "Datos mensuales de los movimientos de la especie avicola detallando provincia y departamento de origen y destino.",
+  "num_resources": 5,
+  "num_tags": 14,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:07.834957",
+    "description": "",
+    "id": "b10c94e2-ade1-4a97-8c4c-b1ada7878d60",
+    "image_url": "",
+    "is_organization": true,
+    "name": "agroindustria",
+    "revision_id": "f7c3b6e9-d48f-4522-9f7a-388d805c8392",
+    "state": "active",
+    "title": "Ministerio de Agricultura, Ganadería y Pesca",
+    "type": "organization"
+  },
+  "owner_org": "b10c94e2-ade1-4a97-8c4c-b1ada7878d60",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "http://datos.agroindustria.gob.ar/dataset/002440c3-8d9a-45dd-a7b5-79bf88d44846/resource/3c5b9d78-4585-4fc8-8c02-3c36a7113f15",
+      "attributesDescription": "[{\"type\": \"date\", \"title\": \"fecha\"}, {\"type\": \"string\", \"description\": \"Motivo declarado del movimiento.\", \"title\": \"motivo\"}, {\"type\": \"string\", \"description\": \"Lugar de salida. Inicio del movimiento.\", \"title\": \"salido_de\"}, {\"type\": \"string\", \"description\": \"Lugar de ingreso. Final del movimiento.\", \"title\": \"ingresado_a\"}, {\"type\": \"string\", \"description\": \"Nombre de la provincia de inicio del movimiento.\", \"title\": \"provincia_origen\"}, {\"type\": \"integer\", \"description\": \"C\\u00f3digo de provincia.\", \"title\": \"provincia_origen_id\"}, {\"type\": \"string\", \"description\": \"Nombre del departamento de inicio del movimiento.\", \"title\": \"departamento_origen\"}, {\"type\": \"integer\", \"description\": \"C\\u00f3digo del departamento.\", \"title\": \"departamento_origen_id\"}, {\"type\": \"string\", \"description\": \"Nombre de la provincia de final del movimiento.\", \"title\": \"provincia_destino\"}, {\"type\": \"integer\", \"description\": \"C\\u00f3digo de la provincia.\", \"title\": \"provincia_destino_id\"}, {\"type\": \"string\", \"description\": \"Nombre del departamento de final del movimiento.\", \"title\": \"departamento_destino\"}, {\"type\": \"integer\", \"description\": \"C\\u00f3digo del departamento.\", \"title\": \"departamento_destino_id\"}, {\"type\": \"integer\", \"description\": \"Cantidad de pollos parrilleros.\", \"title\": \"pollos_parrilleros\"}, {\"type\": \"integer\", \"description\": \"Cantidad de pollos parrilleros sin lote.\", \"title\": \"pollos_parrilleros_sin_lote\"}, {\"type\": \"integer\", \"description\": \"Cantidad de pollos beb\\u00e9 parrillero.\", \"title\": \"pollo_bb_parrillero\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-10-24T11:40:10.585343",
+      "datastore_active": false,
+      "description": "Datos correspondientes a pollos parrilleros para el período 2013 a 2018.",
+      "fileName": "Movimiento-avicola-pollos-2013-2018.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "agroindustria_3c5b9d78-4585-4fc8-8c02-3c36a7113f15",
+      "last_modified": "2020-02-12T14:31:30.316772",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Movimientos de pollos 2013 a 2018",
+      "package_id": "agroindustria_002440c3-8d9a-45dd-a7b5-79bf88d44846",
+      "position": 0,
+      "resource_type": "file.upload",
+      "revision_id": "c44353db-f00a-4578-8d22-6c6880e03013",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.agroindustria.gob.ar/dataset/002440c3-8d9a-45dd-a7b5-79bf88d44846/resource/3c5b9d78-4585-4fc8-8c02-3c36a7113f15/download/movimiento-avicola-pollos-2013-2018.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos.agroindustria.gob.ar/dataset/002440c3-8d9a-45dd-a7b5-79bf88d44846/resource/34c13a33-2a0e-49f6-a46b-497f366e2c7d",
+      "attributesDescription": "[{\"type\": \"date\", \"title\": \"fecha\"}, {\"type\": \"string\", \"description\": \"Motivo declarado del movimiento. \", \"title\": \"motivo\"}, {\"type\": \"string\", \"description\": \"Lugar de salida. Inicio del movimiento.\", \"title\": \"salido_de\"}, {\"type\": \"string\", \"description\": \"Lugar de ingreso. Final del movimiento.\", \"title\": \"ingresado_a\"}, {\"type\": \"string\", \"description\": \"Nombre de la provincia de inicio del movimiento.\", \"title\": \"provincia_origen\"}, {\"description\": \"C\\u00f3digo de la provincia.\", \"title\": \"provincia_origen_id\"}, {\"type\": \"string\", \"description\": \"Nombre del departamento de inicio del movimiento.\", \"title\": \"departamento_origen\"}, {\"type\": \"string\", \"description\": \"C\\u00f3digo del departamento.\", \"title\": \"departamento_origen_id\"}, {\"type\": \"string\", \"description\": \"Nombre de la provincia de final del movimiento.\", \"title\": \"provincia_destino\"}, {\"type\": \"string\", \"description\": \"C\\u00f3digo de la provincia.\", \"title\": \"provincia_destino_id\"}, {\"type\": \"string\", \"description\": \"Nombre del departamento de final del movimiento.\", \"title\": \"departamento_destino\"}, {\"type\": \"integer\", \"description\": \"C\\u00f3digo del departamento.\", \"title\": \"departamento_destino_id\"}, {\"type\": \"integer\", \"description\": \"Cantidad de gallinas ponedoras, cuando no se informa el color de las mismas.\", \"title\": \"gallinas_ponedoras\"}, {\"type\": \"integer\", \"description\": \"Cantidad de gallinas ponedoras blancas.\", \"title\": \"gallinas_ponedoras_blancas\"}, {\"type\": \"integer\", \"description\": \"Cantidad de gallinas ponedoras de color.\", \"title\": \"gallinas_ponedoras_color\"}, {\"type\": \"integer\", \"description\": \"Cantidad de pollos beb\\u00e9 para ponedoras, cuando no se informa el color de los mismos.\", \"title\": \"pollo_bb_ponedora\"}, {\"type\": \"integer\", \"description\": \"Cantidad de pollas beb\\u00e9 para ponedoras blancas.\", \"title\": \"pollas_bb_ponedora_blanca\"}, {\"type\": \"integer\", \"description\": \"Cantidad de pollas beb\\u00e9 para ponedoras color.\", \"title\": \"pollas_bb_ponedora_color\"}, {\"type\": \"integer\", \"description\": \"Cantidad de aves recriadas ponedoras blancas.\", \"title\": \"aves_recriadas_ponedoras_blancas\"}, {\"type\": \"integer\", \"description\": \"Cantidad de aves recriadas ponedoras de color.\", \"title\": \"aves_recriadas_ponedoras_color\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-10-24T11:42:36.250151",
+      "datastore_active": false,
+      "description": "Datos correspondientes a ponedoras para el período 2013 a 2018.",
+      "fileName": "Movimiento-avicola-ponedoras-2013-2018.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "agroindustria_34c13a33-2a0e-49f6-a46b-497f366e2c7d",
+      "last_modified": "2020-02-12T14:39:51.965400",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Movimientos de ponedoras 2013 a 2018",
+      "package_id": "agroindustria_002440c3-8d9a-45dd-a7b5-79bf88d44846",
+      "position": 1,
+      "resource_type": "file.upload",
+      "revision_id": "7ffdbde9-5cdd-47a9-899e-37cd8eecdfa5",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.agroindustria.gob.ar/dataset/002440c3-8d9a-45dd-a7b5-79bf88d44846/resource/34c13a33-2a0e-49f6-a46b-497f366e2c7d/download/movimiento-avicola-ponedoras-2013-2018.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos.agroindustria.gob.ar/dataset/002440c3-8d9a-45dd-a7b5-79bf88d44846/resource/4e8f3ba2-9113-4b76-becc-33bd79b6199f",
+      "attributesDescription": "[{\"type\": \"date\", \"title\": \"fecha\"}, {\"type\": \"string\", \"description\": \"Motivo declarado del movimiento.  \", \"title\": \"motivo\"}, {\"type\": \"string\", \"description\": \"Lugar de salida. Inicio del movimiento.\\n\", \"title\": \"salido_de\"}, {\"type\": \"string\", \"description\": \"Lugar de ingreso. Final del movimiento.\\n\", \"title\": \"ingresado_a\"}, {\"type\": \"string\", \"description\": \"Nombre de la provincia de inicio del movimiento.\\n\", \"title\": \"provincia_origen\"}, {\"type\": \"string\", \"description\": \"C\\u00f3digo de la provincia.\\n\", \"title\": \"provincia_origen_id\"}, {\"type\": \"string\", \"description\": \"Nombre del departamento de inicio del movimiento.\\n\\n\", \"title\": \"departamento_origen\"}, {\"type\": \"string\", \"description\": \"C\\u00f3digo del departamento.\", \"title\": \"departamento_origen_id\"}, {\"type\": \"string\", \"description\": \"Nombre de la provincia de final del movimiento.\\n\", \"title\": \"provincia_destino\"}, {\"type\": \"string\", \"description\": \"C\\u00f3digo de la provincia.\\n\", \"title\": \"provincia_destino_id\"}, {\"type\": \"string\", \"description\": \"Nombre del departamento de final del movimiento.\\n\", \"title\": \"departamento_destino\"}, {\"type\": \"string\", \"description\": \"C\\u00f3digo del departamento.\", \"title\": \"departamento_destino_id\"}, {\"type\": \"integer\", \"description\": \"Cantidad de gallinas.\", \"title\": \"gallinas\"}, {\"type\": \"integer\", \"description\": \"Cantidad de gallos.\", \"title\": \"gallos\"}, {\"type\": \"integer\", \"description\": \"Cantidad de reproductores.\", \"title\": \"reproductores\"}, {\"type\": \"integer\", \"description\": \"Cantidad de reproductores abuelos.\", \"title\": \"reproductores_abuelos\"}, {\"type\": \"integer\", \"description\": \"Cantidad de reproductores beb\\u00e9 abuelos.\", \"title\": \"reproductores_bb_abuelos\"}, {\"type\": \"integer\", \"description\": \"Cantidad de reproductores padres livianos.\", \"title\": \"reproductores_padres_livianos\"}, {\"type\": \"integer\", \"description\": \"Cantidad de reproductores beb\\u00e9 padres livianos.\", \"title\": \"reproductores_bb_padres_livianos\"}, {\"type\": \"integer\", \"description\": \"Cantidad de reproductores padres pesados.\", \"title\": \"reproductores_padres_pesados\"}, {\"type\": \"integer\", \"description\": \"Cantidad de reproductores beb\\u00e9 padres pesados.\", \"title\": \"reproductores_bb_padres_pesados\"}, {\"type\": \"integer\", \"description\": \"Cantidad de aves recriadas de reproductores de padres pesados.\", \"title\": \"aves_recriadas_reproductores_padres_pesados\"}, {\"type\": \"integer\", \"description\": \"Cantidad de aves recriadas de reproductores de padres livianos.\", \"title\": \"aves_recriadas_reproductores_padres_livianos\"}, {\"description\": \"Cantidad de huevos f\\u00e9rtiles.\", \"title\": \"huevos_fertiles\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-10-10T11:46:47.509644",
+      "datastore_active": false,
+      "description": "Datos correspondientes a reproductores avícolas para el periodo 2013 a 2018.",
+      "fileName": "Movimiento-avicola-reproductores-2013-2018.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "agroindustria_4e8f3ba2-9113-4b76-becc-33bd79b6199f",
+      "last_modified": "2020-02-12T14:59:20.314668",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Movimientos de reproductores avícolas 2013 a 2018",
+      "package_id": "agroindustria_002440c3-8d9a-45dd-a7b5-79bf88d44846",
+      "position": 2,
+      "resource_type": "file.upload",
+      "revision_id": "1cb98051-f495-413b-80d4-d765a2c86297",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.agroindustria.gob.ar/dataset/002440c3-8d9a-45dd-a7b5-79bf88d44846/resource/4e8f3ba2-9113-4b76-becc-33bd79b6199f/download/movimiento-avicola-reproductores-2013-2018.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos.agroindustria.gob.ar/dataset/002440c3-8d9a-45dd-a7b5-79bf88d44846/resource/6b588d53-696e-4984-b7f2-044ab20bc633",
+      "attributesDescription": "[{\"type\": \"date\", \"title\": \"fecha\"}, {\"type\": \"string\", \"description\": \"Motivo declarado del movimiento.  \\n\", \"title\": \"motivo\"}, {\"type\": \"string\", \"description\": \"Lugar de salida. Inicio del movimiento. \", \"title\": \"salido_de\"}, {\"type\": \"string\", \"description\": \"Lugar de ingreso. Final del movimiento. \", \"title\": \"ingresado_a\"}, {\"type\": \"string\", \"description\": \"Nombre de la provincia de inicio del movimiento. \", \"title\": \"provincia_origen\"}, {\"type\": \"string\", \"description\": \"C\\u00f3digo de la provincia de origen. \\n\", \"title\": \"provincia_origen_id\"}, {\"type\": \"string\", \"description\": \"Nombre del departamento de inicio del movimiento. \", \"title\": \"departamento_origen\"}, {\"type\": \"string\", \"description\": \"C\\u00f3digo del departamento de origen. \\n\", \"title\": \"departamento_origen_id\"}, {\"type\": \"string\", \"description\": \"Nombre de la provincia de final del movimiento. \\n\", \"title\": \"provincia_destino\"}, {\"type\": \"string\", \"description\": \"C\\u00f3digo de la provincia de destino. \\n\", \"title\": \"provincia_destino_id\"}, {\"type\": \"string\", \"description\": \"Nombre del departamento de final del movimiento. \", \"title\": \"departamento_destino\"}, {\"type\": \"string\", \"description\": \"C\\u00f3digo del departamento de destino. \\n\", \"title\": \"departamento_destino_id\"}, {\"type\": \"integer\", \"description\": \"Cantidad de pollos bb.\\n\", \"title\": \"pollos_bb_pro_huerta\"}, {\"type\": \"integer\", \"description\": \"Cantidad de gallinas.\\n\", \"title\": \"gallinas_pro_huerta\"}, {\"type\": \"integer\", \"description\": \"Cantidad de reproductores bb.\", \"title\": \"reproductores_bb_pro_huerta\"}, {\"type\": \"integer\", \"description\": \"Cantidad de pavos.\", \"title\": \"pavos_pro_huerta\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-10-10T11:49:50.830608",
+      "datastore_active": false,
+      "description": "Datos de los movimientos avícolas, correspondientes a pollos, gallinas y pavos de pro-huerta para el periodo 2013 a 2018.",
+      "fileName": "Movimiento-avicola-pro-huerta-2013-2018.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "agroindustria_6b588d53-696e-4984-b7f2-044ab20bc633",
+      "last_modified": "2020-02-12T14:49:36.772050",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Movimiento pollos, gallinas y pavos pro-huerta 2013 a 2018",
+      "package_id": "agroindustria_002440c3-8d9a-45dd-a7b5-79bf88d44846",
+      "position": 3,
+      "resource_type": "file.upload",
+      "revision_id": "1cb98051-f495-413b-80d4-d765a2c86297",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.agroindustria.gob.ar/dataset/002440c3-8d9a-45dd-a7b5-79bf88d44846/resource/6b588d53-696e-4984-b7f2-044ab20bc633/download/movimiento-avicola-pro-huerta-2013-2018.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos.agroindustria.gob.ar/dataset/002440c3-8d9a-45dd-a7b5-79bf88d44846/resource/16f15930-5647-4b88-aad0-9500091889f4",
+      "attributesDescription": "[{\"type\": \"date\", \"title\": \"fecha\"}, {\"type\": \"string\", \"description\": \"Motivo declarado del movimiento.\\n\", \"title\": \"motivo\"}, {\"type\": \"string\", \"description\": \"Lugar de salida. Inicio del movimiento.\\n\", \"title\": \"salido_de\"}, {\"type\": \"string\", \"description\": \"Lugar de ingreso. Final del movimiento.\", \"title\": \"ingresado_a\"}, {\"type\": \"string\", \"description\": \"Nombre de la provincia de inicio del movimiento.\\n\", \"title\": \"provincia_origen\"}, {\"type\": \"string\", \"description\": \"C\\u00f3digo de la provincia.\\n\", \"title\": \"provincia_origen_id\"}, {\"type\": \"string\", \"description\": \"Nombre del departamento de inicio del movimiento.\\n\", \"title\": \"departamento_origen\"}, {\"type\": \"string\", \"description\": \"C\\u00f3digo del departamento.\\n\", \"title\": \"departamento_origen_id\"}, {\"type\": \"string\", \"description\": \"Nombre de la provincia de final del movimiento.\\n\", \"title\": \"provincia_destino\"}, {\"type\": \"string\", \"description\": \"C\\u00f3digo de la provincia.\\n\", \"title\": \"provincia_destino_id\"}, {\"type\": \"string\", \"description\": \"Nombre del departamento de final del movimiento.\", \"title\": \"departamento_destino\"}, {\"type\": \"string\", \"description\": \"C\\u00f3digo del departamento.\\n\", \"title\": \"departamento_destino_id\"}, {\"type\": \"integer\", \"description\": \"Cantidad de patos.\\n\", \"title\": \"patos\"}, {\"type\": \"integer\", \"description\": \"Cantidad de gansos.\", \"title\": \"gansos\"}, {\"type\": \"integer\", \"description\": \"Cantidad de pavos.\\n\", \"title\": \"pavos\"}, {\"type\": \"integer\", \"description\": \"Cantidad de faisanes.\", \"title\": \"faisan\"}, {\"type\": \"integer\", \"description\": \"Cantidad de codornices.\\n\", \"title\": \"codorniz\"}, {\"type\": \"integer\", \"description\": \"Cantidad de \\u00f1and\\u00faes.\\n\", \"title\": \"nandu\"}, {\"type\": \"integer\", \"description\": \"Cantidad de palomas para deporte.\", \"title\": \"palomas_deporte\"}, {\"type\": \"integer\", \"description\": \"Cantidad de aves ornamentales.\", \"title\": \"aves_ornamentales\"}, {\"type\": \"integer\", \"description\": \"Cantidad de otras aves.\", \"title\": \"otras_aves\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-10-10T11:52:04.371735",
+      "datastore_active": false,
+      "description": "Datos de los movimientos avícolas, correspondientes a patos, gansos, pavos, faisán, codorniz, ñandú, palomas y aves ornamentales para el periodo 2013 a 2018.",
+      "fileName": "Movimiento-avicola-otras-aves-2013-2018.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "agroindustria_16f15930-5647-4b88-aad0-9500091889f4",
+      "last_modified": "2020-02-12T15:06:46.489862",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Movimientos otras aves 2013 a 2018",
+      "package_id": "agroindustria_002440c3-8d9a-45dd-a7b5-79bf88d44846",
+      "position": 4,
+      "resource_type": "file.upload",
+      "revision_id": "1cb98051-f495-413b-80d4-d765a2c86297",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.agroindustria.gob.ar/dataset/002440c3-8d9a-45dd-a7b5-79bf88d44846/resource/16f15930-5647-4b88-aad0-9500091889f4/download/movimiento-avicola-otras-aves-2013-2018.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "d84dadf6-b8ed-4b77-966f-3ab5f188e7a0",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "aves",
+      "id": "6fe3eb62-da9f-4cf5-b300-112ba8dc5947",
+      "name": "aves",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "avicola",
+      "id": "6513b449-2160-4f71-8fbf-f40ec70abe41",
+      "name": "avicola",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "avicultura",
+      "id": "690d01d7-0d59-4112-984c-14917c6c6afe",
+      "name": "avicultura",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "codorniz",
+      "id": "bcaaa2e9-5925-4311-9c80-5b2f0c6f18c1",
+      "name": "codorniz",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "gallinas",
+      "id": "5a6a8ed1-9524-41f2-a0de-b2171654b347",
+      "name": "gallinas",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "gallos",
+      "id": "14553ad1-d93e-443a-adfe-f180b2d76e95",
+      "name": "gallos",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "gansos",
+      "id": "039179a6-4b4c-4507-b832-25ddd5443061",
+      "name": "gansos",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "huevos",
+      "id": "9a5bd1ee-a0e6-436f-83e4-3e99448b3ee8",
+      "name": "huevos",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "movimiento ganadero",
+      "id": "5d3fb22d-977e-4fc3-ac41-277f36a967a1",
+      "name": "movimiento ganadero",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "palomas",
+      "id": "7aced997-5e82-460f-bc6e-b498f91653c7",
+      "name": "palomas",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "patos",
+      "id": "b16f6cde-cf80-4e3e-9049-768b2860b7b5",
+      "name": "patos",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "pollos",
+      "id": "f698df6b-c37f-45d2-9bdc-c97a54aeaecc",
+      "name": "pollos",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "ponedoras",
+      "id": "5efbf0bf-d13b-45f3-961a-81d1eb5a6693",
+      "name": "ponedoras",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "ñandu",
+      "id": "f0d25bdd-3d09-41ca-8065-2756d8b0a5cf",
+      "name": "ñandu",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "SENASA - Movimientos avícolas",
+  "type": "dataset",
+  "url": "https://datos.agroindustria.gob.ar/dataset/senasa-movimientos-avicolas",
+  "version": null
+}

@@ -1,0 +1,141 @@
+{
+  "author": "Ministerio de Defensa. Secretaría de Investigación, Política Industrial y Producción para la Defensa. Subsecretaría de Investigación Científica y Política Industrial para la Defensa. Servicio de Hidrografía Naval.",
+  "author_email": "shn@hidro.gov.ar",
+  "creator_user_id": "dc157489-51c6-44ce-bd63-3bd983d60778",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "eventual"
+    },
+    {
+      "key": "issued",
+      "value": "2019-11-30"
+    },
+    {
+      "key": "language",
+      "value": "[\"SPA\"]"
+    },
+    {
+      "key": "source",
+      "value": "Servicio de Hidrografía Naval"
+    },
+    {
+      "key": "spatial",
+      "value": "ARG"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"REGI\"]"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Regiones y ciudades",
+      "display_name": "Regiones y ciudades",
+      "id": "c506f0a0-fc8a-4278-b007-eb7f76875914",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225752.196815regiones-ciudades.svg",
+      "name": "regi",
+      "title": "Regiones y ciudades"
+    }
+  ],
+  "id": "shn_01",
+  "isopen": true,
+  "license_id": "CC-BY-4.0",
+  "license_title": "Creative Commons Attribution 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "maintainer": "Departamento Oceanografía",
+  "maintainer_email": "oceano@hidro.gov.ar",
+  "metadata_created": "2020-02-07T18:14:31.088078",
+  "metadata_modified": "2021-04-29T17:05:17.330798",
+  "name": "shn-estaciones-mareograficas",
+  "notes": "Datos correspondientes a la ubicación de las Estaciones Mareográficas del Servicio de Hidrografìa Naval.",
+  "num_resources": 1,
+  "num_tags": 5,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2020-02-07T15:10:25.819545",
+    "description": "",
+    "id": "c665e7c4-3a0e-43cf-ba02-e75b09b7bac8",
+    "image_url": "",
+    "is_organization": true,
+    "name": "shn",
+    "revision_id": "18aefd9b-6e36-42be-ac4a-37142633b1d3",
+    "state": "active",
+    "title": "Servicio de Hidrografía Naval",
+    "type": "organization"
+  },
+  "owner_org": "c665e7c4-3a0e-43cf-ba02-e75b09b7bac8",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "http://www.hidro.gob.ar/DA/DatosAbiertos.asp",
+      "attributesDescription": "[{\"title\": \"nombre_estacion\", \"type\": \"text\", \"description\": \"Nombre de la Estaci\\u00f3n Mareogr\\u00e1fica.\"}, {\"title\": \"ubicaci\\u00f3n_estacion\", \"type\": \"text\", \"description\": \"Descripci\\u00f3n de la ubicaci\\u00f3n del Mare\\u00f3grafo.\"}, {\"title\": \"latitud\", \"type\": \"geo_point\", \"description\": \"Latitud en grados y decimales de grados.SUR S\"}, {\"title\": \"longitud\", \"type\": \"geo_point\", \"description\": \"Longitud en grados y decimales de grados OESTE W.\"}, {\"title\": \"carta_afectada\", \"type\": \"text\", \"description\": \"Carta n\\u00e1utica que abarca la ubicaci\\u00f3n del mare\\u00f3grafo.\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-12-31T00:00:00",
+      "datastore_active": false,
+      "description": "Lugar de ubicación de las Estaciones Mareográficas. Formato CSV.",
+      "fileName": "EstacionesMareograficas.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "shn_1.1",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Estaciones Mareográficas SHN",
+      "package_id": "shn_01",
+      "position": 0,
+      "resource_type": "file",
+      "revision_id": "4c5d2897-b28f-4eb5-bbab-9780ba8bdd12",
+      "size": null,
+      "state": "active",
+      "url": "http://www.hidro.gob.ar/DA/csv/EstacionesMareograficas.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "8ae6a60b-e1c3-441b-8527-6227502f1f95",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "ayudas  navegación",
+      "id": "cd6d7f01-a821-49a0-94f0-d3d9075a32d0",
+      "name": "ayudas  navegación",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "estaciones mareográficas",
+      "id": "9f20a5f6-b623-4fc6-9a0b-2238b783afe4",
+      "name": "estaciones mareográficas",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "mareógrafos",
+      "id": "edaab9c9-93ab-4f81-bb51-804630345014",
+      "name": "mareógrafos",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "posiciones",
+      "id": "01b4c029-e1eb-4897-9e6f-21fb7007b54a",
+      "name": "posiciones",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "registro  mareas",
+      "id": "3312d23b-c420-41c1-9cac-83338cd25139",
+      "name": "registro  mareas",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Estaciones Mareográficas",
+  "type": "dataset",
+  "url": "http://www.hidro.gov.ar/DA/DatosAbiertos.asp",
+  "version": null
+}

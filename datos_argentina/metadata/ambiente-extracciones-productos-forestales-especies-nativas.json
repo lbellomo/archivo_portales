@@ -1,0 +1,264 @@
+{
+  "author": "Ministerio de Ambiente y Desarrollo Sostenible. Dirección Nacional de Bosques.",
+  "author_email": "fscagnetti@ambiente.gob.ar",
+  "creator_user_id": "4720e75a-9e17-4dc3-879d-041917c7f9f9",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P1Y"
+    },
+    {
+      "key": "issued",
+      "value": "2017-09-06T15:34:09.956648"
+    },
+    {
+      "key": "language",
+      "value": "[\"spa\"]"
+    },
+    {
+      "key": "modified",
+      "value": "2020-09-30T12:16:44.468376"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"ENVI\"]"
+    },
+    {
+      "key": "temporal",
+      "value": "1994-03-01T03:00:00.000Z/2019-12-31T03:00:00.000Z"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Medio ambiente",
+      "display_name": "Medio ambiente",
+      "id": "f71fe9d7-c703-43be-8d9d-af9441c326ba",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225440.964279medio-ambiente.svg",
+      "name": "envi",
+      "title": "Medio ambiente"
+    }
+  ],
+  "id": "ambiente_b45c63b4-5da5-426f-8e98-ac934807a510",
+  "isopen": false,
+  "license_id": "notspecified",
+  "license_title": "No se especificó la licencia",
+  "maintainer": "Ministerio de Ambiente y Desarrollo Sostenible. Dirección Nacional de Bosques.",
+  "maintainer_email": "fscagnetti@ambiente.gob.ar",
+  "metadata_created": "2019-11-26T14:57:53.526589",
+  "metadata_modified": "2021-04-29T17:17:58.306556",
+  "name": "ambiente-extracciones-productos-forestales-especies-nativas",
+  "notes": "Detalla las extracciones de productos forestales primarios y elaborados de especies nativas  como rollizos, leña, postes, otros productos (rodrigones, estacas, estacones, varillas, varejones, etc,) carbón y durmientes. Los otros productos varían de un año a otro y de un parque a otro, por ello no se puede sistematizar cuales son, solo se han indicado algunos de ellos.",
+  "num_resources": 4,
+  "num_tags": 12,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:07.043831",
+    "description": "",
+    "id": "0e5aa328-825e-4509-851d-5421e866635e",
+    "image_url": "",
+    "is_organization": true,
+    "name": "ambiente",
+    "revision_id": "105eb915-270c-4f67-9b4e-e6a3f08be6d7",
+    "state": "active",
+    "title": "Ministerio de Ambiente y Desarrollo Sostenible",
+    "type": "organization"
+  },
+  "owner_org": "0e5aa328-825e-4509-851d-5421e866635e",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "http://datos.ambiente.gob.ar/dataset/b45c63b4-5da5-426f-8e98-ac934807a510/resource/027a0131-180d-4f38-a461-b085ea943f24",
+      "attributesDescription": "[{\"type\": \"integer\", \"description\": \"A\\u00f1o de la serie\", \"title\": \"extracciones_productos_forestales_anio\"}, {\"type\": \"string\", \"description\": \"Tipos de productos forestales\", \"title\": \"extraccion_productos_forestales_tipo\"}, {\"type\": \"string\", \"description\": \"Denominaci\\u00f3n de la jurisdicci\\u00f3n\", \"title\": \"extraccion_productos_forestales_jurisdiccion\"}, {\"type\": \"integer\", \"description\": \"Total del producto forestal extra\\u00eddo por a\\u00f1o\", \"title\": \"extraccion_productos_forestales_numero\"}, {\"type\": \"string\", \"description\": \"Unidad de medida en metros c\\u00fabicos del total  del producto forestal extra\\u00eddo por a\\u00f1o\", \"title\": \"extraccion_productos_forestales_unidad_medida\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-09-06T15:48:25.236395",
+      "datastore_active": false,
+      "description": "Extracciones de productos forestales (Rollizos, Leña, Postes, Otros productos, Carbón y Durmientes) en Parques Nacionales expresado en metros cúbicos",
+      "fileName": "extracciones_productos_forestales-parques-nacionales-m3.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "ambiente_027a0131-180d-4f38-a461-b085ea943f24",
+      "last_modified": "2020-09-30T12:17:39.554626",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Extracciones de productos forestales en parques nacionales en m3",
+      "package_id": "ambiente_b45c63b4-5da5-426f-8e98-ac934807a510",
+      "position": 0,
+      "resource_type": "file.upload",
+      "revision_id": "c47e206c-d8a1-44af-b7bf-19e666082cc8",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.ambiente.gob.ar/dataset/b45c63b4-5da5-426f-8e98-ac934807a510/resource/027a0131-180d-4f38-a461-b085ea943f24/download/extracciones_productos_forestales-parques-nacionales-m3.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos.ambiente.gob.ar/dataset/b45c63b4-5da5-426f-8e98-ac934807a510/resource/d0ba52d3-59f8-40cf-8549-bebf0d2e1d50",
+      "attributesDescription": "[{\"type\": \"integer\", \"description\": \"A\\u00f1o de la serie\", \"title\": \"extracciones_productos_forestales_anio\"}, {\"type\": \"string\", \"description\": \"Tipos de productos forestales\", \"title\": \"extraccion_productos_forestales_tipo\"}, {\"type\": \"string\", \"description\": \"Denominaci\\u00f3n de la jurisdicci\\u00f3n\", \"title\": \"extraccion_productos_forestales_jurisdiccion\"}, {\"type\": \"integer\", \"description\": \"Total del  producto forestal extra\\u00eddo por a\\u00f1o\", \"title\": \"extraccion_productos_forestales_numero\"}, {\"type\": \"string\", \"description\": \"Unidad de medida en toneladas del total del producto forestal extra\\u00eddo por a\\u00f1o\", \"title\": \"extraccion_productos_forestales_unidad_medida\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-09-06T16:08:47.366293",
+      "datastore_active": false,
+      "description": "Extracciones de productos forestales (Rollizos, Leña, Postes, Otros productos, Carbón y Durmientes) en Parques Nacionales expresado en toneladas.",
+      "fileName": "extracciones_productos_forestales-parques-nacionales-tn.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "ambiente_d0ba52d3-59f8-40cf-8549-bebf0d2e1d50",
+      "last_modified": "2020-09-30T12:29:45.850637",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Extracciones de productos forestales parques nacionales en toneladas",
+      "package_id": "ambiente_b45c63b4-5da5-426f-8e98-ac934807a510",
+      "position": 1,
+      "resource_type": "file.upload",
+      "revision_id": "c47e206c-d8a1-44af-b7bf-19e666082cc8",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.ambiente.gob.ar/dataset/b45c63b4-5da5-426f-8e98-ac934807a510/resource/d0ba52d3-59f8-40cf-8549-bebf0d2e1d50/download/extracciones_productos_forestales-parques-nacionales-tn.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos.ambiente.gob.ar/dataset/b45c63b4-5da5-426f-8e98-ac934807a510/resource/de4c7796-4f0d-477b-84db-93c91e365185",
+      "attributesDescription": "[{\"type\": \"integer\", \"description\": \"A\\u00f1o de la serie\", \"title\": \"extracciones_productos_forestales_anio\"}, {\"type\": \"string\", \"description\": \"Tipos de productos forestales\", \"title\": \"extraccion_productos_forestales_tipo\"}, {\"type\": \"string\", \"description\": \"Provincia al cual corresponde el valor\", \"title\": \"extraccion_productos_forestales_provincia\"}, {\"type\": \"integer\", \"description\": \"Total del producto forestal extra\\u00eddo por a\\u00f1o en la provincia\", \"title\": \"extraccion_productos_forestales_numero\"}, {\"type\": \"string\", \"description\": \"Unidad de medida en metros c\\u00fabicos del total del producto forestal extra\\u00eddo por a\\u00f1o y provincia\", \"title\": \"extraccion_productos_forestales_unidad_medida\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-09-06T16:20:59.553824",
+      "datastore_active": false,
+      "description": "Extracciones de productos forestales (Rollizos, Leña, Postes, Otros productos, Carbón y Durmientes) en  las provincias expresado en metros cúbicos",
+      "fileName": "extracciones-productos-forestales-provincia-m3.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "ambiente_de4c7796-4f0d-477b-84db-93c91e365185",
+      "last_modified": "2020-09-30T12:33:55.031696",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Extracciones de productos forestales por provincia en m3",
+      "package_id": "ambiente_b45c63b4-5da5-426f-8e98-ac934807a510",
+      "position": 2,
+      "resource_type": "file.upload",
+      "revision_id": "c47e206c-d8a1-44af-b7bf-19e666082cc8",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.ambiente.gob.ar/dataset/b45c63b4-5da5-426f-8e98-ac934807a510/resource/de4c7796-4f0d-477b-84db-93c91e365185/download/extracciones-productos-forestales-provincia-m3.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos.ambiente.gob.ar/dataset/b45c63b4-5da5-426f-8e98-ac934807a510/resource/540c2fab-d7fa-40e0-85bd-cc6ac831297c",
+      "attributesDescription": "[{\"type\": \"integer\", \"description\": \"A\\u00f1o de la serie\", \"title\": \"extracciones_productos_forestales_anio\"}, {\"type\": \"string\", \"description\": \"Tipos de productos forestales\", \"title\": \"extraccion_productos_forestales_tipo\"}, {\"type\": \"string\", \"description\": \"Provincia al cual corresponde el valor\", \"title\": \"extraccion_productos_forestales_provincia\"}, {\"type\": \"integer\", \"description\": \"Total del producto forestal extra\\u00eddo por a\\u00f1o y provincia\", \"title\": \"extraccion_productos_forestales_numero\"}, {\"type\": \"string\", \"description\": \"Unidad de medida en toneladas del total del producto forestal extra\\u00eddo por a\\u00f1o y provincia\", \"title\": \"extraccion_productos_forestales_unidad_medida\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-09-06T16:41:57.699684",
+      "datastore_active": false,
+      "description": "Extracciones de productos forestales (Rollizos, Leña, Postes, Otros productos, Carbón y Durmientes) en las provincias expresado en toneladas",
+      "fileName": "extracciones-productos-forestales-provincia-tn.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "ambiente_540c2fab-d7fa-40e0-85bd-cc6ac831297c",
+      "last_modified": "2020-09-30T12:34:48.937038",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Extracciones de productos forestales por provincia en toneladas",
+      "package_id": "ambiente_b45c63b4-5da5-426f-8e98-ac934807a510",
+      "position": 3,
+      "resource_type": "file.upload",
+      "revision_id": "c47e206c-d8a1-44af-b7bf-19e666082cc8",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.ambiente.gob.ar/dataset/b45c63b4-5da5-426f-8e98-ac934807a510/resource/540c2fab-d7fa-40e0-85bd-cc6ac831297c/download/extracciones-productos-forestales-provincia-tn.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "c47e206c-d8a1-44af-b7bf-19e666082cc8",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "Bosques",
+      "id": "b9aad93c-075e-43df-8b5f-befcf406f1c6",
+      "name": "Bosques",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Carbón",
+      "id": "f225b9f6-b0e4-4846-83ef-c4cb24d6ee75",
+      "name": "Carbón",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Durmientes",
+      "id": "6ed36e73-769a-49f8-a76d-8f18cf17f696",
+      "name": "Durmientes",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Especies nativas",
+      "id": "20127284-57da-44cd-9502-ae958f73c438",
+      "name": "Especies nativas",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Extracciones",
+      "id": "431c2fde-bf76-489f-bc37-bca4e0d2b617",
+      "name": "Extracciones",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Leña",
+      "id": "827ec4e9-0ac1-4edf-a8e3-8a78b074e9b4",
+      "name": "Leña",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Parques Nacionales",
+      "id": "49d0eae6-13dc-47be-9a80-6039674f03d5",
+      "name": "Parques Nacionales",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Postes",
+      "id": "2ddc793c-5caf-4810-ba3f-cfbca9bc7cd5",
+      "name": "Postes",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Productos forestales",
+      "id": "b4a851b3-fdc6-4d5a-9bcc-a2cd4d0ff795",
+      "name": "Productos forestales",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Rollizos",
+      "id": "bb8e4431-47d4-44ab-a903-964a4f28addf",
+      "name": "Rollizos",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "elaborados",
+      "id": "58d9d223-789d-4d28-812a-40bdbfac70c0",
+      "name": "elaborados",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "primarios",
+      "id": "ec05fe79-ab77-489c-914a-e89d4ddbb633",
+      "name": "primarios",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Extracciones de productos forestales de especies nativas",
+  "type": "dataset",
+  "url": "http://datos.ambiente.gob.ar/dataset/",
+  "version": null
+}

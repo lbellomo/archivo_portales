@@ -1,0 +1,145 @@
+{
+  "author": "Dirección de Aves de Granja y No Tradicionales",
+  "author_email": "animen@magyp.gob.ar",
+  "creator_user_id": "dc157489-51c6-44ce-bd63-3bd983d60778",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P1M"
+    },
+    {
+      "key": "issued",
+      "value": "2019-04-05T19:04:25.340318"
+    },
+    {
+      "key": "language",
+      "value": "[\"spa\"]"
+    },
+    {
+      "key": "modified",
+      "value": "2019-10-24T11:11:23.157787"
+    },
+    {
+      "key": "source",
+      "value": "Dirección de Porcinos, Aves de Granja y No Tradicionales"
+    },
+    {
+      "key": "spatial",
+      "value": "[\"ARG\"]"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"AGRI\"]"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Agroganadería, pesca y forestación",
+      "display_name": "Agroganadería, pesca y forestación",
+      "id": "0c35ea38-7059-41d2-9827-5587769d0dc6",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225145.990789agroganaderia-pesca-forestacion.svg",
+      "name": "agri",
+      "title": "Agroganadería, pesca y forestación"
+    }
+  ],
+  "id": "agroindustria_1836491b-8b3b-4888-9cc3-6b8b4ea52c1a",
+  "isopen": true,
+  "license_id": "CC-BY-4.0",
+  "license_title": "Creative Commons Attribution 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "maintainer": "Dirección de Aves de Granja y No Tradicionales",
+  "maintainer_email": "animen@magyp.gob.ar",
+  "metadata_created": "2019-12-04T20:01:16.169900",
+  "metadata_modified": "2021-04-29T17:10:36.921472",
+  "name": "agroindustria-aves---produccion-carne-aviar",
+  "notes": "Datos mensuales de producción de carne aviar, expresados en miles de toneladas. La producción se estima a partir de la faena en establecimientos con habilitación nacional, provincial y municipal.",
+  "num_resources": 1,
+  "num_tags": 5,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:07.834957",
+    "description": "",
+    "id": "b10c94e2-ade1-4a97-8c4c-b1ada7878d60",
+    "image_url": "",
+    "is_organization": true,
+    "name": "agroindustria",
+    "revision_id": "f7c3b6e9-d48f-4522-9f7a-388d805c8392",
+    "state": "active",
+    "title": "Ministerio de Agricultura, Ganadería y Pesca",
+    "type": "organization"
+  },
+  "owner_org": "b10c94e2-ade1-4a97-8c4c-b1ada7878d60",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "http://datos.agroindustria.gob.ar/dataset/1836491b-8b3b-4888-9cc3-6b8b4ea52c1a/resource/4820c10d-f4c1-4ede-83b3-e0334cbb1e32",
+      "attributesDescription": "[{\"specialType\": \"time_index\", \"specialTypeDetail\": \"R/P1M\", \"type\": \"date\", \"description\": \"Fecha en la que se comput\\u00f3 el total de producci\\u00f3n mensual\", \"title\": \"indice_tiempo\"}, {\"units\": \"miles\", \"id\": \"AGRO_0030\", \"type\": \"number\", \"description\": \"Miles de toneladas de carne aviar producida en ese mes\", \"title\": \"produccion_carne_miles_tn\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-04-05T16:10:10.073972",
+      "datastore_active": false,
+      "description": "Datos correspondientes a la producción de carne aviar, expresada en miles de toneladas y con una actualización mensual. ",
+      "fileName": "produccion_carne_aviar.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "agroindustria_4820c10d-f4c1-4ede-83b3-e0334cbb1e32",
+      "last_modified": "2020-07-31T12:31:37.444180",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Producción de Carne Aviar",
+      "package_id": "agroindustria_1836491b-8b3b-4888-9cc3-6b8b4ea52c1a",
+      "position": 0,
+      "resource_type": "file.upload",
+      "revision_id": "a51d63f9-138c-40ce-9c2c-a4d3b3d0d74e",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.agroindustria.gob.ar/dataset/1836491b-8b3b-4888-9cc3-6b8b4ea52c1a/resource/4820c10d-f4c1-4ede-83b3-e0334cbb1e32/download/produccion_carne_aviar.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "ac486080-5bc7-4b0b-ae84-efa7824332a8",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "aves",
+      "id": "6fe3eb62-da9f-4cf5-b300-112ba8dc5947",
+      "name": "aves",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "aviar",
+      "id": "eb03767f-8d43-4004-864c-938f76fbebfe",
+      "name": "aviar",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "carne aviar",
+      "id": "2a17fe3b-715d-4582-aa42-05fbb8554925",
+      "name": "carne aviar",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "faena aviar",
+      "id": "2603f2b1-da8f-43ee-8a04-c449b1b8c04a",
+      "name": "faena aviar",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "produccion de carne",
+      "id": "40f9cbab-a071-4943-baf6-5eb5f2cb97b5",
+      "name": "produccion de carne",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Aves - Producción de carne aviar",
+  "type": "dataset",
+  "url": "https://datos.agroindustria.gob.ar/dataset/produccion-de-carne-aviar",
+  "version": null
+}

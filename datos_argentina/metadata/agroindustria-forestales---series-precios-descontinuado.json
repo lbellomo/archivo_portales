@@ -1,0 +1,159 @@
+{
+  "author": "Dirección Nacional de Desarrollo Foresto Industrial",
+  "author_email": "ssdfi@magyp.gob.ar",
+  "creator_user_id": "dc157489-51c6-44ce-bd63-3bd983d60778",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P3M"
+    },
+    {
+      "key": "issued",
+      "value": "2018-12-07T21:24:55.228724"
+    },
+    {
+      "key": "language",
+      "value": "[\"spa\"]"
+    },
+    {
+      "key": "modified",
+      "value": "2019-10-24T11:10:25.853108"
+    },
+    {
+      "key": "spatial",
+      "value": "[\"ARG\"]"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"AGRI\"]"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Agroganadería, pesca y forestación",
+      "display_name": "Agroganadería, pesca y forestación",
+      "id": "0c35ea38-7059-41d2-9827-5587769d0dc6",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225145.990789agroganaderia-pesca-forestacion.svg",
+      "name": "agri",
+      "title": "Agroganadería, pesca y forestación"
+    }
+  ],
+  "id": "agroindustria_4f5be3ef-c239-4cde-8d05-ee19605bd856",
+  "isopen": true,
+  "license_id": "CC-BY-4.0",
+  "license_title": "Creative Commons Attribution 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "maintainer": "Dirección Nacional de Desarrollo Foresto Industrial",
+  "maintainer_email": "ssdfi@magyp.gob.ar",
+  "metadata_created": "2019-12-04T21:13:16.415793",
+  "metadata_modified": "2021-04-29T17:10:41.282085",
+  "name": "agroindustria-forestales---series-precios-descontinuado",
+  "notes": "Series de precios de productos de origen forestal: chip y tableros.",
+  "num_resources": 2,
+  "num_tags": 4,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:07.834957",
+    "description": "",
+    "id": "b10c94e2-ade1-4a97-8c4c-b1ada7878d60",
+    "image_url": "",
+    "is_organization": true,
+    "name": "agroindustria",
+    "revision_id": "f7c3b6e9-d48f-4522-9f7a-388d805c8392",
+    "state": "active",
+    "title": "Ministerio de Agricultura, Ganadería y Pesca",
+    "type": "organization"
+  },
+  "owner_org": "b10c94e2-ade1-4a97-8c4c-b1ada7878d60",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "http://datos2.agroindustria.gob.ar/dataset/4f5be3ef-c239-4cde-8d05-ee19605bd856/archivo/c17fa9f5-20d4-409f-97a4-bb998a75df89",
+      "attributesDescription": "[{\"type\": \"string\", \"description\": \"pais_id\", \"title\": \"pais_id\"}, {\"type\": \"string\", \"description\": \"pais\", \"title\": \"pais\"}, {\"type\": \"string\", \"description\": \"a\\u00f1o\", \"title\": \"a\\u00f1o\"}, {\"type\": \"string\", \"description\": \"destino\", \"title\": \"destino\"}, {\"type\": \"string\", \"description\": \"medida_hoja\", \"title\": \"medida_hoja\"}, {\"type\": \"string\", \"description\": \"espesor_uni_med\", \"title\": \"espesor_uni_med\"}, {\"type\": \"number\", \"description\": \"espesor\", \"title\": \"espesor\"}, {\"type\": \"string\", \"description\": \"moneda_id\", \"title\": \"moneda_id\"}, {\"type\": \"string\", \"description\": \"uni_med\", \"title\": \"uni_med\"}, {\"type\": \"number\", \"description\": \"precio/uni_med\", \"title\": \"precio/uni_med\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-08-25T12:36:18.376139",
+      "datastore_active": false,
+      "description": "Series de precios de productos de origen forestal: Tableros.",
+      "fileName": "discontinuado-evolucion-precio-tableros-duros-y-mdf.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "agroindustria_c17fa9f5-20d4-409f-97a4-bb998a75df89",
+      "last_modified": "2019-01-30T17:29:03.812421",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Series de precios de productos forestales discontinuado (tableros duros y mdf)",
+      "package_id": "agroindustria_4f5be3ef-c239-4cde-8d05-ee19605bd856",
+      "position": 0,
+      "resource_type": "file.upload",
+      "revision_id": "ce21bb31-012e-4aeb-97d3-6b356732a94f",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.agroindustria.gob.ar/dataset/4f5be3ef-c239-4cde-8d05-ee19605bd856/resource/c17fa9f5-20d4-409f-97a4-bb998a75df89/download/discontinuado-evolucion-precio-tableros-duros-y-mdf.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos2.agroindustria.gob.ar/dataset/4f5be3ef-c239-4cde-8d05-ee19605bd856/archivo/285cb88b-c894-4ad8-8229-c54705aa7af1",
+      "attributesDescription": "[{\"type\": \"string\", \"description\": \"pais_id\", \"title\": \"pais_id\"}, {\"type\": \"string\", \"description\": \"pais\", \"title\": \"pais\"}, {\"type\": \"integer\", \"description\": \"provincia_id\", \"title\": \"provincia_id\"}, {\"type\": \"string\", \"description\": \"provincia\", \"title\": \"provincia\"}, {\"type\": \"string\", \"description\": \"a\\u00f1o\", \"title\": \"a\\u00f1o\"}, {\"type\": \"string\", \"description\": \"destino\", \"title\": \"destino\"}, {\"type\": \"string\", \"description\": \"Especie\", \"title\": \"Especie\"}, {\"type\": \"string\", \"description\": \"moneda_id\", \"title\": \"moneda_id\"}, {\"type\": \"string\", \"description\": \"uni_med\", \"title\": \"uni_med\"}, {\"type\": \"number\", \"description\": \"precio/uni_med\", \"title\": \"precio/uni_med\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-08-25T12:37:02.943221",
+      "datastore_active": false,
+      "description": "Series de precios de productos de origen forestal: Chip.",
+      "fileName": "discontinuado-evolucion-precio-chip-celulosa.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "agroindustria_285cb88b-c894-4ad8-8229-c54705aa7af1",
+      "last_modified": "2019-01-30T17:32:56.564348",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Series de precios de productos forestales discontinuado (chip)",
+      "package_id": "agroindustria_4f5be3ef-c239-4cde-8d05-ee19605bd856",
+      "position": 1,
+      "resource_type": "file.upload",
+      "revision_id": "6643c24b-7421-4faa-8626-1a4a462aacff",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.agroindustria.gob.ar/dataset/4f5be3ef-c239-4cde-8d05-ee19605bd856/resource/285cb88b-c894-4ad8-8229-c54705aa7af1/download/discontinuado-evolucion-precio-chip-celulosa.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "1e5c5c2e-512d-49a4-962b-cf09b337490f",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "chips",
+      "id": "a1c934bf-c445-4ccf-8b4a-11309e16464a",
+      "name": "chips",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "forestal",
+      "id": "b28a94d6-df19-4c7d-908a-16e17698a9b9",
+      "name": "forestal",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "serie precios",
+      "id": "7c56278c-5bb9-41d0-87a3-c097472b8b2b",
+      "name": "serie precios",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "tableros",
+      "id": "b26fe6c3-5d5b-49c6-98ed-d79d2620d8d8",
+      "name": "tableros",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Forestales - Series de precios (descontinuado)",
+  "type": "dataset",
+  "url": "https://datos.agroindustria.gob.ar/dataset/series-precios-productos-forestales-discontinuado",
+  "version": null
+}

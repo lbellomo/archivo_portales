@@ -1,0 +1,115 @@
+{
+  "author": "Jefatura de Gabinete de Ministros. Agencia de Administración de Bienes del Estado. Dirección Nacional del Registro de Bienes Inmuebles.",
+  "author_email": "info_renabe@bienesdelestado.gob.ar",
+  "creator_user_id": "4720e75a-9e17-4dc3-879d-041917c7f9f9",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "eventual"
+    },
+    {
+      "key": "issued",
+      "value": "2017-07-19T18:41:02.057012"
+    },
+    {
+      "key": "language",
+      "value": "[\"SPA\"]"
+    },
+    {
+      "key": "modified",
+      "value": "2017-07-19T18:45:53.686845"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"GOVE\"]"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Gobierno y sector público",
+      "display_name": "Gobierno y sector público",
+      "id": "e6f07c77-3987-4e71-98a6-731b1aaf74f4",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225353.395233gobierno-sector-publico.svg",
+      "name": "gove",
+      "title": "Gobierno y sector público"
+    }
+  ],
+  "id": "otros_6",
+  "isopen": true,
+  "license_id": "CC-BY-4.0",
+  "license_title": "Creative Commons Attribution 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "maintainer": "Jefatura de Gabinete de Ministros. Agencia de Administración de Bienes del Estado. Dirección Nacional del Registro de Bienes Inmuebles.",
+  "maintainer_email": "info_renabe@bienesdelestado.gob.ar",
+  "metadata_created": "2019-11-26T14:57:47.885639",
+  "metadata_modified": "2021-04-29T17:18:08.892777",
+  "name": "otros-inmuebles-propios-estado-nacional-alquilados",
+  "notes": "Información parcial de los Inmuebles propios del Estado Nacional y alquilados (Estado Nacional como locatario), validados por el Registro Nacional de Bienes Inmuebles de la Agencia de Administración de Bienes del Estado (RENABE, Decreto 1382/13).",
+  "num_resources": 1,
+  "num_tags": 2,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:11.814764",
+    "description": "",
+    "id": "109d53ef-3ed3-498e-97d0-a456698969f7",
+    "image_url": "",
+    "is_organization": true,
+    "name": "otros",
+    "revision_id": "8e89e6e3-016b-4706-97c0-8cb55e1ce2c8",
+    "state": "active",
+    "title": "Otros organismos",
+    "type": "organization"
+  },
+  "owner_org": "109d53ef-3ed3-498e-97d0-a456698969f7",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "http://datos.gob.ar/dataset/otros_6/resource/otros_6.1",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-07-19T18:45:53.360453",
+      "datastore_active": false,
+      "description": "Información parcial de los Inmuebles propios del Estado Nacional y alquilados (Estado Nacional como locatario), validados por el Registro Nacional de Bienes Inmuebles de la Agencia de Administración de Bienes del Estado. (RENABE, Decreto 1382/13) Mensualmente se agregarán los inmuebles certificados por la Dirección Nacional del Registro de Bienes Inmuebles.",
+      "fileName": "inmuebles-estado-nacional.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "otros_6.1",
+      "last_modified": "2017-07-19T18:45:53.334146",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Inmuebles Propios del Estado Nacional y Alquilados",
+      "package_id": "otros_6",
+      "position": 0,
+      "resource_type": "file",
+      "revision_id": "4b96c943-accb-4e1c-9312-18eeeb47261c",
+      "size": null,
+      "state": "active",
+      "url": "https://infra.datos.gob.ar/catalog/otros/dataset/6/distribution/6.1/download/inmuebles-estado-nacional.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "4106fc4a-cf75-4f34-b5ba-c98cda8fcc27",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "Gobierno y sector público",
+      "id": "cabcb959-4dbc-4a58-b35e-dfd1f6d6ae5f",
+      "name": "Gobierno y sector público",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "inmuebles",
+      "id": "1f65983e-2853-4c9f-94fa-8ecbd0650dd0",
+      "name": "inmuebles",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Inmuebles Propios del Estado Nacional y Alquilados",
+  "type": "dataset",
+  "url": "https://infra.datos.gob.ar/dataset/otros-inmuebles-propios-estado-nacional-alquilados",
+  "version": null
+}

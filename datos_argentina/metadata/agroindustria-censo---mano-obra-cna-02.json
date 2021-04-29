@@ -1,0 +1,159 @@
+{
+  "author": "Instituto Nacional de Estadística y Censos - INDEC",
+  "author_email": null,
+  "creator_user_id": "dc157489-51c6-44ce-bd63-3bd983d60778",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "eventual"
+    },
+    {
+      "key": "issued",
+      "value": "2020-02-18T13:02:34.491633"
+    },
+    {
+      "key": "language",
+      "value": "[\"spa\"]"
+    },
+    {
+      "key": "modified",
+      "value": "2020-02-18T13:02:34.491633"
+    },
+    {
+      "key": "source",
+      "value": "Instituto Nacional de Estadística y Censos de la República Argentina (INDEC)"
+    },
+    {
+      "key": "spatial",
+      "value": "[\"ARG\"]"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"AGRI\"]"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Agroganadería, pesca y forestación",
+      "display_name": "Agroganadería, pesca y forestación",
+      "id": "0c35ea38-7059-41d2-9827-5587769d0dc6",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225145.990789agroganaderia-pesca-forestacion.svg",
+      "name": "agri",
+      "title": "Agroganadería, pesca y forestación"
+    }
+  ],
+  "id": "agroindustria_1cbbedc5-8839-4ded-9b02-6a19d3aae238",
+  "isopen": true,
+  "license_id": "CC-BY-4.0",
+  "license_title": "Creative Commons Attribution 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "maintainer": null,
+  "maintainer_email": null,
+  "metadata_created": "2020-12-04T16:39:11.173103",
+  "metadata_modified": "2021-04-29T17:10:22.545333",
+  "name": "agroindustria-censo---mano-obra-cna-02",
+  "notes": "Datos de las personas que integran las explotaciones agropecuarias según el Censo Nacional Agropecuario 2002 (CNA 02).",
+  "num_resources": 1,
+  "num_tags": 7,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:07.834957",
+    "description": "",
+    "id": "b10c94e2-ade1-4a97-8c4c-b1ada7878d60",
+    "image_url": "",
+    "is_organization": true,
+    "name": "agroindustria",
+    "revision_id": "f7c3b6e9-d48f-4522-9f7a-388d805c8392",
+    "state": "active",
+    "title": "Ministerio de Agricultura, Ganadería y Pesca",
+    "type": "organization"
+  },
+  "owner_org": "b10c94e2-ade1-4a97-8c4c-b1ada7878d60",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "http://datos.agroindustria.gob.ar/dataset/1cbbedc5-8839-4ded-9b02-6a19d3aae238/resource/a7bd8ef7-c83b-4a82-bb9d-81824cd0fd0a",
+      "attributesDescription": "[{\"type\": \"date\", \"title\": \"anio\"}, {\"type\": \"string\", \"description\": \"Nombre de la provincia.\", \"title\": \"provincia\"}, {\"type\": \"string\", \"description\": \"C\\u00f3digo de la provincia.\", \"title\": \"provincia_id\"}, {\"type\": \"integer\", \"description\": \"Cantidad de productores - socios.\", \"title\": \"productor\"}, {\"type\": \"integer\", \"description\": \"Cantidad de familiares del productor - socio.\", \"title\": \"familiar\"}, {\"type\": \"integer\", \"description\": \"Cantidad de trabajadores no familiar.\", \"title\": \"trabajador\"}, {\"type\": \"integer\", \"description\": \"Cantidad de otros residentes.\", \"title\": \"residente\"}, {\"type\": \"integer\", \"description\": \"Cantidad de trabajadores sin discriminar relaci\\u00f3n.\", \"title\": \"sin_discriminar\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2020-02-18T13:01:45.583784",
+      "datastore_active": false,
+      "description": "Datos del CNA-02 por provincia de los residentes y su relación con el productor.",
+      "fileName": "cna-02-residentes-relacion-productor-provincia-total.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "agroindustria_a7bd8ef7-c83b-4a82-bb9d-81824cd0fd0a",
+      "last_modified": "2020-02-19T08:32:05.688956",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Residentes totales por provincia - CNA-02",
+      "package_id": "agroindustria_1cbbedc5-8839-4ded-9b02-6a19d3aae238",
+      "position": 0,
+      "resource_type": "file.upload",
+      "revision_id": "c0fa66fc-e724-41a3-b135-3c8767777433",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.agroindustria.gob.ar/dataset/1cbbedc5-8839-4ded-9b02-6a19d3aae238/resource/a7bd8ef7-c83b-4a82-bb9d-81824cd0fd0a/download/cna-02-residentes-relacion-productor-provincia-total.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "c0fa66fc-e724-41a3-b135-3c8767777433",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "censo",
+      "id": "3afd172c-45af-41bd-b023-b1ed9844c3ba",
+      "name": "censo",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "cna",
+      "id": "0cdcc96e-34b4-45b0-9380-2d602e5ff709",
+      "name": "cna",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "cna 02",
+      "id": "a6e31f8c-5ed2-44b8-8ef2-2dbd7fded11b",
+      "name": "cna 02",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "mano de obra",
+      "id": "9d8b31e3-f51b-4ba8-81fa-4aa693858d83",
+      "name": "mano de obra",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "productor",
+      "id": "941e3800-7ed2-4969-bc13-8181493b1c86",
+      "name": "productor",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "residente",
+      "id": "7b401ed4-661e-4332-92b7-b247ce94e59d",
+      "name": "residente",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "trabajador",
+      "id": "856c25b3-13de-4bad-af39-19b8fb2060e9",
+      "name": "trabajador",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Censo - Mano de obra CNA 02",
+  "type": "dataset",
+  "url": "https://datos.agroindustria.gob.ar/dataset/censo-mano-de-obra-cna-02",
+  "version": null
+}

@@ -1,0 +1,187 @@
+{
+  "author": "Secretaría de Gobierno de Energía.Subsecretaría de Planeamiento Energético.Dirección Nacional de Información Energética.",
+  "author_email": "tienerg@energia.gob.ar",
+  "creator_user_id": "4720e75a-9e17-4dc3-879d-041917c7f9f9",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P1M"
+    },
+    {
+      "key": "issued",
+      "value": "2018-01-22T16:52:59.288468"
+    },
+    {
+      "key": "modified",
+      "value": "2019-06-25T08:42:18.717101"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"ENER\"]"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Energía",
+      "display_name": "Energía",
+      "id": "a4d3f632-eb48-4163-9791-165989c16035",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225337.421630energia.svg",
+      "name": "ener",
+      "title": "Energía"
+    }
+  ],
+  "id": "energia_5ddbdfbb-b6f9-4bc1-9e71-0055e86cf552",
+  "isopen": false,
+  "license_id": "notspecified",
+  "license_title": "No se especificó la licencia",
+  "maintainer": "Secretaría de Gobierno de Energía.\r\nSecretaría de Recursos No Renovables y Mercado de los Combustibles.Subsecretaría de Hidrocarburos y Combustibles.Dirección Nacional de Economía de Hidrocarburos. ",
+  "maintainer_email": null,
+  "metadata_created": "2019-11-26T14:58:56.176161",
+  "metadata_modified": "2021-04-29T17:17:41.038546",
+  "name": "energia-precios-gas-natural",
+  "notes": "Precios de Gas natural",
+  "num_resources": 4,
+  "num_tags": 3,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:09.221510",
+    "description": "",
+    "id": "cd1b32a2-2d3a-44ac-8c98-a425a7b62d42",
+    "image_url": "",
+    "is_organization": true,
+    "name": "energia",
+    "revision_id": "a184cf69-99ad-4f84-a254-020031d7fe63",
+    "state": "active",
+    "title": "Secretaría de Energía",
+    "type": "organization"
+  },
+  "owner_org": "cd1b32a2-2d3a-44ac-8c98-a425a7b62d42",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "http://datos.minem.gob.ar/dataset/5ddbdfbb-b6f9-4bc1-9e71-0055e86cf552/resource/8ecda228-9c92-4ccb-9a20-1595a334d921",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2018-05-30T11:30:05.295733",
+      "datastore_active": false,
+      "description": "Precios de Gas Natural - Res 1/2018 desde enero 2019",
+      "format": "php",
+      "hash": "",
+      "id": "energia_8ecda228-9c92-4ccb-9a20-1595a334d921",
+      "last_modified": "2019-09-11T13:50:50.284111",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Precios de Gas Natural - Res 1/2018",
+      "package_id": "energia_5ddbdfbb-b6f9-4bc1-9e71-0055e86cf552",
+      "position": 0,
+      "resource_type": null,
+      "revision_id": "53ada70d-cb0d-4927-b7ce-0df38e7fb9aa",
+      "size": null,
+      "state": "active",
+      "url": "https://apps.se.gob.ar/viz_3/pgas.php",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos.minem.gob.ar/dataset/5ddbdfbb-b6f9-4bc1-9e71-0055e86cf552/resource/d87ca6ab-2979-474b-994a-e4ba259bb217",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-09-11T15:46:49.177117",
+      "datastore_active": false,
+      "description": "Precios de Gas Natural - Res 1/2018 desde enero 2019",
+      "fileName": "precios-de-gas-natural-.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "energia_d87ca6ab-2979-474b-994a-e4ba259bb217",
+      "last_modified": "2020-11-17T15:00:26.388257",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Precios de Gas Natural - Res 1/2018",
+      "package_id": "energia_5ddbdfbb-b6f9-4bc1-9e71-0055e86cf552",
+      "position": 1,
+      "resource_type": "file",
+      "revision_id": "004eeadd-7717-4ea2-8263-dc465b68db79",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.minem.gob.ar/dataset/5ddbdfbb-b6f9-4bc1-9e71-0055e86cf552/resource/d87ca6ab-2979-474b-994a-e4ba259bb217/download/precios-de-gas-natural-.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos.minem.gob.ar/dataset/5ddbdfbb-b6f9-4bc1-9e71-0055e86cf552/resource/956778d7-e3c6-4136-8a74-67dfbb4eb0ef",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-08-09T15:46:28.736961",
+      "datastore_active": false,
+      "description": "Precios de Gas Natural - Res 1/2018 de enero a junio 2019",
+      "format": "XLSX",
+      "hash": "",
+      "id": "energia_956778d7-e3c6-4136-8a74-67dfbb4eb0ef",
+      "last_modified": "2020-03-02T14:36:57.257058",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Precios de Gas Natural - Res 1/2018",
+      "package_id": "energia_5ddbdfbb-b6f9-4bc1-9e71-0055e86cf552",
+      "position": 2,
+      "resource_type": null,
+      "revision_id": "a2cf0c7d-b045-4565-a723-67f1a95080b8",
+      "size": null,
+      "state": "active",
+      "url": "https://apps.se.gob.ar/viz/precios_res1_2018.xlsx",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos.minem.gob.ar/dataset/5ddbdfbb-b6f9-4bc1-9e71-0055e86cf552/resource/50f8a2e1-96a1-4407-b036-718e73c0921d",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-06-06T13:49:27.740133",
+      "datastore_active": false,
+      "description": "Precios de Gas Natural - Res 1/2018 hasta abril 2019\r\n",
+      "fileName": "precios-de-gas-natural-.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "energia_50f8a2e1-96a1-4407-b036-718e73c0921d",
+      "last_modified": "2020-11-17T15:03:14.893514",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Precios de Gas Natural - Res 1/2018",
+      "package_id": "energia_5ddbdfbb-b6f9-4bc1-9e71-0055e86cf552",
+      "position": 3,
+      "resource_type": "file",
+      "revision_id": "004eeadd-7717-4ea2-8263-dc465b68db79",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.minem.gob.ar/dataset/5ddbdfbb-b6f9-4bc1-9e71-0055e86cf552/resource/50f8a2e1-96a1-4407-b036-718e73c0921d/download/precios-de-gas-natural-.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "53ada70d-cb0d-4927-b7ce-0df38e7fb9aa",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "Comercialización de Gas Natural",
+      "id": "18491cae-52b6-4961-aa8d-41ba56482bca",
+      "name": "Comercialización de Gas Natural",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Gas",
+      "id": "eed5254c-896b-4775-be02-1f8b96553271",
+      "name": "Gas",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Precios",
+      "id": "308c2aaf-f177-4728-bda5-fd41662741a2",
+      "name": "Precios",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Precios de Gas Natural",
+  "type": "dataset",
+  "url": "http://datos.minem.gob.ar/dataset/",
+  "version": null
+}

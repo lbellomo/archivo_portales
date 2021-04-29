@@ -1,0 +1,119 @@
+{
+  "author": "Secretaría de Gobierno de Energía",
+  "author_email": null,
+  "creator_user_id": "4720e75a-9e17-4dc3-879d-041917c7f9f9",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P1M"
+    },
+    {
+      "key": "issued",
+      "value": "2019-09-27T17:21:19.485584"
+    },
+    {
+      "key": "modified",
+      "value": "2019-09-27T17:21:19.485584"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"ENER\"]"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Energía",
+      "display_name": "Energía",
+      "id": "a4d3f632-eb48-4163-9791-165989c16035",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225337.421630energia.svg",
+      "name": "ener",
+      "title": "Energía"
+    }
+  ],
+  "id": "energia_27c857a7-8e88-4bcb-8822-984484df7c95",
+  "isopen": false,
+  "license_id": "notspecified",
+  "license_title": "No se especificó la licencia",
+  "maintainer": null,
+  "maintainer_email": null,
+  "metadata_created": "2019-11-26T14:59:17.510514",
+  "metadata_modified": "2021-04-29T17:17:39.917441",
+  "name": "energia-precios-planta-res-se-6062003",
+  "notes": "Precios y volúmenes en planta que informan los operadores que comercializan productos en el mercado y son sujetos pasivos del impuesto sobre los combustibles líquidos y el Gas Natural, en cumplimiento de la Resolución SE 606/2003 y de la Ley 23.966.",
+  "num_resources": 2,
+  "num_tags": 0,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:09.221510",
+    "description": "",
+    "id": "cd1b32a2-2d3a-44ac-8c98-a425a7b62d42",
+    "image_url": "",
+    "is_organization": true,
+    "name": "energia",
+    "revision_id": "a184cf69-99ad-4f84-a254-020031d7fe63",
+    "state": "active",
+    "title": "Secretaría de Energía",
+    "type": "organization"
+  },
+  "owner_org": "cd1b32a2-2d3a-44ac-8c98-a425a7b62d42",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "http://datos.minem.gob.ar/dataset/27c857a7-8e88-4bcb-8822-984484df7c95/resource/c7c47e15-8850-4c63-94b5-618edb81de09",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-09-27T20:29:14.919059",
+      "datastore_active": false,
+      "description": "",
+      "fileName": "precios-en-planta-por-canales-de-comercializacin-desde-2013-volmenes-m3-y-precios-lts-.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "energia_c7c47e15-8850-4c63-94b5-618edb81de09",
+      "last_modified": "2020-10-22T05:07:54.353962",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Precios en planta por Canales de comercialización desde 2013, Volúmenes (m3) y Precios ($/lts.)",
+      "package_id": "energia_27c857a7-8e88-4bcb-8822-984484df7c95",
+      "position": 0,
+      "resource_type": null,
+      "revision_id": "c0fd41f9-724f-4ffe-bdb2-7f07d9b10e29",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.minem.gob.ar/dataset/27c857a7-8e88-4bcb-8822-984484df7c95/resource/c7c47e15-8850-4c63-94b5-618edb81de09/download/precios-en-planta-por-canales-de-comercializacin-desde-2013-volmenes-m3-y-precios-lts-.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos.minem.gob.ar/dataset/27c857a7-8e88-4bcb-8822-984484df7c95/resource/33de61d4-0d60-4ecd-bd31-b6335d3755d8",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-09-27T20:38:58.865117",
+      "datastore_active": false,
+      "description": "",
+      "fileName": "precios-en-planta-por-reventa-a-estaciones-de-servicios-desde-2013-volmenes-m3-y-precios-lts-.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "energia_33de61d4-0d60-4ecd-bd31-b6335d3755d8",
+      "last_modified": "2020-10-22T05:07:59.187350",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Precios en planta por Reventa a estaciones de servicios desde 2013, Volúmenes (m3) y Precios ($/lts.)",
+      "package_id": "energia_27c857a7-8e88-4bcb-8822-984484df7c95",
+      "position": 1,
+      "resource_type": null,
+      "revision_id": "c0fd41f9-724f-4ffe-bdb2-7f07d9b10e29",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.minem.gob.ar/dataset/27c857a7-8e88-4bcb-8822-984484df7c95/resource/33de61d4-0d60-4ecd-bd31-b6335d3755d8/download/precios-en-planta-por-reventa-a-estaciones-de-servicios-desde-2013-volmenes-m3-y-precios-lts-.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "3c3dff58-f862-47d8-8bcc-3131996593b9",
+  "state": "active",
+  "tags": [],
+  "title": "Precios en planta (Res. S.E. 606/2003)",
+  "type": "dataset",
+  "url": "http://datos.minem.gob.ar/dataset/precios-en-planta-res-s-e-606-2003",
+  "version": null
+}

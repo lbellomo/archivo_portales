@@ -1,0 +1,138 @@
+{
+  "author": "ARSAT",
+  "author_email": null,
+  "creator_user_id": "dc157489-51c6-44ce-bd63-3bd983d60778",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P1M"
+    },
+    {
+      "key": "issued",
+      "value": "2021-01-11T12:57:44.602934"
+    },
+    {
+      "key": "language",
+      "value": "[\"spa\"]"
+    },
+    {
+      "key": "modified",
+      "value": "2021-01-11T12:57:44.602934"
+    },
+    {
+      "key": "source",
+      "value": "ARSAT"
+    },
+    {
+      "key": "spatial",
+      "value": "[\"ARG\", \"06\", \"060805\"]"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"GOVE\", \"TECH\"]"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Ciencia y tecnología",
+      "display_name": "Ciencia y tecnología",
+      "id": "0dd7dd0e-aae8-402f-8660-f1e8b6b6084c",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225221.170833ciencia-tecnologia.svg",
+      "name": "tech",
+      "title": "Ciencia y tecnología"
+    },
+    {
+      "description": "Gobierno y sector público",
+      "display_name": "Gobierno y sector público",
+      "id": "e6f07c77-3987-4e71-98a6-731b1aaf74f4",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225353.395233gobierno-sector-publico.svg",
+      "name": "gove",
+      "title": "Gobierno y sector público"
+    }
+  ],
+  "id": "arsat_8f0b4da0-a40d-4b2b-8fe0-dac06d64152a",
+  "isopen": true,
+  "license_id": "CC-BY-4.0",
+  "license_title": "Creative Commons Attribution 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "maintainer": "ARSAT",
+  "maintainer_email": null,
+  "metadata_created": "2021-01-15T18:15:53.699679",
+  "metadata_modified": "2021-04-29T17:03:59.968381",
+  "name": "arsat-puntos-conexion-refefo",
+  "notes": "Puntos de acceso a la Red Federal de Fibra Óptica.",
+  "num_resources": 1,
+  "num_tags": 3,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:07.367973",
+    "description": "",
+    "id": "b2509ac0-3af6-4f66-9ffa-8c6fb4206791",
+    "image_url": "",
+    "is_organization": true,
+    "name": "arsat",
+    "revision_id": "0dcb42ba-2d5b-4c6e-bfc3-bfcbe273dbb4",
+    "state": "active",
+    "title": "Empresa Argentina de Soluciones Satelitales",
+    "type": "organization"
+  },
+  "owner_org": "b2509ac0-3af6-4f66-9ffa-8c6fb4206791",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "https://datos.arsat.com.ar/dataset/8f0b4da0-a40d-4b2b-8fe0-dac06d64152a/resource/15713af0-f384-44c5-8397-c8050162312d",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2021-01-11T12:58:50.410485",
+      "datastore_active": false,
+      "description": "La tabla muestra los puntos de acceso la Red Federal de Fibra Óptica que se encuentran en servicio, junto a otros datos como la población de la localidad.",
+      "fileName": "20210401_puntos_de_coexion_a_la_red_federal_de_fibra_optica.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "arsat_15713af0-f384-44c5-8397-c8050162312d",
+      "last_modified": "2021-04-16T14:42:23.648155",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Puntos de conexión a la Red Federal de Fibra Óptica",
+      "package_id": "arsat_8f0b4da0-a40d-4b2b-8fe0-dac06d64152a",
+      "position": 0,
+      "resource_type": "file.upload",
+      "revision_id": "0f6c8965-0054-420f-98a7-42101d12707b",
+      "size": null,
+      "state": "active",
+      "url": "https://datos.arsat.com.ar/dataset/8f0b4da0-a40d-4b2b-8fe0-dac06d64152a/resource/15713af0-f384-44c5-8397-c8050162312d/download/20210401_puntos_de_coexion_a_la_red_federal_de_fibra_optica.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "d024db6f-30d1-4ac3-9f1c-f52d0cdc9695",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "Acceso",
+      "id": "2e6df6d1-f22c-4f6b-81ec-bf5e9686e9e7",
+      "name": "Acceso",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Conexion",
+      "id": "c798ef2f-e8e1-440d-b632-c952be530888",
+      "name": "Conexion",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Red Federal de Fibra Óptica",
+      "id": "54468930-3198-4e9a-989d-b0bfa2e516c4",
+      "name": "Red Federal de Fibra Óptica",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Puntos de conexión REFEFO",
+  "type": "dataset",
+  "url": "http://datos.arsat.com.ar/dataset/puntos-de-conexion-refefo",
+  "version": null
+}

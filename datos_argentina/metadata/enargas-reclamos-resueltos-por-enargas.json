@@ -1,0 +1,185 @@
+{
+  "author": "Gerencia de Protección del Usuario (GPU)",
+  "author_email": "cjmasin@enargas.gov.ar",
+  "creator_user_id": "dc157489-51c6-44ce-bd63-3bd983d60778",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P1M"
+    },
+    {
+      "key": "issued",
+      "value": "2019-11-20T15:59:55.590069"
+    },
+    {
+      "key": "language",
+      "value": "[\"spa\"]"
+    },
+    {
+      "key": "modified",
+      "value": "2021-02-04T11:11:56.248377"
+    },
+    {
+      "key": "source",
+      "value": "Base de datos del Sistema de Gestión de Reclamos ENARGAS"
+    },
+    {
+      "key": "spatial",
+      "value": "[\"ARG\"]"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"ENER\", \"GOVE\"]"
+    },
+    {
+      "key": "temporal",
+      "value": "2018-01-01T03:00:00.000Z/2020-12-12T03:00:00.000Z"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Energía",
+      "display_name": "Energía",
+      "id": "a4d3f632-eb48-4163-9791-165989c16035",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225337.421630energia.svg",
+      "name": "ener",
+      "title": "Energía"
+    },
+    {
+      "description": "Gobierno y sector público",
+      "display_name": "Gobierno y sector público",
+      "id": "e6f07c77-3987-4e71-98a6-731b1aaf74f4",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225353.395233gobierno-sector-publico.svg",
+      "name": "gove",
+      "title": "Gobierno y sector público"
+    }
+  ],
+  "id": "enargas_2d9707fd-d57f-41f1-8065-c4c6ab53a630",
+  "isopen": false,
+  "license_id": "notspecified",
+  "license_title": "No se especificó la licencia",
+  "maintainer": null,
+  "maintainer_email": null,
+  "metadata_created": "2019-12-04T20:00:07.547155",
+  "metadata_modified": "2021-04-29T13:06:09.476918",
+  "name": "enargas-reclamos-resueltos-por-enargas",
+  "notes": "Incluye el total de reclamos ingresados al ENARGAS con estado \"Resuelto\" por Delegación Regional/Sede Central, Prestadora del servicio de distribución de gas natural, Tipo, Origen, Provincia (desde 2019 en adelante) y Mes/Año. Entiéndase como \"Resuelto\" al trámite de reclamo finalizado y clasificado como \"Procedente\" o \"Improcedente\".",
+  "num_resources": 3,
+  "num_tags": 2,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:09.390629",
+    "description": "",
+    "id": "dddda9d3-644d-4e3d-974b-302fd8945a86",
+    "image_url": "",
+    "is_organization": true,
+    "name": "enargas",
+    "revision_id": "133be5fe-73c2-40d2-a3f3-af901a81acde",
+    "state": "active",
+    "title": "Ente Nacional Regulador del Gas",
+    "type": "organization"
+  },
+  "owner_org": "dddda9d3-644d-4e3d-974b-302fd8945a86",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "https://transparencia.enargas.gov.ar/dataset/2d9707fd-d57f-41f1-8065-c4c6ab53a630/resource/3cc8b728-63ca-4af0-afeb-de492b399b86",
+      "attributesDescription": "[{\"type\": \"integer\", \"description\": \"A\\u00f1o en el que se registra el alta del reclamo en el sistema.\", \"title\": \"reclamo_ano\"}, {\"type\": \"integer\", \"description\": \"N\\u00famero del mes en el que se registra el alta del reclamo en el sistema.\", \"title\": \"reclamo_mes_nro\"}, {\"type\": \"string\", \"description\": \"Nombre del mes en el que se registra el alta del reclamo en el sistema.\", \"title\": \"reclamo_mes_nombre\"}, {\"type\": \"string\", \"description\": \"Sede del ENARGAS en la que se origin\\u00f3 la tramitaci\\u00f3n del reclamo.\", \"title\": \"reclamo_sede_enargas\"}, {\"type\": \"string\", \"description\": \"Raz\\u00f3n social de la Prestadora del servicio de distribuci\\u00f3n de gas natural contra la que se registra el reclamo.\", \"title\": \"reclamo_prestadora\"}, {\"type\": \"string\", \"description\": \"Tipo del reclamo tomado.\", \"title\": \"reclamo_tipo\"}, {\"type\": \"string\", \"description\": \"Canal por el cual ingres\\u00f3 el contacto del reclamante que dio origen al reclamo registrado.\", \"title\": \"reclamo_origen\"}, {\"type\": \"string\", \"description\": \"Resoluci\\u00f3n administrativa del reclamo.\", \"title\": \"reclamo_resolucion\"}, {\"type\": \"string\", \"description\": \"Provincia en la que se registr\\u00f3 el reclamo.\", \"title\": \"reclamo_provincia\"}, {\"type\": \"integer\", \"description\": \"Cantidad de reclamos.\", \"title\": \"reclamo_cantidad\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2020-02-28T11:43:59.282280",
+      "datastore_active": false,
+      "description": "Cantidad de Reclamos ENRG “RESUELTOS” durante el año 2020 por Delegación Regional/Sede Central, Prestadora, Tipo, Origen, Provincia y Mes/Año.",
+      "fileName": "reclamos_enargas_2020.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "enargas_3cc8b728-63ca-4af0-afeb-de492b399b86",
+      "last_modified": "2021-02-04T11:09:48.115447",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Reclamos ENARGAS resueltos en 2020",
+      "package_id": "enargas_2d9707fd-d57f-41f1-8065-c4c6ab53a630",
+      "position": 0,
+      "resource_type": "file.upload",
+      "revision_id": "e3141c41-c120-4939-97bd-28fb64671a92",
+      "size": null,
+      "state": "active",
+      "url": "https://transparencia.enargas.gov.ar/dataset/2d9707fd-d57f-41f1-8065-c4c6ab53a630/resource/3cc8b728-63ca-4af0-afeb-de492b399b86/download/reclamos_enargas_2020.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://transparencia.enargas.gov.ar/dataset/2d9707fd-d57f-41f1-8065-c4c6ab53a630/resource/60e80817-bbca-44fc-8df4-06a0f441cd6e",
+      "attributesDescription": "[{\"type\": \"integer\", \"description\": \"A\\u00f1o en el que se registra el alta del reclamo en el sistema.\", \"title\": \"reclamo_a\\u00f1o\"}, {\"type\": \"integer\", \"description\": \"N\\u00famero del mes en el que se registra el alta del reclamo en el sistema.\", \"title\": \"reclamo_mes_nro\"}, {\"type\": \"string\", \"description\": \"Nombre del mes en el que se registra el alta del reclamo en el sistema.\", \"title\": \"reclamo_mes_nombre\"}, {\"type\": \"string\", \"description\": \"Sede del ENARGAS en la que se origin\\u00f3 la tramitaci\\u00f3n del reclamo.\", \"title\": \"reclamo_sede_enargas\"}, {\"type\": \"string\", \"description\": \"Raz\\u00f3n social de la Prestadora del servicio de distribuci\\u00f3n de gas natural contra la que se registra el reclamo.\", \"title\": \"reclamo_prestadora\"}, {\"type\": \"string\", \"description\": \"Tipo del reclamo tomado.\", \"title\": \"reclamo_tipo\"}, {\"type\": \"string\", \"description\": \"Canal por el cual ingres\\u00f3 el contacto del reclamante que dio origen al reclamo registrado.\", \"title\": \"reclamo_origen\"}, {\"type\": \"string\", \"description\": \"Resoluci\\u00f3n administrativa del reclamo.\", \"title\": \"reclamo_resolucion\"}, {\"type\": \"string\", \"description\": \"Provincia en la que se registr\\u00f3 el reclamo.\", \"title\": \"reclamo_provincia\"}, {\"type\": \"integer\", \"description\": \"Cantidad de reclamos.\", \"title\": \"reclamo_cantidad\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-11-13T14:19:31.582250",
+      "datastore_active": false,
+      "description": "Cantidad de Reclamos ENRG “RESUELTOS” durante el año 2019 por Delegación Regional/Sede Central, Prestadora, Tipo, Origen, Provincia y Mes/Año. ",
+      "fileName": "reclamos_enargas_2019.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "enargas_60e80817-bbca-44fc-8df4-06a0f441cd6e",
+      "last_modified": "2020-11-04T13:38:44.958312",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Reclamos ENARGAS resueltos en 2019",
+      "package_id": "enargas_2d9707fd-d57f-41f1-8065-c4c6ab53a630",
+      "position": 1,
+      "resource_type": "file.upload",
+      "revision_id": "f9ed94ba-bba0-4109-bab7-4ec0370c8308",
+      "size": null,
+      "state": "active",
+      "url": "https://transparencia.enargas.gov.ar/dataset/2d9707fd-d57f-41f1-8065-c4c6ab53a630/resource/60e80817-bbca-44fc-8df4-06a0f441cd6e/download/reclamos_enargas_2019.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://transparencia.enargas.gov.ar/dataset/2d9707fd-d57f-41f1-8065-c4c6ab53a630/resource/8da31d71-57f2-4e77-bd07-604489b18e6d",
+      "attributesDescription": "[{\"type\": \"integer\", \"description\": \"A\\u00f1o en el que se registra el alta del reclamo en el sistema\", \"title\": \"reclamo_a\\u00f1o\"}, {\"type\": \"integer\", \"description\": \"N\\u00famero del mes en el que se registra el alta del reclamo en el sistema \", \"title\": \"reclamo_mes_nro\"}, {\"type\": \"string\", \"description\": \"Nombre del mes en el que se registra el alta del reclamo en el sistema\", \"title\": \"reclamo_mes_nombre\"}, {\"type\": \"string\", \"description\": \"Sede del ENARGAS en la que se origin\\u00f3 la tramitaci\\u00f3n del reclamo\", \"title\": \"reclamo_sede_enargas\"}, {\"type\": \"string\", \"description\": \"Raz\\u00f3n social de la Prestadora del servicio de distribuci\\u00f3n de gas natural contra la que se registra el reclamo\", \"title\": \"reclamo_prestadora\"}, {\"type\": \"string\", \"description\": \"Tipo del reclamo tomado\", \"title\": \"reclamo_tipo\"}, {\"type\": \"string\", \"description\": \"Canal por el cual ingres\\u00f3 el contacto del reclamante que dio origen al reclamo registrado\", \"title\": \"reclamo_origen\"}, {\"type\": \"integer\", \"description\": \"Cantidad de reclamos\", \"title\": \"reclamo_cantidad\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-11-20T16:05:11.365730",
+      "datastore_active": false,
+      "description": "Cantidad de Reclamos ENRG “RESUELTOS” durante el año 2018 por Delegación Regional/Sede Central, Prestadora, Tipo, Origen y Mes/Año.",
+      "fileName": "reclamos_enargas_2018.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "enargas_8da31d71-57f2-4e77-bd07-604489b18e6d",
+      "last_modified": "2020-11-04T13:39:12.605576",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Reclamos ENARGAS resueltos en 2018",
+      "package_id": "enargas_2d9707fd-d57f-41f1-8065-c4c6ab53a630",
+      "position": 2,
+      "resource_type": "file",
+      "revision_id": "f9ed94ba-bba0-4109-bab7-4ec0370c8308",
+      "size": null,
+      "state": "active",
+      "url": "https://transparencia.enargas.gov.ar/dataset/2d9707fd-d57f-41f1-8065-c4c6ab53a630/resource/8da31d71-57f2-4e77-bd07-604489b18e6d/download/reclamos_enargas_2018.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "c3cb3687-4d60-4122-8906-2df3b0b8d630",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "Datos ENARGAS",
+      "id": "05cd28f2-7cdb-4eab-95d1-c45cb956d0db",
+      "name": "Datos ENARGAS",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "reclamos enargas enrg gas",
+      "id": "f79c80ad-01e0-4c2a-beb7-e3f96d8a4369",
+      "name": "reclamos enargas enrg gas",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Reclamos resueltos por el ENARGAS",
+  "type": "dataset",
+  "url": "https://transparencia.enargas.gov.ar/dataset/reclamos-resueltos-enargas",
+  "version": null
+}

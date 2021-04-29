@@ -1,0 +1,149 @@
+{
+  "author": "Subsecretaría de Programación Macroeconómica",
+  "author_email": "datoseconomicos@mecon.gov.ar",
+  "creator_user_id": "4720e75a-9e17-4dc3-879d-041917c7f9f9",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P1M"
+    },
+    {
+      "key": "issued",
+      "value": "2017-09-28"
+    },
+    {
+      "key": "language",
+      "value": "[\"SPA\"]"
+    },
+    {
+      "key": "source",
+      "value": "Ministerio de Trabajo, Empleo y Seguridad Social"
+    },
+    {
+      "key": "spatial",
+      "value": "ARG"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"ECON\"]"
+    },
+    {
+      "key": "temporal",
+      "value": "2009-01-01/2017-05-01"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Economía y finanzas",
+      "display_name": "Economía y finanzas",
+      "id": "60b4b03e-10a1-4d67-b984-08008a249617",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225257.200233economia-finanzas.svg",
+      "name": "econ",
+      "title": "Economía y finanzas"
+    }
+  ],
+  "id": "sspm_154",
+  "isopen": true,
+  "license_id": "CC-BY-4.0",
+  "license_title": "Creative Commons Attribution 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "maintainer": "Subsecretaría de Programación Macroeconómica.",
+  "maintainer_email": "datoseconomicos@mecon.gov.ar",
+  "metadata_created": "2019-11-26T15:04:57.158827",
+  "metadata_modified": "2021-04-29T17:05:52.908605",
+  "name": "sspm-asalariados-registrados-sector-privado-por-provincia",
+  "notes": "Asalariados registrados del sector privado según provincia.  En miles de trabajadores",
+  "num_resources": 2,
+  "num_tags": 2,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:09.718132",
+    "description": "",
+    "id": "68f9ee22-5ec3-44cf-a32b-b87d9db46b93",
+    "image_url": "",
+    "is_organization": true,
+    "name": "sspm",
+    "revision_id": "bc058ce0-3540-4204-96cd-9f9ec79045b3",
+    "state": "active",
+    "title": "Subsecretaría de Programación Macroeconómica",
+    "type": "organization"
+  },
+  "owner_org": "68f9ee22-5ec3-44cf-a32b-b87d9db46b93",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/",
+      "attributesDescription": "[{\"title\": \"indice_tiempo\", \"type\": \"date\", \"specialType\": \"time_index\", \"specialTypeDetail\": \"R/P1M\", \"id\": \"154.1_ICE_TIEMPO_C_0_0_13\", \"scrapingIdentifierCell\": \"A12\", \"scrapingDataStartCell\": \"A13\", \"dataset_identifier\": \"154\", \"distribution_identifier\": \"154.1\"}, {\"title\": \"asalariados_priv_buenos_aires\", \"type\": \"number\", \"description\": \"Asalariados. Sector privado. Provincia de Buenos Aires.\", \"id\": \"154.1_BOS_AIRRES_C_0_0_12\", \"scrapingIdentifierCell\": \"B12\", \"scrapingDataStartCell\": \"B13\", \"units\": \"Miles de personas\", \"dataset_identifier\": \"154\", \"distribution_identifier\": \"154.1\"}, {\"title\": \"asalariados_priv_caba\", \"type\": \"number\", \"description\": \"Asalariados. Sector privado. Ciudad Aut\\u00f3noma de Buenos Aires.\", \"id\": \"154.1_CABA_C_0_0_4\", \"scrapingIdentifierCell\": \"C12\", \"scrapingDataStartCell\": \"C13\", \"units\": \"Miles de personas\", \"dataset_identifier\": \"154\", \"distribution_identifier\": \"154.1\"}, {\"title\": \"asalariados_priv_catamarca\", \"type\": \"number\", \"description\": \"Asalariados. Sector privado. Provincia de Catamarca.\", \"id\": \"154.1_CMARCARCA_C_0_0_9\", \"scrapingIdentifierCell\": \"D12\", \"scrapingDataStartCell\": \"D13\", \"units\": \"Miles de personas\", \"dataset_identifier\": \"154\", \"distribution_identifier\": \"154.1\"}, {\"title\": \"asalariados_priv_chaco\", \"type\": \"number\", \"description\": \"Asalariados. Sector privado. Provincia de Chaco.\", \"id\": \"154.1_COACO_C_0_0_5\", \"scrapingIdentifierCell\": \"E12\", \"scrapingDataStartCell\": \"E13\", \"units\": \"Miles de personas\", \"dataset_identifier\": \"154\", \"distribution_identifier\": \"154.1\"}, {\"title\": \"asalariados_priv_chubut\", \"type\": \"number\", \"description\": \"Asalariados. Sector privado. Provincia de Chubut.\", \"id\": \"154.1_CUTBUT_C_0_0_6\", \"scrapingIdentifierCell\": \"F12\", \"scrapingDataStartCell\": \"F13\", \"units\": \"Miles de personas\", \"dataset_identifier\": \"154\", \"distribution_identifier\": \"154.1\"}, {\"title\": \"asalariados_priv_cordoba\", \"type\": \"number\", \"description\": \"Asalariados. Sector privado. Provincia de C\\u00f3rdoba.\", \"id\": \"154.1_COBAOBA_C_0_0_7\", \"scrapingIdentifierCell\": \"G12\", \"scrapingDataStartCell\": \"G13\", \"units\": \"Miles de personas\", \"dataset_identifier\": \"154\", \"distribution_identifier\": \"154.1\"}, {\"title\": \"asalariados_priv_corrientes\", \"type\": \"number\", \"description\": \"Asalariados. Sector privado. Provincia de Corrientes.\", \"id\": \"154.1_CIENTESTES_C_0_0_10\", \"scrapingIdentifierCell\": \"H12\", \"scrapingDataStartCell\": \"H13\", \"units\": \"Miles de personas\", \"dataset_identifier\": \"154\", \"distribution_identifier\": \"154.1\"}, {\"title\": \"asalariados_priv_entre_rios\", \"type\": \"number\", \"description\": \"Asalariados. Sector privado. Provincia de Entre R\\u00edos.\", \"id\": \"154.1_EE_RIOSIOS_C_0_0_10\", \"scrapingIdentifierCell\": \"I12\", \"scrapingDataStartCell\": \"I13\", \"units\": \"Miles de personas\", \"dataset_identifier\": \"154\", \"distribution_identifier\": \"154.1\"}, {\"title\": \"asalariados_priv_formosa\", \"type\": \"number\", \"description\": \"Asalariados. Sector privado. Provincia de Formosa.\", \"id\": \"154.1_FOSAOSA_C_0_0_7\", \"scrapingIdentifierCell\": \"J12\", \"scrapingDataStartCell\": \"J13\", \"units\": \"Miles de personas\", \"dataset_identifier\": \"154\", \"distribution_identifier\": \"154.1\"}, {\"title\": \"asalariados_priv_jujuy\", \"type\": \"number\", \"description\": \"Asalariados. Sector privado. Provincia de Jujuy.\", \"id\": \"154.1_JYJUY_C_0_0_5\", \"scrapingIdentifierCell\": \"K12\", \"scrapingDataStartCell\": \"K13\", \"units\": \"Miles de personas\", \"dataset_identifier\": \"154\", \"distribution_identifier\": \"154.1\"}, {\"title\": \"asalariados_priv_la_pampa\", \"type\": \"number\", \"description\": \"Asalariados. Sector privado. Provincia de La Pampa.\", \"id\": \"154.1_LAMPAMPA_C_0_0_8\", \"scrapingIdentifierCell\": \"L12\", \"scrapingDataStartCell\": \"L13\", \"units\": \"Miles de personas\", \"dataset_identifier\": \"154\", \"distribution_identifier\": \"154.1\"}, {\"title\": \"asalariados_priv_la_rioja\", \"type\": \"number\", \"description\": \"Asalariados. Sector privado. Provincia de La Rioja.\", \"id\": \"154.1_LIOJAOJA_C_0_0_8\", \"scrapingIdentifierCell\": \"M12\", \"scrapingDataStartCell\": \"M13\", \"units\": \"Miles de personas\", \"dataset_identifier\": \"154\", \"distribution_identifier\": \"154.1\"}, {\"title\": \"asalariados_priv_mendoza\", \"type\": \"number\", \"description\": \"Asalariados. Sector privado. Provincia de Mendoza.\", \"id\": \"154.1_MOZAOZA_C_0_0_7\", \"scrapingIdentifierCell\": \"N12\", \"scrapingDataStartCell\": \"N13\", \"units\": \"Miles de personas\", \"dataset_identifier\": \"154\", \"distribution_identifier\": \"154.1\"}, {\"title\": \"asalariados_priv_misiones\", \"type\": \"number\", \"description\": \"Asalariados. Sector privado. Provincia de Misiones.\", \"id\": \"154.1_MONESNES_C_0_0_8\", \"scrapingIdentifierCell\": \"O12\", \"scrapingDataStartCell\": \"O13\", \"units\": \"Miles de personas\", \"dataset_identifier\": \"154\", \"distribution_identifier\": \"154.1\"}, {\"title\": \"asalariados_priv_neuquen\", \"type\": \"number\", \"description\": \"Asalariados. Sector privado. Provincia de Neuqu\\u00e9n.\", \"id\": \"154.1_NUENUEN_C_0_0_7\", \"scrapingIdentifierCell\": \"P12\", \"scrapingDataStartCell\": \"P13\", \"units\": \"Miles de personas\", \"dataset_identifier\": \"154\", \"distribution_identifier\": \"154.1\"}, {\"title\": \"asalariados_priv_rio_negro\", \"type\": \"number\", \"description\": \"Asalariados. Sector privado. Provincia de R\\u00edo Negro.\", \"id\": \"154.1_RNEGROGRO_C_0_0_9\", \"scrapingIdentifierCell\": \"Q12\", \"scrapingDataStartCell\": \"Q13\", \"units\": \"Miles de personas\", \"dataset_identifier\": \"154\", \"distribution_identifier\": \"154.1\"}, {\"title\": \"asalariados_priv_salta\", \"type\": \"number\", \"description\": \"Asalariados. Sector privado. Provincia de Salta.\", \"id\": \"154.1_SALTA_C_0_0_5\", \"scrapingIdentifierCell\": \"R12\", \"scrapingDataStartCell\": \"R13\", \"units\": \"Miles de personas\", \"dataset_identifier\": \"154\", \"distribution_identifier\": \"154.1\"}, {\"title\": \"asalariados_priv_san_juan\", \"type\": \"number\", \"description\": \"Asalariados. Sector privado. Provincia de San Juan.\", \"id\": \"154.1_SJUANUAN_C_0_0_8\", \"scrapingIdentifierCell\": \"S12\", \"scrapingDataStartCell\": \"S13\", \"units\": \"Miles de personas\", \"dataset_identifier\": \"154\", \"distribution_identifier\": \"154.1\"}, {\"title\": \"asalariados_priv_san_luis\", \"type\": \"number\", \"description\": \"Asalariados. Sector privado. Provincia de San Luis.\", \"id\": \"154.1_SLUISUIS_C_0_0_8\", \"scrapingIdentifierCell\": \"T12\", \"scrapingDataStartCell\": \"T13\", \"units\": \"Miles de personas\", \"dataset_identifier\": \"154\", \"distribution_identifier\": \"154.1\"}, {\"title\": \"asalariados_priv_santa_cruz\", \"type\": \"number\", \"description\": \"Asalariados. Sector privado. Provincia de Santa Cruz.\", \"id\": \"154.1_SA_CRUZRUZ_C_0_0_10\", \"scrapingIdentifierCell\": \"U12\", \"scrapingDataStartCell\": \"U13\", \"units\": \"Miles de personas\", \"dataset_identifier\": \"154\", \"distribution_identifier\": \"154.1\"}, {\"title\": \"asalariados_priv_santa_fe\", \"type\": \"number\", \"description\": \"Asalariados. Sector privado. Provincia de Santa F\\u00e9.\", \"id\": \"154.1_SA_FE_FE_C_0_0_8\", \"scrapingIdentifierCell\": \"V12\", \"scrapingDataStartCell\": \"V13\", \"units\": \"Miles de personas\", \"dataset_identifier\": \"154\", \"distribution_identifier\": \"154.1\"}, {\"title\": \"asalariados_priv_santiago_estero\", \"type\": \"number\", \"description\": \"Asalariados. Sector privado. Provincia de Santiago del Estero.\", \"id\": \"154.1_SIAGO_EERO_C_0_0_15\", \"scrapingIdentifierCell\": \"W12\", \"scrapingDataStartCell\": \"W13\", \"units\": \"Miles de personas\", \"dataset_identifier\": \"154\", \"distribution_identifier\": \"154.1\"}, {\"title\": \"asalariados_priv_tierra_fuego\", \"type\": \"number\", \"description\": \"Asalariados. Sector privado. Provincia de Tierra del Fuego, Ant\\u00e1rtida e Islas del Atl\\u00e1ntico Sur.\", \"id\": \"154.1_TRA_FUEEGO_C_0_0_12\", \"scrapingIdentifierCell\": \"X12\", \"scrapingDataStartCell\": \"X13\", \"units\": \"Miles de personas\", \"dataset_identifier\": \"154\", \"distribution_identifier\": \"154.1\"}, {\"title\": \"asalariados_priv_tucuman\", \"type\": \"number\", \"description\": \"Asalariados. Sector privado. Provincia de Tucum\\u00e1n.\", \"id\": \"154.1_TMANMAN_C_0_0_7\", \"scrapingIdentifierCell\": \"Y12\", \"scrapingDataStartCell\": \"Y13\", \"units\": \"Miles de personas\", \"dataset_identifier\": \"154\", \"distribution_identifier\": \"154.1\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-09-28T00:00:00",
+      "datastore_active": false,
+      "description": "Asalariados registrados del sector privado según provincia. En miles de trabajadores. Datos con estacionalidad. Datos mensuales",
+      "fileName": "asalariados-registrados-sector-privado-segun-provincia-datos-con-estacionalidad.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "sspm_154.1",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Asalariados registrados del sector privado, por provincia. Valores con estacionalidad",
+      "package_id": "sspm_154",
+      "position": 0,
+      "resource_type": null,
+      "revision_id": "db438197-f810-4931-9853-1ac5e888beff",
+      "size": null,
+      "state": "active",
+      "url": "https://infra.datos.gob.ar/catalog/sspm/dataset/154/distribution/154.1/download/asalariados-registrados-sector-privado-segun-provincia-datos-con-estacionalidad.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/",
+      "attributesDescription": "[{\"title\": \"indice_tiempo\", \"type\": \"date\", \"specialType\": \"time_index\", \"specialTypeDetail\": \"R/P1M\", \"id\": \"154.2_ICE_TIEMPO_S_0_0_13\", \"scrapingIdentifierCell\": \"AA12\", \"scrapingDataStartCell\": \"AA13\", \"dataset_identifier\": \"154\", \"distribution_identifier\": \"154.2\"}, {\"title\": \"asalariados_priv_sin_estac_buenos_aires\", \"type\": \"number\", \"description\": \"Asalariados. Sector privado. Sin Estacionalidad. Provincia de Buenos Aires.\", \"id\": \"154.2_BOS_AIRRES_S_0_0_12\", \"scrapingIdentifierCell\": \"AB12\", \"scrapingDataStartCell\": \"AB13\", \"units\": \"Miles de personas\", \"dataset_identifier\": \"154\", \"distribution_identifier\": \"154.2\"}, {\"title\": \"asalariados_priv_sin_estac_caba\", \"type\": \"number\", \"description\": \"Asalariados. Sector privado. Sin Estacionalidad. Ciudad Aut\\u00f3noma de Buenos Aires.\", \"id\": \"154.2_CABA_S_0_0_4\", \"scrapingIdentifierCell\": \"AC12\", \"scrapingDataStartCell\": \"AC13\", \"units\": \"Miles de personas\", \"dataset_identifier\": \"154\", \"distribution_identifier\": \"154.2\"}, {\"title\": \"asalariados_priv_sin_estac_catamarca\", \"type\": \"number\", \"description\": \"Asalariados. Sector privado. Sin Estacionalidad. Provincia de Catamarca.\", \"id\": \"154.2_CMARCARCA_S_0_0_9\", \"scrapingIdentifierCell\": \"AD12\", \"scrapingDataStartCell\": \"AD13\", \"units\": \"Miles de personas\", \"dataset_identifier\": \"154\", \"distribution_identifier\": \"154.2\"}, {\"title\": \"asalariados_priv_sin_estac_chaco\", \"type\": \"number\", \"description\": \"Asalariados. Sector privado. Sin Estacionalidad. Provincia de Chaco.\", \"id\": \"154.2_COACO_S_0_0_5\", \"scrapingIdentifierCell\": \"AE12\", \"scrapingDataStartCell\": \"AE13\", \"units\": \"Miles de personas\", \"dataset_identifier\": \"154\", \"distribution_identifier\": \"154.2\"}, {\"title\": \"asalariados_priv_sin_estac_chubut\", \"type\": \"number\", \"description\": \"Asalariados. Sector privado. Sin Estacionalidad. Provincia de Chubut.\", \"id\": \"154.2_CUTBUT_S_0_0_6\", \"scrapingIdentifierCell\": \"AF12\", \"scrapingDataStartCell\": \"AF13\", \"units\": \"Miles de personas\", \"dataset_identifier\": \"154\", \"distribution_identifier\": \"154.2\"}, {\"title\": \"asalariados_priv_sin_estac_cordoba\", \"type\": \"number\", \"description\": \"Asalariados. Sector privado. Sin Estacionalidad. Provincia de C\\u00f3rdoba.\", \"id\": \"154.2_COBAOBA_S_0_0_7\", \"scrapingIdentifierCell\": \"AG12\", \"scrapingDataStartCell\": \"AG13\", \"units\": \"Miles de personas\", \"dataset_identifier\": \"154\", \"distribution_identifier\": \"154.2\"}, {\"title\": \"asalariados_priv_sin_estac_corrientes\", \"type\": \"number\", \"description\": \"Asalariados. Sector privado. Sin Estacionalidad. Provincia de Corrientes.\", \"id\": \"154.2_CIENTESTES_S_0_0_10\", \"scrapingIdentifierCell\": \"AH12\", \"scrapingDataStartCell\": \"AH13\", \"units\": \"Miles de personas\", \"dataset_identifier\": \"154\", \"distribution_identifier\": \"154.2\"}, {\"title\": \"asalariados_priv_sin_estac_entre_rios\", \"type\": \"number\", \"description\": \"Asalariados. Sector privado. Sin Estacionalidad. Provincia de Entre R\\u00edos.\", \"id\": \"154.2_EE_RIOSIOS_S_0_0_10\", \"scrapingIdentifierCell\": \"AI12\", \"scrapingDataStartCell\": \"AI13\", \"units\": \"Miles de personas\", \"dataset_identifier\": \"154\", \"distribution_identifier\": \"154.2\"}, {\"title\": \"asalariados_priv_sin_estac_formosa\", \"type\": \"number\", \"description\": \"Asalariados. Sector privado. Sin Estacionalidad. Provincia de Formosa.\", \"id\": \"154.2_FOSAOSA_S_0_0_7\", \"scrapingIdentifierCell\": \"AJ12\", \"scrapingDataStartCell\": \"AJ13\", \"units\": \"Miles de personas\", \"dataset_identifier\": \"154\", \"distribution_identifier\": \"154.2\"}, {\"title\": \"asalariados_priv_sin_estac_jujuy\", \"type\": \"number\", \"description\": \"Asalariados. Sector privado. Sin Estacionalidad. Provincia de Jujuy.\", \"id\": \"154.2_JYJUY_S_0_0_5\", \"scrapingIdentifierCell\": \"AK12\", \"scrapingDataStartCell\": \"AK13\", \"units\": \"Miles de personas\", \"dataset_identifier\": \"154\", \"distribution_identifier\": \"154.2\"}, {\"title\": \"asalariados_priv_sin_estac_la_pampa\", \"type\": \"number\", \"description\": \"Asalariados. Sector privado. Sin Estacionalidad. Provincia de La Pampa.\", \"id\": \"154.2_LAMPAMPA_S_0_0_8\", \"scrapingIdentifierCell\": \"AL12\", \"scrapingDataStartCell\": \"AL13\", \"units\": \"Miles de personas\", \"dataset_identifier\": \"154\", \"distribution_identifier\": \"154.2\"}, {\"title\": \"asalariados_priv_sin_estac_la_rioja\", \"type\": \"number\", \"description\": \"Asalariados. Sector privado. Sin Estacionalidad. Provincia de La Rioja.\", \"id\": \"154.2_LIOJAOJA_S_0_0_8\", \"scrapingIdentifierCell\": \"AM12\", \"scrapingDataStartCell\": \"AM13\", \"units\": \"Miles de personas\", \"dataset_identifier\": \"154\", \"distribution_identifier\": \"154.2\"}, {\"title\": \"asalariados_priv_sin_estac_mendoza\", \"type\": \"number\", \"description\": \"Asalariados. Sector privado. Sin Estacionalidad. Provincia de Mendoza.\", \"id\": \"154.2_MOZAOZA_S_0_0_7\", \"scrapingIdentifierCell\": \"AN12\", \"scrapingDataStartCell\": \"AN13\", \"units\": \"Miles de personas\", \"dataset_identifier\": \"154\", \"distribution_identifier\": \"154.2\"}, {\"title\": \"asalariados_priv_sin_estac_misiones\", \"type\": \"number\", \"description\": \"Asalariados. Sector privado. Sin Estacionalidad. Provincia de Misiones.\", \"id\": \"154.2_MONESNES_S_0_0_8\", \"scrapingIdentifierCell\": \"AO12\", \"scrapingDataStartCell\": \"AO13\", \"units\": \"Miles de personas\", \"dataset_identifier\": \"154\", \"distribution_identifier\": \"154.2\"}, {\"title\": \"asalariados_priv_sin_estac_neuquen\", \"type\": \"number\", \"description\": \"Asalariados. Sector privado. Sin Estacionalidad. Provincia de Neuqu\\u00e9n.\", \"id\": \"154.2_NUENUEN_S_0_0_7\", \"scrapingIdentifierCell\": \"AP12\", \"scrapingDataStartCell\": \"AP13\", \"units\": \"Miles de personas\", \"dataset_identifier\": \"154\", \"distribution_identifier\": \"154.2\"}, {\"title\": \"asalariados_priv_sin_estac_rio_negro\", \"type\": \"number\", \"description\": \"Asalariados. Sector privado. Sin Estacionalidad. Provincia de R\\u00edo Negro.\", \"id\": \"154.2_RNEGROGRO_S_0_0_9\", \"scrapingIdentifierCell\": \"AQ12\", \"scrapingDataStartCell\": \"AQ13\", \"units\": \"Miles de personas\", \"dataset_identifier\": \"154\", \"distribution_identifier\": \"154.2\"}, {\"title\": \"asalariados_priv_sin_estac_salta\", \"type\": \"number\", \"description\": \"Asalariados. Sector privado. Sin Estacionalidad. Provincia de Salta.\", \"id\": \"154.2_SALTA_S_0_0_5\", \"scrapingIdentifierCell\": \"AR12\", \"scrapingDataStartCell\": \"AR13\", \"units\": \"Miles de personas\", \"dataset_identifier\": \"154\", \"distribution_identifier\": \"154.2\"}, {\"title\": \"asalariados_priv_sin_estac_san_juan\", \"type\": \"number\", \"description\": \"Asalariados. Sector privado. Sin Estacionalidad. Provincia de San Juan.\", \"id\": \"154.2_SJUANUAN_S_0_0_8\", \"scrapingIdentifierCell\": \"AS12\", \"scrapingDataStartCell\": \"AS13\", \"units\": \"Miles de personas\", \"dataset_identifier\": \"154\", \"distribution_identifier\": \"154.2\"}, {\"title\": \"asalariados_priv_sin_estac_san_luis\", \"type\": \"number\", \"description\": \"Asalariados. Sector privado. Sin Estacionalidad. Provincia de San Luis.\", \"id\": \"154.2_SLUISUIS_S_0_0_8\", \"scrapingIdentifierCell\": \"AT12\", \"scrapingDataStartCell\": \"AT13\", \"units\": \"Miles de personas\", \"dataset_identifier\": \"154\", \"distribution_identifier\": \"154.2\"}, {\"title\": \"asalariados_priv_sin_estac_santa_cruz\", \"type\": \"number\", \"description\": \"Asalariados. Sector privado. Sin Estacionalidad. Provincia de Santa Cruz.\", \"id\": \"154.2_SA_CRUZRUZ_S_0_0_10\", \"scrapingIdentifierCell\": \"AU12\", \"scrapingDataStartCell\": \"AU13\", \"units\": \"Miles de personas\", \"dataset_identifier\": \"154\", \"distribution_identifier\": \"154.2\"}, {\"title\": \"asalariados_priv_sin_estac_santa_fe\", \"type\": \"number\", \"description\": \"Asalariados. Sector privado. Sin Estacionalidad. Provincia de Santa F\\u00e9.\", \"id\": \"154.2_SA_FE_FE_S_0_0_8\", \"scrapingIdentifierCell\": \"AV12\", \"scrapingDataStartCell\": \"AV13\", \"units\": \"Miles de personas\", \"dataset_identifier\": \"154\", \"distribution_identifier\": \"154.2\"}, {\"title\": \"asalariados_priv_sin_estac_santiago_estero\", \"type\": \"number\", \"description\": \"Asalariados. Sector privado. Sin Estacionalidad. Provincia de Santiago del Estero.\", \"id\": \"154.2_SIAGO_EERO_S_0_0_15\", \"scrapingIdentifierCell\": \"AW12\", \"scrapingDataStartCell\": \"AW13\", \"units\": \"Miles de personas\", \"dataset_identifier\": \"154\", \"distribution_identifier\": \"154.2\"}, {\"title\": \"asalariados_priv_sin_estac_tierra_fuego\", \"type\": \"number\", \"description\": \"Asalariados. Sector privado. Sin Estacionalidad. Provincia de Tierra del Fuego, Ant\\u00e1rtida e Islas del Atl\\u00e1ntico Sur.\", \"id\": \"154.2_TRA_FUEEGO_S_0_0_12\", \"scrapingIdentifierCell\": \"AX12\", \"scrapingDataStartCell\": \"AX13\", \"units\": \"Miles de personas\", \"dataset_identifier\": \"154\", \"distribution_identifier\": \"154.2\"}, {\"title\": \"asalariados_priv_sin_estac_tucuman\", \"type\": \"number\", \"description\": \"Asalariados. Sector privado. Sin Estacionalidad. Provincia de Tucum\\u00e1n.\", \"id\": \"154.2_TMANMAN_S_0_0_7\", \"scrapingIdentifierCell\": \"AY12\", \"scrapingDataStartCell\": \"AY13\", \"units\": \"Miles de personas\", \"dataset_identifier\": \"154\", \"distribution_identifier\": \"154.2\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-09-28T00:00:00",
+      "datastore_active": false,
+      "description": "Asalariados registrados del sector privado según provincia. En miles de trabajadores Datos sin estacionalidad datos mensuales",
+      "fileName": "asalariados-registrados-sector-privado-segun-provincia-datos-sin-estacionalidad.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "sspm_154.2",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Asalariados registrados del sector privado, por provincia. Valores sin estacionalidad",
+      "package_id": "sspm_154",
+      "position": 1,
+      "resource_type": null,
+      "revision_id": "db438197-f810-4931-9853-1ac5e888beff",
+      "size": null,
+      "state": "active",
+      "url": "https://infra.datos.gob.ar/catalog/sspm/dataset/154/distribution/154.2/download/asalariados-registrados-sector-privado-segun-provincia-datos-sin-estacionalidad.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "db438197-f810-4931-9853-1ac5e888beff",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "Empleo e Ingresos",
+      "id": "0d41bcfd-c3a4-4ff7-8aa1-dd5c3ac51d0b",
+      "name": "Empleo e Ingresos",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Información Económica al Día",
+      "id": "0d300a9a-0802-46c3-9a40-2f28ddf050ec",
+      "name": "Información Económica al Día",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Asalariados registrados del sector privado, por provincia.",
+  "type": "dataset",
+  "url": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/",
+  "version": null
+}

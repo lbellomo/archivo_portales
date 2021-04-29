@@ -1,0 +1,236 @@
+{
+  "author": "Dirección Nacional Láctea",
+  "author_email": "estadisticaslecheria@magyp.gob.ar",
+  "creator_user_id": "dc157489-51c6-44ce-bd63-3bd983d60778",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P1Y"
+    },
+    {
+      "key": "issued",
+      "value": "2018-12-07T21:26:06.375611"
+    },
+    {
+      "key": "language",
+      "value": "[\"spa\"]"
+    },
+    {
+      "key": "modified",
+      "value": "2019-10-24T10:39:01.877552"
+    },
+    {
+      "key": "spatial",
+      "value": "[\"ARG\"]"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"AGRI\"]"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Agroganadería, pesca y forestación",
+      "display_name": "Agroganadería, pesca y forestación",
+      "id": "0c35ea38-7059-41d2-9827-5587769d0dc6",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225145.990789agroganaderia-pesca-forestacion.svg",
+      "name": "agri",
+      "title": "Agroganadería, pesca y forestación"
+    }
+  ],
+  "id": "agroindustria_164521f9-8cb4-4e3f-8299-3853a1d890ec",
+  "isopen": true,
+  "license_id": "CC-BY-4.0",
+  "license_title": "Creative Commons Attribution 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "maintainer": "Dirección Nacional Láctea",
+  "maintainer_email": "estadisticaslecheria@magyp.gob.ar",
+  "metadata_created": "2019-12-04T21:13:05.471530",
+  "metadata_modified": "2021-04-29T17:11:49.529491",
+  "name": "agroindustria-lacteos---existencias-entre-anos-1998-2008",
+  "notes": "Existencias lácteas en litros del período 1998 - 2008, desagregadas por mes y producto.",
+  "num_resources": 2,
+  "num_tags": 15,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:07.834957",
+    "description": "",
+    "id": "b10c94e2-ade1-4a97-8c4c-b1ada7878d60",
+    "image_url": "",
+    "is_organization": true,
+    "name": "agroindustria",
+    "revision_id": "f7c3b6e9-d48f-4522-9f7a-388d805c8392",
+    "state": "active",
+    "title": "Ministerio de Agricultura, Ganadería y Pesca",
+    "type": "organization"
+  },
+  "owner_org": "b10c94e2-ade1-4a97-8c4c-b1ada7878d60",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "http://datos.agroindustria.gob.ar/dataset/164521f9-8cb4-4e3f-8299-3853a1d890ec/resource/cbf83afc-09b2-40a7-94a5-48ef0aee2eb3",
+      "attributesDescription": "[{\"type\": \"string\", \"description\": \"pais_id\", \"title\": \"pais_id\"}, {\"type\": \"string\", \"description\": \"pa\\u00eds\", \"title\": \"pa\\u00eds\"}, {\"type\": \"string\", \"description\": \"a\\u00f1o\", \"title\": \"a\\u00f1o\"}, {\"type\": \"string\", \"description\": \"mes\", \"title\": \"mes\"}, {\"type\": \"integer\", \"description\": \"ccp\", \"title\": \"ccp\"}, {\"type\": \"string\", \"description\": \"producto\", \"title\": \"producto\"}, {\"type\": \"string\", \"description\": \"uni_med_id\", \"title\": \"uni_med_id\"}, {\"type\": \"string\", \"description\": \"uni_med\", \"title\": \"uni_med\"}, {\"type\": \"number\", \"description\": \"cantidad\", \"title\": \"cantidad\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-08-01T14:00:47.405505",
+      "datastore_active": false,
+      "description": "Existencias lácteas en litros del período 1998 - 2008, desagregadas por mes y producto.",
+      "fileName": "existencias-lacteas-1998-2008-1.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "agroindustria_cbf83afc-09b2-40a7-94a5-48ef0aee2eb3",
+      "last_modified": "2019-01-17T18:53:26.685838",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Existencias lácteas - 1998- 2008",
+      "package_id": "agroindustria_164521f9-8cb4-4e3f-8299-3853a1d890ec",
+      "position": 0,
+      "resource_type": "file.upload",
+      "revision_id": "c6ba7867-61b9-4c99-b27b-ecb41d0d7691",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.agroindustria.gob.ar/dataset/164521f9-8cb4-4e3f-8299-3853a1d890ec/resource/cbf83afc-09b2-40a7-94a5-48ef0aee2eb3/download/existencias-lacteas-1998-2008-1.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos.agroindustria.gob.ar/dataset/164521f9-8cb4-4e3f-8299-3853a1d890ec/resource/65ff01cd-acaa-4aed-842b-870ff69b10d9",
+      "attributesDescription": "[{\"specialType\": \"time_index\", \"specialTypeDetail\": \"R/P1M\", \"type\": \"date\", \"title\": \"indice_tiempo\"}, {\"units\": \"litro\", \"id\": \"AGRO_0139\", \"type\": \"number\", \"description\": \"Caseina\", \"title\": \"caseina\"}, {\"units\": \"litro\", \"id\": \"AGRO_0140\", \"type\": \"number\", \"description\": \"Caseinatos\", \"title\": \"caseinatos\"}, {\"units\": \"litro\", \"id\": \"AGRO_0141\", \"type\": \"number\", \"description\": \"Crema\", \"title\": \"crema\"}, {\"units\": \"litro\", \"id\": \"AGRO_0142\", \"type\": \"number\", \"description\": \"Dulce de Leche\", \"title\": \"dulce_de_leche\"}, {\"units\": \"litro\", \"id\": \"AGRO_0143\", \"type\": \"number\", \"description\": \"Leche chocolatada\", \"title\": \"leche_chocolatada\"}, {\"units\": \"litro\", \"id\": \"AGRO_0144\", \"type\": \"number\", \"description\": \"Leche Condensada\", \"title\": \"leche_condesada\"}, {\"units\": \"litro\", \"id\": \"AGRO_0145\", \"type\": \"number\", \"description\": \"Leche cruda de ganado bovino\", \"title\": \"leche_cruda_de_ganado_bovino\"}, {\"units\": \"litro\", \"id\": \"AGRO_0146\", \"type\": \"number\", \"description\": \"Leche en polvo descremada\", \"title\": \"leche_en_polvo_descremada\"}, {\"units\": \"litro\", \"id\": \"AGRO_0147\", \"type\": \"number\", \"description\": \"Leche en polvo entera\", \"title\": \"leche_en_polvo_entera\"}, {\"units\": \"litro\", \"id\": \"AGRO_0148\", \"type\": \"number\", \"description\": \"Leche esterilizada descremada\", \"title\": \"leche_esterilizada_descremada\"}, {\"units\": \"litro\", \"id\": \"AGRO_0149\", \"type\": \"number\", \"description\": \"Leche esterilizada entera\", \"title\": \"leche_esterilizada_entera\"}, {\"units\": \"litro\", \"id\": \"AGRO_0150\", \"type\": \"number\", \"description\": \"Leche esterilizada semidescremada\", \"title\": \"leche_esterilizada_semidescremada\"}, {\"units\": \"litro\", \"id\": \"AGRO_0151\", \"type\": \"number\", \"description\": \"Leche pasteurizada descremada\", \"title\": \"leche_pasteurizada_descremada\"}, {\"units\": \"litro\", \"id\": \"AGRO_0152\", \"type\": \"number\", \"description\": \"Leche pasteurizada entera\", \"title\": \"leche_pasteurizada_entera\"}, {\"units\": \"litro\", \"id\": \"AGRO_0153\", \"type\": \"number\", \"description\": \"Leche pasteurizada semidescremada\", \"title\": \"leche_pasteurizada_semidescremada\"}, {\"units\": \"litro\", \"id\": \"AGRO_0154\", \"type\": \"number\", \"description\": \"Manteca\", \"title\": \"manteca\"}, {\"units\": \"litro\", \"id\": \"AGRO_0155\", \"type\": \"number\", \"description\": \"Otros productos l\\u00e1cteos\", \"title\": \"otros_productos_lacteos\"}, {\"units\": \"litro\", \"id\": \"AGRO_0156\", \"type\": \"number\", \"description\": \"Postres l\\u00e1cteos flanes\", \"title\": \"postres_lacteos_flanes\"}, {\"units\": \"litro\", \"id\": \"AGRO_0157\", \"type\": \"number\", \"description\": \"Queso fundido\", \"title\": \"queso_fundido\"}, {\"units\": \"litro\", \"id\": \"AGRO_0158\", \"type\": \"number\", \"description\": \"Quesos de alta humedad\", \"title\": \"quesos_alta_humedad\"}, {\"units\": \"litro\", \"id\": \"AGRO_0159\", \"type\": \"number\", \"description\": \"Quesos de baja humedad\", \"title\": \"quesos_baja_humedad\"}, {\"units\": \"litro\", \"id\": \"AGRO_0160\", \"type\": \"number\", \"description\": \"Quesos mediana humedad\", \"title\": \"quesos_mediana_humedad\"}, {\"units\": \"litro\", \"id\": \"AGRO_0161\", \"type\": \"number\", \"description\": \"Suero l\\u00e1cteo\", \"title\": \"suero\"}, {\"units\": \"litro\", \"id\": \"AGRO_0162\", \"type\": \"number\", \"description\": \"Yogur\", \"title\": \"yogur\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-05-15T10:36:09.584305",
+      "datastore_active": false,
+      "description": "Serie de Tiempo de Existencias lácteas expresada en litros, durante los años 1998 y 2008 ",
+      "fileName": "serie-existencias-lacteas-del-periodo-comprendido-entre-1998-2008.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "agroindustria_65ff01cd-acaa-4aed-842b-870ff69b10d9",
+      "last_modified": "2019-09-16T14:32:10.095951",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Serie de Tiempo de Existencias lácteas durante los años 1998 y 2008",
+      "package_id": "agroindustria_164521f9-8cb4-4e3f-8299-3853a1d890ec",
+      "position": 1,
+      "resource_type": "file.upload",
+      "revision_id": "a0e45a8c-ebde-493b-a59d-7213ef1d174e",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.agroindustria.gob.ar/dataset/164521f9-8cb4-4e3f-8299-3853a1d890ec/resource/65ff01cd-acaa-4aed-842b-870ff69b10d9/download/serie-existencias-lacteas-del-periodo-comprendido-entre-1998-2008.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "0add606a-0aea-4a9c-b0e5-29f5bcb15755",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "caseina",
+      "id": "8004f494-2a54-4af3-b532-54bf685c1cb3",
+      "name": "caseina",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "caseinatos",
+      "id": "312277fa-f679-4acf-af20-c639b32946f3",
+      "name": "caseinatos",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "crema",
+      "id": "0db99b94-e8be-443a-a238-74a4a8efc8d2",
+      "name": "crema",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "dulce de leche",
+      "id": "584e9a29-0c01-4c6e-8cc7-341aba5a08a2",
+      "name": "dulce de leche",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "existencias lácteas",
+      "id": "3efd61d8-9a08-43ae-b40f-ab293dbe532b",
+      "name": "existencias lácteas",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "lacteos",
+      "id": "9e6b26d8-1663-4102-b84b-8d3d36505c78",
+      "name": "lacteos",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "leche",
+      "id": "50198eec-058b-4999-a070-8cf268e8e576",
+      "name": "leche",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "manteca",
+      "id": "926ca4b2-ae59-4c6b-b4eb-0ff6376e0678",
+      "name": "manteca",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "pasteurizada",
+      "id": "f1a9ae68-e12d-4630-8d68-821710c5619f",
+      "name": "pasteurizada",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "polvo",
+      "id": "c43eaca4-34c0-4d15-9b3e-b2683b2f67c0",
+      "name": "polvo",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "postres",
+      "id": "70b56a32-9afb-43f1-b773-3f76faba93be",
+      "name": "postres",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "producto",
+      "id": "3eb6d812-1c77-4952-9d03-09850b074d9b",
+      "name": "producto",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "quesos",
+      "id": "b0b24e15-9255-46fc-b909-d521a750fa3e",
+      "name": "quesos",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "suero",
+      "id": "f5fe95a0-e8cd-47c6-ac63-71612a7e9c93",
+      "name": "suero",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "yogur",
+      "id": "2fab1903-353f-4844-b324-aebbb168ffc7",
+      "name": "yogur",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Lácteos - Existencias entre los años 1998 y 2008",
+  "type": "dataset",
+  "url": "https://datos.agroindustria.gob.ar/dataset/existencias-lacteas-periodo-comprendido-entre-anos-1998-2008",
+  "version": null
+}

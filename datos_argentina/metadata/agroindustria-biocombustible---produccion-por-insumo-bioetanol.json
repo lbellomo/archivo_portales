@@ -1,0 +1,205 @@
+{
+  "author": "Dirección de Bioenergía - Secretaría de Alimentos y Bioeconomía",
+  "author_email": "dae@magyp.gob.ar",
+  "creator_user_id": "dc157489-51c6-44ce-bd63-3bd983d60778",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P1M"
+    },
+    {
+      "key": "issued",
+      "value": "2018-12-07T21:21:13.647340"
+    },
+    {
+      "key": "language",
+      "value": "[\"spa\"]"
+    },
+    {
+      "key": "modified",
+      "value": "2019-10-24T10:40:09.913179"
+    },
+    {
+      "key": "spatial",
+      "value": "[\"ARG\"]"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"AGRI\", \"ENER\", \"ENVI\", \"TECH\", \"TRAN\"]"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Agroganadería, pesca y forestación",
+      "display_name": "Agroganadería, pesca y forestación",
+      "id": "0c35ea38-7059-41d2-9827-5587769d0dc6",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225145.990789agroganaderia-pesca-forestacion.svg",
+      "name": "agri",
+      "title": "Agroganadería, pesca y forestación"
+    },
+    {
+      "description": "Ciencia y tecnología",
+      "display_name": "Ciencia y tecnología",
+      "id": "0dd7dd0e-aae8-402f-8660-f1e8b6b6084c",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225221.170833ciencia-tecnologia.svg",
+      "name": "tech",
+      "title": "Ciencia y tecnología"
+    },
+    {
+      "description": "Energía",
+      "display_name": "Energía",
+      "id": "a4d3f632-eb48-4163-9791-165989c16035",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225337.421630energia.svg",
+      "name": "ener",
+      "title": "Energía"
+    },
+    {
+      "description": "Medio ambiente",
+      "display_name": "Medio ambiente",
+      "id": "f71fe9d7-c703-43be-8d9d-af9441c326ba",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225440.964279medio-ambiente.svg",
+      "name": "envi",
+      "title": "Medio ambiente"
+    },
+    {
+      "description": "Transporte",
+      "display_name": "Transporte",
+      "id": "57227cfc-80a6-45d3-9faa-711a98ac8ede",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225933.272993transporte.svg",
+      "name": "tran",
+      "title": "Transporte"
+    }
+  ],
+  "id": "agroindustria_18e03919-2828-4e21-b7ab-4fe340b411ea",
+  "isopen": true,
+  "license_id": "CC-BY-4.0",
+  "license_title": "Creative Commons Attribution 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "maintainer": "Dirección de Bioenergía",
+  "maintainer_email": "dae@magyp.gob.ar",
+  "metadata_created": "2019-12-04T20:01:13.440796",
+  "metadata_modified": "2021-04-29T17:11:53.037294",
+  "name": "agroindustria-biocombustible---produccion-por-insumo-bioetanol",
+  "notes": "Producción de bioetanol expresado en metros cúbicos según insumo utilizado en su elaboración.",
+  "num_resources": 2,
+  "num_tags": 6,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:07.834957",
+    "description": "",
+    "id": "b10c94e2-ade1-4a97-8c4c-b1ada7878d60",
+    "image_url": "",
+    "is_organization": true,
+    "name": "agroindustria",
+    "revision_id": "f7c3b6e9-d48f-4522-9f7a-388d805c8392",
+    "state": "active",
+    "title": "Ministerio de Agricultura, Ganadería y Pesca",
+    "type": "organization"
+  },
+  "owner_org": "b10c94e2-ade1-4a97-8c4c-b1ada7878d60",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "http://datos.agroindustria.gob.ar/dataset/18e03919-2828-4e21-b7ab-4fe340b411ea/resource/df3a11b9-51ea-4a03-89a9-c598c4780887",
+      "attributesDescription": "[{\"type\": \"string\", \"description\": \"id_pais\", \"title\": \"id_pais\"}, {\"type\": \"string\", \"description\": \"nom_pais\", \"title\": \"nom_pais\"}, {\"type\": \"integer\", \"description\": \"a\\u00f1o\", \"title\": \"a\\u00f1o\"}, {\"type\": \"string\", \"description\": \"mes\", \"title\": \"mes\"}, {\"type\": \"string\", \"description\": \"cod_unimed\", \"title\": \"cod_unimed\"}, {\"type\": \"string\", \"description\": \"nom_unimed\", \"title\": \"nom_unimed\"}, {\"type\": \"string\", \"description\": \"ca\\u00f1a\", \"title\": \"ca\\u00f1a\"}, {\"type\": \"string\", \"description\": \"maiz\", \"title\": \"maiz\"}, {\"type\": \"string\", \"description\": \"total\", \"title\": \"total\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2018-06-14T14:43:24.062472",
+      "datastore_active": false,
+      "description": "Producción de Bioetanol según insumo utilizado en su elaboración expresado en metros cúbicos.",
+      "fileName": "produccion-de-bioetanol-por-insumo-.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "agroindustria_df3a11b9-51ea-4a03-89a9-c598c4780887",
+      "last_modified": "2019-05-14T14:22:01.395402",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Producción de bioetanol por insumo utilizado",
+      "package_id": "agroindustria_18e03919-2828-4e21-b7ab-4fe340b411ea",
+      "position": 0,
+      "resource_type": "file.upload",
+      "revision_id": "5860cc2d-1368-4383-9ae2-f1d2c6653419",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.agroindustria.gob.ar/dataset/18e03919-2828-4e21-b7ab-4fe340b411ea/resource/df3a11b9-51ea-4a03-89a9-c598c4780887/download/produccion-de-bioetanol-por-insumo-.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos.agroindustria.gob.ar/dataset/18e03919-2828-4e21-b7ab-4fe340b411ea/resource/edeffcb4-1ed7-4eb0-ab7e-3e85b8854afb",
+      "attributesDescription": "[{\"type\": \"date\", \"description\": \"Indice de Tiempo\", \"title\": \"indice_tiempo\"}, {\"units\": \"Metros C\\u00fabicos\", \"id\": \"AGRO_0333\", \"type\": \"integer\", \"description\": \"Producci\\u00f3n de ca\\u00f1a de az\\u00facar destinada al bioetanol\", \"title\": \"cania_de_azucar\"}, {\"units\": \"Metros C\\u00fabicos\", \"id\": \"AGRO_0334\", \"type\": \"integer\", \"description\": \"Producci\\u00f3n de ma\\u00edz destinada al bioetanol\", \"title\": \"maiz\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-09-20T12:17:32.695150",
+      "datastore_active": false,
+      "description": "Serie de tiempo de la producción por insumo bioetanol",
+      "fileName": "serie_de_tiempo_produccion_por_insumo_bioetanol.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "agroindustria_edeffcb4-1ed7-4eb0-ab7e-3e85b8854afb",
+      "last_modified": "2019-09-20T12:17:32.695150",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Serie de tiempo",
+      "package_id": "agroindustria_18e03919-2828-4e21-b7ab-4fe340b411ea",
+      "position": 1,
+      "resource_type": "file.upload",
+      "revision_id": "bf8d0fc5-4596-4c29-b224-4c8342599f0f",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.agroindustria.gob.ar/dataset/18e03919-2828-4e21-b7ab-4fe340b411ea/resource/edeffcb4-1ed7-4eb0-ab7e-3e85b8854afb/download/serie_de_tiempo_produccion_por_insumo_bioetanol.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "95998c85-08fa-49e2-a6cf-a5f816efcba3",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "alcohol",
+      "id": "c7d49c77-e27f-45a7-a01e-c8ae1e1abcce",
+      "name": "alcohol",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "azucar",
+      "id": "fddaac43-c985-4bb1-be38-9edc3a640759",
+      "name": "azucar",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "biocombustible",
+      "id": "fa1ffa69-eec1-425f-8780-3dc8708d13b5",
+      "name": "biocombustible",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "bioeconomía",
+      "id": "f80bf0c3-bb7c-419f-9433-774e2dc9815b",
+      "name": "bioeconomía",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "bioetanol",
+      "id": "e0f843df-bb59-49eb-b7b3-2666a5119072",
+      "name": "bioetanol",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "nafta",
+      "id": "de91cdbf-a27d-4aa9-8fdc-4fccd4f84b38",
+      "name": "nafta",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Biocombustible - Producción por insumo bioetanol",
+  "type": "dataset",
+  "url": "https://datos.agroindustria.gob.ar/dataset/produccion-bioetanol-por-insumo-utilizado",
+  "version": null
+}

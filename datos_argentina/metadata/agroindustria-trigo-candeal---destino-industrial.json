@@ -1,0 +1,180 @@
+{
+  "author": "Subsecretaría de Mercados Agropecuarios",
+  "author_email": "sma@magyp.gob.ar",
+  "creator_user_id": "dc157489-51c6-44ce-bd63-3bd983d60778",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P1M"
+    },
+    {
+      "key": "issued",
+      "value": "2018-12-07T21:26:54.153421"
+    },
+    {
+      "key": "language",
+      "value": "[\"spa\"]"
+    },
+    {
+      "key": "modified",
+      "value": "2019-10-24T11:08:02.828923"
+    },
+    {
+      "key": "spatial",
+      "value": "[\"ARG\"]"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"AGRI\"]"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Agroganadería, pesca y forestación",
+      "display_name": "Agroganadería, pesca y forestación",
+      "id": "0c35ea38-7059-41d2-9827-5587769d0dc6",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225145.990789agroganaderia-pesca-forestacion.svg",
+      "name": "agri",
+      "title": "Agroganadería, pesca y forestación"
+    }
+  ],
+  "id": "agroindustria_ed706e87-eec8-4267-a153-30b273142471",
+  "isopen": true,
+  "license_id": "CC-BY-4.0",
+  "license_title": "Creative Commons Attribution 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "maintainer": null,
+  "maintainer_email": null,
+  "metadata_created": "2019-12-04T20:01:20.119094",
+  "metadata_modified": "2021-04-29T17:06:47.455069",
+  "name": "agroindustria-trigo-candeal---destino-industrial",
+  "notes": "Ingreso de granos de Trigo Candeal, en toneladas, con destino a la industria molinera y balanceadora",
+  "num_resources": 2,
+  "num_tags": 7,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:07.834957",
+    "description": "",
+    "id": "b10c94e2-ade1-4a97-8c4c-b1ada7878d60",
+    "image_url": "",
+    "is_organization": true,
+    "name": "agroindustria",
+    "revision_id": "f7c3b6e9-d48f-4522-9f7a-388d805c8392",
+    "state": "active",
+    "title": "Ministerio de Agricultura, Ganadería y Pesca",
+    "type": "organization"
+  },
+  "owner_org": "b10c94e2-ade1-4a97-8c4c-b1ada7878d60",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "http://datos2.agroindustria.gob.ar/dataset/ed706e87-eec8-4267-a153-30b273142471/archivo/b833f052-5d72-4cfa-8a4a-ede1cc7ab171",
+      "attributesDescription": "[{\"type\": \"integer\", \"description\": \"cod_pais\", \"title\": \"cod_pais\"}, {\"type\": \"string\", \"description\": \"nom_pais\", \"title\": \"nom_pais\"}, {\"type\": \"integer\", \"description\": \"a\\u0144o\", \"title\": \"a\\u0144o\"}, {\"type\": \"string\", \"description\": \"producto\", \"title\": \"producto\"}, {\"type\": \"string\", \"description\": \"destino\", \"title\": \"destino\"}, {\"type\": \"string\", \"description\": \"cod_uni\", \"title\": \"cod_uni\"}, {\"type\": \"string\", \"description\": \"nom_uni\", \"title\": \"nom_uni\"}, {\"type\": \"number\", \"description\": \"enero\", \"title\": \"enero\"}, {\"type\": \"number\", \"description\": \"febrero\", \"title\": \"febrero\"}, {\"type\": \"number\", \"description\": \"marzo\", \"title\": \"marzo\"}, {\"type\": \"number\", \"description\": \"abril\", \"title\": \"abril\"}, {\"type\": \"number\", \"description\": \"mayo\", \"title\": \"mayo\"}, {\"type\": \"number\", \"description\": \"junio\", \"title\": \"junio\"}, {\"type\": \"number\", \"description\": \"julio\", \"title\": \"julio\"}, {\"type\": \"number\", \"description\": \"agosto\", \"title\": \"agosto\"}, {\"type\": \"number\", \"description\": \"septiembre\", \"title\": \"septiembre\"}, {\"type\": \"number\", \"description\": \"octubre\", \"title\": \"octubre\"}, {\"type\": \"number\", \"description\": \"noviembre\", \"title\": \"noviembre\"}, {\"type\": \"number\", \"description\": \"diciembre\", \"title\": \"diciembre\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2018-05-07T16:55:20.905931",
+      "datastore_active": false,
+      "description": "Granos de Trigo Candeal en toneladas que ingresan a la industria balanceadora.\r\n \"0\" indica informado \"Sin Movimiento\".",
+      "fileName": "ingreso-de-trigo-candeal-con-destino-a-la-industria-balanceadora-.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "agroindustria_b833f052-5d72-4cfa-8a4a-ede1cc7ab171",
+      "last_modified": "2019-01-22T15:16:45.397472",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Ingreso de Trigo Candeal con destino a la industria balanceadora",
+      "package_id": "agroindustria_ed706e87-eec8-4267-a153-30b273142471",
+      "position": 0,
+      "resource_type": "file.upload",
+      "revision_id": "8943521d-abed-4a2e-b4a2-3f6e623b242c",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.agroindustria.gob.ar/dataset/ed706e87-eec8-4267-a153-30b273142471/resource/b833f052-5d72-4cfa-8a4a-ede1cc7ab171/download/ingreso-de-trigo-candeal-con-destino-a-la-industria-balanceadora-.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos.agroindustria.gob.ar/dataset/ed706e87-eec8-4267-a153-30b273142471/archivo/23b97a51-b5bb-45e6-9a1d-d081a40f1327",
+      "attributesDescription": "[{\"type\": \"integer\", \"description\": \"cod_pais\", \"title\": \"cod_pais\"}, {\"type\": \"string\", \"description\": \"nom_pais\", \"title\": \"nom_pais\"}, {\"type\": \"integer\", \"description\": \"a\\u0144o\", \"title\": \"a\\u0144o\"}, {\"type\": \"string\", \"description\": \"producto\", \"title\": \"producto\"}, {\"type\": \"string\", \"description\": \"destino\", \"title\": \"destino\"}, {\"type\": \"string\", \"description\": \"cod_uni\", \"title\": \"cod_uni\"}, {\"type\": \"string\", \"description\": \"nom_uni\", \"title\": \"nom_uni\"}, {\"type\": \"number\", \"description\": \"enero\", \"title\": \"enero\"}, {\"type\": \"number\", \"description\": \"febrero\", \"title\": \"febrero\"}, {\"type\": \"number\", \"description\": \"marzo\", \"title\": \"marzo\"}, {\"type\": \"number\", \"description\": \"abril\", \"title\": \"abril\"}, {\"type\": \"number\", \"description\": \"mayo\", \"title\": \"mayo\"}, {\"type\": \"number\", \"description\": \"junio\", \"title\": \"junio\"}, {\"type\": \"number\", \"description\": \"julio\", \"title\": \"julio\"}, {\"type\": \"number\", \"description\": \"agosto\", \"title\": \"agosto\"}, {\"type\": \"number\", \"description\": \"septiembre\", \"title\": \"septiembre\"}, {\"type\": \"number\", \"description\": \"octubre\", \"title\": \"octubre\"}, {\"type\": \"number\", \"description\": \"noviembre\", \"title\": \"noviembre\"}, {\"type\": \"number\", \"description\": \"diciembre\", \"title\": \"diciembre\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2018-05-07T16:51:02.848794",
+      "datastore_active": false,
+      "description": "Granos de Trigo Candeal en toneladas que ingresan a la industria molinera. \r\n \"0\" indica informado \"Sin Movimiento\".",
+      "fileName": "ingreso-de-trigo-candeal-con-destino-a-la-industria-molinera-.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "agroindustria_23b97a51-b5bb-45e6-9a1d-d081a40f1327",
+      "last_modified": "2019-03-18T17:36:35.231057",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Ingreso de Trigo Candeal con destinado a la industria molinera",
+      "package_id": "agroindustria_ed706e87-eec8-4267-a153-30b273142471",
+      "position": 1,
+      "resource_type": "file.upload",
+      "revision_id": "8943521d-abed-4a2e-b4a2-3f6e623b242c",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.agroindustria.gob.ar/dataset/ed706e87-eec8-4267-a153-30b273142471/resource/23b97a51-b5bb-45e6-9a1d-d081a40f1327/download/ingreso-de-trigo-candeal-con-destino-a-la-industria-molinera-.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "2adf3cea-3bea-4dc3-b39c-ad2d291ee3d5",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "candeal",
+      "id": "a96e5d19-132a-4f62-b392-71df01c3ae8e",
+      "name": "candeal",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "harina",
+      "id": "510419f9-5c68-4d87-ba40-b6a66d707240",
+      "name": "harina",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "industria harinera",
+      "id": "9ba208fe-956f-4ddb-b922-f7e3f88e0549",
+      "name": "industria harinera",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "industrial molino de harina de trigo",
+      "id": "a6acd053-a4ee-4a82-8cf6-c7b64aebf4a9",
+      "name": "industrial molino de harina de trigo",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "molino",
+      "id": "d1d442c2-e909-4bef-a6ea-ca5cabb25a82",
+      "name": "molino",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "trigo",
+      "id": "ba98c56a-aab4-45cf-8592-9025a6c14ca9",
+      "name": "trigo",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "trigo candeal",
+      "id": "72ac6d0d-0940-4362-af72-c6f30e7cec4e",
+      "name": "trigo candeal",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Trigo candeal - destino industrial",
+  "type": "dataset",
+  "url": "https://datos.agroindustria.gob.ar/dataset/trigo-candeal-con-destino-industria",
+  "version": null
+}

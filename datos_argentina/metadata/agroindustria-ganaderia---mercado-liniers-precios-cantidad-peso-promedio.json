@@ -1,0 +1,208 @@
+{
+  "author": "Dirección de Estudios Económicos",
+  "author_email": "productos_pecuarios@magyp.gob.ar",
+  "creator_user_id": "dc157489-51c6-44ce-bd63-3bd983d60778",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P1M"
+    },
+    {
+      "key": "issued",
+      "value": "2018-12-07T21:25:02.146018"
+    },
+    {
+      "key": "language",
+      "value": "[\"spa\"]"
+    },
+    {
+      "key": "modified",
+      "value": "2019-10-24T11:26:40.558710"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"AGRI\", \"ECON\"]"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Agroganadería, pesca y forestación",
+      "display_name": "Agroganadería, pesca y forestación",
+      "id": "0c35ea38-7059-41d2-9827-5587769d0dc6",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225145.990789agroganaderia-pesca-forestacion.svg",
+      "name": "agri",
+      "title": "Agroganadería, pesca y forestación"
+    },
+    {
+      "description": "Economía y finanzas",
+      "display_name": "Economía y finanzas",
+      "id": "60b4b03e-10a1-4d67-b984-08008a249617",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225257.200233economia-finanzas.svg",
+      "name": "econ",
+      "title": "Economía y finanzas"
+    }
+  ],
+  "id": "agroindustria_d769a8a5-af81-4192-a623-6e3844bf500e",
+  "isopen": true,
+  "license_id": "CC-BY-4.0",
+  "license_title": "Creative Commons Attribution 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "maintainer": null,
+  "maintainer_email": null,
+  "metadata_created": "2019-12-04T21:13:01.923966",
+  "metadata_modified": "2021-04-29T17:06:41.592950",
+  "name": "agroindustria-ganaderia---mercado-liniers-precios-cantidad-peso-promedio",
+  "notes": "Resumen mensual de comercialización de animales en pie por categoría del Mercado de Liniers S.A.",
+  "num_resources": 1,
+  "num_tags": 14,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:07.834957",
+    "description": "",
+    "id": "b10c94e2-ade1-4a97-8c4c-b1ada7878d60",
+    "image_url": "",
+    "is_organization": true,
+    "name": "agroindustria",
+    "revision_id": "f7c3b6e9-d48f-4522-9f7a-388d805c8392",
+    "state": "active",
+    "title": "Ministerio de Agricultura, Ganadería y Pesca",
+    "type": "organization"
+  },
+  "owner_org": "b10c94e2-ade1-4a97-8c4c-b1ada7878d60",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "http://datos.agroindustria.gob.ar/dataset/d769a8a5-af81-4192-a623-6e3844bf500e/archivo/bd15f73c-fe07-41d9-9dd9-58e3244cad59",
+      "attributesDescription": "[{\"type\": \"string\", \"description\": \"pais_id\", \"title\": \"pais_id\"}, {\"type\": \"string\", \"description\": \"pais\", \"title\": \"pais\"}, {\"type\": \"string\", \"description\": \"a\\u00f1o\", \"title\": \"a\\u00f1o\"}, {\"type\": \"string\", \"description\": \"mes\", \"title\": \"mes\"}, {\"type\": \"string\", \"description\": \"Cabezas Totales\", \"title\": \"Cabezas Totales\"}, {\"type\": \"string\", \"description\": \"Cabezas - Novillos\", \"title\": \"Cabezas - Novillos\"}, {\"type\": \"string\", \"description\": \"Cabezas - Novillitos\", \"title\": \"Cabezas - Novillitos\"}, {\"type\": \"string\", \"description\": \"Cabezas - Vacas\", \"title\": \"Cabezas - Vacas\"}, {\"type\": \"string\", \"description\": \"Cabezas - Vaquillonas\", \"title\": \"Cabezas - Vaquillonas\"}, {\"type\": \"string\", \"description\": \"Cabezas - Terneros\", \"title\": \"Cabezas - Terneros\"}, {\"type\": \"string\", \"description\": \"Cabezas - Terneras\", \"title\": \"Cabezas - Terneras\"}, {\"type\": \"string\", \"description\": \"Cabezas - Toros\", \"title\": \"Cabezas - Toros\"}, {\"type\": \"string\", \"description\": \"Cabezas - MEJ\", \"title\": \"Cabezas - MEJ\"}, {\"type\": \"string\", \"description\": \"Peso Promedio - Kilo vivo\", \"title\": \"Peso Promedio - Kilo vivo\"}, {\"type\": \"string\", \"description\": \"Kilo vivo - Novillos\", \"title\": \"Kilo vivo - Novillos\"}, {\"type\": \"string\", \"description\": \"Kilo vivo - Novillitos\", \"title\": \"Kilo vivo - Novillitos\"}, {\"type\": \"string\", \"description\": \"Kilo vivo - Vacas\", \"title\": \"Kilo vivo - Vacas\"}, {\"type\": \"string\", \"description\": \"Kilo vivo - Vaquillonas\", \"title\": \"Kilo vivo - Vaquillonas\"}, {\"type\": \"string\", \"description\": \"Kilo vivo - Terneros\", \"title\": \"Kilo vivo - Terneros\"}, {\"type\": \"string\", \"description\": \"Kilo vivo - Terneras\", \"title\": \"Kilo vivo - Terneras\"}, {\"type\": \"string\", \"description\": \"Kilo vivo - Toros\", \"title\": \"Kilo vivo - Toros\"}, {\"type\": \"string\", \"description\": \"Kilo vivo - MEJ\", \"title\": \"Kilo vivo - MEJ\"}, {\"type\": \"string\", \"description\": \"IGML\", \"title\": \"IGML\"}, {\"type\": \"string\", \"description\": \"Precio - Novillos\", \"title\": \"Precio - Novillos\"}, {\"type\": \"string\", \"description\": \"Precio - Novillitos\", \"title\": \"Precio - Novillitos\"}, {\"type\": \"string\", \"description\": \"Precio - Vacas\", \"title\": \"Precio - Vacas\"}, {\"type\": \"string\", \"description\": \"Precio - Vaquillonas\", \"title\": \"Precio - Vaquillonas\"}, {\"type\": \"string\", \"description\": \"Precio - Terneros\", \"title\": \"Precio - Terneros\"}, {\"type\": \"string\", \"description\": \"Precio - Terneras\", \"title\": \"Precio - Terneras\"}, {\"type\": \"string\", \"description\": \"Precio - Toros\", \"title\": \"Precio - Toros\"}, {\"type\": \"string\", \"description\": \"Precio - MEJ\", \"title\": \"Precio - MEJ\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2018-08-09T19:37:22.455419",
+      "datastore_active": false,
+      "description": "Resumen mensual de comercialización de animales en pie del Mercado de Liniers S.A.",
+      "fileName": "mercado-de-liniers-mensual-.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "agroindustria_bd15f73c-fe07-41d9-9dd9-58e3244cad59",
+      "last_modified": "2019-07-10T11:53:28.799092",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Mercado de Liniers S.A.: resumen de precios, cantidad y peso promedio",
+      "package_id": "agroindustria_d769a8a5-af81-4192-a623-6e3844bf500e",
+      "position": 0,
+      "resource_type": "file.upload",
+      "revision_id": "720b96bc-5789-46aa-8f33-6f55fc118a92",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.agroindustria.gob.ar/dataset/d769a8a5-af81-4192-a623-6e3844bf500e/resource/bd15f73c-fe07-41d9-9dd9-58e3244cad59/download/mercado-de-liniers-mensual-.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "221a7691-5343-42b4-8450-c81fca56f1e7",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "Bovinos",
+      "id": "f5b66833-fac2-405b-b2d1-ac1f224b948a",
+      "name": "Bovinos",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Cabezas",
+      "id": "14562028-5533-4cd1-b234-a2cf1806ff32",
+      "name": "Cabezas",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Liniers",
+      "id": "1daabc1e-3434-46db-80f4-e6b6c2168a86",
+      "name": "Liniers",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "MEJ",
+      "id": "5d9fd061-7c74-4fd4-b65f-318fa6000ec7",
+      "name": "MEJ",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Mercado de Liniers",
+      "id": "1b6825a6-4c8f-4093-b01e-bcf07421c942",
+      "name": "Mercado de Liniers",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Novillitos",
+      "id": "4a6c1930-b10d-48a7-bde9-382173ddd954",
+      "name": "Novillitos",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Novillos",
+      "id": "0ca33012-35c4-403f-9f90-fd568f29f069",
+      "name": "Novillos",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Terneros",
+      "id": "d0949b95-148b-4f96-9337-b5ba4617cbbf",
+      "name": "Terneros",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Toros",
+      "id": "7044b75d-6f2a-46e4-81c0-03ca66162985",
+      "name": "Toros",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Vacas",
+      "id": "8e26194a-9bb8-43a9-ba31-803a59207146",
+      "name": "Vacas",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Vaquillonas",
+      "id": "e9fedba3-31c8-4c7d-b0c2-6aebe39182e9",
+      "name": "Vaquillonas",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "animales en pie",
+      "id": "de841111-5a28-4538-a314-e13924d28123",
+      "name": "animales en pie",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "bovino",
+      "id": "cc1d16c6-0568-4e84-8b13-5577a31abfc8",
+      "name": "bovino",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "vacuno",
+      "id": "9ad7882c-81d7-403c-9aee-c10035496043",
+      "name": "vacuno",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Ganadería - Mercado de Liniers: precios, cantidad y peso promedio",
+  "type": "dataset",
+  "url": "https://datos.agroindustria.gob.ar/dataset/mercado-liniers-sa-resumen-precios-cantidad-peso-promedio",
+  "version": null
+}

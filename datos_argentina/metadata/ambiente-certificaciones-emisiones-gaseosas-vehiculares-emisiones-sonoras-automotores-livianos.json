@@ -1,0 +1,215 @@
+{
+  "author": "Ministerio de Ambiente y Desarrollo Sostenible. Coordinación de Emisiones Vehiculares.",
+  "author_email": "mestevez@ambiente.gov.ar",
+  "creator_user_id": "4720e75a-9e17-4dc3-879d-041917c7f9f9",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P1M"
+    },
+    {
+      "key": "issued",
+      "value": "2018-08-27T19:15:13.794792"
+    },
+    {
+      "key": "language",
+      "value": "[\"spa\"]"
+    },
+    {
+      "key": "modified",
+      "value": "2020-09-29T13:25:55.664592"
+    },
+    {
+      "key": "spatial",
+      "value": "[\"ARG\"]"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"ENVI\"]"
+    },
+    {
+      "key": "temporal",
+      "value": "2017-09-01T03:00:00.000Z/2018-08-13T03:00:00.000Z"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Medio ambiente",
+      "display_name": "Medio ambiente",
+      "id": "f71fe9d7-c703-43be-8d9d-af9441c326ba",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225440.964279medio-ambiente.svg",
+      "name": "envi",
+      "title": "Medio ambiente"
+    }
+  ],
+  "id": "ambiente_dc001198-f229-4232-9ecc-bc0f43dce74d",
+  "isopen": false,
+  "license_id": "notspecified",
+  "license_title": "No se especificó la licencia",
+  "maintainer": "Ministerio de Ambiente y Desarrollo Sostenible. Coordinación de Emisiones Vehiculares.",
+  "maintainer_email": "mestevez@ambiente.gov.ar",
+  "metadata_created": "2019-11-26T14:58:01.642646",
+  "metadata_modified": "2021-04-29T17:17:50.186819",
+  "name": "ambiente-certificaciones-emisiones-gaseosas-vehiculares-emisiones-sonoras-automotores-livianos",
+  "notes": "Contiene los datos y valores certificados requeridos para aprobar las configuraciones de modelos de los vehículos automotores livianos en lo referente a las emisiones de gases contaminantes. Dicha aprobación se concede con la certificación presentada por el fabricante para solicitar la Licencia de Configuración Ambiental ó LCA (conforme Dec. 32/ 2018 modificatorio de Dec 779/95, Ley 24449/95).",
+  "num_resources": 3,
+  "num_tags": 8,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:07.043831",
+    "description": "",
+    "id": "0e5aa328-825e-4509-851d-5421e866635e",
+    "image_url": "",
+    "is_organization": true,
+    "name": "ambiente",
+    "revision_id": "105eb915-270c-4f67-9b4e-e6a3f08be6d7",
+    "state": "active",
+    "title": "Ministerio de Ambiente y Desarrollo Sostenible",
+    "type": "organization"
+  },
+  "owner_org": "0e5aa328-825e-4509-851d-5421e866635e",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "http://datos.ambiente.gob.ar/dataset/dc001198-f229-4232-9ecc-bc0f43dce74d/resource/20de9616-6899-4136-bc9a-a62ee6447252",
+      "attributesDescription": "[{\"type\": \"string\", \"description\": \"Marca comercial\", \"title\": \"vehiculo_marca\"}, {\"type\": \"string\", \"description\": \"Modelo comercial dentro de la marca\", \"title\": \"vehiculo_modelo\"}, {\"type\": \"string\", \"description\": \"Tipo de carrocer\\u00eda del veh\\u00edculo\", \"title\": \"vehiculo_tipo\"}, {\"type\": \"string\", \"description\": \"Tipo de tracci\\u00f3n (4x4, 4x2, etc)\", \"title\": \"vehiculo_traccion\"}, {\"type\": \"string\", \"description\": \"Identificaci\\u00f3n del motor\", \"title\": \"vehiculo_id_motor\"}, {\"type\": \"integer\", \"description\": \"Cilindrada\", \"title\": \"vehiculo_cilindrada\"}, {\"type\": \"string\", \"description\": \"Tipo de transmisi\\u00f3n (manual, autom\\u00e1tica, etc)\", \"title\": \"vehiculo_tipo_transmision\"}, {\"type\": \"string\", \"description\": \"Combustible (nafta, gasoil, etc)\", \"title\": \"vehiculo_tipo_combustible\"}, {\"type\": \"integer\", \"description\": \"Caracter\\u00edstica del combustible comercial\", \"title\": \"vehiculo_RON\"}, {\"type\": \"string\", \"description\": \"Norma standard de emision (EURO IV , EURO V, etc)\", \"title\": \"vehiculo_standard_emision\"}, {\"type\": \"string\", \"description\": \"Categor\\u00eda dentro de los livianos\", \"title\": \"vehiculo_categoria\"}, {\"type\": \"integer\", \"description\": \"Peso en Orden de Marcha unidad (Kg)\", \"title\": \"vehiculo_peso_orden_marcha\"}, {\"type\": \"integer\", \"description\": \"Expediente con el cual se tramita la Licencia de Configuraci\\u00f3n Ambiental (LCA)\", \"title\": \"expediente_numero\"}, {\"type\": \"integer\", \"description\": \"Numero de Licencia de Configuraci\\u00f3n Ambiental otorgada\", \"title\": \"lca_numero\"}, {\"type\": \"integer\", \"description\": \"Numero de certificado de emisiones gaseosas UTOEV\", \"title\": \"ceg_certificacion_numero\"}, {\"type\": \"integer\", \"description\": \"Numero extensi\\u00f3n de certificado emisiones gaseosas\", \"title\": \"ceg_extension\"}, {\"type\": \"integer\", \"description\": \"Numero de certificaci\\u00f3n de variables sonoras\", \"title\": \"ces_certificacion_numero\"}, {\"type\": \"integer\", \"description\": \"Numero extensi\\u00f3n de certificado emisiones sonoras\", \"title\": \"ces_extension\"}, {\"type\": \"date\", \"description\": \"Fecha de firma de LCA / extension\", \"title\": \"fecha_firma\"}, {\"type\": \"string\", \"description\": \"Numero de Etiquetado eficiencia energ\\u00e9tica\", \"title\": \"id_etiqueta\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2018-08-27T16:38:37.455156",
+      "datastore_active": false,
+      "description": "Listado de LCA para familia de modelos ,Certificado ó Extensión de Emisiones Gaseosas , Certificado ó Extensión de Emisiones Sonoras de Vehículos Livianos. (por Ley 24449, Dec. 779/95 )",
+      "fileName": "tabla-ia.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "ambiente_20de9616-6899-4136-bc9a-a62ee6447252",
+      "last_modified": "2021-04-29T10:26:36.895792",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Vehículos con Licencia para Configuración Ambiental (LCA), Certificado de Emisiones Gaseosas (CEG) y Certificado Emisiones Sonoras",
+      "package_id": "ambiente_dc001198-f229-4232-9ecc-bc0f43dce74d",
+      "position": 0,
+      "resource_type": "file.upload",
+      "revision_id": "0cfad912-970e-45fb-9ee4-4e759d3b6ce8",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.ambiente.gob.ar/dataset/dc001198-f229-4232-9ecc-bc0f43dce74d/resource/20de9616-6899-4136-bc9a-a62ee6447252/download/tabla-ia.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos.ambiente.gob.ar/dataset/dc001198-f229-4232-9ecc-bc0f43dce74d/resource/5e67f51b-7526-490c-84b7-b73d821e18ba",
+      "attributesDescription": "[{\"type\": \"string\", \"description\": \"Marca comercial\", \"title\": \"vehiculo_marca\"}, {\"type\": \"string\", \"description\": \"Modelo comercial dentro de la marca\", \"title\": \"vehiculo_modelo\"}, {\"type\": \"integer\", \"description\": \"Numero de Licencia de Configuraci\\u00f3n Ambiental otorgada\", \"title\": \"lca_numero\"}, {\"type\": \"integer\", \"description\": \"Numero de certificado de emisiones gaseosas UTOEV\", \"title\": \"ceg_certificacion_numero\"}, {\"type\": \"integer\", \"description\": \"Numero extensi\\u00f3n de certificado emisiones gaseosas\", \"title\": \"ceg_extension\"}, {\"type\": \"date\", \"description\": \"Fecha de firma de LCA / extensi\\u00f3n\", \"title\": \"fecha_firma\"}, {\"type\": \"integer\", \"description\": \"N\\u00ba de Certificado Ensayo de contaminantes criterio\", \"title\": \"ensayo_gaseoso_numero\"}, {\"type\": \"string\", \"description\": \"Laboratorio que realiza el ensayo\", \"title\": \"ensayo_gaseoso_laboratorio\"}, {\"type\": \"number\", \"description\": \"Emisi\\u00f3n monoxido de carbono (mg/km)\", \"title\": \"emision_CO\"}, {\"type\": \"number\", \"description\": \"Hidrocarburos totales (mg/km)\", \"title\": \"emision_THC\"}, {\"type\": \"number\", \"description\": \"Hidrocarburos no met\\u00e1nicos (mg/km)\", \"title\": \"emision_NMHC\"}, {\"type\": \"number\", \"description\": \"Oxidos de Nitrogeno (mg/km)\", \"title\": \"emision_NOX\"}, {\"type\": \"number\", \"description\": \"Hidrocarburos no met\\u00e1nicos + Oxidos de Nitrogeno (mg/km)\", \"title\": \"emision_THC_Nox\"}, {\"type\": \"number\", \"description\": \"Material particulado (mg/km)\", \"title\": \"emision_MP\"}, {\"type\": \"number\", \"description\": \"N\\u00famero de Par\\u00edculas (N\\u00b0 de Part./Km)\", \"title\": \"emision_P\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2018-08-28T12:21:44.780514",
+      "datastore_active": false,
+      "description": "Resultado de ensayos de emisiones de contaminantes criterio para cada N° de LCA/CEG y Ext., conforme a Directivas Europeas de referencia y bajo ciclo de conducción New European Driving Cycle.",
+      "fileName": "tabla-ib.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "ambiente_5e67f51b-7526-490c-84b7-b73d821e18ba",
+      "last_modified": "2021-04-29T10:29:11.188041",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Vehículos livianos con Licencia para Configuración Ambiental y Certificado de Emisiones Gaseosas. Resultados de ensayos contaminantes criterio",
+      "package_id": "ambiente_dc001198-f229-4232-9ecc-bc0f43dce74d",
+      "position": 1,
+      "resource_type": "file.upload",
+      "revision_id": "0cfad912-970e-45fb-9ee4-4e759d3b6ce8",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.ambiente.gob.ar/dataset/dc001198-f229-4232-9ecc-bc0f43dce74d/resource/5e67f51b-7526-490c-84b7-b73d821e18ba/download/tabla-ib.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos.ambiente.gob.ar/dataset/dc001198-f229-4232-9ecc-bc0f43dce74d/resource/eba9d7e2-c68c-4a25-a3db-61faf3aaed0a",
+      "attributesDescription": "[{\"type\": \"string\", \"description\": \"Marca comercial\", \"title\": \"vehiculo_marca\"}, {\"type\": \"string\", \"description\": \"Modelo comercial dentro de la marca\", \"title\": \"vehiculo_modelo\"}, {\"type\": \"integer\", \"description\": \"Numero de Licencia de Configuraci\\u00f3n Ambiental otorgada\", \"title\": \"lca_numero\"}, {\"type\": \"integer\", \"description\": \"Numero de certificado de emisiones sonoras UTOEV\", \"title\": \"ces_certificacion_numero\"}, {\"type\": \"integer\", \"description\": \"Numero extensi\\u00f3n de certificado emisiones sonoras\", \"title\": \"ces_extension\"}, {\"type\": \"date\", \"description\": \"Fecha de firma de LCA / extension\", \"title\": \"fecha_firma\"}, {\"type\": \"integer\", \"description\": \"N\\u00ba de Certificado Ensayo de emisiones sonoras\", \"title\": \"ensayo_sonoro_numero\"}, {\"type\": \"number\", \"description\": \"Normativa ensayo sonoro  (51.03,51.02,IRAM)\", \"title\": \"ensayo_sonoro_normativa\"}, {\"type\": \"integer\", \"description\": \"peso bruto total (Kg)\", \"title\": \"vehiculo_peso_bruto\"}, {\"type\": \"number\", \"description\": \"Nivel sonoro vehiculo en aceleraci\\u00f3n (decibeles)\", \"title\": \"nivel_sonoro_aceleracion\"}, {\"type\": \"number\", \"description\": \"Nivel sonoro vehiculo detenido (decibeles)\", \"title\": \"nivel_sonoro_detenido\"}, {\"type\": \"number\", \"description\": \"Nivel sonoro motor (decibeles)\", \"title\": \"nivel_sonoro_motor\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2018-08-28T13:06:00.037496",
+      "datastore_active": false,
+      "description": "Resultados de ensayos  sobre emisiones sonoras para cada N° de LCA/CES y Ext.  conforme a Directivas Europeas de referencia R51.02 y R51.03.",
+      "fileName": "tabla-ic.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "ambiente_eba9d7e2-c68c-4a25-a3db-61faf3aaed0a",
+      "last_modified": "2021-04-29T10:30:10.999216",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Vehículos livianos con LCA y Certificado de Emisiones Sonoras (CES) Listado de resultados de ensayos",
+      "package_id": "ambiente_dc001198-f229-4232-9ecc-bc0f43dce74d",
+      "position": 2,
+      "resource_type": "file.upload",
+      "revision_id": "0cfad912-970e-45fb-9ee4-4e759d3b6ce8",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.ambiente.gob.ar/dataset/dc001198-f229-4232-9ecc-bc0f43dce74d/resource/eba9d7e2-c68c-4a25-a3db-61faf3aaed0a/download/tabla-ic.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "cb00e7d8-c476-46d8-903d-6e0651f9931e",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "CO2",
+      "id": "a6210cfc-84fd-4f94-9a7a-de8a4f9bd5ed",
+      "name": "CO2",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Certificación",
+      "id": "291034e1-07e3-4a27-a8f5-33848cbda838",
+      "name": "Certificación",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Consumo",
+      "id": "f5518b98-9614-432f-92a1-54b04add2c71",
+      "name": "Consumo",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Emisiones",
+      "id": "ae3dd0f9-a5c0-4885-b786-5bfb6f3e2eee",
+      "name": "Emisiones",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Fiscalización",
+      "id": "7e5f9404-5c6f-49e0-849b-477fff8bdd0c",
+      "name": "Fiscalización",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Gaseosas",
+      "id": "da30140e-05f9-452c-a402-1815570ddbcb",
+      "name": "Gaseosas",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "LCA",
+      "id": "0a0108b6-9b35-4a2e-8d16-51b7ec53e52d",
+      "name": "LCA",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Sonoras",
+      "id": "211a45f0-0a73-4198-9de2-456ce770d680",
+      "name": "Sonoras",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Certificaciones de emisiones gaseosas vehiculares y de emisiones sonoras de automotores livianos",
+  "type": "dataset",
+  "url": "http://datos.ambiente.gob.ar/dataset/certificaciones-de-emisiones-gaseosas-vehiculares-y-de-emisiones-sonoras-de-automotores-livianos",
+  "version": null
+}

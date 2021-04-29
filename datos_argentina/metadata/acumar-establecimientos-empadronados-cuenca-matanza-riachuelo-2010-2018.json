@@ -1,0 +1,170 @@
+{
+  "author": "Dirección de Fiscalización y Adecuación Ambiental",
+  "author_email": "agarcia@acumar.gov.ar",
+  "creator_user_id": "dc157489-51c6-44ce-bd63-3bd983d60778",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P6M"
+    },
+    {
+      "key": "issued",
+      "value": "2018-02-05T14:09:16.735928"
+    },
+    {
+      "key": "modified",
+      "value": "2019-01-30T10:54:40.328428"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"ENVI\", \"GOVE\"]"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Gobierno y sector público",
+      "display_name": "Gobierno y sector público",
+      "id": "e6f07c77-3987-4e71-98a6-731b1aaf74f4",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225353.395233gobierno-sector-publico.svg",
+      "name": "gove",
+      "title": "Gobierno y sector público"
+    },
+    {
+      "description": "Medio ambiente",
+      "display_name": "Medio ambiente",
+      "id": "f71fe9d7-c703-43be-8d9d-af9441c326ba",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225440.964279medio-ambiente.svg",
+      "name": "envi",
+      "title": "Medio ambiente"
+    }
+  ],
+  "id": "acumar_fbb9be8e-c33c-49e5-aeb1-d39c39817b92",
+  "isopen": false,
+  "license_id": "notspecified",
+  "license_title": "No se especificó la licencia",
+  "maintainer": "Coordinación de Comunicación y Prensa",
+  "maintainer_email": "prensa@acumar.gov.ar",
+  "metadata_created": "2019-12-04T20:03:55.032522",
+  "metadata_modified": "2021-04-29T17:10:58.659053",
+  "name": "acumar-establecimientos-empadronados-cuenca-matanza-riachuelo-2010-2018",
+  "notes": "Datos correspondientes a los establecimientos empadronados en el Registro de Establecimientos de la Cuenca Matanza Riachuelo implementado por la Resolución ACR N° 7/2010.",
+  "num_resources": 2,
+  "num_tags": 6,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:10.306987",
+    "description": "",
+    "id": "1b6b28cd-098f-41d7-b43f-d5a01ffa8759",
+    "image_url": "",
+    "is_organization": true,
+    "name": "acumar",
+    "revision_id": "0e2a184d-b675-43ae-b2dd-e1ed0c459c04",
+    "state": "active",
+    "title": "Autoridad de Cuenca Matanza Riachuelo",
+    "type": "organization"
+  },
+  "owner_org": "1b6b28cd-098f-41d7-b43f-d5a01ffa8759",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "http://datos.acumar.gob.ar/dataset/fbb9be8e-c33c-49e5-aeb1-d39c39817b92/resource/c1fc3fe8-cc47-4c72-9805-3cf4350527fb",
+      "attributesDescription": "[{\"type\": \"integer\", \"description\": \"C\\u00f3digo \\u00danico de Reordenamiento Territorial\", \"title\": \"curt\"}, {\"type\": \"string\", \"description\": \"Nombre del establecimiento\", \"title\": \"razon social\"}, {\"type\": \"string\", \"description\": \"Direcci\\u00f3n declarada por el establecimiento\", \"title\": \"direccion\"}, {\"type\": \"string\", \"description\": \"Localidad en la cual se ubica el establecimiento\", \"title\": \"localidad\"}, {\"type\": \"string\", \"description\": \"Partido en el cual se ubica el establecimiento\", \"title\": \"partido\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2018-02-05T14:12:32.236603",
+      "datastore_active": false,
+      "description": "N° de CURT, Razón Social, localidad y municipio de los establecimientos industriales empadronados en el Registro de ACUMAR.",
+      "format": "CSV",
+      "hash": "",
+      "id": "acumar_c1fc3fe8-cc47-4c72-9805-3cf4350527fb",
+      "last_modified": "2019-01-30T11:02:20.179012",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Listado de Establecimientos Industriales Empadronados - 2017",
+      "package_id": "acumar_fbb9be8e-c33c-49e5-aeb1-d39c39817b92",
+      "position": 0,
+      "resource_type": "file",
+      "revision_id": "ef8ae7d2-50fd-4a44-86fe-c3aed24b5f09",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.acumar.gob.ar/dataset/fbb9be8e-c33c-49e5-aeb1-d39c39817b92/resource/c1fc3fe8-cc47-4c72-9805-3cf4350527fb/download/establecimientos-empadronados-dentro-de-la-cuenca-hidrica-matanza-riachuelo-diciembre-2017-.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos.acumar.gob.ar/dataset/fbb9be8e-c33c-49e5-aeb1-d39c39817b92/resource/7c51fbe5-6957-483c-aa68-472a722b7e29",
+      "attributesDescription": "[{\"type\": \"integer\", \"description\": \"C\\u00f3digo \\u00danico de Reordenamiento Territorial\", \"title\": \"establecimiento_curt\"}, {\"type\": \"string\", \"description\": \"Nombre del establecimiento\", \"title\": \"establecimiento_razon_social\"}, {\"type\": \"string\", \"description\": \"Direcci\\u00f3n declarada\", \"title\": \"establecimiento_direccion\"}, {\"type\": \"string\", \"description\": \"Localidad en la cual se encuentra ubicado el establecimiento\", \"title\": \"establecimiento_localidad\"}, {\"type\": \"string\", \"description\": \"Municipio el el cual se encuentra localizado el establecimiento\", \"title\": \"establecimiento_municipio\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-01-30T11:03:45.217893",
+      "datastore_active": false,
+      "description": "N° de CURT, Razón Social, localidad y municipio de los establecimientos industriales empadronados en el Registro de ACUMAR a Marzo de 2018.",
+      "format": "CSV",
+      "hash": "",
+      "id": "acumar_7c51fbe5-6957-483c-aa68-472a722b7e29",
+      "last_modified": "2019-01-30T11:05:17.868905",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Listado de Establecimientos Industriales Empadronados - Marzo 2018",
+      "package_id": "acumar_fbb9be8e-c33c-49e5-aeb1-d39c39817b92",
+      "position": 1,
+      "resource_type": "file.upload",
+      "revision_id": "ef8ae7d2-50fd-4a44-86fe-c3aed24b5f09",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.acumar.gob.ar/dataset/fbb9be8e-c33c-49e5-aeb1-d39c39817b92/resource/7c51fbe5-6957-483c-aa68-472a722b7e29/download/establecimientos_empadronados_032018.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "ef8ae7d2-50fd-4a44-86fe-c3aed24b5f09",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "Control",
+      "id": "27509986-815e-4ddb-9ed5-a2bb0730435b",
+      "name": "Control",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Eje Ambiental",
+      "id": "372cb546-0e92-4061-9b08-2537ffc593a2",
+      "name": "Eje Ambiental",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "cuenca hídrica",
+      "id": "a447c1cf-45e6-48cb-b6f1-917fe8891794",
+      "name": "cuenca hídrica",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "empadronadas",
+      "id": "0346a444-c4e4-4ba8-866f-f0bfb0c3c05f",
+      "name": "empadronadas",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "empadronamiento",
+      "id": "38f06366-b5bb-4f70-a97e-ca3bdf18c759",
+      "name": "empadronamiento",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "industrias",
+      "id": "148f922b-317a-43a9-a63e-c05a68f8af1b",
+      "name": "industrias",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Establecimientos Empadronados en la cuenca Matanza Riachuelo 2010-2018",
+  "type": "dataset",
+  "url": "http://datos.acumar.gob.ar/dataset/",
+  "version": null
+}

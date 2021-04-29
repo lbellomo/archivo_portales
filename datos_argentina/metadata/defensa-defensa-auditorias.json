@@ -1,0 +1,140 @@
+{
+  "author": "Ministerio de Defensa. Unidad de Auditoría Interna.",
+  "author_email": "uaidefensa@mindef.gov.ar",
+  "creator_user_id": "4720e75a-9e17-4dc3-879d-041917c7f9f9",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P1Y"
+    },
+    {
+      "key": "issued",
+      "value": "2019-07-31T15:39:28.946651"
+    },
+    {
+      "key": "language",
+      "value": "[\"spa\"]"
+    },
+    {
+      "key": "modified",
+      "value": "2019-10-08T09:10:56.565082"
+    },
+    {
+      "key": "spatial",
+      "value": "[\"ARG\", \"02\"]"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"GOVE\"]"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Gobierno y sector público",
+      "display_name": "Gobierno y sector público",
+      "id": "e6f07c77-3987-4e71-98a6-731b1aaf74f4",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225353.395233gobierno-sector-publico.svg",
+      "name": "gove",
+      "title": "Gobierno y sector público"
+    }
+  ],
+  "id": "defensa_d7453c13-9c4a-4ce3-8af4-c99a331ba750",
+  "isopen": false,
+  "license_id": "notspecified",
+  "license_title": "No se especificó la licencia",
+  "maintainer": "Ministerio de Defensa. Unidad de Auditoría Interna. Dirección General de Integridad, Transparencia y Fortalecimiento Institucional.",
+  "maintainer_email": "datosabiertos@mindef.gov.ar",
+  "metadata_created": "2019-11-26T14:56:24.565376",
+  "metadata_modified": "2021-04-29T17:04:56.394310",
+  "name": "defensa-defensa-auditorias",
+  "notes": "Listado de Auditorias realizadas por la Unidad de Auditoría Interna (UAI) del Ministerio de Defensa, período 2016 - 2018. ",
+  "num_resources": 1,
+  "num_tags": 5,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:07.977275",
+    "description": "",
+    "id": "5e80ed4f-8bfb-4451-8240-e8f39e695ee1",
+    "image_url": "",
+    "is_organization": true,
+    "name": "defensa",
+    "revision_id": "6c78ab87-28d0-47ba-99bb-5850ddbf7279",
+    "state": "active",
+    "title": " Ministerio de Defensa",
+    "type": "organization"
+  },
+  "owner_org": "5e80ed4f-8bfb-4451-8240-e8f39e695ee1",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "http://datos.mindef.gov.ar/dataset/d7453c13-9c4a-4ce3-8af4-c99a331ba750/resource/41fc92e4-aad4-46c6-980c-98613dd4f5b6",
+      "attributesDescription": "[{\"id\": \"auditorias_mindef_01\", \"type\": \"date\", \"description\": \"A\\u00f1o de realizaci\\u00f3n de la auditor\\u00eda\", \"title\": \"anio\"}, {\"id\": \"auditorias_mindef_02\", \"type\": \"string\", \"description\": \"Organismo auditor\", \"title\": \"organismo\"}, {\"id\": \"auditorias_mindef_03\", \"type\": \"string\", \"description\": \"Fuerza auditada\", \"title\": \"fuerza\"}, {\"id\": \"auditorias_mindef_04\", \"type\": \"string\", \"description\": \"Dependencia de la Fuerza\", \"title\": \"dependencia_1\"}, {\"id\": \"auditorias_mindef_05\", \"type\": \"string\", \"description\": \"Dependencia de la Fuerza\", \"title\": \"dependencia_2\"}, {\"id\": \"auditorias_mindef_06\", \"type\": \"string\", \"description\": \"Dependencia de la Fuerza\", \"title\": \"dependencia_3\"}, {\"id\": \"auditorias_mindef_07\", \"type\": \"string\", \"description\": \"Dependencia de la Fuerza\", \"title\": \"dependencia_4\"}, {\"id\": \"auditorias_mindef_08\", \"type\": \"string\", \"description\": \"Titulo de la auditor\\u00eda\", \"title\": \"titulo\"}, {\"id\": \"auditorias_mindef_09\", \"type\": \"string\", \"description\": \"Objetivo de la auditor\\u00eda\", \"title\": \"objetivo\"}, {\"id\": \"auditorias_mindef_10\", \"type\": \"date\", \"description\": \"Fecha de realizaci\\u00f3n de la auditor\\u00eda\", \"title\": \"fecha\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-07-31T12:52:09.095822",
+      "datastore_active": false,
+      "description": "Auditorías realizadas por el Ministerio de Defensa",
+      "fileName": "defensa-auditorias.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "defensa_41fc92e4-aad4-46c6-980c-98613dd4f5b6",
+      "last_modified": "2019-07-31T12:52:09.095822",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Auditorías Ministerio de Defensa",
+      "package_id": "defensa_d7453c13-9c4a-4ce3-8af4-c99a331ba750",
+      "position": 0,
+      "resource_type": "file.upload",
+      "revision_id": "11673fd6-694f-47d9-98b4-28f641ee4f39",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.mindef.gov.ar/dataset/d7453c13-9c4a-4ce3-8af4-c99a331ba750/resource/41fc92e4-aad4-46c6-980c-98613dd4f5b6/download/defensa-auditorias.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "d3d37f6c-97e5-4e1a-820d-6d844d9d38a9",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "Transparencia Activa",
+      "id": "75291f1b-150c-46a3-baae-102fdcee1861",
+      "name": "Transparencia Activa",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "auditoria",
+      "id": "997a468c-7eda-4a9e-af8b-95a48db42ef5",
+      "name": "auditoria",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "auditorias",
+      "id": "0c2720a0-8676-4f95-89c4-5a03a41d25a1",
+      "name": "auditorias",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "defensa",
+      "id": "e157cff3-056c-497b-ab86-9bdc950f9843",
+      "name": "defensa",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "ministerio",
+      "id": "514215d9-efa5-4c00-bb2e-b8c78ee05b4d",
+      "name": "ministerio",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Defensa-Auditorias",
+  "type": "dataset",
+  "url": "http://datos.mindef.gov.ar/dataset/defensa-auditorias",
+  "version": null
+}

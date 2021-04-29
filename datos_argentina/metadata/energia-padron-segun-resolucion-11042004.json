@@ -1,0 +1,158 @@
+{
+  "author": "Secretaría de Gobierno de Energía.Subsecretaría de Planeamiento Energético.Dirección Nacional de Información Energética",
+  "author_email": "tienerg@energia.gob.ar",
+  "creator_user_id": "4720e75a-9e17-4dc3-879d-041917c7f9f9",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "eventual"
+    },
+    {
+      "key": "issued",
+      "value": "2017-02-21T13:39:24.358917"
+    },
+    {
+      "key": "modified",
+      "value": "2020-04-22T17:28:02.724807"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"ENER\"]"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Energía",
+      "display_name": "Energía",
+      "id": "a4d3f632-eb48-4163-9791-165989c16035",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225337.421630energia.svg",
+      "name": "ener",
+      "title": "Energía"
+    }
+  ],
+  "id": "energia_bf070f3d-c983-42d6-901b-1e4b810203df",
+  "isopen": false,
+  "license_id": "notspecified",
+  "license_title": "No se especificó la licencia",
+  "maintainer": "Ministerio de Energía y Minería.Secretaría de Recursos Hidrocarburíferos.Dirección Nacional de Economía de Hidrocarburos. ",
+  "maintainer_email": null,
+  "metadata_created": "2019-11-26T14:59:48.802785",
+  "metadata_modified": "2021-04-29T17:17:45.647930",
+  "name": "energia-padron-segun-resolucion-11042004",
+  "notes": "Padrón de operadores, productos y banderas de la Resolución N° 1104/2004.",
+  "num_resources": 3,
+  "num_tags": 2,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:09.221510",
+    "description": "",
+    "id": "cd1b32a2-2d3a-44ac-8c98-a425a7b62d42",
+    "image_url": "",
+    "is_organization": true,
+    "name": "energia",
+    "revision_id": "a184cf69-99ad-4f84-a254-020031d7fe63",
+    "state": "active",
+    "title": "Secretaría de Energía",
+    "type": "organization"
+  },
+  "owner_org": "cd1b32a2-2d3a-44ac-8c98-a425a7b62d42",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "http://datos.minem.gob.ar/dataset/bf070f3d-c983-42d6-901b-1e4b810203df/resource/47a8b39d-02be-4046-b706-9369c57bb28e",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-05-04T12:19:10.867133",
+      "datastore_active": false,
+      "description": "",
+      "fileName": "banderas.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "energia_47a8b39d-02be-4046-b706-9369c57bb28e",
+      "last_modified": "2020-11-05T05:03:32.961099",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Banderas",
+      "package_id": "energia_bf070f3d-c983-42d6-901b-1e4b810203df",
+      "position": 0,
+      "resource_type": null,
+      "revision_id": "2aabba1d-4ceb-4f6e-bbac-4e360aa26f3b",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.minem.gob.ar/dataset/bf070f3d-c983-42d6-901b-1e4b810203df/resource/47a8b39d-02be-4046-b706-9369c57bb28e/download/banderas.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos.minem.gob.ar/dataset/bf070f3d-c983-42d6-901b-1e4b810203df/resource/9f476515-1059-4b10-9a59-e2f67cbd0bbf",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-05-04T12:19:22.729006",
+      "datastore_active": false,
+      "description": "",
+      "fileName": "productos.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "energia_9f476515-1059-4b10-9a59-e2f67cbd0bbf",
+      "last_modified": "2017-06-05T02:00:28.227539",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Productos",
+      "package_id": "energia_bf070f3d-c983-42d6-901b-1e4b810203df",
+      "position": 1,
+      "resource_type": null,
+      "revision_id": "c7c2a2cb-0001-4c9e-b4e2-69dfe4cd7e1d",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.minem.gob.ar/dataset/bf070f3d-c983-42d6-901b-1e4b810203df/resource/9f476515-1059-4b10-9a59-e2f67cbd0bbf/download/productos.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos.minem.gob.ar/dataset/bf070f3d-c983-42d6-901b-1e4b810203df/resource/c8d1de5c-2f4d-41a3-98c0-55e746d8950f",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-05-04T12:19:33.977824",
+      "datastore_active": false,
+      "description": "",
+      "fileName": "padron-eess-1104.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "energia_c8d1de5c-2f4d-41a3-98c0-55e746d8950f",
+      "last_modified": "2017-07-02T02:06:37.753632",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Padrón de estaciones de servicio según Resolución 1104/2004",
+      "package_id": "energia_bf070f3d-c983-42d6-901b-1e4b810203df",
+      "position": 2,
+      "resource_type": null,
+      "revision_id": "c7c2a2cb-0001-4c9e-b4e2-69dfe4cd7e1d",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.minem.gob.ar/dataset/bf070f3d-c983-42d6-901b-1e4b810203df/resource/c8d1de5c-2f4d-41a3-98c0-55e746d8950f/download/padron-eess-1104.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "a66482da-05d0-401a-95bb-f94bcb36a287",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "Comercialización de Hidrocarburos Líquidos",
+      "id": "c81df453-550a-4172-b461-0412ecdac4e7",
+      "name": "Comercialización de Hidrocarburos Líquidos",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Estaciones de servicio",
+      "id": "9365d195-dca0-4dce-92ac-6e1036564197",
+      "name": "Estaciones de servicio",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Padrón según Resolución 1104/2004",
+  "type": "dataset",
+  "url": "http://datos.minem.gob.ar/dataset/",
+  "version": null
+}

@@ -1,0 +1,147 @@
+{
+  "author": "Secretaría de Industria",
+  "author_email": "datos.abiertos@produccion.gob.ar",
+  "creator_user_id": "4720e75a-9e17-4dc3-879d-041917c7f9f9",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P1Y"
+    },
+    {
+      "key": "issued",
+      "value": "2018-12-10T18:42:21.000Z"
+    },
+    {
+      "key": "modified",
+      "value": "2020-02-26T02:44:54.000Z"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"econ\"]"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Economía y finanzas",
+      "display_name": "Economía y finanzas",
+      "id": "60b4b03e-10a1-4d67-b984-08008a249617",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225257.200233economia-finanzas.svg",
+      "name": "econ",
+      "title": "Economía y finanzas"
+    }
+  ],
+  "id": "produccion_rJr9XE3k4",
+  "isopen": true,
+  "license_id": "CC-BY-4.0",
+  "license_title": "Creative Commons Attribution 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "maintainer": null,
+  "maintainer_email": null,
+  "metadata_created": "2019-11-26T14:57:16.650219",
+  "metadata_modified": "2021-04-29T17:04:42.456815",
+  "name": "produccion-plan-nacional-diseno",
+  "notes": "El Plan Nacional de Diseño es una política pública que estimula la vinculación entre diseñadores y empresas para fortalecer los proyectos productivos con estrategias de diseño.  ",
+  "num_resources": 2,
+  "num_tags": 4,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:10.463340",
+    "description": "",
+    "id": "1ca8d15b-31fc-4f09-ba09-53edd3d4cce6",
+    "image_url": "",
+    "is_organization": true,
+    "name": "produccion",
+    "revision_id": "36d8ec89-d20f-4fe1-866c-e38988d28442",
+    "state": "active",
+    "title": "Ministerio de Desarrollo Productivo",
+    "type": "organization"
+  },
+  "owner_org": "1ca8d15b-31fc-4f09-ba09-53edd3d4cce6",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "http://datos.produccion.gob.ar/dataset/plan-nacional-de-diseno",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2018-12-10T15:42:21",
+      "datastore_active": false,
+      "description": "Cantidad de inscriptos y convocados por año, provincia y localidad en el programa Pymes D, que vincula pequeñas y medianas empresas con profesionales del diseño para crear y mejorar sus productos y ofrece el pago del 90% de los honorarios del diseñador.",
+      "format": "CSV",
+      "hash": "",
+      "id": "produccion_B1n1HVh1N",
+      "last_modified": "2019-02-05T16:28:01",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "PyMEs D",
+      "package_id": "produccion_rJr9XE3k4",
+      "position": 0,
+      "resource_type": null,
+      "revision_id": "c2981172-64ea-41f9-91a9-e9a22478b234",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.produccion.gob.ar/api/files/pymes-d.csv/download",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos.produccion.gob.ar/dataset/plan-nacional-de-diseno",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2018-12-10T15:42:21",
+      "datastore_active": false,
+      "description": "Razones sociales ganadoras del premio que distingue productos innovadores y les da mayor visibilidad para que puedan acceder a oportunidades comerciales, participar de una exposición y de un catálogo anual, por provincia, localidad y sector.",
+      "format": "CSV",
+      "hash": "",
+      "id": "produccion_rJds4NhkV",
+      "last_modified": "2019-02-05T16:28:01",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Sello Buen Diseño",
+      "package_id": "produccion_rJr9XE3k4",
+      "position": 1,
+      "resource_type": null,
+      "revision_id": "f03f2e8d-649b-471b-a271-1b7772119b68",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.produccion.gob.ar/api/files/sello-buen-diseno.csv/download",
+      "url_type": null
+    }
+  ],
+  "revision_id": "a6198dd2-3175-4ab2-915f-e7b7499bf893",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "Industria",
+      "id": "a12abc5f-bfc1-40b5-9620-ebf5463eecaf",
+      "name": "Industria",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Plan Nacional de Diseño",
+      "id": "8f5ed121-1373-4181-8715-e76d55896197",
+      "name": "Plan Nacional de Diseño",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Pymes D",
+      "id": "191d547a-c672-4891-93d7-4cf915cad726",
+      "name": "Pymes D",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Sello Buen Diseño",
+      "id": "a23c457f-1b49-4eb5-9874-2343ca30204f",
+      "name": "Sello Buen Diseño",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Plan Nacional de Diseño",
+  "type": "dataset",
+  "url": "http://datos.produccion.gob.ar/dataset/plan-nacional-de-diseno",
+  "version": null
+}

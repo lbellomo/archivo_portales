@@ -1,0 +1,170 @@
+{
+  "author": "Secretaría de Comercio",
+  "author_email": "datos.abiertos@produccion.gob.ar",
+  "creator_user_id": "4720e75a-9e17-4dc3-879d-041917c7f9f9",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P3M"
+    },
+    {
+      "key": "issued",
+      "value": "2018-10-11T16:01:39.000Z"
+    },
+    {
+      "key": "modified",
+      "value": "2020-02-26T21:09:27.000Z"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"econ\"]"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Economía y finanzas",
+      "display_name": "Economía y finanzas",
+      "id": "60b4b03e-10a1-4d67-b984-08008a249617",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225257.200233economia-finanzas.svg",
+      "name": "econ",
+      "title": "Economía y finanzas"
+    }
+  ],
+  "id": "produccion_H1rYXgp9X",
+  "isopen": true,
+  "license_id": "CC-BY-4.0",
+  "license_title": "Creative Commons Attribution 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "maintainer": null,
+  "maintainer_email": null,
+  "metadata_created": "2019-11-26T14:57:17.696062",
+  "metadata_modified": "2021-04-29T17:04:45.031740",
+  "name": "produccion-exporta-simple",
+  "notes": "Exporta Simple facilita las operaciones de exportación con fines comerciales de hasta 300 kilos y 15 mil dólares sin la necesidad de registrarse como exportador ni realizar trámites.",
+  "num_resources": 3,
+  "num_tags": 4,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:10.463340",
+    "description": "",
+    "id": "1ca8d15b-31fc-4f09-ba09-53edd3d4cce6",
+    "image_url": "",
+    "is_organization": true,
+    "name": "produccion",
+    "revision_id": "36d8ec89-d20f-4fe1-866c-e38988d28442",
+    "state": "active",
+    "title": "Ministerio de Desarrollo Productivo",
+    "type": "organization"
+  },
+  "owner_org": "1ca8d15b-31fc-4f09-ba09-53edd3d4cce6",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "http://datos.produccion.gob.ar/dataset/exporta-simple",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2018-10-11T13:01:39",
+      "datastore_active": false,
+      "description": "Cantidad de órdenes realizadas por fecha, origen, destino y monto FOB, que representa el valor de venta de los productos incluyendo el costo de fletes, seguros y otros gastos que implique la llegada de los productos a su destino.",
+      "format": "CSV",
+      "hash": "",
+      "id": "produccion_BJ_SEg697",
+      "last_modified": "2019-08-29T11:45:11",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Órdenes realizadas",
+      "package_id": "produccion_H1rYXgp9X",
+      "position": 0,
+      "resource_type": null,
+      "revision_id": "39c22533-83ce-4b92-8362-ceef460b307a",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.produccion.gob.ar/api/files/ordenes-realizadas.csv/download",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos.produccion.gob.ar/dataset/exporta-simple",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2018-10-11T13:01:39",
+      "datastore_active": false,
+      "description": "guia.",
+      "format": "PDF",
+      "hash": "",
+      "id": "produccion_H1y37lTcQ",
+      "last_modified": "2019-08-29T11:35:24",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Guia de datos exporta simple",
+      "package_id": "produccion_H1rYXgp9X",
+      "position": 1,
+      "resource_type": null,
+      "revision_id": "f2bd4d3f-3f4a-4f47-b294-0ee5a9bd6e3e",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.produccion.gob.ar/api/files/guia-de-datos-exporta-simple.pdf/download",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos.produccion.gob.ar/dataset/exporta-simple",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2018-10-11T13:01:39",
+      "datastore_active": false,
+      "description": "Cantidad de producto exportados por órdenes realizadas.",
+      "format": "CSV",
+      "hash": "",
+      "id": "produccion_rkRbNlpq7",
+      "last_modified": "2019-08-29T11:41:44",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Productos exportados por orden",
+      "package_id": "produccion_H1rYXgp9X",
+      "position": 2,
+      "resource_type": null,
+      "revision_id": "a1b12638-5d19-438f-aad4-9798d433051f",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.produccion.gob.ar/api/files/productos-exportados-por-orden.csv/download",
+      "url_type": null
+    }
+  ],
+  "revision_id": "e9ffbc27-2052-44bc-b0a8-681fbe13c9fc",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "Comercio",
+      "id": "5d89066f-3127-4103-8c37-d929e6845329",
+      "name": "Comercio",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Exporta Simple",
+      "id": "69434d50-b298-4cdc-b8ee-9d5ef8bef1a2",
+      "name": "Exporta Simple",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Exportaciones",
+      "id": "10e97bdf-9f51-44f7-a588-1b552ee563f3",
+      "name": "Exportaciones",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "PyMEs",
+      "id": "5e48e296-35ca-43d6-8f07-7a3010aeb059",
+      "name": "PyMEs",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Exporta Simple",
+  "type": "dataset",
+  "url": "http://datos.produccion.gob.ar/dataset/exporta-simple",
+  "version": null
+}

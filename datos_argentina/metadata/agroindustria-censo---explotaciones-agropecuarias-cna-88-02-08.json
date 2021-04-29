@@ -1,0 +1,212 @@
+{
+  "author": "Dirección de Información y Estadística Pública - Secretaría de Mercados Agroindustriales",
+  "author_email": "datospublicos@magyp.gob.ar",
+  "creator_user_id": "dc157489-51c6-44ce-bd63-3bd983d60778",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "eventual"
+    },
+    {
+      "key": "issued",
+      "value": "2018-12-07T21:20:19.340837"
+    },
+    {
+      "key": "language",
+      "value": "[\"spa\"]"
+    },
+    {
+      "key": "modified",
+      "value": "2019-10-24T10:28:18.631130"
+    },
+    {
+      "key": "spatial",
+      "value": "[\"ARG\"]"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"AGRI\"]"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Agroganadería, pesca y forestación",
+      "display_name": "Agroganadería, pesca y forestación",
+      "id": "0c35ea38-7059-41d2-9827-5587769d0dc6",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225145.990789agroganaderia-pesca-forestacion.svg",
+      "name": "agri",
+      "title": "Agroganadería, pesca y forestación"
+    }
+  ],
+  "id": "agroindustria_0c4ede16-0a5d-4351-8a2f-227f0d0b7069",
+  "isopen": true,
+  "license_id": "CC-BY-4.0",
+  "license_title": "Creative Commons Attribution 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "maintainer": null,
+  "maintainer_email": null,
+  "metadata_created": "2019-12-04T21:13:06.291358",
+  "metadata_modified": "2021-04-29T17:11:39.431521",
+  "name": "agroindustria-censo---explotaciones-agropecuarias-cna-88-02-08",
+  "notes": "Información básica sobre las explotaciones agropecuarias a nivel departamental, de acuerdo a lo recolectado en el Censo Nacional Agropecuario de los años 1988, 2002 y 2008.",
+  "num_resources": 3,
+  "num_tags": 8,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:07.834957",
+    "description": "",
+    "id": "b10c94e2-ade1-4a97-8c4c-b1ada7878d60",
+    "image_url": "",
+    "is_organization": true,
+    "name": "agroindustria",
+    "revision_id": "f7c3b6e9-d48f-4522-9f7a-388d805c8392",
+    "state": "active",
+    "title": "Ministerio de Agricultura, Ganadería y Pesca",
+    "type": "organization"
+  },
+  "owner_org": "b10c94e2-ade1-4a97-8c4c-b1ada7878d60",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "http://datos.agroindustria.gob.ar/dataset/0c4ede16-0a5d-4351-8a2f-227f0d0b7069/resource/171afee4-546f-4951-bfd5-38391f3f6b4e",
+      "attributesDescription": "[{\"type\": \"integer\", \"description\": \"C\\u00f3digo Nacional\", \"title\": \"pais_id\"}, {\"type\": \"string\", \"description\": \"Divisi\\u00f3n pol\\u00edtica mundial\", \"title\": \"pais\"}, {\"type\": \"integer\", \"description\": \"C\\u00f3digo Provincial\", \"title\": \"provincia_id\"}, {\"type\": \"string\", \"description\": \"Divisi\\u00f3n pol\\u00edtica provincial\", \"title\": \"provincia\"}, {\"type\": \"integer\", \"description\": \"C\\u00f3digo departamental\", \"title\": \"departamento_id\"}, {\"type\": \"string\", \"description\": \"Divisi\\u00f3n pol\\u00edtica departamental\", \"title\": \"departamento\"}, {\"type\": \"integer\", \"description\": \"C\\u00f3digo que permite identificar de forma \\u00fanica los departamentos. Por medio de este c\\u00f3digo se puede asociar los objetos geogr\\u00e1ficos con la informaci\\u00f3n.\", \"title\": \"link\"}, {\"type\": \"number\", \"description\": \"Superficie total de las explotaciones agropecuarias que se censaron en el departamento en el Censo Nacional Agropecuario de 1988.\", \"title\": \"suptot_1988\"}, {\"type\": \"integer\", \"description\": \"Cantidad de explotaciones agropecuarias que se censaron en el departamento en el Censo Nacional Agropecuario de 1988.\", \"title\": \"tot_eap_1988\"}, {\"type\": \"integer\", \"description\": \"Cantidad de explotaciones agropecuarias minifundistas que se censaron en el departamento en el Censo Nacional Agropecuario de 1988.\", \"title\": \"eap_minifundio1988\"}, {\"type\": \"integer\", \"description\": \"Cantidad de peque\\u00f1as explotaciones agropecuarias que se censaron en el departamento en el Censo Nacional Agropecuario de 1988.\", \"title\": \"eap_peaps_1988\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-08-31T14:03:35.536058",
+      "datastore_active": false,
+      "description": "Información básica sobre las explotaciones agropecuarias a nivel departamental de acuerdo a lo recolectado en el Censo Nacional Agropecuario 1988. El valor \"-1\" se refiere a que no hay dato.",
+      "fileName": "explotaciones-agropecuarias-segun-cna-1988.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "agroindustria_171afee4-546f-4951-bfd5-38391f3f6b4e",
+      "last_modified": "2019-10-08T10:15:02.950385",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Explotaciones agropecuarias según el CNA 1988",
+      "package_id": "agroindustria_0c4ede16-0a5d-4351-8a2f-227f0d0b7069",
+      "position": 0,
+      "resource_type": "file.upload",
+      "revision_id": "df487889-6fc3-43ef-b21e-2fad5d990775",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.agroindustria.gob.ar/dataset/0c4ede16-0a5d-4351-8a2f-227f0d0b7069/resource/171afee4-546f-4951-bfd5-38391f3f6b4e/download/explotaciones-agropecuarias-segun-cna-1988.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos.agroindustria.gob.ar/dataset/0c4ede16-0a5d-4351-8a2f-227f0d0b7069/resource/f11f5c62-d0ac-43b4-8f65-578f6c189be7",
+      "attributesDescription": "[{\"type\": \"integer\", \"description\": \"C\\u00f3digo Nacional\", \"title\": \"pais_id\"}, {\"type\": \"string\", \"description\": \"Divisi\\u00f3n pol\\u00edtica mundial\", \"title\": \"pais\"}, {\"type\": \"integer\", \"description\": \"C\\u00f3digo Provincial\", \"title\": \"provincia_id\"}, {\"type\": \"string\", \"description\": \"Divisi\\u00f3n pol\\u00edtica provincial\", \"title\": \"provincia\"}, {\"type\": \"integer\", \"description\": \"C\\u00f3digo departamental\", \"title\": \"departamento_id\"}, {\"type\": \"string\", \"description\": \"Divisi\\u00f3n pol\\u00edtica departamental\", \"title\": \"departamento\"}, {\"type\": \"integer\", \"description\": \"C\\u00f3digo que permite identificar de forma \\u00fanica los departamentos. Por medio de este c\\u00f3digo se puede asociar los objetos geogr\\u00e1ficos con la informaci\\u00f3n. \", \"title\": \"link\"}, {\"type\": \"integer\", \"description\": \"Cantidad de explotaciones agropecuarias con l\\u00edmites definidos que se censaron en el departamento en el Censo Nacional Agropecuario de 2002.\", \"title\": \"eap_limdef\"}, {\"type\": \"integer\", \"description\": \"Cantidad de explotaciones agropecuarias sin l\\u00edmites definidos que se censaron en el departamento en el Censo Nacional Agropecuario de 2002.\", \"title\": \"eap_sinlimdef\"}, {\"type\": \"integer\", \"description\": \"Cantidad de explotaciones agropecuarias que se censaron en el departamento en el Censo Nacional Agropecuario de 2002.\", \"title\": \"tot_eap\"}, {\"type\": \"number\", \"description\": \"Superficie total de las explotaciones agropecuarias que se censaron en el departamento en el Censo Nacional Agropecuario de 2002.\", \"title\": \"suptot\"}, {\"type\": \"number\", \"description\": \"Superficie media de las explotaciones agropecuarias que se censaron en el departamento en el Censo Nacional Agropecuario de 2002.\", \"title\": \"supmedia\"}, {\"type\": \"integer\", \"description\": \"Cantidad de explotaciones agropecuarias de peque\\u00f1os productores que se censaron en el departamento en el Censo Nacional Agropecuario de 2002.\", \"title\": \"eap_pp\"}, {\"type\": \"number\", \"description\": \"Superficie total de las explotaciones agropecuarias de peque\\u00f1os productores que se censaron en el departamento en el Censo Nacional Agropecuario de 2002.\", \"title\": \"eap_pp_suptot\"}, {\"type\": \"number\", \"description\": \"Superficie media de las explotaciones agropecuarias de peque\\u00f1os productores que se censaron en el departamento en el Censo Nacional Agropecuario de 2002.\", \"title\": \"eap_pp_supmedia\"}, {\"type\": \"integer\", \"description\": \"Cantidad de explotaciones agropecuarias de no peque\\u00f1os productores que se censaron en el departamento en el Censo Nacional Agropecuario de 2002.\", \"title\": \"eap_nopp\"}, {\"type\": \"number\", \"description\": \"Superficie total de las explotaciones agropecuarias de no peque\\u00f1os productores que se censaron en el departamento en el Censo Nacional Agropecuario de 2002.\", \"title\": \"eap_nopp_suptot\"}, {\"type\": \"number\", \"description\": \"Superficie media de las explotaciones agropecuarias de no peque\\u00f1os productores que se censaron en el departamento en el Censo Nacional Agropecuario de 2002.\", \"title\": \"eap_nopp_supmedia\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-08-31T14:05:44.722411",
+      "datastore_active": false,
+      "description": "Información básica sobre las explotaciones agropecuarias a nivel departamental de acuerdo a lo recolectado en el Censo Nacional Agropecuario 2002. El valor \"-1\" se refiere a que no hay dato.",
+      "fileName": "explotaciones-agropecuarias-según-el-cna-2002.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "agroindustria_f11f5c62-d0ac-43b4-8f65-578f6c189be7",
+      "last_modified": "2019-10-08T10:15:22.092771",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Explotaciones agropecuarias según el CNA 2002",
+      "package_id": "agroindustria_0c4ede16-0a5d-4351-8a2f-227f0d0b7069",
+      "position": 1,
+      "resource_type": "file.upload",
+      "revision_id": "ff9eedbd-eca1-46d9-b767-cfaba03770f4",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.agroindustria.gob.ar/dataset/0c4ede16-0a5d-4351-8a2f-227f0d0b7069/resource/f11f5c62-d0ac-43b4-8f65-578f6c189be7/download/explotaciones-agropecuarias-segun-el-cna-2002.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos.agroindustria.gob.ar/dataset/0c4ede16-0a5d-4351-8a2f-227f0d0b7069/resource/8b6d2242-a9e4-490b-8d11-8d843533814f",
+      "attributesDescription": "[{\"type\": \"integer\", \"description\": \"C\\u00f3digo Nacional\", \"title\": \"pais_id\"}, {\"type\": \"string\", \"description\": \"Divisi\\u00f3n pol\\u00edtica mundial\", \"title\": \"pais\"}, {\"type\": \"integer\", \"description\": \"C\\u00f3digo Provincial\", \"title\": \"provincia_id\"}, {\"type\": \"string\", \"description\": \"Divisi\\u00f3n pol\\u00edtica provincial\", \"title\": \"provincia\"}, {\"type\": \"integer\", \"description\": \"C\\u00f3digo departamental\", \"title\": \"departamento_id\"}, {\"type\": \"string\", \"description\": \"Divisi\\u00f3n pol\\u00edtica departamental\", \"title\": \"departamento\"}, {\"type\": \"integer\", \"description\": \"C\\u00f3digo que permite identificar de forma \\u00fanica los departamentos. Por medio de este c\\u00f3digo se puede asociar los objetos geogr\\u00e1ficos con la informaci\\u00f3n.\", \"title\": \"link\"}, {\"type\": \"integer\", \"description\": \"Cantidad de explotaciones agropecuarias que se censaron en el departamento en el Censo Nacional Agropecuario de 2008.\", \"title\": \"tot_eap\"}, {\"type\": \"integer\", \"description\": \"Cantidad de explotaciones agropecuarias con l\\u00edmites definidos que se censaron en el departamento en el Censo Nacional Agropecuario de 2008.\", \"title\": \"eap_cld\"}, {\"type\": \"number\", \"description\": \"Porcentaje de explotaciones agropecuarias con l\\u00edmites definidos sobre el total de EAP del departamento registrados en el Censo Nacional Agropecuario de 2008.\", \"title\": \"p_eapcld\"}, {\"type\": \"number\", \"description\": \"Superficie total de las explotaciones agropecuarias que se censaron en el departamento en el Censo Nacional Agropecuario de 2008.\", \"title\": \"eap_cld_su\"}, {\"type\": \"integer\", \"description\": \"Cantidad de explotaciones agropecuarias sin l\\u00edmites definidos que se censaron en el departamento en el Censo Nacional Agropecuario de 2002.\", \"title\": \"eap_sld\"}, {\"type\": \"number\", \"description\": \"Porcentaje de explotaciones agropecuarias sin l\\u00edmites definidos sobre el total de EAP del departamento registrados en el Censo Nacional Agropecuario de 2008.\", \"title\": \"p_eapsld\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-08-31T14:06:30.095823",
+      "datastore_active": false,
+      "description": "Información básica sobre las explotaciones agropecuarias a nivel departamental de acuerdo a lo recolectado en el Censo Nacional Agropecuario 2008. El valor \"-1\" se refiere a que no hay dato.",
+      "fileName": "explotaciones-agropecuarias-según-el-cna-2008.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "agroindustria_8b6d2242-a9e4-490b-8d11-8d843533814f",
+      "last_modified": "2019-10-08T10:15:36.483905",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Explotaciones agropecuarias según el CNA 2008",
+      "package_id": "agroindustria_0c4ede16-0a5d-4351-8a2f-227f0d0b7069",
+      "position": 2,
+      "resource_type": "file.upload",
+      "revision_id": "df487889-6fc3-43ef-b21e-2fad5d990775",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.agroindustria.gob.ar/dataset/0c4ede16-0a5d-4351-8a2f-227f0d0b7069/resource/8b6d2242-a9e4-490b-8d11-8d843533814f/download/explotaciones-agropecuarias-segun-el-cna-2008.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "ff9eedbd-eca1-46d9-b767-cfaba03770f4",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "censo",
+      "id": "3afd172c-45af-41bd-b023-b1ed9844c3ba",
+      "name": "censo",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "censo nacional agropecuario",
+      "id": "65e55d56-ea2e-4dc5-94dc-c25c37efa24e",
+      "name": "censo nacional agropecuario",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "cna",
+      "id": "0cdcc96e-34b4-45b0-9380-2d602e5ff709",
+      "name": "cna",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "cna 02",
+      "id": "a6e31f8c-5ed2-44b8-8ef2-2dbd7fded11b",
+      "name": "cna 02",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "cna 08",
+      "id": "dffca8de-424e-4832-a6f6-7fa476305bc6",
+      "name": "cna 08",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "cna 88",
+      "id": "8c91b102-6bd2-461c-af71-ccd75820afc3",
+      "name": "cna 88",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "eap",
+      "id": "713923df-d412-49f0-af10-048664bd8e47",
+      "name": "eap",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "explotaciones agropecuarias",
+      "id": "2773c35c-6a56-4159-a5de-f8bcb40eb12b",
+      "name": "explotaciones agropecuarias",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Censo - Explotaciones agropecuarias CNA 88, 02 y 08",
+  "type": "dataset",
+  "url": "https://datos.agroindustria.gob.ar/dataset/explotaciones-agropecuarias-segun-censo-nacional-agropecuario-anos-1988-2002-2008",
+  "version": null
+}

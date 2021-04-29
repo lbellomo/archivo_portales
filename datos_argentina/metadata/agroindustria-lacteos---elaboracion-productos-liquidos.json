@@ -1,0 +1,274 @@
+{
+  "author": "Dirección Nacional Láctea",
+  "author_email": "estadisticaslecheria@magyp.gob.ar",
+  "creator_user_id": "dc157489-51c6-44ce-bd63-3bd983d60778",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P1Y"
+    },
+    {
+      "key": "issued",
+      "value": "2018-12-07T21:25:40.642979"
+    },
+    {
+      "key": "language",
+      "value": "[\"spa\"]"
+    },
+    {
+      "key": "modified",
+      "value": "2019-10-24T10:38:48.886446"
+    },
+    {
+      "key": "spatial",
+      "value": "[\"ARG\"]"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"AGRI\"]"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Agroganadería, pesca y forestación",
+      "display_name": "Agroganadería, pesca y forestación",
+      "id": "0c35ea38-7059-41d2-9827-5587769d0dc6",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225145.990789agroganaderia-pesca-forestacion.svg",
+      "name": "agri",
+      "title": "Agroganadería, pesca y forestación"
+    }
+  ],
+  "id": "agroindustria_5cfd688b-e98d-45c2-8c14-eba39bb86d25",
+  "isopen": true,
+  "license_id": "CC-BY-4.0",
+  "license_title": "Creative Commons Attribution 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "maintainer": "Dirección Nacional Láctea",
+  "maintainer_email": "estadisticaslecheria@magyp.gob.ar",
+  "metadata_created": "2019-12-04T20:01:15.043435",
+  "metadata_modified": "2021-04-29T17:11:27.121967",
+  "name": "agroindustria-lacteos---elaboracion-productos-liquidos",
+  "notes": "Elaboración de productos lácteos expresada en millones de litros . La información se presenta con distinto nivel de apertura: de 1989 a 2016 se ven las leches fluidas (esterilizada y pasteurizada) sin distinguir entre descremada, semi descremada y entera. De 2008 a la actualidad si se las visualiza con esa distinción.",
+  "num_resources": 3,
+  "num_tags": 17,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:07.834957",
+    "description": "",
+    "id": "b10c94e2-ade1-4a97-8c4c-b1ada7878d60",
+    "image_url": "",
+    "is_organization": true,
+    "name": "agroindustria",
+    "revision_id": "f7c3b6e9-d48f-4522-9f7a-388d805c8392",
+    "state": "active",
+    "title": "Ministerio de Agricultura, Ganadería y Pesca",
+    "type": "organization"
+  },
+  "owner_org": "b10c94e2-ade1-4a97-8c4c-b1ada7878d60",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "http://datos.agroindustria.gob.ar/dataset/5cfd688b-e98d-45c2-8c14-eba39bb86d25/resource/b2ff5e76-1821-4bbf-a217-4f0765edb07a",
+      "attributesDescription": "[{\"type\": \"string\", \"description\": \"pais_id\", \"title\": \"pais_id\"}, {\"type\": \"string\", \"description\": \"pa\\u00eds\", \"title\": \"pa\\u00eds\"}, {\"type\": \"string\", \"description\": \"a\\u00f1o\", \"title\": \"a\\u00f1o\"}, {\"type\": \"string\", \"description\": \"mes\", \"title\": \"mes\"}, {\"type\": \"integer\", \"description\": \"ccp\", \"title\": \"ccp\"}, {\"type\": \"string\", \"description\": \"producto\", \"title\": \"producto\"}, {\"type\": \"string\", \"description\": \"uni_med_id\", \"title\": \"uni_med_id\"}, {\"type\": \"string\", \"description\": \"uni_med\", \"title\": \"uni_med\"}, {\"type\": \"number\", \"description\": \"cantidad\", \"title\": \"cantidad\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-08-01T14:25:03.217154",
+      "datastore_active": false,
+      "description": "Información que refiere a productos lácteos líquidos expresado en millones de litros, sin distinguir entre descremada, semi descremada y entera.",
+      "fileName": "productos-lacteos-liquidos--1989--2006.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "agroindustria_b2ff5e76-1821-4bbf-a217-4f0765edb07a",
+      "last_modified": "2019-01-15T12:07:29.670439",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Productos lácteos líquidos- 1989- 2006",
+      "package_id": "agroindustria_5cfd688b-e98d-45c2-8c14-eba39bb86d25",
+      "position": 0,
+      "resource_type": "file.upload",
+      "revision_id": "c9073095-ead6-4c26-aa98-12e5453e8b4c",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.agroindustria.gob.ar/dataset/5cfd688b-e98d-45c2-8c14-eba39bb86d25/resource/b2ff5e76-1821-4bbf-a217-4f0765edb07a/download/productos-lacteos-liquidos-1989-2006.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos.agroindustria.gob.ar/dataset/5cfd688b-e98d-45c2-8c14-eba39bb86d25/resource/cd521ef3-5e52-40d0-aa48-dd2634c4a8cb",
+      "attributesDescription": "[{\"type\": \"string\", \"description\": \"pais_id\", \"title\": \"pais_id\"}, {\"type\": \"string\", \"description\": \"pa\\u00eds\", \"title\": \"pa\\u00eds\"}, {\"type\": \"string\", \"description\": \"a\\u00f1o\", \"title\": \"a\\u00f1o\"}, {\"type\": \"string\", \"description\": \"mes\", \"title\": \"mes\"}, {\"type\": \"integer\", \"description\": \"ccp\", \"title\": \"ccp\"}, {\"type\": \"string\", \"description\": \"producto\", \"title\": \"producto\"}, {\"type\": \"string\", \"description\": \"uni_med_id\", \"title\": \"uni_med_id\"}, {\"type\": \"string\", \"description\": \"uni_med\", \"title\": \"uni_med\"}, {\"type\": \"number\", \"description\": \"cantidad\", \"title\": \"cantidad\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-08-01T14:25:48.283441",
+      "datastore_active": false,
+      "description": "Información que refiere a productos lácteos líquidos expresado en millones de litros, distinguida entre descremada, semi descremada y entera.",
+      "fileName": "productos-lacteos-liquidos-2007-2016.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "agroindustria_cd521ef3-5e52-40d0-aa48-dd2634c4a8cb",
+      "last_modified": "2019-01-15T12:08:27.272278",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Productos lácteos líquidos- 2007-2016",
+      "package_id": "agroindustria_5cfd688b-e98d-45c2-8c14-eba39bb86d25",
+      "position": 1,
+      "resource_type": "file.upload",
+      "revision_id": "b8c5220f-94e4-4efb-8eb0-eee13b0a10cc",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.agroindustria.gob.ar/dataset/5cfd688b-e98d-45c2-8c14-eba39bb86d25/resource/cd521ef3-5e52-40d0-aa48-dd2634c4a8cb/download/productos-lacteos-liquidos-2007-2016.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos.agroindustria.gob.ar/dataset/5cfd688b-e98d-45c2-8c14-eba39bb86d25/resource/39703b50-6238-499e-acea-c020bd7c47b6",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-05-08T09:18:35.442881",
+      "datastore_active": false,
+      "description": "Serie de tiempo de la elaboración de productos lácteos líquidos expresados en millones de litros equivalentes desde el año 1989 hasta el año 2016",
+      "fileName": "serie-tiempo-productos-lacteos-solidos-1989-2016.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "agroindustria_39703b50-6238-499e-acea-c020bd7c47b6",
+      "last_modified": "2019-05-08T09:18:35.442881",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Serie de Tiempo",
+      "package_id": "agroindustria_5cfd688b-e98d-45c2-8c14-eba39bb86d25",
+      "position": 2,
+      "resource_type": "file.upload",
+      "revision_id": "b8c5220f-94e4-4efb-8eb0-eee13b0a10cc",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.agroindustria.gob.ar/dataset/5cfd688b-e98d-45c2-8c14-eba39bb86d25/resource/39703b50-6238-499e-acea-c020bd7c47b6/download/serie_tiempo-productos-lacteos-liquidos-1989-2016.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "9f1da7f9-51ee-4ccc-af55-ff33a9e5f7cd",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "crema",
+      "id": "0db99b94-e8be-443a-a238-74a4a8efc8d2",
+      "name": "crema",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "dulce de leche",
+      "id": "584e9a29-0c01-4c6e-8cc7-341aba5a08a2",
+      "name": "dulce de leche",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "industrialización láctea",
+      "id": "a452ba45-e7e7-4144-9dbd-9490918abd7e",
+      "name": "industrialización láctea",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "lacteos",
+      "id": "9e6b26d8-1663-4102-b84b-8d3d36505c78",
+      "name": "lacteos",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "leche",
+      "id": "50198eec-058b-4999-a070-8cf268e8e576",
+      "name": "leche",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "leche en polvo",
+      "id": "5e130014-d6db-46ea-a8f9-fd79b8663b31",
+      "name": "leche en polvo",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "leche líquida",
+      "id": "43fcdf18-859f-447b-b592-48a0faa5c04b",
+      "name": "leche líquida",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "manteca",
+      "id": "926ca4b2-ae59-4c6b-b4eb-0ff6376e0678",
+      "name": "manteca",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "pasteurizada",
+      "id": "f1a9ae68-e12d-4630-8d68-821710c5619f",
+      "name": "pasteurizada",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "postres",
+      "id": "70b56a32-9afb-43f1-b773-3f76faba93be",
+      "name": "postres",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "productos lácteos",
+      "id": "c757c0d1-0444-4d9b-bdda-7064a71b2059",
+      "name": "productos lácteos",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "queso fundido",
+      "id": "ac294b27-77a8-4ee7-a4c4-3ff0a0550f79",
+      "name": "queso fundido",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "quesos alta humedad",
+      "id": "33f44644-4dd7-41f5-8876-bbc6ae0d59f9",
+      "name": "quesos alta humedad",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "quesos baja humedad",
+      "id": "c55e0018-8d75-4daf-a845-d5ad47e16e42",
+      "name": "quesos baja humedad",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "quesos mediana humedad",
+      "id": "0e2d1897-25d2-40df-bf08-25e0cb9491a6",
+      "name": "quesos mediana humedad",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "semidura",
+      "id": "ba84059b-9545-4346-b1ae-89464a0010e5",
+      "name": "semidura",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "yogur",
+      "id": "2fab1903-353f-4844-b324-aebbb168ffc7",
+      "name": "yogur",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Lácteos - Elaboración de productos líquidos",
+  "type": "dataset",
+  "url": "https://datos.agroindustria.gob.ar/dataset/elaboracion-productos-lacteos-liquidos",
+  "version": null
+}

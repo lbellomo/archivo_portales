@@ -1,0 +1,176 @@
+{
+  "author": "Ministerio de Energía y Minería.Secretaría de Coordinación de Planeamiento Energético.Dirección Nacional de Información Energética.Tecnología de la Información.",
+  "author_email": "tienerg@energia.gob.ar",
+  "creator_user_id": "4720e75a-9e17-4dc3-879d-041917c7f9f9",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "eventual"
+    },
+    {
+      "key": "issued",
+      "value": "2016-11-07T13:33:34.985951"
+    },
+    {
+      "key": "modified",
+      "value": "2018-03-09T17:53:54.328433"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"ENER\"]"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Energía",
+      "display_name": "Energía",
+      "id": "a4d3f632-eb48-4163-9791-165989c16035",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225337.421630energia.svg",
+      "name": "ener",
+      "title": "Energía"
+    }
+  ],
+  "id": "energia_d4aaab4e-ea13-4fbd-9ca2-52adb1478284",
+  "isopen": false,
+  "license_id": "notspecified",
+  "license_title": "No se especificó la licencia",
+  "maintainer": "Ministerio de Energía y Minería.Secretaría de Coordinación de Planeamiento Energético.Dirección Nacional de Información Energética.Tecnología de la Información.",
+  "maintainer_email": "tienerg@minem.gob.ar",
+  "metadata_created": "2019-11-26T15:00:40.401241",
+  "metadata_modified": "2021-04-29T17:17:18.541101",
+  "name": "energia-generacion-electrica---pequenos-aprovechamientos-hidroelectricos-pah",
+  "notes": "Ubicación geográfica de Pequeños aprovechamientos hidroeléctricos. ISO 19126: PowerSupplies, Este subgrupo se compone de conceptos que se relacionan con la producción, transporte y distribución de energía.",
+  "num_resources": 2,
+  "num_tags": 8,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:09.221510",
+    "description": "",
+    "id": "cd1b32a2-2d3a-44ac-8c98-a425a7b62d42",
+    "image_url": "",
+    "is_organization": true,
+    "name": "energia",
+    "revision_id": "a184cf69-99ad-4f84-a254-020031d7fe63",
+    "state": "active",
+    "title": "Secretaría de Energía",
+    "type": "organization"
+  },
+  "owner_org": "cd1b32a2-2d3a-44ac-8c98-a425a7b62d42",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "http://datos.minem.gob.ar/dataset/d4aaab4e-ea13-4fbd-9ca2-52adb1478284/resource/165e597e-7261-4c46-ae94-bba9c93c52b3",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-05-04T17:47:53.360941",
+      "datastore_active": false,
+      "description": "Archivos prj, shp, shx, dbf, xml. Sistema de Proyección EPSG:4326",
+      "fileName": "generacin-elctrica-pequeos-aprovechamientos-hidroelctricos.zip",
+      "format": "SHP",
+      "hash": "",
+      "id": "energia_165e597e-7261-4c46-ae94-bba9c93c52b3",
+      "last_modified": "2017-05-04T17:47:53.230839",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Generación Eléctrica Pequeños Aprovechamientos Hidroeléctricos",
+      "package_id": "energia_d4aaab4e-ea13-4fbd-9ca2-52adb1478284",
+      "position": 0,
+      "resource_type": null,
+      "revision_id": "7cbfffd6-a374-465e-a92d-a8a649a2725d",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.minem.gob.ar/dataset/d4aaab4e-ea13-4fbd-9ca2-52adb1478284/resource/165e597e-7261-4c46-ae94-bba9c93c52b3/download/generacin-elctrica-pequeos-aprovechamientos-hidroelctricos.zip",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos.minem.gob.ar/dataset/d4aaab4e-ea13-4fbd-9ca2-52adb1478284/resource/5e1ab816-88e3-4190-98d4-a3aff4fc94b1",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-05-04T19:50:37.480890",
+      "datastore_active": false,
+      "description": "",
+      "fileName": "generacin-elctrica-pequeos-aprovechamientos-hidroelctricos.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "energia_5e1ab816-88e3-4190-98d4-a3aff4fc94b1",
+      "last_modified": "2017-05-04T19:50:37.335055",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Generación Eléctrica Pequeños Aprovechamientos Hidroeléctricos",
+      "package_id": "energia_d4aaab4e-ea13-4fbd-9ca2-52adb1478284",
+      "position": 1,
+      "resource_type": null,
+      "revision_id": "a297ff1a-22b1-40d5-8bc5-65ad5b9fdcc4",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.minem.gob.ar/dataset/d4aaab4e-ea13-4fbd-9ca2-52adb1478284/resource/5e1ab816-88e3-4190-98d4-a3aff4fc94b1/download/generacin-elctrica-pequeos-aprovechamientos-hidroelctricos.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "5a616b32-bf8b-4d90-a7bb-e15be2daf729",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "Aprovechamientos",
+      "id": "a11ca11e-9d9a-4138-b7e3-3ef4cc6958c2",
+      "name": "Aprovechamientos",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Eléctrica",
+      "id": "65531076-1464-4bb1-9a93-eeb54f138458",
+      "name": "Eléctrica",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Generación",
+      "id": "1488ccb6-26ca-479f-ae10-26499141beb7",
+      "name": "Generación",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Generación de Energía Eléctrica",
+      "id": "bdfac485-4a3e-47e3-8ee0-60850e834019",
+      "name": "Generación de Energía Eléctrica",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Hidroeléctricos",
+      "id": "01b1955f-10a4-45c1-bc5d-9550b1821425",
+      "name": "Hidroeléctricos",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Información Geográfica",
+      "id": "d22bc8a4-252e-4fd8-89b2-3b9a08f6be42",
+      "name": "Información Geográfica",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Información geográfica",
+      "id": "24b3ee69-69cb-45de-a8b4-3566f4eab17c",
+      "name": "Información geográfica",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Pequeños",
+      "id": "2a25b50e-54a1-4585-a5d9-7fd50f5c5d71",
+      "name": "Pequeños",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Generación Eléctrica - Pequeños Aprovechamientos Hidroeléctricos (PAH)",
+  "type": "dataset",
+  "url": "http://datos.minem.gob.ar/dataset/generacion-electrica-pequenos-aprovechamientos-hidroelectricos",
+  "version": null
+}

@@ -1,0 +1,201 @@
+{
+  "author": "Ministerio de Producción y Trabajo. Secretaría de Transformación Productiva. Subsecretaría de Desarrollo y Planeamiento Productivo.",
+  "author_email": "datos@produccion.gob.ar",
+  "creator_user_id": "4720e75a-9e17-4dc3-879d-041917c7f9f9",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P1M"
+    },
+    {
+      "key": "issued",
+      "value": "2018-05-20"
+    },
+    {
+      "key": "language",
+      "value": "[\"SPA\"]"
+    },
+    {
+      "key": "source",
+      "value": "Ministerio de Producción y Trabajo. Observatorio de Empleo y Dinámica Empresarial."
+    },
+    {
+      "key": "spatial",
+      "value": "ARG"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"ECON\"]"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Economía y finanzas",
+      "display_name": "Economía y finanzas",
+      "id": "60b4b03e-10a1-4d67-b984-08008a249617",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225257.200233economia-finanzas.svg",
+      "name": "econ",
+      "title": "Economía y finanzas"
+    }
+  ],
+  "id": "siep_19",
+  "isopen": true,
+  "license_id": "CC-BY-4.0",
+  "license_title": "Creative Commons Attribution 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "maintainer": "Ministerio de Producción. Secretaría de la Transformación Productiva.",
+  "maintainer_email": "datos@produccion.gob.ar",
+  "metadata_created": "2019-11-26T15:02:54.313727",
+  "metadata_modified": "2021-04-29T17:05:15.612364",
+  "name": "siep-areas-economicas-locales-oede",
+  "notes": "Datos trimestrales y anuales de actividad, población económicamente activa, empleo, ocupación, desocupación, subocupación, empleo no registrado y dinámica de empleo del total nacional urbano, total país y por aglomerado",
+  "num_resources": 2,
+  "num_tags": 10,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:10.618326",
+    "description": "",
+    "id": "83a04686-747a-4ba3-a0b1-2f05c3196bc4",
+    "image_url": "",
+    "is_organization": true,
+    "name": "siep",
+    "revision_id": "23a30f6e-13f4-45a1-8e98-d49541d6ce75",
+    "state": "active",
+    "title": "Secretaría de Transformación Productiva",
+    "type": "organization"
+  },
+  "owner_org": "83a04686-747a-4ba3-a0b1-2f05c3196bc4",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "http://estadisticas.produccion.gob.ar/",
+      "attributesDescription": "[{\"title\": \"indice_tiempo\", \"type\": \"date\", \"description\": \"\\u00cdndice de tiempo de las series\", \"id\": \"OEDE_empleo_h9qlQg\"}, {\"title\": \"area_economica_local\", \"type\": \"string\", \"description\": \"Area Economica Local\", \"id\": \"OEDE_empleo_Gk7rLc\"}, {\"title\": \"provincia\", \"type\": \"string\", \"description\": \"Provincia en la que se registra el empleo\", \"id\": \"OEDE_empleo_iHrFa7\"}, {\"title\": \"valor\", \"type\": \"number\", \"description\": \"Cantidad de empleo\", \"id\": \"OEDE_empleo_QMp1p9\", \"units\": \"Cantidad de empleados registrados\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-07-01T00:00:00",
+      "datastore_active": false,
+      "description": "Evolución del empleo registrado según área económica local en formato panel",
+      "fileName": "empleo-ael-anual.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "siep_19.01",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Evolución del empleo registrado privado según área económica local (panel)",
+      "package_id": "siep_19",
+      "position": 0,
+      "resource_type": "file",
+      "revision_id": "2feda3a7-6b04-4724-b40e-eb5a00e219a4",
+      "size": null,
+      "state": "active",
+      "url": "http://estadisticas.produccion.gob.ar/app/dataset/19/distribution/19.01/empleo-ael-anual.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://estadisticas.produccion.gob.ar/",
+      "attributesDescription": "[{\"title\": \"indice_tiempo\", \"type\": \"date\", \"description\": \"\\u00cdndice de tiempo de las series\", \"id\": \"OEDE_empleo_jsBmRP\"}, {\"title\": \"area_economica_local\", \"type\": \"string\", \"description\": \"Area Economica Local\", \"id\": \"OEDE_empleo_VhBXbQ\"}, {\"title\": \"provincia\", \"type\": \"string\", \"description\": \"Provincia en la que se registra el empleador\", \"id\": \"OEDE_empleo_ngOKbw\"}, {\"title\": \"valor\", \"type\": \"number\", \"description\": \"Cantidad de empresas activas\", \"id\": \"OEDE_empleo_mSts8Z\", \"units\": \"Cantidad de empresas activas\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-07-01T00:00:00",
+      "datastore_active": false,
+      "description": "Evolución de los empleadores privados según área económica local en formato panel",
+      "fileName": "empresas-ael-anual.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "siep_19.02",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Evolución de la cantidad de empleadores privados según área económica local (panel)",
+      "package_id": "siep_19",
+      "position": 1,
+      "resource_type": "file",
+      "revision_id": "2feda3a7-6b04-4724-b40e-eb5a00e219a4",
+      "size": null,
+      "state": "active",
+      "url": "http://estadisticas.produccion.gob.ar/app/dataset/19/distribution/19.02/empresas-ael-anual.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "2feda3a7-6b04-4724-b40e-eb5a00e219a4",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "Empleo",
+      "id": "7a51de06-be4d-4377-847a-68f33b453543",
+      "name": "Empleo",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Empleo e ingresos",
+      "id": "1a7993ff-5afc-4480-991a-9a9640330edc",
+      "name": "Empleo e ingresos",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "PEA",
+      "id": "0ee94b3c-84b3-4a85-834e-87e48d581318",
+      "name": "PEA",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "actividad",
+      "id": "23258086-60c8-49a7-ba2b-ff837529653b",
+      "name": "actividad",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "aglomerado",
+      "id": "12ec59ec-81c9-41fe-aee4-660f5d72fe4a",
+      "name": "aglomerado",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "desocupación",
+      "id": "063714af-6240-4e13-b040-dc5bbe1e2844",
+      "name": "desocupación",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "dinámica",
+      "id": "b1bb3012-944a-4b27-aeb7-afe64dd2f99b",
+      "name": "dinámica",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "ocupación",
+      "id": "18e18987-8e54-46c4-b4a0-97a2f95b9ee2",
+      "name": "ocupación",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "sector",
+      "id": "86e5b9d4-8b55-4472-89be-ca0d197f9fcc",
+      "name": "sector",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "trabajadores",
+      "id": "b4974bd6-4956-4320-ba69-d1be06547191",
+      "name": "trabajadores",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Áreas Económicas Locales (OEDE)",
+  "type": "dataset",
+  "url": "http://estadisticas.produccion.gob.ar/",
+  "version": null
+}

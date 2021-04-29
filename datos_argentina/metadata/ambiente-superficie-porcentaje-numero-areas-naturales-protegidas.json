@@ -1,0 +1,207 @@
+{
+  "author": "Ministerio de Ambiente y Desarrollo Sostenible. Dirección Nacional de Planificación y Ordenamiento Ambiental del Territorio. ",
+  "author_email": "jfabri@ambiente.gob.ar",
+  "creator_user_id": "4720e75a-9e17-4dc3-879d-041917c7f9f9",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P1Y"
+    },
+    {
+      "key": "issued",
+      "value": "2017-09-05T17:24:20.516587"
+    },
+    {
+      "key": "language",
+      "value": "[\"spa\"]"
+    },
+    {
+      "key": "modified",
+      "value": "2020-09-30T13:21:23.355347"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"ENVI\"]"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Medio ambiente",
+      "display_name": "Medio ambiente",
+      "id": "f71fe9d7-c703-43be-8d9d-af9441c326ba",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225440.964279medio-ambiente.svg",
+      "name": "envi",
+      "title": "Medio ambiente"
+    }
+  ],
+  "id": "ambiente_7111050b-ea63-4858-92e2-aa126352ae77",
+  "isopen": false,
+  "license_id": "notspecified",
+  "license_title": "No se especificó la licencia",
+  "maintainer": "Ministerio de Ambiente y Desarrollo Sostenible. Dirección Nacional de Planificación y Ordenamiento Ambiental del Territorio. ",
+  "maintainer_email": "jfabri@ambiente.gob.ar",
+  "metadata_created": "2019-11-26T14:58:06.541272",
+  "metadata_modified": "2021-04-29T17:17:43.241598",
+  "name": "ambiente-superficie-porcentaje-numero-areas-naturales-protegidas",
+  "notes": "Datos correspondientes a la superficie, porcentaje y número de áreas naturales protegidas por provincia y dentro del Mar Argentino (Plataforma Continental Argentina)",
+  "num_resources": 3,
+  "num_tags": 8,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:07.043831",
+    "description": "",
+    "id": "0e5aa328-825e-4509-851d-5421e866635e",
+    "image_url": "",
+    "is_organization": true,
+    "name": "ambiente",
+    "revision_id": "105eb915-270c-4f67-9b4e-e6a3f08be6d7",
+    "state": "active",
+    "title": "Ministerio de Ambiente y Desarrollo Sostenible",
+    "type": "organization"
+  },
+  "owner_org": "0e5aa328-825e-4509-851d-5421e866635e",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "http://datos.ambiente.gob.ar/dataset/7111050b-ea63-4858-92e2-aa126352ae77/resource/4557aa5c-d022-4062-ac2f-48441ac95659",
+      "attributesDescription": "[{\"type\": \"string\", \"description\": \"Denominaci\\u00f3n de la unidad geogr\\u00e1fica (Mar Argentino)\", \"title\": \"unidad_geografica\"}, {\"type\": \"integer\", \"description\": \"Total de la superficie de la unidad geogr\\u00e1fica (Mar Argentino) en km2\", \"title\": \"unidad_geografica_superficie_km2\"}, {\"type\": \"integer\", \"description\": \"Cantidad de \\u00e1reas protegidas en la unidad geogr\\u00e1fica\", \"title\": \"areas_naturales_protegidas_numero\"}, {\"type\": \"integer\", \"description\": \"Superficie del \\u00e1rea protegida en la unidad geogr\\u00e1fica en km2\", \"title\": \"areas_naturales_protegidas_superficie_km2\"}, {\"type\": \"number\", \"description\": \"Porcentaje de la superficie del \\u00e1rea protegida en relaci\\u00f3n a la unidad geogr\\u00e1fica\", \"title\": \"areas_naturales_protegidas_porcentaje\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-09-05T17:31:20.141492",
+      "datastore_active": false,
+      "description": "Superficie, cantidad y porcentaje del área protegida que corresponde al Mar Argentino",
+      "fileName": "1_areas-marinas-protegidas-superficie-cantidad-porcentaje-en-marargentino.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "ambiente_4557aa5c-d022-4062-ac2f-48441ac95659",
+      "last_modified": "2020-09-28T18:26:53.542075",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Áreas naturales protegidas en Mar Argentino",
+      "package_id": "ambiente_7111050b-ea63-4858-92e2-aa126352ae77",
+      "position": 0,
+      "resource_type": "file.upload",
+      "revision_id": "f4c42724-3eff-442d-9241-db6a54282d9f",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.ambiente.gob.ar/dataset/7111050b-ea63-4858-92e2-aa126352ae77/resource/4557aa5c-d022-4062-ac2f-48441ac95659/download/1_areas-marinas-protegidas-superficie-cantidad-porcentaje-en-marargentino.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos.ambiente.gob.ar/dataset/7111050b-ea63-4858-92e2-aa126352ae77/resource/986deea3-d8ef-4d92-8155-c5099d5edfab",
+      "attributesDescription": "[{\"type\": \"integer\", \"description\": \"C\\u00f3digo de unidad geogr\\u00e1fica utilizada por el INDEC\", \"title\": \"provincia_id\"}, {\"type\": \"string\", \"description\": \"Denominaci\\u00f3n de la provincia\", \"title\": \"provincia_desc\"}, {\"type\": \"integer\", \"description\": \"Superficie de la provincia en km2\", \"title\": \"provincia_superficie_km2\"}, {\"type\": \"number\", \"description\": \"Superficie del \\u00e1rea protegida de la provincia en km2\", \"title\": \"areas_naturales_protegidas_superficie_km2\"}, {\"type\": \"number\", \"description\": \"Porcentaje de la superficie del \\u00e1rea protegida en relaci\\u00f3n a la superficie total provincial\", \"title\": \"areas_naturales_protegidas_porcentaje\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-09-05T17:43:06.797965",
+      "datastore_active": false,
+      "description": "Datos correspondientes al porcentaje y superficie de áreas naturales protegidas por provincia",
+      "fileName": "2_areas-protegidas-superficie-porcentaje-x-provincia.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "ambiente_986deea3-d8ef-4d92-8155-c5099d5edfab",
+      "last_modified": "2020-09-28T21:30:08.242471",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Porcentaje y superficie de áreas naturales protegidas por provincia",
+      "package_id": "ambiente_7111050b-ea63-4858-92e2-aa126352ae77",
+      "position": 1,
+      "resource_type": "file.upload",
+      "revision_id": "7735e66a-1470-49bd-8d8a-0aadce067878",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.ambiente.gob.ar/dataset/7111050b-ea63-4858-92e2-aa126352ae77/resource/986deea3-d8ef-4d92-8155-c5099d5edfab/download/2_areas-protegidas-superficie-porcentaje-x-provincia.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos.ambiente.gob.ar/dataset/7111050b-ea63-4858-92e2-aa126352ae77/resource/e0ad159b-53d9-404f-b0b7-e83c9681b217",
+      "attributesDescription": "[{\"type\": \"integer\", \"description\": \"C\\u00f3digo de unidad geogr\\u00e1fica utilizada por el INDEC\", \"title\": \"provincia_id\"}, {\"type\": \"string\", \"description\": \"Denominaci\\u00f3n de la provincia\", \"title\": \"provincia_desc\"}, {\"type\": \"integer\", \"description\": \"Cantidad de \\u00e1reas protegidas en la provincia\", \"title\": \"areas_naturales_protegidas_numero\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-09-05T17:47:06.948966",
+      "datastore_active": false,
+      "description": "Datos correspondientes a la cantidad de áreas protegidas por provincia",
+      "fileName": "3_areas-protegidas-cantidad-x-provincia.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "ambiente_e0ad159b-53d9-404f-b0b7-e83c9681b217",
+      "last_modified": "2020-09-28T21:32:04.469523",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Cantidad de áreas naturales protegidas por provincia",
+      "package_id": "ambiente_7111050b-ea63-4858-92e2-aa126352ae77",
+      "position": 2,
+      "resource_type": "file.upload",
+      "revision_id": "7735e66a-1470-49bd-8d8a-0aadce067878",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.ambiente.gob.ar/dataset/7111050b-ea63-4858-92e2-aa126352ae77/resource/e0ad159b-53d9-404f-b0b7-e83c9681b217/download/3_areas-protegidas-cantidad-x-provincia.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "05f78dcd-06d3-4a97-a818-6129c956d7a2",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "Areas protegidas",
+      "id": "15478018-a0ae-43ac-97d7-c1376125cb73",
+      "name": "Areas protegidas",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Conservación",
+      "id": "cfd7ed2f-2610-4568-9d0e-f4bfec4baeb8",
+      "name": "Conservación",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Ordenamiento territorial",
+      "id": "8ebef814-8ee9-4150-be14-60ea89e29bd5",
+      "name": "Ordenamiento territorial",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Plataforma marina",
+      "id": "665595dc-bf15-49bb-899d-2af8e944b945",
+      "name": "Plataforma marina",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Protección",
+      "id": "0dfc4418-96bb-45ea-a897-91f07f2be100",
+      "name": "Protección",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Reservas naturales",
+      "id": "593452e6-4dec-4f54-854b-14b2f43e4c8a",
+      "name": "Reservas naturales",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Áreas costero marinas",
+      "id": "6819e6fa-67cb-4bfa-8c0e-bfe649cf8d8d",
+      "name": "Áreas costero marinas",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Áreas naturales protegidas",
+      "id": "c4814815-c6f9-4750-845b-2adff28cb995",
+      "name": "Áreas naturales protegidas",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Superficie, porcentaje y número de áreas naturales protegidas",
+  "type": "dataset",
+  "url": "http://datos.ambiente.gob.ar/dataset/",
+  "version": null
+}

@@ -1,0 +1,155 @@
+{
+  "author": "Ministerio de Energía y Minería.Secretaría de Coordinación de Planeamiento Energético.Dirección Nacional de Información Energética.Tecnología de la Información.",
+  "author_email": "tienerg@energia.gob.ar",
+  "creator_user_id": "4720e75a-9e17-4dc3-879d-041917c7f9f9",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "eventual"
+    },
+    {
+      "key": "issued",
+      "value": "2016-11-07T13:33:34.985951"
+    },
+    {
+      "key": "modified",
+      "value": "2018-04-24T21:24:49.530750"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"ENER\"]"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Energía",
+      "display_name": "Energía",
+      "id": "a4d3f632-eb48-4163-9791-165989c16035",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225337.421630energia.svg",
+      "name": "ener",
+      "title": "Energía"
+    }
+  ],
+  "id": "energia_bd26f4e9-74cc-4444-ae6d-2dadcf491057",
+  "isopen": false,
+  "license_id": "notspecified",
+  "license_title": "No se especificó la licencia",
+  "maintainer": "Ministerio de Energía y Minería.Secretaría de Planeamiento Energético Estratégico.Subsecretaría de Escenarios y Evaluación de Proyectos. Dirección Nacional de Información Energética.Tecnología de la Información. ",
+  "maintainer_email": "tienerg@minem.gob.ar",
+  "metadata_created": "2019-11-26T15:00:47.964529",
+  "metadata_modified": "2021-04-29T17:17:49.639905",
+  "name": "energia-produccion-hidrocarburos---yacimientos-segun-profundidad-promedio",
+  "notes": "Yacimientos según profundidad. ISO 19126: NaturalResources. Este subgrupo se compone de conceptos que se refieren a materias primas y sus depósitos.",
+  "num_resources": 2,
+  "num_tags": 5,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:09.221510",
+    "description": "",
+    "id": "cd1b32a2-2d3a-44ac-8c98-a425a7b62d42",
+    "image_url": "",
+    "is_organization": true,
+    "name": "energia",
+    "revision_id": "a184cf69-99ad-4f84-a254-020031d7fe63",
+    "state": "active",
+    "title": "Secretaría de Energía",
+    "type": "organization"
+  },
+  "owner_org": "cd1b32a2-2d3a-44ac-8c98-a425a7b62d42",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "http://datos.minem.gob.ar/dataset/bd26f4e9-74cc-4444-ae6d-2dadcf491057/resource/3f13c499-cb5a-4998-a87a-c87d8367caec",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-05-04T21:07:36.963505",
+      "datastore_active": false,
+      "description": "",
+      "fileName": "produccin-hidrocarburos-yacimientos-segn-profundidad-promedio.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "energia_3f13c499-cb5a-4998-a87a-c87d8367caec",
+      "last_modified": "2017-07-02T02:13:17.654624",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Producción Hidrocarburos Yacimientos Según Profundidad Promedio",
+      "package_id": "energia_bd26f4e9-74cc-4444-ae6d-2dadcf491057",
+      "position": 0,
+      "resource_type": null,
+      "revision_id": "e6f547ae-4164-4678-b301-0c880814f5a2",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.minem.gob.ar/dataset/bd26f4e9-74cc-4444-ae6d-2dadcf491057/resource/3f13c499-cb5a-4998-a87a-c87d8367caec/download/produccin-hidrocarburos-yacimientos-segn-profundidad-promedio.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos.minem.gob.ar/dataset/bd26f4e9-74cc-4444-ae6d-2dadcf491057/resource/303d2deb-63b3-4c62-8c2c-32e44bf87f66",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-05-04T21:15:22.959402",
+      "datastore_active": false,
+      "description": "Archivos prj, shp, shx, dbf, xml. Sistema de Proyección EPSG:4326",
+      "fileName": "produccin-hidrocarburos-yacimientos-segn-profundidad-promedio.zip",
+      "format": "SHP",
+      "hash": "",
+      "id": "energia_303d2deb-63b3-4c62-8c2c-32e44bf87f66",
+      "last_modified": "2017-07-02T02:13:32.868074",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Producción Hidrocarburos Yacimientos Según Profundidad Promedio",
+      "package_id": "energia_bd26f4e9-74cc-4444-ae6d-2dadcf491057",
+      "position": 1,
+      "resource_type": null,
+      "revision_id": "69ca5193-455f-497e-8b1f-67f71e06ed3f",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.minem.gob.ar/dataset/bd26f4e9-74cc-4444-ae6d-2dadcf491057/resource/303d2deb-63b3-4c62-8c2c-32e44bf87f66/download/produccin-hidrocarburos-yacimientos-segn-profundidad-promedio.zip",
+      "url_type": null
+    }
+  ],
+  "revision_id": "b45903ed-034c-4bb6-806b-4dc6f6053cd4",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "Exploración y Producción de Hidrocarburos",
+      "id": "578b8b35-2010-450c-adc5-ee88dfabdcb9",
+      "name": "Exploración y Producción de Hidrocarburos",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Hidrocarburos",
+      "id": "f2511ea4-b37a-445a-913a-8948f1b90df6",
+      "name": "Hidrocarburos",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Información Geográfica",
+      "id": "d22bc8a4-252e-4fd8-89b2-3b9a08f6be42",
+      "name": "Información Geográfica",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Información geográfica",
+      "id": "24b3ee69-69cb-45de-a8b4-3566f4eab17c",
+      "name": "Información geográfica",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Yacimientos",
+      "id": "ff20ed38-fda1-4d7f-908c-c5313bf04c65",
+      "name": "Yacimientos",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Producción Hidrocarburos - Yacimientos Según Profundidad Promedio",
+  "type": "dataset",
+  "url": "http://datos.minem.gob.ar/dataset/produccion-hidrocarburos-yacimientos-segun-profundidad-promedio",
+  "version": null
+}

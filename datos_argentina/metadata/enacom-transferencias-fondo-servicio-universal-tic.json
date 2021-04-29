@@ -1,0 +1,173 @@
+{
+  "author": "Ente Nacional de Comunicaciones (ENACOM)",
+  "author_email": "contacto@enacom.gob.ar",
+  "creator_user_id": "4720e75a-9e17-4dc3-879d-041917c7f9f9",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P1Y"
+    },
+    {
+      "key": "issued",
+      "value": "2020-05-12T23:15:31"
+    },
+    {
+      "key": "language",
+      "value": "[\"spa\"]"
+    },
+    {
+      "key": "modified",
+      "value": "2020-05-13T03:26:09Z"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"TECH\"]"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Ciencia y tecnología",
+      "display_name": "Ciencia y tecnología",
+      "id": "0dd7dd0e-aae8-402f-8660-f1e8b6b6084c",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225221.170833ciencia-tecnologia.svg",
+      "name": "tech",
+      "title": "Ciencia y tecnología"
+    }
+  ],
+  "id": "enacom_FONDO-SERVI-UNIVE-FSU",
+  "isopen": false,
+  "license_id": "notspecified",
+  "license_title": "No se especificó la licencia",
+  "maintainer": null,
+  "maintainer_email": null,
+  "metadata_created": "2019-11-26T14:55:26.552507",
+  "metadata_modified": "2021-04-29T17:04:37.232632",
+  "name": "enacom-transferencias-fondo-servicio-universal-tic",
+  "notes": "Montos desembolsados del fondo de servicio universal para transferencias y programas de conectividad",
+  "num_resources": 3,
+  "num_tags": 4,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:07.525331",
+    "description": "",
+    "id": "6eb7d19b-2d42-494f-8e57-d67c501d23eb",
+    "image_url": "",
+    "is_organization": true,
+    "name": "enacom",
+    "revision_id": "f2d2a5ad-7015-4d68-9d9c-5a82fadbbbf3",
+    "state": "active",
+    "title": "Ente Nacional de Comunicaciones",
+    "type": "organization"
+  },
+  "owner_org": "6eb7d19b-2d42-494f-8e57-d67c501d23eb",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/247306/transferencias-del-fondo-de-servicio-universal-tic/",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2020-05-12T23:15:31",
+      "datastore_active": false,
+      "description": "Montos desembolsados del fondo de servicio universal para transferencias y programas de conectividad",
+      "format": "CSV",
+      "hash": "",
+      "id": "enacom_FONDO-SERVI-UNIVE-FSU_0",
+      "last_modified": "2020-05-13T00:26:09",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Transferencias del Fondo de Servicio Universal TIC",
+      "package_id": "enacom_FONDO-SERVI-UNIVE-FSU",
+      "position": 0,
+      "resource_type": null,
+      "revision_id": "b468f244-c891-41d7-95b3-c058e54c77f6",
+      "size": null,
+      "state": "active",
+      "url": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/FONDO-SERVI-UNIVE-FSU/data.csv?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/247306/transferencias-del-fondo-de-servicio-universal-tic/",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2020-05-12T23:15:31",
+      "datastore_active": false,
+      "description": "Montos desembolsados del fondo de servicio universal para transferencias y programas de conectividad",
+      "format": "XLS",
+      "hash": "",
+      "id": "enacom_FONDO-SERVI-UNIVE-FSU_1",
+      "last_modified": "2020-05-13T00:26:09",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Transferencias del Fondo de Servicio Universal TIC",
+      "package_id": "enacom_FONDO-SERVI-UNIVE-FSU",
+      "position": 1,
+      "resource_type": null,
+      "revision_id": "a4f82e20-9eb1-49cf-96b0-95af001a34f4",
+      "size": null,
+      "state": "active",
+      "url": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/FONDO-SERVI-UNIVE-FSU/data.xls?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/247306/transferencias-del-fondo-de-servicio-universal-tic/",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2020-05-12T23:15:31",
+      "datastore_active": false,
+      "description": "Montos desembolsados del fondo de servicio universal para transferencias y programas de conectividad",
+      "format": "JSON",
+      "hash": "",
+      "id": "enacom_FONDO-SERVI-UNIVE-FSU_2",
+      "last_modified": "2020-05-13T00:26:09",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Transferencias del Fondo de Servicio Universal TIC",
+      "package_id": "enacom_FONDO-SERVI-UNIVE-FSU",
+      "position": 2,
+      "resource_type": null,
+      "revision_id": "b468f244-c891-41d7-95b3-c058e54c77f6",
+      "size": null,
+      "state": "active",
+      "url": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/FONDO-SERVI-UNIVE-FSU/data.json?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1",
+      "url_type": null
+    }
+  ],
+  "revision_id": "79d939ab-f801-4961-9ae5-033d811df949",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "fondo publico",
+      "id": "c1715d97-aec9-4fe2-829a-07dbba8a30ea",
+      "name": "fondo publico",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "servicio universal",
+      "id": "c77aea65-9c16-4bc3-8509-287f37241906",
+      "name": "servicio universal",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "subsidios",
+      "id": "09814747-ea81-4cb6-8adc-690d84976e34",
+      "name": "subsidios",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "telecomunicaciones",
+      "id": "f3025d0d-af10-4c9c-8806-c18f66dca59d",
+      "name": "telecomunicaciones",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Transferencias del Fondo de Servicio Universal TIC",
+  "type": "dataset",
+  "url": "http://api.datosabiertos.enacom.gob.ar/dataset/enacom-transferencias-fondo-servicio-universal-tic",
+  "version": null
+}

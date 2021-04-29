@@ -1,0 +1,154 @@
+{
+  "author": "Ministerio de Ambiente y Desarrollo Sostenible. Dirección Nacional de Bosques.",
+  "author_email": "fscagnetti@ambiente.gob.ar",
+  "creator_user_id": "4720e75a-9e17-4dc3-879d-041917c7f9f9",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/PT1S"
+    },
+    {
+      "key": "issued",
+      "value": "2017-09-05T14:27:36.467239"
+    },
+    {
+      "key": "language",
+      "value": "[\"spa\"]"
+    },
+    {
+      "key": "modified",
+      "value": "2020-09-30T11:58:18.159086"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"ENVI\"]"
+    },
+    {
+      "key": "temporal",
+      "value": "2016-01-01T03:00:00.000Z/2019-12-30T03:00:00.000Z"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Medio ambiente",
+      "display_name": "Medio ambiente",
+      "id": "f71fe9d7-c703-43be-8d9d-af9441c326ba",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225440.964279medio-ambiente.svg",
+      "name": "envi",
+      "title": "Medio ambiente"
+    }
+  ],
+  "id": "ambiente_9a4f202f-4cb4-4dc1-9557-503c68e2b32e",
+  "isopen": false,
+  "license_id": "notspecified",
+  "license_title": "No se especificó la licencia",
+  "maintainer": "Ministerio de Ambiente y Desarrollo Sostenible. Dirección Nacional de Bosques.",
+  "maintainer_email": "mabapillo@ambiente.gob.ar",
+  "metadata_created": "2019-11-26T14:58:03.934128",
+  "metadata_modified": "2021-04-29T17:17:44.068237",
+  "name": "ambiente-plan-integral-comunitario-pics",
+  "notes": "El dataset muestra los planes de asistencia técnica en proceso de implementación en las comunidades beneficiarias ",
+  "num_resources": 1,
+  "num_tags": 7,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:07.043831",
+    "description": "",
+    "id": "0e5aa328-825e-4509-851d-5421e866635e",
+    "image_url": "",
+    "is_organization": true,
+    "name": "ambiente",
+    "revision_id": "105eb915-270c-4f67-9b4e-e6a3f08be6d7",
+    "state": "active",
+    "title": "Ministerio de Ambiente y Desarrollo Sostenible",
+    "type": "organization"
+  },
+  "owner_org": "0e5aa328-825e-4509-851d-5421e866635e",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "http://datos.ambiente.gob.ar/dataset/9a4f202f-4cb4-4dc1-9557-503c68e2b32e/resource/dec86fa1-5bdc-4c24-a201-4bc300ca6741",
+      "attributesDescription": "[{\"type\": \"string\", \"description\": \"Nombre de la comunidad que recibe el PICs\", \"title\": \"comunidad_nombre\"}, {\"type\": \"string\", \"description\": \"Tipo de comunidad que recibe el plan, (campesina criollo e ind\\u00edgena)\", \"title\": \"comunidad_tipo\"}, {\"type\": \"string\", \"description\": \"Provincia donde reside la comunidad y se ejecuta el PICs\", \"title\": \"provincia_descripcion\"}, {\"type\": \"string\", \"description\": \"Departamento provincial donde reside la comunidad y se ejecuta el PICs\", \"title\": \"departamento_descripcion\"}, {\"type\": \"integer\", \"description\": \"Cantidad de familias que integran el PICs\", \"title\": \"comunidad_familias_numero\"}, {\"type\": \"integer\", \"description\": \"Superficie en hect\\u00e1reas que ocupa la comunidad\", \"title\": \"comunidad_superficie_ocupada_hectareas\"}, {\"type\": \"string\", \"description\": \"Organizaci\\u00f3n que asiste a la comunidad en la formulaci\\u00f3n del PICs\", \"title\": \"organizacion_asistencia_tecnica_nombre\"}, {\"type\": \"string\", \"description\": \"Etapa en la implementaci\\u00f3n que se encuentra el PICs\", \"title\": \"plan_integral_comunitario_estado\"}, {\"type\": \"integer\", \"description\": \"Estado de avance en porcentaje que se encuentra el PICs para su implementaci\\u00f3n\", \"title\": \"plan_integral_comunitario_avance_porcentaje\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-09-05T14:32:52.658647",
+      "datastore_active": false,
+      "description": "Son los los planes de asistencia técnica en implementación de las comunidades beneficiarias",
+      "fileName": "plan-integral-comunitario.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "ambiente_dec86fa1-5bdc-4c24-a201-4bc300ca6741",
+      "last_modified": "2020-09-30T12:00:14.807471",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Plan integral comunitario (PICs)",
+      "package_id": "ambiente_9a4f202f-4cb4-4dc1-9557-503c68e2b32e",
+      "position": 0,
+      "resource_type": "file.upload",
+      "revision_id": "9d218030-c7bf-4e32-b349-7d1c98598a1f",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.ambiente.gob.ar/dataset/9a4f202f-4cb4-4dc1-9557-503c68e2b32e/resource/dec86fa1-5bdc-4c24-a201-4bc300ca6741/download/plan-integral-comunitario.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "9d218030-c7bf-4e32-b349-7d1c98598a1f",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "Bosques",
+      "id": "b9aad93c-075e-43df-8b5f-befcf406f1c6",
+      "name": "Bosques",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Plan integral comunitario",
+      "id": "ffd7128f-97ef-4805-81a8-4e25f8c45930",
+      "name": "Plan integral comunitario",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Pueblos originarios",
+      "id": "d19d365f-e299-4c33-9005-45835885776e",
+      "name": "Pueblos originarios",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "comunidades campesinas",
+      "id": "71e727b8-ed2d-4d48-8649-6388a8352b69",
+      "name": "comunidades campesinas",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "comunidades criollas",
+      "id": "2760b6b3-4234-4070-b426-484f3f7c8100",
+      "name": "comunidades criollas",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "comunidades indígenas",
+      "id": "0cbf78ef-96c0-4c6a-8faf-43e696cf6e23",
+      "name": "comunidades indígenas",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "pueblos originarios",
+      "id": "df544933-3079-4e20-9444-de85fedd9b4f",
+      "name": "pueblos originarios",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Plan integral comunitario (PICs)",
+  "type": "dataset",
+  "url": "http://datos.ambiente.gob.ar/dataset/",
+  "version": null
+}

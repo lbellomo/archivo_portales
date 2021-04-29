@@ -1,0 +1,197 @@
+{
+  "author": "Dirección de Estudios Económicos",
+  "author_email": "productospecuarios@magyp.gob.ar",
+  "creator_user_id": "dc157489-51c6-44ce-bd63-3bd983d60778",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P3M"
+    },
+    {
+      "key": "issued",
+      "value": "2018-12-07T21:22:02.102892"
+    },
+    {
+      "key": "language",
+      "value": "[\"spa\"]"
+    },
+    {
+      "key": "modified",
+      "value": "2019-10-24T11:11:14.956851"
+    },
+    {
+      "key": "spatial",
+      "value": "[\"ARG\"]"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"AGRI\"]"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Agroganadería, pesca y forestación",
+      "display_name": "Agroganadería, pesca y forestación",
+      "id": "0c35ea38-7059-41d2-9827-5587769d0dc6",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225145.990789agroganaderia-pesca-forestacion.svg",
+      "name": "agri",
+      "title": "Agroganadería, pesca y forestación"
+    }
+  ],
+  "id": "agroindustria_768441fd-5d81-4092-a590-1162f6735485",
+  "isopen": true,
+  "license_id": "CC-BY-4.0",
+  "license_title": "Creative Commons Attribution 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "maintainer": "Dirección de Estudios Económicos",
+  "maintainer_email": "productospecuarios@magyp.gob.ar",
+  "metadata_created": "2019-12-04T20:00:54.461302",
+  "metadata_modified": "2021-04-29T17:08:08.454220",
+  "name": "agroindustria-ganaderia---produccion-carne-bovina",
+  "notes": "Resultados económicos estimados de las principales actividades ganaderas bovinas de producción de carne que se desarrollan actualmente en el país mediante los esquemas tecnológicos predominantes en cada región ganadera.",
+  "num_resources": 1,
+  "num_tags": 13,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:07.834957",
+    "description": "",
+    "id": "b10c94e2-ade1-4a97-8c4c-b1ada7878d60",
+    "image_url": "",
+    "is_organization": true,
+    "name": "agroindustria",
+    "revision_id": "f7c3b6e9-d48f-4522-9f7a-388d805c8392",
+    "state": "active",
+    "title": "Ministerio de Agricultura, Ganadería y Pesca",
+    "type": "organization"
+  },
+  "owner_org": "b10c94e2-ade1-4a97-8c4c-b1ada7878d60",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "http://datos.agroindustria.gob.ar/dataset/768441fd-5d81-4092-a590-1162f6735485/resource/cabb1226-e84b-4b0b-a1c4-6a98f854760e",
+      "attributesDescription": "[{\"type\": \"integer\", \"description\": \"pais_id\", \"title\": \"pais_id\"}, {\"type\": \"string\", \"description\": \"pais\", \"title\": \"pais\"}, {\"type\": \"integer\", \"description\": \"provincia_id\", \"title\": \"provincia_id\"}, {\"type\": \"string\", \"description\": \"provincia\", \"title\": \"provincia\"}, {\"type\": \"integer\", \"description\": \"departamento_id\", \"title\": \"departamento_id\"}, {\"type\": \"string\", \"description\": \"departamento\", \"title\": \"departamento\"}, {\"type\": \"integer\", \"description\": \"prov_depto\", \"title\": \"prov_depto\"}, {\"type\": \"integer\", \"description\": \"a\\u0144o\", \"title\": \"a\\u0144o\"}, {\"type\": \"integer\", \"description\": \"mes\", \"title\": \"mes\"}, {\"type\": \"string\", \"description\": \"modelo\", \"title\": \"modelo\"}, {\"type\": \"string\", \"description\": \"actividad\", \"title\": \"actividad\"}, {\"type\": \"string\", \"description\": \"referencia\", \"title\": \"referencia\"}, {\"type\": \"integer\", \"description\": \"margen_bruto_($/ha)\", \"title\": \"margen_bruto_($/ha)\"}, {\"type\": \"integer\", \"description\": \"resultado_neto_($/ha)\", \"title\": \"resultado_neto_($/ha)\"}, {\"type\": \"integer\", \"description\": \"ingreso_neto_($/ha)\", \"title\": \"ingreso_neto_($/ha)\"}, {\"type\": \"integer\", \"description\": \"gastos_directos_($/ha)\", \"title\": \"gastos_directos_($/ha)\"}, {\"type\": \"integer\", \"description\": \"costos_indirectos_($/ha)\", \"title\": \"costos_indirectos_($/ha)\"}, {\"type\": \"integer\", \"description\": \"eficiencia_stock_(%)\", \"title\": \"eficiencia_stock_(%)\"}, {\"type\": \"integer\", \"description\": \"producci\\u00f3n_(kg/ha)\", \"title\": \"producci\\u00f3n_(kg/ha)\"}, {\"type\": \"integer\", \"description\": \"destete_(%)\", \"title\": \"destete_(%)\"}, {\"type\": \"integer\", \"description\": \"carga_(kg/ha)\", \"title\": \"carga_(kg/ha)\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2018-06-11T13:38:48.047815",
+      "datastore_active": false,
+      "description": "Resultados económicos estimados de las actividades ganaderas bovinas de producción de carne que se desarrollan en el país mediante los esquemas tecnológicos predominantes en cada región ganadera.",
+      "fileName": "produccion-de-carne-bovina.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "agroindustria_cabb1226-e84b-4b0b-a1c4-6a98f854760e",
+      "last_modified": "2019-03-18T19:40:15.910140",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Producción de carne bovina",
+      "package_id": "agroindustria_768441fd-5d81-4092-a590-1162f6735485",
+      "position": 0,
+      "resource_type": "file.upload",
+      "revision_id": "5a21e677-3945-4568-b533-47853cd0b1b1",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.agroindustria.gob.ar/dataset/768441fd-5d81-4092-a590-1162f6735485/resource/cabb1226-e84b-4b0b-a1c4-6a98f854760e/download/produccion-de-carne-bovina.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "3f510470-5aa4-4a99-b3eb-0ae9badda36b",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "bovinos",
+      "id": "67950875-be60-4495-a907-63c1e6b2f47b",
+      "name": "bovinos",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "carne",
+      "id": "70c3e8f3-6451-4182-a639-afd54f9cf514",
+      "name": "carne",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "carne bovina",
+      "id": "5fa79597-1485-4ffe-88e8-865c8b796969",
+      "name": "carne bovina",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "ciclo completo",
+      "id": "6cd3f289-2f04-4c03-8834-799e243595d6",
+      "name": "ciclo completo",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "cria",
+      "id": "321231c2-d9ff-42a0-936d-5cc8f0458586",
+      "name": "cria",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "destete",
+      "id": "20c8a060-9110-4fbc-bb18-38efc6e27bd4",
+      "name": "destete",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "eficiencia",
+      "id": "23bfc58f-a69b-46f9-8a28-5d8d51df0415",
+      "name": "eficiencia",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "gastos",
+      "id": "a489a424-7a28-4954-84b4-4d38f186c01b",
+      "name": "gastos",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "ingresos",
+      "id": "cf1ad8c2-e25e-40d2-9761-a8487d16ee5c",
+      "name": "ingresos",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "invernada",
+      "id": "4595f46f-4602-425c-b609-d5feaa353d34",
+      "name": "invernada",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "margen bruto",
+      "id": "8dc1562d-e43c-43e3-b059-a77d873a2d4d",
+      "name": "margen bruto",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "toro",
+      "id": "7ded858e-186d-4dce-9da2-0fe49645d3ed",
+      "name": "toro",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "vaca",
+      "id": "88bdc13b-7543-4d51-befe-a7300078fe0f",
+      "name": "vaca",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Ganadería - Producción de carne bovina",
+  "type": "dataset",
+  "url": "https://datos.agroindustria.gob.ar/dataset/produccion-carne-bovina",
+  "version": null
+}

@@ -1,0 +1,201 @@
+{
+  "author": "Ministerio de Seguridad de la Nación. Unidad de Gabinete de Asesores. Dirección Nacional de Estadística Criminal. Dirección de Relevamiento y Análisis de la información",
+  "author_email": "snic-sat@minseg.gob.ar",
+  "creator_user_id": "4720e75a-9e17-4dc3-879d-041917c7f9f9",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P1Y"
+    },
+    {
+      "key": "issued",
+      "value": "2017-07-14T00:00:00"
+    },
+    {
+      "key": "language",
+      "value": "[\"SPA\"]"
+    },
+    {
+      "key": "source",
+      "value": "Ministerio de Seguridad de la Nación. Unidad de Gabinete de Asesores. Dirección Nacional de Estadística Criminal. Dirección de Relevamiento y Análisis de la información"
+    },
+    {
+      "key": "spatial",
+      "value": "ARG"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"JUST\"]"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Justicia, seguridad y legales",
+      "display_name": "Justicia, seguridad y legales",
+      "id": "69ac5e1d-79f0-4470-9514-8a173d9ae44c",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225406.604073justicia-seguridad-legales.svg",
+      "name": "just",
+      "title": "Justicia, seguridad y legales"
+    }
+  ],
+  "id": "seguridad_1",
+  "isopen": true,
+  "license_id": "CC-BY-4.0",
+  "license_title": "Creative Commons Attribution 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "maintainer": "Ministerio de Seguridad de la Nación. Unidad de Gabinete de Asesores. Dirección Nacional de Estadística Criminal. Dirección de Relevamiento y Análisis de la información",
+  "maintainer_email": null,
+  "metadata_created": "2019-11-26T14:57:31.903650",
+  "metadata_modified": "2021-04-29T17:05:47.212870",
+  "name": "seguridad-estadisticas-criminales-republica-argentina",
+  "notes": "Cantidades de delitos informados al Sistema Nacional de Información Criminal (SNIC).",
+  "num_resources": 2,
+  "num_tags": 10,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:11.361783",
+    "description": "",
+    "id": "908fd413-5a22-40e7-9204-38ef380ae232",
+    "image_url": "",
+    "is_organization": true,
+    "name": "seguridad",
+    "revision_id": "36e7fa3c-9253-4f00-90f9-2b5a9709ea29",
+    "state": "active",
+    "title": " Ministerio de Seguridad",
+    "type": "organization"
+  },
+  "owner_org": "908fd413-5a22-40e7-9204-38ef380ae232",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "https://estadisticascriminales.minseg.gob.ar/",
+      "attributesDescription": "[{\"title\": \"anio\", \"type\": \"date\", \"description\": \"A\\u00f1o en el que ocurri\\u00f3 el delito\"}, {\"title\": \"pais_id\", \"type\": \"string\", \"description\": \"C\\u00f3digo del pa\\u00eds a nivel internacional\"}, {\"title\": \"pais_nombre\", \"type\": \"string\", \"description\": \"Sigla identificatoria del pa\\u00eds a nivel internacional\"}, {\"title\": \"codigo_delito_snic_id\", \"type\": \"integer\", \"description\": \"C\\u00f3digo de los delitos seg\\u00fan el Sistema Nacional de Informaci\\u00f3n Criminal\"}, {\"title\": \"codigo_delito_snic_nombre\", \"type\": \"string\", \"description\": \"Nombre de los delitos seg\\u00fan el Sistema Nacional de Informaci\\u00f3n Criminal\"}, {\"title\": \"cantidad_hechos\", \"type\": \"integer\", \"description\": \"Cantidad de veces que ha ocurrido el delito\", \"units\": \"Cantidad\"}, {\"title\": \"cantidad_victimas\", \"type\": \"integer\", \"description\": \"Cantidad de personas que han sufrido consecuencias por la ocurrencia del delito\", \"units\": \"Cantidad\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-07-14T00:00:00",
+      "datastore_active": false,
+      "description": "Estadísticas criminales en la República Argentina provinientes del Sistema Nacional de Información Criminal desde el año 2014.",
+      "fileName": "snic-pais.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "seguridad_1.1",
+      "last_modified": "2020-09-01T00:00:00",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Estadísticas criminales en la República Argentina (panel)",
+      "package_id": "seguridad_1",
+      "position": 0,
+      "resource_type": "file",
+      "revision_id": "9e2b2694-896a-4846-9767-9b0bbe925ca5",
+      "size": null,
+      "state": "active",
+      "url": "https://estadisticascriminales.minseg.gob.ar/datos/snic-pais.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://estadisticascriminales.minseg.gob.ar/",
+      "attributesDescription": "[{\"title\": \"indice_tiempo\", \"type\": \"date\", \"specialType\": \"time_index\", \"specialTypeDetail\": \"R/P1Y\", \"description\": \"Indice de tiempo.\"}, {\"title\": \"homicidios_dolosos_hechos\", \"type\": \"integer\", \"description\": \"Homicidios dolosos. Cantidad de hechos.\", \"id\": \"snic_1_hechos_arg\", \"units\": \"Cantidad\"}, {\"title\": \"homicidios_dolosos_tentativa_hechos\", \"type\": \"integer\", \"description\": \"Homicidios dolosos en grado de tentativa. Cantidad de hechos.\", \"id\": \"snic_2_hechos_arg\", \"units\": \"Cantidad\"}, {\"title\": \"muertes_accidentes_viales_hechos\", \"type\": \"integer\", \"description\": \"Muertes en Accidentes Viales. Cantidad de hechos.\", \"id\": \"snic_3_hechos_arg\", \"units\": \"Cantidad\"}, {\"title\": \"homicidios_culposos_hechos\", \"type\": \"integer\", \"description\": \"Homicidios culposos por otros hechos. Cantidad de hechos.\", \"id\": \"snic_4_hechos_arg\", \"units\": \"Cantidad\"}, {\"title\": \"lesiones_dolosas_hechos\", \"type\": \"integer\", \"description\": \"Lesiones dolosas. Cantidad de hechos.\", \"id\": \"snic_5_hechos_arg\", \"units\": \"Cantidad\"}, {\"title\": \"lesiones_culposas_accidentes_viales_hechos\", \"type\": \"integer\", \"description\": \"Lesiones culposas en Accidentes Viales. Cantidad de hechos.\", \"id\": \"snic_6_hechos_arg\", \"units\": \"Cantidad\"}, {\"title\": \"lesiones_culposas_otros_hechos\", \"type\": \"integer\", \"description\": \"Lesiones culposas por otros hechos. Cantidad de hechos.\", \"id\": \"snic_7_hechos_arg\", \"units\": \"Cantidad\"}, {\"title\": \"otros_delitos_contra_personas_hechos\", \"type\": \"integer\", \"description\": \"Otros delitos contra las personas. Cantidad de hechos.\", \"id\": \"snic_8_hechos_arg\", \"units\": \"Cantidad\"}, {\"title\": \"delitos_contra_honor_hechos\", \"type\": \"integer\", \"description\": \"Delitos contra el honor. Cantidad de hechos.\", \"id\": \"snic_9_hechos_arg\", \"units\": \"Cantidad\"}, {\"title\": \"violaciones_hechos\", \"type\": \"integer\", \"description\": \"Violaciones. Cantidad de hechos.\", \"id\": \"snic_10_hechos_arg\", \"units\": \"Cantidad\"}, {\"title\": \"otros_delitos_integridad_sexual_hechos\", \"type\": \"integer\", \"description\": \"Otros delitos contra la integridad sexual. Cantidad de hechos.\", \"id\": \"snic_11_hechos_arg\", \"units\": \"Cantidad\"}, {\"title\": \"delitos_contra_estado_civil_hechos\", \"type\": \"integer\", \"description\": \"Delitos contra el estado civil. Cantidad de hechos.\", \"id\": \"snic_12_hechos_arg\", \"units\": \"Cantidad\"}, {\"title\": \"amenazas_hechos\", \"type\": \"integer\", \"description\": \"Amenazas. Cantidad de hechos.\", \"id\": \"snic_13_hechos_arg\", \"units\": \"Cantidad\"}, {\"title\": \"delitos_contra_libertad_hechos\", \"type\": \"integer\", \"description\": \"Otros delitos contra la libertad. Cantidad de hechos.\", \"id\": \"snic_14_hechos_arg\", \"units\": \"Cantidad\"}, {\"title\": \"robos_no_agravados_hechos\", \"type\": \"integer\", \"description\": \"Robos (excluye los agravados por el resultado de lesiones y/o muertes). Cantidad de hechos.\", \"id\": \"snic_15_hechos_arg\", \"units\": \"Cantidad\"}, {\"title\": \"robos_no_agravados_tentativa_hechos\", \"type\": \"integer\", \"description\": \"Tentativas de robo (excluye las agravadas por el res. de lesiones y/o muerte). Cantidad de hechos.\", \"id\": \"snic_16_hechos_arg\", \"units\": \"Cantidad\"}, {\"title\": \"robos_agravados_hechos\", \"type\": \"integer\", \"description\": \"Robos agravados por el resultado de lesiones y/o muertes . Cantidad de hechos.\", \"id\": \"snic_17_hechos_arg\", \"units\": \"Cantidad\"}, {\"title\": \"robos_agravados_tentativa_hechos\", \"type\": \"integer\", \"description\": \"Tentativas de robo agravado por el resultado de lesiones y/o muertes. Cantidad de hechos.\", \"id\": \"snic_18_hechos_arg\", \"units\": \"Cantidad\"}, {\"title\": \"hurtos_hechos\", \"type\": \"integer\", \"description\": \"Hurtos. Cantidad de hechos.\", \"id\": \"snic_19_hechos_arg\", \"units\": \"Cantidad\"}, {\"title\": \"hurtos_tentativa_hechos\", \"type\": \"integer\", \"description\": \"Tentativas de hurto. Cantidad de hechos.\", \"id\": \"snic_20_hechos_arg\", \"units\": \"Cantidad\"}, {\"title\": \"otros_delitos_contra_propiedad_hechos\", \"type\": \"integer\", \"description\": \"Otros delitos contra la propiedad. Cantidad de hechos.\", \"id\": \"snic_21_hechos_arg\", \"units\": \"Cantidad\"}, {\"title\": \"delitos_contra_seguridad_publica_hechos\", \"type\": \"integer\", \"description\": \"Delitos contra la seguridad p\\u00fablica. Cantidad de hechos.\", \"id\": \"snic_22_hechos_arg\", \"units\": \"Cantidad\"}, {\"title\": \"delitos_contra_orden_publico_hechos\", \"type\": \"integer\", \"description\": \"Delitos contra el orden p\\u00fablico. Cantidad de hechos.\", \"id\": \"snic_23_hechos_arg\", \"units\": \"Cantidad\"}, {\"title\": \"delitos_contra_seguridad_nacional_hechos\", \"type\": \"integer\", \"description\": \"Delitos contra la seguridad de la naci\\u00f3n. Cantidad de hechos.\", \"id\": \"snic_24_hechos_arg\", \"units\": \"Cantidad\"}, {\"title\": \"delitos_cta_poderes_publ_orden_const_hechos\", \"type\": \"integer\", \"description\": \"Delitos contra los poderes p\\u00fablicos y el orden constitucional. Cantidad de hechos.\", \"id\": \"snic_25_hechos_arg\", \"units\": \"Cantidad\"}, {\"title\": \"delitos_contra_administracion_publica_hechos\", \"type\": \"integer\", \"description\": \"Delitos contra la administraci\\u00f3n p\\u00fablica. Cantidad de hechos.\", \"id\": \"snic_26_hechos_arg\", \"units\": \"Cantidad\"}, {\"title\": \"delitos_contra_fe_publica_hechos\", \"type\": \"integer\", \"description\": \"Delitos contra la fe p\\u00fablica. Cantidad de hechos.\", \"id\": \"snic_27_hechos_arg\", \"units\": \"Cantidad\"}, {\"title\": \"delitos_estupefacientes_hechos\", \"type\": \"integer\", \"description\": \"Ley 23.737 (estupefacientes). Cantidad de hechos.\", \"id\": \"snic_28_hechos_arg\", \"units\": \"Cantidad\"}, {\"title\": \"delitos_leyes_especiales_hechos\", \"type\": \"integer\", \"description\": \"Otros delitos previstos en leyes especiales. Cantidad de hechos.\", \"id\": \"snic_29_hechos_arg\", \"units\": \"Cantidad\"}, {\"title\": \"delitos_contra_orden_econ_fin_hechos\", \"type\": \"integer\", \"description\": \"Delitos contra el orden econ\\u00f3mico y financiero. Cantidad de hechos.\", \"id\": \"snic_32_hechos_arg\", \"units\": \"Cantidad\"}, {\"title\": \"homicidios_dolosos_victimas\", \"type\": \"integer\", \"description\": \"Homicidios dolosos. Cantidad de victimas.\", \"id\": \"snic_1_victimas_arg\", \"units\": \"Cantidad\"}, {\"title\": \"homicidios_dolosos_tentativa_victimas\", \"type\": \"integer\", \"description\": \"Homicidios dolosos en grado de tentativa. Cantidad de victimas.\", \"id\": \"snic_2_victimas_arg\", \"units\": \"Cantidad\"}, {\"title\": \"muertes_accidentes_viales_victimas\", \"type\": \"integer\", \"description\": \"Muertes en Accidentes Viales. Cantidad de victimas.\", \"id\": \"snic_3_victimas_arg\", \"units\": \"Cantidad\"}, {\"title\": \"homicidios_culposos_victimas\", \"type\": \"integer\", \"description\": \"Homicidios culposos por otros hechos. Cantidad de victimas.\", \"id\": \"snic_4_victimas_arg\", \"units\": \"Cantidad\"}, {\"title\": \"lesiones_dolosas_victimas\", \"type\": \"integer\", \"description\": \"Lesiones dolosas. Cantidad de victimas.\", \"id\": \"snic_5_victimas_arg\", \"units\": \"Cantidad\"}, {\"title\": \"lesiones_culposas_accidentes_viales_victimas\", \"type\": \"integer\", \"description\": \"Lesiones culposas en Accidentes Viales. Cantidad de victimas.\", \"id\": \"snic_6_victimas_arg\", \"units\": \"Cantidad\"}, {\"title\": \"lesiones_culposas_otros_victimas\", \"type\": \"integer\", \"description\": \"Lesiones culposas por otros hechos. Cantidad de victimas.\", \"id\": \"snic_7_victimas_arg\", \"units\": \"Cantidad\"}, {\"title\": \"otros_delitos_contra_personas_victimas\", \"type\": \"integer\", \"description\": \"Otros delitos contra las personas. Cantidad de victimas.\", \"id\": \"snic_8_victimas_arg\", \"units\": \"Cantidad\"}, {\"title\": \"delitos_contra_honor_victimas\", \"type\": \"integer\", \"description\": \"Delitos contra el honor. Cantidad de victimas.\", \"id\": \"snic_9_victimas_arg\", \"units\": \"Cantidad\"}, {\"title\": \"violaciones_victimas\", \"type\": \"integer\", \"description\": \"Violaciones. Cantidad de victimas.\", \"id\": \"snic_10_victimas_arg\", \"units\": \"Cantidad\"}, {\"title\": \"otros_delitos_integridad_sexual_victimas\", \"type\": \"integer\", \"description\": \"Otros delitos contra la integridad sexual. Cantidad de victimas.\", \"id\": \"snic_11_victimas_arg\", \"units\": \"Cantidad\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-07-14T00:00:00",
+      "datastore_active": false,
+      "description": "Estadísticas criminales en la República Argentina provenientes del Sistema Nacional de Información Criminal (2014-2018) en formato de series de tiempo.",
+      "fileName": "snic-pais-series.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "seguridad_1.2",
+      "last_modified": "2020-09-01T00:00:00",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Estadísticas criminales en la República Argentina (series)",
+      "package_id": "seguridad_1",
+      "position": 1,
+      "resource_type": "file",
+      "revision_id": "0c531716-4dc7-493c-85b8-700b4f33c6e0",
+      "size": null,
+      "state": "active",
+      "url": "http://estadisticascriminales.minseg.gob.ar/series/snic-pais-series.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "9fcb1c35-ccb6-4873-a89e-aa1021d24da8",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "Delitos",
+      "id": "4d071623-52ac-47ca-ac6e-c78eedfad015",
+      "name": "Delitos",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Homicidios dolosos",
+      "id": "58d6d31f-56b0-439b-8edc-5402d598aaea",
+      "name": "Homicidios dolosos",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Hurtos",
+      "id": "a9ad4aef-36f5-49ea-9005-3beaf413c152",
+      "name": "Hurtos",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Lesiones culposas",
+      "id": "f8acdad7-f126-4c87-a2d2-c328dfe1ffe8",
+      "name": "Lesiones culposas",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Lesiones dolosas",
+      "id": "38baa8ef-6772-4e14-996b-454aeea9d965",
+      "name": "Lesiones dolosas",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Otros delitos",
+      "id": "927dd206-3c0d-4024-abce-c3e97019c7bf",
+      "name": "Otros delitos",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Robos",
+      "id": "1210d6a8-7df1-44bd-9892-c10599cca0fd",
+      "name": "Robos",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Robos agravados",
+      "id": "b1e02e4f-a55c-4b53-b1d7-dbcab987d02a",
+      "name": "Robos agravados",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Tentativas de robo",
+      "id": "1868c920-736d-402b-b935-3880bac7441f",
+      "name": "Tentativas de robo",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Violaciones",
+      "id": "b9916e9c-9719-4987-bac0-98dd11fea50a",
+      "name": "Violaciones",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Estadísticas criminales en la República Argentina",
+  "type": "dataset",
+  "url": "https://estadisticascriminales.minseg.gob.ar/",
+  "version": null
+}

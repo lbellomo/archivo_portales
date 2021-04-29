@@ -1,0 +1,210 @@
+{
+  "author": "Coordinación de Calidad Ambiental",
+  "author_email": null,
+  "creator_user_id": "dc157489-51c6-44ce-bd63-3bd983d60778",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "eventual"
+    },
+    {
+      "key": "issued",
+      "value": "2017-06-22T14:29:23.322705"
+    },
+    {
+      "key": "modified",
+      "value": "2018-03-23T18:03:42.428510"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"ENVI\"]"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Medio ambiente",
+      "display_name": "Medio ambiente",
+      "id": "f71fe9d7-c703-43be-8d9d-af9441c326ba",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225440.964279medio-ambiente.svg",
+      "name": "envi",
+      "title": "Medio ambiente"
+    }
+  ],
+  "id": "acumar_c0908b2c-df4a-44c4-85e1-d42bc10ca660",
+  "isopen": false,
+  "license_id": "notspecified",
+  "license_title": "No se especificó la licencia",
+  "maintainer": null,
+  "maintainer_email": null,
+  "metadata_created": "2019-12-04T20:03:35.166864",
+  "metadata_modified": "2021-04-29T17:12:03.353749",
+  "name": "acumar-estaciones-medicion-cuenca-matanza-riachuelo",
+  "notes": "Datos correspondientes a las estaciones de medición de agua superficial y subterránea que conforman la red de monitoreo de ACUMAR.",
+  "num_resources": 3,
+  "num_tags": 9,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:10.306987",
+    "description": "",
+    "id": "1b6b28cd-098f-41d7-b43f-d5a01ffa8759",
+    "image_url": "",
+    "is_organization": true,
+    "name": "acumar",
+    "revision_id": "0e2a184d-b675-43ae-b2dd-e1ed0c459c04",
+    "state": "active",
+    "title": "Autoridad de Cuenca Matanza Riachuelo",
+    "type": "organization"
+  },
+  "owner_org": "1b6b28cd-098f-41d7-b43f-d5a01ffa8759",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "http://datos.acumar.gob.ar/dataset/c0908b2c-df4a-44c4-85e1-d42bc10ca660/resource/8dcb8264-818d-4746-b9d3-a8f53d6f7abf",
+      "attributesDescription": "[{\"type\": \"any\", \"description\": \"Identificaci\\u00f3n de la estaci\\u00f3n.\\n\", \"title\": \"estacion_id\"}, {\"type\": \"any\", \"description\": \"Latitud.\\n\", \"title\": \"estacion_latitud\"}, {\"type\": \"any\", \"description\": \"Longitud.\\n\", \"title\": \"estacion_longitud\"}, {\"type\": \"string\", \"description\": \"Cuerpo de agua con el que se relaciona la estaci\\u00f3n.\\n\", \"title\": \"estacion_cuerpo_de_agua\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-06-22T14:31:56.180912",
+      "datastore_active": false,
+      "description": "Detalle de la ubicación de las estaciones de medición de agua superficial que forman parte de la red de monitoreo de ACUMAR.\r\n",
+      "fileName": "estaciones-de-medicion-de-cursos-de-agua-superficiales-201706.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "acumar_8dcb8264-818d-4746-b9d3-a8f53d6f7abf",
+      "last_modified": "2018-03-22T13:54:34.351254",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Ubicación de las estaciones de medición de agua superficial",
+      "package_id": "acumar_c0908b2c-df4a-44c4-85e1-d42bc10ca660",
+      "position": 0,
+      "resource_type": null,
+      "revision_id": "d180a363-af39-4341-96b9-b6c49d2422c8",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.acumar.gob.ar/dataset/c0908b2c-df4a-44c4-85e1-d42bc10ca660/resource/8dcb8264-818d-4746-b9d3-a8f53d6f7abf/download/estaciones-de-medicion-de-cursos-de-agua-superficiales-201706.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos.acumar.gob.ar/dataset/c0908b2c-df4a-44c4-85e1-d42bc10ca660/resource/2867de7b-c585-44ae-b999-31711ec56900",
+      "attributesDescription": "[{\"type\": \"any\", \"description\": \"Identificaci\\u00f3n de los pozos.\\n\", \"title\": \"pozos_id\"}, {\"type\": \"string\", \"description\": \"Tipo de pozo: monitoreo, expotaci\\u00f3n\\n\", \"title\": \"pozos_tipo\"}, {\"type\": \"string\", \"description\": \"Acu\\u00edfero con el que se relaciona el pozo.\\n\", \"title\": \"pozos_acuifero\"}, {\"type\": \"any\", \"description\": \"Latitud.\\n\", \"title\": \"pozos_latitud\"}, {\"type\": \"any\", \"description\": \"Longitud.\\n\", \"title\": \"pozos_longitud\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-06-22T14:33:57.117973",
+      "datastore_active": false,
+      "description": "Datos correspondientes a la Base de Datos Hidrológicos que detallan la ubicación de los pozos para tomar muestras de aguas subterráneas.",
+      "fileName": "pozos-201706.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "acumar_2867de7b-c585-44ae-b999-31711ec56900",
+      "last_modified": "2018-03-22T14:08:34.164397",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Estaciones de medición de agua subterránea",
+      "package_id": "acumar_c0908b2c-df4a-44c4-85e1-d42bc10ca660",
+      "position": 1,
+      "resource_type": null,
+      "revision_id": "d180a363-af39-4341-96b9-b6c49d2422c8",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.acumar.gob.ar/dataset/c0908b2c-df4a-44c4-85e1-d42bc10ca660/resource/2867de7b-c585-44ae-b999-31711ec56900/download/pozos-201706.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos.acumar.gob.ar/dataset/c0908b2c-df4a-44c4-85e1-d42bc10ca660/resource/39e26178-4093-46a6-a4cf-c8a7512b726f",
+      "attributesDescription": "[{\"type\": \"any\", \"description\": \"Identificaci\\u00f3n de la estaci\\u00f3n.\\n\", \"title\": \"estacion_id\"}, {\"type\": \"any\", \"description\": \"Latitud.\\n\", \"title\": \"estacion_latitud\"}, {\"type\": \"any\", \"description\": \"Longitud.\", \"title\": \"estacion_longitud\"}, {\"type\": \"string\", \"description\": \"Cuerpo de agua con el que se relaciona la estaci\\u00f3n.\\n\", \"title\": \"estacion_cuerpo_de_agua\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-06-22T14:35:03.701246",
+      "datastore_active": false,
+      "description": "Detalle de la ubicación de las estaciones de medición de cuerpo de agua de la Autoridad de Cuenca Matanza Riachuelo.",
+      "fileName": "estaciones-de-medicion-de-cuerpos-de-agua-201706.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "acumar_39e26178-4093-46a6-a4cf-c8a7512b726f",
+      "last_modified": "2018-03-22T14:09:57.233882",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Estaciones de medición de cuerpos de agua",
+      "package_id": "acumar_c0908b2c-df4a-44c4-85e1-d42bc10ca660",
+      "position": 2,
+      "resource_type": null,
+      "revision_id": "d180a363-af39-4341-96b9-b6c49d2422c8",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.acumar.gob.ar/dataset/c0908b2c-df4a-44c4-85e1-d42bc10ca660/resource/39e26178-4093-46a6-a4cf-c8a7512b726f/download/estaciones-de-medicion-de-cuerpos-de-agua-201706.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "7078e086-2018-46ba-951b-bf6d9fc676fb",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "Eje Ambiental",
+      "id": "372cb546-0e92-4061-9b08-2537ffc593a2",
+      "name": "Eje Ambiental",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Monitoreo",
+      "id": "79fe9cb8-0f2f-4ca7-b200-2fcf6a3160b6",
+      "name": "Monitoreo",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "agua subterránea",
+      "id": "eab23186-562d-4c91-aa21-0c258d76d3df",
+      "name": "agua subterránea",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "agua superficial",
+      "id": "dca0fa60-2271-47e7-8955-f9794168a811",
+      "name": "agua superficial",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "calidad ambiental",
+      "id": "0c8bacb6-de31-4de0-8d71-824d70131b3d",
+      "name": "calidad ambiental",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "control",
+      "id": "233d956c-305b-41c7-ba74-03b3c09c3ac3",
+      "name": "control",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "estaciones",
+      "id": "1393dc39-6cf9-40cc-aee0-47376732ef25",
+      "name": "estaciones",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "medición",
+      "id": "7cf72dde-3a46-4056-bed3-b1c2cc3820ff",
+      "name": "medición",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "red de monitoreo",
+      "id": "ad4c53f3-d2b2-43aa-b92d-4aeabe7b3112",
+      "name": "red de monitoreo",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Estaciones de Medición de la cuenca Matanza Riachuelo",
+  "type": "dataset",
+  "url": "http://www.bdh.acumar.gov.ar/bdh3/index_contenido.php?xgap_historial=reset",
+  "version": null
+}

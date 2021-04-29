@@ -1,0 +1,157 @@
+{
+  "author": "Área de Incendios Forestales - Dirección Nacional de Desarrollo Foresto Industrial",
+  "author_email": "incendiosforestales@magyp.gob.ar",
+  "creator_user_id": "dc157489-51c6-44ce-bd63-3bd983d60778",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P1Y"
+    },
+    {
+      "key": "issued",
+      "value": "2018-12-07T21:24:37.370919"
+    },
+    {
+      "key": "language",
+      "value": "[\"spa\"]"
+    },
+    {
+      "key": "modified",
+      "value": "2019-10-24T10:45:59.218316"
+    },
+    {
+      "key": "spatial",
+      "value": "[\"ARG\"]"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"AGRI\"]"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Agroganadería, pesca y forestación",
+      "display_name": "Agroganadería, pesca y forestación",
+      "id": "0c35ea38-7059-41d2-9827-5587769d0dc6",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225145.990789agroganaderia-pesca-forestacion.svg",
+      "name": "agri",
+      "title": "Agroganadería, pesca y forestación"
+    }
+  ],
+  "id": "agroindustria_675f2ed9-d01a-43ee-9179-d021859ec045",
+  "isopen": true,
+  "license_id": "CC-BY-4.0",
+  "license_title": "Creative Commons Attribution 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "maintainer": "Área de Incendios Forestales - Dirección Nacional de Desarrollo Foresto Industrial",
+  "maintainer_email": "incendiosforestales@magyp.gob.ar",
+  "metadata_created": "2019-12-04T20:00:46.282128",
+  "metadata_modified": "2021-04-29T17:12:18.088692",
+  "name": "agroindustria-forestales---superficie-afectada-por-incendios",
+  "notes": "Estadística de incendios forestales descritos por superficie (hectárea), número de focos por departamento y por provincia.",
+  "num_resources": 2,
+  "num_tags": 4,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:07.834957",
+    "description": "",
+    "id": "b10c94e2-ade1-4a97-8c4c-b1ada7878d60",
+    "image_url": "",
+    "is_organization": true,
+    "name": "agroindustria",
+    "revision_id": "f7c3b6e9-d48f-4522-9f7a-388d805c8392",
+    "state": "active",
+    "title": "Ministerio de Agricultura, Ganadería y Pesca",
+    "type": "organization"
+  },
+  "owner_org": "b10c94e2-ade1-4a97-8c4c-b1ada7878d60",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "http://datos.agroindustria.gob.ar/dataset/675f2ed9-d01a-43ee-9179-d021859ec045/resource/e93b41d9-9e3d-4b9f-8bf9-7c3eb4833002",
+      "attributesDescription": "[{\"type\": \"integer\", \"description\": \"pais_id\", \"title\": \"pais_id\"}, {\"type\": \"string\", \"description\": \"pais\", \"title\": \"pais\"}, {\"type\": \"integer\", \"description\": \"provincia_id\", \"title\": \"provincia_id\"}, {\"type\": \"string\", \"description\": \"provincia\", \"title\": \"provincia\"}, {\"type\": \"integer\", \"description\": \"departamento_id\", \"title\": \"departamento_id\"}, {\"type\": \"string\", \"description\": \"departamento\", \"title\": \"departamento\"}, {\"type\": \"number\", \"description\": \"sup_afectada\", \"title\": \"sup_afectada\"}, {\"type\": \"string\", \"description\": \"uni_med_id\", \"title\": \"uni_med_id\"}, {\"type\": \"number\", \"description\": \"cant_focos\", \"title\": \"cant_focos\"}, {\"type\": \"integer\", \"description\": \"a\\u0144o_inicial\", \"title\": \"a\\u0144o_inicial\"}, {\"type\": \"integer\", \"description\": \"a\\u0144o_final\", \"title\": \"a\\u0144o_final\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-08-01T18:28:25.843297",
+      "datastore_active": false,
+      "description": "Estadística de incendios forestales describiendo superficie en: hectárea, número de focos por departamento y por provincia.\r\nEn cant_focos si no hay valores, se debe a la falta de datos.",
+      "fileName": "superficie-afectada-por-incendios-forestales-en-el-pais20190705.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "agroindustria_e93b41d9-9e3d-4b9f-8bf9-7c3eb4833002",
+      "last_modified": "2019-07-05T13:50:02.142002",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Superficie afectada por incendios forestales en el país",
+      "package_id": "agroindustria_675f2ed9-d01a-43ee-9179-d021859ec045",
+      "position": 0,
+      "resource_type": "file.upload",
+      "revision_id": "883f65e2-3d15-4aff-9556-fe2317572f80",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.agroindustria.gob.ar/dataset/675f2ed9-d01a-43ee-9179-d021859ec045/resource/e93b41d9-9e3d-4b9f-8bf9-7c3eb4833002/download/superficie-afectada-por-incendios-forestales-en-el-pais20190705.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://geoportal.agroindustria.gob.ar/tematizador/incendios/",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-12-05T15:29:49.850388",
+      "datastore_active": false,
+      "description": "Visualización interactiva de los focos y hectáreas afectadas por incendios forestales.",
+      "format": "web",
+      "hash": "",
+      "id": "agroindustria_2db8a96e-c2b7-4136-b870-3084766983b9",
+      "last_modified": "2019-12-05T15:29:49.850388",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Mapeo de incendios forestales",
+      "package_id": "agroindustria_675f2ed9-d01a-43ee-9179-d021859ec045",
+      "position": 1,
+      "resource_type": "documentation",
+      "revision_id": "251388cb-a048-4b24-8e96-aff8785ade03",
+      "size": null,
+      "state": "active",
+      "url": "https://geoportal.agroindustria.gob.ar/tematizador/incendios/",
+      "url_type": null
+    }
+  ],
+  "revision_id": "38062810-4de9-45cb-8034-dfc83d1684aa",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "forestal",
+      "id": "b28a94d6-df19-4c7d-908a-16e17698a9b9",
+      "name": "forestal",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "incendio",
+      "id": "a7952a30-970b-49f0-a87a-20fcf3b98692",
+      "name": "incendio",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "quemada",
+      "id": "d2813e6d-0822-45d9-87e4-4a70e0acdcc8",
+      "name": "quemada",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "superficie",
+      "id": "4ad5d183-55e4-4f37-b74b-2e71a48c2059",
+      "name": "superficie",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Forestales - Superficie afectada por incendios",
+  "type": "dataset",
+  "url": "https://datos.agroindustria.gob.ar/dataset/superficie-afectada-por-incendios-forestales-pais",
+  "version": null
+}

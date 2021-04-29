@@ -1,0 +1,140 @@
+{
+  "author": "Secretaría de Emprendedores y PyMEs",
+  "author_email": "datos.abiertos@produccion.gob.ar",
+  "creator_user_id": "4720e75a-9e17-4dc3-879d-041917c7f9f9",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P1Y"
+    },
+    {
+      "key": "issued",
+      "value": "2018-10-05T18:31:26.000Z"
+    },
+    {
+      "key": "modified",
+      "value": "2020-02-26T21:09:23.000Z"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"econ\"]"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Economía y finanzas",
+      "display_name": "Economía y finanzas",
+      "id": "60b4b03e-10a1-4d67-b984-08008a249617",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225257.200233economia-finanzas.svg",
+      "name": "econ",
+      "title": "Economía y finanzas"
+    }
+  ],
+  "id": "produccion_rJAjamBcX",
+  "isopen": true,
+  "license_id": "CC-BY-4.0",
+  "license_title": "Creative Commons Attribution 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "maintainer": null,
+  "maintainer_email": null,
+  "metadata_created": "2019-11-26T14:57:17.214983",
+  "metadata_modified": "2021-04-29T17:04:40.603275",
+  "name": "produccion-ciudades-para-emprender",
+  "notes": "El programa ayuda a fortalecer y desarrollar el ecosistema emprendedor desde el Municipio a través de un plan de trabajo articulado junto a actores locales de los sectores público, privado y de la sociedad civil tales como clubes de emprendedores, gobiernos, universidades, empresas, emprendedores y agencias de desarrollo.",
+  "num_resources": 2,
+  "num_tags": 3,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:10.463340",
+    "description": "",
+    "id": "1ca8d15b-31fc-4f09-ba09-53edd3d4cce6",
+    "image_url": "",
+    "is_organization": true,
+    "name": "produccion",
+    "revision_id": "36d8ec89-d20f-4fe1-866c-e38988d28442",
+    "state": "active",
+    "title": "Ministerio de Desarrollo Productivo",
+    "type": "organization"
+  },
+  "owner_org": "1ca8d15b-31fc-4f09-ba09-53edd3d4cce6",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "http://datos.produccion.gob.ar/dataset/ciudades-para-emprender",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2018-10-05T15:31:26",
+      "datastore_active": false,
+      "description": "Información sobre las ciudades, ejes de trabajo y aporte económico de los municipios seleccionadas en el año 2016.",
+      "format": "CSV",
+      "hash": "",
+      "id": "produccion_HJLlyVSc7",
+      "last_modified": "2019-02-05T16:28:01",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Municipios seleccionados en 2016",
+      "package_id": "produccion_rJAjamBcX",
+      "position": 0,
+      "resource_type": null,
+      "revision_id": "85a6871c-ef08-44f6-8665-62be7991dcd7",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.produccion.gob.ar/api/files/municipios-seleccionados-en-2016.csv/download",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos.produccion.gob.ar/dataset/ciudades-para-emprender",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2018-10-05T15:31:26",
+      "datastore_active": false,
+      "description": "guia.",
+      "format": "PDF",
+      "hash": "",
+      "id": "produccion_Sk5VkEr9Q",
+      "last_modified": "2019-02-05T16:28:01",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Guia datos ciudades para emprender",
+      "package_id": "produccion_rJAjamBcX",
+      "position": 1,
+      "resource_type": null,
+      "revision_id": "81d58c85-8bf0-47af-9441-cc8021b1db28",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.produccion.gob.ar/api/files/guia-datos-ciudades-para-emprender.pdf/download",
+      "url_type": null
+    }
+  ],
+  "revision_id": "c7f09786-cc72-49ae-ba02-9afee50643a1",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "Ciudades para Emprender",
+      "id": "bec3a2fb-25fb-4f7f-a917-ca93cea79eef",
+      "name": "Ciudades para Emprender",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "PyMEs",
+      "id": "5e48e296-35ca-43d6-8f07-7a3010aeb059",
+      "name": "PyMEs",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Pymes",
+      "id": "97635f98-f203-4647-ae25-9a02f74c1d28",
+      "name": "Pymes",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Ciudades para Emprender",
+  "type": "dataset",
+  "url": "http://datos.produccion.gob.ar/dataset/ciudades-para-emprender",
+  "version": null
+}

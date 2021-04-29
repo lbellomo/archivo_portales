@@ -1,0 +1,155 @@
+{
+  "author": "Ministerio de Desarrollo Social de la Nación. Secretaría de Economía Social.",
+  "author_email": "datosabiertos@desarrollosocial.gob.ar",
+  "creator_user_id": "dc157489-51c6-44ce-bd63-3bd983d60778",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P3M"
+    },
+    {
+      "key": "issued",
+      "value": "2021-04-17T16:21:12.398588"
+    },
+    {
+      "key": "language",
+      "value": "[\"spa\"]"
+    },
+    {
+      "key": "modified",
+      "value": "2021-04-26T09:28:17.186984"
+    },
+    {
+      "key": "spatial",
+      "value": "[\"ARG\"]"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"ECON\", \"SOCI\"]"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Economía y finanzas",
+      "display_name": "Economía y finanzas",
+      "id": "60b4b03e-10a1-4d67-b984-08008a249617",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225257.200233economia-finanzas.svg",
+      "name": "econ",
+      "title": "Economía y finanzas"
+    },
+    {
+      "description": "Población y sociedad",
+      "display_name": "Población y sociedad",
+      "id": "eb5df7fa-064a-4b51-89f6-af323ee1bf85",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225728.341804poblacion-sociedad.svg",
+      "name": "soci",
+      "title": "Población y sociedad"
+    }
+  ],
+  "id": "desarrollo-social_2fbfb3e2-cd0a-4d1b-ac3b-89326e8e4f9c",
+  "isopen": false,
+  "license_id": "notspecified",
+  "license_title": "No se especificó la licencia",
+  "maintainer": "Ministerio de Desarrollo Social de la Nación. Unidad de Gabinete de Asesores. Dirección General de Información Social Estratégica ",
+  "maintainer_email": "datosabiertos@desarrollosocial.gob.ar",
+  "metadata_created": "2021-04-22T14:24:39.787445",
+  "metadata_modified": "2021-04-29T17:04:09.802056",
+  "name": "desarrollo-social-montos-programa-transferencia-condicionada",
+  "notes": "Montos históricos de programas de transferencia condicionada del Ministerio de Desarrollo Social por periodo, programa y tipo",
+  "num_resources": 1,
+  "num_tags": 6,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:10.908821",
+    "description": "",
+    "id": "ef25c735-2abb-4165-94a6-a6798a103603",
+    "image_url": "",
+    "is_organization": true,
+    "name": "desarrollo-social",
+    "revision_id": "a896ab9d-5ddd-4b93-9ecf-6578b069aee8",
+    "state": "active",
+    "title": "Ministerio de Desarrollo Social",
+    "type": "organization"
+  },
+  "owner_org": "ef25c735-2abb-4165-94a6-a6798a103603",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "https://datosabiertos.desarrollosocial.gob.ar//dataset/2fbfb3e2-cd0a-4d1b-ac3b-89326e8e4f9c/resource/6778396e-75f7-4fce-ac65-97d1e5e4525e",
+      "attributesDescription": "[{\"type\": \"date\", \"description\": \"Periodo de tiempo analizado\", \"title\": \"periodo\"}, {\"type\": \"integer\", \"description\": \"Monto del  concepto\", \"title\": \"monto\"}, {\"type\": \"string\", \"description\": \"L\\u00ednea program\\u00e1tica, Argentina Trabaja o Ellas Hacen\", \"title\": \"programa\"}, {\"type\": \"integer\", \"description\": \"ID de la l\\u00ednea program\\u00e1tica\", \"title\": \"id_programa\"}, {\"type\": \"string\", \"description\": \"Si el monto corresponde al subsidio o al incentivo por producci\\u00f3n\", \"title\": \"concepto\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2021-04-17T16:23:55.396765",
+      "datastore_active": false,
+      "description": "Monto vigente de la prestación por mes.",
+      "fileName": "montos-transferencias-2021-03-31.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "desarrollo-social_6778396e-75f7-4fce-ac65-97d1e5e4525e",
+      "last_modified": "2021-04-17T16:23:55.344466",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Montos vigentes",
+      "package_id": "desarrollo-social_2fbfb3e2-cd0a-4d1b-ac3b-89326e8e4f9c",
+      "position": 0,
+      "resource_type": "file.upload",
+      "revision_id": "a419fda1-251d-4793-8ac4-3efc581771d6",
+      "size": null,
+      "state": "active",
+      "url": "https://datosabiertos.desarrollosocial.gob.ar/dataset/2fbfb3e2-cd0a-4d1b-ac3b-89326e8e4f9c/resource/6778396e-75f7-4fce-ac65-97d1e5e4525e/download/montos-transferencias-2021-03-31.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "a419fda1-251d-4793-8ac4-3efc581771d6",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "at",
+      "id": "7d1bbf56-1100-463b-92de-135adad894ea",
+      "name": "at",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "hf",
+      "id": "503b5d57-b12e-4720-aef8-cb3ce10f63a8",
+      "name": "hf",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "inclusion laboral",
+      "id": "4e1b9231-da94-41dd-b860-df57d9efc153",
+      "name": "inclusion laboral",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "inclusion social",
+      "id": "b9f9d3d1-9d35-4ce5-940f-661f67dd0bd8",
+      "name": "inclusion social",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "potenciar trabajo",
+      "id": "37a10a07-1ebb-4e21-8651-995f2568f795",
+      "name": "potenciar trabajo",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "ppc",
+      "id": "98a4b63b-c68f-43f0-9432-84a1f00864af",
+      "name": "ppc",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Montos de Programa de Transferencia Condicionada",
+  "type": "dataset",
+  "url": "https://datosabiertos.desarrollosocial.gob.ar/dataset/montos-de-programa-de-transferencia-condicionada",
+  "version": null
+}

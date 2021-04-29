@@ -1,0 +1,194 @@
+{
+  "author": "Dirección Nacional de Sanidad Animal\r\n",
+  "author_email": "desycg@senasa.gob.ar",
+  "creator_user_id": "dc157489-51c6-44ce-bd63-3bd983d60778",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P1Y"
+    },
+    {
+      "key": "issued",
+      "value": "2019-09-06T14:59:51.737717"
+    },
+    {
+      "key": "language",
+      "value": "[\"spa\"]"
+    },
+    {
+      "key": "modified",
+      "value": "2019-10-24T10:36:06.642417"
+    },
+    {
+      "key": "source",
+      "value": "SENASA"
+    },
+    {
+      "key": "spatial",
+      "value": "[\"ARG\"]"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"AGRI\"]"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Agroganadería, pesca y forestación",
+      "display_name": "Agroganadería, pesca y forestación",
+      "id": "0c35ea38-7059-41d2-9827-5587769d0dc6",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225145.990789agroganaderia-pesca-forestacion.svg",
+      "name": "agri",
+      "title": "Agroganadería, pesca y forestación"
+    }
+  ],
+  "id": "agroindustria_f68d3d04-2fc1-495c-a22a-8b3eb3a0cf51",
+  "isopen": true,
+  "license_id": "CC-BY-4.0",
+  "license_title": "Creative Commons Attribution 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "maintainer": "Dirección de Ejecución Sanitaria y Control de Gestión",
+  "maintainer_email": "desycg@senasa.gob.ar",
+  "metadata_created": "2019-12-04T21:12:48.490265",
+  "metadata_modified": "2021-04-29T17:06:46.892740",
+  "name": "agroindustria-senasa---existencias-bovinas-tambos",
+  "notes": "Cantidad de Bovinos por categoría etaria en unidades productivas que declaran realizar la explotación de tambo bovino. Datos al 31 de marzo de cada año a partir del año 2008\r\n",
+  "num_resources": 1,
+  "num_tags": 12,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:07.834957",
+    "description": "",
+    "id": "b10c94e2-ade1-4a97-8c4c-b1ada7878d60",
+    "image_url": "",
+    "is_organization": true,
+    "name": "agroindustria",
+    "revision_id": "f7c3b6e9-d48f-4522-9f7a-388d805c8392",
+    "state": "active",
+    "title": "Ministerio de Agricultura, Ganadería y Pesca",
+    "type": "organization"
+  },
+  "owner_org": "b10c94e2-ade1-4a97-8c4c-b1ada7878d60",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "http://datos.agroindustria.gob.ar/dataset/f68d3d04-2fc1-495c-a22a-8b3eb3a0cf51/resource/97fda4bb-cbbb-40c3-95fa-e9ad8057a66f",
+      "attributesDescription": "[{\"type\": \"integer\", \"description\": \"A\\u00f1o en que se determina el stock\", \"title\": \"anio\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-09-06T12:06:26.120450",
+      "datastore_active": false,
+      "description": "Cantidad de bovinos en unidades productivas que declaran realizar la explotación de tambo bovino. Datos al 31 de marzo de cada año desde 2008.\r\n",
+      "fileName": "Existencias_bovinas_tambo.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "agroindustria_97fda4bb-cbbb-40c3-95fa-e9ad8057a66f",
+      "last_modified": "2019-09-06T12:06:26.120450",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Existencias Bovinas en Tambos",
+      "package_id": "agroindustria_f68d3d04-2fc1-495c-a22a-8b3eb3a0cf51",
+      "position": 0,
+      "resource_type": "file.upload",
+      "revision_id": "32b97b4d-aec8-40e1-a184-84012ed44650",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.agroindustria.gob.ar/dataset/f68d3d04-2fc1-495c-a22a-8b3eb3a0cf51/resource/97fda4bb-cbbb-40c3-95fa-e9ad8057a66f/download/existencias_bovinos_tambo.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "1e267364-41d3-4d0d-990a-224ee998a6f4",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "buey",
+      "id": "ae01570d-e88c-4d89-aa4e-9bbcc1386c43",
+      "name": "buey",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "existencias ganaderas",
+      "id": "e18a5c54-2b6e-4376-a2f1-fca785adb153",
+      "name": "existencias ganaderas",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "novillito",
+      "id": "341645da-c630-4f26-b2f4-cf58d9c3701d",
+      "name": "novillito",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "novillo",
+      "id": "b96937cc-c66b-4f15-b1c3-96f5a2ffe392",
+      "name": "novillo",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "stock ganadero",
+      "id": "f4f748d1-f9ca-46c0-8b9c-68c439d14a23",
+      "name": "stock ganadero",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "tambo",
+      "id": "282a9b3a-be5d-4409-a8d5-db43c2431231",
+      "name": "tambo",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "tenero",
+      "id": "8429eb9f-72ae-4450-a72b-cb4920b5a307",
+      "name": "tenero",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "ternera",
+      "id": "6478a20e-77dd-4199-9cc6-044d0812df52",
+      "name": "ternera",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "torito",
+      "id": "71087238-b1d3-400e-b0fc-7304ccc60c2a",
+      "name": "torito",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "toro",
+      "id": "7ded858e-186d-4dce-9da2-0fe49645d3ed",
+      "name": "toro",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "vaca",
+      "id": "88bdc13b-7543-4d51-befe-a7300078fe0f",
+      "name": "vaca",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "vaquillona",
+      "id": "d0a5f205-2554-418c-a286-953123ec0ddd",
+      "name": "vaquillona",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "SENASA - Existencias Bovinas en Tambos",
+  "type": "dataset",
+  "url": "https://datos.agroindustria.gob.ar/dataset/existencias-bovinas-en-tambos",
+  "version": null
+}

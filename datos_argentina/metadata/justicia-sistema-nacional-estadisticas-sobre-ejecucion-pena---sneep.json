@@ -1,0 +1,219 @@
+{
+  "author": "Ministerio de Justicia y Derechos Humanos. Secretaría de Justicia. Subsecretaría de Justicia y Política Criminal. Dirección Nacional de Política Criminal en Materia de Justicia y Legislación Penal",
+  "author_email": "holaeta@jus.gov.ar",
+  "creator_user_id": "dc157489-51c6-44ce-bd63-3bd983d60778",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P1Y"
+    },
+    {
+      "key": "issued",
+      "value": "2016-07-14T14:48:34.766352"
+    },
+    {
+      "key": "modified",
+      "value": "2021-02-04T14:48:26.993158"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"JUST\"]"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Justicia, seguridad y legales",
+      "display_name": "Justicia, seguridad y legales",
+      "id": "69ac5e1d-79f0-4470-9514-8a173d9ae44c",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225406.604073justicia-seguridad-legales.svg",
+      "name": "just",
+      "title": "Justicia, seguridad y legales"
+    }
+  ],
+  "id": "justicia_6c03af36-6a1d-4306-b2a8-dd39ad73afb3",
+  "isopen": true,
+  "license_id": "CC-BY-4.0",
+  "license_title": "Creative Commons Attribution 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "maintainer": "Ministerio de Justicia y Derechos Humanos. Secretaría de Justicia. Subsecretaría de Justicia y Política Criminal. Dirección Nacional de Política Criminal en Materia de Justicia y Legislación Penal.",
+  "maintainer_email": "holaeta@jus.gov.ar",
+  "metadata_created": "2019-12-04T20:03:04.575209",
+  "metadata_modified": "2021-04-29T17:06:19.756654",
+  "name": "justicia-sistema-nacional-estadisticas-sobre-ejecucion-pena---sneep",
+  "notes": "En este conjunto de datos se detalla información recopilada en el censo realizado sobre el total de la población detenida al día 31 de diciembre de cada año, en cada establecimiento de la República Argentina. La unidad de análisis son las personas alojadas en dichos establecimientos.\r\n\r\n",
+  "num_resources": 3,
+  "num_tags": 11,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:10.018297",
+    "description": "",
+    "id": "06b380f8-888f-43c0-8367-16a7ddf47d4f",
+    "image_url": "",
+    "is_organization": true,
+    "name": "justicia",
+    "revision_id": "637d68f0-a296-4d39-b846-4370270a96a1",
+    "state": "active",
+    "title": " Ministerio de Justicia y Derechos Humanos",
+    "type": "organization"
+  },
+  "owner_org": "06b380f8-888f-43c0-8367-16a7ddf47d4f",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "http://datos.jus.gob.ar/dataset/6c03af36-6a1d-4306-b2a8-dd39ad73afb3/resource/af0a64da-6d06-45cf-a86c-de00f09221d8",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2018-10-10T12:30:00.117497",
+      "datastore_active": false,
+      "description": "Este recurso contiene el censo del Sistema Nacional de Estadísticas sobre Ejecución de la Pena correspondiente al año 2019.",
+      "format": "CSV",
+      "hash": "",
+      "id": "justicia_af0a64da-6d06-45cf-a86c-de00f09221d8",
+      "last_modified": "2021-01-12T14:59:52.499095",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Sistema Nacional de Estadísticas sobre Ejecución de la Pena - SNEEP - 2019",
+      "package_id": "justicia_6c03af36-6a1d-4306-b2a8-dd39ad73afb3",
+      "position": 0,
+      "resource_type": null,
+      "revision_id": "08c69df0-c437-4cf0-bac3-745c6dcbbbd1",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.jus.gob.ar/dataset/6c03af36-6a1d-4306-b2a8-dd39ad73afb3/resource/af0a64da-6d06-45cf-a86c-de00f09221d8/download/sneep-2019.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos.jus.gob.ar/dataset/6c03af36-6a1d-4306-b2a8-dd39ad73afb3/resource/5fd7ce53-c741-4837-9850-d2879fec8a6b",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2018-04-03T16:02:30.118061",
+      "datastore_active": false,
+      "description": "Este recurso contiene los censos del Sistema Nacional de Ejecución de la Pena - SNEEP correspondientes a los años 2002 a 2019 organizados en archivos anuales.",
+      "format": "ZIP",
+      "hash": "",
+      "id": "justicia_5fd7ce53-c741-4837-9850-d2879fec8a6b",
+      "last_modified": "2021-01-12T15:37:49.200204",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Sistema Nacional de Estadísticas sobre Ejecución de la Pena - SNEEP - 2002-2019 - por año",
+      "package_id": "justicia_6c03af36-6a1d-4306-b2a8-dd39ad73afb3",
+      "position": 1,
+      "resource_type": null,
+      "revision_id": "168afe62-6c5c-425e-839e-e18341e5f328",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.jus.gob.ar/dataset/6c03af36-6a1d-4306-b2a8-dd39ad73afb3/resource/5fd7ce53-c741-4837-9850-d2879fec8a6b/download/sneep-2002-2019.zip",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos.jus.gob.ar/dataset/6c03af36-6a1d-4306-b2a8-dd39ad73afb3/resource/67037a77-9c8d-42ea-a5e6-4f87a19de5c3",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-02-27T10:33:31.686150",
+      "datastore_active": false,
+      "description": "Este recurso contiene los censos del Sistema Nacional de Ejecución de la Pena - SNEEP correspondientes a los años 2002 a 2019 organizados en un archivo unificado.",
+      "format": "ZIP",
+      "hash": "",
+      "id": "justicia_67037a77-9c8d-42ea-a5e6-4f87a19de5c3",
+      "last_modified": "2021-01-12T17:30:14.454321",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Sistema Nacional de Estadísticas sobre Ejecución de la Pena - SNEEP - 2002-2019 - unificado",
+      "package_id": "justicia_6c03af36-6a1d-4306-b2a8-dd39ad73afb3",
+      "position": 2,
+      "resource_type": null,
+      "revision_id": "168afe62-6c5c-425e-839e-e18341e5f328",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.jus.gob.ar/dataset/6c03af36-6a1d-4306-b2a8-dd39ad73afb3/resource/67037a77-9c8d-42ea-a5e6-4f87a19de5c3/download/sneep-unificado-2002-2019.zip",
+      "url_type": null
+    }
+  ],
+  "revision_id": "fc340219-3be4-4416-992a-2591548d23ee",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "Política Criminal",
+      "id": "43eece58-5aa4-4acd-a3a1-822e9eb89e28",
+      "name": "Política Criminal",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "SNEEP",
+      "id": "e1255f46-fb17-4089-a74a-f7009720277a",
+      "name": "SNEEP",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "SPF",
+      "id": "7618562a-6775-4d62-bc4b-dfb9d94178f7",
+      "name": "SPF",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Sistema Penitenciario",
+      "id": "1f260f98-f504-4686-87eb-92b0a89c7a20",
+      "name": "Sistema Penitenciario",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "censos",
+      "id": "c02ca9d7-89d2-48a2-bc79-8cbe30cc93e6",
+      "name": "censos",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "cárceles",
+      "id": "1c5e355d-7d9f-481c-a95b-acf749ffc18d",
+      "name": "cárceles",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "ejecución de la pena",
+      "id": "d0d1e042-fd75-490b-874f-23e941673b43",
+      "name": "ejecución de la pena",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "establecimientos penitenciarios",
+      "id": "ba9bd84f-4efc-4900-9147-4a19bd145fbb",
+      "name": "establecimientos penitenciarios",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "personas privadas de la libertad",
+      "id": "1235c456-7312-4e00-8a82-5770231f8eec",
+      "name": "personas privadas de la libertad",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "presos",
+      "id": "012c5156-b97f-4ef6-9249-99294877df32",
+      "name": "presos",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "prisiones",
+      "id": "cb993e2c-ec16-4972-afa2-5f445144d87c",
+      "name": "prisiones",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Sistema Nacional de Estadísticas sobre Ejecución de la Pena - SNEEP",
+  "type": "dataset",
+  "url": "https://www2.jus.gov.ar/dnpc",
+  "version": null
+}

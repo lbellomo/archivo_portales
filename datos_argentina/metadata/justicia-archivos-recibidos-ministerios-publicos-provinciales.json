@@ -1,0 +1,488 @@
+{
+  "author": "Instituciones firmantes del Convenio Interjurisdiccional de Datos Abiertos de Justicia",
+  "author_email": "justiciaabierta@jus.gov.ar",
+  "creator_user_id": "dc157489-51c6-44ce-bd63-3bd983d60778",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P1M"
+    },
+    {
+      "key": "issued",
+      "value": "2019-04-16T17:17:58.776990"
+    },
+    {
+      "key": "modified",
+      "value": "2021-04-20T12:02:37.852191"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"JUST\"]"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Justicia, seguridad y legales",
+      "display_name": "Justicia, seguridad y legales",
+      "id": "69ac5e1d-79f0-4470-9514-8a173d9ae44c",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225406.604073justicia-seguridad-legales.svg",
+      "name": "just",
+      "title": "Justicia, seguridad y legales"
+    }
+  ],
+  "id": "justicia_ba515c43-5eb3-4073-9056-6bdc54ddb974",
+  "isopen": true,
+  "license_id": "CC-BY-4.0",
+  "license_title": "Creative Commons Attribution 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "maintainer": "Instituciones firmantes del Convenio Interjurisdiccional de Datos Abiertos de Justicia",
+  "maintainer_email": "justiciaabierta@jus.gov.ar",
+  "metadata_created": "2019-12-04T20:02:21.715461",
+  "metadata_modified": "2021-04-29T17:10:16.294286",
+  "name": "justicia-archivos-recibidos-ministerios-publicos-provinciales",
+  "notes": "En este conjunto de datos se presentan los archivos recibidos de los ministerios públicos provinciales según lo establecido en el \"Protocolo de Implementación del Convenio Interjurisdiccional de Datos Abiertos de Justicia versión II\", (tabla1, tabla1.1, tabla2 y tabla2.1) y número de orden de la tabla dentro del envío.",
+  "num_resources": 8,
+  "num_tags": 33,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:10.018297",
+    "description": "",
+    "id": "06b380f8-888f-43c0-8367-16a7ddf47d4f",
+    "image_url": "",
+    "is_organization": true,
+    "name": "justicia",
+    "revision_id": "637d68f0-a296-4d39-b846-4370270a96a1",
+    "state": "active",
+    "title": " Ministerio de Justicia y Derechos Humanos",
+    "type": "organization"
+  },
+  "owner_org": "06b380f8-888f-43c0-8367-16a7ddf47d4f",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "http://datos.jus.gob.ar/dataset/ba515c43-5eb3-4073-9056-6bdc54ddb974/resource/dc116c8d-7af5-4815-b7ed-968f43e3d709",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2021-01-20T15:23:52.693889",
+      "datastore_active": false,
+      "description": "Este recurso es un índice de los archivos recibidos de los ministerios públicos en 2021 en el marco del Convenio Interjurisdiccional de Datos Abiertos de Justicia.",
+      "format": "CSV",
+      "hash": "",
+      "id": "justicia_dc116c8d-7af5-4815-b7ed-968f43e3d709",
+      "last_modified": "2021-04-20T08:59:06.010845",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Índice de archivos recibidos de los ministerios públicos provinciales 2021",
+      "package_id": "justicia_ba515c43-5eb3-4073-9056-6bdc54ddb974",
+      "position": 0,
+      "resource_type": null,
+      "revision_id": "10f21cfa-1d87-4c45-855f-ca9662bb13ee",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.jus.gob.ar/dataset/ba515c43-5eb3-4073-9056-6bdc54ddb974/resource/dc116c8d-7af5-4815-b7ed-968f43e3d709/download/indice-archivos-recibidos-ministerios-publicos-2021.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos.jus.gob.ar/dataset/ba515c43-5eb3-4073-9056-6bdc54ddb974/resource/15ef3bb3-2b0f-4794-834c-046c5e689b26",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2020-01-21T10:35:55.516633",
+      "datastore_active": false,
+      "description": "Este recurso es un índice de los archivos recibidos de los ministerios públicos en 2020 en el marco del Convenio Interjurisdiccional de Datos Abiertos de Justicia.",
+      "format": "CSV",
+      "hash": "",
+      "id": "justicia_15ef3bb3-2b0f-4794-834c-046c5e689b26",
+      "last_modified": "2021-01-20T15:20:49.650284",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Índice de archivos recibidos de los ministerios públicos provinciales 2020",
+      "package_id": "justicia_ba515c43-5eb3-4073-9056-6bdc54ddb974",
+      "position": 1,
+      "resource_type": null,
+      "revision_id": "cd292374-382a-4b76-be1f-39d3a24b424e",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.jus.gob.ar/dataset/ba515c43-5eb3-4073-9056-6bdc54ddb974/resource/15ef3bb3-2b0f-4794-834c-046c5e689b26/download/indice-archivos-recibidos-ministerios-publicos-2020.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos.jus.gob.ar/dataset/ba515c43-5eb3-4073-9056-6bdc54ddb974/resource/159bd196-c0ed-4808-a51a-c8e1d8bd19c0",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-04-22T12:06:25.632612",
+      "datastore_active": false,
+      "description": "Este recurso es un índice de los archivos recibidos de los ministerios públicos en 2019 en el marco del Convenio Interjurisdiccional de Datos Abiertos de Justicia",
+      "format": "CSV",
+      "hash": "",
+      "id": "justicia_159bd196-c0ed-4808-a51a-c8e1d8bd19c0",
+      "last_modified": "2020-01-10T15:54:46.837141",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Índice de archivos recibidos de los ministerios públicos provinciales 2019",
+      "package_id": "justicia_ba515c43-5eb3-4073-9056-6bdc54ddb974",
+      "position": 2,
+      "resource_type": null,
+      "revision_id": "cd292374-382a-4b76-be1f-39d3a24b424e",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.jus.gob.ar/dataset/ba515c43-5eb3-4073-9056-6bdc54ddb974/resource/159bd196-c0ed-4808-a51a-c8e1d8bd19c0/download/indice-archivos-recibidos-ministerios-publicos-2019.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos.jus.gob.ar/dataset/ba515c43-5eb3-4073-9056-6bdc54ddb974/resource/d075f6ab-5ed9-4f62-8b72-3c75dd16019c",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-04-22T11:43:48.133719",
+      "datastore_active": false,
+      "description": "Este recurso es un índice de los archivos recibidos de los ministerios públicos en 2018 en el marco del Convenio Interjurisdiccional de Datos Abiertos de Justicia",
+      "format": "CSV",
+      "hash": "",
+      "id": "justicia_d075f6ab-5ed9-4f62-8b72-3c75dd16019c",
+      "last_modified": "2019-06-21T14:10:33.475852",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Índice de archivos recibidos de los ministerios públicos provinciales 2018",
+      "package_id": "justicia_ba515c43-5eb3-4073-9056-6bdc54ddb974",
+      "position": 3,
+      "resource_type": null,
+      "revision_id": "cd292374-382a-4b76-be1f-39d3a24b424e",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.jus.gob.ar/dataset/ba515c43-5eb3-4073-9056-6bdc54ddb974/resource/d075f6ab-5ed9-4f62-8b72-3c75dd16019c/download/indice-archivos-recibidos-ministerios-publicos-2018.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos.jus.gob.ar/dataset/ba515c43-5eb3-4073-9056-6bdc54ddb974/resource/8e639fea-9a87-478d-90ca-7bc985a15a43",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2020-01-21T10:22:29.766711",
+      "datastore_active": false,
+      "description": "Contiene los archivos recibidos de los ministerios públicos en 2020. El nombre de cada archivo corresponde al nombre de provincia, institución, fecha de envío, nombre de las tablas remitidas según el \"Protocolo de Implementación del Convenio Interjurisdiccional de Datos Abiertos de Justicia versión II\", (tabla1, tabla1.1, tabla2 y tabla2.1) y número de orden de la tabla dentro del envío.",
+      "format": "ZIP",
+      "hash": "",
+      "id": "justicia_8e639fea-9a87-478d-90ca-7bc985a15a43",
+      "last_modified": "2021-01-20T15:20:22.020557",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Archivos recibidos de los ministerios públicos provinciales 2020",
+      "package_id": "justicia_ba515c43-5eb3-4073-9056-6bdc54ddb974",
+      "position": 4,
+      "resource_type": null,
+      "revision_id": "cd292374-382a-4b76-be1f-39d3a24b424e",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.jus.gob.ar/dataset/ba515c43-5eb3-4073-9056-6bdc54ddb974/resource/8e639fea-9a87-478d-90ca-7bc985a15a43/download/mp-archivos-recibidos-2020.zip",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos.jus.gob.ar/dataset/ba515c43-5eb3-4073-9056-6bdc54ddb974/resource/9410855b-7e06-412e-8211-c5bd2bad19b9",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-04-22T12:23:35.366649",
+      "datastore_active": false,
+      "description": "Contiene los archivos recibidos de los ministerios públicos en 2019. El nombre de cada archivo corresponde al nombre de provincia, institución, fecha de envío, nombre de las tablas remitidas según el \"Protocolo de Implementación del Convenio Interjurisdiccional de Datos Abiertos de Justicia versión II\", (tabla1, tabla1.1, tabla2 y tabla2.1) y número de orden de la tabla dentro del envío.",
+      "format": "ZIP",
+      "hash": "",
+      "id": "justicia_9410855b-7e06-412e-8211-c5bd2bad19b9",
+      "last_modified": "2020-01-10T15:59:43.691579",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Archivos recibidos de los ministerios públicos provinciales 2019",
+      "package_id": "justicia_ba515c43-5eb3-4073-9056-6bdc54ddb974",
+      "position": 5,
+      "resource_type": null,
+      "revision_id": "cd292374-382a-4b76-be1f-39d3a24b424e",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.jus.gob.ar/dataset/ba515c43-5eb3-4073-9056-6bdc54ddb974/resource/9410855b-7e06-412e-8211-c5bd2bad19b9/download/mp-archivos-recibidos-2019.zip",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos.jus.gob.ar/dataset/ba515c43-5eb3-4073-9056-6bdc54ddb974/resource/242ff20b-6dbf-41cc-a100-4fd2e37dd3e6",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-04-22T09:18:15.756546",
+      "datastore_active": false,
+      "description": "Contiene los archivos recibidos de los ministerios públicos en 2018. El nombre de cada archivo corresponde al nombre de provincia, institución, fecha de envío, nombre de las tablas remitidas según el \"Protocolo de Implementación del Convenio Interjurisdiccional de Datos Abiertos de Justicia versión II\", (tabla1, tabla1.1, tabla2 y tabla2.1) y número de orden de la tabla dentro del envío.",
+      "format": "ZIP",
+      "hash": "",
+      "id": "justicia_242ff20b-6dbf-41cc-a100-4fd2e37dd3e6",
+      "last_modified": "2019-06-21T12:04:52.416026",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Archivos recibidos de los ministerios públicos provinciales 2018",
+      "package_id": "justicia_ba515c43-5eb3-4073-9056-6bdc54ddb974",
+      "position": 6,
+      "resource_type": null,
+      "revision_id": "cd292374-382a-4b76-be1f-39d3a24b424e",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.jus.gob.ar/dataset/ba515c43-5eb3-4073-9056-6bdc54ddb974/resource/242ff20b-6dbf-41cc-a100-4fd2e37dd3e6/download/mp-archivos-recibidos-2018.zip",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos.jus.gob.ar/dataset/ba515c43-5eb3-4073-9056-6bdc54ddb974/resource/325ff764-2815-49d2-9562-d9a41cd534e6",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2021-01-20T15:22:08.713807",
+      "datastore_active": false,
+      "description": "Contiene los archivos recibidos de los ministerios públicos en 2021. El nombre de cada archivo corresponde al nombre de provincia, institución, fecha de envío, nombre de las tablas remitidas según el \"Protocolo de Implementación del Convenio Interjurisdiccional de Datos Abiertos de Justicia versión II\", (tabla1, tabla1.1, tabla2 y tabla2.1) y número de orden de la tabla dentro del envío.",
+      "format": "ZIP",
+      "hash": "",
+      "id": "justicia_325ff764-2815-49d2-9562-d9a41cd534e6",
+      "last_modified": "2021-04-20T09:02:37.825761",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Archivos recibidos de los ministerios públicos provinciales 2021",
+      "package_id": "justicia_ba515c43-5eb3-4073-9056-6bdc54ddb974",
+      "position": 7,
+      "resource_type": null,
+      "revision_id": "10f21cfa-1d87-4c45-855f-ca9662bb13ee",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.jus.gob.ar/dataset/ba515c43-5eb3-4073-9056-6bdc54ddb974/resource/325ff764-2815-49d2-9562-d9a41cd534e6/download/mp-archivos-recibidos-2021.zip",
+      "url_type": null
+    }
+  ],
+  "revision_id": "efed9f65-6352-445e-b0bd-d411369bb809",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "Buenos Aires",
+      "id": "a64d8bda-865a-4f0d-ba0c-5cc2adfda147",
+      "name": "Buenos Aires",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Catamarca",
+      "id": "390c55ad-fe7d-4606-8f08-85269de97b38",
+      "name": "Catamarca",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Chaco",
+      "id": "e3286e11-fc9b-4fd8-a16a-228328eac19f",
+      "name": "Chaco",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Chubut",
+      "id": "31b31a0b-5ecb-4c09-a842-53ba71128475",
+      "name": "Chubut",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Ciudad Autónoma de Buenos Aires",
+      "id": "942f81b6-f4e9-4143-a43e-afa4b4fa2673",
+      "name": "Ciudad Autónoma de Buenos Aires",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Corrientes",
+      "id": "f2038a5f-e254-4f51-8f4f-069ae50c7ddb",
+      "name": "Corrientes",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Córdoba",
+      "id": "60077799-c6f2-42ff-a94f-7ba128ddf67a",
+      "name": "Córdoba",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Entre Ríos",
+      "id": "edde64f2-98b1-4e29-8908-7684437a439b",
+      "name": "Entre Ríos",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Formosa",
+      "id": "462e3b6c-3655-4e06-808a-0489ab0d59e4",
+      "name": "Formosa",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Instituciones de Justicia",
+      "id": "4530aca9-51ff-4bec-ad01-7560402f81e5",
+      "name": "Instituciones de Justicia",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Jujuy",
+      "id": "e840e4eb-4243-4d8d-bf13-b8a068f04e1a",
+      "name": "Jujuy",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "La Pampa",
+      "id": "964ccb10-2ecc-4944-a4c2-7c5d705b46c2",
+      "name": "La Pampa",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "La Rioja",
+      "id": "467b4f8d-c7d4-4a22-9241-133e5e00a8ae",
+      "name": "La Rioja",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Mendoza",
+      "id": "57a86743-2e26-4f17-8ae7-760d624e890a",
+      "name": "Mendoza",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Misiones",
+      "id": "88b01243-8df4-423f-a7e7-c816d3c59cfc",
+      "name": "Misiones",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Neuquén",
+      "id": "0b661e1b-df10-43f5-bc27-2b87789ffc7d",
+      "name": "Neuquén",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Río Negro",
+      "id": "b10d429c-76ed-499e-a162-d4f49749d5b1",
+      "name": "Río Negro",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Salta",
+      "id": "75690a55-6ca2-4952-ad7f-fa5b6ed4f22b",
+      "name": "Salta",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "San Juan",
+      "id": "7b962c68-4dc2-4cad-81cb-7e0a90e1fdd0",
+      "name": "San Juan",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "San Luis",
+      "id": "4087bdaf-26bb-414f-9169-774a945962f3",
+      "name": "San Luis",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Santa Cruz",
+      "id": "3a0df385-9ffa-4459-89ea-6d34d051dd98",
+      "name": "Santa Cruz",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Santa Fe",
+      "id": "a0d13c88-5e93-4639-abd6-639c3eba7100",
+      "name": "Santa Fe",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Santiago del Estero",
+      "id": "ed368a40-734b-40e7-be46-e8d526d1b88b",
+      "name": "Santiago del Estero",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Tierra del Fuego",
+      "id": "b3233b60-f44f-40e2-9aa4-9b77a35437e6",
+      "name": "Tierra del Fuego",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Tucumán",
+      "id": "f09d9c12-9a5e-49eb-b1fe-ff617fdb9181",
+      "name": "Tucumán",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "actos procesales",
+      "id": "6eb52fbb-0cf3-4d6d-92d9-ab05922fc55c",
+      "name": "actos procesales",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "casos",
+      "id": "f00ed300-2cf5-4306-82ad-126107029807",
+      "name": "casos",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "causas",
+      "id": "59c6dbe6-52eb-4bea-8262-aa6ba12260a0",
+      "name": "causas",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "código penal",
+      "id": "91af4c28-4671-4952-9136-99efd9efa5f5",
+      "name": "código penal",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "delitos",
+      "id": "0a650bd4-0c75-4525-ba11-087d486e4d7c",
+      "name": "delitos",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "instituciones",
+      "id": "946ce69f-0784-4f43-a887-52c604bdf71e",
+      "name": "instituciones",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "investigación penal praparatoria",
+      "id": "467bd706-ecc8-4b3f-8bd4-0124b0eac909",
+      "name": "investigación penal praparatoria",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "ministerios públicos",
+      "id": "b28eff13-cb54-4841-978d-2c846fbf7fdd",
+      "name": "ministerios públicos",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Archivos recibidos de los ministerios públicos provinciales",
+  "type": "dataset",
+  "url": "http://datos.jus.gob.ar/dataset/archivos-recibidos-de-los-ministerios-publicos-provinciales",
+  "version": null
+}

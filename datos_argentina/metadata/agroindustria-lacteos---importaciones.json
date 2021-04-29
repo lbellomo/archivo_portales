@@ -1,0 +1,169 @@
+{
+  "author": "Ministerio de Agricultura, Ganadería y Pesca",
+  "author_email": "estadisticaslecheria@magyp.gob.ar",
+  "creator_user_id": "dc157489-51c6-44ce-bd63-3bd983d60778",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P3M"
+    },
+    {
+      "key": "issued",
+      "value": "2019-12-26T15:06:57.304616"
+    },
+    {
+      "key": "language",
+      "value": "[\"spa\"]"
+    },
+    {
+      "key": "modified",
+      "value": "2019-12-26T15:06:57.304616"
+    },
+    {
+      "key": "spatial",
+      "value": "[\"ARG\"]"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"AGRI\"]"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Agroganadería, pesca y forestación",
+      "display_name": "Agroganadería, pesca y forestación",
+      "id": "0c35ea38-7059-41d2-9827-5587769d0dc6",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225145.990789agroganaderia-pesca-forestacion.svg",
+      "name": "agri",
+      "title": "Agroganadería, pesca y forestación"
+    }
+  ],
+  "id": "agroindustria_a55f6b85-b5af-4366-9fa9-1f5744fdb45d",
+  "isopen": true,
+  "license_id": "CC-BY-4.0",
+  "license_title": "Creative Commons Attribution 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "maintainer": "Dirección Nacional Láctea",
+  "maintainer_email": "estadisticaslecheria@magyp.gob.ar",
+  "metadata_created": "2020-01-13T14:41:57.535401",
+  "metadata_modified": "2021-04-29T17:06:24.554840",
+  "name": "agroindustria-lacteos---importaciones",
+  "notes": "Datos de importaciones de productos lácteos.",
+  "num_resources": 1,
+  "num_tags": 9,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:07.834957",
+    "description": "",
+    "id": "b10c94e2-ade1-4a97-8c4c-b1ada7878d60",
+    "image_url": "",
+    "is_organization": true,
+    "name": "agroindustria",
+    "revision_id": "f7c3b6e9-d48f-4522-9f7a-388d805c8392",
+    "state": "active",
+    "title": "Ministerio de Agricultura, Ganadería y Pesca",
+    "type": "organization"
+  },
+  "owner_org": "b10c94e2-ade1-4a97-8c4c-b1ada7878d60",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "http://datos.agroindustria.gob.ar/dataset/a55f6b85-b5af-4366-9fa9-1f5744fdb45d/resource/5ea81da1-7686-48d5-95fe-5cbbbe995952",
+      "attributesDescription": "[{\"specialType\": \"time_index\", \"specialTypeDetail\": \"R/P1Y\", \"type\": \"date\", \"title\": \"fecha\"}, {\"units\": \"Dolares\", \"id\": \"AGRO_0377\", \"type\": \"number\", \"description\": \"Cantidad de d\\u00f3lares por importar (comprar) leche fluida.\", \"title\": \"leche_fluida\"}, {\"units\": \"Dolares\", \"id\": \"AGRO_0378\", \"type\": \"number\", \"description\": \"Cantidad de d\\u00f3lares por importar (comprar) leche en polvo entera.\", \"title\": \"leche_polvo_entera\"}, {\"units\": \"Dolares\", \"id\": \"AGRO_0379\", \"type\": \"number\", \"description\": \"Cantidad de d\\u00f3lares por importar (comprar) leche en polvo descremada.\", \"title\": \"leche_polvo_descremada\"}, {\"units\": \"Dolares\", \"id\": \"AGRO_0380\", \"type\": \"number\", \"description\": \"Cantidad de d\\u00f3lares por importar (comprar) leche maternizada. Incluye leche en polvo modificada.\", \"title\": \"leche_maternizada\"}, {\"units\": \"Dolares\", \"id\": \"AGRO_0381\", \"type\": \"number\", \"description\": \"Cantidad de d\\u00f3lares por importar (comprar) leche condensada.\", \"title\": \"leche_condensada\"}, {\"units\": \"Dolares\", \"id\": \"AGRO_0382\", \"type\": \"number\", \"description\": \"Cantidad de d\\u00f3lares por importar (comprar) dulce de leche.\", \"title\": \"dulce_de_leche\"}, {\"units\": \"Dolares\", \"id\": \"AGRO_0383\", \"type\": \"number\", \"description\": \"Cantidad de d\\u00f3lares por importar (comprar) queso de pasta blanda.\", \"title\": \"queso_pasta_blanda\"}, {\"units\": \"Dolares\", \"id\": \"AGRO_0384\", \"type\": \"number\", \"description\": \"Cantidad de d\\u00f3lares por importar (comprar) queso de pasta semidura.\", \"title\": \"queso_pasta_semidura\"}, {\"units\": \"Dolares\", \"id\": \"AGRO_0385\", \"type\": \"number\", \"description\": \"Cantidad de d\\u00f3lares por importar (comprar) queso de pasta dura.\", \"title\": \"queso_pasta_dura\"}, {\"units\": \"Dolares\", \"id\": \"AGRO_0386\", \"type\": \"number\", \"description\": \"Cantidad de d\\u00f3lares por importar (comprar) queso rallado.\", \"title\": \"queso_rallado\"}, {\"units\": \"Dolares\", \"id\": \"AGRO_0387\", \"type\": \"number\", \"description\": \"Cantidad de d\\u00f3lares por importar (comprar) queso fundido.\", \"title\": \"queso_fundido\"}, {\"units\": \"Dolares\", \"id\": \"AGRO_0388\", \"type\": \"number\", \"description\": \"Cantidad de d\\u00f3lares por importar (comprar) otros quesos.\", \"title\": \"otros_quesos\"}, {\"units\": \"Dolares\", \"id\": \"AGRO_0389\", \"type\": \"number\", \"description\": \"Cantidad de d\\u00f3lares por importar (comprar) manteca.\", \"title\": \"manteca\"}, {\"units\": \"Dolares\", \"id\": \"AGRO_0390\", \"type\": \"number\", \"description\": \"Cantidad de d\\u00f3lares por importar (comprar) aceite but\\u00edrico.\", \"title\": \"aceite_butirico\"}, {\"units\": \"Dolares\", \"id\": \"AGRO_0391\", \"type\": \"number\", \"description\": \"Cantidad de d\\u00f3lares por importar (comprar) crema.\", \"title\": \"crema\"}, {\"units\": \"Dolares\", \"id\": \"AGRO_0392\", \"type\": \"number\", \"description\": \"Cantidad de d\\u00f3lares por importar (comprar) yogur.\", \"title\": \"yogur\"}, {\"units\": \"Dolares\", \"id\": \"AGRO_0393\", \"type\": \"number\", \"description\": \"Cantidad de d\\u00f3lares por importar (comprar) otros fermentados. Incluye productos fermentados que no son yogur.\", \"title\": \"otros_fermentados\"}, {\"units\": \"Dolares\", \"id\": \"AGRO_0394\", \"type\": \"number\", \"description\": \"Cantidad de d\\u00f3lares por importar (comprar) caseina.\", \"title\": \"caseina\"}, {\"units\": \"Dolares\", \"id\": \"AGRO_0395\", \"type\": \"number\", \"description\": \"Cantidad de d\\u00f3lares por importar (comprar) caseinatos.\", \"title\": \"caseinatos\"}, {\"units\": \"Dolares\", \"id\": \"AGRO_0396\", \"type\": \"number\", \"description\": \"Cantidad de d\\u00f3lares por importar (comprar) suero.\", \"title\": \"suero\"}, {\"units\": \"Dolares\", \"id\": \"AGRO_0397\", \"type\": \"number\", \"description\": \"Cantidad de d\\u00f3lares por importar (comprar) derivados de suero.\", \"title\": \"derivados_suero\"}, {\"units\": \"Dolares\", \"id\": \"AGRO_0398\", \"type\": \"number\", \"description\": \"Cantidad de d\\u00f3lares por importar (comprar) lactosa.\", \"title\": \"lactosa\"}, {\"units\": \"Dolares\", \"id\": \"AGRO_0399\", \"type\": \"number\", \"description\": \"Cantidad de d\\u00f3lares por importar (comprar) helados.\", \"title\": \"helados\"}, {\"units\": \"Dolares\", \"id\": \"AGRO_0400\", \"type\": \"number\", \"description\": \"Cantidad de d\\u00f3lares por importar (comprar) otros productos l\\u00e1cteos. \", \"title\": \"otros_lacteos\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-12-26T15:16:35.684233",
+      "datastore_active": false,
+      "description": "Importación anual de productos lácteos en dólares de 1989 a 2009.",
+      "fileName": "lacteos-importaciones-anual-dolares-1989-2009.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "agroindustria_5ea81da1-7686-48d5-95fe-5cbbbe995952",
+      "last_modified": "2020-01-06T09:16:30.250979",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Importación anual de productos lácteos",
+      "package_id": "agroindustria_a55f6b85-b5af-4366-9fa9-1f5744fdb45d",
+      "position": 0,
+      "resource_type": "file.upload",
+      "revision_id": "b674f673-2ea7-4af7-89c9-38475b091e93",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.agroindustria.gob.ar/dataset/a55f6b85-b5af-4366-9fa9-1f5744fdb45d/resource/5ea81da1-7686-48d5-95fe-5cbbbe995952/download/lacteos-importaciones-anual-dolares-1989-2009.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "1d58110c-7473-49ed-acb9-16822a7e0387",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "caseina",
+      "id": "8004f494-2a54-4af3-b532-54bf685c1cb3",
+      "name": "caseina",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "caseinatos",
+      "id": "312277fa-f679-4acf-af20-c639b32946f3",
+      "name": "caseinatos",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "importaciones",
+      "id": "b549bb73-5f13-4578-82a6-02bf6a564e08",
+      "name": "importaciones",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "lacteos",
+      "id": "9e6b26d8-1663-4102-b84b-8d3d36505c78",
+      "name": "lacteos",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "leche en polvo",
+      "id": "5e130014-d6db-46ea-a8f9-fd79b8663b31",
+      "name": "leche en polvo",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "leche maternizada",
+      "id": "fc9f910c-2345-487d-87c0-1763a815a98f",
+      "name": "leche maternizada",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "manteca",
+      "id": "926ca4b2-ae59-4c6b-b4eb-0ff6376e0678",
+      "name": "manteca",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "quesos",
+      "id": "b0b24e15-9255-46fc-b909-d521a750fa3e",
+      "name": "quesos",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "yogur",
+      "id": "2fab1903-353f-4844-b324-aebbb168ffc7",
+      "name": "yogur",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Lácteos - Importaciones",
+  "type": "dataset",
+  "url": "https://datos.agroindustria.gob.ar/dataset/lacteos-importaciones",
+  "version": null
+}

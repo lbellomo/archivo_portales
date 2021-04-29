@@ -1,0 +1,162 @@
+{
+  "author": "Secretaría de Gobierno de Energía.Subsecretaría de Planeamiento Energético.Dirección Nacional de Información Energética.",
+  "author_email": "tienerg@energia.gob.ar",
+  "creator_user_id": "4720e75a-9e17-4dc3-879d-041917c7f9f9",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "eventual"
+    },
+    {
+      "key": "issued",
+      "value": "2016-11-07T13:33:34.985951"
+    },
+    {
+      "key": "modified",
+      "value": "2020-01-22T11:12:24.881592"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"ENER\"]"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Energía",
+      "display_name": "Energía",
+      "id": "a4d3f632-eb48-4163-9791-165989c16035",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225337.421630energia.svg",
+      "name": "ener",
+      "title": "Energía"
+    }
+  ],
+  "id": "energia_915c306b-e1c4-42e1-ae10-bc1285e7e72c",
+  "isopen": false,
+  "license_id": "notspecified",
+  "license_title": "No se especificó la licencia",
+  "maintainer": null,
+  "maintainer_email": null,
+  "metadata_created": "2019-11-26T15:01:01.661005",
+  "metadata_modified": "2021-04-29T17:17:57.144979",
+  "name": "energia-geologia-climatologia-curvas-nivel-ign-instituto-geografico-nacional",
+  "notes": "Curvas de nivel del Instituto Geográfico Nacional. Para mayor información visitar la página ign.gob.ar/sig. ISO 19126: Hypsography, Este subgrupo se compone de conceptos que describen la forma (posiciones y alturas) de la superficie del terreno.",
+  "num_resources": 2,
+  "num_tags": 6,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:09.221510",
+    "description": "",
+    "id": "cd1b32a2-2d3a-44ac-8c98-a425a7b62d42",
+    "image_url": "",
+    "is_organization": true,
+    "name": "energia",
+    "revision_id": "a184cf69-99ad-4f84-a254-020031d7fe63",
+    "state": "active",
+    "title": "Secretaría de Energía",
+    "type": "organization"
+  },
+  "owner_org": "cd1b32a2-2d3a-44ac-8c98-a425a7b62d42",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "http://datos.minem.gob.ar/dataset/915c306b-e1c4-42e1-ae10-bc1285e7e72c/resource/786556f2-b6b1-4fab-ab00-a8b9b251353b",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-05-04T21:14:51.068328",
+      "datastore_active": false,
+      "description": "",
+      "fileName": "geologa-climatologa-curvas-de-nivel-ign.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "energia_786556f2-b6b1-4fab-ab00-a8b9b251353b",
+      "last_modified": "2017-05-04T21:14:50.867968",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Geología Climatología Curvas de Nivel IGN",
+      "package_id": "energia_915c306b-e1c4-42e1-ae10-bc1285e7e72c",
+      "position": 0,
+      "resource_type": null,
+      "revision_id": "12af8a1e-41a0-49c9-8c41-59b8f56a868b",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.minem.gob.ar/dataset/915c306b-e1c4-42e1-ae10-bc1285e7e72c/resource/786556f2-b6b1-4fab-ab00-a8b9b251353b/download/geologa-climatologa-curvas-de-nivel-ign.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos.minem.gob.ar/dataset/915c306b-e1c4-42e1-ae10-bc1285e7e72c/resource/e28d5cc1-b1ac-4d44-b947-6196f66fcb28",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-05-04T21:39:50.500524",
+      "datastore_active": false,
+      "description": "Archivos prj, shp, shx, dbf, xml. Sistema de Proyección EPSG:4326",
+      "fileName": "geologa-climatologa-curvas-de-nivel-ign.zip",
+      "format": "SHP",
+      "hash": "",
+      "id": "energia_e28d5cc1-b1ac-4d44-b947-6196f66fcb28",
+      "last_modified": "2017-05-04T21:39:50.303188",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Geología Climatología Curvas de Nivel IGN",
+      "package_id": "energia_915c306b-e1c4-42e1-ae10-bc1285e7e72c",
+      "position": 1,
+      "resource_type": null,
+      "revision_id": "3eb45c8f-0703-45e3-8742-3f48671b7968",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.minem.gob.ar/dataset/915c306b-e1c4-42e1-ae10-bc1285e7e72c/resource/e28d5cc1-b1ac-4d44-b947-6196f66fcb28/download/geologa-climatologa-curvas-de-nivel-ign.zip",
+      "url_type": null
+    }
+  ],
+  "revision_id": "7f498cf9-821e-4b55-a689-02620e36a546",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "Curvas de nivel",
+      "id": "270e6800-9295-4443-8738-0ab2b2a804be",
+      "name": "Curvas de nivel",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Geología",
+      "id": "76ee66e8-1ba7-43ed-a6de-9bd06784ddd5",
+      "name": "Geología",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "IGN",
+      "id": "bec8f12e-02b8-44d9-a442-2d1e48728794",
+      "name": "IGN",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Información Geográfica",
+      "id": "d22bc8a4-252e-4fd8-89b2-3b9a08f6be42",
+      "name": "Información Geográfica",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Información geográfica",
+      "id": "24b3ee69-69cb-45de-a8b4-3566f4eab17c",
+      "name": "Información geográfica",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Otros",
+      "id": "1be82c1d-f2fe-4f6e-b7af-625c96c443b3",
+      "name": "Otros",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Geología Climatología Curvas de Nivel del IGN (Instituto Geográfico Nacional)",
+  "type": "dataset",
+  "url": "http://datos.minem.gob.ar/dataset/",
+  "version": null
+}

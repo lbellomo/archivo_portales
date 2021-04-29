@@ -1,0 +1,138 @@
+{
+  "author": "Servicio Nacional de Sanidad y Calidad Agroalimentaria",
+  "author_email": "desycg@senasa.gob.ar",
+  "creator_user_id": "dc157489-51c6-44ce-bd63-3bd983d60778",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P1M"
+    },
+    {
+      "key": "issued",
+      "value": "2019-09-23T15:22:23.088594"
+    },
+    {
+      "key": "language",
+      "value": "[\"spa\"]"
+    },
+    {
+      "key": "modified",
+      "value": "2019-12-04T15:57:54.294406"
+    },
+    {
+      "key": "source",
+      "value": "Servicio Nacional de Sanidad y Calidad Agroalimentaria - SENASA"
+    },
+    {
+      "key": "spatial",
+      "value": "[\"ARG\"]"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"AGRI\"]"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Agroganadería, pesca y forestación",
+      "display_name": "Agroganadería, pesca y forestación",
+      "id": "0c35ea38-7059-41d2-9827-5587769d0dc6",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225145.990789agroganaderia-pesca-forestacion.svg",
+      "name": "agri",
+      "title": "Agroganadería, pesca y forestación"
+    }
+  ],
+  "id": "agroindustria_bcfd12ad-477a-43f5-a528-85d76ce7b6f1",
+  "isopen": true,
+  "license_id": "CC-BY-4.0",
+  "license_title": "Creative Commons Attribution 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "maintainer": "Dirección Nacional de Sanidad Animal",
+  "maintainer_email": "desycg@senasa.gob.ar",
+  "metadata_created": "2019-12-12T19:43:54.846171",
+  "metadata_modified": "2021-04-29T17:12:04.892839",
+  "name": "agroindustria-senasa---movimientos-bubalinos",
+  "notes": "Datos mensuales de los movimientos de la especie bubalina detallando provincia de origen y destino.",
+  "num_resources": 1,
+  "num_tags": 4,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:07.834957",
+    "description": "",
+    "id": "b10c94e2-ade1-4a97-8c4c-b1ada7878d60",
+    "image_url": "",
+    "is_organization": true,
+    "name": "agroindustria",
+    "revision_id": "f7c3b6e9-d48f-4522-9f7a-388d805c8392",
+    "state": "active",
+    "title": "Ministerio de Agricultura, Ganadería y Pesca",
+    "type": "organization"
+  },
+  "owner_org": "b10c94e2-ade1-4a97-8c4c-b1ada7878d60",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "http://datos.agroindustria.gob.ar/dataset/bcfd12ad-477a-43f5-a528-85d76ce7b6f1/resource/a98f1800-2bd5-42b6-bbc6-dd67a5806697",
+      "attributesDescription": "[{\"type\": \"date\", \"title\": \"fecha\"}, {\"type\": \"string\", \"description\": \"Lugar del que sale. \\n\", \"title\": \"salido_de\"}, {\"type\": \"string\", \"description\": \"Lugar al que ingresa. \\n\", \"title\": \"ingresado_a\"}, {\"type\": \"string\", \"description\": \"Nombre de la provincia de origen. \\n\", \"title\": \"provincia_origen\"}, {\"type\": \"string\", \"description\": \"C\\u00f3digo de la provincia de origen. \\n\", \"title\": \"provincia_origen_id\"}, {\"type\": \"string\", \"description\": \"Nombre de la provincia de destino. \\n\\n\", \"title\": \"provincia_destino\"}, {\"type\": \"string\", \"description\": \"C\\u00f3digo de la provincia de destino. \\n\", \"title\": \"provincia_destino_id\"}, {\"type\": \"integer\", \"description\": \"Cantidad de hembras que han tenido al menos una parici\\u00f3n.\", \"title\": \"vaca_bubalino\"}, {\"type\": \"integer\", \"description\": \"Cantidad de hembras j\\u00f3venes que no han tenido parici\\u00f3n alguna.\\n\", \"title\": \"vaquillona_bubalino\"}, {\"type\": \"integer\", \"description\": \"Cantidad de machos castrados.\\n\", \"title\": \"novillo_bubalino\"}, {\"type\": \"integer\", \"description\": \"Cantidad de machos castrados.\\n\", \"title\": \"novillito_bubalino\"}, {\"type\": \"integer\", \"description\": \"Cantidad de machos menores de un a\\u00f1o, sin considerar si est\\u00e1n o no al pi\\u00e9 de la madre.\\n\", \"title\": \"ternero_bubalino\"}, {\"type\": \"integer\", \"description\": \"Cantidad de hembras  menores de un a\\u00f1o, sin considerar si est\\u00e1n o no al pi\\u00e9 de la madre.\\n\", \"title\": \"ternera_bubalino\"}, {\"type\": \"integer\", \"description\": \"Cantidad de machos destinados a la reproducci\\u00f3n.\\n\", \"title\": \"toro_bubalino\"}, {\"type\": \"integer\", \"description\": \"Cantidad de toros j\\u00f3venes mayores de un a\\u00f1o que a\\u00fan no han entrado a servicio.\\n\\n\", \"title\": \"torito_bubalino\"}, {\"type\": \"integer\", \"description\": \"Cantidad de machos adultos castrados para trabajo, o inf\\u00e9rtiles. \\n\\n\", \"title\": \"bueyes_bubalino\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-10-02T14:32:48.078134",
+      "datastore_active": false,
+      "description": "Datos de los movimientos bubalinos por categoría y mes para el periodo 2013 - 2018",
+      "fileName": "movimiento-bubalinos-provincia-2013-2018.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "agroindustria_a98f1800-2bd5-42b6-bbc6-dd67a5806697",
+      "last_modified": "2019-12-04T15:56:40.605696",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Movimientos bubalinos 2013 a 2018",
+      "package_id": "agroindustria_bcfd12ad-477a-43f5-a528-85d76ce7b6f1",
+      "position": 0,
+      "resource_type": "file.upload",
+      "revision_id": "247a2da5-4cc2-4f17-b8d0-7557f077b409",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.agroindustria.gob.ar/dataset/bcfd12ad-477a-43f5-a528-85d76ce7b6f1/resource/a98f1800-2bd5-42b6-bbc6-dd67a5806697/download/movimiento-bubalinos-provincia-2013-2018.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "d5613045-ed54-4581-81f0-ec0d8fb36c09",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "bubalino",
+      "id": "b95b8aa8-0152-4096-abf5-1618941a1cd8",
+      "name": "bubalino",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "bufala",
+      "id": "6ab3da55-9394-4c72-aed5-bbcf472b1b9c",
+      "name": "bufala",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "bufalo",
+      "id": "c9442916-c1a8-436e-bd31-b6fe4fd81b2b",
+      "name": "bufalo",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "movimiento ganadero",
+      "id": "5d3fb22d-977e-4fc3-ac41-277f36a967a1",
+      "name": "movimiento ganadero",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "SENASA - Movimientos bubalinos",
+  "type": "dataset",
+  "url": "https://datos.agroindustria.gob.ar/dataset/senasa-movimientos-bubalinos",
+  "version": null
+}

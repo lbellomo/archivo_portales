@@ -1,0 +1,169 @@
+{
+  "author": "Dirección General Administrativa",
+  "author_email": null,
+  "creator_user_id": "dc157489-51c6-44ce-bd63-3bd983d60778",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "eventual"
+    },
+    {
+      "key": "issued",
+      "value": "2018-12-18T13:25:11.891679"
+    },
+    {
+      "key": "modified",
+      "value": "2018-12-18T13:25:11.891679"
+    },
+    {
+      "key": "spatial",
+      "value": "[\"ARG\", \"02\"]"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"ECON\", \"GOVE\"]"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Economía y finanzas",
+      "display_name": "Economía y finanzas",
+      "id": "60b4b03e-10a1-4d67-b984-08008a249617",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225257.200233economia-finanzas.svg",
+      "name": "econ",
+      "title": "Economía y finanzas"
+    },
+    {
+      "description": "Gobierno y sector público",
+      "display_name": "Gobierno y sector público",
+      "id": "e6f07c77-3987-4e71-98a6-731b1aaf74f4",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225353.395233gobierno-sector-publico.svg",
+      "name": "gove",
+      "title": "Gobierno y sector público"
+    }
+  ],
+  "id": "acumar_b54dcccd-5efa-4908-b24e-a8c837b4e55d",
+  "isopen": false,
+  "license_id": "notspecified",
+  "license_title": "No se especificó la licencia",
+  "maintainer": null,
+  "maintainer_email": null,
+  "metadata_created": "2019-12-04T20:03:34.453824",
+  "metadata_modified": "2021-04-29T17:11:00.709434",
+  "name": "acumar-listado-compras-contrataciones-acumar",
+  "notes": "Listado de procesos de compras y contrataciones de ACUMAR extraídos del portal COMPR.AR.",
+  "num_resources": 2,
+  "num_tags": 5,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:10.306987",
+    "description": "",
+    "id": "1b6b28cd-098f-41d7-b43f-d5a01ffa8759",
+    "image_url": "",
+    "is_organization": true,
+    "name": "acumar",
+    "revision_id": "0e2a184d-b675-43ae-b2dd-e1ed0c459c04",
+    "state": "active",
+    "title": "Autoridad de Cuenca Matanza Riachuelo",
+    "type": "organization"
+  },
+  "owner_org": "1b6b28cd-098f-41d7-b43f-d5a01ffa8759",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "http://datos.acumar.gob.ar/dataset/b54dcccd-5efa-4908-b24e-a8c837b4e55d/resource/5884e1a7-7711-4a75-9ea9-80d180bf24fc",
+      "attributesDescription": "[{\"type\": \"any\", \"description\": \"Id del proceso y enlace de acceso a COMPR.AR\", \"title\": \"proceso_num\"}, {\"type\": \"string\", \"description\": \"Descripci\\u00f3n de la compra.\", \"title\": \"proceso_nombre\"}, {\"type\": \"string\", \"description\": \"Tipo de proceso: Contrataci\\u00f3n Directa, Licitaci\\u00f3n P\\u00fablica, Licitaci\\u00f3n Privada, Concurso P\\u00fablico, etc...\", \"title\": \"proceso_tipo\"}, {\"type\": \"date\", \"description\": \"Fecha del acto de apertura\", \"title\": \"proceso_fecha_apertura\"}, {\"type\": \"time\", \"description\": \"Hora del acto de apertura \", \"title\": \"proceso_hora_apertura\"}, {\"type\": \"string\", \"description\": \"Estado del proceso de compra: Publicado, Adjudicado, Desierto, En Evaluaci\\u00f3n, Pendiente Generar Documento Contractual\\n\", \"title\": \"proceso_estado\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2018-12-18T13:38:15.540670",
+      "datastore_active": false,
+      "description": "Detalle de las compras y contrataciones de ACUMAR durante el 2018 publicadas en el portal COMPR.AR",
+      "fileName": "comprar_exp_2018.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "acumar_5884e1a7-7711-4a75-9ea9-80d180bf24fc",
+      "last_modified": "2018-12-18T13:38:15.540670",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Listado de Compras y Contrataciones 2018 de ACUMAR",
+      "package_id": "acumar_b54dcccd-5efa-4908-b24e-a8c837b4e55d",
+      "position": 0,
+      "resource_type": "file.upload",
+      "revision_id": "513fcfdf-defa-4943-97e0-fe9029c9d2b2",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.acumar.gob.ar/dataset/b54dcccd-5efa-4908-b24e-a8c837b4e55d/resource/5884e1a7-7711-4a75-9ea9-80d180bf24fc/download/comprar_exp_2018.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos.acumar.gob.ar/dataset/b54dcccd-5efa-4908-b24e-a8c837b4e55d/resource/f3c1b802-579b-4cdc-a359-ddfb345b08fe",
+      "attributesDescription": "[{\"type\": \"any\", \"description\": \"Id del proceso \", \"title\": \"proceso_num\"}, {\"type\": \"string\", \"description\": \"Descripci\\u00f3n de la compra. \", \"title\": \"proceso_nombre\"}, {\"type\": \"string\", \"description\": \"Tipo de proceso: Contrataci\\u00f3n Directa, Licitaci\\u00f3n P\\u00fablica, Licitaci\\u00f3n Privada, Concurso P\\u00fablico, etc... \", \"title\": \"proceso_tipo \"}, {\"type\": \"date\", \"description\": \"Fecha del acto de apertura \", \"title\": \"proceso_fecha_apertura \"}, {\"type\": \"time\", \"description\": \"Hora del acto de apertura  \", \"title\": \"proceso_hora_apertura\"}, {\"type\": \"string\", \"description\": \"Estado del proceso de compra: Publicado, Adjudicado, Desierto, En Evaluaci\\u00f3n, Pendiente Generar Documento Contractual  \", \"title\": \"proceso_estado\"}, {\"type\": \"any\", \"description\": \"URL de acceso al proceso en el portal COMPR.AR\", \"title\": \"proceso_enlace\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-07-25T12:37:03.767115",
+      "datastore_active": false,
+      "description": "Detalle de las compras y contrataciones de ACUMAR durante el 2019 publicadas en el portal COMPR.AR\r\n\r\n",
+      "fileName": "comprar_exp_2019.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "acumar_f3c1b802-579b-4cdc-a359-ddfb345b08fe",
+      "last_modified": "2019-10-31T14:35:57.687318",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Listado de Compras y Contrataciones 2019 de ACUMAR",
+      "package_id": "acumar_b54dcccd-5efa-4908-b24e-a8c837b4e55d",
+      "position": 1,
+      "resource_type": "file.upload",
+      "revision_id": "513fcfdf-defa-4943-97e0-fe9029c9d2b2",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.acumar.gob.ar/dataset/b54dcccd-5efa-4908-b24e-a8c837b4e55d/resource/f3c1b802-579b-4cdc-a359-ddfb345b08fe/download/comprar_exp_2019.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "47d9dd19-2d48-44a6-943c-cf6577d42458",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "COMPR.AR",
+      "id": "be282d4c-de2e-4030-aef9-0e62c647f1c3",
+      "name": "COMPR.AR",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Compras",
+      "id": "50b4404e-e1dc-47e7-8f79-653b3f686474",
+      "name": "Compras",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Contrataciones",
+      "id": "05c8387d-43dd-4363-b7f5-718624cacf2e",
+      "name": "Contrataciones",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Eje Económico",
+      "id": "e89f8fb1-4f3a-40a0-a2ad-5d562aaf4f85",
+      "name": "Eje Económico",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Transparencia",
+      "id": "21a0e417-6815-4adf-aaf4-0d8a71309d0c",
+      "name": "Transparencia",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Listado de Compras y Contrataciones de ACUMAR",
+  "type": "dataset",
+  "url": "http://datos.acumar.gob.ar/dataset/listado-de-compras-y-contrataciones-de-acumar",
+  "version": null
+}

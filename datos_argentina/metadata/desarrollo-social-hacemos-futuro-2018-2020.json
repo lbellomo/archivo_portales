@@ -1,0 +1,149 @@
+{
+  "author": "Ministerio de Desarrollo Social de la Nación. Secretaría de Economía Social.",
+  "author_email": "datosabiertos@desarrollosocial.gob.ar",
+  "creator_user_id": "dc157489-51c6-44ce-bd63-3bd983d60778",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "eventual"
+    },
+    {
+      "key": "issued",
+      "value": "2021-04-17T15:58:57.662256"
+    },
+    {
+      "key": "language",
+      "value": "[\"spa\"]"
+    },
+    {
+      "key": "modified",
+      "value": "2021-04-26T09:29:11.658869"
+    },
+    {
+      "key": "spatial",
+      "value": "[\"ARG\"]"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"EDUC\", \"GOVE\", \"REGI\"]"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Educación, cultura y deportes",
+      "display_name": "Educación, cultura y deportes",
+      "id": "b5ebe955-de3d-4e0b-b28c-16df2b2af99f",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225313.459997educacion-cultura-deportes.svg",
+      "name": "educ",
+      "title": "Educación, cultura y deportes"
+    },
+    {
+      "description": "Gobierno y sector público",
+      "display_name": "Gobierno y sector público",
+      "id": "e6f07c77-3987-4e71-98a6-731b1aaf74f4",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225353.395233gobierno-sector-publico.svg",
+      "name": "gove",
+      "title": "Gobierno y sector público"
+    },
+    {
+      "description": "Regiones y ciudades",
+      "display_name": "Regiones y ciudades",
+      "id": "c506f0a0-fc8a-4278-b007-eb7f76875914",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225752.196815regiones-ciudades.svg",
+      "name": "regi",
+      "title": "Regiones y ciudades"
+    }
+  ],
+  "id": "desarrollo-social_2961336b-d95c-4967-a88f-cfda923b21d6",
+  "isopen": false,
+  "license_id": "notspecified",
+  "license_title": "No se especificó la licencia",
+  "maintainer": "Ministerio de Desarrollo Social de la Nación. Unidad de Gabinete de Asesores. Dirección General de Información Social Estratégica",
+  "maintainer_email": "datosabiertos@desarrollosocial.gob.ar",
+  "metadata_created": "2021-04-20T19:20:22.120923",
+  "metadata_modified": "2021-04-29T17:04:08.865233",
+  "name": "desarrollo-social-hacemos-futuro-2018-2020",
+  "notes": "Datos correspondientes a los titulares del Programa Hacemos Futuro, creado por RESOL-2018-96-APN-MDS. Este programa unificó a los titulares de las dos líneas del Programa Ingreso Social con Trabajo. Vigente entre febrero 2018 y febrero 2020.",
+  "num_resources": 1,
+  "num_tags": 4,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:10.908821",
+    "description": "",
+    "id": "ef25c735-2abb-4165-94a6-a6798a103603",
+    "image_url": "",
+    "is_organization": true,
+    "name": "desarrollo-social",
+    "revision_id": "a896ab9d-5ddd-4b93-9ecf-6578b069aee8",
+    "state": "active",
+    "title": "Ministerio de Desarrollo Social",
+    "type": "organization"
+  },
+  "owner_org": "ef25c735-2abb-4165-94a6-a6798a103603",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "https://datosabiertos.desarrollosocial.gob.ar//dataset/2961336b-d95c-4967-a88f-cfda923b21d6/resource/4e3eb1e8-7050-4dbe-805c-192d0479839d",
+      "attributesDescription": "[{\"type\": \"date\", \"description\": \"Periodo de tiempo analizado. La l\\u00ednea program\\u00e1tica estuvo vigente entre mayo 2013 y enero 2018\", \"title\": \"periodo\"}, {\"type\": \"string\", \"description\": \"C\\u00f3digo de provincia codificado seg\\u00f1n la Base de Asentamientos Humanos de la Rep\\u00f1blica Argentina  \", \"title\": \"cod_provincia\"}, {\"type\": \"string\", \"description\": \"Nombre de la provincia\", \"title\": \"provincia\"}, {\"type\": \"string\", \"description\": \"C\\u00f3digo de departamento codificado seg\\u00f1n la Base de Asentamientos Humanos de la Rep\\u00f1blica Argentina\", \"title\": \"cod_depto\"}, {\"type\": \"string\", \"description\": \"Nombre del departamento\", \"title\": \"departamento\"}, {\"type\": \"integer\", \"description\": \"Titulares que recibieron el subsidio. No puede calcularse el total de titulares \\u00f1nicos sumando la columna  \", \"title\": \"titulares_activos\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2021-04-17T16:00:02.555914",
+      "datastore_active": false,
+      "description": "Datos correspondientes a los titulares activos por mes y departamento del Programa Hacemos Futuro.",
+      "fileName": "hacemos-futuro-titulares-activos-2020-02-29.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "desarrollo-social_4e3eb1e8-7050-4dbe-805c-192d0479839d",
+      "last_modified": "2021-04-17T16:00:02.505515",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Titulares activos por mes y departamento Hacemos Futuro",
+      "package_id": "desarrollo-social_2961336b-d95c-4967-a88f-cfda923b21d6",
+      "position": 0,
+      "resource_type": "file.upload",
+      "revision_id": "3209ebbf-d23e-4be8-9248-cd9adc626bd2",
+      "size": null,
+      "state": "active",
+      "url": "https://datosabiertos.desarrollosocial.gob.ar/dataset/2961336b-d95c-4967-a88f-cfda923b21d6/resource/4e3eb1e8-7050-4dbe-805c-192d0479839d/download/hacemos-futuro-titulares-activos-2020-02-29.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "3209ebbf-d23e-4be8-9248-cd9adc626bd2",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "hacemos futuro",
+      "id": "efc60dba-9607-4d95-907a-99bc28cba462",
+      "name": "hacemos futuro",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "hf",
+      "id": "503b5d57-b12e-4720-aef8-cb3ce10f63a8",
+      "name": "hf",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "inclusion laboral",
+      "id": "4e1b9231-da94-41dd-b860-df57d9efc153",
+      "name": "inclusion laboral",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "inclusion social",
+      "id": "b9f9d3d1-9d35-4ce5-940f-661f67dd0bd8",
+      "name": "inclusion social",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Hacemos Futuro (2018-2020)",
+  "type": "dataset",
+  "url": "https://datosabiertos.desarrollosocial.gob.ar/dataset/hf",
+  "version": null
+}

@@ -1,0 +1,229 @@
+{
+  "author": "Ministerio de Salud. Instituto Nacional Central Único Coordinador de Ablación e Implante (INCUCAI) . Dirección Científico Técnica.",
+  "author_email": "le@incucai.gov.ar",
+  "creator_user_id": "4720e75a-9e17-4dc3-879d-041917c7f9f9",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P6M"
+    },
+    {
+      "key": "issued",
+      "value": "2018-07-26T09:13:57.649088"
+    },
+    {
+      "key": "language",
+      "value": "[\"spa\"]"
+    },
+    {
+      "key": "modified",
+      "value": "2020-05-15T15:50:49.753912"
+    },
+    {
+      "key": "source",
+      "value": "Ministerio de Salud. Instituto Nacional Central Único Coordinador de Ablación e Implante (INCUCAI). Coordinación de Comunicación Social."
+    },
+    {
+      "key": "spatial",
+      "value": "[\"ARG\"]"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"HEAL\"]"
+    },
+    {
+      "key": "temporal",
+      "value": "2017-01-01T03:00:00.000Z/2018-01-08T03:00:00.000Z"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Salud",
+      "display_name": "Salud",
+      "id": "65cc1fbf-703a-43bf-8a14-232a55c34976",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225809.913196salud.svg",
+      "name": "heal",
+      "title": "Salud"
+    }
+  ],
+  "id": "salud_270bdaf7-05cd-4e83-b479-b6491a058110",
+  "isopen": false,
+  "license_id": "notspecified",
+  "license_title": "No se especificó la licencia",
+  "maintainer": "Ministerio de Salud. Instituto Nacional Central Único Coordinador de Ablación e Implante (INCUCAI) . Dirección Científico Técnica.",
+  "maintainer_email": "le@incucai.gov.ar",
+  "metadata_created": "2019-11-26T15:01:43.988254",
+  "metadata_modified": "2021-04-29T17:05:39.727063",
+  "name": "salud-pacientes-lista-espera-incucai",
+  "notes": "Datos correspondientes a la lista de espera de pacientes de órganos y tejidos.",
+  "num_resources": 4,
+  "num_tags": 6,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-11-15T11:12:22.202856",
+    "description": "",
+    "id": "dd1f2018-587f-43af-9b07-fc32f5ab588b",
+    "image_url": "",
+    "is_organization": true,
+    "name": "salud",
+    "revision_id": "14f0bb85-f97d-4325-b1c8-a7c1d3a815bf",
+    "state": "active",
+    "title": "Ministerio de Salud",
+    "type": "organization"
+  },
+  "owner_org": "dd1f2018-587f-43af-9b07-fc32f5ab588b",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "http://datos.salud.gob.ar/dataset/270bdaf7-05cd-4e83-b479-b6491a058110/resource/0046d3b0-e29c-4ece-be1e-9c8e7c05b544",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2018-07-26T09:14:38.145102",
+      "datastore_active": false,
+      "description": "Lista de espera de pacientes de órganos y tejidos  por jurisdicción",
+      "fileName": "pacientes-lista-espera-provincia-20180725.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "salud_0046d3b0-e29c-4ece-be1e-9c8e7c05b544",
+      "last_modified": "2019-09-03T10:07:28.459470",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Lista de espera de pacientes por jurisdicción hasta 2018",
+      "package_id": "salud_270bdaf7-05cd-4e83-b479-b6491a058110",
+      "position": 0,
+      "resource_type": "file",
+      "revision_id": "0821a67c-5622-488b-bd88-1967373a2715",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.salud.gob.ar/dataset/270bdaf7-05cd-4e83-b479-b6491a058110/resource/0046d3b0-e29c-4ece-be1e-9c8e7c05b544/download/pacientes-lista-espera-provincia-20180725.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos.salud.gob.ar/dataset/270bdaf7-05cd-4e83-b479-b6491a058110/resource/7f4fa101-5683-48bc-afea-03ab1cdf16c5",
+      "attributesDescription": "[{\"type\": \"integer\", \"description\": \"C\\u00f3digo de Jurisdicci\\u00f3n\", \"title\": \"provincia_id\"}, {\"type\": \"string\", \"description\": \"Nombre de Jurisdicci\\u00f3n\", \"title\": \"provincia_nombre\"}, {\"type\": \"integer\", \"description\": \"Cantidad de pacientes en lista de espera de \\u00f3rganos\", \"title\": \"paciente_lista_espera_organos_cantidad\"}, {\"type\": \"integer\", \"description\": \"Cantidad de pacientes en lista de espera de tejidos\", \"title\": \"pacientes_lista_espera_tejidos_cantidad\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-09-03T10:10:00.504108",
+      "datastore_active": false,
+      "description": "Lista de espera de pacientes de órganos y tejidos por jurisdicción",
+      "fileName": "pacientes-lista-de-espera-organos-tejidos-provincia-incucai-hasta-septiembre-2019.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "salud_7f4fa101-5683-48bc-afea-03ab1cdf16c5",
+      "last_modified": "2019-09-03T10:10:00.504108",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Lista de espera de pacientes por jurisdicción hasta septiembre 2019",
+      "package_id": "salud_270bdaf7-05cd-4e83-b479-b6491a058110",
+      "position": 1,
+      "resource_type": "file.upload",
+      "revision_id": "477c77ad-40f7-4da8-abf3-375d57a2be6d",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.salud.gob.ar/dataset/270bdaf7-05cd-4e83-b479-b6491a058110/resource/7f4fa101-5683-48bc-afea-03ab1cdf16c5/download/pacientes-lista-de-espera-organos-tejidos-provincia-incucai-hasta-septiembre-2019.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos.salud.gob.ar/dataset/270bdaf7-05cd-4e83-b479-b6491a058110/resource/81faa76e-c363-4122-bb2a-4bc261f4deaa",
+      "attributesDescription": "[{\"type\": \"integer\", \"description\": \"C\\u00f3digo de Jurisdicci\\u00f3n\", \"title\": \"provincia_id\"}, {\"type\": \"string\", \"description\": \"Nombre de Jurisdicci\\u00f3n\", \"title\": \"provincia_nombre\"}, {\"type\": \"integer\", \"description\": \"Cantidad de pacientes en lista de espera de \\u00f3rganos\", \"title\": \"paciente_lista_espera_organos_cantidad\"}, {\"type\": \"integer\", \"description\": \"Cantidad de pacientes en lista de espera de tejidos\", \"title\": \"pacientes_lista_espera_tejidos_cantidad\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-09-03T10:11:31.645397",
+      "datastore_active": false,
+      "description": "Lista de espera de pacientes de órganos y tejidos por jurisdicción",
+      "fileName": "pacientes-lista-de-espera-organos-tejidos-provincia-incucai-hasta-septiembre-2019.xls",
+      "format": "XLS",
+      "hash": "",
+      "id": "salud_81faa76e-c363-4122-bb2a-4bc261f4deaa",
+      "last_modified": "2019-09-03T10:11:31.645397",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Lista de espera de pacientes por jurisdicción hasta septiembre 2019",
+      "package_id": "salud_270bdaf7-05cd-4e83-b479-b6491a058110",
+      "position": 2,
+      "resource_type": "file.upload",
+      "revision_id": "88372a95-f884-40af-9e5c-dbbc38fa5781",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.salud.gob.ar/dataset/270bdaf7-05cd-4e83-b479-b6491a058110/resource/81faa76e-c363-4122-bb2a-4bc261f4deaa/download/pacientes-lista-de-espera-organos-tejidos-provincia-incucai-hasta-septiembre-2019.xls",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos.salud.gob.ar/dataset/270bdaf7-05cd-4e83-b479-b6491a058110/resource/7a75a227-f4aa-4b31-864d-5320d3496a06",
+      "attributesDescription": "[{\"type\": \"integer\", \"description\": \"C\\u00f3digo de Jurisdicci\\u00f3n\", \"title\": \"provincia_id\"}, {\"type\": \"string\", \"description\": \"Nombre de Jurisdicci\\u00f3n\", \"title\": \"provincia_nombre\"}, {\"type\": \"integer\", \"description\": \"Cantidad de pacientes en lista de espera de \\u00f3rganos\", \"title\": \"paciente_lista_espera_organos_cantidad\"}, {\"type\": \"integer\", \"description\": \"Cantidad de pacientes en lista de espera de tejidos\", \"title\": \"pacientes_lista_espera_tejidos_cantidad\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-09-03T10:12:51.286271",
+      "datastore_active": false,
+      "description": "Lista de espera de pacientes de órganos y tejidos por jurisdicción",
+      "fileName": "pacientes-lista-de-espera-organos-tejidos-provincia-incucai-hasta-septiembre-2019.json",
+      "format": "JSON",
+      "hash": "",
+      "id": "salud_7a75a227-f4aa-4b31-864d-5320d3496a06",
+      "last_modified": "2019-09-03T10:12:51.286271",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Lista de espera de pacientes por jurisdicción hasta septiembre 2019",
+      "package_id": "salud_270bdaf7-05cd-4e83-b479-b6491a058110",
+      "position": 3,
+      "resource_type": "file.upload",
+      "revision_id": "ec64d875-7dd7-4102-892a-cb65b0bd1138",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.salud.gob.ar/dataset/270bdaf7-05cd-4e83-b479-b6491a058110/resource/7a75a227-f4aa-4b31-864d-5320d3496a06/download/pacientes-lista-de-espera-organos-tejidos-provincia-incucai-hasta-septiembre-2019.json",
+      "url_type": null
+    }
+  ],
+  "revision_id": "3fb667ab-f074-4190-850a-c56da8db4681",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "Donación de órganos y tejidos",
+      "id": "bbba8f71-5999-464b-b922-5464910cb3ea",
+      "name": "Donación de órganos y tejidos",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "INCUCAI",
+      "id": "654ee133-4714-4084-a73f-bf1b987256c2",
+      "name": "INCUCAI",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Registros Padrones  yo Listados Nacionales en Salud",
+      "id": "064bcc0a-bba2-4db9-ac12-879c4cdb82b0",
+      "name": "Registros Padrones  yo Listados Nacionales en Salud",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "lista de espera",
+      "id": "698f06d2-abb6-4060-8390-6313acc08b36",
+      "name": "lista de espera",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "pacientes",
+      "id": "03de3e83-f924-40a2-a90b-ce33e15caf10",
+      "name": "pacientes",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "transplantes",
+      "id": "7bebbe64-9f38-4f98-b027-f76c8914073d",
+      "name": "transplantes",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Pacientes en lista de espera del Incucai",
+  "type": "dataset",
+  "url": "http://datos.salud.gob.ar/dataset/lista-de-espera",
+  "version": null
+}

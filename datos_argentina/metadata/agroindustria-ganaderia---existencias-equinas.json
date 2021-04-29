@@ -1,0 +1,183 @@
+{
+  "author": "Ministerio de Agricultura, Ganadera y Pesca - Dirección de equinos",
+  "author_email": "hipica@magyp.gob.ar",
+  "creator_user_id": "dc157489-51c6-44ce-bd63-3bd983d60778",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P1Y"
+    },
+    {
+      "key": "issued",
+      "value": "2018-12-07T21:25:05.357148"
+    },
+    {
+      "key": "language",
+      "value": "[\"spa\"]"
+    },
+    {
+      "key": "modified",
+      "value": "2019-10-02T11:28:44.626893"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"AGRI\"]"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Agroganadería, pesca y forestación",
+      "display_name": "Agroganadería, pesca y forestación",
+      "id": "0c35ea38-7059-41d2-9827-5587769d0dc6",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225145.990789agroganaderia-pesca-forestacion.svg",
+      "name": "agri",
+      "title": "Agroganadería, pesca y forestación"
+    }
+  ],
+  "id": "agroindustria_a73732e3-8d07-4ae8-aaa4-5b063c262ace",
+  "isopen": true,
+  "license_id": "CC-BY-4.0",
+  "license_title": "Creative Commons Attribution 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "maintainer": "Ministerio de Agricultura, Ganadera y Pesca - Dirección de equinos",
+  "maintainer_email": "hipica@magyp.gob.ar",
+  "metadata_created": "2019-12-04T21:13:09.760588",
+  "metadata_modified": "2021-04-29T17:16:18.416582",
+  "name": "agroindustria-ganaderia---existencias-equinas",
+  "notes": "Existencias ganaderas de equinos registrados en SENASA, desagregadas por categorías, provincia y departamentos desde el año 2008 al 2017. Los datos se toman al mes de marzo de cada año. La codificación regional se realizó con datos de INDEC.",
+  "num_resources": 2,
+  "num_tags": 8,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:07.834957",
+    "description": "",
+    "id": "b10c94e2-ade1-4a97-8c4c-b1ada7878d60",
+    "image_url": "",
+    "is_organization": true,
+    "name": "agroindustria",
+    "revision_id": "f7c3b6e9-d48f-4522-9f7a-388d805c8392",
+    "state": "active",
+    "title": "Ministerio de Agricultura, Ganadería y Pesca",
+    "type": "organization"
+  },
+  "owner_org": "b10c94e2-ade1-4a97-8c4c-b1ada7878d60",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "http://datos.agroindustria.gob.ar/dataset/a73732e3-8d07-4ae8-aaa4-5b063c262ace/resource/c8be94de-51e2-4795-beeb-77c608b82271",
+      "attributesDescription": "[{\"type\": \"integer\", \"description\": \"pais_id\", \"title\": \"pais_id\"}, {\"type\": \"string\", \"description\": \"pais\", \"title\": \"pais\"}, {\"type\": \"integer\", \"description\": \"provincia_id\", \"title\": \"provincia_id\"}, {\"type\": \"string\", \"description\": \"provincia\", \"title\": \"provincia\"}, {\"type\": \"string\", \"description\": \"departamento_id\", \"title\": \"departamento_id\"}, {\"type\": \"string\", \"description\": \"departamento\", \"title\": \"departamento\"}, {\"type\": \"integer\", \"description\": \"a\\u0144o\", \"title\": \"a\\u0144o\"}, {\"type\": \"string\", \"description\": \"categoria\", \"title\": \"categoria\"}, {\"type\": \"integer\", \"description\": \"cantidad\", \"title\": \"cantidad\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2018-06-29T18:28:15.658449",
+      "datastore_active": false,
+      "description": "Existencias ganaderas de equinos registrados en SENASA, desagregadas por categorías, provincia y departamentos desde el año 2008 al 2017. Los datos se toman al mes de marzo de cada año.",
+      "fileName": "copia-de-base-sigsa-por-categorias-y-localidades-2008-2017-.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "agroindustria_c8be94de-51e2-4795-beeb-77c608b82271",
+      "last_modified": "2019-01-25T12:22:41.936480",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Existencias equinas",
+      "package_id": "agroindustria_a73732e3-8d07-4ae8-aaa4-5b063c262ace",
+      "position": 0,
+      "resource_type": "file.upload",
+      "revision_id": "d46b3e00-2632-4cfd-988c-cad5cee5a76a",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.agroindustria.gob.ar/dataset/a73732e3-8d07-4ae8-aaa4-5b063c262ace/resource/c8be94de-51e2-4795-beeb-77c608b82271/download/copia-de-base-sigsa-por-categorias-y-localidades-2008-2017-.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos.agroindustria.gob.ar/dataset/a73732e3-8d07-4ae8-aaa4-5b063c262ace/resource/faaaa7c9-c7f5-4842-9f0c-e289a0c4ba0f",
+      "attributesDescription": "[{\"specialType\": \"time_index\", \"specialTypeDetail\": \"R/P1Y\", \"type\": \"date\", \"title\": \"indice_tiempo\"}, {\"units\": \"Unidad\", \"id\": \"AGRO_0328\", \"type\": \"integer\", \"description\": \"Cantidad de caballos.\", \"title\": \"caballos\"}, {\"units\": \"Unidad\", \"id\": \"AGRO_0329\", \"type\": \"integer\", \"description\": \"Cantidad de yeguas.\", \"title\": \"yeguas\"}, {\"units\": \"Unidad\", \"id\": \"AGRO_0330\", \"type\": \"integer\", \"description\": \"Cantidad de potrillos y potrillas\", \"title\": \"potrillos_potrillas\"}, {\"units\": \"Unidad\", \"id\": \"AGRO_0331\", \"type\": \"integer\", \"description\": \"Cantidad de mulas.\", \"title\": \"mulas\"}, {\"units\": \"Unidad\", \"id\": \"AGRO_0332\", \"type\": \"integer\", \"description\": \"Cantidad de burros y burras\", \"title\": \"burros_burras\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-09-12T15:41:09.336374",
+      "datastore_active": false,
+      "description": "Existencias equinas clasificadas por categorías. Totales anuales desde 2008 a la última actualización.",
+      "fileName": "existencias_equinas_anual.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "agroindustria_faaaa7c9-c7f5-4842-9f0c-e289a0c4ba0f",
+      "last_modified": "2019-09-23T10:53:31.836750",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Serie de tiempo",
+      "package_id": "agroindustria_a73732e3-8d07-4ae8-aaa4-5b063c262ace",
+      "position": 1,
+      "resource_type": "file.upload",
+      "revision_id": "80dbab52-6e5e-4cd6-ae5e-3e08ec84543a",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.agroindustria.gob.ar/dataset/a73732e3-8d07-4ae8-aaa4-5b063c262ace/resource/faaaa7c9-c7f5-4842-9f0c-e289a0c4ba0f/download/existencias_equinas_anual.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "f6ff862f-47a6-4582-bc68-fdc55c2dea61",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "asno",
+      "id": "a6f9b158-d3f3-4a52-ada0-6f42b2438548",
+      "name": "asno",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "burro",
+      "id": "a7dde1cd-277e-4bd2-b1e7-b7966401acec",
+      "name": "burro",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "caballo",
+      "id": "820d511f-575c-486e-8d0d-fff6ca553881",
+      "name": "caballo",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "mula",
+      "id": "86f37f21-03c1-4f0c-b996-09a49ec29121",
+      "name": "mula",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "padrillos",
+      "id": "14070455-5f7e-4b78-9a86-082d6329e5c4",
+      "name": "padrillos",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "potrillo",
+      "id": "0a1031ed-56d6-4d8b-a31e-b98f417adf4d",
+      "name": "potrillo",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "stock equino",
+      "id": "e4e1e8c7-46f6-4593-bb67-12f860da15b6",
+      "name": "stock equino",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "yegua",
+      "id": "a440f1e8-af58-4cd3-8a7b-2a24b76ad3a0",
+      "name": "yegua",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Ganadería - Existencias equinas",
+  "type": "dataset",
+  "url": "https://datos.agroindustria.gob.ar/dataset/existencias-equinas",
+  "version": null
+}

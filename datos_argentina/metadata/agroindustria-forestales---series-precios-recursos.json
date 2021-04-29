@@ -1,0 +1,173 @@
+{
+  "author": "Dirección Nacional de Desarrollo Foresto Industrial",
+  "author_email": "ssdfi@magyp.gob.ar",
+  "creator_user_id": "dc157489-51c6-44ce-bd63-3bd983d60778",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P3M"
+    },
+    {
+      "key": "issued",
+      "value": "2018-12-07T21:24:53.037884"
+    },
+    {
+      "key": "language",
+      "value": "[\"spa\"]"
+    },
+    {
+      "key": "modified",
+      "value": "2019-10-24T11:10:00.813454"
+    },
+    {
+      "key": "spatial",
+      "value": "[\"ARG\"]"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"AGRI\"]"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Agroganadería, pesca y forestación",
+      "display_name": "Agroganadería, pesca y forestación",
+      "id": "0c35ea38-7059-41d2-9827-5587769d0dc6",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225145.990789agroganaderia-pesca-forestacion.svg",
+      "name": "agri",
+      "title": "Agroganadería, pesca y forestación"
+    }
+  ],
+  "id": "agroindustria_72a6ff21-ff1e-4fa6-b5e7-bcecb7a11896",
+  "isopen": true,
+  "license_id": "CC-BY-4.0",
+  "license_title": "Creative Commons Attribution 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "maintainer": "Dirección Nacional de Desarrollo Foresto Industrial",
+  "maintainer_email": "ssdfi@magyp.gob.ar",
+  "metadata_created": "2019-12-04T20:01:02.395507",
+  "metadata_modified": "2021-04-29T13:05:59.263386",
+  "name": "agroindustria-forestales---series-precios-recursos",
+  "notes": "Series de precios de recursos de origen forestal, desde el año 1996, clasificados por especie: rollizos con destino aserrado, debobinado, pasta celulósica, tableros. Éstos se dividen también por provincia y por región.",
+  "num_resources": 2,
+  "num_tags": 6,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:07.834957",
+    "description": "",
+    "id": "b10c94e2-ade1-4a97-8c4c-b1ada7878d60",
+    "image_url": "",
+    "is_organization": true,
+    "name": "agroindustria",
+    "revision_id": "f7c3b6e9-d48f-4522-9f7a-388d805c8392",
+    "state": "active",
+    "title": "Ministerio de Agricultura, Ganadería y Pesca",
+    "type": "organization"
+  },
+  "owner_org": "b10c94e2-ade1-4a97-8c4c-b1ada7878d60",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "http://datos.agroindustria.gob.ar/dataset/72a6ff21-ff1e-4fa6-b5e7-bcecb7a11896/resource/2e99ab56-a931-4006-a2e2-585b7f4c0d7c",
+      "attributesDescription": "[{\"type\": \"string\", \"description\": \"pais_id\", \"title\": \"pais_id\"}, {\"type\": \"string\", \"description\": \"pais\", \"title\": \"pais\"}, {\"type\": \"integer\", \"description\": \"provincia_id\", \"title\": \"provincia_id\"}, {\"type\": \"string\", \"description\": \"provincia\", \"title\": \"provincia\"}, {\"type\": \"string\", \"description\": \"a\\u00f1o\", \"title\": \"a\\u00f1o\"}, {\"type\": \"string\", \"description\": \"ccp 2.0\", \"title\": \"ccp 2.0\"}, {\"type\": \"string\", \"description\": \"destino\", \"title\": \"destino\"}, {\"type\": \"string\", \"description\": \"diametro_uni_med\", \"title\": \"diametro_uni_med\"}, {\"type\": \"string\", \"description\": \"diametro\", \"title\": \"diametro\"}, {\"type\": \"string\", \"description\": \"especie\", \"title\": \"especie\"}, {\"type\": \"string\", \"description\": \"moneda_id\", \"title\": \"moneda_id\"}, {\"type\": \"string\", \"description\": \"uni_med\", \"title\": \"uni_med\"}, {\"type\": \"number\", \"description\": \"precio / uni_med\", \"title\": \"precio / uni_med\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-08-25T12:42:35.782400",
+      "datastore_active": false,
+      "description": "Series de precios de recursos de origen forestal desde el año 1996 divididos por especie: Rollizos con destino aserrado, debobinado, pasta celulósica, tableros. Divididos por provincia.",
+      "fileName": "evolucion-precio-de-recursos-forestales-por-provincia-v10.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "agroindustria_2e99ab56-a931-4006-a2e2-585b7f4c0d7c",
+      "last_modified": "2019-01-22T12:52:19.969987",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Series de precios de recursos forestales por provincia",
+      "package_id": "agroindustria_72a6ff21-ff1e-4fa6-b5e7-bcecb7a11896",
+      "position": 0,
+      "resource_type": "file.upload",
+      "revision_id": "4ae8e0ee-902d-447a-9c16-0869e5067884",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.agroindustria.gob.ar/dataset/72a6ff21-ff1e-4fa6-b5e7-bcecb7a11896/resource/2e99ab56-a931-4006-a2e2-585b7f4c0d7c/download/evolucion-precio-recursos-forestales-provincia.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos.agroindustria.gob.ar/dataset/72a6ff21-ff1e-4fa6-b5e7-bcecb7a11896/resource/a2c87b9e-a564-4c5a-925a-677eeaaa56d1",
+      "attributesDescription": "[{\"type\": \"string\", \"description\": \"pais_id\", \"title\": \"pais_id\"}, {\"type\": \"string\", \"description\": \"pais\", \"title\": \"pais\"}, {\"type\": \"string\", \"description\": \"regi\\u00f3n\", \"title\": \"regi\\u00f3n\"}, {\"type\": \"string\", \"description\": \"a\\u00f1o\", \"title\": \"a\\u00f1o\"}, {\"type\": \"string\", \"description\": \"ccp 2.0\", \"title\": \"ccp 2.0\"}, {\"type\": \"string\", \"description\": \"destino\", \"title\": \"destino\"}, {\"type\": \"string\", \"description\": \"diametro_uni_med\", \"title\": \"diametro_uni_med\"}, {\"type\": \"string\", \"description\": \"diametro\", \"title\": \"diametro\"}, {\"type\": \"string\", \"description\": \"especie\", \"title\": \"especie\"}, {\"type\": \"string\", \"description\": \"moneda_id\", \"title\": \"moneda_id\"}, {\"type\": \"string\", \"description\": \"uni_med\", \"title\": \"uni_med\"}, {\"type\": \"number\", \"description\": \"precio / uni_med\", \"title\": \"precio / uni_med\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-08-25T12:43:31.571679",
+      "datastore_active": false,
+      "description": "Series de precios de recursos de origen forestal desde el año 1996 divididos por especie: Rollizos con destino aserrado, debobinado, pasta celulósica, tableros. Divididos por región.",
+      "fileName": "evolucion-precio-de-recursos-forestales-por-region-v10.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "agroindustria_a2c87b9e-a564-4c5a-925a-677eeaaa56d1",
+      "last_modified": "2019-01-15T11:53:24.229595",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Series de precios de recursos forestales por región",
+      "package_id": "agroindustria_72a6ff21-ff1e-4fa6-b5e7-bcecb7a11896",
+      "position": 1,
+      "resource_type": "file.upload",
+      "revision_id": "750040bd-7263-471b-94f6-0c1d5f60cb10",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.agroindustria.gob.ar/dataset/72a6ff21-ff1e-4fa6-b5e7-bcecb7a11896/resource/a2c87b9e-a564-4c5a-925a-677eeaaa56d1/download/evolucion-precio-recursos-forestales-region.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "39b5d9bd-dc59-47ad-b4fb-654d4b7516a8",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "debobinado",
+      "id": "3a40831b-6f01-41a8-b126-037b2f43d877",
+      "name": "debobinado",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "forestales",
+      "id": "33ebeede-926e-4fe9-a971-df722050a40f",
+      "name": "forestales",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "pasta celulósica",
+      "id": "c94d07cf-5d3b-4ae9-b6aa-e709f1db7130",
+      "name": "pasta celulósica",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "pastas",
+      "id": "df0cd783-3f35-4ced-83d9-9587f6a6a73a",
+      "name": "pastas",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "rollizos",
+      "id": "0aec18fd-e56c-4ab1-aae3-9b38cda4e4d0",
+      "name": "rollizos",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "tablero",
+      "id": "681cd0b1-4a01-4bc4-9fba-1dab3c990f9d",
+      "name": "tablero",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Forestales - Series de precios de recursos",
+  "type": "dataset",
+  "url": "https://datos.agroindustria.gob.ar/dataset/series-precios-recursos-forestales",
+  "version": null
+}

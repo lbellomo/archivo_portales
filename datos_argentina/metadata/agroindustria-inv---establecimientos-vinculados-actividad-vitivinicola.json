@@ -1,0 +1,158 @@
+{
+  "author": "Dirección de Información y Estadística Pública - Secretaría de Mercados Agroindustriales",
+  "author_email": "estadisticas@inv.gov.ar",
+  "creator_user_id": "dc157489-51c6-44ce-bd63-3bd983d60778",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "eventual"
+    },
+    {
+      "key": "issued",
+      "value": "2018-12-07T21:20:57.320674"
+    },
+    {
+      "key": "language",
+      "value": "[\"spa\"]"
+    },
+    {
+      "key": "modified",
+      "value": "2019-10-24T10:42:49.646393"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"AGRI\"]"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Agroganadería, pesca y forestación",
+      "display_name": "Agroganadería, pesca y forestación",
+      "id": "0c35ea38-7059-41d2-9827-5587769d0dc6",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225145.990789agroganaderia-pesca-forestacion.svg",
+      "name": "agri",
+      "title": "Agroganadería, pesca y forestación"
+    }
+  ],
+  "id": "agroindustria_94cd4864-1739-4e5e-b65f-034486afa407",
+  "isopen": true,
+  "license_id": "CC-BY-4.0",
+  "license_title": "Creative Commons Attribution 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "maintainer": null,
+  "maintainer_email": null,
+  "metadata_created": "2019-12-04T20:01:33.619104",
+  "metadata_modified": "2021-04-29T17:16:03.340972",
+  "name": "agroindustria-inv---establecimientos-vinculados-actividad-vitivinicola",
+  "notes": "Cantidad de establecimientos a nivel departamental vinculados a la actividad vitivinícola de acuerdo a la información brindada por el Instituto Nacional de Vitivinicultura (INV).",
+  "num_resources": 1,
+  "num_tags": 8,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:07.834957",
+    "description": "",
+    "id": "b10c94e2-ade1-4a97-8c4c-b1ada7878d60",
+    "image_url": "",
+    "is_organization": true,
+    "name": "agroindustria",
+    "revision_id": "f7c3b6e9-d48f-4522-9f7a-388d805c8392",
+    "state": "active",
+    "title": "Ministerio de Agricultura, Ganadería y Pesca",
+    "type": "organization"
+  },
+  "owner_org": "b10c94e2-ade1-4a97-8c4c-b1ada7878d60",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "http://datos.agroindustria.gob.ar/dataset/94cd4864-1739-4e5e-b65f-034486afa407/resource/16e20ac2-e396-4a30-ba71-45e1cb10c284",
+      "attributesDescription": "[{\"type\": \"integer\", \"description\": \"C\\u00f3digo Nacional\", \"title\": \"pais_id\"}, {\"type\": \"string\", \"description\": \"Divisi\\u00f3n pol\\u00edtica mundial\", \"title\": \"nompais_id\"}, {\"type\": \"integer\", \"description\": \"C\\u00f3digo Provincial\", \"title\": \"codprovincia\"}, {\"type\": \"string\", \"description\": \"Divisi\\u00f3n pol\\u00edtica provincial\", \"title\": \"provincia\"}, {\"type\": \"integer\", \"description\": \"C\\u00f3digo departamental\", \"title\": \"departamento_id\"}, {\"type\": \"string\", \"description\": \"Divisi\\u00f3n pol\\u00edtica departamental\", \"title\": \"partido_nom\"}, {\"type\": \"integer\", \"description\": \"C\\u00f3digo que permite identificar de forma \\u00fanica los departamentos. Por medio de este c\\u00f3digo se puede asociar los objetos geogr\\u00e1ficos con la informaci\\u00f3n.\", \"title\": \"link\"}, {\"type\": \"integer\", \"description\": \"Cantidad de bodegas que se encuentran en el departamento. El valor se obtuvo a partir del proceso de georreferenciaci\\u00f3n de la ubicaci\\u00f3n de los establecimientos y el posterior agrupado por departamento\", \"title\": \"cant_bodegas\"}, {\"type\": \"integer\", \"description\": \"Cantidad de vi\\u00f1edos que se encuentran en el departamento. El valor se obtuvo a partir del proceso de georreferenciaci\\u00f3n de la ubicaci\\u00f3n de los establecimientos y el posterior agrupado por departamento\", \"title\": \"cant_vinedos\"}, {\"type\": \"integer\", \"description\": \"Cantidad de f\\u00e1bricas de vinos espumantes que se encuentran en el departamento. El valor se obtuvo a partir de georreferenciar la ubicaci\\u00f3n de los establecimientos y el posterior agrupado por dpto.\", \"title\": \"cant_fabrica\"}, {\"type\": \"string\", \"description\": \"Fuente de la informaci\\u00f3n: Instituto Nacional de Vitinicultura.\", \"title\": \"SAG\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-09-04T18:56:25.442644",
+      "datastore_active": false,
+      "description": "Cantidad de establecimientos a nivel departamental vinculados a la actividad vitivinícola de acuerdo a la información brindada por el Instituto Nacional de Vitivinicultura (INV).",
+      "fileName": "establecimientos-nivel-departamental-vinculados-actividad-vitivinicola-acuerdo-al-inv.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "agroindustria_16e20ac2-e396-4a30-ba71-45e1cb10c284",
+      "last_modified": "2019-02-05T14:55:33.744376",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Establecimientos a nivel departamental vinculados a la actividad vitivinícola de acuerdo al INV",
+      "package_id": "agroindustria_94cd4864-1739-4e5e-b65f-034486afa407",
+      "position": 0,
+      "resource_type": "file.upload",
+      "revision_id": "fc3a3448-b56d-4132-a09b-3c5e54cb558c",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.agroindustria.gob.ar/dataset/94cd4864-1739-4e5e-b65f-034486afa407/resource/16e20ac2-e396-4a30-ba71-45e1cb10c284/download/establecimientos-nivel-departamental-vinculados-actividad-vitivinicola-acuerdo-al-inv.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "2c5d55ac-b2b5-40ac-81e8-b129f90f5650",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "INV",
+      "id": "09b15d94-e213-45c6-95c9-5d88bb164b35",
+      "name": "INV",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Vinos",
+      "id": "14e9b2dc-af1f-4ef4-a5d1-d67c89fa74bd",
+      "name": "Vinos",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "bodega",
+      "id": "68f4cf2c-6b59-410a-9250-14ef123921cc",
+      "name": "bodega",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "bodegas",
+      "id": "eb1e4eaa-633a-4a57-831a-8eec0053e686",
+      "name": "bodegas",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "proveedores vitivinicolas",
+      "id": "2eabe3f2-fcce-498e-8db7-361e4d2c27fe",
+      "name": "proveedores vitivinicolas",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "vitivinícola",
+      "id": "a04b42e3-92cd-4357-888c-60c46e267448",
+      "name": "vitivinícola",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "viñedo",
+      "id": "e00d49a2-fb7f-416d-a14c-dbe985c2ccc4",
+      "name": "viñedo",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "viñedos",
+      "id": "b775fcc0-5618-4602-a353-fe3132ca9994",
+      "name": "viñedos",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "INV - Establecimientos vinculados a la actividad vitivinicola",
+  "type": "dataset",
+  "url": "https://datos.agroindustria.gob.ar/dataset/establecimientos-nivel-departamental-vinculados-actividad-vitivinicola-acuerdo-al-inv",
+  "version": null
+}

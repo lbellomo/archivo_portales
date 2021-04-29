@@ -1,0 +1,227 @@
+{
+  "author": "Dirección Nacional de Desarrollo Foresto Industrial",
+  "author_email": "dndfi@magyp.gob.ar",
+  "creator_user_id": "dc157489-51c6-44ce-bd63-3bd983d60778",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P1Y"
+    },
+    {
+      "key": "issued",
+      "value": "2019-06-24T13:41:34.108335"
+    },
+    {
+      "key": "language",
+      "value": "[\"spa\"]"
+    },
+    {
+      "key": "modified",
+      "value": "2019-10-24T10:35:22.057621"
+    },
+    {
+      "key": "source",
+      "value": "Dirección Nacional de Desarrollo Foresto Industrial - MAGyP"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"AGRI\"]"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Agroganadería, pesca y forestación",
+      "display_name": "Agroganadería, pesca y forestación",
+      "id": "0c35ea38-7059-41d2-9827-5587769d0dc6",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225145.990789agroganaderia-pesca-forestacion.svg",
+      "name": "agri",
+      "title": "Agroganadería, pesca y forestación"
+    }
+  ],
+  "id": "agroindustria_df434d5b-405f-4527-b63b-947a1571788a",
+  "isopen": true,
+  "license_id": "CC-BY-4.0",
+  "license_title": "Creative Commons Attribution 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "maintainer": "Dirección Nacional de Desarrollo Foresto Industrial",
+  "maintainer_email": "dndfi@magyp.gob.ar",
+  "metadata_created": "2019-12-04T21:13:08.497500",
+  "metadata_modified": "2021-04-29T13:06:17.581382",
+  "name": "agroindustria-forestales---extracciones-bosques-cultivados",
+  "notes": "Se presentan las extracciones forestales como rollizos, carbón, leña, postes y otros, correspondientes a Bosques Cultivados en la República Argentina, clasificados según familia, género y especie en las diferentes provincias. ",
+  "num_resources": 2,
+  "num_tags": 14,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:07.834957",
+    "description": "",
+    "id": "b10c94e2-ade1-4a97-8c4c-b1ada7878d60",
+    "image_url": "",
+    "is_organization": true,
+    "name": "agroindustria",
+    "revision_id": "f7c3b6e9-d48f-4522-9f7a-388d805c8392",
+    "state": "active",
+    "title": "Ministerio de Agricultura, Ganadería y Pesca",
+    "type": "organization"
+  },
+  "owner_org": "b10c94e2-ade1-4a97-8c4c-b1ada7878d60",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "http://datos.agroindustria.gob.ar/dataset/df434d5b-405f-4527-b63b-947a1571788a/resource/3109b4ab-7837-4e8d-b0aa-ed0a26b1188a",
+      "attributesDescription": "[{\"type\": \"integer\", \"description\": \"C\\u00f3digo del pa\\u00eds\", \"title\": \"pais_id\"}, {\"type\": \"string\", \"description\": \"Nombre del pa\\u00eds\", \"title\": \"pais\"}, {\"type\": \"integer\", \"description\": \"C\\u00f3digo de la provincia\", \"title\": \"provincia_id\"}, {\"type\": \"string\", \"description\": \"Nombre de la provincia\", \"title\": \"provincia\"}, {\"type\": \"integer\", \"description\": \"A\\u00f1o de la toma del dato\", \"title\": \"anio\"}, {\"type\": \"string\", \"description\": \"Familias bot\\u00e1nicas de las que se informa las distintas extracciones\", \"title\": \"familia\"}, {\"type\": \"string\", \"description\": \"G\\u00e9nero de los que se informa las distintas extracciones\", \"title\": \"genero\"}, {\"type\": \"string\", \"description\": \"Especies bot\\u00e1nicas de las que se informa las distintas extracciones\\n\", \"title\": \"especie\"}, {\"type\": \"string\", \"description\": \"Agrupaci\\u00f3n de especies seg\\u00fan uso pr\\u00e1ctico\", \"title\": \"especies_agrupadas\"}, {\"units\": \"Toneladas\", \"id\": \"t\", \"type\": \"integer\", \"description\": \"Toneladas de rollizos\", \"title\": \"rollizos\"}, {\"units\": \"Toneladas\", \"id\": \"t\", \"type\": \"integer\", \"description\": \"Toneladas de carb\\u00f3n\", \"title\": \"carbon\"}, {\"units\": \"Toneladas\", \"id\": \"t\", \"type\": \"integer\", \"description\": \"Toneladas de le\\u00f1a\", \"title\": \"lenia\"}, {\"units\": \"Toneladas\", \"id\": \"t\", \"type\": \"integer\", \"description\": \"Toneladas de postes\", \"title\": \"postes\"}, {\"units\": \"Toneladas\", \"id\": \"t\", \"type\": \"integer\", \"description\": \"Toneladas de otros productos de extracci\\u00f3n\", \"title\": \"otros\"}, {\"units\": \"Toneladas\", \"id\": \"t\", \"type\": \"integer\", \"description\": \"Toneladas como suma de todos los productos de extracci\\u00f3n forestal\", \"title\": \"todos_los_productos\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-07-18T16:50:33.818574",
+      "datastore_active": false,
+      "description": "Se presentan las extracciones forestales como rollizos, carbón, leña, postes y otros, correspondientes a Bosques Cultivados en la República Argentina.",
+      "fileName": "extracciones-forestales-1998-2017.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "agroindustria_3109b4ab-7837-4e8d-b0aa-ed0a26b1188a",
+      "last_modified": "2019-09-05T15:18:50.978790",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Extracciones en bosques cultivados",
+      "package_id": "agroindustria_df434d5b-405f-4527-b63b-947a1571788a",
+      "position": 0,
+      "resource_type": "file.upload",
+      "revision_id": "924aa3cc-343f-4c67-a6d7-2ef00bf0d50c",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.agroindustria.gob.ar/dataset/df434d5b-405f-4527-b63b-947a1571788a/resource/3109b4ab-7837-4e8d-b0aa-ed0a26b1188a/download/extracciones-forestales-1998-2017.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://geoportal.agroindustria.gob.ar/tematizador/extracciones_forestales/",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-08-30T15:42:00.929191",
+      "datastore_active": false,
+      "description": "Visualización interactiva de las extracciones forestales de bosques cultivados.",
+      "format": "web",
+      "hash": "",
+      "id": "agroindustria_e8ab36ae-d0ba-41b6-9a7f-60baec62843f",
+      "last_modified": "2019-12-05T15:16:46.599989",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Mapeo de Extracciones Forestales de Bosques Cultivados",
+      "package_id": "agroindustria_df434d5b-405f-4527-b63b-947a1571788a",
+      "position": 1,
+      "resource_type": "documentation",
+      "revision_id": "126fe01c-f8ed-4d15-b47e-dc5cda72a28d",
+      "size": null,
+      "state": "active",
+      "url": "https://geoportal.agroindustria.gob.ar/tematizador/extracciones_forestales/",
+      "url_type": null
+    }
+  ],
+  "revision_id": "0c8401eb-57b2-4022-89fc-cf0b24acba64",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "bosque",
+      "id": "006b5d87-786e-46e8-9239-cdf9f561d04c",
+      "name": "bosque",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "bosque cultivado",
+      "id": "5b67c231-8553-401e-b24b-ae6ea96d1ceb",
+      "name": "bosque cultivado",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "bosques",
+      "id": "4443410b-8701-4097-bc3d-991a6f1c2d3f",
+      "name": "bosques",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "carbon",
+      "id": "c3099e6b-80b2-4765-b31e-7995c26dcd69",
+      "name": "carbon",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "especies forestales",
+      "id": "3e0a4b4c-57d7-4731-9923-980329418321",
+      "name": "especies forestales",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "estadistica forestal",
+      "id": "4339f367-9fcf-46e6-90a5-107a200fb78e",
+      "name": "estadistica forestal",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "extracciones forestales",
+      "id": "7b0d779a-3d6c-4c48-a376-0b4cccda65b3",
+      "name": "extracciones forestales",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "forestales",
+      "id": "33ebeede-926e-4fe9-a971-df722050a40f",
+      "name": "forestales",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "forestoindustrial",
+      "id": "fd435fa9-1b9e-4667-ae2f-30b37074939b",
+      "name": "forestoindustrial",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "leña",
+      "id": "e586c7fd-c300-4156-83e7-d9a3af1e5460",
+      "name": "leña",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "poste",
+      "id": "7c140f67-5055-48e1-8bcb-fbce9d1b6567",
+      "name": "poste",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "productos forestales",
+      "id": "cf71f7fc-d09a-455d-b7e8-1924d4564037",
+      "name": "productos forestales",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "provincias forestales",
+      "id": "4e551dd2-ea1f-4828-a603-e80bc7e978cc",
+      "name": "provincias forestales",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "rollizo",
+      "id": "74018804-f020-44d8-a6ef-98b8d71c77bc",
+      "name": "rollizo",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Forestales - Extracciones en bosques cultivados",
+  "type": "dataset",
+  "url": "https://datos.agroindustria.gob.ar/dataset/extracciones-forestales",
+  "version": null
+}

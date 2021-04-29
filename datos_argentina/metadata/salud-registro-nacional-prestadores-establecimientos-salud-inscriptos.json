@@ -1,0 +1,215 @@
+{
+  "author": "Ministerio de Salud. Superintendencia de Servicios de Salud. Gerencia de Control Prestacional. Coordinación de Registros de Prestadores, Redes de Prestadores y Contratos.",
+  "author_email": "datos@sssalud.gob.ar",
+  "creator_user_id": "4720e75a-9e17-4dc3-879d-041917c7f9f9",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P6M"
+    },
+    {
+      "key": "issued",
+      "value": "2018-09-21T11:44:49.973420"
+    },
+    {
+      "key": "language",
+      "value": "[\"spa\"]"
+    },
+    {
+      "key": "modified",
+      "value": "2020-05-15T15:52:59.513753"
+    },
+    {
+      "key": "source",
+      "value": "Ministerio de Salud. Superintendencia de Servicios de Salud. Gerencia de Control Prestacional. Coordinación de Registros de Prestadores, Redes de Prestadores y Contratos."
+    },
+    {
+      "key": "spatial",
+      "value": "[\"ARG\"]"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"HEAL\"]"
+    },
+    {
+      "key": "temporal",
+      "value": "2017-09-07T03:00:00.000Z/2018-03-06T03:00:00.000Z"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Salud",
+      "display_name": "Salud",
+      "id": "65cc1fbf-703a-43bf-8a14-232a55c34976",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225809.913196salud.svg",
+      "name": "heal",
+      "title": "Salud"
+    }
+  ],
+  "id": "salud_bf5eca70-9c72-47e9-a134-cea473fe8e27",
+  "isopen": false,
+  "license_id": "notspecified",
+  "license_title": "No se especificó la licencia",
+  "maintainer": "Ministerio de Salud. Superintendencia de Servicios de Salud. Gerencia de Control Prestacional. Coordinación de Registros de Prestadores, Redes de Prestadores y Contratos.",
+  "maintainer_email": "datos@sssalud.gob.ar",
+  "metadata_created": "2019-11-26T15:01:44.749326",
+  "metadata_modified": "2021-04-29T17:05:31.222601",
+  "name": "salud-registro-nacional-prestadores-establecimientos-salud-inscriptos",
+  "notes": "Establecimientos de salud  inscriptos, por provincia y tipo, correspondientes al Registro Nacional de Prestadores de la Superintendencia de Servicios de Salud, incluyendo denominación, disposición, calle, vencimiento del certificado",
+  "num_resources": 4,
+  "num_tags": 4,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-11-15T11:12:22.202856",
+    "description": "",
+    "id": "dd1f2018-587f-43af-9b07-fc32f5ab588b",
+    "image_url": "",
+    "is_organization": true,
+    "name": "salud",
+    "revision_id": "14f0bb85-f97d-4325-b1c8-a7c1d3a815bf",
+    "state": "active",
+    "title": "Ministerio de Salud",
+    "type": "organization"
+  },
+  "owner_org": "dd1f2018-587f-43af-9b07-fc32f5ab588b",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "http://datos.salud.gob.ar/dataset/bf5eca70-9c72-47e9-a134-cea473fe8e27/resource/9eb64f5b-a0cc-4fdc-8afd-1206a64814b1",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2018-09-21T11:45:59.637272",
+      "datastore_active": false,
+      "description": "Registro Nacional de prestadores. Establecimientos de salud  inscriptos, por provincia y tipo, correspondientes al Registro Nacional de Prestadores de la Superintendencia de Servicios de Salud.\r\n",
+      "fileName": "20180910registroestablecimientos.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "salud_9eb64f5b-a0cc-4fdc-8afd-1206a64814b1",
+      "last_modified": "2019-09-03T10:57:56.451803",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Registro Nacional de Prestadores Establecimientos Inscriptos hasta diciembre 2018",
+      "package_id": "salud_bf5eca70-9c72-47e9-a134-cea473fe8e27",
+      "position": 0,
+      "resource_type": "file",
+      "revision_id": "369aa886-899d-4a72-a5a5-097ac8d488a7",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.salud.gob.ar/dataset/bf5eca70-9c72-47e9-a134-cea473fe8e27/resource/9eb64f5b-a0cc-4fdc-8afd-1206a64814b1/download/20180910registroestablecimientos.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos.salud.gob.ar/dataset/bf5eca70-9c72-47e9-a134-cea473fe8e27/resource/fe0d62ee-fdc9-4741-abe8-c813eb490219",
+      "attributesDescription": "[{\"type\": \"string\", \"description\": \"Tipo de establecimiento\", \"title\": \"tipo\"}, {\"type\": \"string\", \"description\": \"Nombre del establecimiento\", \"title\": \"denominacion\"}, {\"type\": \"string\", \"description\": \"Disposiciones normativas\", \"title\": \"disposicion\"}, {\"type\": \"string\", \"description\": \"Domicilio del establecimiento\", \"title\": \"calle\"}, {\"type\": \"string\", \"description\": \"Localidad\", \"title\": \"localidad\"}, {\"type\": \"integer\", \"description\": \"C\\u00f3digo de Jurisdicci\\u00f3n\", \"title\": \"jurisdiccion_id\"}, {\"type\": \"string\", \"description\": \"Nombre de Jurisdicci\\u00f3n\", \"title\": \"jurisdiccion_nombre\"}, {\"type\": \"date\", \"description\": \"Vencimiento\", \"title\": \"vencimiento\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-09-03T11:05:17.756754",
+      "datastore_active": false,
+      "description": "Registro Nacional de prestadores. Establecimientos de salud inscriptos, por provincia y tipo, correspondientes al Registro Nacional de Prestadores de la Superintendencia de Servicios de Salud.",
+      "fileName": "registro-nacional-prestadores-establecimientos-salud-inscriptos-sss-20190827.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "salud_fe0d62ee-fdc9-4741-abe8-c813eb490219",
+      "last_modified": "2019-09-03T11:05:17.756754",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Registro Nacional de Prestadores Establecimientos Inscriptos hasta agosto 2019",
+      "package_id": "salud_bf5eca70-9c72-47e9-a134-cea473fe8e27",
+      "position": 1,
+      "resource_type": "file.upload",
+      "revision_id": "9e7a01c5-89ea-4fa7-85f7-c97d1f07b6c2",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.salud.gob.ar/dataset/bf5eca70-9c72-47e9-a134-cea473fe8e27/resource/fe0d62ee-fdc9-4741-abe8-c813eb490219/download/registro-nacional-prestadores-establecimientos-salud-inscriptos-sss-20190827.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos.salud.gob.ar/dataset/bf5eca70-9c72-47e9-a134-cea473fe8e27/resource/771d5d48-04c7-42f0-a108-4070d6d44b01",
+      "attributesDescription": "[{\"type\": \"string\", \"description\": \"Tipo de establecimiento\", \"title\": \"tipo\"}, {\"type\": \"string\", \"description\": \"Nombre del establecimiento\", \"title\": \"denominacion\"}, {\"type\": \"string\", \"description\": \"Disposiciones normativas\", \"title\": \"disposicion\"}, {\"type\": \"string\", \"description\": \"Domicilio del establecimiento\", \"title\": \"calle\"}, {\"type\": \"string\", \"description\": \"Localidad\", \"title\": \"localidad\"}, {\"type\": \"integer\", \"description\": \"C\\u00f3digo de Jurisdicci\\u00f3n\", \"title\": \"jurisdiccion_id\"}, {\"type\": \"string\", \"description\": \"Nombre de Jurisdicci\\u00f3n\", \"title\": \"jurisdiccion_nombre\"}, {\"type\": \"date\", \"description\": \"Vencimiento\", \"title\": \"vencimiento\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-09-03T11:08:18.887756",
+      "datastore_active": false,
+      "description": "Registro Nacional de prestadores. Establecimientos de salud inscriptos, por provincia y tipo, correspondientes al Registro Nacional de Prestadores de la Superintendencia de Servicios de Salud.",
+      "fileName": "registro-nacional-prestadores-establecimientos-salud-inscriptos-sss-20190827s.xls",
+      "format": "XLS",
+      "hash": "",
+      "id": "salud_771d5d48-04c7-42f0-a108-4070d6d44b01",
+      "last_modified": "2019-09-03T11:08:18.887756",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Registro Nacional de Prestadores Establecimientos Inscriptos hasta agosto 2019",
+      "package_id": "salud_bf5eca70-9c72-47e9-a134-cea473fe8e27",
+      "position": 2,
+      "resource_type": "file.upload",
+      "revision_id": "187b9fd6-61fa-444c-ab11-b6b723588454",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.salud.gob.ar/dataset/bf5eca70-9c72-47e9-a134-cea473fe8e27/resource/771d5d48-04c7-42f0-a108-4070d6d44b01/download/registro-nacional-prestadores-establecimientos-salud-inscriptos-sss-20190827s.xls",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos.salud.gob.ar/dataset/bf5eca70-9c72-47e9-a134-cea473fe8e27/resource/d6e3b422-c6a0-4575-b759-c7c8f0ecca24",
+      "attributesDescription": "[{\"type\": \"string\", \"description\": \"Tipo de establecimiento\", \"title\": \"tipo\"}, {\"type\": \"string\", \"description\": \"Nombre del establecimiento\", \"title\": \"denominacion\"}, {\"type\": \"string\", \"description\": \"Disposiciones normativas\", \"title\": \"disposicion\"}, {\"type\": \"string\", \"description\": \"Domicilio del establecimiento\", \"title\": \"calle\"}, {\"type\": \"string\", \"description\": \"Localidad\", \"title\": \"localidad\"}, {\"type\": \"integer\", \"description\": \"C\\u00f3digo de Jurisdicci\\u00f3n\", \"title\": \"jurisdiccion_id\"}, {\"type\": \"string\", \"description\": \"Nombre de Jurisdicci\\u00f3n\", \"title\": \"jurisdiccion_nombre\"}, {\"type\": \"date\", \"description\": \"Vencimiento\", \"title\": \"vencimiento\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-09-03T11:10:38.344833",
+      "datastore_active": false,
+      "description": "Registro Nacional de prestadores. Establecimientos de salud inscriptos, por provincia y tipo, correspondientes al Registro Nacional de Prestadores de la Superintendencia de Servicios de Salud.",
+      "fileName": "sss-facturacion-hospitales-publicos-gestion-descentralizada-2019.json",
+      "format": "JSON",
+      "hash": "",
+      "id": "salud_d6e3b422-c6a0-4575-b759-c7c8f0ecca24",
+      "last_modified": "2019-09-03T11:10:38.344833",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Registro Nacional de Prestadores Establecimientos Inscriptos hasta agosto 2019",
+      "package_id": "salud_bf5eca70-9c72-47e9-a134-cea473fe8e27",
+      "position": 3,
+      "resource_type": "file.upload",
+      "revision_id": "187b9fd6-61fa-444c-ab11-b6b723588454",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.salud.gob.ar/dataset/bf5eca70-9c72-47e9-a134-cea473fe8e27/resource/d6e3b422-c6a0-4575-b759-c7c8f0ecca24/download/sss-facturacion-hospitales-publicos-gestion-descentralizada-2019.json",
+      "url_type": null
+    }
+  ],
+  "revision_id": "052bb4b5-dac7-46c7-bd88-588036670441",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "Registros Padrones  yo Listados Nacionales en Salud",
+      "id": "064bcc0a-bba2-4db9-ac12-879c4cdb82b0",
+      "name": "Registros Padrones  yo Listados Nacionales en Salud",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "SSS",
+      "id": "2cc03fb7-dd56-4ee4-a757-8585898f7446",
+      "name": "SSS",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "establecimientos",
+      "id": "b070442d-5091-4f08-aad3-b60ca38e2ba8",
+      "name": "establecimientos",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "prestadores",
+      "id": "cc458a5c-79f2-4d12-85ef-7fb8e4e619b7",
+      "name": "prestadores",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Registro Nacional de Prestadores de Establecimientos de Salud Inscriptos",
+  "type": "dataset",
+  "url": "https://www.sssalud.gob.ar/?cat=prestadores&page=buspres",
+  "version": null
+}

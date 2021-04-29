@@ -1,0 +1,177 @@
+{
+  "author": "Ministerio de Defensa. Secretaría de Investigación, Política Industrial y Producción para la Defensa. Subsecretaría de Investigación Científica y Política Industrial para la Defensa. Servicio de Hidrografía Naval.",
+  "author_email": "shn@hidro.gov.ar",
+  "creator_user_id": "dc157489-51c6-44ce-bd63-3bd983d60778",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P1Y"
+    },
+    {
+      "key": "issued",
+      "value": "2019-11-30"
+    },
+    {
+      "key": "language",
+      "value": "[\"SPA\"]"
+    },
+    {
+      "key": "source",
+      "value": "Servicio de Hidrografía Naval"
+    },
+    {
+      "key": "spatial",
+      "value": "ARG"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"ENVI\"]"
+    },
+    {
+      "key": "temporal",
+      "value": "2018-01-01/2019-12-31"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Medio ambiente",
+      "display_name": "Medio ambiente",
+      "id": "f71fe9d7-c703-43be-8d9d-af9441c326ba",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225440.964279medio-ambiente.svg",
+      "name": "envi",
+      "title": "Medio ambiente"
+    }
+  ],
+  "id": "shn_02",
+  "isopen": true,
+  "license_id": "CC-BY-4.0",
+  "license_title": "Creative Commons Attribution 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "maintainer": "Observatorio Naval Buenos Aires",
+  "maintainer_email": "onba@hidro.gov.ar",
+  "metadata_created": "2020-02-07T18:14:25.645858",
+  "metadata_modified": "2021-04-29T17:05:17.684713",
+  "name": "shn-salida-puesta-luna",
+  "notes": "Datos de Salida y puesta, azimut y fases de la Luna en las ciudades más importantes de la República Argentina.",
+  "num_resources": 2,
+  "num_tags": 6,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2020-02-07T15:10:25.819545",
+    "description": "",
+    "id": "c665e7c4-3a0e-43cf-ba02-e75b09b7bac8",
+    "image_url": "",
+    "is_organization": true,
+    "name": "shn",
+    "revision_id": "18aefd9b-6e36-42be-ac4a-37142633b1d3",
+    "state": "active",
+    "title": "Servicio de Hidrografía Naval",
+    "type": "organization"
+  },
+  "owner_org": "c665e7c4-3a0e-43cf-ba02-e75b09b7bac8",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "http://www.hidro.gob.ar/DA/DatosAbiertos.asp",
+      "attributesDescription": "[{\"title\": \"localidad\", \"type\": \"text\", \"description\": \"Localidad observada\"}, {\"title\": \"Latitud\", \"type\": \"text\", \"description\": \"Latitud en grados y minutos. SUR (S)\"}, {\"title\": \"Longitud\", \"type\": \"text\", \"description\": \"Longitud en grados y minutos OESTE (W)\"}, {\"title\": \"anio\", \"type\": \"number\", \"description\": \"A\\u00f1o actual\"}, {\"title\": \"mes\", \"type\": \"text\", \"description\": \"Mes actual (abreviatura: Ene, Feb,Mar,Abr,May,Jun,Jul, Ago,Set,Oct,Nov,Dic)\"}, {\"title\": \"dia\", \"type\": \"integer\", \"description\": \"N\\u00famero correspondiente al d\\u00eda del mes en que se produce la salida de la luna.\"}, {\"title\": \"salida_luna\", \"type\": \"time\", \"description\": \"Hora y minutos en que se produce la salida de la luna.\"}, {\"title\": \"azimut_salida\", \"type\": \"text\", \"description\": \"\\u00c1ngulo medido en grados sobre el horizonte, desde el punto cardinal Norte hacia el punto cardinal Este, hasta la vertical del astro. (\\\" *** \\\" significa que la Luna est\\u00e1 continuamente sobre el horizonte, \\n\\\" ---- \\\" significa que la Luna est\\u00e1 continuamente debajo del horizonte).\"}, {\"title\": \"puesta_luna\", \"type\": \"time\", \"description\": \"Instante en que se pone la luna.\"}, {\"title\": \"azimut_puesta\", \"type\": \"text\", \"description\": \"\\u00c1ngulo medido en grados sobre el horizonte, desde el punto cardinal Norte hacia el punto cardinal Este, hasta la vertical del astro.(\\\" *** \\\" significa que la Luna est\\u00e1 continuamente sobre el horizonte, \\n\\\" ---- \\\" significa que la Luna est\\u00e1 continuamente debajo del horizonte).\"}, {\"title\": \"fase\", \"type\": \"text\", \"description\": \"Diversos aspectos de la Luna que se suceden c\\u00edclicamente. Valores posibles: Luna Nueva (LN), Cuarto Creciente (CC), Luna Llena (LL) y Cuarto Menguante (CM).\"}, {\"title\": \"hora_fase\", \"type\": \"text\", \"description\": \"Hora y minutos en que se produce la Fase de la Luna.\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-12-31T00:00:00",
+      "datastore_active": false,
+      "description": "Datos de horas de salida y puesta de luna por ciudades y año",
+      "fileName": "luna2018.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "shn_2.1",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Salida y puesta de luna 2018 por ciudades",
+      "package_id": "shn_02",
+      "position": 0,
+      "resource_type": "file",
+      "revision_id": "800cdbb6-9e22-4636-aded-204ca86ab7ef",
+      "size": null,
+      "state": "active",
+      "url": "http://www.hidro.gob.ar/DA/csv/luna2018.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://www.hidro.gob.ar/DA/DatosAbiertos.asp",
+      "attributesDescription": "[{\"title\": \"localidad\", \"type\": \"text\", \"description\": \"Localidad observada\"}, {\"title\": \"latitud\", \"type\": \"text\", \"description\": \"Latitud en grados y minutos. SUR (S)\"}, {\"title\": \"longitud\", \"type\": \"text\", \"description\": \"Longitud en grados y minutos OESTE (W)\"}, {\"title\": \"anio\", \"type\": \"integer\", \"description\": \"A\\u00f1o actual\"}, {\"title\": \"mes\", \"type\": \"text\", \"description\": \"Mes actual (abreviatura: Ene, Feb,Mar,Abr,May,Jun,Jul, Ago,Set,Oct,Nov,Dic)\"}, {\"title\": \"dia\", \"type\": \"integer\", \"description\": \"N\\u00famero correspondiente al d\\u00eda del mes en que se produce la salida de la luna.\"}, {\"title\": \"salida_luna\", \"type\": \"time\", \"description\": \"Hora y minutos en que se produce la salida de la luna.\"}, {\"title\": \"azimut_salida\", \"type\": \"text\", \"description\": \"\\u00c1ngulo medido en grados sobre el horizonte, desde el punto cardinal Norte hacia el punto cardinal Este, hasta la vertical del astro. Puede darse: \\\" *** \\\" significa que la Luna est\\u00e1 continuamente sobre el horizonte, \\n\\\" ---- \\\" significa que la Luna est\\u00e1 continuamente debajo del horizonte.\"}, {\"title\": \"puesta_luna\", \"type\": \"time\", \"description\": \"Instante en que se pone la luna.\"}, {\"title\": \"azimut_puesta\", \"type\": \"text\", \"description\": \"\\u00c1ngulo medido en grados sobre el horizonte, desde el punto cardinal Norte hacia el punto cardinal Este, hasta la vertical del astro. Puede darse: \\\" *** \\\" significa que la Luna est\\u00e1 continuamente sobre el horizonte, \\n\\\" ---- \\\" significa que la Luna est\\u00e1 continuamente debajo del horizonte.\"}, {\"title\": \"fase\", \"type\": \"text\", \"description\": \"Diversos aspectos de la Luna que se suceden c\\u00edclicamente. Valores posibles: Luna Nueva (LN), Cuarto Creciente (CC), Luna Llena (LL) y Cuarto Menguante (CM).\"}, {\"title\": \"hora_fase\", \"type\": \"text\", \"description\": \"Hora y minutos en que se produce la Fase de la Luna.\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-12-31T00:00:00",
+      "datastore_active": false,
+      "description": "Datos de horas de salida y puesta de luna por ciudades y año",
+      "fileName": "luna2019.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "shn_2.2",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Salida y puesta de luna 2019 por ciudades",
+      "package_id": "shn_02",
+      "position": 1,
+      "resource_type": "file",
+      "revision_id": "800cdbb6-9e22-4636-aded-204ca86ab7ef",
+      "size": null,
+      "state": "active",
+      "url": "http://www.hidro.gob.ar/DA/csv/luna2019.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "8256e9b4-3c48-4798-ac4b-613f12d8a769",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "azimut lunar.",
+      "id": "2ea4b3d1-4c16-4bfe-b052-13b4c21c2d13",
+      "name": "azimut lunar.",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "calendario lunar",
+      "id": "b14184d0-b5c9-4a28-8028-91a3a7d26112",
+      "name": "calendario lunar",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "fases lunares",
+      "id": "5b6eff69-58d1-48fb-9776-71a0e16110d4",
+      "name": "fases lunares",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "hora  fase lunar",
+      "id": "3b8f56c6-587b-4570-8f98-6ab286d36866",
+      "name": "hora  fase lunar",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "puesta luna",
+      "id": "250e28d3-69e8-4e0d-8b9d-c55e2f5d9fc0",
+      "name": "puesta luna",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "salida luna",
+      "id": "e6cac77b-0b01-4fdb-81fe-fdb88161bc22",
+      "name": "salida luna",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Salida y puesta de luna",
+  "type": "dataset",
+  "url": "http://www.hidro.gov.ar/DA/DatosAbiertos.asp",
+  "version": null
+}

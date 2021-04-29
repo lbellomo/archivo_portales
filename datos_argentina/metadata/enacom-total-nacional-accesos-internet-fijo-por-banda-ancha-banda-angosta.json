@@ -1,0 +1,180 @@
+{
+  "author": "Ente Nacional de Comunicaciones (ENACOM)",
+  "author_email": "contacto@enacom.gob.ar",
+  "creator_user_id": "4720e75a-9e17-4dc3-879d-041917c7f9f9",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P1Y"
+    },
+    {
+      "key": "issued",
+      "value": "2018-09-05T18:38:05"
+    },
+    {
+      "key": "language",
+      "value": "[\"spa\"]"
+    },
+    {
+      "key": "modified",
+      "value": "2020-04-20T22:52:28Z"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"TECH\"]"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Ciencia y tecnología",
+      "display_name": "Ciencia y tecnología",
+      "id": "0dd7dd0e-aae8-402f-8660-f1e8b6b6084c",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225221.170833ciencia-tecnologia.svg",
+      "name": "tech",
+      "title": "Ciencia y tecnología"
+    }
+  ],
+  "id": "enacom_TOTAL-NACIO-DE-ACCES-48866",
+  "isopen": false,
+  "license_id": "notspecified",
+  "license_title": "No se especificó la licencia",
+  "maintainer": null,
+  "maintainer_email": null,
+  "metadata_created": "2019-11-26T14:55:45.061831",
+  "metadata_modified": "2021-04-29T17:04:28.425068",
+  "name": "enacom-total-nacional-accesos-internet-fijo-por-banda-ancha-banda-angosta",
+  "notes": "Número total de accesos al servicio de Internet fijo por banda ancha y banda angosta (trimestral)",
+  "num_resources": 3,
+  "num_tags": 5,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:07.525331",
+    "description": "",
+    "id": "6eb7d19b-2d42-494f-8e57-d67c501d23eb",
+    "image_url": "",
+    "is_organization": true,
+    "name": "enacom",
+    "revision_id": "f2d2a5ad-7015-4d68-9d9c-5a82fadbbbf3",
+    "state": "active",
+    "title": "Ente Nacional de Comunicaciones",
+    "type": "organization"
+  },
+  "owner_org": "6eb7d19b-2d42-494f-8e57-d67c501d23eb",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/240976/total-nacional-de-accesos-a-internet-fijo-por-banda-ancha-y-banda-angosta/",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2018-09-05T18:38:05",
+      "datastore_active": false,
+      "description": "Número total de accesos al servicio de Internet fijo por banda ancha y banda angosta (trimestral)",
+      "format": "CSV",
+      "hash": "",
+      "id": "enacom_TOTAL-NACIO-DE-ACCES-48866_0",
+      "last_modified": "2020-04-20T19:52:28",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Total nacional de accesos a Internet fijo por banda ancha y banda angosta",
+      "package_id": "enacom_TOTAL-NACIO-DE-ACCES-48866",
+      "position": 0,
+      "resource_type": null,
+      "revision_id": "73bc7494-47ed-49aa-b069-e3127aa86468",
+      "size": null,
+      "state": "active",
+      "url": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/TOTAL-NACIO-DE-ACCES-48866/data.csv?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/240976/total-nacional-de-accesos-a-internet-fijo-por-banda-ancha-y-banda-angosta/",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2018-09-05T18:38:05",
+      "datastore_active": false,
+      "description": "Número total de accesos al servicio de Internet fijo por banda ancha y banda angosta (trimestral)",
+      "format": "XLS",
+      "hash": "",
+      "id": "enacom_TOTAL-NACIO-DE-ACCES-48866_1",
+      "last_modified": "2020-04-20T19:52:28",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Total nacional de accesos a Internet fijo por banda ancha y banda angosta",
+      "package_id": "enacom_TOTAL-NACIO-DE-ACCES-48866",
+      "position": 1,
+      "resource_type": null,
+      "revision_id": "202abd46-1a8f-4f10-8259-f88bc8f41df5",
+      "size": null,
+      "state": "active",
+      "url": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/TOTAL-NACIO-DE-ACCES-48866/data.xls?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/240976/total-nacional-de-accesos-a-internet-fijo-por-banda-ancha-y-banda-angosta/",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2018-09-05T18:38:05",
+      "datastore_active": false,
+      "description": "Número total de accesos al servicio de Internet fijo por banda ancha y banda angosta (trimestral)",
+      "format": "JSON",
+      "hash": "",
+      "id": "enacom_TOTAL-NACIO-DE-ACCES-48866_2",
+      "last_modified": "2020-04-20T19:52:28",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Total nacional de accesos a Internet fijo por banda ancha y banda angosta",
+      "package_id": "enacom_TOTAL-NACIO-DE-ACCES-48866",
+      "position": 2,
+      "resource_type": null,
+      "revision_id": "73bc7494-47ed-49aa-b069-e3127aa86468",
+      "size": null,
+      "state": "active",
+      "url": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/TOTAL-NACIO-DE-ACCES-48866/data.json?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1",
+      "url_type": null
+    }
+  ],
+  "revision_id": "ce3514ed-1687-4ca6-963e-4bb1e1b08b99",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "Acceso a Internet",
+      "id": "18825a12-ee47-4a47-9544-22fe697030f7",
+      "name": "Acceso a Internet",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "banda ancha",
+      "id": "3a46769a-1f6c-4530-86e3-47730ca576c4",
+      "name": "banda ancha",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "banda angosta",
+      "id": "4cd8b37e-5cf9-4cc4-a336-9525ef65a372",
+      "name": "banda angosta",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "internet",
+      "id": "b399e3f0-17e4-4d66-837e-035c4c167e22",
+      "name": "internet",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "provincial",
+      "id": "a7156109-b267-4c12-a7e8-c18fac2592e2",
+      "name": "provincial",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Total nacional de accesos a Internet fijo por banda ancha y banda angosta",
+  "type": "dataset",
+  "url": "http://api.datosabiertos.enacom.gob.ar/dataset/enacom-total-nacional-accesos-internet-fijo-por-banda-ancha-banda-angosta",
+  "version": null
+}

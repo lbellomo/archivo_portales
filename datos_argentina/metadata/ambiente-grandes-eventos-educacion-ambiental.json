@@ -1,0 +1,119 @@
+{
+  "author": "Ministerio de Ambiente y Desarrollo Sostenible. Dirección Nacional de Educación Ambiental y Participación Ciudadana.",
+  "author_email": "jgoldschtein@ambiente.gob.ar",
+  "creator_user_id": "4720e75a-9e17-4dc3-879d-041917c7f9f9",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "eventual"
+    },
+    {
+      "key": "issued",
+      "value": "2017-09-06T19:19:01.217453"
+    },
+    {
+      "key": "language",
+      "value": "[\"spa\"]"
+    },
+    {
+      "key": "modified",
+      "value": "2020-09-29T13:39:00.928253"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"ENVI\"]"
+    },
+    {
+      "key": "temporal",
+      "value": "2016-01-01T03:00:00.000Z/2017-08-31T03:00:00.000Z"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Medio ambiente",
+      "display_name": "Medio ambiente",
+      "id": "f71fe9d7-c703-43be-8d9d-af9441c326ba",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225440.964279medio-ambiente.svg",
+      "name": "envi",
+      "title": "Medio ambiente"
+    }
+  ],
+  "id": "ambiente_3bde7244-fffa-4357-b7b1-2c6277098455",
+  "isopen": false,
+  "license_id": "notspecified",
+  "license_title": "No se especificó la licencia",
+  "maintainer": "Ministerio de Ambiente y Desarrollo Sostenible. Dirección Nacional de Educación Ambiental y Participación Ciudadana.",
+  "maintainer_email": "jgoldschtein@ambiente.gob.ar",
+  "metadata_created": "2019-11-26T14:57:50.506516",
+  "metadata_modified": "2021-04-29T17:18:11.970919",
+  "name": "ambiente-grandes-eventos-educacion-ambiental",
+  "notes": "Son los eventos de educación ambiental destinados a niños, jóvenes y público en general con el fin de  enseñar contenidos y educar en hábitos y valores en relación al ambiente",
+  "num_resources": 1,
+  "num_tags": 2,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:07.043831",
+    "description": "",
+    "id": "0e5aa328-825e-4509-851d-5421e866635e",
+    "image_url": "",
+    "is_organization": true,
+    "name": "ambiente",
+    "revision_id": "105eb915-270c-4f67-9b4e-e6a3f08be6d7",
+    "state": "active",
+    "title": "Ministerio de Ambiente y Desarrollo Sostenible",
+    "type": "organization"
+  },
+  "owner_org": "0e5aa328-825e-4509-851d-5421e866635e",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "http://datos.ambiente.gob.ar/dataset/3bde7244-fffa-4357-b7b1-2c6277098455/resource/f338e1ca-70bd-42c1-a577-1db5390172f2",
+      "attributesDescription": "[{\"type\": \"integer\", \"description\": \"A\\u00f1o en el cual se realiza el evento\", \"title\": \"evento_anio\"}, {\"type\": \"string\", \"description\": \"Tipo de evento realizado\", \"title\": \"evento_tipo\"}, {\"type\": \"string\", \"description\": \"Destinatarios del evento\", \"title\": \"evento_destinatario\"}, {\"type\": \"integer\", \"description\": \"Cantidad de visitantes al evento\", \"title\": \"evento_visitantes_numero\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-09-07T12:39:12.146587",
+      "datastore_active": false,
+      "description": "Son los eventos de Educación Ambiental destinados a niños, jóvenes y público en general con el fin de  que enseñar contenidos y educar en hábitos y valores en relación al ambiente",
+      "fileName": "eventos-educacion-ambiental.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "ambiente_f338e1ca-70bd-42c1-a577-1db5390172f2",
+      "last_modified": "2019-11-25T11:06:23.294724",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Eventos de educación ambiental",
+      "package_id": "ambiente_3bde7244-fffa-4357-b7b1-2c6277098455",
+      "position": 0,
+      "resource_type": "file.upload",
+      "revision_id": "3ce0d774-82b7-41a9-aa1a-48fabb92aaa0",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.ambiente.gob.ar/dataset/3bde7244-fffa-4357-b7b1-2c6277098455/resource/f338e1ca-70bd-42c1-a577-1db5390172f2/download/eventos-educacion-ambiental.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "374d503e-2597-4b33-99ad-e7b0a00d37f7",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "Educación",
+      "id": "6b5009d1-95d4-4085-914d-681e8dcdf55d",
+      "name": "Educación",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Educación ambiental",
+      "id": "ae91e279-5829-495c-8ba2-5ee6631cf18e",
+      "name": "Educación ambiental",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Grandes eventos de educación ambiental",
+  "type": "dataset",
+  "url": "http://datos.ambiente.gob.ar/dataset/",
+  "version": null
+}

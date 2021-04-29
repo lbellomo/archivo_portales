@@ -1,0 +1,152 @@
+{
+  "author": "Ministerio de Energía y Minería.Secretaría de Planeamiento Energético Estratégico.Subsecretaría de Escenarios y Evaluación de Proyectos. Dirección Nacional de Información Energética.Tecnología de la Información.  ",
+  "author_email": "tienerg@energia.gob.ar",
+  "creator_user_id": "4720e75a-9e17-4dc3-879d-041917c7f9f9",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "eventual"
+    },
+    {
+      "key": "issued",
+      "value": "2016-11-07T13:33:34.985951"
+    },
+    {
+      "key": "modified",
+      "value": "2018-03-08T11:23:42.356037"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"ENER\"]"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Energía",
+      "display_name": "Energía",
+      "id": "a4d3f632-eb48-4163-9791-165989c16035",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225337.421630energia.svg",
+      "name": "ener",
+      "title": "Energía"
+    }
+  ],
+  "id": "energia_768d848f-22eb-4d6f-b878-77982fb5f65d",
+  "isopen": false,
+  "license_id": "notspecified",
+  "license_title": "No se especificó la licencia",
+  "maintainer": "Ministerio de Energía y Minería.Secretaría de Planeamiento Energético Estratégico.Subsecretaría de Infraestructura Energética.",
+  "maintainer_email": null,
+  "metadata_created": "2019-11-26T15:00:25.864715",
+  "metadata_modified": "2021-04-29T17:17:23.260859",
+  "name": "energia-obras-gas",
+  "notes": "Obras vigentes que se desarrollan con aporte de fondos del Estado Nacional.Incluye obras de tendido de gasoductos, ramales, refuerzos,redes de distribución y domiciliarias así como de instalaciones complementarias,plantas compresoras, estaciones reguladoras de presión, etc.Este listado fue confeccionado por la Subsecretaría de Infraestructura Energética del Ministerio de Energía y Minería de la Nación y surge del seguimiento que la Coordinación de Obras de Gas realiza del desarrollo de las obras",
+  "num_resources": 1,
+  "num_tags": 8,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:09.221510",
+    "description": "",
+    "id": "cd1b32a2-2d3a-44ac-8c98-a425a7b62d42",
+    "image_url": "",
+    "is_organization": true,
+    "name": "energia",
+    "revision_id": "a184cf69-99ad-4f84-a254-020031d7fe63",
+    "state": "active",
+    "title": "Secretaría de Energía",
+    "type": "organization"
+  },
+  "owner_org": "cd1b32a2-2d3a-44ac-8c98-a425a7b62d42",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "http://datos.minem.gob.ar/dataset/768d848f-22eb-4d6f-b878-77982fb5f65d/resource/b0db214e-f3a7-4e34-9089-dd64d5f74dfb",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-05-04T20:06:23.528178",
+      "datastore_active": false,
+      "description": "",
+      "fileName": "obras-gas.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "energia_b0db214e-f3a7-4e34-9089-dd64d5f74dfb",
+      "last_modified": "2017-08-09T14:47:47.414884",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Obras de GAS",
+      "package_id": "energia_768d848f-22eb-4d6f-b878-77982fb5f65d",
+      "position": 0,
+      "resource_type": null,
+      "revision_id": "1de6eeec-1079-4b39-b365-84bce2ddcf8a",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.minem.gob.ar/dataset/768d848f-22eb-4d6f-b878-77982fb5f65d/resource/b0db214e-f3a7-4e34-9089-dd64d5f74dfb/download/obras-gas.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "d6eacf7d-273d-4f1f-aff7-bdb8d8104007",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "Estación reguladora",
+      "id": "56130ac8-130e-4ac5-9193-2ea6b1c476a2",
+      "name": "Estación reguladora",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Gasoductos",
+      "id": "85ab2ffc-beed-4eb0-a49a-f8a8dd89665c",
+      "name": "Gasoductos",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Loop",
+      "id": "12be945e-221e-4060-a9d9-1e84e67735ca",
+      "name": "Loop",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Obras",
+      "id": "c4f93fc7-2266-449a-8cf6-d24e119de697",
+      "name": "Obras",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Planta compresora",
+      "id": "31cd1191-3e82-4f70-8eb3-d9e2cd120939",
+      "name": "Planta compresora",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Red de distribución",
+      "id": "25910adb-148d-4f46-8ec7-8a36a38572a0",
+      "name": "Red de distribución",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Red domiciliaria",
+      "id": "e43a7949-3dee-44e4-8ad0-54322705096d",
+      "name": "Red domiciliaria",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Refuerzo",
+      "id": "3280fbe5-4420-4460-a3bf-8386816f6ac1",
+      "name": "Refuerzo",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Obras de GAS",
+  "type": "dataset",
+  "url": "http://datos.minem.gob.ar/dataset/obras-de-gas",
+  "version": null
+}

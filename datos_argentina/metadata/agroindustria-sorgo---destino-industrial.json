@@ -1,0 +1,145 @@
+{
+  "author": "Subsecretaría de Mercados Agropecuarios",
+  "author_email": "sma@magyp.gob.ar",
+  "creator_user_id": "dc157489-51c6-44ce-bd63-3bd983d60778",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P1M"
+    },
+    {
+      "key": "issued",
+      "value": "2018-12-07T21:26:56.631418"
+    },
+    {
+      "key": "language",
+      "value": "[\"spa\"]"
+    },
+    {
+      "key": "modified",
+      "value": "2019-10-24T10:41:36.928835"
+    },
+    {
+      "key": "spatial",
+      "value": "[\"ARG\"]"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"AGRI\"]"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Agroganadería, pesca y forestación",
+      "display_name": "Agroganadería, pesca y forestación",
+      "id": "0c35ea38-7059-41d2-9827-5587769d0dc6",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225145.990789agroganaderia-pesca-forestacion.svg",
+      "name": "agri",
+      "title": "Agroganadería, pesca y forestación"
+    }
+  ],
+  "id": "agroindustria_744112c1-c7e0-48a9-a7ad-6b6a0c277b03",
+  "isopen": true,
+  "license_id": "CC-BY-4.0",
+  "license_title": "Creative Commons Attribution 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "maintainer": null,
+  "maintainer_email": null,
+  "metadata_created": "2019-12-04T20:00:53.741018",
+  "metadata_modified": "2021-04-29T17:11:19.772992",
+  "name": "agroindustria-sorgo---destino-industrial",
+  "notes": "Ingreso de Sorgo, en toneladas, a las plantas industriales para su procesamiento.\r\nAño Comercial de Marzo a Febrero.",
+  "num_resources": 2,
+  "num_tags": 2,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:07.834957",
+    "description": "",
+    "id": "b10c94e2-ade1-4a97-8c4c-b1ada7878d60",
+    "image_url": "",
+    "is_organization": true,
+    "name": "agroindustria",
+    "revision_id": "f7c3b6e9-d48f-4522-9f7a-388d805c8392",
+    "state": "active",
+    "title": "Ministerio de Agricultura, Ganadería y Pesca",
+    "type": "organization"
+  },
+  "owner_org": "b10c94e2-ade1-4a97-8c4c-b1ada7878d60",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "http://datos.agroindustria.gob.ar/dataset/744112c1-c7e0-48a9-a7ad-6b6a0c277b03/resource/362d3d99-3d46-45a1-b2a2-1007b3189e23",
+      "attributesDescription": "[{\"type\": \"integer\", \"description\": \"cod_pais\", \"title\": \"cod_pais\"}, {\"type\": \"string\", \"description\": \"nom_pais\", \"title\": \"nom_pais\"}, {\"type\": \"integer\", \"description\": \"a\\u0144o\", \"title\": \"a\\u0144o\"}, {\"type\": \"string\", \"description\": \"producto\", \"title\": \"producto\"}, {\"type\": \"string\", \"description\": \"unidad_id\", \"title\": \"unidad_id\"}, {\"type\": \"string\", \"description\": \"nom_unidad\", \"title\": \"nom_unidad\"}, {\"type\": \"number\", \"description\": \"enero\", \"title\": \"enero\"}, {\"type\": \"number\", \"description\": \"febrero\", \"title\": \"febrero\"}, {\"type\": \"number\", \"description\": \"marzo\", \"title\": \"marzo\"}, {\"type\": \"number\", \"description\": \"abril\", \"title\": \"abril\"}, {\"type\": \"number\", \"description\": \"mayo\", \"title\": \"mayo\"}, {\"type\": \"number\", \"description\": \"junio\", \"title\": \"junio\"}, {\"type\": \"number\", \"description\": \"julio\", \"title\": \"julio\"}, {\"type\": \"number\", \"description\": \"agosto\", \"title\": \"agosto\"}, {\"type\": \"number\", \"description\": \"septiembre\", \"title\": \"septiembre\"}, {\"type\": \"number\", \"description\": \"octubre\", \"title\": \"octubre\"}, {\"type\": \"number\", \"description\": \"noviembre\", \"title\": \"noviembre\"}, {\"type\": \"number\", \"description\": \"diciembre\", \"title\": \"diciembre\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2018-08-07T12:24:42.469489",
+      "datastore_active": false,
+      "description": "Ingreso de Sorgo, en toneladas, a plantas industriales para su procesamiento.\r\n \"0\" indica informado \"Sin Movimiento\".",
+      "fileName": "sorgo-con-destino-a-la-industria.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "agroindustria_362d3d99-3d46-45a1-b2a2-1007b3189e23",
+      "last_modified": "2019-02-11T10:34:52.576627",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Ingreso de Sorgo a plantas para su industrialización",
+      "package_id": "agroindustria_744112c1-c7e0-48a9-a7ad-6b6a0c277b03",
+      "position": 0,
+      "resource_type": "file.upload",
+      "revision_id": "f1940079-b0ab-4881-acbf-11d885ca5412",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.agroindustria.gob.ar/dataset/744112c1-c7e0-48a9-a7ad-6b6a0c277b03/resource/362d3d99-3d46-45a1-b2a2-1007b3189e23/download/sorgo-con-destino-a-la-industria.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos.agroindustria.gob.ar/dataset/744112c1-c7e0-48a9-a7ad-6b6a0c277b03/resource/2a9afad3-ff3f-45c3-bf94-ed6821023d8d",
+      "attributesDescription": "[{\"type\": \"date\", \"title\": \"indice_tiempo\"}, {\"units\": \"tonelada\", \"id\": \"AGRO_0206\", \"type\": \"integer\", \"description\": \"Sorgo con destino a la industria\", \"title\": \"sorgo-con-destino-a-la-industria\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-05-17T12:11:36.828088",
+      "datastore_active": false,
+      "description": "Serie de Tiempo del sorgo con destino a la industria",
+      "fileName": "serie-sorgo-con-destino-a-la-industria.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "agroindustria_2a9afad3-ff3f-45c3-bf94-ed6821023d8d",
+      "last_modified": "2019-12-26T15:16:19.654364",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Serie de Tiempo del sorgo con destino a la industria",
+      "package_id": "agroindustria_744112c1-c7e0-48a9-a7ad-6b6a0c277b03",
+      "position": 1,
+      "resource_type": "file.upload",
+      "revision_id": "f1940079-b0ab-4881-acbf-11d885ca5412",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.agroindustria.gob.ar/dataset/744112c1-c7e0-48a9-a7ad-6b6a0c277b03/resource/2a9afad3-ff3f-45c3-bf94-ed6821023d8d/download/serie-sorgo-con-destino-a-la-industria.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "c0fbd1ef-5263-412c-8c6a-1bc41e4a67e1",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "mercados",
+      "id": "6d9c3d18-454a-4717-89ce-4e036d867102",
+      "name": "mercados",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "sorgo",
+      "id": "f5386bee-4546-4f3d-9076-2b4b2bea0833",
+      "name": "sorgo",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Sorgo - destino industrial",
+  "type": "dataset",
+  "url": "https://datos.agroindustria.gob.ar/dataset/sorgo-con-destino-industria",
+  "version": null
+}

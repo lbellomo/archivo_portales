@@ -1,0 +1,161 @@
+{
+  "author": "Secretaría de Integración Productiva",
+  "author_email": "datos.abiertos@produccion.gob.ar",
+  "creator_user_id": "4720e75a-9e17-4dc3-879d-041917c7f9f9",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "eventual"
+    },
+    {
+      "key": "issued",
+      "value": "2018-10-05T14:54:46.000Z"
+    },
+    {
+      "key": "modified",
+      "value": "2020-02-26T02:44:56.000Z"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"econ\"]"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Economía y finanzas",
+      "display_name": "Economía y finanzas",
+      "id": "60b4b03e-10a1-4d67-b984-08008a249617",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225257.200233economia-finanzas.svg",
+      "name": "econ",
+      "title": "Economía y finanzas"
+    }
+  ],
+  "id": "produccion_H1PyieBcm",
+  "isopen": true,
+  "license_id": "CC-BY-4.0",
+  "license_title": "Creative Commons Attribution 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "maintainer": null,
+  "maintainer_email": null,
+  "metadata_created": "2019-11-26T14:57:12.953653",
+  "metadata_modified": "2021-04-29T17:04:47.043469",
+  "name": "produccion-casas-produccion",
+  "notes": "Ofrece capacitaciones, eventos y actividades para micro, pequeñas y medianas empresas en todo el país. Los especialistas de Casas de la producción asisten en la gestión de emprendimientos y en la aplicación a otros programas del Ministerio.",
+  "num_resources": 2,
+  "num_tags": 6,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:10.463340",
+    "description": "",
+    "id": "1ca8d15b-31fc-4f09-ba09-53edd3d4cce6",
+    "image_url": "",
+    "is_organization": true,
+    "name": "produccion",
+    "revision_id": "36d8ec89-d20f-4fe1-866c-e38988d28442",
+    "state": "active",
+    "title": "Ministerio de Desarrollo Productivo",
+    "type": "organization"
+  },
+  "owner_org": "1ca8d15b-31fc-4f09-ba09-53edd3d4cce6",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "http://datos.produccion.gob.ar/dataset/casas-de-la-produccion",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2018-10-05T11:54:46",
+      "datastore_active": false,
+      "description": "Ubicación de las Casas de la Producción por región, provincia, ciudad, dirección y contacto.",
+      "format": "CSV",
+      "hash": "",
+      "id": "produccion_Sk6PdWH9Q",
+      "last_modified": "2019-02-05T16:28:01",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Sedes de Casas de la producción",
+      "package_id": "produccion_H1PyieBcm",
+      "position": 0,
+      "resource_type": null,
+      "revision_id": "5ba53637-e829-4b3e-91c1-f7e2e6f3dc2a",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.produccion.gob.ar/api/files/sedes-de-casas-de-la-produccion.csv/download",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos.produccion.gob.ar/dataset/casas-de-la-produccion",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2018-10-05T11:54:46",
+      "datastore_active": false,
+      "description": "Guía explicativa de cada uno de los campos de los recursos que conforman el dataset y ejemplos de los mismos.",
+      "format": "PDF",
+      "hash": "",
+      "id": "produccion_SysobXHcQ",
+      "last_modified": "2019-02-05T16:28:01",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Guía de datos casas de la producción",
+      "package_id": "produccion_H1PyieBcm",
+      "position": 1,
+      "resource_type": null,
+      "revision_id": "e7d31b77-c684-4e74-9a32-554e50f0a2f6",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.produccion.gob.ar/api/files/guia-de-datos-casas-de-la-produccion.pdf/download",
+      "url_type": null
+    }
+  ],
+  "revision_id": "721540c7-cd06-460c-ae94-47a0f69d91c8",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "Asesoramiento PyMEs",
+      "id": "8a827bbb-840b-4d93-b82d-0669086f80c5",
+      "name": "Asesoramiento PyMEs",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Capacitación PyMEs",
+      "id": "ff001c67-9eb4-4afb-afc8-e2cc7e9c3ee1",
+      "name": "Capacitación PyMEs",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Casas de la Producción",
+      "id": "bb818884-e926-438f-bdce-0bc14164824a",
+      "name": "Casas de la Producción",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Emprendedores",
+      "id": "1ec9b06b-31d5-4d1c-a198-bbeb43c48486",
+      "name": "Emprendedores",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "PyMEs",
+      "id": "5e48e296-35ca-43d6-8f07-7a3010aeb059",
+      "name": "PyMEs",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Pymes",
+      "id": "97635f98-f203-4647-ae25-9a02f74c1d28",
+      "name": "Pymes",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Casas de la producción",
+  "type": "dataset",
+  "url": "http://datos.produccion.gob.ar/dataset/casas-de-la-produccion",
+  "version": null
+}

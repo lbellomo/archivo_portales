@@ -1,0 +1,115 @@
+{
+  "author": "Subsecretaría de Mercados Agropecuarios",
+  "author_email": "sma@magyp.gob.ar",
+  "creator_user_id": "dc157489-51c6-44ce-bd63-3bd983d60778",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P1M"
+    },
+    {
+      "key": "issued",
+      "value": "2018-12-07T21:26:46.502663"
+    },
+    {
+      "key": "language",
+      "value": "[\"spa\"]"
+    },
+    {
+      "key": "modified",
+      "value": "2019-10-24T11:26:22.764014"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"AGRI\"]"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Agroganadería, pesca y forestación",
+      "display_name": "Agroganadería, pesca y forestación",
+      "id": "0c35ea38-7059-41d2-9827-5587769d0dc6",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225145.990789agroganaderia-pesca-forestacion.svg",
+      "name": "agri",
+      "title": "Agroganadería, pesca y forestación"
+    }
+  ],
+  "id": "agroindustria_6a0fbae2-bd08-42bd-b604-49696973e5a1",
+  "isopen": true,
+  "license_id": "CC-BY-4.0",
+  "license_title": "Creative Commons Attribution 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "maintainer": null,
+  "maintainer_email": null,
+  "metadata_created": "2019-12-04T20:01:22.463093",
+  "metadata_modified": "2021-04-29T17:06:44.637881",
+  "name": "agroindustria-mijo---destino-industrial",
+  "notes": "Ingreso a planta de granos de Mijo en toneladas con destino a la industria.\r\nAño Comercial de Enero a Diciembre.",
+  "num_resources": 1,
+  "num_tags": 2,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:07.834957",
+    "description": "",
+    "id": "b10c94e2-ade1-4a97-8c4c-b1ada7878d60",
+    "image_url": "",
+    "is_organization": true,
+    "name": "agroindustria",
+    "revision_id": "f7c3b6e9-d48f-4522-9f7a-388d805c8392",
+    "state": "active",
+    "title": "Ministerio de Agricultura, Ganadería y Pesca",
+    "type": "organization"
+  },
+  "owner_org": "b10c94e2-ade1-4a97-8c4c-b1ada7878d60",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "http://datos.agroindustria.gob.ar/dataset/6a0fbae2-bd08-42bd-b604-49696973e5a1/resource/0a83c295-886e-4573-b2db-9073742c0629",
+      "attributesDescription": "[{\"type\": \"integer\", \"description\": \"cod_pais\", \"title\": \"cod_pais\"}, {\"type\": \"string\", \"description\": \"nom_pais\", \"title\": \"nom_pais\"}, {\"type\": \"integer\", \"description\": \"a\\u00f1o\", \"title\": \"a\\u00f1o\"}, {\"type\": \"string\", \"description\": \"producto\", \"title\": \"producto\"}, {\"type\": \"string\", \"description\": \"unidad_id\", \"title\": \"unidad_id\"}, {\"type\": \"integer\", \"description\": \"nom_unidad\", \"title\": \"nom_unidad\"}, {\"type\": \"integer\", \"description\": \"enero\", \"title\": \"enero\"}, {\"type\": \"integer\", \"description\": \"febrero\", \"title\": \"febrero\"}, {\"type\": \"integer\", \"description\": \"marzo\", \"title\": \"marzo\"}, {\"type\": \"integer\", \"description\": \"abril\", \"title\": \"abril\"}, {\"type\": \"integer\", \"description\": \"mayo\", \"title\": \"mayo\"}, {\"type\": \"integer\", \"description\": \"junio\", \"title\": \"junio\"}, {\"type\": \"integer\", \"description\": \"julio\", \"title\": \"julio\"}, {\"type\": \"integer\", \"description\": \"agosto\", \"title\": \"agosto\"}, {\"type\": \"integer\", \"description\": \"septiembre\", \"title\": \"septiembre\"}, {\"type\": \"integer\", \"description\": \"octubre\", \"title\": \"octubre\"}, {\"type\": \"integer\", \"description\": \"noviembre\", \"title\": \"noviembre\"}, {\"type\": \"integer\", \"description\": \"diciembre\", \"title\": \"diciembre\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2018-08-07T12:14:06.387228",
+      "datastore_active": false,
+      "description": "Ingreso a planta de granos de Mijo en toneladas para su industrialización. *Valores 0 indican informado \"sin movimientos\" para ese mes.",
+      "format": "CSV",
+      "hash": "",
+      "id": "agroindustria_0a83c295-886e-4573-b2db-9073742c0629",
+      "last_modified": "2019-02-27T15:20:50.608438",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Ingreso de Mijo con destino a la industria",
+      "package_id": "agroindustria_6a0fbae2-bd08-42bd-b604-49696973e5a1",
+      "position": 0,
+      "resource_type": "file.upload",
+      "revision_id": "74682a24-063a-4f75-9340-eb04b84de58c",
+      "size": null,
+      "state": "active",
+      "url": "https://datos.agroindustria.gob.ar/dataset/6a0fbae2-bd08-42bd-b604-49696973e5a1/resource/0a83c295-886e-4573-b2db-9073742c0629/download/mijo-con-destino-a-la-industria.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "74682a24-063a-4f75-9340-eb04b84de58c",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "Mijo",
+      "id": "74fb7383-61bc-403a-9a16-30084cb6e1fc",
+      "name": "Mijo",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "industrializacion mijo",
+      "id": "bc2b650d-7f55-4b74-ad98-7772a5d60bca",
+      "name": "industrializacion mijo",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Mijo - destino industrial",
+  "type": "dataset",
+  "url": "https://datos.agroindustria.gob.ar/dataset/mijo-con-destino-industria",
+  "version": null
+}

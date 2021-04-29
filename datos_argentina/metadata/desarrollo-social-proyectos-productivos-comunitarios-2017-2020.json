@@ -1,0 +1,141 @@
+{
+  "author": "Ministerio de Desarrollo Social de la Nación. Secretaría de Economía Social.",
+  "author_email": "datosabiertos@desarrollosocial.gob.ar",
+  "creator_user_id": "dc157489-51c6-44ce-bd63-3bd983d60778",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "eventual"
+    },
+    {
+      "key": "issued",
+      "value": "2021-04-17T15:55:49.498297"
+    },
+    {
+      "key": "language",
+      "value": "[\"spa\"]"
+    },
+    {
+      "key": "modified",
+      "value": "2021-04-26T09:28:29.173970"
+    },
+    {
+      "key": "spatial",
+      "value": "[\"ARG\"]"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"GOVE\", \"SOCI\"]"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Gobierno y sector público",
+      "display_name": "Gobierno y sector público",
+      "id": "e6f07c77-3987-4e71-98a6-731b1aaf74f4",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225353.395233gobierno-sector-publico.svg",
+      "name": "gove",
+      "title": "Gobierno y sector público"
+    },
+    {
+      "description": "Población y sociedad",
+      "display_name": "Población y sociedad",
+      "id": "eb5df7fa-064a-4b51-89f6-af323ee1bf85",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225728.341804poblacion-sociedad.svg",
+      "name": "soci",
+      "title": "Población y sociedad"
+    }
+  ],
+  "id": "desarrollo-social_8da5d759-6a36-4f49-9045-d4905993c2ef",
+  "isopen": false,
+  "license_id": "notspecified",
+  "license_title": "No se especificó la licencia",
+  "maintainer": "Ministerio de Desarrollo Social de la Nación. Unidad de Gabinete de Asesores. Dirección General de Información Social Estratégica",
+  "maintainer_email": "datosabiertos@desarrollosocial.gob.ar",
+  "metadata_created": "2021-04-22T13:03:48.758114",
+  "metadata_modified": "2021-04-29T17:04:01.986657",
+  "name": "desarrollo-social-proyectos-productivos-comunitarios-2017-2020",
+  "notes": "Datos correspondientes a los titulares del Programa Proyectos Productivos Comunitarios, creado por RESFC-2017-1-APN-MDS. Vigente entre abril 2017 y febrero 2020.",
+  "num_resources": 1,
+  "num_tags": 4,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:10.908821",
+    "description": "",
+    "id": "ef25c735-2abb-4165-94a6-a6798a103603",
+    "image_url": "",
+    "is_organization": true,
+    "name": "desarrollo-social",
+    "revision_id": "a896ab9d-5ddd-4b93-9ecf-6578b069aee8",
+    "state": "active",
+    "title": "Ministerio de Desarrollo Social",
+    "type": "organization"
+  },
+  "owner_org": "ef25c735-2abb-4165-94a6-a6798a103603",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "https://datosabiertos.desarrollosocial.gob.ar//dataset/8da5d759-6a36-4f49-9045-d4905993c2ef/resource/17357c69-f608-4d66-9a50-410530ca988d",
+      "attributesDescription": "[{\"type\": \"date\", \"description\": \"Periodo de tiempo analizado.\", \"title\": \"periodo\"}, {\"type\": \"string\", \"description\": \"C\\u00f3digo de provincia codificado seg\\u00f1n la Base de Asentamientos Humanos de la Rep\\u00f1blica Argentina  \", \"title\": \"cod_provincia\"}, {\"type\": \"string\", \"description\": \"Nombre de la provincia\", \"title\": \"provincia\"}, {\"type\": \"string\", \"description\": \"C\\u00f3digo de departamento codificado seg\\u00f1n la Base de Asentamientos Humanos de la Rep\\u00f1blica Argentina\", \"title\": \"cod_depto\"}, {\"type\": \"string\", \"description\": \"Nombre del departamento\", \"title\": \"departamento\"}, {\"type\": \"integer\", \"description\": \"Titulares que recibieron el subsidio\", \"title\": \"titulares_activos\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2021-04-17T15:56:21.811696",
+      "datastore_active": false,
+      "description": "Datos correspondientes a los titulares activos por mes y departamento del Programa Proyectos Productivos Comunitarios",
+      "fileName": "proyectos-productivos-comunitarios-titulares-activos-2020-02-29.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "desarrollo-social_17357c69-f608-4d66-9a50-410530ca988d",
+      "last_modified": "2021-04-17T15:56:21.725517",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Titulares activos por mes Proyectos Productivos Comunitarios",
+      "package_id": "desarrollo-social_8da5d759-6a36-4f49-9045-d4905993c2ef",
+      "position": 0,
+      "resource_type": "file.upload",
+      "revision_id": "6d140fbe-6950-4b77-8cbf-0365708447fa",
+      "size": null,
+      "state": "active",
+      "url": "https://datosabiertos.desarrollosocial.gob.ar/dataset/8da5d759-6a36-4f49-9045-d4905993c2ef/resource/17357c69-f608-4d66-9a50-410530ca988d/download/proyectos-productivos-comunitarios-titulares-activos-2020-02-29.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "6d140fbe-6950-4b77-8cbf-0365708447fa",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "inclusion laboral",
+      "id": "4e1b9231-da94-41dd-b860-df57d9efc153",
+      "name": "inclusion laboral",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "inclusion social",
+      "id": "b9f9d3d1-9d35-4ce5-940f-661f67dd0bd8",
+      "name": "inclusion social",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "ppc",
+      "id": "98a4b63b-c68f-43f0-9432-84a1f00864af",
+      "name": "ppc",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "salario social",
+      "id": "714f1871-3eff-42ca-8d55-3ad15a08f37c",
+      "name": "salario social",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Proyectos Productivos Comunitarios (2017-2020)",
+  "type": "dataset",
+  "url": "https://datosabiertos.desarrollosocial.gob.ar/dataset/ppc",
+  "version": null
+}

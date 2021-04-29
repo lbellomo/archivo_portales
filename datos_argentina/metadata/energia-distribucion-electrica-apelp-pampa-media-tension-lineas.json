@@ -1,0 +1,162 @@
+{
+  "author": "Ministerio de Energía y Minería.Secretaría de Coordinación de Planeamiento Energético.Dirección Nacional de Información Energética.Tecnología de la Información.",
+  "author_email": "tienerg@energia.gob.ar",
+  "creator_user_id": "4720e75a-9e17-4dc3-879d-041917c7f9f9",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "eventual"
+    },
+    {
+      "key": "issued",
+      "value": "2016-11-07T13:33:34.985951"
+    },
+    {
+      "key": "modified",
+      "value": "2018-04-24T20:56:28.171489"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"ENER\"]"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Energía",
+      "display_name": "Energía",
+      "id": "a4d3f632-eb48-4163-9791-165989c16035",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225337.421630energia.svg",
+      "name": "ener",
+      "title": "Energía"
+    }
+  ],
+  "id": "energia_69feceec-2e8c-4baf-af45-dd00b202aca6",
+  "isopen": false,
+  "license_id": "notspecified",
+  "license_title": "No se especificó la licencia",
+  "maintainer": "Ministerio de Energía y Minería.Secretaría de Coordinación de Planeamiento Energético.Dirección Nacional de Información Energética.Tecnología de la Información.",
+  "maintainer_email": "tienerg@minem.gob.ar",
+  "metadata_created": "2019-11-26T15:00:43.047251",
+  "metadata_modified": "2021-04-29T17:17:41.665122",
+  "name": "energia-distribucion-electrica-apelp-pampa-media-tension-lineas",
+  "notes": "Red Media Tensión APELP ISO 19126: DistributionNetworks, Este subgrupo se compone de conceptos que se relacionan con el transporte en las redes, tales como tuberías o canales, por encima o por debajo de la superficie.",
+  "num_resources": 2,
+  "num_tags": 6,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:09.221510",
+    "description": "",
+    "id": "cd1b32a2-2d3a-44ac-8c98-a425a7b62d42",
+    "image_url": "",
+    "is_organization": true,
+    "name": "energia",
+    "revision_id": "a184cf69-99ad-4f84-a254-020031d7fe63",
+    "state": "active",
+    "title": "Secretaría de Energía",
+    "type": "organization"
+  },
+  "owner_org": "cd1b32a2-2d3a-44ac-8c98-a425a7b62d42",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "http://datos.minem.gob.ar/dataset/69feceec-2e8c-4baf-af45-dd00b202aca6/resource/a7d18c56-321b-46a6-9457-e453f06d7189",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-05-04T18:41:59.443478",
+      "datastore_active": false,
+      "description": "Archivos prj, shp, shx, dbf, xml. Sistema de Proyección EPSG:4326",
+      "fileName": "distribucin-elctrica-apelp-la-pampa-mt-lneas.zip",
+      "format": "SHP",
+      "hash": "",
+      "id": "energia_a7d18c56-321b-46a6-9457-e453f06d7189",
+      "last_modified": "2017-05-04T18:41:59.222032",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Distribución Eléctrica Apelp La Pampa Media Tensión Líneas",
+      "package_id": "energia_69feceec-2e8c-4baf-af45-dd00b202aca6",
+      "position": 0,
+      "resource_type": null,
+      "revision_id": "eba9b7c6-e00c-4957-b558-39bc5e1b2359",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.minem.gob.ar/dataset/69feceec-2e8c-4baf-af45-dd00b202aca6/resource/a7d18c56-321b-46a6-9457-e453f06d7189/download/distribucin-elctrica-apelp-la-pampa-mt-lneas.zip",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos.minem.gob.ar/dataset/69feceec-2e8c-4baf-af45-dd00b202aca6/resource/1d05d6c0-4bc6-468b-a2bc-6e1711ebfe83",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-05-04T20:40:41.163498",
+      "datastore_active": false,
+      "description": "",
+      "fileName": "distribucin-elctrica-apelp-la-pampa-mt-lneas.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "energia_1d05d6c0-4bc6-468b-a2bc-6e1711ebfe83",
+      "last_modified": "2017-05-04T20:40:41.037577",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Distribución Eléctrica Apelp La Pampa Media Tensión Líneas",
+      "package_id": "energia_69feceec-2e8c-4baf-af45-dd00b202aca6",
+      "position": 1,
+      "resource_type": null,
+      "revision_id": "f2b4cc53-a8e4-4a5a-9991-4a0a4b370f79",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.minem.gob.ar/dataset/69feceec-2e8c-4baf-af45-dd00b202aca6/resource/1d05d6c0-4bc6-468b-a2bc-6e1711ebfe83/download/distribucin-elctrica-apelp-la-pampa-mt-lneas.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "a32928bc-6d00-4de5-93b6-2219269aa90c",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "Distribución de Energía Eléctrica",
+      "id": "729bbc10-1c26-4b5a-85fa-6e553146c5ae",
+      "name": "Distribución de Energía Eléctrica",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Distribución eléctrica",
+      "id": "44f2356b-8454-4ab5-b474-0c42cb121014",
+      "name": "Distribución eléctrica",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Información Geográfica",
+      "id": "d22bc8a4-252e-4fd8-89b2-3b9a08f6be42",
+      "name": "Información Geográfica",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "La Pampa",
+      "id": "964ccb10-2ecc-4944-a4c2-7c5d705b46c2",
+      "name": "La Pampa",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Líneas",
+      "id": "caa1b9e4-a6ce-4f24-929a-9dd6200ba283",
+      "name": "Líneas",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Media Tensión",
+      "id": "58552c62-0e9a-4cf9-8389-698c67bc0311",
+      "name": "Media Tensión",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Distribución Eléctrica Apelp La Pampa Media Tensión  Líneas",
+  "type": "dataset",
+  "url": "http://datos.minem.gob.ar/dataset/distribucion-electrica-apelp-la-pampa-mt-lineas",
+  "version": null
+}

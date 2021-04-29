@@ -1,0 +1,162 @@
+{
+  "author": "Subsecretaría de Mercados Agropecuarios",
+  "author_email": "sma@magyp.gob.ar",
+  "creator_user_id": "dc157489-51c6-44ce-bd63-3bd983d60778",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P1M"
+    },
+    {
+      "key": "issued",
+      "value": "2018-12-07T21:27:18.698234"
+    },
+    {
+      "key": "language",
+      "value": "[\"spa\"]"
+    },
+    {
+      "key": "modified",
+      "value": "2019-10-24T10:36:22.890997"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"AGRI\"]"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Agroganadería, pesca y forestación",
+      "display_name": "Agroganadería, pesca y forestación",
+      "id": "0c35ea38-7059-41d2-9827-5587769d0dc6",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225145.990789agroganaderia-pesca-forestacion.svg",
+      "name": "agri",
+      "title": "Agroganadería, pesca y forestación"
+    }
+  ],
+  "id": "agroindustria_bb67aa17-c522-4ce3-ae79-c8fad2da2218",
+  "isopen": true,
+  "license_id": "CC-BY-4.0",
+  "license_title": "Creative Commons Attribution 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "maintainer": null,
+  "maintainer_email": null,
+  "metadata_created": "2019-12-04T21:13:07.644524",
+  "metadata_modified": "2021-04-29T17:12:13.128020",
+  "name": "agroindustria-cebada---destino-industrial",
+  "notes": "Ingreso a planta de granos de cebada con destino a la industria.\r\nAño comercial desde Diciembre a Noviembre.",
+  "num_resources": 2,
+  "num_tags": 5,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:07.834957",
+    "description": "",
+    "id": "b10c94e2-ade1-4a97-8c4c-b1ada7878d60",
+    "image_url": "",
+    "is_organization": true,
+    "name": "agroindustria",
+    "revision_id": "f7c3b6e9-d48f-4522-9f7a-388d805c8392",
+    "state": "active",
+    "title": "Ministerio de Agricultura, Ganadería y Pesca",
+    "type": "organization"
+  },
+  "owner_org": "b10c94e2-ade1-4a97-8c4c-b1ada7878d60",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "http://datos.agroindustria.gob.ar/dataset/bb67aa17-c522-4ce3-ae79-c8fad2da2218/resource/b0c3a76b-1111-4841-977f-174ecbb8d62c",
+      "attributesDescription": "[{\"type\": \"integer\", \"description\": \"cod_pais\", \"title\": \"cod_pais\"}, {\"type\": \"string\", \"description\": \"nom_pais\", \"title\": \"nom_pais\"}, {\"type\": \"integer\", \"description\": \"A\\u00d1OS\", \"title\": \"A\\u00d1OS\"}, {\"type\": \"string\", \"description\": \"producto\", \"title\": \"producto\"}, {\"type\": \"string\", \"description\": \"uni_med\", \"title\": \"uni_med\"}, {\"type\": \"string\", \"description\": \"nom_med\", \"title\": \"nom_med\"}, {\"type\": \"integer\", \"description\": \"enero\", \"title\": \"enero\"}, {\"type\": \"integer\", \"description\": \"febrero\", \"title\": \"febrero\"}, {\"type\": \"integer\", \"description\": \"marzo\", \"title\": \"marzo\"}, {\"type\": \"integer\", \"description\": \"abril\", \"title\": \"abril\"}, {\"type\": \"integer\", \"description\": \"mayo\", \"title\": \"mayo\"}, {\"type\": \"integer\", \"description\": \"junio\", \"title\": \"junio\"}, {\"type\": \"integer\", \"description\": \"julio\", \"title\": \"julio\"}, {\"type\": \"integer\", \"description\": \"agosto\", \"title\": \"agosto\"}, {\"type\": \"integer\", \"description\": \"septiembre\", \"title\": \"septiembre\"}, {\"type\": \"integer\", \"description\": \"octubre\", \"title\": \"octubre\"}, {\"type\": \"integer\", \"description\": \"noviembre\", \"title\": \"noviembre\"}, {\"type\": \"integer\", \"description\": \"diciembre\", \"title\": \"diciembre\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2018-08-07T11:44:44.257415",
+      "datastore_active": false,
+      "description": "Ingreso a planta de granos de Cebada para su industrialización.\r\n \"0\" indica informado \"Sin Movimiento\".",
+      "fileName": "cebada-con-destino-a-la-industria-.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "agroindustria_b0c3a76b-1111-4841-977f-174ecbb8d62c",
+      "last_modified": "2019-01-24T10:52:20.058446",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Ingreso de Cebada destinada a industrialización",
+      "package_id": "agroindustria_bb67aa17-c522-4ce3-ae79-c8fad2da2218",
+      "position": 0,
+      "resource_type": "file.upload",
+      "revision_id": "657e490b-9419-4a1a-8eac-829c4893651a",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.agroindustria.gob.ar/dataset/bb67aa17-c522-4ce3-ae79-c8fad2da2218/resource/b0c3a76b-1111-4841-977f-174ecbb8d62c/download/cebada-con-destino-a-la-industria-.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos.agroindustria.gob.ar/dataset/bb67aa17-c522-4ce3-ae79-c8fad2da2218/resource/1ec33f3e-86b6-4802-a87d-91af91e26bb5",
+      "attributesDescription": "[{\"specialType\": \"time_index\", \"specialTypeDetail\": \"R/P1M\", \"type\": \"date\", \"description\": \"Fecha correspondiente\", \"title\": \"indice_tiempo\"}, {\"units\": \"toneladas\", \"id\": \"AGRO_0025\", \"type\": \"integer\", \"description\": \"Cantidad de granos de cebada con ingreso a planta para su industrializaci\\u00f3n\", \"title\": \"ingreso_cebada_industria\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2018-12-21T16:30:50.834690",
+      "datastore_active": false,
+      "description": "Ingreso a planta de granos de Cebada para su industrialización. ",
+      "fileName": "serie-de-tiempo-cebada-a-industria.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "agroindustria_1ec33f3e-86b6-4802-a87d-91af91e26bb5",
+      "last_modified": "2019-09-27T08:56:02.269655",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Serie de tiempo",
+      "package_id": "agroindustria_bb67aa17-c522-4ce3-ae79-c8fad2da2218",
+      "position": 1,
+      "resource_type": "file.upload",
+      "revision_id": "07fa76a5-e752-4e9d-9b99-521ca3d04a8f",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.agroindustria.gob.ar/dataset/bb67aa17-c522-4ce3-ae79-c8fad2da2218/resource/1ec33f3e-86b6-4802-a87d-91af91e26bb5/download/serie-de-tiempo-cebada-a-industria.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "b39c1ecb-6afd-4803-a6e1-69040c3533b8",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "agrícola",
+      "id": "7225b65f-3720-48b2-9ac1-b4b4e754595b",
+      "name": "agrícola",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "campañas",
+      "id": "4348a356-715b-4bfa-9f6e-bb05d162ea2e",
+      "name": "campañas",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "cebada",
+      "id": "6aeb3f84-2e6c-43ff-ba71-c8a731167691",
+      "name": "cebada",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "estimaciones",
+      "id": "6ef4e2a9-864a-44f4-ba2a-7848b9c865d5",
+      "name": "estimaciones",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "mercados",
+      "id": "6d9c3d18-454a-4717-89ce-4e036d867102",
+      "name": "mercados",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Cebada - Destino industrial",
+  "type": "dataset",
+  "url": "https://datos.agroindustria.gob.ar/dataset/cebada-con-destino-a-la-industria",
+  "version": null
+}

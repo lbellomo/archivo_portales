@@ -1,0 +1,184 @@
+{
+  "author": "SENASA - Dirección Nacional de Sanidad Animal",
+  "author_email": "desycg@senasa.gob.ar",
+  "creator_user_id": "dc157489-51c6-44ce-bd63-3bd983d60778",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P1Y"
+    },
+    {
+      "key": "issued",
+      "value": "2019-09-12T15:27:32.840848"
+    },
+    {
+      "key": "language",
+      "value": "[\"spa\"]"
+    },
+    {
+      "key": "modified",
+      "value": "2019-10-24T10:31:02.995755"
+    },
+    {
+      "key": "source",
+      "value": "Servicio Nacional de Sanidad y Calidad Agroalimentaria - SENASA"
+    },
+    {
+      "key": "spatial",
+      "value": "[\"ARG\"]"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"AGRI\"]"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Agroganadería, pesca y forestación",
+      "display_name": "Agroganadería, pesca y forestación",
+      "id": "0c35ea38-7059-41d2-9827-5587769d0dc6",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225145.990789agroganaderia-pesca-forestacion.svg",
+      "name": "agri",
+      "title": "Agroganadería, pesca y forestación"
+    }
+  ],
+  "id": "agroindustria_4e58e69d-317a-4666-b70e-c668b43cdf16",
+  "isopen": true,
+  "license_id": "CC-BY-4.0",
+  "license_title": "Creative Commons Attribution 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "maintainer": "SENASA - Dirección Nacional de Sanidad Animal",
+  "maintainer_email": "desycg@senasa.gob.ar",
+  "metadata_created": "2019-12-04T21:12:54.523804",
+  "metadata_modified": "2021-04-29T17:11:10.754214",
+  "name": "agroindustria-senasa---existencias-equinas",
+  "notes": "Existencias equinas por provincia y partido / departamento, clasificadas en categorías.",
+  "num_resources": 2,
+  "num_tags": 7,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:07.834957",
+    "description": "",
+    "id": "b10c94e2-ade1-4a97-8c4c-b1ada7878d60",
+    "image_url": "",
+    "is_organization": true,
+    "name": "agroindustria",
+    "revision_id": "f7c3b6e9-d48f-4522-9f7a-388d805c8392",
+    "state": "active",
+    "title": "Ministerio de Agricultura, Ganadería y Pesca",
+    "type": "organization"
+  },
+  "owner_org": "b10c94e2-ade1-4a97-8c4c-b1ada7878d60",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "http://datos.agroindustria.gob.ar/dataset/4e58e69d-317a-4666-b70e-c668b43cdf16/resource/47b0bbc7-3ca2-4909-a29e-54be64b180c6",
+      "attributesDescription": "[{\"type\": \"date\", \"description\": \"A\\u00f1o correspondiente al relevamiento.\", \"title\": \"anio\"}, {\"type\": \"string\", \"description\": \"Nombre de la provincia.\", \"title\": \"provincia\"}, {\"type\": \"integer\", \"description\": \"C\\u00f3digo de la provincia.\", \"title\": \"provincia_id\"}, {\"type\": \"string\", \"description\": \"Nombre del partido / departamento.\", \"title\": \"departamento\"}, {\"type\": \"integer\", \"description\": \"C\\u00f3digo del partido / departamento.\", \"title\": \"departamento_id\"}, {\"type\": \"integer\", \"description\": \"Cantidad de machos enteros adultos para reproducci\\u00f3n.\", \"title\": \"padrillos\"}, {\"type\": \"integer\", \"description\": \"Cantidad de machos adultos castrados para trabajo.\", \"title\": \"caballos\"}, {\"type\": \"integer\", \"description\": \"Cantidad de hembras adultas para reproducci\\u00f3n.\", \"title\": \"yeguas\"}, {\"type\": \"integer\", \"description\": \"Cantidad de cr\\u00edas machos y hembras.\", \"title\": \"potrillos_potrillas\"}, {\"type\": \"integer\", \"description\": \"Cantidad de cruzas de asno y yegua.\", \"title\": \"mulas\"}, {\"type\": \"integer\", \"description\": \"Cantidad de animales de la subespecie asinus.\", \"title\": \"burros_burras\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-09-12T12:36:54.073639",
+      "datastore_active": false,
+      "description": "Existencias equinas por provincia y partido / departamento, clasificadas por categorías. Totales anuales desde Marzo 2008 a la última actualización.",
+      "fileName": "Existencias-equinas-provincia-departamento-2008-2019.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "agroindustria_47b0bbc7-3ca2-4909-a29e-54be64b180c6",
+      "last_modified": "2019-12-02T12:40:29.496570",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Existencias equinas",
+      "package_id": "agroindustria_4e58e69d-317a-4666-b70e-c668b43cdf16",
+      "position": 0,
+      "resource_type": "file.upload",
+      "revision_id": "00133952-34bc-48a3-aeed-554ceeedc4c0",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.agroindustria.gob.ar/dataset/4e58e69d-317a-4666-b70e-c668b43cdf16/resource/47b0bbc7-3ca2-4909-a29e-54be64b180c6/download/existencias-equinas-provincia-departamento-2008-2019.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos.agroindustria.gob.ar/dataset/4e58e69d-317a-4666-b70e-c668b43cdf16/resource/c05ba76a-c08d-4422-b067-b0f2489edda8",
+      "attributesDescription": "[{\"specialType\": \"time_index\", \"specialTypeDetail\": \"R/P1Y\", \"type\": \"date\", \"description\": \"Indice de tiempo\", \"title\": \"indice_tiempo\"}, {\"units\": \"Unidad\", \"id\": \"AGRO_0315\", \"type\": \"integer\", \"description\": \"Cantidad de machos enteros adultos para reproducci\\u00f3n. \", \"title\": \"padrillos\"}, {\"units\": \"Unidad\", \"id\": \"AGRO_0316\", \"type\": \"integer\", \"description\": \"Cantidad de machos adultos castrados para trabajo.\", \"title\": \"caballos\"}, {\"units\": \"Unidad\", \"id\": \"AGRO_0317\", \"type\": \"integer\", \"description\": \"Cantidad de hembras adultas para reproducci\\u00f3n.\", \"title\": \"yeguas\"}, {\"units\": \"Unidad\", \"id\": \"AGRO_0318\", \"type\": \"integer\", \"description\": \"Cantidad de cr\\u00edas machos y hembras.\", \"title\": \"potrillos_potrillas\"}, {\"units\": \"Unidad\", \"id\": \"AGRO_0319\", \"type\": \"integer\", \"description\": \"Cantidad de cruzas de asno y yegua.\", \"title\": \"mulas\"}, {\"units\": \"Unidad\", \"id\": \"AGRO_0320\", \"type\": \"integer\", \"description\": \"Cantidad de animales de la subespecie asinus.\", \"title\": \"burros_burras\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-09-13T10:21:26.002320",
+      "datastore_active": false,
+      "description": "Existencias equinas clasificadas por categorías. Totales anuales desde 2008 a la última actualización.",
+      "fileName": "Existencias-equinas-2008-2019.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "agroindustria_c05ba76a-c08d-4422-b067-b0f2489edda8",
+      "last_modified": "2019-12-02T12:43:37.753057",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Serie de tiempo",
+      "package_id": "agroindustria_4e58e69d-317a-4666-b70e-c668b43cdf16",
+      "position": 1,
+      "resource_type": "file.upload",
+      "revision_id": "00133952-34bc-48a3-aeed-554ceeedc4c0",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.agroindustria.gob.ar/dataset/4e58e69d-317a-4666-b70e-c668b43cdf16/resource/c05ba76a-c08d-4422-b067-b0f2489edda8/download/existencias-equinas-2008-2019.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "5a53154d-5e4a-42bc-b19e-8f6722912bfa",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "burros_burras",
+      "id": "e73dd923-bc5d-4c4c-9032-920341e3c63a",
+      "name": "burros_burras",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "caballos",
+      "id": "be597aab-fa9d-4843-b635-d20697427e54",
+      "name": "caballos",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "mulas",
+      "id": "e2c08e6f-e6f7-42ed-b242-d9de2cc0d634",
+      "name": "mulas",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "padrillos",
+      "id": "14070455-5f7e-4b78-9a86-082d6329e5c4",
+      "name": "padrillos",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "potrillos_potrillas",
+      "id": "5ea695f6-5993-42eb-8264-eed816aa4cb7",
+      "name": "potrillos_potrillas",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "total_equinos",
+      "id": "02c03c2d-4b76-4f43-870f-93b61fd55498",
+      "name": "total_equinos",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "yeguas",
+      "id": "28fa90b7-449e-468f-8c99-64104b05cbf6",
+      "name": "yeguas",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "SENASA - Existencias equinas",
+  "type": "dataset",
+  "url": "https://datos.agroindustria.gob.ar/dataset/senasa-existencias-equinas",
+  "version": null
+}

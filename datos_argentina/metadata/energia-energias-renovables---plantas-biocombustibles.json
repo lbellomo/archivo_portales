@@ -1,0 +1,162 @@
+{
+  "author": "Secretaría de Gobierno de Energía.Subsecretaría de Planeamiento Energético.Dirección Nacional de Información Energética.",
+  "author_email": "tienerg@energia.gob.ar",
+  "creator_user_id": "4720e75a-9e17-4dc3-879d-041917c7f9f9",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "eventual"
+    },
+    {
+      "key": "issued",
+      "value": "2016-11-07T13:33:34.985951"
+    },
+    {
+      "key": "modified",
+      "value": "2020-04-24T11:25:44.003935"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"ENER\"]"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Energía",
+      "display_name": "Energía",
+      "id": "a4d3f632-eb48-4163-9791-165989c16035",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225337.421630energia.svg",
+      "name": "ener",
+      "title": "Energía"
+    }
+  ],
+  "id": "energia_eccce607-f934-4e93-a40b-1cca44fd6cd6",
+  "isopen": false,
+  "license_id": "notspecified",
+  "license_title": "No se especificó la licencia",
+  "maintainer": "Secretaría de Gobierno de Energía.Subsecretaría de Planeamiento Energético.Dirección Nacional de Información Energética.",
+  "maintainer_email": "tienerg@minem.gob.ar",
+  "metadata_created": "2019-11-26T15:00:50.457235",
+  "metadata_modified": "2021-04-29T17:17:29.381205",
+  "name": "energia-energias-renovables---plantas-biocombustibles",
+  "notes": "Plantas de biocombustibles. ISO 19126: PowerSupplies, Este subgrupo se compone de conceptos que se relacionan con la producción, transporte y distribución de energía.",
+  "num_resources": 2,
+  "num_tags": 6,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:09.221510",
+    "description": "",
+    "id": "cd1b32a2-2d3a-44ac-8c98-a425a7b62d42",
+    "image_url": "",
+    "is_organization": true,
+    "name": "energia",
+    "revision_id": "a184cf69-99ad-4f84-a254-020031d7fe63",
+    "state": "active",
+    "title": "Secretaría de Energía",
+    "type": "organization"
+  },
+  "owner_org": "cd1b32a2-2d3a-44ac-8c98-a425a7b62d42",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "http://datos.minem.gob.ar/dataset/eccce607-f934-4e93-a40b-1cca44fd6cd6/resource/d9b5c5b9-825a-4d23-9d4d-988ad1ede966",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-05-04T17:50:35.261328",
+      "datastore_active": false,
+      "description": "",
+      "fileName": "energas-renovables-plantas-biocombustibles.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "energia_d9b5c5b9-825a-4d23-9d4d-988ad1ede966",
+      "last_modified": "2020-06-07T05:00:23.459432",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Energías Renovables Plantas Biocombustibles",
+      "package_id": "energia_eccce607-f934-4e93-a40b-1cca44fd6cd6",
+      "position": 0,
+      "resource_type": null,
+      "revision_id": "8d2bb5f9-d31c-4318-9b5d-31018327f32c",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.minem.gob.ar/dataset/eccce607-f934-4e93-a40b-1cca44fd6cd6/resource/d9b5c5b9-825a-4d23-9d4d-988ad1ede966/download/energas-renovables-plantas-biocombustibles.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos.minem.gob.ar/dataset/eccce607-f934-4e93-a40b-1cca44fd6cd6/resource/1be449eb-c434-4362-99c4-d3b39c3892fb",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-05-04T21:10:01.761480",
+      "datastore_active": false,
+      "description": "Archivos prj, shp, shx, dbf, xml. Sistema de Proyección EPSG:4326",
+      "fileName": "energas-renovables-plantas-biocombustibles.zip",
+      "format": "SHP",
+      "hash": "",
+      "id": "energia_1be449eb-c434-4362-99c4-d3b39c3892fb",
+      "last_modified": "2020-06-07T05:00:38.298614",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Energías Renovables Plantas Biocombustibles",
+      "package_id": "energia_eccce607-f934-4e93-a40b-1cca44fd6cd6",
+      "position": 1,
+      "resource_type": null,
+      "revision_id": "8d2bb5f9-d31c-4318-9b5d-31018327f32c",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.minem.gob.ar/dataset/eccce607-f934-4e93-a40b-1cca44fd6cd6/resource/1be449eb-c434-4362-99c4-d3b39c3892fb/download/energas-renovables-plantas-biocombustibles.zip",
+      "url_type": null
+    }
+  ],
+  "revision_id": "9c1f231c-2895-4f42-bb06-a024bd8ed4a3",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "Biocombustibles",
+      "id": "ac3e690e-0b68-4dce-bc68-c01ecd522ef2",
+      "name": "Biocombustibles",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Energías Renovables",
+      "id": "5ed67cf4-5bbe-49c1-869c-ede36d86486c",
+      "name": "Energías Renovables",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Energías renovables",
+      "id": "539396f8-99e0-457d-ad66-402c2f1164bc",
+      "name": "Energías renovables",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Información Geográfica",
+      "id": "d22bc8a4-252e-4fd8-89b2-3b9a08f6be42",
+      "name": "Información Geográfica",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Información geográfica",
+      "id": "24b3ee69-69cb-45de-a8b4-3566f4eab17c",
+      "name": "Información geográfica",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Plantas",
+      "id": "15943b63-68e8-4f23-9d1a-303f35f1dedb",
+      "name": "Plantas",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Energías renovables - Plantas de biocombustibles",
+  "type": "dataset",
+  "url": "http://datos.minem.gob.ar/dataset/",
+  "version": null
+}

@@ -1,0 +1,215 @@
+{
+  "author": "Ministerio de Salud. Dirección de Estadística e Información en Salud (DEIS)",
+  "author_email": "informaciondeis@gmail.com",
+  "creator_user_id": "4720e75a-9e17-4dc3-879d-041917c7f9f9",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P1Y"
+    },
+    {
+      "key": "issued",
+      "value": "2019-03-18T12:58:16.291484"
+    },
+    {
+      "key": "modified",
+      "value": "2020-05-15T16:03:50.322080"
+    },
+    {
+      "key": "source",
+      "value": "Ministerio de Salud. Dirección de Estadística e Información en Salud (DEIS)"
+    },
+    {
+      "key": "spatial",
+      "value": "[\"ARG\"]"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"HEAL\"]"
+    },
+    {
+      "key": "temporal",
+      "value": "2017-01-01T03:00:00.000Z/2017-12-31T03:00:00.000Z"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Salud",
+      "display_name": "Salud",
+      "id": "65cc1fbf-703a-43bf-8a14-232a55c34976",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225809.913196salud.svg",
+      "name": "heal",
+      "title": "Salud"
+    }
+  ],
+  "id": "salud_d1350588-d8bb-4892-b21c-48738311e218",
+  "isopen": false,
+  "license_id": "notspecified",
+  "license_title": "No se especificó la licencia",
+  "maintainer": "Ministerio de Salud. Dirección de Estadística e Información en Salud (DEIS)",
+  "maintainer_email": "informaciondeis@gmail.com",
+  "metadata_created": "2019-11-26T15:01:53.776303",
+  "metadata_modified": "2021-04-29T17:05:34.359409",
+  "name": "salud-nacidos-vivos-registrados-por-jurisdiccion-residencia-madre---republica-argentina",
+  "notes": "Datos de nacidos vivos registrados en la República Argentina incluyendo jurisdicción de residencia de la madre, tipo de parto y otras variables de interés seleccionadas",
+  "num_resources": 4,
+  "num_tags": 5,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-11-15T11:12:22.202856",
+    "description": "",
+    "id": "dd1f2018-587f-43af-9b07-fc32f5ab588b",
+    "image_url": "",
+    "is_organization": true,
+    "name": "salud",
+    "revision_id": "14f0bb85-f97d-4325-b1c8-a7c1d3a815bf",
+    "state": "active",
+    "title": "Ministerio de Salud",
+    "type": "organization"
+  },
+  "owner_org": "dd1f2018-587f-43af-9b07-fc32f5ab588b",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "http://datos.salud.gob.ar/dataset/d1350588-d8bb-4892-b21c-48738311e218/resource/9d3d84ea-8c5e-4ace-a67b-7ac1a6cf494a",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-03-18T10:02:14.919328",
+      "datastore_active": false,
+      "description": "Datos de nacidos vivos registrados en la República Argentina incluyendo jurisdicción de residencia de la madre, tipo de parto y otras variables de interés seleccionadas para el año 2017",
+      "fileName": "estadisticas-vitales-nacidos-vivos-registrados-2017.xls",
+      "format": "XLS",
+      "hash": "",
+      "id": "salud_9d3d84ea-8c5e-4ace-a67b-7ac1a6cf494a",
+      "last_modified": "2019-04-15T11:33:27.123353",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Nacidos vivos registrados en la República Argentina para el año 2017",
+      "package_id": "salud_d1350588-d8bb-4892-b21c-48738311e218",
+      "position": 0,
+      "resource_type": "file.upload",
+      "revision_id": "838e91f2-64b4-49e1-afa9-17b525684bd7",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.salud.gob.ar/dataset/d1350588-d8bb-4892-b21c-48738311e218/resource/9d3d84ea-8c5e-4ace-a67b-7ac1a6cf494a/download/estadisticas-vitales-nacidos-vivos-registrados-2017.xls",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos.salud.gob.ar/dataset/d1350588-d8bb-4892-b21c-48738311e218/resource/b04f2d74-ebbf-459d-a9a6-90b4985670ca",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-03-18T10:17:51.216777",
+      "datastore_active": false,
+      "description": "Datos de nacidos vivos registrados en la República Argentina incluyendo jurisdicción de residencia de la madre, tipo de parto y otras variables de interés seleccionadas para el año 2017",
+      "fileName": "estadisticas-vitales-nacidos-vivos-registrados-2017.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "salud_b04f2d74-ebbf-459d-a9a6-90b4985670ca",
+      "last_modified": "2019-04-15T11:30:51.440237",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Nacidos vivos registrados en la República Argentina para el año 2017",
+      "package_id": "salud_d1350588-d8bb-4892-b21c-48738311e218",
+      "position": 1,
+      "resource_type": "file.upload",
+      "revision_id": "838e91f2-64b4-49e1-afa9-17b525684bd7",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.salud.gob.ar/dataset/d1350588-d8bb-4892-b21c-48738311e218/resource/b04f2d74-ebbf-459d-a9a6-90b4985670ca/download/estadisticas-vitales-nacidos-vivos-registrados-2017.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos.salud.gob.ar/dataset/d1350588-d8bb-4892-b21c-48738311e218/resource/3c891522-8448-4490-a7da-6deba78d3b32",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-04-05T12:20:06.487071",
+      "datastore_active": false,
+      "description": "Datos de nacidos vivos registrados en la República Argentina incluyendo jurisdicción de residencia de la madre, tipo de parto y otras variables de interés seleccionadas entre los años 2005-2015",
+      "format": "Link",
+      "hash": "",
+      "id": "salud_3c891522-8448-4490-a7da-6deba78d3b32",
+      "last_modified": "2020-01-13T13:05:23.497187",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Nacidos vivos registrados en la República Argentina entre los años 2005-2015",
+      "package_id": "salud_d1350588-d8bb-4892-b21c-48738311e218",
+      "position": 2,
+      "resource_type": "file",
+      "revision_id": "7893caa4-3cf0-43c3-a7ab-76086d798233",
+      "size": null,
+      "state": "active",
+      "url": "http://www.deis.msal.gov.ar/index.php/nacidos-vivos/",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos.salud.gob.ar/dataset/d1350588-d8bb-4892-b21c-48738311e218/resource/e1ae5157-2a94-4e2a-b147-43da647facc1",
+      "attributesDescription": "[{\"type\": \"integer\", \"description\": \"C\\u00f3digo de Jurisdicci\\u00f3n de residencia\", \"title\": \"jurisdiccion_de_residencia_id\"}, {\"type\": \"string\", \"description\": \"Descripci\\u00f3n de Jurisdicci\\u00f3n de residencia\", \"title\": \"jurisdiccion_de_residencia_nombre\"}, {\"type\": \"integer\", \"description\": \"C\\u00f3digo tipo de parto\", \"title\": \"tipo_de_parto_id\"}, {\"type\": \"string\", \"description\": \"Descripci\\u00f3n tipo de parto\", \"title\": \"tipo_de_parto_nombre\"}, {\"type\": \"integer\", \"description\": \"C\\u00f3digo Sexo\", \"title\": \"sexo\"}, {\"type\": \"string\", \"description\": \"Descripci\\u00f3n Sexo\", \"title\": \"sexo_nombre\"}, {\"type\": \"integer\", \"description\": \"C\\u00f3digo edad de la madre\", \"title\": \"edad_de_la_madre_grupos_id\"}, {\"type\": \"string\", \"description\": \"Descripci\\u00f3n edad de la madre\", \"title\": \"edad_de_la_madre_grupos_nombre\"}, {\"type\": \"integer\", \"description\": \"C\\u00f3digo Semanas de gestaci\\u00f3n\", \"title\": \"semanas_de_gestacion_id\"}, {\"type\": \"string\", \"description\": \"Descripci\\u00f3n Semanas de gestaci\\u00f3n\", \"title\": \"semanas_de_gestacion_nombre\"}, {\"type\": \"integer\", \"description\": \"C\\u00f3digo Instrucci\\u00f3n de la madre\", \"title\": \"instruccion_de_la_madre_id\"}, {\"type\": \"string\", \"description\": \"Descripci\\u00f3n Instrucci\\u00f3n de la madre\", \"title\": \"instruccion_de_la_madre_nombre\"}, {\"type\": \"integer\", \"description\": \"C\\u00f3digo Intervalos de peso al nacer\", \"title\": \"Intervalos_de_peso_al_nacer_id\"}, {\"type\": \"string\", \"description\": \"Descripci\\u00f3n Intervalos de peso al nacer\", \"title\": \"intervalos_de_peso_al_nacer_nombre\"}, {\"type\": \"integer\", \"description\": \"Cantidad de nacimientos\", \"title\": \"cantidad_nacimientos\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2020-01-10T15:31:02.511285",
+      "datastore_active": false,
+      "description": "Datos de nacidos vivos registrados en la República Argentina incluyendo jurisdicción de residencia de la madre, tipo de parto y otras variables de interés seleccionadas para el año 2018",
+      "fileName": "nacidos-vivos-registrados 2018_deis.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "salud_e1ae5157-2a94-4e2a-b147-43da647facc1",
+      "last_modified": "2020-01-10T15:31:02.511285",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Nacidos vivos registrados en la República Argentina para el año 2018",
+      "package_id": "salud_d1350588-d8bb-4892-b21c-48738311e218",
+      "position": 3,
+      "resource_type": "file.upload",
+      "revision_id": "ab99b02a-d13d-4931-88f0-f7f7914edb2e",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.salud.gob.ar/dataset/d1350588-d8bb-4892-b21c-48738311e218/resource/e1ae5157-2a94-4e2a-b147-43da647facc1/download/nacidos-vivos-registrados-2018_deis.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "60d6d67d-57e8-4b16-bada-ad7bdb208324",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "DEIS",
+      "id": "757ea859-76a5-465b-800a-495a12a734fd",
+      "name": "DEIS",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Estadísticas Vitales",
+      "id": "703ed79e-49fd-4419-ab3a-0a132602f568",
+      "name": "Estadísticas Vitales",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "jurisdiccion",
+      "id": "456957e6-0168-40c5-86dd-f2a03b164223",
+      "name": "jurisdiccion",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "nacidos vivos",
+      "id": "88e8b606-2153-41d4-b106-9dc3b6e97387",
+      "name": "nacidos vivos",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "nacional",
+      "id": "0b2d0529-f704-4a59-8e62-51c67dd89ea2",
+      "name": "nacional",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Nacidos Vivos Registrados por Jurisdicción de Residencia de la Madre - República Argentina",
+  "type": "dataset",
+  "url": "http://www.deis.msal.gov.ar/index.php/nacidos-vivos/",
+  "version": null
+}

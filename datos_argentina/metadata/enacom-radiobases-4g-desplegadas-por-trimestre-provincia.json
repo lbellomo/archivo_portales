@@ -1,0 +1,173 @@
+{
+  "author": "Ente Nacional de Comunicaciones (ENACOM)",
+  "author_email": "contacto@enacom.gob.ar",
+  "creator_user_id": "4720e75a-9e17-4dc3-879d-041917c7f9f9",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P1Y"
+    },
+    {
+      "key": "issued",
+      "value": "2018-02-09T20:21:59"
+    },
+    {
+      "key": "language",
+      "value": "[\"spa\"]"
+    },
+    {
+      "key": "modified",
+      "value": "2020-04-21T22:04:10Z"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"TECH\"]"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Ciencia y tecnología",
+      "display_name": "Ciencia y tecnología",
+      "id": "0dd7dd0e-aae8-402f-8660-f1e8b6b6084c",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225221.170833ciencia-tecnologia.svg",
+      "name": "tech",
+      "title": "Ciencia y tecnología"
+    }
+  ],
+  "id": "enacom_RADIO-4G-DESPL-POR-TRIME",
+  "isopen": false,
+  "license_id": "notspecified",
+  "license_title": "No se especificó la licencia",
+  "maintainer": null,
+  "maintainer_email": null,
+  "metadata_created": "2019-11-26T14:55:25.447947",
+  "metadata_modified": "2021-04-29T17:04:32.593470",
+  "name": "enacom-radiobases-4g-desplegadas-por-trimestre-provincia",
+  "notes": "Número de radiobases 4G desplegadas por los operadores",
+  "num_resources": 3,
+  "num_tags": 4,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:07.525331",
+    "description": "",
+    "id": "6eb7d19b-2d42-494f-8e57-d67c501d23eb",
+    "image_url": "",
+    "is_organization": true,
+    "name": "enacom",
+    "revision_id": "f2d2a5ad-7015-4d68-9d9c-5a82fadbbbf3",
+    "state": "active",
+    "title": "Ente Nacional de Comunicaciones",
+    "type": "organization"
+  },
+  "owner_org": "6eb7d19b-2d42-494f-8e57-d67c501d23eb",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/241305/radiobases-4g-desplegadas-por-trimestre-y-provincia/",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2018-02-09T20:21:59",
+      "datastore_active": false,
+      "description": "Número de radiobases 4G desplegadas por los operadores",
+      "format": "CSV",
+      "hash": "",
+      "id": "enacom_RADIO-4G-DESPL-POR-TRIME_0",
+      "last_modified": "2020-04-21T19:04:10",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Radiobases 4G desplegadas por trimestre y provincia",
+      "package_id": "enacom_RADIO-4G-DESPL-POR-TRIME",
+      "position": 0,
+      "resource_type": null,
+      "revision_id": "f5a68762-63a9-47bf-9c73-213320013bbd",
+      "size": null,
+      "state": "active",
+      "url": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/RADIO-4G-DESPL-POR-TRIME/data.csv?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/241305/radiobases-4g-desplegadas-por-trimestre-y-provincia/",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2018-02-09T20:21:59",
+      "datastore_active": false,
+      "description": "Número de radiobases 4G desplegadas por los operadores",
+      "format": "XLS",
+      "hash": "",
+      "id": "enacom_RADIO-4G-DESPL-POR-TRIME_1",
+      "last_modified": "2020-04-21T19:04:10",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Radiobases 4G desplegadas por trimestre y provincia",
+      "package_id": "enacom_RADIO-4G-DESPL-POR-TRIME",
+      "position": 1,
+      "resource_type": null,
+      "revision_id": "f5a68762-63a9-47bf-9c73-213320013bbd",
+      "size": null,
+      "state": "active",
+      "url": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/RADIO-4G-DESPL-POR-TRIME/data.xls?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datosabiertos.enacom.gob.ar/dataviews/241305/radiobases-4g-desplegadas-por-trimestre-y-provincia/",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2018-02-09T20:21:59",
+      "datastore_active": false,
+      "description": "Número de radiobases 4G desplegadas por los operadores",
+      "format": "JSON",
+      "hash": "",
+      "id": "enacom_RADIO-4G-DESPL-POR-TRIME_2",
+      "last_modified": "2020-04-21T19:04:10",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Radiobases 4G desplegadas por trimestre y provincia",
+      "package_id": "enacom_RADIO-4G-DESPL-POR-TRIME",
+      "position": 2,
+      "resource_type": null,
+      "revision_id": "cae2e709-d4af-45a9-afcb-9a824d16b546",
+      "size": null,
+      "state": "active",
+      "url": "http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/RADIO-4G-DESPL-POR-TRIME/data.json?auth_key=44a38fbffd39c9f7d84e8e7dd2e1d02f0950e611&download=1",
+      "url_type": null
+    }
+  ],
+  "revision_id": "70a5600e-8308-4382-be90-4f4651a8841a",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "4g",
+      "id": "53119fba-1619-4ed6-96e5-5f391f5c8ed5",
+      "name": "4g",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Telefonía móvil",
+      "id": "0ec1e0cc-8df9-456f-9739-c224aec3d80d",
+      "name": "Telefonía móvil",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "provincial",
+      "id": "a7156109-b267-4c12-a7e8-c18fac2592e2",
+      "name": "provincial",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "telefonia movil",
+      "id": "7bf3f6c3-adbb-4127-b9ba-13b1242becd7",
+      "name": "telefonia movil",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Radiobases 4G desplegadas por trimestre y provincia",
+  "type": "dataset",
+  "url": "http://api.datosabiertos.enacom.gob.ar/dataset/enacom-radiobases-4g-desplegadas-por-trimestre-provincia",
+  "version": null
+}

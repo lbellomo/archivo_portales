@@ -1,0 +1,192 @@
+{
+  "author": "Secretaria de Gobierno de Agroindustria - Dirección Nacional Láctea",
+  "author_email": "estadisticaslecheria@magyp.gob.ar",
+  "creator_user_id": "dc157489-51c6-44ce-bd63-3bd983d60778",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P1M"
+    },
+    {
+      "key": "issued",
+      "value": "2019-06-12T14:50:27.227257"
+    },
+    {
+      "key": "language",
+      "value": "[\"spa\"]"
+    },
+    {
+      "key": "modified",
+      "value": "2019-10-24T10:47:10.830852"
+    },
+    {
+      "key": "spatial",
+      "value": "[\"ARG\"]"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"AGRI\"]"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Agroganadería, pesca y forestación",
+      "display_name": "Agroganadería, pesca y forestación",
+      "id": "0c35ea38-7059-41d2-9827-5587769d0dc6",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225145.990789agroganaderia-pesca-forestacion.svg",
+      "name": "agri",
+      "title": "Agroganadería, pesca y forestación"
+    }
+  ],
+  "id": "agroindustria_81554ad5-c441-4bb8-8d99-97b9797526d5",
+  "isopen": true,
+  "license_id": "CC-BY-4.0",
+  "license_title": "Creative Commons Attribution 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "maintainer": "Secretaria de Gobierno de Agroindustria - Dirección Nacional Láctea",
+  "maintainer_email": "estadisticaslecheria@magyp.gob.ar",
+  "metadata_created": "2019-12-04T21:13:20.236108",
+  "metadata_modified": "2021-04-29T17:11:55.623074",
+  "name": "agroindustria-lacteos---calidad-higienico-sanitaria-leche-cruda-nivel-provincial",
+  "notes": "Miles de unidades formadoras de colonias y células somáticas en cada cm3 de leche cruda. Se presenta el promedio a nivel provincial.",
+  "num_resources": 2,
+  "num_tags": 9,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:07.834957",
+    "description": "",
+    "id": "b10c94e2-ade1-4a97-8c4c-b1ada7878d60",
+    "image_url": "",
+    "is_organization": true,
+    "name": "agroindustria",
+    "revision_id": "f7c3b6e9-d48f-4522-9f7a-388d805c8392",
+    "state": "active",
+    "title": "Ministerio de Agricultura, Ganadería y Pesca",
+    "type": "organization"
+  },
+  "owner_org": "b10c94e2-ade1-4a97-8c4c-b1ada7878d60",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "http://datos.agroindustria.gob.ar/dataset/81554ad5-c441-4bb8-8d99-97b9797526d5/resource/f4413765-7357-4ee8-b35a-e620c272cd99",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-06-12T11:51:31.654274",
+      "datastore_active": false,
+      "description": "Recuento de células somáticas promedio por provincia desde enero 2014 hasta la actualidad.",
+      "fileName": "recuento-de-celulas-somaticas-promedio-por-provincia.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "agroindustria_f4413765-7357-4ee8-b35a-e620c272cd99",
+      "last_modified": "2019-06-26T07:49:56.033591",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Recuento de células somáticas promedio por provincia",
+      "package_id": "agroindustria_81554ad5-c441-4bb8-8d99-97b9797526d5",
+      "position": 0,
+      "resource_type": "file.upload",
+      "revision_id": "0fbb6ed4-5727-4fd1-bb75-9247c084ad45",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.agroindustria.gob.ar/dataset/81554ad5-c441-4bb8-8d99-97b9797526d5/resource/f4413765-7357-4ee8-b35a-e620c272cd99/download/recuento-de-celulas-somaticas-promedio-por-provincia.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos.agroindustria.gob.ar/dataset/81554ad5-c441-4bb8-8d99-97b9797526d5/resource/ffe94990-c760-4f5b-a2bf-5a0ed8a19142",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-06-12T11:52:44.735730",
+      "datastore_active": false,
+      "description": "Unidades formadoras de colonias promedio provincial desde enero 2013 hasta la actualidad.",
+      "fileName": "unidades-formadoras-de-colonias-promedio-por-provincia.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "agroindustria_ffe94990-c760-4f5b-a2bf-5a0ed8a19142",
+      "last_modified": "2019-06-26T07:51:28.873303",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Unidades formadoras de colonias promedio por provincia",
+      "package_id": "agroindustria_81554ad5-c441-4bb8-8d99-97b9797526d5",
+      "position": 1,
+      "resource_type": "file.upload",
+      "revision_id": "0fbb6ed4-5727-4fd1-bb75-9247c084ad45",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.agroindustria.gob.ar/dataset/81554ad5-c441-4bb8-8d99-97b9797526d5/resource/ffe94990-c760-4f5b-a2bf-5a0ed8a19142/download/unidades-formadoras-de-colonias-promedio-por-provincia.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "90cc03e6-5bf2-4240-85f8-381aa8d8a62c",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "RCS",
+      "id": "2f661c0d-842f-47c5-a23a-c10d1c5b7119",
+      "name": "RCS",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "UFC",
+      "id": "0616cac9-4221-45e1-823a-24b56565a35e",
+      "name": "UFC",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "calidad",
+      "id": "f72ec936-6daf-4fb6-ae8b-8373ebc66735",
+      "name": "calidad",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "lacteos",
+      "id": "9e6b26d8-1663-4102-b84b-8d3d36505c78",
+      "name": "lacteos",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "leche",
+      "id": "50198eec-058b-4999-a070-8cf268e8e576",
+      "name": "leche",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "leche cruda",
+      "id": "1c7b38ce-7271-4ea2-9478-e793e3b65848",
+      "name": "leche cruda",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "lecheria",
+      "id": "b1eb85de-53de-4a37-b985-5ce538eb8d9c",
+      "name": "lecheria",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "recuento células somáticas",
+      "id": "64f7fa6b-d716-41f3-80b1-725783f46770",
+      "name": "recuento células somáticas",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "unidades formadoras de colonias",
+      "id": "a02049ad-d1d0-4035-aaaa-7a72cf74c791",
+      "name": "unidades formadoras de colonias",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Lácteos - Calidad higiénico sanitaria de la leche cruda a nivel provincial",
+  "type": "dataset",
+  "url": "https://datos.agroindustria.gob.ar/dataset/calidad-higienico-sanitaria-de-la-produccion-de-leche-cruda-a-nivel-provincial",
+  "version": null
+}

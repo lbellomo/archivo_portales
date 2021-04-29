@@ -1,0 +1,124 @@
+{
+  "author": "Subsecretaría de Programación Macroeconómica",
+  "author_email": "datoseconomicos@mecon.gov.ar",
+  "creator_user_id": "4720e75a-9e17-4dc3-879d-041917c7f9f9",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P1Y"
+    },
+    {
+      "key": "issued",
+      "value": "2017-11-28"
+    },
+    {
+      "key": "language",
+      "value": "[\"SPA\"]"
+    },
+    {
+      "key": "source",
+      "value": "Banco Central de la República Argentina (BCRA)"
+    },
+    {
+      "key": "spatial",
+      "value": "ARG"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"ECON\"]"
+    },
+    {
+      "key": "temporal",
+      "value": "1881-01-01/2009-01-01"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Economía y finanzas",
+      "display_name": "Economía y finanzas",
+      "id": "60b4b03e-10a1-4d67-b984-08008a249617",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225257.200233economia-finanzas.svg",
+      "name": "econ",
+      "title": "Economía y finanzas"
+    }
+  ],
+  "id": "sspm_335",
+  "isopen": true,
+  "license_id": "CC-BY-4.0",
+  "license_title": "Creative Commons Attribution 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "maintainer": "indice-precios-al-consumidor-gba-principales-aperturas-base-diciembre-2016-trimestral.csv",
+  "maintainer_email": "datoseconomicos@mecon.gov.ar",
+  "metadata_created": "2019-11-26T15:03:43.208673",
+  "metadata_modified": "2021-04-29T17:04:59.889854",
+  "name": "sspm-balance-pagos-millones-dolares",
+  "notes": "Componentes del balance de pagos en millones de dólares. Valores anuales",
+  "num_resources": 1,
+  "num_tags": 2,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:09.718132",
+    "description": "",
+    "id": "68f9ee22-5ec3-44cf-a32b-b87d9db46b93",
+    "image_url": "",
+    "is_organization": true,
+    "name": "sspm",
+    "revision_id": "bc058ce0-3540-4204-96cd-9f9ec79045b3",
+    "state": "active",
+    "title": "Subsecretaría de Programación Macroeconómica",
+    "type": "organization"
+  },
+  "owner_org": "68f9ee22-5ec3-44cf-a32b-b87d9db46b93",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/",
+      "attributesDescription": "[{\"title\": \"indice_tiempo\", \"type\": \"date\", \"specialType\": \"time_index\", \"specialTypeDetail\": \"R/P1Y\", \"id\": \"335.1_INDICE_TIEMPO__13\", \"dataset_identifier\": \"335\", \"distribution_identifier\": \"335.1\"}, {\"title\": \"cuenta_corriente_mercancias_exportaciones\", \"type\": \"number\", \"description\": \"Exportaciones de mercanc\\u00edas en millones de d\\u00f3lares. Cuenta corriente del balance de pagos\", \"id\": \"335.1_CUENTA_CONES__42\", \"units\": \"Millones de d\\u00f3lares\", \"dataset_identifier\": \"335\", \"distribution_identifier\": \"335.1\"}, {\"title\": \"cuenta_corriente_mercancias_importaciones\", \"type\": \"number\", \"description\": \"Importaciones de mercanc\\u00edas en millones de d\\u00f3lares. Cuenta corriente del balance de pagos\", \"id\": \"335.1_CUENTA_CONES_IV__42\", \"units\": \"Millones de d\\u00f3lares\", \"dataset_identifier\": \"335\", \"distribution_identifier\": \"335.1\"}, {\"title\": \"cuenta_corriente_mercancias_saldo\", \"type\": \"number\", \"description\": \"Saldo de mercanc\\u00edas. Cuenta corriente del balance de pagos\", \"id\": \"335.1_CUENTA_COLDO__34\", \"units\": \"Millones de d\\u00f3lares\", \"dataset_identifier\": \"335\", \"distribution_identifier\": \"335.1\"}, {\"title\": \"cuenta_corriente_servicios_reales_exportaciones\", \"type\": \"number\", \"description\": \"Exportaciones de servicios reales en millones de d\\u00f3lares. Cuenta corriente del balance de pagos\", \"id\": \"335.1_CUENTA_CONES__48\", \"units\": \"Millones de d\\u00f3lares\", \"dataset_identifier\": \"335\", \"distribution_identifier\": \"335.1\"}, {\"title\": \"cuenta_corriente_servicios_reales_importaciones\", \"type\": \"number\", \"description\": \"Importaciones de servicios reales en millones de d\\u00f3lares. Cuenta corriente del balance de pagos\", \"id\": \"335.1_CUENTA_CONES_IIV__48\", \"units\": \"Millones de d\\u00f3lares\", \"dataset_identifier\": \"335\", \"distribution_identifier\": \"335.1\"}, {\"title\": \"cuenta_corriente_servicios_reales_saldo\", \"type\": \"number\", \"description\": \"Saldo de servicios reales. Cuenta corriente del balance de pagos\", \"id\": \"335.1_CUENTA_COLDO__40\", \"units\": \"Millones de d\\u00f3lares\", \"dataset_identifier\": \"335\", \"distribution_identifier\": \"335.1\"}, {\"title\": \"cuenta_corriente_servicios_financieros_rentas_saldo\", \"type\": \"number\", \"description\": \"Saldo de rentas de servicios financieros. Cuenta corriente del balance de pagos\", \"id\": \"335.1_CUENTA_COLDO__52\", \"units\": \"Millones de d\\u00f3lares\", \"dataset_identifier\": \"335\", \"distribution_identifier\": \"335.1\"}, {\"title\": \"cuenta_corriente_transferencias_corrientes\", \"type\": \"number\", \"description\": \"Transferencias corrientes. Cuenta corriente del balance de pagos\", \"id\": \"335.1_CUENTA_COTES__43\", \"units\": \"Millones de d\\u00f3lares\", \"dataset_identifier\": \"335\", \"distribution_identifier\": \"335.1\"}, {\"title\": \"cuenta_corriente_resto\", \"type\": \"number\", \"description\": \"Resto. Cuenta corriente del balance de pagos\", \"id\": \"335.1_CUENTA_COSTO__23\", \"units\": \"Millones de d\\u00f3lares\", \"dataset_identifier\": \"335\", \"distribution_identifier\": \"335.1\"}, {\"title\": \"cuenta_corriente_total\", \"type\": \"number\", \"description\": \"Total de la cuenta corriente. Balance de pagos\", \"id\": \"335.1_CUENTA_COTAL__23\", \"units\": \"Millones de d\\u00f3lares\", \"dataset_identifier\": \"335\", \"distribution_identifier\": \"335.1\"}, {\"title\": \"cuenta_capital_sector_privado_no_financiero\", \"type\": \"number\", \"description\": \"Cuenta capital. Sector privado no financiero. Balance de pagos\", \"id\": \"335.1_CUENTA_CAERO__44\", \"units\": \"Millones de d\\u00f3lares\", \"dataset_identifier\": \"335\", \"distribution_identifier\": \"335.1\"}, {\"title\": \"cuenta_capital_instituciones_oficiales_bancarias\", \"type\": \"number\", \"description\": \"Cuenta capital. Instituciones oficiales bancarias. Balance de pagos\", \"id\": \"335.1_CUENTA_CAIAS__49\", \"units\": \"Millones de d\\u00f3lares\", \"dataset_identifier\": \"335\", \"distribution_identifier\": \"335.1\"}, {\"title\": \"cuenta_capital_sector_publico_no_financiero\", \"type\": \"number\", \"description\": \"Cuenta capital. Sector p\\u00fablico no financiero. Balance de pagos\", \"id\": \"335.1_CUENTA_CAERO_II__44\", \"units\": \"Millones de d\\u00f3lares\", \"dataset_identifier\": \"335\", \"distribution_identifier\": \"335.1\"}, {\"title\": \"cuenta_capital_resto\", \"type\": \"number\", \"description\": \"Resto. Cuenta capital. Balance de pagos\", \"id\": \"335.1_CUENTA_CASTO__21\", \"units\": \"Millones de d\\u00f3lares\", \"dataset_identifier\": \"335\", \"distribution_identifier\": \"335.1\"}, {\"title\": \"cuenta_capital_total\", \"type\": \"number\", \"description\": \"Total de la cuenta capital. Balance de pagos.\", \"id\": \"335.1_CUENTA_CATAL__21\", \"units\": \"Millones de d\\u00f3lares\", \"dataset_identifier\": \"335\", \"distribution_identifier\": \"335.1\"}, {\"title\": \"errores_omisiones\", \"type\": \"number\", \"description\": \"Errores y omisiones. Balance de pagos\", \"id\": \"335.1_ERRORES_OMNES__17\", \"units\": \"Millones de d\\u00f3lares\", \"dataset_identifier\": \"335\", \"distribution_identifier\": \"335.1\"}, {\"title\": \"variacion_reservas\", \"type\": \"number\", \"description\": \"Variaci\\u00f3n de reservas internacionales. Balance de pagos\", \"id\": \"335.1_VARIACION_VAS__18\", \"units\": \"Millones de d\\u00f3lares\", \"dataset_identifier\": \"335\", \"distribution_identifier\": \"335.1\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-11-28T00:00:00",
+      "datastore_active": false,
+      "description": "Balance de pagos. Cuenta corriente y cuenta capital. 1881-2009",
+      "fileName": "balance-pagos-datos-historicos.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "sspm_335.1",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Balance de pagos en millones de dólares. Datos anuales",
+      "package_id": "sspm_335",
+      "position": 0,
+      "resource_type": null,
+      "revision_id": "202cbbc7-86ca-4f47-b67f-aef9a921fb43",
+      "size": null,
+      "state": "active",
+      "url": "https://infra.datos.gob.ar/catalog/sspm/dataset/335/distribution/335.1/download/balance-pagos-datos-historicos.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "9cfdf0f4-4282-4db1-8d84-7ccb55ebada0",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "Información Económica Histórica",
+      "id": "3834bbe4-6452-499b-a70e-85765a130da2",
+      "name": "Información Económica Histórica",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Sector Externo",
+      "id": "7161d5c3-be73-43e4-91b8-447209c908f4",
+      "name": "Sector Externo",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Balance de pagos en millones de dólares",
+  "type": "dataset",
+  "url": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/",
+  "version": null
+}

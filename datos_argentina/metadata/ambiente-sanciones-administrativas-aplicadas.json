@@ -1,0 +1,133 @@
+{
+  "author": "Ministerio de Ambiente y Desarrollo Sostenible. Dirección de Infracciones Ambientales.",
+  "author_email": "gmpipet@ambiente.gob.ar",
+  "creator_user_id": "4720e75a-9e17-4dc3-879d-041917c7f9f9",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P1M"
+    },
+    {
+      "key": "issued",
+      "value": "2017-09-05T18:26:18.099427"
+    },
+    {
+      "key": "language",
+      "value": "[\"spa\"]"
+    },
+    {
+      "key": "modified",
+      "value": "2020-09-30T12:54:19.137036"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"ENVI\"]"
+    },
+    {
+      "key": "temporal",
+      "value": "2016-01-01T03:00:00.000Z/2019-12-31T03:00:00.000Z"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Medio ambiente",
+      "display_name": "Medio ambiente",
+      "id": "f71fe9d7-c703-43be-8d9d-af9441c326ba",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225440.964279medio-ambiente.svg",
+      "name": "envi",
+      "title": "Medio ambiente"
+    }
+  ],
+  "id": "ambiente_408ba48b-cd84-45bd-9632-254c10b637b9",
+  "isopen": false,
+  "license_id": "notspecified",
+  "license_title": "No se especificó la licencia",
+  "maintainer": "Ministerio de Ambiente y Desarrollo Sostenible. Dirección de Infracciones Ambientales",
+  "maintainer_email": "gmpipet@ambiente.gob.ar",
+  "metadata_created": "2019-11-26T14:58:04.902148",
+  "metadata_modified": "2021-04-29T17:17:45.305270",
+  "name": "ambiente-sanciones-administrativas-aplicadas",
+  "notes": "Indican la cantidad, tipo y del área sustantiva que se aplican en el MAyDS.",
+  "num_resources": 1,
+  "num_tags": 4,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:07.043831",
+    "description": "",
+    "id": "0e5aa328-825e-4509-851d-5421e866635e",
+    "image_url": "",
+    "is_organization": true,
+    "name": "ambiente",
+    "revision_id": "105eb915-270c-4f67-9b4e-e6a3f08be6d7",
+    "state": "active",
+    "title": "Ministerio de Ambiente y Desarrollo Sostenible",
+    "type": "organization"
+  },
+  "owner_org": "0e5aa328-825e-4509-851d-5421e866635e",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "http://datos.ambiente.gob.ar/dataset/408ba48b-cd84-45bd-9632-254c10b637b9/resource/bf57fac3-d227-4360-a2e9-63b492a459bb",
+      "attributesDescription": "[{\"type\": \"integer\", \"description\": \"A\\u00f1o de aplicaci\\u00f3n de la sanci\\u00f3n\", \"title\": \"solicitud_inicio_sumario_anio\"}, {\"type\": \"string\", \"description\": \"\\u00c1rea sustantiva que solicita el inicio del sumario\", \"title\": \"solicitud_inicio_sumario_area_sustantiva\"}, {\"type\": \"string\", \"description\": \"Indica que normativa se aplic\\u00f3 al sumario sancionado\", \"title\": \"normativa_aplicado_tipo\"}, {\"type\": \"integer\", \"description\": \"N\\u00famero de ley, decreto aplicada al sumario\", \"title\": \"normativa_aplicado_numero\"}, {\"type\": \"integer\", \"description\": \"A\\u00f1o de sanci\\u00f3n de la normativa aplicada al sumario penalizado\", \"title\": \"normativa_aplicado_anio_de_sancion\"}, {\"type\": \"integer\", \"description\": \"Cantidad de penalidades o sanciones aplicadas\", \"title\": \"penalidades_aplicadas_numero\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-09-05T18:39:50.434492",
+      "datastore_active": false,
+      "description": "Indican la cantidad, tipo y del área sustantiva que se aplican en el MAyDS",
+      "fileName": "sanciones-administrativa-aplicadas.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "ambiente_bf57fac3-d227-4360-a2e9-63b492a459bb",
+      "last_modified": "2017-09-05T18:39:50.393052",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Sanciones administrativas aplicadas",
+      "package_id": "ambiente_408ba48b-cd84-45bd-9632-254c10b637b9",
+      "position": 0,
+      "resource_type": null,
+      "revision_id": "f1c12090-1385-4066-9e67-aae4feb246cc",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.ambiente.gob.ar/dataset/408ba48b-cd84-45bd-9632-254c10b637b9/resource/bf57fac3-d227-4360-a2e9-63b492a459bb/download/sanciones-administrativa-aplicadas.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "90ede3ea-9312-4858-89e4-fd8d9d471b3c",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "Fiscalización",
+      "id": "7e5f9404-5c6f-49e0-849b-477fff8bdd0c",
+      "name": "Fiscalización",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Infracciones",
+      "id": "a0a01f0c-0c0d-407a-8a2e-17e3f6d52c1e",
+      "name": "Infracciones",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Multas",
+      "id": "a4a66d9d-7b7f-48e2-bd3d-05bdf3b68bf4",
+      "name": "Multas",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Sanciones",
+      "id": "25febf1c-d4a6-402f-889d-310602cca61b",
+      "name": "Sanciones",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Sanciones administrativas aplicadas",
+  "type": "dataset",
+  "url": "http://datos.ambiente.gob.ar/dataset/",
+  "version": null
+}

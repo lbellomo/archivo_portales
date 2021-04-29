@@ -1,0 +1,159 @@
+{
+  "author": "Ministerio de Relaciones Exteriores y Culto",
+  "author_email": "abc@cancilleria.gov.ar",
+  "creator_user_id": "4720e75a-9e17-4dc3-879d-041917c7f9f9",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "eventual"
+    },
+    {
+      "key": "issued",
+      "value": "2018-08-30T00:00:00"
+    },
+    {
+      "key": "language",
+      "value": "[\"SPA\"]"
+    },
+    {
+      "key": "modified",
+      "value": "2018-08-30T00:00:00"
+    },
+    {
+      "key": "source",
+      "value": "Ministerio de Relaciones Exteriores y Culto"
+    },
+    {
+      "key": "spatial",
+      "value": "ARG"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"INTR\"]"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Asuntos internacionales",
+      "display_name": "Asuntos internacionales",
+      "id": "df438560-59b5-416a-ad3a-b0548e6d0d04",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225205.444151asuntos-internacionales.svg",
+      "name": "intr",
+      "title": "Asuntos internacionales"
+    }
+  ],
+  "id": "exterior_01",
+  "isopen": true,
+  "license_id": "CC-BY-4.0",
+  "license_title": "Creative Commons Attribution 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "maintainer": "Alejandra Campana",
+  "maintainer_email": "abc@cancilleria.gov.ar",
+  "metadata_created": "2019-11-26T14:57:22.288305",
+  "metadata_modified": "2021-04-29T17:05:49.086683",
+  "name": "exterior-representaciones-argentinas",
+  "notes": "Datos de las Representaciones Argentinas en el exterior",
+  "num_resources": 3,
+  "num_tags": 0,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:10.769194",
+    "description": "",
+    "id": "89cd05f2-11c1-4f1a-875f-b4faf97eb4d4",
+    "image_url": "",
+    "is_organization": true,
+    "name": "exterior",
+    "revision_id": "720fa79f-1247-4a8d-adb1-dbd949d76266",
+    "state": "active",
+    "title": "Ministerio de Relaciones Exteriores, Comercio Internacional y Culto",
+    "type": "organization"
+  },
+  "owner_org": "89cd05f2-11c1-4f1a-875f-b4faf97eb4d4",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "https://cancilleria.gob.ar/iniciativas/datos-abiertos/set-de-datos-de-representaciones-argentinas-en-el-exterior",
+      "attributesDescription": "[{\"title\": \"sede_id\", \"type\": \"texto\", \"description\": \"C\\u00f3digo de Sede\"}, {\"title\": \"sede_desc_castellano\", \"type\": \"texto\", \"description\": \"Denominaci\\u00f3n de la Sede en espa\\u00f1ol\"}, {\"title\": \"sede_desc_ingles\", \"type\": \"texto\", \"description\": \"Denominaci\\u00f3n de la Sede en ingl\\u00e9s\"}, {\"title\": \"pais_iso_2\", \"type\": \"texto\", \"description\": \"C\\u00f3digo ISO2 pa\\u00eds donde est\\u00e1 la Sede\"}, {\"title\": \"pais_iso_3\", \"type\": \"texto\", \"description\": \"C\\u00f3digo ISO3 pa\\u00eds donde est\\u00e1 la Sede\"}, {\"title\": \"pais_castellano\", \"type\": \"texto\", \"description\": \"Pa\\u00eds donde est\\u00e1  la Sede en espa\\u00f1ol\"}, {\"title\": \"pais_ingles\", \"type\": \"texto\", \"description\": \"Pa\\u00eds donde est\\u00e1  la Sede en ingl\\u00e9s\"}, {\"title\": \"ciudad_castellano\", \"type\": \"texto\", \"description\": \"Ciudad donde est\\u00e1  la Sede en espa\\u00f1ol\"}, {\"title\": \"ciudad_ingles\", \"type\": \"texto\", \"description\": \"Ciudad donde est\\u00e1  la Sede en ingl\\u00e9s\"}, {\"title\": \"estado\", \"type\": \"texto\", \"description\": \"Estado (activo o inactivo)\"}, {\"title\": \"sede_tipo\", \"type\": \"texto\", \"description\": \"Tipo de sede\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2018-08-30T00:00:00",
+      "datastore_active": false,
+      "description": "Datos básicos Sedes",
+      "fileName": "lista-sedes.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "exterior_01.01",
+      "last_modified": "2018-08-30T00:00:00",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Datos básicos Sedes",
+      "package_id": "exterior_01",
+      "position": 0,
+      "resource_type": null,
+      "revision_id": "8259517a-3035-4d8b-b7ba-916a65f35c6f",
+      "size": null,
+      "state": "active",
+      "url": "https://cancilleria.gob.ar/userfiles/datos/lista-sedes.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://cancilleria.gob.ar/iniciativas/datos-abiertos/set-de-datos-de-representaciones-argentinas-en-el-exterior",
+      "attributesDescription": "[{\"title\": \"sede_id\", \"type\": \"texto\", \"description\": \"C\\u00f3digo de Sede\"}, {\"title\": \"sede_desc_castellano\", \"type\": \"texto\", \"description\": \"Denominaci\\u00f3n de la Sede en espa\\u00f1ol\"}, {\"title\": \"sede_desc_ingles\", \"type\": \"texto\", \"description\": \"Denominaci\\u00f3n de la Sede en ingl\\u00e9s\"}, {\"title\": \"pais_castellano\", \"type\": \"texto\", \"description\": \"Pa\\u00eds donde est\\u00e1  la Sede en espa\\u00f1ol\"}, {\"title\": \"pais_ingles\", \"type\": \"texto\", \"description\": \"Pa\\u00eds donde est\\u00e1  la Sede en ingl\\u00e9s\"}, {\"title\": \"region_geografica\", \"type\": \"texto\", \"description\": \"Regi\\u00f3n geogr\\u00e1fica\"}, {\"title\": \"pais_iso_2\", \"type\": \"texto\", \"description\": \"C\\u00f3digo ISO2 pa\\u00eds donde est\\u00e1 la Sede\"}, {\"title\": \"pais_iso_3\", \"type\": \"texto\", \"description\": \"C\\u00f3digo ISO3 pa\\u00eds donde est\\u00e1 la Sede\"}, {\"title\": \"pais_codigo_telefonico\", \"type\": \"n\\u00famero\", \"description\": \"C\\u00f3digo telef\\u00f3nico del pa\\u00eds\"}, {\"title\": \"ciudad_castellano\", \"type\": \"texto\", \"description\": \"Ciudad donde est\\u00e1  la Sede en espa\\u00f1ol\"}, {\"title\": \"ciudad_ingles\", \"type\": \"texto\", \"description\": \"Ciudad donde est\\u00e1  la Sede en ingl\\u00e9s\"}, {\"title\": \"ciudad_zona_horaria_gmt\", \"type\": \"n\\u00famero\", \"description\": \"Zona horaria de la ciudad (GMT)\"}, {\"title\": \"ciudad_codigo_telefonico\", \"type\": \"n\\u00famero\", \"description\": \"C\\u00f3digo telef\\u00f3nico de la ciudad\"}, {\"title\": \"estado\", \"type\": \"texto\", \"description\": \"Estado (activo o inactivo)\"}, {\"title\": \"titular_nombre\", \"type\": \"texto\", \"description\": \"Nombre del funcionario titular de la Sede\"}, {\"title\": \"titular_apellido\", \"type\": \"texto\", \"description\": \"Apellido del funcionario titular de la Sede\"}, {\"title\": \"titular_cargo\", \"type\": \"texto\", \"description\": \"Cargo del funcionario titular de la Sede\"}, {\"title\": \"direccion\", \"type\": \"texto\", \"description\": \"Direcci\\u00f3n postal de la Sede\"}, {\"title\": \"codigo_postal\", \"type\": \"texto\", \"description\": \"C\\u00f3digo postal correspondiente a la direcci\\u00f3n de la Sede\"}, {\"title\": \"telefono_principal\", \"type\": \"texto\", \"description\": \"N\\u00famero telef\\u00f3nico principal de la Sede\"}, {\"title\": \"telefonos_adicionales\", \"type\": \"texto\", \"description\": \"N\\u00fameros telef\\u00f3nicos adicionales de la Sede\"}, {\"title\": \"celular_guardia\", \"type\": \"texto\", \"description\": \"N\\u00famero celular de guardia de la Sede\"}, {\"title\": \"celulares_adicionales\", \"type\": \"texto\", \"description\": \"N\\u00fameros celulares adicionales de la Sede\"}, {\"title\": \"fax_principal\", \"type\": \"texto\", \"description\": \"N\\u00famero de fax principal de la Sede\"}, {\"title\": \"faxes_adicionales\", \"type\": \"texto\", \"description\": \"N\\u00fameros de fax adicionales de la Sede\"}, {\"title\": \"correo_electronico\", \"type\": \"texto\", \"description\": \"Direcci\\u00f3n correo electr\\u00f3nico principal de la Sede\"}, {\"title\": \"correos_electronicos_adicionales\", \"type\": \"texto\", \"description\": \"Direcciones correo electr\\u00f3nico adicionales de la Sede\"}, {\"title\": \"sitio_web\", \"type\": \"texto\", \"description\": \"URL sitio web de la Sede\"}, {\"title\": \"sitios_web_adicionales\", \"type\": \"texto\", \"description\": \"URLs sitios webs adicionales de la Sede\"}, {\"title\": \"redes_sociales\", \"type\": \"texto\", \"description\": \"Direcciones de la Sede en las redes sociales\"}, {\"title\": \"atencion_dia_desde\", \"type\": \"texto\", \"description\": \"D\\u00eda de atenci\\u00f3n de la Sede desde\"}, {\"title\": \"atencion_dia_hasta\", \"type\": \"texto\", \"description\": \"D\\u00eda de atenci\\u00f3n de la Sede hasta\"}, {\"title\": \"atencion_hora_desde\", \"type\": \"hora\", \"description\": \"Hora de atenci\\u00f3n de la Sede desde\"}, {\"title\": \"atencion_hora_hasta\", \"type\": \"hora\", \"description\": \"Hora de atenci\\u00f3n de la Sede hasta\"}, {\"title\": \"atencion_comentario\", \"type\": \"texto\", \"description\": \"Comentario asociado al horario de atenci\\u00f3n de la Sede\"}, {\"title\": \"concurrencias\", \"type\": \"texto\", \"description\": \"Concurrencias de la Sede\"}, {\"title\": \"circunscripcion\", \"type\": \"texto\", \"description\": \"Circunscripci\\u00f3n Consular\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2018-08-30T00:00:00",
+      "datastore_active": false,
+      "description": "Datos completos Sedes",
+      "fileName": "lista-sedes-datos.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "exterior_01.02",
+      "last_modified": "2018-08-30T00:00:00",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Datos completos Sedes",
+      "package_id": "exterior_01",
+      "position": 1,
+      "resource_type": null,
+      "revision_id": "7cb19f31-7470-40ae-88df-828184e06287",
+      "size": null,
+      "state": "active",
+      "url": "https://cancilleria.gob.ar/userfiles/datos/lista-sedes-datos.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://cancilleria.gob.ar/iniciativas/datos-abiertos/set-de-datos-de-representaciones-argentinas-en-el-exterior",
+      "attributesDescription": "[{\"title\": \"sede_id\", \"type\": \"texto\", \"description\": \"C\\u00f3digo de Sede\"}, {\"title\": \"sede_desc_castellano\", \"type\": \"texto\", \"description\": \"Denominaci\\u00f3n de la Secci\\u00f3n de la Sede en espa\\u00f1ol\"}, {\"title\": \"sede_desc_ingles\", \"type\": \"texto\", \"description\": \"Denominaci\\u00f3n de la Secci\\u00f3n de la Sede en ingl\\u00e9s\"}, {\"title\": \"tipo_seccion\", \"type\": \"texto\", \"description\": \"Tipo de secci\\u00f3n\"}, {\"title\": \"nombre_titular\", \"type\": \"texto\", \"description\": \"Nombre del funcionario titular de la Secci\\u00f3n\"}, {\"title\": \"apellido_titular\", \"type\": \"texto\", \"description\": \"Apellido del funcionario titular de la Secci\\u00f3n\"}, {\"title\": \"cargo_titular\", \"type\": \"texto\", \"description\": \"Cargo del funcionario titular de la Secci\\u00f3n\"}, {\"title\": \"telefono_principal\", \"type\": \"texto\", \"description\": \"N\\u00famero telef\\u00f3nico principal de la Secci\\u00f3n\"}, {\"title\": \"telefonos_adicionales\", \"type\": \"texto\", \"description\": \"N\\u00fameros telef\\u00f3nicos adicionales de la Secci\\u00f3n\"}, {\"title\": \"celular_de_guardia\", \"type\": \"texto\", \"description\": \"N\\u00famero celular de guardia de la Secci\\u00f3n\"}, {\"title\": \"celulares_adicionales\", \"type\": \"texto\", \"description\": \"N\\u00fameros celulares adicionales de la Secci\\u00f3n\"}, {\"title\": \"fax_principal\", \"type\": \"texto\", \"description\": \"N\\u00famero de fax principal de la Secci\\u00f3n\"}, {\"title\": \"faxes_adicionales\", \"type\": \"texto\", \"description\": \"N\\u00fameros de fax adicionales de la Secci\\u00f3n\"}, {\"title\": \"correo_electronico\", \"type\": \"texto\", \"description\": \"Direcci\\u00f3n correo electr\\u00f3nico principal de la Secci\\u00f3n\"}, {\"title\": \"correos_adicionales\", \"type\": \"texto\", \"description\": \"Direcciones correo electr\\u00f3nico adicionales de la Secci\\u00f3n\"}, {\"title\": \"sitio_web\", \"type\": \"texto\", \"description\": \"URL sitio web de la Secci\\u00f3n\"}, {\"title\": \"sitios_web_adicionales\", \"type\": \"texto\", \"description\": \"URLs sitios webs adicionales de la Secci\\u00f3n\"}, {\"title\": \"atencion_dia_desde\", \"type\": \"texto\", \"description\": \"D\\u00eda de atenci\\u00f3n de la Secci\\u00f3n desde\"}, {\"title\": \"atencion_dia_hasta\", \"type\": \"texto\", \"description\": \"D\\u00eda de atenci\\u00f3n de la Secci\\u00f3n hasta\"}, {\"title\": \"atencion_hora_desde\", \"type\": \"hora\", \"description\": \"Hora de atenci\\u00f3n de la Secci\\u00f3n desde\"}, {\"title\": \"atencion_hora_hasta\", \"type\": \"hora\", \"description\": \"Hora de atenci\\u00f3n de la Secci\\u00f3n hasta\"}, {\"title\": \"comentario_del_horario\", \"type\": \"texto\", \"description\": \"Comentario asociado al horario de atenci\\u00f3n de la Secci\\u00f3n\"}, {\"title\": \"temas\", \"type\": \"texto\", \"description\": \"Temas de competencia de la Secci\\u00f3n\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2018-08-30T00:00:00",
+      "datastore_active": false,
+      "description": "Datos secciones Sedes",
+      "fileName": "lista-secciones.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "exterior_01.03",
+      "last_modified": "2018-08-30T00:00:00",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Datos secciones Sedes",
+      "package_id": "exterior_01",
+      "position": 2,
+      "resource_type": null,
+      "revision_id": "7dcd172a-a330-4322-9635-fce773cf45d9",
+      "size": null,
+      "state": "active",
+      "url": "https://cancilleria.gob.ar/userfiles/datos/lista-secciones.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "d43cab58-4127-4665-b94e-d2e45ec1af68",
+  "state": "active",
+  "tags": [],
+  "title": "Representaciones Argentinas",
+  "type": "dataset",
+  "url": "https://cancilleria.gob.ar/es/iniciativas/datos-abiertos",
+  "version": null
+}

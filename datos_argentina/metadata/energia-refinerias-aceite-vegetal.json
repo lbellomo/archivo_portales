@@ -1,0 +1,169 @@
+{
+  "author": "Secretaría de Gobierno de Energía.Subsecretaría de Planeamiento Energético.Dirección Nacional de Información Energética.",
+  "author_email": "tienerg@energia.gob.ar",
+  "creator_user_id": "4720e75a-9e17-4dc3-879d-041917c7f9f9",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "eventual"
+    },
+    {
+      "key": "issued",
+      "value": "2016-11-07T13:33:34.985951"
+    },
+    {
+      "key": "modified",
+      "value": "2020-04-24T11:26:51.176130"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"ENER\"]"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Energía",
+      "display_name": "Energía",
+      "id": "a4d3f632-eb48-4163-9791-165989c16035",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225337.421630energia.svg",
+      "name": "ener",
+      "title": "Energía"
+    }
+  ],
+  "id": "energia_ab6c7e10-1b43-4e6f-a833-0adb996b0814",
+  "isopen": false,
+  "license_id": "notspecified",
+  "license_title": "No se especificó la licencia",
+  "maintainer": "Secretaría de Gobierno de Energía.Subsecretaría de Planeamiento Energético.Dirección Nacional de Información Energética.",
+  "maintainer_email": "tienerg@minem.gob.ar",
+  "metadata_created": "2019-11-26T15:00:03.937353",
+  "metadata_modified": "2021-04-29T17:17:48.026756",
+  "name": "energia-refinerias-aceite-vegetal",
+  "notes": "Ubicación de refinerías de aceite vegetal. ",
+  "num_resources": 2,
+  "num_tags": 7,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:09.221510",
+    "description": "",
+    "id": "cd1b32a2-2d3a-44ac-8c98-a425a7b62d42",
+    "image_url": "",
+    "is_organization": true,
+    "name": "energia",
+    "revision_id": "a184cf69-99ad-4f84-a254-020031d7fe63",
+    "state": "active",
+    "title": "Secretaría de Energía",
+    "type": "organization"
+  },
+  "owner_org": "cd1b32a2-2d3a-44ac-8c98-a425a7b62d42",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "http://datos.minem.gob.ar/dataset/ab6c7e10-1b43-4e6f-a833-0adb996b0814/resource/48a2ea87-4ac7-49cf-98b2-ad37590cb9a6",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-05-04T20:43:15.562170",
+      "datastore_active": false,
+      "description": "",
+      "fileName": "energas-renovables-refineras-de-aceite-vegetal.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "energia_48a2ea87-4ac7-49cf-98b2-ad37590cb9a6",
+      "last_modified": "2017-05-04T20:43:15.349163",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Energías Renovables Refinerías de Aceite Vegetal",
+      "package_id": "energia_ab6c7e10-1b43-4e6f-a833-0adb996b0814",
+      "position": 0,
+      "resource_type": null,
+      "revision_id": "fa19084b-2eed-457d-a282-cf07749a801b",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.minem.gob.ar/dataset/ab6c7e10-1b43-4e6f-a833-0adb996b0814/resource/48a2ea87-4ac7-49cf-98b2-ad37590cb9a6/download/energas-renovables-refineras-de-aceite-vegetal.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos.minem.gob.ar/dataset/ab6c7e10-1b43-4e6f-a833-0adb996b0814/resource/036f5ac6-0819-4b56-b385-b60a5195011d",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-05-04T18:57:55.335968",
+      "datastore_active": false,
+      "description": "Archivos prj, shp, shx, dbf, xml. Sistema de Proyección EPSG:4326",
+      "fileName": "energas-renovables-refineras-de-aceite-vegetal.zip",
+      "format": "SHP",
+      "hash": "",
+      "id": "energia_036f5ac6-0819-4b56-b385-b60a5195011d",
+      "last_modified": "2017-05-04T18:57:55.171149",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Energías Renovables Refinerías de Aceite Vegetal",
+      "package_id": "energia_ab6c7e10-1b43-4e6f-a833-0adb996b0814",
+      "position": 1,
+      "resource_type": null,
+      "revision_id": "b8589ad4-460e-4b48-9aeb-15eab22006b6",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.minem.gob.ar/dataset/ab6c7e10-1b43-4e6f-a833-0adb996b0814/resource/036f5ac6-0819-4b56-b385-b60a5195011d/download/energas-renovables-refineras-de-aceite-vegetal.zip",
+      "url_type": null
+    }
+  ],
+  "revision_id": "d62fefd1-f6b2-4082-91d9-b18fb8e3f402",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "Aceite vegetal",
+      "id": "c3100100-5d11-48ab-a5ea-86b2465317c7",
+      "name": "Aceite vegetal",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Biocombustibles",
+      "id": "ac3e690e-0b68-4dce-bc68-c01ecd522ef2",
+      "name": "Biocombustibles",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Energías Renovables",
+      "id": "5ed67cf4-5bbe-49c1-869c-ede36d86486c",
+      "name": "Energías Renovables",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Energías renovables",
+      "id": "539396f8-99e0-457d-ad66-402c2f1164bc",
+      "name": "Energías renovables",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Información Geográfica",
+      "id": "d22bc8a4-252e-4fd8-89b2-3b9a08f6be42",
+      "name": "Información Geográfica",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Información geográfica",
+      "id": "24b3ee69-69cb-45de-a8b4-3566f4eab17c",
+      "name": "Información geográfica",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Refinerías",
+      "id": "a41da4fa-d610-4ec9-84ac-be592b780b1a",
+      "name": "Refinerías",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Refinerías de Aceite Vegetal",
+  "type": "dataset",
+  "url": "http://datos.minem.gob.ar/dataset/",
+  "version": null
+}

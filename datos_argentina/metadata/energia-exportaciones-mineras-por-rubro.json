@@ -1,0 +1,103 @@
+{
+  "author": "Ministerio de Energía y Minería.Secretaría de Coordinación de Planeamiento Energético.Dirección Nacional de Información Energética.Tecnología de la Información.",
+  "author_email": "tienerg@energia.gob.ar",
+  "creator_user_id": "4720e75a-9e17-4dc3-879d-041917c7f9f9",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "eventual"
+    },
+    {
+      "key": "issued",
+      "value": "2016-11-07T13:33:34.985951"
+    },
+    {
+      "key": "modified",
+      "value": "2017-08-10T15:03:43.214086"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"ENER\"]"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Energía",
+      "display_name": "Energía",
+      "id": "a4d3f632-eb48-4163-9791-165989c16035",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225337.421630energia.svg",
+      "name": "ener",
+      "title": "Energía"
+    }
+  ],
+  "id": "energia_dea26f6a-a016-40aa-87eb-09f624c240fa",
+  "isopen": false,
+  "license_id": "notspecified",
+  "license_title": "No se especificó la licencia",
+  "maintainer": "Ministerio de Energía y Minería.Secretaría de Minería.",
+  "maintainer_email": null,
+  "metadata_created": "2019-11-26T15:00:58.585236",
+  "metadata_modified": "2021-04-29T17:17:33.774898",
+  "name": "energia-exportaciones-mineras-por-rubro",
+  "notes": "Exportaciones de sustancias minerales y productos derivados por rubro de producción minera. Años 2001-2015 (en millones de U$S FOB).",
+  "num_resources": 1,
+  "num_tags": 1,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:09.221510",
+    "description": "",
+    "id": "cd1b32a2-2d3a-44ac-8c98-a425a7b62d42",
+    "image_url": "",
+    "is_organization": true,
+    "name": "energia",
+    "revision_id": "a184cf69-99ad-4f84-a254-020031d7fe63",
+    "state": "active",
+    "title": "Secretaría de Energía",
+    "type": "organization"
+  },
+  "owner_org": "cd1b32a2-2d3a-44ac-8c98-a425a7b62d42",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "http://datos.minem.gob.ar/dataset/dea26f6a-a016-40aa-87eb-09f624c240fa/resource/8f61956b-46ea-4152-8950-0857b4becbef",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-05-04T21:06:07.528473",
+      "datastore_active": false,
+      "description": "",
+      "fileName": "expo-mineria-por-rubro.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "energia_8f61956b-46ea-4152-8950-0857b4becbef",
+      "last_modified": "2017-08-10T12:03:30.656485",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Exportaciones mineras por rubro",
+      "package_id": "energia_dea26f6a-a016-40aa-87eb-09f624c240fa",
+      "position": 0,
+      "resource_type": null,
+      "revision_id": "0372f58e-a7c5-4169-bd59-9722cca4b66c",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.minem.gob.ar/dataset/dea26f6a-a016-40aa-87eb-09f624c240fa/resource/8f61956b-46ea-4152-8950-0857b4becbef/download/expo-mineria-por-rubro.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "3797b531-e305-4076-a6b1-c662f1932461",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "Minería",
+      "id": "4688f00a-f28f-45cd-96bb-8c9b5ba316be",
+      "name": "Minería",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Exportaciones mineras por rubro",
+  "type": "dataset",
+  "url": "http://datos.minem.gob.ar/dataset/exportaciones-mineras-por-rubro",
+  "version": null
+}

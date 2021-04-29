@@ -1,0 +1,155 @@
+{
+  "author": "Ministerio de Educación, Cultura, Ciencia y Tecnología ",
+  "author_email": "leticia.miras@educacion.gob.ar",
+  "creator_user_id": "4720e75a-9e17-4dc3-879d-041917c7f9f9",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P1Y"
+    },
+    {
+      "key": "issued",
+      "value": "2018-10-03T15:43:16.810167"
+    },
+    {
+      "key": "language",
+      "value": "[\"spa\"]"
+    },
+    {
+      "key": "modified",
+      "value": "2019-01-29T14:25:10.512672"
+    },
+    {
+      "key": "source",
+      "value": "Departamento de Información Universitaria "
+    },
+    {
+      "key": "spatial",
+      "value": "[\"ARG\", \"02\"]"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"EDUC\"]"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Educación, cultura y deportes",
+      "display_name": "Educación, cultura y deportes",
+      "id": "b5ebe955-de3d-4e0b-b28c-16df2b2af99f",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225313.459997educacion-cultura-deportes.svg",
+      "name": "educ",
+      "title": "Educación, cultura y deportes"
+    }
+  ],
+  "id": "spu_65ba968f-53e3-4750-bf7d-735791a38449",
+  "isopen": false,
+  "license_id": "notspecified",
+  "license_title": "No se especificó la licencia",
+  "maintainer": "Ministerio de Educación, Cultura, Ciencia y Tecnología  . Secretaria de Políticas Universitarias - Dirección Nacional de Presupuesto e Información Universitaria ",
+  "maintainer_email": "leticia.miras@educacion.gob.ar",
+  "metadata_created": "2019-11-26T15:02:23.175568",
+  "metadata_modified": "2021-04-29T17:18:02.165360",
+  "name": "spu-ofertas-educacion-superior-instituciones",
+  "notes": "Ofertas de Educación Superior de Instituciones publicas y  privadas ",
+  "num_resources": 2,
+  "num_tags": 3,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:08.915439",
+    "description": "",
+    "id": "dd9e5d2b-3d9e-4597-be41-147150ba808f",
+    "image_url": "",
+    "is_organization": true,
+    "name": "spu",
+    "revision_id": "0c3a1ab3-8fa4-4e9b-aaee-80c27e18b6ba",
+    "state": "active",
+    "title": "Secretaría de Políticas Universitarias",
+    "type": "organization"
+  },
+  "owner_org": "dd9e5d2b-3d9e-4597-be41-147150ba808f",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "http://andino.siu.edu.ar:80/dataset/65ba968f-53e3-4750-bf7d-735791a38449/resource/1e68b8ae-32c2-47ce-9ea9-72844627d74d",
+      "attributesDescription": "[{\"type\": \"string\", \"description\": \"Regimen  - Estatal \", \"title\": \"Regimen \"}, {\"type\": \"integer\", \"description\": \"Codigo de institucion  de educacion superior correspondiente \", \"title\": \"Codigo de institucion \"}, {\"type\": \"string\", \"description\": \"Nombre de la instituci\\u00f3n\", \"title\": \"Nombre Corto  de la institucion\"}, {\"type\": \"string\", \"description\": \"Nombre  de la instituci\\u00f3n\", \"title\": \"Nombre  de la instituci\\u00f3n\"}, {\"type\": \"string\", \"description\": \"Descripci\\u00f3n Unidad Acad\\u00e9mica \", \"title\": \"Unidad Academica\"}, {\"type\": \"integer\", \"description\": \"Codigo de unidad Acad\\u00e9mica\", \"title\": \"Codigo de unidad Academica\"}, {\"type\": \"integer\", \"description\": \"codigo de titulo \", \"title\": \"codigo de titulo \"}, {\"type\": \"string\", \"description\": \"titulo \", \"title\": \"titulo \"}, {\"type\": \"string\", \"description\": \"Nivel de la oferta - Grado . Pregrado y Posgrado \", \"title\": \"Nivel de la oferta\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2018-10-03T12:50:48.272257",
+      "datastore_active": false,
+      "description": "Ofertas Académicas de Educación Superior Publica ",
+      "fileName": "listado-de-ofertas-estatales.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "spu_1e68b8ae-32c2-47ce-9ea9-72844627d74d",
+      "last_modified": "2018-10-03T12:50:48.272257",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Ofertas Académicas de Educación Superior Publica ",
+      "package_id": "spu_65ba968f-53e3-4750-bf7d-735791a38449",
+      "position": 0,
+      "resource_type": "file.upload",
+      "revision_id": "dbe6261b-c0cb-4295-a942-612fa3527adf",
+      "size": null,
+      "state": "active",
+      "url": "http://andino.siu.edu.ar:80/dataset/65ba968f-53e3-4750-bf7d-735791a38449/resource/1e68b8ae-32c2-47ce-9ea9-72844627d74d/download/listado-de-ofertas-estatales.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://andino.siu.edu.ar:80/dataset/65ba968f-53e3-4750-bf7d-735791a38449/resource/0bfc1147-2614-4e1f-8e89-3792ab6f050f",
+      "attributesDescription": "[{\"type\": \"string\", \"description\": \"Regimen - Privado \", \"title\": \"Regimen\"}, {\"type\": \"integer\", \"description\": \"Codigo de institucion  Araucano \", \"title\": \"Insitucion Codigo\"}, {\"type\": \"string\", \"description\": \"Nombre de la instituci\\u00f3n \", \"title\": \"Institucion\"}, {\"type\": \"string\", \"description\": \"Nombre corto de la institucion\", \"title\": \"Nombre corto \"}, {\"type\": \"integer\", \"description\": \"C\\u00f3digo de Unidad Academica Araucano\", \"title\": \"C\\u00f3digo de Unidad Academica\"}, {\"type\": \"string\", \"description\": \"Nombre de la Unidad ACADEMICA\", \"title\": \"Nombre de la Unidad ACADEMICA\"}, {\"type\": \"integer\", \"description\": \"Cod Titulo Araucano\", \"title\": \"Cod Titulo\"}, {\"type\": \"string\", \"description\": \"Nombre del titulo \", \"title\": \"Nombre del titulo \"}, {\"type\": \"string\", \"description\": \"Nivel de la oferta acad\\u00e9mica \", \"title\": \"Nivel \"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2018-10-03T15:57:24.106162",
+      "datastore_active": false,
+      "description": "Ofertas Académicas de Educacion Superior  Privadas",
+      "fileName": "listado-de-ofertas-privadas.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "spu_0bfc1147-2614-4e1f-8e89-3792ab6f050f",
+      "last_modified": "2018-10-03T15:57:24.106162",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Ofertas Académicas de Educacion Superior  Privadas",
+      "package_id": "spu_65ba968f-53e3-4750-bf7d-735791a38449",
+      "position": 1,
+      "resource_type": "file.upload",
+      "revision_id": "41a76ea2-89ba-4fd2-b555-1dec60f9d0f4",
+      "size": null,
+      "state": "active",
+      "url": "http://andino.siu.edu.ar:80/dataset/65ba968f-53e3-4750-bf7d-735791a38449/resource/0bfc1147-2614-4e1f-8e89-3792ab6f050f/download/listado-de-ofertas-privadas.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "021b97c0-192b-49c3-8864-2cf96cd257a8",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "Ofertas ",
+      "id": "af76d232-ecf7-4d41-9436-6f52e182cd3d",
+      "name": "Ofertas ",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Ofertas Académicas",
+      "id": "ef310253-1fd9-43e2-859f-c4a71de663b9",
+      "name": "Ofertas Académicas",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Ofertas Universitarias",
+      "id": "d526fd4c-9890-4458-bbc3-468feac8eead",
+      "name": "Ofertas Universitarias",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Ofertas de Educación Superior de Instituciones",
+  "type": "dataset",
+  "url": "http://andino.siu.edu.ar/dataset/ofertas-de-educacion-superior-de-instituciones-publicas",
+  "version": null
+}

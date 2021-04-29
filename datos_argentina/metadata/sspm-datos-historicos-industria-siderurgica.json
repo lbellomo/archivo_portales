@@ -1,0 +1,174 @@
+{
+  "author": "Subsecretaría de Programación Macroeconómica",
+  "author_email": "datoseconomicos@mecon.gov.ar",
+  "creator_user_id": "4720e75a-9e17-4dc3-879d-041917c7f9f9",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P1M"
+    },
+    {
+      "key": "issued",
+      "value": "2017-12-12"
+    },
+    {
+      "key": "language",
+      "value": "[\"SPA\"]"
+    },
+    {
+      "key": "source",
+      "value": "Cámara Argentina del Acero y Boletín Informativo de Techint"
+    },
+    {
+      "key": "spatial",
+      "value": "ARG"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"ECON\"]"
+    },
+    {
+      "key": "temporal",
+      "value": "1960-01-01/2016-12-01"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Economía y finanzas",
+      "display_name": "Economía y finanzas",
+      "id": "60b4b03e-10a1-4d67-b984-08008a249617",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225257.200233economia-finanzas.svg",
+      "name": "econ",
+      "title": "Economía y finanzas"
+    }
+  ],
+  "id": "sspm_359",
+  "isopen": true,
+  "license_id": "CC-BY-4.0",
+  "license_title": "Creative Commons Attribution 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "maintainer": "Subsecretaría de Programación Macroeconómica.",
+  "maintainer_email": "datoseconomicos@mecon.gov.ar",
+  "metadata_created": "2019-11-26T15:06:00.152484",
+  "metadata_modified": "2021-04-29T17:04:27.486472",
+  "name": "sspm-datos-historicos-industria-siderurgica",
+  "notes": "Datos históricos producción en volúmen de la industria siderúrgica",
+  "num_resources": 3,
+  "num_tags": 2,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:09.718132",
+    "description": "",
+    "id": "68f9ee22-5ec3-44cf-a32b-b87d9db46b93",
+    "image_url": "",
+    "is_organization": true,
+    "name": "sspm",
+    "revision_id": "bc058ce0-3540-4204-96cd-9f9ec79045b3",
+    "state": "active",
+    "title": "Subsecretaría de Programación Macroeconómica",
+    "type": "organization"
+  },
+  "owner_org": "68f9ee22-5ec3-44cf-a32b-b87d9db46b93",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/",
+      "attributesDescription": "[{\"title\": \"indice_tiempo\", \"type\": \"date\", \"specialType\": \"time_index\", \"specialTypeDetail\": \"R/P1Y\", \"id\": \"359.1_INDICE_TIEMPO__13\", \"scrapingIdentifierCell\": \"A9\", \"scrapingDataStartCell\": \"A10\", \"dataset_identifier\": \"359\", \"distribution_identifier\": \"359.1\"}, {\"title\": \"hierro_primario_arrabio\", \"type\": \"number\", \"description\": \"Vol\\u00famen de produci\\u00f3n de hierro primario arrabio\", \"id\": \"359.1_HIERRO_PRIBIO__23\", \"scrapingIdentifierCell\": \"B9\", \"scrapingDataStartCell\": \"B10\", \"units\": \"Unidades\", \"dataset_identifier\": \"359\", \"distribution_identifier\": \"359.1\"}, {\"title\": \"hierro_primario_hierro_esponja\", \"type\": \"number\", \"description\": \"Vol\\u00famen de produci\\u00f3n de hierro primario hierro esponja\", \"id\": \"359.1_HIERRO_PRINJA__30\", \"scrapingIdentifierCell\": \"C9\", \"scrapingDataStartCell\": \"C10\", \"units\": \"Unidades\", \"dataset_identifier\": \"359\", \"distribution_identifier\": \"359.1\"}, {\"title\": \"hierro_primario_total\", \"type\": \"number\", \"description\": \"Vol\\u00famen de produci\\u00f3n de hierro primario total\", \"id\": \"359.1_HIERRO_PRITAL__21\", \"scrapingIdentifierCell\": \"D9\", \"scrapingDataStartCell\": \"D10\", \"units\": \"Unidades\", \"dataset_identifier\": \"359\", \"distribution_identifier\": \"359.1\"}, {\"title\": \"acero_crudo\", \"type\": \"number\", \"description\": \"Vol\\u00famen de produci\\u00f3n de acero crudo\", \"id\": \"359.1_ACERO_CRUDUDO__11\", \"scrapingIdentifierCell\": \"F9\", \"scrapingDataStartCell\": \"F10\", \"units\": \"Unidades\", \"dataset_identifier\": \"359\", \"distribution_identifier\": \"359.1\"}, {\"title\": \"laminados_no_planos_en_caliente\", \"type\": \"number\", \"description\": \"Vol\\u00famen de produci\\u00f3n de laminados no planos en caliente\", \"id\": \"359.1_LAMINADOS_NTE__31\", \"scrapingIdentifierCell\": \"H9\", \"scrapingDataStartCell\": \"H10\", \"units\": \"Unidades\", \"dataset_identifier\": \"359\", \"distribution_identifier\": \"359.1\"}, {\"title\": \"laminados_planos_en_caliente\", \"type\": \"number\", \"description\": \"Vol\\u00famen de produci\\u00f3n de laminados planos en caliente\", \"id\": \"359.1_LAMINADOS_NTE__28\", \"scrapingIdentifierCell\": \"I9\", \"scrapingDataStartCell\": \"I10\", \"units\": \"Unidades\", \"dataset_identifier\": \"359\", \"distribution_identifier\": \"359.1\"}, {\"title\": \"laminados_planos_en_frio\", \"type\": \"number\", \"description\": \"Vol\\u00famen de produci\\u00f3n de laminados planos en frio\", \"id\": \"359.1_LAMINADOS_RIO__24\", \"scrapingIdentifierCell\": \"J9\", \"scrapingDataStartCell\": \"J10\", \"units\": \"Unidades\", \"dataset_identifier\": \"359\", \"distribution_identifier\": \"359.1\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-12-12T00:00:00",
+      "datastore_active": false,
+      "description": "Datos históricos del volumen de producción de la industria siderúrgica. Datos Anuales",
+      "fileName": "datos-historicos-de-la-industria-siderurgica-datos-anuales.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "sspm_359.1",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Datos históricos de la industria siderúrgica. Datos Anuales",
+      "package_id": "sspm_359",
+      "position": 0,
+      "resource_type": null,
+      "revision_id": "b92f3780-efe1-4bef-bcf8-365e4e3ef74e",
+      "size": null,
+      "state": "active",
+      "url": "https://infra.datos.gob.ar/catalog/sspm/dataset/359/distribution/359.1/download/datos-historicos-de-la-industria-siderurgica-datos-anuales.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/",
+      "attributesDescription": "[{\"title\": \"indice_tiempo\", \"type\": \"date\", \"specialType\": \"time_index\", \"specialTypeDetail\": \"R/P3M\", \"id\": \"359.2_INDICE_TIEMPO__13\", \"scrapingIdentifierCell\": \"A89\", \"scrapingDataStartCell\": \"A90\", \"dataset_identifier\": \"359\", \"distribution_identifier\": \"359.2\"}, {\"title\": \"hierro_primario_arrabio\", \"type\": \"number\", \"description\": \"Vol\\u00famen de produci\\u00f3n de hierro primario arrabio\", \"id\": \"359.2_HIERRO_PRIBIO__23\", \"scrapingIdentifierCell\": \"B89\", \"scrapingDataStartCell\": \"B90\", \"units\": \"Miles de Toneladas\", \"dataset_identifier\": \"359\", \"distribution_identifier\": \"359.2\"}, {\"title\": \"hierro_primario_hierro_esponja\", \"type\": \"number\", \"description\": \"Vol\\u00famen de produci\\u00f3n de hierro primario hierro esponja\", \"id\": \"359.2_HIERRO_PRINJA__30\", \"scrapingIdentifierCell\": \"C89\", \"scrapingDataStartCell\": \"C90\", \"units\": \"Miles de Toneladas\", \"dataset_identifier\": \"359\", \"distribution_identifier\": \"359.2\"}, {\"title\": \"hierro_primario_total\", \"type\": \"number\", \"description\": \"Vol\\u00famen de produci\\u00f3n de hierro primario total\", \"id\": \"359.2_HIERRO_PRITAL__21\", \"scrapingIdentifierCell\": \"D89\", \"scrapingDataStartCell\": \"D90\", \"units\": \"Miles de Toneladas\", \"dataset_identifier\": \"359\", \"distribution_identifier\": \"359.2\"}, {\"title\": \"acero_crudo\", \"type\": \"number\", \"description\": \"Vol\\u00famen de produci\\u00f3n de acero crudo\", \"id\": \"359.2_ACERO_CRUDUDO__11\", \"scrapingIdentifierCell\": \"F89\", \"scrapingDataStartCell\": \"F90\", \"units\": \"Miles de Toneladas\", \"dataset_identifier\": \"359\", \"distribution_identifier\": \"359.2\"}, {\"title\": \"laminados_no_planos_en_caliente\", \"type\": \"number\", \"description\": \"Vol\\u00famen de produci\\u00f3n de laminados no planos en caliente\", \"id\": \"359.2_LAMINADOS_NTE__31\", \"scrapingIdentifierCell\": \"H89\", \"scrapingDataStartCell\": \"H90\", \"units\": \"Miles de Toneladas\", \"dataset_identifier\": \"359\", \"distribution_identifier\": \"359.2\"}, {\"title\": \"laminados_planos_en_caliente\", \"type\": \"number\", \"description\": \"Vol\\u00famen de produci\\u00f3n de laminados planos en caliente\", \"id\": \"359.2_LAMINADOS_NTE__28\", \"scrapingIdentifierCell\": \"I89\", \"scrapingDataStartCell\": \"I90\", \"units\": \"Miles de Toneladas\", \"dataset_identifier\": \"359\", \"distribution_identifier\": \"359.2\"}, {\"title\": \"laminados_planos_en_frio\", \"type\": \"number\", \"description\": \"Vol\\u00famen de produci\\u00f3n de laminados planos en frio\", \"id\": \"359.2_LAMINADOS_RIO__24\", \"scrapingIdentifierCell\": \"J89\", \"scrapingDataStartCell\": \"J90\", \"units\": \"Miles de Toneladas\", \"dataset_identifier\": \"359\", \"distribution_identifier\": \"359.2\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-12-12T00:00:00",
+      "datastore_active": false,
+      "description": "Datos históricos del volumen de producción de la industria siderúrgica. Datos trimestrales",
+      "fileName": "datos-historicos-de-la-industria-siderurgica-datos-trimestrales.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "sspm_359.2",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Datos históricos de la industria siderúrgica. Datos trimestrales",
+      "package_id": "sspm_359",
+      "position": 1,
+      "resource_type": null,
+      "revision_id": "b92f3780-efe1-4bef-bcf8-365e4e3ef74e",
+      "size": null,
+      "state": "active",
+      "url": "https://infra.datos.gob.ar/catalog/sspm/dataset/359/distribution/359.2/download/datos-historicos-de-la-industria-siderurgica-datos-trimestrales.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/",
+      "attributesDescription": "[{\"title\": \"indice_tiempo\", \"type\": \"date\", \"specialType\": \"time_index\", \"specialTypeDetail\": \"R/P1M\", \"id\": \"359.3_INDICE_TIEMPO__13\", \"scrapingIdentifierCell\": \"A324\", \"scrapingDataStartCell\": \"A325\", \"dataset_identifier\": \"359\", \"distribution_identifier\": \"359.3\"}, {\"title\": \"hierro_primario_arrabio\", \"type\": \"number\", \"description\": \"Vol\\u00famen de produci\\u00f3n de hierro primario arrabio\", \"id\": \"359.3_HIERRO_PRIBIO__23\", \"scrapingIdentifierCell\": \"B324\", \"scrapingDataStartCell\": \"B325\", \"units\": \"Miles de Toneladas\", \"dataset_identifier\": \"359\", \"distribution_identifier\": \"359.3\"}, {\"title\": \"hierro_primario_hierro_esponja\", \"type\": \"number\", \"description\": \"Vol\\u00famen de produci\\u00f3n de hierro primario hierro esponja\", \"id\": \"359.3_HIERRO_PRINJA__30\", \"scrapingIdentifierCell\": \"C324\", \"scrapingDataStartCell\": \"C325\", \"units\": \"Miles de Toneladas\", \"dataset_identifier\": \"359\", \"distribution_identifier\": \"359.3\"}, {\"title\": \"hierro_primario_total\", \"type\": \"number\", \"description\": \"Vol\\u00famen de produci\\u00f3n de hierro primario total\", \"id\": \"359.3_HIERRO_PRITAL__21\", \"scrapingIdentifierCell\": \"D324\", \"scrapingDataStartCell\": \"D325\", \"units\": \"Miles de Toneladas\", \"dataset_identifier\": \"359\", \"distribution_identifier\": \"359.3\"}, {\"title\": \"acero_crudo\", \"type\": \"number\", \"description\": \"Vol\\u00famen de produci\\u00f3n de acero crudo\", \"id\": \"359.3_ACERO_CRUDUDO__11\", \"scrapingIdentifierCell\": \"F324\", \"scrapingDataStartCell\": \"F325\", \"units\": \"Miles de Toneladas\", \"dataset_identifier\": \"359\", \"distribution_identifier\": \"359.3\"}, {\"title\": \"laminados_no_planos_en_caliente\", \"type\": \"number\", \"description\": \"Vol\\u00famen de produci\\u00f3n de laminados no planos en caliente\", \"id\": \"359.3_LAMINADOS_NTE__31\", \"scrapingIdentifierCell\": \"H324\", \"scrapingDataStartCell\": \"H325\", \"units\": \"Miles de Toneladas\", \"dataset_identifier\": \"359\", \"distribution_identifier\": \"359.3\"}, {\"title\": \"laminados_planos_en_caliente\", \"type\": \"number\", \"description\": \"Vol\\u00famen de produci\\u00f3n de laminados planos en caliente\", \"id\": \"359.3_LAMINADOS_NTE__28\", \"scrapingIdentifierCell\": \"I324\", \"scrapingDataStartCell\": \"I325\", \"units\": \"Miles de Toneladas\", \"dataset_identifier\": \"359\", \"distribution_identifier\": \"359.3\"}, {\"title\": \"laminados_planos_en_frio\", \"type\": \"number\", \"description\": \"Vol\\u00famen de produci\\u00f3n de laminados planos en frio\", \"id\": \"359.3_LAMINADOS_RIO__24\", \"scrapingIdentifierCell\": \"J324\", \"scrapingDataStartCell\": \"J325\", \"units\": \"Miles de Toneladas\", \"dataset_identifier\": \"359\", \"distribution_identifier\": \"359.3\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-12-12T00:00:00",
+      "datastore_active": false,
+      "description": "Datos históricos del volumen de producción de la industria siderúrgica. Datos mensuales",
+      "fileName": "datos-historicos-de-la-industria-siderurgica-datos-mensulaes.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "sspm_359.3",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Datos históricos de la industria siderúrgica. Datos mensuales",
+      "package_id": "sspm_359",
+      "position": 2,
+      "resource_type": null,
+      "revision_id": "b92f3780-efe1-4bef-bcf8-365e4e3ef74e",
+      "size": null,
+      "state": "active",
+      "url": "https://infra.datos.gob.ar/catalog/sspm/dataset/359/distribution/359.3/download/datos-historicos-de-la-industria-siderurgica-datos-mensulaes.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "b92f3780-efe1-4bef-bcf8-365e4e3ef74e",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "Actividad",
+      "id": "a7695c51-c893-4ece-8ff9-306c197afdd7",
+      "name": "Actividad",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Información Económica Histórica",
+      "id": "3834bbe4-6452-499b-a70e-85765a130da2",
+      "name": "Información Económica Histórica",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Datos históricos de la industria siderúrgica",
+  "type": "dataset",
+  "url": "http://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/",
+  "version": null
+}

@@ -1,0 +1,141 @@
+{
+  "author": "Dirección Nacional de Desarrollo Foresto Industrial",
+  "author_email": "ssdfi@magyp.gob.ar",
+  "creator_user_id": "dc157489-51c6-44ce-bd63-3bd983d60778",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P1Y"
+    },
+    {
+      "key": "issued",
+      "value": "2018-12-07T21:24:48.558473"
+    },
+    {
+      "key": "language",
+      "value": "[\"spa\"]"
+    },
+    {
+      "key": "modified",
+      "value": "2019-12-04T12:27:56.036491"
+    },
+    {
+      "key": "spatial",
+      "value": "[\"ARG\"]"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"AGRI\"]"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Agroganadería, pesca y forestación",
+      "display_name": "Agroganadería, pesca y forestación",
+      "id": "0c35ea38-7059-41d2-9827-5587769d0dc6",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225145.990789agroganaderia-pesca-forestacion.svg",
+      "name": "agri",
+      "title": "Agroganadería, pesca y forestación"
+    }
+  ],
+  "id": "agroindustria_8f740aac-66f3-448f-b8e0-f6a77b359f96",
+  "isopen": true,
+  "license_id": "CC-BY-4.0",
+  "license_title": "Creative Commons Attribution 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "maintainer": "Dirección Nacional de Desarrollo Foresto Industrial",
+  "maintainer_email": "ssdfi@magyp.gob.ar",
+  "metadata_created": "2019-12-04T20:00:28.388586",
+  "metadata_modified": "2021-04-29T17:11:12.510941",
+  "name": "agroindustria-forestales---inventario-nacional-plantaciones-por-volumen",
+  "notes": "Inventario nacional de plantaciones forestales por volumen (m3) de madera correspondiente a Bosques Cultivados por provincias, departamento, género y tipo de plantación.",
+  "num_resources": 1,
+  "num_tags": 5,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:07.834957",
+    "description": "",
+    "id": "b10c94e2-ade1-4a97-8c4c-b1ada7878d60",
+    "image_url": "",
+    "is_organization": true,
+    "name": "agroindustria",
+    "revision_id": "f7c3b6e9-d48f-4522-9f7a-388d805c8392",
+    "state": "active",
+    "title": "Ministerio de Agricultura, Ganadería y Pesca",
+    "type": "organization"
+  },
+  "owner_org": "b10c94e2-ade1-4a97-8c4c-b1ada7878d60",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "http://datos.agroindustria.gob.ar/dataset/8f740aac-66f3-448f-b8e0-f6a77b359f96/resource/08bc81d2-21cf-4d89-99dd-721c1da3afba",
+      "attributesDescription": "[{\"type\": \"string\", \"description\": \"Nombre de la provincia.\", \"title\": \"provincia\"}, {\"type\": \"string\", \"description\": \"C\\u00f3digo de la provincia.\", \"title\": \"provincia_id\"}, {\"type\": \"string\", \"description\": \"Nombre del departamento.\", \"title\": \"departamento\"}, {\"type\": \"string\", \"description\": \"C\\u00f3digo del departamento.\", \"title\": \"departamento_id\"}, {\"type\": \"string\", \"description\": \"genero_id\", \"title\": \"genero_id\"}, {\"type\": \"string\", \"description\": \"unimedcort_id\", \"title\": \"unimedcort_id\"}, {\"type\": \"number\", \"description\": \"cortina\", \"title\": \"cortina\"}, {\"type\": \"string\", \"description\": \"unimedmac_id\", \"title\": \"unimedmac_id\"}, {\"type\": \"number\", \"description\": \"macizo\", \"title\": \"macizo\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-08-24T19:11:46.078611",
+      "datastore_active": false,
+      "description": "Inventario nacional de plantaciones forestales por volumen",
+      "fileName": "inventario-nacional-de-plantaciones-forestales-por-volumen.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "agroindustria_08bc81d2-21cf-4d89-99dd-721c1da3afba",
+      "last_modified": "2019-12-04T13:09:19.685691",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Inventario nacional de plantaciones forestales por volumen",
+      "package_id": "agroindustria_8f740aac-66f3-448f-b8e0-f6a77b359f96",
+      "position": 0,
+      "resource_type": "file.upload",
+      "revision_id": "671fba91-3f3d-4d6f-9172-739eb3956038",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.agroindustria.gob.ar/dataset/8f740aac-66f3-448f-b8e0-f6a77b359f96/resource/08bc81d2-21cf-4d89-99dd-721c1da3afba/download/inventario-nacional-de-plantaciones-forestales-por-volumen.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "252f4ea4-eed9-4b16-b70a-8bc8a5994a81",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "bosques cultivados",
+      "id": "8a25fcbf-9a09-4b13-84c1-9074cea36f50",
+      "name": "bosques cultivados",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "forestal",
+      "id": "b28a94d6-df19-4c7d-908a-16e17698a9b9",
+      "name": "forestal",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "madera",
+      "id": "356c82a5-9895-4e5f-a6f6-d0093f2bc421",
+      "name": "madera",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "plantaciones forestales",
+      "id": "992aaa13-ff61-497b-838e-0b329dd044da",
+      "name": "plantaciones forestales",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "volumen madera",
+      "id": "a7ca7b46-4189-430c-a12e-1c453534a1dd",
+      "name": "volumen madera",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Forestales - Inventario nacional de plantaciones por volumen",
+  "type": "dataset",
+  "url": "https://datos.agroindustria.gob.ar/dataset/inventario-nacional-plantaciones-forestales-por-volumen",
+  "version": null
+}

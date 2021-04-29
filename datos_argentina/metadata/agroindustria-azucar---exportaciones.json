@@ -1,0 +1,141 @@
+{
+  "author": "Coordinación de Warrants y Certificados de Depósito",
+  "author_email": "azucar@magyp.gob.ar",
+  "creator_user_id": "dc157489-51c6-44ce-bd63-3bd983d60778",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P1M"
+    },
+    {
+      "key": "issued",
+      "value": "2018-12-07T21:22:05.226589"
+    },
+    {
+      "key": "language",
+      "value": "[\"spa\"]"
+    },
+    {
+      "key": "modified",
+      "value": "2019-10-24T11:27:36.889350"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"AGRI\"]"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Agroganadería, pesca y forestación",
+      "display_name": "Agroganadería, pesca y forestación",
+      "id": "0c35ea38-7059-41d2-9827-5587769d0dc6",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225145.990789agroganaderia-pesca-forestacion.svg",
+      "name": "agri",
+      "title": "Agroganadería, pesca y forestación"
+    }
+  ],
+  "id": "agroindustria_813cbfc9-f241-457f-93b5-a4a727576646",
+  "isopen": true,
+  "license_id": "CC-BY-4.0",
+  "license_title": "Creative Commons Attribution 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "maintainer": "Coordinación de Warrants y Certificados de Depósito",
+  "maintainer_email": "azucar@magyp.gob.ar",
+  "metadata_created": "2019-12-04T21:12:55.968958",
+  "metadata_modified": "2021-04-29T17:16:20.212530",
+  "name": "agroindustria-azucar---exportaciones",
+  "notes": "Evolución de las exportaciones de azúcar discriminado por tipo de azúcar y destinos. Los cálculos que se realizan son sumatorias de kilos netos y valores FOB dólar.",
+  "num_resources": 2,
+  "num_tags": 2,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:07.834957",
+    "description": "",
+    "id": "b10c94e2-ade1-4a97-8c4c-b1ada7878d60",
+    "image_url": "",
+    "is_organization": true,
+    "name": "agroindustria",
+    "revision_id": "f7c3b6e9-d48f-4522-9f7a-388d805c8392",
+    "state": "active",
+    "title": "Ministerio de Agricultura, Ganadería y Pesca",
+    "type": "organization"
+  },
+  "owner_org": "b10c94e2-ade1-4a97-8c4c-b1ada7878d60",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "http://datos.agroindustria.gob.ar/dataset/813cbfc9-f241-457f-93b5-a4a727576646/resource/b43849b0-71a5-4a06-8343-eb3fe82e1f25",
+      "attributesDescription": "[{\"type\": \"date-time\", \"description\": \"fecha_oficializacion\", \"title\": \"fecha_oficializacion\"}, {\"type\": \"date-time\", \"description\": \"fecha_cumplido\", \"title\": \"fecha_cumplido\"}, {\"type\": \"integer\", \"description\": \"pais_destino_id\", \"title\": \"pais_destino_id\"}, {\"type\": \"string\", \"description\": \"pais_destino\", \"title\": \"pais_destino\"}, {\"type\": \"integer\", \"description\": \"medio_transporte_id\", \"title\": \"medio_transporte_id\"}, {\"type\": \"string\", \"description\": \"medio_transporte\", \"title\": \"medio_transporte\"}, {\"type\": \"integer\", \"description\": \"numero\", \"title\": \"numero\"}, {\"type\": \"string\", \"description\": \"posicion_arancelaria\", \"title\": \"posicion_arancelaria\"}, {\"type\": \"integer\", \"description\": \"unidad_medida_id\", \"title\": \"unidad_medida_id\"}, {\"type\": \"string\", \"description\": \"unidad_medida\", \"title\": \"unidad_medida\"}, {\"type\": \"number\", \"description\": \"declarado\", \"title\": \"declarado\"}, {\"type\": \"number\", \"description\": \"kilos_netos\", \"title\": \"kilos_netos\"}, {\"type\": \"string\", \"description\": \"moneda_id\", \"title\": \"moneda_id\"}, {\"type\": \"number\", \"description\": \"FOB_dolar\", \"title\": \"FOB_dolar\"}, {\"type\": \"string\", \"description\": \"destinacion\", \"title\": \"destinacion\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-08-02T13:05:16.363472",
+      "datastore_active": false,
+      "description": "Evolución de las exportaciones de azúcar discriminado por tipo de azúcar y destinos. Los cálculos que se realizan son sumatorias de kilos netos y valores FOB dólar.",
+      "fileName": "exportaciones-azucar-2018-.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "agroindustria_b43849b0-71a5-4a06-8343-eb3fe82e1f25",
+      "last_modified": "2019-05-08T10:41:16.364205",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Exportaciones de azúcar",
+      "package_id": "agroindustria_813cbfc9-f241-457f-93b5-a4a727576646",
+      "position": 0,
+      "resource_type": "file.upload",
+      "revision_id": "e42fb1dc-1015-4496-a954-0bc734d85865",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.agroindustria.gob.ar/dataset/813cbfc9-f241-457f-93b5-a4a727576646/resource/b43849b0-71a5-4a06-8343-eb3fe82e1f25/download/exportaciones-azucar-2018-.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos.agroindustria.gob.ar/dataset/813cbfc9-f241-457f-93b5-a4a727576646/resource/c3ca9987-0551-43cd-89c9-d481f7384f69",
+      "attributesDescription": "[{\"type\": \"date-time\", \"description\": \"fecha_oficializacion\", \"title\": \"fecha_oficializacion\"}, {\"type\": \"date-time\", \"description\": \"fecha_cumplido\", \"title\": \"fecha_cumplido\"}, {\"type\": \"integer\", \"description\": \"pais_destino_id\", \"title\": \"pais_destino_id\"}, {\"type\": \"string\", \"description\": \"pais_destino\", \"title\": \"pais_destino\"}, {\"type\": \"integer\", \"description\": \"medio_transporte_id\", \"title\": \"medio_transporte_id\"}, {\"type\": \"string\", \"description\": \"medio_transporte\", \"title\": \"medio_transporte\"}, {\"type\": \"integer\", \"description\": \"numero\", \"title\": \"numero\"}, {\"type\": \"string\", \"description\": \"posicion_arancelaria\", \"title\": \"posicion_arancelaria\"}, {\"type\": \"integer\", \"description\": \"unidad_medida_id\", \"title\": \"unidad_medida_id\"}, {\"type\": \"string\", \"description\": \"unidad_medida\", \"title\": \"unidad_medida\"}, {\"type\": \"number\", \"description\": \"declarado\", \"title\": \"declarado\"}, {\"type\": \"number\", \"description\": \"kilos_netos\", \"title\": \"kilos_netos\"}, {\"type\": \"string\", \"description\": \"moneda_id\", \"title\": \"moneda_id\"}, {\"type\": \"number\", \"description\": \"FOB_dolar\", \"title\": \"FOB_dolar\"}, {\"type\": \"string\", \"description\": \"destinacion\", \"title\": \"destinacion\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2018-11-20T15:28:08.700045",
+      "datastore_active": false,
+      "description": "Evolución de las exportaciones de azúcar discriminado por tipo de azúcar y destinos. Los cálculos que se realizan son sumatorias de kilos netos y valores FOB dólar. Datos de enero a octubre de 2018.",
+      "fileName": "exportaciones-azucar-2018-octubre-.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "agroindustria_c3ca9987-0551-43cd-89c9-d481f7384f69",
+      "last_modified": "2019-05-08T10:51:43.366669",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Exportaciones de azúcar hasta octubre 2018",
+      "package_id": "agroindustria_813cbfc9-f241-457f-93b5-a4a727576646",
+      "position": 1,
+      "resource_type": "file.upload",
+      "revision_id": "279a8724-8312-4cdf-86cd-001c89c891a9",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.agroindustria.gob.ar/dataset/813cbfc9-f241-457f-93b5-a4a727576646/resource/c3ca9987-0551-43cd-89c9-d481f7384f69/download/exportaciones-azucar-2018-octubre-.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "11d23c99-e17e-41f8-80c2-0e10700ac658",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "azucar",
+      "id": "fddaac43-c985-4bb1-be38-9edc3a640759",
+      "name": "azucar",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "exportación azúcar",
+      "id": "23c2cddc-d107-4692-be98-e6e52487073c",
+      "name": "exportación azúcar",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Azúcar - Exportaciones",
+  "type": "dataset",
+  "url": "https://datos.agroindustria.gob.ar/dataset/exportaciones-azucar",
+  "version": null
+}

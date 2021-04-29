@@ -1,0 +1,147 @@
+{
+  "author": "Secretaría de Emprendedores y PyMEs",
+  "author_email": "datos.abiertos@produccion.gob.ar",
+  "creator_user_id": "4720e75a-9e17-4dc3-879d-041917c7f9f9",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "eventual"
+    },
+    {
+      "key": "issued",
+      "value": "2018-10-05T18:50:39.000Z"
+    },
+    {
+      "key": "modified",
+      "value": "2020-02-27T02:11:07.000Z"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"econ\"]"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Economía y finanzas",
+      "display_name": "Economía y finanzas",
+      "id": "60b4b03e-10a1-4d67-b984-08008a249617",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225257.200233economia-finanzas.svg",
+      "name": "econ",
+      "title": "Economía y finanzas"
+    }
+  ],
+  "id": "produccion_B1kNfNBcQ",
+  "isopen": true,
+  "license_id": "CC-BY-4.0",
+  "license_title": "Creative Commons Attribution 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "maintainer": null,
+  "maintainer_email": null,
+  "metadata_created": "2019-11-26T14:57:18.947337",
+  "metadata_modified": "2021-04-29T17:04:44.182732",
+  "name": "produccion-beneficiarios-ley-promocion-software",
+  "notes": "Son las empresas que aplicaron a la ley 25922 de promoción de software y accedieron a beneficios fiscales, descuentos en el Impuesto a las Ganancias y bonos para cancelar impuestos.",
+  "num_resources": 2,
+  "num_tags": 4,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:10.463340",
+    "description": "",
+    "id": "1ca8d15b-31fc-4f09-ba09-53edd3d4cce6",
+    "image_url": "",
+    "is_organization": true,
+    "name": "produccion",
+    "revision_id": "36d8ec89-d20f-4fe1-866c-e38988d28442",
+    "state": "active",
+    "title": "Ministerio de Desarrollo Productivo",
+    "type": "organization"
+  },
+  "owner_org": "1ca8d15b-31fc-4f09-ba09-53edd3d4cce6",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "http://datos.produccion.gob.ar/dataset/beneficiarios-ley-de-promocion-del-software",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2018-10-05T15:50:39",
+      "datastore_active": false,
+      "description": "guia.",
+      "format": "PDF",
+      "hash": "",
+      "id": "produccion_SJ-qzEHq7",
+      "last_modified": "2019-02-05T16:28:01",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Guia datos LPS",
+      "package_id": "produccion_B1kNfNBcQ",
+      "position": 0,
+      "resource_type": null,
+      "revision_id": "d6aac8ec-4d96-4c75-bbf2-8fadd0630c08",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.produccion.gob.ar/api/files/guia-datos-lps.pdf/download",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos.produccion.gob.ar/dataset/beneficiarios-ley-de-promocion-del-software",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2018-10-05T15:50:39",
+      "datastore_active": false,
+      "description": "Empresas dedicadas al desarrollo de software que accedieron al beneficio de la ley 25922, por empresa, CUIT, número de acto, fecha de actos administrativos y fecha de publicación en el Boletín Oficial.",
+      "format": "CSV",
+      "hash": "",
+      "id": "produccion_Sk3ZmNB5m",
+      "last_modified": "2019-05-24T17:15:30",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Padrón de Beneficiarios Ley de Promoción del Software",
+      "package_id": "produccion_B1kNfNBcQ",
+      "position": 1,
+      "resource_type": null,
+      "revision_id": "cc42f835-5c2c-47de-bdf5-7616e4777207",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.produccion.gob.ar/api/files/padron-de-beneficiarios-ley-de-promocion-del-software.csv/download",
+      "url_type": null
+    }
+  ],
+  "revision_id": "5a3369d8-93b6-4233-80eb-ea979dbba229",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "Empresas",
+      "id": "bbf63d22-0fee-4fe3-abcc-91f61c8ec4f1",
+      "name": "Empresas",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Expertos PyMEs",
+      "id": "13b200b5-8c0a-4d70-97dd-f4abde99a18e",
+      "name": "Expertos PyMEs",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Ley de Promoción del Software",
+      "id": "85810bbe-72e4-40ae-a8f1-c7690cafb458",
+      "name": "Ley de Promoción del Software",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Pymes",
+      "id": "97635f98-f203-4647-ae25-9a02f74c1d28",
+      "name": "Pymes",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Beneficiarios Ley de Promoción del Software",
+  "type": "dataset",
+  "url": "http://datos.produccion.gob.ar/dataset/beneficiarios-ley-de-promocion-del-software",
+  "version": null
+}

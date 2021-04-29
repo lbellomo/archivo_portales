@@ -1,0 +1,184 @@
+{
+  "author": "Dirección Nacional de Sanidad Animal",
+  "author_email": "desycg@senasa.gob.ar",
+  "creator_user_id": "dc157489-51c6-44ce-bd63-3bd983d60778",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P1Y"
+    },
+    {
+      "key": "issued",
+      "value": "2019-09-12T12:44:04.754035"
+    },
+    {
+      "key": "language",
+      "value": "[\"spa\"]"
+    },
+    {
+      "key": "modified",
+      "value": "2019-10-24T10:35:31.900600"
+    },
+    {
+      "key": "source",
+      "value": "Servicio Nacional de Sanidad y Calidad Agroalimentaria - SENASA"
+    },
+    {
+      "key": "spatial",
+      "value": "[\"ARG\"]"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"AGRI\"]"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Agroganadería, pesca y forestación",
+      "display_name": "Agroganadería, pesca y forestación",
+      "id": "0c35ea38-7059-41d2-9827-5587769d0dc6",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225145.990789agroganaderia-pesca-forestacion.svg",
+      "name": "agri",
+      "title": "Agroganadería, pesca y forestación"
+    }
+  ],
+  "id": "agroindustria_7ca226f7-7727-44e8-9006-e9cabd854cf5",
+  "isopen": true,
+  "license_id": "CC-BY-4.0",
+  "license_title": "Creative Commons Attribution 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "maintainer": "Dirección Nacional de Sanidad Animal",
+  "maintainer_email": "desycg@senasa.gob.ar",
+  "metadata_created": "2019-12-04T20:01:04.397745",
+  "metadata_modified": "2021-04-29T17:06:42.901603",
+  "name": "agroindustria-senasa---existencias-porcinas",
+  "notes": "Existencias porcinas por provincia y partido / departamento, clasificadas en categorías.",
+  "num_resources": 2,
+  "num_tags": 7,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:07.834957",
+    "description": "",
+    "id": "b10c94e2-ade1-4a97-8c4c-b1ada7878d60",
+    "image_url": "",
+    "is_organization": true,
+    "name": "agroindustria",
+    "revision_id": "f7c3b6e9-d48f-4522-9f7a-388d805c8392",
+    "state": "active",
+    "title": "Ministerio de Agricultura, Ganadería y Pesca",
+    "type": "organization"
+  },
+  "owner_org": "b10c94e2-ade1-4a97-8c4c-b1ada7878d60",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "http://datos.agroindustria.gob.ar/dataset/7ca226f7-7727-44e8-9006-e9cabd854cf5/resource/e2ab186a-465d-481d-9159-e145f1435074",
+      "attributesDescription": "[{\"type\": \"date\", \"description\": \"A\\u00f1o correspondiente al relevamiento.\", \"title\": \"anio\"}, {\"type\": \"string\", \"description\": \"Nombre de la provincia.\", \"title\": \"provincia\"}, {\"type\": \"integer\", \"description\": \"C\\u00f3digo de la provincia.\", \"title\": \"provincia_id\"}, {\"type\": \"string\", \"description\": \"Nombre del partido / departamento.\", \"title\": \"partido_departamento\"}, {\"type\": \"integer\", \"description\": \"C\\u00f3digo del partido / departamento.\", \"title\": \"departamento_id\"}, {\"type\": \"integer\", \"description\": \"Cantidad de machos enteros adultos en edad reproductiva.\", \"title\": \"padrillo\"}, {\"type\": \"integer\", \"description\": \"Cantidad de hembras adultas en edad reproductiva.\", \"title\": \"cerda\"}, {\"type\": \"integer\", \"description\": \"Cantidad de machos j\\u00f3venes.\", \"title\": \"lechon\"}, {\"type\": \"integer\", \"description\": \"Cantidad de machos castrados por m\\u00e9todos f\\u00edsicos destinados a engorde para faena.\", \"title\": \"capones\"}, {\"type\": \"integer\", \"description\": \"Cantidad de machos j\\u00f3venes en desarrollo.\", \"title\": \"cachorro\"}, {\"type\": \"integer\", \"description\": \"Cantidad de machos enteros inmunocastrados (mei) o por m\\u00e9todos qu\\u00edmicos.\", \"title\": \"machos_enteros_inmunocastrados\"}, {\"type\": \"integer\", \"description\": \"Cantidad de hembras j\\u00f3venes en desarrollo.\", \"title\": \"cachorra\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-09-12T09:51:31.303061",
+      "datastore_active": false,
+      "description": "Existencias porcinas por provincia y partido / departamento, clasificadas por categorías. Totales anuales desde Marzo 2008 a la última actualización.",
+      "fileName": "existencias-porcinas-provincia-departamento-2008-2019.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "agroindustria_e2ab186a-465d-481d-9159-e145f1435074",
+      "last_modified": "2019-11-29T13:18:08.208302",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Existencias porcinas",
+      "package_id": "agroindustria_7ca226f7-7727-44e8-9006-e9cabd854cf5",
+      "position": 0,
+      "resource_type": "file.upload",
+      "revision_id": "86648ef4-4a5a-41d5-9ec9-93cfa81be754",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.agroindustria.gob.ar/dataset/7ca226f7-7727-44e8-9006-e9cabd854cf5/resource/e2ab186a-465d-481d-9159-e145f1435074/download/existencias-porcinas-provincia-departamento-2008-2019.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos.agroindustria.gob.ar/dataset/7ca226f7-7727-44e8-9006-e9cabd854cf5/resource/e3449277-41e5-41f8-a759-78802cd9ccf4",
+      "attributesDescription": "[{\"specialType\": \"time_index\", \"specialTypeDetail\": \"R/P1Y\", \"type\": \"date\", \"title\": \"indice_tiempo\"}, {\"type\": \"integer\", \"description\": \"Cantidad de machos enteros adultos en edad reproductiva. \", \"title\": \"padrillo\"}, {\"type\": \"integer\", \"description\": \"Cantidad de hembras adultas en edad reproductiva. \", \"title\": \"cerda\"}, {\"type\": \"integer\", \"description\": \"Cantidad de machos j\\u00f3venes. \", \"title\": \"lechon\"}, {\"type\": \"integer\", \"description\": \"Cantidad de machos castrados por m\\u00e9todos f\\u00edsicos destinados a engorde para faena. \", \"title\": \"capones\"}, {\"type\": \"integer\", \"description\": \"Cantidad de machos j\\u00f3venes en desarrollo. \", \"title\": \"cachorro\"}, {\"type\": \"integer\", \"description\": \"Cantidad de machos enteros inmunocastrados (mei) o por m\\u00e9todos qu\\u00edmicos. \", \"title\": \"machos_enteros_inmunocastrados\"}, {\"type\": \"integer\", \"description\": \"Cantidad de hembras j\\u00f3venes en desarrollo. \", \"title\": \"cachorra\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-09-13T10:13:26.095733",
+      "datastore_active": false,
+      "description": "Existencias porcinas clasificadas por categorías. Totales anuales desde 2008 a la última actualización.",
+      "fileName": "Existencias-porcinas-2008-2019.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "agroindustria_e3449277-41e5-41f8-a759-78802cd9ccf4",
+      "last_modified": "2019-11-29T13:17:45.955283",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Serie de tiempo",
+      "package_id": "agroindustria_7ca226f7-7727-44e8-9006-e9cabd854cf5",
+      "position": 1,
+      "resource_type": "file.upload",
+      "revision_id": "8e91aa7b-5f2f-4d59-bc1c-73a34001b7fc",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.agroindustria.gob.ar/dataset/7ca226f7-7727-44e8-9006-e9cabd854cf5/resource/e3449277-41e5-41f8-a759-78802cd9ccf4/download/existencias-porcinas-2008-2019.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "6dda1f51-6d2e-4b47-9ccd-34a21f2db2ca",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "cachorro",
+      "id": "d4ed3b38-0152-4d3e-b002-a4a942ac6113",
+      "name": "cachorro",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "capones",
+      "id": "319e7022-ca8a-4f05-b116-caef6e4a0b7f",
+      "name": "capones",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "cerda",
+      "id": "d9d8d1a8-d20a-4089-9192-9d46f732899c",
+      "name": "cerda",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "lechon",
+      "id": "d88fd67b-c438-47a5-a57a-3cfd5f7ce61a",
+      "name": "lechon",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "mei",
+      "id": "05c919b6-0dd0-492e-85f4-b6e88dd4c1a2",
+      "name": "mei",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "padrillo",
+      "id": "aa84fe6f-ecc6-48f3-a159-8672c5c27857",
+      "name": "padrillo",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "porcinos",
+      "id": "db772add-17e9-4cbc-b827-3b9f8fae3043",
+      "name": "porcinos",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "SENASA - Existencias porcinas",
+  "type": "dataset",
+  "url": "https://datos.agroindustria.gob.ar/dataset/senasa-existencias-porcinas",
+  "version": null
+}

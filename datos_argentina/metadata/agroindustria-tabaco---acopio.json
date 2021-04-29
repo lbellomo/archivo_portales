@@ -1,0 +1,242 @@
+{
+  "author": "Coordinación de Cultivos Industrializables - Subsecretaría de Agricultura",
+  "author_email": "finanzasfet@magyp.gob.ar",
+  "creator_user_id": "dc157489-51c6-44ce-bd63-3bd983d60778",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P1M"
+    },
+    {
+      "key": "issued",
+      "value": "2018-12-07T21:24:08.642209"
+    },
+    {
+      "key": "language",
+      "value": "[\"spa\"]"
+    },
+    {
+      "key": "modified",
+      "value": "2019-10-24T11:28:32.110275"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"AGRI\"]"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Agroganadería, pesca y forestación",
+      "display_name": "Agroganadería, pesca y forestación",
+      "id": "0c35ea38-7059-41d2-9827-5587769d0dc6",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225145.990789agroganaderia-pesca-forestacion.svg",
+      "name": "agri",
+      "title": "Agroganadería, pesca y forestación"
+    }
+  ],
+  "id": "agroindustria_9b8396dc-e22f-4a2d-988b-496909c5d7e5",
+  "isopen": true,
+  "license_id": "CC-BY-4.0",
+  "license_title": "Creative Commons Attribution 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "maintainer": null,
+  "maintainer_email": null,
+  "metadata_created": "2019-12-04T20:01:09.248685",
+  "metadata_modified": "2021-04-29T17:09:42.978807",
+  "name": "agroindustria-tabaco---acopio",
+  "notes": "La información está conformada por la compra de tabaco a nivel nacional (sin procesar). Estas compras son efectuadas por los Acopiadores de Tabaco habilitados que están distribuidos dentro de las 7 provincias tabacaleras. Se encuentran clasificados en 3 tipos de tabaco a nivel general: Virginia - Burley - Criollos.",
+  "num_resources": 1,
+  "num_tags": 20,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:07.834957",
+    "description": "",
+    "id": "b10c94e2-ade1-4a97-8c4c-b1ada7878d60",
+    "image_url": "",
+    "is_organization": true,
+    "name": "agroindustria",
+    "revision_id": "f7c3b6e9-d48f-4522-9f7a-388d805c8392",
+    "state": "active",
+    "title": "Ministerio de Agricultura, Ganadería y Pesca",
+    "type": "organization"
+  },
+  "owner_org": "b10c94e2-ade1-4a97-8c4c-b1ada7878d60",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "http://datos.agroindustria.gob.ar/dataset/9b8396dc-e22f-4a2d-988b-496909c5d7e5/archivo/6f3ece48-e6f2-4f95-95dd-b9c2cee7b8d8",
+      "attributesDescription": "[{\"type\": \"integer\", \"description\": \"pais_id\", \"title\": \"pais_id\"}, {\"type\": \"string\", \"description\": \"pais\", \"title\": \"pais\"}, {\"type\": \"integer\", \"description\": \"provincia_id\", \"title\": \"provincia_id\"}, {\"type\": \"string\", \"description\": \"provincia\", \"title\": \"provincia\"}, {\"type\": \"string\", \"description\": \"tipo de tabaco\", \"title\": \"tipo de tabaco\"}, {\"type\": \"string\", \"description\": \"campa\\u0144a\", \"title\": \"campa\\u0144a\"}, {\"type\": \"string\", \"description\": \"cod_unimed\", \"title\": \"cod_unimed\"}, {\"type\": \"string\", \"description\": \"nom_unimed\", \"title\": \"nom_unimed\"}, {\"type\": \"integer\", \"description\": \"totales\", \"title\": \"totales\"}, {\"type\": \"integer\", \"description\": \"pais_id\", \"title\": \"pais_id\"}, {\"type\": \"string\", \"description\": \"pais\", \"title\": \"pais\"}, {\"type\": \"integer\", \"description\": \"provincia_id\", \"title\": \"provincia_id\"}, {\"type\": \"string\", \"description\": \"provincia\", \"title\": \"provincia\"}, {\"type\": \"string\", \"description\": \"tipo de tabaco\", \"title\": \"tipo de tabaco\"}, {\"type\": \"string\", \"description\": \"campa\\u0144a\", \"title\": \"campa\\u0144a\"}, {\"type\": \"string\", \"description\": \"cod_unimed\", \"title\": \"cod_unimed\"}, {\"type\": \"string\", \"description\": \"nom_unimed\", \"title\": \"nom_unimed\"}, {\"type\": \"integer\", \"description\": \"totales\", \"title\": \"totales\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2018-07-17T13:07:39.430836",
+      "datastore_active": false,
+      "description": "La información está conformada por la compra de tabaco a nivel nacional (sin procesar) de la campaña 2017/2018.",
+      "fileName": "acopio_volumenes_tabaco_provincia_2017-2018-.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "agroindustria_6f3ece48-e6f2-4f95-95dd-b9c2cee7b8d8",
+      "last_modified": "2019-07-12T14:15:54.303841",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Volúmenes de tabaco por provincia. Campaña 2017/2018",
+      "package_id": "agroindustria_9b8396dc-e22f-4a2d-988b-496909c5d7e5",
+      "position": 0,
+      "resource_type": "file.upload",
+      "revision_id": "a13291cb-bf20-476b-bb62-c68ee981aa57",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.agroindustria.gob.ar/dataset/9b8396dc-e22f-4a2d-988b-496909c5d7e5/resource/6f3ece48-e6f2-4f95-95dd-b9c2cee7b8d8/download/acopio_volumenes_tabaco_provincia_2017-2018-.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "378d758d-42e2-4bdd-a6d0-e14ee09c4f6f",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "Catamarca",
+      "id": "390c55ad-fe7d-4606-8f08-85269de97b38",
+      "name": "Catamarca",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Chaco",
+      "id": "e3286e11-fc9b-4fd8-a16a-228328eac19f",
+      "name": "Chaco",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Corrientes",
+      "id": "f2038a5f-e254-4f51-8f4f-069ae50c7ddb",
+      "name": "Corrientes",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Jujuy",
+      "id": "e840e4eb-4243-4d8d-bf13-b8a068f04e1a",
+      "name": "Jujuy",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Misiones",
+      "id": "88b01243-8df4-423f-a7e7-c816d3c59cfc",
+      "name": "Misiones",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Salta",
+      "id": "75690a55-6ca2-4952-ad7f-fa5b6ed4f22b",
+      "name": "Salta",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Tucumán",
+      "id": "f09d9c12-9a5e-49eb-b1fe-ff617fdb9181",
+      "name": "Tucumán",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "acopio",
+      "id": "7a14093c-1b4c-42ac-b753-3b492a231a96",
+      "name": "acopio",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "burley",
+      "id": "726e42bf-0a35-4284-a7ae-38c51be9c3ff",
+      "name": "burley",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "criollo",
+      "id": "77be3749-3652-46c5-b7b1-8dfac9e4a7ce",
+      "name": "criollo",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "criollo argentino",
+      "id": "8b2ab1a9-0ee4-41e5-97e6-2e2bda4a576b",
+      "name": "criollo argentino",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "criollo chaqueño",
+      "id": "76417817-a213-4cac-99ef-6b4029f23f3e",
+      "name": "criollo chaqueño",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "criollo correntino",
+      "id": "c0f2462c-279f-4532-a849-9f384775afc6",
+      "name": "criollo correntino",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "criollo misionero",
+      "id": "ff6a59e6-5c00-45c6-a642-8e2de91c6329",
+      "name": "criollo misionero",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "criollos",
+      "id": "c1a2ea69-3b85-4ddd-a8ad-34be1d453204",
+      "name": "criollos",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "nacional",
+      "id": "0b2d0529-f704-4a59-8e62-51c67dd89ea2",
+      "name": "nacional",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "produccion",
+      "id": "bdc270a4-66a0-4647-9e28-c31133499bc6",
+      "name": "produccion",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "tabacalera",
+      "id": "87c1c91d-fd15-420c-bbd4-937f1e40a575",
+      "name": "tabacalera",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "tabaco",
+      "id": "0f174849-c4a1-4294-862f-dc44006b2ed7",
+      "name": "tabaco",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "virginia",
+      "id": "a7ef0d84-a899-4c5c-affd-f4b3e205e10a",
+      "name": "virginia",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Tabaco - Acopio",
+  "type": "dataset",
+  "url": "https://datos.agroindustria.gob.ar/dataset/acopio-tabaco",
+  "version": null
+}

@@ -1,0 +1,218 @@
+{
+  "author": "Subsecretaría de Mercados Agropecuarios",
+  "author_email": "sma@magyp.gob.ar",
+  "creator_user_id": "dc157489-51c6-44ce-bd63-3bd983d60778",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P1M"
+    },
+    {
+      "key": "issued",
+      "value": "2018-12-07T21:27:21.070496"
+    },
+    {
+      "key": "language",
+      "value": "[\"spa\"]"
+    },
+    {
+      "key": "modified",
+      "value": "2019-10-24T10:42:24.054152"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"AGRI\"]"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Agroganadería, pesca y forestación",
+      "display_name": "Agroganadería, pesca y forestación",
+      "id": "0c35ea38-7059-41d2-9827-5587769d0dc6",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225145.990789agroganaderia-pesca-forestacion.svg",
+      "name": "agri",
+      "title": "Agroganadería, pesca y forestación"
+    }
+  ],
+  "id": "agroindustria_9bb35ee6-11d8-4e7f-9da9-5135519cbe4b",
+  "isopen": true,
+  "license_id": "CC-BY-4.0",
+  "license_title": "Creative Commons Attribution 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "maintainer": null,
+  "maintainer_email": null,
+  "metadata_created": "2019-12-04T20:00:30.032956",
+  "metadata_modified": "2021-04-29T17:16:17.380652",
+  "name": "agroindustria-arroz-cascara---destino-industrial",
+  "notes": "Una vez cosechado o almacenado, el arroz cáscara se transporta a las plantas de industrialización (Industrial Arrocero) para su procesamiento a producto arroz. Año comercial de Abril a Marzo",
+  "num_resources": 2,
+  "num_tags": 13,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:07.834957",
+    "description": "",
+    "id": "b10c94e2-ade1-4a97-8c4c-b1ada7878d60",
+    "image_url": "",
+    "is_organization": true,
+    "name": "agroindustria",
+    "revision_id": "f7c3b6e9-d48f-4522-9f7a-388d805c8392",
+    "state": "active",
+    "title": "Ministerio de Agricultura, Ganadería y Pesca",
+    "type": "organization"
+  },
+  "owner_org": "b10c94e2-ade1-4a97-8c4c-b1ada7878d60",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "http://datos2.agroindustria.gob.ar/dataset/9bb35ee6-11d8-4e7f-9da9-5135519cbe4b/archivo/85d5be54-c42a-4d2b-88a9-2974447bf1fc",
+      "attributesDescription": "[{\"type\": \"integer\", \"description\": \"cod_pais\", \"title\": \"cod_pais\"}, {\"type\": \"string\", \"description\": \"nom_pais\", \"title\": \"nom_pais\"}, {\"type\": \"integer\", \"description\": \"a\\u00f1o\", \"title\": \"a\\u00f1o\"}, {\"type\": \"string\", \"description\": \"producto\", \"title\": \"producto\"}, {\"type\": \"string\", \"description\": \"unidad_id\", \"title\": \"unidad_id\"}, {\"type\": \"string\", \"description\": \"nom_unidad\", \"title\": \"nom_unidad\"}, {\"type\": \"integer\", \"description\": \"enero\", \"title\": \"enero\"}, {\"type\": \"integer\", \"description\": \"febrero\", \"title\": \"febrero\"}, {\"type\": \"integer\", \"description\": \"marzo\", \"title\": \"marzo\"}, {\"type\": \"integer\", \"description\": \"abril\", \"title\": \"abril\"}, {\"type\": \"integer\", \"description\": \"mayo\", \"title\": \"mayo\"}, {\"type\": \"integer\", \"description\": \"junio\", \"title\": \"junio\"}, {\"type\": \"integer\", \"description\": \"julio\", \"title\": \"julio\"}, {\"type\": \"integer\", \"description\": \"agosto\", \"title\": \"agosto\"}, {\"type\": \"integer\", \"description\": \"septiembre\", \"title\": \"septiembre\"}, {\"type\": \"integer\", \"description\": \"octubre\", \"title\": \"octubre\"}, {\"type\": \"integer\", \"description\": \"noviembre\", \"title\": \"noviembre\"}, {\"type\": \"integer\", \"description\": \"diciembre\", \"title\": \"diciembre\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2018-08-06T19:09:01.979239",
+      "datastore_active": false,
+      "description": "Una vez cosechado o almacenado, el arroz cáscara se transporta a las plantas de industrialización (Industrial Arrocero) para su procesamiento a producto arroz.\r\n \"0\" indica informado \"Sin Movimiento\".",
+      "fileName": "arroz-cascara-con-destino-a-la-industria-.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "agroindustria_85d5be54-c42a-4d2b-88a9-2974447bf1fc",
+      "last_modified": "2019-01-24T13:55:15.158394",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Ingreso de arroz cáscara a plantas industriales para su procesamiento",
+      "package_id": "agroindustria_9bb35ee6-11d8-4e7f-9da9-5135519cbe4b",
+      "position": 0,
+      "resource_type": "file.upload",
+      "revision_id": "d2ede857-d728-4ee2-abb3-540d162df5f5",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.agroindustria.gob.ar/dataset/9bb35ee6-11d8-4e7f-9da9-5135519cbe4b/resource/85d5be54-c42a-4d2b-88a9-2974447bf1fc/download/arroz-cascara-con-destino-a-la-industria-.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos.agroindustria.gob.ar/dataset/9bb35ee6-11d8-4e7f-9da9-5135519cbe4b/resource/fe5bb691-7f7a-46ef-9142-c18eaa218213",
+      "attributesDescription": "[{\"specialType\": \"time_index\", \"specialTypeDetail\": \"R/P1M\", \"type\": \"date\", \"title\": \"indice_tiempo\"}, {\"units\": \"toneladas\", \"id\": \"AGRO_0024\", \"type\": \"integer\", \"description\": \"Ingreso de arroz de cascara para la industria.\", \"title\": \"ingreso_arroz_cascara_industria\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2018-12-21T16:10:41.421891",
+      "datastore_active": false,
+      "description": "Una vez cosechado o almacenado, el arroz cáscara se transporta a las plantas de industrialización para su procesamiento a producto arroz.",
+      "fileName": "serie-de-tiempo-arroz-cascara.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "agroindustria_fe5bb691-7f7a-46ef-9142-c18eaa218213",
+      "last_modified": "2019-09-11T09:46:30.397685",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Serie de tiempo",
+      "package_id": "agroindustria_9bb35ee6-11d8-4e7f-9da9-5135519cbe4b",
+      "position": 1,
+      "resource_type": "file.upload",
+      "revision_id": "d2ede857-d728-4ee2-abb3-540d162df5f5",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.agroindustria.gob.ar/dataset/9bb35ee6-11d8-4e7f-9da9-5135519cbe4b/resource/fe5bb691-7f7a-46ef-9142-c18eaa218213/download/serie-de-tiempo-arroz-cascara.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "f4dcdfd6-7923-40f8-9c59-07ff08636222",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "Argentina",
+      "id": "3621bdf5-40c1-48fa-8ede-5a91198a4743",
+      "name": "Argentina",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "agrícolas",
+      "id": "6f91baac-d886-4b75-ba82-2a7f1c388b24",
+      "name": "agrícolas",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "alimentícia",
+      "id": "5ba9e624-8255-454e-9051-968a88036ee8",
+      "name": "alimentícia",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "arroz",
+      "id": "0505d80b-cf0d-492f-855a-1bd28981237f",
+      "name": "arroz",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "arroz cáscara",
+      "id": "2eae8a77-3fe2-4b0e-9e39-c09a90863388",
+      "name": "arroz cáscara",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "año comercial",
+      "id": "7aa87b3b-54cc-42a9-bada-c308f7377186",
+      "name": "año comercial",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "campañas",
+      "id": "4348a356-715b-4bfa-9f6e-bb05d162ea2e",
+      "name": "campañas",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "cereal",
+      "id": "39f5bb41-e652-4293-81c2-bfa24a66b181",
+      "name": "cereal",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "industrialización",
+      "id": "fac7dd39-ddf7-4bfa-8c57-8353ed39b0a8",
+      "name": "industrialización",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "mercados",
+      "id": "6d9c3d18-454a-4717-89ce-4e036d867102",
+      "name": "mercados",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "mes",
+      "id": "928b1257-cae8-4388-8be2-a589787311e6",
+      "name": "mes",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "producto",
+      "id": "3eb6d812-1c77-4952-9d03-09850b074d9b",
+      "name": "producto",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "toneladas",
+      "id": "f6ee989f-ec04-4704-bca2-a562d99f7811",
+      "name": "toneladas",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Arroz cáscara - Destino industrial",
+  "type": "dataset",
+  "url": "https://datos.agroindustria.gob.ar/dataset/arroz-cascara-con-destino-industria",
+  "version": null
+}

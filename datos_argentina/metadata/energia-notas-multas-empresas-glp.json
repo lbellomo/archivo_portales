@@ -1,0 +1,172 @@
+{
+  "author": "Ministerio de Energía y Minería.Secretaría de Coordinación de Planeamiento Energético.Dirección Nacional de Información Energética.Tecnología de la Información.",
+  "author_email": "tienerg@energia.gob.ar",
+  "creator_user_id": "4720e75a-9e17-4dc3-879d-041917c7f9f9",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "eventual"
+    },
+    {
+      "key": "issued",
+      "value": "2017-01-20T16:34:40.972496"
+    },
+    {
+      "key": "modified",
+      "value": "2020-10-28T05:05:11.535716"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"ENER\"]"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Energía",
+      "display_name": "Energía",
+      "id": "a4d3f632-eb48-4163-9791-165989c16035",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225337.421630energia.svg",
+      "name": "ener",
+      "title": "Energía"
+    }
+  ],
+  "id": "energia_ce3693c7-4cab-40a1-9705-5b25b3d9145c",
+  "isopen": false,
+  "license_id": "notspecified",
+  "license_title": "No se especificó la licencia",
+  "maintainer": "Ministerio de Energía y Minería.Secretaría de Recursos Hidrocarburíferos.Subsecretaría de Refinación y Comercialización.Dirección de Gas Licuado.",
+  "maintainer_email": null,
+  "metadata_created": "2019-11-26T15:00:08.194815",
+  "metadata_modified": "2021-04-29T17:17:22.861783",
+  "name": "energia-notas-multas-empresas-glp",
+  "notes": "Notas empresas mercado de GLP",
+  "num_resources": 3,
+  "num_tags": 4,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:09.221510",
+    "description": "",
+    "id": "cd1b32a2-2d3a-44ac-8c98-a425a7b62d42",
+    "image_url": "",
+    "is_organization": true,
+    "name": "energia",
+    "revision_id": "a184cf69-99ad-4f84-a254-020031d7fe63",
+    "state": "active",
+    "title": "Secretaría de Energía",
+    "type": "organization"
+  },
+  "owner_org": "cd1b32a2-2d3a-44ac-8c98-a425a7b62d42",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "http://datos.minem.gob.ar/dataset/ce3693c7-4cab-40a1-9705-5b25b3d9145c/resource/def306d4-6f94-412a-ae57-8c4da8d08778",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-05-04T19:35:38.285718",
+      "datastore_active": false,
+      "description": "",
+      "fileName": "multas-empresas-mercado-de-glp-resmen-de-actas-de-inspeccin.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "energia_def306d4-6f94-412a-ae57-8c4da8d08778",
+      "last_modified": "2020-10-28T05:03:26.336082",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Resúmen de Actas de Inspección",
+      "package_id": "energia_ce3693c7-4cab-40a1-9705-5b25b3d9145c",
+      "position": 0,
+      "resource_type": null,
+      "revision_id": "87c9143f-b60c-4919-b79d-5f638af02b31",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.minem.gob.ar/dataset/ce3693c7-4cab-40a1-9705-5b25b3d9145c/resource/def306d4-6f94-412a-ae57-8c4da8d08778/download/multas-empresas-mercado-de-glp-resmen-de-actas-de-inspeccin.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos.minem.gob.ar/dataset/ce3693c7-4cab-40a1-9705-5b25b3d9145c/resource/692b573f-c9ef-4d20-bc2b-b5f8a7e80544",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-05-04T19:37:03.508921",
+      "datastore_active": false,
+      "description": "",
+      "fileName": "multas-empresas-mercado-de-glp-resmen-de-multas.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "energia_692b573f-c9ef-4d20-bc2b-b5f8a7e80544",
+      "last_modified": "2020-10-28T05:05:11.516610",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Resúmen de Multas",
+      "package_id": "energia_ce3693c7-4cab-40a1-9705-5b25b3d9145c",
+      "position": 1,
+      "resource_type": null,
+      "revision_id": "87c9143f-b60c-4919-b79d-5f638af02b31",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.minem.gob.ar/dataset/ce3693c7-4cab-40a1-9705-5b25b3d9145c/resource/692b573f-c9ef-4d20-bc2b-b5f8a7e80544/download/multas-empresas-mercado-de-glp-resmen-de-multas.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos.minem.gob.ar/dataset/ce3693c7-4cab-40a1-9705-5b25b3d9145c/resource/09a2ed9b-c485-4421-b753-975450e7745f",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-05-04T19:38:49.122292",
+      "datastore_active": false,
+      "description": "",
+      "fileName": "notas-empresas-mercado-de-glp.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "energia_09a2ed9b-c485-4421-b753-975450e7745f",
+      "last_modified": "2020-10-28T05:05:07.176375",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Notas empresas mercado de GLP",
+      "package_id": "energia_ce3693c7-4cab-40a1-9705-5b25b3d9145c",
+      "position": 2,
+      "resource_type": null,
+      "revision_id": "87c9143f-b60c-4919-b79d-5f638af02b31",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.minem.gob.ar/dataset/ce3693c7-4cab-40a1-9705-5b25b3d9145c/resource/09a2ed9b-c485-4421-b753-975450e7745f/download/notas-empresas-mercado-de-glp.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "2eb012b5-3a14-4eba-9d55-5f8714b735ff",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "Comercialización de Hidrocarburos Líquidos",
+      "id": "c81df453-550a-4172-b461-0412ecdac4e7",
+      "name": "Comercialización de Hidrocarburos Líquidos",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "GLP",
+      "id": "951dbc22-916e-425d-8836-d4d993c616ac",
+      "name": "GLP",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Hidrocarburos",
+      "id": "f2511ea4-b37a-445a-913a-8948f1b90df6",
+      "name": "Hidrocarburos",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Notas",
+      "id": "6f351a9d-c9a1-42c9-a4cb-b74d78a66a81",
+      "name": "Notas",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Notas y multas a empresas de GLP",
+  "type": "dataset",
+  "url": "http://datos.minem.gob.ar/dataset/notas-y-multas-a-empresas-de-glp",
+  "version": null
+}

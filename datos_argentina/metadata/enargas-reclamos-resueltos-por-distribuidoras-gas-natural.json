@@ -1,0 +1,199 @@
+{
+  "author": "Gerencia de Protección del Usuario (GPU)",
+  "author_email": "msvesprini@enargas.gov.ar",
+  "creator_user_id": "dc157489-51c6-44ce-bd63-3bd983d60778",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P1M"
+    },
+    {
+      "key": "issued",
+      "value": "2019-11-13T15:10:11.942051"
+    },
+    {
+      "key": "language",
+      "value": "[\"spa\"]"
+    },
+    {
+      "key": "modified",
+      "value": "2020-12-28T10:33:12.021275"
+    },
+    {
+      "key": "source",
+      "value": "Base de datos del Sistema de Gestión de Reclamos ENARGAS"
+    },
+    {
+      "key": "spatial",
+      "value": "[\"ARG\"]"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"ENER\", \"GOVE\"]"
+    },
+    {
+      "key": "temporal",
+      "value": "2018-01-01T03:00:00.000Z/2020-11-30T03:00:00.000Z"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Energía",
+      "display_name": "Energía",
+      "id": "a4d3f632-eb48-4163-9791-165989c16035",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225337.421630energia.svg",
+      "name": "ener",
+      "title": "Energía"
+    },
+    {
+      "description": "Gobierno y sector público",
+      "display_name": "Gobierno y sector público",
+      "id": "e6f07c77-3987-4e71-98a6-731b1aaf74f4",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225353.395233gobierno-sector-publico.svg",
+      "name": "gove",
+      "title": "Gobierno y sector público"
+    }
+  ],
+  "id": "enargas_b4d85de6-21f0-4597-998f-5dd69c82c54f",
+  "isopen": false,
+  "license_id": "notspecified",
+  "license_title": "No se especificó la licencia",
+  "maintainer": null,
+  "maintainer_email": null,
+  "metadata_created": "2019-12-04T20:00:06.647155",
+  "metadata_modified": "2021-04-29T13:06:08.266214",
+  "name": "enargas-reclamos-resueltos-por-distribuidoras-gas-natural",
+  "notes": "Incluye el total de reclamos resueltos por Prestadoras del servicio de distribución de gas natural, Grupo, Vía de ingreso, Clasificación, Provincia y Mes/Año.",
+  "num_resources": 3,
+  "num_tags": 4,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:09.390629",
+    "description": "",
+    "id": "dddda9d3-644d-4e3d-974b-302fd8945a86",
+    "image_url": "",
+    "is_organization": true,
+    "name": "enargas",
+    "revision_id": "133be5fe-73c2-40d2-a3f3-af901a81acde",
+    "state": "active",
+    "title": "Ente Nacional Regulador del Gas",
+    "type": "organization"
+  },
+  "owner_org": "dddda9d3-644d-4e3d-974b-302fd8945a86",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "https://transparencia.enargas.gov.ar/dataset/b4d85de6-21f0-4597-998f-5dd69c82c54f/resource/7e1ff68b-6906-4e78-964c-22d705e51c69",
+      "attributesDescription": "[{\"type\": \"integer\", \"description\": \"A\\u00f1o en el que se registra el reclamo.\", \"title\": \"reclamo_a\\u00f1o\"}, {\"type\": \"integer\", \"description\": \"N\\u00famero del mes en el que se registra el reclamo.\", \"title\": \"reclamo_mes_nro \"}, {\"type\": \"string\", \"description\": \"Nombre del mes en el que se registra el reclamo.\", \"title\": \"reclamo_mes_nombre \"}, {\"type\": \"string\", \"description\": \"Raz\\u00f3n social de la Prestadora del servicio de distribuci\\u00f3n de gas natural que registr\\u00f3 el reclamo.\", \"title\": \"reclamo_prestadora \"}, {\"type\": \"string\", \"description\": \"Provincia en la que se registr\\u00f3 el reclamo.\", \"title\": \"reclamo_provincia\"}, {\"type\": \"string\", \"description\": \"Agrupaci\\u00f3n por tipo de reclamo.\", \"title\": \"reclamo_grupo\"}, {\"type\": \"string\", \"description\": \"Canal de recepci\\u00f3n habilitado por el cual ingres\\u00f3 el reclamo registrado.\", \"title\": \"reclamo_via_ingreso\"}, {\"type\": \"string\", \"description\": \"Clasificaci\\u00f3n del reclamo registrado: Procedente o Improcedente.\", \"title\": \"reclamo_clasificacion\"}, {\"type\": \"integer\", \"description\": \"Cantidad de reclamos.\", \"title\": \"reclamo_cantidad\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2020-02-28T12:15:33.532170",
+      "datastore_active": false,
+      "description": "Cantidad de Reclamos resueltos en el año 2020 por Licenciataria del servicio de distribución de gas natural, Grupo, Vía de ingreso, Clasificación, Provincia y Mes/Año.",
+      "fileName": "reclamos_prestadoras_2020.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "enargas_7e1ff68b-6906-4e78-964c-22d705e51c69",
+      "last_modified": "2021-01-22T10:25:29.504999",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Reclamos de Distribuidoras resueltos en 2020",
+      "package_id": "enargas_b4d85de6-21f0-4597-998f-5dd69c82c54f",
+      "position": 0,
+      "resource_type": "file.upload",
+      "revision_id": "c38463f8-a885-4a2a-888b-d71e6dfd247b",
+      "size": null,
+      "state": "active",
+      "url": "https://transparencia.enargas.gov.ar/dataset/b4d85de6-21f0-4597-998f-5dd69c82c54f/resource/7e1ff68b-6906-4e78-964c-22d705e51c69/download/reclamos_prestadoras_2020.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://transparencia.enargas.gov.ar/dataset/b4d85de6-21f0-4597-998f-5dd69c82c54f/resource/1faa9ba2-26f1-47c3-a3f0-a92b80775c4f",
+      "attributesDescription": "[{\"type\": \"integer\", \"description\": \"A\\u00f1o en el que se registra el reclamo.\", \"title\": \"reclamo_a\\u00f1o\"}, {\"type\": \"integer\", \"description\": \"N\\u00famero del mes en el que se registra el reclamo.\", \"title\": \"reclamo_mes_nro\"}, {\"type\": \"string\", \"description\": \"Nombre del mes en el que se registra el reclamo.\", \"title\": \"reclamo_mes_nombre\"}, {\"type\": \"string\", \"description\": \"Raz\\u00f3n social de la Prestadora del servicio de distribuci\\u00f3n de gas natural que registr\\u00f3 el reclamo.\", \"title\": \"reclamo_prestadora\"}, {\"type\": \"string\", \"description\": \"Provincia en la que se registr\\u00f3 el reclamo.\", \"title\": \"reclamo_provincia\"}, {\"type\": \"string\", \"description\": \"Agrupaci\\u00f3n por tipo de reclamo.\", \"title\": \"reclamo_grupo\"}, {\"type\": \"string\", \"description\": \"Canal de recepci\\u00f3n habilitado por el cual ingres\\u00f3 el reclamo registrado.\", \"title\": \"reclamo_via_ingreso\"}, {\"type\": \"string\", \"description\": \"Clasificaci\\u00f3n del reclamo registrado: Procedente o Improcedente.\", \"title\": \"reclamo_clasificacion\"}, {\"type\": \"integer\", \"description\": \"Cantidad de reclamos.\", \"title\": \"reclamo_cantidad\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-11-13T15:18:53.400779",
+      "datastore_active": false,
+      "description": "Cantidad de Reclamos resueltos en el año 2019 por Licenciataria del servicio de distribución de gas natural, Grupo, Vía de ingreso, Clasificación, Provincia y Mes/Año.",
+      "fileName": "reclamos_prestadoras_2019.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "enargas_1faa9ba2-26f1-47c3-a3f0-a92b80775c4f",
+      "last_modified": "2020-08-27T19:36:14.873037",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Reclamos de Distribuidoras resueltos en 2019",
+      "package_id": "enargas_b4d85de6-21f0-4597-998f-5dd69c82c54f",
+      "position": 1,
+      "resource_type": "file.upload",
+      "revision_id": "7fbcff41-d071-422e-8a98-88e8d17b8706",
+      "size": null,
+      "state": "active",
+      "url": "https://transparencia.enargas.gov.ar/dataset/b4d85de6-21f0-4597-998f-5dd69c82c54f/resource/1faa9ba2-26f1-47c3-a3f0-a92b80775c4f/download/reclamos_prestadoras_2019.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://transparencia.enargas.gov.ar/dataset/b4d85de6-21f0-4597-998f-5dd69c82c54f/resource/b9f0e8d1-1994-473d-b128-6f82888734f2",
+      "attributesDescription": "[{\"type\": \"integer\", \"description\": \"A\\u00f1o en el que se registra el reclamo.\", \"title\": \"reclamo_a\\u00f1o\"}, {\"type\": \"integer\", \"description\": \"N\\u00famero del mes en el que se registra el reclamo.\", \"title\": \"reclamo_mes_nro\"}, {\"type\": \"string\", \"description\": \"Nombre del mes en el que se registra el reclamo.\", \"title\": \"reclamo_mes_nombre\"}, {\"type\": \"string\", \"description\": \"Raz\\u00f3n social de la Prestadora del servicio de distribuci\\u00f3n de gas natural que registr\\u00f3 el reclamo.\", \"title\": \"reclamo_prestadora\"}, {\"type\": \"string\", \"description\": \"Provincia en la que se registr\\u00f3 el reclamo.\", \"title\": \"reclamo_provincia\"}, {\"type\": \"string\", \"description\": \"Agrupaci\\u00f3n por tipo de reclamo.\", \"title\": \"reclamo_grupo\"}, {\"type\": \"string\", \"description\": \"Canal de recepci\\u00f3n habilitado por el cual ingres\\u00f3 el reclamo registrado.\", \"title\": \"reclamo_via_ingreso\"}, {\"type\": \"string\", \"description\": \"Clasificaci\\u00f3n del reclamo registrado: Procedente o Improcedente.\", \"title\": \"reclamo_clasificacion\"}, {\"type\": \"integer\", \"description\": \"Cantidad de reclamos.\", \"title\": \"reclamo_cantidad\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-11-13T15:15:06.134800",
+      "datastore_active": false,
+      "description": "Cantidad de Reclamos resueltos en el año 2018  por Licenciataria del servicio de distribución de gas natural, Grupo, Vía de ingreso, Clasificación, Provincia y Mes/Año.",
+      "fileName": "reclamos_prestadoras_2018.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "enargas_b9f0e8d1-1994-473d-b128-6f82888734f2",
+      "last_modified": "2020-08-27T19:35:54.399099",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Reclamos de Distribuidoras resueltos en 2018",
+      "package_id": "enargas_b4d85de6-21f0-4597-998f-5dd69c82c54f",
+      "position": 2,
+      "resource_type": "file.upload",
+      "revision_id": "7fbcff41-d071-422e-8a98-88e8d17b8706",
+      "size": null,
+      "state": "active",
+      "url": "https://transparencia.enargas.gov.ar/dataset/b4d85de6-21f0-4597-998f-5dd69c82c54f/resource/b9f0e8d1-1994-473d-b128-6f82888734f2/download/reclamos_prestadoras_2018.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "7fbcff41-d071-422e-8a98-88e8d17b8706",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "Datos ENARGAS",
+      "id": "05cd28f2-7cdb-4eab-95d1-c45cb956d0db",
+      "name": "Datos ENARGAS",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "gas",
+      "id": "71cd9f5b-16e3-4255-9971-29f40d204d7c",
+      "name": "gas",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "gas natural",
+      "id": "5effd774-dd36-41b6-b157-f5ffcc0787ea",
+      "name": "gas natural",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "reclamos",
+      "id": "f72200a6-cc85-4be0-b9fa-67dbced8233a",
+      "name": "reclamos",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Reclamos resueltos por las Distribuidoras de gas natural",
+  "type": "dataset",
+  "url": "https://transparencia.enargas.gov.ar/dataset/reclamos-resueltos-distribuidoras-gas-natural",
+  "version": null
+}

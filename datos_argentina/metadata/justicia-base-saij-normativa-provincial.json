@@ -1,0 +1,168 @@
+{
+  "author": "Ministerio de Justicia y Derechos Humanos. Secretaría de Justicia. Dirección Nacional del Sistema Argentino de Información Jurídica",
+  "author_email": "datosabiertos@saij.gob.ar",
+  "creator_user_id": "dc157489-51c6-44ce-bd63-3bd983d60778",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P1M"
+    },
+    {
+      "key": "issued",
+      "value": "2016-11-22T16:09:24.483249"
+    },
+    {
+      "key": "modified",
+      "value": "2021-04-05T12:00:00.056758"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"JUST\"]"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Justicia, seguridad y legales",
+      "display_name": "Justicia, seguridad y legales",
+      "id": "69ac5e1d-79f0-4470-9514-8a173d9ae44c",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225406.604073justicia-seguridad-legales.svg",
+      "name": "just",
+      "title": "Justicia, seguridad y legales"
+    }
+  ],
+  "id": "justicia_d59c2d29-d561-4ad2-a032-cc82b40db2d3",
+  "isopen": true,
+  "license_id": "CC-BY-4.0",
+  "license_title": "Creative Commons Attribution 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "maintainer": "Ministerio de Justicia y Derechos Humanos. Secretaría de Justicia. Dirección Nacional del Sistema Argentino de Información Jurídica",
+  "maintainer_email": "datosabiertos@saij.gob.ar",
+  "metadata_created": "2019-12-04T20:02:35.357229",
+  "metadata_modified": "2021-04-29T17:10:11.115211",
+  "name": "justicia-base-saij-normativa-provincial",
+  "notes": "Base de documentos digitales normativos provinciales: leyes, decretos leyes, textos ordenados, códigos y Constituciones publicados en el Boletín Oficial de la Provincia\r\ncorrespondiente.",
+  "num_resources": 2,
+  "num_tags": 7,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:10.018297",
+    "description": "",
+    "id": "06b380f8-888f-43c0-8367-16a7ddf47d4f",
+    "image_url": "",
+    "is_organization": true,
+    "name": "justicia",
+    "revision_id": "637d68f0-a296-4d39-b846-4370270a96a1",
+    "state": "active",
+    "title": " Ministerio de Justicia y Derechos Humanos",
+    "type": "organization"
+  },
+  "owner_org": "06b380f8-888f-43c0-8367-16a7ddf47d4f",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "http://datos.jus.gob.ar/dataset/d59c2d29-d561-4ad2-a032-cc82b40db2d3/resource/0ebc70cc-0e71-4158-ab75-9759339e4cbd",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2016-12-19T12:13:11.208126",
+      "datastore_active": false,
+      "description": "Base de documentos digitales normativos provinciales: leyes, decretos leyes, textos ordenados, códigos y Constituciones publicados en el Boletín Oficial de la Provincia correspondiente.",
+      "format": "CSV",
+      "hash": "",
+      "id": "justicia_0ebc70cc-0e71-4158-ab75-9759339e4cbd",
+      "last_modified": "2021-04-05T08:55:14.419632",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Base SAIJ de Normativa Provincial",
+      "package_id": "justicia_d59c2d29-d561-4ad2-a032-cc82b40db2d3",
+      "position": 0,
+      "resource_type": null,
+      "revision_id": "ba5988fd-44c6-400d-ac38-2e5d3144153a",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.jus.gob.ar/dataset/d59c2d29-d561-4ad2-a032-cc82b40db2d3/resource/0ebc70cc-0e71-4158-ab75-9759339e4cbd/download/base-saij-normativa-provincial.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos.jus.gob.ar/dataset/d59c2d29-d561-4ad2-a032-cc82b40db2d3/resource/234d2da3-e1fa-4d38-916a-88b264f788b5",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2020-09-09T16:55:12.131409",
+      "datastore_active": false,
+      "description": "Base de documentos digitales normativos provinciales: leyes, decretos leyes, textos ordenados, códigos y Constituciones publicados en el Boletín Oficial de la Provincia correspondiente.",
+      "format": "Gráfico",
+      "hash": "",
+      "id": "justicia_234d2da3-e1fa-4d38-916a-88b264f788b5",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Gráficos estadísticos",
+      "package_id": "justicia_d59c2d29-d561-4ad2-a032-cc82b40db2d3",
+      "position": 1,
+      "resource_type": null,
+      "revision_id": "5a5bc61e-231f-48aa-aa87-feb2e5832971",
+      "size": null,
+      "state": "active",
+      "url": "https://public.tableau.com/profile/justicia.abierta#!/vizhome/base_saij_normativa_provincial/saij_normativa_provincial?publish=yes",
+      "url_type": null
+    }
+  ],
+  "revision_id": "ed43fd7e-24f7-498f-a8b6-d10c3b4ebbf4",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "Legislación",
+      "id": "79cafa4a-6e62-4df5-aee3-b77af69d25a7",
+      "name": "Legislación",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "boletín oficial",
+      "id": "010053de-6f69-4ffc-ab00-62f4985c8b49",
+      "name": "boletín oficial",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "codigos provinciales",
+      "id": "b297e9ac-f1f0-4565-ba0b-54efd4c57e97",
+      "name": "codigos provinciales",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "constituciones provinciales",
+      "id": "5cc4b0ea-ebc1-4416-9f6b-fe0a7c6a7307",
+      "name": "constituciones provinciales",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "decretos",
+      "id": "395ffdc8-8445-4cbd-b475-2b4a4c393149",
+      "name": "decretos",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "legislaciones",
+      "id": "484c4f22-1dde-4a36-bfee-932fb852ea3c",
+      "name": "legislaciones",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "leyes",
+      "id": "f2a844aa-11da-42f2-9d9c-3c17c52098fa",
+      "name": "leyes",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Base SAIJ de Normativa Provincial",
+  "type": "dataset",
+  "url": "",
+  "version": null
+}

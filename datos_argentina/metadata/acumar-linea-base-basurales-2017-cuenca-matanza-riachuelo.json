@@ -1,0 +1,199 @@
+{
+  "author": "Dirección de Gestión Integral de Residuos Sólidos",
+  "author_email": null,
+  "creator_user_id": "dc157489-51c6-44ce-bd63-3bd983d60778",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "eventual"
+    },
+    {
+      "key": "issued",
+      "value": "2017-10-19T19:02:10.531778"
+    },
+    {
+      "key": "modified",
+      "value": "2018-03-23T17:15:45.311819"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"ENVI\"]"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Medio ambiente",
+      "display_name": "Medio ambiente",
+      "id": "f71fe9d7-c703-43be-8d9d-af9441c326ba",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225440.964279medio-ambiente.svg",
+      "name": "envi",
+      "title": "Medio ambiente"
+    }
+  ],
+  "id": "acumar_5f4e8da5-f44f-4095-9fbc-b4f025f6eecb",
+  "isopen": false,
+  "license_id": "notspecified",
+  "license_title": "No se especificó la licencia",
+  "maintainer": null,
+  "maintainer_email": null,
+  "metadata_created": "2019-12-04T20:03:24.292373",
+  "metadata_modified": "2021-04-29T17:12:06.877936",
+  "name": "acumar-linea-base-basurales-2017-cuenca-matanza-riachuelo",
+  "notes": "Datos correspondientes a la Línea de Base de Basurales 2017 trazada por ACUMAR para la gestión de los residuos sólidos urbanos en la Cuenca Matanza Riachuelo. En ella se encontrará la denominación, ubicación y tipología por volúmen de los sitios (punto de arrojo, microbasural, basural, macrobasural). ",
+  "num_resources": 2,
+  "num_tags": 11,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:10.306987",
+    "description": "",
+    "id": "1b6b28cd-098f-41d7-b43f-d5a01ffa8759",
+    "image_url": "",
+    "is_organization": true,
+    "name": "acumar",
+    "revision_id": "0e2a184d-b675-43ae-b2dd-e1ed0c459c04",
+    "state": "active",
+    "title": "Autoridad de Cuenca Matanza Riachuelo",
+    "type": "organization"
+  },
+  "owner_org": "1b6b28cd-098f-41d7-b43f-d5a01ffa8759",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "http://datos.acumar.gob.ar/dataset/5f4e8da5-f44f-4095-9fbc-b4f025f6eecb/resource/1642723b-2ab6-42ad-9ea1-1985811f8d7e",
+      "attributesDescription": "[{\"type\": \"any\", \"description\": \"Identificador del sitio.\\n\", \"title\": \"sitios_id\"}, {\"type\": \"string\", \"description\": \"Nombre con el que se denomina el sitio.\\n\", \"title\": \"sitios_denominacion\"}, {\"type\": \"string\", \"description\": \"Direcci\\u00f3n en la cual se ubica el sitio.\\n\", \"title\": \"sitios_direccion\"}, {\"type\": \"any\", \"description\": \"Latitud\", \"title\": \"sitios_latitud\"}, {\"type\": \"any\", \"description\": \"Longitud\", \"title\": \"sitios_longitud\"}, {\"type\": \"integer\", \"description\": \"C\\u00f3digo utilizado en el Censo Nacional para el municipio respectivo\\n\", \"title\": \"municipios_id\"}, {\"type\": \"string\", \"description\": \"Nombre del municipio en el que se ubica el sitio.\", \"title\": \"municipios_descripcion\"}, {\"type\": \"string\", \"description\": \"Tipo de sitios: punto de arrojo, microbasural, basural, macrobasural\\n\", \"title\": \"sitios_tipologia\"}, {\"type\": \"string\", \"description\": \"Estado en el que se encuentran los sitios.\\n\", \"title\": \"sitios_estado\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-10-19T19:04:27.360755",
+      "datastore_active": false,
+      "description": "Detalle de la Línea de Base de Basurales trazada por ACUMAR en el 2017. Enumeración y ubicación de los sitios, clasificación por volumen y avance en la erradicación.",
+      "fileName": "linea-de-base-2017.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "acumar_1642723b-2ab6-42ad-9ea1-1985811f8d7e",
+      "last_modified": "2018-03-23T17:15:43.811344",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Línea de Base de Basurales 2017",
+      "package_id": "acumar_5f4e8da5-f44f-4095-9fbc-b4f025f6eecb",
+      "position": 0,
+      "resource_type": null,
+      "revision_id": "de55f4bc-a32c-4e7f-ae42-4e012874356c",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.acumar.gob.ar/dataset/5f4e8da5-f44f-4095-9fbc-b4f025f6eecb/resource/1642723b-2ab6-42ad-9ea1-1985811f8d7e/download/linea-de-base-2017.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos.acumar.gob.ar/dataset/5f4e8da5-f44f-4095-9fbc-b4f025f6eecb/resource/edd3dee7-f3ef-4e84-8660-e331f64b3115",
+      "attributesDescription": "[{\"type\": \"integer\", \"description\": \"C\\u00f3digo utilizado en el Censo Nacional para el municipio respectivo\", \"title\": \"municipio_id\"}, {\"type\": \"string\", \"description\": \"Nombre del municipio en el cual se encuentran los sitios\", \"title\": \"municipio_descripcion\"}, {\"type\": \"string\", \"description\": \"Tipo de sitio: punto de arrojo, microbasural, basural, macrobasural\", \"title\": \"sitio_tipo\"}, {\"type\": \"integer\", \"description\": \"Cantidad de puntos de arrojo, microbasurales, basurales y macrobasurales por municipio\", \"title\": \"sitio_cantidad\"}, {\"type\": \"integer\", \"description\": \"Cantidad de macrobasurales por municipio.\", \"title\": \"tipo_macrobasural\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-11-07T19:18:49.252578",
+      "datastore_active": false,
+      "description": "Detalle de la cantidad de sitios incluídos en la Línea de Base 2017 por tipología (punto de arrojo, microbasural, basural, macrobasural) y muncipio.",
+      "fileName": "linea-de-base-2017-cantidadtipologiamunicipio.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "acumar_edd3dee7-f3ef-4e84-8660-e331f64b3115",
+      "last_modified": "2018-02-28T16:48:42.062934",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Línea de Base 2017: Cantidad de Sitios por Tipología y Municipios",
+      "package_id": "acumar_5f4e8da5-f44f-4095-9fbc-b4f025f6eecb",
+      "position": 1,
+      "resource_type": null,
+      "revision_id": "de55f4bc-a32c-4e7f-ae42-4e012874356c",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.acumar.gob.ar/dataset/5f4e8da5-f44f-4095-9fbc-b4f025f6eecb/resource/edd3dee7-f3ef-4e84-8660-e331f64b3115/download/linea-de-base-2017-cantidadtipologiamunicipio.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "e17e1e15-cd20-4eb2-a06c-3ce26270246b",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "Eje Ambiental",
+      "id": "372cb546-0e92-4061-9b08-2537ffc593a2",
+      "name": "Eje Ambiental",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "GIRSU",
+      "id": "b4fe60c5-430e-4f8f-bbc5-3c196283eac1",
+      "name": "GIRSU",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Residuos",
+      "id": "44611997-f7be-4839-a5a3-26424734761f",
+      "name": "Residuos",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "basurales",
+      "id": "f03553c8-ab82-4a8d-87f4-9ef3c3a51549",
+      "name": "basurales",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "gestión de residuos sólidos",
+      "id": "269d20b9-f9a5-48ce-bd94-22dcc8f3fd22",
+      "name": "gestión de residuos sólidos",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "línea de base",
+      "id": "4da62360-1d9b-41fe-9899-34a0ba771940",
+      "name": "línea de base",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "macrobasurales",
+      "id": "19cc5d14-32b0-44db-9a2d-2fed2474d236",
+      "name": "macrobasurales",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "microbasurales",
+      "id": "c1fadc76-4a75-4c8d-9595-1c91c2610ef2",
+      "name": "microbasurales",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "puntos de arrojo",
+      "id": "6ce2d49f-5704-48e2-a80b-32f98525402b",
+      "name": "puntos de arrojo",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "residuos",
+      "id": "5574f117-cd28-462b-990f-dcc1597a3d0e",
+      "name": "residuos",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "tipologías",
+      "id": "a3af976c-e495-4eb3-95df-c834b0709127",
+      "name": "tipologías",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Línea de Base de Basurales 2017 en la cuenca Matanza Riachuelo",
+  "type": "dataset",
+  "url": "http://datos.acumar.gob.ar/dataset/linea-de-base-de-basurales-2017",
+  "version": null
+}

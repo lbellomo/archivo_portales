@@ -1,0 +1,198 @@
+{
+  "author": "Dirección Nacional de Sanidad Animal",
+  "author_email": "desycg@senasa.gob.ar",
+  "creator_user_id": "dc157489-51c6-44ce-bd63-3bd983d60778",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P1Y"
+    },
+    {
+      "key": "issued",
+      "value": "2019-09-11T19:52:59.305739"
+    },
+    {
+      "key": "language",
+      "value": "[\"spa\"]"
+    },
+    {
+      "key": "modified",
+      "value": "2019-11-22T10:55:00.883878"
+    },
+    {
+      "key": "source",
+      "value": "Servicio Nacional de Sanidad y Calidad Agroalimentaria - SENASA"
+    },
+    {
+      "key": "spatial",
+      "value": "[\"ARG\"]"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"AGRI\"]"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Agroganadería, pesca y forestación",
+      "display_name": "Agroganadería, pesca y forestación",
+      "id": "0c35ea38-7059-41d2-9827-5587769d0dc6",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225145.990789agroganaderia-pesca-forestacion.svg",
+      "name": "agri",
+      "title": "Agroganadería, pesca y forestación"
+    }
+  ],
+  "id": "agroindustria_c19a5875-fb39-48b6-b0b2-234382722afb",
+  "isopen": true,
+  "license_id": "CC-BY-4.0",
+  "license_title": "Creative Commons Attribution 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "maintainer": "Dirección Nacional de Sanidad Animal",
+  "maintainer_email": "desycg@senasa.gob.ar",
+  "metadata_created": "2019-12-04T20:01:24.177269",
+  "metadata_modified": "2021-04-29T17:16:16.770283",
+  "name": "agroindustria-senasa---existencias-bovinos",
+  "notes": "Existencias de bovinos por provincia y partido / departamento, clasificadas en categorías.",
+  "num_resources": 2,
+  "num_tags": 9,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:07.834957",
+    "description": "",
+    "id": "b10c94e2-ade1-4a97-8c4c-b1ada7878d60",
+    "image_url": "",
+    "is_organization": true,
+    "name": "agroindustria",
+    "revision_id": "f7c3b6e9-d48f-4522-9f7a-388d805c8392",
+    "state": "active",
+    "title": "Ministerio de Agricultura, Ganadería y Pesca",
+    "type": "organization"
+  },
+  "owner_org": "b10c94e2-ade1-4a97-8c4c-b1ada7878d60",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "http://datos.agroindustria.gob.ar/dataset/c19a5875-fb39-48b6-b0b2-234382722afb/resource/1b920477-8112-4e12-bc2c-94b564f04183",
+      "attributesDescription": "[{\"type\": \"date\", \"description\": \"A\\u00f1o correspondiente al relevamiento.\", \"title\": \"anio\"}, {\"type\": \"string\", \"description\": \"Nombre de la provincia.\", \"title\": \"provincia\"}, {\"type\": \"string\", \"description\": \"C\\u00f3digo de la provincia.\", \"title\": \"provincia_id\"}, {\"type\": \"string\", \"description\": \"Nombre del partido / departamento.\", \"title\": \"departamento\"}, {\"type\": \"string\", \"description\": \"C\\u00f3digo del partido / departamento.\", \"title\": \"departamento_id\"}, {\"type\": \"integer\", \"description\": \"Cantidad de hembras que han tenido al menos una parici\\u00f3n.\", \"title\": \"vacas\"}, {\"type\": \"integer\", \"description\": \"Cantidad de hembras j\\u00f3venes que no han tenido parici\\u00f3n alguna.\", \"title\": \"vaquillonas\"}, {\"type\": \"integer\", \"description\": \"Cantidad de machos castrados.\", \"title\": \"novillos\"}, {\"type\": \"integer\", \"description\": \"Cantidad de machos castrados.\", \"title\": \"novillitos\"}, {\"type\": \"integer\", \"description\": \"Cantidad de machos menores de un a\\u00f1o.\", \"title\": \"terneros\"}, {\"type\": \"integer\", \"description\": \"Cantidad de hembras menores de un a\\u00f1o.\", \"title\": \"terneras\"}, {\"type\": \"integer\", \"description\": \"Cantidad de machos destinados a la reproducci\\u00f3n.\", \"title\": \"toros\"}, {\"type\": \"integer\", \"description\": \"Cantidad de machos j\\u00f3venes destinados a la reproducci\\u00f3n que a\\u00fan no han entrado en servicio.\", \"title\": \"toritos\"}, {\"type\": \"integer\", \"description\": \"Cantidad de machos adultos castrados para trabajo, o inf\\u00e9rtiles.\", \"title\": \"bueyes\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-09-11T17:01:43.198866",
+      "datastore_active": false,
+      "description": "Existencias bovinos por provincia y partido / departamento, clasificadas por categorías. Totales anuales desde Marzo 2008 a la última actualización.",
+      "fileName": "Existencias-bovinas-provincia-departamento-2008-2019.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "agroindustria_1b920477-8112-4e12-bc2c-94b564f04183",
+      "last_modified": "2019-11-27T13:27:04.991471",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Existencias bovinos",
+      "package_id": "agroindustria_c19a5875-fb39-48b6-b0b2-234382722afb",
+      "position": 0,
+      "resource_type": "file.upload",
+      "revision_id": "74241f27-8b14-4ab3-a540-78872fb1cf78",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.agroindustria.gob.ar/dataset/c19a5875-fb39-48b6-b0b2-234382722afb/resource/1b920477-8112-4e12-bc2c-94b564f04183/download/existencias-bovinas-provincia-departamento-2008-2019.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos.agroindustria.gob.ar/dataset/c19a5875-fb39-48b6-b0b2-234382722afb/resource/52e72aec-4ab6-4d60-8c95-47de21e46eec",
+      "attributesDescription": "[{\"specialType\": \"time_index\", \"specialTypeDetail\": \"R/P1Y\", \"type\": \"date\", \"title\": \"indice_tiempo\"}, {\"units\": \"Unidades\", \"id\": \"AGRO_0305\", \"type\": \"integer\", \"description\": \"Cantidad de hembras que han tenido al menos una parici\\u00f3n. \", \"title\": \"vacas\"}, {\"units\": \"Unidades\", \"id\": \"AGRO_0306\", \"type\": \"integer\", \"description\": \"Cantidad de hembras j\\u00f3venes que no han tenido parici\\u00f3n alguna. \", \"title\": \"vaquillonas\"}, {\"units\": \"Unidades\", \"id\": \"AGRO_0307\", \"type\": \"integer\", \"description\": \"Cantidad de machos castrados. \", \"title\": \"novillos\"}, {\"units\": \"Unidades\", \"id\": \"AGRO_0308\", \"type\": \"integer\", \"description\": \"Cantidad de machos castrados. \", \"title\": \"novillitos\"}, {\"units\": \"Unidades\", \"id\": \"AGRO_0309\", \"type\": \"integer\", \"description\": \"Cantidad de machos menores de un a\\u00f1o. \", \"title\": \"terneros\"}, {\"units\": \"Unidades\", \"id\": \"AGRO_0310\", \"type\": \"integer\", \"description\": \"Cantidad de hembras menores de un a\\u00f1o. \", \"title\": \"terneras\"}, {\"units\": \"Unidades\", \"id\": \"AGRO_0311\", \"type\": \"integer\", \"description\": \"Cantidad de machos destinados a la reproducci\\u00f3n.\", \"title\": \"toros\"}, {\"units\": \"Unidades\", \"id\": \"AGRO_0312\", \"type\": \"integer\", \"description\": \"Cantidad de machos j\\u00f3venes destinados a la reproducci\\u00f3n que a\\u00fan no han entrado en servicio.\", \"title\": \"toritos\"}, {\"units\": \"Unidades\", \"id\": \"AGRO_0313\", \"type\": \"integer\", \"description\": \"Cantidad de machos adultos castrados para trabajo, o inf\\u00e9rtiles.\", \"title\": \"bueyes\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-09-12T10:57:07.906923",
+      "datastore_active": false,
+      "description": "Existencias bovinas clasificadas por categorías. Totales anuales desde 2008 a la última actualización.",
+      "fileName": "Existencias-bovinas-2008-2019.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "agroindustria_52e72aec-4ab6-4d60-8c95-47de21e46eec",
+      "last_modified": "2019-11-27T13:35:54.726754",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Serie de tiempo",
+      "package_id": "agroindustria_c19a5875-fb39-48b6-b0b2-234382722afb",
+      "position": 1,
+      "resource_type": "file.upload",
+      "revision_id": "74241f27-8b14-4ab3-a540-78872fb1cf78",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.agroindustria.gob.ar/dataset/c19a5875-fb39-48b6-b0b2-234382722afb/resource/52e72aec-4ab6-4d60-8c95-47de21e46eec/download/existencias-bovinas-2008-2019.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "c34640fa-5ee7-40d8-abf4-f592e2b66e59",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "bovinos",
+      "id": "67950875-be60-4495-a907-63c1e6b2f47b",
+      "name": "bovinos",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "novillitos",
+      "id": "ce7cc56d-acbc-43d7-94ee-94231a10b45b",
+      "name": "novillitos",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "novillos",
+      "id": "080a770e-4b7b-4506-b388-b0a81e745fa1",
+      "name": "novillos",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "terneras",
+      "id": "f3133786-11d0-41a4-a65b-b0368f747e15",
+      "name": "terneras",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "terneros",
+      "id": "8e9ef48c-3f58-4c05-ab18-7e3ff590425f",
+      "name": "terneros",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "toritos",
+      "id": "0ee8cc29-3fd9-4d9b-a0ae-e99f3497f8d7",
+      "name": "toritos",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "toros",
+      "id": "139a97e0-00da-479d-b5cf-316ccd0c9f25",
+      "name": "toros",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "vacas",
+      "id": "07268a77-73bf-4ecb-b671-61e87e48b8d4",
+      "name": "vacas",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "vaquillonas",
+      "id": "c6a8dc60-8a70-46f5-908c-eef37fdd30e2",
+      "name": "vaquillonas",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "SENASA - Existencias de bovinos",
+  "type": "dataset",
+  "url": "https://datos.agroindustria.gob.ar/dataset/senasa-existencias-bovinas",
+  "version": null
+}

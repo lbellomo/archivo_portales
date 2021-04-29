@@ -1,0 +1,205 @@
+{
+  "author": "Ministerio de Producción. Secretaría de Transformación Productiva. Subsecretaría de Desarrollo y Planeamiento Productivo.",
+  "author_email": "datos@produccion.gob.ar",
+  "creator_user_id": "4720e75a-9e17-4dc3-879d-041917c7f9f9",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P1M"
+    },
+    {
+      "key": "issued",
+      "value": "2018-06-12"
+    },
+    {
+      "key": "language",
+      "value": "[\"SPA\"]"
+    },
+    {
+      "key": "source",
+      "value": "Ministerio de Producción. Secretaría de la Transformación Productiva. Subsecretaría de Desarrollo y Planeamiento Productivo."
+    },
+    {
+      "key": "spatial",
+      "value": "ARG"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"ECON\"]"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Economía y finanzas",
+      "display_name": "Economía y finanzas",
+      "id": "60b4b03e-10a1-4d67-b984-08008a249617",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225257.200233economia-finanzas.svg",
+      "name": "econ",
+      "title": "Economía y finanzas"
+    }
+  ],
+  "id": "siep_13",
+  "isopen": true,
+  "license_id": "CC-BY-4.0",
+  "license_title": "Creative Commons Attribution 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "maintainer": "Ministerio de Producción. Secretaría de la Transformación Productiva. Subsecretaría de Desarrollo y Planeamiento Productivo.",
+  "maintainer_email": "datos@produccion.gob.ar",
+  "metadata_created": "2019-11-26T15:02:30.825063",
+  "metadata_modified": "2021-04-29T17:05:06.560729",
+  "name": "siep-indicadores-sectoriales-transporte-logistica",
+  "notes": "Resumen de los principales indicadores del sector de Transporte y Logística, costos principales insumos de las operaciones logísticas.",
+  "num_resources": 3,
+  "num_tags": 7,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:10.618326",
+    "description": "",
+    "id": "83a04686-747a-4ba3-a0b1-2f05c3196bc4",
+    "image_url": "",
+    "is_organization": true,
+    "name": "siep",
+    "revision_id": "23a30f6e-13f4-45a1-8e98-d49541d6ce75",
+    "state": "active",
+    "title": "Secretaría de Transformación Productiva",
+    "type": "organization"
+  },
+  "owner_org": "83a04686-747a-4ba3-a0b1-2f05c3196bc4",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "http://estadisticas.produccion.gob.ar/",
+      "attributesDescription": "[{\"title\": \"indice_tiempo\", \"type\": \"date\", \"specialType\": \"time_index\", \"specialTypeDetail\": \"R/P1M\", \"description\": \"\\u00cdndice de tiempo de las series\", \"id\": \"Logistica_costo_fadeeac_iptkqN\"}, {\"title\": \"valor\", \"type\": \"number\", \"description\": \"Valor del \\u00cdndice de costos de transporte automotor de cargas de la FADEEAC\", \"id\": \"Logistica_costo_fadeeac_p3Y641\", \"units\": \"\\u00cdndice - Base Diciembre 2001 = 100\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2018-06-12T00:00:00",
+      "datastore_active": false,
+      "description": "Logística: Índice de costos de transporte automotor de cargas en formato de series",
+      "fileName": "log-costo-fadeeac-series.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "siep_13.1",
+      "last_modified": "2018-09-28T00:00:00",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Logística: Índice de costos de transporte automotor de cargas (series)",
+      "package_id": "siep_13",
+      "position": 0,
+      "resource_type": "file",
+      "revision_id": "07fe9ff1-fd2a-4b89-a714-85ff0fa3d251",
+      "size": null,
+      "state": "active",
+      "url": "http://estadisticas.produccion.gob.ar/app/dataset/13/distribution/13.1/log-costo-fadeeac-series.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://estadisticas.produccion.gob.ar/",
+      "attributesDescription": "[{\"title\": \"indice_tiempo\", \"type\": \"date\", \"specialType\": \"time_index\", \"specialTypeDetail\": \"R/P1M\", \"description\": \"\\u00cdndice de tiempo de las series\", \"id\": \"Logistica_costo_cedol_v720ZF\"}, {\"title\": \"con_transporte\", \"type\": \"number\", \"description\": \"Log\\u00edstica: \\u00cdndice de costos log\\u00edsticos con transporte de la CEDOL\", \"id\": \"Logistica_costo_cedol_7Eag7r\", \"units\": \"\\u00cdndice - Base Diciembre 2001 = 100\"}, {\"title\": \"sin_transporte\", \"type\": \"number\", \"description\": \"Log\\u00edstica: \\u00cdndice de costos log\\u00edsticos sin transporte de la CEDOL\", \"id\": \"Logistica_costo_cedol_EonW0W\", \"units\": \"\\u00cdndice - Base Diciembre 2001 = 100\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2018-06-12T00:00:00",
+      "datastore_active": false,
+      "description": "Logística: Índice de costos logísticos en formato de series",
+      "fileName": "log-costo-cedol-series.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "siep_13.2",
+      "last_modified": "2018-09-28T00:00:00",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Logística: Índice de costos logísticos (series)",
+      "package_id": "siep_13",
+      "position": 1,
+      "resource_type": "file",
+      "revision_id": "07fe9ff1-fd2a-4b89-a714-85ff0fa3d251",
+      "size": null,
+      "state": "active",
+      "url": "http://estadisticas.produccion.gob.ar/app/dataset/13/distribution/13.2/log-costo-cedol-series.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://estadisticas.produccion.gob.ar/",
+      "attributesDescription": "[{\"title\": \"indice_tiempo\", \"type\": \"date\", \"description\": \"\\u00cdndice de tiempo de los datos de panel\", \"id\": \"Logistica_costo_cedol_2jCZiU\"}, {\"title\": \"con_o_sin_transporte\", \"type\": \"string\", \"description\": \"Con o sin transporte\", \"id\": \"Logistica_costo_cedol_psovRZ\"}, {\"title\": \"valor\", \"type\": \"number\", \"description\": \"Valor del \\u00cdndice de costos log\\u00edsticos\", \"id\": \"Logistica_costo_cedol_8gDco4\", \"units\": \"\\u00cdndice - Base Diciembre 2001 = 100\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2018-06-12T00:00:00",
+      "datastore_active": false,
+      "description": "Logística: Índice de costos logísticos en formato de datos de panel",
+      "fileName": "log-costo-cedol-panel.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "siep_13.3",
+      "last_modified": "2018-09-28T00:00:00",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Logística: Índice de costos logísticos (panel)",
+      "package_id": "siep_13",
+      "position": 2,
+      "resource_type": "file",
+      "revision_id": "07fe9ff1-fd2a-4b89-a714-85ff0fa3d251",
+      "size": null,
+      "state": "active",
+      "url": "http://estadisticas.produccion.gob.ar/app/dataset/13/distribution/13.3/log-costo-cedol-panel.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "07fe9ff1-fd2a-4b89-a714-85ff0fa3d251",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "Precios",
+      "id": "308c2aaf-f177-4728-bda5-fd41662741a2",
+      "name": "Precios",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Transporte",
+      "id": "e17f5f3a-09d8-4b8e-85c3-ebdd333da334",
+      "name": "Transporte",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "cargas",
+      "id": "77595847-fe8b-4300-aa92-4c8374f61c36",
+      "name": "cargas",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "costo",
+      "id": "d4521155-8bfb-4c73-af0f-d35c867b41c5",
+      "name": "costo",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "indicador",
+      "id": "9a05b182-e758-4dcc-af49-080e396255ce",
+      "name": "indicador",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "logística",
+      "id": "6014d011-f6ac-4995-baf0-e42e36c963b2",
+      "name": "logística",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "sector",
+      "id": "86e5b9d4-8b55-4472-89be-ca0d197f9fcc",
+      "name": "sector",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Indicadores Sectoriales de Transporte y Logística",
+  "type": "dataset",
+  "url": "http://estadisticas.produccion.gob.ar/",
+  "version": null
+}

@@ -1,0 +1,152 @@
+{
+  "author": "Ministerio de Energía y Minería.Secretaría de Coordinación de Planeamiento Energético.Dirección Nacional de Información Energética.Tecnología de la Información.",
+  "author_email": "tienerg@energia.gob.ar",
+  "creator_user_id": "4720e75a-9e17-4dc3-879d-041917c7f9f9",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "eventual"
+    },
+    {
+      "key": "issued",
+      "value": "2016-11-07T13:33:34.985951"
+    },
+    {
+      "key": "modified",
+      "value": "2020-04-24T11:27:58.892169"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"ENER\"]"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Energía",
+      "display_name": "Energía",
+      "id": "a4d3f632-eb48-4163-9791-165989c16035",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225337.421630energia.svg",
+      "name": "ener",
+      "title": "Energía"
+    }
+  ],
+  "id": "energia_84bf14b4-47bf-4efb-ad7c-0d70684a50d3",
+  "isopen": false,
+  "license_id": "notspecified",
+  "license_title": "No se especificó la licencia",
+  "maintainer": "Ministerio de Energía y Minería.Secretaría de Planeamiento Energético Estratégico.Subsecretaría de Infraestructura Energética.",
+  "maintainer_email": null,
+  "metadata_created": "2019-11-26T15:00:19.724132",
+  "metadata_modified": "2021-04-29T17:17:50.679001",
+  "name": "energia-obras-generacion-electricidad",
+  "notes": "Listado de obras vigentes que se desarrollan con aporte de fondos del Estado Nacional. Incluye obras de centrales térmicas, nucleares, hidroeléctricas y de energías renovables, si las hubiere. Este listado fue confeccionado por la Subsecretaría de Infraestructura Energética del Ministerio de Energía y Minería de la Nación y surge del seguimiento que la Coordinación de Proyectos de Generación de Electricidad realiza del desarrollo de las obras.",
+  "num_resources": 1,
+  "num_tags": 8,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:09.221510",
+    "description": "",
+    "id": "cd1b32a2-2d3a-44ac-8c98-a425a7b62d42",
+    "image_url": "",
+    "is_organization": true,
+    "name": "energia",
+    "revision_id": "a184cf69-99ad-4f84-a254-020031d7fe63",
+    "state": "active",
+    "title": "Secretaría de Energía",
+    "type": "organization"
+  },
+  "owner_org": "cd1b32a2-2d3a-44ac-8c98-a425a7b62d42",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "http://datos.minem.gob.ar/dataset/84bf14b4-47bf-4efb-ad7c-0d70684a50d3/resource/535ed5fc-ca6d-463e-9f88-2fe33b7b3790",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-05-04T21:48:31.388662",
+      "datastore_active": false,
+      "description": "",
+      "fileName": "obras-generacion.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "energia_535ed5fc-ca6d-463e-9f88-2fe33b7b3790",
+      "last_modified": "2017-08-09T15:04:25.733200",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Obras de generación de electricidad",
+      "package_id": "energia_84bf14b4-47bf-4efb-ad7c-0d70684a50d3",
+      "position": 0,
+      "resource_type": null,
+      "revision_id": "3481ad19-948d-45d0-8bc0-e11be49bd832",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.minem.gob.ar/dataset/84bf14b4-47bf-4efb-ad7c-0d70684a50d3/resource/535ed5fc-ca6d-463e-9f88-2fe33b7b3790/download/obras-generacion.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "24c284d9-6b1a-4d3b-ab8c-04d3e427f3f0",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "Centrales",
+      "id": "f73c3c40-6751-49b5-a832-3cff0266101f",
+      "name": "Centrales",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Energías renovables",
+      "id": "539396f8-99e0-457d-ad66-402c2f1164bc",
+      "name": "Energías renovables",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Generación de Energía Eléctrica",
+      "id": "bdfac485-4a3e-47e3-8ee0-60850e834019",
+      "name": "Generación de Energía Eléctrica",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Hidroeléctrica",
+      "id": "12851663-754f-414a-a239-885fd3810875",
+      "name": "Hidroeléctrica",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Nuclear",
+      "id": "d1fa78b1-4f19-41d4-a58a-0bd7d794ef13",
+      "name": "Nuclear",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Obras",
+      "id": "c4f93fc7-2266-449a-8cf6-d24e119de697",
+      "name": "Obras",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Termoeléctrica",
+      "id": "5fa6a866-c070-4fc1-8ec5-1d1b380661ba",
+      "name": "Termoeléctrica",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Térmica",
+      "id": "4b4bdb2b-043e-4848-bcdc-465d67158914",
+      "name": "Térmica",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Obras de generación de electricidad",
+  "type": "dataset",
+  "url": "http://datos.minem.gob.ar/dataset/",
+  "version": null
+}

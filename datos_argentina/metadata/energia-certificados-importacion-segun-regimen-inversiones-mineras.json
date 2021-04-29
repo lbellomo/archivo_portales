@@ -1,0 +1,103 @@
+{
+  "author": "Ministerio de Energía y Minería.Secretaría de Coordinación de Planeamiento Energético.Dirección Nacional de Información Energética.Tecnología de la Información.",
+  "author_email": "tienerg@energia.gob.ar",
+  "creator_user_id": "4720e75a-9e17-4dc3-879d-041917c7f9f9",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "eventual"
+    },
+    {
+      "key": "issued",
+      "value": "2016-11-07T13:33:34.985951"
+    },
+    {
+      "key": "modified",
+      "value": "2017-08-10T15:12:05.759710"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"ENER\"]"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Energía",
+      "display_name": "Energía",
+      "id": "a4d3f632-eb48-4163-9791-165989c16035",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225337.421630energia.svg",
+      "name": "ener",
+      "title": "Energía"
+    }
+  ],
+  "id": "energia_022eb3e3-e2ff-47e9-a770-7d54f6bcbefa",
+  "isopen": false,
+  "license_id": "notspecified",
+  "license_title": "No se especificó la licencia",
+  "maintainer": "Ministerio de Energía y Minería.Secretaría de Minería.",
+  "maintainer_email": null,
+  "metadata_created": "2019-11-26T15:00:48.841490",
+  "metadata_modified": "2021-04-29T17:17:26.085011",
+  "name": "energia-certificados-importacion-segun-regimen-inversiones-mineras",
+  "notes": "Evolución de cantidad de certificados de importación según régimen de inversiones mineras (Ley 24.196). Años 1993-2015. Equipos corresponde a bienes de capital, partes y accesorios. Insumos son aquellos productos que se agotan en el proceso de producción.",
+  "num_resources": 1,
+  "num_tags": 1,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:09.221510",
+    "description": "",
+    "id": "cd1b32a2-2d3a-44ac-8c98-a425a7b62d42",
+    "image_url": "",
+    "is_organization": true,
+    "name": "energia",
+    "revision_id": "a184cf69-99ad-4f84-a254-020031d7fe63",
+    "state": "active",
+    "title": "Secretaría de Energía",
+    "type": "organization"
+  },
+  "owner_org": "cd1b32a2-2d3a-44ac-8c98-a425a7b62d42",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "http://datos.minem.gob.ar/dataset/022eb3e3-e2ff-47e9-a770-7d54f6bcbefa/resource/50a81ccc-62c6-45cc-941f-297c1cad25fe",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-05-04T22:05:11.697369",
+      "datastore_active": false,
+      "description": "",
+      "fileName": "certificados-impo-mineria.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "energia_50a81ccc-62c6-45cc-941f-297c1cad25fe",
+      "last_modified": "2017-08-10T12:11:54.606465",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Certificados de importación según régimen de inversiones mineras",
+      "package_id": "energia_022eb3e3-e2ff-47e9-a770-7d54f6bcbefa",
+      "position": 0,
+      "resource_type": null,
+      "revision_id": "42f2469c-47af-4fab-a416-007e05ecbf86",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.minem.gob.ar/dataset/022eb3e3-e2ff-47e9-a770-7d54f6bcbefa/resource/50a81ccc-62c6-45cc-941f-297c1cad25fe/download/certificados-impo-mineria.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "b06e7545-e76b-4744-9b64-583c7c211b9a",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "Minería",
+      "id": "4688f00a-f28f-45cd-96bb-8c9b5ba316be",
+      "name": "Minería",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Certificados de importación según régimen de inversiones mineras",
+  "type": "dataset",
+  "url": "http://datos.minem.gob.ar/dataset/certificados-de-importacion-segun-regimen-de-inversiones-mineras",
+  "version": null
+}

@@ -1,0 +1,180 @@
+{
+  "author": "Servicio Nacional de Sanidad y Calidad Agroalimentaria",
+  "author_email": "desycg@senasa.gob.ar",
+  "creator_user_id": "dc157489-51c6-44ce-bd63-3bd983d60778",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P1M"
+    },
+    {
+      "key": "issued",
+      "value": "2019-09-23T15:40:35.760401"
+    },
+    {
+      "key": "language",
+      "value": "[\"spa\"]"
+    },
+    {
+      "key": "modified",
+      "value": "2019-12-04T16:01:22.693677"
+    },
+    {
+      "key": "source",
+      "value": "Servicio Nacional de Sanidad y Calidad Agroalimentaria - SENASA"
+    },
+    {
+      "key": "spatial",
+      "value": "[\"ARG\"]"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"AGRI\"]"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Agroganadería, pesca y forestación",
+      "display_name": "Agroganadería, pesca y forestación",
+      "id": "0c35ea38-7059-41d2-9827-5587769d0dc6",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225145.990789agroganaderia-pesca-forestacion.svg",
+      "name": "agri",
+      "title": "Agroganadería, pesca y forestación"
+    }
+  ],
+  "id": "agroindustria_30f82913-9335-4dca-b8aa-1f3b5c183e8d",
+  "isopen": true,
+  "license_id": "CC-BY-4.0",
+  "license_title": "Creative Commons Attribution 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "maintainer": "Dirección Nacional de Sanidad Animal",
+  "maintainer_email": "desycg@senasa.gob.ar",
+  "metadata_created": "2019-12-12T19:42:53.433209",
+  "metadata_modified": "2021-04-29T17:06:21.371303",
+  "name": "agroindustria-senasa---movimientos-equinos",
+  "notes": "Datos mensuales de los movimientos de la especie equina detallando provincia y departamento de origen y destino.",
+  "num_resources": 1,
+  "num_tags": 10,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:07.834957",
+    "description": "",
+    "id": "b10c94e2-ade1-4a97-8c4c-b1ada7878d60",
+    "image_url": "",
+    "is_organization": true,
+    "name": "agroindustria",
+    "revision_id": "f7c3b6e9-d48f-4522-9f7a-388d805c8392",
+    "state": "active",
+    "title": "Ministerio de Agricultura, Ganadería y Pesca",
+    "type": "organization"
+  },
+  "owner_org": "b10c94e2-ade1-4a97-8c4c-b1ada7878d60",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "http://datos.agroindustria.gob.ar/dataset/30f82913-9335-4dca-b8aa-1f3b5c183e8d/resource/6e828b1b-de05-4c34-8c08-acd550291167",
+      "attributesDescription": "[{\"type\": \"date\", \"title\": \"fecha\"}, {\"type\": \"string\", \"description\": \"Lugar del que sale.\", \"title\": \"salido_de\"}, {\"type\": \"string\", \"description\": \"Lugar al que ingresa.\", \"title\": \"ingresado_a\"}, {\"type\": \"string\", \"description\": \"Nombre de la provincia de origen.\", \"title\": \"provincia_origen\"}, {\"type\": \"integer\", \"description\": \"C\\u00f3digo de la provincia de origen.\", \"title\": \"provincia_origen_id\"}, {\"type\": \"string\", \"description\": \"Nombre del departamento de origen.\", \"title\": \"departamento_origen\"}, {\"type\": \"integer\", \"description\": \"C\\u00f3digo del departamento de origen.\", \"title\": \"departamento_origen_id\"}, {\"type\": \"string\", \"description\": \"Nombre de la provincia de destino.\", \"title\": \"provincia_destino\"}, {\"type\": \"integer\", \"description\": \"C\\u00f3digo de la provincia de destino.\", \"title\": \"provincia_destino_id\"}, {\"type\": \"string\", \"description\": \"Nombre del departamento de destino.\", \"title\": \"departamento_destino\"}, {\"type\": \"integer\", \"description\": \"C\\u00f3digo del departamento de destino.\", \"title\": \"departamento_destino_id\"}, {\"type\": \"integer\", \"description\": \"Cantidad de machos enteros adultos para reproducci\\u00f3n.\", \"title\": \"padrillo_equino\"}, {\"type\": \"integer\", \"description\": \"Cantidad de machos adultos castrados para trabajo.\", \"title\": \"caballo\"}, {\"type\": \"integer\", \"description\": \"Cantidad de hembras adultas para reproducci\\u00f3n.\", \"title\": \"yegua\"}, {\"type\": \"integer\", \"description\": \"Cantidad de cr\\u00edas machos y hembras.\", \"title\": \"potrillo_potrilla\"}, {\"type\": \"integer\", \"description\": \"Cantidad de cruza de asno con yegua.\", \"title\": \"mula\"}, {\"type\": \"integer\", \"description\": \"Cantidad de burros.\", \"title\": \"burro\"}, {\"type\": \"integer\", \"description\": \"Cantidad de asnos.\", \"title\": \"asno\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-09-27T16:02:31.155495",
+      "datastore_active": false,
+      "description": "Datos de los movimientos equinos por categoría y mes para el período 2013 a 2018.",
+      "fileName": "movimiento-equinos-2013-2018.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "agroindustria_6e828b1b-de05-4c34-8c08-acd550291167",
+      "last_modified": "2019-11-19T15:17:43.648607",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Movimientos equinos 2013 a 2018",
+      "package_id": "agroindustria_30f82913-9335-4dca-b8aa-1f3b5c183e8d",
+      "position": 0,
+      "resource_type": "file.upload",
+      "revision_id": "a6e9ac7c-5cf1-4ed1-a122-e9f75bda50ff",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.agroindustria.gob.ar/dataset/30f82913-9335-4dca-b8aa-1f3b5c183e8d/resource/6e828b1b-de05-4c34-8c08-acd550291167/download/movimiento-equinos-2013-2018.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "2dc752fe-cfbc-42bd-be79-3bf306136699",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "asno",
+      "id": "a6f9b158-d3f3-4a52-ada0-6f42b2438548",
+      "name": "asno",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "burro",
+      "id": "a7dde1cd-277e-4bd2-b1e7-b7966401acec",
+      "name": "burro",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "caballo",
+      "id": "820d511f-575c-486e-8d0d-fff6ca553881",
+      "name": "caballo",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "equino",
+      "id": "f58f8a86-1f9c-41c3-806e-cb17d8926843",
+      "name": "equino",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "movimiento ganadero",
+      "id": "5d3fb22d-977e-4fc3-ac41-277f36a967a1",
+      "name": "movimiento ganadero",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "mula",
+      "id": "86f37f21-03c1-4f0c-b996-09a49ec29121",
+      "name": "mula",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "padrillo",
+      "id": "aa84fe6f-ecc6-48f3-a159-8672c5c27857",
+      "name": "padrillo",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "potrilla",
+      "id": "d376eff2-823e-4993-89ad-80b6b5b621e9",
+      "name": "potrilla",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "potrillo",
+      "id": "0a1031ed-56d6-4d8b-a31e-b98f417adf4d",
+      "name": "potrillo",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "yegua",
+      "id": "a440f1e8-af58-4cd3-8a7b-2a24b76ad3a0",
+      "name": "yegua",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "SENASA - Movimientos equinos",
+  "type": "dataset",
+  "url": "https://datos.agroindustria.gob.ar/dataset/senasa-movimientos-equinos",
+  "version": null
+}

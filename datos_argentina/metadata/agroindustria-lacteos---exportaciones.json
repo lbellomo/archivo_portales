@@ -1,0 +1,169 @@
+{
+  "author": "Ministerio de Agricultura, Ganadería y Pesca",
+  "author_email": "estadisticaslecheria@magyp.gob.ar",
+  "creator_user_id": "dc157489-51c6-44ce-bd63-3bd983d60778",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P3M"
+    },
+    {
+      "key": "issued",
+      "value": "2019-12-26T17:01:37.492544"
+    },
+    {
+      "key": "language",
+      "value": "[\"spa\"]"
+    },
+    {
+      "key": "modified",
+      "value": "2019-12-26T15:07:02.159414"
+    },
+    {
+      "key": "spatial",
+      "value": "[\"ARG\"]"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"AGRI\"]"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Agroganadería, pesca y forestación",
+      "display_name": "Agroganadería, pesca y forestación",
+      "id": "0c35ea38-7059-41d2-9827-5587769d0dc6",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225145.990789agroganaderia-pesca-forestacion.svg",
+      "name": "agri",
+      "title": "Agroganadería, pesca y forestación"
+    }
+  ],
+  "id": "agroindustria_1e46b460-afdb-4ceb-8ced-75e668d0ffdf",
+  "isopen": true,
+  "license_id": "CC-BY-4.0",
+  "license_title": "Creative Commons Attribution 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "maintainer": "Dirección Nacional Láctea",
+  "maintainer_email": "estadisticaslecheria@magyp.gob.ar",
+  "metadata_created": "2020-01-13T14:41:06.721843",
+  "metadata_modified": "2021-04-29T17:06:53.502877",
+  "name": "agroindustria-lacteos---exportaciones",
+  "notes": "Datos de exportaciones de productos lácteos.",
+  "num_resources": 1,
+  "num_tags": 9,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:07.834957",
+    "description": "",
+    "id": "b10c94e2-ade1-4a97-8c4c-b1ada7878d60",
+    "image_url": "",
+    "is_organization": true,
+    "name": "agroindustria",
+    "revision_id": "f7c3b6e9-d48f-4522-9f7a-388d805c8392",
+    "state": "active",
+    "title": "Ministerio de Agricultura, Ganadería y Pesca",
+    "type": "organization"
+  },
+  "owner_org": "b10c94e2-ade1-4a97-8c4c-b1ada7878d60",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "http://datos.agroindustria.gob.ar/dataset/1e46b460-afdb-4ceb-8ced-75e668d0ffdf/resource/162d4ac7-f0ae-4817-988a-c540e1c586e0",
+      "attributesDescription": "[{\"specialType\": \"time_index\", \"specialTypeDetail\": \"R/P1Y\", \"type\": \"date\", \"title\": \"fecha\"}, {\"units\": \"Dolares\", \"id\": \"AGRO_0353\", \"type\": \"integer\", \"description\": \"Cantidad de d\\u00f3lares exportados de leche fluida.\", \"title\": \"leche_fluida\"}, {\"units\": \"Dolares\", \"id\": \"AGRO_0354\", \"type\": \"number\", \"description\": \"Cantidad de d\\u00f3lares exportados de leche en polvo entera.\", \"title\": \"leche_polvo_entera\"}, {\"units\": \"Dolares\", \"id\": \"AGRO_0355\", \"type\": \"integer\", \"description\": \"Cantidad de d\\u00f3lares exportados de leche en polvo descremada.\", \"title\": \"leche_polvo_descremada\"}, {\"units\": \"Dolares\", \"id\": \"AGRO_0356\", \"type\": \"number\", \"description\": \"Cantidad de d\\u00f3lares exportados de leche maternizada. (Incluye leche en polvo modificada.)\", \"title\": \"leche_maternizada\"}, {\"units\": \"Dolares\", \"id\": \"AGRO_0357\", \"type\": \"number\", \"description\": \"Cantidad de d\\u00f3lares exportados de leche condensada.\", \"title\": \"leche_condensada\"}, {\"units\": \"Dolares\", \"id\": \"AGRO_0358\", \"type\": \"number\", \"description\": \"Cantidad de d\\u00f3lares exportados de dulce de leche.\", \"title\": \"dulce_de_leche\"}, {\"units\": \"Dolares\", \"id\": \"AGRO_0359\", \"type\": \"number\", \"description\": \"Cantidad de d\\u00f3lares exportados de queso de pasta blanda.\", \"title\": \"queso_pasta_blanda\"}, {\"units\": \"Dolares\", \"id\": \"AGRO_0360\", \"type\": \"number\", \"description\": \"Cantidad de d\\u00f3lares exportados de queso de pasta semidura.\", \"title\": \"queso_pasta_semidura\"}, {\"units\": \"Dolares\", \"id\": \"AGRO_0361\", \"type\": \"number\", \"description\": \"Cantidad de d\\u00f3lares exportados de queso de pasta dura.\", \"title\": \"queso_pasta_dura\"}, {\"units\": \"Dolares\", \"id\": \"AGRO_0362\", \"type\": \"number\", \"description\": \"Cantidad de d\\u00f3lares exportados de queso rallado.\", \"title\": \"queso_rallado\"}, {\"units\": \"Dolares\", \"id\": \"AGRO_0363\", \"type\": \"number\", \"description\": \"Cantidad de d\\u00f3lares exportados de queso fundido.\", \"title\": \"queso_fundido\"}, {\"units\": \"Dolares\", \"id\": \"AGRO_0364\", \"type\": \"number\", \"description\": \"Cantidad de d\\u00f3lares exportados de otros quesos.\", \"title\": \"otros_quesos\"}, {\"units\": \"Dolares\", \"id\": \"AGRO_0365\", \"type\": \"number\", \"description\": \"Cantidad de d\\u00f3lares exportados de manteca.\", \"title\": \"manteca\"}, {\"units\": \"Dolares\", \"id\": \"AGRO_0366\", \"type\": \"number\", \"description\": \"Cantidad de d\\u00f3lares exportados de aceite but\\u00edrico.\", \"title\": \"aceite_butirico\"}, {\"units\": \"Dolares\", \"id\": \"AGRO_0367\", \"type\": \"number\", \"description\": \"Cantidad de d\\u00f3lares exportados de crema.\", \"title\": \"crema\"}, {\"units\": \"Dolares\", \"id\": \"AGRO_0368\", \"type\": \"number\", \"description\": \"Cantidad de d\\u00f3lares exportados de yogur.\", \"title\": \"yogur\"}, {\"units\": \"Dolares\", \"id\": \"AGRO_0369\", \"type\": \"number\", \"description\": \"Cantidad de d\\u00f3lares exportados de otros fermentados. (Incluye a productos fermentados que no son yogur.)\", \"title\": \"otros_fermentados\"}, {\"units\": \"Dolares\", \"id\": \"AGRO_0370\", \"type\": \"number\", \"description\": \"Cantidad de d\\u00f3lares exportados de caseina.\", \"title\": \"caseina\"}, {\"units\": \"Dolares\", \"id\": \"AGRO_0371\", \"type\": \"number\", \"description\": \"Cantidad de d\\u00f3lares exportados de caseinatos.\", \"title\": \"caseinatos\"}, {\"units\": \"Dolares\", \"id\": \"AGRO_0372\", \"type\": \"number\", \"description\": \"Cantidad de d\\u00f3lares exportados de suero.\", \"title\": \"suero\"}, {\"units\": \"Dolares\", \"id\": \"AGRO_0373\", \"type\": \"number\", \"description\": \"Cantidad de d\\u00f3lares exportados de derivados de suero.\", \"title\": \"derivados_suero\"}, {\"units\": \"Dolares\", \"id\": \"AGRO_0374\", \"type\": \"number\", \"description\": \"Cantidad de d\\u00f3lares exportados de lactosa.\", \"title\": \"lactosa\"}, {\"units\": \"Dolares\", \"id\": \"AGRO_0375\", \"type\": \"number\", \"description\": \"Cantidad de d\\u00f3lares exportados de helados.\", \"title\": \"helados\"}, {\"units\": \"Dolares\", \"id\": \"AGRO_0376\", \"type\": \"number\", \"description\": \"Cantidad de d\\u00f3lares exportados de otros productos l\\u00e1cteos.\", \"title\": \"otros_lacteos\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-12-26T14:06:30.881121",
+      "datastore_active": false,
+      "description": "Exportación anual de productos lácteos en dólares.",
+      "fileName": "lacteos-exportaciones-anual-dolares-1989-2009.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "agroindustria_162d4ac7-f0ae-4817-988a-c540e1c586e0",
+      "last_modified": "2020-01-02T12:18:57.574289",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Exportación anual de productos lácteos",
+      "package_id": "agroindustria_1e46b460-afdb-4ceb-8ced-75e668d0ffdf",
+      "position": 0,
+      "resource_type": "file.upload",
+      "revision_id": "c1b2883d-0b0d-491a-a411-c64fe361f9ec",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.agroindustria.gob.ar/dataset/1e46b460-afdb-4ceb-8ced-75e668d0ffdf/resource/162d4ac7-f0ae-4817-988a-c540e1c586e0/download/lacteos-exportaciones-anual-dolares-1989-2009.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "bd71af00-8de1-4e5e-a1fc-0f0323dfa344",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "caseina",
+      "id": "8004f494-2a54-4af3-b532-54bf685c1cb3",
+      "name": "caseina",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "caseinatos",
+      "id": "312277fa-f679-4acf-af20-c639b32946f3",
+      "name": "caseinatos",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "exportaciones",
+      "id": "b031f9a3-080d-41b1-ada8-7c7d000f35d1",
+      "name": "exportaciones",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "lacteos",
+      "id": "9e6b26d8-1663-4102-b84b-8d3d36505c78",
+      "name": "lacteos",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "leche en polvo",
+      "id": "5e130014-d6db-46ea-a8f9-fd79b8663b31",
+      "name": "leche en polvo",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "leche maternizada",
+      "id": "fc9f910c-2345-487d-87c0-1763a815a98f",
+      "name": "leche maternizada",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "manteca",
+      "id": "926ca4b2-ae59-4c6b-b4eb-0ff6376e0678",
+      "name": "manteca",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "queso",
+      "id": "e73c5190-7977-4682-a005-1ff89d34f1d9",
+      "name": "queso",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "yogur",
+      "id": "2fab1903-353f-4844-b324-aebbb168ffc7",
+      "name": "yogur",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Lácteos - Exportaciones",
+  "type": "dataset",
+  "url": "https://datos.agroindustria.gob.ar/dataset/lacteos-exportaciones",
+  "version": null
+}

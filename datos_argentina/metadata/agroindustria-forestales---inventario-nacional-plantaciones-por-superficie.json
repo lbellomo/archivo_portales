@@ -1,0 +1,141 @@
+{
+  "author": "Dirección Nacional de Desarrollo Foresto Industrial",
+  "author_email": "ssdfi@magyp.gob.ar",
+  "creator_user_id": "dc157489-51c6-44ce-bd63-3bd983d60778",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P3M"
+    },
+    {
+      "key": "issued",
+      "value": "2018-12-07T21:24:39.777311"
+    },
+    {
+      "key": "language",
+      "value": "[\"spa\"]"
+    },
+    {
+      "key": "modified",
+      "value": "2019-10-24T11:26:57.818599"
+    },
+    {
+      "key": "spatial",
+      "value": "[\"ARG\"]"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"AGRI\"]"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Agroganadería, pesca y forestación",
+      "display_name": "Agroganadería, pesca y forestación",
+      "id": "0c35ea38-7059-41d2-9827-5587769d0dc6",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225145.990789agroganaderia-pesca-forestacion.svg",
+      "name": "agri",
+      "title": "Agroganadería, pesca y forestación"
+    }
+  ],
+  "id": "agroindustria_72ca69b6-32a8-4210-9b48-4a77852d2995",
+  "isopen": true,
+  "license_id": "CC-BY-4.0",
+  "license_title": "Creative Commons Attribution 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "maintainer": "Dirección Nacional de Desarrollo Foresto Industrial",
+  "maintainer_email": "ssdfi@magyp.gob.ar",
+  "metadata_created": "2019-12-04T21:13:00.131491",
+  "metadata_modified": "2021-04-29T17:06:48.736316",
+  "name": "agroindustria-forestales---inventario-nacional-plantaciones-por-superficie",
+  "notes": "Inventario nacional de plantaciones forestales por superficie, correspondiente a Bosques Cultivados en la República Argentina de acuerdo a los grupos forestales.",
+  "num_resources": 1,
+  "num_tags": 5,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:07.834957",
+    "description": "",
+    "id": "b10c94e2-ade1-4a97-8c4c-b1ada7878d60",
+    "image_url": "",
+    "is_organization": true,
+    "name": "agroindustria",
+    "revision_id": "f7c3b6e9-d48f-4522-9f7a-388d805c8392",
+    "state": "active",
+    "title": "Ministerio de Agricultura, Ganadería y Pesca",
+    "type": "organization"
+  },
+  "owner_org": "b10c94e2-ade1-4a97-8c4c-b1ada7878d60",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "http://datos.agroindustria.gob.ar/dataset/72ca69b6-32a8-4210-9b48-4a77852d2995/resource/147acbc6-2048-4d2b-9cd7-df13efe328fa",
+      "attributesDescription": "[{\"type\": \"integer\", \"description\": \"pais_id\", \"title\": \"pais_id\"}, {\"type\": \"string\", \"description\": \"pais\", \"title\": \"pais\"}, {\"type\": \"integer\", \"description\": \"provincia_id\", \"title\": \"provincia_id\"}, {\"type\": \"string\", \"description\": \"provincia\", \"title\": \"provincia\"}, {\"type\": \"string\", \"description\": \"tipo_plantacion\", \"title\": \"tipo_plantacion\"}, {\"type\": \"string\", \"description\": \"uni_med_id\", \"title\": \"uni_med_id\"}, {\"type\": \"integer\", \"description\": \"Con\\u00edferas\", \"title\": \"Con\\u00edferas\"}, {\"type\": \"integer\", \"description\": \"Eucaliptos\", \"title\": \"Eucaliptos\"}, {\"type\": \"integer\", \"description\": \"Salic\\u00e1ceas\", \"title\": \"Salic\\u00e1ceas\"}, {\"type\": \"integer\", \"description\": \"Otras\", \"title\": \"Otras\"}, {\"type\": \"integer\", \"description\": \"Total\", \"title\": \"Total\"}, {\"type\": \"string\", \"description\": \"FUENTE\", \"title\": \"FUENTE\"}, {\"type\": \"integer\", \"description\": \"inicio_vigencia\", \"title\": \"inicio_vigencia\"}, {\"type\": \"integer\", \"description\": \"fin_vigencia\", \"title\": \"fin_vigencia\"}, {\"type\": \"string\", \"description\": \"Observaciones\", \"title\": \"Observaciones\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-08-24T19:22:38.945690",
+      "datastore_active": false,
+      "description": "Buenos Aires contempla la superficie implantada en la Región Delta y Sudeste. Se deben considerar las existencias de 3.643 km de cortinas forestales en Mendoza y 1.034 km en San Juan.",
+      "fileName": "inventario-nacional-de-plantaciones-forestales-superficie-20180725.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "agroindustria_147acbc6-2048-4d2b-9cd7-df13efe328fa",
+      "last_modified": "2019-02-04T14:31:47.691681",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Inventario nacional de plantaciones forestales por superficie",
+      "package_id": "agroindustria_72ca69b6-32a8-4210-9b48-4a77852d2995",
+      "position": 0,
+      "resource_type": "file.upload",
+      "revision_id": "35b0573c-a6f8-4372-b3bf-a294b7c89aec",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.agroindustria.gob.ar/dataset/72ca69b6-32a8-4210-9b48-4a77852d2995/resource/147acbc6-2048-4d2b-9cd7-df13efe328fa/download/inventario-nacional-de-plantaciones-forestales-superficie-20180725.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "32603680-69b3-4746-a4de-e3fde77e7995",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "bosque cultivado",
+      "id": "5b67c231-8553-401e-b24b-ae6ea96d1ceb",
+      "name": "bosque cultivado",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "bosques",
+      "id": "4443410b-8701-4097-bc3d-991a6f1c2d3f",
+      "name": "bosques",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "forestada",
+      "id": "c7c06cdf-2810-4b3b-b8c0-07e30030dfc0",
+      "name": "forestada",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "forestal",
+      "id": "b28a94d6-df19-4c7d-908a-16e17698a9b9",
+      "name": "forestal",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "grupo forestal",
+      "id": "9a0f0269-3862-4e1e-b6eb-bb26abdabc91",
+      "name": "grupo forestal",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Forestales - Inventario nacional de plantaciones por superficie",
+  "type": "dataset",
+  "url": "https://datos.agroindustria.gob.ar/dataset/inventario-nacional-plantaciones-forestales-por-superficie",
+  "version": null
+}

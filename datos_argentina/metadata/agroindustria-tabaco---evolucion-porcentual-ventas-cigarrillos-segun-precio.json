@@ -1,0 +1,127 @@
+{
+  "author": "Área de Acopio, Producción, Estudios y Finanzas - Coordinación de Cultivos ",
+  "author_email": "finanzasfet@magyp.gob.ar",
+  "creator_user_id": "dc157489-51c6-44ce-bd63-3bd983d60778",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P1M"
+    },
+    {
+      "key": "issued",
+      "value": "2018-12-10T15:39:38.180804"
+    },
+    {
+      "key": "language",
+      "value": "[\"spa\"]"
+    },
+    {
+      "key": "modified",
+      "value": "2019-08-16T14:59:54.148786"
+    },
+    {
+      "key": "spatial",
+      "value": "[\"ARG\"]"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"AGRI\", \"ECON\"]"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Agroganadería, pesca y forestación",
+      "display_name": "Agroganadería, pesca y forestación",
+      "id": "0c35ea38-7059-41d2-9827-5587769d0dc6",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225145.990789agroganaderia-pesca-forestacion.svg",
+      "name": "agri",
+      "title": "Agroganadería, pesca y forestación"
+    },
+    {
+      "description": "Economía y finanzas",
+      "display_name": "Economía y finanzas",
+      "id": "60b4b03e-10a1-4d67-b984-08008a249617",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225257.200233economia-finanzas.svg",
+      "name": "econ",
+      "title": "Economía y finanzas"
+    }
+  ],
+  "id": "agroindustria_7a2cb591-5ce7-467f-b9b2-ffe5413d30d0",
+  "isopen": true,
+  "license_id": "ODbL-1.0",
+  "license_title": "Open Data Commons Open Database License 1.0 (ODbL)",
+  "license_url": "https://opendefinition.org/licenses/odc-odbl",
+  "maintainer": "Área de Acopio, Producción, Estudios y Finanzas - Coordinación de Cultivos ",
+  "maintainer_email": "finanzasfet@magyp.gob.ar",
+  "metadata_created": "2019-12-04T20:00:27.657368",
+  "metadata_modified": "2021-04-29T17:16:18.302214",
+  "name": "agroindustria-tabaco---evolucion-porcentual-ventas-cigarrillos-segun-precio",
+  "notes": "Evolución en porcentaje de las ventas de cigarrillos según su precio.",
+  "num_resources": 1,
+  "num_tags": 2,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:07.834957",
+    "description": "",
+    "id": "b10c94e2-ade1-4a97-8c4c-b1ada7878d60",
+    "image_url": "",
+    "is_organization": true,
+    "name": "agroindustria",
+    "revision_id": "f7c3b6e9-d48f-4522-9f7a-388d805c8392",
+    "state": "active",
+    "title": "Ministerio de Agricultura, Ganadería y Pesca",
+    "type": "organization"
+  },
+  "owner_org": "b10c94e2-ade1-4a97-8c4c-b1ada7878d60",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "http://datos.agroindustria.gob.ar/dataset/7a2cb591-5ce7-467f-b9b2-ffe5413d30d0/resource/5bf4b47f-acde-493c-9503-e23e20dd4d73",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2018-12-10T12:40:12.630741",
+      "datastore_active": false,
+      "description": "Evolución porcentual de las ventas de cigarrillos según precio .",
+      "fileName": "tabaco-evolucion-porcentual-de-ventas-de-cigarrillos-segun-precio.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "agroindustria_5bf4b47f-acde-493c-9503-e23e20dd4d73",
+      "last_modified": "2019-01-30T11:48:02.518794",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Evolución porcentual de las ventas de cigarrillos según precio",
+      "package_id": "agroindustria_7a2cb591-5ce7-467f-b9b2-ffe5413d30d0",
+      "position": 0,
+      "resource_type": "file.upload",
+      "revision_id": "1ed260ed-7de7-4963-a46b-4bba00db5598",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.agroindustria.gob.ar/dataset/7a2cb591-5ce7-467f-b9b2-ffe5413d30d0/resource/5bf4b47f-acde-493c-9503-e23e20dd4d73/download/tabaco-evolucion-porcentual-de-ventas-de-cigarrillos-segun-precio.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "d22b237e-3535-40b9-9b20-9038b8e23a01",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "cigarrillos",
+      "id": "65d02129-59aa-44cd-864c-cf52ff07c1e4",
+      "name": "cigarrillos",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "tabaco",
+      "id": "0f174849-c4a1-4294-862f-dc44006b2ed7",
+      "name": "tabaco",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Tabaco - Evolución porcentual de ventas de cigarrillos según precio",
+  "type": "dataset",
+  "url": "https://datos.agroindustria.gob.ar/dataset/tabaco-evolucion-porcentual-de-ventas-de-cigarrillos-segun-precio",
+  "version": null
+}

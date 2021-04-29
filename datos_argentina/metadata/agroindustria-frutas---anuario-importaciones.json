@@ -1,0 +1,304 @@
+{
+  "author": "Dirección de Mercados Agrícolas - Subsecretaría de Mercados Agropecuarios",
+  "author_email": "sma@magyp.gob.ar",
+  "creator_user_id": "dc157489-51c6-44ce-bd63-3bd983d60778",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P1Y"
+    },
+    {
+      "key": "issued",
+      "value": "2018-12-07T21:21:48.372296"
+    },
+    {
+      "key": "language",
+      "value": "[\"spa\"]"
+    },
+    {
+      "key": "modified",
+      "value": "2019-10-24T11:28:09.017430"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"AGRI\"]"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Agroganadería, pesca y forestación",
+      "display_name": "Agroganadería, pesca y forestación",
+      "id": "0c35ea38-7059-41d2-9827-5587769d0dc6",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225145.990789agroganaderia-pesca-forestacion.svg",
+      "name": "agri",
+      "title": "Agroganadería, pesca y forestación"
+    }
+  ],
+  "id": "agroindustria_a4ae0c7f-b62f-4690-b37a-8a7a61052b9a",
+  "isopen": true,
+  "license_id": "CC-BY-4.0",
+  "license_title": "Creative Commons Attribution 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "maintainer": null,
+  "maintainer_email": null,
+  "metadata_created": "2019-12-04T21:13:13.929799",
+  "metadata_modified": "2021-04-29T17:15:49.976510",
+  "name": "agroindustria-frutas---anuario-importaciones",
+  "notes": "Importaciones argentinas por país de destino de: bananas, ananás, mangos, kiwis y paltas. Expresado en dólares y en toneladas desde el año 2013 hasta 2017, según datos de INDEC.",
+  "num_resources": 3,
+  "num_tags": 22,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:07.834957",
+    "description": "",
+    "id": "b10c94e2-ade1-4a97-8c4c-b1ada7878d60",
+    "image_url": "",
+    "is_organization": true,
+    "name": "agroindustria",
+    "revision_id": "f7c3b6e9-d48f-4522-9f7a-388d805c8392",
+    "state": "active",
+    "title": "Ministerio de Agricultura, Ganadería y Pesca",
+    "type": "organization"
+  },
+  "owner_org": "b10c94e2-ade1-4a97-8c4c-b1ada7878d60",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "http://datos.agroindustria.gob.ar/dataset/a4ae0c7f-b62f-4690-b37a-8a7a61052b9a/resource/555a7c22-05c5-40a0-ba0f-8b1702455b00",
+      "attributesDescription": "[{\"type\": \"string\", \"description\": \"paisorigen_id\", \"title\": \"paisorigen_id\"}, {\"type\": \"string\", \"description\": \"pais_origen\", \"title\": \"pais_origen\"}, {\"type\": \"string\", \"description\": \"producto\", \"title\": \"producto\"}, {\"type\": \"string\", \"description\": \"paisdestino_id\", \"title\": \"paisdestino_id\"}, {\"type\": \"string\", \"description\": \"pais_destino\", \"title\": \"pais_destino\"}, {\"type\": \"string\", \"description\": \"a\\u00f1o\", \"title\": \"a\\u00f1o\"}, {\"type\": \"string\", \"description\": \"unimed_cod\", \"title\": \"unimed_cod\"}, {\"type\": \"string\", \"description\": \"unidad_medida\", \"title\": \"unidad_medida\"}, {\"type\": \"integer\", \"description\": \"totales_tn\", \"title\": \"totales_tn\"}, {\"type\": \"string\", \"description\": \"moneda_cod\", \"title\": \"moneda_cod\"}, {\"type\": \"string\", \"description\": \"moneda\", \"title\": \"moneda\"}, {\"type\": \"string\", \"description\": \"totales_usd\", \"title\": \"totales_usd\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2018-09-28T17:39:11.490958",
+      "datastore_active": false,
+      "description": "Importaciones argentinas por país de destino de: bananas, ananás, mangos, kiwis y paltas. Expresado en dólares y toneladas desde el 2013 al 2017.",
+      "format": "CSV",
+      "hash": "",
+      "id": "agroindustria_555a7c22-05c5-40a0-ba0f-8b1702455b00",
+      "last_modified": "2019-02-08T10:49:12.011409",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Importaciones de frutas del año 2013 al 2017",
+      "package_id": "agroindustria_a4ae0c7f-b62f-4690-b37a-8a7a61052b9a",
+      "position": 0,
+      "resource_type": "file.upload",
+      "revision_id": "23db6378-2396-4afe-9a6f-776d8ca9590c",
+      "size": null,
+      "state": "active",
+      "url": "https://datos.agroindustria.gob.ar/dataset/a4ae0c7f-b62f-4690-b37a-8a7a61052b9a/resource/555a7c22-05c5-40a0-ba0f-8b1702455b00/download/anuarioimpo-frutas-2013-2017-.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos.agroindustria.gob.ar/dataset/a4ae0c7f-b62f-4690-b37a-8a7a61052b9a/resource/04d6bbdf-44cf-4d0e-af11-a672484e725a",
+      "attributesDescription": "[{\"type\": \"string\", \"description\": \"paisorigen_id\", \"title\": \"paisorigen_id\"}, {\"type\": \"string\", \"description\": \"pais_origen\", \"title\": \"pais_origen\"}, {\"type\": \"string\", \"description\": \"producto\", \"title\": \"producto\"}, {\"type\": \"string\", \"description\": \"paisdestino_id\", \"title\": \"paisdestino_id\"}, {\"type\": \"string\", \"description\": \"pais_destino\", \"title\": \"pais_destino\"}, {\"type\": \"string\", \"description\": \"a\\u00f1o\", \"title\": \"a\\u00f1o\"}, {\"type\": \"string\", \"description\": \"unimed_cod\", \"title\": \"unimed_cod\"}, {\"type\": \"string\", \"description\": \"unidad_medida\", \"title\": \"unidad_medida\"}, {\"type\": \"string\", \"description\": \"totales\", \"title\": \"totales\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2018-09-27T14:30:34.995752",
+      "datastore_active": false,
+      "description": "Importaciones argentinas por país de destino de: bananas, ananás, mangos, kiwis y paltas. Expresado en toneladas desde el año 2013 hasta 2017.",
+      "format": "CSV",
+      "hash": "",
+      "id": "agroindustria_04d6bbdf-44cf-4d0e-af11-a672484e725a",
+      "last_modified": "2019-02-08T10:56:03.127621",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Importaciones de frutas desde el año 2013 al 2017 en toneladas",
+      "package_id": "agroindustria_a4ae0c7f-b62f-4690-b37a-8a7a61052b9a",
+      "position": 1,
+      "resource_type": "file.upload",
+      "revision_id": "23db6378-2396-4afe-9a6f-776d8ca9590c",
+      "size": null,
+      "state": "active",
+      "url": "https://datos.agroindustria.gob.ar/dataset/a4ae0c7f-b62f-4690-b37a-8a7a61052b9a/resource/04d6bbdf-44cf-4d0e-af11-a672484e725a/download/anuarioimpo-frutas-2013-2017-en-toneladas-.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos2.agroindustria.gob.ar/dataset/a4ae0c7f-b62f-4690-b37a-8a7a61052b9a/archivo/24d2f5d3-33ed-4aa4-b418-c932a3320c9f",
+      "attributesDescription": "[{\"type\": \"string\", \"description\": \"paisorigen_id\", \"title\": \"paisorigen_id\"}, {\"type\": \"string\", \"description\": \"pais_origen\", \"title\": \"pais_origen\"}, {\"type\": \"string\", \"description\": \"producto\", \"title\": \"producto\"}, {\"type\": \"string\", \"description\": \"paisdestino_id\", \"title\": \"paisdestino_id\"}, {\"type\": \"string\", \"description\": \"pais_destino\", \"title\": \"pais_destino\"}, {\"type\": \"string\", \"description\": \"a\\u00f1o\", \"title\": \"a\\u00f1o\"}, {\"type\": \"string\", \"description\": \"unimed_cod\", \"title\": \"unimed_cod\"}, {\"type\": \"string\", \"description\": \"unidad_medida\", \"title\": \"unidad_medida\"}, {\"type\": \"float\", \"description\": \"totales\", \"title\": \"totales\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2018-09-27T14:53:55.386165",
+      "datastore_active": false,
+      "description": "Importaciones argentinas por país de destino de: bananas, ananás, mangos, kiwis y paltas. Expresado en dólares desde el año 2013 hasta 2017.",
+      "fileName": "anuarioimpo-frutas-2013-2017-en-usd-.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "agroindustria_24d2f5d3-33ed-4aa4-b418-c932a3320c9f",
+      "last_modified": "2019-01-22T15:24:08.522623",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Importaciones de frutas por precios",
+      "package_id": "agroindustria_a4ae0c7f-b62f-4690-b37a-8a7a61052b9a",
+      "position": 2,
+      "resource_type": "file.upload",
+      "revision_id": "319866aa-bc4d-4867-9d19-4fa061c273ec",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.agroindustria.gob.ar/dataset/a4ae0c7f-b62f-4690-b37a-8a7a61052b9a/resource/24d2f5d3-33ed-4aa4-b418-c932a3320c9f/download/anuarioimpo-frutas-2013-2017-en-usd-.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "23db6378-2396-4afe-9a6f-776d8ca9590c",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "Ananá",
+      "id": "1c51a330-06b0-4c14-ad91-80afc4ed6317",
+      "name": "Ananá",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Argentina",
+      "id": "3621bdf5-40c1-48fa-8ede-5a91198a4743",
+      "name": "Argentina",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Banana",
+      "id": "92fc1210-ea3e-4182-9936-7761ea3412f7",
+      "name": "Banana",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Bolivia",
+      "id": "b49f3062-7e18-4f06-944a-5450ac64c488",
+      "name": "Bolivia",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Brasil",
+      "id": "7a9a9e26-eaf2-4892-91b1-33114c26aad3",
+      "name": "Brasil",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Chile",
+      "id": "bc2d0015-26dc-4caf-bfc6-354ef6b0a57d",
+      "name": "Chile",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Costa Rica",
+      "id": "38c74594-1b01-4bee-a1ff-a49076201db8",
+      "name": "Costa Rica",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Ecuador",
+      "id": "5cbf8ece-2faa-4227-9f42-653d9cfde0ed",
+      "name": "Ecuador",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Italia",
+      "id": "aa17c068-cb39-47ab-b71f-5315e1777f98",
+      "name": "Italia",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Kiwi",
+      "id": "84ca42ef-7d06-4746-8a2f-5c234adaa525",
+      "name": "Kiwi",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Mango",
+      "id": "5cf09266-4522-447e-84ff-16b1b625e086",
+      "name": "Mango",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "México",
+      "id": "a40c120f-e445-4319-b476-7d09307cc9b0",
+      "name": "México",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Nueva Zelanda",
+      "id": "094847a8-6798-4c0a-bf96-7a52231b8046",
+      "name": "Nueva Zelanda",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Palta",
+      "id": "c78ce1dc-fb5a-47dd-94fb-abc6e5c5412e",
+      "name": "Palta",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Paraguay",
+      "id": "291acd66-5f68-455b-85ef-03e610c908fa",
+      "name": "Paraguay",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Perú",
+      "id": "963ecf60-3a16-4dd2-b2e6-c9db16b9f177",
+      "name": "Perú",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "dolares",
+      "id": "55b8c4d9-c06e-4866-be27-b8cb063f0cec",
+      "name": "dolares",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "frutas",
+      "id": "d88cda2c-194e-4939-abfd-78852b720952",
+      "name": "frutas",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "importacion",
+      "id": "8bff2c67-1a20-4181-b2f5-3ae8b1fa68e9",
+      "name": "importacion",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "precios",
+      "id": "f4dfe774-6533-4094-b194-46938642bd86",
+      "name": "precios",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "toneladas",
+      "id": "f6ee989f-ec04-4704-bca2-a562d99f7811",
+      "name": "toneladas",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "volumen",
+      "id": "2e7010ca-fe00-4e85-81ab-161409904aea",
+      "name": "volumen",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Frutas - Anuario de importaciones",
+  "type": "dataset",
+  "url": "https://datos.agroindustria.gob.ar/dataset/anuario-importaciones-frutas",
+  "version": null
+}
