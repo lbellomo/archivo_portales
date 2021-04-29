@@ -10,8 +10,9 @@ jobs:
     runs-on: ubuntu-latest
 
     strategy:
+      max-parallel: 1
       matrix:
-        section_name: [argentina, ciudad_buenos_aires]
+        section_name: [ciudad_buenos_aires, argentina]
 
     steps:
       - uses: actions/checkout@v2
