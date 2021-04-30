@@ -1,0 +1,124 @@
+{
+  "author": "Subsecretaría de Programación Macroeconómica",
+  "author_email": "datoseconomicos@mecon.gov.ar",
+  "creator_user_id": "4720e75a-9e17-4dc3-879d-041917c7f9f9",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P1M"
+    },
+    {
+      "key": "issued",
+      "value": "2017-10-05"
+    },
+    {
+      "key": "language",
+      "value": "[\"SPA\"]"
+    },
+    {
+      "key": "source",
+      "value": "Dirección General de Estadística y Censos - Ministerio de Hacienda GCBA"
+    },
+    {
+      "key": "spatial",
+      "value": "ARG"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"ECON\"]"
+    },
+    {
+      "key": "temporal",
+      "value": "2012-07-01/2017-08-01"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Economía y finanzas",
+      "display_name": "Economía y finanzas",
+      "id": "60b4b03e-10a1-4d67-b984-08008a249617",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225257.200233economia-finanzas.svg",
+      "name": "econ",
+      "title": "Economía y finanzas"
+    }
+  ],
+  "id": "sspm_193",
+  "isopen": true,
+  "license_id": "CC-BY-4.0",
+  "license_title": "Creative Commons Attribution 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "maintainer": "Subsecretaría de Programación Macroeconómica.",
+  "maintainer_email": "datoseconomicos@mecon.gov.ar",
+  "metadata_created": "2019-11-26T15:05:34.464359",
+  "metadata_modified": "2021-04-29T21:05:22.800877",
+  "name": "sspm-indice-precios-al-consumidor-ciudad-buenos-aires-nivel-general-principales-aperturas",
+  "notes": "Índice de Precios al Consumidor de la Ciudad de Buenos Aires. Nivel general y principales aperturas. (Base julio 2012)",
+  "num_resources": 1,
+  "num_tags": 2,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:09.718132",
+    "description": "",
+    "id": "68f9ee22-5ec3-44cf-a32b-b87d9db46b93",
+    "image_url": "",
+    "is_organization": true,
+    "name": "sspm",
+    "revision_id": "bc058ce0-3540-4204-96cd-9f9ec79045b3",
+    "state": "active",
+    "title": "Subsecretaría de Programación Macroeconómica",
+    "type": "organization"
+  },
+  "owner_org": "68f9ee22-5ec3-44cf-a32b-b87d9db46b93",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/",
+      "attributesDescription": "[{\"title\": \"indice_tiempo\", \"type\": \"date\", \"specialType\": \"time_index\", \"specialTypeDetail\": \"R/P1M\", \"id\": \"193.1_INDICE_TIEMPO_JULI_0_13\", \"scrapingIdentifierCell\": \"A7\", \"scrapingDataStartCell\": \"A8\", \"dataset_identifier\": \"193\", \"distribution_identifier\": \"193.1\"}, {\"title\": \"nivel_general\", \"type\": \"number\", \"description\": \"Nivel de precios de nivel general\", \"id\": \"193.1_NIVEL_GENERAL_JULI_0_13\", \"scrapingIdentifierCell\": \"B7\", \"scrapingDataStartCell\": \"B8\", \"units\": \"\\u00cdndice base 100\", \"dataset_identifier\": \"193\", \"distribution_identifier\": \"193.1\"}, {\"title\": \"alimentos_bebidas_no_alcoholicas\", \"type\": \"number\", \"description\": \"Nivel de precios de alimentos bebidas no alcoholicas\", \"id\": \"193.1_ALIMENTOS_CAS_JULI_0_32\", \"scrapingIdentifierCell\": \"C7\", \"scrapingDataStartCell\": \"C8\", \"units\": \"\\u00cdndice base 100\", \"dataset_identifier\": \"193\", \"distribution_identifier\": \"193.1\"}, {\"title\": \"bebidas_alcoholicas_tabaco\", \"type\": \"number\", \"description\": \"Nivel de precios de bebidas alcoholicas tabaco\", \"id\": \"193.1_BEBIDAS_ALACO_JULI_0_26\", \"scrapingIdentifierCell\": \"D7\", \"scrapingDataStartCell\": \"D8\", \"units\": \"\\u00cdndice base 100\", \"dataset_identifier\": \"193\", \"distribution_identifier\": \"193.1\"}, {\"title\": \"prendas_vestir_calzado\", \"type\": \"number\", \"description\": \"Nivel de precios de prendas vestir calzado\", \"id\": \"193.1_PRENDAS_VEADO_JULI_0_22\", \"scrapingIdentifierCell\": \"E7\", \"scrapingDataStartCell\": \"E8\", \"units\": \"\\u00cdndice base 100\", \"dataset_identifier\": \"193\", \"distribution_identifier\": \"193.1\"}, {\"title\": \"vivienda_agua_electricidad_otros_combustibles\", \"type\": \"number\", \"description\": \"Nivel de precios de vivienda agua electricidad otros combustibles\", \"id\": \"193.1_VIVIENDA_ALES_JULI_0_45\", \"scrapingIdentifierCell\": \"F7\", \"scrapingDataStartCell\": \"F8\", \"units\": \"\\u00cdndice base 100\", \"dataset_identifier\": \"193\", \"distribution_identifier\": \"193.1\"}, {\"title\": \"equipamiento_mantenimiento_hogar\", \"type\": \"number\", \"description\": \"Nivel de precios de equipamiento mantenimiento hogar\", \"id\": \"193.1_EQUIPAMIENGAR_JULI_0_32\", \"scrapingIdentifierCell\": \"G7\", \"scrapingDataStartCell\": \"G8\", \"units\": \"\\u00cdndice base 100\", \"dataset_identifier\": \"193\", \"distribution_identifier\": \"193.1\"}, {\"title\": \"salud\", \"type\": \"number\", \"description\": \"Nivel de precios de salud\", \"id\": \"193.1_SALUDLUD_JULI_0_5\", \"scrapingIdentifierCell\": \"H7\", \"scrapingDataStartCell\": \"H8\", \"units\": \"\\u00cdndice base 100\", \"dataset_identifier\": \"193\", \"distribution_identifier\": \"193.1\"}, {\"title\": \"transporte\", \"type\": \"number\", \"description\": \"Nivel de precios de transporte\", \"id\": \"193.1_TRANSPORTERTE_JULI_0_10\", \"scrapingIdentifierCell\": \"I7\", \"scrapingDataStartCell\": \"I8\", \"units\": \"\\u00cdndice base 100\", \"dataset_identifier\": \"193\", \"distribution_identifier\": \"193.1\"}, {\"title\": \"comunicaciones\", \"type\": \"number\", \"description\": \"Nivel de precios de comunicaciones\", \"id\": \"193.1_COMUNICACINES_JULI_0_14\", \"scrapingIdentifierCell\": \"J7\", \"scrapingDataStartCell\": \"J8\", \"units\": \"\\u00cdndice base 100\", \"dataset_identifier\": \"193\", \"distribution_identifier\": \"193.1\"}, {\"title\": \"recreacion_cultura\", \"type\": \"number\", \"description\": \"Nivel de precios de recreacion cultura\", \"id\": \"193.1_RECREACIONURA_JULI_0_18\", \"scrapingIdentifierCell\": \"K7\", \"scrapingDataStartCell\": \"K8\", \"units\": \"\\u00cdndice base 100\", \"dataset_identifier\": \"193\", \"distribution_identifier\": \"193.1\"}, {\"title\": \"educacion\", \"type\": \"number\", \"description\": \"Nivel de precios de educacion\", \"id\": \"193.1_EDUCACIONION_JULI_0_9\", \"scrapingIdentifierCell\": \"L7\", \"scrapingDataStartCell\": \"L8\", \"units\": \"\\u00cdndice base 100\", \"dataset_identifier\": \"193\", \"distribution_identifier\": \"193.1\"}, {\"title\": \"restaurantes_hoteles\", \"type\": \"number\", \"description\": \"Nivel de precios de restaurantes hoteles\", \"id\": \"193.1_RESTAURANTLES_JULI_0_20\", \"scrapingIdentifierCell\": \"M7\", \"scrapingDataStartCell\": \"M8\", \"units\": \"\\u00cdndice base 100\", \"dataset_identifier\": \"193\", \"distribution_identifier\": \"193.1\"}, {\"title\": \"bienes_servicios_varios\", \"type\": \"number\", \"description\": \"Nivel de precios de bienes servicios varios\", \"id\": \"193.1_BIENES_SERIOS_JULI_0_23\", \"scrapingIdentifierCell\": \"N7\", \"scrapingDataStartCell\": \"N8\", \"units\": \"\\u00cdndice base 100\", \"dataset_identifier\": \"193\", \"distribution_identifier\": \"193.1\"}, {\"title\": \"estacionales\", \"type\": \"number\", \"description\": \"Nivel de precios de estacionales\", \"id\": \"193.1_ESTACIONALLES_JULI_0_12\", \"scrapingIdentifierCell\": \"P7\", \"scrapingDataStartCell\": \"P8\", \"units\": \"\\u00cdndice base 100\", \"dataset_identifier\": \"193\", \"distribution_identifier\": \"193.1\"}, {\"title\": \"regulados\", \"type\": \"number\", \"description\": \"Nivel de precios de regulados\", \"id\": \"193.1_REGULADOSDOS_JULI_0_9\", \"scrapingIdentifierCell\": \"Q7\", \"scrapingDataStartCell\": \"Q8\", \"units\": \"\\u00cdndice base 100\", \"dataset_identifier\": \"193\", \"distribution_identifier\": \"193.1\"}, {\"title\": \"resto\", \"type\": \"number\", \"description\": \"Nivel de precios de resto\", \"id\": \"193.1_RESTOSTO_JULI_0_5\", \"scrapingIdentifierCell\": \"R7\", \"scrapingDataStartCell\": \"R8\", \"units\": \"\\u00cdndice base 100\", \"dataset_identifier\": \"193\", \"distribution_identifier\": \"193.1\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-10-05T00:00:00",
+      "datastore_active": false,
+      "description": "IPC de CABA, con aperturas",
+      "fileName": "indice-precios-consumidor-caba-jul-2012-100.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "sspm_193.1",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Índice de Precios al Consumidor de la Ciudad de Buenos Aires. Nivel general y principales aperturas. Base julio 2011 - junio 2012 = 100",
+      "package_id": "sspm_193",
+      "position": 0,
+      "resource_type": null,
+      "revision_id": "74c3586a-3f12-4140-bd12-5a56267384f2",
+      "size": null,
+      "state": "active",
+      "url": "https://infra.datos.gob.ar/catalog/sspm/dataset/193/distribution/193.1/download/indice-precios-consumidor-caba-jul-2012-100.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "74c3586a-3f12-4140-bd12-5a56267384f2",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "Información Económica al Día",
+      "id": "0d300a9a-0802-46c3-9a40-2f28ddf050ec",
+      "name": "Información Económica al Día",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Precios",
+      "id": "308c2aaf-f177-4728-bda5-fd41662741a2",
+      "name": "Precios",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Índice de Precios al Consumidor de la Ciudad de Buenos Aires. Nivel general y principales aperturas",
+  "type": "dataset",
+  "url": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/",
+  "version": null
+}

@@ -1,0 +1,174 @@
+{
+  "author": "Subsecretaría de Programación Macroeconómica",
+  "author_email": "datoseconomicos@mecon.gov.ar",
+  "creator_user_id": "4720e75a-9e17-4dc3-879d-041917c7f9f9",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P1M"
+    },
+    {
+      "key": "issued",
+      "value": "2017-09-28"
+    },
+    {
+      "key": "language",
+      "value": "[\"SPA\"]"
+    },
+    {
+      "key": "source",
+      "value": "Instituto Nacional de Estadística y Censos (INDEC)"
+    },
+    {
+      "key": "spatial",
+      "value": "ARG"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"ECON\"]"
+    },
+    {
+      "key": "temporal",
+      "value": "1993-01-01/2013-12-01"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Economía y finanzas",
+      "display_name": "Economía y finanzas",
+      "id": "60b4b03e-10a1-4d67-b984-08008a249617",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225257.200233economia-finanzas.svg",
+      "name": "econ",
+      "title": "Economía y finanzas"
+    }
+  ],
+  "id": "sspm_10",
+  "isopen": true,
+  "license_id": "CC-BY-4.0",
+  "license_title": "Creative Commons Attribution 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "maintainer": "Subsecretaría de Programación Macroeconómica.",
+  "maintainer_email": "datoseconomicos@mecon.gov.ar",
+  "metadata_created": "2019-11-26T15:05:48.349214",
+  "metadata_modified": "2021-04-29T21:05:04.788654",
+  "name": "sspm-estimador-mensual-actividad-economica-emae-base-1993",
+  "notes": "Estimador Mensual de Actividad Económica. Índice (Base 1993)",
+  "num_resources": 3,
+  "num_tags": 2,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:09.718132",
+    "description": "",
+    "id": "68f9ee22-5ec3-44cf-a32b-b87d9db46b93",
+    "image_url": "",
+    "is_organization": true,
+    "name": "sspm",
+    "revision_id": "bc058ce0-3540-4204-96cd-9f9ec79045b3",
+    "state": "active",
+    "title": "Subsecretaría de Programación Macroeconómica",
+    "type": "organization"
+  },
+  "owner_org": "68f9ee22-5ec3-44cf-a32b-b87d9db46b93",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/",
+      "attributesDescription": "[{\"title\": \"indice_tiempo\", \"type\": \"date\", \"specialType\": \"time_index\", \"specialTypeDetail\": \"R/P1Y\", \"id\": \"10.1_IT_1993_A_13\", \"scrapingIdentifierCell\": \"A8\", \"scrapingDataStartCell\": \"A9\", \"dataset_identifier\": \"10\", \"distribution_identifier\": \"10.1\"}, {\"title\": \"indice_serie_original_anual\", \"type\": \"number\", \"description\": \"Serie original EMAE en Anual. \\u00cdndice (base 1993)\", \"id\": \"10.1_ISOA_1993_A_27\", \"scrapingIdentifierCell\": \"B8\", \"scrapingDataStartCell\": \"B9\", \"units\": \"\\u00cdndice 1993=100\", \"dataset_identifier\": \"10\", \"distribution_identifier\": \"10.1\"}, {\"title\": \"var_igual_periodo_anio_anterior\", \"type\": \"number\", \"description\": \"Variaci\\u00f3n % del EMAE respecto al mismo per\\u00edodo del a\\u00f1o anterior (para Anuales)\", \"id\": \"10.1_VIPAA_1993_A_31\", \"scrapingIdentifierCell\": \"C8\", \"scrapingDataStartCell\": \"C9\", \"units\": \"Variaci\\u00f3n Porcentual\", \"dataset_identifier\": \"10\", \"distribution_identifier\": \"10.1\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-09-28T00:00:00",
+      "datastore_active": false,
+      "description": "Estimador Mensual de Actividad Económica. Datos Anuales. Índice (Base 1993)",
+      "fileName": "emae-valores-anuales-indice-base-1993.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "sspm_10.1",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "EMAE. Índice Base 1993. Valores anuales.",
+      "package_id": "sspm_10",
+      "position": 0,
+      "resource_type": null,
+      "revision_id": "16f50587-5edc-4eeb-a481-b9b002b2d6b7",
+      "size": null,
+      "state": "active",
+      "url": "https://infra.datos.gob.ar/catalog/sspm/dataset/10/distribution/10.1/download/emae-valores-anuales-indice-base-1993.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/",
+      "attributesDescription": "[{\"title\": \"indice_tiempo\", \"type\": \"date\", \"specialType\": \"time_index\", \"specialTypeDetail\": \"R/P3M\", \"id\": \"10.2_IT_1993_T_13\", \"scrapingIdentifierCell\": \"A43\", \"scrapingDataStartCell\": \"A44\", \"dataset_identifier\": \"10\", \"distribution_identifier\": \"10.2\"}, {\"title\": \"indice_serie_original_trimestral\", \"type\": \"number\", \"description\": \"Serie original EMAE en Trimestral. \\u00cdndice (base 1993)\", \"id\": \"10.2_ISOT_1993_T_32\", \"scrapingIdentifierCell\": \"B43\", \"scrapingDataStartCell\": \"B44\", \"units\": \"\\u00cdndice 1993=100\", \"dataset_identifier\": \"10\", \"distribution_identifier\": \"10.2\"}, {\"title\": \"var_igual_periodo_anio_anterior\", \"type\": \"number\", \"description\": \"Variaci\\u00f3n % del EMAE respecto al mismo per\\u00edodo del a\\u00f1o anterior (para Trimestrales)\", \"id\": \"10.2_VIPAA_1993_T_31\", \"scrapingIdentifierCell\": \"C43\", \"scrapingDataStartCell\": \"C44\", \"units\": \"Variaci\\u00f3n Porcentual\", \"dataset_identifier\": \"10\", \"distribution_identifier\": \"10.2\"}, {\"title\": \"indice_serie_desestacionalizada\", \"type\": \"number\", \"description\": \"Serie desestacionalizada EMAE en Trimestral (base 1993)\", \"id\": \"10.2_ISD_1993_T_31\", \"scrapingIdentifierCell\": \"D43\", \"scrapingDataStartCell\": \"D44\", \"units\": \"\\u00cdndice 1993=100\", \"dataset_identifier\": \"10\", \"distribution_identifier\": \"10.2\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-09-28T00:00:00",
+      "datastore_active": false,
+      "description": "Estimador Mensual de Actividad Económica. Datos Trimestrales. Índice (Base 1993)",
+      "fileName": "emae-valores-trimestrales-indice-base-1993.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "sspm_10.2",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "EMAE. Índice Base 1993. Valores trimestrales.",
+      "package_id": "sspm_10",
+      "position": 1,
+      "resource_type": null,
+      "revision_id": "16f50587-5edc-4eeb-a481-b9b002b2d6b7",
+      "size": null,
+      "state": "active",
+      "url": "https://infra.datos.gob.ar/catalog/sspm/dataset/10/distribution/10.2/download/emae-valores-trimestrales-indice-base-1993.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/",
+      "attributesDescription": "[{\"title\": \"indice_tiempo\", \"type\": \"date\", \"specialType\": \"time_index\", \"specialTypeDetail\": \"R/P1M\", \"id\": \"10.3_IT_1993_M_13\", \"scrapingIdentifierCell\": \"A184\", \"scrapingDataStartCell\": \"A185\", \"dataset_identifier\": \"10\", \"distribution_identifier\": \"10.3\"}, {\"title\": \"indice_serie_original_mensual\", \"type\": \"number\", \"description\": \"Serie original EMAE en Mensual. \\u00cdndice (base 1993)\", \"id\": \"10.3_ISOM_1993_M_29\", \"scrapingIdentifierCell\": \"B184\", \"scrapingDataStartCell\": \"B185\", \"units\": \"\\u00cdndice 1993=100\", \"dataset_identifier\": \"10\", \"distribution_identifier\": \"10.3\"}, {\"title\": \"var_igual_periodo_anio_anterior\", \"type\": \"number\", \"description\": \"Variaci\\u00f3n % del EMAE respecto al mismo per\\u00edodo del a\\u00f1o anterior (para Mensuales)\", \"id\": \"10.3_VIPAA_1993_M_31\", \"scrapingIdentifierCell\": \"C184\", \"scrapingDataStartCell\": \"C185\", \"units\": \"Variaci\\u00f3n Porcentual\", \"dataset_identifier\": \"10\", \"distribution_identifier\": \"10.3\"}, {\"title\": \"indice_serie_desestacionalizada\", \"type\": \"number\", \"description\": \"Serie desestacionalizada EMAE en Mensual (base 1993)\", \"id\": \"10.3_ISD_1993_M_31\", \"scrapingIdentifierCell\": \"D184\", \"scrapingDataStartCell\": \"D185\", \"units\": \"\\u00cdndice 1993=100\", \"dataset_identifier\": \"10\", \"distribution_identifier\": \"10.3\"}, {\"title\": \"var_mes_anterior_serie_original\", \"type\": \"number\", \"description\": \"Variaci\\u00f3n % del EMAE respecto mes anterior (para Mensuales)\", \"id\": \"10.3_VMASO_1993_M_31\", \"scrapingIdentifierCell\": \"E184\", \"scrapingDataStartCell\": \"E185\", \"units\": \"Variaci\\u00f3n Porcentual\", \"dataset_identifier\": \"10\", \"distribution_identifier\": \"10.3\"}, {\"title\": \"indice_tendencia_suavizada\", \"type\": \"number\", \"description\": \"Serie desestacionalizada EMAE, Mensual (base 1993), tendencia suavizada\", \"id\": \"10.3_ITS_1993_M_26\", \"scrapingIdentifierCell\": \"F184\", \"scrapingDataStartCell\": \"F185\", \"units\": \"\\u00cdndice 1993=100\", \"dataset_identifier\": \"10\", \"distribution_identifier\": \"10.3\"}, {\"title\": \"var_mes_anterior_tendencia_suavizada\", \"type\": \"number\", \"description\": \"Variaci\\u00f3n % del EMAE respecto mes anterior (para Mensuales), tendencia suavizada\", \"id\": \"10.3_VMATS_1993_M_36\", \"scrapingIdentifierCell\": \"G184\", \"scrapingDataStartCell\": \"G185\", \"units\": \"Variaci\\u00f3n Porcentual\", \"dataset_identifier\": \"10\", \"distribution_identifier\": \"10.3\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-09-28T00:00:00",
+      "datastore_active": false,
+      "description": "Estimador Mensual de Actividad Económica. Datos Mensuales. Índice (Base 1993)",
+      "fileName": "emae-valores-mensuales-indice-base-1993.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "sspm_10.3",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "EMAE. Índice Base 1993. Valores mensuales.",
+      "package_id": "sspm_10",
+      "position": 2,
+      "resource_type": null,
+      "revision_id": "16f50587-5edc-4eeb-a481-b9b002b2d6b7",
+      "size": null,
+      "state": "active",
+      "url": "https://infra.datos.gob.ar/catalog/sspm/dataset/10/distribution/10.3/download/emae-valores-mensuales-indice-base-1993.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "16f50587-5edc-4eeb-a481-b9b002b2d6b7",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "Actividad",
+      "id": "a7695c51-c893-4ece-8ff9-306c197afdd7",
+      "name": "Actividad",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Información Económica al Día",
+      "id": "0d300a9a-0802-46c3-9a40-2f28ddf050ec",
+      "name": "Información Económica al Día",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Estimador Mensual de Actividad Económica (EMAE). Base 1993",
+  "type": "dataset",
+  "url": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/",
+  "version": null
+}

@@ -1,0 +1,124 @@
+{
+  "author": "Subsecretaría de Programación Macroeconómica",
+  "author_email": "datoseconomicos@mecon.gov.ar",
+  "creator_user_id": "4720e75a-9e17-4dc3-879d-041917c7f9f9",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P1M"
+    },
+    {
+      "key": "issued",
+      "value": "2017-09-28"
+    },
+    {
+      "key": "language",
+      "value": "[\"SPA\"]"
+    },
+    {
+      "key": "source",
+      "value": "Instituto Nacional de Estadística y Censos (INDEC)"
+    },
+    {
+      "key": "spatial",
+      "value": "ARG"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"ECON\"]"
+    },
+    {
+      "key": "temporal",
+      "value": "2016-01-01/2017-07-16"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Economía y finanzas",
+      "display_name": "Economía y finanzas",
+      "id": "60b4b03e-10a1-4d67-b984-08008a249617",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225257.200233economia-finanzas.svg",
+      "name": "econ",
+      "title": "Economía y finanzas"
+    }
+  ],
+  "id": "sspm_14",
+  "isopen": true,
+  "license_id": "CC-BY-4.0",
+  "license_title": "Creative Commons Attribution 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "maintainer": "Subsecretaría de Programación Macroeconómica.",
+  "maintainer_email": "datoseconomicos@mecon.gov.ar",
+  "metadata_created": "2019-11-26T15:05:55.271921",
+  "metadata_modified": "2021-04-29T21:05:19.976666",
+  "name": "sspm-estimados-mensual-industrial-emi-variaciones-interanuales-base-2004",
+  "notes": "Estimador Mensual Industrial. Variaciones Interanuales (Base 2004)",
+  "num_resources": 1,
+  "num_tags": 2,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:09.718132",
+    "description": "",
+    "id": "68f9ee22-5ec3-44cf-a32b-b87d9db46b93",
+    "image_url": "",
+    "is_organization": true,
+    "name": "sspm",
+    "revision_id": "bc058ce0-3540-4204-96cd-9f9ec79045b3",
+    "state": "active",
+    "title": "Subsecretaría de Programación Macroeconómica",
+    "type": "organization"
+  },
+  "owner_org": "68f9ee22-5ec3-44cf-a32b-b87d9db46b93",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/",
+      "attributesDescription": "[{\"title\": \"indice_tiempo\", \"type\": \"date\", \"specialType\": \"time_index\", \"specialTypeDetail\": \"R/P1M\", \"id\": \"14.2_IT_M_2004_0_13\", \"scrapingIdentifierCell\": \"A18\", \"scrapingDataStartCell\": \"B19\", \"dataset_identifier\": \"14\", \"distribution_identifier\": \"14.2\"}, {\"title\": \"emi\", \"type\": \"number\", \"description\": \"Estimador Mensual Industrial. Variaci\\u00f3n Interanual (Base 2004), Mensuales\", \"id\": \"14.2_E_M_2004_0_3\", \"scrapingIdentifierCell\": \"B18\", \"scrapingDataStartCell\": \"B19\", \"units\": \"Variaci\\u00f3n Porcentual\", \"dataset_identifier\": \"14\", \"distribution_identifier\": \"14.2\"}, {\"title\": \"alimentos_bebidas\", \"type\": \"number\", \"description\": \"EMI. Alimentos y bebidas. Variaci\\u00f3n Interanual (Base 2004), Mensuales\", \"id\": \"14.2_AB_M_2004_0_17\", \"scrapingIdentifierCell\": \"C18\", \"scrapingDataStartCell\": \"C19\", \"units\": \"Variaci\\u00f3n Porcentual\", \"dataset_identifier\": \"14\", \"distribution_identifier\": \"14.2\"}, {\"title\": \"productos_tabaco\", \"type\": \"number\", \"description\": \"EMI. Tabaco. Variaci\\u00f3n Interanual (Base 2004), Mensuales\", \"id\": \"14.2_PT_M_2004_0_16\", \"scrapingIdentifierCell\": \"D18\", \"scrapingDataStartCell\": \"D19\", \"units\": \"Variaci\\u00f3n Porcentual\", \"dataset_identifier\": \"14\", \"distribution_identifier\": \"14.2\"}, {\"title\": \"productos_textiles\", \"type\": \"number\", \"description\": \"EMI. Textiles. Variaci\\u00f3n Interanual (Base 2004), Mensuales\", \"id\": \"14.2_PT_M_2004_0_18\", \"scrapingIdentifierCell\": \"E18\", \"scrapingDataStartCell\": \"E19\", \"units\": \"Variaci\\u00f3n Porcentual\", \"dataset_identifier\": \"14\", \"distribution_identifier\": \"14.2\"}, {\"title\": \"papel_carton\", \"type\": \"number\", \"description\": \"EMI. Cart\\u00f3n. Variaci\\u00f3n Interanual (Base 2004), Mensuales\", \"id\": \"14.2_PC_M_2004_0_12\", \"scrapingIdentifierCell\": \"F18\", \"scrapingDataStartCell\": \"F19\", \"units\": \"Variaci\\u00f3n Porcentual\", \"dataset_identifier\": \"14\", \"distribution_identifier\": \"14.2\"}, {\"title\": \"edicion_impresion\", \"type\": \"number\", \"description\": \"EMI. Impresi\\u00f3n. Variaci\\u00f3n Interanual (Base 2004), Mensuales\", \"id\": \"14.2_EI_M_2004_0_17\", \"scrapingIdentifierCell\": \"G18\", \"scrapingDataStartCell\": \"G19\", \"units\": \"Variaci\\u00f3n Porcentual\", \"dataset_identifier\": \"14\", \"distribution_identifier\": \"14.2\"}, {\"title\": \"refinacion_petroleo\", \"type\": \"number\", \"description\": \"EMI. Petr\\u00f3leo. Variaci\\u00f3n Interanual (Base 2004), Mensuales\", \"id\": \"14.2_RP_M_2004_0_19\", \"scrapingIdentifierCell\": \"H18\", \"scrapingDataStartCell\": \"H19\", \"units\": \"Variaci\\u00f3n Porcentual\", \"dataset_identifier\": \"14\", \"distribution_identifier\": \"14.2\"}, {\"title\": \"sustancias_productos_quimicos\", \"type\": \"number\", \"description\": \"EMI. Sustancias y productos qu\\u00edmicos. Variaci\\u00f3n Interanual (Base 2004), Mensuales\", \"id\": \"14.2_SPQ_M_2004_0_29\", \"scrapingIdentifierCell\": \"I18\", \"scrapingDataStartCell\": \"I19\", \"units\": \"Variaci\\u00f3n Porcentual\", \"dataset_identifier\": \"14\", \"distribution_identifier\": \"14.2\"}, {\"title\": \"caucho_plastico\", \"type\": \"number\", \"description\": \"EMI. Caucho y pl\\u00e1sticos. Variaci\\u00f3n Interanual (Base 2004)\", \"id\": \"14.2_CP_M_2004_0_15\", \"scrapingIdentifierCell\": \"J18\", \"scrapingDataStartCell\": \"J19\", \"units\": \"Variaci\\u00f3n Porcentual\", \"dataset_identifier\": \"14\", \"distribution_identifier\": \"14.2\"}, {\"title\": \"minerales_metalicos\", \"type\": \"number\", \"description\": \"EMI. Minerales met\\u00e1licos. Variaci\\u00f3n Interanual (Base 2004), Mensuales\", \"id\": \"14.2_MM_M_2004_0_19\", \"scrapingIdentifierCell\": \"K18\", \"scrapingDataStartCell\": \"K19\", \"units\": \"Variaci\\u00f3n Porcentual\", \"dataset_identifier\": \"14\", \"distribution_identifier\": \"14.2\"}, {\"title\": \"industria_metalicas_basicas\", \"type\": \"number\", \"description\": \"EMI. Industrias met\\u00e1licas b\\u00e1sicas. Variaci\\u00f3n Interanual (Base 2004), Mensuales\", \"id\": \"14.2_IMB_M_2004_0_27\", \"scrapingIdentifierCell\": \"L18\", \"scrapingDataStartCell\": \"L19\", \"units\": \"Variaci\\u00f3n Porcentual\", \"dataset_identifier\": \"14\", \"distribution_identifier\": \"14.2\"}, {\"title\": \"automotores\", \"type\": \"number\", \"description\": \"EMI. Automotores. Variaci\\u00f3n Interanual (Base 2004), Mensuales\", \"id\": \"14.2_A_M_2004_0_11\", \"scrapingIdentifierCell\": \"M18\", \"scrapingDataStartCell\": \"M19\", \"units\": \"Variaci\\u00f3n Porcentual\", \"dataset_identifier\": \"14\", \"distribution_identifier\": \"14.2\"}, {\"title\": \"metalmecanica_exc_automotor\", \"type\": \"number\", \"description\": \"EMI. Metalmec\\u00e1nica (excluyendo automotores). Variaci\\u00f3n Interanual (Base 2004), Mensuales\", \"id\": \"14.2_MEA_M_2004_0_27\", \"scrapingIdentifierCell\": \"N18\", \"scrapingDataStartCell\": \"N19\", \"units\": \"Variaci\\u00f3n Porcentual\", \"dataset_identifier\": \"14\", \"distribution_identifier\": \"14.2\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-09-28T00:00:00",
+      "datastore_active": false,
+      "description": "Estimador Mensual Industrial. Variaciones Interanuales (Base 2004), datos mensuales",
+      "fileName": "emi-variaciones-interanuales-base-2004-datos-mensuales.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "sspm_14.2",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "EMI. Variación interanual (Base 2004), Valores mensuales",
+      "package_id": "sspm_14",
+      "position": 0,
+      "resource_type": null,
+      "revision_id": "3530eea5-75af-4929-9625-1f90a90f5e07",
+      "size": null,
+      "state": "active",
+      "url": "https://infra.datos.gob.ar/catalog/sspm/dataset/14/distribution/14.2/download/emi-variaciones-interanuales-base-2004-datos-mensuales.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "3530eea5-75af-4929-9625-1f90a90f5e07",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "Actividad",
+      "id": "a7695c51-c893-4ece-8ff9-306c197afdd7",
+      "name": "Actividad",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Información Económica al Día",
+      "id": "0d300a9a-0802-46c3-9a40-2f28ddf050ec",
+      "name": "Información Económica al Día",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Estimados Mensual Industrial (EMI). Variaciones interanuales. Base 2004",
+  "type": "dataset",
+  "url": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/",
+  "version": null
+}

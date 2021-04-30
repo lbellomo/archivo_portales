@@ -1,0 +1,156 @@
+{
+  "author": "Subsecretaría de Programación Macroeconómica",
+  "author_email": "datoseconomicos@mecon.gov.ar",
+  "creator_user_id": "4720e75a-9e17-4dc3-879d-041917c7f9f9",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P3M"
+    },
+    {
+      "key": "issued",
+      "value": "2017-09-28"
+    },
+    {
+      "key": "language",
+      "value": "[\"SPA\"]"
+    },
+    {
+      "key": "source",
+      "value": "Instituto Nacional de Estadística y Censos (INDEC)"
+    },
+    {
+      "key": "spatial",
+      "value": "ARG"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"ECON\"]"
+    },
+    {
+      "key": "temporal",
+      "value": "1990-01-01/2014-12-01"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Economía y finanzas",
+      "display_name": "Economía y finanzas",
+      "id": "60b4b03e-10a1-4d67-b984-08008a249617",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225257.200233economia-finanzas.svg",
+      "name": "econ",
+      "title": "Economía y finanzas"
+    }
+  ],
+  "id": "sspm_16",
+  "isopen": true,
+  "license_id": "CC-BY-4.0",
+  "license_title": "Creative Commons Attribution 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "maintainer": "Subsecretaría de Programación Macroeconómica.",
+  "maintainer_email": "datoseconomicos@mecon.gov.ar",
+  "metadata_created": "2019-11-26T15:04:36.998715",
+  "metadata_modified": "2021-04-29T21:05:17.910077",
+  "name": "sspm-indices-obreros-ocupados-ioo",
+  "notes": "Índices de Obreros Ocupados (IOO) en la industria manufacturera.  Encuesta Industrial Base 1997",
+  "num_resources": 2,
+  "num_tags": 3,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:09.718132",
+    "description": "",
+    "id": "68f9ee22-5ec3-44cf-a32b-b87d9db46b93",
+    "image_url": "",
+    "is_organization": true,
+    "name": "sspm",
+    "revision_id": "bc058ce0-3540-4204-96cd-9f9ec79045b3",
+    "state": "active",
+    "title": "Subsecretaría de Programación Macroeconómica",
+    "type": "organization"
+  },
+  "owner_org": "68f9ee22-5ec3-44cf-a32b-b87d9db46b93",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/",
+      "attributesDescription": "[{\"title\": \"indice_tiempo\", \"type\": \"date\", \"specialType\": \"time_index\", \"specialTypeDetail\": \"R/P1Y\", \"id\": \"16.1_IT_1997_A_13\", \"scrapingIdentifierCell\": \"Z9\", \"scrapingDataStartCell\": \"Z10\", \"dataset_identifier\": \"16\", \"distribution_identifier\": \"16.1\"}, {\"title\": \"nivel_general\", \"type\": \"number\", \"description\": \"\\u00cdndice de Obreros Ocupados (IOO). \\u00cdndice General. Anuales\", \"id\": \"16.1_NG_1997_A_13\", \"scrapingIdentifierCell\": \"AA9\", \"scrapingDataStartCell\": \"AA10\", \"units\": \"\\u00cdndice 1997=100\", \"dataset_identifier\": \"16\", \"distribution_identifier\": \"16.1\"}, {\"title\": \"elaboracion_productos_alimenticios_bebidas\", \"type\": \"number\", \"description\": \"\\u00cdndice de Obreros Ocupados (IOO). Elaboraci\\u00f3n de productos alimenticios y bebidas. Anuales\", \"id\": \"16.1_EPAB_1997_A_42\", \"scrapingIdentifierCell\": \"AB9\", \"scrapingDataStartCell\": \"AB10\", \"units\": \"\\u00cdndice 1997=100\", \"dataset_identifier\": \"16\", \"distribution_identifier\": \"16.1\"}, {\"title\": \"elaboracion_productos_tabaco\", \"type\": \"number\", \"description\": \"\\u00cdndice de Obreros Ocupados (IOO). Elaboraci\\u00f3n de productos con tabaco. Anuales\", \"id\": \"16.1_EPT_1997_A_28\", \"scrapingIdentifierCell\": \"AC9\", \"scrapingDataStartCell\": \"AC10\", \"units\": \"\\u00cdndice 1997=100\", \"dataset_identifier\": \"16\", \"distribution_identifier\": \"16.1\"}, {\"title\": \"fabricacion_productos_textiles\", \"type\": \"number\", \"description\": \"\\u00cdndice de Obreros Ocupados (IOO). Fabricaci\\u00f3n de productos textiles. Anuales\", \"id\": \"16.1_FPT_1997_A_30\", \"scrapingIdentifierCell\": \"AD9\", \"scrapingDataStartCell\": \"AD10\", \"units\": \"\\u00cdndice 1997=100\", \"dataset_identifier\": \"16\", \"distribution_identifier\": \"16.1\"}, {\"title\": \"fabricacion_prendas_vestir_terminacion_tenido_pieles\", \"type\": \"number\", \"description\": \"\\u00cdndice de Obreros Ocupados (IOO). Fabricaci\\u00f3n de prendas para vestir, terminaci\\u00f3n y tenido de pieles. Anuales\", \"id\": \"16.1_FPVTTP_1997_A_52\", \"scrapingIdentifierCell\": \"AE9\", \"scrapingDataStartCell\": \"AE10\", \"units\": \"\\u00cdndice 1997=100\", \"dataset_identifier\": \"16\", \"distribution_identifier\": \"16.1\"}, {\"title\": \"curtido_cueros_art_marroquineria_talabarteria_calzado\", \"type\": \"number\", \"description\": \"\\u00cdndice de Obreros Ocupados (IOO). Curtido y terminaci\\u00f3n de cueros, fabricaci\\u00f3n de articulos de marroquiner\\u00eda, talabarteria y calzado. Anuales\", \"id\": \"16.1_CTCFAMTCSP_1997_A_53\", \"scrapingIdentifierCell\": \"AF9\", \"scrapingDataStartCell\": \"AF10\", \"units\": \"\\u00cdndice 1997=100\", \"dataset_identifier\": \"16\", \"distribution_identifier\": \"16.1\"}, {\"title\": \"prod_madera_fab_corcho_excepto_muebles_art_paja_trenzables\", \"type\": \"number\", \"description\": \"\\u00cdndice de Obreros Ocupados (IOO). Producci\\u00f3n y fabricaci\\u00f3n de productos d emadera y corcho expto muebles y articulos de materiales trenzables. Anuales\", \"id\": \"16.1_PMFPMCEMFAPMT_1997_A_58\", \"scrapingIdentifierCell\": \"AG9\", \"scrapingDataStartCell\": \"AG10\", \"units\": \"\\u00cdndice 1997=100\", \"dataset_identifier\": \"16\", \"distribution_identifier\": \"16.1\"}, {\"title\": \"fabricacion_papel_productos_papel\", \"type\": \"number\", \"description\": \"\\u00cdndice de Obreros Ocupados (IOO). Fabricaci\\u00f3n de papel y productos de papel. Anuales\", \"id\": \"16.1_FPPP_1997_A_33\", \"scrapingIdentifierCell\": \"AH9\", \"scrapingDataStartCell\": \"AH10\", \"units\": \"\\u00cdndice 1997=100\", \"dataset_identifier\": \"16\", \"distribution_identifier\": \"16.1\"}, {\"title\": \"edicion_impresion_reproduccion_grabaciones\", \"type\": \"number\", \"description\": \"\\u00cdndice de Obreros Ocupados (IOO). Edici\\u00f3n e impresi\\u00f3n, reproducci\\u00f3n y gravaciones. Anuales\", \"id\": \"16.1_EIRG_1997_A_42\", \"scrapingIdentifierCell\": \"AI9\", \"scrapingDataStartCell\": \"AI10\", \"units\": \"\\u00cdndice 1997=100\", \"dataset_identifier\": \"16\", \"distribution_identifier\": \"16.1\"}, {\"title\": \"fab_coque_prod_refinacion_petroleo_combustible_nuclear\", \"type\": \"number\", \"description\": \"\\u00cdndice de Obreros Ocupados (IOO). Fabricaci\\u00f3n de coque, productos de la refinaci\\u00f3n del petroleo, combustibles y productos nucleares. Anuales\", \"id\": \"16.1_FCPRPCN_1997_A_54\", \"scrapingIdentifierCell\": \"AJ9\", \"scrapingDataStartCell\": \"AJ10\", \"units\": \"\\u00cdndice 1997=100\", \"dataset_identifier\": \"16\", \"distribution_identifier\": \"16.1\"}, {\"title\": \"fabricacion_sustancias_productos_quimicos\", \"type\": \"number\", \"description\": \"\\u00cdndice de Obreros Ocupados (IOO). Fabricaci\\u00f3n sustencias y productos qu\\u00edmicos. Anuales\", \"id\": \"16.1_FSPQ_1997_A_41\", \"scrapingIdentifierCell\": \"AK9\", \"scrapingDataStartCell\": \"AK10\", \"units\": \"\\u00cdndice 1997=100\", \"dataset_identifier\": \"16\", \"distribution_identifier\": \"16.1\"}, {\"title\": \"fabricacion_productos_caucho_plastico\", \"type\": \"number\", \"description\": \"\\u00cdndice de Obreros Ocupados (IOO). Fabricaci\\u00f3n de productos de caucho. Anuales\", \"id\": \"16.1_FPCP_1997_A_37\", \"scrapingIdentifierCell\": \"AL9\", \"scrapingDataStartCell\": \"AL10\", \"units\": \"\\u00cdndice 1997=100\", \"dataset_identifier\": \"16\", \"distribution_identifier\": \"16.1\"}, {\"title\": \"fabricacion_productos_minerales_no_metalicos\", \"type\": \"number\", \"description\": \"\\u00cdndice de Obreros Ocupados (IOO). Fabricaci\\u00f3n de productos minerales no met\\u00e1licos. Anuales\", \"id\": \"16.1_FPMNM_1997_A_44\", \"scrapingIdentifierCell\": \"AM9\", \"scrapingDataStartCell\": \"AM10\", \"units\": \"\\u00cdndice 1997=100\", \"dataset_identifier\": \"16\", \"distribution_identifier\": \"16.1\"}, {\"title\": \"fabricacion_metales_comunes\", \"type\": \"number\", \"description\": \"\\u00cdndice de Obreros Ocupados (IOO). Fabricaci\\u00f3n de metales comunes. Anuales\", \"id\": \"16.1_FMC_1997_A_27\", \"scrapingIdentifierCell\": \"AN9\", \"scrapingDataStartCell\": \"AN10\", \"units\": \"\\u00cdndice 1997=100\", \"dataset_identifier\": \"16\", \"distribution_identifier\": \"16.1\"}, {\"title\": \"fabricacion_productos_elaborados_metal_excepto_maquinaria\", \"type\": \"number\", \"description\": \"\\u00cdndice de Obreros Ocupados (IOO). Fabricaci\\u00f3n productos elaborados de metal expto maquinaria y equipos. Anuales\", \"id\": \"16.1_FPEMEME_1997_A_57\", \"scrapingIdentifierCell\": \"AO9\", \"scrapingDataStartCell\": \"AO10\", \"units\": \"\\u00cdndice 1997=100\", \"dataset_identifier\": \"16\", \"distribution_identifier\": \"16.1\"}, {\"title\": \"fabricacion_maquinaria_equipos\", \"type\": \"number\", \"description\": \"\\u00cdndice de Obreros Ocupados (IOO). Fabricaci\\u00f3n maquinaria y equipos. Anuales\", \"id\": \"16.1_FME_1997_A_30\", \"scrapingIdentifierCell\": \"AP9\", \"scrapingDataStartCell\": \"AP10\", \"units\": \"\\u00cdndice 1997=100\", \"dataset_identifier\": \"16\", \"distribution_identifier\": \"16.1\"}, {\"title\": \"fabricacion_maquinaria_oficina_contabilidad_informatica\", \"type\": \"number\", \"description\": \"\\u00cdndice de Obreros Ocupados (IOO). Fabricaci\\u00f3n maquinaria y equipos de oficina. Anuales\", \"id\": \"16.1_FMOCI_1997_A_55\", \"scrapingIdentifierCell\": \"AQ9\", \"scrapingDataStartCell\": \"AQ10\", \"units\": \"\\u00cdndice 1997=100\", \"dataset_identifier\": \"16\", \"distribution_identifier\": \"16.1\"}, {\"title\": \"fabricacion_maquinaria_aparatos_electronicos\", \"type\": \"number\", \"description\": \"\\u00cdndice de Obreros Ocupados (IOO). Fabricaci\\u00f3n maquinaria y aparatos electronicos. Anuales\", \"id\": \"16.1_FMAE_1997_A_44\", \"scrapingIdentifierCell\": \"AR9\", \"scrapingDataStartCell\": \"AR10\", \"units\": \"\\u00cdndice 1997=100\", \"dataset_identifier\": \"16\", \"distribution_identifier\": \"16.1\"}, {\"title\": \"fabricacion_equipos_aparatos_radio_television_comunicaciones\", \"type\": \"number\", \"description\": \"\\u00cdndice de Obreros Ocupados (IOO). Fabricaci\\u00f3n equipos y aparatos (radios, televisi\\u00f3n y equipos de comunicaci\\u00f3n). Anuales\", \"id\": \"16.1_FEARTC_1997_A_60\", \"scrapingIdentifierCell\": \"AS9\", \"scrapingDataStartCell\": \"AS10\", \"units\": \"\\u00cdndice 1997=100\", \"dataset_identifier\": \"16\", \"distribution_identifier\": \"16.1\"}, {\"title\": \"fabricacion_instrumentos_medicos_opticos_precision_relojes\", \"type\": \"number\", \"description\": \"\\u00cdndice de Obreros Ocupados (IOO). Fabricaci\\u00f3n instrumentos m\\u00e9dicos, opticos, de presici\\u00f3n y relojes. Anuales\", \"id\": \"16.1_FIMOPR_1997_A_58\", \"scrapingIdentifierCell\": \"AT9\", \"scrapingDataStartCell\": \"AT10\", \"units\": \"\\u00cdndice 1997=100\", \"dataset_identifier\": \"16\", \"distribution_identifier\": \"16.1\"}, {\"title\": \"fabricacion_vehiculos_automotores_remolques_semirremolques\", \"type\": \"number\", \"description\": \"\\u00cdndice de Obreros Ocupados (IOO). Fabricaci\\u00f3n veh\\u00edculos automotores, remolques y semirremolques. Anuales\", \"id\": \"16.1_FVARS_1997_A_58\", \"scrapingIdentifierCell\": \"AU9\", \"scrapingDataStartCell\": \"AU10\", \"units\": \"\\u00cdndice 1997=100\", \"dataset_identifier\": \"16\", \"distribution_identifier\": \"16.1\"}, {\"title\": \"fabricacion_equipo_transporte\", \"type\": \"number\", \"description\": \"\\u00cdndice de Obreros Ocupados (IOO). Fabricaci\\u00f3n de equipos de transporte. Anuales\", \"id\": \"16.1_FET_1997_A_29\", \"scrapingIdentifierCell\": \"AV9\", \"scrapingDataStartCell\": \"AV10\", \"units\": \"\\u00cdndice 1997=100\", \"dataset_identifier\": \"16\", \"distribution_identifier\": \"16.1\"}, {\"title\": \"fabricacion_muebles_colchones_industrias_manufactureras\", \"type\": \"number\", \"description\": \"\\u00cdndice de Obreros Ocupados (IOO). Fabricaci\\u00f3n de muebles, colchones (industria manufacturera). Anuales\", \"id\": \"16.1_FMCIM_1997_A_55\", \"scrapingIdentifierCell\": \"AW9\", \"scrapingDataStartCell\": \"AW10\", \"units\": \"\\u00cdndice 1997=100\", \"dataset_identifier\": \"16\", \"distribution_identifier\": \"16.1\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-09-28T00:00:00",
+      "datastore_active": false,
+      "description": "Índices de Obreros Ocupados (IOO). Valores anuales.. Encuesta Industrial Base 1997.",
+      "fileName": "encuesta-industrial-indices-obreros-ocupados-valores-anuales-base-1997.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "sspm_16.1",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Índices de Obreros Ocupados (IOO). Valores anuales.",
+      "package_id": "sspm_16",
+      "position": 0,
+      "resource_type": null,
+      "revision_id": "680ad451-5af5-4455-b31c-592846d3c97e",
+      "size": null,
+      "state": "active",
+      "url": "https://infra.datos.gob.ar/catalog/sspm/dataset/16/distribution/16.1/download/encuesta-industrial-indices-obreros-ocupados-valores-anuales-base-1997.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/",
+      "attributesDescription": "[{\"title\": \"indice_tiempo\", \"type\": \"date\", \"specialType\": \"time_index\", \"specialTypeDetail\": \"R/P3M\", \"id\": \"16.2_IT_1997_T_13\", \"scrapingIdentifierCell\": \"Z47\", \"scrapingDataStartCell\": \"Z48\", \"dataset_identifier\": \"16\", \"distribution_identifier\": \"16.2\"}, {\"title\": \"nivel_general\", \"type\": \"number\", \"description\": \"\\u00cdndice de Obreros Ocupados (IOO). \\u00cdndice General. Anuales\", \"id\": \"16.2_NG_1997_T_13\", \"scrapingIdentifierCell\": \"AA47\", \"scrapingDataStartCell\": \"AA48\", \"units\": \"\\u00cdndice 1997=100\", \"dataset_identifier\": \"16\", \"distribution_identifier\": \"16.2\"}, {\"title\": \"elaboracion_productos_alimenticios_bebidas\", \"type\": \"number\", \"description\": \"\\u00cdndice de Obreros Ocupados (IOO). Elaboraci\\u00f3n de productos alimenticios y bebidas. Anuales\", \"id\": \"16.2_EPAB_1997_T_42\", \"scrapingIdentifierCell\": \"AB47\", \"scrapingDataStartCell\": \"AB48\", \"units\": \"\\u00cdndice 1997=100\", \"dataset_identifier\": \"16\", \"distribution_identifier\": \"16.2\"}, {\"title\": \"elaboracion_productos_tabaco\", \"type\": \"number\", \"description\": \"\\u00cdndice de Obreros Ocupados (IOO). Elaboraci\\u00f3n de productos con tabaco. Anuales\", \"id\": \"16.2_EPT_1997_T_28\", \"scrapingIdentifierCell\": \"AC47\", \"scrapingDataStartCell\": \"AC48\", \"units\": \"\\u00cdndice 1997=100\", \"dataset_identifier\": \"16\", \"distribution_identifier\": \"16.2\"}, {\"title\": \"fabricacion_productos_textiles\", \"type\": \"number\", \"description\": \"\\u00cdndice de Obreros Ocupados (IOO). Fabricaci\\u00f3n de productos textiles. Anuales\", \"id\": \"16.2_FPT_1997_T_30\", \"scrapingIdentifierCell\": \"AD47\", \"scrapingDataStartCell\": \"AD48\", \"units\": \"\\u00cdndice 1997=100\", \"dataset_identifier\": \"16\", \"distribution_identifier\": \"16.2\"}, {\"title\": \"fabricacion_prendas_vestir_terminacion_tenido_pieles\", \"type\": \"number\", \"description\": \"\\u00cdndice de Obreros Ocupados (IOO). Fabricaci\\u00f3n de prendas para vestir, terminaci\\u00f3n y tenido de pieles. Anuales\", \"id\": \"16.2_FPVTTP_1997_T_52\", \"scrapingIdentifierCell\": \"AE47\", \"scrapingDataStartCell\": \"AE48\", \"units\": \"\\u00cdndice 1997=100\", \"dataset_identifier\": \"16\", \"distribution_identifier\": \"16.2\"}, {\"title\": \"curtido_cueros_art_marroquineria_talabarteria_calzado\", \"type\": \"number\", \"description\": \"\\u00cdndice de Obreros Ocupados (IOO). Curtido y terminaci\\u00f3n de cueros, fabricaci\\u00f3n de articulos de marroquiner\\u00eda, talabarteria y calzado. Anuales\", \"id\": \"16.2_CTCFAMTCSP_1997_T_53\", \"scrapingIdentifierCell\": \"AF47\", \"scrapingDataStartCell\": \"AF48\", \"units\": \"\\u00cdndice 1997=100\", \"dataset_identifier\": \"16\", \"distribution_identifier\": \"16.2\"}, {\"title\": \"prod_madera_fab_corcho_excepto_muebles_art_paja_trenzables\", \"type\": \"number\", \"description\": \"\\u00cdndice de Obreros Ocupados (IOO). Producci\\u00f3n y fabricaci\\u00f3n de productos d emadera y corcho expto muebles y articulos de materiales trenzables. Anuales\", \"id\": \"16.2_PMFPMCEMFAPMT_1997_T_58\", \"scrapingIdentifierCell\": \"AG47\", \"scrapingDataStartCell\": \"AG48\", \"units\": \"\\u00cdndice 1997=100\", \"dataset_identifier\": \"16\", \"distribution_identifier\": \"16.2\"}, {\"title\": \"fabricacion_papel_productos_papel\", \"type\": \"number\", \"description\": \"\\u00cdndice de Obreros Ocupados (IOO). Fabricaci\\u00f3n de papel y productos de papel. Anuales\", \"id\": \"16.2_FPPP_1997_T_33\", \"scrapingIdentifierCell\": \"AH47\", \"scrapingDataStartCell\": \"AH48\", \"units\": \"\\u00cdndice 1997=100\", \"dataset_identifier\": \"16\", \"distribution_identifier\": \"16.2\"}, {\"title\": \"edicion_impresion_reproduccion_grabaciones\", \"type\": \"number\", \"description\": \"\\u00cdndice de Obreros Ocupados (IOO). Edici\\u00f3n e impresi\\u00f3n, reproducci\\u00f3n y gravaciones. Anuales\", \"id\": \"16.2_EIRG_1997_T_42\", \"scrapingIdentifierCell\": \"AI47\", \"scrapingDataStartCell\": \"AI48\", \"units\": \"\\u00cdndice 1997=100\", \"dataset_identifier\": \"16\", \"distribution_identifier\": \"16.2\"}, {\"title\": \"fab_coque_prod_refinacion_petroleo_combustible_nuclear\", \"type\": \"number\", \"description\": \"\\u00cdndice de Obreros Ocupados (IOO). Fabricaci\\u00f3n de coque, productos de la refinaci\\u00f3n del petroleo, combustibles y productos nucleares. Anuales\", \"id\": \"16.2_FCPRPCN_1997_T_54\", \"scrapingIdentifierCell\": \"AJ47\", \"scrapingDataStartCell\": \"AJ48\", \"units\": \"\\u00cdndice 1997=100\", \"dataset_identifier\": \"16\", \"distribution_identifier\": \"16.2\"}, {\"title\": \"fabricacion_sustancias_productos_quimicos\", \"type\": \"number\", \"description\": \"\\u00cdndice de Obreros Ocupados (IOO). Fabricaci\\u00f3n sustencias y productos qu\\u00edmicos. Anuales\", \"id\": \"16.2_FSPQ_1997_T_41\", \"scrapingIdentifierCell\": \"AK47\", \"scrapingDataStartCell\": \"AK48\", \"units\": \"\\u00cdndice 1997=100\", \"dataset_identifier\": \"16\", \"distribution_identifier\": \"16.2\"}, {\"title\": \"fabricacion_productos_caucho_plastico\", \"type\": \"number\", \"description\": \"\\u00cdndice de Obreros Ocupados (IOO). Fabricaci\\u00f3n de productos de caucho. Anuales\", \"id\": \"16.2_FPCP_1997_T_37\", \"scrapingIdentifierCell\": \"AL47\", \"scrapingDataStartCell\": \"AL48\", \"units\": \"\\u00cdndice 1997=100\", \"dataset_identifier\": \"16\", \"distribution_identifier\": \"16.2\"}, {\"title\": \"fabricacion_productos_minerales_no_metalicos\", \"type\": \"number\", \"description\": \"\\u00cdndice de Obreros Ocupados (IOO). Fabricaci\\u00f3n de productos minerales no met\\u00e1licos. Anuales\", \"id\": \"16.2_FPMNM_1997_T_44\", \"scrapingIdentifierCell\": \"AM47\", \"scrapingDataStartCell\": \"AM48\", \"units\": \"\\u00cdndice 1997=100\", \"dataset_identifier\": \"16\", \"distribution_identifier\": \"16.2\"}, {\"title\": \"fabricacion_metales_comunes\", \"type\": \"number\", \"description\": \"\\u00cdndice de Obreros Ocupados (IOO). Fabricaci\\u00f3n de metales comunes. Anuales\", \"id\": \"16.2_FMC_1997_T_27\", \"scrapingIdentifierCell\": \"AN47\", \"scrapingDataStartCell\": \"AN48\", \"units\": \"\\u00cdndice 1997=100\", \"dataset_identifier\": \"16\", \"distribution_identifier\": \"16.2\"}, {\"title\": \"fabricacion_productos_elaborados_metal_excepto_maquinaria\", \"type\": \"number\", \"description\": \"\\u00cdndice de Obreros Ocupados (IOO). Fabricaci\\u00f3n productos elaborados de metal expto maquinaria y equipos. Anuales\", \"id\": \"16.2_FPEMEME_1997_T_57\", \"scrapingIdentifierCell\": \"AO47\", \"scrapingDataStartCell\": \"AO48\", \"units\": \"\\u00cdndice 1997=100\", \"dataset_identifier\": \"16\", \"distribution_identifier\": \"16.2\"}, {\"title\": \"fabricacion_maquinaria_equipos\", \"type\": \"number\", \"description\": \"\\u00cdndice de Obreros Ocupados (IOO). Fabricaci\\u00f3n maquinaria y equipos. Anuales\", \"id\": \"16.2_FME_1997_T_30\", \"scrapingIdentifierCell\": \"AP47\", \"scrapingDataStartCell\": \"AP48\", \"units\": \"\\u00cdndice 1997=100\", \"dataset_identifier\": \"16\", \"distribution_identifier\": \"16.2\"}, {\"title\": \"fabricacion_maquinaria_oficina_contabilidad_informatica\", \"type\": \"number\", \"description\": \"\\u00cdndice de Obreros Ocupados (IOO). Fabricaci\\u00f3n maquinaria y equipos de oficina. Anuales\", \"id\": \"16.2_FMOCI_1997_T_55\", \"scrapingIdentifierCell\": \"AQ47\", \"scrapingDataStartCell\": \"AQ48\", \"units\": \"\\u00cdndice 1997=100\", \"dataset_identifier\": \"16\", \"distribution_identifier\": \"16.2\"}, {\"title\": \"fabricacion_maquinaria_aparatos_electronicos\", \"type\": \"number\", \"description\": \"\\u00cdndice de Obreros Ocupados (IOO). Fabricaci\\u00f3n maquinaria y aparatos electronicos. Anuales\", \"id\": \"16.2_FMAE_1997_T_44\", \"scrapingIdentifierCell\": \"AR47\", \"scrapingDataStartCell\": \"AR48\", \"units\": \"\\u00cdndice 1997=100\", \"dataset_identifier\": \"16\", \"distribution_identifier\": \"16.2\"}, {\"title\": \"fabricacion_equipos_aparatos_radio_television_comunicaciones\", \"type\": \"number\", \"description\": \"\\u00cdndice de Obreros Ocupados (IOO). Fabricaci\\u00f3n equipos y aparatos (radios, televisi\\u00f3n y equipos de comunicaci\\u00f3n). Anuales\", \"id\": \"16.2_FEARTC_1997_T_60\", \"scrapingIdentifierCell\": \"AS47\", \"scrapingDataStartCell\": \"AS48\", \"units\": \"\\u00cdndice 1997=100\", \"dataset_identifier\": \"16\", \"distribution_identifier\": \"16.2\"}, {\"title\": \"fabricacion_instrumentos_medicos_opticos_precision_relojes\", \"type\": \"number\", \"description\": \"\\u00cdndice de Obreros Ocupados (IOO). Fabricaci\\u00f3n instrumentos m\\u00e9dicos, opticos, de presici\\u00f3n y relojes. Anuales\", \"id\": \"16.2_FIMOPR_1997_T_58\", \"scrapingIdentifierCell\": \"AT47\", \"scrapingDataStartCell\": \"AT48\", \"units\": \"\\u00cdndice 1997=100\", \"dataset_identifier\": \"16\", \"distribution_identifier\": \"16.2\"}, {\"title\": \"fabricacion_vehiculos_automotores_remolques_semirremolques\", \"type\": \"number\", \"description\": \"\\u00cdndice de Obreros Ocupados (IOO). Fabricaci\\u00f3n veh\\u00edculos automotores, remolques y semirremolques. Anuales\", \"id\": \"16.2_FVARS_1997_T_58\", \"scrapingIdentifierCell\": \"AU47\", \"scrapingDataStartCell\": \"AU48\", \"units\": \"\\u00cdndice 1997=100\", \"dataset_identifier\": \"16\", \"distribution_identifier\": \"16.2\"}, {\"title\": \"fabricacion_equipo_transporte\", \"type\": \"number\", \"description\": \"\\u00cdndice de Obreros Ocupados (IOO). Fabricaci\\u00f3n de equipos de transporte. Anuales\", \"id\": \"16.2_FET_1997_T_29\", \"scrapingIdentifierCell\": \"AV47\", \"scrapingDataStartCell\": \"AV48\", \"units\": \"\\u00cdndice 1997=100\", \"dataset_identifier\": \"16\", \"distribution_identifier\": \"16.2\"}, {\"title\": \"fabricacion_muebles_colchones_industrias_manufactureras\", \"type\": \"number\", \"description\": \"\\u00cdndice de Obreros Ocupados (IOO). Fabricaci\\u00f3n de muebles, colchones (industria manufacturera). Anuales\", \"id\": \"16.2_FMCIM_1997_T_55\", \"scrapingIdentifierCell\": \"AW47\", \"scrapingDataStartCell\": \"AW48\", \"units\": \"\\u00cdndice 1997=100\", \"dataset_identifier\": \"16\", \"distribution_identifier\": \"16.2\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-09-28T00:00:00",
+      "datastore_active": false,
+      "description": "Índices de Obreros Ocupados (IOO). Valores trimestrales.. Encuesta Industrial Base 1997.",
+      "fileName": "encuesta-industrial-indices-obreros-ocupados-valores-trimestrales-base-1997.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "sspm_16.2",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Índices de Obreros Ocupados (IOO). Valores trimestrales.",
+      "package_id": "sspm_16",
+      "position": 1,
+      "resource_type": null,
+      "revision_id": "680ad451-5af5-4455-b31c-592846d3c97e",
+      "size": null,
+      "state": "active",
+      "url": "https://infra.datos.gob.ar/catalog/sspm/dataset/16/distribution/16.2/download/encuesta-industrial-indices-obreros-ocupados-valores-trimestrales-base-1997.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "680ad451-5af5-4455-b31c-592846d3c97e",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "Actividad",
+      "id": "a7695c51-c893-4ece-8ff9-306c197afdd7",
+      "name": "Actividad",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Empleo e Ingresos",
+      "id": "0d41bcfd-c3a4-4ff7-8aa1-dd5c3ac51d0b",
+      "name": "Empleo e Ingresos",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Información Económica al Día",
+      "id": "0d300a9a-0802-46c3-9a40-2f28ddf050ec",
+      "name": "Información Económica al Día",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Índices de Obreros Ocupados (IOO)",
+  "type": "dataset",
+  "url": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/",
+  "version": null
+}

@@ -1,0 +1,302 @@
+{
+  "author": "Ministerio de Turismo y Deportes. Subsecretaría de Desarrollo Estratégico. Dirección Nacional de Mercados y Estadística",
+  "author_email": "estadistica@turismo.gob.ar",
+  "creator_user_id": "dc157489-51c6-44ce-bd63-3bd983d60778",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "eventual"
+    },
+    {
+      "key": "issued",
+      "value": "2021-02-09T17:37:31.804014"
+    },
+    {
+      "key": "language",
+      "value": "[\"spa\"]"
+    },
+    {
+      "key": "modified",
+      "value": "2021-04-26T09:25:10.215427"
+    },
+    {
+      "key": "source",
+      "value": "Jefatura de Gabinete de Ministros. Secretaría de Innovación Pública."
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"GOVE\", \"SOCI\"]"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Gobierno y sector público",
+      "display_name": "Gobierno y sector público",
+      "id": "e6f07c77-3987-4e71-98a6-731b1aaf74f4",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225353.395233gobierno-sector-publico.svg",
+      "name": "gove",
+      "title": "Gobierno y sector público"
+    },
+    {
+      "description": "Población y sociedad",
+      "display_name": "Población y sociedad",
+      "id": "eb5df7fa-064a-4b51-89f6-af323ee1bf85",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225728.341804poblacion-sociedad.svg",
+      "name": "soci",
+      "title": "Población y sociedad"
+    }
+  ],
+  "id": "turismo_fdd18127-d54c-45bc-946d-5ceb445a2f32",
+  "isopen": true,
+  "license_id": "CC-BY-4.0",
+  "license_title": "Creative Commons Attribution 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "maintainer": "Ministerio de Turismo y Deportes. Subsecretaría de Desarrollo Estratégico. Dirección Nacional de Mercados y Estadística",
+  "maintainer_email": "estadistica@turismo.gob.ar",
+  "metadata_created": "2021-02-10T14:55:41.711290",
+  "metadata_modified": "2021-04-29T21:04:13.805733",
+  "name": "turismo-certificado-unico-habilitante-para-circulacion-cuhc---verano",
+  "notes": "Certificados de circulación emitidos para ir de vacaciones durante la emergencia sanitaria",
+  "num_resources": 6,
+  "num_tags": 9,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:07.685134",
+    "description": "",
+    "id": "3a751de6-128e-4f9a-a479-4672ef79a0e8",
+    "image_url": "",
+    "is_organization": true,
+    "name": "turismo",
+    "revision_id": "082d6431-73c3-4ce5-a589-b9cda65a2231",
+    "state": "active",
+    "title": "Ministerio de Turismo y Deportes",
+    "type": "organization"
+  },
+  "owner_org": "3a751de6-128e-4f9a-a479-4672ef79a0e8",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "http://datos.yvera.gob.ar/dataset/fdd18127-d54c-45bc-946d-5ceb445a2f32/resource/ec36bd05-6ed0-492b-be03-ae10b356ce81",
+      "attributesDescription": "[{\"description\": \"Fecha de ingreso al destino\", \"specialTypeDetail\": \"R/P1D\", \"title\": \"indice_tiempo\", \"specialType\": \"time_index\", \"type\": \"date\", \"id\": \"cuhc_1\"}, {\"id\": \"cuhc_2\", \"units\": \"certificados\", \"type\": \"number\", \"description\": \"Cantidad de certificados emitidos para viajar a la provincia de Buenos Aires como destino\", \"title\": \"certificados_destino_buenos_aires\"}, {\"id\": \"cuhc_3\", \"units\": \"certificados\", \"type\": \"number\", \"description\": \"Cantidad de certificados emitidos para viajar a la provincia de Catamarca como destino\", \"title\": \"certificados_destino_catamarca\"}, {\"id\": \"cuhc_4\", \"units\": \"certificados\", \"type\": \"number\", \"description\": \"Cantidad de certificados emitidos para viajar a la provincia de Chubut como destino\", \"title\": \"certificados_destino_chubut\"}, {\"id\": \"cuhc_5\", \"units\": \"certificados\", \"type\": \"number\", \"description\": \"Cantidad de certificados emitidos para viajar a la provincia de C\\u00f3rdoba como destino\", \"title\": \"certificados_destino_cordoba\"}, {\"id\": \"cuhc_6\", \"units\": \"certificados\", \"type\": \"number\", \"description\": \"Cantidad de certificados emitidos para viajar a la provincia de Entre R\\u00edos como destino\", \"title\": \"certificados_destino_entre_rios\"}, {\"id\": \"cuhc_7\", \"units\": \"certificados\", \"type\": \"number\", \"description\": \"Cantidad de certificados emitidos para viajar a la provincia de Jujuy como destino\", \"title\": \"certificados_destino_jujuy\"}, {\"id\": \"cuhc_8\", \"units\": \"certificados\", \"type\": \"number\", \"description\": \"Cantidad de certificados emitidos para viajar a la provincia de La Rioja como destino\", \"title\": \"certificados_destino_la_rioja\"}, {\"id\": \"cuhc_9\", \"units\": \"certificados\", \"type\": \"number\", \"description\": \"Cantidad de certificados emitidos para viajar a la provincia de Mendoza como destino\", \"title\": \"certificados_destino_mendoza\"}, {\"id\": \"cuhc_10\", \"units\": \"certificados\", \"type\": \"number\", \"description\": \"Cantidad de certificados emitidos para viajar a la provincia de Misiones como destino\", \"title\": \"certificados_destino_misiones\"}, {\"id\": \"cuhc_11\", \"units\": \"certificados\", \"type\": \"number\", \"description\": \"Cantidad de certificados emitidos para viajar a la provincia de Neuqu\\u00e9n como destino\", \"title\": \"certificados_destino_neuquen\"}, {\"id\": \"cuhc_12\", \"units\": \"certificados\", \"type\": \"number\", \"description\": \"Cantidad de certificados emitidos para viajar a la provincia de R\\u00edo Negro como destino\", \"title\": \"certificados_destino_rio_negro\"}, {\"id\": \"cuhc_13\", \"units\": \"certificados\", \"type\": \"number\", \"description\": \"Cantidad de certificados emitidos para viajar a la provincia de Salta como destino\", \"title\": \"certificados_destino_salta\"}, {\"id\": \"cuhc_14\", \"units\": \"certificados\", \"type\": \"number\", \"description\": \"Cantidad de certificados emitidos para viajar a la provincia de San Juan como destino\", \"title\": \"certificados_destino_san_juan\"}, {\"id\": \"cuhc_15\", \"units\": \"certificados\", \"type\": \"number\", \"description\": \"Cantidad de certificados emitidos para viajar a la provincia de San Luis como destino\", \"title\": \"certificados_destino_san_luis\"}, {\"id\": \"cuhc_16\", \"units\": \"certificados\", \"type\": \"number\", \"description\": \"Cantidad de certificados emitidos para viajar a la provincia de Santa F\\u00e9 como destino\", \"title\": \"certificados_destino_santa_fe\"}, {\"id\": \"cuhc_17\", \"units\": \"certificados\", \"type\": \"number\", \"description\": \"Cantidad de certificados emitidos para viajar a la provincia de Tierra Del Fuego como destino\", \"title\": \"certificados_destino_tierra_del_fuego\"}, {\"id\": \"cuhc_18\", \"units\": \"certificados\", \"type\": \"number\", \"description\": \"Cantidad de certificados emitidos para viajar a la provincia de Tucum\\u00e1n como destino\", \"title\": \"certificados_destino_tucuman\"}, {\"id\": \"cuhc_19\", \"units\": \"personas\", \"type\": \"number\", \"description\": \"Cantidad de viajeros que eligieron a Buenos Aires como destino\", \"title\": \"personas_destino_buenos_aires\"}, {\"id\": \"cuhc_20\", \"units\": \"personas\", \"type\": \"number\", \"description\": \"Cantidad de viajeros que eligieron a Catamarca como destino\", \"title\": \"personas_destino_catamarca\"}, {\"id\": \"cuhc_21\", \"units\": \"personas\", \"type\": \"number\", \"description\": \"Cantidad de viajeros que eligieron a Chubut como destino\", \"title\": \"personas_destino_chubut\"}, {\"id\": \"cuhc_22\", \"units\": \"personas\", \"type\": \"number\", \"description\": \"Cantidad de viajeros que eligieron a C\\u00f3rdoba como destino\", \"title\": \"personas_destino_cordoba\"}, {\"id\": \"cuhc_23\", \"units\": \"personas\", \"type\": \"number\", \"description\": \"Cantidad de viajeros que eligieron a Entre R\\u00edos como destino\", \"title\": \"personas_destino_entre_rios\"}, {\"id\": \"cuhc_24\", \"units\": \"personas\", \"type\": \"number\", \"description\": \"Cantidad de viajeros que eligieron a Jujuy como destino\", \"title\": \"personas_destino_jujuy\"}, {\"id\": \"cuhc_25\", \"units\": \"personas\", \"type\": \"number\", \"description\": \"Cantidad de viajeros que eligieron a La Rioja como destino\", \"title\": \"personas_destino_la_rioja\"}, {\"id\": \"cuhc_26\", \"units\": \"personas\", \"type\": \"number\", \"description\": \"Cantidad de viajeros que eligieron a Mendoza como destino\", \"title\": \"personas_destino_mendoza\"}, {\"id\": \"cuhc_27\", \"units\": \"personas\", \"type\": \"number\", \"description\": \"Cantidad de viajeros que eligieron a Misiones como destino\", \"title\": \"personas_destino_misiones\"}, {\"id\": \"cuhc_28\", \"units\": \"personas\", \"type\": \"number\", \"description\": \"Cantidad de viajeros que eligieron a Neuqu\\u00e9n como destino\", \"title\": \"personas_destino_neuquen\"}, {\"id\": \"cuhc_29\", \"units\": \"personas\", \"type\": \"number\", \"description\": \"Cantidad de viajeros que eligieron a R\\u00edo Negro como destino\", \"title\": \"personas_destino_rio_negro\"}, {\"id\": \"cuhc_30\", \"units\": \"personas\", \"type\": \"number\", \"description\": \"Cantidad de viajeros que eligieron a Salta como destino\", \"title\": \"personas_destino_salta\"}, {\"id\": \"cuhc_31\", \"units\": \"personas\", \"type\": \"number\", \"description\": \"Cantidad de viajeros que eligieron a San Juan como destino\", \"title\": \"personas_destino_san_juan\"}, {\"id\": \"cuhc_32\", \"units\": \"personas\", \"type\": \"number\", \"description\": \"Cantidad de viajeros que eligieron a San Luis como destino\", \"title\": \"personas_destino_san_luis\"}, {\"id\": \"cuhc_33\", \"units\": \"personas\", \"type\": \"number\", \"description\": \"Cantidad de viajeros que eligieron a Santa F\\u00e9 como destino\", \"title\": \"personas_destino_santa_fe\"}, {\"id\": \"cuhc_34\", \"units\": \"personas\", \"type\": \"number\", \"description\": \"Cantidad de viajeros que eligieron a Tierra Del Fuego como destino\", \"title\": \"personas_destino_tierra_del_fuego\"}, {\"id\": \"cuhc_35\", \"units\": \"personas\", \"type\": \"number\", \"description\": \"Cantidad de viajeros que eligieron a Tucum\\u00e1n como destino\", \"title\": \"personas_destino_tucuman\"}, {\"id\": \"cuhc_36\", \"units\": \"certificados\", \"type\": \"number\", \"description\": \"Cantidad de certificados emitidos para viajar desde Buenos Aires como origen\", \"title\": \"certificados_origen_buenos_aires\"}, {\"id\": \"cuhc_37\", \"units\": \"certificados\", \"type\": \"number\", \"description\": \"Cantidad de certificados emitidos para viajar desde Catamarca como origen\", \"title\": \"certificados_origen_catamarca\"}, {\"id\": \"cuhc_38\", \"units\": \"certificados\", \"type\": \"number\", \"description\": \"Cantidad de certificados emitidos para viajar desde Chaco como origen\", \"title\": \"certificados_origen_chaco\"}, {\"id\": \"cuhc_39\", \"units\": \"certificados\", \"type\": \"number\", \"description\": \"Cantidad de certificados emitidos para viajar desde Chubut como origen\", \"title\": \"certificados_origen_chubut\"}, {\"id\": \"cuhc_40\", \"units\": \"certificados\", \"type\": \"number\", \"description\": \"Cantidad de certificados emitidos para viajar desde Ciudad Aut\\u00f3noma de Buenos Aires como origen\", \"title\": \"certificados_origen_ciudad_autonoma_de_buenos_aires\"}, {\"id\": \"cuhc_41\", \"units\": \"certificados\", \"type\": \"number\", \"description\": \"Cantidad de certificados emitidos para viajar desde C\\u00f3rdoba como origen\", \"title\": \"certificados_origen_cordoba\"}, {\"id\": \"cuhc_42\", \"units\": \"certificados\", \"type\": \"number\", \"description\": \"Cantidad de certificados emitidos para viajar desde Corrientes como origen\", \"title\": \"certificados_origen_corrientes\"}, {\"id\": \"cuhc_43\", \"units\": \"certificados\", \"type\": \"number\", \"description\": \"Cantidad de certificados emitidos para viajar desde Entre R\\u00edos como origen\", \"title\": \"certificados_origen_entre_rios\"}, {\"id\": \"cuhc_44\", \"units\": \"certificados\", \"type\": \"number\", \"description\": \"Cantidad de certificados emitidos para viajar desde Formosa como origen\", \"title\": \"certificados_origen_formosa\"}, {\"id\": \"cuhc_45\", \"units\": \"certificados\", \"type\": \"number\", \"description\": \"Cantidad de certificados emitidos para viajar desde Jujuy como origen\", \"title\": \"certificados_origen_jujuy\"}, {\"id\": \"cuhc_46\", \"units\": \"certificados\", \"type\": \"number\", \"description\": \"Cantidad de certificados emitidos para viajar desde La Pampa como origen\", \"title\": \"certificados_origen_la_pampa\"}, {\"id\": \"cuhc_47\", \"units\": \"certificados\", \"type\": \"number\", \"description\": \"Cantidad de certificados emitidos para viajar desde La Rioja como origen\", \"title\": \"certificados_origen_la_rioja\"}, {\"id\": \"cuhc_48\", \"units\": \"certificados\", \"type\": \"number\", \"description\": \"Cantidad de certificados emitidos para viajar desde Mendoza como origen\", \"title\": \"certificados_origen_mendoza\"}, {\"id\": \"cuhc_49\", \"units\": \"certificados\", \"type\": \"number\", \"description\": \"Cantidad de certificados emitidos para viajar desde Misiones como origen\", \"title\": \"certificados_origen_misiones\"}, {\"id\": \"cuhc_50\", \"units\": \"certificados\", \"type\": \"number\", \"description\": \"Cantidad de certificados emitidos para viajar desde Neuqu\\u00e9n como origen\", \"title\": \"certificados_origen_neuquen\"}, {\"id\": \"cuhc_51\", \"units\": \"certificados\", \"type\": \"number\", \"description\": \"Cantidad de certificados emitidos para viajar desde R\\u00edo Negro como origen\", \"title\": \"certificados_origen_rio_negro\"}, {\"id\": \"cuhc_52\", \"units\": \"certificados\", \"type\": \"number\", \"description\": \"Cantidad de certificados emitidos para viajar desde Salta como origen\", \"title\": \"certificados_origen_salta\"}, {\"id\": \"cuhc_53\", \"units\": \"certificados\", \"type\": \"number\", \"description\": \"Cantidad de certificados emitidos para viajar desde San Juan como origen\", \"title\": \"certificados_origen_san_juan\"}, {\"id\": \"cuhc_54\", \"units\": \"certificados\", \"type\": \"number\", \"description\": \"Cantidad de certificados emitidos para viajar desde San Luis como origen\", \"title\": \"certificados_origen_san_luis\"}, {\"id\": \"cuhc_55\", \"units\": \"certificados\", \"type\": \"number\", \"description\": \"Cantidad de certificados emitidos para viajar desde Santa Cruz como origen\", \"title\": \"certificados_origen_santa_cruz\"}, {\"id\": \"cuhc_56\", \"units\": \"certificados\", \"type\": \"number\", \"description\": \"Cantidad de certificados emitidos para viajar desde Santa F\\u00e9 como origen\", \"title\": \"certificados_origen_santa_fe\"}, {\"id\": \"cuhc_57\", \"units\": \"certificados\", \"type\": \"number\", \"description\": \"Cantidad de certificados emitidos para viajar desde Santiago Del Estero como origen\", \"title\": \"certificados_origen_santiago_del_estero\"}, {\"id\": \"cuhc_58\", \"units\": \"certificados\", \"type\": \"number\", \"description\": \"Cantidad de certificados emitidos para viajar desde Tierra Del Fuego como origen\", \"title\": \"certificados_origen_tierra_del_fuego\"}, {\"id\": \"cuhc_59\", \"units\": \"certificados\", \"type\": \"number\", \"description\": \"Cantidad de certificados emitidos para viajar desde Tucum\\u00e1n como origen\", \"title\": \"certificados_origen_tucuman\"}, {\"id\": \"cuhc_60\", \"units\": \"personas\", \"type\": \"number\", \"description\": \"Cantidad de viajeros cuyo origen es la provincia de Buenos Aires\", \"title\": \"personas_origen_buenos_aires\"}, {\"id\": \"cuhc_61\", \"units\": \"personas\", \"type\": \"number\", \"description\": \"Cantidad de viajeros cuyo origen es la provincia de Catamarca\", \"title\": \"personas_origen_catamarca\"}, {\"id\": \"cuhc_62\", \"units\": \"personas\", \"type\": \"number\", \"description\": \"Cantidad de viajeros cuyo origen es la provincia de Chaco\", \"title\": \"personas_origen_chaco\"}, {\"id\": \"cuhc_63\", \"units\": \"personas\", \"type\": \"number\", \"description\": \"Cantidad de viajeros cuyo origen es la provincia de Chubut\", \"title\": \"personas_origen_chubut\"}, {\"id\": \"cuhc_64\", \"units\": \"personas\", \"type\": \"number\", \"description\": \"Cantidad de viajeros cuyo origen es la provincia de Ciudad Aut\\u00f3noma de Buenos Aires\", \"title\": \"personas_origen_ciudad_autonoma_de_buenos_aires\"}, {\"id\": \"cuhc_65\", \"units\": \"personas\", \"type\": \"number\", \"description\": \"Cantidad de viajeros cuyo origen es la provincia de C\\u00f3rdoba\", \"title\": \"personas_origen_cordoba\"}, {\"id\": \"cuhc_66\", \"units\": \"personas\", \"type\": \"number\", \"description\": \"Cantidad de viajeros cuyo origen es la provincia de Corrientes\", \"title\": \"personas_origen_corrientes\"}, {\"id\": \"cuhc_67\", \"units\": \"personas\", \"type\": \"number\", \"description\": \"Cantidad de viajeros cuyo origen es la provincia de Entre R\\u00edos\", \"title\": \"personas_origen_entre_rios\"}, {\"id\": \"cuhc_68\", \"units\": \"personas\", \"type\": \"number\", \"description\": \"Cantidad de viajeros cuyo origen es la provincia de Formosa\", \"title\": \"personas_origen_formosa\"}, {\"id\": \"cuhc_69\", \"units\": \"personas\", \"type\": \"number\", \"description\": \"Cantidad de viajeros cuyo origen es la provincia de Jujuy\", \"title\": \"personas_origen_jujuy\"}, {\"id\": \"cuhc_70\", \"units\": \"personas\", \"type\": \"number\", \"description\": \"Cantidad de viajeros cuyo origen es la provincia de La Pampa\", \"title\": \"personas_origen_la_pampa\"}, {\"id\": \"cuhc_71\", \"units\": \"personas\", \"type\": \"number\", \"description\": \"Cantidad de viajeros cuyo origen es la provincia de La Rioja\", \"title\": \"personas_origen_la_rioja\"}, {\"id\": \"cuhc_72\", \"units\": \"personas\", \"type\": \"number\", \"description\": \"Cantidad de viajeros cuyo origen es la provincia de Mendoza\", \"title\": \"personas_origen_mendoza\"}, {\"id\": \"cuhc_73\", \"units\": \"personas\", \"type\": \"number\", \"description\": \"Cantidad de viajeros cuyo origen es la provincia de Misiones\", \"title\": \"personas_origen_misiones\"}, {\"id\": \"cuhc_74\", \"units\": \"personas\", \"type\": \"number\", \"description\": \"Cantidad de viajeros cuyo origen es la provincia de Neuqu\\u00e9n\", \"title\": \"personas_origen_neuquen\"}, {\"id\": \"cuhc_75\", \"units\": \"personas\", \"type\": \"number\", \"description\": \"Cantidad de viajeros cuyo origen es la provincia de R\\u00edo Negro\", \"title\": \"personas_origen_rio_negro\"}, {\"id\": \"cuhc_76\", \"units\": \"personas\", \"type\": \"number\", \"description\": \"Cantidad de viajeros cuyo origen es la provincia de Salta\", \"title\": \"personas_origen_salta\"}, {\"id\": \"cuhc_77\", \"units\": \"personas\", \"type\": \"number\", \"description\": \"Cantidad de viajeros cuyo origen es la provincia de San Juan\", \"title\": \"personas_origen_san_juan\"}, {\"id\": \"cuhc_78\", \"units\": \"personas\", \"type\": \"number\", \"description\": \"Cantidad de viajeros cuyo origen es la provincia de San Luis\", \"title\": \"personas_origen_san_luis\"}, {\"id\": \"cuhc_79\", \"units\": \"personas\", \"type\": \"number\", \"description\": \"Cantidad de viajeros cuyo origen es la provincia de Santa Cruz\", \"title\": \"personas_origen_santa_cruz\"}, {\"id\": \"cuhc_80\", \"units\": \"personas\", \"type\": \"number\", \"description\": \"Cantidad de viajeros cuyo origen es la provincia de Santa F\\u00e9\", \"title\": \"personas_origen_santa_fe\"}, {\"id\": \"cuhc_81\", \"units\": \"personas\", \"type\": \"number\", \"description\": \"Cantidad de viajeros cuyo origen es la provincia de Santiago Del Estero\", \"title\": \"personas_origen_santiago_del_estero\"}, {\"id\": \"cuhc_82\", \"units\": \"personas\", \"type\": \"number\", \"description\": \"Cantidad de viajeros cuyo origen es la provincia de Tierra Del Fuego\", \"title\": \"personas_origen_tierra_del_fuego\"}, {\"id\": \"cuhc_83\", \"units\": \"personas\", \"type\": \"number\", \"description\": \"Cantidad de viajeros cuyo origen es la provincia de Tucum\\u00e1n\", \"title\": \"personas_origen_tucuman\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2021-02-09T17:44:35.796201",
+      "datastore_active": false,
+      "description": "Cantidad de certificados totales emitidos y cantidad de personas que lo solicitaron por fecha de ingreso, provincia de origen y destino, desde el 01 de diciembre de 2020 a la última actualización.",
+      "fileName": "serie-de-tiempo-personas-certificados-por-provincia-origen-destino.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "turismo_ec36bd05-6ed0-492b-be03-ae10b356ce81",
+      "last_modified": "2021-03-02T16:39:15.975042",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Serie de tiempo",
+      "package_id": "turismo_fdd18127-d54c-45bc-946d-5ceb445a2f32",
+      "position": 0,
+      "resource_type": "file.upload",
+      "revision_id": "234c0ee9-6d19-45ef-936f-ae9d1099607d",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.yvera.gob.ar/dataset/fdd18127-d54c-45bc-946d-5ceb445a2f32/resource/ec36bd05-6ed0-492b-be03-ae10b356ce81/download/serie-de-tiempo-personas-certificados-por-provincia-origen-destino.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos.yvera.gob.ar/dataset/fdd18127-d54c-45bc-946d-5ceb445a2f32/resource/ed645552-8ba6-4d3c-914d-e4e89f0757af",
+      "attributesDescription": "[{\"specialType\": \"time_index\", \"specialTypeDetail\": \"R/P1D\", \"type\": \"date\", \"description\": \"Fecha de ingreso al destino\", \"title\": \"indice_tiempo\"}, {\"id\": \"turismo_x609095n\", \"type\": \"integer\", \"description\": \"Cantidad de certificados emitidos\", \"title\": \"cantidad_certificados\"}, {\"id\": \"turismo_hdkmj5rb\", \"type\": \"integer\", \"description\": \"Cantidad de viajeros\", \"title\": \"cantidad_personas\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2021-02-09T17:50:17.931770",
+      "datastore_active": false,
+      "description": "Cantidad de certificados emitidos y personas que lo solicitaron a nivel nacional por fecha de ingreso al destino",
+      "fileName": "certificados-personas-por-fecha-ingreso.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "turismo_ed645552-8ba6-4d3c-914d-e4e89f0757af",
+      "last_modified": "2021-03-02T12:23:24.405243",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Certificados emitidos y cantidad de personas por fecha de ingreso",
+      "package_id": "turismo_fdd18127-d54c-45bc-946d-5ceb445a2f32",
+      "position": 1,
+      "resource_type": "file.upload",
+      "revision_id": "90280b61-394a-490a-9e87-91bca7066fd8",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.yvera.gob.ar/dataset/fdd18127-d54c-45bc-946d-5ceb445a2f32/resource/ed645552-8ba6-4d3c-914d-e4e89f0757af/download/certificados-personas-por-fecha-ingreso.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos.yvera.gob.ar/dataset/fdd18127-d54c-45bc-946d-5ceb445a2f32/resource/176dc4bc-7597-4e9b-850d-0d27bcbca8d0",
+      "attributesDescription": "[{\"specialType\": \"time_index\", \"specialTypeDetail\": \"R/P1D\", \"type\": \"date\", \"title\": \"indice_tiempo\"}, {\"type\": \"string\", \"description\": \"Provincia de destino\", \"title\": \"destino_provincia\"}, {\"type\": \"string\", \"description\": \"Localidad de destino\", \"title\": \"destino_nombre\"}, {\"id\": \"turismo_7tor8gws\", \"type\": \"integer\", \"description\": \"Cantidad de certificados emitidos\", \"title\": \"cantidad_certificados\"}, {\"id\": \"turismo_9vwuninx\", \"type\": \"integer\", \"description\": \"Cantidad de viajeros\", \"title\": \"cantidad_personas\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2021-02-09T17:53:37.851201",
+      "datastore_active": false,
+      "description": "Cantidad de certificados emitidos y personas que lo solicitaron por fecha de ingreso, provincia y localidad de destino",
+      "fileName": "certificados-personas-por-fecha-ingreso-provincia-localidad.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "turismo_176dc4bc-7597-4e9b-850d-0d27bcbca8d0",
+      "last_modified": "2021-03-02T12:24:26.555433",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Certificados emitidos y cantidad de personas por fecha de ingreso, provincia y localidad de destino",
+      "package_id": "turismo_fdd18127-d54c-45bc-946d-5ceb445a2f32",
+      "position": 2,
+      "resource_type": "file.upload",
+      "revision_id": "90280b61-394a-490a-9e87-91bca7066fd8",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.yvera.gob.ar/dataset/fdd18127-d54c-45bc-946d-5ceb445a2f32/resource/176dc4bc-7597-4e9b-850d-0d27bcbca8d0/download/certificados-personas-por-fecha-ingreso-provincia-localidad.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos.yvera.gob.ar/dataset/fdd18127-d54c-45bc-946d-5ceb445a2f32/resource/c1ecae40-d7b4-44e5-be53-3f07b93ea43d",
+      "attributesDescription": "[{\"specialType\": \"time_index\", \"specialTypeDetail\": \"R/P1D\", \"type\": \"date\", \"description\": \"Fecha de ingreso al destino\", \"title\": \"indice_tiempo\"}, {\"type\": \"string\", \"description\": \"Provincia de origen\", \"title\": \"provincia_origen\"}, {\"type\": \"string\", \"description\": \"Provincia de destino\", \"title\": \"destino_provincia\"}, {\"id\": \"turismo_edrks8h0\", \"type\": \"integer\", \"description\": \"Cantidad de viajeros\", \"title\": \"cantidad_personas\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2021-02-09T18:00:45.969623",
+      "datastore_active": false,
+      "description": "Cantidad de personas por fecha de ingreso, provincia de origen y destino.",
+      "fileName": "personas-por-fecha-de-ingreso-provincia-de-origen-y-destino.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "turismo_c1ecae40-d7b4-44e5-be53-3f07b93ea43d",
+      "last_modified": "2021-03-02T12:25:41.304357",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Cantidad de personas por fecha de ingreso, provincia de origen y destino",
+      "package_id": "turismo_fdd18127-d54c-45bc-946d-5ceb445a2f32",
+      "position": 3,
+      "resource_type": "file.upload",
+      "revision_id": "90280b61-394a-490a-9e87-91bca7066fd8",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.yvera.gob.ar/dataset/fdd18127-d54c-45bc-946d-5ceb445a2f32/resource/c1ecae40-d7b4-44e5-be53-3f07b93ea43d/download/personas-por-fecha-de-ingreso-provincia-de-origen-y-destino.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos.yvera.gob.ar/dataset/fdd18127-d54c-45bc-946d-5ceb445a2f32/resource/8fb98ab3-3bf3-44bb-adcf-0bcef8aa2a5d",
+      "attributesDescription": "[{\"type\": \"string\", \"description\": \"Provincia de destino\", \"title\": \"destino_provincia\"}, {\"type\": \"string\", \"description\": \"Localidad de destino\", \"title\": \"destino_nombre\"}, {\"type\": \"number\", \"description\": \"Cantidad de viajeros (media)\", \"title\": \"cantidad_personas\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2021-02-09T18:32:57.864798",
+      "datastore_active": false,
+      "description": "Cantidad media de viajeros por certificado emitido por provincia y localidad de destino",
+      "fileName": "personas-por-certificado-provincia-y-localidad-de-destino.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "turismo_8fb98ab3-3bf3-44bb-adcf-0bcef8aa2a5d",
+      "last_modified": "2021-03-02T12:28:54.929401",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Media de viajeros por certificado emitido según provincia y localidad de destino",
+      "package_id": "turismo_fdd18127-d54c-45bc-946d-5ceb445a2f32",
+      "position": 4,
+      "resource_type": "file.upload",
+      "revision_id": "90280b61-394a-490a-9e87-91bca7066fd8",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.yvera.gob.ar/dataset/fdd18127-d54c-45bc-946d-5ceb445a2f32/resource/8fb98ab3-3bf3-44bb-adcf-0bcef8aa2a5d/download/personas-por-certificado-provincia-y-localidad-de-destino.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos.yvera.gob.ar/dataset/fdd18127-d54c-45bc-946d-5ceb445a2f32/resource/8f533ab8-1852-4aa0-9377-96c9019f22fe",
+      "attributesDescription": "[{\"type\": \"string\", \"description\": \"Provincia de destino\", \"title\": \"destino_provincia\"}, {\"type\": \"string\", \"description\": \"Localidad de destino\", \"title\": \"destino_nombre\"}, {\"type\": \"number\", \"description\": \"Duraci\\u00f3n (mediana) del viaje\", \"title\": \"duracion\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2021-02-09T18:38:49.018615",
+      "datastore_active": false,
+      "description": "Provincia y localidad de destino por duración (mediana) del viaje.",
+      "fileName": "provincia-y-localidad-de-destino-por-duracion-de-viaje.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "turismo_8f533ab8-1852-4aa0-9377-96c9019f22fe",
+      "last_modified": "2021-03-02T12:29:37.229242",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Provincia y localidad de destino por duración del viaje",
+      "package_id": "turismo_fdd18127-d54c-45bc-946d-5ceb445a2f32",
+      "position": 5,
+      "resource_type": "file.upload",
+      "revision_id": "90280b61-394a-490a-9e87-91bca7066fd8",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.yvera.gob.ar/dataset/fdd18127-d54c-45bc-946d-5ceb445a2f32/resource/8f533ab8-1852-4aa0-9377-96c9019f22fe/download/provincia-y-localidad-de-destino-por-duracion-de-viaje.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "78a2f089-7763-4254-a645-81b1d7f60dcd",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "TURISMO INTERNO",
+      "id": "0eb3acf8-81bc-4301-bc49-b198550f9d5f",
+      "name": "TURISMO INTERNO",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "certificado verano",
+      "id": "35d84036-b707-4097-a7fc-6b8e8c3cccb7",
+      "name": "certificado verano",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "circulacion",
+      "id": "f18e2aca-d1b2-4e4f-bfa9-3f138d672165",
+      "name": "circulacion",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "coronavirus",
+      "id": "d961d018-73ff-47c0-ac1d-bb4054bbe424",
+      "name": "coronavirus",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "covid",
+      "id": "21acfd34-1d2a-494e-a177-675cebee1e2b",
+      "name": "covid",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "permiso",
+      "id": "c73ddabe-6018-4bc2-97bc-fc6652299926",
+      "name": "permiso",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "turismo",
+      "id": "72bd70a3-e979-4b54-b6fc-4832f9423ffc",
+      "name": "turismo",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "turismo interno",
+      "id": "571cd2d6-7500-460b-93cd-5882ba559bc1",
+      "name": "turismo interno",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "viajes",
+      "id": "bd37bd22-c749-4fee-b35d-da8fb6c741a3",
+      "name": "viajes",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Certificado Único Habilitante para Circulación (CUHC) - VERANO",
+  "type": "dataset",
+  "url": "http://datos.yvera.gob.ar/dataset/certificado-unico-habilitante-para-circulacion-cuhc---verano",
+  "version": null
+}

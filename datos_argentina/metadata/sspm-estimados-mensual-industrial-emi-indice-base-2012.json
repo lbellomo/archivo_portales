@@ -1,0 +1,174 @@
+{
+  "author": "Subsecretaría de Programación Macroeconómica",
+  "author_email": "datoseconomicos@mecon.gov.ar",
+  "creator_user_id": "4720e75a-9e17-4dc3-879d-041917c7f9f9",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P1M"
+    },
+    {
+      "key": "issued",
+      "value": "2017-09-28"
+    },
+    {
+      "key": "language",
+      "value": "[\"SPA\"]"
+    },
+    {
+      "key": "source",
+      "value": "Instituto Nacional de Estadística y Censos (INDEC)"
+    },
+    {
+      "key": "spatial",
+      "value": "ARG"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"ECON\"]"
+    },
+    {
+      "key": "temporal",
+      "value": "1994-01-01/2015-10-01"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Economía y finanzas",
+      "display_name": "Economía y finanzas",
+      "id": "60b4b03e-10a1-4d67-b984-08008a249617",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225257.200233economia-finanzas.svg",
+      "name": "econ",
+      "title": "Economía y finanzas"
+    }
+  ],
+  "id": "sspm_13",
+  "isopen": true,
+  "license_id": "CC-BY-4.0",
+  "license_title": "Creative Commons Attribution 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "maintainer": "Subsecretaría de Programación Macroeconómica.",
+  "maintainer_email": "datoseconomicos@mecon.gov.ar",
+  "metadata_created": "2019-11-26T15:04:29.790972",
+  "metadata_modified": "2021-04-29T21:05:23.626661",
+  "name": "sspm-estimados-mensual-industrial-emi-indice-base-2012",
+  "notes": "Estimado Mensual Industrial. Índice (Base 2012)",
+  "num_resources": 3,
+  "num_tags": 2,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:09.718132",
+    "description": "",
+    "id": "68f9ee22-5ec3-44cf-a32b-b87d9db46b93",
+    "image_url": "",
+    "is_organization": true,
+    "name": "sspm",
+    "revision_id": "bc058ce0-3540-4204-96cd-9f9ec79045b3",
+    "state": "active",
+    "title": "Subsecretaría de Programación Macroeconómica",
+    "type": "organization"
+  },
+  "owner_org": "68f9ee22-5ec3-44cf-a32b-b87d9db46b93",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/",
+      "attributesDescription": "[{\"title\": \"indice_tiempo\", \"type\": \"date\", \"specialType\": \"time_index\", \"specialTypeDetail\": \"R/P1Y\", \"id\": \"13.1_IT_2012_A_13\", \"scrapingIdentifierCell\": \"A10\", \"scrapingDataStartCell\": \"B11\", \"dataset_identifier\": \"13\", \"distribution_identifier\": \"13.1\"}, {\"title\": \"emi\", \"type\": \"number\", \"description\": \"Estimados Mensual Industrial. \\u00cdndice (Base 2012)\", \"id\": \"13.1_E_2012_A_3\", \"scrapingIdentifierCell\": \"B10\", \"scrapingDataStartCell\": \"B11\", \"units\": \"\\u00cdndice 2012=100\", \"dataset_identifier\": \"13\", \"distribution_identifier\": \"13.1\"}, {\"title\": \"emi_desestac\", \"type\": \"number\", \"description\": \"Estimados Mensual Industrial desestacionalizado. \\u00cdndice (Base 2012)\", \"id\": \"13.1_ED_2012_A_12\", \"scrapingIdentifierCell\": \"C10\", \"scrapingDataStartCell\": \"C11\", \"units\": \"\\u00cdndice 2012=100\", \"dataset_identifier\": \"13\", \"distribution_identifier\": \"13.1\"}, {\"title\": \"alimentos_bebidas\", \"type\": \"number\", \"description\": \"EMI. Alimentos y bebidas. \\u00cdndice (Base 2012)\", \"id\": \"13.1_AB_2012_A_17\", \"scrapingIdentifierCell\": \"D10\", \"scrapingDataStartCell\": \"D11\", \"units\": \"\\u00cdndice 2012=100\", \"dataset_identifier\": \"13\", \"distribution_identifier\": \"13.1\"}, {\"title\": \"productos_tabaco\", \"type\": \"number\", \"description\": \"EMI. Tabaco. \\u00cdndice (Base 2012)\", \"id\": \"13.1_PT_2012_A_16\", \"scrapingIdentifierCell\": \"E10\", \"scrapingDataStartCell\": \"E11\", \"units\": \"\\u00cdndice 2012=100\", \"dataset_identifier\": \"13\", \"distribution_identifier\": \"13.1\"}, {\"title\": \"productos_textiles\", \"type\": \"number\", \"description\": \"EMI. Textiles. \\u00cdndice (Base 2012)\", \"id\": \"13.1_PT_2012_A_18\", \"scrapingIdentifierCell\": \"F10\", \"scrapingDataStartCell\": \"F11\", \"units\": \"\\u00cdndice 2012=100\", \"dataset_identifier\": \"13\", \"distribution_identifier\": \"13.1\"}, {\"title\": \"papel_carton\", \"type\": \"number\", \"description\": \"EMI. Cart\\u00f3n. \\u00cdndice (Base 2012)\", \"id\": \"13.1_PC_2012_A_12\", \"scrapingIdentifierCell\": \"G10\", \"scrapingDataStartCell\": \"G11\", \"units\": \"\\u00cdndice 2012=100\", \"dataset_identifier\": \"13\", \"distribution_identifier\": \"13.1\"}, {\"title\": \"edicion_impresion\", \"type\": \"number\", \"description\": \"EMI. Impresi\\u00f3n. \\u00cdndice (Base 2012)\", \"id\": \"13.1_EI_2012_A_17\", \"scrapingIdentifierCell\": \"H10\", \"scrapingDataStartCell\": \"H11\", \"units\": \"\\u00cdndice 2012=100\", \"dataset_identifier\": \"13\", \"distribution_identifier\": \"13.1\"}, {\"title\": \"refinacion_petroleo\", \"type\": \"number\", \"description\": \"EMI. Petr\\u00f3leo. \\u00cdndice (Base 2012)\", \"id\": \"13.1_RP_2012_A_19\", \"scrapingIdentifierCell\": \"I10\", \"scrapingDataStartCell\": \"I11\", \"units\": \"\\u00cdndice 2012=100\", \"dataset_identifier\": \"13\", \"distribution_identifier\": \"13.1\"}, {\"title\": \"sustancias_productos_quimicos\", \"type\": \"number\", \"description\": \"EMI. Sustancias y productos qu\\u00edmicos. \\u00cdndice (Base 2012)\", \"id\": \"13.1_SPQ_2012_A_29\", \"scrapingIdentifierCell\": \"J10\", \"scrapingDataStartCell\": \"J11\", \"units\": \"\\u00cdndice 2012=100\", \"dataset_identifier\": \"13\", \"distribution_identifier\": \"13.1\"}, {\"title\": \"caucho_plastico\", \"type\": \"number\", \"description\": \"EMI. Caucho y pl\\u00e1sticos. \\u00cdndice (Base 2012)\", \"id\": \"13.1_CP_2012_A_15\", \"scrapingIdentifierCell\": \"K10\", \"scrapingDataStartCell\": \"K11\", \"units\": \"\\u00cdndice 2012=100\", \"dataset_identifier\": \"13\", \"distribution_identifier\": \"13.1\"}, {\"title\": \"minerales_metalicos\", \"type\": \"number\", \"description\": \"EMI. Minerales met\\u00e1licos. \\u00cdndice (Base 2012)\", \"id\": \"13.1_MM_2012_A_19\", \"scrapingIdentifierCell\": \"L10\", \"scrapingDataStartCell\": \"L11\", \"units\": \"\\u00cdndice 2012=100\", \"dataset_identifier\": \"13\", \"distribution_identifier\": \"13.1\"}, {\"title\": \"industria_metalicas_basicas\", \"type\": \"number\", \"description\": \"EMI. Industrias met\\u00e1licas b\\u00e1sicas. \\u00cdndice (Base 2012)\", \"id\": \"13.1_IMB_2012_A_27\", \"scrapingIdentifierCell\": \"M10\", \"scrapingDataStartCell\": \"M11\", \"units\": \"\\u00cdndice 2012=100\", \"dataset_identifier\": \"13\", \"distribution_identifier\": \"13.1\"}, {\"title\": \"automotores\", \"type\": \"number\", \"description\": \"EMI. Automotores. \\u00cdndice (Base 2012)\", \"id\": \"13.1_A_2012_A_11\", \"scrapingIdentifierCell\": \"N10\", \"scrapingDataStartCell\": \"N11\", \"units\": \"\\u00cdndice 2012=100\", \"dataset_identifier\": \"13\", \"distribution_identifier\": \"13.1\"}, {\"title\": \"metalmecanica_exc_automotor\", \"type\": \"number\", \"description\": \"EMI. Metalmec\\u00e1nica (excluyendo automotores). \\u00cdndice (Base 2012)\", \"id\": \"13.1_MEA_2012_A_27\", \"scrapingIdentifierCell\": \"O10\", \"scrapingDataStartCell\": \"O11\", \"units\": \"\\u00cdndice 2012=100\", \"dataset_identifier\": \"13\", \"distribution_identifier\": \"13.1\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-09-28T00:00:00",
+      "datastore_active": false,
+      "description": "Estimado Mensual Industrial. Datos Anuales. Índice (Base 2012)",
+      "fileName": "emi-valores-anuales-indice-base-2012.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "sspm_13.1",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "EMI. Índice Base 2012. Valores anuales.",
+      "package_id": "sspm_13",
+      "position": 0,
+      "resource_type": null,
+      "revision_id": "b85f180a-39a2-4cf9-a5a7-2bb3dcec0a33",
+      "size": null,
+      "state": "active",
+      "url": "https://infra.datos.gob.ar/catalog/sspm/dataset/13/distribution/13.1/download/emi-valores-anuales-indice-base-2012.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/",
+      "attributesDescription": "[{\"title\": \"indice_tiempo\", \"type\": \"date\", \"specialType\": \"time_index\", \"specialTypeDetail\": \"R/P3M\", \"id\": \"13.2_IT_2012_T_13\", \"scrapingIdentifierCell\": \"A56\", \"scrapingDataStartCell\": \"A57\", \"dataset_identifier\": \"13\", \"distribution_identifier\": \"13.2\"}, {\"title\": \"emi\", \"type\": \"number\", \"description\": \"Estimados Mensual Industrial. \\u00cdndice (Base 2012)\", \"id\": \"13.2_E_2012_T_3\", \"scrapingIdentifierCell\": \"B56\", \"scrapingDataStartCell\": \"B57\", \"units\": \"\\u00cdndice 2012=100\", \"dataset_identifier\": \"13\", \"distribution_identifier\": \"13.2\"}, {\"title\": \"emi_desestac\", \"type\": \"number\", \"description\": \"Estimados Mensual Industrial desestacionalizado. \\u00cdndice (Base 2012)\", \"id\": \"13.2_ED_2012_T_12\", \"scrapingIdentifierCell\": \"C56\", \"scrapingDataStartCell\": \"C57\", \"units\": \"\\u00cdndice 2012=100\", \"dataset_identifier\": \"13\", \"distribution_identifier\": \"13.2\"}, {\"title\": \"alimentos_bebidas\", \"type\": \"number\", \"description\": \"EMI. Alimentos y bebidas. \\u00cdndice (Base 2012)\", \"id\": \"13.2_AB_2012_T_17\", \"scrapingIdentifierCell\": \"D56\", \"scrapingDataStartCell\": \"D57\", \"units\": \"\\u00cdndice 2012=100\", \"dataset_identifier\": \"13\", \"distribution_identifier\": \"13.2\"}, {\"title\": \"productos_tabaco\", \"type\": \"number\", \"description\": \"EMI. Tabaco. \\u00cdndice (Base 2012)\", \"id\": \"13.2_PT_2012_T_16\", \"scrapingIdentifierCell\": \"E56\", \"scrapingDataStartCell\": \"E57\", \"units\": \"\\u00cdndice 2012=100\", \"dataset_identifier\": \"13\", \"distribution_identifier\": \"13.2\"}, {\"title\": \"productos_textiles\", \"type\": \"number\", \"description\": \"EMI. Textiles. \\u00cdndice (Base 2012)\", \"id\": \"13.2_PT_2012_T_18\", \"scrapingIdentifierCell\": \"F56\", \"scrapingDataStartCell\": \"F57\", \"units\": \"\\u00cdndice 2012=100\", \"dataset_identifier\": \"13\", \"distribution_identifier\": \"13.2\"}, {\"title\": \"papel_carton\", \"type\": \"number\", \"description\": \"EMI. Cart\\u00f3n. \\u00cdndice (Base 2012)\", \"id\": \"13.2_PC_2012_T_12\", \"scrapingIdentifierCell\": \"G56\", \"scrapingDataStartCell\": \"G57\", \"units\": \"\\u00cdndice 2012=100\", \"dataset_identifier\": \"13\", \"distribution_identifier\": \"13.2\"}, {\"title\": \"edicion_impresion\", \"type\": \"number\", \"description\": \"EMI. Impresi\\u00f3n. \\u00cdndice (Base 2012)\", \"id\": \"13.2_EI_2012_T_17\", \"scrapingIdentifierCell\": \"H56\", \"scrapingDataStartCell\": \"H57\", \"units\": \"\\u00cdndice 2012=100\", \"dataset_identifier\": \"13\", \"distribution_identifier\": \"13.2\"}, {\"title\": \"refinacion_petroleo\", \"type\": \"number\", \"description\": \"EMI. Petr\\u00f3leo. \\u00cdndice (Base 2012)\", \"id\": \"13.2_RP_2012_T_19\", \"scrapingIdentifierCell\": \"I56\", \"scrapingDataStartCell\": \"I57\", \"units\": \"\\u00cdndice 2012=100\", \"dataset_identifier\": \"13\", \"distribution_identifier\": \"13.2\"}, {\"title\": \"sustancias_productos_quimicos\", \"type\": \"number\", \"description\": \"EMI. Sustancias y productos qu\\u00edmicos. \\u00cdndice (Base 2012)\", \"id\": \"13.2_SPQ_2012_T_29\", \"scrapingIdentifierCell\": \"J56\", \"scrapingDataStartCell\": \"J57\", \"units\": \"\\u00cdndice 2012=100\", \"dataset_identifier\": \"13\", \"distribution_identifier\": \"13.2\"}, {\"title\": \"caucho_plastico\", \"type\": \"number\", \"description\": \"EMI. Caucho y pl\\u00e1sticos. \\u00cdndice (Base 2012)\", \"id\": \"13.2_CP_2012_T_15\", \"scrapingIdentifierCell\": \"K56\", \"scrapingDataStartCell\": \"K57\", \"units\": \"\\u00cdndice 2012=100\", \"dataset_identifier\": \"13\", \"distribution_identifier\": \"13.2\"}, {\"title\": \"minerales_metalicos\", \"type\": \"number\", \"description\": \"EMI. Minerales met\\u00e1licos. \\u00cdndice (Base 2012)\", \"id\": \"13.2_MM_2012_T_19\", \"scrapingIdentifierCell\": \"L56\", \"scrapingDataStartCell\": \"L57\", \"units\": \"\\u00cdndice 2012=100\", \"dataset_identifier\": \"13\", \"distribution_identifier\": \"13.2\"}, {\"title\": \"industria_metalicas_basicas\", \"type\": \"number\", \"description\": \"EMI. Industrias met\\u00e1licas b\\u00e1sicas. \\u00cdndice (Base 2012)\", \"id\": \"13.2_IMB_2012_T_27\", \"scrapingIdentifierCell\": \"M56\", \"scrapingDataStartCell\": \"M57\", \"units\": \"\\u00cdndice 2012=100\", \"dataset_identifier\": \"13\", \"distribution_identifier\": \"13.2\"}, {\"title\": \"automotores\", \"type\": \"number\", \"description\": \"EMI. Automotores. \\u00cdndice (Base 2012)\", \"id\": \"13.2_A_2012_T_11\", \"scrapingIdentifierCell\": \"N56\", \"scrapingDataStartCell\": \"N57\", \"units\": \"\\u00cdndice 2012=100\", \"dataset_identifier\": \"13\", \"distribution_identifier\": \"13.2\"}, {\"title\": \"metalmecanica_exc_automotor\", \"type\": \"number\", \"description\": \"EMI. Metalmec\\u00e1nica (excluyendo automotores). \\u00cdndice (Base 2012)\", \"id\": \"13.2_MEA_2012_T_27\", \"scrapingIdentifierCell\": \"O56\", \"scrapingDataStartCell\": \"O57\", \"units\": \"\\u00cdndice 2012=100\", \"dataset_identifier\": \"13\", \"distribution_identifier\": \"13.2\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-09-28T00:00:00",
+      "datastore_active": false,
+      "description": "Estimado Mensual Industrial. Datos Anuales. Índice (Base 2012)",
+      "fileName": "emi-valores-trimestrales-indice-base-2012.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "sspm_13.2",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "EMI. Índice Base 2012. Valores trimestrales.",
+      "package_id": "sspm_13",
+      "position": 1,
+      "resource_type": null,
+      "revision_id": "b85f180a-39a2-4cf9-a5a7-2bb3dcec0a33",
+      "size": null,
+      "state": "active",
+      "url": "https://infra.datos.gob.ar/catalog/sspm/dataset/13/distribution/13.2/download/emi-valores-trimestrales-indice-base-2012.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/",
+      "attributesDescription": "[{\"title\": \"indice_tiempo\", \"type\": \"date\", \"specialType\": \"time_index\", \"specialTypeDetail\": \"R/P1M\", \"id\": \"13.3_IT_M_2012_0_13\", \"scrapingIdentifierCell\": \"A166\", \"scrapingDataStartCell\": \"B167\", \"dataset_identifier\": \"13\", \"distribution_identifier\": \"13.3\"}, {\"title\": \"emi\", \"type\": \"number\", \"description\": \"Estimador Mensual Industrial. \\u00cdndice (Base 2012)\", \"id\": \"13.3_E_M_2012_0_3\", \"scrapingIdentifierCell\": \"B166\", \"scrapingDataStartCell\": \"B167\", \"units\": \"\\u00cdndice 2012=100\", \"dataset_identifier\": \"13\", \"distribution_identifier\": \"13.3\"}, {\"title\": \"emi_desestac\", \"type\": \"number\", \"description\": \"Estimador Mensual Industrial desestacionalizado. \\u00cdndice (Base 2012)\", \"id\": \"13.3_ED_M_2012_0_12\", \"scrapingIdentifierCell\": \"C166\", \"scrapingDataStartCell\": \"C167\", \"units\": \"\\u00cdndice 2012=100\", \"dataset_identifier\": \"13\", \"distribution_identifier\": \"13.3\"}, {\"title\": \"alimentos_bebidas\", \"type\": \"number\", \"description\": \"EMI. Alimentos y bebidas. \\u00cdndice (Base 2012)\", \"id\": \"13.3_AB_M_2012_0_17\", \"scrapingIdentifierCell\": \"D166\", \"scrapingDataStartCell\": \"D167\", \"units\": \"\\u00cdndice 2012=100\", \"dataset_identifier\": \"13\", \"distribution_identifier\": \"13.3\"}, {\"title\": \"productos_tabaco\", \"type\": \"number\", \"description\": \"EMI. Tabaco. \\u00cdndice (Base 2012)\", \"id\": \"13.3_PT_M_2012_0_16\", \"scrapingIdentifierCell\": \"E166\", \"scrapingDataStartCell\": \"E167\", \"units\": \"\\u00cdndice 2012=100\", \"dataset_identifier\": \"13\", \"distribution_identifier\": \"13.3\"}, {\"title\": \"productos_textiles\", \"type\": \"number\", \"description\": \"EMI. Textiles. \\u00cdndice (Base 2012)\", \"id\": \"13.3_PT_M_2012_0_18\", \"scrapingIdentifierCell\": \"F166\", \"scrapingDataStartCell\": \"F167\", \"units\": \"\\u00cdndice 2012=100\", \"dataset_identifier\": \"13\", \"distribution_identifier\": \"13.3\"}, {\"title\": \"papel_carton\", \"type\": \"number\", \"description\": \"EMI. Cart\\u00f3n. \\u00cdndice (Base 2012)\", \"id\": \"13.3_PC_M_2012_0_12\", \"scrapingIdentifierCell\": \"G166\", \"scrapingDataStartCell\": \"G167\", \"units\": \"\\u00cdndice 2012=100\", \"dataset_identifier\": \"13\", \"distribution_identifier\": \"13.3\"}, {\"title\": \"edicion_impresion\", \"type\": \"number\", \"description\": \"EMI. Impresi\\u00f3n. \\u00cdndice (Base 2012)\", \"id\": \"13.3_EI_M_2012_0_17\", \"scrapingIdentifierCell\": \"H166\", \"scrapingDataStartCell\": \"H167\", \"units\": \"\\u00cdndice 2012=100\", \"dataset_identifier\": \"13\", \"distribution_identifier\": \"13.3\"}, {\"title\": \"refinacion_petroleo\", \"type\": \"number\", \"description\": \"EMI. Petr\\u00f3leo. \\u00cdndice (Base 2012)\", \"id\": \"13.3_RP_M_2012_0_19\", \"scrapingIdentifierCell\": \"I166\", \"scrapingDataStartCell\": \"I167\", \"units\": \"\\u00cdndice 2012=100\", \"dataset_identifier\": \"13\", \"distribution_identifier\": \"13.3\"}, {\"title\": \"sustancias_productos_quimicos\", \"type\": \"number\", \"description\": \"EMI. Sustancias y productos qu\\u00edmicos. \\u00cdndice (Base 2012)\", \"id\": \"13.3_SPQ_M_2012_0_29\", \"scrapingIdentifierCell\": \"J166\", \"scrapingDataStartCell\": \"J167\", \"units\": \"\\u00cdndice 2012=100\", \"dataset_identifier\": \"13\", \"distribution_identifier\": \"13.3\"}, {\"title\": \"caucho_plastico\", \"type\": \"number\", \"description\": \"EMI. Caucho y pl\\u00e1sticos. \\u00cdndice (Base 2012)\", \"id\": \"13.3_CP_M_2012_0_15\", \"scrapingIdentifierCell\": \"K166\", \"scrapingDataStartCell\": \"K167\", \"units\": \"\\u00cdndice 2012=100\", \"dataset_identifier\": \"13\", \"distribution_identifier\": \"13.3\"}, {\"title\": \"minerales_metalicos\", \"type\": \"number\", \"description\": \"EMI. Minerales met\\u00e1licos. \\u00cdndice (Base 2012)\", \"id\": \"13.3_MM_M_2012_0_19\", \"scrapingIdentifierCell\": \"L166\", \"scrapingDataStartCell\": \"L167\", \"units\": \"\\u00cdndice 2012=100\", \"dataset_identifier\": \"13\", \"distribution_identifier\": \"13.3\"}, {\"title\": \"industria_metalicas_basicas\", \"type\": \"number\", \"description\": \"EMI. Industrias met\\u00e1licas b\\u00e1sicas. \\u00cdndice (Base 2012)\", \"id\": \"13.3_IMB_M_2012_0_27\", \"scrapingIdentifierCell\": \"M166\", \"scrapingDataStartCell\": \"M167\", \"units\": \"\\u00cdndice 2012=100\", \"dataset_identifier\": \"13\", \"distribution_identifier\": \"13.3\"}, {\"title\": \"automotores\", \"type\": \"number\", \"description\": \"EMI. Automotores. \\u00cdndice (Base 2012)\", \"id\": \"13.3_A_M_2012_0_11\", \"scrapingIdentifierCell\": \"N166\", \"scrapingDataStartCell\": \"N167\", \"units\": \"\\u00cdndice 2012=100\", \"dataset_identifier\": \"13\", \"distribution_identifier\": \"13.3\"}, {\"title\": \"metalmecanica_exc_automotor\", \"type\": \"number\", \"description\": \"EMI. Metalmec\\u00e1nica (excluyendo automotores). \\u00cdndice (Base 2012)\", \"id\": \"13.3_MEA_M_2012_0_27\", \"scrapingIdentifierCell\": \"O166\", \"scrapingDataStartCell\": \"O167\", \"units\": \"\\u00cdndice 2012=100\", \"dataset_identifier\": \"13\", \"distribution_identifier\": \"13.3\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-09-28T00:00:00",
+      "datastore_active": false,
+      "description": "Estimado Mensual Industrial. Datos Anuales. Índice (Base 2012)",
+      "fileName": "emi-datos-mensuales-indice-base-2012.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "sspm_13.3",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "EMI. Índice Base 2012. Valores mensuales.",
+      "package_id": "sspm_13",
+      "position": 2,
+      "resource_type": null,
+      "revision_id": "b85f180a-39a2-4cf9-a5a7-2bb3dcec0a33",
+      "size": null,
+      "state": "active",
+      "url": "https://infra.datos.gob.ar/catalog/sspm/dataset/13/distribution/13.3/download/emi-datos-mensuales-indice-base-2012.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "b85f180a-39a2-4cf9-a5a7-2bb3dcec0a33",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "Actividad",
+      "id": "a7695c51-c893-4ece-8ff9-306c197afdd7",
+      "name": "Actividad",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Información Económica al Día",
+      "id": "0d300a9a-0802-46c3-9a40-2f28ddf050ec",
+      "name": "Información Económica al Día",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Estimados Mensual Industrial (EMI). Índice. Base 2012",
+  "type": "dataset",
+  "url": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/",
+  "version": null
+}

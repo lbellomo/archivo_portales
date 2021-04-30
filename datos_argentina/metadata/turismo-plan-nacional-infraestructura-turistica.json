@@ -1,0 +1,147 @@
+{
+  "author": "Secretaria de Gobierno de Turismo",
+  "author_email": null,
+  "creator_user_id": "4720e75a-9e17-4dc3-879d-041917c7f9f9",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P1Y"
+    },
+    {
+      "key": "issued",
+      "value": "2018-10-09T10:58:55.222656"
+    },
+    {
+      "key": "language",
+      "value": "[\"spa\"]"
+    },
+    {
+      "key": "modified",
+      "value": "2021-04-23T15:47:40.086859"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"GOVE\"]"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Gobierno y sector público",
+      "display_name": "Gobierno y sector público",
+      "id": "e6f07c77-3987-4e71-98a6-731b1aaf74f4",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225353.395233gobierno-sector-publico.svg",
+      "name": "gove",
+      "title": "Gobierno y sector público"
+    }
+  ],
+  "id": "turismo_59fe000c-6ff0-4a8f-b32d-e576a4353368",
+  "isopen": false,
+  "license_id": "notspecified",
+  "license_title": "No se especificó la licencia",
+  "maintainer": null,
+  "maintainer_email": null,
+  "metadata_created": "2019-11-26T15:02:01.884084",
+  "metadata_modified": "2021-04-29T21:04:14.298163",
+  "name": "turismo-plan-nacional-infraestructura-turistica",
+  "notes": "Datos del Plan Nacional de Infraestructura Turística",
+  "num_resources": 2,
+  "num_tags": 3,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:07.685134",
+    "description": "",
+    "id": "3a751de6-128e-4f9a-a479-4672ef79a0e8",
+    "image_url": "",
+    "is_organization": true,
+    "name": "turismo",
+    "revision_id": "082d6431-73c3-4ce5-a589-b9cda65a2231",
+    "state": "active",
+    "title": "Ministerio de Turismo y Deportes",
+    "type": "organization"
+  },
+  "owner_org": "3a751de6-128e-4f9a-a479-4672ef79a0e8",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "http://datos.yvera.gob.ar/dataset/59fe000c-6ff0-4a8f-b32d-e576a4353368/resource/643e032c-d4f8-480c-962a-fcb9b80ab19a",
+      "attributesDescription": "[{\"type\": \"integer\", \"description\": \"Per\\u00edodo anual\", \"title\": \"periodo_anual\"}, {\"type\": \"integer\", \"description\": \"C\\u00f3digo identificador de provincia\", \"title\": \"provincia_id\"}, {\"type\": \"integer\", \"description\": \"C\\u00f3digo identificador de departamento\", \"title\": \"departamento_id\"}, {\"type\": \"integer\", \"description\": \"C\\u00f3digo identificador de municipio\", \"title\": \"municipio_id\"}, {\"type\": \"string\", \"description\": \"Descripci\\u00f3n de la provincia\", \"title\": \"provincia_desc\"}, {\"type\": \"string\", \"description\": \"Descripci\\u00f3n del departamento\", \"title\": \"departamento_desc\"}, {\"type\": \"string\", \"description\": \"Descripci\\u00f3n del municipio\", \"title\": \"municipio_desc\"}, {\"type\": \"string\", \"description\": \"Tem\\u00e1tica\", \"title\": \"tematica\"}, {\"type\": \"string\", \"description\": \"Programa\", \"title\": \"programa\"}, {\"type\": \"string\", \"description\": \"Nombre del proyecto\", \"title\": \"proyecto\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2018-10-09T11:12:50.672050",
+      "datastore_active": false,
+      "description": "Detalle de las obras de 2016",
+      "fileName": "obras_2016.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "turismo_643e032c-d4f8-480c-962a-fcb9b80ab19a",
+      "last_modified": "2018-10-09T11:12:50.672050",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Obras 2016",
+      "package_id": "turismo_59fe000c-6ff0-4a8f-b32d-e576a4353368",
+      "position": 0,
+      "resource_type": "file.upload",
+      "revision_id": "09369120-c847-41ba-9e46-6265b8d26546",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.yvera.gob.ar/dataset/59fe000c-6ff0-4a8f-b32d-e576a4353368/resource/643e032c-d4f8-480c-962a-fcb9b80ab19a/download/obras_2016.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos.yvera.gob.ar/dataset/59fe000c-6ff0-4a8f-b32d-e576a4353368/resource/0eaa075c-5413-4a4c-aadc-2340e7d487b8",
+      "attributesDescription": "[{\"type\": \"integer\", \"description\": \"Per\\u00edodo anual\", \"title\": \"periodo_anual\"}, {\"type\": \"integer\", \"description\": \"C\\u00f3digo identificador de provincia\", \"title\": \"provincia_id\"}, {\"type\": \"integer\", \"description\": \"C\\u00f3digo identificador de departamento\", \"title\": \"departamento_id\"}, {\"type\": \"integer\", \"description\": \"C\\u00f3digo identificador de municipio\", \"title\": \"municipio_id\"}, {\"type\": \"string\", \"description\": \"Descripci\\u00f3n de la provincia\", \"title\": \"provincia_desc\"}, {\"type\": \"string\", \"description\": \"Descripci\\u00f3n del departamento\", \"title\": \"departamento_desc\"}, {\"type\": \"string\", \"description\": \"Descripci\\u00f3n del municipio\", \"title\": \"municipio_desc\"}, {\"type\": \"string\", \"description\": \"Tem\\u00e1tica\", \"title\": \"tematica\"}, {\"type\": \"string\", \"description\": \"Programa\", \"title\": \"programa\"}, {\"type\": \"string\", \"description\": \"Nombre del proyecto\", \"title\": \"proyecto\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2018-10-18T14:28:23.097871",
+      "datastore_active": false,
+      "description": "Detalle de las obras de 2017",
+      "fileName": "obras_2017.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "turismo_0eaa075c-5413-4a4c-aadc-2340e7d487b8",
+      "last_modified": "2018-10-18T14:28:23.097871",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Obras 2017",
+      "package_id": "turismo_59fe000c-6ff0-4a8f-b32d-e576a4353368",
+      "position": 1,
+      "resource_type": "file.upload",
+      "revision_id": "be6720c5-5436-4f4e-a5df-5d84a44e1698",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.yvera.gob.ar/dataset/59fe000c-6ff0-4a8f-b32d-e576a4353368/resource/0eaa075c-5413-4a4c-aadc-2340e7d487b8/download/obras_2017.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "d6cd2f17-0705-4206-ada3-615d5b77a292",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "INVERSIONES TURÍSTICAS",
+      "id": "ef390025-b60d-47b7-8b9e-cb13e916d85c",
+      "name": "INVERSIONES TURÍSTICAS",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "inversiones",
+      "id": "75c54a9d-591e-439e-89ff-c60dd84610a5",
+      "name": "inversiones",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "pnit",
+      "id": "cc40a191-8f89-4ca8-8d21-ef7667a67013",
+      "name": "pnit",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Plan Nacional de Infraestructura Turística",
+  "type": "dataset",
+  "url": "http://datos.yvera.gob.ar/dataset/plan-nacional-de-infraestructura-turistica",
+  "version": null
+}

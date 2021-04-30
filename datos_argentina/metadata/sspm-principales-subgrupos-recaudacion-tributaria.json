@@ -1,0 +1,174 @@
+{
+  "author": "Subsecretaría de Programación Macroeconómica",
+  "author_email": "datoseconomicos@mecon.gov.ar",
+  "creator_user_id": "4720e75a-9e17-4dc3-879d-041917c7f9f9",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P1M"
+    },
+    {
+      "key": "issued",
+      "value": "2017-09-28"
+    },
+    {
+      "key": "language",
+      "value": "[\"SPA\"]"
+    },
+    {
+      "key": "source",
+      "value": "Cámara Argentina de Fondos Comunes de Inversión"
+    },
+    {
+      "key": "spatial",
+      "value": "ARG"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"ECON\"]"
+    },
+    {
+      "key": "temporal",
+      "value": "1997-01-01/2017-08-01"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Economía y finanzas",
+      "display_name": "Economía y finanzas",
+      "id": "60b4b03e-10a1-4d67-b984-08008a249617",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225257.200233economia-finanzas.svg",
+      "name": "econ",
+      "title": "Economía y finanzas"
+    }
+  ],
+  "id": "sspm_172",
+  "isopen": true,
+  "license_id": "CC-BY-4.0",
+  "license_title": "Creative Commons Attribution 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "maintainer": "Subsecretaría de Programación Macroeconómica.",
+  "maintainer_email": "datoseconomicos@mecon.gov.ar",
+  "metadata_created": "2019-11-26T15:03:59.994440",
+  "metadata_modified": "2021-04-29T21:04:14.206590",
+  "name": "sspm-principales-subgrupos-recaudacion-tributaria",
+  "notes": "Datos Subgrupos de recaudación tributaria",
+  "num_resources": 3,
+  "num_tags": 2,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:09.718132",
+    "description": "",
+    "id": "68f9ee22-5ec3-44cf-a32b-b87d9db46b93",
+    "image_url": "",
+    "is_organization": true,
+    "name": "sspm",
+    "revision_id": "bc058ce0-3540-4204-96cd-9f9ec79045b3",
+    "state": "active",
+    "title": "Subsecretaría de Programación Macroeconómica",
+    "type": "organization"
+  },
+  "owner_org": "68f9ee22-5ec3-44cf-a32b-b87d9db46b93",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/",
+      "attributesDescription": "[{\"title\": \"indice_tiempo\", \"type\": \"date\", \"specialType\": \"time_index\", \"specialTypeDetail\": \"R/P1Y\", \"id\": \"172.1_ICE_TIEMPO_0_0_13\", \"scrapingIdentifierCell\": \"A10\", \"scrapingDataStartCell\": \"A11\", \"dataset_identifier\": \"172\", \"distribution_identifier\": \"172.1\"}, {\"title\": \"total_recaudacion\", \"type\": \"number\", \"description\": \"Total recaudaci\\u00f3n. Anuales\", \"id\": \"172.1_TL_RECAION_0_0_17\", \"scrapingIdentifierCell\": \"B10\", \"scrapingDataStartCell\": \"B11\", \"units\": \"Millones de pesos\", \"dataset_identifier\": \"172\", \"distribution_identifier\": \"172.1\"}, {\"title\": \"subtotal_dgi\", \"type\": \"number\", \"description\": \"Recaudaci\\u00f3n DGI. Anuales\", \"id\": \"172.1_SOTAL_DDGI_0_0_12\", \"scrapingIdentifierCell\": \"D10\", \"scrapingDataStartCell\": \"D11\", \"units\": \"Millones de pesos\", \"dataset_identifier\": \"172\", \"distribution_identifier\": \"172.1\"}, {\"title\": \"subtotal_dga\", \"type\": \"number\", \"description\": \"Recaudaci\\u00f3n DGA. Anuales\", \"id\": \"172.1_SOTAL_DDGA_0_0_12\", \"scrapingIdentifierCell\": \"E10\", \"scrapingDataStartCell\": \"E11\", \"units\": \"Millones de pesos\", \"dataset_identifier\": \"172\", \"distribution_identifier\": \"172.1\"}, {\"title\": \"seguridad_social\", \"type\": \"number\", \"description\": \"Recaudaci\\u00f3n Seguridad Social. Anuales\", \"id\": \"172.1_SRIDAD_IAL_0_0_16\", \"scrapingIdentifierCell\": \"F10\", \"scrapingDataStartCell\": \"F11\", \"units\": \"Millones de pesos\", \"dataset_identifier\": \"172\", \"distribution_identifier\": \"172.1\"}, {\"title\": \"total_recaudacion_var_ia\", \"type\": \"number\", \"description\": \"Total recaudaci\\u00f3n. Variaci\\u00f3n interanual\", \"id\": \"172.1_TL_RECA_IA_0_0_24\", \"scrapingIdentifierCell\": \"H10\", \"scrapingDataStartCell\": \"H11\", \"units\": \"Millones de pesos\", \"dataset_identifier\": \"172\", \"distribution_identifier\": \"172.1\"}, {\"title\": \"subtotal_dgi_var_ia\", \"type\": \"number\", \"description\": \"Recaudaci\\u00f3n DGI. Variaci\\u00f3n interanual\", \"id\": \"172.1_SOTAL_D_IA_0_0_19\", \"scrapingIdentifierCell\": \"J10\", \"scrapingDataStartCell\": \"J11\", \"units\": \"Millones de pesos\", \"dataset_identifier\": \"172\", \"distribution_identifier\": \"172.1\"}, {\"title\": \"subtotal_dga_var_ia\", \"type\": \"number\", \"description\": \"Recaudaci\\u00f3n DGA. Variaci\\u00f3n interanual\", \"id\": \"172.1_SOTAL_D_IAF_0_0_19\", \"scrapingIdentifierCell\": \"K10\", \"scrapingDataStartCell\": \"K11\", \"units\": \"Millones de pesos\", \"dataset_identifier\": \"172\", \"distribution_identifier\": \"172.1\"}, {\"title\": \"seguridad_social_var_ia\", \"type\": \"number\", \"description\": \"Recaudaci\\u00f3n Seguridad Social. Variaci\\u00f3n interanual\", \"id\": \"172.1_SRIDAD_IA_0_0_23\", \"scrapingIdentifierCell\": \"L10\", \"scrapingDataStartCell\": \"L11\", \"units\": \"Millones de pesos\", \"dataset_identifier\": \"172\", \"distribution_identifier\": \"172.1\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-09-28T00:00:00",
+      "datastore_active": false,
+      "description": "Recaudación Tributaria. Principales subgrupos de recaudación tributaria. Millones de pesos. Datos anuales",
+      "fileName": "recaudacion-tributaria-datos-anuales.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "sspm_172.1",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Principales subgrupos de recaudación tributaria. Millones de pesos. Datos anuales",
+      "package_id": "sspm_172",
+      "position": 0,
+      "resource_type": null,
+      "revision_id": "6ac50a00-e4e6-4716-82be-dbaa24ba8525",
+      "size": null,
+      "state": "active",
+      "url": "https://infra.datos.gob.ar/catalog/sspm/dataset/172/distribution/172.1/download/recaudacion-tributaria-datos-anuales.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/",
+      "attributesDescription": "[{\"title\": \"indice_tiempo\", \"type\": \"date\", \"specialType\": \"time_index\", \"specialTypeDetail\": \"R/P3M\", \"id\": \"172.2_ICE_TIEMPO_T_0_0_13\", \"scrapingIdentifierCell\": \"A78\", \"scrapingDataStartCell\": \"A79\", \"dataset_identifier\": \"172\", \"distribution_identifier\": \"172.2\"}, {\"title\": \"total_recaudacion\", \"type\": \"number\", \"description\": \"Total recaudaci\\u00f3n. Anuales\", \"id\": \"172.2_TL_RECAION_T_0_0_17\", \"scrapingIdentifierCell\": \"B78\", \"scrapingDataStartCell\": \"B79\", \"units\": \"Millones de pesos\", \"dataset_identifier\": \"172\", \"distribution_identifier\": \"172.2\"}, {\"title\": \"subtotal_dgi\", \"type\": \"number\", \"description\": \"Recaudaci\\u00f3n DGI. Anuales\", \"id\": \"172.2_SOTAL_DDGI_T_0_0_12\", \"scrapingIdentifierCell\": \"D78\", \"scrapingDataStartCell\": \"D79\", \"units\": \"Millones de pesos\", \"dataset_identifier\": \"172\", \"distribution_identifier\": \"172.2\"}, {\"title\": \"subtotal_dga\", \"type\": \"number\", \"description\": \"Recaudaci\\u00f3n DGA. Anuales\", \"id\": \"172.2_SOTAL_DDGA_T_0_0_12\", \"scrapingIdentifierCell\": \"E78\", \"scrapingDataStartCell\": \"E79\", \"units\": \"Millones de pesos\", \"dataset_identifier\": \"172\", \"distribution_identifier\": \"172.2\"}, {\"title\": \"seguridad_social\", \"type\": \"number\", \"description\": \"Recaudaci\\u00f3n Seguridad Social. Anuales\", \"id\": \"172.2_SRIDAD_IAL_T_0_0_16\", \"scrapingIdentifierCell\": \"F78\", \"scrapingDataStartCell\": \"F79\", \"units\": \"Millones de pesos\", \"dataset_identifier\": \"172\", \"distribution_identifier\": \"172.2\"}, {\"title\": \"total_recaudacion_var_ia\", \"type\": \"number\", \"description\": \"Total recaudaci\\u00f3n. Variaci\\u00f3n interanual\", \"id\": \"172.2_TL_RECA_IA_T_0_0_24\", \"scrapingIdentifierCell\": \"H78\", \"scrapingDataStartCell\": \"H79\", \"units\": \"Porcentaje\", \"dataset_identifier\": \"172\", \"distribution_identifier\": \"172.2\"}, {\"title\": \"subtotal_dgi_var_ia\", \"type\": \"number\", \"description\": \"Recaudaci\\u00f3n DGI. Variaci\\u00f3n interanual\", \"id\": \"172.2_SOTAL_D_IA_T_0_0_19\", \"scrapingIdentifierCell\": \"J78\", \"scrapingDataStartCell\": \"J79\", \"units\": \"Porcentaje\", \"dataset_identifier\": \"172\", \"distribution_identifier\": \"172.2\"}, {\"title\": \"subtotal_dga_var_ia\", \"type\": \"number\", \"description\": \"Recaudaci\\u00f3n DGA. Variaci\\u00f3n interanual\", \"id\": \"172.2_SOTAL_D_IAR_T_0_0_19\", \"scrapingIdentifierCell\": \"K78\", \"scrapingDataStartCell\": \"K79\", \"units\": \"Porcentaje\", \"dataset_identifier\": \"172\", \"distribution_identifier\": \"172.2\"}, {\"title\": \"seguridad_social_var_ia\", \"type\": \"number\", \"description\": \"Recaudaci\\u00f3n Seguridad Social. Variaci\\u00f3n interanual\", \"id\": \"172.2_SRIDAD_IA_T_0_0_23\", \"scrapingIdentifierCell\": \"L78\", \"scrapingDataStartCell\": \"L79\", \"units\": \"Porcentaje\", \"dataset_identifier\": \"172\", \"distribution_identifier\": \"172.2\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-09-28T00:00:00",
+      "datastore_active": false,
+      "description": "Recaudación Tributaria. Principales subgrupos de recaudación tributaria. Millones de pesos. Datos trimestrales",
+      "fileName": "recaudacion-tributaria-datos-trimestrales.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "sspm_172.2",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Principales subgrupos de recaudación tributaria. Millones de pesos. Datos trimestrales",
+      "package_id": "sspm_172",
+      "position": 1,
+      "resource_type": null,
+      "revision_id": "6ac50a00-e4e6-4716-82be-dbaa24ba8525",
+      "size": null,
+      "state": "active",
+      "url": "https://infra.datos.gob.ar/catalog/sspm/dataset/172/distribution/172.2/download/recaudacion-tributaria-datos-trimestrales.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/",
+      "attributesDescription": "[{\"title\": \"indice_tiempo\", \"type\": \"date\", \"specialType\": \"time_index\", \"specialTypeDetail\": \"R/P1M\", \"id\": \"172.3_ICE_TIEMPO_M_0_0_13\", \"scrapingIdentifierCell\": \"A229\", \"scrapingDataStartCell\": \"A230\", \"dataset_identifier\": \"172\", \"distribution_identifier\": \"172.3\"}, {\"title\": \"total_recaudacion\", \"type\": \"number\", \"description\": \"Total recaudaci\\u00f3n. Anuales\", \"id\": \"172.3_TL_RECAION_M_0_0_17\", \"scrapingIdentifierCell\": \"B229\", \"scrapingDataStartCell\": \"B230\", \"units\": \"Millones de pesos\", \"dataset_identifier\": \"172\", \"distribution_identifier\": \"172.3\"}, {\"title\": \"subtotal_dgi\", \"type\": \"number\", \"description\": \"Recaudaci\\u00f3n DGI. Anuales\", \"id\": \"172.3_SOTAL_DDGI_M_0_0_12\", \"scrapingIdentifierCell\": \"D229\", \"scrapingDataStartCell\": \"D230\", \"units\": \"Millones de pesos\", \"dataset_identifier\": \"172\", \"distribution_identifier\": \"172.3\"}, {\"title\": \"subtotal_dga\", \"type\": \"number\", \"description\": \"Recaudaci\\u00f3n DGA. Anuales\", \"id\": \"172.3_SOTAL_DDGA_M_0_0_12\", \"scrapingIdentifierCell\": \"E229\", \"scrapingDataStartCell\": \"E230\", \"units\": \"Millones de pesos\", \"dataset_identifier\": \"172\", \"distribution_identifier\": \"172.3\"}, {\"title\": \"seguridad_social\", \"type\": \"number\", \"description\": \"Recaudaci\\u00f3n Seguridad Social. Anuales\", \"id\": \"172.3_SRIDAD_IAL_M_0_0_16\", \"scrapingIdentifierCell\": \"F229\", \"scrapingDataStartCell\": \"F230\", \"units\": \"Millones de pesos\", \"dataset_identifier\": \"172\", \"distribution_identifier\": \"172.3\"}, {\"title\": \"total_recaudacion_var_ia\", \"type\": \"number\", \"description\": \"Total recaudaci\\u00f3n. Variaci\\u00f3n interanual\", \"id\": \"172.3_TL_RECA_IA_M_0_0_24\", \"scrapingIdentifierCell\": \"H229\", \"scrapingDataStartCell\": \"H230\", \"units\": \"Variaci\\u00f3n interanual\", \"dataset_identifier\": \"172\", \"distribution_identifier\": \"172.3\"}, {\"title\": \"subtotal_dgi_var_ia\", \"type\": \"number\", \"description\": \"Recaudaci\\u00f3n DGI. Variaci\\u00f3n interanual\", \"id\": \"172.3_SOTAL_D_IA_M_0_0_19\", \"scrapingIdentifierCell\": \"J229\", \"scrapingDataStartCell\": \"J230\", \"units\": \"Porcentaje\", \"dataset_identifier\": \"172\", \"distribution_identifier\": \"172.3\"}, {\"title\": \"subtotal_dga_var_ia\", \"type\": \"number\", \"description\": \"Recaudaci\\u00f3n DGA. Variaci\\u00f3n interanual\", \"id\": \"172.3_SOTAL_D_IAR_M_0_0_19\", \"scrapingIdentifierCell\": \"K229\", \"scrapingDataStartCell\": \"K230\", \"units\": \"Porcentaje\", \"dataset_identifier\": \"172\", \"distribution_identifier\": \"172.3\"}, {\"title\": \"seguridad_social_var_ia\", \"type\": \"number\", \"description\": \"Recaudaci\\u00f3n Seguridad Social. Variaci\\u00f3n interanual\", \"id\": \"172.3_SRIDAD_IA_M_0_0_23\", \"scrapingIdentifierCell\": \"L229\", \"scrapingDataStartCell\": \"L230\", \"units\": \"Porcentaje\", \"dataset_identifier\": \"172\", \"distribution_identifier\": \"172.3\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-09-28T00:00:00",
+      "datastore_active": false,
+      "description": "Recaudación Tributaria. Principales subgrupos de recaudación tributaria. Millones de pesos. Datos mensuales",
+      "fileName": "recaudacion-tributaria-datos-mensuales.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "sspm_172.3",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Principales subgrupos de recaudación tributaria. Millones de pesos. Datos mensuales",
+      "package_id": "sspm_172",
+      "position": 2,
+      "resource_type": null,
+      "revision_id": "6ac50a00-e4e6-4716-82be-dbaa24ba8525",
+      "size": null,
+      "state": "active",
+      "url": "https://infra.datos.gob.ar/catalog/sspm/dataset/172/distribution/172.3/download/recaudacion-tributaria-datos-mensuales.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "6ac50a00-e4e6-4716-82be-dbaa24ba8525",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "Finanzas Públicas",
+      "id": "e26a31cd-920a-4bea-8a0a-d690d5fdf16f",
+      "name": "Finanzas Públicas",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Información Económica al Día",
+      "id": "0d300a9a-0802-46c3-9a40-2f28ddf050ec",
+      "name": "Información Económica al Día",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Principales subgrupos de recaudación tributaria",
+  "type": "dataset",
+  "url": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/",
+  "version": null
+}

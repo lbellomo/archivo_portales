@@ -1,0 +1,149 @@
+{
+  "author": "Subsecretaría de Programación Macroeconómica",
+  "author_email": "datoseconomicos@mecon.gov.ar",
+  "creator_user_id": "4720e75a-9e17-4dc3-879d-041917c7f9f9",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P3M"
+    },
+    {
+      "key": "issued",
+      "value": "2017-09-28"
+    },
+    {
+      "key": "language",
+      "value": "[\"SPA\"]"
+    },
+    {
+      "key": "source",
+      "value": "Ministerio de Trabajo, Empleo y Seguridad Social"
+    },
+    {
+      "key": "spatial",
+      "value": "ARG"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"ECON\"]"
+    },
+    {
+      "key": "temporal",
+      "value": "1996-01-01/2017-04-01"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Economía y finanzas",
+      "display_name": "Economía y finanzas",
+      "id": "60b4b03e-10a1-4d67-b984-08008a249617",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225257.200233economia-finanzas.svg",
+      "name": "econ",
+      "title": "Economía y finanzas"
+    }
+  ],
+  "id": "sspm_155",
+  "isopen": true,
+  "license_id": "CC-BY-4.0",
+  "license_title": "Creative Commons Attribution 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "maintainer": "Subsecretaría de Programación Macroeconómica.",
+  "maintainer_email": "datoseconomicos@mecon.gov.ar",
+  "metadata_created": "2019-11-26T15:06:01.390986",
+  "metadata_modified": "2021-04-29T21:05:27.546104",
+  "name": "sspm-empleo-registrado-sector-privado-por-sector-actividad",
+  "notes": "Empleo registrado del sector privado por sector de actividad. Cantidad de puestos de trabajo",
+  "num_resources": 2,
+  "num_tags": 2,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:09.718132",
+    "description": "",
+    "id": "68f9ee22-5ec3-44cf-a32b-b87d9db46b93",
+    "image_url": "",
+    "is_organization": true,
+    "name": "sspm",
+    "revision_id": "bc058ce0-3540-4204-96cd-9f9ec79045b3",
+    "state": "active",
+    "title": "Subsecretaría de Programación Macroeconómica",
+    "type": "organization"
+  },
+  "owner_org": "68f9ee22-5ec3-44cf-a32b-b87d9db46b93",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/",
+      "attributesDescription": "[{\"title\": \"indice_tiempo\", \"type\": \"date\", \"specialType\": \"time_index\", \"specialTypeDetail\": \"R/P3M\", \"id\": \"155.1_ICE_TIEMPO_C_0_0_13\", \"scrapingIdentifierCell\": \"A12\", \"scrapingDataStartCell\": \"A13\", \"dataset_identifier\": \"155\", \"distribution_identifier\": \"155.1\"}, {\"title\": \"empleo_registrado_priv_agricultura_ganaderia_pesca\", \"type\": \"number\", \"description\": \"Empleo registrado. Sector Privado. Agricultura, Ganader\\u00eda y Pesca.\", \"id\": \"155.1_ACULTURSCA_C_0_0_27\", \"scrapingIdentifierCell\": \"B12\", \"scrapingDataStartCell\": \"B13\", \"units\": \"Puestos de trabajo\", \"dataset_identifier\": \"155\", \"distribution_identifier\": \"155.1\"}, {\"title\": \"empleo_registrado_priv_mineria_petroleo\", \"type\": \"number\", \"description\": \"Empleo registrado. Sector Privado. Miner\\u00eda y Petr\\u00f3leo.\", \"id\": \"155.1_MRIA_PELEO_C_0_0_16\", \"scrapingIdentifierCell\": \"C12\", \"scrapingDataStartCell\": \"C13\", \"units\": \"Puestos de trabajo\", \"dataset_identifier\": \"155\", \"distribution_identifier\": \"155.1\"}, {\"title\": \"empleo_registrado_priv_industria\", \"type\": \"number\", \"description\": \"Empleo registrado. Sector Privado. Industria.\", \"id\": \"155.1_ISTRIARIA_C_0_0_9\", \"scrapingIdentifierCell\": \"D12\", \"scrapingDataStartCell\": \"D13\", \"units\": \"Puestos de trabajo\", \"dataset_identifier\": \"155\", \"distribution_identifier\": \"155.1\"}, {\"title\": \"empleo_registrado_priv_electricidad_gas_agua\", \"type\": \"number\", \"description\": \"Empleo registrado. Sector Privado. Electricidad, Gas y Agua.\", \"id\": \"155.1_ETRICIDGUA_C_0_0_21\", \"scrapingIdentifierCell\": \"E12\", \"scrapingDataStartCell\": \"E13\", \"units\": \"Puestos de trabajo\", \"dataset_identifier\": \"155\", \"distribution_identifier\": \"155.1\"}, {\"title\": \"empleo_registrado_priv_construccion\", \"type\": \"number\", \"description\": \"Empleo registrado. Sector Privado. Construcci\\u00f3n.\", \"id\": \"155.1_CTRUCCIION_C_0_0_12\", \"scrapingIdentifierCell\": \"F12\", \"scrapingDataStartCell\": \"F13\", \"units\": \"Puestos de trabajo\", \"dataset_identifier\": \"155\", \"distribution_identifier\": \"155.1\"}, {\"title\": \"empleo_registrado_priv_comercio\", \"type\": \"number\", \"description\": \"Empleo registrado. Sector Privado. Comercio.\", \"id\": \"155.1_CRCIOCIO_C_0_0_8\", \"scrapingIdentifierCell\": \"G12\", \"scrapingDataStartCell\": \"G13\", \"units\": \"Puestos de trabajo\", \"dataset_identifier\": \"155\", \"distribution_identifier\": \"155.1\"}, {\"title\": \"empleo_registrado_priv_servicios\", \"type\": \"number\", \"description\": \"Empleo registrado. Sector Privado. Servicios.\", \"id\": \"155.1_SICIOSIOS_C_0_0_9\", \"scrapingIdentifierCell\": \"H12\", \"scrapingDataStartCell\": \"H13\", \"units\": \"Puestos de trabajo\", \"dataset_identifier\": \"155\", \"distribution_identifier\": \"155.1\"}, {\"title\": \"empleo_registrado_priv_total\", \"type\": \"number\", \"description\": \"Empleo registrado. Sector Privado. Total.\", \"id\": \"155.1_TLTAL_C_0_0_5\", \"scrapingIdentifierCell\": \"I12\", \"scrapingDataStartCell\": \"I13\", \"units\": \"Puestos de trabajo\", \"dataset_identifier\": \"155\", \"distribution_identifier\": \"155.1\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-09-28T00:00:00",
+      "datastore_active": false,
+      "description": "Empleo registrado del sector privado por sector de actividad. Datos con estacionalidad. En cantidad de empleos datos trimestrales",
+      "fileName": "empleo-registrado-sector-privado-por-actividad-estacionalidad.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "sspm_155.1",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Empleo registrado del sector privado por sector de actividad. Valores con estacionalidad",
+      "package_id": "sspm_155",
+      "position": 0,
+      "resource_type": null,
+      "revision_id": "ec46ca8f-5c8c-4b33-8500-3c92735226db",
+      "size": null,
+      "state": "active",
+      "url": "https://infra.datos.gob.ar/catalog/sspm/dataset/155/distribution/155.1/download/empleo-registrado-sector-privado-por-actividad-estacionalidad.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/",
+      "attributesDescription": "[{\"title\": \"indice_tiempo\", \"type\": \"date\", \"specialType\": \"time_index\", \"specialTypeDetail\": \"R/P3M\", \"id\": \"155.2_ICE_TIEMPO_S_0_0_13\", \"scrapingIdentifierCell\": \"A12\", \"scrapingDataStartCell\": \"A13\", \"dataset_identifier\": \"155\", \"distribution_identifier\": \"155.2\"}, {\"title\": \"empleo_registrado_priv_sin_estac_agricultura_ganaderia_pesca\", \"type\": \"number\", \"description\": \"Empleo registrado. Sector Privado. Sin Estacionalidad. Agricultura, Ganader\\u00eda y Pesca.\", \"id\": \"155.2_ACULTURSCA_S_0_0_27\", \"scrapingIdentifierCell\": \"K12\", \"scrapingDataStartCell\": \"K13\", \"units\": \"Puestos de trabajo\", \"dataset_identifier\": \"155\", \"distribution_identifier\": \"155.2\"}, {\"title\": \"empleo_registrado_priv_sin_estac_mineria_petroleo\", \"type\": \"number\", \"description\": \"Empleo registrado. Sector Privado. Sin Estacionalidad. Miner\\u00eda y Petr\\u00f3leo.\", \"id\": \"155.2_MRIA_PELEO_S_0_0_16\", \"scrapingIdentifierCell\": \"L12\", \"scrapingDataStartCell\": \"L13\", \"units\": \"Puestos de trabajo\", \"dataset_identifier\": \"155\", \"distribution_identifier\": \"155.2\"}, {\"title\": \"empleo_registrado_priv_sin_estac_industria\", \"type\": \"number\", \"description\": \"Empleo registrado. Sector Privado. Sin Estacionalidad. Industria.\", \"id\": \"155.2_ISTRIARIA_S_0_0_9\", \"scrapingIdentifierCell\": \"M12\", \"scrapingDataStartCell\": \"M13\", \"units\": \"Puestos de trabajo\", \"dataset_identifier\": \"155\", \"distribution_identifier\": \"155.2\"}, {\"title\": \"empleo_registrado_priv_sin_estac_electricidad_gas_agua\", \"type\": \"number\", \"description\": \"Empleo registrado. Sector Privado. Sin Estacionalidad. Electricidad, Gas y Agua.\", \"id\": \"155.2_ETRICIDGUA_S_0_0_21\", \"scrapingIdentifierCell\": \"N12\", \"scrapingDataStartCell\": \"N13\", \"units\": \"Puestos de trabajo\", \"dataset_identifier\": \"155\", \"distribution_identifier\": \"155.2\"}, {\"title\": \"empleo_registrado_priv_sin_estac_construccion\", \"type\": \"number\", \"description\": \"Empleo registrado. Sector Privado. Sin Estacionalidad. Construcci\\u00f3n.\", \"id\": \"155.2_CTRUCCIION_S_0_0_12\", \"scrapingIdentifierCell\": \"O12\", \"scrapingDataStartCell\": \"O13\", \"units\": \"Puestos de trabajo\", \"dataset_identifier\": \"155\", \"distribution_identifier\": \"155.2\"}, {\"title\": \"empleo_registrado_priv_sin_estac_comercio\", \"type\": \"number\", \"description\": \"Empleo registrado. Sector Privado. Sin Estacionalidad. Comercio.\", \"id\": \"155.2_CRCIOCIO_S_0_0_8\", \"scrapingIdentifierCell\": \"P12\", \"scrapingDataStartCell\": \"P13\", \"units\": \"Puestos de trabajo\", \"dataset_identifier\": \"155\", \"distribution_identifier\": \"155.2\"}, {\"title\": \"empleo_registrado_priv_sin_estac_servicios\", \"type\": \"number\", \"description\": \"Empleo registrado. Sector Privado. Sin Estacionalidad. Servicios.\", \"id\": \"155.2_SICIOSIOS_S_0_0_9\", \"scrapingIdentifierCell\": \"Q12\", \"scrapingDataStartCell\": \"Q13\", \"units\": \"Puestos de trabajo\", \"dataset_identifier\": \"155\", \"distribution_identifier\": \"155.2\"}, {\"title\": \"empleo_registrado_priv_sin_estac_total\", \"type\": \"number\", \"description\": \"Empleo registrado. Sector Privado. Sin Estacionalidad. Total.\", \"id\": \"155.2_TLTAL_S_0_0_5\", \"scrapingIdentifierCell\": \"R12\", \"scrapingDataStartCell\": \"R13\", \"units\": \"Puestos de trabajo\", \"dataset_identifier\": \"155\", \"distribution_identifier\": \"155.2\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-09-28T00:00:00",
+      "datastore_active": false,
+      "description": "Empleo registrado del sector privado por sector de actividad. Datos sin estacionalidad. En cantidad de empleos datos trimestrales",
+      "fileName": "empleo-registrado-sector-privado-por-actividad-datos-sin-estacionalidad.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "sspm_155.2",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Empleo registrado del sector privado por sector de actividad. Valores sin estacionalidad",
+      "package_id": "sspm_155",
+      "position": 1,
+      "resource_type": null,
+      "revision_id": "ec46ca8f-5c8c-4b33-8500-3c92735226db",
+      "size": null,
+      "state": "active",
+      "url": "https://infra.datos.gob.ar/catalog/sspm/dataset/155/distribution/155.2/download/empleo-registrado-sector-privado-por-actividad-datos-sin-estacionalidad.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "ec46ca8f-5c8c-4b33-8500-3c92735226db",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "Empleo e Ingresos",
+      "id": "0d41bcfd-c3a4-4ff7-8aa1-dd5c3ac51d0b",
+      "name": "Empleo e Ingresos",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Información Económica al Día",
+      "id": "0d300a9a-0802-46c3-9a40-2f28ddf050ec",
+      "name": "Información Económica al Día",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Empleo registrado del sector privado, por sector de actividad.",
+  "type": "dataset",
+  "url": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/",
+  "version": null
+}

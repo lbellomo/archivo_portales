@@ -1,0 +1,116 @@
+{
+  "author": "Ministerio de transporte",
+  "author_email": null,
+  "creator_user_id": "dc157489-51c6-44ce-bd63-3bd983d60778",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "eventual"
+    },
+    {
+      "key": "issued",
+      "value": "2020-11-06T12:38:13.868696"
+    },
+    {
+      "key": "language",
+      "value": "[\"spa\"]"
+    },
+    {
+      "key": "modified",
+      "value": "2020-11-11T15:21:31.551623"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"TRAN\"]"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Transporte",
+      "display_name": "Transporte",
+      "id": "57227cfc-80a6-45d3-9faa-711a98ac8ede",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225933.272993transporte.svg",
+      "name": "tran",
+      "title": "Transporte"
+    }
+  ],
+  "id": "transporte_514828f8-109e-447f-8e37-c3c60583b07d",
+  "isopen": true,
+  "license_id": "CC-BY-4.0",
+  "license_title": "Creative Commons Attribution 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "maintainer": null,
+  "maintainer_email": null,
+  "metadata_created": "2021-01-28T14:48:16.787665",
+  "metadata_modified": "2021-04-29T21:11:19.700983",
+  "name": "transporte-lista-aeropuertos",
+  "notes": "Aeródromos, aeródromos pertenecientes al Sistema nacional de Aeropuertos (SNA) y helipuertos",
+  "num_resources": 1,
+  "num_tags": 2,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:11.506514",
+    "description": "",
+    "id": "71418928-10c4-4625-aeaf-69a4d73d00ed",
+    "image_url": "",
+    "is_organization": true,
+    "name": "transporte",
+    "revision_id": "dc7b93ef-b174-46ee-90ea-63edf51296f0",
+    "state": "active",
+    "title": " Ministerio de Transporte",
+    "type": "organization"
+  },
+  "owner_org": "71418928-10c4-4625-aeaf-69a4d73d00ed",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "https://datos.transporte.gob.ar/dataset/514828f8-109e-447f-8e37-c3c60583b07d/resource/0973d3ef-7e5e-4174-8715-80d34939d164",
+      "attributesDescription": "[{\"type\": \"string\", \"description\": \"Localidad donde se encuentra el aeropuerto.\", \"title\": \"localidad\"}, {\"type\": \"string\", \"description\": \"abreviaci\\u00f3n del aeropuerto.\", \"title\": \"oaci\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2020-11-06T12:43:42.979129",
+      "datastore_active": false,
+      "description": "Detalle de aeródromos, aeródromos pertenecientes al Sistema nacional de Aeropuertos (SNA) y helipuertos.",
+      "fileName": "aeropuertos_detalle.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "transporte_0973d3ef-7e5e-4174-8715-80d34939d164",
+      "last_modified": "2020-11-06T12:43:42.979129",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Detalle de aeródromos y helipuertos",
+      "package_id": "transporte_514828f8-109e-447f-8e37-c3c60583b07d",
+      "position": 0,
+      "resource_type": "file.upload",
+      "revision_id": "65e69a4e-17e7-4b00-8281-09750ba99faa",
+      "size": null,
+      "state": "active",
+      "url": "https://datos.transporte.gob.ar/dataset/514828f8-109e-447f-8e37-c3c60583b07d/resource/0973d3ef-7e5e-4174-8715-80d34939d164/download/aeropuertos_detalle.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "65e69a4e-17e7-4b00-8281-09750ba99faa",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "Aeropuertos",
+      "id": "df5f7ef8-f709-4e52-81a9-59ecfd3d7b9e",
+      "name": "Aeropuertos",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Transporte Aéreo",
+      "id": "b0c5ad24-27be-4d9f-8e03-70aaeced28dd",
+      "name": "Transporte Aéreo",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Lista de Aeropuertos",
+  "type": "dataset",
+  "url": "https://datos.transporte.gob.ar/dataset/lista-de-aeropuertos",
+  "version": null
+}

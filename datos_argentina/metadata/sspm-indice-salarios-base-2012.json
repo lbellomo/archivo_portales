@@ -1,0 +1,156 @@
+{
+  "author": "Subsecretaría de Programación Macroeconómica",
+  "author_email": "datoseconomicos@mecon.gov.ar",
+  "creator_user_id": "4720e75a-9e17-4dc3-879d-041917c7f9f9",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P1M"
+    },
+    {
+      "key": "issued",
+      "value": "2017-09-28"
+    },
+    {
+      "key": "language",
+      "value": "[\"SPA\"]"
+    },
+    {
+      "key": "source",
+      "value": "Instituto Nacional de Estadística y Censos (INDEC)"
+    },
+    {
+      "key": "spatial",
+      "value": "ARG"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"ECON\"]"
+    },
+    {
+      "key": "temporal",
+      "value": "2001-10-01/2016-12-01"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Economía y finanzas",
+      "display_name": "Economía y finanzas",
+      "id": "60b4b03e-10a1-4d67-b984-08008a249617",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225257.200233economia-finanzas.svg",
+      "name": "econ",
+      "title": "Economía y finanzas"
+    }
+  ],
+  "id": "sspm_56",
+  "isopen": true,
+  "license_id": "CC-BY-4.0",
+  "license_title": "Creative Commons Attribution 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "maintainer": "Subsecretaría de Programación Macroeconómica.",
+  "maintainer_email": "datoseconomicos@mecon.gov.ar",
+  "metadata_created": "2019-11-26T15:04:19.202464",
+  "metadata_modified": "2021-04-29T21:04:32.909096",
+  "name": "sspm-indice-salarios-base-2012",
+  "notes": "Índice de salarios, valores al último día de cada mes según base 2012",
+  "num_resources": 2,
+  "num_tags": 3,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:09.718132",
+    "description": "",
+    "id": "68f9ee22-5ec3-44cf-a32b-b87d9db46b93",
+    "image_url": "",
+    "is_organization": true,
+    "name": "sspm",
+    "revision_id": "bc058ce0-3540-4204-96cd-9f9ec79045b3",
+    "state": "active",
+    "title": "Subsecretaría de Programación Macroeconómica",
+    "type": "organization"
+  },
+  "owner_org": "68f9ee22-5ec3-44cf-a32b-b87d9db46b93",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/",
+      "attributesDescription": "[{\"title\": \"indice_tiempo\", \"type\": \"date\", \"specialType\": \"time_index\", \"specialTypeDetail\": \"R/P3M\", \"id\": \"56.1_IT_2012_T_13\", \"scrapingIdentifierCell\": \"A12\", \"scrapingDataStartCell\": \"A13\", \"dataset_identifier\": \"56\", \"distribution_identifier\": \"56.1\"}, {\"title\": \"nivel_gral_mod_decreto\", \"type\": \"number\", \"description\": \"\\u00cdndice del Nivel General de salarios con modificaciones del Decreto 381/07 a partir de enero 2008 (1)\", \"id\": \"56.1_NGMD_2012_T_22\", \"scrapingIdentifierCell\": \"B12\", \"scrapingDataStartCell\": \"B13\", \"units\": \"\\u00cdndice\", \"dataset_identifier\": \"56\", \"distribution_identifier\": \"56.1\"}, {\"title\": \"sector_priv_regis_mod_decreto\", \"type\": \"number\", \"description\": \"\\u00cdndice de salarios del sector privado registrado con modificaciones del Decreto 381/07 a partir de enero 2008 (1)\", \"id\": \"56.1_SPRMD_2012_T_29\", \"scrapingIdentifierCell\": \"C12\", \"scrapingDataStartCell\": \"C13\", \"units\": \"\\u00cdndice\", \"dataset_identifier\": \"56\", \"distribution_identifier\": \"56.1\"}, {\"title\": \"sector_priv_no_regis_mod_decreto\", \"type\": \"number\", \"description\": \"\\u00cdndice de salarios del sector privado no registrado con modificaciones del Decreto 381/07 a partir de enero 2008 (1)\", \"id\": \"56.1_SPNRMD_2012_T_32\", \"scrapingIdentifierCell\": \"D12\", \"scrapingDataStartCell\": \"D13\", \"units\": \"\\u00cdndice\", \"dataset_identifier\": \"56\", \"distribution_identifier\": \"56.1\"}, {\"title\": \"sector_pub_mod_decreto\", \"type\": \"number\", \"description\": \"\\u00cdndice de salarios del sector p\\u00fablico con modificaciones del Decreto 381/07 a partir de enero 2008 (1)\", \"id\": \"56.1_SPMD_2012_T_22\", \"scrapingIdentifierCell\": \"E12\", \"scrapingDataStartCell\": \"E13\", \"units\": \"\\u00cdndice\", \"dataset_identifier\": \"56\", \"distribution_identifier\": \"56.1\"}, {\"title\": \"nivel_gral_sin_mod_decreto\", \"type\": \"number\", \"description\": \"\\u00cdndice del Nivel General de salarios sin modificaciones del Decreto 381/07 a partir de enero 2008 (1)\", \"id\": \"56.1_NGSMD_2012_T_26\", \"scrapingIdentifierCell\": \"G12\", \"scrapingDataStartCell\": \"G13\", \"units\": \"\\u00cdndice\", \"dataset_identifier\": \"56\", \"distribution_identifier\": \"56.1\"}, {\"title\": \"sector_priv_regis_sin_mod_decreto\", \"type\": \"number\", \"description\": \"\\u00cdndice de salarios del sector privado registrado sin modificaciones del Decreto 381/07 a partir de enero 2008 (1)\", \"id\": \"56.1_SPRSMD_2012_T_33\", \"scrapingIdentifierCell\": \"H12\", \"scrapingDataStartCell\": \"H13\", \"units\": \"\\u00cdndice\", \"dataset_identifier\": \"56\", \"distribution_identifier\": \"56.1\"}, {\"title\": \"sector_priv_no_regis_sin_mod_decreto\", \"type\": \"number\", \"description\": \"\\u00cdndice de salarios del sector privado no registrado sin modificaciones del Decreto 381/07 a partir de enero 2008 (1)\", \"id\": \"56.1_SPNRSMD_2012_T_36\", \"scrapingIdentifierCell\": \"I12\", \"scrapingDataStartCell\": \"I13\", \"units\": \"\\u00cdndice\", \"dataset_identifier\": \"56\", \"distribution_identifier\": \"56.1\"}, {\"title\": \"sector_pub_sin_mod_decreto\", \"type\": \"number\", \"description\": \"\\u00cdndice de salarios del sector p\\u00fablico sin modificaciones del Decreto 381/07 a partir de enero 2008 (1)\", \"id\": \"56.1_SPSMD_2012_T_26\", \"scrapingIdentifierCell\": \"J12\", \"scrapingDataStartCell\": \"J13\", \"units\": \"\\u00cdndice\", \"dataset_identifier\": \"56\", \"distribution_identifier\": \"56.1\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-09-28T00:00:00",
+      "datastore_active": false,
+      "description": "Índice de salarios (Base 2012) Valores trimestrales",
+      "fileName": "indice-salarios-base-2012-valores-trimestrales.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "sspm_56.1",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Índice de salarios. Base 2012. Valores trimestrales",
+      "package_id": "sspm_56",
+      "position": 0,
+      "resource_type": null,
+      "revision_id": "ea0ac860-ac60-49ed-9181-c138347841c1",
+      "size": null,
+      "state": "active",
+      "url": "https://infra.datos.gob.ar/catalog/sspm/dataset/56/distribution/56.1/download/indice-salarios-base-2012-valores-trimestrales.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/",
+      "attributesDescription": "[{\"title\": \"indice_tiempo\", \"type\": \"date\", \"specialType\": \"time_index\", \"specialTypeDetail\": \"R/P1M\", \"id\": \"56.2_IT_2012_M_13\", \"scrapingIdentifierCell\": \"A110\", \"scrapingDataStartCell\": \"A111\", \"dataset_identifier\": \"56\", \"distribution_identifier\": \"56.2\"}, {\"title\": \"nivel_gral_mod_decreto\", \"type\": \"number\", \"description\": \"\\u00cdndice del Nivel General de salarios con modificaciones del Decreto 381/07 a partir de enero 2008 (1)\", \"id\": \"56.2_NGMD_2012_M_22\", \"scrapingIdentifierCell\": \"B110\", \"scrapingDataStartCell\": \"B111\", \"units\": \"\\u00cdndice\", \"dataset_identifier\": \"56\", \"distribution_identifier\": \"56.2\"}, {\"title\": \"sector_priv_regis_mod_decreto\", \"type\": \"number\", \"description\": \"\\u00cdndice de salarios del sector privado registrado con modificaciones del Decreto 381/07 a partir de enero 2008 (1)\", \"id\": \"56.2_SPRMD_2012_M_29\", \"scrapingIdentifierCell\": \"C110\", \"scrapingDataStartCell\": \"C111\", \"units\": \"\\u00cdndice\", \"dataset_identifier\": \"56\", \"distribution_identifier\": \"56.2\"}, {\"title\": \"sector_priv_no_regis_mod_decreto\", \"type\": \"number\", \"description\": \"\\u00cdndice de salarios del sector privado no registrado con modificaciones del Decreto 381/07 a partir de enero 2008 (1)\", \"id\": \"56.2_SPNRMD_2012_M_32\", \"scrapingIdentifierCell\": \"D110\", \"scrapingDataStartCell\": \"D111\", \"units\": \"\\u00cdndice\", \"dataset_identifier\": \"56\", \"distribution_identifier\": \"56.2\"}, {\"title\": \"sector_pub_mod_decreto\", \"type\": \"number\", \"description\": \"\\u00cdndice de salarios del sector p\\u00fablico con modificaciones del Decreto 381/07 a partir de enero 2008 (1)\", \"id\": \"56.2_SPMD_2012_M_22\", \"scrapingIdentifierCell\": \"E110\", \"scrapingDataStartCell\": \"E111\", \"units\": \"\\u00cdndice\", \"dataset_identifier\": \"56\", \"distribution_identifier\": \"56.2\"}, {\"title\": \"nivel_gral_sin_mod_decreto\", \"type\": \"number\", \"description\": \"\\u00cdndice del Nivel General de salarios sin modificaciones del Decreto 381/07 a partir de enero 2008 (1)\", \"id\": \"56.2_NGSMD_2012_M_26\", \"scrapingIdentifierCell\": \"G110\", \"scrapingDataStartCell\": \"G111\", \"units\": \"\\u00cdndice\", \"dataset_identifier\": \"56\", \"distribution_identifier\": \"56.2\"}, {\"title\": \"sector_priv_regis_sin_mod_decreto\", \"type\": \"number\", \"description\": \"\\u00cdndice de salarios del sector privado registrado sin modificaciones del Decreto 381/07 a partir de enero 2008 (1)\", \"id\": \"56.2_SPRSMD_2012_M_33\", \"scrapingIdentifierCell\": \"H110\", \"scrapingDataStartCell\": \"H111\", \"units\": \"\\u00cdndice\", \"dataset_identifier\": \"56\", \"distribution_identifier\": \"56.2\"}, {\"title\": \"sector_priv_no_regis_sin_mod_decreto\", \"type\": \"number\", \"description\": \"\\u00cdndice de salarios del sector privado no registrado sin modificaciones del Decreto 381/07 a partir de enero 2008 (1)\", \"id\": \"56.2_SPNRSMD_2012_M_36\", \"scrapingIdentifierCell\": \"I110\", \"scrapingDataStartCell\": \"I111\", \"units\": \"\\u00cdndice\", \"dataset_identifier\": \"56\", \"distribution_identifier\": \"56.2\"}, {\"title\": \"sector_pub_sin_mod_decreto\", \"type\": \"number\", \"description\": \"\\u00cdndice de salarios del sector p\\u00fablico sin modificaciones del Decreto 381/07 a partir de enero 2008 (1)\", \"id\": \"56.2_SPSMD_2012_M_26\", \"scrapingIdentifierCell\": \"J110\", \"scrapingDataStartCell\": \"J111\", \"units\": \"\\u00cdndice\", \"dataset_identifier\": \"56\", \"distribution_identifier\": \"56.2\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-09-28T00:00:00",
+      "datastore_active": false,
+      "description": "Índice de salarios (Base 2012) Valores mensuales",
+      "fileName": "indice-salarios-base-2012-valores-mensuales.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "sspm_56.2",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Índice de salarios. Base 2012. Valores mensuales",
+      "package_id": "sspm_56",
+      "position": 1,
+      "resource_type": null,
+      "revision_id": "ea0ac860-ac60-49ed-9181-c138347841c1",
+      "size": null,
+      "state": "active",
+      "url": "https://infra.datos.gob.ar/catalog/sspm/dataset/56/distribution/56.2/download/indice-salarios-base-2012-valores-mensuales.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "ea0ac860-ac60-49ed-9181-c138347841c1",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "Empleo e Ingresos",
+      "id": "0d41bcfd-c3a4-4ff7-8aa1-dd5c3ac51d0b",
+      "name": "Empleo e Ingresos",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Información Económica al Día",
+      "id": "0d300a9a-0802-46c3-9a40-2f28ddf050ec",
+      "name": "Información Económica al Día",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Precios",
+      "id": "308c2aaf-f177-4728-bda5-fd41662741a2",
+      "name": "Precios",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Índice de salarios. Base 2012",
+  "type": "dataset",
+  "url": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/",
+  "version": null
+}

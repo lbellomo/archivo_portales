@@ -1,0 +1,156 @@
+{
+  "author": "Subsecretaría de Programación Macroeconómica",
+  "author_email": "datoseconomicos@mecon.gov.ar",
+  "creator_user_id": "4720e75a-9e17-4dc3-879d-041917c7f9f9",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P1M"
+    },
+    {
+      "key": "issued",
+      "value": "2017-09-28"
+    },
+    {
+      "key": "language",
+      "value": "[\"SPA\"]"
+    },
+    {
+      "key": "source",
+      "value": "Ministerio de Trabajo, Empleo y Seguridad Social"
+    },
+    {
+      "key": "spatial",
+      "value": "ARG"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"ECON\"]"
+    },
+    {
+      "key": "temporal",
+      "value": "1991-01-01/2017-04-01"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Economía y finanzas",
+      "display_name": "Economía y finanzas",
+      "id": "60b4b03e-10a1-4d67-b984-08008a249617",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225257.200233economia-finanzas.svg",
+      "name": "econ",
+      "title": "Economía y finanzas"
+    }
+  ],
+  "id": "sspm_157",
+  "isopen": true,
+  "license_id": "CC-BY-4.0",
+  "license_title": "Creative Commons Attribution 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "maintainer": "Subsecretaría de Programación Macroeconómica.",
+  "maintainer_email": "datoseconomicos@mecon.gov.ar",
+  "metadata_created": "2019-11-26T15:04:28.410876",
+  "metadata_modified": "2021-04-29T21:05:38.484262",
+  "name": "sspm-remuneracion-bruta-asalariados-registrados-sector-privado-segun-rama-actividad",
+  "notes": "Remuneración bruta promedio de los asalariados registrados del sector privado según rama de actividad. Serie original y desestacionalizada en pesos corrientes",
+  "num_resources": 2,
+  "num_tags": 3,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:09.718132",
+    "description": "",
+    "id": "68f9ee22-5ec3-44cf-a32b-b87d9db46b93",
+    "image_url": "",
+    "is_organization": true,
+    "name": "sspm",
+    "revision_id": "bc058ce0-3540-4204-96cd-9f9ec79045b3",
+    "state": "active",
+    "title": "Subsecretaría de Programación Macroeconómica",
+    "type": "organization"
+  },
+  "owner_org": "68f9ee22-5ec3-44cf-a32b-b87d9db46b93",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/",
+      "attributesDescription": "[{\"title\": \"indice_tiempo\", \"type\": \"date\", \"specialType\": \"time_index\", \"specialTypeDetail\": \"R/P1M\", \"id\": \"157.1_ICE_TIEMPO_C_0_0_13\", \"scrapingIdentifierCell\": \"A12\", \"scrapingDataStartCell\": \"A13\", \"dataset_identifier\": \"157\", \"distribution_identifier\": \"157.1\"}, {\"title\": \"rem_bruta_asal_agricultura_ganaderia_caza_silvicultura\", \"type\": \"number\", \"description\": \"Rem. bruta promedio asalariados reg. Sector priv. Agricultura, Ganader\\u00eda, Caza y Silvicultura.\", \"id\": \"157.1_ACULTURURA_C_0_0_39\", \"scrapingIdentifierCell\": \"B12\", \"scrapingDataStartCell\": \"B13\", \"units\": \"Pesos corrientes\", \"dataset_identifier\": \"157\", \"distribution_identifier\": \"157.1\"}, {\"title\": \"rem_bruta_asal_pesca\", \"type\": \"number\", \"description\": \"Rem. bruta promedio asalariados reg. Sector priv. Pesca y Servicios Conexos.\", \"id\": \"157.1_PASCA_C_0_0_5\", \"scrapingIdentifierCell\": \"C12\", \"scrapingDataStartCell\": \"C13\", \"units\": \"Pesos corrientes\", \"dataset_identifier\": \"157\", \"distribution_identifier\": \"157.1\"}, {\"title\": \"rem_bruta_asal_explotacion_minas_canteras\", \"type\": \"number\", \"description\": \"Rem. bruta promedio asalariados reg. Sector priv. Explotaci\\u00f3n de Minas y Canteras.\", \"id\": \"157.1_EOTACIORAS_C_0_0_26\", \"scrapingIdentifierCell\": \"D12\", \"scrapingDataStartCell\": \"D13\", \"units\": \"Pesos corrientes\", \"dataset_identifier\": \"157\", \"distribution_identifier\": \"157.1\"}, {\"title\": \"rem_bruta_asal_industrias_manufactureras\", \"type\": \"number\", \"description\": \"Rem. bruta promedio asalariados reg. Sector priv. Industria Manufacturera.\", \"id\": \"157.1_ISTRIASRAS_C_0_0_25\", \"scrapingIdentifierCell\": \"E12\", \"scrapingDataStartCell\": \"E13\", \"units\": \"Pesos corrientes\", \"dataset_identifier\": \"157\", \"distribution_identifier\": \"157.1\"}, {\"title\": \"rem_bruta_asal_suministro_electricidad_gas_agua\", \"type\": \"number\", \"description\": \"Rem. bruta promedio asalariados reg. Sector priv. Electricidad, Gas y Agua.\", \"id\": \"157.1_SNISTROGUA_C_0_0_32\", \"scrapingIdentifierCell\": \"F12\", \"scrapingDataStartCell\": \"F13\", \"units\": \"Pesos corrientes\", \"dataset_identifier\": \"157\", \"distribution_identifier\": \"157.1\"}, {\"title\": \"rem_bruta_asal_construccion\", \"type\": \"number\", \"description\": \"Rem. bruta promedio asalariados reg. Sector priv. Construcci\\u00f3n.\", \"id\": \"157.1_CTRUCCIION_C_0_0_12\", \"scrapingIdentifierCell\": \"G12\", \"scrapingDataStartCell\": \"G13\", \"units\": \"Pesos corrientes\", \"dataset_identifier\": \"157\", \"distribution_identifier\": \"157.1\"}, {\"title\": \"rem_bruta_asal_comercio_reparaciones\", \"type\": \"number\", \"description\": \"Rem. bruta promedio asalariados reg. Sector priv. Comercio al por Mayor y Menor.\", \"id\": \"157.1_CRCIO_RNES_C_0_0_21\", \"scrapingIdentifierCell\": \"H12\", \"scrapingDataStartCell\": \"H13\", \"units\": \"Pesos corrientes\", \"dataset_identifier\": \"157\", \"distribution_identifier\": \"157.1\"}, {\"title\": \"rem_bruta_asal_hoteles_restaurantes\", \"type\": \"number\", \"description\": \"Rem. bruta promedio asalariados reg. Sector priv. Hoteler\\u00eda y Restaurantes.\", \"id\": \"157.1_HLES_RETES_C_0_0_20\", \"scrapingIdentifierCell\": \"I12\", \"scrapingDataStartCell\": \"I13\", \"units\": \"Pesos corrientes\", \"dataset_identifier\": \"157\", \"distribution_identifier\": \"157.1\"}, {\"title\": \"rem_bruta_asal_transporte_almacenamiento_comunicaciones\", \"type\": \"number\", \"description\": \"Rem. bruta promedio asalariados reg. Sector priv. Transporte, Almacenamiento y Comunicaciones.\", \"id\": \"157.1_TSPORTENES_C_0_0_40\", \"scrapingIdentifierCell\": \"J12\", \"scrapingDataStartCell\": \"J13\", \"units\": \"Pesos corrientes\", \"dataset_identifier\": \"157\", \"distribution_identifier\": \"157.1\"}, {\"title\": \"rem_bruta_asal_intermediacion_financiera\", \"type\": \"number\", \"description\": \"Rem. bruta promedio asalariados reg. Sector priv. Intermediaci\\u00f3n Financ. y Otros Servicios Financ.\", \"id\": \"157.1_IRMEDIAERA_C_0_0_25\", \"scrapingIdentifierCell\": \"K12\", \"scrapingDataStartCell\": \"K13\", \"units\": \"Pesos corrientes\", \"dataset_identifier\": \"157\", \"distribution_identifier\": \"157.1\"}, {\"title\": \"rem_bruta_asal_acti_inmobiliarias_empresariales_alquiler\", \"type\": \"number\", \"description\": \"Rem. bruta promedio asalariados reg. Sector priv. Serv. Inmobiliarios, Empresariales y de Alquiler.\", \"id\": \"157.1_AVIDADELER_C_0_0_48\", \"scrapingIdentifierCell\": \"L12\", \"scrapingDataStartCell\": \"L13\", \"units\": \"Pesos corrientes\", \"dataset_identifier\": \"157\", \"distribution_identifier\": \"157.1\"}, {\"title\": \"rem_bruta_asal_ensenianza\", \"type\": \"number\", \"description\": \"Rem. bruta promedio asalariados reg. Sector priv. Ense\\u00f1anza.\", \"id\": \"157.1_ENIANZANZA_C_0_0_10\", \"scrapingIdentifierCell\": \"M12\", \"scrapingDataStartCell\": \"M13\", \"units\": \"Pesos corrientes\", \"dataset_identifier\": \"157\", \"distribution_identifier\": \"157.1\"}, {\"title\": \"rem_bruta_asal_servicios_sociales_salud\", \"type\": \"number\", \"description\": \"Rem. bruta promedio asalariados reg. Sector priv. Servicios Sociales y de Salud.\", \"id\": \"157.1_SICIOS_LUD_C_0_0_24\", \"scrapingIdentifierCell\": \"N12\", \"scrapingDataStartCell\": \"N13\", \"units\": \"Pesos corrientes\", \"dataset_identifier\": \"157\", \"distribution_identifier\": \"157.1\"}, {\"title\": \"rem_bruta_asal_otras_acti_comunitarias_soc_personales\", \"type\": \"number\", \"description\": \"Rem. bruta promedio asalariados reg. Sector priv. Servicios Comunitarios, Sociales y Personales.\", \"id\": \"157.1_OS_ACTILES_C_0_0_55\", \"scrapingIdentifierCell\": \"O12\", \"scrapingDataStartCell\": \"O13\", \"units\": \"Pesos corrientes\", \"dataset_identifier\": \"157\", \"distribution_identifier\": \"157.1\"}, {\"title\": \"rem_bruta_asal_total\", \"type\": \"number\", \"description\": \"Rem. bruta promedio asalariados reg. Sector priv. Total.\", \"id\": \"157.1_TLTAL_C_0_0_5\", \"scrapingIdentifierCell\": \"P12\", \"scrapingDataStartCell\": \"P13\", \"units\": \"Pesos corrientes\", \"dataset_identifier\": \"157\", \"distribution_identifier\": \"157.1\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-09-28T00:00:00",
+      "datastore_active": false,
+      "description": "Remuneración bruta promedio de los asalariados registrados del sector privado según rama de actividad. Datos con estacionalidad. Total país en millones de pesos",
+      "fileName": "remuneracion-bruta-promedio-asalariados-registrados-sector-privado-segun-actividad-con-estacionalidad.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "sspm_157.1",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Remuneración bruta promedio de los asalariados registrados del sector privado, por rama de actividad. Valores con estacionalidad",
+      "package_id": "sspm_157",
+      "position": 0,
+      "resource_type": null,
+      "revision_id": "033ec767-c5a9-4624-b673-a43123f5b532",
+      "size": null,
+      "state": "active",
+      "url": "https://infra.datos.gob.ar/catalog/sspm/dataset/157/distribution/157.1/download/remuneracion-bruta-promedio-asalariados-registrados-sector-privado-segun-actividad-con-estacionalidad.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/",
+      "attributesDescription": "[{\"title\": \"indice_tiempo\", \"type\": \"date\", \"specialType\": \"time_index\", \"specialTypeDetail\": \"R/P1M\", \"id\": \"157.2_ICE_TIEMPO_S_0_0_13\", \"scrapingIdentifierCell\": \"A12\", \"scrapingDataStartCell\": \"A13\", \"dataset_identifier\": \"157\", \"distribution_identifier\": \"157.2\"}, {\"title\": \"rem_bruta_asal_sin_est_agric_ganaderia_caza_silvicultura\", \"type\": \"number\", \"description\": \"Rem. bruta promedio asal. reg. Priv. Sin Estac. Agricultura, Ganader\\u00eda, Caza y Silvicultura.\", \"id\": \"157.2_ACULTURURA_S_0_0_39\", \"scrapingIdentifierCell\": \"R12\", \"scrapingDataStartCell\": \"R13\", \"units\": \"Pesos corrientes\", \"dataset_identifier\": \"157\", \"distribution_identifier\": \"157.2\"}, {\"title\": \"rem_bruta_asal_sin_est_pesca\", \"type\": \"number\", \"description\": \"Rem. bruta promedio asal. reg. Priv. Sin Estac. Pesca y Servicios Conexos.\", \"id\": \"157.2_PASCA_S_0_0_5\", \"scrapingIdentifierCell\": \"S12\", \"scrapingDataStartCell\": \"S13\", \"units\": \"Pesos corrientes\", \"dataset_identifier\": \"157\", \"distribution_identifier\": \"157.2\"}, {\"title\": \"rem_bruta_asal_sin_est_explotacion_minas_canteras\", \"type\": \"number\", \"description\": \"Rem. bruta promedio asal. reg. Priv. Sin Estac. Explotaci\\u00f3n de Minas y Canteras.\", \"id\": \"157.2_EOTACIORAS_S_0_0_26\", \"scrapingIdentifierCell\": \"T12\", \"scrapingDataStartCell\": \"T13\", \"units\": \"Pesos corrientes\", \"dataset_identifier\": \"157\", \"distribution_identifier\": \"157.2\"}, {\"title\": \"rem_bruta_asal_sin_est_industrias_manufactureras\", \"type\": \"number\", \"description\": \"Rem. bruta promedio asal. reg. Priv. Sin Estac. Industria Manufacturera.\", \"id\": \"157.2_ISTRIASRAS_S_0_0_25\", \"scrapingIdentifierCell\": \"U12\", \"scrapingDataStartCell\": \"U13\", \"units\": \"Pesos corrientes\", \"dataset_identifier\": \"157\", \"distribution_identifier\": \"157.2\"}, {\"title\": \"rem_bruta_asal_sin_est_suministro_electricidad_gas_agua\", \"type\": \"number\", \"description\": \"Rem. bruta promedio asal. reg. Priv. Sin Estac. Electricidad, Gas y Agua.\", \"id\": \"157.2_SNISTROGUA_S_0_0_32\", \"scrapingIdentifierCell\": \"V12\", \"scrapingDataStartCell\": \"V13\", \"units\": \"Pesos corrientes\", \"dataset_identifier\": \"157\", \"distribution_identifier\": \"157.2\"}, {\"title\": \"rem_bruta_asal_sin_est_construccion\", \"type\": \"number\", \"description\": \"Rem. bruta promedio asal. reg. Priv. Sin Estac. Construcci\\u00f3n.\", \"id\": \"157.2_CTRUCCIION_S_0_0_12\", \"scrapingIdentifierCell\": \"W12\", \"scrapingDataStartCell\": \"W13\", \"units\": \"Pesos corrientes\", \"dataset_identifier\": \"157\", \"distribution_identifier\": \"157.2\"}, {\"title\": \"rem_bruta_asal_sin_est_comercio_reparaciones\", \"type\": \"number\", \"description\": \"Rem. bruta promedio asal. reg. Priv. Sin Estac. Comercio al por Mayor y Menor.\", \"id\": \"157.2_CRCIO_RNES_S_0_0_21\", \"scrapingIdentifierCell\": \"X12\", \"scrapingDataStartCell\": \"X13\", \"units\": \"Pesos corrientes\", \"dataset_identifier\": \"157\", \"distribution_identifier\": \"157.2\"}, {\"title\": \"rem_bruta_asal_sin_est_hoteles_restaurantes\", \"type\": \"number\", \"description\": \"Rem. bruta promedio asal. reg. Priv. Sin Estac. Hoteler\\u00eda y Restaurantes.\", \"id\": \"157.2_HLES_RETES_S_0_0_20\", \"scrapingIdentifierCell\": \"Y12\", \"scrapingDataStartCell\": \"Y13\", \"units\": \"Pesos corrientes\", \"dataset_identifier\": \"157\", \"distribution_identifier\": \"157.2\"}, {\"title\": \"rem_bruta_asal_sin_est_transporte_almacenamiento_comunic\", \"type\": \"number\", \"description\": \"Rem. bruta promedio asal. reg. Priv. Sin Estac. Transporte, Almacenamiento y Comunicaciones.\", \"id\": \"157.2_TSPORTENES_S_0_0_40\", \"scrapingIdentifierCell\": \"Z12\", \"scrapingDataStartCell\": \"Z13\", \"units\": \"Pesos corrientes\", \"dataset_identifier\": \"157\", \"distribution_identifier\": \"157.2\"}, {\"title\": \"rem_bruta_asal_sin_est_intermediacion_financiera\", \"type\": \"number\", \"description\": \"Rem. bruta promedio asal. reg. Priv. Sin Estac. Intermediaci\\u00f3n Financ. y Otros Servicios Financ.\", \"id\": \"157.2_IRMEDIAERA_S_0_0_25\", \"scrapingIdentifierCell\": \"AA12\", \"scrapingDataStartCell\": \"AA13\", \"units\": \"Pesos corrientes\", \"dataset_identifier\": \"157\", \"distribution_identifier\": \"157.2\"}, {\"title\": \"rem_bruta_asal_sin_est_acti_inmo_empresariales_alquiler\", \"type\": \"number\", \"description\": \"Rem. bruta promedio asal. reg. Priv. Sin Estac. Serv. Inmobiliarios, Empresariales y de Alquiler.\", \"id\": \"157.2_AVIDADELER_S_0_0_48\", \"scrapingIdentifierCell\": \"AB12\", \"scrapingDataStartCell\": \"AB13\", \"units\": \"Pesos corrientes\", \"dataset_identifier\": \"157\", \"distribution_identifier\": \"157.2\"}, {\"title\": \"rem_bruta_asal_sin_est_ensenianza\", \"type\": \"number\", \"description\": \"Rem. bruta promedio asal. reg. Priv. Sin Estac. Ense\\u00f1anza.\", \"id\": \"157.2_ENIANZANZA_S_0_0_10\", \"scrapingIdentifierCell\": \"AC12\", \"scrapingDataStartCell\": \"AC13\", \"units\": \"Pesos corrientes\", \"dataset_identifier\": \"157\", \"distribution_identifier\": \"157.2\"}, {\"title\": \"rem_bruta_asal_sin_est_servicios_sociales_salud\", \"type\": \"number\", \"description\": \"Rem. bruta promedio asal. reg. Priv. Sin Estac. Servicios Sociales y de Salud.\", \"id\": \"157.2_SICIOS_LUD_S_0_0_24\", \"scrapingIdentifierCell\": \"AD12\", \"scrapingDataStartCell\": \"AD13\", \"units\": \"Pesos corrientes\", \"dataset_identifier\": \"157\", \"distribution_identifier\": \"157.2\"}, {\"title\": \"rem_bruta_asal_sin_est_otras_acti_comun_soc_personales\", \"type\": \"number\", \"description\": \"Rem. bruta promedio asal. reg. Priv. Sin Estac. Servicios Comunitarios, Sociales y Personales.\", \"id\": \"157.2_OS_ACTILES_S_0_0_55\", \"scrapingIdentifierCell\": \"AE12\", \"scrapingDataStartCell\": \"AE13\", \"units\": \"Pesos corrientes\", \"dataset_identifier\": \"157\", \"distribution_identifier\": \"157.2\"}, {\"title\": \"rem_bruta_asal_sin_est_total\", \"type\": \"number\", \"description\": \"Rem. bruta promedio asal. reg. Priv. Sin Estac. Total.\", \"id\": \"157.2_TLTAL_S_0_0_5\", \"scrapingIdentifierCell\": \"AF12\", \"scrapingDataStartCell\": \"AF13\", \"units\": \"Pesos corrientes\", \"dataset_identifier\": \"157\", \"distribution_identifier\": \"157.2\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-09-28T00:00:00",
+      "datastore_active": false,
+      "description": "Remuneración bruta promedio de los asalariados registrados del sector privado según rama de actividad. Datos sin estacionalidad. Total país en millones de pesos",
+      "fileName": "remuneracion-bruta-promedio-asalariados-registrados-sector-privado-segun-actividad-sin-estacionalidad.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "sspm_157.2",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Remuneración bruta promedio de los asalariados registrados del sector privado, por rama de actividad. Valores sin estacionalidad",
+      "package_id": "sspm_157",
+      "position": 1,
+      "resource_type": null,
+      "revision_id": "033ec767-c5a9-4624-b673-a43123f5b532",
+      "size": null,
+      "state": "active",
+      "url": "https://infra.datos.gob.ar/catalog/sspm/dataset/157/distribution/157.2/download/remuneracion-bruta-promedio-asalariados-registrados-sector-privado-segun-actividad-sin-estacionalidad.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "033ec767-c5a9-4624-b673-a43123f5b532",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "Empleo e Ingresos",
+      "id": "0d41bcfd-c3a4-4ff7-8aa1-dd5c3ac51d0b",
+      "name": "Empleo e Ingresos",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Información Económica al Día",
+      "id": "0d300a9a-0802-46c3-9a40-2f28ddf050ec",
+      "name": "Información Económica al Día",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Precios",
+      "id": "308c2aaf-f177-4728-bda5-fd41662741a2",
+      "name": "Precios",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Remuneración bruta de los asalariados registrados del sector privado según rama de actividad",
+  "type": "dataset",
+  "url": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/",
+  "version": null
+}

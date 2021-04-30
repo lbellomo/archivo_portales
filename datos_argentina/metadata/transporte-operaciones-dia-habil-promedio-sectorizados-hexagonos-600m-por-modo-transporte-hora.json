@@ -1,0 +1,273 @@
+{
+  "author": "Dirección de Observatorio, Estudio y Sistemas – Ministerio de Transporte",
+  "author_email": "observatorio@transporte.gob.ar",
+  "creator_user_id": "dc157489-51c6-44ce-bd63-3bd983d60778",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "eventual"
+    },
+    {
+      "key": "issued",
+      "value": "2019-05-27T21:10:01.178168"
+    },
+    {
+      "key": "modified",
+      "value": "2021-01-26T00:46:58.195677"
+    },
+    {
+      "key": "source",
+      "value": "SUBE - Dirección de Observatorio, Estudio y Sistemas – Ministerio de Transporte"
+    },
+    {
+      "key": "spatial",
+      "value": "[\"ARG\"]"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"GOVE\", \"TRAN\"]"
+    },
+    {
+      "key": "temporal",
+      "value": "2018-07-02T03:00:00.000Z/2018-07-06T03:00:00.000Z"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Gobierno y sector público",
+      "display_name": "Gobierno y sector público",
+      "id": "e6f07c77-3987-4e71-98a6-731b1aaf74f4",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225353.395233gobierno-sector-publico.svg",
+      "name": "gove",
+      "title": "Gobierno y sector público"
+    },
+    {
+      "description": "Transporte",
+      "display_name": "Transporte",
+      "id": "57227cfc-80a6-45d3-9faa-711a98ac8ede",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225933.272993transporte.svg",
+      "name": "tran",
+      "title": "Transporte"
+    }
+  ],
+  "id": "transporte_254f0d95-2a1e-481d-bbfd-9f98a4d694bf",
+  "isopen": true,
+  "license_id": "PDDL-1.0",
+  "license_title": "Open Data Commons Public Domain Dedication and Licence 1.0 (PDDL)",
+  "license_url": "https://opendefinition.org/licenses/odc-pddl",
+  "maintainer": "Dirección de Observatorio, Estudio y Sistemas – Ministerio de Transporte",
+  "maintainer_email": "observatorio@transporte.gob.ar",
+  "metadata_created": "2021-01-28T14:47:15.814134",
+  "metadata_modified": "2021-04-29T21:11:20.208029",
+  "name": "transporte-operaciones-dia-habil-promedio-sectorizados-hexagonos-600m-por-modo-transporte-hora",
+  "notes": "Estudio que agrupa un día hábil promedio de operaciones de viajes del sistema único de boleto electrónico (SUBE) para líneas de transporte urbano de pasajeros de RMBA incluyendo trenes, subterráneos, pre metro y colectivos. Tipos de operación: uso (con y sin integración tarifaría), venta de pasaje, check in (con y sin integración tarifaría), check out sin check in.\r\nse adjunta soporte geografico, grilla hexagonal para analisis geografico de datos",
+  "num_resources": 6,
+  "num_tags": 5,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:11.506514",
+    "description": "",
+    "id": "71418928-10c4-4625-aeaf-69a4d73d00ed",
+    "image_url": "",
+    "is_organization": true,
+    "name": "transporte",
+    "revision_id": "dc7b93ef-b174-46ee-90ea-63edf51296f0",
+    "state": "active",
+    "title": " Ministerio de Transporte",
+    "type": "organization"
+  },
+  "owner_org": "71418928-10c4-4625-aeaf-69a4d73d00ed",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "https://datos.transporte.gob.ar/dataset/254f0d95-2a1e-481d-bbfd-9f98a4d694bf/resource/4d2fc0c1-c1ce-4ddd-a678-27d109aee80c",
+      "attributesDescription": "[{\"type\": \"integer\", \"description\": \"Identificacion del nro de hexagono en el archivo geografico \\\"GrillaHexagonal\\\"\", \"title\": \"ID_HEXAGONO\"}, {\"type\": \"string\", \"description\": \"Identificaci\\u00f3n del modo de transporte: bus, subte, tren\", \"title\": \"MODO\"}, {\"type\": \"integer\", \"description\": \"Valor de hora en el que se contabilizaron las operaciones de pago SUBE para ese modo de transporte y \\u00e1rea geogr\\u00e1fica (0 a 23 hs)\", \"title\": \"Hora\"}, {\"type\": \"integer\", \"description\": \"Cantidad de operaciones de Pago SUBE\", \"title\": \"CANTIDAD\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-05-27T18:14:48.962335",
+      "datastore_active": false,
+      "description": "Operaciones SUBE, día hábil promedio por área geográfica, modo y hora. Para líneas de transporte urbano de pasajeros de RMBA incluyendo trenes, subterráneos, pre metro y colectivos.",
+      "fileName": "Operaciones SUBE dia habil promedio grilla hexagonal modo hora.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "transporte_4d2fc0c1-c1ce-4ddd-a678-27d109aee80c",
+      "last_modified": "2019-05-31T09:06:14.086801",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Operaciones SUBE, día hábil promedio por área geográfica, modo y hora",
+      "package_id": "transporte_254f0d95-2a1e-481d-bbfd-9f98a4d694bf",
+      "position": 0,
+      "resource_type": "file.upload",
+      "revision_id": "c3feb389-ed63-4f93-896e-9e3fd101fc06",
+      "size": null,
+      "state": "active",
+      "url": "https://datos.transporte.gob.ar/dataset/254f0d95-2a1e-481d-bbfd-9f98a4d694bf/resource/4d2fc0c1-c1ce-4ddd-a678-27d109aee80c/download/operaciones-sube-dia-habil-promedio-grilla-hexagonal-modo-hora.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://datos.transporte.gob.ar/dataset/254f0d95-2a1e-481d-bbfd-9f98a4d694bf/resource/72fe48fb-9603-4d25-a86d-1f1bd5bc64ba",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-05-27T18:15:42.861918",
+      "datastore_active": false,
+      "description": "Grilla hexagonal sobre RMBA de 600 metros",
+      "fileName": "grillahexagonal.zip",
+      "format": "SHP",
+      "hash": "",
+      "id": "transporte_72fe48fb-9603-4d25-a86d-1f1bd5bc64ba",
+      "last_modified": "2019-05-27T18:16:23.807531",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Archivo de zonas geográficas",
+      "package_id": "transporte_254f0d95-2a1e-481d-bbfd-9f98a4d694bf",
+      "position": 1,
+      "resource_type": "file.upload",
+      "revision_id": "c3feb389-ed63-4f93-896e-9e3fd101fc06",
+      "size": null,
+      "state": "active",
+      "url": "https://datos.transporte.gob.ar/dataset/254f0d95-2a1e-481d-bbfd-9f98a4d694bf/resource/72fe48fb-9603-4d25-a86d-1f1bd5bc64ba/download/grillahexagonal.zip",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://datos.transporte.gob.ar/dataset/254f0d95-2a1e-481d-bbfd-9f98a4d694bf/resource/6e14da54-9e3f-48c5-a373-18b56ca0c722",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-05-27T18:17:11.224269",
+      "datastore_active": false,
+      "description": "Grilla hexagonal sobre RMBA de 600 metros",
+      "fileName": "grillahexagonal.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "transporte_6e14da54-9e3f-48c5-a373-18b56ca0c722",
+      "last_modified": "2019-05-27T18:17:39.798216",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Archivo de zonas geográficas",
+      "package_id": "transporte_254f0d95-2a1e-481d-bbfd-9f98a4d694bf",
+      "position": 2,
+      "resource_type": "file.upload",
+      "revision_id": "c3feb389-ed63-4f93-896e-9e3fd101fc06",
+      "size": null,
+      "state": "active",
+      "url": "https://datos.transporte.gob.ar/dataset/254f0d95-2a1e-481d-bbfd-9f98a4d694bf/resource/6e14da54-9e3f-48c5-a373-18b56ca0c722/download/grillahexagonal.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://datos.transporte.gob.ar/dataset/254f0d95-2a1e-481d-bbfd-9f98a4d694bf/resource/11645d2b-2f23-44a9-b9a6-afd644de2f9a",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-05-27T18:18:35.518204",
+      "datastore_active": false,
+      "description": "Visualización animada de datos",
+      "fileName": "totalporhora.gif",
+      "format": "GIF",
+      "hash": "",
+      "id": "transporte_11645d2b-2f23-44a9-b9a6-afd644de2f9a",
+      "last_modified": "2019-05-27T18:19:24.427430",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Visualización animada de datos - Total de operaciones por Hora RMBA",
+      "package_id": "transporte_254f0d95-2a1e-481d-bbfd-9f98a4d694bf",
+      "position": 3,
+      "resource_type": "file.upload",
+      "revision_id": "c3feb389-ed63-4f93-896e-9e3fd101fc06",
+      "size": null,
+      "state": "active",
+      "url": "https://datos.transporte.gob.ar/dataset/254f0d95-2a1e-481d-bbfd-9f98a4d694bf/resource/11645d2b-2f23-44a9-b9a6-afd644de2f9a/download/totalporhora.gif",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://datos.transporte.gob.ar/dataset/254f0d95-2a1e-481d-bbfd-9f98a4d694bf/resource/fbcd154f-0438-462a-a79f-b49be2252efc",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-05-27T18:20:04.560050",
+      "datastore_active": false,
+      "description": "Visualización animada de datos",
+      "fileName": "ModosPorHora.gif",
+      "format": "GIF",
+      "hash": "",
+      "id": "transporte_fbcd154f-0438-462a-a79f-b49be2252efc",
+      "last_modified": "2019-05-27T18:20:04.560050",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Visualización animada de datos - Total de operaciones por Modo y Hora RMBA",
+      "package_id": "transporte_254f0d95-2a1e-481d-bbfd-9f98a4d694bf",
+      "position": 4,
+      "resource_type": "file.upload",
+      "revision_id": "c3feb389-ed63-4f93-896e-9e3fd101fc06",
+      "size": null,
+      "state": "active",
+      "url": "https://datos.transporte.gob.ar/dataset/254f0d95-2a1e-481d-bbfd-9f98a4d694bf/resource/fbcd154f-0438-462a-a79f-b49be2252efc/download/modosporhora.gif",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://datos.transporte.gob.ar/dataset/254f0d95-2a1e-481d-bbfd-9f98a4d694bf/resource/0fca335f-b001-4fc8-8778-3e657581e955",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-05-27T18:20:35.786255",
+      "datastore_active": false,
+      "description": "Visualización animada de datos",
+      "fileName": "CabaporHora.gif",
+      "format": "GIF",
+      "hash": "",
+      "id": "transporte_0fca335f-b001-4fc8-8778-3e657581e955",
+      "last_modified": "2019-05-27T18:20:35.786255",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Visualización animada de datos - Total de operaciones por Modo y Hora Ciudad de Buenos Aires",
+      "package_id": "transporte_254f0d95-2a1e-481d-bbfd-9f98a4d694bf",
+      "position": 5,
+      "resource_type": "file.upload",
+      "revision_id": "c3feb389-ed63-4f93-896e-9e3fd101fc06",
+      "size": null,
+      "state": "active",
+      "url": "https://datos.transporte.gob.ar/dataset/254f0d95-2a1e-481d-bbfd-9f98a4d694bf/resource/0fca335f-b001-4fc8-8778-3e657581e955/download/cabaporhora.gif",
+      "url_type": null
+    }
+  ],
+  "revision_id": "c3feb389-ed63-4f93-896e-9e3fd101fc06",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "Movilidad Urbana",
+      "id": "14ada287-45c0-4813-9cf9-8e06233c65a2",
+      "name": "Movilidad Urbana",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "SUBE",
+      "id": "e1510ce2-bc92-48be-b36a-677c6e66525a",
+      "name": "SUBE",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Transporte Automotor",
+      "id": "faf48ddb-07da-41d1-a0c8-86d00b563968",
+      "name": "Transporte Automotor",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Transporte Ferroviario",
+      "id": "f4e53926-9367-4bc2-aed7-f8c4fb21fcb1",
+      "name": "Transporte Ferroviario",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Transporte General",
+      "id": "a302697b-f4b9-4671-bebf-9b4de5a4a452",
+      "name": "Transporte General",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Operaciones de un día hábil promedio sectorizados en hexágonos de 600m por Modo de transporte y Hora",
+  "type": "dataset",
+  "url": "https://datos.transporte.gob.ar/dataset/operacionessube-hexagono",
+  "version": null
+}

@@ -1,0 +1,242 @@
+{
+  "author": "Ministerio de Turismo y Deportes. Subsecretaría de Desarrollo Estratégico. Dirección Nacional de Mercados y Estadística",
+  "author_email": "estadistica@turismo.gob.ar",
+  "creator_user_id": "dc157489-51c6-44ce-bd63-3bd983d60778",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P1M"
+    },
+    {
+      "key": "issued",
+      "value": "2020-12-29T17:56:48.673186"
+    },
+    {
+      "key": "language",
+      "value": "[\"spa\"]"
+    },
+    {
+      "key": "modified",
+      "value": "2021-04-26T09:25:17.542826"
+    },
+    {
+      "key": "source",
+      "value": "Administración de Parques Nacionales"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"ENVI\", \"GOVE\", \"SOCI\"]"
+    },
+    {
+      "key": "temporal",
+      "value": "2008-01-01T02:00:00.000Z/2020-10-31T03:00:00.000Z"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Gobierno y sector público",
+      "display_name": "Gobierno y sector público",
+      "id": "e6f07c77-3987-4e71-98a6-731b1aaf74f4",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225353.395233gobierno-sector-publico.svg",
+      "name": "gove",
+      "title": "Gobierno y sector público"
+    },
+    {
+      "description": "Medio ambiente",
+      "display_name": "Medio ambiente",
+      "id": "f71fe9d7-c703-43be-8d9d-af9441c326ba",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225440.964279medio-ambiente.svg",
+      "name": "envi",
+      "title": "Medio ambiente"
+    },
+    {
+      "description": "Población y sociedad",
+      "display_name": "Población y sociedad",
+      "id": "eb5df7fa-064a-4b51-89f6-af323ee1bf85",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225728.341804poblacion-sociedad.svg",
+      "name": "soci",
+      "title": "Población y sociedad"
+    }
+  ],
+  "id": "turismo_458bcbe1-855c-4bc3-a1c9-cd4e84fedbbc",
+  "isopen": true,
+  "license_id": "CC-BY-4.0",
+  "license_title": "Creative Commons Attribution 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "maintainer": "Ministerio de Turismo y Deportes. Subsecretaría de Desarrollo Estratégico. Dirección Nacional de Mercados y Estadística",
+  "maintainer_email": "estadistica@turismo.gob.ar",
+  "metadata_created": "2020-12-30T14:02:29.743687",
+  "metadata_modified": "2021-04-29T21:04:14.136742",
+  "name": "turismo-parques-nacionales",
+  "notes": "Estadísticas de los Parques Nacionales del país en base al Registro Nacional de Autorizaciones, Recaudaciones e Infracciones (RENARI) de la Administración de Parques Nacionales. Se refiere al total de visitas registrados en 35 parques nacionales según tipo de residencia del visitante (residente/no residente)",
+  "num_resources": 4,
+  "num_tags": 6,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:07.685134",
+    "description": "",
+    "id": "3a751de6-128e-4f9a-a479-4672ef79a0e8",
+    "image_url": "",
+    "is_organization": true,
+    "name": "turismo",
+    "revision_id": "082d6431-73c3-4ce5-a589-b9cda65a2231",
+    "state": "active",
+    "title": "Ministerio de Turismo y Deportes",
+    "type": "organization"
+  },
+  "owner_org": "3a751de6-128e-4f9a-a479-4672ef79a0e8",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "http://datos.yvera.gob.ar/dataset/458bcbe1-855c-4bc3-a1c9-cd4e84fedbbc/resource/a570af75-ed33-427c-9797-980fc0cd8fd1",
+      "attributesDescription": "[{\"specialType\": \"time_index\", \"specialTypeDetail\": \"R/P1M\", \"type\": \"date\", \"description\": \"Indice de tiempo mensual\", \"title\": \"indice_tiempo\"}, {\"type\": \"string\", \"description\": \"Tipo de residencia de los visitantes: residentes y no residentes\", \"title\": \"origen_visitantes\"}, {\"type\": \"number\", \"description\": \"Entrada a un Parque Nacional con cualquier finalidad principal -ocio, negocios u otro motivo personal-  que no sea ser empleado por el Parque\", \"title\": \"visitas\"}, {\"type\": \"string\", \"description\": \"Especificaciones sobre los valores ausentes o nulos presentes en la serie de datos.\", \"title\": \"observaciones\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2020-12-29T18:12:58.911243",
+      "datastore_active": false,
+      "description": "Cantidad de visitas al total de Parques Nacionales según tipo de residencia del visitante en formato de series de tiempo.",
+      "fileName": "visitas-residentes-y-no-residentes-6.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "turismo_a570af75-ed33-427c-9797-980fc0cd8fd1",
+      "last_modified": "2021-04-27T10:48:02.363543",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Visitas a los Parques Nacionales según tipo de residencia del visitante",
+      "package_id": "turismo_458bcbe1-855c-4bc3-a1c9-cd4e84fedbbc",
+      "position": 0,
+      "resource_type": "file.upload",
+      "revision_id": "2e84801d-7629-4edc-95a9-8aefb5ebfb8b",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.yvera.gob.ar/dataset/458bcbe1-855c-4bc3-a1c9-cd4e84fedbbc/resource/a570af75-ed33-427c-9797-980fc0cd8fd1/download/visitas-residentes-y-no-residentes-6.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos.yvera.gob.ar/dataset/458bcbe1-855c-4bc3-a1c9-cd4e84fedbbc/resource/e8f7c0d7-02f9-4fdd-aa83-d61c13f565ae",
+      "attributesDescription": "[{\"specialType\": \"time_index\", \"specialTypeDetail\": \"R/P1M\", \"type\": \"date\", \"description\": \"Indice de tiempo mensual\", \"title\": \"indice_tiempo\"}, {\"type\": \"string\", \"description\": \"Regi\\u00f3n de destino de las visitas en los Parques Nacionales\", \"title\": \"region_de_destino\"}, {\"type\": \"string\", \"description\": \"Tipo de residencia de los visitantes: residentes en Argentina y no residentes\", \"title\": \"origen_visitantes\"}, {\"type\": \"number\", \"description\": \"Entrada a un parque nacional con cualquier finalidad principal -ocio, negocios u otro motivo personal- que no sea ser empleado por el Parque.\", \"title\": \"visitas\"}, {\"type\": \"string\", \"description\": \"Especificaciones sobre los valores ausentes o nulos presentes en la serie de datos.\", \"title\": \"observaciones\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2020-12-29T18:26:57.905429",
+      "datastore_active": false,
+      "description": "Cantidad de visitas al total de Parques Nacionales por región de destino según tipo de residencia del visitante en formato de series de tiempo.",
+      "fileName": "visitas-residentes-y-no-residentes-por-region-3.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "turismo_e8f7c0d7-02f9-4fdd-aa83-d61c13f565ae",
+      "last_modified": "2021-04-27T10:48:32.575383",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Visitas a los Parques Nacionales por región de destino según tipo de residencia del visitante",
+      "package_id": "turismo_458bcbe1-855c-4bc3-a1c9-cd4e84fedbbc",
+      "position": 1,
+      "resource_type": "file.upload",
+      "revision_id": "2e84801d-7629-4edc-95a9-8aefb5ebfb8b",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.yvera.gob.ar/dataset/458bcbe1-855c-4bc3-a1c9-cd4e84fedbbc/resource/e8f7c0d7-02f9-4fdd-aa83-d61c13f565ae/download/visitas-residentes-y-no-residentes-por-region-3.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos.yvera.gob.ar/dataset/458bcbe1-855c-4bc3-a1c9-cd4e84fedbbc/resource/06e92813-b7d7-4702-8298-d73db3dbdce0",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2021-01-07T12:14:32.439247",
+      "datastore_active": false,
+      "description": "Aspectos conceptuales y metodológicos de la fuente de datos",
+      "fileName": "2021.01.05_pn.pdf",
+      "format": "PDF",
+      "hash": "",
+      "id": "turismo_06e92813-b7d7-4702-8298-d73db3dbdce0",
+      "last_modified": "2021-01-11T16:20:59.364327",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Ficha Técnica: Parques Nacionales",
+      "package_id": "turismo_458bcbe1-855c-4bc3-a1c9-cd4e84fedbbc",
+      "position": 2,
+      "resource_type": "documentation",
+      "revision_id": "30dcbea2-6b13-4954-bb93-8a2eb0471ab4",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.yvera.gob.ar/dataset/458bcbe1-855c-4bc3-a1c9-cd4e84fedbbc/resource/06e92813-b7d7-4702-8298-d73db3dbdce0/download/2021.01.05_pn.pdf",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos.yvera.gob.ar/dataset/458bcbe1-855c-4bc3-a1c9-cd4e84fedbbc/resource/78aea6ed-761c-4659-bdf2-7fcb0f616fad",
+      "attributesDescription": "[{\"specialType\": \"time_index\", \"specialTypeDetail\": \"R/P1M\", \"type\": \"date\", \"title\": \"indice_tiempo\"}, {\"id\": \"pn_visitantes_1\", \"units\": \"Visitantes\", \"type\": \"number\", \"description\": \"Entrada de visitantes residentes a un Parque Nacional con cualquier finalidad principal -ocio, negocios u otro motivo personal-  que no sea ser empleado por el Parque\", \"title\": \"residentes\"}, {\"id\": \"pn_visitantes_2\", \"units\": \"Visitantes\", \"type\": \"number\", \"description\": \"Entrada de visitantes no residentes a un Parque Nacional con cualquier finalidad principal -ocio, negocios u otro motivo personal-  que no sea ser empleado por el Parque\", \"title\": \"no_residentes\"}, {\"id\": \"pn_visitantes_3\", \"units\": \"Visitantes\", \"type\": \"number\", \"description\": \"Entrada de residentes a un Parque Nacional de la regi\\u00f3n de Buenos Aires con cualquier finalidad principal -ocio, negocios u otro motivo personal-  que no sea ser empleado por el Parque\", \"title\": \"buenos_aires_residentes\"}, {\"id\": \"pn_visitantes_4\", \"units\": \"Visitantes\", \"type\": \"number\", \"description\": \"Entrada de no residentes a un Parque Nacional de la regi\\u00f3n de Buenos Aires con cualquier finalidad principal -ocio, negocios u otro motivo personal-  que no sea ser empleado por el Parque\", \"title\": \"buenos_aires_no_residentes\"}, {\"id\": \"pn_visitantes_5\", \"units\": \"Visitantes\", \"type\": \"number\", \"description\": \"Entrada de residentes a un Parque Nacional de la regi\\u00f3n de C\\u00f3rdoba con cualquier finalidad principal -ocio, negocios u otro motivo personal-  que no sea ser empleado por el Parque\", \"title\": \"cordoba_residentes\"}, {\"id\": \"pn_visitantes_6\", \"units\": \"Visitantes\", \"type\": \"number\", \"description\": \"Entrada de no residentes a un Parque Nacional de la regi\\u00f3n de C\\u00f3rdoba con cualquier finalidad principal -ocio, negocios u otro motivo personal-  que no sea ser empleado por el Parque\", \"title\": \"cordoba_no_residentes\"}, {\"id\": \"pn_visitantes_7\", \"units\": \"Visitantes\", \"type\": \"number\", \"description\": \"Entrada de residentes a un Parque Nacional de la regi\\u00f3n de Cuyo con cualquier finalidad principal -ocio, negocios u otro motivo personal-  que no sea ser empleado por el Parque\", \"title\": \"cuyo_residentes\"}, {\"id\": \"pn_visitantes_8\", \"units\": \"Visitantes\", \"type\": \"number\", \"description\": \"Entrada de no residentes a un Parque Nacional de la regi\\u00f3n de Cuyo con cualquier finalidad principal -ocio, negocios u otro motivo personal-  que no sea ser empleado por el Parque\", \"title\": \"cuyo_no_residentes\"}, {\"id\": \"pn_visitantes_9\", \"units\": \"Visitantes\", \"type\": \"number\", \"description\": \"Entrada de residentes a un Parque Nacional de la regi\\u00f3n del Litoral con cualquier finalidad principal -ocio, negocios u otro motivo personal-  que no sea ser empleado por el Parque\", \"title\": \"litoral_residentes\"}, {\"id\": \"pn_visitantes_10\", \"units\": \"Visitantes\", \"type\": \"number\", \"description\": \"Entrada de no residentes a un Parque Nacional de la regi\\u00f3n del Litoral con cualquier finalidad principal -ocio, negocios u otro motivo personal-  que no sea ser empleado por el Parque\", \"title\": \"litoral_no_residentes\"}, {\"id\": \"pn_visitantes_11\", \"units\": \"Visitantes\", \"type\": \"number\", \"description\": \"Entrada de residentes a un Parque Nacional de la regi\\u00f3n Norte con cualquier finalidad principal -ocio, negocios u otro motivo personal-  que no sea ser empleado por el Parque\", \"title\": \"norte_residentes\"}, {\"id\": \"pn_visitantes_12\", \"units\": \"Visitantes\", \"type\": \"number\", \"description\": \"Entrada de no residentes a un Parque Nacional de la regi\\u00f3n Norte con cualquier finalidad principal -ocio, negocios u otro motivo personal-  que no sea ser empleado por el Parque\", \"title\": \"norte_no_residentes\"}, {\"id\": \"pn_visitantes_13\", \"units\": \"Visitantes\", \"type\": \"number\", \"description\": \"Entrada de residentes a un Parque Nacional de la regi\\u00f3n Patagonia con cualquier finalidad principal -ocio, negocios u otro motivo personal-  que no sea ser empleado por el Parque\", \"title\": \"patagonia_residentes\"}, {\"id\": \"pn_visitantes_14\", \"units\": \"Visitantes\", \"type\": \"number\", \"description\": \"Entrada de no residentes a un Parque Nacional de la regi\\u00f3n Patagonia con cualquier finalidad principal -ocio, negocios u otro motivo personal-  que no sea ser empleado por el Parque\", \"title\": \"patagonia_no_residentes\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2021-02-02T16:31:50.699731",
+      "datastore_active": false,
+      "description": "Evolución de los principales indicadores producidos por la Administración de Parques Nacionales, desde el año 2008 a la última actualización.",
+      "fileName": "serie-tiempo-parques-nacionales.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "turismo_78aea6ed-761c-4659-bdf2-7fcb0f616fad",
+      "last_modified": "2021-02-10T16:34:57.436346",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Serie de tiempo",
+      "package_id": "turismo_458bcbe1-855c-4bc3-a1c9-cd4e84fedbbc",
+      "position": 3,
+      "resource_type": "file.upload",
+      "revision_id": "7b700587-de48-4436-bebf-1a0a98a2bfa5",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.yvera.gob.ar/dataset/458bcbe1-855c-4bc3-a1c9-cd4e84fedbbc/resource/78aea6ed-761c-4659-bdf2-7fcb0f616fad/download/serie-tiempo-parques-nacionales.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "c084fea3-3296-41ad-8da2-5c46147daf46",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "TURISMO NATURALEZA",
+      "id": "480e7870-8270-4ad5-a68d-e49f7f8d902d",
+      "name": "TURISMO NATURALEZA",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "parques nacionales",
+      "id": "da248e29-0cb5-44aa-9c66-111439356be4",
+      "name": "parques nacionales",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "turismo",
+      "id": "72bd70a3-e979-4b54-b6fc-4832f9423ffc",
+      "name": "turismo",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "turismo naturaleza",
+      "id": "ba5b9fc4-4d67-4aea-95b8-11707a8901cd",
+      "name": "turismo naturaleza",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "visitantes",
+      "id": "10c83be8-179a-4251-a417-f8bcf83bbbbc",
+      "name": "visitantes",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "visitas",
+      "id": "44172ef3-2b1d-42e9-98b7-457e02676b39",
+      "name": "visitas",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Parques Nacionales",
+  "type": "dataset",
+  "url": "http://datos.yvera.gob.ar/dataset/parques-nacionales",
+  "version": null
+}

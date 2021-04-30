@@ -1,0 +1,122 @@
+{
+  "author": "Dirección Nacional de Calidad Turística",
+  "author_email": null,
+  "creator_user_id": "4720e75a-9e17-4dc3-879d-041917c7f9f9",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "eventual"
+    },
+    {
+      "key": "issued",
+      "value": "2018-10-18T14:48:36.826206"
+    },
+    {
+      "key": "language",
+      "value": "[\"spa\"]"
+    },
+    {
+      "key": "modified",
+      "value": "2021-04-23T15:48:09.413725"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"GOVE\"]"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Gobierno y sector público",
+      "display_name": "Gobierno y sector público",
+      "id": "e6f07c77-3987-4e71-98a6-731b1aaf74f4",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225353.395233gobierno-sector-publico.svg",
+      "name": "gove",
+      "title": "Gobierno y sector público"
+    }
+  ],
+  "id": "turismo_a57be48b-3660-4f39-a295-a283e9ec4a74",
+  "isopen": false,
+  "license_id": "notspecified",
+  "license_title": "No se especificó la licencia",
+  "maintainer": null,
+  "maintainer_email": null,
+  "metadata_created": "2019-11-26T15:02:01.503377",
+  "metadata_modified": "2021-04-29T21:04:14.421583",
+  "name": "turismo-organizaciones-distinguidas-sistema-argentino-calidad-turistica-sact",
+  "notes": "Datos correspondientes a las organizaciones distinguidas del Sistema Argentino de Calidad Turística (SACT)",
+  "num_resources": 1,
+  "num_tags": 3,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:07.685134",
+    "description": "",
+    "id": "3a751de6-128e-4f9a-a479-4672ef79a0e8",
+    "image_url": "",
+    "is_organization": true,
+    "name": "turismo",
+    "revision_id": "082d6431-73c3-4ce5-a589-b9cda65a2231",
+    "state": "active",
+    "title": "Ministerio de Turismo y Deportes",
+    "type": "organization"
+  },
+  "owner_org": "3a751de6-128e-4f9a-a479-4672ef79a0e8",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "http://datos.yvera.gob.ar/dataset/a57be48b-3660-4f39-a295-a283e9ec4a74/resource/5dee046c-5505-4c97-a4e5-e0ad0c3bb127",
+      "attributesDescription": "[{\"type\": \"string\", \"description\": \"Nombre de la organizaci\\u00f3n\", \"title\": \"organizacion\"}, {\"type\": \"string\", \"description\": \"Rubro\", \"title\": \"rubro\"}, {\"type\": \"string\", \"description\": \"Subrubro\", \"title\": \"subrubro\"}, {\"type\": \"string\", \"description\": \"Calle\", \"title\": \"calle\"}, {\"type\": \"string\", \"description\": \"Altura de la calle\", \"title\": \"numero\"}, {\"type\": \"string\", \"description\": \"Piso\", \"title\": \"piso\"}, {\"type\": \"string\", \"description\": \"Departamento\", \"title\": \"departamento\"}, {\"type\": \"integer\", \"description\": \"C\\u00f3digo postal\", \"title\": \"codigo_postal\"}, {\"type\": \"string\", \"description\": \"Pa\\u00eds\", \"title\": \"pais_desc\"}, {\"type\": \"string\", \"description\": \"Provincia\", \"title\": \"provincia_desc\"}, {\"type\": \"string\", \"description\": \"Localidad\", \"title\": \"localidad_desc\"}, {\"type\": \"string\", \"description\": \"Programa de Excelencia en Gesti\\u00f3n\", \"title\": \"programa_excelencia_gestion\"}, {\"type\": \"string\", \"description\": \"Subprograma\", \"title\": \"subprograma\"}, {\"type\": \"string\", \"description\": \"Fecha de distinci\\u00f3n\", \"title\": \"fecha_distincion\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2018-10-18T14:57:13.527070",
+      "datastore_active": false,
+      "description": "Detalle de las organizaciones distinguidas al 24/05/2018",
+      "fileName": "organizaciones-distinguidas-20180524.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "turismo_5dee046c-5505-4c97-a4e5-e0ad0c3bb127",
+      "last_modified": "2018-10-18T14:57:13.527070",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Organizaciones distinguidas al 24/05/2018",
+      "package_id": "turismo_a57be48b-3660-4f39-a295-a283e9ec4a74",
+      "position": 0,
+      "resource_type": "file.upload",
+      "revision_id": "5899b32f-3ea1-43af-8b3c-74967a11ebf0",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.yvera.gob.ar/dataset/a57be48b-3660-4f39-a295-a283e9ec4a74/resource/5dee046c-5505-4c97-a4e5-e0ad0c3bb127/download/organizaciones-distinguidas-20180524.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "a50829c6-f28b-4c80-909d-7d2adb921a2c",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "CALIDAD TURÍSTICA",
+      "id": "5444abfb-be48-4c51-904c-9f6bace24c62",
+      "name": "CALIDAD TURÍSTICA",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "distincion",
+      "id": "1a023f4e-e9c2-4713-adae-cf5e30e9c116",
+      "name": "distincion",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "sact",
+      "id": "4a99b95e-c909-4e27-9877-6503e3371645",
+      "name": "sact",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Organizaciones distinguidas del Sistema Argentino de Calidad Turística (SACT)",
+  "type": "dataset",
+  "url": "http://datos.yvera.gob.ar/dataset/sact-organizaciones-distinguidas",
+  "version": null
+}

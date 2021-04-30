@@ -1,0 +1,174 @@
+{
+  "author": "Subsecretaría de Programación Macroeconómica",
+  "author_email": "datoseconomicos@mecon.gov.ar",
+  "creator_user_id": "4720e75a-9e17-4dc3-879d-041917c7f9f9",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P1M"
+    },
+    {
+      "key": "issued",
+      "value": "2017-12-20"
+    },
+    {
+      "key": "language",
+      "value": "[\"SPA\"]"
+    },
+    {
+      "key": "source",
+      "value": "Ministerio de Energía y Minería"
+    },
+    {
+      "key": "spatial",
+      "value": "ARG"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"ECON\"]"
+    },
+    {
+      "key": "temporal",
+      "value": "1996-01-01/2017-10-01"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Economía y finanzas",
+      "display_name": "Economía y finanzas",
+      "id": "60b4b03e-10a1-4d67-b984-08008a249617",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225257.200233economia-finanzas.svg",
+      "name": "econ",
+      "title": "Economía y finanzas"
+    }
+  ],
+  "id": "sspm_363",
+  "isopen": true,
+  "license_id": "CC-BY-4.0",
+  "license_title": "Creative Commons Attribution 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "maintainer": "Subsecretaría de Programación Macroeconómica.",
+  "maintainer_email": "datoseconomicos@mecon.gov.ar",
+  "metadata_created": "2019-11-26T15:06:05.617792",
+  "metadata_modified": "2021-04-29T21:05:40.785996",
+  "name": "sspm-produccion-ventas-petroleo-derivados",
+  "notes": "Datos producción y Ventas de Petróleo y Derivados",
+  "num_resources": 3,
+  "num_tags": 2,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:09.718132",
+    "description": "",
+    "id": "68f9ee22-5ec3-44cf-a32b-b87d9db46b93",
+    "image_url": "",
+    "is_organization": true,
+    "name": "sspm",
+    "revision_id": "bc058ce0-3540-4204-96cd-9f9ec79045b3",
+    "state": "active",
+    "title": "Subsecretaría de Programación Macroeconómica",
+    "type": "organization"
+  },
+  "owner_org": "68f9ee22-5ec3-44cf-a32b-b87d9db46b93",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/",
+      "attributesDescription": "[{\"title\": \"indice_tiempo\", \"type\": \"date\", \"specialType\": \"time_index\", \"specialTypeDetail\": \"R/P1Y\", \"id\": \"363.1_INDICE_TIEMPO__13\", \"scrapingIdentifierCell\": \"A7\", \"scrapingDataStartCell\": \"A8\", \"dataset_identifier\": \"363\", \"distribution_identifier\": \"363.1\"}, {\"title\": \"produccion_petroleo_crudo\", \"type\": \"number\", \"description\": \"Producci\\u00f3n de Petr\\u00f3leo Crudo\", \"id\": \"363.1_PRODUCCIONUDO__28\", \"scrapingIdentifierCell\": \"B7\", \"scrapingDataStartCell\": \"B8\", \"units\": \"Miles metros c\\u00fabicos\", \"dataset_identifier\": \"363\", \"distribution_identifier\": \"363.1\"}, {\"title\": \"productos_procesados\", \"type\": \"number\", \"description\": \"Productos Procesados\", \"id\": \"363.1_PRODUCTOS_DOS__20\", \"scrapingIdentifierCell\": \"C7\", \"scrapingDataStartCell\": \"C8\", \"units\": \"Miles metros c\\u00fabicos\", \"dataset_identifier\": \"363\", \"distribution_identifier\": \"363.1\"}, {\"title\": \"petroleo_crudo_procesado\", \"type\": \"number\", \"description\": \"Petr\\u00f3leo Crudo Procesado\", \"id\": \"363.1_PETROLEO_CADO__24\", \"scrapingIdentifierCell\": \"D7\", \"scrapingDataStartCell\": \"D8\", \"units\": \"Miles metros c\\u00fabicos\", \"dataset_identifier\": \"363\", \"distribution_identifier\": \"363.1\"}, {\"title\": \"produccion_gasoil\", \"type\": \"number\", \"description\": \"Producci\\u00f3n de Gasoil\", \"id\": \"363.1_PRODUCCIONOIL__20\", \"scrapingIdentifierCell\": \"E7\", \"scrapingDataStartCell\": \"E8\", \"units\": \"Miles metros c\\u00fabicos\", \"dataset_identifier\": \"363\", \"distribution_identifier\": \"363.1\"}, {\"title\": \"produccion_nafta_comun_mayor83_ron\", \"type\": \"number\", \"description\": \"Producci\\u00f3n de Nafta Com\\u00fan >83 RON\", \"id\": \"363.1_PRODUCCIONRON__37\", \"scrapingIdentifierCell\": \"F7\", \"scrapingDataStartCell\": \"F8\", \"units\": \"Miles metros c\\u00fabicos\", \"dataset_identifier\": \"363\", \"distribution_identifier\": \"363.1\"}, {\"title\": \"produccion_nafta_super_mayor93_ron\", \"type\": \"number\", \"description\": \"Producci\\u00f3n de Nafta S\\u00faper >93 RON\", \"id\": \"363.1_PRODUCCIONRON_2__37\", \"scrapingIdentifierCell\": \"G7\", \"scrapingDataStartCell\": \"G8\", \"units\": \"Miles metros c\\u00fabicos\", \"dataset_identifier\": \"363\", \"distribution_identifier\": \"363.1\"}, {\"title\": \"produccion_nafta_mayor97_ron\", \"type\": \"number\", \"description\": \"Producci\\u00f3n de Nafta >97 RON\", \"id\": \"363.1_PRODUCCIONRON__31\", \"scrapingIdentifierCell\": \"H7\", \"scrapingDataStartCell\": \"H8\", \"units\": \"Miles metros c\\u00fabicos\", \"dataset_identifier\": \"363\", \"distribution_identifier\": \"363.1\"}, {\"title\": \"produccion_fuel_oil\", \"type\": \"number\", \"description\": \"Producci\\u00f3n de Fuel Oil\", \"id\": \"363.1_PRODUCCIONOIL__22\", \"scrapingIdentifierCell\": \"I7\", \"scrapingDataStartCell\": \"I8\", \"units\": \"Miles metros c\\u00fabicos\", \"dataset_identifier\": \"363\", \"distribution_identifier\": \"363.1\"}, {\"title\": \"produccion_mezclas_ifo\", \"type\": \"number\", \"description\": \"Producci\\u00f3n de Mezclas IFO\", \"id\": \"363.1_PRODUCCIONIFO__25\", \"scrapingIdentifierCell\": \"J7\", \"scrapingDataStartCell\": \"J8\", \"units\": \"Miles metros c\\u00fabicos\", \"dataset_identifier\": \"363\", \"distribution_identifier\": \"363.1\"}, {\"title\": \"produccion_butano\", \"type\": \"number\", \"description\": \"Producci\\u00f3n de Butano\", \"id\": \"363.1_PRODUCCIONANO__20\", \"scrapingIdentifierCell\": \"K7\", \"scrapingDataStartCell\": \"K8\", \"units\": \"Miles metros c\\u00fabicos\", \"dataset_identifier\": \"363\", \"distribution_identifier\": \"363.1\"}, {\"title\": \"produccion_propano\", \"type\": \"number\", \"description\": \"Producci\\u00f3n de Propano\", \"id\": \"363.1_PRODUCCIONANO__21\", \"scrapingIdentifierCell\": \"L7\", \"scrapingDataStartCell\": \"L8\", \"units\": \"Miles metros c\\u00fabicos\", \"dataset_identifier\": \"363\", \"distribution_identifier\": \"363.1\"}, {\"title\": \"produccion_aerokerosene\", \"type\": \"number\", \"description\": \"Producci\\u00f3n de Aerokerosene\", \"id\": \"363.1_PRODUCCIONENE__26\", \"scrapingIdentifierCell\": \"M7\", \"scrapingDataStartCell\": \"M8\", \"units\": \"Miles metros c\\u00fabicos\", \"dataset_identifier\": \"363\", \"distribution_identifier\": \"363.1\"}, {\"title\": \"produccion_coque\", \"type\": \"number\", \"description\": \"Producci\\u00f3n de Coque\", \"id\": \"363.1_PRODUCCIONQUE__19\", \"scrapingIdentifierCell\": \"N7\", \"scrapingDataStartCell\": \"N8\", \"units\": \"Miles metros c\\u00fabicos\", \"dataset_identifier\": \"363\", \"distribution_identifier\": \"363.1\"}, {\"title\": \"ventas_gasoil\", \"type\": \"number\", \"description\": \"Ventas de Gasoil\", \"id\": \"363.1_VENTAS_DE_OIL__16\", \"scrapingIdentifierCell\": \"O7\", \"scrapingDataStartCell\": \"O8\", \"units\": \"Miles metros c\\u00fabicos\", \"dataset_identifier\": \"363\", \"distribution_identifier\": \"363.1\"}, {\"title\": \"ventas_nafta_comun_mayor83_ron\", \"type\": \"number\", \"description\": \"Ventas de Nafta Com\\u00fan >83 RON\", \"id\": \"363.1_VENTAS_DE_RON__33\", \"scrapingIdentifierCell\": \"P7\", \"scrapingDataStartCell\": \"P8\", \"units\": \"Miles metros c\\u00fabicos\", \"dataset_identifier\": \"363\", \"distribution_identifier\": \"363.1\"}, {\"title\": \"ventas_nafta_super_mayor93_ron\", \"type\": \"number\", \"description\": \"Ventas de Nafta S\\u00faper >93 RON\", \"id\": \"363.1_VENTAS_DE_RON_II__33\", \"scrapingIdentifierCell\": \"Q7\", \"scrapingDataStartCell\": \"Q8\", \"units\": \"Miles metros c\\u00fabicos\", \"dataset_identifier\": \"363\", \"distribution_identifier\": \"363.1\"}, {\"title\": \"ventas_nafta_mayor97_ron\", \"type\": \"number\", \"description\": \"Ventas de Nafta >97 RON\", \"id\": \"363.1_VENTAS_DE_RON__27\", \"scrapingIdentifierCell\": \"R7\", \"scrapingDataStartCell\": \"R8\", \"units\": \"Miles metros c\\u00fabicos\", \"dataset_identifier\": \"363\", \"distribution_identifier\": \"363.1\"}, {\"title\": \"despachos_asfalto\", \"type\": \"number\", \"description\": \"Despachos de Asfalto\", \"id\": \"363.1_DESPACHOS_LTO__20\", \"scrapingIdentifierCell\": \"S7\", \"scrapingDataStartCell\": \"S8\", \"units\": \"Toneladas\", \"dataset_identifier\": \"363\", \"distribution_identifier\": \"363.1\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-12-20T00:00:00",
+      "datastore_active": false,
+      "description": "Información de exportaciones por sector de actividad, saldo comercial y rangos de exportación de la empresa exportadora. Datos anuales",
+      "fileName": "exportaciones-actividad-saldo-comercial-rangos-exportacion-empresa-exportadora-anual.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "sspm_363.1",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Exportaciones por sector de actividad, saldo comercial y rangos de exportación de la empresa exportadora. Datos anuales",
+      "package_id": "sspm_363",
+      "position": 0,
+      "resource_type": null,
+      "revision_id": "e4344c5d-8ac4-47e7-9cce-5670fd0634c3",
+      "size": null,
+      "state": "active",
+      "url": "https://infra.datos.gob.ar/catalog/sspm/dataset/363/distribution/363.1/download/exportaciones-actividad-saldo-comercial-rangos-exportacion-empresa-exportadora-anual.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/",
+      "attributesDescription": "[{\"title\": \"indice_tiempo\", \"type\": \"date\", \"specialType\": \"time_index\", \"specialTypeDetail\": \"R/P3M\", \"id\": \"363.2_INDICE_TIEMPO__13\", \"scrapingIdentifierCell\": \"A45\", \"scrapingDataStartCell\": \"A46\", \"dataset_identifier\": \"363\", \"distribution_identifier\": \"363.2\"}, {\"title\": \"produccion_de_petroleo_crudo\", \"type\": \"number\", \"description\": \"Producci\\u00f3n de Petr\\u00f3leo Crudo\", \"id\": \"363.2_PRODUCCIONUDO__28\", \"scrapingIdentifierCell\": \"B45\", \"scrapingDataStartCell\": \"B46\", \"units\": \"Miles metros c\\u00fabicos\", \"dataset_identifier\": \"363\", \"distribution_identifier\": \"363.2\"}, {\"title\": \"productos_procesados\", \"type\": \"number\", \"description\": \"Productos Procesados\", \"id\": \"363.2_PRODUCTOS_DOS__20\", \"scrapingIdentifierCell\": \"C45\", \"scrapingDataStartCell\": \"C46\", \"units\": \"Miles metros c\\u00fabicos\", \"dataset_identifier\": \"363\", \"distribution_identifier\": \"363.2\"}, {\"title\": \"petroleo_crudo_procesado\", \"type\": \"number\", \"description\": \"Petr\\u00f3leo Crudo Procesado\", \"id\": \"363.2_PETROLEO_CADO__24\", \"scrapingIdentifierCell\": \"D45\", \"scrapingDataStartCell\": \"D46\", \"units\": \"Miles metros c\\u00fabicos\", \"dataset_identifier\": \"363\", \"distribution_identifier\": \"363.2\"}, {\"title\": \"produccion_gasoil\", \"type\": \"number\", \"description\": \"Producci\\u00f3n de Gasoil\", \"id\": \"363.2_PRODUCCIONOIL__20\", \"scrapingIdentifierCell\": \"E45\", \"scrapingDataStartCell\": \"E46\", \"units\": \"Miles metros c\\u00fabicos\", \"dataset_identifier\": \"363\", \"distribution_identifier\": \"363.2\"}, {\"title\": \"produccion_nafta_comun_mayor83_ron\", \"type\": \"number\", \"description\": \"Producci\\u00f3n de Nafta Com\\u00fan >83 RON\", \"id\": \"363.2_PRODUCCIONRON__37\", \"scrapingIdentifierCell\": \"F45\", \"scrapingDataStartCell\": \"F46\", \"units\": \"Miles metros c\\u00fabicos\", \"dataset_identifier\": \"363\", \"distribution_identifier\": \"363.2\"}, {\"title\": \"produccion_nafta_super_mayor93_ron\", \"type\": \"number\", \"description\": \"Producci\\u00f3n de Nafta S\\u00faper >93 RON\", \"id\": \"363.2_PRODUCCIONRON_2__37\", \"scrapingIdentifierCell\": \"G45\", \"scrapingDataStartCell\": \"G46\", \"units\": \"Miles metros c\\u00fabicos\", \"dataset_identifier\": \"363\", \"distribution_identifier\": \"363.2\"}, {\"title\": \"produccion_nafta_mayor97_ron\", \"type\": \"number\", \"description\": \"Producci\\u00f3n de Nafta >97 RON\", \"id\": \"363.2_PRODUCCIONRON__31\", \"scrapingIdentifierCell\": \"H45\", \"scrapingDataStartCell\": \"H46\", \"units\": \"Miles metros c\\u00fabicos\", \"dataset_identifier\": \"363\", \"distribution_identifier\": \"363.2\"}, {\"title\": \"produccion_fuel_oil\", \"type\": \"number\", \"description\": \"Producci\\u00f3n de Fuel Oil\", \"id\": \"363.2_PRODUCCIONOIL__22\", \"scrapingIdentifierCell\": \"I45\", \"scrapingDataStartCell\": \"I46\", \"units\": \"Miles metros c\\u00fabicos\", \"dataset_identifier\": \"363\", \"distribution_identifier\": \"363.2\"}, {\"title\": \"produccion_mezclas_ifo\", \"type\": \"number\", \"description\": \"Producci\\u00f3n de Mezclas IFO\", \"id\": \"363.2_PRODUCCIONIFO__25\", \"scrapingIdentifierCell\": \"J45\", \"scrapingDataStartCell\": \"J46\", \"units\": \"Miles metros c\\u00fabicos\", \"dataset_identifier\": \"363\", \"distribution_identifier\": \"363.2\"}, {\"title\": \"produccion_butano\", \"type\": \"number\", \"description\": \"Producci\\u00f3n de Butano\", \"id\": \"363.2_PRODUCCIONANO__20\", \"scrapingIdentifierCell\": \"K45\", \"scrapingDataStartCell\": \"K46\", \"units\": \"Miles metros c\\u00fabicos\", \"dataset_identifier\": \"363\", \"distribution_identifier\": \"363.2\"}, {\"title\": \"produccion_propano\", \"type\": \"number\", \"description\": \"Producci\\u00f3n de Propano\", \"id\": \"363.2_PRODUCCIONANO__21\", \"scrapingIdentifierCell\": \"L45\", \"scrapingDataStartCell\": \"L46\", \"units\": \"Miles metros c\\u00fabicos\", \"dataset_identifier\": \"363\", \"distribution_identifier\": \"363.2\"}, {\"title\": \"produccion_aerokerosene\", \"type\": \"number\", \"description\": \"Producci\\u00f3n de Aerokerosene\", \"id\": \"363.2_PRODUCCIONENE__26\", \"scrapingIdentifierCell\": \"M45\", \"scrapingDataStartCell\": \"M46\", \"units\": \"Miles metros c\\u00fabicos\", \"dataset_identifier\": \"363\", \"distribution_identifier\": \"363.2\"}, {\"title\": \"produccion_coque\", \"type\": \"number\", \"description\": \"Producci\\u00f3n de Coque\", \"id\": \"363.2_PRODUCCIONQUE__19\", \"scrapingIdentifierCell\": \"N45\", \"scrapingDataStartCell\": \"N46\", \"units\": \"Miles metros c\\u00fabicos\", \"dataset_identifier\": \"363\", \"distribution_identifier\": \"363.2\"}, {\"title\": \"ventas_gasoil\", \"type\": \"number\", \"description\": \"Ventas de Gasoil\", \"id\": \"363.2_VENTAS_DE_OIL__16\", \"scrapingIdentifierCell\": \"O45\", \"scrapingDataStartCell\": \"O46\", \"units\": \"Miles metros c\\u00fabicos\", \"dataset_identifier\": \"363\", \"distribution_identifier\": \"363.2\"}, {\"title\": \"ventas_nafta_comun_mayor83_ron\", \"type\": \"number\", \"description\": \"Ventas de Nafta Com\\u00fan >83 RON\", \"id\": \"363.2_VENTAS_DE_RON__33\", \"scrapingIdentifierCell\": \"P45\", \"scrapingDataStartCell\": \"P46\", \"units\": \"Miles metros c\\u00fabicos\", \"dataset_identifier\": \"363\", \"distribution_identifier\": \"363.2\"}, {\"title\": \"ventas_nafta_super_mayor93_ron\", \"type\": \"number\", \"description\": \"Ventas de Nafta S\\u00faper >93 RON\", \"id\": \"363.2_VENTAS_DE_RON_II__33\", \"scrapingIdentifierCell\": \"Q45\", \"scrapingDataStartCell\": \"Q46\", \"units\": \"Miles metros c\\u00fabicos\", \"dataset_identifier\": \"363\", \"distribution_identifier\": \"363.2\"}, {\"title\": \"ventas_nafta_mayor97_ron\", \"type\": \"number\", \"description\": \"Ventas de Nafta >97 RON\", \"id\": \"363.2_VENTAS_DE_RON__27\", \"scrapingIdentifierCell\": \"R45\", \"scrapingDataStartCell\": \"R46\", \"units\": \"Miles metros c\\u00fabicos\", \"dataset_identifier\": \"363\", \"distribution_identifier\": \"363.2\"}, {\"title\": \"despachos_asfalto\", \"type\": \"number\", \"description\": \"Despachos de Asfalto\", \"id\": \"363.2_DESPACHOS_LTO__20\", \"scrapingIdentifierCell\": \"S45\", \"scrapingDataStartCell\": \"S46\", \"units\": \"Toneladas\", \"dataset_identifier\": \"363\", \"distribution_identifier\": \"363.2\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-12-20T00:00:00",
+      "datastore_active": false,
+      "description": "Información de  exportaciones por sector de actividad, saldo comercial y rangos de exportación de la empresa exportadora. Datos trimestrales",
+      "fileName": "exportaciones-actividad-saldo-comercial-rangos-exportacion-empresa-exportadora-trimestral.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "sspm_363.2",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Exportaciones por sector de actividad, saldo comercial y rangos de exportación de la empresa exportadora. Datos trimestrales",
+      "package_id": "sspm_363",
+      "position": 1,
+      "resource_type": null,
+      "revision_id": "e4344c5d-8ac4-47e7-9cce-5670fd0634c3",
+      "size": null,
+      "state": "active",
+      "url": "https://infra.datos.gob.ar/catalog/sspm/dataset/363/distribution/363.2/download/exportaciones-actividad-saldo-comercial-rangos-exportacion-empresa-exportadora-trimestral.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/",
+      "attributesDescription": "[{\"title\": \"indice_tiempo\", \"type\": \"date\", \"specialType\": \"time_index\", \"specialTypeDetail\": \"R/P1M\", \"id\": \"363.3_INDICE_TIEMPO__13\", \"scrapingIdentifierCell\": \"A195\", \"scrapingDataStartCell\": \"A196\", \"dataset_identifier\": \"363\", \"distribution_identifier\": \"363.3\"}, {\"title\": \"produccion_petroleo_crudo\", \"type\": \"number\", \"description\": \"Producci\\u00f3n de Petr\\u00f3leo Crudo\", \"id\": \"363.3_PRODUCCIONUDO__28\", \"scrapingIdentifierCell\": \"B195\", \"scrapingDataStartCell\": \"B196\", \"units\": \"Miles metros c\\u00fabicos\", \"dataset_identifier\": \"363\", \"distribution_identifier\": \"363.3\"}, {\"title\": \"productos_procesados\", \"type\": \"number\", \"description\": \"Productos Procesados\", \"id\": \"363.3_PRODUCTOS_DOS__20\", \"scrapingIdentifierCell\": \"C195\", \"scrapingDataStartCell\": \"C196\", \"units\": \"Miles metros c\\u00fabicos\", \"dataset_identifier\": \"363\", \"distribution_identifier\": \"363.3\"}, {\"title\": \"petroleo_crudo_procesado\", \"type\": \"number\", \"description\": \"Petr\\u00f3leo Crudo Procesado\", \"id\": \"363.3_PETROLEO_CADO__24\", \"scrapingIdentifierCell\": \"D195\", \"scrapingDataStartCell\": \"D196\", \"units\": \"Miles metros c\\u00fabicos\", \"dataset_identifier\": \"363\", \"distribution_identifier\": \"363.3\"}, {\"title\": \"produccion_gasoil\", \"type\": \"number\", \"description\": \"Producci\\u00f3n de Gasoil\", \"id\": \"363.3_PRODUCCIONOIL__20\", \"scrapingIdentifierCell\": \"E195\", \"scrapingDataStartCell\": \"E196\", \"units\": \"Miles metros c\\u00fabicos\", \"dataset_identifier\": \"363\", \"distribution_identifier\": \"363.3\"}, {\"title\": \"produccion_nafta_comun_mayor83_ron\", \"type\": \"number\", \"description\": \"Producci\\u00f3n de Nafta Com\\u00fan >83 RON\", \"id\": \"363.3_PRODUCCIONRON__37\", \"scrapingIdentifierCell\": \"F195\", \"scrapingDataStartCell\": \"F196\", \"units\": \"Miles metros c\\u00fabicos\", \"dataset_identifier\": \"363\", \"distribution_identifier\": \"363.3\"}, {\"title\": \"produccion_nafta_super_mayor93_ron\", \"type\": \"number\", \"description\": \"Producci\\u00f3n de Nafta S\\u00faper >93 RON\", \"id\": \"363.3_PRODUCCIONRON_2__37\", \"scrapingIdentifierCell\": \"G195\", \"scrapingDataStartCell\": \"G196\", \"units\": \"Miles metros c\\u00fabicos\", \"dataset_identifier\": \"363\", \"distribution_identifier\": \"363.3\"}, {\"title\": \"produccion_nafta_mayor97_ron\", \"type\": \"number\", \"description\": \"Producci\\u00f3n de Nafta >97 RON\", \"id\": \"363.3_PRODUCCIONRON__31\", \"scrapingIdentifierCell\": \"H195\", \"scrapingDataStartCell\": \"H196\", \"units\": \"Miles metros c\\u00fabicos\", \"dataset_identifier\": \"363\", \"distribution_identifier\": \"363.3\"}, {\"title\": \"produccion_fuel_oil\", \"type\": \"number\", \"description\": \"Producci\\u00f3n de Fuel Oil\", \"id\": \"363.3_PRODUCCIONOIL__22\", \"scrapingIdentifierCell\": \"I195\", \"scrapingDataStartCell\": \"I196\", \"units\": \"Miles metros c\\u00fabicos\", \"dataset_identifier\": \"363\", \"distribution_identifier\": \"363.3\"}, {\"title\": \"produccion_mezclas_ifo\", \"type\": \"number\", \"description\": \"Producci\\u00f3n de Mezclas IFO\", \"id\": \"363.3_PRODUCCIONIFO__25\", \"scrapingIdentifierCell\": \"J195\", \"scrapingDataStartCell\": \"J196\", \"units\": \"Miles metros c\\u00fabicos\", \"dataset_identifier\": \"363\", \"distribution_identifier\": \"363.3\"}, {\"title\": \"produccion_butano\", \"type\": \"number\", \"description\": \"Producci\\u00f3n de Butano\", \"id\": \"363.3_PRODUCCIONANO__20\", \"scrapingIdentifierCell\": \"K195\", \"scrapingDataStartCell\": \"K196\", \"units\": \"Miles metros c\\u00fabicos\", \"dataset_identifier\": \"363\", \"distribution_identifier\": \"363.3\"}, {\"title\": \"produccion_propano\", \"type\": \"number\", \"description\": \"Producci\\u00f3n de Propano\", \"id\": \"363.3_PRODUCCIONANO__21\", \"scrapingIdentifierCell\": \"L195\", \"scrapingDataStartCell\": \"L196\", \"units\": \"Miles metros c\\u00fabicos\", \"dataset_identifier\": \"363\", \"distribution_identifier\": \"363.3\"}, {\"title\": \"produccion_aerokerosene\", \"type\": \"number\", \"description\": \"Producci\\u00f3n de Aerokerosene\", \"id\": \"363.3_PRODUCCIONENE__26\", \"scrapingIdentifierCell\": \"M195\", \"scrapingDataStartCell\": \"M196\", \"units\": \"Miles metros c\\u00fabicos\", \"dataset_identifier\": \"363\", \"distribution_identifier\": \"363.3\"}, {\"title\": \"produccion_coque\", \"type\": \"number\", \"description\": \"Producci\\u00f3n de Coque\", \"id\": \"363.3_PRODUCCIONQUE__19\", \"scrapingIdentifierCell\": \"N195\", \"scrapingDataStartCell\": \"N196\", \"units\": \"Miles metros c\\u00fabicos\", \"dataset_identifier\": \"363\", \"distribution_identifier\": \"363.3\"}, {\"title\": \"ventas_gasoil\", \"type\": \"number\", \"description\": \"Ventas de Gasoil\", \"id\": \"363.3_VENTAS_DE_OIL__16\", \"scrapingIdentifierCell\": \"O195\", \"scrapingDataStartCell\": \"O196\", \"units\": \"Miles metros c\\u00fabicos\", \"dataset_identifier\": \"363\", \"distribution_identifier\": \"363.3\"}, {\"title\": \"ventas_nafta_comun_mayor83_ron\", \"type\": \"number\", \"description\": \"Ventas de Nafta Com\\u00fan >83 RON\", \"id\": \"363.3_VENTAS_DE_RON__33\", \"scrapingIdentifierCell\": \"P195\", \"scrapingDataStartCell\": \"P196\", \"units\": \"Miles metros c\\u00fabicos\", \"dataset_identifier\": \"363\", \"distribution_identifier\": \"363.3\"}, {\"title\": \"ventas_nafta_super_mayor93_ron\", \"type\": \"number\", \"description\": \"Ventas de Nafta S\\u00faper >93 RON\", \"id\": \"363.3_VENTAS_DE_RON_II__33\", \"scrapingIdentifierCell\": \"Q195\", \"scrapingDataStartCell\": \"Q196\", \"units\": \"Miles metros c\\u00fabicos\", \"dataset_identifier\": \"363\", \"distribution_identifier\": \"363.3\"}, {\"title\": \"ventas_nafta_mayor97_ron\", \"type\": \"number\", \"description\": \"Ventas de Nafta >97 RON\", \"id\": \"363.3_VENTAS_DE_RON__27\", \"scrapingIdentifierCell\": \"R195\", \"scrapingDataStartCell\": \"R196\", \"units\": \"Miles metros c\\u00fabicos\", \"dataset_identifier\": \"363\", \"distribution_identifier\": \"363.3\"}, {\"title\": \"despachos_asfalto\", \"type\": \"number\", \"description\": \"Despachos de Asfalto\", \"id\": \"363.3_DESPACHOS_LTO__20\", \"scrapingIdentifierCell\": \"S195\", \"scrapingDataStartCell\": \"S196\", \"units\": \"Toneladas\", \"dataset_identifier\": \"363\", \"distribution_identifier\": \"363.3\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-12-20T00:00:00",
+      "datastore_active": false,
+      "description": "Información de  exportaciones por sector de actividad, saldo comercial y rangos de exportación de la empresa exportadora. Datos mesuales",
+      "fileName": "exportaciones-actividad-saldo-comercial-rangos-exportacion-empresa-exportadora-mensual.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "sspm_363.3",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Exportaciones por sector de actividad, saldo comercial y rangos de exportación de la empresa exportadora. Datos mesuales",
+      "package_id": "sspm_363",
+      "position": 2,
+      "resource_type": null,
+      "revision_id": "e4344c5d-8ac4-47e7-9cce-5670fd0634c3",
+      "size": null,
+      "state": "active",
+      "url": "https://infra.datos.gob.ar/catalog/sspm/dataset/363/distribution/363.3/download/exportaciones-actividad-saldo-comercial-rangos-exportacion-empresa-exportadora-mensual.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "e4344c5d-8ac4-47e7-9cce-5670fd0634c3",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "Actividad",
+      "id": "a7695c51-c893-4ece-8ff9-306c197afdd7",
+      "name": "Actividad",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Información Económica al Día",
+      "id": "0d300a9a-0802-46c3-9a40-2f28ddf050ec",
+      "name": "Información Económica al Día",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Producción y ventas de petróleo y derivados",
+  "type": "dataset",
+  "url": "http://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/",
+  "version": null
+}

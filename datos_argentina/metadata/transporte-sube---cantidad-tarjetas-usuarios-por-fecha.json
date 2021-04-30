@@ -1,0 +1,154 @@
+{
+  "author": "Dirección Nacional de Desarrollo Tecnológico - Ministerio de Transporte.",
+  "author_email": null,
+  "creator_user_id": "dc157489-51c6-44ce-bd63-3bd983d60778",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P1D"
+    },
+    {
+      "key": "issued",
+      "value": "2020-12-04T01:21:23.598740"
+    },
+    {
+      "key": "modified",
+      "value": "2020-12-15T14:33:48.566654"
+    },
+    {
+      "key": "spatial",
+      "value": "[\"ARG\"]"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"TRAN\"]"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Transporte",
+      "display_name": "Transporte",
+      "id": "57227cfc-80a6-45d3-9faa-711a98ac8ede",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225933.272993transporte.svg",
+      "name": "tran",
+      "title": "Transporte"
+    }
+  ],
+  "id": "transporte_811f7456-ce92-4ba8-b976-0e4b8266732b",
+  "isopen": true,
+  "license_id": "CC-BY-4.0",
+  "license_title": "Creative Commons Attribution 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "maintainer": null,
+  "maintainer_email": null,
+  "metadata_created": "2021-01-28T14:47:57.019337",
+  "metadata_modified": "2021-04-29T21:11:10.391444",
+  "name": "transporte-sube---cantidad-tarjetas-usuarios-por-fecha",
+  "notes": "SUBE - Cantidad de tarjetas (usuarios) por fecha",
+  "num_resources": 2,
+  "num_tags": 4,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:11.506514",
+    "description": "",
+    "id": "71418928-10c4-4625-aeaf-69a4d73d00ed",
+    "image_url": "",
+    "is_organization": true,
+    "name": "transporte",
+    "revision_id": "dc7b93ef-b174-46ee-90ea-63edf51296f0",
+    "state": "active",
+    "title": " Ministerio de Transporte",
+    "type": "organization"
+  },
+  "owner_org": "71418928-10c4-4625-aeaf-69a4d73d00ed",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "https://datos.transporte.gob.ar/dataset/811f7456-ce92-4ba8-b976-0e4b8266732b/resource/e8bb73ea-db35-4e72-98f5-e73ac3276fc2",
+      "attributesDescription": "[{\"type\": \"date\", \"description\": \"d\\u00eda de transporte informado\", \"title\": \"dia_transporte\"}, {\"type\": \"string\", \"description\": \"SI/NO\", \"title\": \"amba\"}, {\"type\": \"string\", \"description\": \"Motivo del Atributo Social Federal\", \"title\": \"motivo_atsf\"}, {\"type\": \"string\", \"description\": \"F/M/nulo (esto \\u00faltimo para cuando se trate de tarjetas no registradas)\", \"title\": \"genero\"}, {\"type\": \"string\", \"description\": \"colectivo, tren, subte, lancha o total (total para AMBA o total para INTERIOR). Tener en cuenta que el total no va a ser igual a la suma por medio, ya que una misma tarjeta pudo haber viajado en m\\u00e1s d\", \"title\": \"tipo_transporte\"}, {\"type\": \"integer\", \"description\": \"cantidad de tarjetas \\u00fanicas con alguna transacci\\u00f3n de uso en el d\\u00eda. Las transacciones de uso son Uso, Checkin, Checkout, venta de boleto, y sus eventuales reversas.\", \"title\": \"cant_trj\"}, {\"type\": \"string\", \"description\": \"SI/NO\", \"title\": \"dato_preliminar\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2020-12-04T04:32:09.457272",
+      "datastore_active": false,
+      "description": "Cantidad de tarjetas (usuarios) por día en 2020",
+      "fileName": "dat-ab-usuarios-2020.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "transporte_e8bb73ea-db35-4e72-98f5-e73ac3276fc2",
+      "last_modified": "2021-01-12T17:31:59.417434",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "SUBE - Cantidad de tarjetas (usuarios) por dia en 2020",
+      "package_id": "transporte_811f7456-ce92-4ba8-b976-0e4b8266732b",
+      "position": 0,
+      "resource_type": "file",
+      "revision_id": "b8567a09-dd44-4fb3-a460-abd5c0e9c89c",
+      "size": null,
+      "state": "active",
+      "url": "https://archivos-datos.transporte.gob.ar/upload/Dat_Ab_Usuarios/dat-ab-usuarios-2020.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://datos.transporte.gob.ar/dataset/811f7456-ce92-4ba8-b976-0e4b8266732b/resource/b965e6ba-4d3f-46d9-8a7d-232f668e18ef",
+      "attributesDescription": "[{\"type\": \"date\", \"description\": \"d\\u00eda de transporte informado\", \"title\": \"dia_transporte\"}, {\"type\": \"string\", \"description\": \"SI/NO\", \"title\": \"amba\"}, {\"type\": \"string\", \"description\": \"Motivo del Atributo Social Federal\", \"title\": \"motivo_atsf\"}, {\"type\": \"string\", \"description\": \"F/M/nulo (esto \\u00faltimo para cuando se trate de tarjetas no registradas)\", \"title\": \"genero\"}, {\"type\": \"string\", \"description\": \"colectivo, tren, subte, lancha o total (total para AMBA o total para INTERIOR). Tener en cuenta que el total no va a ser igual a la suma por medio, ya que una misma tarjeta pudo haber viajado en m\\u00e1s d\", \"title\": \"tipo_transporte\"}, {\"type\": \"integer\", \"description\": \"cantidad de tarjetas \\u00fanicas con alguna transacci\\u00f3n de uso en el d\\u00eda. Las transacciones de uso son Uso, Checkin, Checkout, venta de boleto, y sus eventuales reversas.\", \"title\": \"cant_trj\"}, {\"type\": \"string\", \"description\": \"SI/NO\", \"title\": \"dato_preliminar\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2021-01-12T18:14:24.552270",
+      "datastore_active": false,
+      "description": "Cantidad de tarjetas (usuarios) por día en 2021",
+      "format": "CSV",
+      "hash": "",
+      "id": "transporte_b965e6ba-4d3f-46d9-8a7d-232f668e18ef",
+      "last_modified": "2021-01-13T14:20:56.396074",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "SUBE - Cantidad de tarjetas (usuarios) por dia en 2021",
+      "package_id": "transporte_811f7456-ce92-4ba8-b976-0e4b8266732b",
+      "position": 1,
+      "resource_type": "file",
+      "revision_id": "b8567a09-dd44-4fb3-a460-abd5c0e9c89c",
+      "size": null,
+      "state": "active",
+      "url": "https://archivos-datos.transporte.gob.ar/upload/Dat_Ab_Usuarios/dat-ab-usuarios-2021.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "b8567a09-dd44-4fb3-a460-abd5c0e9c89c",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "Movilidad Urbana",
+      "id": "14ada287-45c0-4813-9cf9-8e06233c65a2",
+      "name": "Movilidad Urbana",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Transporte Automotor",
+      "id": "faf48ddb-07da-41d1-a0c8-86d00b563968",
+      "name": "Transporte Automotor",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Transporte Ferroviario",
+      "id": "f4e53926-9367-4bc2-aed7-f8c4fb21fcb1",
+      "name": "Transporte Ferroviario",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Transporte Fluvial",
+      "id": "cc931ff8-9f1f-45c6-af7f-5da71980611e",
+      "name": "Transporte Fluvial",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "SUBE - Cantidad de tarjetas (usuarios) por fecha",
+  "type": "dataset",
+  "url": "https://datos.transporte.gob.ar/dataset/sube-cantidad-de-tarjetas-usuarios-por-fecha",
+  "version": null
+}

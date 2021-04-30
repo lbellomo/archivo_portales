@@ -1,0 +1,124 @@
+{
+  "author": "Subsecretaría de Programación Macroeconómica",
+  "author_email": "datoseconomicos@mecon.gov.ar",
+  "creator_user_id": "4720e75a-9e17-4dc3-879d-041917c7f9f9",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P1M"
+    },
+    {
+      "key": "issued",
+      "value": "2017-09-28"
+    },
+    {
+      "key": "language",
+      "value": "[\"SPA\"]"
+    },
+    {
+      "key": "source",
+      "value": "Ministerio de Trabajo, Empleo y Seguridad Social"
+    },
+    {
+      "key": "spatial",
+      "value": "ARG"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"ECON\"]"
+    },
+    {
+      "key": "temporal",
+      "value": "2012-01-01/2017-04-01"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Economía y finanzas",
+      "display_name": "Economía y finanzas",
+      "id": "60b4b03e-10a1-4d67-b984-08008a249617",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225257.200233economia-finanzas.svg",
+      "name": "econ",
+      "title": "Economía y finanzas"
+    }
+  ],
+  "id": "sspm_151",
+  "isopen": true,
+  "license_id": "CC-BY-4.0",
+  "license_title": "Creative Commons Attribution 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "maintainer": "Subsecretaría de Programación Macroeconómica.",
+  "maintainer_email": "datoseconomicos@mecon.gov.ar",
+  "metadata_created": "2019-11-26T15:05:50.804498",
+  "metadata_modified": "2021-04-29T21:04:18.185542",
+  "name": "sspm-trabajadores-registrados-segun-modalidad-ocupacional-principal-base-2012",
+  "notes": "Trabajadores registrados según modalidad ocupacional principal. Total del país en miles. Base enero 2012",
+  "num_resources": 1,
+  "num_tags": 2,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:09.718132",
+    "description": "",
+    "id": "68f9ee22-5ec3-44cf-a32b-b87d9db46b93",
+    "image_url": "",
+    "is_organization": true,
+    "name": "sspm",
+    "revision_id": "bc058ce0-3540-4204-96cd-9f9ec79045b3",
+    "state": "active",
+    "title": "Subsecretaría de Programación Macroeconómica",
+    "type": "organization"
+  },
+  "owner_org": "68f9ee22-5ec3-44cf-a32b-b87d9db46b93",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/",
+      "attributesDescription": "[{\"title\": \"indice_tiempo\", \"type\": \"date\", \"specialType\": \"time_index\", \"specialTypeDetail\": \"R/P1M\", \"id\": \"151.1_ICE_TIEMPO_2012_M_13\", \"scrapingIdentifierCell\": \"A12\", \"scrapingDataStartCell\": \"A13\", \"dataset_identifier\": \"151\", \"distribution_identifier\": \"151.1\"}, {\"title\": \"asalariados_priv_estacionalidad\", \"type\": \"number\", \"description\": \"Asalariados. Sector privado. Con estacionalidad.\", \"id\": \"151.1_AARIADODAD_2012_M_31\", \"scrapingIdentifierCell\": \"B12\", \"scrapingDataStartCell\": \"B13\", \"units\": \"Miles de Personas\", \"dataset_identifier\": \"151\", \"distribution_identifier\": \"151.1\"}, {\"title\": \"asalariados_pub_estacionalidad\", \"type\": \"number\", \"description\": \"Asalariados. Sector p\\u00fablico. Con estacionalidad.\", \"id\": \"151.1_AARIADODAD_2012_M_30\", \"scrapingIdentifierCell\": \"C12\", \"scrapingDataStartCell\": \"C13\", \"units\": \"Miles de Personas\", \"dataset_identifier\": \"151\", \"distribution_identifier\": \"151.1\"}, {\"title\": \"asalariados_casas_particulares_estacionalidad\", \"type\": \"number\", \"description\": \"Asalariados. Casas particulares. Con estacionalidad.\", \"id\": \"151.1_AARIADODAD_2012_M_45\", \"scrapingIdentifierCell\": \"D12\", \"scrapingDataStartCell\": \"D13\", \"units\": \"Miles de Personas\", \"dataset_identifier\": \"151\", \"distribution_identifier\": \"151.1\"}, {\"title\": \"independientes_autonomos_estacionalidad\", \"type\": \"number\", \"description\": \"Independientes aut\\u00f3nomos. Con estacionalidad.\", \"id\": \"151.1_IPENDIEDAD_2012_M_39\", \"scrapingIdentifierCell\": \"E12\", \"scrapingDataStartCell\": \"E13\", \"units\": \"Miles de Personas\", \"dataset_identifier\": \"151\", \"distribution_identifier\": \"151.1\"}, {\"title\": \"independientes_monotributo_estacionalidad\", \"type\": \"number\", \"description\": \"Independientes monotributo. Con estacionalidad.\", \"id\": \"151.1_IPENDIEDAD_2012_M_41\", \"scrapingIdentifierCell\": \"F12\", \"scrapingDataStartCell\": \"F13\", \"units\": \"Miles de Personas\", \"dataset_identifier\": \"151\", \"distribution_identifier\": \"151.1\"}, {\"title\": \"independientes_monotributo_social_estacionalidad\", \"type\": \"number\", \"description\": \"Independientes monotributo social. Con estacionalidad.\", \"id\": \"151.1_IPENDIEDAD_2012_M_48\", \"scrapingIdentifierCell\": \"G12\", \"scrapingDataStartCell\": \"G13\", \"units\": \"Miles de Personas\", \"dataset_identifier\": \"151\", \"distribution_identifier\": \"151.1\"}, {\"title\": \"total_estacionalidad\", \"type\": \"number\", \"description\": \"Total de trabajadores. Con estacionalidad.\", \"id\": \"151.1_TL_ESTADAD_2012_M_20\", \"scrapingIdentifierCell\": \"H12\", \"scrapingDataStartCell\": \"H13\", \"units\": \"Miles de Personas\", \"dataset_identifier\": \"151\", \"distribution_identifier\": \"151.1\"}, {\"title\": \"asalariados_priv_sin_estac\", \"type\": \"number\", \"description\": \"Asalariados. Sector privado. Sin estacionalidad.\", \"id\": \"151.1_AARIADOTAC_2012_M_26\", \"scrapingIdentifierCell\": \"M12\", \"scrapingDataStartCell\": \"M13\", \"units\": \"Miles de Personas\", \"dataset_identifier\": \"151\", \"distribution_identifier\": \"151.1\"}, {\"title\": \"asalariados_pub_sin_estac\", \"type\": \"number\", \"description\": \"Asalariados. Sector p\\u00fablico. Sin estacionalidad.\", \"id\": \"151.1_AARIADOTAC_2012_M_25\", \"scrapingIdentifierCell\": \"N12\", \"scrapingDataStartCell\": \"N13\", \"units\": \"Miles de Personas\", \"dataset_identifier\": \"151\", \"distribution_identifier\": \"151.1\"}, {\"title\": \"asalariados_casas_particulares_sin_estac\", \"type\": \"number\", \"description\": \"Asalariados. Casas particulares. Sin estacionalidad.\", \"id\": \"151.1_AARIADOTAC_2012_M_40\", \"scrapingIdentifierCell\": \"O12\", \"scrapingDataStartCell\": \"O13\", \"units\": \"Miles de Personas\", \"dataset_identifier\": \"151\", \"distribution_identifier\": \"151.1\"}, {\"title\": \"independientes_autonomos_sin_estac\", \"type\": \"number\", \"description\": \"Independientes aut\\u00f3nomos. Sin estacionalidad.\", \"id\": \"151.1_IPENDIETAC_2012_M_34\", \"scrapingIdentifierCell\": \"P12\", \"scrapingDataStartCell\": \"P13\", \"units\": \"Miles de Personas\", \"dataset_identifier\": \"151\", \"distribution_identifier\": \"151.1\"}, {\"title\": \"independientes_monotributo_sin_estac\", \"type\": \"number\", \"description\": \"Independientes con monotributo. Sin estacionalidad.\", \"id\": \"151.1_IPENDIETAC_2012_M_36\", \"scrapingIdentifierCell\": \"Q12\", \"scrapingDataStartCell\": \"Q13\", \"units\": \"Miles de Personas\", \"dataset_identifier\": \"151\", \"distribution_identifier\": \"151.1\"}, {\"title\": \"independientes_monotributo_social_sin_estac\", \"type\": \"number\", \"description\": \"Independientes con monotributo social. Sin estacionalidad.\", \"id\": \"151.1_IPENDIETAC_2012_M_43\", \"scrapingIdentifierCell\": \"R12\", \"scrapingDataStartCell\": \"R13\", \"units\": \"Miles de Personas\", \"dataset_identifier\": \"151\", \"distribution_identifier\": \"151.1\"}, {\"title\": \"total_sin_estac\", \"type\": \"number\", \"description\": \"Total de trabajadores. Sin estacionalidad.\", \"id\": \"151.1_TL_SIN_TAC_2012_M_15\", \"scrapingIdentifierCell\": \"S12\", \"scrapingDataStartCell\": \"S13\", \"units\": \"Miles de Personas\", \"dataset_identifier\": \"151\", \"distribution_identifier\": \"151.1\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-09-28T00:00:00",
+      "datastore_active": false,
+      "description": "Trabajadores registrados según modalidad ocupacional en valores mensuales",
+      "fileName": "trabajadores-registrados-modalidad-ocupacional-principal-mensual-total-pais-miles-base-2012.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "sspm_151.1",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Trabajadores registrados según modalidad ocupacional principal. Total del país en miles. Base 2012. Valores mensuales.",
+      "package_id": "sspm_151",
+      "position": 0,
+      "resource_type": null,
+      "revision_id": "5264e28f-0a5a-45e8-bc1a-fd6551e78804",
+      "size": null,
+      "state": "active",
+      "url": "https://infra.datos.gob.ar/catalog/sspm/dataset/151/distribution/151.1/download/trabajadores-registrados-modalidad-ocupacional-principal-mensual-total-pais-miles-base-2012.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "5264e28f-0a5a-45e8-bc1a-fd6551e78804",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "Empleo e Ingresos",
+      "id": "0d41bcfd-c3a4-4ff7-8aa1-dd5c3ac51d0b",
+      "name": "Empleo e Ingresos",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Información Económica al Día",
+      "id": "0d300a9a-0802-46c3-9a40-2f28ddf050ec",
+      "name": "Información Económica al Día",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Trabajadores registrados según modalidad ocupacional principal. Base 2012",
+  "type": "dataset",
+  "url": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/",
+  "version": null
+}

@@ -1,0 +1,174 @@
+{
+  "author": "Subsecretaría de Programación Macroeconómica",
+  "author_email": "datoseconomicos@mecon.gov.ar",
+  "creator_user_id": "4720e75a-9e17-4dc3-879d-041917c7f9f9",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P1M"
+    },
+    {
+      "key": "issued",
+      "value": "2017-09-28"
+    },
+    {
+      "key": "language",
+      "value": "[\"SPA\"]"
+    },
+    {
+      "key": "source",
+      "value": "Instituto Nacional de Estadística y Censos (INDEC)"
+    },
+    {
+      "key": "spatial",
+      "value": "ARG"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"ECON\"]"
+    },
+    {
+      "key": "temporal",
+      "value": "1995-01-01/2017-05-01"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Economía y finanzas",
+      "display_name": "Economía y finanzas",
+      "id": "60b4b03e-10a1-4d67-b984-08008a249617",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225257.200233economia-finanzas.svg",
+      "name": "econ",
+      "title": "Economía y finanzas"
+    }
+  ],
+  "id": "sspm_108",
+  "isopen": true,
+  "license_id": "CC-BY-4.0",
+  "license_title": "Creative Commons Attribution 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "maintainer": "Subsecretaría de Programación Macroeconómica.",
+  "maintainer_email": "datoseconomicos@mecon.gov.ar",
+  "metadata_created": "2019-11-26T15:05:39.104232",
+  "metadata_modified": "2021-04-29T21:04:12.786186",
+  "name": "sspm-indice-precios-internos-basicos-productor-serie-discontinuada",
+  "notes": "Índice de Precios Internos Básicos del Productor. Base 1993",
+  "num_resources": 3,
+  "num_tags": 2,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:09.718132",
+    "description": "",
+    "id": "68f9ee22-5ec3-44cf-a32b-b87d9db46b93",
+    "image_url": "",
+    "is_organization": true,
+    "name": "sspm",
+    "revision_id": "bc058ce0-3540-4204-96cd-9f9ec79045b3",
+    "state": "active",
+    "title": "Subsecretaría de Programación Macroeconómica",
+    "type": "organization"
+  },
+  "owner_org": "68f9ee22-5ec3-44cf-a32b-b87d9db46b93",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/",
+      "attributesDescription": "[{\"title\": \"indice_tiempo\", \"type\": \"date\", \"specialType\": \"time_index\", \"specialTypeDetail\": \"R/P1Y\", \"id\": \"108.1_IT_1993_A_13\", \"scrapingIdentifierCell\": \"A10\", \"scrapingDataStartCell\": \"A11\", \"dataset_identifier\": \"108\", \"distribution_identifier\": \"108.1\"}, {\"title\": \"ipp_1993_nivel_general\", \"type\": \"number\", \"specialTypeDetail\": \"\", \"description\": \"IPP. Nivel general. Base 1993. Anual\", \"id\": \"108.1_I1NG_1993_A_22\", \"scrapingIdentifierCell\": \"B10\", \"scrapingDataStartCell\": \"B11\", \"units\": \"\\u00cdndice 1993=100\", \"dataset_identifier\": \"108\", \"distribution_identifier\": \"108.1\"}, {\"title\": \"ipp_1993_total_productos_nacionales\", \"type\": \"number\", \"specialTypeDetail\": \"\", \"description\": \"IPP. Total productos nacionales. Base 1993. Anual\", \"id\": \"108.1_I1TPN_1993_A_35\", \"scrapingIdentifierCell\": \"C10\", \"scrapingDataStartCell\": \"C11\", \"units\": \"\\u00cdndice 1993=100\", \"dataset_identifier\": \"108\", \"distribution_identifier\": \"108.1\"}, {\"title\": \"ipp_1993_productos_nacionales_primarios\", \"type\": \"number\", \"specialTypeDetail\": \"\", \"description\": \"IPP. Productos nacionales primarios. Base 1993. Anual\", \"id\": \"108.1_I1PNP_1993_A_39\", \"scrapingIdentifierCell\": \"D10\", \"scrapingDataStartCell\": \"D11\", \"units\": \"\\u00cdndice 1993=100\", \"dataset_identifier\": \"108\", \"distribution_identifier\": \"108.1\"}, {\"title\": \"ipp_1993_productos_nacionales_manuf_energia_electrica\", \"type\": \"number\", \"specialTypeDetail\": \"\", \"description\": \"IPP. Productos nacionales manufacturados y energ\\u00eda el\\u00e9ctrica. Base 1993. Anual\", \"id\": \"108.1_I1PNMEE_1993_A_53\", \"scrapingIdentifierCell\": \"E10\", \"scrapingDataStartCell\": \"E11\", \"units\": \"\\u00cdndice 1993=100\", \"dataset_identifier\": \"108\", \"distribution_identifier\": \"108.1\"}, {\"title\": \"ipp_1993_precios_relat_primarios_manuf_energia_electrica\", \"type\": \"number\", \"specialTypeDetail\": \"\", \"description\": \"IPP. Precios relativos Primarios/Manufacturados y energ\\u00eda el\\u00e9ctrica. Base 1993. Anual\", \"id\": \"108.1_I1PRPMEE_1993_A_56\", \"scrapingIdentifierCell\": \"F10\", \"scrapingDataStartCell\": \"F11\", \"units\": \"\\u00cdndice 1993=100\", \"dataset_identifier\": \"108\", \"distribution_identifier\": \"108.1\"}, {\"title\": \"ipp_1993_nivel_general_variacion_anual\", \"type\": \"number\", \"specialTypeDetail\": \"\", \"description\": \"IPP. Nivel general anual. Variaci\\u00f3n % anual. Base 1993\", \"id\": \"108.1_I1NGVA_1993_A_38\", \"scrapingIdentifierCell\": \"I10\", \"scrapingDataStartCell\": \"I11\", \"units\": \"Porcentaje\", \"dataset_identifier\": \"108\", \"distribution_identifier\": \"108.1\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-09-28T00:00:00",
+      "datastore_active": false,
+      "description": "Índice de Precios Internos Básicos del Productor. Base 1993. SERIE DISCONTINUADA. Valores anuales",
+      "fileName": "indice-precios-internos-basicos-productor-base-1993-anual.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "sspm_108.1",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Índice de Precios Internos Básicos del Productor. Base 1993. SERIE DISCONTINUADA. Valores anuales",
+      "package_id": "sspm_108",
+      "position": 0,
+      "resource_type": null,
+      "revision_id": "525a620a-985c-40b5-bc2d-fce02718df81",
+      "size": null,
+      "state": "active",
+      "url": "https://infra.datos.gob.ar/catalog/sspm/dataset/108/distribution/108.1/download/indice-precios-internos-basicos-productor-base-1993-anual.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/",
+      "attributesDescription": "[{\"title\": \"indice_tiempo\", \"type\": \"date\", \"specialType\": \"time_index\", \"specialTypeDetail\": \"R/P3M\", \"id\": \"108.2_IT_1993_T_13\", \"scrapingIdentifierCell\": \"A33\", \"scrapingDataStartCell\": \"A34\", \"dataset_identifier\": \"108\", \"distribution_identifier\": \"108.2\"}, {\"title\": \"ipp_1993_nivel_general\", \"type\": \"number\", \"specialTypeDetail\": \"\", \"description\": \"IPP. Nivel general. Base 1993. Trimestral\", \"id\": \"108.2_I1NG_1993_T_22\", \"scrapingIdentifierCell\": \"B33\", \"scrapingDataStartCell\": \"B34\", \"units\": \"\\u00cdndice 1993=100\", \"dataset_identifier\": \"108\", \"distribution_identifier\": \"108.2\"}, {\"title\": \"ipp_1993_total_productos_nacionales\", \"type\": \"number\", \"specialTypeDetail\": \"\", \"description\": \"IPP. Total productos nacionales. Base 1993. Trimestral\", \"id\": \"108.2_I1TPN_1993_T_35\", \"scrapingIdentifierCell\": \"C33\", \"scrapingDataStartCell\": \"C34\", \"units\": \"\\u00cdndice 1993=100\", \"dataset_identifier\": \"108\", \"distribution_identifier\": \"108.2\"}, {\"title\": \"ipp_1993_productos_nacionales_primarios\", \"type\": \"number\", \"specialTypeDetail\": \"\", \"description\": \"IPP. Productos nacionales primarios. Base 1993. Trimestral\", \"id\": \"108.2_I1PNP_1993_T_39\", \"scrapingIdentifierCell\": \"D33\", \"scrapingDataStartCell\": \"D34\", \"units\": \"\\u00cdndice 1993=100\", \"dataset_identifier\": \"108\", \"distribution_identifier\": \"108.2\"}, {\"title\": \"ipp_1993_productos_nacionales_manuf_energia_electrica\", \"type\": \"number\", \"specialTypeDetail\": \"\", \"description\": \"IPP. Productos nacionales manufacturados y energ\\u00eda el\\u00e9ctrica. Base 1993. Trimestral\", \"id\": \"108.2_I1PNMEE_1993_T_53\", \"scrapingIdentifierCell\": \"E33\", \"scrapingDataStartCell\": \"E34\", \"units\": \"\\u00cdndice 1993=100\", \"dataset_identifier\": \"108\", \"distribution_identifier\": \"108.2\"}, {\"title\": \"ipp_1993_precios_relat_primarios_manuf_energia_electrica\", \"type\": \"number\", \"specialTypeDetail\": \"\", \"description\": \"IPP. Precios relativos Primarios/Manufacturados y energ\\u00eda el\\u00e9ctrica. Base 1993. Trimestral\", \"id\": \"108.2_I1PRPMEE_1993_T_56\", \"scrapingIdentifierCell\": \"F33\", \"scrapingDataStartCell\": \"F34\", \"units\": \"\\u00cdndice 1993=100\", \"dataset_identifier\": \"108\", \"distribution_identifier\": \"108.2\"}, {\"title\": \"ipp_1993_nivel_general_variacion_mensual\", \"type\": \"number\", \"specialTypeDetail\": \"\", \"description\": \"IPP. Nivel general trimestral. Variaci\\u00f3n % mensual. Base 1993\", \"id\": \"108.2_I1NGVM_1993_T_40\", \"scrapingIdentifierCell\": \"H33\", \"scrapingDataStartCell\": \"H34\", \"units\": \"Porcentaje\", \"dataset_identifier\": \"108\", \"distribution_identifier\": \"108.2\"}, {\"title\": \"ipp_1993_nivel_general_variacion_anual\", \"type\": \"number\", \"specialTypeDetail\": \"\", \"description\": \"IPP. Nivel general trimestral. Variaci\\u00f3n % anual. Base 1993\", \"id\": \"108.2_I1NGVA_1993_T_38\", \"scrapingIdentifierCell\": \"I33\", \"scrapingDataStartCell\": \"I34\", \"units\": \"Porcentaje\", \"dataset_identifier\": \"108\", \"distribution_identifier\": \"108.2\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-09-28T00:00:00",
+      "datastore_active": false,
+      "description": "Índice de Precios Internos Básicos del Productor. Base 1993. SERIE DISCONTINUADA. Valores trimestrales",
+      "fileName": "indice-precios-internos-basicos-productor-base-1993-trimestral.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "sspm_108.2",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Índice de Precios Internos Básicos del Productor. Base 1993. SERIE DISCONTINUADA. Valores trimestrales",
+      "package_id": "sspm_108",
+      "position": 1,
+      "resource_type": null,
+      "revision_id": "525a620a-985c-40b5-bc2d-fce02718df81",
+      "size": null,
+      "state": "active",
+      "url": "https://infra.datos.gob.ar/catalog/sspm/dataset/108/distribution/108.2/download/indice-precios-internos-basicos-productor-base-1993-trimestral.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/",
+      "attributesDescription": "[{\"title\": \"indice_tiempo\", \"type\": \"date\", \"specialType\": \"time_index\", \"specialTypeDetail\": \"R/P1M\", \"id\": \"108.3_IT_1993_M_13\", \"scrapingIdentifierCell\": \"A119\", \"scrapingDataStartCell\": \"A120\", \"dataset_identifier\": \"108\", \"distribution_identifier\": \"108.3\"}, {\"title\": \"ipp_1993_nivel_general\", \"type\": \"number\", \"specialTypeDetail\": \"\", \"description\": \"IPP. Nivel general. Base 1993. Mensual\", \"id\": \"108.3_I1NG_1993_M_22\", \"scrapingIdentifierCell\": \"B119\", \"scrapingDataStartCell\": \"B120\", \"units\": \"\\u00cdndice 1993=100\", \"dataset_identifier\": \"108\", \"distribution_identifier\": \"108.3\"}, {\"title\": \"ipp_1993_total_productos_nacionales\", \"type\": \"number\", \"specialTypeDetail\": \"\", \"description\": \"IPP. Total productos nacionales. Base 1993. Mensual\", \"id\": \"108.3_I1TPN_1993_M_35\", \"scrapingIdentifierCell\": \"C119\", \"scrapingDataStartCell\": \"C120\", \"units\": \"\\u00cdndice 1993=100\", \"dataset_identifier\": \"108\", \"distribution_identifier\": \"108.3\"}, {\"title\": \"ipp_1993_productos_nacionales_primarios\", \"type\": \"number\", \"specialTypeDetail\": \"\", \"description\": \"IPP. Productos nacionales primarios. Base 1993. Mensual\", \"id\": \"108.3_I1PNP_1993_M_39\", \"scrapingIdentifierCell\": \"D119\", \"scrapingDataStartCell\": \"D120\", \"units\": \"\\u00cdndice 1993=100\", \"dataset_identifier\": \"108\", \"distribution_identifier\": \"108.3\"}, {\"title\": \"ipp_1993_productos_nacionales_manuf_energia_electrica\", \"type\": \"number\", \"specialTypeDetail\": \"\", \"description\": \"IPP. Productos nacionales manufacturados y energ\\u00eda el\\u00e9ctrica. Base 1993. Mensual\", \"id\": \"108.3_I1PNMEE_1993_M_53\", \"scrapingIdentifierCell\": \"E119\", \"scrapingDataStartCell\": \"E120\", \"units\": \"\\u00cdndice 1993=100\", \"dataset_identifier\": \"108\", \"distribution_identifier\": \"108.3\"}, {\"title\": \"ipp_1993_precios_relat_primarios_manuf_energia_electrica\", \"type\": \"number\", \"specialTypeDetail\": \"\", \"description\": \"IPP. Precios relativos Primarios/Manufacturados y energ\\u00eda el\\u00e9ctrica. Base 1993. Mensual\", \"id\": \"108.3_I1PRPMEE_1993_M_56\", \"scrapingIdentifierCell\": \"F119\", \"scrapingDataStartCell\": \"F120\", \"units\": \"\\u00cdndice 1993=100\", \"dataset_identifier\": \"108\", \"distribution_identifier\": \"108.3\"}, {\"title\": \"ipp_1993_nivel_general_variacion_mensual\", \"type\": \"number\", \"specialTypeDetail\": \"\", \"description\": \"IPP. Nivel general Mensual. Variaci\\u00f3n % mensual. Base 1993\", \"id\": \"108.3_I1NGVM_1993_M_40\", \"scrapingIdentifierCell\": \"H119\", \"scrapingDataStartCell\": \"H120\", \"units\": \"\\u00cdndice 1993=100\", \"dataset_identifier\": \"108\", \"distribution_identifier\": \"108.3\"}, {\"title\": \"ipp_1993_nivel_general_variacion_anual\", \"type\": \"number\", \"specialTypeDetail\": \"\", \"description\": \"IPP. Nivel genera l Mensual. Variaci\\u00f3n % anual. Base 1993\", \"id\": \"108.3_I1NGVA_1993_M_38\", \"scrapingIdentifierCell\": \"I119\", \"scrapingDataStartCell\": \"I120\", \"units\": \"\\u00cdndice 1993=100\", \"dataset_identifier\": \"108\", \"distribution_identifier\": \"108.3\"}, {\"title\": \"ipp_1993_productos_primarios_variacion_mensual\", \"type\": \"number\", \"specialTypeDetail\": \"\", \"description\": \"IPP. Productos primarios. Variaci\\u00f3n % mensual. Base 1993\", \"id\": \"108.3_I1PPVM_1993_M_46\", \"scrapingIdentifierCell\": \"K119\", \"scrapingDataStartCell\": \"K120\", \"units\": \"\\u00cdndice 1993=100\", \"dataset_identifier\": \"108\", \"distribution_identifier\": \"108.3\"}, {\"title\": \"ipp_1993_productos_manuf_energia_electrica_var_mensual\", \"type\": \"number\", \"specialTypeDetail\": \"\", \"description\": \"IPP. Productos manufacturados y energ\\u00eda el\\u00e9ctrica. Variaci\\u00f3n % mensual. Base 1993\", \"id\": \"108.3_I1PMEEVM_1993_M_54\", \"scrapingIdentifierCell\": \"L119\", \"scrapingDataStartCell\": \"L120\", \"units\": \"Porcentaje\", \"dataset_identifier\": \"108\", \"distribution_identifier\": \"108.3\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-09-28T00:00:00",
+      "datastore_active": false,
+      "description": "Índice de Precios Internos Básicos del Productor. Base 1993. SERIE DISCONTINUADA. Valores mensuales",
+      "fileName": "indice-precios-internos-basicos-productor-base-1993-mensual.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "sspm_108.3",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Índice de Precios Internos Básicos del Productor. Base 1993. SERIE DISCONTINUADA. Valores mensuales",
+      "package_id": "sspm_108",
+      "position": 2,
+      "resource_type": null,
+      "revision_id": "525a620a-985c-40b5-bc2d-fce02718df81",
+      "size": null,
+      "state": "active",
+      "url": "https://infra.datos.gob.ar/catalog/sspm/dataset/108/distribution/108.3/download/indice-precios-internos-basicos-productor-base-1993-mensual.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "525a620a-985c-40b5-bc2d-fce02718df81",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "Información Económica al Día",
+      "id": "0d300a9a-0802-46c3-9a40-2f28ddf050ec",
+      "name": "Información Económica al Día",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Precios",
+      "id": "308c2aaf-f177-4728-bda5-fd41662741a2",
+      "name": "Precios",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Índice de Precios Internos Básicos del Productor. SERIE DISCONTINUADA",
+  "type": "dataset",
+  "url": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/",
+  "version": null
+}

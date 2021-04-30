@@ -1,0 +1,156 @@
+{
+  "author": "Subsecretaría de Programación Macroeconómica",
+  "author_email": "datoseconomicos@mecon.gov.ar",
+  "creator_user_id": "4720e75a-9e17-4dc3-879d-041917c7f9f9",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P3M"
+    },
+    {
+      "key": "issued",
+      "value": "2017-09-28"
+    },
+    {
+      "key": "language",
+      "value": "[\"SPA\"]"
+    },
+    {
+      "key": "source",
+      "value": "Instituto Nacional de Estadística y Censos (INDEC)"
+    },
+    {
+      "key": "spatial",
+      "value": "ARG"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"ECON\"]"
+    },
+    {
+      "key": "temporal",
+      "value": "1990-01-01/2014-12-01"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Economía y finanzas",
+      "display_name": "Economía y finanzas",
+      "id": "60b4b03e-10a1-4d67-b984-08008a249617",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225257.200233economia-finanzas.svg",
+      "name": "econ",
+      "title": "Economía y finanzas"
+    }
+  ],
+  "id": "sspm_17",
+  "isopen": true,
+  "license_id": "CC-BY-4.0",
+  "license_title": "Creative Commons Attribution 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "maintainer": "Subsecretaría de Programación Macroeconómica.",
+  "maintainer_email": "datoseconomicos@mecon.gov.ar",
+  "metadata_created": "2019-11-26T15:06:26.934669",
+  "metadata_modified": "2021-04-29T21:04:14.501880",
+  "name": "sspm-indices-horas-trabajadas-iht",
+  "notes": "Índices de Horas trabajadas (IHT) en la industria manufacturera.  Encuesta Industrial Base 1997",
+  "num_resources": 2,
+  "num_tags": 3,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:09.718132",
+    "description": "",
+    "id": "68f9ee22-5ec3-44cf-a32b-b87d9db46b93",
+    "image_url": "",
+    "is_organization": true,
+    "name": "sspm",
+    "revision_id": "bc058ce0-3540-4204-96cd-9f9ec79045b3",
+    "state": "active",
+    "title": "Subsecretaría de Programación Macroeconómica",
+    "type": "organization"
+  },
+  "owner_org": "68f9ee22-5ec3-44cf-a32b-b87d9db46b93",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/",
+      "attributesDescription": "[{\"title\": \"indice_tiempo\", \"type\": \"date\", \"specialType\": \"time_index\", \"specialTypeDetail\": \"R/P1Y\", \"id\": \"17.1_IT_1997_A_13\", \"scrapingIdentifierCell\": \"AY9\", \"scrapingDataStartCell\": \"AY10\", \"dataset_identifier\": \"17\", \"distribution_identifier\": \"17.1\"}, {\"title\": \"nivel_general\", \"type\": \"number\", \"description\": \"\\u00cdndice de Horas trabajadas (IHT). \\u00cdndice General. Anuales\", \"id\": \"17.1_NG_1997_A_13\", \"scrapingIdentifierCell\": \"AZ9\", \"scrapingDataStartCell\": \"AZ10\", \"units\": \"\\u00cdndice 1997=100\", \"dataset_identifier\": \"17\", \"distribution_identifier\": \"17.1\"}, {\"title\": \"elaboracion_productos_alimenticios_bebidas\", \"type\": \"number\", \"description\": \"\\u00cdndice de Horas trabajadas (IHT). Elaboraci\\u00f3n de productos alimenticios y bebidas. Anuales\", \"id\": \"17.1_EPAB_1997_A_42\", \"scrapingIdentifierCell\": \"BA9\", \"scrapingDataStartCell\": \"BA10\", \"units\": \"\\u00cdndice 1997=100\", \"dataset_identifier\": \"17\", \"distribution_identifier\": \"17.1\"}, {\"title\": \"elaboracion_productos_tabaco\", \"type\": \"number\", \"description\": \"\\u00cdndice de Horas trabajadas (IHT). Elaboraci\\u00f3n de productos con tabaco. Anuales\", \"id\": \"17.1_EPT_1997_A_28\", \"scrapingIdentifierCell\": \"BB9\", \"scrapingDataStartCell\": \"BB10\", \"units\": \"\\u00cdndice 1997=100\", \"dataset_identifier\": \"17\", \"distribution_identifier\": \"17.1\"}, {\"title\": \"fabricacion_productos_textiles\", \"type\": \"number\", \"description\": \"\\u00cdndice de Horas trabajadas (IHT). Fabricaci\\u00f3n de productos textiles. Anuales\", \"id\": \"17.1_FPT_1997_A_30\", \"scrapingIdentifierCell\": \"BC9\", \"scrapingDataStartCell\": \"BC10\", \"units\": \"\\u00cdndice 1997=100\", \"dataset_identifier\": \"17\", \"distribution_identifier\": \"17.1\"}, {\"title\": \"fabricacion_prendas_vestir_terminacion_tenido_pieles\", \"type\": \"number\", \"description\": \"\\u00cdndice de Horas trabajadas (IHT). Fabricaci\\u00f3n de prendas para vestir, terminaci\\u00f3n y tenido de pieles. Anuales\", \"id\": \"17.1_FPVTTP_1997_A_52\", \"scrapingIdentifierCell\": \"BD9\", \"scrapingDataStartCell\": \"BD10\", \"units\": \"\\u00cdndice 1997=100\", \"dataset_identifier\": \"17\", \"distribution_identifier\": \"17.1\"}, {\"title\": \"curtido_terminacion_cueros_fabricacion_marroq_talaba_calzado\", \"type\": \"number\", \"description\": \"\\u00cdndice de Horas trabajadas (IHT). Curtido y terminaci\\u00f3n de cueros, fabricaci\\u00f3n de articulos de marroquiner\\u00eda, talabarteria y calzado. Anuales\", \"id\": \"17.1_CTCFAMTCSP_1997_A_60\", \"scrapingIdentifierCell\": \"BE9\", \"scrapingDataStartCell\": \"BE10\", \"units\": \"\\u00cdndice 1997=100\", \"dataset_identifier\": \"17\", \"distribution_identifier\": \"17.1\"}, {\"title\": \"prod_madera_corcho_excepto_muebles_paja_trenzables\", \"type\": \"number\", \"description\": \"\\u00cdndice de Horas trabajadas (IHT). Producci\\u00f3n y fabricaci\\u00f3n de productos d emadera y corcho expto muebles y articulos de materiales trenzables. Anuales\", \"id\": \"17.1_PMFPMCEMFAPMT_1997_A_50\", \"scrapingIdentifierCell\": \"BF9\", \"scrapingDataStartCell\": \"BF10\", \"units\": \"\\u00cdndice 1997=100\", \"dataset_identifier\": \"17\", \"distribution_identifier\": \"17.1\"}, {\"title\": \"fabricacion_papel_productos_papel\", \"type\": \"number\", \"description\": \"\\u00cdndice de Horas trabajadas (IHT). Fabricaci\\u00f3n de papel y productos de papel. Anuales\", \"id\": \"17.1_FPPP_1997_A_33\", \"scrapingIdentifierCell\": \"BG9\", \"scrapingDataStartCell\": \"BG10\", \"units\": \"\\u00cdndice 1997=100\", \"dataset_identifier\": \"17\", \"distribution_identifier\": \"17.1\"}, {\"title\": \"edicion_impresion_reproduccion_grabaciones\", \"type\": \"number\", \"description\": \"\\u00cdndice de Horas trabajadas (IHT). Edici\\u00f3n e impresi\\u00f3n, reproducci\\u00f3n y gravaciones. Anuales\", \"id\": \"17.1_EIRG_1997_A_42\", \"scrapingIdentifierCell\": \"BH9\", \"scrapingDataStartCell\": \"BH10\", \"units\": \"\\u00cdndice 1997=100\", \"dataset_identifier\": \"17\", \"distribution_identifier\": \"17.1\"}, {\"title\": \"fab_coque_prod_refinacion_petroleo_combustible_nuclear\", \"type\": \"number\", \"description\": \"\\u00cdndice de Horas trabajadas (IHT). Fabricaci\\u00f3n de coque, productos de la refinaci\\u00f3n del petroleo, combustibles y productos nucleares. Anuales\", \"id\": \"17.1_FCPRPCN_1997_A_54\", \"scrapingIdentifierCell\": \"BI9\", \"scrapingDataStartCell\": \"BI10\", \"units\": \"\\u00cdndice 1997=100\", \"dataset_identifier\": \"17\", \"distribution_identifier\": \"17.1\"}, {\"title\": \"fabricacion_sustancias_productos_quimicos\", \"type\": \"number\", \"description\": \"\\u00cdndice de Horas trabajadas (IHT). Fabricaci\\u00f3n sustencias y productos qu\\u00edmicos. Anuales\", \"id\": \"17.1_FSPQ_1997_A_41\", \"scrapingIdentifierCell\": \"BJ9\", \"scrapingDataStartCell\": \"BJ10\", \"units\": \"\\u00cdndice 1997=100\", \"dataset_identifier\": \"17\", \"distribution_identifier\": \"17.1\"}, {\"title\": \"fabricacion_productos_caucho_plastico\", \"type\": \"number\", \"description\": \"\\u00cdndice de Horas trabajadas (IHT). Fabricaci\\u00f3n de productos de caucho. Anuales\", \"id\": \"17.1_FPCP_1997_A_37\", \"scrapingIdentifierCell\": \"BK9\", \"scrapingDataStartCell\": \"BK10\", \"units\": \"\\u00cdndice 1997=100\", \"dataset_identifier\": \"17\", \"distribution_identifier\": \"17.1\"}, {\"title\": \"fabricacion_productos_minerales_no_metalicos\", \"type\": \"number\", \"description\": \"\\u00cdndice de Horas trabajadas (IHT). Fabricaci\\u00f3n de productos minerales no met\\u00e1licos. Anuales\", \"id\": \"17.1_FPMNM_1997_A_44\", \"scrapingIdentifierCell\": \"BL9\", \"scrapingDataStartCell\": \"BL10\", \"units\": \"\\u00cdndice 1997=100\", \"dataset_identifier\": \"17\", \"distribution_identifier\": \"17.1\"}, {\"title\": \"fabricacion_metales_comunes\", \"type\": \"number\", \"description\": \"\\u00cdndice de Horas trabajadas (IHT). Fabricaci\\u00f3n de metales comunes. Anuales\", \"id\": \"17.1_FMC_1997_A_27\", \"scrapingIdentifierCell\": \"BM9\", \"scrapingDataStartCell\": \"BM10\", \"units\": \"\\u00cdndice 1997=100\", \"dataset_identifier\": \"17\", \"distribution_identifier\": \"17.1\"}, {\"title\": \"fabricacion_productos_elaborados_metal_excepto_maquinaria\", \"type\": \"number\", \"description\": \"\\u00cdndice de Horas trabajadas (IHT). Fabricaci\\u00f3n productos elaborados de metal expto maquinaria y equipos. Anuales\", \"id\": \"17.1_FPEMEME_1997_A_57\", \"scrapingIdentifierCell\": \"BN9\", \"scrapingDataStartCell\": \"BN10\", \"units\": \"\\u00cdndice 1997=100\", \"dataset_identifier\": \"17\", \"distribution_identifier\": \"17.1\"}, {\"title\": \"fabricacion_maquinaria_equipos\", \"type\": \"number\", \"description\": \"\\u00cdndice de Horas trabajadas (IHT). Fabricaci\\u00f3n maquinaria y equipos. Anuales\", \"id\": \"17.1_FME_1997_A_30\", \"scrapingIdentifierCell\": \"BO9\", \"scrapingDataStartCell\": \"BO10\", \"units\": \"\\u00cdndice 1997=100\", \"dataset_identifier\": \"17\", \"distribution_identifier\": \"17.1\"}, {\"title\": \"fabricacion_maquinaria_oficina_contabilidad_informatica\", \"type\": \"number\", \"description\": \"\\u00cdndice de Horas trabajadas (IHT). Fabricaci\\u00f3n maquinaria y equipos de oficina. Anuales\", \"id\": \"17.1_FMOCI_1997_A_55\", \"scrapingIdentifierCell\": \"BP9\", \"scrapingDataStartCell\": \"BP10\", \"units\": \"\\u00cdndice 1997=100\", \"dataset_identifier\": \"17\", \"distribution_identifier\": \"17.1\"}, {\"title\": \"fabricacion_maquinaria_aparatos_electronicos\", \"type\": \"number\", \"description\": \"\\u00cdndice de Horas trabajadas (IHT). Fabricaci\\u00f3n maquinaria y aparatos electronicos. Anuales\", \"id\": \"17.1_FMAE_1997_A_44\", \"scrapingIdentifierCell\": \"BQ9\", \"scrapingDataStartCell\": \"BQ10\", \"units\": \"\\u00cdndice 1997=100\", \"dataset_identifier\": \"17\", \"distribution_identifier\": \"17.1\"}, {\"title\": \"fabricacion_equipos_aparatos_radio_television_comunicaciones\", \"type\": \"number\", \"description\": \"\\u00cdndice de Horas trabajadas (IHT). Fabricaci\\u00f3n equipos y aparatos (radios, televisi\\u00f3n y equipos de comunicaci\\u00f3n). Anuales\", \"id\": \"17.1_FEARTC_1997_A_60\", \"scrapingIdentifierCell\": \"BR9\", \"scrapingDataStartCell\": \"BR10\", \"units\": \"\\u00cdndice 1997=100\", \"dataset_identifier\": \"17\", \"distribution_identifier\": \"17.1\"}, {\"title\": \"fabricacion_instrumentos_medicos_opticos_precision_relojes\", \"type\": \"number\", \"description\": \"\\u00cdndice de Horas trabajadas (IHT). Fabricaci\\u00f3n instrumentos m\\u00e9dicos, opticos, de presici\\u00f3n y relojes. Anuales\", \"id\": \"17.1_FIMOPR_1997_A_58\", \"scrapingIdentifierCell\": \"BS9\", \"scrapingDataStartCell\": \"BS10\", \"units\": \"\\u00cdndice 1997=100\", \"dataset_identifier\": \"17\", \"distribution_identifier\": \"17.1\"}, {\"title\": \"fabricacion_vehiculos_automotores_remolques_semirremolques\", \"type\": \"number\", \"description\": \"\\u00cdndice de Horas trabajadas (IHT). Fabricaci\\u00f3n veh\\u00edculos automotores, remolques y semirremolques. Anuales\", \"id\": \"17.1_FVARS_1997_A_58\", \"scrapingIdentifierCell\": \"BT9\", \"scrapingDataStartCell\": \"BT10\", \"units\": \"\\u00cdndice 1997=100\", \"dataset_identifier\": \"17\", \"distribution_identifier\": \"17.1\"}, {\"title\": \"fabricacion_equipo_transporte\", \"type\": \"number\", \"description\": \"\\u00cdndice de Horas trabajadas (IHT). Fabricaci\\u00f3n de equipos de transporte. Anuales\", \"id\": \"17.1_FET_1997_A_29\", \"scrapingIdentifierCell\": \"BU9\", \"scrapingDataStartCell\": \"BU10\", \"units\": \"\\u00cdndice 1997=100\", \"dataset_identifier\": \"17\", \"distribution_identifier\": \"17.1\"}, {\"title\": \"fabricacion_muebles_colchones_industrias_manufactureras\", \"type\": \"number\", \"description\": \"\\u00cdndice de Horas trabajadas (IHT). Fabricaci\\u00f3n de muebles, colchones (industria manufacturera). Anuales\", \"id\": \"17.1_FMCIM_1997_A_55\", \"scrapingIdentifierCell\": \"BV9\", \"scrapingDataStartCell\": \"BV10\", \"units\": \"\\u00cdndice 1997=100\", \"dataset_identifier\": \"17\", \"distribution_identifier\": \"17.1\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-09-28T00:00:00",
+      "datastore_active": false,
+      "description": "Índices de Horas trabajadas (IHT). Valores anuales.. Encuesta Industrial Base 1997.",
+      "fileName": "encuesta-industrial-indices-horas-trabajadas-valores-anuales-base-1997.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "sspm_17.1",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Índices de Horas trabajadas (IHT). Valores anuales.",
+      "package_id": "sspm_17",
+      "position": 0,
+      "resource_type": null,
+      "revision_id": "0ac51aea-46ef-4fc3-b3e9-ca8e588ec751",
+      "size": null,
+      "state": "active",
+      "url": "https://infra.datos.gob.ar/catalog/sspm/dataset/17/distribution/17.1/download/encuesta-industrial-indices-horas-trabajadas-valores-anuales-base-1997.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/",
+      "attributesDescription": "[{\"title\": \"indice_tiempo\", \"type\": \"date\", \"specialType\": \"time_index\", \"specialTypeDetail\": \"R/P3M\", \"id\": \"17.2_IT_1997_T_13\", \"scrapingIdentifierCell\": \"AY47\", \"scrapingDataStartCell\": \"AY48\", \"dataset_identifier\": \"17\", \"distribution_identifier\": \"17.2\"}, {\"title\": \"nivel_general\", \"type\": \"number\", \"description\": \"\\u00cdndice de Horas trabajadas (IHT). \\u00cdndice General. Trimestrales\", \"id\": \"17.2_NG_1997_T_13\", \"scrapingIdentifierCell\": \"AZ47\", \"scrapingDataStartCell\": \"AZ48\", \"units\": \"\\u00cdndice 1997=100\", \"dataset_identifier\": \"17\", \"distribution_identifier\": \"17.2\"}, {\"title\": \"elaboracion_productos_alimenticios_bebidas\", \"type\": \"number\", \"description\": \"\\u00cdndice de Horas trabajadas (IHT). Elaboraci\\u00f3n de productos alimenticios y bebidas. Trimestrales\", \"id\": \"17.2_EPAB_1997_T_42\", \"scrapingIdentifierCell\": \"BA47\", \"scrapingDataStartCell\": \"BA48\", \"units\": \"\\u00cdndice 1997=100\", \"dataset_identifier\": \"17\", \"distribution_identifier\": \"17.2\"}, {\"title\": \"elaboracion_productos_tabaco\", \"type\": \"number\", \"description\": \"\\u00cdndice de Horas trabajadas (IHT). Elaboraci\\u00f3n de productos con tabaco. Trimestrales\", \"id\": \"17.2_EPT_1997_T_28\", \"scrapingIdentifierCell\": \"BB47\", \"scrapingDataStartCell\": \"BB48\", \"units\": \"\\u00cdndice 1997=100\", \"dataset_identifier\": \"17\", \"distribution_identifier\": \"17.2\"}, {\"title\": \"fabricacion_productos_textiles\", \"type\": \"number\", \"description\": \"\\u00cdndice de Horas trabajadas (IHT). Fabricaci\\u00f3n de productos textiles. Trimestrales\", \"id\": \"17.2_FPT_1997_T_30\", \"scrapingIdentifierCell\": \"BC47\", \"scrapingDataStartCell\": \"BC48\", \"units\": \"\\u00cdndice 1997=100\", \"dataset_identifier\": \"17\", \"distribution_identifier\": \"17.2\"}, {\"title\": \"fabricacion_prendas_vestir_terminacion_tenido_pieles\", \"type\": \"number\", \"description\": \"\\u00cdndice de Horas trabajadas (IHT). Fabricaci\\u00f3n de prendas para vestir, terminaci\\u00f3n y tenido de pieles. Trimestrales\", \"id\": \"17.2_FPVTTP_1997_T_52\", \"scrapingIdentifierCell\": \"BD47\", \"scrapingDataStartCell\": \"BD48\", \"units\": \"\\u00cdndice 1997=100\", \"dataset_identifier\": \"17\", \"distribution_identifier\": \"17.2\"}, {\"title\": \"curtido_terminacion_cueros_fab_marroq_talaba_calzado\", \"type\": \"number\", \"description\": \"\\u00cdndice de Horas trabajadas (IHT). Curtido y terminaci\\u00f3n de cueros, fabricaci\\u00f3n de articulos de marroquiner\\u00eda, talabarteria y calzado. Trimestrales\", \"id\": \"17.2_CTCFAMTCSP_1997_T_52\", \"scrapingIdentifierCell\": \"BE47\", \"scrapingDataStartCell\": \"BE48\", \"units\": \"\\u00cdndice 1997=100\", \"dataset_identifier\": \"17\", \"distribution_identifier\": \"17.2\"}, {\"title\": \"fabricacion_prod_madera_corcho_no_muebles_art_trenzables\", \"type\": \"number\", \"description\": \"\\u00cdndice de Horas trabajadas (IHT). Producci\\u00f3n y fabricaci\\u00f3n de productos de madera y corcho expto muebles y articulos de materiales trenzables. Trimestrales\", \"id\": \"17.2_PMFPMCEMFAPMT_1997_T_56\", \"scrapingIdentifierCell\": \"BF47\", \"scrapingDataStartCell\": \"BF48\", \"units\": \"\\u00cdndice 1997=100\", \"dataset_identifier\": \"17\", \"distribution_identifier\": \"17.2\"}, {\"title\": \"fabricacion_papel_productos_papel\", \"type\": \"number\", \"description\": \"\\u00cdndice de Horas trabajadas (IHT). Fabricaci\\u00f3n de papel y productos de papel. Trimestrales\", \"id\": \"17.2_FPPP_1997_T_33\", \"scrapingIdentifierCell\": \"BG47\", \"scrapingDataStartCell\": \"BG48\", \"units\": \"\\u00cdndice 1997=100\", \"dataset_identifier\": \"17\", \"distribution_identifier\": \"17.2\"}, {\"title\": \"edicion_impresion_reproduccion_grabaciones\", \"type\": \"number\", \"description\": \"\\u00cdndice de Horas trabajadas (IHT). Edici\\u00f3n e impresi\\u00f3n, reproducci\\u00f3n y gravaciones. Trimestrales\", \"id\": \"17.2_EIRG_1997_T_42\", \"scrapingIdentifierCell\": \"BH47\", \"scrapingDataStartCell\": \"BH48\", \"units\": \"\\u00cdndice 1997=100\", \"dataset_identifier\": \"17\", \"distribution_identifier\": \"17.2\"}, {\"title\": \"ab_coque_prod_refinacion_petroleo_combustible_nuclear\", \"type\": \"number\", \"description\": \"\\u00cdndice de Horas trabajadas (IHT). Fabricaci\\u00f3n de coque, productos de la refinaci\\u00f3n del petroleo, combustibles y productos nucleares. Trimestrales\", \"id\": \"17.2_FCPRPCN_1997_T_53\", \"scrapingIdentifierCell\": \"BI47\", \"scrapingDataStartCell\": \"BI48\", \"units\": \"\\u00cdndice 1997=100\", \"dataset_identifier\": \"17\", \"distribution_identifier\": \"17.2\"}, {\"title\": \"fabricacion_sustancias_productos_quimicos\", \"type\": \"number\", \"description\": \"\\u00cdndice de Horas trabajadas (IHT). Fabricaci\\u00f3n sustencias y productos qu\\u00edmicos. Trimestrales\", \"id\": \"17.2_FSPQ_1997_T_41\", \"scrapingIdentifierCell\": \"BJ47\", \"scrapingDataStartCell\": \"BJ48\", \"units\": \"\\u00cdndice 1997=100\", \"dataset_identifier\": \"17\", \"distribution_identifier\": \"17.2\"}, {\"title\": \"fabricacion_productos_caucho_plastico\", \"type\": \"number\", \"description\": \"\\u00cdndice de Horas trabajadas (IHT). Fabricaci\\u00f3n de productos de caucho. Trimestrales\", \"id\": \"17.2_FPCP_1997_T_37\", \"scrapingIdentifierCell\": \"BK47\", \"scrapingDataStartCell\": \"BK48\", \"units\": \"\\u00cdndice 1997=100\", \"dataset_identifier\": \"17\", \"distribution_identifier\": \"17.2\"}, {\"title\": \"fabricacion_productos_minerales_no_metalicos\", \"type\": \"number\", \"description\": \"\\u00cdndice de Horas trabajadas (IHT). Fabricaci\\u00f3n de productos minerales no met\\u00e1licos. Trimestrales\", \"id\": \"17.2_FPMNM_1997_T_44\", \"scrapingIdentifierCell\": \"BL47\", \"scrapingDataStartCell\": \"BL48\", \"units\": \"\\u00cdndice 1997=100\", \"dataset_identifier\": \"17\", \"distribution_identifier\": \"17.2\"}, {\"title\": \"fabricacion_metales_comunes\", \"type\": \"number\", \"description\": \"\\u00cdndice de Horas trabajadas (IHT). Fabricaci\\u00f3n de metales comunes. Trimestrales\", \"id\": \"17.2_FMC_1997_T_27\", \"scrapingIdentifierCell\": \"BM47\", \"scrapingDataStartCell\": \"BM48\", \"units\": \"\\u00cdndice 1997=100\", \"dataset_identifier\": \"17\", \"distribution_identifier\": \"17.2\"}, {\"title\": \"fabricacion_productos_elaborados_metal_excepto_maquinaria\", \"type\": \"number\", \"description\": \"\\u00cdndice de Horas trabajadas (IHT). Fabricaci\\u00f3n productos elaborados de metal expto maquinaria y equipos. Trimestrales\", \"id\": \"17.2_FPEMEME_1997_T_57\", \"scrapingIdentifierCell\": \"BN47\", \"scrapingDataStartCell\": \"BN48\", \"units\": \"\\u00cdndice 1997=100\", \"dataset_identifier\": \"17\", \"distribution_identifier\": \"17.2\"}, {\"title\": \"fabricacion_maquinaria_equipos\", \"type\": \"number\", \"description\": \"\\u00cdndice de Horas trabajadas (IHT). Fabricaci\\u00f3n maquinaria y equipos. Trimestrales\", \"id\": \"17.2_FME_1997_T_30\", \"scrapingIdentifierCell\": \"BO47\", \"scrapingDataStartCell\": \"BO48\", \"units\": \"\\u00cdndice 1997=100\", \"dataset_identifier\": \"17\", \"distribution_identifier\": \"17.2\"}, {\"title\": \"fabricacion_maquinaria_oficina_contabilidad_informatica\", \"type\": \"number\", \"description\": \"\\u00cdndice de Horas trabajadas (IHT). Fabricaci\\u00f3n maquinaria y equipos de oficina. Trimestrales\", \"id\": \"17.2_FMOCI_1997_T_55\", \"scrapingIdentifierCell\": \"BP47\", \"scrapingDataStartCell\": \"BP48\", \"units\": \"\\u00cdndice 1997=100\", \"dataset_identifier\": \"17\", \"distribution_identifier\": \"17.2\"}, {\"title\": \"fabricacion_maquinaria_aparatos_electronicos\", \"type\": \"number\", \"description\": \"\\u00cdndice de Horas trabajadas (IHT). Fabricaci\\u00f3n maquinaria y aparatos electronicos. Trimestrales\", \"id\": \"17.2_FMAE_1997_T_44\", \"scrapingIdentifierCell\": \"BQ47\", \"scrapingDataStartCell\": \"BQ48\", \"units\": \"\\u00cdndice 1997=100\", \"dataset_identifier\": \"17\", \"distribution_identifier\": \"17.2\"}, {\"title\": \"fabricacion_equipos_aparatos_radio_television_comunicaciones\", \"type\": \"number\", \"description\": \"\\u00cdndice de Horas trabajadas (IHT). Fabricaci\\u00f3n equipos y aparatos (radios, televisi\\u00f3n y equipos de comunicaci\\u00f3n). Trimestrales\", \"id\": \"17.2_FEARTC_1997_T_60\", \"scrapingIdentifierCell\": \"BR47\", \"scrapingDataStartCell\": \"BR48\", \"units\": \"\\u00cdndice 1997=100\", \"dataset_identifier\": \"17\", \"distribution_identifier\": \"17.2\"}, {\"title\": \"fabricacion_instrumentos_medicos_opticos_precision_relojes\", \"type\": \"number\", \"description\": \"\\u00cdndice de Horas trabajadas (IHT). Fabricaci\\u00f3n instrumentos m\\u00e9dicos, opticos, de presici\\u00f3n y relojes. Trimestrales\", \"id\": \"17.2_FIMOPR_1997_T_58\", \"scrapingIdentifierCell\": \"BS47\", \"scrapingDataStartCell\": \"BS48\", \"units\": \"\\u00cdndice 1997=100\", \"dataset_identifier\": \"17\", \"distribution_identifier\": \"17.2\"}, {\"title\": \"fabricacion_vehiculos_automotores_remolques_semirremolques\", \"type\": \"number\", \"description\": \"\\u00cdndice de Horas trabajadas (IHT). Fabricaci\\u00f3n veh\\u00edculos automotores, remolques y semirremolques. Trimestrales\", \"id\": \"17.2_FVARS_1997_T_58\", \"scrapingIdentifierCell\": \"BT47\", \"scrapingDataStartCell\": \"BT48\", \"units\": \"\\u00cdndice 1997=100\", \"dataset_identifier\": \"17\", \"distribution_identifier\": \"17.2\"}, {\"title\": \"fabricacion_equipo_transporte\", \"type\": \"number\", \"description\": \"\\u00cdndice de Horas trabajadas (IHT). Fabricaci\\u00f3n de equipos de transporte. Trimestrales\", \"id\": \"17.2_FET_1997_T_29\", \"scrapingIdentifierCell\": \"BU47\", \"scrapingDataStartCell\": \"BU48\", \"units\": \"\\u00cdndice 1997=100\", \"dataset_identifier\": \"17\", \"distribution_identifier\": \"17.2\"}, {\"title\": \"fabricacion_muebles_colchones_industrias_manufactureras\", \"type\": \"number\", \"description\": \"\\u00cdndice de Horas trabajadas (IHT). Fabricaci\\u00f3n de muebles, colchones (industria manufacturera). Trimestrales\", \"id\": \"17.2_FMCIM_1997_T_55\", \"scrapingIdentifierCell\": \"BV47\", \"scrapingDataStartCell\": \"BV48\", \"units\": \"\\u00cdndice 1997=100\", \"dataset_identifier\": \"17\", \"distribution_identifier\": \"17.2\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-09-28T00:00:00",
+      "datastore_active": false,
+      "description": "Índices de Horas trabajadas (IHT). Valores trimestrales.. Encuesta Industrial Base 1997.",
+      "fileName": "encuesta-industrial-indices-horas-trabajadas-valores-trimestrales-base-1997.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "sspm_17.2",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Índices de Horas trabajadas (IHT). Valores trimestrales.",
+      "package_id": "sspm_17",
+      "position": 1,
+      "resource_type": null,
+      "revision_id": "0ac51aea-46ef-4fc3-b3e9-ca8e588ec751",
+      "size": null,
+      "state": "active",
+      "url": "https://infra.datos.gob.ar/catalog/sspm/dataset/17/distribution/17.2/download/encuesta-industrial-indices-horas-trabajadas-valores-trimestrales-base-1997.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "0ac51aea-46ef-4fc3-b3e9-ca8e588ec751",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "Actividad",
+      "id": "a7695c51-c893-4ece-8ff9-306c197afdd7",
+      "name": "Actividad",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Empleo e Ingresos",
+      "id": "0d41bcfd-c3a4-4ff7-8aa1-dd5c3ac51d0b",
+      "name": "Empleo e Ingresos",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Información Económica al Día",
+      "id": "0d300a9a-0802-46c3-9a40-2f28ddf050ec",
+      "name": "Información Económica al Día",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Índices de Horas trabajadas (IHT)",
+  "type": "dataset",
+  "url": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/",
+  "version": null
+}

@@ -1,0 +1,174 @@
+{
+  "author": "Subsecretaría de Programación Macroeconómica",
+  "author_email": "datoseconomicos@mecon.gov.ar",
+  "creator_user_id": "4720e75a-9e17-4dc3-879d-041917c7f9f9",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P1M"
+    },
+    {
+      "key": "issued",
+      "value": "2018-01-14"
+    },
+    {
+      "key": "language",
+      "value": "[\"SPA\"]"
+    },
+    {
+      "key": "source",
+      "value": "CIF - UTDT"
+    },
+    {
+      "key": "spatial",
+      "value": "ARG"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"ECON\"]"
+    },
+    {
+      "key": "temporal",
+      "value": "1998-07-01/2018-01-01"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Economía y finanzas",
+      "display_name": "Economía y finanzas",
+      "id": "60b4b03e-10a1-4d67-b984-08008a249617",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225257.200233economia-finanzas.svg",
+      "name": "econ",
+      "title": "Economía y finanzas"
+    }
+  ],
+  "id": "sspm_380",
+  "isopen": true,
+  "license_id": "CC-BY-4.0",
+  "license_title": "Creative Commons Attribution 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "maintainer": "Subsecretaría de Programación Macroeconómica.",
+  "maintainer_email": "datoseconomicos@mecon.gov.ar",
+  "metadata_created": "2019-11-26T15:06:11.587185",
+  "metadata_modified": "2021-04-29T21:05:51.738650",
+  "name": "sspm-indice-confianza-consumidor",
+  "notes": "Índice de Confianza del Consumidor - ICC en índice",
+  "num_resources": 3,
+  "num_tags": 2,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:09.718132",
+    "description": "",
+    "id": "68f9ee22-5ec3-44cf-a32b-b87d9db46b93",
+    "image_url": "",
+    "is_organization": true,
+    "name": "sspm",
+    "revision_id": "bc058ce0-3540-4204-96cd-9f9ec79045b3",
+    "state": "active",
+    "title": "Subsecretaría de Programación Macroeconómica",
+    "type": "organization"
+  },
+  "owner_org": "68f9ee22-5ec3-44cf-a32b-b87d9db46b93",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/",
+      "attributesDescription": "[{\"title\": \"indice_tiempo\", \"type\": \"date\", \"specialType\": \"time_index\", \"specialTypeDetail\": \"R/P1Y\", \"id\": \"380.1_INDICE_TIEMPO_0_A_13\", \"scrapingIdentifierCell\": \"A8\", \"scrapingDataStartCell\": \"A9\", \"dataset_identifier\": \"380\", \"distribution_identifier\": \"380.1\"}, {\"title\": \"icc_nacional\", \"type\": \"number\", \"description\": \"ICC Nacional\", \"id\": \"380.1_ICC_NACIONNAL_0_A_12\", \"scrapingIdentifierCell\": \"B8\", \"scrapingDataStartCell\": \"B9\", \"units\": \"Indice\", \"dataset_identifier\": \"380\", \"distribution_identifier\": \"380.1\"}, {\"title\": \"desagregacion_regiones_capital\", \"type\": \"number\", \"description\": \"ICC: Desagregacion por regiones Capital\", \"id\": \"380.1_DESAGREGACTAL_0_A_30\", \"scrapingIdentifierCell\": \"D8\", \"scrapingDataStartCell\": \"D9\", \"units\": \"Indice\", \"dataset_identifier\": \"380\", \"distribution_identifier\": \"380.1\"}, {\"title\": \"desagregacion_regiones_interior\", \"type\": \"number\", \"description\": \"ICC: Desagregacion por regiones Interior\", \"id\": \"380.1_DESAGREGACIOR_0_A_31\", \"scrapingIdentifierCell\": \"E8\", \"scrapingDataStartCell\": \"E9\", \"units\": \"Indice\", \"dataset_identifier\": \"380\", \"distribution_identifier\": \"380.1\"}, {\"title\": \"desagregacion_regiones_gba\", \"type\": \"number\", \"description\": \"ICC: Desagregacion por regiones GBA\", \"id\": \"380.1_DESAGREGACGBA_0_A_26\", \"scrapingIdentifierCell\": \"F8\", \"scrapingDataStartCell\": \"F9\", \"units\": \"Indice\", \"dataset_identifier\": \"380\", \"distribution_identifier\": \"380.1\"}, {\"title\": \"desagregacion_subindices_situacion_personal\", \"type\": \"number\", \"description\": \"ICC: Desagregacion por subindices situacion personal\", \"id\": \"380.1_DESAGREGACNAL_0_A_43\", \"scrapingIdentifierCell\": \"H8\", \"scrapingDataStartCell\": \"H9\", \"units\": \"Indice\", \"dataset_identifier\": \"380\", \"distribution_identifier\": \"380.1\"}, {\"title\": \"desagregacion_subindices_situacion_macro\", \"type\": \"number\", \"description\": \"ICC: Desagregacion por subindices situacion macro\", \"id\": \"380.1_DESAGREGACCRO_0_A_40\", \"scrapingIdentifierCell\": \"I8\", \"scrapingDataStartCell\": \"I9\", \"units\": \"Indice\", \"dataset_identifier\": \"380\", \"distribution_identifier\": \"380.1\"}, {\"title\": \"desagregacion_subindices_bienes_durables_inmuebles\", \"type\": \"number\", \"description\": \"ICC: Desagregacion por subindices bienes durables e inmuebles\", \"id\": \"380.1_DESAGREGACLES_0_A_50\", \"scrapingIdentifierCell\": \"J8\", \"scrapingDataStartCell\": \"J9\", \"units\": \"Indice\", \"dataset_identifier\": \"380\", \"distribution_identifier\": \"380.1\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2018-01-14T00:00:00",
+      "datastore_active": false,
+      "description": "Índice de Confianza del Consumidor. Serie Anual",
+      "fileName": "indice-confianza-consumidor-valores-anuales.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "sspm_380.1",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Índice de Confianza del Consumidor. Serie Anual",
+      "package_id": "sspm_380",
+      "position": 0,
+      "resource_type": null,
+      "revision_id": "b6b595bc-f5a8-4d44-9b39-c0325168031f",
+      "size": null,
+      "state": "active",
+      "url": "https://infra.datos.gob.ar/catalog/sspm/dataset/380/distribution/380.1/download/indice-confianza-consumidor-valores-anuales.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/",
+      "attributesDescription": "[{\"title\": \"indice_tiempo\", \"type\": \"date\", \"specialType\": \"time_index\", \"specialTypeDetail\": \"R/P3M\", \"id\": \"380.2_INDICE_TIEMPO_0_T_13\", \"scrapingIdentifierCell\": \"A42\", \"scrapingDataStartCell\": \"A43\", \"dataset_identifier\": \"380\", \"distribution_identifier\": \"380.2\"}, {\"title\": \"icc_nacional\", \"type\": \"number\", \"description\": \"ICC Nacional\", \"id\": \"380.2_ICC_NACIONNAL_0_T_12\", \"scrapingIdentifierCell\": \"B42\", \"scrapingDataStartCell\": \"B43\", \"units\": \"Indice\", \"dataset_identifier\": \"380\", \"distribution_identifier\": \"380.2\"}, {\"title\": \"desagregacion_regiones_capital\", \"type\": \"number\", \"description\": \"ICC: Desagregacion por regiones Capital\", \"id\": \"380.2_DESAGREGACTAL_0_T_30\", \"scrapingIdentifierCell\": \"D42\", \"scrapingDataStartCell\": \"D43\", \"units\": \"Indice\", \"dataset_identifier\": \"380\", \"distribution_identifier\": \"380.2\"}, {\"title\": \"desagregacion_regiones_interior\", \"type\": \"number\", \"description\": \"ICC: Desagregacion por regiones Interior\", \"id\": \"380.2_DESAGREGACIOR_0_T_31\", \"scrapingIdentifierCell\": \"E42\", \"scrapingDataStartCell\": \"E43\", \"units\": \"Indice\", \"dataset_identifier\": \"380\", \"distribution_identifier\": \"380.2\"}, {\"title\": \"desagregacion_regiones_gba\", \"type\": \"number\", \"description\": \"ICC: Desagregacion por regiones GBA\", \"id\": \"380.2_DESAGREGACGBA_0_T_26\", \"scrapingIdentifierCell\": \"F42\", \"scrapingDataStartCell\": \"F43\", \"units\": \"Indice\", \"dataset_identifier\": \"380\", \"distribution_identifier\": \"380.2\"}, {\"title\": \"desagregacion_subindices_situacion_personal\", \"type\": \"number\", \"description\": \"ICC: Desagregacion por subindices situacion personal\", \"id\": \"380.2_DESAGREGACNAL_0_T_43\", \"scrapingIdentifierCell\": \"H42\", \"scrapingDataStartCell\": \"H43\", \"units\": \"Indice\", \"dataset_identifier\": \"380\", \"distribution_identifier\": \"380.2\"}, {\"title\": \"desagregacion_subindices_situacion_macro\", \"type\": \"number\", \"description\": \"ICC: Desagregacion por subindices situacion macro\", \"id\": \"380.2_DESAGREGACCRO_0_T_40\", \"scrapingIdentifierCell\": \"I42\", \"scrapingDataStartCell\": \"I43\", \"units\": \"Indice\", \"dataset_identifier\": \"380\", \"distribution_identifier\": \"380.2\"}, {\"title\": \"desagregacion_subindices_bienes_durables_inmuebles\", \"type\": \"number\", \"description\": \"ICC: Desagregacion por subindices bienes durables e inmuebles\", \"id\": \"380.2_DESAGREGACLES_0_T_50\", \"scrapingIdentifierCell\": \"J42\", \"scrapingDataStartCell\": \"J43\", \"units\": \"Indice\", \"dataset_identifier\": \"380\", \"distribution_identifier\": \"380.2\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2018-01-14T00:00:00",
+      "datastore_active": false,
+      "description": "Índice de Confianza del Consumidor. Serie Trimestral",
+      "fileName": "indice-confianza-consumidor-valores-trimestrales.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "sspm_380.2",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Índice de Confianza del Consumidor. Serie Trimestral",
+      "package_id": "sspm_380",
+      "position": 1,
+      "resource_type": null,
+      "revision_id": "b6b595bc-f5a8-4d44-9b39-c0325168031f",
+      "size": null,
+      "state": "active",
+      "url": "https://infra.datos.gob.ar/catalog/sspm/dataset/380/distribution/380.2/download/indice-confianza-consumidor-valores-trimestrales.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/",
+      "attributesDescription": "[{\"title\": \"indice_tiempo\", \"type\": \"date\", \"specialType\": \"time_index\", \"specialTypeDetail\": \"R/P1M\", \"id\": \"380.3_INDICE_TIEMPO_0_T_13\", \"scrapingIdentifierCell\": \"A184\", \"scrapingDataStartCell\": \"A185\", \"dataset_identifier\": \"380\", \"distribution_identifier\": \"380.3\"}, {\"title\": \"icc_nacional\", \"type\": \"number\", \"description\": \"ICC Nacional\", \"id\": \"380.3_ICC_NACIONNAL_0_T_12\", \"scrapingIdentifierCell\": \"B184\", \"scrapingDataStartCell\": \"B185\", \"units\": \"Indice\", \"dataset_identifier\": \"380\", \"distribution_identifier\": \"380.3\"}, {\"title\": \"desagregacion_regiones_capital\", \"type\": \"number\", \"description\": \"ICC: Desagregacion por regiones Capital\", \"id\": \"380.3_DESAGREGACTAL_0_T_30\", \"scrapingIdentifierCell\": \"D184\", \"scrapingDataStartCell\": \"D185\", \"units\": \"Indice\", \"dataset_identifier\": \"380\", \"distribution_identifier\": \"380.3\"}, {\"title\": \"desagregacion_regiones_interior\", \"type\": \"number\", \"description\": \"ICC: Desagregacion por regiones Interior\", \"id\": \"380.3_DESAGREGACIOR_0_T_31\", \"scrapingIdentifierCell\": \"E184\", \"scrapingDataStartCell\": \"E185\", \"units\": \"Indice\", \"dataset_identifier\": \"380\", \"distribution_identifier\": \"380.3\"}, {\"title\": \"desagregacion_regiones_gba\", \"type\": \"number\", \"description\": \"ICC: Desagregacion por regiones GBA\", \"id\": \"380.3_DESAGREGACGBA_0_T_26\", \"scrapingIdentifierCell\": \"F184\", \"scrapingDataStartCell\": \"F185\", \"units\": \"Indice\", \"dataset_identifier\": \"380\", \"distribution_identifier\": \"380.3\"}, {\"title\": \"desagregacion_subindices_situacion_personal\", \"type\": \"number\", \"description\": \"ICC: Desagregacion por subindices situacion personal\", \"id\": \"380.3_DESAGREGACNAL_0_T_43\", \"scrapingIdentifierCell\": \"H184\", \"scrapingDataStartCell\": \"H185\", \"units\": \"Indice\", \"dataset_identifier\": \"380\", \"distribution_identifier\": \"380.3\"}, {\"title\": \"desagregacion_subindices_situacion_macro\", \"type\": \"number\", \"description\": \"ICC: Desagregacion por subindices situacion macro\", \"id\": \"380.3_DESAGREGACCRO_0_T_40\", \"scrapingIdentifierCell\": \"I184\", \"scrapingDataStartCell\": \"I185\", \"units\": \"Indice\", \"dataset_identifier\": \"380\", \"distribution_identifier\": \"380.3\"}, {\"title\": \"desagregacion_subindices_bienes_durables_inmuebles\", \"type\": \"number\", \"description\": \"ICC: Desagregacion por subindices bienes durables e inmuebles\", \"id\": \"380.3_DESAGREGACLES_0_T_50\", \"scrapingIdentifierCell\": \"J184\", \"scrapingDataStartCell\": \"J185\", \"units\": \"Indice\", \"dataset_identifier\": \"380\", \"distribution_identifier\": \"380.3\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2018-01-14T00:00:00",
+      "datastore_active": false,
+      "description": "Índice de Confianza del Consumidor. Serie Mensual.",
+      "fileName": "indice-confianza-consumidor-valores-mensuales.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "sspm_380.3",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Índice de Confianza del Consumidor. Serie Mensual.",
+      "package_id": "sspm_380",
+      "position": 2,
+      "resource_type": null,
+      "revision_id": "b6b595bc-f5a8-4d44-9b39-c0325168031f",
+      "size": null,
+      "state": "active",
+      "url": "https://infra.datos.gob.ar/catalog/sspm/dataset/380/distribution/380.3/download/indice-confianza-consumidor-valores-mensuales.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "b6b595bc-f5a8-4d44-9b39-c0325168031f",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "Actividad",
+      "id": "a7695c51-c893-4ece-8ff9-306c197afdd7",
+      "name": "Actividad",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Información Económica al Día",
+      "id": "0d300a9a-0802-46c3-9a40-2f28ddf050ec",
+      "name": "Información Económica al Día",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Índice de Confianza del Consumidor",
+  "type": "dataset",
+  "url": "http://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/",
+  "version": null
+}

@@ -1,0 +1,149 @@
+{
+  "author": "Subsecretaría de Programación Macroeconómica",
+  "author_email": "datoseconomicos@mecon.gov.ar",
+  "creator_user_id": "4720e75a-9e17-4dc3-879d-041917c7f9f9",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P3M"
+    },
+    {
+      "key": "issued",
+      "value": "2017-09-28"
+    },
+    {
+      "key": "language",
+      "value": "[\"SPA\"]"
+    },
+    {
+      "key": "source",
+      "value": "Instituto Nacional de Estadística y Censos (INDEC)"
+    },
+    {
+      "key": "spatial",
+      "value": "ARG"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"ECON\"]"
+    },
+    {
+      "key": "temporal",
+      "value": "1993-01-01/2013-09-01"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Economía y finanzas",
+      "display_name": "Economía y finanzas",
+      "id": "60b4b03e-10a1-4d67-b984-08008a249617",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225257.200233economia-finanzas.svg",
+      "name": "econ",
+      "title": "Economía y finanzas"
+    }
+  ],
+  "id": "sspm_7",
+  "isopen": true,
+  "license_id": "CC-BY-4.0",
+  "license_title": "Creative Commons Attribution 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "maintainer": "Subsecretaría de Programación Macroeconómica.",
+  "maintainer_email": "datoseconomicos@mecon.gov.ar",
+  "metadata_created": "2019-11-26T15:04:24.418024",
+  "metadata_modified": "2021-04-29T21:05:59.923915",
+  "name": "sspm-producto-interno-bruto-precios-mercado-precios-corrientes-base-1993",
+  "notes": "Valor agregado bruto sectorial a precios de productor en pesos corrientes de 1993",
+  "num_resources": 2,
+  "num_tags": 2,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:09.718132",
+    "description": "",
+    "id": "68f9ee22-5ec3-44cf-a32b-b87d9db46b93",
+    "image_url": "",
+    "is_organization": true,
+    "name": "sspm",
+    "revision_id": "bc058ce0-3540-4204-96cd-9f9ec79045b3",
+    "state": "active",
+    "title": "Subsecretaría de Programación Macroeconómica",
+    "type": "organization"
+  },
+  "owner_org": "68f9ee22-5ec3-44cf-a32b-b87d9db46b93",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/",
+      "attributesDescription": "[{\"title\": \"indice_tiempo\", \"type\": \"date\", \"specialType\": \"time_index\", \"specialTypeDetail\": \"R/P1Y\", \"id\": \"7.1_IT_1993_A_13\", \"scrapingIdentifierCell\": \"A7\", \"scrapingDataStartCell\": \"B8\", \"dataset_identifier\": \"7\", \"distribution_identifier\": \"7.1\"}, {\"title\": \"agricultura_ganaderia_caza_silvicultura\", \"type\": \"number\", \"description\": \"Valor agregado bruto anual a precios de productor, de agricultura ganaderia caza y silvicultura en pesos corrientes\", \"id\": \"7.1_AGCS_1993_A_39\", \"scrapingIdentifierCell\": \"B7\", \"scrapingDataStartCell\": \"B8\", \"units\": \"Millones de pesos\", \"dataset_identifier\": \"7\", \"distribution_identifier\": \"7.1\"}, {\"title\": \"pesca\", \"type\": \"number\", \"description\": \"Valor agregado bruto anual a precios de productor de pesca en pesos corrientes\", \"id\": \"7.1_P_1993_A_5\", \"scrapingIdentifierCell\": \"C7\", \"scrapingDataStartCell\": \"C8\", \"units\": \"Millones de pesos\", \"dataset_identifier\": \"7\", \"distribution_identifier\": \"7.1\"}, {\"title\": \"explotacion_minas_canteras\", \"type\": \"number\", \"description\": \"Valor agregado bruto anual a precios de productor de explotaci\\u00f3n de minas y canteras en pesos corrientes\", \"id\": \"7.1_EMC_1993_A_26\", \"scrapingIdentifierCell\": \"D7\", \"scrapingDataStartCell\": \"D8\", \"units\": \"Millones de pesos\", \"dataset_identifier\": \"7\", \"distribution_identifier\": \"7.1\"}, {\"title\": \"industria_manufacturera\", \"type\": \"number\", \"description\": \"Valor agregado bruto anual a precios de productor de industria manufacturera en pesos corrientes\", \"id\": \"7.1_IM_1993_A_23\", \"scrapingIdentifierCell\": \"E7\", \"scrapingDataStartCell\": \"E8\", \"units\": \"Millones de pesos\", \"dataset_identifier\": \"7\", \"distribution_identifier\": \"7.1\"}, {\"title\": \"suministro_electricidad_gas_agua\", \"type\": \"number\", \"description\": \"Valor agregado bruto anual a precios de productor de suministro de electricidad gas y agua en pesos corrientes\", \"id\": \"7.1_SEGA_1993_A_32\", \"scrapingIdentifierCell\": \"F7\", \"scrapingDataStartCell\": \"F8\", \"units\": \"Millones de pesos\", \"dataset_identifier\": \"7\", \"distribution_identifier\": \"7.1\"}, {\"title\": \"construccion\", \"type\": \"number\", \"description\": \"Valor agregado bruto anual a precios de productor de construcci\\u00f3n en pesos corrientes\", \"id\": \"7.1_C_1993_A_12\", \"scrapingIdentifierCell\": \"G7\", \"scrapingDataStartCell\": \"G8\", \"units\": \"Millones de pesos\", \"dataset_identifier\": \"7\", \"distribution_identifier\": \"7.1\"}, {\"title\": \"sectores_productores_bienes\", \"type\": \"number\", \"description\": \"Valor agregado bruto anual a precios de productor de sectores productores de bienes en pesos corrientes\", \"id\": \"7.1_SPB_1993_A_27\", \"scrapingIdentifierCell\": \"H7\", \"scrapingDataStartCell\": \"H8\", \"units\": \"Millones de pesos\", \"dataset_identifier\": \"7\", \"distribution_identifier\": \"7.1\"}, {\"title\": \"comercio_mayorista_minorista_reparaciones\", \"type\": \"number\", \"description\": \"Valor agregado bruto anual a precios de productor de comercio mayorista y minorista y reparaciones en pesos corrientes\", \"id\": \"7.1_CMMR_1993_A_41\", \"scrapingIdentifierCell\": \"I7\", \"scrapingDataStartCell\": \"I8\", \"units\": \"Millones de pesos\", \"dataset_identifier\": \"7\", \"distribution_identifier\": \"7.1\"}, {\"title\": \"hoteles_restaurantes\", \"type\": \"number\", \"description\": \"Valor agregado bruto anual a precios de productor de hoteles y restaurantes en pesos corrientes\", \"id\": \"7.1_HR_1993_A_20\", \"scrapingIdentifierCell\": \"J7\", \"scrapingDataStartCell\": \"J8\", \"units\": \"Millones de pesos\", \"dataset_identifier\": \"7\", \"distribution_identifier\": \"7.1\"}, {\"title\": \"transporte_almacenamiento_comunicaciones\", \"type\": \"number\", \"description\": \"Valor agregado bruto anual a precios de productor de transporte almacenamiento y comunicaciones en pesos corrientes\", \"id\": \"7.1_TAC_1993_A_40\", \"scrapingIdentifierCell\": \"K7\", \"scrapingDataStartCell\": \"K8\", \"units\": \"Millones de pesos\", \"dataset_identifier\": \"7\", \"distribution_identifier\": \"7.1\"}, {\"title\": \"intermediacion_financiera\", \"type\": \"number\", \"description\": \"Valor agregado bruto anual a precios de productor de intermediaci\\u00f3n financiera en pesos corrientes\", \"id\": \"7.1_IF_1993_A_25\", \"scrapingIdentifierCell\": \"L7\", \"scrapingDataStartCell\": \"L8\", \"units\": \"Millones de pesos\", \"dataset_identifier\": \"7\", \"distribution_identifier\": \"7.1\"}, {\"title\": \"actividades_inmobiliarias_empresariales_alquiler\", \"type\": \"number\", \"description\": \"Valor agregado bruto anual a precios de productor de actividades inmobiliarias empresariales y de alquiler en pesos corrientes\", \"id\": \"7.1_AIEA_1993_A_48\", \"scrapingIdentifierCell\": \"M7\", \"scrapingDataStartCell\": \"M8\", \"units\": \"Millones de pesos\", \"dataset_identifier\": \"7\", \"distribution_identifier\": \"7.1\"}, {\"title\": \"administracion_publica_defensa\", \"type\": \"number\", \"description\": \"Valor agregado bruto anual a precios de productor de administraci\\u00f3n p\\u00fablica y defensa en pesos corrientes\", \"id\": \"7.1_APD_1993_A_30\", \"scrapingIdentifierCell\": \"N7\", \"scrapingDataStartCell\": \"N8\", \"units\": \"Millones de pesos\", \"dataset_identifier\": \"7\", \"distribution_identifier\": \"7.1\"}, {\"title\": \"ensenianza_servicios_sociales_salud\", \"type\": \"number\", \"description\": \"Valor agregado bruto anual a precios de productor de ense\\u00f1anza servicios sociales y salud en pesos corrientes\", \"id\": \"7.1_ESSS_1993_A_35\", \"scrapingIdentifierCell\": \"O7\", \"scrapingDataStartCell\": \"O8\", \"units\": \"Millones de pesos\", \"dataset_identifier\": \"7\", \"distribution_identifier\": \"7.1\"}, {\"title\": \"otras_actividades_servicios_soc_personales_domestico\", \"type\": \"number\", \"description\": \"Valor agregado bruto anual a precios de productor de otras actividades de servicios comunitarias sociales personales y servicio dom\\u00e9stico en pesos corrientes\", \"id\": \"7.1_OASCSPSD_1993_A_52\", \"scrapingIdentifierCell\": \"P7\", \"scrapingDataStartCell\": \"P8\", \"units\": \"Millones de pesos\", \"dataset_identifier\": \"7\", \"distribution_identifier\": \"7.1\"}, {\"title\": \"sectores_productores_servicios\", \"type\": \"number\", \"description\": \"Valor agregado bruto anual a precios de productor de sectores productores de servicios en pesos corrientes\", \"id\": \"7.1_SPS_1993_A_30\", \"scrapingIdentifierCell\": \"Q7\", \"scrapingDataStartCell\": \"Q8\", \"units\": \"Millones de pesos\", \"dataset_identifier\": \"7\", \"distribution_identifier\": \"7.1\"}, {\"title\": \"servicios_intermediacion_financiera_medidos_indirectamente\", \"type\": \"number\", \"description\": \"Valor agregado bruto anual a precios de productor, de servicios de intermediacion financiera medidos indirectamente en pesos corrientes\", \"id\": \"7.1_SIFMI_1993_A_58\", \"scrapingIdentifierCell\": \"R7\", \"scrapingDataStartCell\": \"R8\", \"units\": \"Millones de pesos\", \"dataset_identifier\": \"7\", \"distribution_identifier\": \"7.1\"}, {\"title\": \"valor_agregado_bruto_precios_productor\", \"type\": \"number\", \"description\": \"Valor agregado bruto anual a precios de productor de valor agregado bruto a precios b\\u00e1sicos en pesos corrientes\", \"id\": \"7.1_VABPP_1993_A_38\", \"scrapingIdentifierCell\": \"S7\", \"scrapingDataStartCell\": \"S8\", \"units\": \"Millones de pesos\", \"dataset_identifier\": \"7\", \"distribution_identifier\": \"7.1\"}, {\"title\": \"impuesto_valor_agregado\", \"type\": \"number\", \"description\": \"Valor agregado bruto anual a precios de productor de impuesto al valor agregado en pesos corrientes\", \"id\": \"7.1_IVA_1993_A_23\", \"scrapingIdentifierCell\": \"T7\", \"scrapingDataStartCell\": \"T8\", \"units\": \"Millones de pesos\", \"dataset_identifier\": \"7\", \"distribution_identifier\": \"7.1\"}, {\"title\": \"impuesto_importaciones\", \"type\": \"number\", \"description\": \"Valor agregado bruto anual a precios de productor de impuesto a las importaciones en pesos corrientes\", \"id\": \"7.1_II_1993_A_22\", \"scrapingIdentifierCell\": \"U7\", \"scrapingDataStartCell\": \"U8\", \"units\": \"Millones de pesos\", \"dataset_identifier\": \"7\", \"distribution_identifier\": \"7.1\"}, {\"title\": \"producto_interno_bruto_precios_mercado\", \"type\": \"number\", \"description\": \"Valor agregado bruto anual a precios de productor de producto interno bruto a precios de mercado en pesos corrientes\", \"id\": \"7.1_PIBPM_1993_A_38\", \"scrapingIdentifierCell\": \"V7\", \"scrapingDataStartCell\": \"V8\", \"units\": \"Millones de pesos\", \"dataset_identifier\": \"7\", \"distribution_identifier\": \"7.1\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-09-28T00:00:00",
+      "datastore_active": false,
+      "description": "Producto Interno Bruto en millones de pesos de 1993: Valores anuales [Base 1993]",
+      "fileName": "producto-interno-bruto-precios-corrientes-valores-anuales-base-1993.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "sspm_7.1",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Producto Interno Bruto. Precios corrientes. Base 1993. Valores anuales.",
+      "package_id": "sspm_7",
+      "position": 0,
+      "resource_type": null,
+      "revision_id": "be4c7097-6132-4a22-ba50-760f0465585f",
+      "size": null,
+      "state": "active",
+      "url": "https://infra.datos.gob.ar/catalog/sspm/dataset/7/distribution/7.1/download/producto-interno-bruto-precios-corrientes-valores-anuales-base-1993.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/",
+      "attributesDescription": "[{\"title\": \"indice_tiempo\", \"type\": \"date\", \"specialType\": \"time_index\", \"specialTypeDetail\": \"R/P3M\", \"id\": \"7.2_IT_1993_T_13\", \"scrapingIdentifierCell\": \"A40\", \"scrapingDataStartCell\": \"A41\", \"dataset_identifier\": \"7\", \"distribution_identifier\": \"7.2\"}, {\"title\": \"agricultura_ganaderia_caza_silvicultura\", \"type\": \"number\", \"description\": \"Valor agregado bruto trimestral a precios de productor, de agricultura ganaderia caza y silvicultura en pesos corrientes\", \"id\": \"7.2_AGCS_1993_T_39\", \"scrapingIdentifierCell\": \"B40\", \"scrapingDataStartCell\": \"B41\", \"units\": \"Millones de pesos\", \"dataset_identifier\": \"7\", \"distribution_identifier\": \"7.2\"}, {\"title\": \"pesca\", \"type\": \"number\", \"description\": \"Valor agregado bruto trimestral a precios de productor de pesca en pesos corrientes\", \"id\": \"7.2_P_1993_T_5\", \"scrapingIdentifierCell\": \"C40\", \"scrapingDataStartCell\": \"C41\", \"units\": \"Millones de pesos\", \"dataset_identifier\": \"7\", \"distribution_identifier\": \"7.2\"}, {\"title\": \"explotacion_minas_canteras\", \"type\": \"number\", \"description\": \"Valor agregado bruto trimestral a precios de productor de explotaci\\u00f3n de minas y canteras en pesos corrientes\", \"id\": \"7.2_EMC_1993_T_26\", \"scrapingIdentifierCell\": \"D40\", \"scrapingDataStartCell\": \"D41\", \"units\": \"Millones de pesos\", \"dataset_identifier\": \"7\", \"distribution_identifier\": \"7.2\"}, {\"title\": \"industria_manufacturera\", \"type\": \"number\", \"description\": \"Valor agregado bruto trimestral a precios de productor de industria manufacturera en pesos corrientes\", \"id\": \"7.2_IM_1993_T_23\", \"scrapingIdentifierCell\": \"E40\", \"scrapingDataStartCell\": \"E41\", \"units\": \"Millones de pesos\", \"dataset_identifier\": \"7\", \"distribution_identifier\": \"7.2\"}, {\"title\": \"suministro_electricidad_gas_agua\", \"type\": \"number\", \"description\": \"Valor agregado bruto trimestral a precios de productor de suministro de electricidad gas y agua en pesos corrientes\", \"id\": \"7.2_SEGA_1993_T_32\", \"scrapingIdentifierCell\": \"F40\", \"scrapingDataStartCell\": \"F41\", \"units\": \"Millones de pesos\", \"dataset_identifier\": \"7\", \"distribution_identifier\": \"7.2\"}, {\"title\": \"construccion\", \"type\": \"number\", \"description\": \"Valor agregado bruto trimestral a precios de productor de construcci\\u00f3n en pesos corrientes\", \"id\": \"7.2_C_1993_T_12\", \"scrapingIdentifierCell\": \"G40\", \"scrapingDataStartCell\": \"G41\", \"units\": \"Millones de pesos\", \"dataset_identifier\": \"7\", \"distribution_identifier\": \"7.2\"}, {\"title\": \"sectores_productores_bienes\", \"type\": \"number\", \"description\": \"Valor agregado bruto trimestral a precios de productor de sectores productores de bienes en pesos corrientes\", \"id\": \"7.2_SPB_1993_T_27\", \"scrapingIdentifierCell\": \"H40\", \"scrapingDataStartCell\": \"H41\", \"units\": \"Millones de pesos\", \"dataset_identifier\": \"7\", \"distribution_identifier\": \"7.2\"}, {\"title\": \"comercio_mayorista_minorista_reparaciones\", \"type\": \"number\", \"description\": \"Valor agregado bruto trimestral a precios de productor de comercio mayorista y minorista y reparaciones en pesos corrientes\", \"id\": \"7.2_CMMR_1993_T_41\", \"scrapingIdentifierCell\": \"I40\", \"scrapingDataStartCell\": \"I41\", \"units\": \"Millones de pesos\", \"dataset_identifier\": \"7\", \"distribution_identifier\": \"7.2\"}, {\"title\": \"hoteles_restaurantes\", \"type\": \"number\", \"description\": \"Valor agregado bruto trimestral a precios de productor de hoteles y restaurantes en pesos corrientes\", \"id\": \"7.2_HR_1993_T_20\", \"scrapingIdentifierCell\": \"J40\", \"scrapingDataStartCell\": \"J41\", \"units\": \"Millones de pesos\", \"dataset_identifier\": \"7\", \"distribution_identifier\": \"7.2\"}, {\"title\": \"transporte_almacenamiento_comunicaciones\", \"type\": \"number\", \"description\": \"Valor agregado bruto trimestral a precios de productor de transporte almacenamiento y comunicaciones en pesos corrientes\", \"id\": \"7.2_TAC_1993_T_40\", \"scrapingIdentifierCell\": \"K40\", \"scrapingDataStartCell\": \"K41\", \"units\": \"Millones de pesos\", \"dataset_identifier\": \"7\", \"distribution_identifier\": \"7.2\"}, {\"title\": \"intermediacion_financiera\", \"type\": \"number\", \"description\": \"Valor agregado bruto trimestral a precios de productor de intermediaci\\u00f3n financiera en pesos corrientes\", \"id\": \"7.2_IF_1993_T_25\", \"scrapingIdentifierCell\": \"L40\", \"scrapingDataStartCell\": \"L41\", \"units\": \"Millones de pesos\", \"dataset_identifier\": \"7\", \"distribution_identifier\": \"7.2\"}, {\"title\": \"actividades_inmobiliarias_empresariales_alquiler\", \"type\": \"number\", \"description\": \"Valor agregado bruto trimestral a precios de productor de actividades inmobiliarias empresariales y de alquiler en pesos corrientes\", \"id\": \"7.2_AIEA_1993_T_48\", \"scrapingIdentifierCell\": \"M40\", \"scrapingDataStartCell\": \"M41\", \"units\": \"Millones de pesos\", \"dataset_identifier\": \"7\", \"distribution_identifier\": \"7.2\"}, {\"title\": \"administracion_publica_defensa\", \"type\": \"number\", \"description\": \"Valor agregado bruto trimestral a precios de productor de administraci\\u00f3n p\\u00fablica y defensa en pesos corrientes\", \"id\": \"7.2_APD_1993_T_30\", \"scrapingIdentifierCell\": \"N40\", \"scrapingDataStartCell\": \"N41\", \"units\": \"Millones de pesos\", \"dataset_identifier\": \"7\", \"distribution_identifier\": \"7.2\"}, {\"title\": \"ensenianza_servicios_sociales_salud\", \"type\": \"number\", \"description\": \"Valor agregado bruto trimestral a precios de productor de ense\\u00f1anza servicios sociales y salud en pesos corrientes\", \"id\": \"7.2_ESSS_1993_T_35\", \"scrapingIdentifierCell\": \"O40\", \"scrapingDataStartCell\": \"O41\", \"units\": \"Millones de pesos\", \"dataset_identifier\": \"7\", \"distribution_identifier\": \"7.2\"}, {\"title\": \"otras_actividades_servicios_soc_personales_domestico\", \"type\": \"number\", \"description\": \"Valor agregado bruto trimestral a precios de productor de otras actividades de servicios comunitarias sociales personales y servicio dom\\u00e9stico en pesos corrientes\", \"id\": \"7.2_OASCSPSD_1993_T_52\", \"scrapingIdentifierCell\": \"P40\", \"scrapingDataStartCell\": \"P41\", \"units\": \"Millones de pesos\", \"dataset_identifier\": \"7\", \"distribution_identifier\": \"7.2\"}, {\"title\": \"sectores_productores_servicios\", \"type\": \"number\", \"description\": \"Valor agregado bruto trimestral a precios de productor de sectores productores de servicios en pesos corrientes\", \"id\": \"7.2_SPS_1993_T_30\", \"scrapingIdentifierCell\": \"Q40\", \"scrapingDataStartCell\": \"Q41\", \"units\": \"Millones de pesos\", \"dataset_identifier\": \"7\", \"distribution_identifier\": \"7.2\"}, {\"title\": \"servicios_intermediacion_financiera_medidos_indirectamente\", \"type\": \"number\", \"description\": \"Valor agregado bruto trimestral a precios de productor, de servicios de intermediacion financiera medidos indirectamente en pesos corrientes\", \"id\": \"7.2_SIFMI_1993_T_58\", \"scrapingIdentifierCell\": \"R40\", \"scrapingDataStartCell\": \"R41\", \"units\": \"Millones de pesos\", \"dataset_identifier\": \"7\", \"distribution_identifier\": \"7.2\"}, {\"title\": \"valor_agregado_bruto_precios_productor\", \"type\": \"number\", \"description\": \"Valor agregado bruto trimestral a precios de productor de valor agregado bruto a precios b\\u00e1sicos en pesos corrientes\", \"id\": \"7.2_VABPP_1993_T_38\", \"scrapingIdentifierCell\": \"S40\", \"scrapingDataStartCell\": \"S41\", \"units\": \"Millones de pesos\", \"dataset_identifier\": \"7\", \"distribution_identifier\": \"7.2\"}, {\"title\": \"impuesto_valor_agregado\", \"type\": \"number\", \"description\": \"Valor agregado bruto trimestral a precios de productor de impuesto al valor agregado en pesos corrientes\", \"id\": \"7.2_IVA_1993_T_23\", \"scrapingIdentifierCell\": \"T40\", \"scrapingDataStartCell\": \"T41\", \"units\": \"Millones de pesos\", \"dataset_identifier\": \"7\", \"distribution_identifier\": \"7.2\"}, {\"title\": \"impuesto_importaciones\", \"type\": \"number\", \"description\": \"Valor agregado bruto trimestral a precios de productor de impuesto a las importaciones en pesos corrientes\", \"id\": \"7.2_II_1993_T_22\", \"scrapingIdentifierCell\": \"U40\", \"scrapingDataStartCell\": \"U41\", \"units\": \"Millones de pesos\", \"dataset_identifier\": \"7\", \"distribution_identifier\": \"7.2\"}, {\"title\": \"producto_interno_bruto_precios_mercado\", \"type\": \"number\", \"description\": \"Valor agregado bruto trimestral a precios de productor de producto interno bruto a precios de mercado en pesos corrientes\", \"id\": \"7.2_PIBPM_1993_T_38\", \"scrapingIdentifierCell\": \"V40\", \"scrapingDataStartCell\": \"V41\", \"units\": \"Millones de pesos\", \"dataset_identifier\": \"7\", \"distribution_identifier\": \"7.2\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-09-28T00:00:00",
+      "datastore_active": false,
+      "description": "Producto Interno Bruto en millones de pesos corrientes: Valores trimestrales [Base 1993]",
+      "fileName": "producto-interno-bruto-precios-corrientes-valores-trimestrales-base-1993.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "sspm_7.2",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Producto Interno Bruto. Precios corrientes. Base 1993. Valores trimestrales.",
+      "package_id": "sspm_7",
+      "position": 1,
+      "resource_type": null,
+      "revision_id": "be4c7097-6132-4a22-ba50-760f0465585f",
+      "size": null,
+      "state": "active",
+      "url": "https://infra.datos.gob.ar/catalog/sspm/dataset/7/distribution/7.2/download/producto-interno-bruto-precios-corrientes-valores-trimestrales-base-1993.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "be4c7097-6132-4a22-ba50-760f0465585f",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "Actividad",
+      "id": "a7695c51-c893-4ece-8ff9-306c197afdd7",
+      "name": "Actividad",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Información Económica al Día",
+      "id": "0d300a9a-0802-46c3-9a40-2f28ddf050ec",
+      "name": "Información Económica al Día",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Producto Interno Bruto a Precios de Mercado. Precios corrientes. Base 1993",
+  "type": "dataset",
+  "url": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/",
+  "version": null
+}

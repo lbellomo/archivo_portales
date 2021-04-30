@@ -1,0 +1,131 @@
+{
+  "author": "Subsecretaría de Programación Macroeconómica",
+  "author_email": "datoseconomicos@mecon.gov.ar",
+  "creator_user_id": "4720e75a-9e17-4dc3-879d-041917c7f9f9",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P1D"
+    },
+    {
+      "key": "issued",
+      "value": "2017-09-28"
+    },
+    {
+      "key": "language",
+      "value": "[\"SPA\"]"
+    },
+    {
+      "key": "source",
+      "value": "Ministerio de Hacienda"
+    },
+    {
+      "key": "spatial",
+      "value": "ARG"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"ECON\"]"
+    },
+    {
+      "key": "temporal",
+      "value": "1970-01-05/2018-01-31"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Economía y finanzas",
+      "display_name": "Economía y finanzas",
+      "id": "60b4b03e-10a1-4d67-b984-08008a249617",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225257.200233economia-finanzas.svg",
+      "name": "econ",
+      "title": "Economía y finanzas"
+    }
+  ],
+  "id": "sspm_175",
+  "isopen": true,
+  "license_id": "CC-BY-4.0",
+  "license_title": "Creative Commons Attribution 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "maintainer": "Subsecretaría de Programación Macroeconómica.",
+  "maintainer_email": "datoseconomicos@mecon.gov.ar",
+  "metadata_created": "2019-11-26T15:06:33.376548",
+  "metadata_modified": "2021-04-29T21:04:54.114003",
+  "name": "sspm-tipos-cambio-historicos",
+  "notes": "Tipos de Cambio Históricos, Banco Central",
+  "num_resources": 1,
+  "num_tags": 3,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:09.718132",
+    "description": "",
+    "id": "68f9ee22-5ec3-44cf-a32b-b87d9db46b93",
+    "image_url": "",
+    "is_organization": true,
+    "name": "sspm",
+    "revision_id": "bc058ce0-3540-4204-96cd-9f9ec79045b3",
+    "state": "active",
+    "title": "Subsecretaría de Programación Macroeconómica",
+    "type": "organization"
+  },
+  "owner_org": "68f9ee22-5ec3-44cf-a32b-b87d9db46b93",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/",
+      "attributesDescription": "[{\"title\": \"indice_tiempo\", \"type\": \"date\", \"specialType\": \"time_index\", \"specialTypeDetail\": \"R/P1D\", \"id\": \"175.1_ICE_TIEMPO_0_0_13\", \"scrapingIdentifierCell\": \"A10\", \"scrapingDataStartCell\": \"A11\", \"dataset_identifier\": \"175\", \"distribution_identifier\": \"175.1\"}, {\"title\": \"dolar_tipo_unico\", \"type\": \"number\", \"description\": \"Tipo de cambio \\u00fanico\", \"id\": \"175.1_DR_TIPOICO_0_0_16\", \"scrapingIdentifierCell\": \"B10\", \"scrapingDataStartCell\": \"B11\", \"units\": \"Pesos\", \"dataset_identifier\": \"175\", \"distribution_identifier\": \"175.1\"}, {\"title\": \"dolar_finan_esp_compra\", \"type\": \"number\", \"description\": \"D\\u00f3lar Financiero Esp. Compra\", \"id\": \"175.1_DR_FINAPRA_0_0_22\", \"scrapingIdentifierCell\": \"E10\", \"scrapingDataStartCell\": \"E11\", \"units\": \"Pesos\", \"dataset_identifier\": \"175\", \"distribution_identifier\": \"175.1\"}, {\"title\": \"dolar_finan_esp_venta\", \"type\": \"number\", \"description\": \"D\\u00f3lar Financiero Esp. Venta\", \"id\": \"175.1_DR_FINANTA_0_0_21\", \"scrapingIdentifierCell\": \"F10\", \"scrapingDataStartCell\": \"F11\", \"units\": \"Pesos\", \"dataset_identifier\": \"175\", \"distribution_identifier\": \"175.1\"}, {\"title\": \"dolar_financiero_compra\", \"type\": \"number\", \"description\": \"D\\u00f3lar Financiero. Compra\", \"id\": \"175.1_DR_FINAPRA_0_0_23\", \"scrapingIdentifierCell\": \"G10\", \"scrapingDataStartCell\": \"G11\", \"units\": \"Pesos\", \"dataset_identifier\": \"175\", \"distribution_identifier\": \"175.1\"}, {\"title\": \"dolar_financiero_venta\", \"type\": \"number\", \"description\": \"D\\u00f3lar Financiero. Venta\", \"id\": \"175.1_DR_FINANTA_0_0_22\", \"scrapingIdentifierCell\": \"H10\", \"scrapingDataStartCell\": \"H11\", \"units\": \"Pesos\", \"dataset_identifier\": \"175\", \"distribution_identifier\": \"175.1\"}, {\"title\": \"dolar_libre_compra\", \"type\": \"number\", \"description\": \"D\\u00f3lar Libre. Compra\", \"id\": \"175.1_DR_LIBRPRA_0_0_18\", \"scrapingIdentifierCell\": \"I10\", \"scrapingDataStartCell\": \"I11\", \"units\": \"Pesos\", \"dataset_identifier\": \"175\", \"distribution_identifier\": \"175.1\"}, {\"title\": \"dolar_libre_venta\", \"type\": \"number\", \"description\": \"D\\u00f3lar Libre. Venta\", \"id\": \"175.1_DR_LIBRNTA_0_0_17\", \"scrapingIdentifierCell\": \"J10\", \"scrapingDataStartCell\": \"J11\", \"units\": \"Pesos\", \"dataset_identifier\": \"175\", \"distribution_identifier\": \"175.1\"}, {\"title\": \"dolar_oficial_compra\", \"type\": \"number\", \"description\": \"D\\u00f3lar Oficial. Compra\", \"id\": \"175.1_DR_OFICPRA_0_0_20\", \"scrapingIdentifierCell\": \"K10\", \"scrapingDataStartCell\": \"K11\", \"units\": \"Pesos\", \"dataset_identifier\": \"175\", \"distribution_identifier\": \"175.1\"}, {\"title\": \"dolar_oficial_venta\", \"type\": \"number\", \"description\": \"D\\u00f3lar Oficial. Venta\", \"id\": \"175.1_DR_OFICNTA_0_0_19\", \"scrapingIdentifierCell\": \"L10\", \"scrapingDataStartCell\": \"L11\", \"units\": \"Pesos\", \"dataset_identifier\": \"175\", \"distribution_identifier\": \"175.1\"}, {\"title\": \"dolar_estadounidense\", \"type\": \"number\", \"description\": \"D\\u00f3lar Estadounidense\", \"id\": \"175.1_DR_ESTANSE_0_0_20\", \"scrapingIdentifierCell\": \"M10\", \"scrapingDataStartCell\": \"M11\", \"units\": \"Pesos\", \"dataset_identifier\": \"175\", \"distribution_identifier\": \"175.1\"}, {\"title\": \"dolar_referencia_com_3500\", \"type\": \"number\", \"description\": \"D\\u00f3lar Referencia Comunicaci\\u00f3n \\\"A\\\" 3500 (Mayorista)\", \"id\": \"175.1_DR_REFE500_0_0_25\", \"scrapingIdentifierCell\": \"O10\", \"scrapingDataStartCell\": \"O11\", \"units\": \"Pesos\", \"dataset_identifier\": \"175\", \"distribution_identifier\": \"175.1\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-09-28T00:00:00",
+      "datastore_active": false,
+      "description": "Tipos de Cambio Históricos, Banco Central. Valores diarios",
+      "fileName": "tipos-de-cambio-historicos.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "sspm_175.1",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Tipos de Cambio Históricos, Banco Central",
+      "package_id": "sspm_175",
+      "position": 0,
+      "resource_type": null,
+      "revision_id": "607dd6b0-682b-4d0b-a9d3-c676607e5861",
+      "size": null,
+      "state": "active",
+      "url": "https://infra.datos.gob.ar/catalog/sspm/dataset/175/distribution/175.1/download/tipos-de-cambio-historicos.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "607dd6b0-682b-4d0b-a9d3-c676607e5861",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "Dinero y Bancos",
+      "id": "a6e04960-0d58-4c4e-a59c-a2e2ef9ac579",
+      "name": "Dinero y Bancos",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Información Económica Histórica",
+      "id": "3834bbe4-6452-499b-a70e-85765a130da2",
+      "name": "Información Económica Histórica",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Información económica al día",
+      "id": "a277ffeb-6252-446e-a364-14710b257b35",
+      "name": "Información económica al día",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Tipos de Cambio Históricos",
+  "type": "dataset",
+  "url": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/",
+  "version": null
+}

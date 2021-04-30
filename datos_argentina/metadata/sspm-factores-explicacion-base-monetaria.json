@@ -1,0 +1,156 @@
+{
+  "author": "Subsecretaría de Programación Macroeconómica",
+  "author_email": "datoseconomicos@mecon.gov.ar",
+  "creator_user_id": "4720e75a-9e17-4dc3-879d-041917c7f9f9",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P1D"
+    },
+    {
+      "key": "issued",
+      "value": "2017-11-28"
+    },
+    {
+      "key": "language",
+      "value": "[\"SPA\"]"
+    },
+    {
+      "key": "source",
+      "value": "Banco Central de la República Argentina (BCRA)"
+    },
+    {
+      "key": "spatial",
+      "value": "ARG"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"ECON\"]"
+    },
+    {
+      "key": "temporal",
+      "value": "2003-01-01/2017-09-01"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Economía y finanzas",
+      "display_name": "Economía y finanzas",
+      "id": "60b4b03e-10a1-4d67-b984-08008a249617",
+      "image_display_url": "http://datos.gob.ar/uploads/group/2019-12-04-225257.200233economia-finanzas.svg",
+      "name": "econ",
+      "title": "Economía y finanzas"
+    }
+  ],
+  "id": "sspm_331",
+  "isopen": true,
+  "license_id": "CC-BY-4.0",
+  "license_title": "Creative Commons Attribution 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "maintainer": "indice-precios-al-consumidor-bienes-servicios-base-diciembre-2016-trimestral.csv",
+  "maintainer_email": "datoseconomicos@mecon.gov.ar",
+  "metadata_created": "2019-11-26T15:06:15.664333",
+  "metadata_modified": "2020-07-14T17:06:05.171305",
+  "name": "sspm-factores-explicacion-base-monetaria",
+  "notes": "Datos factores de explicación de Base Monetaria",
+  "num_resources": 2,
+  "num_tags": 3,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:09.718132",
+    "description": "",
+    "id": "68f9ee22-5ec3-44cf-a32b-b87d9db46b93",
+    "image_url": "",
+    "is_organization": true,
+    "name": "sspm",
+    "revision_id": "bc058ce0-3540-4204-96cd-9f9ec79045b3",
+    "state": "active",
+    "title": "Subsecretaría de Programación Macroeconómica",
+    "type": "organization"
+  },
+  "owner_org": "68f9ee22-5ec3-44cf-a32b-b87d9db46b93",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/",
+      "attributesDescription": "[{\"title\": \"indice_tiempo\", \"type\": \"date\", \"specialType\": \"time_index\", \"specialTypeDetail\": \"R/P1M\", \"id\": \"331.1_INDICE_TIEMPO__13\", \"scrapingIdentifierCell\": \"A8\", \"scrapingDataStartCell\": \"A9\", \"dataset_identifier\": \"331\", \"distribution_identifier\": \"331.1\"}, {\"title\": \"saldo_base_monetaria\", \"type\": \"number\", \"description\": \"Saldo de la Base Monetaria\", \"id\": \"331.1_SALDO_BASERIA__15\", \"scrapingIdentifierCell\": \"B8\", \"scrapingDataStartCell\": \"B9\", \"units\": \"En millones de pesos\", \"dataset_identifier\": \"331\", \"distribution_identifier\": \"331.1\"}, {\"title\": \"total_variacion\", \"type\": \"number\", \"description\": \"Total variaci\\u00f3n\", \"id\": \"331.1_TOTAL_VARIION__27\", \"scrapingIdentifierCell\": \"C8\", \"scrapingDataStartCell\": \"C9\", \"units\": \"En millones de pesos\", \"dataset_identifier\": \"331\", \"distribution_identifier\": \"331.1\"}, {\"title\": \"compras_netas_divisas_total\", \"type\": \"number\", \"description\": \"Compras netas de divisas: Total\", \"id\": \"331.1_COMPRAS_NETAL__45\", \"scrapingIdentifierCell\": \"D8\", \"scrapingDataStartCell\": \"D9\", \"units\": \"En millones de pesos\", \"dataset_identifier\": \"331\", \"distribution_identifier\": \"331.1\"}, {\"title\": \"compras_netas_divisas_al_sector_privado_otros\", \"type\": \"number\", \"description\": \"Compras netas de divisas: Al Sector Privado\", \"id\": \"331.1_COMPRAS_NEROS__40\", \"scrapingIdentifierCell\": \"E8\", \"scrapingDataStartCell\": \"E9\", \"units\": \"En millones de pesos\", \"dataset_identifier\": \"331\", \"distribution_identifier\": \"331.1\"}, {\"title\": \"compras_netas_divisas_al_tesoro_nacional\", \"type\": \"number\", \"description\": \"Compras netas de divisas: Al Tesoro Nacional\", \"id\": \"331.1_COMPRAS_NENAL__39\", \"scrapingIdentifierCell\": \"F8\", \"scrapingDataStartCell\": \"F9\", \"units\": \"En millones de pesos\", \"dataset_identifier\": \"331\", \"distribution_identifier\": \"331.1\"}, {\"title\": \"otras_operaciones_tesoro_nacional_total\", \"type\": \"number\", \"description\": \"Otras Operaciones con el Tesoro Nacional: Total\", \"id\": \"331.1_OTRAS_OPERTAL__56\", \"scrapingIdentifierCell\": \"G8\", \"scrapingDataStartCell\": \"G9\", \"units\": \"En millones de pesos\", \"dataset_identifier\": \"331\", \"distribution_identifier\": \"331.1\"}, {\"title\": \"otras_operaciones_tesoro_nacional_adelantos_transitorios\", \"type\": \"number\", \"description\": \"Otras Operaciones con el Tesoro Nacional: Adelantos Transitorios\", \"id\": \"331.1_OTRAS_OPERIOS__58\", \"scrapingIdentifierCell\": \"H8\", \"scrapingDataStartCell\": \"H9\", \"units\": \"En millones de pesos\", \"dataset_identifier\": \"331\", \"distribution_identifier\": \"331.1\"}, {\"title\": \"otras_operaciones_tesoro_nacional_transferencia_utilidades\", \"type\": \"number\", \"description\": \"Otras Operaciones con el Tesoro Nacional: Transferencia de Utilidades\", \"id\": \"331.1_OTRAS_OPERDES__39\", \"scrapingIdentifierCell\": \"I8\", \"scrapingDataStartCell\": \"I9\", \"units\": \"En millones de pesos\", \"dataset_identifier\": \"331\", \"distribution_identifier\": \"331.1\"}, {\"title\": \"otras_operaciones_tesoro_nacional_resto\", \"type\": \"number\", \"description\": \"Otras Operaciones con el Tesoro Nacional: Resto\", \"id\": \"331.1_OTRAS_OPERSTO__24\", \"scrapingIdentifierCell\": \"J8\", \"scrapingDataStartCell\": \"J9\", \"units\": \"En millones de pesos\", \"dataset_identifier\": \"331\", \"distribution_identifier\": \"331.1\"}, {\"title\": \"pases_redescuentos_total\", \"type\": \"number\", \"description\": \"Pases y Redescuentos: Total\", \"id\": \"331.1_PASES_REDETAL__24\", \"scrapingIdentifierCell\": \"K8\", \"scrapingDataStartCell\": \"K9\", \"units\": \"En millones de pesos\", \"dataset_identifier\": \"331\", \"distribution_identifier\": \"331.1\"}, {\"title\": \"pases_redescuentos_pases\", \"type\": \"number\", \"description\": \"Pases y Redescuentos: Pases\", \"id\": \"331.1_PASES_REDESES__41\", \"scrapingIdentifierCell\": \"L8\", \"scrapingDataStartCell\": \"L9\", \"units\": \"En millones de pesos\", \"dataset_identifier\": \"331\", \"distribution_identifier\": \"331.1\"}, {\"title\": \"pases_redescuentos_leliq\", \"type\": \"number\", \"description\": \"Pases y Redescuentos: Leliq\", \"id\": \"331.1_PASES_REDELIQ_M_MONE_0_24_24\", \"scrapingIdentifierCell\": \"M8\", \"scrapingDataStartCell\": \"M9\", \"units\": \"En millones de pesos\", \"dataset_identifier\": \"331\", \"distribution_identifier\": \"331.1\"}, {\"title\": \"pases_redescuentos_redescuentos_adelantos\", \"type\": \"number\", \"description\": \"Pases y Redescuentos: Redescuentos y Adelantos\", \"id\": \"331.1_PASES_REDETOS__51\", \"scrapingIdentifierCell\": \"N8\", \"scrapingDataStartCell\": \"N9\", \"units\": \"En millones de pesos\", \"dataset_identifier\": \"331\", \"distribution_identifier\": \"331.1\"}, {\"title\": \"pases_redescuentos_intereses_primas_remun_ctas_ctes\", \"type\": \"number\", \"description\": \"Pases y Redescuentos: Intereses, Primas y Remuneraci\\u00f3n Cuentas Corrientes\", \"id\": \"331.1_PASES_REDETES__16\", \"scrapingIdentifierCell\": \"O8\", \"scrapingDataStartCell\": \"O9\", \"units\": \"En millones de pesos\", \"dataset_identifier\": \"331\", \"distribution_identifier\": \"331.1\"}, {\"title\": \"titulos_del_bcra\", \"type\": \"number\", \"description\": \"T\\u00edtulos del BCRA\", \"id\": \"331.1_TITULOS_DECRA__20\", \"scrapingIdentifierCell\": \"P8\", \"scrapingDataStartCell\": \"P9\", \"units\": \"En millones de pesos\", \"dataset_identifier\": \"331\", \"distribution_identifier\": \"331.1\"}, {\"title\": \"rescate_cuasimonedas\", \"type\": \"number\", \"description\": \"Rescate de Cuasimonedas\", \"id\": \"331.1_RESCATE_CUDAS__5\", \"scrapingIdentifierCell\": \"Q8\", \"scrapingDataStartCell\": \"Q9\", \"units\": \"En millones de pesos\", \"dataset_identifier\": \"331\", \"distribution_identifier\": \"331.1\"}, {\"title\": \"otros\", \"type\": \"number\", \"description\": \"Otros\", \"id\": \"331.1_OTROSROS__13\", \"scrapingIdentifierCell\": \"R8\", \"scrapingDataStartCell\": \"R9\", \"units\": \"En millones de pesos\", \"dataset_identifier\": \"331\", \"distribution_identifier\": \"331.1\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-11-28T00:00:00",
+      "datastore_active": false,
+      "description": "Datos de factores de explicación de Base Monetaria. Datos mensuales",
+      "fileName": "factores-explicacion-base-monetaria-mensuales.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "sspm_331.1",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Factores de explicación de Base Monetaria. Datos mensuales",
+      "package_id": "sspm_331",
+      "position": 0,
+      "resource_type": null,
+      "revision_id": "c4f36ce0-912c-4d11-a312-b485d9ac1f71",
+      "size": null,
+      "state": "active",
+      "url": "https://infra.datos.gob.ar/catalog/sspm/dataset/331/distribution/331.1/download/factores-explicacion-base-monetaria-mensuales.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/",
+      "attributesDescription": "[{\"title\": \"indice_tiempo\", \"type\": \"date\", \"specialType\": \"time_index\", \"specialTypeDetail\": \"R/P1D\", \"id\": \"331.2_INDICE_TIEMPO__20\", \"scrapingIdentifierCell\": \"A223\", \"scrapingDataStartCell\": \"A224\", \"dataset_identifier\": \"331\", \"distribution_identifier\": \"331.2\"}, {\"title\": \"saldo_base_monetaria\", \"type\": \"number\", \"description\": \"Saldo de la Base Monetaria\", \"id\": \"331.2_SALDO_BASERIA__15\", \"scrapingIdentifierCell\": \"B223\", \"scrapingDataStartCell\": \"B224\", \"units\": \"En millones de pesos\", \"dataset_identifier\": \"331\", \"distribution_identifier\": \"331.2\"}, {\"title\": \"total_variacion\", \"type\": \"number\", \"description\": \"Total variaci\\u00f3n\", \"id\": \"331.2_TOTAL_VARIION__27\", \"scrapingIdentifierCell\": \"C223\", \"scrapingDataStartCell\": \"C224\", \"units\": \"En millones de pesos\", \"dataset_identifier\": \"331\", \"distribution_identifier\": \"331.2\"}, {\"title\": \"compras_netas_divisas_total\", \"type\": \"number\", \"description\": \"Compras netas de divisas: Total\", \"id\": \"331.2_COMPRAS_NETAL__45\", \"scrapingIdentifierCell\": \"D223\", \"scrapingDataStartCell\": \"D224\", \"units\": \"En millones de pesos\", \"dataset_identifier\": \"331\", \"distribution_identifier\": \"331.2\"}, {\"title\": \"compras_netas_divisas_al_sector_privado_otros\", \"type\": \"number\", \"description\": \"Compras netas de divisas: Al Sector Privado\", \"id\": \"331.2_COMPRAS_NEROS__40\", \"scrapingIdentifierCell\": \"E223\", \"scrapingDataStartCell\": \"E224\", \"units\": \"En millones de pesos\", \"dataset_identifier\": \"331\", \"distribution_identifier\": \"331.2\"}, {\"title\": \"compras_netas_divisas_al_tesoro_nacional\", \"type\": \"number\", \"description\": \"Compras netas de divisas: Al Tesoro Nacional\", \"id\": \"331.2_COMPRAS_NENAL__39\", \"scrapingIdentifierCell\": \"F223\", \"scrapingDataStartCell\": \"F224\", \"units\": \"En millones de pesos\", \"dataset_identifier\": \"331\", \"distribution_identifier\": \"331.2\"}, {\"title\": \"otras_operaciones_tesoro_nacional_total\", \"type\": \"number\", \"description\": \"Otras Operaciones con el Tesoro Nacional: Total\", \"id\": \"331.2_OTRAS_OPERTAL__56\", \"scrapingIdentifierCell\": \"G223\", \"scrapingDataStartCell\": \"G224\", \"units\": \"En millones de pesos\", \"dataset_identifier\": \"331\", \"distribution_identifier\": \"331.2\"}, {\"title\": \"otras_operaciones_tesoro_nacional_adelantos_transitorios\", \"type\": \"number\", \"description\": \"Otras Operaciones con el Tesoro Nacional: Adelantos Transitorios\", \"id\": \"331.2_OTRAS_OPERIOS__58\", \"scrapingIdentifierCell\": \"H223\", \"scrapingDataStartCell\": \"H224\", \"units\": \"En millones de pesos\", \"dataset_identifier\": \"331\", \"distribution_identifier\": \"331.2\"}, {\"title\": \"otras_operaciones_tesoro_nacional_transferencia_utilidades\", \"type\": \"number\", \"description\": \"Otras Operaciones con el Tesoro Nacional: Transferencia de Utilidades\", \"id\": \"331.2_OTRAS_OPERDES__39\", \"scrapingIdentifierCell\": \"I223\", \"scrapingDataStartCell\": \"I224\", \"units\": \"En millones de pesos\", \"dataset_identifier\": \"331\", \"distribution_identifier\": \"331.2\"}, {\"title\": \"otras_operaciones_tesoro_nacional_resto\", \"type\": \"number\", \"description\": \"Otras Operaciones con el Tesoro Nacional: Resto\", \"id\": \"331.2_OTRAS_OPERSTO__24\", \"scrapingIdentifierCell\": \"J223\", \"scrapingDataStartCell\": \"J224\", \"units\": \"En millones de pesos\", \"dataset_identifier\": \"331\", \"distribution_identifier\": \"331.2\"}, {\"title\": \"pases_redescuentos_total\", \"type\": \"number\", \"description\": \"Pases y Redescuentos: Total\", \"id\": \"331.2_PASES_REDETAL__24\", \"scrapingIdentifierCell\": \"K223\", \"scrapingDataStartCell\": \"K224\", \"units\": \"En millones de pesos\", \"dataset_identifier\": \"331\", \"distribution_identifier\": \"331.2\"}, {\"title\": \"pases_redescuentos_pases\", \"type\": \"number\", \"description\": \"Pases y Redescuentos: Pases\", \"id\": \"331.2_PASES_REDESES__41\", \"scrapingIdentifierCell\": \"L223\", \"scrapingDataStartCell\": \"L224\", \"units\": \"En millones de pesos\", \"dataset_identifier\": \"331\", \"distribution_identifier\": \"331.2\"}, {\"title\": \"pases_redescuentos_leliq\", \"type\": \"number\", \"description\": \"Pases y Redescuentos: Leliq\", \"id\": \"331.2_PASES_REDELIQ_D_MONE_0_24_19\", \"scrapingIdentifierCell\": \"M223\", \"scrapingDataStartCell\": \"M224\", \"units\": \"En millones de pesos\", \"dataset_identifier\": \"331\", \"distribution_identifier\": \"331.2\"}, {\"title\": \"pases_redescuentos_redescuentos_adelantos\", \"type\": \"number\", \"description\": \"Pases y Redescuentos: Redescuentos y Adelantos\", \"id\": \"331.2_PASES_REDETOS__51\", \"scrapingIdentifierCell\": \"N223\", \"scrapingDataStartCell\": \"N224\", \"units\": \"En millones de pesos\", \"dataset_identifier\": \"331\", \"distribution_identifier\": \"331.2\"}, {\"title\": \"pases_redescuentos_intereses_primas_remun_ctas_ctes\", \"type\": \"number\", \"description\": \"Pases y Redescuentos: Intereses, Primas y Remuneraci\\u00f3n Cuentas Corrientes\", \"id\": \"331.2_PASES_REDETES__16\", \"scrapingIdentifierCell\": \"O223\", \"scrapingDataStartCell\": \"O224\", \"units\": \"En millones de pesos\", \"dataset_identifier\": \"331\", \"distribution_identifier\": \"331.2\"}, {\"title\": \"titulos_del_bcra\", \"type\": \"number\", \"description\": \"T\\u00edtulos del BCRA\", \"id\": \"331.2_TITULOS_DECRA__20\", \"scrapingIdentifierCell\": \"P223\", \"scrapingDataStartCell\": \"P224\", \"units\": \"En millones de pesos\", \"dataset_identifier\": \"331\", \"distribution_identifier\": \"331.2\"}, {\"title\": \"rescate_cuasimonedas\", \"type\": \"number\", \"description\": \"Rescate de Cuasimonedas\", \"id\": \"331.2_RESCATE_CUDAS__5\", \"scrapingIdentifierCell\": \"Q223\", \"scrapingDataStartCell\": \"Q224\", \"units\": \"En millones de pesos\", \"dataset_identifier\": \"331\", \"distribution_identifier\": \"331.2\"}, {\"title\": \"otros\", \"type\": \"number\", \"description\": \"Otros\", \"id\": \"331.2_OTROSROS__13\", \"scrapingIdentifierCell\": \"R223\", \"scrapingDataStartCell\": \"R224\", \"units\": \"En millones de pesos\", \"dataset_identifier\": \"331\", \"distribution_identifier\": \"331.2\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-11-28T00:00:00",
+      "datastore_active": false,
+      "description": "Datos de factores de explicación de Base Monetaria. Datos diarios",
+      "fileName": "factores-explicacion-base-monetaria.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "sspm_331.2",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Factores de explicación de Base Monetaria. Datos diarios",
+      "package_id": "sspm_331",
+      "position": 1,
+      "resource_type": null,
+      "revision_id": "c4f36ce0-912c-4d11-a312-b485d9ac1f71",
+      "size": null,
+      "state": "active",
+      "url": "https://infra.datos.gob.ar/catalog/sspm/dataset/331/distribution/331.2/download/factores-explicacion-base-monetaria.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "c4f36ce0-912c-4d11-a312-b485d9ac1f71",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "Dinero y Bancos",
+      "id": "a6e04960-0d58-4c4e-a59c-a2e2ef9ac579",
+      "name": "Dinero y Bancos",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Información Económica al Día",
+      "id": "0d300a9a-0802-46c3-9a40-2f28ddf050ec",
+      "name": "Información Económica al Día",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Moneda",
+      "id": "4007ae98-96d6-49c3-84d0-d1003a16b8ff",
+      "name": "Moneda",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Factores de explicación de Base Monetaria",
+  "type": "dataset",
+  "url": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/",
+  "version": null
+}

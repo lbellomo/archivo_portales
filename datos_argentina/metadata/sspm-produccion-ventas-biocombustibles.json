@@ -1,0 +1,174 @@
+{
+  "author": "Subsecretaría de Programación Macroeconómica",
+  "author_email": "datoseconomicos@mecon.gov.ar",
+  "creator_user_id": "4720e75a-9e17-4dc3-879d-041917c7f9f9",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P1M"
+    },
+    {
+      "key": "issued",
+      "value": "2017-12-27"
+    },
+    {
+      "key": "language",
+      "value": "[\"SPA\"]"
+    },
+    {
+      "key": "source",
+      "value": "Ministerio de Energía y Minería"
+    },
+    {
+      "key": "spatial",
+      "value": "ARG"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"ECON\"]"
+    },
+    {
+      "key": "temporal",
+      "value": "2001-01-01/2017-09-01"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Economía y finanzas",
+      "display_name": "Economía y finanzas",
+      "id": "60b4b03e-10a1-4d67-b984-08008a249617",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225257.200233economia-finanzas.svg",
+      "name": "econ",
+      "title": "Economía y finanzas"
+    }
+  ],
+  "id": "sspm_368",
+  "isopen": true,
+  "license_id": "CC-BY-4.0",
+  "license_title": "Creative Commons Attribution 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "maintainer": "Subsecretaría de Programación Macroeconómica.",
+  "maintainer_email": "datoseconomicos@mecon.gov.ar",
+  "metadata_created": "2019-11-26T15:04:22.146493",
+  "metadata_modified": "2021-04-29T21:04:19.768785",
+  "name": "sspm-produccion-ventas-biocombustibles",
+  "notes": "Información producción y ventas de biocombustibles",
+  "num_resources": 3,
+  "num_tags": 2,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:09.718132",
+    "description": "",
+    "id": "68f9ee22-5ec3-44cf-a32b-b87d9db46b93",
+    "image_url": "",
+    "is_organization": true,
+    "name": "sspm",
+    "revision_id": "bc058ce0-3540-4204-96cd-9f9ec79045b3",
+    "state": "active",
+    "title": "Subsecretaría de Programación Macroeconómica",
+    "type": "organization"
+  },
+  "owner_org": "68f9ee22-5ec3-44cf-a32b-b87d9db46b93",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/",
+      "attributesDescription": "[{\"title\": \"indice_tiempo\", \"type\": \"date\", \"specialType\": \"time_index\", \"specialTypeDetail\": \"R/P1Y\", \"id\": \"368.1_INDICE_TIEMPO__13\", \"scrapingIdentifierCell\": \"A7\", \"scrapingDataStartCell\": \"A8\", \"dataset_identifier\": \"368\", \"distribution_identifier\": \"368.1\"}, {\"title\": \"biodisel_produccion\", \"type\": \"number\", \"description\": \"Biodisel producci\\u00f3n\", \"id\": \"368.1_BIODISEL_PION__19\", \"scrapingIdentifierCell\": \"B7\", \"scrapingDataStartCell\": \"B8\", \"units\": \"Toneladas\", \"dataset_identifier\": \"368\", \"distribution_identifier\": \"368.1\"}, {\"title\": \"biodisel_ventas_al_corte\", \"type\": \"number\", \"description\": \"Biodisel ventas al corte\", \"id\": \"368.1_BIODISEL_VRTE__24\", \"scrapingIdentifierCell\": \"C7\", \"scrapingDataStartCell\": \"C8\", \"units\": \"Toneladas\", \"dataset_identifier\": \"368\", \"distribution_identifier\": \"368.1\"}, {\"title\": \"biodisel_otras_ventas_al_mercado_interno\", \"type\": \"number\", \"description\": \"Biodisel otras ventas al mercado interno\", \"id\": \"368.1_BIODISEL_ORNO__40\", \"scrapingIdentifierCell\": \"D7\", \"scrapingDataStartCell\": \"D8\", \"units\": \"Toneladas\", \"dataset_identifier\": \"368\", \"distribution_identifier\": \"368.1\"}, {\"title\": \"biodisel_exportaciones\", \"type\": \"number\", \"description\": \"Biodisel exportaciones\", \"id\": \"368.1_BIODISEL_ENES__22\", \"scrapingIdentifierCell\": \"E7\", \"scrapingDataStartCell\": \"E8\", \"units\": \"Toneladas\", \"dataset_identifier\": \"368\", \"distribution_identifier\": \"368.1\"}, {\"title\": \"bioetanol_total_produccion\", \"type\": \"number\", \"description\": \"Bioetanol total producci\\u00f3n\", \"id\": \"368.1_BIOETANOL_ION__26\", \"scrapingIdentifierCell\": \"G7\", \"scrapingDataStartCell\": \"G8\", \"units\": \"Metros c\\u00fabicos\", \"dataset_identifier\": \"368\", \"distribution_identifier\": \"368.1\"}, {\"title\": \"bioetanol_total_ventas_corte\", \"type\": \"number\", \"description\": \"Bioetanol total ventas al corte\", \"id\": \"368.1_BIOETANOL_RTE__28\", \"scrapingIdentifierCell\": \"H7\", \"scrapingDataStartCell\": \"H8\", \"units\": \"Metros c\\u00fabicos\", \"dataset_identifier\": \"368\", \"distribution_identifier\": \"368.1\"}, {\"title\": \"bioetanol_en_base_a_maiz_produccion\", \"type\": \"number\", \"description\": \"Bioetanol en base a ma\\u00edz producci\\u00f3n\", \"id\": \"368.1_BIOETANOL_ION__35\", \"scrapingIdentifierCell\": \"I7\", \"scrapingDataStartCell\": \"I8\", \"units\": \"Metros c\\u00fabicos\", \"dataset_identifier\": \"368\", \"distribution_identifier\": \"368.1\"}, {\"title\": \"bioetanol_base_maiz_ventas_corte\", \"type\": \"number\", \"description\": \"Bioetanol en base a ma\\u00edz ventas al corte\", \"id\": \"368.1_BIOETANOL_RTE__32\", \"scrapingIdentifierCell\": \"J7\", \"scrapingDataStartCell\": \"J8\", \"units\": \"Metros c\\u00fabicos\", \"dataset_identifier\": \"368\", \"distribution_identifier\": \"368.1\"}, {\"title\": \"bioetanol_base_cania_azucar_produccion\", \"type\": \"number\", \"description\": \"Bioetanol en base a cania de az\\u00facarproducci\\u00f3n\", \"id\": \"368.1_BIOETANOL_ION__38\", \"scrapingIdentifierCell\": \"K7\", \"scrapingDataStartCell\": \"K8\", \"units\": \"Metros c\\u00fabicos\", \"dataset_identifier\": \"368\", \"distribution_identifier\": \"368.1\"}, {\"title\": \"bioetanol_base_cania_azucar_ventas_corte\", \"type\": \"number\", \"description\": \"Bioetanol en base a cania de az\\u00facarventas al corte\", \"id\": \"368.1_BIOETANOL_RTE__40\", \"scrapingIdentifierCell\": \"L7\", \"scrapingDataStartCell\": \"L8\", \"units\": \"Metros c\\u00fabicos\", \"dataset_identifier\": \"368\", \"distribution_identifier\": \"368.1\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-12-27T00:00:00",
+      "datastore_active": false,
+      "description": "Información producción y ventas de biocombustibles. Datos anuales",
+      "fileName": "produccion-ventas-biocombustibles-anual.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "sspm_368.1",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Datos producción y ventas de biocombustibles. Datos anuales",
+      "package_id": "sspm_368",
+      "position": 0,
+      "resource_type": null,
+      "revision_id": "7338e541-f38a-481e-b5b8-0eddd41f504d",
+      "size": null,
+      "state": "active",
+      "url": "https://infra.datos.gob.ar/catalog/sspm/dataset/368/distribution/368.1/download/produccion-ventas-biocombustibles-anual.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/",
+      "attributesDescription": "[{\"title\": \"indice_tiempo\", \"type\": \"date\", \"specialType\": \"time_index\", \"specialTypeDetail\": \"R/P3M\", \"id\": \"368.2_INDICE_TIEMPO__13\", \"scrapingIdentifierCell\": \"A39\", \"scrapingDataStartCell\": \"A40\", \"dataset_identifier\": \"368\", \"distribution_identifier\": \"368.2\"}, {\"title\": \"biodisel_produccion\", \"type\": \"number\", \"description\": \"Biodisel producci\\u00f3n\", \"id\": \"368.2_BIODISEL_PION__19\", \"scrapingIdentifierCell\": \"B39\", \"scrapingDataStartCell\": \"B40\", \"units\": \"Toneladas\", \"dataset_identifier\": \"368\", \"distribution_identifier\": \"368.2\"}, {\"title\": \"biodisel_ventas_al_corte\", \"type\": \"number\", \"description\": \"Biodisel ventas al corte\", \"id\": \"368.2_BIODISEL_VRTE__24\", \"scrapingIdentifierCell\": \"C39\", \"scrapingDataStartCell\": \"C40\", \"units\": \"Toneladas\", \"dataset_identifier\": \"368\", \"distribution_identifier\": \"368.2\"}, {\"title\": \"biodisel_otras_ventas_al_mercado_interno\", \"type\": \"number\", \"description\": \"Biodisel otras ventas al mercado interno\", \"id\": \"368.2_BIODISEL_ORNO__40\", \"scrapingIdentifierCell\": \"D39\", \"scrapingDataStartCell\": \"D40\", \"units\": \"Toneladas\", \"dataset_identifier\": \"368\", \"distribution_identifier\": \"368.2\"}, {\"title\": \"biodisel_exportaciones\", \"type\": \"number\", \"description\": \"Biodisel exportaciones\", \"id\": \"368.2_BIODISEL_ENES__22\", \"scrapingIdentifierCell\": \"E39\", \"scrapingDataStartCell\": \"E40\", \"units\": \"Toneladas\", \"dataset_identifier\": \"368\", \"distribution_identifier\": \"368.2\"}, {\"title\": \"bioetanol_total_produccion\", \"type\": \"number\", \"description\": \"Bioetanol total producci\\u00f3n\", \"id\": \"368.2_BIOETANOL_ION__26\", \"scrapingIdentifierCell\": \"G39\", \"scrapingDataStartCell\": \"G40\", \"units\": \"Metros c\\u00fabicos\", \"dataset_identifier\": \"368\", \"distribution_identifier\": \"368.2\"}, {\"title\": \"bioetanol_total_ventas_corte\", \"type\": \"number\", \"description\": \"Bioetanol total ventas al corte\", \"id\": \"368.2_BIOETANOL_RTE__28\", \"scrapingIdentifierCell\": \"H39\", \"scrapingDataStartCell\": \"H40\", \"units\": \"Metros c\\u00fabicos\", \"dataset_identifier\": \"368\", \"distribution_identifier\": \"368.2\"}, {\"title\": \"bioetanol_en_base_a_maiz_produccion\", \"type\": \"number\", \"description\": \"Bioetanol en base a ma\\u00edz producci\\u00f3n\", \"id\": \"368.2_BIOETANOL_ION__35\", \"scrapingIdentifierCell\": \"I39\", \"scrapingDataStartCell\": \"I40\", \"units\": \"Metros c\\u00fabicos\", \"dataset_identifier\": \"368\", \"distribution_identifier\": \"368.2\"}, {\"title\": \"bioetanol_base_maiz_ventas_corte\", \"type\": \"number\", \"description\": \"Bioetanol en base a ma\\u00edz ventas al corte\", \"id\": \"368.2_BIOETANOL_RTE__32\", \"scrapingIdentifierCell\": \"J39\", \"scrapingDataStartCell\": \"J40\", \"units\": \"Metros c\\u00fabicos\", \"dataset_identifier\": \"368\", \"distribution_identifier\": \"368.2\"}, {\"title\": \"bioetanol_base_cania_azucar_produccion\", \"type\": \"number\", \"description\": \"Bioetanol en base a cania de az\\u00facarproducci\\u00f3n\", \"id\": \"368.2_BIOETANOL_ION__38\", \"scrapingIdentifierCell\": \"K39\", \"scrapingDataStartCell\": \"K40\", \"units\": \"Metros c\\u00fabicos\", \"dataset_identifier\": \"368\", \"distribution_identifier\": \"368.2\"}, {\"title\": \"bioetanol_base_cania_azucar_ventas_corte\", \"type\": \"number\", \"description\": \"Bioetanol en base a cania de az\\u00facarventas al corte\", \"id\": \"368.2_BIOETANOL_RTE__40\", \"scrapingIdentifierCell\": \"L39\", \"scrapingDataStartCell\": \"L40\", \"units\": \"Metros c\\u00fabicos\", \"dataset_identifier\": \"368\", \"distribution_identifier\": \"368.2\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-12-27T00:00:00",
+      "datastore_active": false,
+      "description": "Información producción y ventas de biocombustibles. Datos trimestrales",
+      "fileName": "produccion-ventas-biocombustibles-anual-trimestral.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "sspm_368.2",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Datos producción y ventas de biocombustibles. Datos trimestrales",
+      "package_id": "sspm_368",
+      "position": 1,
+      "resource_type": null,
+      "revision_id": "7338e541-f38a-481e-b5b8-0eddd41f504d",
+      "size": null,
+      "state": "active",
+      "url": "https://infra.datos.gob.ar/catalog/sspm/dataset/368/distribution/368.2/download/produccion-ventas-biocombustibles-anual-trimestral.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/",
+      "attributesDescription": "[{\"title\": \"indice_tiempo\", \"type\": \"date\", \"specialType\": \"time_index\", \"specialTypeDetail\": \"R/P1M\", \"id\": \"368.3_INDICE_TIEMPO__13\", \"scrapingIdentifierCell\": \"A150\", \"scrapingDataStartCell\": \"A151\", \"dataset_identifier\": \"368\", \"distribution_identifier\": \"368.3\"}, {\"title\": \"biodisel_produccion\", \"type\": \"number\", \"description\": \"Biodisel producci\\u00f3n\", \"id\": \"368.3_BIODISEL_PION__19\", \"scrapingIdentifierCell\": \"B150\", \"scrapingDataStartCell\": \"B151\", \"units\": \"Toneladas\", \"dataset_identifier\": \"368\", \"distribution_identifier\": \"368.3\"}, {\"title\": \"biodisel_ventas_al_corte\", \"type\": \"number\", \"description\": \"Biodisel ventas al corte\", \"id\": \"368.3_BIODISEL_VRTE__24\", \"scrapingIdentifierCell\": \"C150\", \"scrapingDataStartCell\": \"C151\", \"units\": \"Toneladas\", \"dataset_identifier\": \"368\", \"distribution_identifier\": \"368.3\"}, {\"title\": \"biodisel_otras_ventas_al_mercado_interno\", \"type\": \"number\", \"description\": \"Biodisel otras ventas al mercado interno\", \"id\": \"368.3_BIODISEL_ORNO__40\", \"scrapingIdentifierCell\": \"D150\", \"scrapingDataStartCell\": \"D151\", \"units\": \"Toneladas\", \"dataset_identifier\": \"368\", \"distribution_identifier\": \"368.3\"}, {\"title\": \"biodisel_exportaciones\", \"type\": \"number\", \"description\": \"Biodisel exportaciones\", \"id\": \"368.3_BIODISEL_ENES__22\", \"scrapingIdentifierCell\": \"E150\", \"scrapingDataStartCell\": \"E151\", \"units\": \"Toneladas\", \"dataset_identifier\": \"368\", \"distribution_identifier\": \"368.3\"}, {\"title\": \"bioetanol_total_produccion\", \"type\": \"number\", \"description\": \"Bioetanol total producci\\u00f3n\", \"id\": \"368.3_BIOETANOL_ION__26\", \"scrapingIdentifierCell\": \"G150\", \"scrapingDataStartCell\": \"G151\", \"units\": \"Metros c\\u00fabicos\", \"dataset_identifier\": \"368\", \"distribution_identifier\": \"368.3\"}, {\"title\": \"bioetanol_total_ventas_corte\", \"type\": \"number\", \"description\": \"Bioetanol total ventas al corte\", \"id\": \"368.3_BIOETANOL_RTE__28\", \"scrapingIdentifierCell\": \"H150\", \"scrapingDataStartCell\": \"H151\", \"units\": \"Metros c\\u00fabicos\", \"dataset_identifier\": \"368\", \"distribution_identifier\": \"368.3\"}, {\"title\": \"bioetanol_en_base_a_maiz_produccion\", \"type\": \"number\", \"description\": \"Bioetanol en base a ma\\u00edz producci\\u00f3n\", \"id\": \"368.3_BIOETANOL_ION__35\", \"scrapingIdentifierCell\": \"I150\", \"scrapingDataStartCell\": \"I151\", \"units\": \"Metros c\\u00fabicos\", \"dataset_identifier\": \"368\", \"distribution_identifier\": \"368.3\"}, {\"title\": \"bioetanol_base_maiz_ventas_corte\", \"type\": \"number\", \"description\": \"Bioetanol en base a ma\\u00edz ventas al corte\", \"id\": \"368.3_BIOETANOL_RTE__32\", \"scrapingIdentifierCell\": \"J150\", \"scrapingDataStartCell\": \"J151\", \"units\": \"Metros c\\u00fabicos\", \"dataset_identifier\": \"368\", \"distribution_identifier\": \"368.3\"}, {\"title\": \"bioetanol_base_cania_azucar_produccion\", \"type\": \"number\", \"description\": \"Bioetanol en base a cania de az\\u00facarproducci\\u00f3n\", \"id\": \"368.3_BIOETANOL_ION__38\", \"scrapingIdentifierCell\": \"K150\", \"scrapingDataStartCell\": \"K151\", \"units\": \"Metros c\\u00fabicos\", \"dataset_identifier\": \"368\", \"distribution_identifier\": \"368.3\"}, {\"title\": \"bioetanol_base_cania_azucar_ventas_corte\", \"type\": \"number\", \"description\": \"Bioetanol en base a cania de az\\u00facarventas al corte\", \"id\": \"368.3_BIOETANOL_RTE__40\", \"scrapingIdentifierCell\": \"L150\", \"scrapingDataStartCell\": \"L151\", \"units\": \"Metros c\\u00fabicos\", \"dataset_identifier\": \"368\", \"distribution_identifier\": \"368.3\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-12-27T00:00:00",
+      "datastore_active": false,
+      "description": "Información producción y ventas de biocombustibles. Datos mensuales",
+      "fileName": "produccion-ventas-biocombustibles-anual-mensual.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "sspm_368.3",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Datos producción y ventas de biocombustibles. Datos mensuales",
+      "package_id": "sspm_368",
+      "position": 2,
+      "resource_type": null,
+      "revision_id": "7338e541-f38a-481e-b5b8-0eddd41f504d",
+      "size": null,
+      "state": "active",
+      "url": "https://infra.datos.gob.ar/catalog/sspm/dataset/368/distribution/368.3/download/produccion-ventas-biocombustibles-anual-mensual.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "7338e541-f38a-481e-b5b8-0eddd41f504d",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "Actividad",
+      "id": "a7695c51-c893-4ece-8ff9-306c197afdd7",
+      "name": "Actividad",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Información Económica al Día",
+      "id": "0d300a9a-0802-46c3-9a40-2f28ddf050ec",
+      "name": "Información Económica al Día",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Producción y ventas de biocombustibles",
+  "type": "dataset",
+  "url": "http://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/",
+  "version": null
+}

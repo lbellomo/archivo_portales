@@ -1,0 +1,124 @@
+{
+  "author": "Subsecretaría de Programación Macroeconómica",
+  "author_email": "datoseconomicos@mecon.gov.ar",
+  "creator_user_id": "4720e75a-9e17-4dc3-879d-041917c7f9f9",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P3M"
+    },
+    {
+      "key": "issued",
+      "value": "2017-10-13"
+    },
+    {
+      "key": "language",
+      "value": "[\"SPA\"]"
+    },
+    {
+      "key": "source",
+      "value": "Instituto Nacional de Estadística y Censos (INDEC)"
+    },
+    {
+      "key": "spatial",
+      "value": "ARG"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"ECON\"]"
+    },
+    {
+      "key": "temporal",
+      "value": "2003-07-01/2017-07-01"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Economía y finanzas",
+      "display_name": "Economía y finanzas",
+      "id": "60b4b03e-10a1-4d67-b984-08008a249617",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225257.200233economia-finanzas.svg",
+      "name": "econ",
+      "title": "Economía y finanzas"
+    }
+  ],
+  "id": "sspm_301",
+  "isopen": true,
+  "license_id": "CC-BY-4.0",
+  "license_title": "Creative Commons Attribution 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "maintainer": "Subsecretaría de Programación Macroeconómica.",
+  "maintainer_email": "datoseconomicos@mecon.gov.ar",
+  "metadata_created": "2019-11-26T15:03:49.755685",
+  "metadata_modified": "2021-04-29T21:04:55.794694",
+  "name": "sspm-distribucion-personal-ingreso-por-deciles",
+  "notes": "Distribución personal del ingreso por  deciles de la ocupación principal (IOP) e ingreso per capita familiar (IPCF). En pesos corrientes promedio por decil. Valores trimestrales",
+  "num_resources": 1,
+  "num_tags": 2,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:09.718132",
+    "description": "",
+    "id": "68f9ee22-5ec3-44cf-a32b-b87d9db46b93",
+    "image_url": "",
+    "is_organization": true,
+    "name": "sspm",
+    "revision_id": "bc058ce0-3540-4204-96cd-9f9ec79045b3",
+    "state": "active",
+    "title": "Subsecretaría de Programación Macroeconómica",
+    "type": "organization"
+  },
+  "owner_org": "68f9ee22-5ec3-44cf-a32b-b87d9db46b93",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/",
+      "attributesDescription": "[{\"title\": \"indice_tiempo\", \"type\": \"date\", \"specialType\": \"time_index\", \"specialTypeDetail\": \"R/P3M\", \"id\": \"301.1_INDICE_TIEMPO_0_T_13\", \"scrapingIdentifierCell\": \"B12\", \"scrapingDataStartCell\": \"B13\", \"dataset_identifier\": \"301\", \"distribution_identifier\": \"301.1\"}, {\"title\": \"decil_1_oip\", \"type\": \"number\", \"description\": \"Distribuci\\u00f3n personal del ingreso. En pesos corrientes por deciles de la ocupaci\\u00f3n principal (IOP). Trimestral. Decil 1\", \"id\": \"301.1_DECIL_1_OIOIP_0_T_11\", \"scrapingIdentifierCell\": \"C12\", \"scrapingDataStartCell\": \"C13\", \"units\": \"En pesos corrientes.\", \"dataset_identifier\": \"301\", \"distribution_identifier\": \"301.1\"}, {\"title\": \"decil_2_oip\", \"type\": \"number\", \"description\": \"Distribuci\\u00f3n personal del ingreso. En pesos corrientes por deciles de la ocupaci\\u00f3n principal (IOP). Trimestral. Decil 2\", \"id\": \"301.1_DECIL_2_OIOIP_0_T_11\", \"scrapingIdentifierCell\": \"D12\", \"scrapingDataStartCell\": \"D13\", \"units\": \"En pesos corrientes.\", \"dataset_identifier\": \"301\", \"distribution_identifier\": \"301.1\"}, {\"title\": \"decil_3_oip\", \"type\": \"number\", \"description\": \"Distribuci\\u00f3n personal del ingreso. En pesos corrientes por deciles de la ocupaci\\u00f3n principal (IOP). Trimestral. Decil 3\", \"id\": \"301.1_DECIL_3_OIOIP_0_T_11\", \"scrapingIdentifierCell\": \"E12\", \"scrapingDataStartCell\": \"E13\", \"units\": \"En pesos corrientes.\", \"dataset_identifier\": \"301\", \"distribution_identifier\": \"301.1\"}, {\"title\": \"decil_4_oip\", \"type\": \"number\", \"description\": \"Distribuci\\u00f3n personal del ingreso. En pesos corrientes por deciles de la ocupaci\\u00f3n principal (IOP). Trimestral. Decil 4\", \"id\": \"301.1_DECIL_4_OIOIP_0_T_11\", \"scrapingIdentifierCell\": \"F12\", \"scrapingDataStartCell\": \"F13\", \"units\": \"En pesos corrientes.\", \"dataset_identifier\": \"301\", \"distribution_identifier\": \"301.1\"}, {\"title\": \"decil_5_oip\", \"type\": \"number\", \"description\": \"Distribuci\\u00f3n personal del ingreso. En pesos corrientes por deciles de la ocupaci\\u00f3n principal (IOP). Trimestral. Decil 5\", \"id\": \"301.1_DECIL_5_OIOIP_0_T_11\", \"scrapingIdentifierCell\": \"G12\", \"scrapingDataStartCell\": \"G13\", \"units\": \"En pesos corrientes.\", \"dataset_identifier\": \"301\", \"distribution_identifier\": \"301.1\"}, {\"title\": \"decil_6_oip\", \"type\": \"number\", \"description\": \"Distribuci\\u00f3n personal del ingreso. En pesos corrientes por deciles de la ocupaci\\u00f3n principal (IOP). Trimestral. Decil 6\", \"id\": \"301.1_DECIL_6_OIOIP_0_T_11\", \"scrapingIdentifierCell\": \"H12\", \"scrapingDataStartCell\": \"H13\", \"units\": \"En pesos corrientes.\", \"dataset_identifier\": \"301\", \"distribution_identifier\": \"301.1\"}, {\"title\": \"decil_7_oip\", \"type\": \"number\", \"description\": \"Distribuci\\u00f3n personal del ingreso. En pesos corrientes por deciles de la ocupaci\\u00f3n principal (IOP). Trimestral. Decil 7\", \"id\": \"301.1_DECIL_7_OIOIP_0_T_11\", \"scrapingIdentifierCell\": \"I12\", \"scrapingDataStartCell\": \"I13\", \"units\": \"En pesos corrientes.\", \"dataset_identifier\": \"301\", \"distribution_identifier\": \"301.1\"}, {\"title\": \"decil_8_oip\", \"type\": \"number\", \"description\": \"Distribuci\\u00f3n personal del ingreso. En pesos corrientes por deciles de la ocupaci\\u00f3n principal (IOP). Trimestral. Decil 8\", \"id\": \"301.1_DECIL_8_OIOIP_0_T_11\", \"scrapingIdentifierCell\": \"J12\", \"scrapingDataStartCell\": \"J13\", \"units\": \"En pesos corrientes.\", \"dataset_identifier\": \"301\", \"distribution_identifier\": \"301.1\"}, {\"title\": \"decil_9_oip\", \"type\": \"number\", \"description\": \"Distribuci\\u00f3n personal del ingreso. En pesos corrientes por deciles de la ocupaci\\u00f3n principal (IOP). Trimestral. Decil 9\", \"id\": \"301.1_DECIL_9_OIOIP_0_T_11\", \"scrapingIdentifierCell\": \"K12\", \"scrapingDataStartCell\": \"K13\", \"units\": \"En pesos corrientes.\", \"dataset_identifier\": \"301\", \"distribution_identifier\": \"301.1\"}, {\"title\": \"decil_10_oip\", \"type\": \"number\", \"description\": \"Distribuci\\u00f3n personal del ingreso. En pesos corrientes por deciles de la ocupaci\\u00f3n principal (IOP). Trimestral. Decil 10\", \"id\": \"301.1_DECIL_10_OOIP_0_T_12\", \"scrapingIdentifierCell\": \"L12\", \"scrapingDataStartCell\": \"L13\", \"units\": \"En pesos corrientes.\", \"dataset_identifier\": \"301\", \"distribution_identifier\": \"301.1\"}, {\"title\": \"total_oip\", \"type\": \"number\", \"description\": \"Distribuci\\u00f3n personal del ingreso. En pesos corrientes por deciles de la ocupaci\\u00f3n principal (IOP). Trimestral. Total decil\", \"id\": \"301.1_TOTAL_OIPOIP_0_T_9\", \"scrapingIdentifierCell\": \"M12\", \"scrapingDataStartCell\": \"M13\", \"units\": \"En pesos corrientes.\", \"dataset_identifier\": \"301\", \"distribution_identifier\": \"301.1\"}, {\"title\": \"decil_1_ipcf\", \"type\": \"number\", \"description\": \"Distribuci\\u00f3n personal del ingreso. En pesos corrientes por deciles del ingreso per capita familiar (IPCF). Trimestral. Decil 1\", \"id\": \"301.1_DECIL_1_IPPCF_0_T_12\", \"scrapingIdentifierCell\": \"O12\", \"scrapingDataStartCell\": \"O13\", \"units\": \"En pesos corrientes.\", \"dataset_identifier\": \"301\", \"distribution_identifier\": \"301.1\"}, {\"title\": \"decil_2_ipcf\", \"type\": \"number\", \"description\": \"Distribuci\\u00f3n personal del ingreso. En pesos corrientes por deciles del ingreso per capita familiar (IPCF). Trimestral. Decil 2\", \"id\": \"301.1_DECIL_2_IPPCF_0_T_12\", \"scrapingIdentifierCell\": \"P12\", \"scrapingDataStartCell\": \"P13\", \"units\": \"En pesos corrientes.\", \"dataset_identifier\": \"301\", \"distribution_identifier\": \"301.1\"}, {\"title\": \"decil_3_ipcf\", \"type\": \"number\", \"description\": \"Distribuci\\u00f3n personal del ingreso. En pesos corrientes por deciles del ingreso per capita familiar (IPCF). Trimestral. Decil 3\", \"id\": \"301.1_DECIL_3_IPPCF_0_T_12\", \"scrapingIdentifierCell\": \"Q12\", \"scrapingDataStartCell\": \"Q13\", \"units\": \"En pesos corrientes.\", \"dataset_identifier\": \"301\", \"distribution_identifier\": \"301.1\"}, {\"title\": \"decil_4_ipcf\", \"type\": \"number\", \"description\": \"Distribuci\\u00f3n personal del ingreso. En pesos corrientes por deciles del ingreso per capita familiar (IPCF). Trimestral. Decil 4\", \"id\": \"301.1_DECIL_4_IPPCF_0_T_12\", \"scrapingIdentifierCell\": \"R12\", \"scrapingDataStartCell\": \"R13\", \"units\": \"En pesos corrientes.\", \"dataset_identifier\": \"301\", \"distribution_identifier\": \"301.1\"}, {\"title\": \"decil_5_ipcf\", \"type\": \"number\", \"description\": \"Distribuci\\u00f3n personal del ingreso. En pesos corrientes por deciles del ingreso per capita familiar (IPCF). Trimestral. Decil 5\", \"id\": \"301.1_DECIL_5_IPPCF_0_T_12\", \"scrapingIdentifierCell\": \"S12\", \"scrapingDataStartCell\": \"S13\", \"units\": \"En pesos corrientes.\", \"dataset_identifier\": \"301\", \"distribution_identifier\": \"301.1\"}, {\"title\": \"decil_6_ipcf\", \"type\": \"number\", \"description\": \"Distribuci\\u00f3n personal del ingreso. En pesos corrientes por deciles del ingreso per capita familiar (IPCF). Trimestral. Decil 6\", \"id\": \"301.1_DECIL_6_IPPCF_0_T_12\", \"scrapingIdentifierCell\": \"T12\", \"scrapingDataStartCell\": \"T13\", \"units\": \"En pesos corrientes.\", \"dataset_identifier\": \"301\", \"distribution_identifier\": \"301.1\"}, {\"title\": \"decil_7_ipcf\", \"type\": \"number\", \"description\": \"Distribuci\\u00f3n personal del ingreso. En pesos corrientes por deciles del ingreso per capita familiar (IPCF). Trimestral. Decil 7\", \"id\": \"301.1_DECIL_7_IPPCF_0_T_12\", \"scrapingIdentifierCell\": \"U12\", \"scrapingDataStartCell\": \"U13\", \"units\": \"En pesos corrientes.\", \"dataset_identifier\": \"301\", \"distribution_identifier\": \"301.1\"}, {\"title\": \"decil_8_ipcf\", \"type\": \"number\", \"description\": \"Distribuci\\u00f3n personal del ingreso. En pesos corrientes por deciles del ingreso per capita familiar (IPCF). Trimestral. Decil 8\", \"id\": \"301.1_DECIL_8_IPPCF_0_T_12\", \"scrapingIdentifierCell\": \"V12\", \"scrapingDataStartCell\": \"V13\", \"units\": \"En pesos corrientes.\", \"dataset_identifier\": \"301\", \"distribution_identifier\": \"301.1\"}, {\"title\": \"decil_9_ipcf\", \"type\": \"number\", \"description\": \"Distribuci\\u00f3n personal del ingreso. En pesos corrientes por deciles del ingreso per capita familiar (IPCF). Trimestral. Decil 9\", \"id\": \"301.1_DECIL_9_IPPCF_0_T_12\", \"scrapingIdentifierCell\": \"W12\", \"scrapingDataStartCell\": \"W13\", \"units\": \"En pesos corrientes.\", \"dataset_identifier\": \"301\", \"distribution_identifier\": \"301.1\"}, {\"title\": \"decil_10_ipcf\", \"type\": \"number\", \"description\": \"Distribuci\\u00f3n personal del ingreso. En pesos corrientes por deciles del ingreso per capita familiar (IPCF). Trimestral. Decil 10\", \"id\": \"301.1_DECIL_10_IPCF_0_T_13\", \"scrapingIdentifierCell\": \"X12\", \"scrapingDataStartCell\": \"X13\", \"units\": \"En pesos corrientes.\", \"dataset_identifier\": \"301\", \"distribution_identifier\": \"301.1\"}, {\"title\": \"total_ipcf\", \"type\": \"number\", \"description\": \"Distribuci\\u00f3n personal del ingreso. En pesos corrientes por deciles del ingreso per capita familiar (IPCF). Trimestral. Total deciles\", \"id\": \"301.1_TOTAL_IPCFPCF_0_T_10\", \"scrapingIdentifierCell\": \"Y12\", \"scrapingDataStartCell\": \"Y13\", \"units\": \"En pesos corrientes.\", \"dataset_identifier\": \"301\", \"distribution_identifier\": \"301.1\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-10-13T00:00:00",
+      "datastore_active": false,
+      "description": "Distribución personal del ingreso por  deciles de la IOP. En pesos corrientes promedio por decil",
+      "fileName": "distribucion-personal-ingreso-por-deciles-trismestrales.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "sspm_301.1",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Distribución personal del ingreso. En pesos corrientes por  deciles de la ocupación principal (IOP). Valores trimestrales",
+      "package_id": "sspm_301",
+      "position": 0,
+      "resource_type": null,
+      "revision_id": "8530323c-9bb1-4d3b-8a4a-2789ac302287",
+      "size": null,
+      "state": "active",
+      "url": "https://infra.datos.gob.ar/catalog/sspm/dataset/301/distribution/301.1/download/distribucion-personal-ingreso-por-deciles-trismestrales.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "8530323c-9bb1-4d3b-8a4a-2789ac302287",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "Empleo e Ingresos",
+      "id": "0d41bcfd-c3a4-4ff7-8aa1-dd5c3ac51d0b",
+      "name": "Empleo e Ingresos",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Información Económica al Día",
+      "id": "0d300a9a-0802-46c3-9a40-2f28ddf050ec",
+      "name": "Información Económica al Día",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Distribución personal del ingreso por  deciles",
+  "type": "dataset",
+  "url": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/",
+  "version": null
+}

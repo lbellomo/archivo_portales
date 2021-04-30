@@ -1,0 +1,149 @@
+{
+  "author": "Subsecretaría de Programación Macroeconómica",
+  "author_email": "datoseconomicos@mecon.gov.ar",
+  "creator_user_id": "4720e75a-9e17-4dc3-879d-041917c7f9f9",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P1M"
+    },
+    {
+      "key": "issued",
+      "value": "2017-09-28"
+    },
+    {
+      "key": "language",
+      "value": "[\"SPA\"]"
+    },
+    {
+      "key": "source",
+      "value": "Instituto Nacional de Estadística y Censos (INDEC)"
+    },
+    {
+      "key": "spatial",
+      "value": "ARG"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"ECON\"]"
+    },
+    {
+      "key": "temporal",
+      "value": "2005-09-01/2008-03-01"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Economía y finanzas",
+      "display_name": "Economía y finanzas",
+      "id": "60b4b03e-10a1-4d67-b984-08008a249617",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225257.200233economia-finanzas.svg",
+      "name": "econ",
+      "title": "Economía y finanzas"
+    }
+  ],
+  "id": "sspm_100",
+  "isopen": true,
+  "license_id": "CC-BY-4.0",
+  "license_title": "Creative Commons Attribution 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "maintainer": "Subsecretaría de Programación Macroeconómica.",
+  "maintainer_email": "datoseconomicos@mecon.gov.ar",
+  "metadata_created": "2019-11-26T15:05:47.296309",
+  "metadata_modified": "2021-04-29T21:04:24.336557",
+  "name": "sspm-indice-precios-al-consumidor-ipc-nacional-por-capitulos-base-2003-serie-discontinuada",
+  "notes": "Índice de Precios al Consumidor Nacional. Apertura por capítulos. Base 2003. SERIE DISCONTINUADA",
+  "num_resources": 2,
+  "num_tags": 2,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:09.718132",
+    "description": "",
+    "id": "68f9ee22-5ec3-44cf-a32b-b87d9db46b93",
+    "image_url": "",
+    "is_organization": true,
+    "name": "sspm",
+    "revision_id": "bc058ce0-3540-4204-96cd-9f9ec79045b3",
+    "state": "active",
+    "title": "Subsecretaría de Programación Macroeconómica",
+    "type": "organization"
+  },
+  "owner_org": "68f9ee22-5ec3-44cf-a32b-b87d9db46b93",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/",
+      "attributesDescription": "[{\"title\": \"indice_tiempo\", \"type\": \"date\", \"specialType\": \"time_index\", \"specialTypeDetail\": \"R/P3M\", \"id\": \"100.2_IT_2003_T_13\", \"scrapingIdentifierCell\": \"A21\", \"scrapingDataStartCell\": \"A22\", \"dataset_identifier\": \"100\", \"distribution_identifier\": \"100.2\"}, {\"title\": \"ipc_2003_nivel_general\", \"type\": \"number\", \"specialTypeDetail\": \"\", \"description\": \"IPC Nivel General. Base 2003. Trimestral\", \"id\": \"100.2_I2NG_2003_T_22\", \"scrapingIdentifierCell\": \"B21\", \"scrapingDataStartCell\": \"B22\", \"units\": \"\\u00cdndice 2003=100\", \"dataset_identifier\": \"100\", \"distribution_identifier\": \"100.2\"}, {\"title\": \"ipc_2003_alimentos_bebidas\", \"type\": \"number\", \"specialTypeDetail\": \"\", \"description\": \"IPC Alimentos y Bebidas. Base 2003. Trimestral\", \"id\": \"100.2_I2AB_2003_T_26\", \"scrapingIdentifierCell\": \"C21\", \"scrapingDataStartCell\": \"C22\", \"units\": \"\\u00cdndice 2003=100\", \"dataset_identifier\": \"100\", \"distribution_identifier\": \"100.2\"}, {\"title\": \"ipc_2003_indumentaria\", \"type\": \"number\", \"specialTypeDetail\": \"\", \"description\": \"IPC Indumentaria. Base 2003. Trimestral\", \"id\": \"100.2_I2I_2003_T_21\", \"scrapingIdentifierCell\": \"D21\", \"scrapingDataStartCell\": \"D22\", \"units\": \"\\u00cdndice 2003=100\", \"dataset_identifier\": \"100\", \"distribution_identifier\": \"100.2\"}, {\"title\": \"ipc_2003_vivienda\", \"type\": \"number\", \"specialTypeDetail\": \"\", \"description\": \"IPC Vivienda. Base 2003. Trimestral\", \"id\": \"100.2_I2V_2003_T_17\", \"scrapingIdentifierCell\": \"E21\", \"scrapingDataStartCell\": \"E22\", \"units\": \"\\u00cdndice 2003=100\", \"dataset_identifier\": \"100\", \"distribution_identifier\": \"100.2\"}, {\"title\": \"ipc_2003_equipamiento_del_hogar\", \"type\": \"number\", \"specialTypeDetail\": \"\", \"description\": \"IPC Equipamiento del hogar Base. 2003. Trimestral\", \"id\": \"100.2_I2EDH_2003_T_31\", \"scrapingIdentifierCell\": \"F21\", \"scrapingDataStartCell\": \"F22\", \"units\": \"\\u00cdndice 2003=100\", \"dataset_identifier\": \"100\", \"distribution_identifier\": \"100.2\"}, {\"title\": \"ipc_2003_atencion_medica_salud\", \"type\": \"number\", \"specialTypeDetail\": \"\", \"description\": \"IPC Atenci\\u00f3n m\\u00e9dica y salud. Base 2003. Trimestral\", \"id\": \"100.2_I2AMS_2003_T_30\", \"scrapingIdentifierCell\": \"G21\", \"scrapingDataStartCell\": \"G22\", \"units\": \"\\u00cdndice 2003=100\", \"dataset_identifier\": \"100\", \"distribution_identifier\": \"100.2\"}, {\"title\": \"ipc_2003_transporte_comunicaciones\", \"type\": \"number\", \"specialTypeDetail\": \"\", \"description\": \"IPC Transporte y comunicaciones. Base 2003. Trimestral\", \"id\": \"100.2_I2TC_2003_T_34\", \"scrapingIdentifierCell\": \"H21\", \"scrapingDataStartCell\": \"H22\", \"units\": \"\\u00cdndice 2003=100\", \"dataset_identifier\": \"100\", \"distribution_identifier\": \"100.2\"}, {\"title\": \"ipc_2003_esparcimiento\", \"type\": \"number\", \"specialTypeDetail\": \"\", \"description\": \"IPC Esparcimiento. Base 2003. Trimestral\", \"id\": \"100.2_I2E_2003_T_22\", \"scrapingIdentifierCell\": \"I21\", \"scrapingDataStartCell\": \"I22\", \"units\": \"\\u00cdndice 2003=100\", \"dataset_identifier\": \"100\", \"distribution_identifier\": \"100.2\"}, {\"title\": \"ipc_2003_educacion\", \"type\": \"number\", \"specialTypeDetail\": \"\", \"description\": \"IPC Educaci\\u00f3n. Base 2003. Trimestral\", \"id\": \"100.2_I2E_2003_T_18\", \"scrapingIdentifierCell\": \"J21\", \"scrapingDataStartCell\": \"J22\", \"units\": \"\\u00cdndice 2003=100\", \"dataset_identifier\": \"100\", \"distribution_identifier\": \"100.2\"}, {\"title\": \"ipc_2003_bienes_servicios_varios\", \"type\": \"number\", \"specialTypeDetail\": \"\", \"description\": \"IPC Bienes y servicios varios. Base 2003. Trimestral\", \"id\": \"100.2_I2BSV_2003_T_32\", \"scrapingIdentifierCell\": \"K21\", \"scrapingDataStartCell\": \"K22\", \"units\": \"\\u00cdndice 2003=100\", \"dataset_identifier\": \"100\", \"distribution_identifier\": \"100.2\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-09-28T00:00:00",
+      "datastore_active": false,
+      "description": "Índice de Precios al Consumidor. Bienes y servicios. Valores anuales (Base 2003)",
+      "fileName": "indice-precios-al-consumidor-bienes-servicios-base-2003-trimestral.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "sspm_100.2",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Índice de Precios al Consumidor. Bienes y servicios. Base 2003. Valores trimestrales",
+      "package_id": "sspm_100",
+      "position": 0,
+      "resource_type": null,
+      "revision_id": "f5df7077-89b0-4024-888b-78c063148db8",
+      "size": null,
+      "state": "active",
+      "url": "https://infra.datos.gob.ar/catalog/sspm/dataset/100/distribution/100.2/download/indice-precios-al-consumidor-bienes-servicios-base-2003-trimestral.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/",
+      "attributesDescription": "[{\"title\": \"indice_tiempo\", \"type\": \"date\", \"specialType\": \"time_index\", \"specialTypeDetail\": \"R/P1M\", \"id\": \"100.3_IT_2003_M_13\", \"scrapingIdentifierCell\": \"A64\", \"scrapingDataStartCell\": \"A65\", \"dataset_identifier\": \"100\", \"distribution_identifier\": \"100.3\"}, {\"title\": \"ipc_2003_nivel_general\", \"type\": \"number\", \"specialTypeDetail\": \"\", \"description\": \"IPC Nivel General. Base 2003. Mensual\", \"id\": \"100.3_I2NG_2003_M_22\", \"scrapingIdentifierCell\": \"B64\", \"scrapingDataStartCell\": \"B65\", \"units\": \"\\u00cdndice 2003=100\", \"dataset_identifier\": \"100\", \"distribution_identifier\": \"100.3\"}, {\"title\": \"ipc_2003_alimentos_bebidas\", \"type\": \"number\", \"specialTypeDetail\": \"\", \"description\": \"IPC Alimentos y Bebidas. Base 2003. Mensual\", \"id\": \"100.3_I2AB_2003_M_26\", \"scrapingIdentifierCell\": \"C64\", \"scrapingDataStartCell\": \"C65\", \"units\": \"\\u00cdndice 2003=100\", \"dataset_identifier\": \"100\", \"distribution_identifier\": \"100.3\"}, {\"title\": \"ipc_2003_indumentaria\", \"type\": \"number\", \"specialTypeDetail\": \"\", \"description\": \"IPC Indumentaria. Base 2003. Mensual\", \"id\": \"100.3_I2I_2003_M_21\", \"scrapingIdentifierCell\": \"D64\", \"scrapingDataStartCell\": \"D65\", \"units\": \"\\u00cdndice 2003=100\", \"dataset_identifier\": \"100\", \"distribution_identifier\": \"100.3\"}, {\"title\": \"ipc_2003_vivienda\", \"type\": \"number\", \"specialTypeDetail\": \"\", \"description\": \"IPC Vivienda. Base 2003. Mensual\", \"id\": \"100.3_I2V_2003_M_17\", \"scrapingIdentifierCell\": \"E64\", \"scrapingDataStartCell\": \"E65\", \"units\": \"\\u00cdndice 2003=100\", \"dataset_identifier\": \"100\", \"distribution_identifier\": \"100.3\"}, {\"title\": \"ipc_2003_equipamiento_del_hogar\", \"type\": \"number\", \"specialTypeDetail\": \"\", \"description\": \"IPC Equipamiento del hogar Base. 2003. Mensual\", \"id\": \"100.3_I2EDH_2003_M_31\", \"scrapingIdentifierCell\": \"F64\", \"scrapingDataStartCell\": \"F65\", \"units\": \"\\u00cdndice 2003=100\", \"dataset_identifier\": \"100\", \"distribution_identifier\": \"100.3\"}, {\"title\": \"ipc_2003_atencion_medica_salud\", \"type\": \"number\", \"specialTypeDetail\": \"\", \"description\": \"IPC Atenci\\u00f3n m\\u00e9dica y salud. Base 2003. Mensual\", \"id\": \"100.3_I2AMS_2003_M_30\", \"scrapingIdentifierCell\": \"G64\", \"scrapingDataStartCell\": \"G65\", \"units\": \"\\u00cdndice 2003=100\", \"dataset_identifier\": \"100\", \"distribution_identifier\": \"100.3\"}, {\"title\": \"ipc_2003_transporte_comunicaciones\", \"type\": \"number\", \"specialTypeDetail\": \"\", \"description\": \"IPC Transporte y comunicaciones. Base 2003. Mensual\", \"id\": \"100.3_I2TC_2003_M_34\", \"scrapingIdentifierCell\": \"H64\", \"scrapingDataStartCell\": \"H65\", \"units\": \"\\u00cdndice 2003=100\", \"dataset_identifier\": \"100\", \"distribution_identifier\": \"100.3\"}, {\"title\": \"ipc_2003_esparcimiento\", \"type\": \"number\", \"specialTypeDetail\": \"\", \"description\": \"IPC Esparcimiento. Base 2003. Mensual\", \"id\": \"100.3_I2E_2003_M_22\", \"scrapingIdentifierCell\": \"I64\", \"scrapingDataStartCell\": \"I65\", \"units\": \"\\u00cdndice 2003=100\", \"dataset_identifier\": \"100\", \"distribution_identifier\": \"100.3\"}, {\"title\": \"ipc_2003_educacion\", \"type\": \"number\", \"specialTypeDetail\": \"\", \"description\": \"IPC Educaci\\u00f3n. Base 2003. Mensual\", \"id\": \"100.3_I2E_2003_M_18\", \"scrapingIdentifierCell\": \"J64\", \"scrapingDataStartCell\": \"J65\", \"units\": \"\\u00cdndice 2003=100\", \"dataset_identifier\": \"100\", \"distribution_identifier\": \"100.3\"}, {\"title\": \"ipc_2003_bienes_servicios_varios\", \"type\": \"number\", \"specialTypeDetail\": \"\", \"description\": \"IPC Bienes y servicios varios. Base 2003. Mensual\", \"id\": \"100.3_I2BSV_2003_M_32\", \"scrapingIdentifierCell\": \"K64\", \"scrapingDataStartCell\": \"K65\", \"units\": \"\\u00cdndice 2003=100\", \"dataset_identifier\": \"100\", \"distribution_identifier\": \"100.3\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-09-28T00:00:00",
+      "datastore_active": false,
+      "description": "Índice de Precios al Consumidor. Bienes y servicios. Valores anuales (Base 2003)",
+      "fileName": "indice-precios-al-consumidor-bienes-servicios-base-2003-mensual.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "sspm_100.3",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Índice de Precios al Consumidor. Bienes y servicios. Base 2003. Valores mensuales",
+      "package_id": "sspm_100",
+      "position": 1,
+      "resource_type": null,
+      "revision_id": "f5df7077-89b0-4024-888b-78c063148db8",
+      "size": null,
+      "state": "active",
+      "url": "https://infra.datos.gob.ar/catalog/sspm/dataset/100/distribution/100.3/download/indice-precios-al-consumidor-bienes-servicios-base-2003-mensual.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "f5df7077-89b0-4024-888b-78c063148db8",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "Información Económica al Día",
+      "id": "0d300a9a-0802-46c3-9a40-2f28ddf050ec",
+      "name": "Información Económica al Día",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Precios",
+      "id": "308c2aaf-f177-4728-bda5-fd41662741a2",
+      "name": "Precios",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Índice de Precios al Consumidor (IPC) Nacional. Por capítulos. Base 2003. SERIE DISCONTINUADA",
+  "type": "dataset",
+  "url": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/",
+  "version": null
+}

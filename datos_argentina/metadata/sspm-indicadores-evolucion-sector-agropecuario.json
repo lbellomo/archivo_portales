@@ -1,0 +1,149 @@
+{
+  "author": "Subsecretaría de Programación Macroeconómica",
+  "author_email": "datoseconomicos@mecon.gov.ar",
+  "creator_user_id": "4720e75a-9e17-4dc3-879d-041917c7f9f9",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P1Y"
+    },
+    {
+      "key": "issued",
+      "value": "2017-09-28"
+    },
+    {
+      "key": "language",
+      "value": "[\"SPA\"]"
+    },
+    {
+      "key": "source",
+      "value": "Ministerio de Agroindustria"
+    },
+    {
+      "key": "spatial",
+      "value": "ARG"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"ECON\"]"
+    },
+    {
+      "key": "temporal",
+      "value": "1979-01-01/2018-01-01"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Economía y finanzas",
+      "display_name": "Economía y finanzas",
+      "id": "60b4b03e-10a1-4d67-b984-08008a249617",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225257.200233economia-finanzas.svg",
+      "name": "econ",
+      "title": "Economía y finanzas"
+    }
+  ],
+  "id": "sspm_34",
+  "isopen": true,
+  "license_id": "CC-BY-4.0",
+  "license_title": "Creative Commons Attribution 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "maintainer": "Subsecretaría de Programación Macroeconómica.",
+  "maintainer_email": "datoseconomicos@mecon.gov.ar",
+  "metadata_created": "2019-11-26T15:04:21.114866",
+  "metadata_modified": "2021-04-29T21:05:23.481366",
+  "name": "sspm-indicadores-evolucion-sector-agropecuario",
+  "notes": "Superficie sembrada y producción de cereales, oleaginosas y cultivos industriales",
+  "num_resources": 2,
+  "num_tags": 2,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:09.718132",
+    "description": "",
+    "id": "68f9ee22-5ec3-44cf-a32b-b87d9db46b93",
+    "image_url": "",
+    "is_organization": true,
+    "name": "sspm",
+    "revision_id": "bc058ce0-3540-4204-96cd-9f9ec79045b3",
+    "state": "active",
+    "title": "Subsecretaría de Programación Macroeconómica",
+    "type": "organization"
+  },
+  "owner_org": "68f9ee22-5ec3-44cf-a32b-b87d9db46b93",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/",
+      "attributesDescription": "[{\"title\": \"indice_tiempo\", \"type\": \"date\", \"specialType\": \"time_index\", \"specialTypeDetail\": \"R/P1Y\", \"id\": \"34.1_IT_0_P_13\", \"scrapingIdentifierCell\": \"A9\", \"scrapingDataStartCell\": \"A10\", \"dataset_identifier\": \"34\", \"distribution_identifier\": \"34.1\"}, {\"title\": \"algodon_hectareas\", \"type\": \"number\", \"description\": \"Indicadores de evoluci\\u00f3n del sector agropecuario. Superficie sembrada de algod\\u00f3n en hect\\u00e1reas\", \"id\": \"34.1_AHALG_0_P_17\", \"scrapingIdentifierCell\": \"B9\", \"scrapingDataStartCell\": \"B10\", \"units\": \"Hect\\u00e1reas\", \"dataset_identifier\": \"34\", \"distribution_identifier\": \"34.1\"}, {\"title\": \"alpistes_hectareas\", \"type\": \"number\", \"description\": \"Indicadores de evoluci\\u00f3n del sector agropecuario. Superficie sembrada de alpiste en hect\\u00e1reas\", \"id\": \"34.1_AHALP_0_P_18\", \"scrapingIdentifierCell\": \"D9\", \"scrapingDataStartCell\": \"D10\", \"units\": \"Hect\\u00e1reas\", \"dataset_identifier\": \"34\", \"distribution_identifier\": \"34.1\"}, {\"title\": \"arroz_hectareas\", \"type\": \"number\", \"description\": \"Indicadores de evoluci\\u00f3n del sector agropecuario. Superficie sembrada de arroz en hect\\u00e1reas\", \"id\": \"34.1_AHARR_0_P_15\", \"scrapingIdentifierCell\": \"F9\", \"scrapingDataStartCell\": \"F10\", \"units\": \"Hect\\u00e1reas\", \"dataset_identifier\": \"34\", \"distribution_identifier\": \"34.1\"}, {\"title\": \"avena_hectareas\", \"type\": \"number\", \"description\": \"Indicadores de evoluci\\u00f3n del sector agropecuario. Superficie sembrada de avena en hect\\u00e1reas\", \"id\": \"34.1_AHAVE_0_P_15\", \"scrapingIdentifierCell\": \"H9\", \"scrapingDataStartCell\": \"H10\", \"units\": \"Hect\\u00e1reas\", \"dataset_identifier\": \"34\", \"distribution_identifier\": \"34.1\"}, {\"title\": \"cartamo_hectareas\", \"type\": \"number\", \"description\": \"Indicadores de evoluci\\u00f3n del sector agropecuario. Superficie sembrada de cartamo en hect\\u00e1reas\", \"id\": \"34.1_CHCAR_0_P_17\", \"scrapingIdentifierCell\": \"J9\", \"scrapingDataStartCell\": \"J10\", \"units\": \"Hect\\u00e1reas\", \"dataset_identifier\": \"34\", \"distribution_identifier\": \"34.1\"}, {\"title\": \"cebada_cervecera_hectareas\", \"type\": \"number\", \"description\": \"Indicadores de evoluci\\u00f3n del sector agropecuario. Superficie sembrada de cebada cervecera en hect\\u00e1reas\", \"id\": \"34.1_CCHCEB_0_P_26\", \"scrapingIdentifierCell\": \"L9\", \"scrapingDataStartCell\": \"L10\", \"units\": \"Hect\\u00e1reas\", \"dataset_identifier\": \"34\", \"distribution_identifier\": \"34.1\"}, {\"title\": \"cebada_forrajera_hectareas\", \"type\": \"number\", \"description\": \"Indicadores de evoluci\\u00f3n del sector agropecuario. Superficie sembrada de cebada forrajera en hect\\u00e1reas\", \"id\": \"34.1_CFHCEB_0_P_26\", \"scrapingIdentifierCell\": \"N9\", \"scrapingDataStartCell\": \"N10\", \"units\": \"Hect\\u00e1reas\", \"dataset_identifier\": \"34\", \"distribution_identifier\": \"34.1\"}, {\"title\": \"centeno_hectareas\", \"type\": \"number\", \"description\": \"Indicadores de evoluci\\u00f3n del sector agropecuario. Superficie sembrada de centeno en hect\\u00e1reas\", \"id\": \"34.1_CHCEN_0_P_17\", \"scrapingIdentifierCell\": \"P9\", \"scrapingDataStartCell\": \"P10\", \"units\": \"Hect\\u00e1reas\", \"dataset_identifier\": \"34\", \"distribution_identifier\": \"34.1\"}, {\"title\": \"colza_hectareas\", \"type\": \"number\", \"description\": \"Indicadores de evoluci\\u00f3n del sector agropecuario. Superficie sembrada de colza en hect\\u00e1reas\", \"id\": \"34.1_CHCOL_0_P_15\", \"scrapingIdentifierCell\": \"R9\", \"scrapingDataStartCell\": \"R10\", \"units\": \"Hect\\u00e1reas\", \"dataset_identifier\": \"34\", \"distribution_identifier\": \"34.1\"}, {\"title\": \"girasol_hectareas\", \"type\": \"number\", \"description\": \"Indicadores de evoluci\\u00f3n del sector agropecuario. Superficie sembrada de girasol en hect\\u00e1reas\", \"id\": \"34.1_GHGIR_0_P_17\", \"scrapingIdentifierCell\": \"T9\", \"scrapingDataStartCell\": \"T10\", \"units\": \"Hect\\u00e1reas\", \"dataset_identifier\": \"34\", \"distribution_identifier\": \"34.1\"}, {\"title\": \"lino_hectareas\", \"type\": \"number\", \"description\": \"Indicadores de evoluci\\u00f3n del sector agropecuario. Superficie sembrada de lino en hect\\u00e1reas\", \"id\": \"34.1_LHLIN_0_P_14\", \"scrapingIdentifierCell\": \"V9\", \"scrapingDataStartCell\": \"V10\", \"units\": \"Hect\\u00e1reas\", \"dataset_identifier\": \"34\", \"distribution_identifier\": \"34.1\"}, {\"title\": \"maiz_hectareas\", \"type\": \"number\", \"description\": \"Indicadores de evoluci\\u00f3n del sector agropecuario. Superficie sembrada de maiz en hect\\u00e1reas\", \"id\": \"34.1_MHMAI_0_P_14\", \"scrapingIdentifierCell\": \"X9\", \"scrapingDataStartCell\": \"X10\", \"units\": \"Hect\\u00e1reas\", \"dataset_identifier\": \"34\", \"distribution_identifier\": \"34.1\"}, {\"title\": \"mani_hectareas\", \"type\": \"number\", \"description\": \"Indicadores de evoluci\\u00f3n del sector agropecuario. Superficie sembrada de mani en hect\\u00e1reas\", \"id\": \"34.1_MHMAN_0_P_14\", \"scrapingIdentifierCell\": \"Z9\", \"scrapingDataStartCell\": \"Z10\", \"units\": \"Hect\\u00e1reas\", \"dataset_identifier\": \"34\", \"distribution_identifier\": \"34.1\"}, {\"title\": \"mijo_hectareas\", \"type\": \"number\", \"description\": \"Indicadores de evoluci\\u00f3n del sector agropecuario. Superficie sembrada de mijo en hect\\u00e1reas\", \"id\": \"34.1_MHMIJ_0_P_14\", \"scrapingIdentifierCell\": \"AB9\", \"scrapingDataStartCell\": \"AB10\", \"units\": \"Hect\\u00e1reas\", \"dataset_identifier\": \"34\", \"distribution_identifier\": \"34.1\"}, {\"title\": \"poroto_hectareas\", \"type\": \"number\", \"description\": \"Indicadores de evoluci\\u00f3n del sector agropecuario. Superficie sembrada de poroto en hect\\u00e1reas\", \"id\": \"34.1_PHPOR_0_P_16\", \"scrapingIdentifierCell\": \"AD9\", \"scrapingDataStartCell\": \"AD10\", \"units\": \"Hect\\u00e1reas\", \"dataset_identifier\": \"34\", \"distribution_identifier\": \"34.1\"}, {\"title\": \"soja_hectareas\", \"type\": \"number\", \"description\": \"Indicadores de evoluci\\u00f3n del sector agropecuario. Superficie sembrada de soja en hect\\u00e1reas\", \"id\": \"34.1_SHSOJ_0_P_14\", \"scrapingIdentifierCell\": \"AF9\", \"scrapingDataStartCell\": \"AF10\", \"units\": \"Hect\\u00e1reas\", \"dataset_identifier\": \"34\", \"distribution_identifier\": \"34.1\"}, {\"title\": \"sorgo_granifero_hectareas\", \"type\": \"number\", \"description\": \"Indicadores de evoluci\\u00f3n del sector agropecuario. Superficie sembrada de sorgo gran\\u00edfero en hect\\u00e1reas\", \"id\": \"34.1_SGHSOR_0_P_25\", \"scrapingIdentifierCell\": \"AH9\", \"scrapingDataStartCell\": \"AH10\", \"units\": \"Hect\\u00e1reas\", \"dataset_identifier\": \"34\", \"distribution_identifier\": \"34.1\"}, {\"title\": \"trigo_hectareas\", \"type\": \"number\", \"description\": \"Indicadores de evoluci\\u00f3n del sector agropecuario. Superficie sembrada de trigo en hect\\u00e1reas\", \"id\": \"34.1_THTRI_0_P_15\", \"scrapingIdentifierCell\": \"AJ9\", \"scrapingDataStartCell\": \"AJ10\", \"units\": \"Hect\\u00e1reas\", \"dataset_identifier\": \"34\", \"distribution_identifier\": \"34.1\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-09-28T00:00:00",
+      "datastore_active": false,
+      "description": "Indicadores de evolución del sector agropecuario. Superficie sembrada (ha)",
+      "fileName": "indicadores-evolucion-sector-agropecuario-valores-por-campana.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "sspm_34.1",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Evolución del sector agropecuario. Valores por campaña",
+      "package_id": "sspm_34",
+      "position": 0,
+      "resource_type": null,
+      "revision_id": "7f2d8fe5-7b7b-4204-89a5-924022aec3c2",
+      "size": null,
+      "state": "active",
+      "url": "https://infra.datos.gob.ar/catalog/sspm/dataset/34/distribution/34.1/download/indicadores-evolucion-sector-agropecuario-valores-por-campana.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/",
+      "attributesDescription": "[{\"title\": \"indice_tiempo\", \"type\": \"date\", \"specialType\": \"time_index\", \"specialTypeDetail\": \"R/P1Y\", \"id\": \"34.2_IT_0_P_13\", \"scrapingIdentifierCell\": \"A8\", \"scrapingDataStartCell\": \"A10\", \"dataset_identifier\": \"34\", \"distribution_identifier\": \"34.2\"}, {\"title\": \"algodon_toneladadas\", \"type\": \"number\", \"description\": \"Indicadores de evoluci\\u00f3n del sector agropecuario. Producci\\u00f3n de algod\\u00f3n en toneladas\", \"id\": \"34.2_ATALG_0_P_19\", \"scrapingIdentifierCell\": \"C9\", \"scrapingDataStartCell\": \"C10\", \"units\": \"Toneladas\", \"dataset_identifier\": \"34\", \"distribution_identifier\": \"34.2\"}, {\"title\": \"alpiste_toneladadas\", \"type\": \"number\", \"description\": \"Indicadores de evoluci\\u00f3n del sector agropecuario. Producci\\u00f3n de alpiste en toneladas\", \"id\": \"34.2_ATALP_0_P_19\", \"scrapingIdentifierCell\": \"E9\", \"scrapingDataStartCell\": \"E10\", \"units\": \"Toneladas\", \"dataset_identifier\": \"34\", \"distribution_identifier\": \"34.2\"}, {\"title\": \"arroz_toneladadas\", \"type\": \"number\", \"description\": \"Indicadores de evoluci\\u00f3n del sector agropecuario. Producci\\u00f3n de arroz en toneladas\", \"id\": \"34.2_ATARR_0_P_17\", \"scrapingIdentifierCell\": \"G9\", \"scrapingDataStartCell\": \"G10\", \"units\": \"Toneladas\", \"dataset_identifier\": \"34\", \"distribution_identifier\": \"34.2\"}, {\"title\": \"avena_toneladadas\", \"type\": \"number\", \"description\": \"Indicadores de evoluci\\u00f3n del sector agropecuario. Producci\\u00f3n de avena en toneladas\", \"id\": \"34.2_ATAVE_0_P_17\", \"scrapingIdentifierCell\": \"I9\", \"scrapingDataStartCell\": \"I10\", \"units\": \"Toneladas\", \"dataset_identifier\": \"34\", \"distribution_identifier\": \"34.2\"}, {\"title\": \"cartamo_toneladadas\", \"type\": \"number\", \"description\": \"Indicadores de evoluci\\u00f3n del sector agropecuario. Producci\\u00f3n de cartamo en toneladas\", \"id\": \"34.2_CTCAR_0_P_19\", \"scrapingIdentifierCell\": \"K9\", \"scrapingDataStartCell\": \"K10\", \"units\": \"Toneladas\", \"dataset_identifier\": \"34\", \"distribution_identifier\": \"34.2\"}, {\"title\": \"cebada_cervecera_toneladadas\", \"type\": \"number\", \"description\": \"Indicadores de evoluci\\u00f3n del sector agropecuario. Producci\\u00f3n de cebada cervecera en toneladas\", \"id\": \"34.2_CCTCEB_0_P_28\", \"scrapingIdentifierCell\": \"M9\", \"scrapingDataStartCell\": \"M10\", \"units\": \"Toneladas\", \"dataset_identifier\": \"34\", \"distribution_identifier\": \"34.2\"}, {\"title\": \"cebada_forrajera_toneladadas\", \"type\": \"number\", \"description\": \"Indicadores de evoluci\\u00f3n del sector agropecuario. Producci\\u00f3n de cebada forrajera en toneladas\", \"id\": \"34.2_CFTCEB_0_P_28\", \"scrapingIdentifierCell\": \"O9\", \"scrapingDataStartCell\": \"O10\", \"units\": \"Toneladas\", \"dataset_identifier\": \"34\", \"distribution_identifier\": \"34.2\"}, {\"title\": \"centeno_toneladadas\", \"type\": \"number\", \"description\": \"Indicadores de evoluci\\u00f3n del sector agropecuario. Producci\\u00f3n de centeno en toneladas\", \"id\": \"34.2_CTCEN_0_P_19\", \"scrapingIdentifierCell\": \"Q9\", \"scrapingDataStartCell\": \"Q10\", \"units\": \"Toneladas\", \"dataset_identifier\": \"34\", \"distribution_identifier\": \"34.2\"}, {\"title\": \"colza_toneladadas\", \"type\": \"number\", \"description\": \"Indicadores de evoluci\\u00f3n del sector agropecuario. Producci\\u00f3n de colza en toneladas\", \"id\": \"34.2_CTCOL_0_P_17\", \"scrapingIdentifierCell\": \"S9\", \"scrapingDataStartCell\": \"S10\", \"units\": \"Toneladas\", \"dataset_identifier\": \"34\", \"distribution_identifier\": \"34.2\"}, {\"title\": \"girasol_toneladadas\", \"type\": \"number\", \"description\": \"Indicadores de evoluci\\u00f3n del sector agropecuario. Producci\\u00f3n de girasol en toneladas\", \"id\": \"34.2_GTGIR_0_P_19\", \"scrapingIdentifierCell\": \"U9\", \"scrapingDataStartCell\": \"U10\", \"units\": \"Toneladas\", \"dataset_identifier\": \"34\", \"distribution_identifier\": \"34.2\"}, {\"title\": \"lino_toneladadas\", \"type\": \"number\", \"description\": \"Indicadores de evoluci\\u00f3n del sector agropecuario. Producci\\u00f3n de lino en toneladas\", \"id\": \"34.2_LTLIN_0_P_16\", \"scrapingIdentifierCell\": \"W9\", \"scrapingDataStartCell\": \"W10\", \"units\": \"Toneladas\", \"dataset_identifier\": \"34\", \"distribution_identifier\": \"34.2\"}, {\"title\": \"maiz_toneladadas\", \"type\": \"number\", \"description\": \"Indicadores de evoluci\\u00f3n del sector agropecuario. Producci\\u00f3n de maiz en toneladas\", \"id\": \"34.2_MTMAI_0_P_16\", \"scrapingIdentifierCell\": \"Y9\", \"scrapingDataStartCell\": \"Y10\", \"units\": \"Toneladas\", \"dataset_identifier\": \"34\", \"distribution_identifier\": \"34.2\"}, {\"title\": \"mani_toneladadas\", \"type\": \"number\", \"description\": \"Indicadores de evoluci\\u00f3n del sector agropecuario. Producci\\u00f3n de mani en toneladas\", \"id\": \"34.2_MTMAN_0_P_16\", \"scrapingIdentifierCell\": \"AA9\", \"scrapingDataStartCell\": \"AA10\", \"units\": \"Hect\\u00e1reas\", \"dataset_identifier\": \"34\", \"distribution_identifier\": \"34.2\"}, {\"title\": \"mijo_toneladadas\", \"type\": \"number\", \"description\": \"Indicadores de evoluci\\u00f3n del sector agropecuario. Producci\\u00f3n de mijo en toneladas\", \"id\": \"34.2_MTMIJ_0_P_16\", \"scrapingIdentifierCell\": \"AC9\", \"scrapingDataStartCell\": \"AC10\", \"units\": \"Toneladas\", \"dataset_identifier\": \"34\", \"distribution_identifier\": \"34.2\"}, {\"title\": \"poroto_toneladadas\", \"type\": \"number\", \"description\": \"Indicadores de evoluci\\u00f3n del sector agropecuario. Producci\\u00f3n de poroto en toneladas\", \"id\": \"34.2_PTPOR_0_P_18\", \"scrapingIdentifierCell\": \"AE9\", \"scrapingDataStartCell\": \"AE10\", \"units\": \"Toneladas\", \"dataset_identifier\": \"34\", \"distribution_identifier\": \"34.2\"}, {\"title\": \"soja_toneladadas\", \"type\": \"number\", \"description\": \"Indicadores de evoluci\\u00f3n del sector agropecuario. Producci\\u00f3n de soja en toneladas\", \"id\": \"34.2_STSOJ_0_P_16\", \"scrapingIdentifierCell\": \"AG9\", \"scrapingDataStartCell\": \"AG10\", \"units\": \"Toneladas\", \"dataset_identifier\": \"34\", \"distribution_identifier\": \"34.2\"}, {\"title\": \"sorgogranifero_toneladadas\", \"type\": \"number\", \"description\": \"Indicadores de evoluci\\u00f3n del sector agropecuario. Producci\\u00f3n de sorgo granifero en toneladas\", \"id\": \"34.2_STSOR_0_P_26\", \"scrapingIdentifierCell\": \"AI9\", \"scrapingDataStartCell\": \"AI10\", \"units\": \"Toneladas\", \"dataset_identifier\": \"34\", \"distribution_identifier\": \"34.2\"}, {\"title\": \"trigo_toneladadas\", \"type\": \"number\", \"description\": \"Indicadores de evoluci\\u00f3n del sector agropecuario. Producci\\u00f3n de trigo en toneladas\", \"id\": \"34.2_TTTRI_0_P_17\", \"scrapingIdentifierCell\": \"AK9\", \"scrapingDataStartCell\": \"AK10\", \"units\": \"Toneladas\", \"dataset_identifier\": \"34\", \"distribution_identifier\": \"34.2\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-09-28T00:00:00",
+      "datastore_active": false,
+      "description": "Indicadores de evolución del sector agropecuario. Producción (tn)",
+      "fileName": "indicadores-evolucion-sector-agropecuario-valores-por-campana.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "sspm_34.2",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Evolución del sector agropecuario. Valores por campaña",
+      "package_id": "sspm_34",
+      "position": 1,
+      "resource_type": null,
+      "revision_id": "7f2d8fe5-7b7b-4204-89a5-924022aec3c2",
+      "size": null,
+      "state": "active",
+      "url": "https://infra.datos.gob.ar/catalog/sspm/dataset/34/distribution/34.2/download/indicadores-evolucion-sector-agropecuario-valores-por-campana.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "7f2d8fe5-7b7b-4204-89a5-924022aec3c2",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "Actividad",
+      "id": "a7695c51-c893-4ece-8ff9-306c197afdd7",
+      "name": "Actividad",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Información Económica al Día",
+      "id": "0d300a9a-0802-46c3-9a40-2f28ddf050ec",
+      "name": "Información Económica al Día",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Indicadores de evolución del sector agropecuario",
+  "type": "dataset",
+  "url": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/",
+  "version": null
+}

@@ -1,0 +1,149 @@
+{
+  "author": "Subsecretaría de Programación Macroeconómica",
+  "author_email": "datoseconomicos@mecon.gov.ar",
+  "creator_user_id": "4720e75a-9e17-4dc3-879d-041917c7f9f9",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P1D"
+    },
+    {
+      "key": "issued",
+      "value": "2017-09-28"
+    },
+    {
+      "key": "language",
+      "value": "[\"SPA\"]"
+    },
+    {
+      "key": "source",
+      "value": "Banco Central de la República Argentina (BCRA)"
+    },
+    {
+      "key": "spatial",
+      "value": "ARG"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"ECON\"]"
+    },
+    {
+      "key": "temporal",
+      "value": "1996-01-01/2017-05-01"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Economía y finanzas",
+      "display_name": "Economía y finanzas",
+      "id": "60b4b03e-10a1-4d67-b984-08008a249617",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225257.200233economia-finanzas.svg",
+      "name": "econ",
+      "title": "Economía y finanzas"
+    }
+  ],
+  "id": "sspm_89",
+  "isopen": true,
+  "license_id": "CC-BY-4.0",
+  "license_title": "Creative Commons Attribution 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "maintainer": "Subsecretaría de Programación Macroeconómica.",
+  "maintainer_email": "datoseconomicos@mecon.gov.ar",
+  "metadata_created": "2019-11-26T15:05:44.471130",
+  "metadata_modified": "2021-04-29T21:05:38.137679",
+  "name": "sspm-principales-tasas-interes",
+  "notes": "Principales tasas de interés a plazo publicadas por el BCRA. Promedios mensuales. En % n.a.",
+  "num_resources": 2,
+  "num_tags": 2,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:09.718132",
+    "description": "",
+    "id": "68f9ee22-5ec3-44cf-a32b-b87d9db46b93",
+    "image_url": "",
+    "is_organization": true,
+    "name": "sspm",
+    "revision_id": "bc058ce0-3540-4204-96cd-9f9ec79045b3",
+    "state": "active",
+    "title": "Subsecretaría de Programación Macroeconómica",
+    "type": "organization"
+  },
+  "owner_org": "68f9ee22-5ec3-44cf-a32b-b87d9db46b93",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/",
+      "attributesDescription": "[{\"title\": \"indice_tiempo\", \"type\": \"date\", \"specialType\": \"time_index\", \"specialTypeDetail\": \"R/P1M\", \"id\": \"89.1_IT_0_0_13\", \"scrapingIdentifierCell\": \"A9\", \"scrapingDataStartCell\": \"A10\", \"dataset_identifier\": \"89\", \"distribution_identifier\": \"89.1\"}, {\"title\": \"tasas_interes_cajas_ahorro\", \"type\": \"number\", \"description\": \"Tasas de inter\\u00e9s publicadas por el BCRA. Caja de ahorro.  En porcentaje\", \"id\": \"89.1_TICA_0_0_26\", \"scrapingIdentifierCell\": \"B9\", \"scrapingDataStartCell\": \"B10\", \"units\": \"Porcentaje (0-100)\", \"dataset_identifier\": \"89\", \"distribution_identifier\": \"89.1\"}, {\"title\": \"tasas_interes_plazo_fijo_30_59_dias\", \"type\": \"number\", \"description\": \"Tasas de inter\\u00e9s publicadas por el BCRA. Plazo fijo entre 30 a 59 d\\u00edas.  En porcentaje\", \"id\": \"89.1_TIPF35D_0_0_35\", \"scrapingIdentifierCell\": \"C9\", \"scrapingDataStartCell\": \"C10\", \"units\": \"Porcentaje (0-100)\", \"dataset_identifier\": \"89\", \"distribution_identifier\": \"89.1\"}, {\"title\": \"tasas_interes_plazo_fijo_mas_60_dias\", \"type\": \"number\", \"description\": \"Tasas de inter\\u00e9s publicadas por el BCRA. Plazo fijo m\\u00e1s de 60 d\\u00edas.  En porcentaje\", \"id\": \"89.1_TIPFM6D_0_0_36\", \"scrapingIdentifierCell\": \"D9\", \"scrapingDataStartCell\": \"D10\", \"units\": \"Porcentaje (0-100)\", \"dataset_identifier\": \"89\", \"distribution_identifier\": \"89.1\"}, {\"title\": \"tasas_interes_call\", \"type\": \"number\", \"description\": \"Tasas de inter\\u00e9s publicadas por el BCRA. Call.  En porcentaje\", \"id\": \"89.1_TIC_0_0_18\", \"scrapingIdentifierCell\": \"E9\", \"scrapingDataStartCell\": \"E10\", \"units\": \"Porcentaje (0-100)\", \"dataset_identifier\": \"89\", \"distribution_identifier\": \"89.1\"}, {\"title\": \"tasas_interes_prime\", \"type\": \"number\", \"description\": \"Tasas de inter\\u00e9s publicadas por el BCRA. Prime.  En porcentaje\", \"id\": \"89.1_TIP_0_0_19\", \"scrapingIdentifierCell\": \"F9\", \"scrapingDataStartCell\": \"F10\", \"units\": \"Porcentaje (0-100)\", \"dataset_identifier\": \"89\", \"distribution_identifier\": \"89.1\"}, {\"title\": \"tasas_interes_adelantos_cc\", \"type\": \"number\", \"description\": \"Tasas de inter\\u00e9s publicadas por el BCRA. Adelantos en cuenta corriente\", \"id\": \"89.1_TIAC_0_0_26\", \"scrapingIdentifierCell\": \"G9\", \"scrapingDataStartCell\": \"G10\", \"units\": \"Porcentaje (0-100)\", \"dataset_identifier\": \"89\", \"distribution_identifier\": \"89.1\"}, {\"title\": \"tasas_interes_badlar\", \"type\": \"number\", \"description\": \"Tasas de inter\\u00e9s publicadas por el BCRA. Badlar.  En porcentaje\", \"id\": \"89.1_TIB_0_0_20\", \"scrapingIdentifierCell\": \"H9\", \"scrapingDataStartCell\": \"H10\", \"units\": \"Porcentaje (0-100)\", \"dataset_identifier\": \"89\", \"distribution_identifier\": \"89.1\"}, {\"title\": \"instr_bcra_pases_pesos_pasivos_1_dia\", \"type\": \"number\", \"description\": \"Instrumentos del BCRA. Pases en pesos. Pasivos 1 d\\u00eda\", \"id\": \"89.1_IR_BCRADIA_0_M_36\", \"scrapingIdentifierCell\": \"I9\", \"scrapingDataStartCell\": \"I10\", \"units\": \"Porcentaje (0-100)\", \"dataset_identifier\": \"89\", \"distribution_identifier\": \"89.1\"}, {\"title\": \"instr_bcra_pases_pesos_pasivos_7_dias\", \"type\": \"number\", \"description\": \"Instrumentos del BCRA. Pases en pesos. Pasivos 7 d\\u00edas\", \"id\": \"89.1_IR_BCRAIAS_0_M_37\", \"scrapingIdentifierCell\": \"J9\", \"scrapingDataStartCell\": \"J10\", \"units\": \"Porcentaje (0-100)\", \"dataset_identifier\": \"89\", \"distribution_identifier\": \"89.1\"}, {\"title\": \"instr_bcra_pases_pesos_activos_1_dias\", \"type\": \"number\", \"description\": \"Instrumentos del BCRA. Pases en pesos. Activos 1 d\\u00eda\", \"id\": \"89.1_IR_BCRAIAS_1_DIA_0_M_37\", \"scrapingIdentifierCell\": \"K9\", \"scrapingDataStartCell\": \"K10\", \"units\": \"Porcentaje (0-100)\", \"dataset_identifier\": \"89\", \"distribution_identifier\": \"89.1\"}, {\"title\": \"instr_bcra_pases_pesos_activos_7_dias\", \"type\": \"number\", \"description\": \"Instrumentos del BCRA. Pases en pesos. Activos 7 d\\u00edas\", \"id\": \"89.1_IR_BCRAIAS_7_DIAS_0_M_37\", \"scrapingIdentifierCell\": \"L9\", \"scrapingDataStartCell\": \"L10\", \"units\": \"Porcentaje (0-100)\", \"dataset_identifier\": \"89\", \"distribution_identifier\": \"89.1\"}, {\"title\": \"instr_bcra_tasa_politica_monetaria\", \"type\": \"number\", \"description\": \"Instrumentos del BCRA. Tasa de pol\\u00edtica monetaria\", \"id\": \"89.1_IR_BCRARIA_0_M_34\", \"scrapingIdentifierCell\": \"M9\", \"scrapingDataStartCell\": \"M10\", \"units\": \"Porcentaje (0-100)\", \"dataset_identifier\": \"89\", \"distribution_identifier\": \"89.1\"}, {\"title\": \"instr_bcra_lebac_pesos_1_m\", \"type\": \"number\", \"description\": \"Instrumentos del BCRA. LEBAC en pesos 1 mes\", \"id\": \"89.1_IR_BCRA1_M_0_M_26\", \"scrapingIdentifierCell\": \"N9\", \"scrapingDataStartCell\": \"N10\", \"units\": \"Porcentaje (0-100)\", \"dataset_identifier\": \"89\", \"distribution_identifier\": \"89.1\"}, {\"title\": \"instr_bcra_lebac_pesos_2_m\", \"type\": \"number\", \"description\": \"Instrumentos del BCRA. LEBAC en pesos 2 meses\", \"id\": \"89.1_IR_BCRA2_M_0_M_26\", \"scrapingIdentifierCell\": \"O9\", \"scrapingDataStartCell\": \"O10\", \"units\": \"Porcentaje (0-100)\", \"dataset_identifier\": \"89\", \"distribution_identifier\": \"89.1\"}, {\"title\": \"instr_bcra_lebac_pesos_3_m\", \"type\": \"number\", \"description\": \"Instrumentos del BCRA. LEBAC en pesos 3 meses\", \"id\": \"89.1_IR_BCRA3_M_0_M_26\", \"scrapingIdentifierCell\": \"P9\", \"scrapingDataStartCell\": \"P10\", \"units\": \"Porcentaje (0-100)\", \"dataset_identifier\": \"89\", \"distribution_identifier\": \"89.1\"}, {\"title\": \"instr_bcra_lebac_pesos_4_m\", \"type\": \"number\", \"description\": \"Instrumentos del BCRA. LEBAC en pesos 4 meses\", \"id\": \"89.1_IR_BCRA4_M_0_M_26\", \"scrapingIdentifierCell\": \"Q9\", \"scrapingDataStartCell\": \"Q10\", \"units\": \"Porcentaje (0-100)\", \"dataset_identifier\": \"89\", \"distribution_identifier\": \"89.1\"}, {\"title\": \"instr_bcra_lebac_pesos_5_m\", \"type\": \"number\", \"description\": \"Instrumentos del BCRA. LEBAC en pesos 5 meses\", \"id\": \"89.1_IR_BCRA5_M_0_M_26\", \"scrapingIdentifierCell\": \"R9\", \"scrapingDataStartCell\": \"R10\", \"units\": \"Porcentaje (0-100)\", \"dataset_identifier\": \"89\", \"distribution_identifier\": \"89.1\"}, {\"title\": \"instr_bcra_lebac_pesos_6_m\", \"type\": \"number\", \"description\": \"Instrumentos del BCRA. LEBAC en pesos 6 meses\", \"id\": \"89.1_IR_BCRA6_M_0_M_26\", \"scrapingIdentifierCell\": \"S9\", \"scrapingDataStartCell\": \"S10\", \"units\": \"Porcentaje (0-100)\", \"dataset_identifier\": \"89\", \"distribution_identifier\": \"89.1\"}, {\"title\": \"instr_bcra_lebac_pesos_7_m\", \"type\": \"number\", \"description\": \"Instrumentos del BCRA. LEBAC en pesos 7 meses\", \"id\": \"89.1_IR_BCRA7_M_0_M_26\", \"scrapingIdentifierCell\": \"T9\", \"scrapingDataStartCell\": \"T10\", \"units\": \"Porcentaje (0-100)\", \"dataset_identifier\": \"89\", \"distribution_identifier\": \"89.1\"}, {\"title\": \"instr_bcra_lebac_pesos_8_m\", \"type\": \"number\", \"description\": \"Instrumentos del BCRA. LEBAC en pesos 8 meses\", \"id\": \"89.1_IR_BCRA8_M_0_M_26\", \"scrapingIdentifierCell\": \"U9\", \"scrapingDataStartCell\": \"U10\", \"units\": \"Porcentaje (0-100)\", \"dataset_identifier\": \"89\", \"distribution_identifier\": \"89.1\"}, {\"title\": \"instr_bcra_lebac_pesos_9_m\", \"type\": \"number\", \"description\": \"Instrumentos del BCRA. LEBAC en pesos 9 meses\", \"id\": \"89.1_IR_BCRA9_M_0_M_26\", \"scrapingIdentifierCell\": \"V9\", \"scrapingDataStartCell\": \"V10\", \"units\": \"Porcentaje (0-100)\", \"dataset_identifier\": \"89\", \"distribution_identifier\": \"89.1\"}, {\"title\": \"instr_bcra_lebac_pesos_10_m\", \"type\": \"number\", \"description\": \"Instrumentos del BCRA. LEBAC en pesos 10 meses\", \"id\": \"89.1_IR_BCRA0_M_0_M_27\", \"scrapingIdentifierCell\": \"W9\", \"scrapingDataStartCell\": \"W10\", \"units\": \"Porcentaje (0-100)\", \"dataset_identifier\": \"89\", \"distribution_identifier\": \"89.1\"}, {\"title\": \"tasas_interes_activas_adelantos\", \"type\": \"number\", \"description\": \"Tasas de inter\\u00e9s activas. Adelantos\", \"id\": \"89.1_TS_INTETOS_0_M_31\", \"scrapingIdentifierCell\": \"X9\", \"scrapingDataStartCell\": \"X10\", \"units\": \"Porcentaje (0-100)\", \"dataset_identifier\": \"89\", \"distribution_identifier\": \"89.1\"}, {\"title\": \"tasas_interes_activas_documentos\", \"type\": \"number\", \"description\": \"Tasas de interes activas. Documentos\", \"id\": \"89.1_TS_INTETOS_0_M_32\", \"scrapingIdentifierCell\": \"Y9\", \"scrapingDataStartCell\": \"Y10\", \"units\": \"Porcentaje (0-100)\", \"dataset_identifier\": \"89\", \"distribution_identifier\": \"89.1\"}, {\"title\": \"tasas_interes_activas_hipotecarios\", \"type\": \"number\", \"description\": \"Tasas de interes activas. Hipotecarios\", \"id\": \"89.1_TS_INTEIOS_0_M_34\", \"scrapingIdentifierCell\": \"Z9\", \"scrapingDataStartCell\": \"Z10\", \"units\": \"Porcentaje (0-100)\", \"dataset_identifier\": \"89\", \"distribution_identifier\": \"89.1\"}, {\"title\": \"tasas_interes_activas_prendarios\", \"type\": \"number\", \"description\": \"Tasas de interes activas. Prendarios\", \"id\": \"89.1_TS_INTEIOS_0_M_32\", \"scrapingIdentifierCell\": \"AA9\", \"scrapingDataStartCell\": \"AA10\", \"units\": \"Porcentaje (0-100)\", \"dataset_identifier\": \"89\", \"distribution_identifier\": \"89.1\"}, {\"title\": \"tasas_interes_activas_personales\", \"type\": \"number\", \"description\": \"Tasas de interes activas. Personales\", \"id\": \"89.1_TS_INTELES_0_M_32\", \"scrapingIdentifierCell\": \"AB9\", \"scrapingDataStartCell\": \"AB10\", \"units\": \"Porcentaje (0-100)\", \"dataset_identifier\": \"89\", \"distribution_identifier\": \"89.1\"}, {\"title\": \"tasas_interes_activas_tarjetas\", \"type\": \"number\", \"description\": \"Tasas de interes activas. Tarjetas\", \"id\": \"89.1_TS_INTETAS_0_M_30\", \"scrapingIdentifierCell\": \"AC9\", \"scrapingDataStartCell\": \"AC10\", \"units\": \"Porcentaje (0-100)\", \"dataset_identifier\": \"89\", \"distribution_identifier\": \"89.1\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-09-28T00:00:00",
+      "datastore_active": false,
+      "description": "Tasa de interés caja de ahorro, tasa de interés plazo fijo, call, prime, adelantos en cuenta corriente y Badlar, valores mensuales",
+      "fileName": "principales-tasas-interes.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "sspm_89.1",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Principales tasas de interés. Valores mensuales",
+      "package_id": "sspm_89",
+      "position": 0,
+      "resource_type": null,
+      "revision_id": "fed21298-ec04-48e3-9531-c7b6780cb613",
+      "size": null,
+      "state": "active",
+      "url": "https://infra.datos.gob.ar/catalog/sspm/dataset/89/distribution/89.1/download/principales-tasas-interes.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/",
+      "attributesDescription": "[{\"title\": \"indice_tiempo\", \"type\": \"date\", \"specialType\": \"time_index\", \"specialTypeDetail\": \"R/P1D\", \"id\": \"89.2_ICE_TIEMPO_0_D_13\", \"scrapingIdentifierCell\": \"A403\", \"scrapingDataStartCell\": \"A404\", \"dataset_identifier\": \"89\", \"distribution_identifier\": \"89.2\"}, {\"title\": \"tasas_interes_call\", \"type\": \"number\", \"description\": \"Tasas de inter\\u00e9s publicadas por el BCRA. Call.\", \"id\": \"89.2_TS_INTEALL_0_D_18\", \"scrapingIdentifierCell\": \"E403\", \"scrapingDataStartCell\": \"E404\", \"units\": \"Porcentaje (0-100)\", \"dataset_identifier\": \"89\", \"distribution_identifier\": \"89.2\"}, {\"title\": \"tasas_interes_badlar\", \"type\": \"number\", \"description\": \"Tasas de inter\\u00e9s publicadas por el BCRA. Badlar.\", \"id\": \"89.2_TS_INTELAR_0_D_20\", \"scrapingIdentifierCell\": \"H403\", \"scrapingDataStartCell\": \"H404\", \"units\": \"Porcentaje (0-100)\", \"dataset_identifier\": \"89\", \"distribution_identifier\": \"89.2\"}, {\"title\": \"tasas_interes_pm\", \"type\": \"number\", \"description\": \"Instrumentos del BCRA. Tasa de Pol\\u00edtica Monetaria.\", \"id\": \"89.2_TS_INTE_PM_0_D_16\", \"scrapingIdentifierCell\": \"M403\", \"scrapingDataStartCell\": \"M404\", \"units\": \"Porcentaje (0-100)\", \"dataset_identifier\": \"89\", \"distribution_identifier\": \"89.2\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-09-28T00:00:00",
+      "datastore_active": false,
+      "description": "Tasa de interés caja de ahorro, tasa de interés plazo fijo, call, prime, adelantos en cuenta corriente y Badlar, valores diarios",
+      "fileName": "principales-tasas-interes-diarias.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "sspm_89.2",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Principales tasas de interés. Valores diarios",
+      "package_id": "sspm_89",
+      "position": 1,
+      "resource_type": null,
+      "revision_id": "a6758320-9d50-4a6b-a4bd-a64133f9f998",
+      "size": null,
+      "state": "active",
+      "url": "https://infra.datos.gob.ar/catalog/sspm/dataset/89/distribution/89.2/download/principales-tasas-interes-diarias.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "c93fa979-24f3-4825-817d-c8c3e7e403bb",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "Dinero y Bancos",
+      "id": "a6e04960-0d58-4c4e-a59c-a2e2ef9ac579",
+      "name": "Dinero y Bancos",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Información económica al día",
+      "id": "a277ffeb-6252-446e-a364-14710b257b35",
+      "name": "Información económica al día",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Principales tasas de interés",
+  "type": "dataset",
+  "url": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/",
+  "version": null
+}

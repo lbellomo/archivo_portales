@@ -1,0 +1,150 @@
+{
+  "author": "Dirección Nacional de Desarrollo Tecnológico - Ministerio de Transporte.",
+  "author_email": null,
+  "creator_user_id": "dc157489-51c6-44ce-bd63-3bd983d60778",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P1D"
+    },
+    {
+      "key": "issued",
+      "value": "2020-12-04T01:42:56.963011"
+    },
+    {
+      "key": "modified",
+      "value": "2020-12-04T01:42:56.963011"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"TRAN\"]"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Transporte",
+      "display_name": "Transporte",
+      "id": "57227cfc-80a6-45d3-9faa-711a98ac8ede",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225933.272993transporte.svg",
+      "name": "tran",
+      "title": "Transporte"
+    }
+  ],
+  "id": "transporte_f7ec7f4a-490f-43e7-bae1-b951e0a3257b",
+  "isopen": true,
+  "license_id": "CC-BY-4.0",
+  "license_title": "Creative Commons Attribution 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "maintainer": null,
+  "maintainer_email": null,
+  "metadata_created": "2021-01-28T14:47:30.088377",
+  "metadata_modified": "2021-04-29T21:11:16.329990",
+  "name": "transporte-sube---cantidad-transacciones-usos-por-fecha",
+  "notes": "SUBE - Cantidad de transacciones (usos) por fecha",
+  "num_resources": 2,
+  "num_tags": 4,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:11.506514",
+    "description": "",
+    "id": "71418928-10c4-4625-aeaf-69a4d73d00ed",
+    "image_url": "",
+    "is_organization": true,
+    "name": "transporte",
+    "revision_id": "dc7b93ef-b174-46ee-90ea-63edf51296f0",
+    "state": "active",
+    "title": " Ministerio de Transporte",
+    "type": "organization"
+  },
+  "owner_org": "71418928-10c4-4625-aeaf-69a4d73d00ed",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "https://datos.transporte.gob.ar/dataset/f7ec7f4a-490f-43e7-bae1-b951e0a3257b/resource/5de00d5f-2b36-491c-8660-426179f32e61",
+      "attributesDescription": "[{\"type\": \"date\", \"description\": \"d\\u00eda de transporte informado\", \"title\": \"dia_transporte\"}, {\"type\": \"string\", \"description\": \"nombre de la empresa de transporte\", \"title\": \"nombre_empresa\"}, {\"type\": \"string\", \"description\": \"descripci\\u00f3n de la l\\u00ednea\", \"title\": \"linea\"}, {\"type\": \"string\", \"description\": \"SI/NO\", \"title\": \"amba\"}, {\"type\": \"string\", \"description\": \"colectivo, tren, subte, lanchas\", \"title\": \"tipo_transporte\"}, {\"type\": \"string\", \"description\": \"tipo de jurisdicci\\u00f3n de la l\\u00ednea (NACIONAL, PROVINCIAL, MUNICIPAL): en caso de subte queda vac\\u00edo\", \"title\": \"jurisdiccion\"}, {\"type\": \"string\", \"description\": \"nombre de la provincia, en caso de ser jurisdicci\\u00f3n provincial o municipal. Si es jurisdicci\\u00f3n nacional figura JN.  En caso de subte queda vac\\u00edo\", \"title\": \"provincia\"}, {\"type\": \"string\", \"description\": \"nombre del municipio, en caso de ser jurisdicci\\u00f3n municipal. SI es jurisdicci\\u00f3n nacional o provincial figura SD o SN respectivamente. En caso de subte queda vac\\u00edo\", \"title\": \"municipio\"}, {\"type\": \"integer\", \"description\": \"cantidad de transacciones de uso / check-in / checkout sin checkin / Venta de boletos, neteadas de eventuales reversas\", \"title\": \"cantidad\"}, {\"type\": \"string\", \"description\": \"SI/NO\", \"title\": \"dato_preliminar\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2020-12-11T19:36:39.218737",
+      "datastore_active": false,
+      "description": "Cantidad de transacciones SUBE (usos) por dia en 2020",
+      "fileName": "dat-Ab-usos-2020.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "transporte_5de00d5f-2b36-491c-8660-426179f32e61",
+      "last_modified": "2021-01-12T17:23:22.988128",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Cantidad de transacciones SUBE (usos) por dia en 2020",
+      "package_id": "transporte_f7ec7f4a-490f-43e7-bae1-b951e0a3257b",
+      "position": 0,
+      "resource_type": "file",
+      "revision_id": "64d49bd5-eedf-44c6-8f86-ab2e7967f33e",
+      "size": null,
+      "state": "active",
+      "url": "https://archivos-datos.transporte.gob.ar/upload/Dat_Ab_Usos/dat-ab-usos-2020.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://datos.transporte.gob.ar/dataset/f7ec7f4a-490f-43e7-bae1-b951e0a3257b/resource/c01fc5e8-062f-424a-94c1-cfac1b33a129",
+      "attributesDescription": "[{\"type\": \"date\", \"description\": \"d\\u00eda de transporte informado\", \"title\": \"dia_transporte\"}, {\"type\": \"string\", \"description\": \"nombre de la empresa de transporte\", \"title\": \"nombre_empresa\"}, {\"type\": \"string\", \"description\": \"descripci\\u00f3n de la l\\u00ednea\", \"title\": \"linea\"}, {\"type\": \"string\", \"description\": \"SI/NO\", \"title\": \"amba\"}, {\"type\": \"string\", \"description\": \"colectivo, tren, subte, lanchas \", \"title\": \"tipo_transporte\"}, {\"type\": \"string\", \"description\": \"tipo de jurisdicci\\u00f3n de la l\\u00ednea (NACIONAL, PROVINCIAL, MUNICIPAL): en caso de subte queda vac\\u00edo\", \"title\": \"jurisdiccion\"}, {\"type\": \"string\", \"description\": \"nombre de la provincia, en caso de ser jurisdicci\\u00f3n provincial o municipal. Si es jurisdicci\\u00f3n nacional figura JN. En caso de subte queda vac\\u00edo\", \"title\": \"provincia\"}, {\"type\": \"string\", \"description\": \"nombre del municipio, en caso de ser jurisdicci\\u00f3n municipal. SI es jurisdicci\\u00f3n nacional o provincial figura SD o SN respectivamente. En caso de subte queda vac\\u00edo\", \"title\": \"municipio\"}, {\"type\": \"integer\", \"description\": \"cantidad de transacciones de uso / check-in / checkout sin checkin / Venta de boletos, neteadas de eventuales reversas\", \"title\": \"cantidad\"}, {\"type\": \"string\", \"description\": \"SI/NO\", \"title\": \"dato_preliminar\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2021-01-12T17:17:53.770266",
+      "datastore_active": false,
+      "description": "Cantidad de transacciones SUBE (usos) por dia en 2021",
+      "format": "CSV",
+      "hash": "",
+      "id": "transporte_c01fc5e8-062f-424a-94c1-cfac1b33a129",
+      "last_modified": "2021-01-13T14:25:12.101589",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Cantidad de transacciones SUBE (usos) por dia en 2021",
+      "package_id": "transporte_f7ec7f4a-490f-43e7-bae1-b951e0a3257b",
+      "position": 1,
+      "resource_type": "file",
+      "revision_id": "64d49bd5-eedf-44c6-8f86-ab2e7967f33e",
+      "size": null,
+      "state": "active",
+      "url": "https://archivos-datos.transporte.gob.ar/upload/Dat_Ab_Usos/dat-ab-usos-2021.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "64d49bd5-eedf-44c6-8f86-ab2e7967f33e",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "Movilidad Urbana",
+      "id": "14ada287-45c0-4813-9cf9-8e06233c65a2",
+      "name": "Movilidad Urbana",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Transporte Automotor",
+      "id": "faf48ddb-07da-41d1-a0c8-86d00b563968",
+      "name": "Transporte Automotor",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Transporte Ferroviario",
+      "id": "f4e53926-9367-4bc2-aed7-f8c4fb21fcb1",
+      "name": "Transporte Ferroviario",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Transporte Fluvial",
+      "id": "cc931ff8-9f1f-45c6-af7f-5da71980611e",
+      "name": "Transporte Fluvial",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "SUBE - Cantidad de transacciones (usos) por fecha",
+  "type": "dataset",
+  "url": "https://datos.transporte.gob.ar/dataset/sube-cantidad-de-transacciones-usos-por-fecha",
+  "version": null
+}

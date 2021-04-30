@@ -1,0 +1,174 @@
+{
+  "author": "Subsecretaría de Programación Macroeconómica",
+  "author_email": "datoseconomicos@mecon.gov.ar",
+  "creator_user_id": "4720e75a-9e17-4dc3-879d-041917c7f9f9",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P1M"
+    },
+    {
+      "key": "issued",
+      "value": "2017-09-28"
+    },
+    {
+      "key": "language",
+      "value": "[\"SPA\"]"
+    },
+    {
+      "key": "source",
+      "value": "Instituto Nacional de Estadística y Censos (INDEC)"
+    },
+    {
+      "key": "spatial",
+      "value": "ARG"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"ECON\"]"
+    },
+    {
+      "key": "temporal",
+      "value": "1995-01-01/2017-05-01"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Economía y finanzas",
+      "display_name": "Economía y finanzas",
+      "id": "60b4b03e-10a1-4d67-b984-08008a249617",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225257.200233economia-finanzas.svg",
+      "name": "econ",
+      "title": "Economía y finanzas"
+    }
+  ],
+  "id": "sspm_109",
+  "isopen": true,
+  "license_id": "CC-BY-4.0",
+  "license_title": "Creative Commons Attribution 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "maintainer": "Subsecretaría de Programación Macroeconómica.",
+  "maintainer_email": "datoseconomicos@mecon.gov.ar",
+  "metadata_created": "2019-11-26T15:06:10.919528",
+  "metadata_modified": "2021-04-29T21:04:24.848229",
+  "name": "sspm-indice-costo-construccion-icc",
+  "notes": "Índice de Costo de la Construcción en el Gran Buenos Aires. Base 1993",
+  "num_resources": 3,
+  "num_tags": 2,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:09.718132",
+    "description": "",
+    "id": "68f9ee22-5ec3-44cf-a32b-b87d9db46b93",
+    "image_url": "",
+    "is_organization": true,
+    "name": "sspm",
+    "revision_id": "bc058ce0-3540-4204-96cd-9f9ec79045b3",
+    "state": "active",
+    "title": "Subsecretaría de Programación Macroeconómica",
+    "type": "organization"
+  },
+  "owner_org": "68f9ee22-5ec3-44cf-a32b-b87d9db46b93",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/",
+      "attributesDescription": "[{\"title\": \"indice_tiempo\", \"type\": \"date\", \"specialType\": \"time_index\", \"specialTypeDetail\": \"R/P1Y\", \"id\": \"109.1_IT_1993_A_13\", \"scrapingIdentifierCell\": \"A9\", \"scrapingDataStartCell\": \"A10\", \"dataset_identifier\": \"109\", \"distribution_identifier\": \"109.1\"}, {\"title\": \"icc_1993_nivel_general\", \"type\": \"number\", \"specialTypeDetail\": \"\", \"description\": \"ICC. Nivel general. Base 1933. Anual\", \"id\": \"109.1_I1NG_1993_A_22\", \"scrapingIdentifierCell\": \"B9\", \"scrapingDataStartCell\": \"B10\", \"units\": \"\\u00cdndice 1993=100\", \"dataset_identifier\": \"109\", \"distribution_identifier\": \"109.1\"}, {\"title\": \"icc_1993_materiales\", \"type\": \"number\", \"specialTypeDetail\": \"\", \"description\": \"ICC. Materiales. Base 1933. Anual\", \"id\": \"109.1_I1M_1993_A_19\", \"scrapingIdentifierCell\": \"C9\", \"scrapingDataStartCell\": \"C10\", \"units\": \"\\u00cdndice 1993=100\", \"dataset_identifier\": \"109\", \"distribution_identifier\": \"109.1\"}, {\"title\": \"icc_1993_mano_obra\", \"type\": \"number\", \"specialTypeDetail\": \"\", \"description\": \"ICC. Mano de obra. Base 1933. Anual\", \"id\": \"109.1_I1MO_1993_A_18\", \"scrapingIdentifierCell\": \"D9\", \"scrapingDataStartCell\": \"D10\", \"units\": \"\\u00cdndice 1993=100\", \"dataset_identifier\": \"109\", \"distribution_identifier\": \"109.1\"}, {\"title\": \"icc_1993_gastos_generales\", \"type\": \"number\", \"specialTypeDetail\": \"\", \"description\": \"ICC. Gastos generales. Base 1933. Anual\", \"id\": \"109.1_I1GG_1993_A_25\", \"scrapingIdentifierCell\": \"E9\", \"scrapingDataStartCell\": \"E10\", \"units\": \"\\u00cdndice 1993=100\", \"dataset_identifier\": \"109\", \"distribution_identifier\": \"109.1\"}, {\"title\": \"icc_1993_mano_obra_materiales\", \"type\": \"number\", \"specialTypeDetail\": \"\", \"description\": \"ICC. Mano de obra/Materiales. Base 1933. Anual\", \"id\": \"109.1_I1MOM_1993_A_29\", \"scrapingIdentifierCell\": \"F9\", \"scrapingDataStartCell\": \"F10\", \"units\": \"\\u00cdndice 1993=100\", \"dataset_identifier\": \"109\", \"distribution_identifier\": \"109.1\"}, {\"title\": \"icc_1993_nivel_general_variacion_anual\", \"type\": \"number\", \"specialTypeDetail\": \"\", \"description\": \"ICC. Nivel general Anual. Variaci\\u00f3n % anual. Base 1993\", \"id\": \"109.1_I1NGVA_1993_A_38\", \"scrapingIdentifierCell\": \"I9\", \"scrapingDataStartCell\": \"I10\", \"units\": \"Porcentaje\", \"dataset_identifier\": \"109\", \"distribution_identifier\": \"109.1\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-09-28T00:00:00",
+      "datastore_active": false,
+      "description": "Índice de Costo de la Construcción. Base 1993. Valores anuales",
+      "fileName": "indice-costo-construccion-base-1993-anual.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "sspm_109.1",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Índice de Costo de la Construcción. Base 1993. Valores anuales",
+      "package_id": "sspm_109",
+      "position": 0,
+      "resource_type": null,
+      "revision_id": "4bd1d906-7219-4f42-a1c0-41ef5c81b05e",
+      "size": null,
+      "state": "active",
+      "url": "https://infra.datos.gob.ar/catalog/sspm/dataset/109/distribution/109.1/download/indice-costo-construccion-base-1993-anual.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/",
+      "attributesDescription": "[{\"title\": \"indice_tiempo\", \"type\": \"date\", \"specialType\": \"time_index\", \"specialTypeDetail\": \"R/P3M\", \"id\": \"109.2_IT_1993_A_13\", \"scrapingIdentifierCell\": \"A33\", \"scrapingDataStartCell\": \"A34\", \"dataset_identifier\": \"109\", \"distribution_identifier\": \"109.2\"}, {\"title\": \"icc_1993_nivel_general\", \"type\": \"number\", \"specialTypeDetail\": \"\", \"description\": \"ICC. Nivel general. Base 1933. Trimestral\", \"id\": \"109.2_I1NG_1993_A_22\", \"scrapingIdentifierCell\": \"B33\", \"scrapingDataStartCell\": \"B34\", \"units\": \"\\u00cdndice 1993=100\", \"dataset_identifier\": \"109\", \"distribution_identifier\": \"109.2\"}, {\"title\": \"icc_1993_materiales\", \"type\": \"number\", \"specialTypeDetail\": \"\", \"description\": \"ICC. Materiales. Base 1933. Trimestral\", \"id\": \"109.2_I1M_1993_A_19\", \"scrapingIdentifierCell\": \"C33\", \"scrapingDataStartCell\": \"C34\", \"units\": \"\\u00cdndice 1993=100\", \"dataset_identifier\": \"109\", \"distribution_identifier\": \"109.2\"}, {\"title\": \"icc_1993_mano_obra\", \"type\": \"number\", \"specialTypeDetail\": \"\", \"description\": \"ICC. Mano de obra. Base 1933. Trimestral\", \"id\": \"109.2_I1MO_1993_A_18\", \"scrapingIdentifierCell\": \"D33\", \"scrapingDataStartCell\": \"D34\", \"units\": \"\\u00cdndice 1993=100\", \"dataset_identifier\": \"109\", \"distribution_identifier\": \"109.2\"}, {\"title\": \"icc_1993_gastos_generales\", \"type\": \"number\", \"specialTypeDetail\": \"\", \"description\": \"ICC. Gastos generales. Base 1933. Trimestral\", \"id\": \"109.2_I1GG_1993_A_25\", \"scrapingIdentifierCell\": \"E33\", \"scrapingDataStartCell\": \"E34\", \"units\": \"\\u00cdndice 1993=100\", \"dataset_identifier\": \"109\", \"distribution_identifier\": \"109.2\"}, {\"title\": \"icc_1993_mano_obra_materiales\", \"type\": \"number\", \"specialTypeDetail\": \"\", \"description\": \"ICC. Mano de obra/Materiales. Base 1933. Trimestral\", \"id\": \"109.2_I1MOM_1993_A_29\", \"scrapingIdentifierCell\": \"F33\", \"scrapingDataStartCell\": \"F34\", \"units\": \"\\u00cdndice 1993=100\", \"dataset_identifier\": \"109\", \"distribution_identifier\": \"109.2\"}, {\"title\": \"icc_1993_nivel_general_variacion_mensual\", \"type\": \"number\", \"specialTypeDetail\": \"\", \"description\": \"ICC. Nivel general Trimestral. Variaci\\u00f3n % mensual. Base 1993\", \"id\": \"109.2_I1NGVM_1993_A_40\", \"scrapingIdentifierCell\": \"H33\", \"scrapingDataStartCell\": \"H34\", \"units\": \"Porcentaje\", \"dataset_identifier\": \"109\", \"distribution_identifier\": \"109.2\"}, {\"title\": \"icc_1993_nivel_general_variacion_anual\", \"type\": \"number\", \"specialTypeDetail\": \"\", \"description\": \"ICC. Nivel general Trimestral. Variaci\\u00f3n % anual. Base 1993\", \"id\": \"109.2_I1NGVA_1993_A_38\", \"scrapingIdentifierCell\": \"I33\", \"scrapingDataStartCell\": \"I34\", \"units\": \"Porcentaje\", \"dataset_identifier\": \"109\", \"distribution_identifier\": \"109.2\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-09-28T00:00:00",
+      "datastore_active": false,
+      "description": "Índice de Costo de la Construcción. Base 1993. Valores trimestral",
+      "fileName": "indice-costo-construccion-base-1993-trimestral.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "sspm_109.2",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Índice de Costo de la Construcción. Base 1993. Valores trimestral",
+      "package_id": "sspm_109",
+      "position": 1,
+      "resource_type": null,
+      "revision_id": "4bd1d906-7219-4f42-a1c0-41ef5c81b05e",
+      "size": null,
+      "state": "active",
+      "url": "https://infra.datos.gob.ar/catalog/sspm/dataset/109/distribution/109.2/download/indice-costo-construccion-base-1993-trimestral.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/",
+      "attributesDescription": "[{\"title\": \"indice_tiempo\", \"type\": \"date\", \"specialType\": \"time_index\", \"specialTypeDetail\": \"R/P1M\", \"id\": \"109.3_IT_1993_A_13\", \"scrapingIdentifierCell\": \"A124\", \"scrapingDataStartCell\": \"A125\", \"dataset_identifier\": \"109\", \"distribution_identifier\": \"109.3\"}, {\"title\": \"icc_1993_nivel_general\", \"type\": \"number\", \"specialTypeDetail\": \"\", \"description\": \"ICC. Nivel general. Base 1933. Mensual\", \"id\": \"109.3_I1NG_1993_A_22\", \"scrapingIdentifierCell\": \"B124\", \"scrapingDataStartCell\": \"B125\", \"units\": \"\\u00cdndice 1993=100\", \"dataset_identifier\": \"109\", \"distribution_identifier\": \"109.3\"}, {\"title\": \"icc_1993_materiales\", \"type\": \"number\", \"specialTypeDetail\": \"\", \"description\": \"ICC. Materiales. Base 1933. Mensual\", \"id\": \"109.3_I1M_1993_A_19\", \"scrapingIdentifierCell\": \"C124\", \"scrapingDataStartCell\": \"C125\", \"units\": \"\\u00cdndice 1993=100\", \"dataset_identifier\": \"109\", \"distribution_identifier\": \"109.3\"}, {\"title\": \"icc_1993_mano_obra\", \"type\": \"number\", \"specialTypeDetail\": \"\", \"description\": \"ICC. Mano de obra. Base 1933. Mensual\", \"id\": \"109.3_I1MO_1993_A_18\", \"scrapingIdentifierCell\": \"D124\", \"scrapingDataStartCell\": \"D125\", \"units\": \"\\u00cdndice 1993=100\", \"dataset_identifier\": \"109\", \"distribution_identifier\": \"109.3\"}, {\"title\": \"icc_1993_gastos_generales\", \"type\": \"number\", \"specialTypeDetail\": \"\", \"description\": \"ICC. Gastos generales. Base 1933. Mensual\", \"id\": \"109.3_I1GG_1993_A_25\", \"scrapingIdentifierCell\": \"E124\", \"scrapingDataStartCell\": \"E125\", \"units\": \"\\u00cdndice 1993=100\", \"dataset_identifier\": \"109\", \"distribution_identifier\": \"109.3\"}, {\"title\": \"icc_1993_mano_obra_materiales\", \"type\": \"number\", \"specialTypeDetail\": \"\", \"description\": \"ICC. Mano de obra/Materiales. Base 1933. Mensual\", \"id\": \"109.3_I1MOM_1993_A_29\", \"scrapingIdentifierCell\": \"F124\", \"scrapingDataStartCell\": \"F125\", \"units\": \"\\u00cdndice 1993=100\", \"dataset_identifier\": \"109\", \"distribution_identifier\": \"109.3\"}, {\"title\": \"icc_1993_nivel_general_variacion_mensual\", \"type\": \"number\", \"specialTypeDetail\": \"\", \"description\": \"ICC. Nivel general Mensual. Variaci\\u00f3n % mensual. Base 1993\", \"id\": \"109.3_I1NGVM_1993_A_40\", \"scrapingIdentifierCell\": \"H124\", \"scrapingDataStartCell\": \"H125\", \"units\": \"Porcentaje\", \"dataset_identifier\": \"109\", \"distribution_identifier\": \"109.3\"}, {\"title\": \"icc_1993_nivel_general_variacion_anual\", \"type\": \"number\", \"specialTypeDetail\": \"\", \"description\": \"ICC. Nivel general Mensual. Variaci\\u00f3n % anual. Base 1993\", \"id\": \"109.3_I1NGVA_1993_A_38\", \"scrapingIdentifierCell\": \"I124\", \"scrapingDataStartCell\": \"I125\", \"units\": \"Porcentaje\", \"dataset_identifier\": \"109\", \"distribution_identifier\": \"109.3\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-09-28T00:00:00",
+      "datastore_active": false,
+      "description": "Índice de Costo de la Construcción. Base 1993. Valores mensual",
+      "fileName": "indice-costo-construccion-base-1993-mensual.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "sspm_109.3",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Índice de Costo de la Construcción. Base 1993. Valores mensual",
+      "package_id": "sspm_109",
+      "position": 2,
+      "resource_type": null,
+      "revision_id": "4bd1d906-7219-4f42-a1c0-41ef5c81b05e",
+      "size": null,
+      "state": "active",
+      "url": "https://infra.datos.gob.ar/catalog/sspm/dataset/109/distribution/109.3/download/indice-costo-construccion-base-1993-mensual.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "4bd1d906-7219-4f42-a1c0-41ef5c81b05e",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "Información Económica al Día",
+      "id": "0d300a9a-0802-46c3-9a40-2f28ddf050ec",
+      "name": "Información Económica al Día",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Precios",
+      "id": "308c2aaf-f177-4728-bda5-fd41662741a2",
+      "name": "Precios",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Índice de Costo de la Construcción (ICC)",
+  "type": "dataset",
+  "url": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/",
+  "version": null
+}

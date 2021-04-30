@@ -1,0 +1,206 @@
+{
+  "author": "Subsecretaría de Programación Macroeconómica",
+  "author_email": "datoseconomicos@mecon.gov.ar",
+  "creator_user_id": "4720e75a-9e17-4dc3-879d-041917c7f9f9",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P1D"
+    },
+    {
+      "key": "issued",
+      "value": "2017-09-28"
+    },
+    {
+      "key": "language",
+      "value": "[\"SPA\"]"
+    },
+    {
+      "key": "source",
+      "value": "Banco Central de la República Argentina (BCRA)"
+    },
+    {
+      "key": "spatial",
+      "value": "ARG"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"ECON\"]"
+    },
+    {
+      "key": "temporal",
+      "value": "1997-01-01/2017-03-01"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Economía y finanzas",
+      "display_name": "Economía y finanzas",
+      "id": "60b4b03e-10a1-4d67-b984-08008a249617",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225257.200233economia-finanzas.svg",
+      "name": "econ",
+      "title": "Economía y finanzas"
+    }
+  ],
+  "id": "sspm_116",
+  "isopen": true,
+  "license_id": "CC-BY-4.0",
+  "license_title": "Creative Commons Attribution 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "maintainer": "Subsecretaría de Programación Macroeconómica.",
+  "maintainer_email": "datoseconomicos@mecon.gov.ar",
+  "metadata_created": "2019-11-26T15:06:38.024003",
+  "metadata_modified": "2021-04-29T21:05:26.579950",
+  "name": "sspm-indice-tipo-cambio-real-multilateral-base-17-diciembre-2015-100",
+  "notes": "Índice de Tipo de Cambio Real Multilateral Base 17 de Diciembre de 2015 = 100",
+  "num_resources": 4,
+  "num_tags": 3,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:09.718132",
+    "description": "",
+    "id": "68f9ee22-5ec3-44cf-a32b-b87d9db46b93",
+    "image_url": "",
+    "is_organization": true,
+    "name": "sspm",
+    "revision_id": "bc058ce0-3540-4204-96cd-9f9ec79045b3",
+    "state": "active",
+    "title": "Subsecretaría de Programación Macroeconómica",
+    "type": "organization"
+  },
+  "owner_org": "68f9ee22-5ec3-44cf-a32b-b87d9db46b93",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/",
+      "attributesDescription": "[{\"title\": \"indice_tiempo\", \"type\": \"date\", \"specialType\": \"time_index\", \"specialTypeDetail\": \"R/P1Y\", \"id\": \"116.1_IT_0_A_13\", \"scrapingIdentifierCell\": \"A7\", \"scrapingDataStartCell\": \"A8\", \"dataset_identifier\": \"116\", \"distribution_identifier\": \"116.1\"}, {\"title\": \"tipo_cambio_real_multilateral_actual\", \"type\": \"number\", \"description\": \"\\u00cdndice de Tipo de Cambio Real Multilateral\", \"id\": \"116.1_TCRMA_0_A_36\", \"scrapingIdentifierCell\": \"B7\", \"scrapingDataStartCell\": \"B8\", \"units\": \"\\u00cdndice 17-Dic-2015=100\", \"dataset_identifier\": \"116\", \"distribution_identifier\": \"116.1\"}, {\"title\": \"tipo_cambio_real_brasil\", \"type\": \"number\", \"description\": \"\\u00cdndice de Tipo de Cambio Real Brasil\", \"id\": \"116.1_TCRB_0_A_23\", \"scrapingIdentifierCell\": \"C7\", \"scrapingDataStartCell\": \"C8\", \"units\": \"\\u00cdndice 17-Dic-2015=100\", \"dataset_identifier\": \"116\", \"distribution_identifier\": \"116.1\"}, {\"title\": \"tipo_cambio_real_canada\", \"type\": \"number\", \"description\": \"\\u00cdndice de Tipo de Cambio Real Canad\\u00e1\", \"id\": \"116.1_TCRCA_0_A_23\", \"scrapingIdentifierCell\": \"D7\", \"scrapingDataStartCell\": \"D8\", \"units\": \"\\u00cdndice 17-Dic-2015=100\", \"dataset_identifier\": \"116\", \"distribution_identifier\": \"116.1\"}, {\"title\": \"tipo_cambio_real_chile\", \"type\": \"number\", \"description\": \"\\u00cdndice de Tipo de Cambio Real Chile\", \"id\": \"116.1_TCRC_0_A_22\", \"scrapingIdentifierCell\": \"E7\", \"scrapingDataStartCell\": \"E8\", \"units\": \"\\u00cdndice 17-Dic-2015=100\", \"dataset_identifier\": \"116\", \"distribution_identifier\": \"116.1\"}, {\"title\": \"tipo_cambio_real_estados_unidos\", \"type\": \"number\", \"description\": \"\\u00cdndice de Tipo de Cambio Real Estados Unidos\", \"id\": \"116.1_TCREU_0_A_31\", \"scrapingIdentifierCell\": \"F7\", \"scrapingDataStartCell\": \"F8\", \"units\": \"\\u00cdndice 17-Dic-2015=100\", \"dataset_identifier\": \"116\", \"distribution_identifier\": \"116.1\"}, {\"title\": \"tipo_cambio_real_mexico\", \"type\": \"number\", \"description\": \"\\u00cdndice de Tipo de Cambio Real M\\u00e9xico\", \"id\": \"116.1_TCRM_0_A_23\", \"scrapingIdentifierCell\": \"G7\", \"scrapingDataStartCell\": \"G8\", \"units\": \"\\u00cdndice 17-Dic-2015=100\", \"dataset_identifier\": \"116\", \"distribution_identifier\": \"116.1\"}, {\"title\": \"tipo_cambio_real_uruguay\", \"type\": \"number\", \"description\": \"\\u00cdndice de Tipo de Cambio Real Uruguay\", \"id\": \"116.1_TCRU_0_A_24\", \"scrapingIdentifierCell\": \"H7\", \"scrapingDataStartCell\": \"H8\", \"units\": \"\\u00cdndice 17-Dic-2015=100\", \"dataset_identifier\": \"116\", \"distribution_identifier\": \"116.1\"}, {\"title\": \"tipo_cambio_real_china\", \"type\": \"number\", \"description\": \"\\u00cdndice de Tipo de Cambio Real China\", \"id\": \"116.1_TCRCH_0_A_22\", \"scrapingIdentifierCell\": \"I7\", \"scrapingDataStartCell\": \"I8\", \"units\": \"\\u00cdndice 17-Dic-2015=100\", \"dataset_identifier\": \"116\", \"distribution_identifier\": \"116.1\"}, {\"title\": \"tipo_cambio_real_india\", \"type\": \"number\", \"description\": \"\\u00cdndice de Tipo de Cambio Real India\", \"id\": \"116.1_TCRI_0_A_22\", \"scrapingIdentifierCell\": \"J7\", \"scrapingDataStartCell\": \"J8\", \"units\": \"\\u00cdndice 17-Dic-2015=100\", \"dataset_identifier\": \"116\", \"distribution_identifier\": \"116.1\"}, {\"title\": \"tipo_cambio_real_japon\", \"type\": \"number\", \"description\": \"\\u00cdndice de Tipo de Cambio Real Jap\\u00f3n\", \"id\": \"116.1_TCRJ_0_A_22\", \"scrapingIdentifierCell\": \"K7\", \"scrapingDataStartCell\": \"K8\", \"units\": \"\\u00cdndice 17-Dic-2015=100\", \"dataset_identifier\": \"116\", \"distribution_identifier\": \"116.1\"}, {\"title\": \"tipo_cambio_real_reino_unido\", \"type\": \"number\", \"description\": \"\\u00cdndice de Tipo de Cambio Real Reino Unido\", \"id\": \"116.1_TCRRU_0_A_28\", \"scrapingIdentifierCell\": \"L7\", \"scrapingDataStartCell\": \"L8\", \"units\": \"\\u00cdndice 17-Dic-2015=100\", \"dataset_identifier\": \"116\", \"distribution_identifier\": \"116.1\"}, {\"title\": \"tipo_cambio_real_suiza\", \"type\": \"number\", \"description\": \"\\u00cdndice de Tipo de Cambio Real Suiza\", \"id\": \"116.1_TCRS_0_A_22\", \"scrapingIdentifierCell\": \"M7\", \"scrapingDataStartCell\": \"M8\", \"units\": \"\\u00cdndice 17-Dic-2015=100\", \"dataset_identifier\": \"116\", \"distribution_identifier\": \"116.1\"}, {\"title\": \"tipo_cambio_real_zona_euro\", \"type\": \"number\", \"description\": \"\\u00cdndice de Tipo de Cambio Real Zona Euro\", \"id\": \"116.1_TCRZE_0_A_26\", \"scrapingIdentifierCell\": \"N7\", \"scrapingDataStartCell\": \"N8\", \"units\": \"\\u00cdndice 17-Dic-2015=100\", \"dataset_identifier\": \"116\", \"distribution_identifier\": \"116.1\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-09-28T00:00:00",
+      "datastore_active": false,
+      "description": "Índice de Tipo de Cambio Real Multilateral. Valores anuales. Base 2015",
+      "fileName": "indice-tipo-cambio-real-multilateral-anual-base-2015.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "sspm_116.1",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Índice de Tipo de Cambio Real Multilateral. Valores anuales. Base 2015",
+      "package_id": "sspm_116",
+      "position": 0,
+      "resource_type": null,
+      "revision_id": "e66f372d-436d-4933-80de-8dd1b866fc3d",
+      "size": null,
+      "state": "active",
+      "url": "https://infra.datos.gob.ar/catalog/sspm/dataset/116/distribution/116.1/download/indice-tipo-cambio-real-multilateral-anual-base-2015.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/",
+      "attributesDescription": "[{\"title\": \"indice_tiempo\", \"type\": \"date\", \"specialType\": \"time_index\", \"specialTypeDetail\": \"R/P3M\", \"id\": \"116.2_IT_0_T_13\", \"scrapingIdentifierCell\": \"A46\", \"scrapingDataStartCell\": \"A47\", \"dataset_identifier\": \"116\", \"distribution_identifier\": \"116.2\"}, {\"title\": \"tipo_cambio_real_multilateral_actual\", \"type\": \"number\", \"description\": \"\\u00cdndice de Tipo de Cambio Real Multilateral\", \"id\": \"116.2_TCRMA_0_T_36\", \"scrapingIdentifierCell\": \"B46\", \"scrapingDataStartCell\": \"B47\", \"units\": \"\\u00cdndice 17-Dic-2015=100\", \"dataset_identifier\": \"116\", \"distribution_identifier\": \"116.2\"}, {\"title\": \"tipo_cambio_real_brasil\", \"type\": \"number\", \"description\": \"\\u00cdndice de Tipo de Cambio Real Brasil\", \"id\": \"116.2_TCRB_0_T_23\", \"scrapingIdentifierCell\": \"C46\", \"scrapingDataStartCell\": \"C47\", \"units\": \"\\u00cdndice 17-Dic-2015=100\", \"dataset_identifier\": \"116\", \"distribution_identifier\": \"116.2\"}, {\"title\": \"tipo_cambio_real_canada\", \"type\": \"number\", \"description\": \"\\u00cdndice de Tipo de Cambio Real Canad\\u00e1\", \"id\": \"116.2_TCRCA_0_T_23\", \"scrapingIdentifierCell\": \"D46\", \"scrapingDataStartCell\": \"D47\", \"units\": \"\\u00cdndice 17-Dic-2015=100\", \"dataset_identifier\": \"116\", \"distribution_identifier\": \"116.2\"}, {\"title\": \"tipo_cambio_real_chile\", \"type\": \"number\", \"description\": \"\\u00cdndice de Tipo de Cambio Real Chile\", \"id\": \"116.2_TCRCH_0_T_22\", \"scrapingIdentifierCell\": \"E46\", \"scrapingDataStartCell\": \"E47\", \"units\": \"\\u00cdndice 17-Dic-2015=100\", \"dataset_identifier\": \"116\", \"distribution_identifier\": \"116.2\"}, {\"title\": \"tipo_cambio_real_estados_unidos\", \"type\": \"number\", \"description\": \"\\u00cdndice de Tipo de Cambio Real Estados Unidos\", \"id\": \"116.2_TCREU_0_T_31\", \"scrapingIdentifierCell\": \"F46\", \"scrapingDataStartCell\": \"F47\", \"units\": \"\\u00cdndice 17-Dic-2015=100\", \"dataset_identifier\": \"116\", \"distribution_identifier\": \"116.2\"}, {\"title\": \"tipo_cambio_real_mexico\", \"type\": \"number\", \"description\": \"\\u00cdndice de Tipo de Cambio Real M\\u00e9xico\", \"id\": \"116.2_TCRM_0_T_23\", \"scrapingIdentifierCell\": \"G46\", \"scrapingDataStartCell\": \"G47\", \"units\": \"\\u00cdndice 17-Dic-2015=100\", \"dataset_identifier\": \"116\", \"distribution_identifier\": \"116.2\"}, {\"title\": \"tipo_cambio_real_uruguay\", \"type\": \"number\", \"description\": \"\\u00cdndice de Tipo de Cambio Real Uruguay\", \"id\": \"116.2_TCRU_0_T_24\", \"scrapingIdentifierCell\": \"H46\", \"scrapingDataStartCell\": \"H47\", \"units\": \"\\u00cdndice 17-Dic-2015=100\", \"dataset_identifier\": \"116\", \"distribution_identifier\": \"116.2\"}, {\"title\": \"tipo_cambio_real_china\", \"type\": \"number\", \"description\": \"\\u00cdndice de Tipo de Cambio Real China\", \"id\": \"116.2_TCRC_0_T_22\", \"scrapingIdentifierCell\": \"I46\", \"scrapingDataStartCell\": \"I47\", \"units\": \"\\u00cdndice 17-Dic-2015=100\", \"dataset_identifier\": \"116\", \"distribution_identifier\": \"116.2\"}, {\"title\": \"tipo_cambio_real_india\", \"type\": \"number\", \"description\": \"\\u00cdndice de Tipo de Cambio Real India\", \"id\": \"116.2_TCRI_0_T_22\", \"scrapingIdentifierCell\": \"J46\", \"scrapingDataStartCell\": \"J47\", \"units\": \"\\u00cdndice 17-Dic-2015=100\", \"dataset_identifier\": \"116\", \"distribution_identifier\": \"116.2\"}, {\"title\": \"tipo_cambio_real_japon\", \"type\": \"number\", \"description\": \"\\u00cdndice de Tipo de Cambio Real Jap\\u00f3n\", \"id\": \"116.2_TCRJ_0_T_22\", \"scrapingIdentifierCell\": \"K46\", \"scrapingDataStartCell\": \"K47\", \"units\": \"\\u00cdndice 17-Dic-2015=100\", \"dataset_identifier\": \"116\", \"distribution_identifier\": \"116.2\"}, {\"title\": \"tipo_cambio_real_reino_unido\", \"type\": \"number\", \"description\": \"\\u00cdndice de Tipo de Cambio Real Reino Unido\", \"id\": \"116.2_TCRRU_0_T_28\", \"scrapingIdentifierCell\": \"L46\", \"scrapingDataStartCell\": \"L47\", \"units\": \"\\u00cdndice 17-Dic-2015=100\", \"dataset_identifier\": \"116\", \"distribution_identifier\": \"116.2\"}, {\"title\": \"tipo_cambio_real_suiza\", \"type\": \"number\", \"description\": \"\\u00cdndice de Tipo de Cambio Real Suiza\", \"id\": \"116.2_TCRS_0_T_22\", \"scrapingIdentifierCell\": \"M46\", \"scrapingDataStartCell\": \"M47\", \"units\": \"\\u00cdndice 17-Dic-2015=100\", \"dataset_identifier\": \"116\", \"distribution_identifier\": \"116.2\"}, {\"title\": \"tipo_cambio_real_zona_euro\", \"type\": \"number\", \"description\": \"\\u00cdndice de Tipo de Cambio Real Zona Euro\", \"id\": \"116.2_TCRZE_0_T_26\", \"scrapingIdentifierCell\": \"N46\", \"scrapingDataStartCell\": \"N47\", \"units\": \"\\u00cdndice 17-Dic-2015=100\", \"dataset_identifier\": \"116\", \"distribution_identifier\": \"116.2\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-09-28T00:00:00",
+      "datastore_active": false,
+      "description": "Índice de Tipo de Cambio Real Multilateral. Valores trimestrales. Base 2015",
+      "fileName": "indice-tipo-cambio-real-multilateral-trimestral-base-2015.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "sspm_116.2",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Índice de Tipo de Cambio Real Multilateral. Valores trimestrales. Base 2015",
+      "package_id": "sspm_116",
+      "position": 1,
+      "resource_type": null,
+      "revision_id": "e66f372d-436d-4933-80de-8dd1b866fc3d",
+      "size": null,
+      "state": "active",
+      "url": "https://infra.datos.gob.ar/catalog/sspm/dataset/116/distribution/116.2/download/indice-tipo-cambio-real-multilateral-trimestral-base-2015.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/",
+      "attributesDescription": "[{\"title\": \"indice_tiempo\", \"type\": \"date\", \"specialType\": \"time_index\", \"specialTypeDetail\": \"R/P1M\", \"id\": \"116.3_IT_0_M_13\", \"scrapingIdentifierCell\": \"A180\", \"scrapingDataStartCell\": \"A181\", \"dataset_identifier\": \"116\", \"distribution_identifier\": \"116.3\"}, {\"title\": \"tipo_cambio_real_multilateral_actual\", \"type\": \"number\", \"description\": \"\\u00cdndice de Tipo de Cambio Real Multilateral\", \"id\": \"116.3_TCRMA_0_M_36\", \"scrapingIdentifierCell\": \"B180\", \"scrapingDataStartCell\": \"B181\", \"units\": \"\\u00cdndice 17-Dic-2015=100\", \"dataset_identifier\": \"116\", \"distribution_identifier\": \"116.3\"}, {\"title\": \"tipo_cambio_real_brasil\", \"type\": \"number\", \"description\": \"\\u00cdndice de Tipo de Cambio Real Brasil\", \"id\": \"116.3_TCRB_0_M_23\", \"scrapingIdentifierCell\": \"C180\", \"scrapingDataStartCell\": \"C181\", \"units\": \"\\u00cdndice 17-Dic-2015=100\", \"dataset_identifier\": \"116\", \"distribution_identifier\": \"116.3\"}, {\"title\": \"tipo_cambio_real_canada\", \"type\": \"number\", \"description\": \"\\u00cdndice de Tipo de Cambio Real Canad\\u00e1\", \"id\": \"116.3_TCRC_0_M_23\", \"scrapingIdentifierCell\": \"D180\", \"scrapingDataStartCell\": \"D181\", \"units\": \"\\u00cdndice 17-Dic-2015=100\", \"dataset_identifier\": \"116\", \"distribution_identifier\": \"116.3\"}, {\"title\": \"tipo_cambio_real_chile\", \"type\": \"number\", \"description\": \"\\u00cdndice de Tipo de Cambio Real Chile\", \"id\": \"116.3_TCRCH_0_M_22\", \"scrapingIdentifierCell\": \"E180\", \"scrapingDataStartCell\": \"E181\", \"units\": \"\\u00cdndice 17-Dic-2015=100\", \"dataset_identifier\": \"116\", \"distribution_identifier\": \"116.3\"}, {\"title\": \"tipo_cambio_real_estados_unidos\", \"type\": \"number\", \"description\": \"\\u00cdndice de Tipo de Cambio Real Estados Unidos\", \"id\": \"116.3_TCREU_0_M_31\", \"scrapingIdentifierCell\": \"F180\", \"scrapingDataStartCell\": \"F181\", \"units\": \"\\u00cdndice 17-Dic-2015=100\", \"dataset_identifier\": \"116\", \"distribution_identifier\": \"116.3\"}, {\"title\": \"tipo_cambio_real_mexico\", \"type\": \"number\", \"description\": \"\\u00cdndice de Tipo de Cambio Real M\\u00e9xico\", \"id\": \"116.3_TCRM_0_M_23\", \"scrapingIdentifierCell\": \"G180\", \"scrapingDataStartCell\": \"G181\", \"units\": \"\\u00cdndice 17-Dic-2015=100\", \"dataset_identifier\": \"116\", \"distribution_identifier\": \"116.3\"}, {\"title\": \"tipo_cambio_real_uruguay\", \"type\": \"number\", \"description\": \"\\u00cdndice de Tipo de Cambio Real Uruguay\", \"id\": \"116.3_TCRU_0_M_24\", \"scrapingIdentifierCell\": \"H180\", \"scrapingDataStartCell\": \"H181\", \"units\": \"\\u00cdndice 17-Dic-2015=100\", \"dataset_identifier\": \"116\", \"distribution_identifier\": \"116.3\"}, {\"title\": \"tipo_cambio_real_china\", \"type\": \"number\", \"description\": \"\\u00cdndice de Tipo de Cambio Real China\", \"id\": \"116.3_TCRC_0_M_22\", \"scrapingIdentifierCell\": \"I180\", \"scrapingDataStartCell\": \"I181\", \"units\": \"\\u00cdndice 17-Dic-2015=100\", \"dataset_identifier\": \"116\", \"distribution_identifier\": \"116.3\"}, {\"title\": \"tipo_cambio_real_india\", \"type\": \"number\", \"description\": \"\\u00cdndice de Tipo de Cambio Real India\", \"id\": \"116.3_TCRI_0_M_22\", \"scrapingIdentifierCell\": \"J180\", \"scrapingDataStartCell\": \"J181\", \"units\": \"\\u00cdndice 17-Dic-2015=100\", \"dataset_identifier\": \"116\", \"distribution_identifier\": \"116.3\"}, {\"title\": \"tipo_cambio_real_japon\", \"type\": \"number\", \"description\": \"\\u00cdndice de Tipo de Cambio Real Jap\\u00f3n\", \"id\": \"116.3_TCRJ_0_M_22\", \"scrapingIdentifierCell\": \"K180\", \"scrapingDataStartCell\": \"K181\", \"units\": \"\\u00cdndice 17-Dic-2015=100\", \"dataset_identifier\": \"116\", \"distribution_identifier\": \"116.3\"}, {\"title\": \"tipo_cambio_real_reino_unido\", \"type\": \"number\", \"description\": \"\\u00cdndice de Tipo de Cambio Real Reino Unido\", \"id\": \"116.3_TCRRU_0_M_28\", \"scrapingIdentifierCell\": \"L180\", \"scrapingDataStartCell\": \"L181\", \"units\": \"\\u00cdndice 17-Dic-2015=100\", \"dataset_identifier\": \"116\", \"distribution_identifier\": \"116.3\"}, {\"title\": \"tipo_cambio_real_suiza\", \"type\": \"number\", \"description\": \"\\u00cdndice de Tipo de Cambio Real Suiza\", \"id\": \"116.3_TCRS_0_M_22\", \"scrapingIdentifierCell\": \"M180\", \"scrapingDataStartCell\": \"M181\", \"units\": \"\\u00cdndice 17-Dic-2015=100\", \"dataset_identifier\": \"116\", \"distribution_identifier\": \"116.3\"}, {\"title\": \"tipo_cambio_real_zona_euro\", \"type\": \"number\", \"description\": \"\\u00cdndice de Tipo de Cambio Real Zona Euro\", \"id\": \"116.3_TCRZE_0_M_26\", \"scrapingIdentifierCell\": \"N180\", \"scrapingDataStartCell\": \"N181\", \"units\": \"\\u00cdndice 17-Dic-2015=100\", \"dataset_identifier\": \"116\", \"distribution_identifier\": \"116.3\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-09-28T00:00:00",
+      "datastore_active": false,
+      "description": "Índice de Tipo de Cambio Real Multilateral. Valores mensuales. Base 2015",
+      "fileName": "indice-tipo-cambio-real-multilateral-mensual-base-2015.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "sspm_116.3",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Índice de Tipo de Cambio Real Multilateral. Valores mensuales. Base 2015",
+      "package_id": "sspm_116",
+      "position": 2,
+      "resource_type": null,
+      "revision_id": "e66f372d-436d-4933-80de-8dd1b866fc3d",
+      "size": null,
+      "state": "active",
+      "url": "https://infra.datos.gob.ar/catalog/sspm/dataset/116/distribution/116.3/download/indice-tipo-cambio-real-multilateral-mensual-base-2015.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/",
+      "attributesDescription": "[{\"title\": \"indice_tiempo\", \"type\": \"date\", \"specialType\": \"time_index\", \"specialTypeDetail\": \"R/P1D\", \"id\": \"116.4_TCRZE_2015_D_13_75\", \"scrapingIdentifierCell\": \"A480\", \"scrapingDataStartCell\": \"B481\", \"dataset_identifier\": \"116\", \"distribution_identifier\": \"116.4\"}, {\"title\": \"tipo_cambio_real_multilateral_actual\", \"type\": \"number\", \"description\": \"\\u00cdndice de Tipo de Cambio Real Multilateral\", \"id\": \"116.4_TCRZE_2015_D_36_4\", \"scrapingIdentifierCell\": \"B480\", \"scrapingDataStartCell\": \"B481\", \"units\": \"\\u00cdndice 17-Dic-2015=100\", \"dataset_identifier\": \"116\", \"distribution_identifier\": \"116.4\"}, {\"title\": \"tipo_cambio_real_brasil\", \"type\": \"number\", \"description\": \"\\u00cdndice de Tipo de Cambio Real Brasil\", \"id\": \"116.4_TCRZE_2015_D_23_88\", \"scrapingIdentifierCell\": \"C480\", \"scrapingDataStartCell\": \"C481\", \"units\": \"\\u00cdndice 17-Dic-2015=100\", \"dataset_identifier\": \"116\", \"distribution_identifier\": \"116.4\"}, {\"title\": \"tipo_cambio_real_canada\", \"type\": \"number\", \"description\": \"\\u00cdndice de Tipo de Cambio Real Canad\\u00e1\", \"id\": \"116.4_TCRZE_2015_D_23_29\", \"scrapingIdentifierCell\": \"D480\", \"scrapingDataStartCell\": \"D481\", \"units\": \"\\u00cdndice 17-Dic-2015=100\", \"dataset_identifier\": \"116\", \"distribution_identifier\": \"116.4\"}, {\"title\": \"tipo_cambio_real_chile\", \"type\": \"number\", \"description\": \"\\u00cdndice de Tipo de Cambio Real Chile\", \"id\": \"116.4_TCRZE_2015_D_22_31\", \"scrapingIdentifierCell\": \"E480\", \"scrapingDataStartCell\": \"E481\", \"units\": \"\\u00cdndice 17-Dic-2015=100\", \"dataset_identifier\": \"116\", \"distribution_identifier\": \"116.4\"}, {\"title\": \"tipo_cambio_real_estados_unidos\", \"type\": \"number\", \"description\": \"\\u00cdndice de Tipo de Cambio Real Estados Unidos\", \"id\": \"116.4_TCRZE_2015_D_31_73\", \"scrapingIdentifierCell\": \"F480\", \"scrapingDataStartCell\": \"F481\", \"units\": \"\\u00cdndice 17-Dic-2015=100\", \"dataset_identifier\": \"116\", \"distribution_identifier\": \"116.4\"}, {\"title\": \"tipo_cambio_real_mexico\", \"type\": \"number\", \"description\": \"\\u00cdndice de Tipo de Cambio Real M\\u00e9xico\", \"id\": \"116.4_TCRZE_2015_D_23_99\", \"scrapingIdentifierCell\": \"G480\", \"scrapingDataStartCell\": \"G481\", \"units\": \"\\u00cdndice 17-Dic-2015=100\", \"dataset_identifier\": \"116\", \"distribution_identifier\": \"116.4\"}, {\"title\": \"tipo_cambio_real_uruguay\", \"type\": \"number\", \"description\": \"\\u00cdndice de Tipo de Cambio Real Uruguay\", \"id\": \"116.4_TCRZE_2015_D_24_50\", \"scrapingIdentifierCell\": \"H480\", \"scrapingDataStartCell\": \"H481\", \"units\": \"\\u00cdndice 17-Dic-2015=100\", \"dataset_identifier\": \"116\", \"distribution_identifier\": \"116.4\"}, {\"title\": \"tipo_cambio_real_china\", \"type\": \"number\", \"description\": \"\\u00cdndice de Tipo de Cambio Real China\", \"id\": \"116.4_TCRZE_2015_D_22_16\", \"scrapingIdentifierCell\": \"I480\", \"scrapingDataStartCell\": \"I481\", \"units\": \"\\u00cdndice 17-Dic-2015=100\", \"dataset_identifier\": \"116\", \"distribution_identifier\": \"116.4\"}, {\"title\": \"tipo_cambio_real_india\", \"type\": \"number\", \"description\": \"\\u00cdndice de Tipo de Cambio Real India\", \"id\": \"116.4_TCRZE_2015_D_22_26\", \"scrapingIdentifierCell\": \"J480\", \"scrapingDataStartCell\": \"J481\", \"units\": \"\\u00cdndice 17-Dic-2015=100\", \"dataset_identifier\": \"116\", \"distribution_identifier\": \"116.4\"}, {\"title\": \"tipo_cambio_real_japon\", \"type\": \"number\", \"description\": \"\\u00cdndice de Tipo de Cambio Real Jap\\u00f3n\", \"id\": \"116.4_TCRZE_2015_D_22_43\", \"scrapingIdentifierCell\": \"K480\", \"scrapingDataStartCell\": \"K481\", \"units\": \"\\u00cdndice 17-Dic-2015=100\", \"dataset_identifier\": \"116\", \"distribution_identifier\": \"116.4\"}, {\"title\": \"tipo_cambio_real_reino_unido\", \"type\": \"number\", \"description\": \"\\u00cdndice de Tipo de Cambio Real Reino Unido\", \"id\": \"116.4_TCRZE_2015_D_28_89\", \"scrapingIdentifierCell\": \"L480\", \"scrapingDataStartCell\": \"L481\", \"units\": \"\\u00cdndice 17-Dic-2015=100\", \"dataset_identifier\": \"116\", \"distribution_identifier\": \"116.4\"}, {\"title\": \"tipo_cambio_real_suiza\", \"type\": \"number\", \"description\": \"\\u00cdndice de Tipo de Cambio Real Suiza\", \"id\": \"116.4_TCRZE_2015_D_22_27\", \"scrapingIdentifierCell\": \"M480\", \"scrapingDataStartCell\": \"M481\", \"units\": \"\\u00cdndice 17-Dic-2015=100\", \"dataset_identifier\": \"116\", \"distribution_identifier\": \"116.4\"}, {\"title\": \"tipo_cambio_real_zona_euro\", \"type\": \"number\", \"description\": \"\\u00cdndice de Tipo de Cambio Real Zona Euro\", \"id\": \"116.4_TCRZE_2015_D_26_49\", \"scrapingIdentifierCell\": \"N480\", \"scrapingDataStartCell\": \"N481\", \"units\": \"\\u00cdndice 17-Dic-2015=100\", \"dataset_identifier\": \"116\", \"distribution_identifier\": \"116.4\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-09-28T00:00:00",
+      "datastore_active": false,
+      "description": "Índice de Tipo de Cambio Real Multilateral. Valores diarios Base 2015",
+      "fileName": "indice-tipo-cambio-real-multilateral-diario-base-2015.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "sspm_116.4",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Índice de Tipo de Cambio Real Multilateral. Valores diarios Base 2015",
+      "package_id": "sspm_116",
+      "position": 3,
+      "resource_type": null,
+      "revision_id": "3574a1ca-5dc8-4534-886e-93c5879887f0",
+      "size": null,
+      "state": "active",
+      "url": "https://infra.datos.gob.ar/catalog/sspm/dataset/116/distribution/116.4/download/indice-tipo-cambio-real-multilateral-diario-base-2015.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "e66f372d-436d-4933-80de-8dd1b866fc3d",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "Dinero y Bancos",
+      "id": "a6e04960-0d58-4c4e-a59c-a2e2ef9ac579",
+      "name": "Dinero y Bancos",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Información económica al día",
+      "id": "a277ffeb-6252-446e-a364-14710b257b35",
+      "name": "Información económica al día",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Sector Externo",
+      "id": "7161d5c3-be73-43e4-91b8-447209c908f4",
+      "name": "Sector Externo",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Índice de Tipo de Cambio Real Multilateral Base 17 de Diciembre de 2015 = 100",
+  "type": "dataset",
+  "url": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/",
+  "version": null
+}

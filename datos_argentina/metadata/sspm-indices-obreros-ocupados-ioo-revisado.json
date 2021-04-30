@@ -1,0 +1,156 @@
+{
+  "author": "Subsecretaría de Programación Macroeconómica",
+  "author_email": "datoseconomicos@mecon.gov.ar",
+  "creator_user_id": "4720e75a-9e17-4dc3-879d-041917c7f9f9",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P3M"
+    },
+    {
+      "key": "issued",
+      "value": "2017-09-28"
+    },
+    {
+      "key": "language",
+      "value": "[\"SPA\"]"
+    },
+    {
+      "key": "source",
+      "value": "Instituto Nacional de Estadística y Censos (INDEC)"
+    },
+    {
+      "key": "spatial",
+      "value": "ARG"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"ECON\"]"
+    },
+    {
+      "key": "temporal",
+      "value": "2015-01-01/2016-09-01"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Economía y finanzas",
+      "display_name": "Economía y finanzas",
+      "id": "60b4b03e-10a1-4d67-b984-08008a249617",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225257.200233economia-finanzas.svg",
+      "name": "econ",
+      "title": "Economía y finanzas"
+    }
+  ],
+  "id": "sspm_19",
+  "isopen": true,
+  "license_id": "CC-BY-4.0",
+  "license_title": "Creative Commons Attribution 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "maintainer": "Subsecretaría de Programación Macroeconómica.",
+  "maintainer_email": "datoseconomicos@mecon.gov.ar",
+  "metadata_created": "2019-11-26T15:05:06.464459",
+  "metadata_modified": "2021-04-29T21:04:14.338396",
+  "name": "sspm-indices-obreros-ocupados-ioo-revisado",
+  "notes": "Índices de Obreros Ocupados (IOO) en la industria manufacturera.  Encuesta Industrial Base 1997 (revisado)",
+  "num_resources": 2,
+  "num_tags": 3,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:09.718132",
+    "description": "",
+    "id": "68f9ee22-5ec3-44cf-a32b-b87d9db46b93",
+    "image_url": "",
+    "is_organization": true,
+    "name": "sspm",
+    "revision_id": "bc058ce0-3540-4204-96cd-9f9ec79045b3",
+    "state": "active",
+    "title": "Subsecretaría de Programación Macroeconómica",
+    "type": "organization"
+  },
+  "owner_org": "68f9ee22-5ec3-44cf-a32b-b87d9db46b93",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/",
+      "attributesDescription": "[{\"title\": \"indice_tiempo\", \"type\": \"date\", \"specialType\": \"time_index\", \"specialTypeDetail\": \"R/P3M\", \"id\": \"19.1_IT_1997_0_13\", \"scrapingIdentifierCell\": \"A10\", \"scrapingDataStartCell\": \"A11\", \"dataset_identifier\": \"19\", \"distribution_identifier\": \"19.1\"}, {\"title\": \"nivel_general\", \"type\": \"number\", \"description\": \"\\u00cdndice de Salarios por Obrero (ISO) (revisado). \\u00cdndice General. Variaciones interanuales, Trimestrales.\", \"id\": \"19.1_NG_1997_0_13\", \"scrapingIdentifierCell\": \"B10\", \"scrapingDataStartCell\": \"B11\", \"units\": \"Variaci\\u00f3n Porcentual\", \"dataset_identifier\": \"19\", \"distribution_identifier\": \"19.1\"}, {\"title\": \"elaboracion_productos_alimenticios_bebidas\", \"type\": \"number\", \"description\": \"Variaciones interanuales \\u00cdndice de Salarios por Obrero (ISO) (revisado). Elaboraci\\u00f3n de productos alimenticios y bebidas. Variaciones interanuales, Trimestrales.\", \"id\": \"19.1_EPAB_1997_0_42\", \"scrapingIdentifierCell\": \"C10\", \"scrapingDataStartCell\": \"C11\", \"units\": \"Variaci\\u00f3n Porcentual\", \"dataset_identifier\": \"19\", \"distribution_identifier\": \"19.1\"}, {\"title\": \"elaboracion_productos_tabaco\", \"type\": \"number\", \"description\": \"Variaciones interanuales \\u00cdndice de Salarios por Obrero (ISO) (revisado). Elaboraci\\u00f3n de productos con tabaco. Variaciones interanuales, Trimestrales.\", \"id\": \"19.1_EPT_1997_0_28\", \"scrapingIdentifierCell\": \"D10\", \"scrapingDataStartCell\": \"D11\", \"units\": \"Variaci\\u00f3n Porcentual\", \"dataset_identifier\": \"19\", \"distribution_identifier\": \"19.1\"}, {\"title\": \"fabricacion_productos_textiles\", \"type\": \"number\", \"description\": \"\\u00cdndice de Salarios por Obrero (ISO) (revisado). Fabricaci\\u00f3n de productos textiles. Variaciones interanuales, Trimestrales.\", \"id\": \"19.1_FPT_1997_0_30\", \"scrapingIdentifierCell\": \"E10\", \"scrapingDataStartCell\": \"E11\", \"units\": \"Variaci\\u00f3n Porcentual\", \"dataset_identifier\": \"19\", \"distribution_identifier\": \"19.1\"}, {\"title\": \"fabricacion_prendas_vestir_terminacion_tenido_pieles\", \"type\": \"number\", \"description\": \"Variaciones interanuales \\u00cdndice de Salarios por Obrero (ISO) (revisado). Fabricaci\\u00f3n de prendas para vestir, terminaci\\u00f3n y tenido de pieles. Variaciones interanuales, Trimestrales.\", \"id\": \"19.1_FPVTTP_1997_0_52\", \"scrapingIdentifierCell\": \"F10\", \"scrapingDataStartCell\": \"F11\", \"units\": \"Variaci\\u00f3n Porcentual\", \"dataset_identifier\": \"19\", \"distribution_identifier\": \"19.1\"}, {\"title\": \"curtido_term_cueros_fabricacion_marroq_talaba_calzado\", \"type\": \"number\", \"description\": \"\\u00cdndice de Salarios por Obrero (ISO) (revisado). Curtido y terminaci\\u00f3n de cueros, fabricaci\\u00f3n de articulos de marroquiner\\u00eda, talabarteria y calzado. Variaciones interanuales, Trimestrales.\", \"id\": \"19.1_CTCFAMTCSP_1997_0_53\", \"scrapingIdentifierCell\": \"G10\", \"scrapingDataStartCell\": \"G11\", \"units\": \"Variaci\\u00f3n Porcentual\", \"dataset_identifier\": \"19\", \"distribution_identifier\": \"19.1\"}, {\"title\": \"produccion_madera_corcho_excepto_muebles\", \"type\": \"number\", \"description\": \"\\u00cdndice de Salarios por Obrero (ISO) (revisado). Producci\\u00f3n y fabricaci\\u00f3n de productos de madera y corcho expto muebles y articulos de materiales trenzables. Variaciones interanuales, Trimestrales.\", \"id\": \"19.1_PMFPMCEMFAPMT_1997_0_40\", \"scrapingIdentifierCell\": \"H10\", \"scrapingDataStartCell\": \"H11\", \"units\": \"Variaci\\u00f3n Porcentual\", \"dataset_identifier\": \"19\", \"distribution_identifier\": \"19.1\"}, {\"title\": \"fabricacion_papel_productos_papel\", \"type\": \"number\", \"description\": \"\\u00cdndice de Salarios por Obrero (ISO) (revisado). Fabricaci\\u00f3n de papel y productos de papel. Variaciones interanuales, Trimestrales.\", \"id\": \"19.1_FPPP_1997_0_33\", \"scrapingIdentifierCell\": \"I10\", \"scrapingDataStartCell\": \"I11\", \"units\": \"Variaci\\u00f3n Porcentual\", \"dataset_identifier\": \"19\", \"distribution_identifier\": \"19.1\"}, {\"title\": \"edicion_impresion_reproduccion_grabaciones\", \"type\": \"number\", \"description\": \"\\u00cdndice de Salarios por Obrero (ISO) (revisado). Edici\\u00f3n e impresi\\u00f3n, reproducci\\u00f3n y gravaciones. Variaciones interanuales, Trimestrales.\", \"id\": \"19.1_EIRG_1997_0_42\", \"scrapingIdentifierCell\": \"J10\", \"scrapingDataStartCell\": \"J11\", \"units\": \"Variaci\\u00f3n Porcentual\", \"dataset_identifier\": \"19\", \"distribution_identifier\": \"19.1\"}, {\"title\": \"ab_coque_prod_refinacion_petroleo_combustible_nuclear\", \"type\": \"number\", \"description\": \"\\u00cdndice de Salarios por Obrero (ISO) (revisado). Fabricaci\\u00f3n de coque, productos de la refinaci\\u00f3n del petroleo, combustibles y productos nucleares. Variaciones interanuales, Trimestrales.\", \"id\": \"19.1_FCPRPCN_1997_0_53\", \"scrapingIdentifierCell\": \"K10\", \"scrapingDataStartCell\": \"K11\", \"units\": \"Variaci\\u00f3n Porcentual\", \"dataset_identifier\": \"19\", \"distribution_identifier\": \"19.1\"}, {\"title\": \"fabricacion_sustancias_productos_quimicos\", \"type\": \"number\", \"description\": \"\\u00cdndice de Salarios por Obrero (ISO) (revisado). Fabricaci\\u00f3n sustencias y productos qu\\u00edmicos. Variaciones interanuales, Trimestrales.\", \"id\": \"19.1_FSPQ_1997_0_41\", \"scrapingIdentifierCell\": \"L10\", \"scrapingDataStartCell\": \"L11\", \"units\": \"Variaci\\u00f3n Porcentual\", \"dataset_identifier\": \"19\", \"distribution_identifier\": \"19.1\"}, {\"title\": \"fabricacion_productos_caucho_plastico\", \"type\": \"number\", \"description\": \"\\u00cdndice de Salarios por Obrero (ISO) (revisado). Fabricaci\\u00f3n de productos de caucho. Variaciones interanuales, Trimestrales.\", \"id\": \"19.1_FPCP_1997_0_37\", \"scrapingIdentifierCell\": \"M10\", \"scrapingDataStartCell\": \"M11\", \"units\": \"Variaci\\u00f3n Porcentual\", \"dataset_identifier\": \"19\", \"distribution_identifier\": \"19.1\"}, {\"title\": \"fabricacion_productos_minerales_no_metalicos\", \"type\": \"number\", \"description\": \"\\u00cdndice de Salarios por Obrero (ISO) (revisado). Fabricaci\\u00f3n de productos minerales no met\\u00e1licos. Variaciones interanuales, Trimestrales.\", \"id\": \"19.1_FPMNM_1997_0_44\", \"scrapingIdentifierCell\": \"N10\", \"scrapingDataStartCell\": \"N11\", \"units\": \"Variaci\\u00f3n Porcentual\", \"dataset_identifier\": \"19\", \"distribution_identifier\": \"19.1\"}, {\"title\": \"fabricacion_metales_comunes\", \"type\": \"number\", \"description\": \"\\u00cdndice de Salarios por Obrero (ISO) (revisado). Fabricaci\\u00f3n de metales comunes. Variaciones interanuales, Trimestrales.\", \"id\": \"19.1_FMC_1997_0_27\", \"scrapingIdentifierCell\": \"O10\", \"scrapingDataStartCell\": \"O11\", \"units\": \"Variaci\\u00f3n Porcentual\", \"dataset_identifier\": \"19\", \"distribution_identifier\": \"19.1\"}, {\"title\": \"fabricacion_productos_elaborados_metal_excepto_maquinaria\", \"type\": \"number\", \"description\": \"\\u00cdndice de Salarios por Obrero (ISO) (revisado). Fabricaci\\u00f3n productos elaborados de metal expto maquinaria y equipos. Variaciones interanuales, Trimestrales.\", \"id\": \"19.1_FPEMEME_1997_0_57\", \"scrapingIdentifierCell\": \"P10\", \"scrapingDataStartCell\": \"P11\", \"units\": \"Variaci\\u00f3n Porcentual\", \"dataset_identifier\": \"19\", \"distribution_identifier\": \"19.1\"}, {\"title\": \"fabricacion_maquinaria_equipos\", \"type\": \"number\", \"description\": \"\\u00cdndice de Salarios por Obrero (ISO) (revisado). Fabricaci\\u00f3n maquinaria y equipos. Variaciones interanuales, Trimestrales.\", \"id\": \"19.1_FME_1997_0_30\", \"scrapingIdentifierCell\": \"Q10\", \"scrapingDataStartCell\": \"Q11\", \"units\": \"Variaci\\u00f3n Porcentual\", \"dataset_identifier\": \"19\", \"distribution_identifier\": \"19.1\"}, {\"title\": \"fabricacion_maquinaria_aparatos_electronicos\", \"type\": \"number\", \"description\": \"\\u00cdndice de Salarios por Obrero (ISO) (revisado). Fabricaci\\u00f3n maquinaria y aparatos electronicos. Variaciones interanuales, Trimestrales.\", \"id\": \"19.1_FMAE_1997_0_44\", \"scrapingIdentifierCell\": \"S10\", \"scrapingDataStartCell\": \"S11\", \"units\": \"Variaci\\u00f3n Porcentual\", \"dataset_identifier\": \"19\", \"distribution_identifier\": \"19.1\"}, {\"title\": \"fabricacion_aparatos_radio_television_comunicaciones\", \"type\": \"number\", \"description\": \"\\u00cdndice de Salarios por Obrero (ISO) (revisado). Fabricaci\\u00f3n equipos y aparatos (radios, televisi\\u00f3n y equipos de comunicaci\\u00f3n) (revisado). Variaciones interanuales, Trimestrales.\", \"id\": \"19.1_FEARTC_1997_0_52\", \"scrapingIdentifierCell\": \"T10\", \"scrapingDataStartCell\": \"T11\", \"units\": \"Variaci\\u00f3n Porcentual\", \"dataset_identifier\": \"19\", \"distribution_identifier\": \"19.1\"}, {\"title\": \"fabricacion_instrumentos_medicos_opticos_precision_relojes\", \"type\": \"number\", \"description\": \"\\u00cdndice de Salarios por Obrero (ISO) (revisado). Fabricaci\\u00f3n instrumentos m\\u00e9dicos, opticos, de presici\\u00f3n y relojes. Variaciones interanuales, Trimestrales.\", \"id\": \"19.1_FIMOPR_1997_0_58\", \"scrapingIdentifierCell\": \"U10\", \"scrapingDataStartCell\": \"U11\", \"units\": \"Variaci\\u00f3n Porcentual\", \"dataset_identifier\": \"19\", \"distribution_identifier\": \"19.1\"}, {\"title\": \"fabricacion_vehiculos_automotores_remolques_semirremolques\", \"type\": \"number\", \"description\": \"\\u00cdndice de Salarios por Obrero (ISO) (revisado). Fabricaci\\u00f3n veh\\u00edculos automotores, remolques y semirremolques. Variaciones interanuales, Trimestrales.\", \"id\": \"19.1_FVARS_1997_0_58\", \"scrapingIdentifierCell\": \"V10\", \"scrapingDataStartCell\": \"V11\", \"units\": \"Variaci\\u00f3n Porcentual\", \"dataset_identifier\": \"19\", \"distribution_identifier\": \"19.1\"}, {\"title\": \"fabricacion_equipo_transporte\", \"type\": \"number\", \"description\": \"\\u00cdndice de Salarios por Obrero (ISO) (revisado). Fabricaci\\u00f3n de equipos de transporte. Variaciones interanuales, Trimestrales.\", \"id\": \"19.1_FET_1997_0_29\", \"scrapingIdentifierCell\": \"W10\", \"scrapingDataStartCell\": \"W11\", \"units\": \"Variaci\\u00f3n Porcentual\", \"dataset_identifier\": \"19\", \"distribution_identifier\": \"19.1\"}, {\"title\": \"fabricacion_muebles_colchones_industrias_manufactureras\", \"type\": \"number\", \"description\": \"\\u00cdndice de Salarios por Obrero (ISO) (revisado). Fabricaci\\u00f3n de muebles, colchones (industria manufacturera) (revisado). Variaciones interanuales, Trimestrales.\", \"id\": \"19.1_FMCIM_1997_0_55\", \"scrapingIdentifierCell\": \"X10\", \"scrapingDataStartCell\": \"X11\", \"units\": \"Variaci\\u00f3n Porcentual\", \"dataset_identifier\": \"19\", \"distribution_identifier\": \"19.1\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-09-28T00:00:00",
+      "datastore_active": false,
+      "description": "Índices de Obreros Ocupados (IOO) (Revisado). Variación interanual.. Encuesta Industrial Base 1997.",
+      "fileName": "encuesta-industrial-revisada-variaciones-interanuales-indice-obreros-ocupados-base-1997.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "sspm_19.1",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Índices de Obreros Ocupados (IOO) (Revisado). Variación interanual.",
+      "package_id": "sspm_19",
+      "position": 0,
+      "resource_type": null,
+      "revision_id": "71595173-e09a-4d03-a048-a8ec492f5f9e",
+      "size": null,
+      "state": "active",
+      "url": "https://infra.datos.gob.ar/catalog/sspm/dataset/19/distribution/19.1/download/encuesta-industrial-revisada-variaciones-interanuales-indice-obreros-ocupados-base-1997.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/",
+      "attributesDescription": "[{\"title\": \"indice_tiempo\", \"type\": \"date\", \"specialType\": \"time_index\", \"specialTypeDetail\": \"R/P3M\", \"id\": \"19.2_IT_1997_0_13\", \"scrapingIdentifierCell\": \"A16\", \"scrapingDataStartCell\": \"A17\", \"dataset_identifier\": \"19\", \"distribution_identifier\": \"19.2\"}, {\"title\": \"nivel_general\", \"type\": \"number\", \"description\": \"\\u00cdndice de Salarios por Obrero (ISO) (revisado). \\u00cdndice General. Variaciones trimestrales, Trimestrales.\", \"id\": \"19.2_NG_1997_0_13\", \"scrapingIdentifierCell\": \"B16\", \"scrapingDataStartCell\": \"B17\", \"units\": \"Variaci\\u00f3n Porcentual\", \"dataset_identifier\": \"19\", \"distribution_identifier\": \"19.2\"}, {\"title\": \"elaboracion_productos_alimenticios_bebidas\", \"type\": \"number\", \"description\": \"Variaciones trimestrales \\u00cdndice de Salarios por Obrero (ISO) (revisado). Elaboracion de productos alimenticios y bebidas. Variaciones trimestrales, Trimestrales.\", \"id\": \"19.2_EPAB_1997_0_42\", \"scrapingIdentifierCell\": \"C16\", \"scrapingDataStartCell\": \"C17\", \"units\": \"Variaci\\u00f3n Porcentual\", \"dataset_identifier\": \"19\", \"distribution_identifier\": \"19.2\"}, {\"title\": \"elaboracion_productos_tabaco\", \"type\": \"number\", \"description\": \"Variaciones trimestrales \\u00cdndice de Salarios por Obrero (ISO) (revisado). Elaboracion de productos con tabaco. Variaciones trimestrales, Trimestrales.\", \"id\": \"19.2_EPT_1997_0_28\", \"scrapingIdentifierCell\": \"D16\", \"scrapingDataStartCell\": \"D17\", \"units\": \"Variaci\\u00f3n Porcentual\", \"dataset_identifier\": \"19\", \"distribution_identifier\": \"19.2\"}, {\"title\": \"fabricacion_productos_textiles\", \"type\": \"number\", \"description\": \"\\u00cdndice de Salarios por Obrero (ISO) (revisado). Fabricacion de productos textiles. Variaciones trimestrales, Trimestrales.\", \"id\": \"19.2_FPT_1997_0_30\", \"scrapingIdentifierCell\": \"E16\", \"scrapingDataStartCell\": \"E17\", \"units\": \"Variaci\\u00f3n Porcentual\", \"dataset_identifier\": \"19\", \"distribution_identifier\": \"19.2\"}, {\"title\": \"fabricacion_prendas_vestir_terminacion_tenido_pieles\", \"type\": \"number\", \"description\": \"Variaciones trimestrales \\u00cdndice de Salarios por Obrero (ISO) (revisado). Fabricacion de prendas para vestir, terminacion y tenido de pieles. Variaciones trimestrales, Trimestrales.\", \"id\": \"19.2_FPVTTP_1997_0_52\", \"scrapingIdentifierCell\": \"F16\", \"scrapingDataStartCell\": \"F17\", \"units\": \"Variaci\\u00f3n Porcentual\", \"dataset_identifier\": \"19\", \"distribution_identifier\": \"19.2\"}, {\"title\": \"curtido_termin_cueros_fabricacion_marroq_talaba_calzado\", \"type\": \"number\", \"description\": \"\\u00cdndice de Salarios por Obrero (ISO) (revisado). Curtido y terminacion de cueros, fabricacion de articulos de marroquiner\\u00eda, talabarteria y calzado. Variaciones trimestrales, Trimestrales.\", \"id\": \"19.2_CTCFAMTCSP_1997_0_55\", \"scrapingIdentifierCell\": \"G16\", \"scrapingDataStartCell\": \"G17\", \"units\": \"Variaci\\u00f3n Porcentual\", \"dataset_identifier\": \"19\", \"distribution_identifier\": \"19.2\"}, {\"title\": \"fabricacion_prod_madera_corcho_expto_muebles_art_trenzables\", \"type\": \"number\", \"description\": \"\\u00cdndice de Salarios por Obrero (ISO) (revisado). Produccion y fabricacion de productos de madera y corcho expto muebles y articulos de materiales trenzables. Variaciones trimestrales, Trimestrales.\", \"id\": \"19.2_PMFPMCEMFAPMT_1997_0_59\", \"scrapingIdentifierCell\": \"H16\", \"scrapingDataStartCell\": \"H17\", \"units\": \"Variaci\\u00f3n Porcentual\", \"dataset_identifier\": \"19\", \"distribution_identifier\": \"19.2\"}, {\"title\": \"fabricacion_papel_productos_papel\", \"type\": \"number\", \"description\": \"\\u00cdndice de Salarios por Obrero (ISO) (revisado). Fabricacion de papel y productos de papel. Variaciones trimestrales, Trimestrales.\", \"id\": \"19.2_FPPP_1997_0_33\", \"scrapingIdentifierCell\": \"I16\", \"scrapingDataStartCell\": \"I17\", \"units\": \"Variaci\\u00f3n Porcentual\", \"dataset_identifier\": \"19\", \"distribution_identifier\": \"19.2\"}, {\"title\": \"edicion_impresion_reproduccion_grabaciones\", \"type\": \"number\", \"description\": \"\\u00cdndice de Salarios por Obrero (ISO) (revisado). Edicion e impresion, reproduccion y gravaciones. Variaciones trimestrales, Trimestrales.\", \"id\": \"19.2_EIRG_1997_0_42\", \"scrapingIdentifierCell\": \"J16\", \"scrapingDataStartCell\": \"J17\", \"units\": \"Variaci\\u00f3n Porcentual\", \"dataset_identifier\": \"19\", \"distribution_identifier\": \"19.2\"}, {\"title\": \"ab_coque_prod_refinacion_petroleo_combustible_nuclear\", \"type\": \"number\", \"description\": \"\\u00cdndice de Salarios por Obrero (ISO) (revisado). Fabricacion de coque, productos de la refinacion del petroleo, combustibles y productos nucleares. Variaciones trimestrales, Trimestrales.\", \"id\": \"19.2_FCPRPCN_1997_0_53\", \"scrapingIdentifierCell\": \"K16\", \"scrapingDataStartCell\": \"K17\", \"units\": \"Variaci\\u00f3n Porcentual\", \"dataset_identifier\": \"19\", \"distribution_identifier\": \"19.2\"}, {\"title\": \"fabricacion_sustancias_productos_quimicos\", \"type\": \"number\", \"description\": \"\\u00cdndice de Salarios por Obrero (ISO) (revisado). Fabricacion sustencias y productos qu\\u00edmicos. Variaciones trimestrales, Trimestrales.\", \"id\": \"19.2_FSPQ_1997_0_41\", \"scrapingIdentifierCell\": \"L16\", \"scrapingDataStartCell\": \"L17\", \"units\": \"Variaci\\u00f3n Porcentual\", \"dataset_identifier\": \"19\", \"distribution_identifier\": \"19.2\"}, {\"title\": \"fabricacion_productos_caucho_plastico\", \"type\": \"number\", \"description\": \"\\u00cdndice de Salarios por Obrero (ISO) (revisado). Fabricacion de productos de caucho. Variaciones trimestrales, Trimestrales.\", \"id\": \"19.2_FPCP_1997_0_37\", \"scrapingIdentifierCell\": \"M16\", \"scrapingDataStartCell\": \"M17\", \"units\": \"Variaci\\u00f3n Porcentual\", \"dataset_identifier\": \"19\", \"distribution_identifier\": \"19.2\"}, {\"title\": \"fabricacion_productos_minerales_no_metalicos\", \"type\": \"number\", \"description\": \"\\u00cdndice de Salarios por Obrero (ISO) (revisado). Fabricacion de productos minerales no met\\u00e1licos. Variaciones trimestrales, Trimestrales.\", \"id\": \"19.2_FPMNM_1997_0_44\", \"scrapingIdentifierCell\": \"N16\", \"scrapingDataStartCell\": \"N17\", \"units\": \"Variaci\\u00f3n Porcentual\", \"dataset_identifier\": \"19\", \"distribution_identifier\": \"19.2\"}, {\"title\": \"fabricacion_metales_comunes\", \"type\": \"number\", \"description\": \"\\u00cdndice de Salarios por Obrero (ISO) (revisado). Fabricacion de metales comunes. Variaciones trimestrales, Trimestrales.\", \"id\": \"19.2_FMC_1997_0_27\", \"scrapingIdentifierCell\": \"O16\", \"scrapingDataStartCell\": \"O17\", \"units\": \"Variaci\\u00f3n Porcentual\", \"dataset_identifier\": \"19\", \"distribution_identifier\": \"19.2\"}, {\"title\": \"fabricacion_productos_elaborados_metal_excepto_maquinaria\", \"type\": \"number\", \"description\": \"\\u00cdndice de Salarios por Obrero (ISO) (revisado). Fabricacion productos elaborados de metal expto maquinaria y equipos. Variaciones trimestrales, Trimestrales.\", \"id\": \"19.2_FPEMEME_1997_0_57\", \"scrapingIdentifierCell\": \"P16\", \"scrapingDataStartCell\": \"P17\", \"units\": \"Variaci\\u00f3n Porcentual\", \"dataset_identifier\": \"19\", \"distribution_identifier\": \"19.2\"}, {\"title\": \"fabricacion_maquinaria_equipos\", \"type\": \"number\", \"description\": \"\\u00cdndice de Salarios por Obrero (ISO) (revisado). Fabricacion maquinaria y equipos. Variaciones trimestrales, Trimestrales.\", \"id\": \"19.2_FME_1997_0_30\", \"scrapingIdentifierCell\": \"Q16\", \"scrapingDataStartCell\": \"Q17\", \"units\": \"Variaci\\u00f3n Porcentual\", \"dataset_identifier\": \"19\", \"distribution_identifier\": \"19.2\"}, {\"title\": \"fabricacion_maquinaria_aparatos_electronicos\", \"type\": \"number\", \"description\": \"\\u00cdndice de Salarios por Obrero (ISO) (revisado). Fabricacion maquinaria y aparatos electronicos. Variaciones trimestrales, Trimestrales.\", \"id\": \"19.2_FMAE_1997_0_44\", \"scrapingIdentifierCell\": \"S16\", \"scrapingDataStartCell\": \"S17\", \"units\": \"Variaci\\u00f3n Porcentual\", \"dataset_identifier\": \"19\", \"distribution_identifier\": \"19.2\"}, {\"title\": \"fabricacion_equipos_aparatos_radio_television_comunicaciones\", \"type\": \"number\", \"description\": \"\\u00cdndice de Salarios por Obrero (ISO) (revisado). Fabricacion equipos y aparatos (radios, television y equipos de comunicacion) (revisado). Variaciones trimestrales, Trimestrales.\", \"id\": \"19.2_FEARTC_1997_0_60\", \"scrapingIdentifierCell\": \"T16\", \"scrapingDataStartCell\": \"T17\", \"units\": \"Variaci\\u00f3n Porcentual\", \"dataset_identifier\": \"19\", \"distribution_identifier\": \"19.2\"}, {\"title\": \"fabricacion_instrumentos_medicos_opticos_precision_relojes\", \"type\": \"number\", \"description\": \"\\u00cdndice de Salarios por Obrero (ISO) (revisado). Fabricacion instrumentos m\\u00e9dicos, opticos, de presicion y relojes. Variaciones trimestrales, Trimestrales.\", \"id\": \"19.2_FIMOPR_1997_0_58\", \"scrapingIdentifierCell\": \"U16\", \"scrapingDataStartCell\": \"U17\", \"units\": \"Variaci\\u00f3n Porcentual\", \"dataset_identifier\": \"19\", \"distribution_identifier\": \"19.2\"}, {\"title\": \"fabricacion_vehiculos_automotores_remolques_semirremolques\", \"type\": \"number\", \"description\": \"\\u00cdndice de Salarios por Obrero (ISO) (revisado). Fabricacion veh\\u00edculos automotores, remolques y semirremolques. Variaciones trimestrales, Trimestrales.\", \"id\": \"19.2_FVARS_1997_0_58\", \"scrapingIdentifierCell\": \"V16\", \"scrapingDataStartCell\": \"V17\", \"units\": \"Variaci\\u00f3n Porcentual\", \"dataset_identifier\": \"19\", \"distribution_identifier\": \"19.2\"}, {\"title\": \"fabricacion_equipo_transporte\", \"type\": \"number\", \"description\": \"\\u00cdndice de Salarios por Obrero (ISO) (revisado). Fabricacion de equipos de transporte. Variaciones trimestrales, Trimestrales.\", \"id\": \"19.2_FET_1997_0_29\", \"scrapingIdentifierCell\": \"W16\", \"scrapingDataStartCell\": \"W17\", \"units\": \"Variaci\\u00f3n Porcentual\", \"dataset_identifier\": \"19\", \"distribution_identifier\": \"19.2\"}, {\"title\": \"fabricacion_muebles_colchones_industrias_manufactureras\", \"type\": \"number\", \"description\": \"\\u00cdndice de Salarios por Obrero (ISO) (revisado). Fabricacion de muebles, colchones (industria manufacturera) (revisado). Variaciones trimestrales, Trimestrales.\", \"id\": \"19.2_FMCIM_1997_0_55\", \"scrapingIdentifierCell\": \"X16\", \"scrapingDataStartCell\": \"X17\", \"units\": \"Variaci\\u00f3n Porcentual\", \"dataset_identifier\": \"19\", \"distribution_identifier\": \"19.2\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-09-28T00:00:00",
+      "datastore_active": false,
+      "description": "Índices de Obreros Ocupados (IOO) (Revisado). Variación trimestral.. Encuesta Industrial Base 1997.",
+      "fileName": "encuesta-industrial-revisada-variaciones-trimestrales-indice-obreros-ocupados-base-1997.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "sspm_19.2",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Índices de Obreros Ocupados (IOO) (Revisado). Variación trimestral.",
+      "package_id": "sspm_19",
+      "position": 1,
+      "resource_type": null,
+      "revision_id": "71595173-e09a-4d03-a048-a8ec492f5f9e",
+      "size": null,
+      "state": "active",
+      "url": "https://infra.datos.gob.ar/catalog/sspm/dataset/19/distribution/19.2/download/encuesta-industrial-revisada-variaciones-trimestrales-indice-obreros-ocupados-base-1997.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "71595173-e09a-4d03-a048-a8ec492f5f9e",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "Actividad",
+      "id": "a7695c51-c893-4ece-8ff9-306c197afdd7",
+      "name": "Actividad",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Empleo e Ingresos",
+      "id": "0d41bcfd-c3a4-4ff7-8aa1-dd5c3ac51d0b",
+      "name": "Empleo e Ingresos",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Información Económica al Día",
+      "id": "0d300a9a-0802-46c3-9a40-2f28ddf050ec",
+      "name": "Información Económica al Día",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Índices de Obreros Ocupados (IOO) (Revisado)",
+  "type": "dataset",
+  "url": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/",
+  "version": null
+}

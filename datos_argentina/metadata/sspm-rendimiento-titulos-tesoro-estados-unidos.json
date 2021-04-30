@@ -1,0 +1,138 @@
+{
+  "author": "Subsecretaría de Programación Macroeconómica",
+  "author_email": "datoseconomicos@mecon.gov.ar",
+  "creator_user_id": "4720e75a-9e17-4dc3-879d-041917c7f9f9",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P1D"
+    },
+    {
+      "key": "issued",
+      "value": "2017-09-28"
+    },
+    {
+      "key": "language",
+      "value": "[\"SPA\"]"
+    },
+    {
+      "key": "source",
+      "value": "Bancos Centrales"
+    },
+    {
+      "key": "spatial",
+      "value": "ARG"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"ECON\"]"
+    },
+    {
+      "key": "temporal",
+      "value": "1954-01-04/2017-07-19"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Economía y finanzas",
+      "display_name": "Economía y finanzas",
+      "id": "60b4b03e-10a1-4d67-b984-08008a249617",
+      "image_display_url": "http://datos.gob.ar/uploads/group/2019-12-04-225257.200233economia-finanzas.svg",
+      "name": "econ",
+      "title": "Economía y finanzas"
+    }
+  ],
+  "id": "sspm_132",
+  "isopen": true,
+  "license_id": "CC-BY-4.0",
+  "license_title": "Creative Commons Attribution 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "maintainer": "Subsecretaría de Programación Macroeconómica.",
+  "maintainer_email": "datoseconomicos@mecon.gov.ar",
+  "metadata_created": "2019-11-26T15:04:42.883517",
+  "metadata_modified": "2020-03-12T17:04:25.628955",
+  "name": "sspm-rendimiento-titulos-tesoro-estados-unidos",
+  "notes": "Rendimiento Títulos del Tesoro de Estados Unidos. Frecuencia diaria",
+  "num_resources": 1,
+  "num_tags": 4,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:09.718132",
+    "description": "",
+    "id": "68f9ee22-5ec3-44cf-a32b-b87d9db46b93",
+    "image_url": "",
+    "is_organization": true,
+    "name": "sspm",
+    "revision_id": "bc058ce0-3540-4204-96cd-9f9ec79045b3",
+    "state": "active",
+    "title": "Subsecretaría de Programación Macroeconómica",
+    "type": "organization"
+  },
+  "owner_org": "68f9ee22-5ec3-44cf-a32b-b87d9db46b93",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/",
+      "attributesDescription": "[{\"title\": \"indice_tiempo\", \"type\": \"date\", \"specialType\": \"time_index\", \"specialTypeDetail\": \"R/P1D\", \"id\": \"132.1_IT_0_0_13\", \"scrapingIdentifierCell\": \"A7\", \"scrapingDataStartCell\": \"A8\", \"dataset_identifier\": \"132\", \"distribution_identifier\": \"132.1\"}, {\"title\": \"titulos_us_3_meses\", \"type\": \"number\", \"description\": \"Rendimiento Letra del Tesoro a 3 meses\", \"id\": \"132.1_IT_0_D_7_14\", \"scrapingIdentifierCell\": \"C7\", \"scrapingDataStartCell\": \"C8\", \"units\": \"Porcentaje\", \"dataset_identifier\": \"132\", \"distribution_identifier\": \"132.1\"}, {\"title\": \"titulos_us_1_anios\", \"type\": \"number\", \"description\": \"Rendimiento Bono del Tesoro a 1 a\\u00f1o\", \"id\": \"132.1_IT_0_D_7_36\", \"scrapingIdentifierCell\": \"D7\", \"scrapingDataStartCell\": \"D8\", \"units\": \"Porcentaje\", \"dataset_identifier\": \"132\", \"distribution_identifier\": \"132.1\"}, {\"title\": \"titulos_us_2_anios\", \"type\": \"number\", \"description\": \"Rendimiento Bono del Tesoro a 2 a\\u00f1os\", \"id\": \"132.1_IT_0_D_7_88\", \"scrapingIdentifierCell\": \"E7\", \"scrapingDataStartCell\": \"E8\", \"units\": \"Porcentaje\", \"dataset_identifier\": \"132\", \"distribution_identifier\": \"132.1\"}, {\"title\": \"titulos_us_3_anios\", \"type\": \"number\", \"description\": \"Rendimiento Bono del Tesoro a 3 a\\u00f1os\", \"id\": \"132.1_3A_0_0_7\", \"scrapingIdentifierCell\": \"F7\", \"scrapingDataStartCell\": \"F8\", \"units\": \"Porcentaje\", \"dataset_identifier\": \"132\", \"distribution_identifier\": \"132.1\"}, {\"title\": \"titulos_us_5_anios\", \"type\": \"number\", \"description\": \"Rendimiento Bono del Tesoro a 5 a\\u00f1os\", \"id\": \"132.1_5A_0_0_7\", \"scrapingIdentifierCell\": \"G7\", \"scrapingDataStartCell\": \"G8\", \"units\": \"Porcentaje\", \"dataset_identifier\": \"132\", \"distribution_identifier\": \"132.1\"}, {\"title\": \"titulos_us_7_anios\", \"type\": \"number\", \"description\": \"Rendimiento Bono del Tesoro a 7 a\\u00f1os\", \"id\": \"132.1_7A_0_0_7\", \"scrapingIdentifierCell\": \"H7\", \"scrapingDataStartCell\": \"H8\", \"units\": \"Porcentaje\", \"dataset_identifier\": \"132\", \"distribution_identifier\": \"132.1\"}, {\"title\": \"titulos_us_10_anios\", \"type\": \"number\", \"description\": \"Rendimiento Bono del Tesoro a 10 a\\u00f1os\", \"id\": \"132.1_1A_0_0_8\", \"scrapingIdentifierCell\": \"I7\", \"scrapingDataStartCell\": \"I8\", \"units\": \"Porcentaje\", \"dataset_identifier\": \"132\", \"distribution_identifier\": \"132.1\"}, {\"title\": \"titulos_us_20_anios\", \"type\": \"number\", \"description\": \"Rendimiento Bono del Tesoro a 20 a\\u00f1os\", \"id\": \"132.1_2A_0_0_8\", \"scrapingIdentifierCell\": \"J7\", \"scrapingDataStartCell\": \"J8\", \"units\": \"Porcentaje\", \"dataset_identifier\": \"132\", \"distribution_identifier\": \"132.1\"}, {\"title\": \"titulos_us_30_anios\", \"type\": \"number\", \"description\": \"Rendimiento Bono del Tesoro a 30 a\\u00f1os\", \"id\": \"132.1_3A_0_0_8\", \"scrapingIdentifierCell\": \"K7\", \"scrapingDataStartCell\": \"K8\", \"units\": \"Porcentaje\", \"dataset_identifier\": \"132\", \"distribution_identifier\": \"132.1\"}, {\"title\": \"titulos_us_indexado_5_anios\", \"type\": \"number\", \"description\": \"Rendimiento Bono del Tesoro Indexado a 5 a\\u00f1os\", \"id\": \"132.1_3A_0_D_16_62\", \"scrapingIdentifierCell\": \"M7\", \"scrapingDataStartCell\": \"M8\", \"units\": \"Porcentaje\", \"dataset_identifier\": \"132\", \"distribution_identifier\": \"132.1\"}, {\"title\": \"titulos_us_indexado_7_anios\", \"type\": \"number\", \"description\": \"Rendimiento Bono del Tesoro Indexado a 7 a\\u00f1os\", \"id\": \"132.1_3A_0_D_16_33\", \"scrapingIdentifierCell\": \"N7\", \"scrapingDataStartCell\": \"N8\", \"units\": \"Porcentaje\", \"dataset_identifier\": \"132\", \"distribution_identifier\": \"132.1\"}, {\"title\": \"titulos_us_indexado_10_anios\", \"type\": \"number\", \"description\": \"Rendimiento Bono del Tesoro Indexado a 10 a\\u00f1os\", \"id\": \"132.1_3A_0_D_17_61\", \"scrapingIdentifierCell\": \"O7\", \"scrapingDataStartCell\": \"O8\", \"units\": \"Porcentaje\", \"dataset_identifier\": \"132\", \"distribution_identifier\": \"132.1\"}, {\"title\": \"titulos_us_indexado_20_anios\", \"type\": \"number\", \"description\": \"Rendimiento Bono del Tesoro Indexado a 20 a\\u00f1os\", \"id\": \"132.1_3A_0_D_17_30\", \"scrapingIdentifierCell\": \"P7\", \"scrapingDataStartCell\": \"P8\", \"units\": \"Porcentaje\", \"dataset_identifier\": \"132\", \"distribution_identifier\": \"132.1\"}, {\"title\": \"titulos_us_indexado_30_anios\", \"type\": \"number\", \"description\": \"Rendimiento Bono del Tesoro Indexado a 30 a\\u00f1os\", \"id\": \"132.1_3A_0_D_17_37\", \"scrapingIdentifierCell\": \"Q7\", \"scrapingDataStartCell\": \"Q8\", \"units\": \"Porcentaje\", \"dataset_identifier\": \"132\", \"distribution_identifier\": \"132.1\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-09-28T00:00:00",
+      "datastore_active": false,
+      "description": "Rendimiento Títulos del Tesoro de Estados Unidos. Porcentaje nominal anual.",
+      "fileName": "rendimiento-bonos-estados-unidos-tasas-porcentaje-frecuencia-diaria.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "sspm_132.1",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Rendimiento Títulos del Tesoro de Estados Unidos",
+      "package_id": "sspm_132",
+      "position": 0,
+      "resource_type": null,
+      "revision_id": "2782f868-e643-4c98-916c-40272a1c5376",
+      "size": null,
+      "state": "active",
+      "url": "https://infra.datos.gob.ar/catalog/sspm/dataset/132/distribution/132.1/download/rendimiento-bonos-estados-unidos-tasas-porcentaje-frecuencia-diaria.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "2782f868-e643-4c98-916c-40272a1c5376",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "Economía Internacional",
+      "id": "260fd24c-9abc-4b59-b810-6c7f9ccd538d",
+      "name": "Economía Internacional",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Finanzas y Mercados",
+      "id": "15d4e55e-83d4-467d-9cc1-0881eec6c4cb",
+      "name": "Finanzas y Mercados",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Información Económica al Día",
+      "id": "0d300a9a-0802-46c3-9a40-2f28ddf050ec",
+      "name": "Información Económica al Día",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Internacional",
+      "id": "380bd819-36c2-40ab-917e-a0ac0fb1e76f",
+      "name": "Internacional",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Rendimiento Títulos del Tesoro de Estados Unidos",
+  "type": "dataset",
+  "url": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/",
+  "version": null
+}

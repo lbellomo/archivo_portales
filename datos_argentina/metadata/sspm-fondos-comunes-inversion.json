@@ -1,0 +1,156 @@
+{
+  "author": "Subsecretaría de Programación Macroeconómica",
+  "author_email": "datoseconomicos@mecon.gov.ar",
+  "creator_user_id": "4720e75a-9e17-4dc3-879d-041917c7f9f9",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P1M"
+    },
+    {
+      "key": "issued",
+      "value": "2017-09-28"
+    },
+    {
+      "key": "language",
+      "value": "[\"SPA\"]"
+    },
+    {
+      "key": "source",
+      "value": "Cámara Argentina de Fondos Comunes de Inversión"
+    },
+    {
+      "key": "spatial",
+      "value": "ARG"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"ECON\"]"
+    },
+    {
+      "key": "temporal",
+      "value": "2000-01-01/2017-09-01"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Economía y finanzas",
+      "display_name": "Economía y finanzas",
+      "id": "60b4b03e-10a1-4d67-b984-08008a249617",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225257.200233economia-finanzas.svg",
+      "name": "econ",
+      "title": "Economía y finanzas"
+    }
+  ],
+  "id": "sspm_171",
+  "isopen": true,
+  "license_id": "CC-BY-4.0",
+  "license_title": "Creative Commons Attribution 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "maintainer": "Subsecretaría de Programación Macroeconómica.",
+  "maintainer_email": "datoseconomicos@mecon.gov.ar",
+  "metadata_created": "2019-11-26T15:03:50.194866",
+  "metadata_modified": "2021-04-29T21:05:22.596152",
+  "name": "sspm-fondos-comunes-inversion",
+  "notes": "Fondos Comunes de Inversión por tipo",
+  "num_resources": 2,
+  "num_tags": 3,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:09.718132",
+    "description": "",
+    "id": "68f9ee22-5ec3-44cf-a32b-b87d9db46b93",
+    "image_url": "",
+    "is_organization": true,
+    "name": "sspm",
+    "revision_id": "bc058ce0-3540-4204-96cd-9f9ec79045b3",
+    "state": "active",
+    "title": "Subsecretaría de Programación Macroeconómica",
+    "type": "organization"
+  },
+  "owner_org": "68f9ee22-5ec3-44cf-a32b-b87d9db46b93",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/",
+      "attributesDescription": "[{\"title\": \"indice_tiempo\", \"type\": \"date\", \"specialType\": \"time_index\", \"specialTypeDetail\": \"R/P1Y\", \"id\": \"171.1_ICE_TIEMPO_0_0_13\", \"scrapingIdentifierCell\": \"A8\", \"scrapingDataStartCell\": \"A9\", \"dataset_identifier\": \"171\", \"distribution_identifier\": \"171.1\"}, {\"title\": \"fci_renta_fija\", \"type\": \"number\", \"description\": \"Fondos Comunes de Inversi\\u00f3n de Renta Fija, patrimonio a diciembre de cada a\\u00f1o\", \"id\": \"171.1_FRENTA_IJA_0_0_14\", \"scrapingIdentifierCell\": \"B8\", \"scrapingDataStartCell\": \"B9\", \"units\": \"Millones de pesos\", \"dataset_identifier\": \"171\", \"distribution_identifier\": \"171.1\"}, {\"title\": \"fci_renta_mixta\", \"type\": \"number\", \"description\": \"Fondos Comunes de Inversi\\u00f3n de Renta Mixta, patrimonio a diciembre de cada a\\u00f1o\", \"id\": \"171.1_FRENTA_XTA_0_0_15\", \"scrapingIdentifierCell\": \"C8\", \"scrapingDataStartCell\": \"C9\", \"units\": \"Millones de pesos\", \"dataset_identifier\": \"171\", \"distribution_identifier\": \"171.1\"}, {\"title\": \"fci_mercado_dinero\", \"type\": \"number\", \"description\": \"Fondos Comunes de Inversi\\u00f3n de Mercado de Dinero, patrimonio a diciembre de cada a\\u00f1o\", \"id\": \"171.1_FMERCADERO_0_0_18\", \"scrapingIdentifierCell\": \"D8\", \"scrapingDataStartCell\": \"D9\", \"units\": \"Millones de pesos\", \"dataset_identifier\": \"171\", \"distribution_identifier\": \"171.1\"}, {\"title\": \"fci_renta_variable\", \"type\": \"number\", \"description\": \"Fondos Comunes de Inversi\\u00f3n de Renta Variable, patrimonio a diciembre de cada a\\u00f1o\", \"id\": \"171.1_FRENTA_BLE_0_0_18\", \"scrapingIdentifierCell\": \"E8\", \"scrapingDataStartCell\": \"E9\", \"units\": \"Millones de pesos\", \"dataset_identifier\": \"171\", \"distribution_identifier\": \"171.1\"}, {\"title\": \"fci_fondos_pymes\", \"type\": \"number\", \"description\": \"Fondos Comunes de Inversi\\u00f3n de Fondos PyMEs, patrimonio a diciembre de cada a\\u00f1o\", \"id\": \"171.1_FFONDOSMES_0_0_16\", \"scrapingIdentifierCell\": \"F8\", \"scrapingDataStartCell\": \"F9\", \"units\": \"Millones de pesos\", \"dataset_identifier\": \"171\", \"distribution_identifier\": \"171.1\"}, {\"title\": \"fci_infraestructura\", \"type\": \"number\", \"description\": \"Fondos Comunes de Inversi\\u00f3n de Infraestructura, patrimonio a diciembre de cada a\\u00f1o\", \"id\": \"171.1_FINFRAEURA_0_0_19\", \"scrapingIdentifierCell\": \"G8\", \"scrapingDataStartCell\": \"G9\", \"units\": \"Millones de pesos\", \"dataset_identifier\": \"171\", \"distribution_identifier\": \"171.1\"}, {\"title\": \"fci_retorno_total\", \"type\": \"number\", \"description\": \"Fondos Comunes de Inversi\\u00f3n de Retorno Total, patrimonio a diciembre de cada a\\u00f1o\", \"id\": \"171.1_FRETORNTAL_0_0_17\", \"scrapingIdentifierCell\": \"H8\", \"scrapingDataStartCell\": \"H9\", \"units\": \"Millones de pesos\", \"dataset_identifier\": \"171\", \"distribution_identifier\": \"171.1\"}, {\"title\": \"fci_patrimonio_neto_total\", \"type\": \"number\", \"description\": \"Patrimonio Neto Total de Fondos Comunes de Inversi\\u00f3n, patrimonio a diciembre de cada a\\u00f1o\", \"id\": \"171.1_FPATRIMTAL_0_0_25\", \"scrapingIdentifierCell\": \"J8\", \"scrapingDataStartCell\": \"J9\", \"units\": \"Millones de pesos\", \"dataset_identifier\": \"171\", \"distribution_identifier\": \"171.1\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-09-28T00:00:00",
+      "datastore_active": false,
+      "description": "Fondos Comunes de Inversión por tipo",
+      "fileName": "fondos-comunes-inversion-por-tipo-anual.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "sspm_171.1",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Fondos Comunes de Inversión por tipo. Datos anuales",
+      "package_id": "sspm_171",
+      "position": 0,
+      "resource_type": null,
+      "revision_id": "69940daa-a6ca-467b-a8d3-51848c7fc135",
+      "size": null,
+      "state": "active",
+      "url": "https://infra.datos.gob.ar/catalog/sspm/dataset/171/distribution/171.1/download/fondos-comunes-inversion-por-tipo-anual.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/",
+      "attributesDescription": "[{\"title\": \"indice_tiempo\", \"type\": \"date\", \"specialType\": \"time_index\", \"specialTypeDetail\": \"R/P1M\", \"id\": \"171.3_ICE_TIEMPO_0_0_13\", \"scrapingIdentifierCell\": \"A32\", \"scrapingDataStartCell\": \"A33\", \"dataset_identifier\": \"171\", \"distribution_identifier\": \"171.3\"}, {\"title\": \"fci_renta_fija\", \"type\": \"number\", \"description\": \"Fondos Comunes de Inversi\\u00f3n de Renta Fija, patrimonio mensual\", \"id\": \"171.3_FRENTA_IJA_0_0_14\", \"scrapingIdentifierCell\": \"B32\", \"scrapingDataStartCell\": \"B33\", \"units\": \"Millones de pesos\", \"dataset_identifier\": \"171\", \"distribution_identifier\": \"171.3\"}, {\"title\": \"fci_renta_mixta\", \"type\": \"number\", \"description\": \"Fondos Comunes de Inversi\\u00f3n de Renta Mixta, patrimonio mensual\", \"id\": \"171.3_FRENTA_XTA_0_0_15\", \"scrapingIdentifierCell\": \"C32\", \"scrapingDataStartCell\": \"C33\", \"units\": \"Millones de pesos\", \"dataset_identifier\": \"171\", \"distribution_identifier\": \"171.3\"}, {\"title\": \"fci_mercado_dinero\", \"type\": \"number\", \"description\": \"Fondos Comunes de Inversi\\u00f3n de Mercado de Dinero, patrimonio mensual\", \"id\": \"171.3_FMERCADERO_0_0_18\", \"scrapingIdentifierCell\": \"D32\", \"scrapingDataStartCell\": \"D33\", \"units\": \"Millones de pesos\", \"dataset_identifier\": \"171\", \"distribution_identifier\": \"171.3\"}, {\"title\": \"fci_renta_variable\", \"type\": \"number\", \"description\": \"Fondos Comunes de Inversi\\u00f3n de Renta Variable, patrimonio mensual\", \"id\": \"171.3_FRENTA_BLE_0_0_18\", \"scrapingIdentifierCell\": \"E32\", \"scrapingDataStartCell\": \"E33\", \"units\": \"Millones de pesos\", \"dataset_identifier\": \"171\", \"distribution_identifier\": \"171.3\"}, {\"title\": \"fci_fondos_pymes\", \"type\": \"number\", \"description\": \"Fondos Comunes de Inversi\\u00f3n de Fondos PyMEs, patrimonio mensual\", \"id\": \"171.3_FFONDOSMES_0_0_16\", \"scrapingIdentifierCell\": \"F32\", \"scrapingDataStartCell\": \"F33\", \"units\": \"Millones de pesos\", \"dataset_identifier\": \"171\", \"distribution_identifier\": \"171.3\"}, {\"title\": \"fci_infraestructura\", \"type\": \"number\", \"description\": \"Fondos Comunes de Inversi\\u00f3n de Infraestructura, patrimonio mensual\", \"id\": \"171.3_FINFRAEURA_0_0_19\", \"scrapingIdentifierCell\": \"G32\", \"scrapingDataStartCell\": \"G33\", \"units\": \"Millones de pesos\", \"dataset_identifier\": \"171\", \"distribution_identifier\": \"171.3\"}, {\"title\": \"fci_retorno_total\", \"type\": \"number\", \"description\": \"Fondos Comunes de Inversi\\u00f3n de Retorno Total, patrimonio mensual\", \"id\": \"171.3_FRETORNTAL_0_0_17\", \"scrapingIdentifierCell\": \"H32\", \"scrapingDataStartCell\": \"H33\", \"units\": \"Millones de pesos\", \"dataset_identifier\": \"171\", \"distribution_identifier\": \"171.3\"}, {\"title\": \"fci_patrimonio_neto_total\", \"type\": \"number\", \"description\": \"Patrimonio Neto Total de Fondos Comunes de Inversi\\u00f3n, patrimonio mensual\", \"id\": \"171.3_FPATRIMTAL_0_0_25\", \"scrapingIdentifierCell\": \"J32\", \"scrapingDataStartCell\": \"J33\", \"units\": \"Millones de pesos\", \"dataset_identifier\": \"171\", \"distribution_identifier\": \"171.3\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-09-28T00:00:00",
+      "datastore_active": false,
+      "description": "Fondos Comunes de Inversión por tipo",
+      "fileName": "fondos-comunes-inversion-por-tipo-mensual.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "sspm_171.3",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Fondos Comunes de Inversión por tipo. Datos mensuales",
+      "package_id": "sspm_171",
+      "position": 1,
+      "resource_type": null,
+      "revision_id": "69940daa-a6ca-467b-a8d3-51848c7fc135",
+      "size": null,
+      "state": "active",
+      "url": "https://infra.datos.gob.ar/catalog/sspm/dataset/171/distribution/171.3/download/fondos-comunes-inversion-por-tipo-mensual.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "69940daa-a6ca-467b-a8d3-51848c7fc135",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "Finanzas",
+      "id": "5deaadee-1aa5-47c7-94f2-e1f79a948ba6",
+      "name": "Finanzas",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Información Económica al Día",
+      "id": "0d300a9a-0802-46c3-9a40-2f28ddf050ec",
+      "name": "Información Económica al Día",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Mercados Financieros",
+      "id": "5841238a-38da-4d14-b0cd-0ad1c886c28e",
+      "name": "Mercados Financieros",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Fondos Comunes de Inversión",
+  "type": "dataset",
+  "url": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/",
+  "version": null
+}

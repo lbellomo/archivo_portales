@@ -1,0 +1,228 @@
+{
+  "author": "Ministerio de Trabajo, Empleo y Seguridad Social. Subsecretaría de Planificación, Estudios y Estadisticas",
+  "author_email": "estadisticas@trabajo.gob.ar",
+  "creator_user_id": "dc157489-51c6-44ce-bd63-3bd983d60778",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P1M"
+    },
+    {
+      "key": "issued",
+      "value": "2020-04-01"
+    },
+    {
+      "key": "language",
+      "value": "[\"SPA\"]"
+    },
+    {
+      "key": "modified",
+      "value": "2020-04-01"
+    },
+    {
+      "key": "source",
+      "value": "Ministerio de Trabajo, Empleo y Seguridad Social"
+    },
+    {
+      "key": "spatial",
+      "value": "ARG"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"GOVE\"]"
+    },
+    {
+      "key": "temporal",
+      "value": "2020-11-01/2020-12-31"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Gobierno y sector público",
+      "display_name": "Gobierno y sector público",
+      "id": "e6f07c77-3987-4e71-98a6-731b1aaf74f4",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225353.395233gobierno-sector-publico.svg",
+      "name": "gove",
+      "title": "Gobierno y sector público"
+    }
+  ],
+  "id": "trabajo_1",
+  "isopen": true,
+  "license_id": "CC-BY-4.0",
+  "license_title": "Creative Commons Attribution 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "maintainer": "Ministerio de Trabajo, Empleo y Seguridad Social. Subsecretaría de Planificación, Estudios y Estadisticas",
+  "maintainer_email": "estadisticas@trabajo.gob.ar",
+  "metadata_created": "2021-04-08T23:14:37.572247",
+  "metadata_modified": "2021-04-29T21:05:12.625159",
+  "name": "trabajo-programa-recuperacion-productiva-ii",
+  "notes": "Listado de las firmas beneficiarias del programa - Incluye datos correspondientes al mes de devengamiento",
+  "num_resources": 4,
+  "num_tags": 6,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-12-17T18:32:57.802277",
+    "description": "",
+    "id": "c7d83066-f5c9-4599-b47b-8eea43940e19",
+    "image_url": "",
+    "is_organization": true,
+    "name": "trabajo",
+    "revision_id": "66320d8d-4970-4e63-a367-d58226433603",
+    "state": "active",
+    "title": "Ministerio de Trabajo, Empleo y Seguridad Social",
+    "type": "organization"
+  },
+  "owner_org": "c7d83066-f5c9-4599-b47b-8eea43940e19",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "https://www.argentina.gob.ar/trabajo/repro2",
+      "attributesDescription": "[{\"title\": \"cuit\", \"type\": \"string\", \"description\": \"C\\u00f3digo de Identificacion Tributaria de la empresa beneficiaria del REPRO\"}, {\"title\": \"razon_social\", \"type\": \"string\", \"description\": \"Nombre de la empresa beneficiaria del REPRO\"}, {\"title\": \"empleos_cubiertos_numero\", \"type\": \"number\", \"description\": \"Empleados que perciben el REPRO\"}, {\"title\": \"mes_devengado\", \"type\": \"string\", \"description\": \"Mes en que fue devengado el beneficio\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2020-04-01T00:00:00",
+      "datastore_active": false,
+      "description": "Listado de las firmas beneficiarias del programa - Incluye datos correspondientes al mes de noviembre de 2020",
+      "fileName": "mteyss-repro-ii--informe-2020-11-noviembre.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "trabajo_1.1",
+      "last_modified": "2020-04-01T00:00:00",
+      "mimetype": "text/csv",
+      "mimetype_inner": null,
+      "name": "Programa de Recuperación Productiva II - noviembre2020",
+      "package_id": "trabajo_1",
+      "position": 0,
+      "resource_type": "file",
+      "revision_id": "3735be22-2c78-4c28-81f0-09f862e40634",
+      "size": 101972,
+      "state": "active",
+      "url": "http://www.trabajo.gob.ar/datos/repro2/archivos/repro_ii_microdatos202011.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://www.argentina.gob.ar/trabajo/repro2",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2020-04-01T00:00:00",
+      "datastore_active": false,
+      "description": "Listado de las firmas beneficiarias del programa - Incluye datos correspondientes al mes de diciembre de 2020",
+      "fileName": "mteyss-repro-ii--informe-2020-12-diciembre.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "trabajo_1.2",
+      "last_modified": "2020-04-01T00:00:00",
+      "mimetype": "text/csv",
+      "mimetype_inner": null,
+      "name": "Programa de Recuperación Productiva II - diciembre 2020",
+      "package_id": "trabajo_1",
+      "position": 1,
+      "resource_type": "file",
+      "revision_id": "3735be22-2c78-4c28-81f0-09f862e40634",
+      "size": 139337,
+      "state": "active",
+      "url": "http://www.trabajo.gob.ar/datos/repro2/archivos/repro_ii_microdatos202012.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://www.argentina.gob.ar/trabajo/repro2",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2020-04-01T00:00:00",
+      "datastore_active": false,
+      "description": "Listado de las firmas beneficiarias del programa - Incluye datos correspondientes al mes de enero de 2021",
+      "fileName": "mteyss-repro-ii--informe-2021-01-enero.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "trabajo_1.3",
+      "last_modified": "2020-04-01T00:00:00",
+      "mimetype": "text/csv",
+      "mimetype_inner": null,
+      "name": "Programa de Recuperación Productiva II - enero 2021",
+      "package_id": "trabajo_1",
+      "position": 2,
+      "resource_type": "file",
+      "revision_id": "3735be22-2c78-4c28-81f0-09f862e40634",
+      "size": 434259,
+      "state": "active",
+      "url": "http://www.trabajo.gob.ar/datos/repro2/archivos/repro_ii_microdatos202101.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://www.argentina.gob.ar/trabajo/repro2",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2020-04-01T00:00:00",
+      "datastore_active": false,
+      "description": "Listado de las firmas beneficiarias del programa - Incluye datos correspondientes al mes de febrero de 2021",
+      "fileName": "mteyss-repro-ii--informe-2021-02-febrero.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "trabajo_1.4",
+      "last_modified": "2020-04-01T00:00:00",
+      "mimetype": "text/csv",
+      "mimetype_inner": null,
+      "name": "Programa de Recuperación Productiva II - febrero 2021",
+      "package_id": "trabajo_1",
+      "position": 3,
+      "resource_type": "file",
+      "revision_id": "3735be22-2c78-4c28-81f0-09f862e40634",
+      "size": 420820,
+      "state": "active",
+      "url": "http://www.trabajo.gob.ar/datos/repro2/archivos/repro_ii_microdatos202102.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "2dcf1918-5de0-4d65-a79b-b0a4f9800b95",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "Gobierno y sector público",
+      "id": "cabcb959-4dbc-4a58-b35e-dfd1f6d6ae5f",
+      "name": "Gobierno y sector público",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "REPRO",
+      "id": "9c589515-a9fa-4ef8-aca9-7380e88a72ca",
+      "name": "REPRO",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "atp",
+      "id": "d2554849-c747-4bfc-b59b-40b0baf4fc5a",
+      "name": "atp",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "coronavirus",
+      "id": "d961d018-73ff-47c0-ac1d-bb4054bbe424",
+      "name": "coronavirus",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "covid",
+      "id": "21acfd34-1d2a-494e-a177-675cebee1e2b",
+      "name": "covid",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "repro2",
+      "id": "b51a5417-ca6b-4e89-9ce3-4b592eea9dd3",
+      "name": "repro2",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Programa de Recuperación Productiva II",
+  "type": "dataset",
+  "url": "https://www.argentina.gob.ar/trabajo/repro2",
+  "version": null
+}

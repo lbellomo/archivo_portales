@@ -1,0 +1,131 @@
+{
+  "author": "Subsecretaría de Programación Macroeconómica",
+  "author_email": "datoseconomicos@mecon.gov.ar",
+  "creator_user_id": "4720e75a-9e17-4dc3-879d-041917c7f9f9",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P1M"
+    },
+    {
+      "key": "issued",
+      "value": "2017-09-28"
+    },
+    {
+      "key": "language",
+      "value": "[\"SPA\"]"
+    },
+    {
+      "key": "source",
+      "value": "Instituto Nacional de Estadística y Censos (INDEC)"
+    },
+    {
+      "key": "spatial",
+      "value": "ARG"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"ECON\"]"
+    },
+    {
+      "key": "temporal",
+      "value": "2015-10-01/2017-07-01"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Economía y finanzas",
+      "display_name": "Economía y finanzas",
+      "id": "60b4b03e-10a1-4d67-b984-08008a249617",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225257.200233economia-finanzas.svg",
+      "name": "econ",
+      "title": "Economía y finanzas"
+    }
+  ],
+  "id": "sspm_149",
+  "isopen": true,
+  "license_id": "CC-BY-4.0",
+  "license_title": "Creative Commons Attribution 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "maintainer": "Subsecretaría de Programación Macroeconómica.",
+  "maintainer_email": "datoseconomicos@mecon.gov.ar",
+  "metadata_created": "2019-11-26T15:06:32.968924",
+  "metadata_modified": "2021-04-29T21:05:56.772586",
+  "name": "sspm-indice-salarios-base-octubre-2016",
+  "notes": "Índice de salarios estimado en función de la evolución de los remuneraciones pagadas en la economía. Base octubre 2016.",
+  "num_resources": 1,
+  "num_tags": 3,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:09.718132",
+    "description": "",
+    "id": "68f9ee22-5ec3-44cf-a32b-b87d9db46b93",
+    "image_url": "",
+    "is_organization": true,
+    "name": "sspm",
+    "revision_id": "bc058ce0-3540-4204-96cd-9f9ec79045b3",
+    "state": "active",
+    "title": "Subsecretaría de Programación Macroeconómica",
+    "type": "organization"
+  },
+  "owner_org": "68f9ee22-5ec3-44cf-a32b-b87d9db46b93",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/",
+      "attributesDescription": "[{\"title\": \"indice_tiempo\", \"type\": \"date\", \"specialType\": \"time_index\", \"specialTypeDetail\": \"R/P1M\", \"id\": \"149.1_ICE_TIEMPO_OCTU_0_13\", \"scrapingIdentifierCell\": \"A12\", \"scrapingDataStartCell\": \"A13\", \"dataset_identifier\": \"149\", \"distribution_identifier\": \"149.1\"}, {\"title\": \"indice_salarios\", \"type\": \"number\", \"description\": \"\\u00cdndice de Salarios\", \"id\": \"149.1_TL_INDIIOS_OCTU_0_21\", \"scrapingIdentifierCell\": \"B12\", \"scrapingDataStartCell\": \"B13\", \"units\": \"\\u00cdndice\", \"dataset_identifier\": \"149\", \"distribution_identifier\": \"149.1\"}, {\"title\": \"indice_salarios_registrado\", \"type\": \"number\", \"description\": \"\\u00cdndice de Salarios. Empleo registrado.\", \"id\": \"149.1_TL_REGIADO_OCTU_0_16\", \"scrapingIdentifierCell\": \"C12\", \"scrapingDataStartCell\": \"C13\", \"units\": \"\\u00cdndice\", \"dataset_identifier\": \"149\", \"distribution_identifier\": \"149.1\"}, {\"title\": \"indice_salarios_registrado_sector_privado\", \"type\": \"number\", \"description\": \"\\u00cdndice de Salarios. Empleo registrado. Sector privado.\", \"id\": \"149.1_SOR_PRIADO_OCTU_0_25\", \"scrapingIdentifierCell\": \"D12\", \"scrapingDataStartCell\": \"D13\", \"units\": \"\\u00cdndice\", \"dataset_identifier\": \"149\", \"distribution_identifier\": \"149.1\"}, {\"title\": \"indice_salarios_registrado_sector_publico\", \"type\": \"number\", \"description\": \"\\u00cdndice de Salarios. Empleo registrado. Sector p\\u00fablico.\", \"id\": \"149.1_SOR_PUBICO_OCTU_0_14\", \"scrapingIdentifierCell\": \"E12\", \"scrapingDataStartCell\": \"E13\", \"units\": \"\\u00cdndice\", \"dataset_identifier\": \"149\", \"distribution_identifier\": \"149.1\"}, {\"title\": \"indice_salarios_no_registrado_sector_privado\", \"type\": \"number\", \"description\": \"\\u00cdndice de Salarios. Empleo no registrado. Sector privado.\", \"id\": \"149.1_SOR_PRIADO_OCTU_0_28\", \"scrapingIdentifierCell\": \"F12\", \"scrapingDataStartCell\": \"F13\", \"units\": \"\\u00cdndice\", \"dataset_identifier\": \"149\", \"distribution_identifier\": \"149.1\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-09-28T00:00:00",
+      "datastore_active": false,
+      "description": "Índice de salarios estimado según la evolución de las remuneraciones pagadas en la economía. Base octubre 2016",
+      "fileName": "indice-salarios-periodicidad-mensual-base-octubre-2016.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "sspm_149.1",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Índice de salarios. Base octubre 2016.  Valores mensuales.",
+      "package_id": "sspm_149",
+      "position": 0,
+      "resource_type": null,
+      "revision_id": "800d4ec4-fd15-49f4-bd3f-7eeed729daff",
+      "size": null,
+      "state": "active",
+      "url": "https://infra.datos.gob.ar/catalog/sspm/dataset/149/distribution/149.1/download/indice-salarios-periodicidad-mensual-base-octubre-2016.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "800d4ec4-fd15-49f4-bd3f-7eeed729daff",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "Empleo e Ingresos",
+      "id": "0d41bcfd-c3a4-4ff7-8aa1-dd5c3ac51d0b",
+      "name": "Empleo e Ingresos",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Información Económica al Día",
+      "id": "0d300a9a-0802-46c3-9a40-2f28ddf050ec",
+      "name": "Información Económica al Día",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Precios",
+      "id": "308c2aaf-f177-4728-bda5-fd41662741a2",
+      "name": "Precios",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Índice de salarios. Base octubre 2016",
+  "type": "dataset",
+  "url": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/",
+  "version": null
+}

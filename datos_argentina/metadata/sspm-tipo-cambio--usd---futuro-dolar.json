@@ -1,0 +1,138 @@
+{
+  "author": "Subsecretaría de Programación Macroeconómica",
+  "author_email": "datoseconomicos@mecon.gov.ar",
+  "creator_user_id": "4720e75a-9e17-4dc3-879d-041917c7f9f9",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P1D"
+    },
+    {
+      "key": "issued",
+      "value": "2017-09-28"
+    },
+    {
+      "key": "language",
+      "value": "[\"SPA\"]"
+    },
+    {
+      "key": "source",
+      "value": "BCRA, MAE, Rofex"
+    },
+    {
+      "key": "spatial",
+      "value": "ARG"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"ECON\"]"
+    },
+    {
+      "key": "temporal",
+      "value": "2002-03-05/2017-08-10"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Economía y finanzas",
+      "display_name": "Economía y finanzas",
+      "id": "60b4b03e-10a1-4d67-b984-08008a249617",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225257.200233economia-finanzas.svg",
+      "name": "econ",
+      "title": "Economía y finanzas"
+    }
+  ],
+  "id": "sspm_168",
+  "isopen": true,
+  "license_id": "CC-BY-4.0",
+  "license_title": "Creative Commons Attribution 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "maintainer": "Subsecretaría de Programación Macroeconómica.",
+  "maintainer_email": "datoseconomicos@mecon.gov.ar",
+  "metadata_created": "2019-11-26T15:05:15.306422",
+  "metadata_modified": "2021-04-29T21:05:28.458694",
+  "name": "sspm-tipo-cambio--usd---futuro-dolar",
+  "notes": "Datos de tipo de cambio $-USD - futuro dólar . Con respecto al dólar de Estados Unidos. Frecuencia diaria.",
+  "num_resources": 1,
+  "num_tags": 4,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:09.718132",
+    "description": "",
+    "id": "68f9ee22-5ec3-44cf-a32b-b87d9db46b93",
+    "image_url": "",
+    "is_organization": true,
+    "name": "sspm",
+    "revision_id": "bc058ce0-3540-4204-96cd-9f9ec79045b3",
+    "state": "active",
+    "title": "Subsecretaría de Programación Macroeconómica",
+    "type": "organization"
+  },
+  "owner_org": "68f9ee22-5ec3-44cf-a32b-b87d9db46b93",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/",
+      "attributesDescription": "[{\"title\": \"indice_tiempo\", \"type\": \"date\", \"specialType\": \"time_index\", \"specialTypeDetail\": \"R/P1D\", \"id\": \"168.1_ICE_TIEMPO_D_0_0_13\", \"scrapingIdentifierCell\": \"A9\", \"scrapingDataStartCell\": \"A10\", \"dataset_identifier\": \"168\", \"distribution_identifier\": \"168.1\"}, {\"title\": \"tipo_cambio_bna_vendedor\", \"type\": \"number\", \"description\": \"Tipo de Cambio BNA (Vendedor)\", \"id\": \"168.1_T_CAMBIOR_D_0_0_26\", \"scrapingIdentifierCell\": \"B9\", \"scrapingDataStartCell\": \"B10\", \"units\": \"Pesos argentinos por d\\u00f3lar\", \"dataset_identifier\": \"168\", \"distribution_identifier\": \"168.1\"}, {\"title\": \"tipo_cambio_a3500\", \"type\": \"number\", \"description\": \"Tipo de Cambio A3500\", \"id\": \"168.1_T_CAMBI500_D_0_0_17\", \"scrapingIdentifierCell\": \"C9\", \"scrapingDataStartCell\": \"C10\", \"units\": \"Pesos argentinos por d\\u00f3lar\", \"dataset_identifier\": \"168\", \"distribution_identifier\": \"168.1\"}, {\"title\": \"tipo_cambio_mae\", \"type\": \"number\", \"description\": \"Tipo de Cambio MAE\", \"id\": \"168.1_T_CAMBIMAE_D_0_0_15\", \"scrapingIdentifierCell\": \"D9\", \"scrapingDataStartCell\": \"D10\", \"units\": \"Pesos argentinos por d\\u00f3lar\", \"dataset_identifier\": \"168\", \"distribution_identifier\": \"168.1\"}, {\"title\": \"volumen_mae\", \"type\": \"number\", \"description\": \"Volumen MAE\", \"id\": \"168.1_VMEN_MAMAE_D_0_0_11\", \"scrapingIdentifierCell\": \"E9\", \"scrapingDataStartCell\": \"E10\", \"units\": \"Miles de d\\u00f3lares\", \"dataset_identifier\": \"168\", \"distribution_identifier\": \"168.1\"}, {\"title\": \"tipo_cambio_implicito_en_adrs\", \"type\": \"number\", \"description\": \"Tipo de cambio impl\\u00edcito en ADRs\", \"id\": \"168.1_T_CAMBIDRS_D_0_0_29\", \"scrapingIdentifierCell\": \"F9\", \"scrapingDataStartCell\": \"F10\", \"units\": \"Pesos argentinos por d\\u00f3lar\", \"dataset_identifier\": \"168\", \"distribution_identifier\": \"168.1\"}, {\"title\": \"futuro_rofex_usd1m\", \"type\": \"number\", \"description\": \"Tipo de cambio ARS/USD. Futuro ROFEX. 1 mes.\", \"id\": \"168.1_FRO_ROF1M_D_0_0_19\", \"scrapingIdentifierCell\": \"G9\", \"scrapingDataStartCell\": \"G10\", \"units\": \"Pesos argentinos por d\\u00f3lar\", \"dataset_identifier\": \"168\", \"distribution_identifier\": \"168.1\"}, {\"title\": \"interes_abierto_1m\", \"type\": \"number\", \"description\": \"Interes abierto 1M\", \"id\": \"168.1_IRES_AB_1M_D_0_0_18\", \"scrapingIdentifierCell\": \"H9\", \"scrapingDataStartCell\": \"H10\", \"units\": \"Tasa de Inter\\u00e9s\", \"dataset_identifier\": \"168\", \"distribution_identifier\": \"168.1\"}, {\"title\": \"futuro_rofex_usd2m\", \"type\": \"number\", \"description\": \"Tipo de cambio ARS/USD. Futuro ROFEX. 2 meses.\", \"id\": \"168.1_FRO_ROF2M_D_0_0_19\", \"scrapingIdentifierCell\": \"I9\", \"scrapingDataStartCell\": \"I10\", \"units\": \"Pesos argentinos por d\\u00f3lar\", \"dataset_identifier\": \"168\", \"distribution_identifier\": \"168.1\"}, {\"title\": \"interes_abierto_2m\", \"type\": \"number\", \"description\": \"Interes abierto 2M\", \"id\": \"168.1_IRES_AB_2M_D_0_0_18\", \"scrapingIdentifierCell\": \"J9\", \"scrapingDataStartCell\": \"J10\", \"units\": \"Tasa de Inter\\u00e9s\", \"dataset_identifier\": \"168\", \"distribution_identifier\": \"168.1\"}, {\"title\": \"futuro_rofex_usd3m\", \"type\": \"number\", \"description\": \"Tipo de cambio ARS/USD. Futuro ROFEX. 3 meses.\", \"id\": \"168.1_FRO_ROF3M_D_0_0_19\", \"scrapingIdentifierCell\": \"K9\", \"scrapingDataStartCell\": \"K10\", \"units\": \"Pesos argentinos por d\\u00f3lar\", \"dataset_identifier\": \"168\", \"distribution_identifier\": \"168.1\"}, {\"title\": \"interes_abierto_3m\", \"type\": \"number\", \"description\": \"Interes abierto 3M\", \"id\": \"168.1_IRES_AB_3M_D_0_0_18\", \"scrapingIdentifierCell\": \"L9\", \"scrapingDataStartCell\": \"L10\", \"units\": \"Tasa de Inter\\u00e9s\", \"dataset_identifier\": \"168\", \"distribution_identifier\": \"168.1\"}, {\"title\": \"futuro_rofex_usd4m\", \"type\": \"number\", \"description\": \"Tipo de cambio ARS/USD. Futuro ROFEX. 4 meses.\", \"id\": \"168.1_FRO_ROF4M_D_0_0_19\", \"scrapingIdentifierCell\": \"M9\", \"scrapingDataStartCell\": \"M10\", \"units\": \"Pesos argentinos por d\\u00f3lar\", \"dataset_identifier\": \"168\", \"distribution_identifier\": \"168.1\"}, {\"title\": \"interes_abierto_4m\", \"type\": \"number\", \"description\": \"Interes abierto 4M\", \"id\": \"168.1_IRES_AB_4M_D_0_0_18\", \"scrapingIdentifierCell\": \"N9\", \"scrapingDataStartCell\": \"N10\", \"units\": \"Tasa de Inter\\u00e9s\", \"dataset_identifier\": \"168\", \"distribution_identifier\": \"168.1\"}, {\"title\": \"futuro_rofex_usd5m\", \"type\": \"number\", \"description\": \"Tipo de cambio ARS/USD. Futuro ROFEX. 5 meses.\", \"id\": \"168.1_FRO_ROF5M_D_0_0_19\", \"scrapingIdentifierCell\": \"O9\", \"scrapingDataStartCell\": \"O10\", \"units\": \"Pesos argentinos por d\\u00f3lar\", \"dataset_identifier\": \"168\", \"distribution_identifier\": \"168.1\"}, {\"title\": \"interes_abierto_5m\", \"type\": \"number\", \"description\": \"Interes abierto 5M\", \"id\": \"168.1_IRES_AB_5M_D_0_0_18\", \"scrapingIdentifierCell\": \"P9\", \"scrapingDataStartCell\": \"P10\", \"units\": \"Tasa de Inter\\u00e9s\", \"dataset_identifier\": \"168\", \"distribution_identifier\": \"168.1\"}, {\"title\": \"futuro_rofex_usd6m\", \"type\": \"number\", \"description\": \"Tipo de cambio ARS/USD. Futuro ROFEX. 6 meses.\", \"id\": \"168.1_FRO_ROF6M_D_0_0_19\", \"scrapingIdentifierCell\": \"Q9\", \"scrapingDataStartCell\": \"Q10\", \"units\": \"Pesos argentinos por d\\u00f3lar\", \"dataset_identifier\": \"168\", \"distribution_identifier\": \"168.1\"}, {\"title\": \"interes_abierto_6m\", \"type\": \"number\", \"description\": \"Interes abierto 6M\", \"id\": \"168.1_IRES_AB_6M_D_0_0_18\", \"scrapingIdentifierCell\": \"R9\", \"scrapingDataStartCell\": \"R10\", \"units\": \"Tasa de Inter\\u00e9s\", \"dataset_identifier\": \"168\", \"distribution_identifier\": \"168.1\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-09-28T00:00:00",
+      "datastore_active": false,
+      "description": "Tipo de Cambio $-USD - Futuro Dólar. Frecuencia Diario",
+      "fileName": "datos-tipo-cambio-usd-futuro-dolar-frecuencia-diaria.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "sspm_168.1",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Tipo de cambio $-USD - futuro dólar. Valores diarios",
+      "package_id": "sspm_168",
+      "position": 0,
+      "resource_type": null,
+      "revision_id": "c8161766-6c4c-42f1-bff6-bffec0e7dc86",
+      "size": null,
+      "state": "active",
+      "url": "https://infra.datos.gob.ar/catalog/sspm/dataset/168/distribution/168.1/download/datos-tipo-cambio-usd-futuro-dolar-frecuencia-diaria.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "c8161766-6c4c-42f1-bff6-bffec0e7dc86",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "Dinero y Bancos",
+      "id": "a6e04960-0d58-4c4e-a59c-a2e2ef9ac579",
+      "name": "Dinero y Bancos",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Finanzas",
+      "id": "5deaadee-1aa5-47c7-94f2-e1f79a948ba6",
+      "name": "Finanzas",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Información Económica al Día",
+      "id": "0d300a9a-0802-46c3-9a40-2f28ddf050ec",
+      "name": "Información Económica al Día",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Mercados Financieros",
+      "id": "5841238a-38da-4d14-b0cd-0ad1c886c28e",
+      "name": "Mercados Financieros",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Tipo de Cambio $-USD - Futuro Dólar",
+  "type": "dataset",
+  "url": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/",
+  "version": null
+}

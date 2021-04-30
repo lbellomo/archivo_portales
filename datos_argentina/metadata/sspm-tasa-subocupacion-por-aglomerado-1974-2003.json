@@ -1,0 +1,124 @@
+{
+  "author": "Subsecretaría de Programación Macroeconómica",
+  "author_email": "datoseconomicos@mecon.gov.ar",
+  "creator_user_id": "4720e75a-9e17-4dc3-879d-041917c7f9f9",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P6M"
+    },
+    {
+      "key": "issued",
+      "value": "2017-11-28"
+    },
+    {
+      "key": "language",
+      "value": "[\"SPA\"]"
+    },
+    {
+      "key": "source",
+      "value": "Instituto Nacional de Estadística y Censos (INDEC)"
+    },
+    {
+      "key": "spatial",
+      "value": "ARG"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"ECON\"]"
+    },
+    {
+      "key": "temporal",
+      "value": "1974-05-01/2003-05-01"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Economía y finanzas",
+      "display_name": "Economía y finanzas",
+      "id": "60b4b03e-10a1-4d67-b984-08008a249617",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225257.200233economia-finanzas.svg",
+      "name": "econ",
+      "title": "Economía y finanzas"
+    }
+  ],
+  "id": "sspm_344",
+  "isopen": true,
+  "license_id": "CC-BY-4.0",
+  "license_title": "Creative Commons Attribution 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "maintainer": "Subsecretaría de Programación Macroeconómica.",
+  "maintainer_email": "datoseconomicos@mecon.gov.ar",
+  "metadata_created": "2019-11-26T15:04:55.219941",
+  "metadata_modified": "2021-04-29T21:06:07.449602",
+  "name": "sspm-tasa-subocupacion-por-aglomerado-1974-2003",
+  "notes": "Tasa de Empleo por aglomerado 1974-1990",
+  "num_resources": 1,
+  "num_tags": 2,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:09.718132",
+    "description": "",
+    "id": "68f9ee22-5ec3-44cf-a32b-b87d9db46b93",
+    "image_url": "",
+    "is_organization": true,
+    "name": "sspm",
+    "revision_id": "bc058ce0-3540-4204-96cd-9f9ec79045b3",
+    "state": "active",
+    "title": "Subsecretaría de Programación Macroeconómica",
+    "type": "organization"
+  },
+  "owner_org": "68f9ee22-5ec3-44cf-a32b-b87d9db46b93",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/",
+      "attributesDescription": "[{\"title\": \"indice_tiempo\", \"type\": \"date\", \"specialType\": \"time_index\", \"specialTypeDetail\": \"R/P6M\", \"id\": \"344.1_INDICE_TIEMPO__13\", \"scrapingIdentifierCell\": \"B12\", \"scrapingDataStartCell\": \"B13\", \"dataset_identifier\": \"344\", \"distribution_identifier\": \"344.1\"}, {\"title\": \"total_aglomerados_urbanos\", \"type\": \"number\", \"description\": \"Total aglomerados urbanos\", \"id\": \"344.1_TOTAL_AGLONOS__25\", \"scrapingIdentifierCell\": \"C12\", \"scrapingDataStartCell\": \"C13\", \"units\": \"Porcentaje de poblaci\\u00f3n\", \"dataset_identifier\": \"344\", \"distribution_identifier\": \"344.1\"}, {\"title\": \"gran_buenos_aires\", \"type\": \"number\", \"description\": \"Gran Buenos Aires\", \"id\": \"344.1_GRAN_BUENORES__17\", \"scrapingIdentifierCell\": \"D12\", \"scrapingDataStartCell\": \"D13\", \"units\": \"Porcentaje de poblaci\\u00f3n\", \"dataset_identifier\": \"344\", \"distribution_identifier\": \"344.1\"}, {\"title\": \"total_aglomerados_del_interior\", \"type\": \"number\", \"description\": \"Total aglomerados del Interior\", \"id\": \"344.1_TOTAL_AGLOIOR__30\", \"scrapingIdentifierCell\": \"E12\", \"scrapingDataStartCell\": \"E13\", \"units\": \"Porcentaje de poblaci\\u00f3n\", \"dataset_identifier\": \"344\", \"distribution_identifier\": \"344.1\"}, {\"title\": \"provincia_buenos_aires_bahia_blanca_cerri\", \"type\": \"number\", \"description\": \"Provincia Buenos Aires Bah\\u00eda Blanca - Cerri\", \"id\": \"344.1_PROVINCIA_RRI__41\", \"scrapingIdentifierCell\": \"F12\", \"scrapingDataStartCell\": \"F13\", \"units\": \"Porcentaje de poblaci\\u00f3n\", \"dataset_identifier\": \"344\", \"distribution_identifier\": \"344.1\"}, {\"title\": \"provincia_buenos_aires_gran_la_plata\", \"type\": \"number\", \"description\": \"Provincia Buenos Aires Gran La Plata\", \"id\": \"344.1_PROVINCIA_ATA__36\", \"scrapingIdentifierCell\": \"G12\", \"scrapingDataStartCell\": \"G13\", \"units\": \"Porcentaje de poblaci\\u00f3n\", \"dataset_identifier\": \"344\", \"distribution_identifier\": \"344.1\"}, {\"title\": \"provincia_buenos_aires_mar_del_plata_batan\", \"type\": \"number\", \"description\": \"Provincia Buenos Aires Mar del Plata y Bat\\u00e1n\", \"id\": \"344.1_PROVINCIA_TAN__42\", \"scrapingIdentifierCell\": \"H12\", \"scrapingDataStartCell\": \"H13\", \"units\": \"Porcentaje de poblaci\\u00f3n\", \"dataset_identifier\": \"344\", \"distribution_identifier\": \"344.1\"}, {\"title\": \"provincia_catamarca_gran_catamarca\", \"type\": \"number\", \"description\": \"Provincia Catamarca Gran Catamarca\", \"id\": \"344.1_PROVINCIA_RCA__34\", \"scrapingIdentifierCell\": \"I12\", \"scrapingDataStartCell\": \"I13\", \"units\": \"Porcentaje de poblaci\\u00f3n\", \"dataset_identifier\": \"344\", \"distribution_identifier\": \"344.1\"}, {\"title\": \"provincia_cordoba_gran_cordoba\", \"type\": \"number\", \"description\": \"Provincia C\\u00f3rdoba Gran C\\u00f3rdoba\", \"id\": \"344.1_PROVINCIA_OBA__30\", \"scrapingIdentifierCell\": \"J12\", \"scrapingDataStartCell\": \"J13\", \"units\": \"Porcentaje de poblaci\\u00f3n\", \"dataset_identifier\": \"344\", \"distribution_identifier\": \"344.1\"}, {\"title\": \"provincia_cordoba_rio_cuarto\", \"type\": \"number\", \"description\": \"Provincia C\\u00f3rdoba R\\u00edo Cuarto\", \"id\": \"344.1_PROVINCIA_RTO__28\", \"scrapingIdentifierCell\": \"K12\", \"scrapingDataStartCell\": \"K13\", \"units\": \"Porcentaje de poblaci\\u00f3n\", \"dataset_identifier\": \"344\", \"distribution_identifier\": \"344.1\"}, {\"title\": \"provincia_corrientes_corrientes\", \"type\": \"number\", \"description\": \"Provincia Corrientes Corrientes\", \"id\": \"344.1_PROVINCIA_TES__31\", \"scrapingIdentifierCell\": \"L12\", \"scrapingDataStartCell\": \"L13\", \"units\": \"Porcentaje de poblaci\\u00f3n\", \"dataset_identifier\": \"344\", \"distribution_identifier\": \"344.1\"}, {\"title\": \"provincia_chaco_gran_resistencia\", \"type\": \"number\", \"description\": \"Provincia Chaco Gran Resistencia\", \"id\": \"344.1_PROVINCIA_CIA__32\", \"scrapingIdentifierCell\": \"M12\", \"scrapingDataStartCell\": \"M13\", \"units\": \"Porcentaje de poblaci\\u00f3n\", \"dataset_identifier\": \"344\", \"distribution_identifier\": \"344.1\"}, {\"title\": \"provincia_chubut_comodoro_rivadavia_rada_tilly\", \"type\": \"number\", \"description\": \"Provincia Chubut Comodoro Rivadavia - Rada Tilly\", \"id\": \"344.1_PROVINCIA_LLY__46\", \"scrapingIdentifierCell\": \"N12\", \"scrapingDataStartCell\": \"N13\", \"units\": \"Porcentaje de poblaci\\u00f3n\", \"dataset_identifier\": \"344\", \"distribution_identifier\": \"344.1\"}, {\"title\": \"provincia_entre_rios_concordia\", \"type\": \"number\", \"description\": \"Provincia Entre R\\u00edos Concordia\", \"id\": \"344.1_PROVINCIA_DIA__30\", \"scrapingIdentifierCell\": \"O12\", \"scrapingDataStartCell\": \"O13\", \"units\": \"Porcentaje de poblaci\\u00f3n\", \"dataset_identifier\": \"344\", \"distribution_identifier\": \"344.1\"}, {\"title\": \"provincia_entre_rios_gran_parana\", \"type\": \"number\", \"description\": \"Provincia Entre R\\u00edos Gran Paran\\u00e1\", \"id\": \"344.1_PROVINCIA_ANA__32\", \"scrapingIdentifierCell\": \"P12\", \"scrapingDataStartCell\": \"P13\", \"units\": \"Porcentaje de poblaci\\u00f3n\", \"dataset_identifier\": \"344\", \"distribution_identifier\": \"344.1\"}, {\"title\": \"provincia_formosa_formosa\", \"type\": \"number\", \"description\": \"Provincia Formosa Formosa\", \"id\": \"344.1_PROVINCIA_OSA__25\", \"scrapingIdentifierCell\": \"Q12\", \"scrapingDataStartCell\": \"Q13\", \"units\": \"Porcentaje de poblaci\\u00f3n\", \"dataset_identifier\": \"344\", \"distribution_identifier\": \"344.1\"}, {\"title\": \"provincia_jujuy_san_salvador_jujuy_palpala\", \"type\": \"number\", \"description\": \"Provincia Jujuy San Salvador de Jujuy - Palpal\\u00e1\", \"id\": \"344.1_PROVINCIA_ALA__42\", \"scrapingIdentifierCell\": \"R12\", \"scrapingDataStartCell\": \"R13\", \"units\": \"Porcentaje de poblaci\\u00f3n\", \"dataset_identifier\": \"344\", \"distribution_identifier\": \"344.1\"}, {\"title\": \"provincia_la_pampa_santa_rosa_toay\", \"type\": \"number\", \"description\": \"Provincia La Pampa Santa Rosa - Toay\", \"id\": \"344.1_PROVINCIA_OAY__34\", \"scrapingIdentifierCell\": \"S12\", \"scrapingDataStartCell\": \"S13\", \"units\": \"Porcentaje de poblaci\\u00f3n\", \"dataset_identifier\": \"344\", \"distribution_identifier\": \"344.1\"}, {\"title\": \"provincia_la_rioja_la_rioja_capital\", \"type\": \"number\", \"description\": \"Provincia La Rioja. La Rioja capital\", \"id\": \"344.1_PROVINCIA_TAL__35\", \"scrapingIdentifierCell\": \"T12\", \"scrapingDataStartCell\": \"T13\", \"units\": \"Porcentaje de poblaci\\u00f3n\", \"dataset_identifier\": \"344\", \"distribution_identifier\": \"344.1\"}, {\"title\": \"provincia_mendoza_gran_mendoza\", \"type\": \"number\", \"description\": \"Provincia Mendoza Gran Mendoza\", \"id\": \"344.1_PROVINCIA_OZA__30\", \"scrapingIdentifierCell\": \"U12\", \"scrapingDataStartCell\": \"U13\", \"units\": \"Porcentaje de poblaci\\u00f3n\", \"dataset_identifier\": \"344\", \"distribution_identifier\": \"344.1\"}, {\"title\": \"provincia_misiones_posadas\", \"type\": \"number\", \"description\": \"Provincia Misiones Posadas\", \"id\": \"344.1_PROVINCIA_DAS__26\", \"scrapingIdentifierCell\": \"V12\", \"scrapingDataStartCell\": \"V13\", \"units\": \"Porcentaje de poblaci\\u00f3n\", \"dataset_identifier\": \"344\", \"distribution_identifier\": \"344.1\"}, {\"title\": \"provincia_neuquen_nuequen_plottier\", \"type\": \"number\", \"description\": \"Provincia Neuqu\\u00e9n Nuequ\\u00e9n - Plottier\", \"id\": \"344.1_PROVINCIA_IER__34\", \"scrapingIdentifierCell\": \"W12\", \"scrapingDataStartCell\": \"W13\", \"units\": \"Porcentaje de poblaci\\u00f3n\", \"dataset_identifier\": \"344\", \"distribution_identifier\": \"344.1\"}, {\"title\": \"provincia_salta_salta\", \"type\": \"number\", \"description\": \"Provincia Salta Salta\", \"id\": \"344.1_PROVINCIA_LTA__21\", \"scrapingIdentifierCell\": \"X12\", \"scrapingDataStartCell\": \"X13\", \"units\": \"Porcentaje de poblaci\\u00f3n\", \"dataset_identifier\": \"344\", \"distribution_identifier\": \"344.1\"}, {\"title\": \"provincia_san_juan_gran_san_juan\", \"type\": \"number\", \"description\": \"Provincia San Juan Gran San Juan\", \"id\": \"344.1_PROVINCIA_UAN__32\", \"scrapingIdentifierCell\": \"Y12\", \"scrapingDataStartCell\": \"Y13\", \"units\": \"Porcentaje de poblaci\\u00f3n\", \"dataset_identifier\": \"344\", \"distribution_identifier\": \"344.1\"}, {\"title\": \"provincia_san_luis_san_luis_el_chorrillo\", \"type\": \"number\", \"description\": \"Provincia San Luis San Luis - El Chorrillo\", \"id\": \"344.1_PROVINCIA_LLO__40\", \"scrapingIdentifierCell\": \"Z12\", \"scrapingDataStartCell\": \"Z13\", \"units\": \"Porcentaje de poblaci\\u00f3n\", \"dataset_identifier\": \"344\", \"distribution_identifier\": \"344.1\"}, {\"title\": \"provincia_santa_cruz_rio_gallegos\", \"type\": \"number\", \"description\": \"Provincia Santa Cruz Rio Gallegos\", \"id\": \"344.1_PROVINCIA_GOS__33\", \"scrapingIdentifierCell\": \"AA12\", \"scrapingDataStartCell\": \"AA13\", \"units\": \"Porcentaje de poblaci\\u00f3n\", \"dataset_identifier\": \"344\", \"distribution_identifier\": \"344.1\"}, {\"title\": \"provincia_santa_fe_gran_rosario\", \"type\": \"number\", \"description\": \"Provincia Santa Fe Gran Rosario\", \"id\": \"344.1_PROVINCIA_RIO__31\", \"scrapingIdentifierCell\": \"AB12\", \"scrapingDataStartCell\": \"AB13\", \"units\": \"Porcentaje de poblaci\\u00f3n\", \"dataset_identifier\": \"344\", \"distribution_identifier\": \"344.1\"}, {\"title\": \"provincia_santa_fe_gran_santa_fe\", \"type\": \"number\", \"description\": \"Provincia Santa Fe Gran Santa Fe\", \"id\": \"344.1_PROVINCIA_FE__32\", \"scrapingIdentifierCell\": \"AC12\", \"scrapingDataStartCell\": \"AC13\", \"units\": \"Porcentaje de poblaci\\u00f3n\", \"dataset_identifier\": \"344\", \"distribution_identifier\": \"344.1\"}, {\"title\": \"provincia_santiago_del_estero_santiago_del_estero_la_banda\", \"type\": \"number\", \"description\": \"Provincia Santiago del Estero Santiago del Estero - La Banda\", \"id\": \"344.1_PROVINCIA_NDA__58\", \"scrapingIdentifierCell\": \"AD12\", \"scrapingDataStartCell\": \"AD13\", \"units\": \"Porcentaje de poblaci\\u00f3n\", \"dataset_identifier\": \"344\", \"distribution_identifier\": \"344.1\"}, {\"title\": \"provincia_tierra_del_fuego_ushuaia_rio_grande\", \"type\": \"number\", \"description\": \"Provincia Tierra del Fuego Ushuaia - R\\u00edo Grande\", \"id\": \"344.1_PROVINCIA_NDE__45\", \"scrapingIdentifierCell\": \"AE12\", \"scrapingDataStartCell\": \"AE13\", \"units\": \"Porcentaje de poblaci\\u00f3n\", \"dataset_identifier\": \"344\", \"distribution_identifier\": \"344.1\"}, {\"title\": \"provincia_tucuman_gran_san_martin_tucuman_tafi_viejo\", \"type\": \"number\", \"description\": \"Provincia Tucum\\u00e1n Gran San Mart\\u00edn de Tucum\\u00e1n - Taf\\u00ed Viejo\", \"id\": \"344.1_PROVINCIA_EJO__52\", \"scrapingIdentifierCell\": \"AF12\", \"scrapingDataStartCell\": \"AF13\", \"units\": \"Porcentaje de poblaci\\u00f3n\", \"dataset_identifier\": \"344\", \"distribution_identifier\": \"344.1\"}, {\"title\": \"ciudad_buenos_aires\", \"type\": \"number\", \"description\": \"Ciudad de Buenos Aires\", \"id\": \"344.1_CIUDAD_BUERES__19\", \"scrapingIdentifierCell\": \"AG12\", \"scrapingDataStartCell\": \"AG13\", \"units\": \"Porcentaje de poblaci\\u00f3n\", \"dataset_identifier\": \"344\", \"distribution_identifier\": \"344.1\"}, {\"title\": \"partidos_del_conurbano\", \"type\": \"number\", \"description\": \"Partidos del Conurbano\", \"id\": \"344.1_PARTIDOS_DANO__22\", \"scrapingIdentifierCell\": \"AH12\", \"scrapingDataStartCell\": \"AH13\", \"units\": \"Porcentaje de poblaci\\u00f3n\", \"dataset_identifier\": \"344\", \"distribution_identifier\": \"344.1\"}, {\"title\": \"partidos_a_partir_del_98\", \"type\": \"number\", \"description\": \"Partidos a partir del 98\", \"id\": \"344.1_PARTIDOS_A_98__24\", \"scrapingIdentifierCell\": \"AI12\", \"scrapingDataStartCell\": \"AI13\", \"units\": \"Porcentaje de poblaci\\u00f3n\", \"dataset_identifier\": \"344\", \"distribution_identifier\": \"344.1\"}, {\"title\": \"buenos_aires_santa_fe_san_nicolas_villa_constitucion\", \"type\": \"number\", \"description\": \"Buenos Aires - Santa Fe San Nicol\\u00e1s - Villa Constituci\\u00f3n\", \"id\": \"344.1_BUENOS_AIRION__52\", \"scrapingIdentifierCell\": \"AJ12\", \"scrapingDataStartCell\": \"AJ13\", \"units\": \"Porcentaje de poblaci\\u00f3n\", \"dataset_identifier\": \"344\", \"distribution_identifier\": \"344.1\"}, {\"title\": \"chubut_rawson_trelew\", \"type\": \"number\", \"description\": \"Chubut Rawson - Trelew\", \"id\": \"344.1_CHUBUT_RALEW__21\", \"scrapingIdentifierCell\": \"AK12\", \"scrapingDataStartCell\": \"AK13\", \"units\": \"Porcentaje de poblaci\\u00f3n\", \"dataset_identifier\": \"344\", \"distribution_identifier\": \"344.1\"}, {\"title\": \"rio_negro_buenos_aires_viedma_carmen_patagones\", \"type\": \"number\", \"description\": \"R\\u00edo Negro - Buenos Aires Viedma - Carmen de Patagones\", \"id\": \"344.1_RIO_NEGRO_NES__46\", \"scrapingIdentifierCell\": \"AL12\", \"scrapingDataStartCell\": \"AL13\", \"units\": \"Porcentaje de poblaci\\u00f3n\", \"dataset_identifier\": \"344\", \"distribution_identifier\": \"344.1\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-11-28T00:00:00",
+      "datastore_active": false,
+      "description": "Tasa de Empleo por algomerado 1974-1990. Semestral",
+      "fileName": "tasa-de-subocupacion-por-aglomerado-1974-2003.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "sspm_344.1",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Tasa de Subocupación por algomerado 1974-2003. Semestral",
+      "package_id": "sspm_344",
+      "position": 0,
+      "resource_type": null,
+      "revision_id": "fe40f993-1db7-46cb-a2bc-5eb42b10cb8c",
+      "size": null,
+      "state": "active",
+      "url": "https://infra.datos.gob.ar/catalog/sspm/dataset/344/distribution/344.1/download/tasa-de-subocupacion-por-aglomerado-1974-2003.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "fe40f993-1db7-46cb-a2bc-5eb42b10cb8c",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "Empleo e Ingresos",
+      "id": "0d41bcfd-c3a4-4ff7-8aa1-dd5c3ac51d0b",
+      "name": "Empleo e Ingresos",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Información Económica Histórica",
+      "id": "3834bbe4-6452-499b-a70e-85765a130da2",
+      "name": "Información Económica Histórica",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Tasa de Subocupación por aglomerado 1974-2003",
+  "type": "dataset",
+  "url": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/",
+  "version": null
+}

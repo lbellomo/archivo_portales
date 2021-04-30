@@ -1,0 +1,202 @@
+{
+  "author": "Ministerio de Turismo y Deportes. Subsecretaría de Desarrollo Estratégico. Dirección Nacional de Mercados y Estadística",
+  "author_email": "estadistica@turismo.gob.ar",
+  "creator_user_id": "dc157489-51c6-44ce-bd63-3bd983d60778",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P1M"
+    },
+    {
+      "key": "issued",
+      "value": "2020-12-28T16:44:46.199721"
+    },
+    {
+      "key": "language",
+      "value": "[\"spa\"]"
+    },
+    {
+      "key": "modified",
+      "value": "2021-04-23T15:52:37.801947"
+    },
+    {
+      "key": "source",
+      "value": "Ministerio de Turismo y Deportes. Subsecretaría de Desarrollo Estratégico. Dirección Nacional de Mercados y Estadística"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"GOVE\", \"SOCI\"]"
+    },
+    {
+      "key": "temporal",
+      "value": "2016-01-01T03:00:00.000Z/2020-10-31T03:00:00.000Z"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Gobierno y sector público",
+      "display_name": "Gobierno y sector público",
+      "id": "e6f07c77-3987-4e71-98a6-731b1aaf74f4",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225353.395233gobierno-sector-publico.svg",
+      "name": "gove",
+      "title": "Gobierno y sector público"
+    },
+    {
+      "description": "Población y sociedad",
+      "display_name": "Población y sociedad",
+      "id": "eb5df7fa-064a-4b51-89f6-af323ee1bf85",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225728.341804poblacion-sociedad.svg",
+      "name": "soci",
+      "title": "Población y sociedad"
+    }
+  ],
+  "id": "turismo_25049eaf-d122-432f-ab7a-ed17ddb5a369",
+  "isopen": true,
+  "license_id": "CC-BY-4.0",
+  "license_title": "Creative Commons Attribution 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "maintainer": "Ministerio de Turismo y Deportes. Subsecretaría de Desarrollo Estratégico. Dirección Nacional de Mercados y Estadística",
+  "maintainer_email": "estadistica@turismo.gob.ar",
+  "metadata_created": "2020-12-29T16:16:56.172806",
+  "metadata_modified": "2021-04-29T21:04:13.596845",
+  "name": "turismo-turismo-emisivo",
+  "notes": "Estadísticas de turismo emisivo referidas al volumen de turistas residentes en Argentina que viajan al exterior. Corresponde al total nacional por todos los medios de transporte utilizados (aéreos, terrestres, fluviales y marítimos) en base a la información de la Dirección Nacional de Migraciones y de la Encuesta de Turismo Internacional (INDEC-Ministerio de Turismo y Deporte)",
+  "num_resources": 3,
+  "num_tags": 5,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:07.685134",
+    "description": "",
+    "id": "3a751de6-128e-4f9a-a479-4672ef79a0e8",
+    "image_url": "",
+    "is_organization": true,
+    "name": "turismo",
+    "revision_id": "082d6431-73c3-4ce5-a589-b9cda65a2231",
+    "state": "active",
+    "title": "Ministerio de Turismo y Deportes",
+    "type": "organization"
+  },
+  "owner_org": "3a751de6-128e-4f9a-a479-4672ef79a0e8",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "http://datos.yvera.gob.ar/dataset/25049eaf-d122-432f-ab7a-ed17ddb5a369/resource/86b4c63e-29a8-43b2-ae90-61f5a21e3d19",
+      "attributesDescription": "[{\"specialType\": \"time_index\", \"specialTypeDetail\": \"R/P1M\", \"type\": \"date\", \"description\": \"Indice de tiempo mensual\", \"title\": \"indice_tiempo\"}, {\"type\": \"string\", \"description\": \"Tipo de transporte utilizado por los turistas residentes al viajar al exterior. Incluye todos los medios a\\u00e9reos, terrestres y mar\\u00edtimos/fluviales del pa\\u00eds\", \"title\": \"medio_de_transporte\"}, {\"type\": \"string\", \"description\": \"Pa\\u00eds o agrupamiento de pa\\u00edses de destino de los turistas residentes. Incluye las categor\\u00edas: Bolivia, Brasil, Chile, Paraguay, Uruguay, EE.UU. y Canad\\u00e1, Resto de Am\\u00e9rica, Europa y Resto del mundo\", \"title\": \"pais_destino\"}, {\"units\": \"turistas\", \"type\": \"number\", \"description\": \"Turistas residentes que visitaron un destino en el exterior\", \"title\": \"turistas_residentes\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2020-12-28T16:49:35.464182",
+      "datastore_active": false,
+      "description": "Turistas residentes por destino visitado en el exterior según medio de transporte utilizado (aéreo, terrestre, fluvial/marítimo) en formato de serie de tiempo. Corresponde al total país",
+      "fileName": "turistas-residentes-serie (3).csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "turismo_86b4c63e-29a8-43b2-ae90-61f5a21e3d19",
+      "last_modified": "2021-04-20T09:39:46.898782",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Turistas residentes por destino visitado en el exterior y medio de transporte utilizado",
+      "package_id": "turismo_25049eaf-d122-432f-ab7a-ed17ddb5a369",
+      "position": 0,
+      "resource_type": "file.upload",
+      "revision_id": "7c810436-29c0-46a0-b625-85b058eeb0cb",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.yvera.gob.ar/dataset/25049eaf-d122-432f-ab7a-ed17ddb5a369/resource/86b4c63e-29a8-43b2-ae90-61f5a21e3d19/download/turistas-residentes-serie-3.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos.yvera.gob.ar/dataset/25049eaf-d122-432f-ab7a-ed17ddb5a369/resource/c1626a2a-e47c-438c-863e-02dc49b2e0ac",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2021-01-07T12:17:19.040997",
+      "datastore_active": false,
+      "description": "Aspectos conceptuales y metodológicos de la fuente de datos",
+      "fileName": "2021.01.05_tur_internacional.pdf",
+      "format": "PDF",
+      "hash": "",
+      "id": "turismo_c1626a2a-e47c-438c-863e-02dc49b2e0ac",
+      "last_modified": "2021-01-12T19:00:10.467597",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Ficha Técnica: Turismo Internacional",
+      "package_id": "turismo_25049eaf-d122-432f-ab7a-ed17ddb5a369",
+      "position": 1,
+      "resource_type": "documentation",
+      "revision_id": "8660dd6a-2204-4ec5-8940-e12abb9da874",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.yvera.gob.ar/dataset/25049eaf-d122-432f-ab7a-ed17ddb5a369/resource/c1626a2a-e47c-438c-863e-02dc49b2e0ac/download/2021.01.05_tur_internacional.pdf",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos.yvera.gob.ar/dataset/25049eaf-d122-432f-ab7a-ed17ddb5a369/resource/d6fc623f-f0c8-4ecc-9c37-ea5867a778e1",
+      "attributesDescription": "[{\"specialType\": \"time_index\", \"specialTypeDetail\": \"R/P1M\", \"type\": \"date\", \"title\": \"indice_tiempo\"}, {\"id\": \"te_turistas_1\", \"units\": \"turistas\", \"type\": \"number\", \"description\": \"Turistas residentes que visitaron Bolivia por v\\u00eda a\\u00e9rea\", \"title\": \"aerea_bolivia\"}, {\"id\": \"te_turistas_2\", \"units\": \"turistas\", \"type\": \"number\", \"description\": \"Turistas residentes que visitaron alg\\u00fan pa\\u00eds de Europa por v\\u00eda a\\u00e9rea\", \"title\": \"aerea_europa\"}, {\"id\": \"te_turistas_3\", \"units\": \"turistas\", \"type\": \"number\", \"description\": \"Turistas residentes que visitaron Chile por v\\u00eda a\\u00e9rea\", \"title\": \"aerea_chile\"}, {\"id\": \"te_turistas_4\", \"units\": \"turistas\", \"type\": \"number\", \"description\": \"Turistas residentes que visitaron Paraguay por v\\u00eda a\\u00e9rea\", \"title\": \"aerea_paraguay\"}, {\"id\": \"te_turistas_5\", \"units\": \"turistas\", \"type\": \"number\", \"description\": \"Turistas residentes que visitaron Brasil por v\\u00eda a\\u00e9rea\", \"title\": \"aerea_brasil\"}, {\"id\": \"te_turistas_6\", \"units\": \"turistas\", \"type\": \"number\", \"description\": \"Turistas residentes que visitaron Estados Undicos o Canad\\u00e1 por v\\u00eda a\\u00e9rea\", \"title\": \"aerea_ee_uu_y_canada\"}, {\"id\": \"te_turistas_7\", \"units\": \"turistas\", \"type\": \"number\", \"description\": \"Turistas residentes que visitaron alg\\u00fan pa\\u00eds del resto de am\\u00e9rica por v\\u00eda a\\u00e9rea\", \"title\": \"aerea_resto_de_america\"}, {\"id\": \"te_turistas_8\", \"units\": \"turistas\", \"type\": \"number\", \"description\": \"Turistas residentes que visitaron alg\\u00fan pa\\u00eds del resto del mundo por v\\u00eda a\\u00e9rea\", \"title\": \"aerea_resto_del_mundo\"}, {\"id\": \"te_turistas_9\", \"units\": \"turistas\", \"type\": \"number\", \"description\": \"Turistas residentes que visitaron Uruguay por v\\u00eda a\\u00e9rea\", \"title\": \"aerea_uruguay\"}, {\"id\": \"te_turistas_10\", \"units\": \"turistas\", \"type\": \"number\", \"description\": \"Turistas residentes que visitaron Bolivia por v\\u00eda terrestre\", \"title\": \"terrestre_bolivia\"}, {\"id\": \"te_turistas_11\", \"units\": \"turistas\", \"type\": \"number\", \"description\": \"Turistas residentes que visitaron alg\\u00fan pa\\u00eds de Europa por v\\u00eda terrestre\", \"title\": \"terrestre_europa\"}, {\"id\": \"te_turistas_12\", \"units\": \"turistas\", \"type\": \"number\", \"description\": \"Turistas residentes que visitaron Chile por v\\u00eda terrestre\", \"title\": \"terrestre_chile\"}, {\"id\": \"te_turistas_13\", \"units\": \"turistas\", \"type\": \"number\", \"description\": \"Turistas residentes que visitaron Paraguay por v\\u00eda terrestre\", \"title\": \"terrestre_paraguay\"}, {\"id\": \"te_turistas_14\", \"units\": \"turistas\", \"type\": \"number\", \"description\": \"Turistas residentes que visitaron Brasil por v\\u00eda terrestre\", \"title\": \"terrestre_brasil\"}, {\"id\": \"te_turistas_15\", \"units\": \"turistas\", \"type\": \"number\", \"description\": \"Turistas residentes que visitaron Estados Undicos o Canad\\u00e1 por v\\u00eda terrestre\", \"title\": \"terrestre_ee_uu_y_canada\"}, {\"id\": \"te_turistas_16\", \"units\": \"turistas\", \"type\": \"number\", \"description\": \"Turistas residentes que visitaron alg\\u00fan pa\\u00eds del resto de am\\u00e9rica por v\\u00eda terrestre\", \"title\": \"terrestre_resto_de_america\"}, {\"id\": \"te_turistas_17\", \"units\": \"turistas\", \"type\": \"number\", \"description\": \"Turistas residentes que visitaron alg\\u00fan pa\\u00eds del resto del mundo por v\\u00eda terrestre\", \"title\": \"terrestre_resto_del_mundo\"}, {\"id\": \"te_turistas_18\", \"units\": \"turistas\", \"type\": \"number\", \"description\": \"Turistas residentes que visitaron Uruguay por v\\u00eda terrestre\", \"title\": \"terrestre_uruguay\"}, {\"id\": \"te_turistas_19\", \"units\": \"turistas\", \"type\": \"number\", \"description\": \"Turistas residentes que visitaron Bolivia por v\\u00eda mar\\u00edtima/fluvial\", \"title\": \"fluvial_maritima_bolivia\"}, {\"id\": \"te_turistas_20\", \"units\": \"turistas\", \"type\": \"number\", \"description\": \"Turistas residentes que visitaron alg\\u00fan pa\\u00eds de Europa por v\\u00eda mar\\u00edtima/fluvial\", \"title\": \"fluvial_maritima_europa\"}, {\"id\": \"te_turistas_21\", \"units\": \"turistas\", \"type\": \"number\", \"description\": \"Turistas residentes que visitaron Chile por v\\u00eda mar\\u00edtima/fluvial\", \"title\": \"fluvial_maritima_chile\"}, {\"id\": \"te_turistas_22\", \"units\": \"turistas\", \"type\": \"number\", \"description\": \"Turistas residentes que visitaron Paraguay por v\\u00eda mar\\u00edtima/fluvial\", \"title\": \"fluvial_maritima_paraguay\"}, {\"id\": \"te_turistas_23\", \"units\": \"turistas\", \"type\": \"number\", \"description\": \"Turistas residentes que visitaron Brasil por v\\u00eda mar\\u00edtima/fluvial\", \"title\": \"fluvial_maritima_brasil\"}, {\"id\": \"te_turistas_24\", \"units\": \"turistas\", \"type\": \"number\", \"description\": \"Turistas residentes que visitaron Estados Undicos o Canad\\u00e1 por v\\u00eda mar\\u00edtima/fluvial\", \"title\": \"fluvial_maritima_ee_uu_y_canada\"}, {\"id\": \"te_turistas_25\", \"units\": \"turistas\", \"type\": \"number\", \"description\": \"Turistas residentes que visitaron alg\\u00fan pa\\u00eds del resto de am\\u00e9rica por v\\u00eda mar\\u00edtima/fluvial\", \"title\": \"fluvial_maritima_resto_de_america\"}, {\"id\": \"te_turistas_26\", \"units\": \"turistas\", \"type\": \"number\", \"description\": \"Turistas residentes que visitaron alg\\u00fan pa\\u00eds del resto del mundo por v\\u00eda mar\\u00edtima/fluvial\", \"title\": \"fluvial_maritima_resto_del_mundo\"}, {\"id\": \"te_turistas_27\", \"units\": \"turistas\", \"type\": \"number\", \"description\": \"Turistas residentes que visitaron Uruguay por v\\u00eda mar\\u00edtima/fluvial\", \"title\": \"fluvial_maritima_uruguay\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2021-02-02T16:17:13.134597",
+      "datastore_active": false,
+      "description": "Evolución de la cantidad de turistas residentes por destino visitado en el exterior y medio de transporte utilizado, desde el año 2016 a la última actualización.",
+      "fileName": "serie-tiempo-turismo-emisivo.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "turismo_d6fc623f-f0c8-4ecc-9c37-ea5867a778e1",
+      "last_modified": "2021-02-02T16:28:15.680165",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Serie de tiempo",
+      "package_id": "turismo_25049eaf-d122-432f-ab7a-ed17ddb5a369",
+      "position": 2,
+      "resource_type": "file.upload",
+      "revision_id": "6588ba28-9122-4ac8-ba7b-273c41383fb3",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.yvera.gob.ar/dataset/25049eaf-d122-432f-ab7a-ed17ddb5a369/resource/d6fc623f-f0c8-4ecc-9c37-ea5867a778e1/download/serie-tiempo-turismo-emisivo.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "2326cb88-5692-4215-bf1f-2b8d0915e19e",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "TURISMO INTERNACIONAL",
+      "id": "d55adc5e-c96c-4a96-a217-9a5c797a0935",
+      "name": "TURISMO INTERNACIONAL",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "turismo emisivo",
+      "id": "e07fd6ec-d4af-4b12-87b2-646953ed7eb5",
+      "name": "turismo emisivo",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "turismo internacional",
+      "id": "36a11dab-c318-4268-b6fb-5161e0d7b326",
+      "name": "turismo internacional",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "turistas argentinos en el exterior",
+      "id": "4b8b701c-5aa0-487f-9589-35e77d0d015f",
+      "name": "turistas argentinos en el exterior",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "turistas residentes",
+      "id": "e99059ca-1b04-42a4-bff8-cc0b6d8f7365",
+      "name": "turistas residentes",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Turismo emisivo",
+  "type": "dataset",
+  "url": "http://datos.yvera.gob.ar/dataset/turismo-emisivo",
+  "version": null
+}

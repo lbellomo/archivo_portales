@@ -1,0 +1,156 @@
+{
+  "author": "Subsecretaría de Programación Macroeconómica",
+  "author_email": "datoseconomicos@mecon.gov.ar",
+  "creator_user_id": "4720e75a-9e17-4dc3-879d-041917c7f9f9",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P3M"
+    },
+    {
+      "key": "issued",
+      "value": "2017-09-28"
+    },
+    {
+      "key": "language",
+      "value": "[\"SPA\"]"
+    },
+    {
+      "key": "source",
+      "value": "Instituto Nacional de Estadística y Censos (INDEC)"
+    },
+    {
+      "key": "spatial",
+      "value": "ARG"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"ECON\"]"
+    },
+    {
+      "key": "temporal",
+      "value": "2004-01-01/2016-12-31"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Economía y finanzas",
+      "display_name": "Economía y finanzas",
+      "id": "60b4b03e-10a1-4d67-b984-08008a249617",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225257.200233economia-finanzas.svg",
+      "name": "econ",
+      "title": "Economía y finanzas"
+    }
+  ],
+  "id": "sspm_23",
+  "isopen": true,
+  "license_id": "CC-BY-4.0",
+  "license_title": "Creative Commons Attribution 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "maintainer": "Subsecretaría de Programación Macroeconómica.",
+  "maintainer_email": "datoseconomicos@mecon.gov.ar",
+  "metadata_created": "2019-11-26T15:05:42.731736",
+  "metadata_modified": "2021-04-29T21:05:51.472891",
+  "name": "sspm-indice-precios-implicitos-valor-agregado-bruto-base-2004",
+  "notes": "Índice de precios implicitos del valor agregado en pesos constantes de 2004",
+  "num_resources": 2,
+  "num_tags": 3,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:09.718132",
+    "description": "",
+    "id": "68f9ee22-5ec3-44cf-a32b-b87d9db46b93",
+    "image_url": "",
+    "is_organization": true,
+    "name": "sspm",
+    "revision_id": "bc058ce0-3540-4204-96cd-9f9ec79045b3",
+    "state": "active",
+    "title": "Subsecretaría de Programación Macroeconómica",
+    "type": "organization"
+  },
+  "owner_org": "68f9ee22-5ec3-44cf-a32b-b87d9db46b93",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/",
+      "attributesDescription": "[{\"title\": \"indice_tiempo\", \"type\": \"date\", \"specialType\": \"time_index\", \"specialTypeDetail\": \"R/P1Y\", \"id\": \"23.1_IT_2004_A_13\", \"scrapingIdentifierCell\": \"A7\", \"scrapingDataStartCell\": \"A8\", \"dataset_identifier\": \"23\", \"distribution_identifier\": \"23.1\"}, {\"title\": \"agricultura_ganaderia_caza_silvicultura\", \"type\": \"number\", \"description\": \"\\u00cdndice de precios impl\\u00edcitos, de agricultura ganaderia caza y silvicultura\", \"id\": \"23.1_AGCS_2004_A_39\", \"scrapingIdentifierCell\": \"B7\", \"scrapingDataStartCell\": \"B8\", \"units\": \"\\u00cdndice 2004=100\", \"dataset_identifier\": \"23\", \"distribution_identifier\": \"23.1\"}, {\"title\": \"pesca\", \"type\": \"number\", \"description\": \"\\u00cdndice de precios impl\\u00edcitos de pesca\", \"id\": \"23.1_P_2004_A_5\", \"scrapingIdentifierCell\": \"C7\", \"scrapingDataStartCell\": \"C8\", \"units\": \"\\u00cdndice 2004=100\", \"dataset_identifier\": \"23\", \"distribution_identifier\": \"23.1\"}, {\"title\": \"explotacion_minas_canteras\", \"type\": \"number\", \"description\": \"\\u00cdndice de precios impl\\u00edcitos de explotaci\\u00f3n de minas y canteras\", \"id\": \"23.1_EMC_2004_A_26\", \"scrapingIdentifierCell\": \"D7\", \"scrapingDataStartCell\": \"D8\", \"units\": \"\\u00cdndice 2004=100\", \"dataset_identifier\": \"23\", \"distribution_identifier\": \"23.1\"}, {\"title\": \"industria_manufacturera\", \"type\": \"number\", \"description\": \"\\u00cdndice de precios impl\\u00edcitos de industria manufacturera\", \"id\": \"23.1_IM_2004_A_23\", \"scrapingIdentifierCell\": \"E7\", \"scrapingDataStartCell\": \"E8\", \"units\": \"\\u00cdndice 2004=100\", \"dataset_identifier\": \"23\", \"distribution_identifier\": \"23.1\"}, {\"title\": \"suministro_electricidad_gas_agua\", \"type\": \"number\", \"description\": \"\\u00cdndice de precios impl\\u00edcitos de suministro de electricidad gas y agua\", \"id\": \"23.1_SEGA_2004_A_32\", \"scrapingIdentifierCell\": \"F7\", \"scrapingDataStartCell\": \"F8\", \"units\": \"\\u00cdndice 2004=100\", \"dataset_identifier\": \"23\", \"distribution_identifier\": \"23.1\"}, {\"title\": \"construccion\", \"type\": \"number\", \"description\": \"\\u00cdndice de precios impl\\u00edcitos de construcci\\u00f3n\", \"id\": \"23.1_C_2004_A_12\", \"scrapingIdentifierCell\": \"G7\", \"scrapingDataStartCell\": \"G8\", \"units\": \"\\u00cdndice 2004=100\", \"dataset_identifier\": \"23\", \"distribution_identifier\": \"23.1\"}, {\"title\": \"sectores_productores_bienes\", \"type\": \"number\", \"description\": \"\\u00cdndice de precios impl\\u00edcitos de sectores productores de bienes\", \"id\": \"23.1_SPB_2004_A_27\", \"scrapingIdentifierCell\": \"H7\", \"scrapingDataStartCell\": \"H8\", \"units\": \"\\u00cdndice 2004=100\", \"dataset_identifier\": \"23\", \"distribution_identifier\": \"23.1\"}, {\"title\": \"comercio_mayorista_minorista_reparaciones\", \"type\": \"number\", \"description\": \"\\u00cdndice de precios impl\\u00edcitos de comercio mayorista y minorista y reparaciones\", \"id\": \"23.1_CMMR_2004_A_41\", \"scrapingIdentifierCell\": \"I7\", \"scrapingDataStartCell\": \"I8\", \"units\": \"\\u00cdndice 2004=100\", \"dataset_identifier\": \"23\", \"distribution_identifier\": \"23.1\"}, {\"title\": \"hoteles_restaurantes\", \"type\": \"number\", \"description\": \"\\u00cdndice de precios impl\\u00edcitos de hoteles y restaurantes\", \"id\": \"23.1_HR_2004_A_20\", \"scrapingIdentifierCell\": \"J7\", \"scrapingDataStartCell\": \"J8\", \"units\": \"\\u00cdndice 2004=100\", \"dataset_identifier\": \"23\", \"distribution_identifier\": \"23.1\"}, {\"title\": \"transporte_almacenamiento_comunicaciones\", \"type\": \"number\", \"description\": \"\\u00cdndice de precios impl\\u00edcitos de transporte almacenamiento y comunicaciones\", \"id\": \"23.1_TAC_2004_A_40\", \"scrapingIdentifierCell\": \"K7\", \"scrapingDataStartCell\": \"K8\", \"units\": \"\\u00cdndice 2004=100\", \"dataset_identifier\": \"23\", \"distribution_identifier\": \"23.1\"}, {\"title\": \"intermediacion_financiera\", \"type\": \"number\", \"description\": \"\\u00cdndice de precios impl\\u00edcitos de intermediaci\\u00f3n financiera\", \"id\": \"23.1_IF_2004_A_25\", \"scrapingIdentifierCell\": \"L7\", \"scrapingDataStartCell\": \"L8\", \"units\": \"\\u00cdndice 2004=100\", \"dataset_identifier\": \"23\", \"distribution_identifier\": \"23.1\"}, {\"title\": \"actividades_inmobiliarias_empresariales_alquiler\", \"type\": \"number\", \"description\": \"\\u00cdndice de precios impl\\u00edcitos de actividades inmobiliarias empresariales y de alquiler\", \"id\": \"23.1_AIEA_2004_A_48\", \"scrapingIdentifierCell\": \"M7\", \"scrapingDataStartCell\": \"M8\", \"units\": \"\\u00cdndice 2004=100\", \"dataset_identifier\": \"23\", \"distribution_identifier\": \"23.1\"}, {\"title\": \"admin_publica_planes_seguridad_social_afiliacion_obligatoria\", \"type\": \"number\", \"description\": \"\\u00cdndice de precios impl\\u00edcitos de administraci\\u00f3n p\\u00fablica y defensa planes de seguridad social de afiliaci\\u00f3n obligatoria\", \"id\": \"23.1_APDPSSAO_2004_A_60\", \"scrapingIdentifierCell\": \"N7\", \"scrapingDataStartCell\": \"N8\", \"units\": \"\\u00cdndice 2004=100\", \"dataset_identifier\": \"23\", \"distribution_identifier\": \"23.1\"}, {\"title\": \"ensenianza\", \"type\": \"number\", \"description\": \"\\u00cdndice de precios impl\\u00edcitos de ense\\u00f1anza\", \"id\": \"23.1_E_2004_A_10\", \"scrapingIdentifierCell\": \"O7\", \"scrapingDataStartCell\": \"O8\", \"units\": \"\\u00cdndice 2004=100\", \"dataset_identifier\": \"23\", \"distribution_identifier\": \"23.1\"}, {\"title\": \"servicios_sociales_salud\", \"type\": \"number\", \"description\": \"\\u00cdndice de precios impl\\u00edcitos de servicios sociales y de salud\", \"id\": \"23.1_SSS_2004_A_24\", \"scrapingIdentifierCell\": \"P7\", \"scrapingDataStartCell\": \"P8\", \"units\": \"\\u00cdndice 2004=100\", \"dataset_identifier\": \"23\", \"distribution_identifier\": \"23.1\"}, {\"title\": \"otras_actividades_servicios_comunitarias_sociales_personales\", \"type\": \"number\", \"description\": \"\\u00cdndice de precios impl\\u00edcitos de otras actividades de servicios comunitarias sociales personales\", \"id\": \"23.1_OASCSP_2004_A_60\", \"scrapingIdentifierCell\": \"Q7\", \"scrapingDataStartCell\": \"Q8\", \"units\": \"\\u00cdndice 2004=100\", \"dataset_identifier\": \"23\", \"distribution_identifier\": \"23.1\"}, {\"title\": \"hogares_privs_servicio_domestico\", \"type\": \"number\", \"description\": \"\\u00cdndice de precios impl\\u00edcitos de hogares privados con servicio dom\\u00e9stico\", \"id\": \"23.1_HPSD_2004_A_32\", \"scrapingIdentifierCell\": \"R7\", \"scrapingDataStartCell\": \"R8\", \"units\": \"\\u00cdndice 2004=100\", \"dataset_identifier\": \"23\", \"distribution_identifier\": \"23.1\"}, {\"title\": \"sectores_productores_servicios\", \"type\": \"number\", \"description\": \"\\u00cdndice de precios impl\\u00edcitos de sectores productores de servicios\", \"id\": \"23.1_SPS_2004_A_30\", \"scrapingIdentifierCell\": \"S7\", \"scrapingDataStartCell\": \"S8\", \"units\": \"\\u00cdndice 2004=100\", \"dataset_identifier\": \"23\", \"distribution_identifier\": \"23.1\"}, {\"title\": \"valor_agregado_bruto_precios_basicos\", \"type\": \"number\", \"description\": \"\\u00cdndice de precios impl\\u00edcitos de valor agregado bruto a precios b\\u00e1sicos\", \"id\": \"23.1_VABPB_2004_A_36\", \"scrapingIdentifierCell\": \"T7\", \"scrapingDataStartCell\": \"T8\", \"units\": \"\\u00cdndice 2004=100\", \"dataset_identifier\": \"23\", \"distribution_identifier\": \"23.1\"}, {\"title\": \"impuesto_valor_agregado\", \"type\": \"number\", \"description\": \"\\u00cdndice de precios impl\\u00edcitos de impuesto al valor agregado\", \"id\": \"23.1_IVA_2004_A_23\", \"scrapingIdentifierCell\": \"U7\", \"scrapingDataStartCell\": \"U8\", \"units\": \"\\u00cdndice 2004=100\", \"dataset_identifier\": \"23\", \"distribution_identifier\": \"23.1\"}, {\"title\": \"derechos_importacion\", \"type\": \"number\", \"description\": \"\\u00cdndice de precios impl\\u00edcitos de derechos de importaci\\u00f3n\", \"id\": \"23.1_DI_2004_A_20\", \"scrapingIdentifierCell\": \"V7\", \"scrapingDataStartCell\": \"V8\", \"units\": \"\\u00cdndice 2004=100\", \"dataset_identifier\": \"23\", \"distribution_identifier\": \"23.1\"}, {\"title\": \"impuestos_productos_netos_subsidios\", \"type\": \"number\", \"description\": \"\\u00cdndice de precios impl\\u00edcitos de impuestos a los productos netos de subsidios\", \"id\": \"23.1_IPNS_2004_A_35\", \"scrapingIdentifierCell\": \"W7\", \"scrapingDataStartCell\": \"W8\", \"units\": \"\\u00cdndice 2004=100\", \"dataset_identifier\": \"23\", \"distribution_identifier\": \"23.1\"}, {\"title\": \"producto_interno_bruto_precios_mercado\", \"type\": \"number\", \"description\": \"\\u00cdndice de precios impl\\u00edcitos de producto interno bruto a precios de mercado\", \"id\": \"23.1_PIBPM_2004_A_38\", \"scrapingIdentifierCell\": \"X7\", \"scrapingDataStartCell\": \"X8\", \"units\": \"\\u00cdndice 2004=100\", \"dataset_identifier\": \"23\", \"distribution_identifier\": \"23.1\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-09-28T00:00:00",
+      "datastore_active": false,
+      "description": "Índice de precios implícitos anual del Valor Agregado Bruto (Base 2004)",
+      "fileName": "indice-precios-implicitos-valor-agregado-bruto-valores-anuales-base-2004.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "sspm_23.1",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Índice de precios implícitos del Valor Agregado Bruto. Base 2004. Valores anuales",
+      "package_id": "sspm_23",
+      "position": 0,
+      "resource_type": null,
+      "revision_id": "0c68ecdb-d43b-4c13-9936-285eb5f459e8",
+      "size": null,
+      "state": "active",
+      "url": "https://infra.datos.gob.ar/catalog/sspm/dataset/23/distribution/23.1/download/indice-precios-implicitos-valor-agregado-bruto-valores-anuales-base-2004.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/",
+      "attributesDescription": "[{\"title\": \"indice_tiempo\", \"type\": \"date\", \"specialType\": \"time_index\", \"specialTypeDetail\": \"R/P3M\", \"id\": \"23.2_IT_2004_T_13\", \"scrapingIdentifierCell\": \"A39\", \"scrapingDataStartCell\": \"A40\", \"dataset_identifier\": \"23\", \"distribution_identifier\": \"23.2\"}, {\"title\": \"agricultura_ganaderia_caza_silvicultura\", \"type\": \"number\", \"description\": \"\\u00cdndice de precios impl\\u00edcitos, de agricultura ganaderia caza y silvicultura\", \"id\": \"23.2_AGCS_2004_T_39\", \"scrapingIdentifierCell\": \"B39\", \"scrapingDataStartCell\": \"B40\", \"units\": \"\\u00cdndice 2004=100\", \"dataset_identifier\": \"23\", \"distribution_identifier\": \"23.2\"}, {\"title\": \"pesca\", \"type\": \"number\", \"description\": \"\\u00cdndice de precios impl\\u00edcitos de pesca\", \"id\": \"23.2_P_2004_T_5\", \"scrapingIdentifierCell\": \"C39\", \"scrapingDataStartCell\": \"C40\", \"units\": \"\\u00cdndice 2004=100\", \"dataset_identifier\": \"23\", \"distribution_identifier\": \"23.2\"}, {\"title\": \"explotacion_minas_canteras\", \"type\": \"number\", \"description\": \"\\u00cdndice de precios impl\\u00edcitos de explotaci\\u00f3n de minas y canteras\", \"id\": \"23.2_EMC_2004_T_26\", \"scrapingIdentifierCell\": \"D39\", \"scrapingDataStartCell\": \"D40\", \"units\": \"\\u00cdndice 2004=100\", \"dataset_identifier\": \"23\", \"distribution_identifier\": \"23.2\"}, {\"title\": \"industria_manufacturera\", \"type\": \"number\", \"description\": \"\\u00cdndice de precios impl\\u00edcitos de industria manufacturera\", \"id\": \"23.2_IM_2004_T_23\", \"scrapingIdentifierCell\": \"E39\", \"scrapingDataStartCell\": \"E40\", \"units\": \"\\u00cdndice 2004=100\", \"dataset_identifier\": \"23\", \"distribution_identifier\": \"23.2\"}, {\"title\": \"suministro_electricidad_gas_agua\", \"type\": \"number\", \"description\": \"\\u00cdndice de precios impl\\u00edcitos de suministro de electricidad gas y agua\", \"id\": \"23.2_SEGA_2004_T_32\", \"scrapingIdentifierCell\": \"F39\", \"scrapingDataStartCell\": \"F40\", \"units\": \"\\u00cdndice 2004=100\", \"dataset_identifier\": \"23\", \"distribution_identifier\": \"23.2\"}, {\"title\": \"construccion\", \"type\": \"number\", \"description\": \"\\u00cdndice de precios impl\\u00edcitos de construcci\\u00f3n\", \"id\": \"23.2_C_2004_T_12\", \"scrapingIdentifierCell\": \"G39\", \"scrapingDataStartCell\": \"G40\", \"units\": \"\\u00cdndice 2004=100\", \"dataset_identifier\": \"23\", \"distribution_identifier\": \"23.2\"}, {\"title\": \"sectores_productores_bienes\", \"type\": \"number\", \"description\": \"\\u00cdndice de precios impl\\u00edcitos de sectores productores de bienes\", \"id\": \"23.2_SPB_2004_T_27\", \"scrapingIdentifierCell\": \"H39\", \"scrapingDataStartCell\": \"H40\", \"units\": \"\\u00cdndice 2004=100\", \"dataset_identifier\": \"23\", \"distribution_identifier\": \"23.2\"}, {\"title\": \"comercio_mayorista_minorista_reparaciones\", \"type\": \"number\", \"description\": \"\\u00cdndice de precios impl\\u00edcitos de comercio mayorista y minorista y reparaciones\", \"id\": \"23.2_CMMR_2004_T_41\", \"scrapingIdentifierCell\": \"I39\", \"scrapingDataStartCell\": \"I40\", \"units\": \"\\u00cdndice 2004=100\", \"dataset_identifier\": \"23\", \"distribution_identifier\": \"23.2\"}, {\"title\": \"hoteles_restaurantes\", \"type\": \"number\", \"description\": \"\\u00cdndice de precios impl\\u00edcitos de hoteles y restaurantes\", \"id\": \"23.2_HR_2004_T_20\", \"scrapingIdentifierCell\": \"J39\", \"scrapingDataStartCell\": \"J40\", \"units\": \"\\u00cdndice 2004=100\", \"dataset_identifier\": \"23\", \"distribution_identifier\": \"23.2\"}, {\"title\": \"transporte_almacenamiento_comunicaciones\", \"type\": \"number\", \"description\": \"\\u00cdndice de precios impl\\u00edcitos de transporte almacenamiento y comunicaciones\", \"id\": \"23.2_TAC_2004_T_40\", \"scrapingIdentifierCell\": \"K39\", \"scrapingDataStartCell\": \"K40\", \"units\": \"\\u00cdndice 2004=100\", \"dataset_identifier\": \"23\", \"distribution_identifier\": \"23.2\"}, {\"title\": \"intermediacion_financiera\", \"type\": \"number\", \"description\": \"\\u00cdndice de precios impl\\u00edcitos de intermediaci\\u00f3n financiera\", \"id\": \"23.2_IF_2004_T_25\", \"scrapingIdentifierCell\": \"L39\", \"scrapingDataStartCell\": \"L40\", \"units\": \"\\u00cdndice 2004=100\", \"dataset_identifier\": \"23\", \"distribution_identifier\": \"23.2\"}, {\"title\": \"actividades_inmobiliarias_empresariales_alquiler\", \"type\": \"number\", \"description\": \"\\u00cdndice de precios impl\\u00edcitos de actividades inmobiliarias empresariales y de alquiler\", \"id\": \"23.2_AIEA_2004_T_48\", \"scrapingIdentifierCell\": \"M39\", \"scrapingDataStartCell\": \"M40\", \"units\": \"\\u00cdndice 2004=100\", \"dataset_identifier\": \"23\", \"distribution_identifier\": \"23.2\"}, {\"title\": \"admin_publica_planes_seguridad_social_afiliacion_obligatoria\", \"type\": \"number\", \"description\": \"\\u00cdndice de precios impl\\u00edcitos de administraci\\u00f3n p\\u00fablica y defensa planes de seguridad social de afiliaci\\u00f3n obligatoria\", \"id\": \"23.2_APDPSSAO_2004_T_60\", \"scrapingIdentifierCell\": \"N39\", \"scrapingDataStartCell\": \"N40\", \"units\": \"\\u00cdndice 2004=100\", \"dataset_identifier\": \"23\", \"distribution_identifier\": \"23.2\"}, {\"title\": \"ensenianza\", \"type\": \"number\", \"description\": \"\\u00cdndice de precios impl\\u00edcitos de ense\\u00f1anza\", \"id\": \"23.2_E_2004_T_10\", \"scrapingIdentifierCell\": \"O39\", \"scrapingDataStartCell\": \"O40\", \"units\": \"\\u00cdndice 2004=100\", \"dataset_identifier\": \"23\", \"distribution_identifier\": \"23.2\"}, {\"title\": \"servicios_sociales_salud\", \"type\": \"number\", \"description\": \"\\u00cdndice de precios impl\\u00edcitos de servicios sociales y de salud\", \"id\": \"23.2_SSS_2004_T_24\", \"scrapingIdentifierCell\": \"P39\", \"scrapingDataStartCell\": \"P40\", \"units\": \"\\u00cdndice 2004=100\", \"dataset_identifier\": \"23\", \"distribution_identifier\": \"23.2\"}, {\"title\": \"otras_actividades_servicios_comunitarias_sociales_personales\", \"type\": \"number\", \"description\": \"\\u00cdndice de precios impl\\u00edcitos de otras actividades de servicios comunitarias sociales personales\", \"id\": \"23.2_OASCSP_2004_T_60\", \"scrapingIdentifierCell\": \"Q39\", \"scrapingDataStartCell\": \"Q40\", \"units\": \"\\u00cdndice 2004=100\", \"dataset_identifier\": \"23\", \"distribution_identifier\": \"23.2\"}, {\"title\": \"hogares_privs_servicio_domestico\", \"type\": \"number\", \"description\": \"\\u00cdndice de precios impl\\u00edcitos de hogares privados con servicio dom\\u00e9stico\", \"id\": \"23.2_HPSD_2004_T_32\", \"scrapingIdentifierCell\": \"R39\", \"scrapingDataStartCell\": \"R40\", \"units\": \"\\u00cdndice 2004=100\", \"dataset_identifier\": \"23\", \"distribution_identifier\": \"23.2\"}, {\"title\": \"sectores_productores_servicios\", \"type\": \"number\", \"description\": \"\\u00cdndice de precios impl\\u00edcitos de sectores productores de servicios\", \"id\": \"23.2_SPS_2004_T_30\", \"scrapingIdentifierCell\": \"S39\", \"scrapingDataStartCell\": \"S40\", \"units\": \"\\u00cdndice 2004=100\", \"dataset_identifier\": \"23\", \"distribution_identifier\": \"23.2\"}, {\"title\": \"valor_agregado_bruto_precios_basicos\", \"type\": \"number\", \"description\": \"\\u00cdndice de precios impl\\u00edcitos de valor agregado bruto a precios b\\u00e1sicos\", \"id\": \"23.2_VABPB_2004_T_36\", \"scrapingIdentifierCell\": \"T39\", \"scrapingDataStartCell\": \"T40\", \"units\": \"\\u00cdndice 2004=100\", \"dataset_identifier\": \"23\", \"distribution_identifier\": \"23.2\"}, {\"title\": \"impuesto_valor_agregado\", \"type\": \"number\", \"description\": \"\\u00cdndice de precios impl\\u00edcitos de impuesto al valor agregado\", \"id\": \"23.2_IVA_2004_T_23\", \"scrapingIdentifierCell\": \"U39\", \"scrapingDataStartCell\": \"U40\", \"units\": \"\\u00cdndice 2004=100\", \"dataset_identifier\": \"23\", \"distribution_identifier\": \"23.2\"}, {\"title\": \"derechos_importacion\", \"type\": \"number\", \"description\": \"\\u00cdndice de precios impl\\u00edcitos de derechos de importaci\\u00f3n\", \"id\": \"23.2_DI_2004_T_20\", \"scrapingIdentifierCell\": \"V39\", \"scrapingDataStartCell\": \"V40\", \"units\": \"\\u00cdndice 2004=100\", \"dataset_identifier\": \"23\", \"distribution_identifier\": \"23.2\"}, {\"title\": \"impuestos_productos_netos_subsidios\", \"type\": \"number\", \"description\": \"\\u00cdndice de precios impl\\u00edcitos de impuestos a los productos netos de subsidios\", \"id\": \"23.2_IPNS_2004_T_35\", \"scrapingIdentifierCell\": \"W39\", \"scrapingDataStartCell\": \"W40\", \"units\": \"\\u00cdndice 2004=100\", \"dataset_identifier\": \"23\", \"distribution_identifier\": \"23.2\"}, {\"title\": \"producto_interno_bruto_precios_mercado\", \"type\": \"number\", \"description\": \"\\u00cdndice de precios impl\\u00edcitos de producto interno bruto a precios de mercado\", \"id\": \"23.2_PIBPM_2004_T_38\", \"scrapingIdentifierCell\": \"X39\", \"scrapingDataStartCell\": \"X40\", \"units\": \"\\u00cdndice 2004=100\", \"dataset_identifier\": \"23\", \"distribution_identifier\": \"23.2\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-09-28T00:00:00",
+      "datastore_active": false,
+      "description": "Índice de precios implícitos trimestral del Valor Agregado Bruto (Base 2004)",
+      "fileName": "indice-precios-implicitos-valor-agregado-bruto-valores-trimestrales-base-2004.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "sspm_23.2",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Índice de precios implícitos del Valor Agregado Bruto. Base 2004. Valores trimestrales",
+      "package_id": "sspm_23",
+      "position": 1,
+      "resource_type": null,
+      "revision_id": "0c68ecdb-d43b-4c13-9936-285eb5f459e8",
+      "size": null,
+      "state": "active",
+      "url": "https://infra.datos.gob.ar/catalog/sspm/dataset/23/distribution/23.2/download/indice-precios-implicitos-valor-agregado-bruto-valores-trimestrales-base-2004.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "0c68ecdb-d43b-4c13-9936-285eb5f459e8",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "Actividad",
+      "id": "a7695c51-c893-4ece-8ff9-306c197afdd7",
+      "name": "Actividad",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Información Económica al Día",
+      "id": "0d300a9a-0802-46c3-9a40-2f28ddf050ec",
+      "name": "Información Económica al Día",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Precios",
+      "id": "308c2aaf-f177-4728-bda5-fd41662741a2",
+      "name": "Precios",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Índice de precios implícitos del Valor Agregado Bruto. Base 2004",
+  "type": "dataset",
+  "url": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/",
+  "version": null
+}

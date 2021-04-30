@@ -1,0 +1,156 @@
+{
+  "author": "Subsecretaría de Programación Macroeconómica",
+  "author_email": "datoseconomicos@mecon.gov.ar",
+  "creator_user_id": "4720e75a-9e17-4dc3-879d-041917c7f9f9",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P3M"
+    },
+    {
+      "key": "issued",
+      "value": "2017-09-28"
+    },
+    {
+      "key": "language",
+      "value": "[\"SPA\"]"
+    },
+    {
+      "key": "source",
+      "value": "Instituto Nacional de Estadística y Censos (INDEC)"
+    },
+    {
+      "key": "spatial",
+      "value": "ARG"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"ECON\"]"
+    },
+    {
+      "key": "temporal",
+      "value": "1993-01-01/2013-09-30"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Economía y finanzas",
+      "display_name": "Economía y finanzas",
+      "id": "60b4b03e-10a1-4d67-b984-08008a249617",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225257.200233economia-finanzas.svg",
+      "name": "econ",
+      "title": "Economía y finanzas"
+    }
+  ],
+  "id": "sspm_22",
+  "isopen": true,
+  "license_id": "CC-BY-4.0",
+  "license_title": "Creative Commons Attribution 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "maintainer": "Subsecretaría de Programación Macroeconómica.",
+  "maintainer_email": "datoseconomicos@mecon.gov.ar",
+  "metadata_created": "2019-11-26T15:03:59.465533",
+  "metadata_modified": "2021-04-29T21:05:24.250440",
+  "name": "sspm-indice-precios-implicitos-valor-agregado-bruto-base-1993",
+  "notes": "Índice de precios implicitos del valor agregado en pesos constantes de 1993",
+  "num_resources": 2,
+  "num_tags": 3,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:09.718132",
+    "description": "",
+    "id": "68f9ee22-5ec3-44cf-a32b-b87d9db46b93",
+    "image_url": "",
+    "is_organization": true,
+    "name": "sspm",
+    "revision_id": "bc058ce0-3540-4204-96cd-9f9ec79045b3",
+    "state": "active",
+    "title": "Subsecretaría de Programación Macroeconómica",
+    "type": "organization"
+  },
+  "owner_org": "68f9ee22-5ec3-44cf-a32b-b87d9db46b93",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/",
+      "attributesDescription": "[{\"title\": \"indice_tiempo\", \"type\": \"date\", \"specialType\": \"time_index\", \"specialTypeDetail\": \"R/P1Y\", \"id\": \"22.1_IT_1993_A_13\", \"scrapingIdentifierCell\": \"A7\", \"scrapingDataStartCell\": \"A8\", \"dataset_identifier\": \"22\", \"distribution_identifier\": \"22.1\"}, {\"title\": \"agricultura_ganaderia_caza_silvicultura\", \"type\": \"number\", \"description\": \"\\u00cdndice de precios impl\\u00edcitos a precios de productor, de agricultura ganaderia caza y silvicultura\", \"id\": \"22.1_AGCS_1993_A_39\", \"scrapingIdentifierCell\": \"B7\", \"scrapingDataStartCell\": \"B8\", \"units\": \"\\u00cdndice 1993=100\", \"dataset_identifier\": \"22\", \"distribution_identifier\": \"22.1\"}, {\"title\": \"pesca\", \"type\": \"number\", \"description\": \"\\u00cdndice de precios impl\\u00edcitos a precios de productor, de pesca\", \"id\": \"22.1_P_1993_A_5\", \"scrapingIdentifierCell\": \"C7\", \"scrapingDataStartCell\": \"C8\", \"units\": \"\\u00cdndice 1993=100\", \"dataset_identifier\": \"22\", \"distribution_identifier\": \"22.1\"}, {\"title\": \"explotacion_minas_canteras\", \"type\": \"number\", \"description\": \"\\u00cdndice de precios impl\\u00edcitos a precios de productor, de explotacion de minas y canteras\", \"id\": \"22.1_EMC_1993_A_26\", \"scrapingIdentifierCell\": \"D7\", \"scrapingDataStartCell\": \"D8\", \"units\": \"\\u00cdndice 1993=100\", \"dataset_identifier\": \"22\", \"distribution_identifier\": \"22.1\"}, {\"title\": \"industria_manufacturera\", \"type\": \"number\", \"description\": \"\\u00cdndice de precios impl\\u00edcitos a precios de productor, de industria manufacturera\", \"id\": \"22.1_IM_1993_A_23\", \"scrapingIdentifierCell\": \"E7\", \"scrapingDataStartCell\": \"E8\", \"units\": \"\\u00cdndice 1993=100\", \"dataset_identifier\": \"22\", \"distribution_identifier\": \"22.1\"}, {\"title\": \"suministro_electricidad_gas_agua\", \"type\": \"number\", \"description\": \"\\u00cdndice de precios impl\\u00edcitos a precios de productor, de suministro de electricidad gas y agua\", \"id\": \"22.1_SEGA_1993_A_32\", \"scrapingIdentifierCell\": \"F7\", \"scrapingDataStartCell\": \"F8\", \"units\": \"\\u00cdndice 1993=100\", \"dataset_identifier\": \"22\", \"distribution_identifier\": \"22.1\"}, {\"title\": \"construccion\", \"type\": \"number\", \"description\": \"\\u00cdndice de precios impl\\u00edcitos a precios de productor, de construccion\", \"id\": \"22.1_C_1993_A_12\", \"scrapingIdentifierCell\": \"G7\", \"scrapingDataStartCell\": \"G8\", \"units\": \"\\u00cdndice 1993=100\", \"dataset_identifier\": \"22\", \"distribution_identifier\": \"22.1\"}, {\"title\": \"sectores_productores_bienes\", \"type\": \"number\", \"description\": \"\\u00cdndice de precios impl\\u00edcitos a precios de productor, de sectores productores de bienes\", \"id\": \"22.1_SPB_1993_A_27\", \"scrapingIdentifierCell\": \"H7\", \"scrapingDataStartCell\": \"H8\", \"units\": \"\\u00cdndice 1993=100\", \"dataset_identifier\": \"22\", \"distribution_identifier\": \"22.1\"}, {\"title\": \"comercio_mayorista_minorista_reparaciones\", \"type\": \"number\", \"description\": \"\\u00cdndice de precios impl\\u00edcitos a precios de productor, de comercio mayorista y minorista y reparaciones\", \"id\": \"22.1_CMMR_1993_A_41\", \"scrapingIdentifierCell\": \"I7\", \"scrapingDataStartCell\": \"I8\", \"units\": \"\\u00cdndice 1993=100\", \"dataset_identifier\": \"22\", \"distribution_identifier\": \"22.1\"}, {\"title\": \"hoteles_restaurantes\", \"type\": \"number\", \"description\": \"\\u00cdndice de precios impl\\u00edcitos a precios de productor, de hoteles y restaurantes\", \"id\": \"22.1_HR_1993_A_20\", \"scrapingIdentifierCell\": \"J7\", \"scrapingDataStartCell\": \"J8\", \"units\": \"\\u00cdndice 1993=100\", \"dataset_identifier\": \"22\", \"distribution_identifier\": \"22.1\"}, {\"title\": \"transporte_almacenamiento_comunicaciones\", \"type\": \"number\", \"description\": \"\\u00cdndice de precios impl\\u00edcitos a precios de productor, de transporte almacenamiento y comunicaciones\", \"id\": \"22.1_TAC_1993_A_40\", \"scrapingIdentifierCell\": \"K7\", \"scrapingDataStartCell\": \"K8\", \"units\": \"\\u00cdndice 1993=100\", \"dataset_identifier\": \"22\", \"distribution_identifier\": \"22.1\"}, {\"title\": \"intermediacion_financiera\", \"type\": \"number\", \"description\": \"\\u00cdndice de precios impl\\u00edcitos a precios de productor, de intermediacion financiera\", \"id\": \"22.1_IF_1993_A_25\", \"scrapingIdentifierCell\": \"L7\", \"scrapingDataStartCell\": \"L8\", \"units\": \"\\u00cdndice 1993=100\", \"dataset_identifier\": \"22\", \"distribution_identifier\": \"22.1\"}, {\"title\": \"actividades_inmobiliarias_empresariales_alquiler\", \"type\": \"number\", \"description\": \"\\u00cdndice de precios impl\\u00edcitos a precios de productor, de actividades inmobiliarias empresariales y de alquiler\", \"id\": \"22.1_AIEA_1993_A_48\", \"scrapingIdentifierCell\": \"M7\", \"scrapingDataStartCell\": \"M8\", \"units\": \"\\u00cdndice 1993=100\", \"dataset_identifier\": \"22\", \"distribution_identifier\": \"22.1\"}, {\"title\": \"administracion_publica_defensa\", \"type\": \"number\", \"description\": \"\\u00cdndice de precios impl\\u00edcitos a precios de productor, de administracion publica y defensa\", \"id\": \"22.1_APD_1993_A_30\", \"scrapingIdentifierCell\": \"N7\", \"scrapingDataStartCell\": \"N8\", \"units\": \"\\u00cdndice 1993=100\", \"dataset_identifier\": \"22\", \"distribution_identifier\": \"22.1\"}, {\"title\": \"ensenianza_servicios_sociales_salud\", \"type\": \"number\", \"description\": \"\\u00cdndice de precios impl\\u00edcitos a precios de productor, de ense\\u00f1anza servicios sociales y de salud\", \"id\": \"22.1_ESSS_1993_A_35\", \"scrapingIdentifierCell\": \"O7\", \"scrapingDataStartCell\": \"O8\", \"units\": \"\\u00cdndice 1993=100\", \"dataset_identifier\": \"22\", \"distribution_identifier\": \"22.1\"}, {\"title\": \"otras_actividades_servicios_soc_personales_domestico\", \"type\": \"number\", \"description\": \"\\u00cdndice de precios impl\\u00edcitos a precios de productor, de otras actividades de servicios comunitarias sociales personales y servicio domestico\", \"id\": \"22.1_OASCSPSD_1993_A_52\", \"scrapingIdentifierCell\": \"P7\", \"scrapingDataStartCell\": \"P8\", \"units\": \"\\u00cdndice 1993=100\", \"dataset_identifier\": \"22\", \"distribution_identifier\": \"22.1\"}, {\"title\": \"sectores_productores_servicios\", \"type\": \"number\", \"description\": \"\\u00cdndice de precios impl\\u00edcitos a precios de productor, de sectores productores de servicios\", \"id\": \"22.1_SPS_1993_A_30\", \"scrapingIdentifierCell\": \"Q7\", \"scrapingDataStartCell\": \"Q8\", \"units\": \"\\u00cdndice 1993=100\", \"dataset_identifier\": \"22\", \"distribution_identifier\": \"22.1\"}, {\"title\": \"servicios_intermediacion_financiera_medidos_indirectamente\", \"type\": \"number\", \"description\": \"\\u00cdndice de precios impl\\u00edcitos a precios de productor, de servicios de intermediacion financiera medidos indirectamente\", \"id\": \"22.1_SIFMI_1993_A_58\", \"scrapingIdentifierCell\": \"R7\", \"scrapingDataStartCell\": \"R8\", \"units\": \"\\u00cdndice 1993=100\", \"dataset_identifier\": \"22\", \"distribution_identifier\": \"22.1\"}, {\"title\": \"valor_agregado_bruto_precios_productor\", \"type\": \"number\", \"description\": \"\\u00cdndice de precios impl\\u00edcitos a precios de productor, de valor agregado bruto a precios de productor\", \"id\": \"22.1_VABPP_1993_A_38\", \"scrapingIdentifierCell\": \"S7\", \"scrapingDataStartCell\": \"S8\", \"units\": \"\\u00cdndice 1993=100\", \"dataset_identifier\": \"22\", \"distribution_identifier\": \"22.1\"}, {\"title\": \"impuesto_valor_agregado\", \"type\": \"number\", \"description\": \"\\u00cdndice de precios impl\\u00edcitos a precios de productor, de impuesto al valor agregado\", \"id\": \"22.1_IVA_1993_A_23\", \"scrapingIdentifierCell\": \"T7\", \"scrapingDataStartCell\": \"T8\", \"units\": \"\\u00cdndice 1993=100\", \"dataset_identifier\": \"22\", \"distribution_identifier\": \"22.1\"}, {\"title\": \"impuesto_importaciones\", \"type\": \"number\", \"description\": \"\\u00cdndice de precios impl\\u00edcitos a precios de productor, de impuesto a las importaciones\", \"id\": \"22.1_II_1993_A_22\", \"scrapingIdentifierCell\": \"U7\", \"scrapingDataStartCell\": \"U8\", \"units\": \"\\u00cdndice 1993=100\", \"dataset_identifier\": \"22\", \"distribution_identifier\": \"22.1\"}, {\"title\": \"producto_interno_bruto_precios_mercado\", \"type\": \"number\", \"description\": \"\\u00cdndice de precios impl\\u00edcitos del producto interno bruto a precios de mercado\", \"id\": \"22.1_PIBPM_1993_A_38\", \"scrapingIdentifierCell\": \"V7\", \"scrapingDataStartCell\": \"V8\", \"units\": \"\\u00cdndice 1993=100\", \"dataset_identifier\": \"22\", \"distribution_identifier\": \"22.1\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-09-28T00:00:00",
+      "datastore_active": false,
+      "description": "Índice de precios implícitos anual del Valor Agregado Bruto (Base 1993)",
+      "fileName": "indice-precios-implicitos-valor-agregado-bruto-valores-anuales-base-1993.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "sspm_22.1",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Índice de precios implícitos del Valor Agregado Bruto. Base 1993. Valores anuales",
+      "package_id": "sspm_22",
+      "position": 0,
+      "resource_type": null,
+      "revision_id": "b760ef24-2360-4003-bd8b-8461a4fd36b9",
+      "size": null,
+      "state": "active",
+      "url": "https://infra.datos.gob.ar/catalog/sspm/dataset/22/distribution/22.1/download/indice-precios-implicitos-valor-agregado-bruto-valores-anuales-base-1993.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/",
+      "attributesDescription": "[{\"title\": \"indice_tiempo\", \"type\": \"date\", \"specialType\": \"time_index\", \"specialTypeDetail\": \"R/P3M\", \"id\": \"22.2_IT_1993_T_13\", \"scrapingIdentifierCell\": \"A39\", \"scrapingDataStartCell\": \"A40\", \"dataset_identifier\": \"22\", \"distribution_identifier\": \"22.2\"}, {\"title\": \"agricultura_ganaderia_caza_silvicultura\", \"type\": \"number\", \"description\": \"\\u00cdndice de precios impl\\u00edcitos a precios de productor, de agricultura ganaderia caza y silvicultura\", \"id\": \"22.2_AGCS_1993_T_39\", \"scrapingIdentifierCell\": \"B39\", \"scrapingDataStartCell\": \"B40\", \"units\": \"\\u00cdndice 1993=100\", \"dataset_identifier\": \"22\", \"distribution_identifier\": \"22.2\"}, {\"title\": \"pesca\", \"type\": \"number\", \"description\": \"\\u00cdndice de precios impl\\u00edcitos a precios de productor, de pesca\", \"id\": \"22.2_P_1993_T_5\", \"scrapingIdentifierCell\": \"C39\", \"scrapingDataStartCell\": \"C40\", \"units\": \"\\u00cdndice 1993=100\", \"dataset_identifier\": \"22\", \"distribution_identifier\": \"22.2\"}, {\"title\": \"explotacion_minas_canteras\", \"type\": \"number\", \"description\": \"\\u00cdndice de precios impl\\u00edcitos a precios de productor, de explotacion de minas y canteras\", \"id\": \"22.2_EMC_1993_T_26\", \"scrapingIdentifierCell\": \"D39\", \"scrapingDataStartCell\": \"D40\", \"units\": \"\\u00cdndice 1993=100\", \"dataset_identifier\": \"22\", \"distribution_identifier\": \"22.2\"}, {\"title\": \"industria_manufacturera\", \"type\": \"number\", \"description\": \"\\u00cdndice de precios impl\\u00edcitos a precios de productor, de industria manufacturera\", \"id\": \"22.2_IM_1993_T_23\", \"scrapingIdentifierCell\": \"E39\", \"scrapingDataStartCell\": \"E40\", \"units\": \"\\u00cdndice 1993=100\", \"dataset_identifier\": \"22\", \"distribution_identifier\": \"22.2\"}, {\"title\": \"suministro_electricidad_gas_agua\", \"type\": \"number\", \"description\": \"\\u00cdndice de precios impl\\u00edcitos a precios de productor, de suministro de electricidad gas y agua\", \"id\": \"22.2_SEGA_1993_T_32\", \"scrapingIdentifierCell\": \"F39\", \"scrapingDataStartCell\": \"F40\", \"units\": \"\\u00cdndice 1993=100\", \"dataset_identifier\": \"22\", \"distribution_identifier\": \"22.2\"}, {\"title\": \"construccion\", \"type\": \"number\", \"description\": \"\\u00cdndice de precios impl\\u00edcitos a precios de productor, de construccion\", \"id\": \"22.2_C_1993_T_12\", \"scrapingIdentifierCell\": \"G39\", \"scrapingDataStartCell\": \"G40\", \"units\": \"\\u00cdndice 1993=100\", \"dataset_identifier\": \"22\", \"distribution_identifier\": \"22.2\"}, {\"title\": \"sectores_productores_bienes\", \"type\": \"number\", \"description\": \"\\u00cdndice de precios impl\\u00edcitos a precios de productor, de sectores productores de bienes\", \"id\": \"22.2_SPB_1993_T_27\", \"scrapingIdentifierCell\": \"H39\", \"scrapingDataStartCell\": \"H40\", \"units\": \"\\u00cdndice 1993=100\", \"dataset_identifier\": \"22\", \"distribution_identifier\": \"22.2\"}, {\"title\": \"comercio_mayorista_minorista_reparaciones\", \"type\": \"number\", \"description\": \"\\u00cdndice de precios impl\\u00edcitos a precios de productor, de comercio mayorista y minorista y reparaciones\", \"id\": \"22.2_CMMR_1993_T_41\", \"scrapingIdentifierCell\": \"I39\", \"scrapingDataStartCell\": \"I40\", \"units\": \"\\u00cdndice 1993=100\", \"dataset_identifier\": \"22\", \"distribution_identifier\": \"22.2\"}, {\"title\": \"hoteles_restaurantes\", \"type\": \"number\", \"description\": \"\\u00cdndice de precios impl\\u00edcitos a precios de productor, de hoteles y restaurantes\", \"id\": \"22.2_HR_1993_T_20\", \"scrapingIdentifierCell\": \"J39\", \"scrapingDataStartCell\": \"J40\", \"units\": \"\\u00cdndice 1993=100\", \"dataset_identifier\": \"22\", \"distribution_identifier\": \"22.2\"}, {\"title\": \"transporte_almacenamiento_comunicaciones\", \"type\": \"number\", \"description\": \"\\u00cdndice de precios impl\\u00edcitos a precios de productor, de transporte almacenamiento y comunicaciones\", \"id\": \"22.2_TAC_1993_T_40\", \"scrapingIdentifierCell\": \"K39\", \"scrapingDataStartCell\": \"K40\", \"units\": \"\\u00cdndice 1993=100\", \"dataset_identifier\": \"22\", \"distribution_identifier\": \"22.2\"}, {\"title\": \"intermediacion_financiera\", \"type\": \"number\", \"description\": \"\\u00cdndice de precios impl\\u00edcitos a precios de productor, de intermediacion financiera\", \"id\": \"22.2_IF_1993_T_25\", \"scrapingIdentifierCell\": \"L39\", \"scrapingDataStartCell\": \"L40\", \"units\": \"\\u00cdndice 1993=100\", \"dataset_identifier\": \"22\", \"distribution_identifier\": \"22.2\"}, {\"title\": \"actividades_inmobiliarias_empresariales_alquiler\", \"type\": \"number\", \"description\": \"\\u00cdndice de precios impl\\u00edcitos a precios de productor, de actividades inmobiliarias empresariales y de alquiler\", \"id\": \"22.2_AIEA_1993_T_48\", \"scrapingIdentifierCell\": \"M39\", \"scrapingDataStartCell\": \"M40\", \"units\": \"\\u00cdndice 1993=100\", \"dataset_identifier\": \"22\", \"distribution_identifier\": \"22.2\"}, {\"title\": \"administracion_publica_defensa\", \"type\": \"number\", \"description\": \"\\u00cdndice de precios impl\\u00edcitos a precios de productor, de administracion publica y defensa\", \"id\": \"22.2_APD_1993_T_30\", \"scrapingIdentifierCell\": \"N39\", \"scrapingDataStartCell\": \"N40\", \"units\": \"\\u00cdndice 1993=100\", \"dataset_identifier\": \"22\", \"distribution_identifier\": \"22.2\"}, {\"title\": \"ensenianza_servicios_sociales_salud\", \"type\": \"number\", \"description\": \"\\u00cdndice de precios impl\\u00edcitos a precios de productor, de ense\\u00f1anza servicios sociales y de salud\", \"id\": \"22.2_ESSS_1993_T_35\", \"scrapingIdentifierCell\": \"O39\", \"scrapingDataStartCell\": \"O40\", \"units\": \"\\u00cdndice 1993=100\", \"dataset_identifier\": \"22\", \"distribution_identifier\": \"22.2\"}, {\"title\": \"otras_actividades_servicios_soc_personales_domestico\", \"type\": \"number\", \"description\": \"\\u00cdndice de precios impl\\u00edcitos a precios de productor, de otras actividades de servicios comunitarias sociales personales y servicio domestico\", \"id\": \"22.2_OASCSPSD_1993_T_52\", \"scrapingIdentifierCell\": \"P39\", \"scrapingDataStartCell\": \"P40\", \"units\": \"\\u00cdndice 1993=100\", \"dataset_identifier\": \"22\", \"distribution_identifier\": \"22.2\"}, {\"title\": \"sectores_productores_servicios\", \"type\": \"number\", \"description\": \"\\u00cdndice de precios impl\\u00edcitos a precios de productor, de sectores productores de servicios\", \"id\": \"22.2_SPS_1993_T_30\", \"scrapingIdentifierCell\": \"Q39\", \"scrapingDataStartCell\": \"Q40\", \"units\": \"\\u00cdndice 1993=100\", \"dataset_identifier\": \"22\", \"distribution_identifier\": \"22.2\"}, {\"title\": \"servicios_intermediacion_financiera_medidos_indirectamente\", \"type\": \"number\", \"description\": \"\\u00cdndice de precios impl\\u00edcitos a precios de productor, de servicios de intermediacion financiera medidos indirectamente\", \"id\": \"22.2_SIFMI_1993_T_58\", \"scrapingIdentifierCell\": \"R39\", \"scrapingDataStartCell\": \"R40\", \"units\": \"\\u00cdndice 1993=100\", \"dataset_identifier\": \"22\", \"distribution_identifier\": \"22.2\"}, {\"title\": \"valor_agregado_bruto_precios_productor\", \"type\": \"number\", \"description\": \"\\u00cdndice de precios impl\\u00edcitos a precios de productor, de valor agregado bruto a precios de productor\", \"id\": \"22.2_VABPP_1993_T_38\", \"scrapingIdentifierCell\": \"S39\", \"scrapingDataStartCell\": \"S40\", \"units\": \"\\u00cdndice 1993=100\", \"dataset_identifier\": \"22\", \"distribution_identifier\": \"22.2\"}, {\"title\": \"impuesto_valor_agregado\", \"type\": \"number\", \"description\": \"\\u00cdndice de precios impl\\u00edcitos a precios de productor, de impuesto al valor agregado\", \"id\": \"22.2_IVA_1993_T_23\", \"scrapingIdentifierCell\": \"T39\", \"scrapingDataStartCell\": \"T40\", \"units\": \"\\u00cdndice 1993=100\", \"dataset_identifier\": \"22\", \"distribution_identifier\": \"22.2\"}, {\"title\": \"impuesto_importaciones\", \"type\": \"number\", \"description\": \"\\u00cdndice de precios impl\\u00edcitos a precios de productor, de impuesto a las importaciones\", \"id\": \"22.2_II_1993_T_22\", \"scrapingIdentifierCell\": \"U39\", \"scrapingDataStartCell\": \"U40\", \"units\": \"\\u00cdndice 1993=100\", \"dataset_identifier\": \"22\", \"distribution_identifier\": \"22.2\"}, {\"title\": \"producto_interno_bruto_precios_mercado\", \"type\": \"number\", \"description\": \"\\u00cdndice de precios impl\\u00edcitos del producto interno bruto a precios de mercado\", \"id\": \"22.2_PIBPM_1993_T_38\", \"scrapingIdentifierCell\": \"V39\", \"scrapingDataStartCell\": \"V40\", \"units\": \"\\u00cdndice 1993=100\", \"dataset_identifier\": \"22\", \"distribution_identifier\": \"22.2\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-09-28T00:00:00",
+      "datastore_active": false,
+      "description": "Índice de precios implícitos trimestral del Valor Agregado Bruto (Base 1993)",
+      "fileName": "indice-precios-implicitos-valor-agregado-bruto-valores-trimestrales-base-1993.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "sspm_22.2",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Índice de precios implícitos del Valor Agregado Bruto. Base 1993. Valores trimestrales",
+      "package_id": "sspm_22",
+      "position": 1,
+      "resource_type": null,
+      "revision_id": "b760ef24-2360-4003-bd8b-8461a4fd36b9",
+      "size": null,
+      "state": "active",
+      "url": "https://infra.datos.gob.ar/catalog/sspm/dataset/22/distribution/22.2/download/indice-precios-implicitos-valor-agregado-bruto-valores-trimestrales-base-1993.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "b760ef24-2360-4003-bd8b-8461a4fd36b9",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "Actividad",
+      "id": "a7695c51-c893-4ece-8ff9-306c197afdd7",
+      "name": "Actividad",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Información Económica al Día",
+      "id": "0d300a9a-0802-46c3-9a40-2f28ddf050ec",
+      "name": "Información Económica al Día",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Precios",
+      "id": "308c2aaf-f177-4728-bda5-fd41662741a2",
+      "name": "Precios",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Índice de precios implícitos del Valor Agregado Bruto. Base 1993",
+  "type": "dataset",
+  "url": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/",
+  "version": null
+}

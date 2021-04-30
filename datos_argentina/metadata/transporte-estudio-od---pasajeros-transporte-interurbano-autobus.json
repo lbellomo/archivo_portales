@@ -1,0 +1,193 @@
+{
+  "author": "Dirección Nacional de Planificación de Transporte Interurbano de Pasajeros",
+  "author_email": "dotes@transporte.gob.ar",
+  "creator_user_id": "dc157489-51c6-44ce-bd63-3bd983d60778",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "eventual"
+    },
+    {
+      "key": "issued",
+      "value": "2018-08-15T20:09:44.399560"
+    },
+    {
+      "key": "modified",
+      "value": "2018-08-17T17:43:19.916053"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"TRAN\"]"
+    },
+    {
+      "key": "temporal",
+      "value": "2014-01-01T03:00:00.000Z/2017-12-31T03:00:00.000Z"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Transporte",
+      "display_name": "Transporte",
+      "id": "57227cfc-80a6-45d3-9faa-711a98ac8ede",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225933.272993transporte.svg",
+      "name": "tran",
+      "title": "Transporte"
+    }
+  ],
+  "id": "transporte_256c01e5-6208-45e8-87d3-0faca88aa8e4",
+  "isopen": false,
+  "license_id": "notspecified",
+  "license_title": "No se especificó la licencia",
+  "maintainer": "Dirección Nacional de Planificación de Transporte Interurbano de Pasajeros",
+  "maintainer_email": "observatorio@transporte.gob.ar",
+  "metadata_created": "2021-01-28T14:47:24.415103",
+  "metadata_modified": "2021-04-29T21:11:08.444564",
+  "name": "transporte-estudio-od---pasajeros-transporte-interurbano-autobus",
+  "notes": "Estudio por pares Origen - Destino (OD) de servicios de transporte interurbano de pasajeros en autobus",
+  "num_resources": 4,
+  "num_tags": 3,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:11.506514",
+    "description": "",
+    "id": "71418928-10c4-4625-aeaf-69a4d73d00ed",
+    "image_url": "",
+    "is_organization": true,
+    "name": "transporte",
+    "revision_id": "dc7b93ef-b174-46ee-90ea-63edf51296f0",
+    "state": "active",
+    "title": " Ministerio de Transporte",
+    "type": "organization"
+  },
+  "owner_org": "71418928-10c4-4625-aeaf-69a4d73d00ed",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "https://datos.transporte.gob.ar/dataset/256c01e5-6208-45e8-87d3-0faca88aa8e4/resource/ffff0008-8dc5-4857-8e3e-e3b98c4762cb",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2018-08-17T17:34:29.599097",
+      "datastore_active": false,
+      "description": "Estudio Matriz Origen-Destino de Transporte Interurbano de Pasajeros 2014",
+      "fileName": "matriz-tip-od-pax-2014.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "transporte_ffff0008-8dc5-4857-8e3e-e3b98c4762cb",
+      "last_modified": "2018-08-17T17:34:29.567772",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Matriz OD TIP 2014",
+      "package_id": "transporte_256c01e5-6208-45e8-87d3-0faca88aa8e4",
+      "position": 0,
+      "resource_type": null,
+      "revision_id": "44f63a20-4af9-41d8-b599-ffb07271acb8",
+      "size": null,
+      "state": "active",
+      "url": "https://datos.transporte.gob.ar/dataset/256c01e5-6208-45e8-87d3-0faca88aa8e4/resource/ffff0008-8dc5-4857-8e3e-e3b98c4762cb/download/matriz-tip-od-pax-2014.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://datos.transporte.gob.ar/dataset/256c01e5-6208-45e8-87d3-0faca88aa8e4/resource/dca661b5-8c48-4ee1-9a49-f1224dc3e042",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2018-08-17T17:42:45.539812",
+      "datastore_active": false,
+      "description": "Estudio Matriz Origen-Destino de Transporte Interurbano de Pasajeros 2015 \r\n-- LOS DATOS DEL AÑO 2015 SE ENCUENTRAN EN REVISIÓN --",
+      "fileName": "matriz-tip-od-pax-2015enrev.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "transporte_dca661b5-8c48-4ee1-9a49-f1224dc3e042",
+      "last_modified": "2018-08-17T17:42:45.504712",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Matriz OD TIP 2015",
+      "package_id": "transporte_256c01e5-6208-45e8-87d3-0faca88aa8e4",
+      "position": 1,
+      "resource_type": null,
+      "revision_id": "44f63a20-4af9-41d8-b599-ffb07271acb8",
+      "size": null,
+      "state": "active",
+      "url": "https://datos.transporte.gob.ar/dataset/256c01e5-6208-45e8-87d3-0faca88aa8e4/resource/dca661b5-8c48-4ee1-9a49-f1224dc3e042/download/matriz-tip-od-pax-2015enrev.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://datos.transporte.gob.ar/dataset/256c01e5-6208-45e8-87d3-0faca88aa8e4/resource/225093c9-9fb5-4412-a3ae-cf64f02d901d",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2018-08-17T17:36:43.129382",
+      "datastore_active": false,
+      "description": "Estudio Matriz Origen-Destino de Transporte Interurbano de Pasajeros 2016",
+      "fileName": "matriz-tip-od-pax-2016.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "transporte_225093c9-9fb5-4412-a3ae-cf64f02d901d",
+      "last_modified": "2018-08-17T17:36:43.095385",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Matriz OD TIP 2016",
+      "package_id": "transporte_256c01e5-6208-45e8-87d3-0faca88aa8e4",
+      "position": 2,
+      "resource_type": null,
+      "revision_id": "44f63a20-4af9-41d8-b599-ffb07271acb8",
+      "size": null,
+      "state": "active",
+      "url": "https://datos.transporte.gob.ar/dataset/256c01e5-6208-45e8-87d3-0faca88aa8e4/resource/225093c9-9fb5-4412-a3ae-cf64f02d901d/download/matriz-tip-od-pax-2016.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://datos.transporte.gob.ar/dataset/256c01e5-6208-45e8-87d3-0faca88aa8e4/resource/b6c90274-8515-4ac4-92a2-dfc6ff5740a4",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2018-08-17T17:38:39.709540",
+      "datastore_active": false,
+      "description": "Estudio Matriz Origen-Destino de Transporte Interurbano de Pasajeros 2017",
+      "fileName": "matriz-tip-od-pax-2017.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "transporte_b6c90274-8515-4ac4-92a2-dfc6ff5740a4",
+      "last_modified": "2018-08-17T17:38:39.674041",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Matriz OD TIP 2017",
+      "package_id": "transporte_256c01e5-6208-45e8-87d3-0faca88aa8e4",
+      "position": 3,
+      "resource_type": null,
+      "revision_id": "44f63a20-4af9-41d8-b599-ffb07271acb8",
+      "size": null,
+      "state": "active",
+      "url": "https://datos.transporte.gob.ar/dataset/256c01e5-6208-45e8-87d3-0faca88aa8e4/resource/b6c90274-8515-4ac4-92a2-dfc6ff5740a4/download/matriz-tip-od-pax-2017.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "44f63a20-4af9-41d8-b599-ffb07271acb8",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "Autobus",
+      "id": "8aba69d5-f5d6-4993-9ad4-2718b4b32bad",
+      "name": "Autobus",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Interurbano",
+      "id": "5b385cde-2eb7-498b-b10f-2476464b86d9",
+      "name": "Interurbano",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Transporte Automotor",
+      "id": "faf48ddb-07da-41d1-a0c8-86d00b563968",
+      "name": "Transporte Automotor",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Estudio OD - Pasajeros Transporte Interurbano en Autobus",
+  "type": "dataset",
+  "url": "https://datos.transporte.gob.ar/dataset/estudio-od-pasajeros-transporte-interurbano-en-autobus",
+  "version": null
+}

@@ -1,0 +1,138 @@
+{
+  "author": "Subsecretaría de Programación Macroeconómica",
+  "author_email": "datoseconomicos@mecon.gov.ar",
+  "creator_user_id": "4720e75a-9e17-4dc3-879d-041917c7f9f9",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P1M"
+    },
+    {
+      "key": "issued",
+      "value": "2017-09-28"
+    },
+    {
+      "key": "language",
+      "value": "[\"SPA\"]"
+    },
+    {
+      "key": "source",
+      "value": "Bancos Centrales"
+    },
+    {
+      "key": "spatial",
+      "value": "ARG"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"ECON\"]"
+    },
+    {
+      "key": "temporal",
+      "value": "1911-01-01/2017-01-06"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Economía y finanzas",
+      "display_name": "Economía y finanzas",
+      "id": "60b4b03e-10a1-4d67-b984-08008a249617",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225257.200233economia-finanzas.svg",
+      "name": "econ",
+      "title": "Economía y finanzas"
+    }
+  ],
+  "id": "sspm_131",
+  "isopen": true,
+  "license_id": "CC-BY-4.0",
+  "license_title": "Creative Commons Attribution 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "maintainer": "Subsecretaría de Programación Macroeconómica.",
+  "maintainer_email": "datoseconomicos@mecon.gov.ar",
+  "metadata_created": "2019-11-26T15:04:14.425074",
+  "metadata_modified": "2021-04-29T21:04:42.553080",
+  "name": "sspm-principales-tasas-interes-referencia",
+  "notes": "Principales Tasas de Interés de Referencia de las principales economías del mundo. Frecuencia Mensual",
+  "num_resources": 1,
+  "num_tags": 4,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:09.718132",
+    "description": "",
+    "id": "68f9ee22-5ec3-44cf-a32b-b87d9db46b93",
+    "image_url": "",
+    "is_organization": true,
+    "name": "sspm",
+    "revision_id": "bc058ce0-3540-4204-96cd-9f9ec79045b3",
+    "state": "active",
+    "title": "Subsecretaría de Programación Macroeconómica",
+    "type": "organization"
+  },
+  "owner_org": "68f9ee22-5ec3-44cf-a32b-b87d9db46b93",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/",
+      "attributesDescription": "[{\"title\": \"indice_tiempo\", \"type\": \"date\", \"specialType\": \"time_index\", \"specialTypeDetail\": \"R/P1M\", \"id\": \"131.1_IT_0_0_13\", \"scrapingIdentifierCell\": \"A9\", \"scrapingDataStartCell\": \"A10\", \"dataset_identifier\": \"131\", \"distribution_identifier\": \"131.1\"}, {\"title\": \"mro_zonaeuro_tasa\", \"type\": \"number\", \"description\": \"MRO (Main Refinancing Operations) - Zona Euro - Tasa\", \"id\": \"131.1_MZT_0_0_18\", \"scrapingIdentifierCell\": \"B9\", \"scrapingDataStartCell\": \"B10\", \"units\": \"Porcentaje\", \"dataset_identifier\": \"131\", \"distribution_identifier\": \"131.1\"}, {\"title\": \"ff_eeuu_tasa\", \"type\": \"number\", \"description\": \"FF (Federal Funds) - EE.UU - Tasa\", \"id\": \"131.1_FET_0_0_12\", \"scrapingIdentifierCell\": \"C9\", \"scrapingDataStartCell\": \"C10\", \"units\": \"Porcentaje\", \"dataset_identifier\": \"131\", \"distribution_identifier\": \"131.1\"}, {\"title\": \"selic_brasil_tasa\", \"type\": \"number\", \"description\": \"Selic - Brasil - Tasa\", \"id\": \"131.1_SBT_0_0_17\", \"scrapingIdentifierCell\": \"D9\", \"scrapingDataStartCell\": \"D10\", \"units\": \"Porcentaje\", \"dataset_identifier\": \"131\", \"distribution_identifier\": \"131.1\"}, {\"title\": \"repo_inglaterra_tasa\", \"type\": \"number\", \"description\": \"Repo - Inglaterra - Tasa\", \"id\": \"131.1_RIT_0_0_20\", \"scrapingIdentifierCell\": \"E9\", \"scrapingDataStartCell\": \"E10\", \"units\": \"Porcentaje\", \"dataset_identifier\": \"131\", \"distribution_identifier\": \"131.1\"}, {\"title\": \"overnight_interest_rate_japon_tasa\", \"type\": \"number\", \"description\": \"Overnight Interest Rate - Jap\\u00f3n - Tasa\", \"id\": \"131.1_OIRJT_0_0_34\", \"scrapingIdentifierCell\": \"F9\", \"scrapingDataStartCell\": \"F10\", \"units\": \"Porcentaje\", \"dataset_identifier\": \"131\", \"distribution_identifier\": \"131.1\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-09-28T00:00:00",
+      "datastore_active": false,
+      "description": "Principales Tasas de Interés de Referencia de las principales economías del mundo: valores mensuales",
+      "fileName": "principales-tasas-interes-referencia-principales-economias-mundo-frecuencia-mensual.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "sspm_131.1",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Principales tasas de Interés de Referencia de las principales economías del mundo. Valores mensuales",
+      "package_id": "sspm_131",
+      "position": 0,
+      "resource_type": null,
+      "revision_id": "c71e94fb-39c7-41cb-a62e-1ef3f2384c5e",
+      "size": null,
+      "state": "active",
+      "url": "https://infra.datos.gob.ar/catalog/sspm/dataset/131/distribution/131.1/download/principales-tasas-interes-referencia-principales-economias-mundo-frecuencia-mensual.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "c71e94fb-39c7-41cb-a62e-1ef3f2384c5e",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "Dinero y Bancos",
+      "id": "a6e04960-0d58-4c4e-a59c-a2e2ef9ac579",
+      "name": "Dinero y Bancos",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Economía Internacional",
+      "id": "260fd24c-9abc-4b59-b810-6c7f9ccd538d",
+      "name": "Economía Internacional",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Información Económica al Día",
+      "id": "0d300a9a-0802-46c3-9a40-2f28ddf050ec",
+      "name": "Información Económica al Día",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Internacional",
+      "id": "380bd819-36c2-40ab-917e-a0ac0fb1e76f",
+      "name": "Internacional",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Principales Tasas de Interés de Referencia",
+  "type": "dataset",
+  "url": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/",
+  "version": null
+}

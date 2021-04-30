@@ -1,0 +1,124 @@
+{
+  "author": "Subsecretaría de Programación Macroeconómica",
+  "author_email": "datoseconomicos@mecon.gov.ar",
+  "creator_user_id": "4720e75a-9e17-4dc3-879d-041917c7f9f9",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P3M"
+    },
+    {
+      "key": "issued",
+      "value": "2017-09-28"
+    },
+    {
+      "key": "language",
+      "value": "[\"SPA\"]"
+    },
+    {
+      "key": "source",
+      "value": "Instituto Nacional de Estadística y Censos (INDEC)"
+    },
+    {
+      "key": "spatial",
+      "value": "ARG"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"ECON\"]"
+    },
+    {
+      "key": "temporal",
+      "value": "1996-01-01/2016-09-01"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Economía y finanzas",
+      "display_name": "Economía y finanzas",
+      "id": "60b4b03e-10a1-4d67-b984-08008a249617",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225257.200233economia-finanzas.svg",
+      "name": "econ",
+      "title": "Economía y finanzas"
+    }
+  ],
+  "id": "sspm_55",
+  "isopen": true,
+  "license_id": "CC-BY-4.0",
+  "license_title": "Creative Commons Attribution 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "maintainer": "Subsecretaría de Programación Macroeconómica.",
+  "maintainer_email": "datoseconomicos@mecon.gov.ar",
+  "metadata_created": "2019-11-26T15:05:01.780220",
+  "metadata_modified": "2021-04-29T21:05:25.272599",
+  "name": "sspm-variaciones-obreros-ocupados-horas-trabajadas-salario-por-obrero-industria",
+  "notes": "Variaciones de los índices de obreros ocupados, horas trabajadas y salario por obrero en la industria manufacturera",
+  "num_resources": 1,
+  "num_tags": 2,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:09.718132",
+    "description": "",
+    "id": "68f9ee22-5ec3-44cf-a32b-b87d9db46b93",
+    "image_url": "",
+    "is_organization": true,
+    "name": "sspm",
+    "revision_id": "bc058ce0-3540-4204-96cd-9f9ec79045b3",
+    "state": "active",
+    "title": "Subsecretaría de Programación Macroeconómica",
+    "type": "organization"
+  },
+  "owner_org": "68f9ee22-5ec3-44cf-a32b-b87d9db46b93",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/",
+      "attributesDescription": "[{\"title\": \"indice_tiempo\", \"type\": \"date\", \"specialType\": \"time_index\", \"specialTypeDetail\": \"R/P3M\", \"id\": \"55.1_IT_T_0_0_13\", \"scrapingIdentifierCell\": \"B12\", \"scrapingDataStartCell\": \"B13\", \"dataset_identifier\": \"55\", \"distribution_identifier\": \"55.1\"}, {\"title\": \"variaciones_trimestrales_obreros_ocupados\", \"type\": \"number\", \"description\": \"Variaciones trimestrales de obreros ocupados en la industria\", \"id\": \"55.1_VTOO_T_0_0_41\", \"scrapingIdentifierCell\": \"C12\", \"scrapingDataStartCell\": \"C13\", \"units\": \"Variaci\\u00f3n Porcentual\", \"dataset_identifier\": \"55\", \"distribution_identifier\": \"55.1\"}, {\"title\": \"variaciones_trimestrales_horas_trabajadas\", \"type\": \"number\", \"description\": \"Variaciones trimestrales de horas trabajadas en la industria\", \"id\": \"55.1_VTHT_T_0_0_41\", \"scrapingIdentifierCell\": \"D12\", \"scrapingDataStartCell\": \"D13\", \"units\": \"Variaci\\u00f3n Porcentual\", \"dataset_identifier\": \"55\", \"distribution_identifier\": \"55.1\"}, {\"title\": \"variaciones_trimestrales_salario_obrero\", \"type\": \"number\", \"description\": \"Variaciones trimestrales de salario por obrero ocupado en la industria\", \"id\": \"55.1_VTSO_T_0_0_39\", \"scrapingIdentifierCell\": \"E12\", \"scrapingDataStartCell\": \"E13\", \"units\": \"Variaci\\u00f3n Porcentual\", \"dataset_identifier\": \"55\", \"distribution_identifier\": \"55.1\"}, {\"title\": \"variaciones_anuales_obreros_ocupados\", \"type\": \"number\", \"description\": \"Variaciones anuales de obreros ocupados en la industria\", \"id\": \"55.1_VAOO_T_0_0_36\", \"scrapingIdentifierCell\": \"G12\", \"scrapingDataStartCell\": \"G13\", \"units\": \"Variaci\\u00f3n Porcentual\", \"dataset_identifier\": \"55\", \"distribution_identifier\": \"55.1\"}, {\"title\": \"variaciones_anuales_horas_trabajadas\", \"type\": \"number\", \"description\": \"Variaciones anuales de horas trabajadas en la industria\", \"id\": \"55.1_VAHT_T_0_0_36\", \"scrapingIdentifierCell\": \"H12\", \"scrapingDataStartCell\": \"H13\", \"units\": \"Variaci\\u00f3n Porcentual\", \"dataset_identifier\": \"55\", \"distribution_identifier\": \"55.1\"}, {\"title\": \"variaciones_anuales_salario_obrero\", \"type\": \"number\", \"description\": \"Variaciones anuales de salario por obrero ocupado en la industria\", \"id\": \"55.1_VASO_T_0_0_34\", \"scrapingIdentifierCell\": \"I12\", \"scrapingDataStartCell\": \"I13\", \"units\": \"Variaci\\u00f3n Porcentual\", \"dataset_identifier\": \"55\", \"distribution_identifier\": \"55.1\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-09-28T00:00:00",
+      "datastore_active": false,
+      "description": "Variaciones porcentuales de los obreros ocupados, horas trabajadas y salarios en la industria. Datos trimestrales",
+      "fileName": "evolucion-obreros-ocupados-horas-trabajadas-salarios-industria-datos-trimestrales.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "sspm_55.1",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Obreros ocupados, horas trabajadas y salarios en la industria. Valores trimestrales",
+      "package_id": "sspm_55",
+      "position": 0,
+      "resource_type": null,
+      "revision_id": "5f5111b5-9017-41a4-88fd-1c5b886f4073",
+      "size": null,
+      "state": "active",
+      "url": "https://infra.datos.gob.ar/catalog/sspm/dataset/55/distribution/55.1/download/evolucion-obreros-ocupados-horas-trabajadas-salarios-industria-datos-trimestrales.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "5f5111b5-9017-41a4-88fd-1c5b886f4073",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "Empleo e Ingresos",
+      "id": "0d41bcfd-c3a4-4ff7-8aa1-dd5c3ac51d0b",
+      "name": "Empleo e Ingresos",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Información Económica al Día",
+      "id": "0d300a9a-0802-46c3-9a40-2f28ddf050ec",
+      "name": "Información Económica al Día",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Variaciones de obreros ocupados, horas trabajadas y salario por obrero en la industria",
+  "type": "dataset",
+  "url": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/",
+  "version": null
+}

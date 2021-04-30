@@ -1,0 +1,174 @@
+{
+  "author": "Subsecretaría de Programación Macroeconómica",
+  "author_email": "datoseconomicos@mecon.gov.ar",
+  "creator_user_id": "4720e75a-9e17-4dc3-879d-041917c7f9f9",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P1M"
+    },
+    {
+      "key": "issued",
+      "value": "2017-09-28"
+    },
+    {
+      "key": "language",
+      "value": "[\"SPA\"]"
+    },
+    {
+      "key": "source",
+      "value": "Instituto Nacional de Estadística y Censos (INDEC)"
+    },
+    {
+      "key": "spatial",
+      "value": "ARG"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"ECON\"]"
+    },
+    {
+      "key": "temporal",
+      "value": "1996-01-01/2017-06-01"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Economía y finanzas",
+      "display_name": "Economía y finanzas",
+      "id": "60b4b03e-10a1-4d67-b984-08008a249617",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225257.200233economia-finanzas.svg",
+      "name": "econ",
+      "title": "Economía y finanzas"
+    }
+  ],
+  "id": "sspm_36",
+  "isopen": true,
+  "license_id": "CC-BY-4.0",
+  "license_title": "Creative Commons Attribution 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "maintainer": "Subsecretaría de Programación Macroeconómica.",
+  "maintainer_email": "datoseconomicos@mecon.gov.ar",
+  "metadata_created": "2019-11-26T15:04:16.747027",
+  "metadata_modified": "2021-04-29T21:05:18.873895",
+  "name": "sspm-ventas-supermercados-base-1996---serie-descontinuada",
+  "notes": "Ventas totales de supermercados (en millones de pesos) y evolución por grupos de artículos según base 2008",
+  "num_resources": 3,
+  "num_tags": 2,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:09.718132",
+    "description": "",
+    "id": "68f9ee22-5ec3-44cf-a32b-b87d9db46b93",
+    "image_url": "",
+    "is_organization": true,
+    "name": "sspm",
+    "revision_id": "bc058ce0-3540-4204-96cd-9f9ec79045b3",
+    "state": "active",
+    "title": "Subsecretaría de Programación Macroeconómica",
+    "type": "organization"
+  },
+  "owner_org": "68f9ee22-5ec3-44cf-a32b-b87d9db46b93",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/",
+      "attributesDescription": "[{\"title\": \"indice_tiempo\", \"type\": \"date\", \"specialType\": \"time_index\", \"specialTypeDetail\": \"R/P1Y\", \"id\": \"36.1_IT_1996_A_13\", \"scrapingIdentifierCell\": \"A9\", \"scrapingDataStartCell\": \"A10\", \"dataset_identifier\": \"36\", \"distribution_identifier\": \"36.1\"}, {\"title\": \"evolucion_mensual_ventas_grupos_articulostotal\", \"type\": \"number\", \"description\": \"Evoluci\\u00f3n mensual de las ventas por grupos de art\\u00edculos. Total en miles de pesos\", \"id\": \"36.1_EMVGA_1996_A_46\", \"scrapingIdentifierCell\": \"R9\", \"scrapingDataStartCell\": \"R10\", \"units\": \"Millones de pesos\", \"dataset_identifier\": \"36\", \"distribution_identifier\": \"36.1\"}, {\"title\": \"evolucion_mensual_ventas_grupos_articulos_alimentos_bebidas\", \"type\": \"number\", \"description\": \"Evoluci\\u00f3n mensual de las ventas de alimentos y bebidas en miles de pesos\", \"id\": \"36.1_EMVGAAB_1996_A_59\", \"scrapingIdentifierCell\": \"S9\", \"scrapingDataStartCell\": \"S10\", \"units\": \"Millones de pesos\", \"dataset_identifier\": \"36\", \"distribution_identifier\": \"36.1\"}, {\"title\": \"evol_mensual_ventas_grupos_articulos_limpieza_perfumeria\", \"type\": \"number\", \"description\": \"Evoluci\\u00f3n mensual de las ventas de articulos de limpieza y perfumer\\u00eda en miles de pesos\", \"id\": \"36.1_EMVGALP_1996_A_56\", \"scrapingIdentifierCell\": \"T9\", \"scrapingDataStartCell\": \"T10\", \"units\": \"Millones de pesos\", \"dataset_identifier\": \"36\", \"distribution_identifier\": \"36.1\"}, {\"title\": \"evol_mensual_ventas_articulos_indumentaria_calzado_textiles\", \"type\": \"number\", \"description\": \"Evoluci\\u00f3n mensual de las ventas de indumentaria, calzado y textiles para el hogar en miles de pesos\", \"id\": \"36.1_EMVGAICTH_1996_A_59\", \"scrapingIdentifierCell\": \"U9\", \"scrapingDataStartCell\": \"U10\", \"units\": \"Millones de pesos\", \"dataset_identifier\": \"36\", \"distribution_identifier\": \"36.1\"}, {\"title\": \"evol_mensual_ventas_articulos_electronicos_articulos_hogar\", \"type\": \"number\", \"description\": \"Evoluci\\u00f3n mensual de las ventas de art\\u00edculos electr\\u00f3nicos para el hogar en miles de pesos\", \"id\": \"36.1_EMVGAAH_1996_A_58\", \"scrapingIdentifierCell\": \"V9\", \"scrapingDataStartCell\": \"V10\", \"units\": \"Millones de pesos\", \"dataset_identifier\": \"36\", \"distribution_identifier\": \"36.1\"}, {\"title\": \"evolucion_mensual_ventas_grupos_articulos_otros\", \"type\": \"number\", \"description\": \"Evoluci\\u00f3n mensual de las ventas de otros art\\u00edculos en miles de pesos\", \"id\": \"36.1_EMVGAO_1996_A_47\", \"scrapingIdentifierCell\": \"W9\", \"scrapingDataStartCell\": \"W10\", \"units\": \"Millones de pesos\", \"dataset_identifier\": \"36\", \"distribution_identifier\": \"36.1\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-09-28T00:00:00",
+      "datastore_active": false,
+      "description": "Ventas de Supermercados (Base 1996) y evolución de artículos por grupos (base 2008). Valores anuales",
+      "fileName": "ventas-supermercados-base-1996-evolucion-articulos-por-grupos-base-2008-valores-anuales.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "sspm_36.1",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Ventas de Supermercados Base 1996 y evolución de artículos por grupos base 2008. Valores anuales.  SERIES DESCONTINUADAS",
+      "package_id": "sspm_36",
+      "position": 0,
+      "resource_type": null,
+      "revision_id": "b9b2e283-5828-4be7-8a94-febe01e26700",
+      "size": null,
+      "state": "active",
+      "url": "https://infra.datos.gob.ar/catalog/sspm/dataset/36/distribution/36.1/download/ventas-supermercados-base-1996-evolucion-articulos-por-grupos-base-2008-valores-anuales.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/",
+      "attributesDescription": "[{\"title\": \"indice_tiempo\", \"type\": \"date\", \"specialType\": \"time_index\", \"specialTypeDetail\": \"R/P3M\", \"id\": \"36.2_IT_1996_T_13\", \"scrapingIdentifierCell\": \"A44\", \"scrapingDataStartCell\": \"A45\", \"dataset_identifier\": \"36\", \"distribution_identifier\": \"36.2\"}, {\"title\": \"evolucion_mensual_ventas_grupos_articulostotal_2008\", \"type\": \"number\", \"description\": \"Evoluci\\u00f3n mensual de las ventas por grupos de art\\u00edculos. Total en miles de pesos (base 2008)\", \"id\": \"36.2_EMVGA2_1996_T_51\", \"scrapingIdentifierCell\": \"R76\", \"scrapingDataStartCell\": \"R77\", \"units\": \"Millones de pesos\", \"dataset_identifier\": \"36\", \"distribution_identifier\": \"36.2\"}, {\"title\": \"evolucion_mensual_ventas_grupos_articulos_alimentos_bebidas\", \"type\": \"number\", \"description\": \"Evoluci\\u00f3n mensual de las ventas de alimentos y bebidas en miles de pesos\", \"id\": \"36.2_EMVGAAB_1996_T_59\", \"scrapingIdentifierCell\": \"S76\", \"scrapingDataStartCell\": \"S77\", \"units\": \"Millones de pesos\", \"dataset_identifier\": \"36\", \"distribution_identifier\": \"36.2\"}, {\"title\": \"evol_mensual_ventas_grupos_articulos_limpieza_perfumeria\", \"type\": \"number\", \"description\": \"Evoluci\\u00f3n mensual de las ventas de articulos de limpieza y perfumer\\u00eda en miles de pesos\", \"id\": \"36.2_EMVGALP_1996_T_56\", \"scrapingIdentifierCell\": \"T76\", \"scrapingDataStartCell\": \"T77\", \"units\": \"Millones de pesos\", \"dataset_identifier\": \"36\", \"distribution_identifier\": \"36.2\"}, {\"title\": \"evol_mensual_ventas_articulos_indumentaria_calzado_textiles\", \"type\": \"number\", \"description\": \"Evoluci\\u00f3n mensual de las ventas de indumentaria, calzado y textiles para el hogar en miles de pesos\", \"id\": \"36.2_EMVGACTH_1996_T_59\", \"scrapingIdentifierCell\": \"U76\", \"scrapingDataStartCell\": \"U77\", \"units\": \"Millones de pesos\", \"dataset_identifier\": \"36\", \"distribution_identifier\": \"36.2\"}, {\"title\": \"evol_mensual_ventas_articulos_electronicos_articulos_hogar\", \"type\": \"number\", \"description\": \"Evoluci\\u00f3n mensual de las ventas de art\\u00edculos electr\\u00f3nicos para el hogar en miles de pesos\", \"id\": \"36.2_EMVGAAH_1996_T_58\", \"scrapingIdentifierCell\": \"V76\", \"scrapingDataStartCell\": \"V77\", \"units\": \"Millones de pesos\", \"dataset_identifier\": \"36\", \"distribution_identifier\": \"36.2\"}, {\"title\": \"evolucion_mensual_ventas_grupos_articulos_otros\", \"type\": \"number\", \"description\": \"Evoluci\\u00f3n mensual de las ventas de otros art\\u00edculos en miles de pesos\", \"id\": \"36.2_EMVGA_1996_T_47\", \"scrapingIdentifierCell\": \"W76\", \"scrapingDataStartCell\": \"W77\", \"units\": \"Millones de pesos\", \"dataset_identifier\": \"36\", \"distribution_identifier\": \"36.2\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-09-28T00:00:00",
+      "datastore_active": false,
+      "description": "Ventas de Supermercados (Base 1996) y evolución de artículos por grupos (base 2008). Valores anuales",
+      "fileName": "ventas-supermercados-base-1996-evolucion-articulos-por-grupos-base-2008-valores-trimestrales.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "sspm_36.2",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Ventas de Supermercados Base 1996 y evolución de artículos por grupos base 2008. Valores trimestrales. SERIES DESCONTINUADAS",
+      "package_id": "sspm_36",
+      "position": 1,
+      "resource_type": null,
+      "revision_id": "b9b2e283-5828-4be7-8a94-febe01e26700",
+      "size": null,
+      "state": "active",
+      "url": "https://infra.datos.gob.ar/catalog/sspm/dataset/36/distribution/36.2/download/ventas-supermercados-base-1996-evolucion-articulos-por-grupos-base-2008-valores-trimestrales.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/",
+      "attributesDescription": "[{\"title\": \"indice_tiempo\", \"type\": \"date\", \"specialType\": \"time_index\", \"specialTypeDetail\": \"R/P1M\", \"id\": \"36.3_IT_1996_0_13\", \"scrapingIdentifierCell\": \"A145\", \"scrapingDataStartCell\": \"A236\", \"dataset_identifier\": \"36\", \"distribution_identifier\": \"36.3\"}, {\"title\": \"evolucion_mensual_ventas_grupos_articulos_total\", \"type\": \"number\", \"description\": \"Evoluci\\u00f3n mensual de las ventas por grupos de art\\u00edculos. Total en miles de pesos\", \"id\": \"36.3_EMVGAT_1996_0_47\", \"scrapingIdentifierCell\": \"R235\", \"scrapingDataStartCell\": \"R236\", \"units\": \"Millones de pesos\", \"dataset_identifier\": \"36\", \"distribution_identifier\": \"36.3\"}, {\"title\": \"evolucion_mensual_ventas_grupos_articulosalimentos_bebidas\", \"type\": \"number\", \"description\": \"Evoluci\\u00f3n mensual de las ventas de alimentos y bebidas en miles de pesos\", \"id\": \"36.3_EMVGAB_1996_0_58\", \"scrapingIdentifierCell\": \"S235\", \"scrapingDataStartCell\": \"S236\", \"units\": \"Millones de pesos\", \"dataset_identifier\": \"36\", \"distribution_identifier\": \"36.3\"}, {\"title\": \"evol_mensual_ventas_articulosarticulos_limpieza_perfumeria\", \"type\": \"number\", \"description\": \"Evoluci\\u00f3n mensual de las ventas de articulos de limpieza y perfumer\\u00eda en miles de pesos\", \"id\": \"36.3_EMVGALP_1996_0_58\", \"scrapingIdentifierCell\": \"T235\", \"scrapingDataStartCell\": \"T236\", \"units\": \"Millones de pesos\", \"dataset_identifier\": \"36\", \"distribution_identifier\": \"36.3\"}, {\"title\": \"evol_mensual_ventas_articulos_indumentaria_calzado_textiles\", \"type\": \"number\", \"description\": \"Evoluci\\u00f3n mensual de las ventas de indumentaria, calzado y textiles para el hogar en miles de pesos\", \"id\": \"36.3_EMVGACTH_1996_0_59\", \"scrapingIdentifierCell\": \"U235\", \"scrapingDataStartCell\": \"U236\", \"units\": \"Millones de pesos\", \"dataset_identifier\": \"36\", \"distribution_identifier\": \"36.3\"}, {\"title\": \"evol_mensual_ventas_articulos_electronicos_articulos_hogar\", \"type\": \"number\", \"description\": \"Evoluci\\u00f3n mensual de las ventas de art\\u00edculos electr\\u00f3nicos para el hogar en miles de pesos\", \"id\": \"36.3_EMVGAAH_1996_0_58\", \"scrapingIdentifierCell\": \"V235\", \"scrapingDataStartCell\": \"V236\", \"units\": \"Millones de pesos\", \"dataset_identifier\": \"36\", \"distribution_identifier\": \"36.3\"}, {\"title\": \"evolucion_mensual_ventas_grupos_articulos_otros\", \"type\": \"number\", \"description\": \"Evoluci\\u00f3n mensual de las ventas de otros art\\u00edculos en miles de pesos\", \"id\": \"36.3_EMVGAO_1996_0_47\", \"scrapingIdentifierCell\": \"W235\", \"scrapingDataStartCell\": \"W236\", \"units\": \"Millones de pesos\", \"dataset_identifier\": \"36\", \"distribution_identifier\": \"36.3\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-09-28T00:00:00",
+      "datastore_active": false,
+      "description": "Ventas de Supermercados (Base 1996) y evolución de artículos por grupos (base 2008). Valores anuales",
+      "fileName": "ventas-supermercados-base-1996-evolucion-articulos-por-grupos-base-2008-mensuales.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "sspm_36.3",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Ventas de Supermercados Base 1996 y evolución de artículos por grupos base 2008. Mensuales. SERIES DESCONTINUADAS",
+      "package_id": "sspm_36",
+      "position": 2,
+      "resource_type": null,
+      "revision_id": "b9b2e283-5828-4be7-8a94-febe01e26700",
+      "size": null,
+      "state": "active",
+      "url": "https://infra.datos.gob.ar/catalog/sspm/dataset/36/distribution/36.3/download/ventas-supermercados-base-1996-evolucion-articulos-por-grupos-base-2008-mensuales.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "b9b2e283-5828-4be7-8a94-febe01e26700",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "Actividad",
+      "id": "a7695c51-c893-4ece-8ff9-306c197afdd7",
+      "name": "Actividad",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Información Económica al Día",
+      "id": "0d300a9a-0802-46c3-9a40-2f28ddf050ec",
+      "name": "Información Económica al Día",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Ventas de Supermercados (Base 1996) - SERIE DESCONTINUADA",
+  "type": "dataset",
+  "url": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/",
+  "version": null
+}

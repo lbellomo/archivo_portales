@@ -1,0 +1,124 @@
+{
+  "author": "Subsecretaría de Programación Macroeconómica",
+  "author_email": "datoseconomicos@mecon.gov.ar",
+  "creator_user_id": "4720e75a-9e17-4dc3-879d-041917c7f9f9",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P3M"
+    },
+    {
+      "key": "issued",
+      "value": "2017-10-17"
+    },
+    {
+      "key": "language",
+      "value": "[\"SPA\"]"
+    },
+    {
+      "key": "source",
+      "value": "Instituto Nacional de Estadística y Censos (INDEC)"
+    },
+    {
+      "key": "spatial",
+      "value": "ARG"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"ECON\"]"
+    },
+    {
+      "key": "temporal",
+      "value": "2016-04-01/2017-07-01"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Economía y finanzas",
+      "display_name": "Economía y finanzas",
+      "id": "60b4b03e-10a1-4d67-b984-08008a249617",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225257.200233economia-finanzas.svg",
+      "name": "econ",
+      "title": "Economía y finanzas"
+    }
+  ],
+  "id": "sspm_303",
+  "isopen": true,
+  "license_id": "CC-BY-4.0",
+  "license_title": "Creative Commons Attribution 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "maintainer": "Subsecretaría de Programación Macroeconómica.",
+  "maintainer_email": "datoseconomicos@mecon.gov.ar",
+  "metadata_created": "2019-11-26T15:06:17.494031",
+  "metadata_modified": "2021-04-29T21:05:12.519151",
+  "name": "sspm-tasa-asalarizacion-asalariados-sin-descuento-jubilatorio-eph-continua",
+  "notes": "Evolución de la tasa de asalarización y de asalariados sin descuento jubilatorio.Por regiones y tamaño de aglomerados. En %",
+  "num_resources": 1,
+  "num_tags": 2,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:09.718132",
+    "description": "",
+    "id": "68f9ee22-5ec3-44cf-a32b-b87d9db46b93",
+    "image_url": "",
+    "is_organization": true,
+    "name": "sspm",
+    "revision_id": "bc058ce0-3540-4204-96cd-9f9ec79045b3",
+    "state": "active",
+    "title": "Subsecretaría de Programación Macroeconómica",
+    "type": "organization"
+  },
+  "owner_org": "68f9ee22-5ec3-44cf-a32b-b87d9db46b93",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/",
+      "attributesDescription": "[{\"title\": \"indice_tiempo\", \"type\": \"date\", \"specialType\": \"time_index\", \"specialTypeDetail\": \"R/P3M\", \"id\": \"303.1_INDICE_TIEMPO_0_T_13\", \"scrapingIdentifierCell\": \"A13\", \"scrapingDataStartCell\": \"A14\", \"dataset_identifier\": \"303\", \"distribution_identifier\": \"303.1\"}, {\"title\": \"tasa_asalarizacion_aglomerados_total\", \"type\": \"number\", \"description\": \"Evoluci\\u00f3n de la tasa de asalarizacion. EPH Continua. Trimestral.Total Aglomerados .\", \"id\": \"303.1_TASA_ASALATAL_0_T_36\", \"scrapingIdentifierCell\": \"B13\", \"scrapingDataStartCell\": \"B14\", \"units\": \"Porcentaje\", \"dataset_identifier\": \"303\", \"distribution_identifier\": \"303.1\"}, {\"title\": \"tasa_asalarizacion_aglomerados_gba\", \"type\": \"number\", \"description\": \"Evoluci\\u00f3n de la tasa de asalarizacion. EPH Continua. Trimestral. Gran Buenos Aires\", \"id\": \"303.1_TASA_ASALAGBA_0_T_34\", \"scrapingIdentifierCell\": \"C13\", \"scrapingDataStartCell\": \"C14\", \"units\": \"Porcentaje\", \"dataset_identifier\": \"303\", \"distribution_identifier\": \"303.1\"}, {\"title\": \"tasa_asalarizacion_aglomerados_interior_pais_total\", \"type\": \"number\", \"description\": \"Evoluci\\u00f3n de la tasa de asalarizacion. EPH Continua. Trimestral.Total Aglomerados Interior del Pais\", \"id\": \"303.1_TASA_ASALATAL_0_T_50\", \"scrapingIdentifierCell\": \"D13\", \"scrapingDataStartCell\": \"D14\", \"units\": \"Porcentaje\", \"dataset_identifier\": \"303\", \"distribution_identifier\": \"303.1\"}, {\"title\": \"tasa_asalarizacion_aglomerados_interior_pais_region_cuyo\", \"type\": \"number\", \"description\": \"Evoluci\\u00f3n de la tasa de asalarizacion. EPH Continua. Trimestral.. Region Cuyo\", \"id\": \"303.1_TASA_ASALAUYO_0_T_56\", \"scrapingIdentifierCell\": \"E13\", \"scrapingDataStartCell\": \"E14\", \"units\": \"Porcentaje\", \"dataset_identifier\": \"303\", \"distribution_identifier\": \"303.1\"}, {\"title\": \"tasa_asalarizacion_aglomerados_interior_pais_region_nordeste\", \"type\": \"number\", \"description\": \"Evoluci\\u00f3n de la tasa de asalarizacion. EPH Continua. Trimestral.Region Nordeste\", \"id\": \"303.1_TASA_ASALASTE_0_T_60\", \"scrapingIdentifierCell\": \"F13\", \"scrapingDataStartCell\": \"F14\", \"units\": \"Porcentaje\", \"dataset_identifier\": \"303\", \"distribution_identifier\": \"303.1\"}, {\"title\": \"tasa_asalarizacion_aglomerados_interior_pais_region_noroeste\", \"type\": \"number\", \"description\": \"Evoluci\\u00f3n de la tasa de asalarizacion. EPH Continua. Trimestral.Region Noroeste\", \"id\": \"303.1_TASA_ASALASTE_NOA_0_T_60\", \"scrapingIdentifierCell\": \"G13\", \"scrapingDataStartCell\": \"G14\", \"units\": \"Porcentaje\", \"dataset_identifier\": \"303\", \"distribution_identifier\": \"303.1\"}, {\"title\": \"tasa_asalarizacion_aglomerados_interior_pais_region_pampeana\", \"type\": \"number\", \"description\": \"Evoluci\\u00f3n de la tasa de asalarizacion. EPH Continua. Trimestral.Region Pampeana.\", \"id\": \"303.1_TASA_ASALAANA_0_T_60\", \"scrapingIdentifierCell\": \"H13\", \"scrapingDataStartCell\": \"H14\", \"units\": \"Porcentaje\", \"dataset_identifier\": \"303\", \"distribution_identifier\": \"303.1\"}, {\"title\": \"tasa_asalarizacion_aglomerados_int_pais_region_patagonia\", \"type\": \"number\", \"description\": \"Evoluci\\u00f3n de la tasa de asalarizacion. EPH Continua. Trimestral.Region Patagonia .\", \"id\": \"303.1_TASA_ASALANIA_0_T_56\", \"scrapingIdentifierCell\": \"I13\", \"scrapingDataStartCell\": \"I14\", \"units\": \"Porcentaje\", \"dataset_identifier\": \"303\", \"distribution_identifier\": \"303.1\"}, {\"title\": \"tasa_asalarizacion_aglomerados_500000_mas_habitantes\", \"type\": \"number\", \"description\": \"Evoluci\\u00f3n de la tasa de asalarizacion. EPH Continua. Trimestral. Aglomeradosde mas de 500.000 habitantes .\", \"id\": \"303.1_TASA_ASALATES_0_T_52\", \"scrapingIdentifierCell\": \"J13\", \"scrapingDataStartCell\": \"J14\", \"units\": \"Porcentaje\", \"dataset_identifier\": \"303\", \"distribution_identifier\": \"303.1\"}, {\"title\": \"tasa_asalarizacion_aglomerados_menos_500000_habitantes\", \"type\": \"number\", \"description\": \"Evoluci\\u00f3n de la tasa de asalarizacion. EPH Continua. Trimestral. Aglomeradosde menos de 500.000 habitantes .\", \"id\": \"303.1_TASA_ASALATES_0_T_54\", \"scrapingIdentifierCell\": \"K13\", \"scrapingDataStartCell\": \"K14\", \"units\": \"Porcentaje\", \"dataset_identifier\": \"303\", \"distribution_identifier\": \"303.1\"}, {\"title\": \"asalariados_sin_descuento_jubilatorio_aglomerados_total\", \"type\": \"number\", \"description\": \"Evoluci\\u00f3n de la tasa de asalariados sin descuento jubilatorio. EPH Continua. Trimestral.Total Aglomerados .\", \"id\": \"303.1_ASALARIADOTAL_0_T_55\", \"scrapingIdentifierCell\": \"M13\", \"scrapingDataStartCell\": \"M14\", \"units\": \"Porcentaje\", \"dataset_identifier\": \"303\", \"distribution_identifier\": \"303.1\"}, {\"title\": \"asalariados_sin_descuento_jubilatorio_aglomerados_gba\", \"type\": \"number\", \"description\": \"Evoluci\\u00f3n de la tasa de asalariados sin descuento jubilatorio. EPH Continua. Trimestral. Gran Buenos Aires\", \"id\": \"303.1_ASALARIADOGBA_0_T_53\", \"scrapingIdentifierCell\": \"N13\", \"scrapingDataStartCell\": \"N14\", \"units\": \"Porcentaje\", \"dataset_identifier\": \"303\", \"distribution_identifier\": \"303.1\"}, {\"title\": \"asalariados_sin_desc_jubilat_aglo_int_pais_total\", \"type\": \"number\", \"description\": \"Evoluci\\u00f3n de la tasa de asalariados sin descuento jubilatorio. EPH Continua. Trimestral.Total Aglomerados Interior del Pais\", \"id\": \"303.1_ASALARIADOTAL_0_T_48\", \"scrapingIdentifierCell\": \"O13\", \"scrapingDataStartCell\": \"O14\", \"units\": \"Porcentaje\", \"dataset_identifier\": \"303\", \"distribution_identifier\": \"303.1\"}, {\"title\": \"asalariados_sin_desc_jubilat_aglo_int_pais_region_cuyo\", \"type\": \"number\", \"description\": \"Evoluci\\u00f3n de la tasa de asalariados sin descuento jubilatorio. EPH Continua. Trimestral.. Region Cuyo\", \"id\": \"303.1_ASALARIADOUYO_0_T_54\", \"scrapingIdentifierCell\": \"P13\", \"scrapingDataStartCell\": \"P14\", \"units\": \"Porcentaje\", \"dataset_identifier\": \"303\", \"distribution_identifier\": \"303.1\"}, {\"title\": \"asalariados_sin_desc_jubilat_aglo_int_pais_region_nordeste\", \"type\": \"number\", \"description\": \"Evoluci\\u00f3n de la tasa de asalariados sin descuento jubilatorio. EPH Continua. Trimestral.Region Nordeste\", \"id\": \"303.1_ASALARIADOSTE_0_T_58\", \"scrapingIdentifierCell\": \"Q13\", \"scrapingDataStartCell\": \"Q14\", \"units\": \"Porcentaje\", \"dataset_identifier\": \"303\", \"distribution_identifier\": \"303.1\"}, {\"title\": \"asalariados_sin_desc_jubilat_aglo_int_pais_region_noroeste\", \"type\": \"number\", \"description\": \"Evoluci\\u00f3n de la tasa de asalariados sin descuento jubilatorio. EPH Continua. Trimestral.Region Noroeste\", \"id\": \"303.1_ASALARIADOSTE_NOA_0_T_58\", \"scrapingIdentifierCell\": \"R13\", \"scrapingDataStartCell\": \"R14\", \"units\": \"Porcentaje\", \"dataset_identifier\": \"303\", \"distribution_identifier\": \"303.1\"}, {\"title\": \"asalariados_sin_desc_jubilat_aglo_int_pais_region_pampeana\", \"type\": \"number\", \"description\": \"Evoluci\\u00f3n de la tasa de asalariados sin descuento jubilatorio. EPH Continua. Trimestral.Region Pampeana.\", \"id\": \"303.1_ASALARIADOANA_0_T_58\", \"scrapingIdentifierCell\": \"S13\", \"scrapingDataStartCell\": \"S14\", \"units\": \"Porcentaje\", \"dataset_identifier\": \"303\", \"distribution_identifier\": \"303.1\"}, {\"title\": \"asalariados_sin_desc_jubilat_aglo_int_pais_region_patagonia\", \"type\": \"number\", \"description\": \"Evoluci\\u00f3n de la tasa de asalariados sin descuento jubilatorio. EPH Continua. Trimestral.Region Patagonia .\", \"id\": \"303.1_ASALARIADONIA_0_T_59\", \"scrapingIdentifierCell\": \"T13\", \"scrapingDataStartCell\": \"T14\", \"units\": \"Porcentaje\", \"dataset_identifier\": \"303\", \"distribution_identifier\": \"303.1\"}, {\"title\": \"asalariados_sin_desc_jubilat_aglo_500000_mas_hab\", \"type\": \"number\", \"description\": \"Evoluci\\u00f3n de la tasa de asalariados sin descuento jubilatorio. EPH Continua. Trimestral. Aglomeradosde mas de 500.000 habitantes .\", \"id\": \"303.1_ASALARIADOHAB_0_T_48\", \"scrapingIdentifierCell\": \"U13\", \"scrapingDataStartCell\": \"U14\", \"units\": \"Porcentaje\", \"dataset_identifier\": \"303\", \"distribution_identifier\": \"303.1\"}, {\"title\": \"asalariados_sin_desc_jubilat_aglo_menos_500000_hab\", \"type\": \"number\", \"description\": \"Evoluci\\u00f3n de la tasa de asalariados sin descuento jubilatorio. EPH Continua. Trimestral. Aglomeradosde menos de 500.000 habitantes .\", \"id\": \"303.1_ASALARIADOHAB_0_T_50\", \"scrapingIdentifierCell\": \"V13\", \"scrapingDataStartCell\": \"V14\", \"units\": \"Porcentaje\", \"dataset_identifier\": \"303\", \"distribution_identifier\": \"303.1\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-10-17T00:00:00",
+      "datastore_active": false,
+      "description": "Evolución de la tasa de asalarizacion. Datos de los aglomerados de la  EPH Continua, clasificados por regiones y tamaño .Valores trimestrales. En %",
+      "fileName": "evolucion-tasas-asalarizacion-eph-continua-regiones-tamanio.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "sspm_303.1",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Evolución de la tasa de asalarizacion. EPH Continua. Por regiones y tamaño.Valores trimestrales. En %",
+      "package_id": "sspm_303",
+      "position": 0,
+      "resource_type": null,
+      "revision_id": "0c2c94e7-5b85-4d22-9167-7caa833939f5",
+      "size": null,
+      "state": "active",
+      "url": "https://infra.datos.gob.ar/catalog/sspm/dataset/303/distribution/303.1/download/evolucion-tasas-asalarizacion-eph-continua-regiones-tamanio.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "0c2c94e7-5b85-4d22-9167-7caa833939f5",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "Empleo e Ingresos",
+      "id": "0d41bcfd-c3a4-4ff7-8aa1-dd5c3ac51d0b",
+      "name": "Empleo e Ingresos",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Información Económica al Día",
+      "id": "0d300a9a-0802-46c3-9a40-2f28ddf050ec",
+      "name": "Información Económica al Día",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Tasa de asalarización y de asalariados sin descuento jubilatorio. EPH Continua.",
+  "type": "dataset",
+  "url": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/",
+  "version": null
+}

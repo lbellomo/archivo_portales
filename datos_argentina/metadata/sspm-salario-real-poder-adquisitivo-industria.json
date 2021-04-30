@@ -1,0 +1,149 @@
+{
+  "author": "Subsecretaría de Programación Macroeconómica",
+  "author_email": "datoseconomicos@mecon.gov.ar",
+  "creator_user_id": "4720e75a-9e17-4dc3-879d-041917c7f9f9",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P1M"
+    },
+    {
+      "key": "issued",
+      "value": "2017-12-05"
+    },
+    {
+      "key": "language",
+      "value": "[\"SPA\"]"
+    },
+    {
+      "key": "source",
+      "value": "Instituto Nacional de Estadística y Censos (INDEC)"
+    },
+    {
+      "key": "spatial",
+      "value": "ARG"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"ECON\"]"
+    },
+    {
+      "key": "temporal",
+      "value": "1985-01-01/1989-12-31"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Economía y finanzas",
+      "display_name": "Economía y finanzas",
+      "id": "60b4b03e-10a1-4d67-b984-08008a249617",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225257.200233economia-finanzas.svg",
+      "name": "econ",
+      "title": "Economía y finanzas"
+    }
+  ],
+  "id": "sspm_355",
+  "isopen": true,
+  "license_id": "CC-BY-4.0",
+  "license_title": "Creative Commons Attribution 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "maintainer": "Subsecretaría de Programación Macroeconómica.",
+  "maintainer_email": "datoseconomicos@mecon.gov.ar",
+  "metadata_created": "2019-11-26T15:06:05.001279",
+  "metadata_modified": "2021-04-29T21:04:25.735038",
+  "name": "sspm-salario-real-poder-adquisitivo-industria",
+  "notes": "Salario real y poder adquisitivo en la industria. Salario horario normal desde 1985",
+  "num_resources": 2,
+  "num_tags": 2,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:09.718132",
+    "description": "",
+    "id": "68f9ee22-5ec3-44cf-a32b-b87d9db46b93",
+    "image_url": "",
+    "is_organization": true,
+    "name": "sspm",
+    "revision_id": "bc058ce0-3540-4204-96cd-9f9ec79045b3",
+    "state": "active",
+    "title": "Subsecretaría de Programación Macroeconómica",
+    "type": "organization"
+  },
+  "owner_org": "68f9ee22-5ec3-44cf-a32b-b87d9db46b93",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/",
+      "attributesDescription": "[{\"title\": \"indice_tiempo\", \"type\": \"date\", \"specialType\": \"time_index\", \"specialTypeDetail\": \"R/P1Y\", \"id\": \"355.1_INDICE_TIEMPO__13\", \"scrapingIdentifierCell\": \"B12\", \"scrapingDataStartCell\": \"B13\", \"dataset_identifier\": \"355\", \"distribution_identifier\": \"355.1\"}, {\"title\": \"nominal_a\", \"type\": \"number\", \"description\": \"Salario nominal\", \"id\": \"355.1_NOMINAL_AL_A__9\", \"scrapingIdentifierCell\": \"C12\", \"scrapingDataStartCell\": \"C13\", \"units\": \"\\u00cdndice\", \"dataset_identifier\": \"355\", \"distribution_identifier\": \"355.1\"}, {\"title\": \"real_base_1986\", \"type\": \"number\", \"description\": \"Salario real 1986=100\", \"id\": \"355.1_REAL_BASE_986__14\", \"scrapingIdentifierCell\": \"D12\", \"scrapingDataStartCell\": \"D13\", \"units\": \"\\u00cdndice\", \"dataset_identifier\": \"355\", \"distribution_identifier\": \"355.1\"}, {\"title\": \"poder_adquisitivo_base_1986\", \"type\": \"number\", \"description\": \"Del poder adquisitvo 1986=100\", \"id\": \"355.1_PODER_ADQU986__27\", \"scrapingIdentifierCell\": \"E12\", \"scrapingDataStartCell\": \"E13\", \"units\": \"\\u00cdndice\", \"dataset_identifier\": \"355\", \"distribution_identifier\": \"355.1\"}, {\"title\": \"variacion_salario_real_a\", \"type\": \"number\", \"description\": \"Variaci\\u00f3n del salario real respecto del per\\u00edodo anterior\", \"id\": \"355.1_VARIACION_L_A__24\", \"scrapingIdentifierCell\": \"F12\", \"scrapingDataStartCell\": \"F13\", \"units\": \"\\u00cdndice\", \"dataset_identifier\": \"355\", \"distribution_identifier\": \"355.1\"}, {\"title\": \"variacion_salario_real_b\", \"type\": \"number\", \"description\": \"Variaci\\u00f3n del salario real respecto a igual per\\u00edodo del a\\u00f1o anterior\", \"id\": \"355.1_VARIACION_L_B__24\", \"scrapingIdentifierCell\": \"G12\", \"scrapingDataStartCell\": \"G13\", \"units\": \"\\u00cdndice\", \"dataset_identifier\": \"355\", \"distribution_identifier\": \"355.1\"}, {\"title\": \"variacion_poder_adquisitivo_a\", \"type\": \"number\", \"description\": \"Variaci\\u00f3n del poder adquisitivo respecto del per\\u00edodo anterior\", \"id\": \"355.1_VARIACION_O_A__29\", \"scrapingIdentifierCell\": \"H12\", \"scrapingDataStartCell\": \"H13\", \"units\": \"\\u00cdndice\", \"dataset_identifier\": \"355\", \"distribution_identifier\": \"355.1\"}, {\"title\": \"variacion_poder_adquisitivo_b\", \"type\": \"number\", \"description\": \"Variaci\\u00f3n del poder adquisitivo respecto a igual per\\u00edodo del a\\u00f1o anterior\", \"id\": \"355.1_VARIACION_O_B__29\", \"scrapingIdentifierCell\": \"I12\", \"scrapingDataStartCell\": \"I13\", \"units\": \"\\u00cdndice\", \"dataset_identifier\": \"355\", \"distribution_identifier\": \"355.1\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-12-05T00:00:00",
+      "datastore_active": false,
+      "description": "Valores anuales desde 1985 del salario real y poder adquisitivo en la industria",
+      "fileName": "salario-real-y-poder-adquisitivo-en-la-industria.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "sspm_355.1",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Salario real y poder adquisitivo en la industria. Salario hora normal. Valores anuales desde 1985",
+      "package_id": "sspm_355",
+      "position": 0,
+      "resource_type": null,
+      "revision_id": "de029b78-fd00-436b-b6d9-93715a6defd3",
+      "size": null,
+      "state": "active",
+      "url": "https://infra.datos.gob.ar/catalog/sspm/dataset/355/distribution/355.1/download/salario-real-y-poder-adquisitivo-en-la-industria.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/",
+      "attributesDescription": "[{\"title\": \"indice_tiempo\", \"type\": \"date\", \"specialType\": \"time_index\", \"specialTypeDetail\": \"R/P1M\", \"id\": \"355.2_INDICE_TIEMPO__13\", \"scrapingIdentifierCell\": \"B22\", \"scrapingDataStartCell\": \"B23\", \"dataset_identifier\": \"355\", \"distribution_identifier\": \"355.2\"}, {\"title\": \"nominal_a\", \"type\": \"number\", \"description\": \"Salario nominal\", \"id\": \"355.2_NOMINAL_AL_A__9\", \"scrapingIdentifierCell\": \"C22\", \"scrapingDataStartCell\": \"C23\", \"units\": \"\\u00cdndice\", \"dataset_identifier\": \"355\", \"distribution_identifier\": \"355.2\"}, {\"title\": \"real_base_1986\", \"type\": \"number\", \"description\": \"Salario real 1986=100\", \"id\": \"355.2_REAL_BASE_986__14\", \"scrapingIdentifierCell\": \"D22\", \"scrapingDataStartCell\": \"D23\", \"units\": \"\\u00cdndice\", \"dataset_identifier\": \"355\", \"distribution_identifier\": \"355.2\"}, {\"title\": \"poder_adquisitivo_base_1986\", \"type\": \"number\", \"description\": \"Del poder adquisitvo 1986=100\", \"id\": \"355.2_PODER_ADQU986__27\", \"scrapingIdentifierCell\": \"E22\", \"scrapingDataStartCell\": \"E23\", \"units\": \"\\u00cdndice\", \"dataset_identifier\": \"355\", \"distribution_identifier\": \"355.2\"}, {\"title\": \"variacion_salario_real_a\", \"type\": \"number\", \"description\": \"Variaci\\u00f3n del salario real respecto del per\\u00edodo anterior\", \"id\": \"355.2_VARIACION_L_A__24\", \"scrapingIdentifierCell\": \"F22\", \"scrapingDataStartCell\": \"F23\", \"units\": \"\\u00cdndice\", \"dataset_identifier\": \"355\", \"distribution_identifier\": \"355.2\"}, {\"title\": \"variacion_salario_real_b\", \"type\": \"number\", \"description\": \"Variaci\\u00f3n del salario real respecto a igual per\\u00edodo del a\\u00f1o anterior\", \"id\": \"355.2_VARIACION_L_B__24\", \"scrapingIdentifierCell\": \"G22\", \"scrapingDataStartCell\": \"G23\", \"units\": \"\\u00cdndice\", \"dataset_identifier\": \"355\", \"distribution_identifier\": \"355.2\"}, {\"title\": \"variacion_poder_adquisitivo_a\", \"type\": \"number\", \"description\": \"Variaci\\u00f3n del poder adquisitivo respecto del per\\u00edodo anterior\", \"id\": \"355.2_VARIACION_O_A__29\", \"scrapingIdentifierCell\": \"H22\", \"scrapingDataStartCell\": \"H23\", \"units\": \"\\u00cdndice\", \"dataset_identifier\": \"355\", \"distribution_identifier\": \"355.2\"}, {\"title\": \"variacion_poder_adquisitivo_b\", \"type\": \"number\", \"description\": \"Variaci\\u00f3n del poder adquisitivo respecto a igual per\\u00edodo del a\\u00f1o anterior\", \"id\": \"355.2_VARIACION_O_B__29\", \"scrapingIdentifierCell\": \"I22\", \"scrapingDataStartCell\": \"I23\", \"units\": \"\\u00cdndice\", \"dataset_identifier\": \"355\", \"distribution_identifier\": \"355.2\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-12-05T00:00:00",
+      "datastore_active": false,
+      "description": "Valores mensuales desde 1989 del salario real y poder adquisitivo en la industria",
+      "fileName": "salario-real-y-poder-adquisitivo-en-la-industria.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "sspm_355.2",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Salario real y poder adquisitivo en la industria. Salario hora normal. Valores mensuales desde 1989",
+      "package_id": "sspm_355",
+      "position": 1,
+      "resource_type": null,
+      "revision_id": "de029b78-fd00-436b-b6d9-93715a6defd3",
+      "size": null,
+      "state": "active",
+      "url": "https://infra.datos.gob.ar/catalog/sspm/dataset/355/distribution/355.2/download/salario-real-y-poder-adquisitivo-en-la-industria.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "de029b78-fd00-436b-b6d9-93715a6defd3",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "Empleo e Ingresos",
+      "id": "0d41bcfd-c3a4-4ff7-8aa1-dd5c3ac51d0b",
+      "name": "Empleo e Ingresos",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Información Económica Histórica",
+      "id": "3834bbe4-6452-499b-a70e-85765a130da2",
+      "name": "Información Económica Histórica",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Salario real y poder adquisitivo en la Industria.",
+  "type": "dataset",
+  "url": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/",
+  "version": null
+}

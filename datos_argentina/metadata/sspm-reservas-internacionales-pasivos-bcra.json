@@ -1,0 +1,149 @@
+{
+  "author": "Subsecretaría de Programación Macroeconómica",
+  "author_email": "datoseconomicos@mecon.gov.ar",
+  "creator_user_id": "4720e75a-9e17-4dc3-879d-041917c7f9f9",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P1D"
+    },
+    {
+      "key": "issued",
+      "value": "2017-09-28"
+    },
+    {
+      "key": "language",
+      "value": "[\"SPA\"]"
+    },
+    {
+      "key": "source",
+      "value": "Banco Central de la República Argentina (BCRA)"
+    },
+    {
+      "key": "spatial",
+      "value": "ARG"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"ECON\"]"
+    },
+    {
+      "key": "temporal",
+      "value": "2003-01-01/2017-04-01"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Economía y finanzas",
+      "display_name": "Economía y finanzas",
+      "id": "60b4b03e-10a1-4d67-b984-08008a249617",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225257.200233economia-finanzas.svg",
+      "name": "econ",
+      "title": "Economía y finanzas"
+    }
+  ],
+  "id": "sspm_92",
+  "isopen": true,
+  "license_id": "CC-BY-4.0",
+  "license_title": "Creative Commons Attribution 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "maintainer": "Subsecretaría de Programación Macroeconómica.",
+  "maintainer_email": "datoseconomicos@mecon.gov.ar",
+  "metadata_created": "2019-11-26T15:06:06.413866",
+  "metadata_modified": "2021-04-29T17:05:37.055290",
+  "name": "sspm-reservas-internacionales-pasivos-bcra",
+  "notes": "Reservas internacionales y pasivos del BCRA. En millones de pesos (excepto las reservas internacionales que se expresan en millones de dólares). Datos mensuales (promedio del período)",
+  "num_resources": 2,
+  "num_tags": 2,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:09.718132",
+    "description": "",
+    "id": "68f9ee22-5ec3-44cf-a32b-b87d9db46b93",
+    "image_url": "",
+    "is_organization": true,
+    "name": "sspm",
+    "revision_id": "bc058ce0-3540-4204-96cd-9f9ec79045b3",
+    "state": "active",
+    "title": "Subsecretaría de Programación Macroeconómica",
+    "type": "organization"
+  },
+  "owner_org": "68f9ee22-5ec3-44cf-a32b-b87d9db46b93",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/",
+      "attributesDescription": "[{\"title\": \"indice_tiempo\", \"type\": \"date\", \"specialType\": \"time_index\", \"specialTypeDetail\": \"R/P1M\", \"id\": \"92.1_IT_0_0_13\", \"scrapingIdentifierCell\": \"A12\", \"scrapingDataStartCell\": \"A13\", \"dataset_identifier\": \"92\", \"distribution_identifier\": \"92.1\"}, {\"title\": \"reservas_internacionales_dolares\", \"type\": \"number\", \"description\": \"Reservas internacionales del BCRA, en millones de d\\u00f3lares\", \"id\": \"92.1_RID_0_0_32\", \"scrapingIdentifierCell\": \"B12\", \"scrapingDataStartCell\": \"B13\", \"units\": \"Millones de d\\u00f3lares\", \"dataset_identifier\": \"92\", \"distribution_identifier\": \"92.1\"}, {\"title\": \"pasivos_monetarios\", \"type\": \"number\", \"description\": \"Pasivos monetarios, en millones de pesos\", \"id\": \"92.1_PM_0_0_18\", \"scrapingIdentifierCell\": \"C12\", \"scrapingDataStartCell\": \"C13\", \"units\": \"Millones de pesos\", \"dataset_identifier\": \"92\", \"distribution_identifier\": \"92.1\"}, {\"title\": \"pasivos_monetarios_letras_pesos\", \"type\": \"number\", \"description\": \"Pasivos monetarios, en millones de pesos (letras)\", \"id\": \"92.1_PMLP_0_0_31\", \"scrapingIdentifierCell\": \"D12\", \"scrapingDataStartCell\": \"D13\", \"units\": \"Millones de pesos\", \"dataset_identifier\": \"92\", \"distribution_identifier\": \"92.1\"}, {\"title\": \"pasivos_monetarios_letras_dolares\", \"type\": \"number\", \"description\": \"Pasivos monetarios, en millones de d\\u00f3lares (letras)\", \"id\": \"92.1_PMLD_0_0_33\", \"scrapingIdentifierCell\": \"E12\", \"scrapingDataStartCell\": \"E13\", \"units\": \"Millones de d\\u00f3lares\", \"dataset_identifier\": \"92\", \"distribution_identifier\": \"92.1\"}, {\"title\": \"letras_liquidez_saldo_pesos\", \"type\": \"number\", \"description\": \"Letras de Liquidez  -  Saldo en Pesos\", \"id\": \"92.1_PMLD_0_0_27_100\", \"scrapingIdentifierCell\": \"F12\", \"scrapingDataStartCell\": \"F13\", \"units\": \"Millones de pesos\", \"dataset_identifier\": \"92\", \"distribution_identifier\": \"92.1\"}, {\"title\": \"posicion_neta_pases\", \"type\": \"number\", \"description\": \"Posici\\u00f3n neta de pases, en millones de pesos\", \"id\": \"92.1_PNP_0_0_19\", \"scrapingIdentifierCell\": \"G12\", \"scrapingDataStartCell\": \"G13\", \"units\": \"Millones de pesos\", \"dataset_identifier\": \"92\", \"distribution_identifier\": \"92.1\"}, {\"title\": \"otros_depositos_gobierno\", \"type\": \"number\", \"description\": \"Otros dep\\u00f3sitos del gobierno, en millones de pesos\", \"id\": \"92.1_ODG_0_0_24\", \"scrapingIdentifierCell\": \"H12\", \"scrapingDataStartCell\": \"H13\", \"units\": \"Millones de pesos\", \"dataset_identifier\": \"92\", \"distribution_identifier\": \"92.1\"}, {\"title\": \"redescuentos_adelantos_iliquidez\", \"type\": \"number\", \"description\": \"Redescuentos y adelantos por iliquidez, en millones de pesos\", \"id\": \"92.1_RAI_0_0_32\", \"scrapingIdentifierCell\": \"I12\", \"scrapingDataStartCell\": \"I13\", \"units\": \"Millones de pesos\", \"dataset_identifier\": \"92\", \"distribution_identifier\": \"92.1\"}, {\"title\": \"tipo_cambio_valuacion\", \"type\": \"number\", \"description\": \"Tipo de cambio de valuaci\\u00f3n (peso por d\\u00f3lar)\", \"id\": \"92.1_TCV_0_0_21\", \"scrapingIdentifierCell\": \"J12\", \"scrapingDataStartCell\": \"J13\", \"units\": \"Pesos argentinos por d\\u00f3lar\", \"dataset_identifier\": \"92\", \"distribution_identifier\": \"92.1\"}, {\"title\": \"pos_neta_det_des_pases_pasivos\", \"type\": \"number\", \"description\": \"Posici\\u00f3n neta desagregada de pases pasivos\", \"id\": \"92.1_POS_NETA_DVOS_0_0_30\", \"scrapingIdentifierCell\": \"L12\", \"scrapingDataStartCell\": \"L13\", \"units\": \"Millones de pesos\", \"dataset_identifier\": \"92\", \"distribution_identifier\": \"92.1\"}, {\"title\": \"pos_neta_det_des_pases_activos\", \"type\": \"number\", \"description\": \"Posici\\u00f3n neta desagregada de pases activos\", \"id\": \"92.1_POS_NETA_DVOS_AC_0_0_30\", \"scrapingIdentifierCell\": \"M12\", \"scrapingDataStartCell\": \"M13\", \"units\": \"Millones de pesos\", \"dataset_identifier\": \"92\", \"distribution_identifier\": \"92.1\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-09-28T00:00:00",
+      "datastore_active": false,
+      "description": "Reservas internacionales y pasivos del BCRA, pasivos financieros, otros depósitos al gobierno, adelantos por liquidez y tipo de cambio de devaluación.  Datos mensuales (promedio del período)",
+      "fileName": "reservas-internacionales-pasivos-financieros-bcra.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "sspm_92.1",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Reservas internacionales y pasivos financieros del BCRA",
+      "package_id": "sspm_92",
+      "position": 0,
+      "resource_type": null,
+      "revision_id": "cf62c169-5037-4b4c-8b0f-90e4b1c36e56",
+      "size": null,
+      "state": "active",
+      "url": "https://infra.datos.gob.ar/catalog/sspm/dataset/92/distribution/92.1/download/reservas-internacionales-pasivos-financieros-bcra.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/",
+      "attributesDescription": "[{\"title\": \"indice_tiempo\", \"type\": \"date\", \"specialType\": \"time_index\", \"specialTypeDetail\": \"R/P1D\", \"id\": \"92.2_INDICE_TIEMPO_0_0_13_25\", \"scrapingIdentifierCell\": \"A303\", \"scrapingDataStartCell\": \"A304\", \"dataset_identifier\": \"92\", \"distribution_identifier\": \"92.2\"}, {\"title\": \"reservas_internacionales_dolares\", \"type\": \"number\", \"description\": \"Reservas internacionales del BCRA, en millones de d\\u00f3lares\", \"id\": \"92.2_RESERVAS_IRES_0_0_32_40\", \"scrapingIdentifierCell\": \"B303\", \"scrapingDataStartCell\": \"B304\", \"units\": \"Millones de d\\u00f3lares\", \"dataset_identifier\": \"92\", \"distribution_identifier\": \"92.2\"}, {\"title\": \"pasivos_monetarios\", \"type\": \"number\", \"description\": \"Pasivos monetarios, en millones de pesos\", \"id\": \"92.2_PASIVOS_MOIOS_0_0_18_34\", \"scrapingIdentifierCell\": \"C303\", \"scrapingDataStartCell\": \"C304\", \"units\": \"Millones de pesos\", \"dataset_identifier\": \"92\", \"distribution_identifier\": \"92.2\"}, {\"title\": \"pasivos_monetarios_letras_pesos\", \"type\": \"number\", \"description\": \"Pasivos monetarios, en millones de pesos (letras)\", \"id\": \"92.2_PASIVOS_MOSOS_0_0_31_15\", \"scrapingIdentifierCell\": \"D303\", \"scrapingDataStartCell\": \"D304\", \"units\": \"Millones de pesos\", \"dataset_identifier\": \"92\", \"distribution_identifier\": \"92.2\"}, {\"title\": \"pasivos_monetarios_letras_dolares\", \"type\": \"number\", \"description\": \"Pasivos monetarios, en millones de d\\u00f3lares (letras)\", \"id\": \"92.2_PASIVOS_MORES_0_0_33_100\", \"scrapingIdentifierCell\": \"E303\", \"scrapingDataStartCell\": \"E304\", \"units\": \"Millones de d\\u00f3lares\", \"dataset_identifier\": \"92\", \"distribution_identifier\": \"92.2\"}, {\"title\": \"letras_liquidez_saldo_pesos\", \"type\": \"number\", \"description\": \"Letras de Liquidez  -  Saldo en Pesos\", \"id\": \"92.2_LETRAS_LIQSOS_0_0_27_53\", \"scrapingIdentifierCell\": \"F303\", \"scrapingDataStartCell\": \"F304\", \"units\": \"Millones de pesos\", \"dataset_identifier\": \"92\", \"distribution_identifier\": \"92.2\"}, {\"title\": \"posicion_neta_pases\", \"type\": \"number\", \"description\": \"Posici\\u00f3n neta de pases, en millones de pesos\", \"id\": \"92.2_POSICION_NSES_0_0_19_25\", \"scrapingIdentifierCell\": \"G303\", \"scrapingDataStartCell\": \"G304\", \"units\": \"Millones de pesos\", \"dataset_identifier\": \"92\", \"distribution_identifier\": \"92.2\"}, {\"title\": \"otros_depositos_gobierno\", \"type\": \"number\", \"description\": \"Otros dep\\u00f3sitos del gobierno, en millones de pesos\", \"id\": \"92.2_OTROS_DEPORNO_0_0_24_42\", \"scrapingIdentifierCell\": \"H303\", \"scrapingDataStartCell\": \"H304\", \"units\": \"Millones de pesos\", \"dataset_identifier\": \"92\", \"distribution_identifier\": \"92.2\"}, {\"title\": \"redescuentos_adelantos_iliquidez\", \"type\": \"number\", \"description\": \"Redescuentos y adelantos por iliquidez, en millones de pesos\", \"id\": \"92.2_REDESCUENTDEZ_0_0_32_13\", \"scrapingIdentifierCell\": \"I303\", \"scrapingDataStartCell\": \"I304\", \"units\": \"Millones de pesos\", \"dataset_identifier\": \"92\", \"distribution_identifier\": \"92.2\"}, {\"title\": \"tipo_cambio_valuacion\", \"type\": \"number\", \"description\": \"Tipo de cambio de valuaci\\u00f3n (peso por d\\u00f3lar)\", \"id\": \"92.2_TIPO_CAMBIION_0_0_21_24\", \"scrapingIdentifierCell\": \"J303\", \"scrapingDataStartCell\": \"J304\", \"units\": \"Pesos argentinos por d\\u00f3lar\", \"dataset_identifier\": \"92\", \"distribution_identifier\": \"92.2\"}, {\"title\": \"pos_neta_det_des_pases_pasivos\", \"type\": \"number\", \"description\": \"Posici\\u00f3n neta desagregada de pases pasivos\", \"id\": \"92.2_POS_NETA_DVOS_0_0_30_20\", \"scrapingIdentifierCell\": \"L303\", \"scrapingDataStartCell\": \"L304\", \"units\": \"Millones de pesos\", \"dataset_identifier\": \"92\", \"distribution_identifier\": \"92.2\"}, {\"title\": \"pos_neta_det_des_pases_activos\", \"type\": \"number\", \"description\": \"Posici\\u00f3n neta desagregada de pases activos\", \"id\": \"92.2_POS_NETA_DVOS_0_0_30_94\", \"scrapingIdentifierCell\": \"M303\", \"scrapingDataStartCell\": \"M304\", \"units\": \"Millones de pesos\", \"dataset_identifier\": \"92\", \"distribution_identifier\": \"92.2\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-09-28T00:00:00",
+      "datastore_active": false,
+      "description": "Reservas internacionales y pasivos del BCRA, pasivos financieros, otros depósitos al gobierno, adelantos por liquidez y tipo de cambio de devaluación.  Datos diarios (promedio del período)",
+      "fileName": "reservas-internacionales-pasivos-financieros-bcra.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "sspm_92.2",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Reservas internacionales y pasivos financieros del BCRA",
+      "package_id": "sspm_92",
+      "position": 1,
+      "resource_type": null,
+      "revision_id": "cf62c169-5037-4b4c-8b0f-90e4b1c36e56",
+      "size": null,
+      "state": "active",
+      "url": "https://infra.datos.gob.ar/catalog/sspm/dataset/92/distribution/92.2/download/reservas-internacionales-pasivos-financieros-bcra.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "cf62c169-5037-4b4c-8b0f-90e4b1c36e56",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "Dinero y Bancos",
+      "id": "a6e04960-0d58-4c4e-a59c-a2e2ef9ac579",
+      "name": "Dinero y Bancos",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Información económica al día",
+      "id": "a277ffeb-6252-446e-a364-14710b257b35",
+      "name": "Información económica al día",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Reservas internacionales y pasivos del BCRA",
+  "type": "dataset",
+  "url": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/",
+  "version": null
+}

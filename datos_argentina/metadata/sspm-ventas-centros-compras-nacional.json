@@ -1,0 +1,124 @@
+{
+  "author": "Subsecretaría de Programación Macroeconómica",
+  "author_email": "datoseconomicos@mecon.gov.ar",
+  "creator_user_id": "dc157489-51c6-44ce-bd63-3bd983d60778",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P1M"
+    },
+    {
+      "key": "issued",
+      "value": "2019-12-12"
+    },
+    {
+      "key": "language",
+      "value": "[\"SPA\"]"
+    },
+    {
+      "key": "source",
+      "value": "Instituto Nacional de Estadística y Censos (INDEC)"
+    },
+    {
+      "key": "spatial",
+      "value": "ARG"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"ECON\"]"
+    },
+    {
+      "key": "temporal",
+      "value": "2017-01-01/2019-09-01"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Economía y finanzas",
+      "display_name": "Economía y finanzas",
+      "id": "60b4b03e-10a1-4d67-b984-08008a249617",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225257.200233economia-finanzas.svg",
+      "name": "econ",
+      "title": "Economía y finanzas"
+    }
+  ],
+  "id": "sspm_458",
+  "isopen": true,
+  "license_id": "CC-BY-4.0",
+  "license_title": "Creative Commons Attribution 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "maintainer": "Subsecretaría de Programación Macroeconómica.",
+  "maintainer_email": "datoseconomicos@mecon.gov.ar",
+  "metadata_created": "2019-12-27T09:06:15.173408",
+  "metadata_modified": "2021-03-22T13:08:59.795500",
+  "name": "sspm-ventas-centros-compras-nacional",
+  "notes": "Ventas totales nacionales en Centros de Compras en millones de pesos, valores corrientes y constantes (base abril 2016) y evolución por grupos de artículos (valores corrientes)",
+  "num_resources": 1,
+  "num_tags": 2,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:09.718132",
+    "description": "",
+    "id": "68f9ee22-5ec3-44cf-a32b-b87d9db46b93",
+    "image_url": "",
+    "is_organization": true,
+    "name": "sspm",
+    "revision_id": "bc058ce0-3540-4204-96cd-9f9ec79045b3",
+    "state": "active",
+    "title": "Subsecretaría de Programación Macroeconómica",
+    "type": "organization"
+  },
+  "owner_org": "68f9ee22-5ec3-44cf-a32b-b87d9db46b93",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/",
+      "attributesDescription": "[{\"title\": \"indice_tiempo\", \"type\": \"date\", \"specialType\": \"time_index\", \"specialTypeDetail\": \"R/P1M\", \"id\": \"458.1_INDICE_TIEMPO_ABRI_M_13_71\", \"scrapingIdentifierCell\": \"A131\", \"scrapingDataStartCell\": \"A132\", \"dataset_identifier\": \"458\", \"distribution_identifier\": \"458.1\"}, {\"title\": \"ventas_totales_precios_corrientes\", \"type\": \"number\", \"description\": \"Ventas centros de compras. Ventas totales a precios corrientes\", \"id\": \"458.1_VENTAS_TOTTES_ABRI_M_33_26\", \"scrapingIdentifierCell\": \"B131\", \"scrapingDataStartCell\": \"B132\", \"units\": \"Miles de pesos\", \"dataset_identifier\": \"458\", \"distribution_identifier\": \"458.1\"}, {\"title\": \"ventas_gba_precios_corrientes\", \"type\": \"number\", \"description\": \"Ventas centros de compras. Ventas GBA a precios corrientes\", \"id\": \"458.1_VENTAS_GBATES_ABRI_M_29_66\", \"scrapingIdentifierCell\": \"C131\", \"scrapingDataStartCell\": \"C132\", \"units\": \"Miles de pesos\", \"dataset_identifier\": \"458\", \"distribution_identifier\": \"458.1\"}, {\"title\": \"ventas_resto_precios_corrientes\", \"type\": \"number\", \"description\": \"Ventas centros de compras. Ventas resto del pa\\u00eds a precios corrientes\", \"id\": \"458.1_VENTAS_RESTES_ABRI_M_31_4\", \"scrapingIdentifierCell\": \"D131\", \"scrapingDataStartCell\": \"D132\", \"units\": \"Miles de pesos\", \"dataset_identifier\": \"458\", \"distribution_identifier\": \"458.1\"}, {\"title\": \"ventas_totales_precios_constantes\", \"type\": \"number\", \"description\": \"Ventas centros de compras. Ventas totales a precios constantes\", \"id\": \"458.1_VENTAS_TOTTES_ABRI_M_33_40\", \"scrapingIdentifierCell\": \"F131\", \"scrapingDataStartCell\": \"F132\", \"units\": \"Miles de pesos\", \"dataset_identifier\": \"458\", \"distribution_identifier\": \"458.1\"}, {\"title\": \"ventas_gba_precios_constantes\", \"type\": \"number\", \"description\": \"Ventas centros de compras. Ventas GBA a precios constantes\", \"id\": \"458.1_VENTAS_GBATES_ABRI_M_29_80\", \"scrapingIdentifierCell\": \"G131\", \"scrapingDataStartCell\": \"G132\", \"units\": \"Miles de pesos\", \"dataset_identifier\": \"458\", \"distribution_identifier\": \"458.1\"}, {\"title\": \"ventas_resto_precios_constantes\", \"type\": \"number\", \"description\": \"Ventas centros de compras. Ventas resto del pa\\u00eds a precios constantes\", \"id\": \"458.1_VENTAS_RESTES_ABRI_M_31_8\", \"scrapingIdentifierCell\": \"H131\", \"scrapingDataStartCell\": \"H132\", \"units\": \"Miles de pesos\", \"dataset_identifier\": \"458\", \"distribution_identifier\": \"458.1\"}, {\"title\": \"total\", \"type\": \"number\", \"description\": \"Ventas centros de compras. Total\", \"id\": \"458.1_TOTALTAL_ABRI_M_5_38\", \"scrapingIdentifierCell\": \"J131\", \"scrapingDataStartCell\": \"J132\", \"units\": \"Pesos\", \"dataset_identifier\": \"458\", \"distribution_identifier\": \"458.1\"}, {\"title\": \"indumentaria_calzado_marroquineria\", \"type\": \"number\", \"description\": \"Ventas centros de compras. Indumentaria, calzado y marroquiner\\u00eda\", \"id\": \"458.1_INDUMENTARRIA_ABRI_M_34_29\", \"scrapingIdentifierCell\": \"K131\", \"scrapingDataStartCell\": \"K132\", \"units\": \"Pesos\", \"dataset_identifier\": \"458\", \"distribution_identifier\": \"458.1\"}, {\"title\": \"ropa_accesorios_deportivos\", \"type\": \"number\", \"description\": \"Ventas centros de compras. Ropa y accesorios deportivos\", \"id\": \"458.1_ROPA_ACCESVOS_ABRI_M_26_72\", \"scrapingIdentifierCell\": \"L131\", \"scrapingDataStartCell\": \"L132\", \"units\": \"Pesos\", \"dataset_identifier\": \"458\", \"distribution_identifier\": \"458.1\"}, {\"title\": \"amoblamientos_decoracion_textiles_hogar\", \"type\": \"number\", \"description\": \"Ventas centros de compras. Amoblamientos, decoraci\\u00f3n y textiles para el hogar\", \"id\": \"458.1_AMOBLAMIENGAR_ABRI_M_39_10\", \"scrapingIdentifierCell\": \"M131\", \"scrapingDataStartCell\": \"M132\", \"units\": \"Pesos\", \"dataset_identifier\": \"458\", \"distribution_identifier\": \"458.1\"}, {\"title\": \"patio_comidas\", \"type\": \"number\", \"description\": \"Ventas centros de compras. Patio de comidas, alimentos y kioscos\", \"id\": \"458.1_PATIO_COMIDAS_ABRI_M_13_59\", \"scrapingIdentifierCell\": \"N131\", \"scrapingDataStartCell\": \"N132\", \"units\": \"Pesos\", \"dataset_identifier\": \"458\", \"distribution_identifier\": \"458.1\"}, {\"title\": \"electronicos_electrodomesticos_computacion\", \"type\": \"number\", \"description\": \"Ventas centros de compras. Electr\\u00f3nicos, CD, electrodom\\u00e9sticos y computaci\\u00f3n\", \"id\": \"458.1_ELECTRONICION_ABRI_M_42_47\", \"scrapingIdentifierCell\": \"O131\", \"scrapingDataStartCell\": \"O132\", \"units\": \"Pesos\", \"dataset_identifier\": \"458\", \"distribution_identifier\": \"458.1\"}, {\"title\": \"jugueteria\", \"type\": \"number\", \"description\": \"Ventas centros de compras. Jugueter\\u00eda\", \"id\": \"458.1_JUGUETERIARIA_ABRI_M_10_48\", \"scrapingIdentifierCell\": \"P131\", \"scrapingDataStartCell\": \"P132\", \"units\": \"Pesos\", \"dataset_identifier\": \"458\", \"distribution_identifier\": \"458.1\"}, {\"title\": \"libreria_papeleria\", \"type\": \"number\", \"description\": \"Ventas centros de compras. Librer\\u00eda y papeler\\u00eda\", \"id\": \"458.1_LIBRERIA_PRIA_ABRI_M_18_18\", \"scrapingIdentifierCell\": \"Q131\", \"scrapingDataStartCell\": \"Q132\", \"units\": \"Pesos\", \"dataset_identifier\": \"458\", \"distribution_identifier\": \"458.1\"}, {\"title\": \"diversion_esparcimiento\", \"type\": \"number\", \"description\": \"Ventas centros de compras. Diversi\\u00f3n y esparcimiento\", \"id\": \"458.1_DIVERSION_NTO_ABRI_M_23_37\", \"scrapingIdentifierCell\": \"R131\", \"scrapingDataStartCell\": \"R132\", \"units\": \"Pesos\", \"dataset_identifier\": \"458\", \"distribution_identifier\": \"458.1\"}, {\"title\": \"perfumeria_farmacia\", \"type\": \"number\", \"description\": \"Ventas centros de compras. Perfumer\\u00eda y farmacia\", \"id\": \"458.1_PERFUMERIACIA_ABRI_M_19_16\", \"scrapingIdentifierCell\": \"S131\", \"scrapingDataStartCell\": \"S132\", \"units\": \"Pesos\", \"dataset_identifier\": \"458\", \"distribution_identifier\": \"458.1\"}, {\"title\": \"otros\", \"type\": \"number\", \"description\": \"Ventas centros de compras. Otros\", \"id\": \"458.1_OTROSROS_ABRI_M_5_1\", \"scrapingIdentifierCell\": \"T131\", \"scrapingDataStartCell\": \"T132\", \"units\": \"Pesos\", \"dataset_identifier\": \"458\", \"distribution_identifier\": \"458.1\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-12-12T00:00:00",
+      "datastore_active": false,
+      "description": "Ventas totales nacionales en Centros de Compras en millones de pesos, valores corrientes y constantes (base abril 2016) y evolución por grupos de artículos (valores corrientes)",
+      "fileName": "ventas-totales-nacionales-centros-compras-valores-mensuales.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "sspm_458.1",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Ventas totales nacionales en Centros de Compras. Valores mensuales",
+      "package_id": "sspm_458",
+      "position": 0,
+      "resource_type": null,
+      "revision_id": "ce07517f-dc23-479e-9660-3d1eed8ab19d",
+      "size": null,
+      "state": "active",
+      "url": "https://infra.datos.gob.ar/catalog/sspm/dataset/458/distribution/458.1/download/ventas-totales-nacionales-centros-compras-valores-mensuales.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "ce07517f-dc23-479e-9660-3d1eed8ab19d",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "Actividad",
+      "id": "a7695c51-c893-4ece-8ff9-306c197afdd7",
+      "name": "Actividad",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Información Económica Histórica",
+      "id": "3834bbe4-6452-499b-a70e-85765a130da2",
+      "name": "Información Económica Histórica",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Ventas en centros de compras nacional",
+  "type": "dataset",
+  "url": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/",
+  "version": null
+}

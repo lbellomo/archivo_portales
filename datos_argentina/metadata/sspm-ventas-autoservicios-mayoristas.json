@@ -1,0 +1,124 @@
+{
+  "author": "Subsecretaría de Programación Macroeconómica",
+  "author_email": "datoseconomicos@mecon.gov.ar",
+  "creator_user_id": "4720e75a-9e17-4dc3-879d-041917c7f9f9",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P1M"
+    },
+    {
+      "key": "issued",
+      "value": "2019-07-30T00:00:00"
+    },
+    {
+      "key": "language",
+      "value": "[\"SPA\"]"
+    },
+    {
+      "key": "source",
+      "value": "Instituto Nacional de Estadística y Censos (INDEC)"
+    },
+    {
+      "key": "spatial",
+      "value": "ARG"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"ECON\"]"
+    },
+    {
+      "key": "temporal",
+      "value": "2017-01-01/2019-05-01"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Economía y finanzas",
+      "display_name": "Economía y finanzas",
+      "id": "60b4b03e-10a1-4d67-b984-08008a249617",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225257.200233economia-finanzas.svg",
+      "name": "econ",
+      "title": "Economía y finanzas"
+    }
+  ],
+  "id": "sspm_456",
+  "isopen": true,
+  "license_id": "CC-BY-4.0",
+  "license_title": "Creative Commons Attribution 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "maintainer": "Subsecretaría de Programación Macroeconómica.",
+  "maintainer_email": "datoseconomicos@mecon.gov.ar",
+  "metadata_created": "2019-11-26T15:04:21.680548",
+  "metadata_modified": "2021-04-29T21:05:16.885973",
+  "name": "sspm-ventas-autoservicios-mayoristas",
+  "notes": "Ventas totales en autoservicios mayoristas a valores corrientes y constantes y evolución por canal de venta, medio de pago y grupos de artículos",
+  "num_resources": 1,
+  "num_tags": 2,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:09.718132",
+    "description": "",
+    "id": "68f9ee22-5ec3-44cf-a32b-b87d9db46b93",
+    "image_url": "",
+    "is_organization": true,
+    "name": "sspm",
+    "revision_id": "bc058ce0-3540-4204-96cd-9f9ec79045b3",
+    "state": "active",
+    "title": "Subsecretaría de Programación Macroeconómica",
+    "type": "organization"
+  },
+  "owner_org": "68f9ee22-5ec3-44cf-a32b-b87d9db46b93",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/",
+      "attributesDescription": "[{\"title\": \"indice_tiempo\", \"type\": \"date\", \"specialType\": \"time_index\", \"specialTypeDetail\": \"R/P1M\", \"id\": \"456.1_INDICE_TIEMPO_0_M_13_14\", \"scrapingIdentifierCell\": \"A141\", \"scrapingDataStartCell\": \"A142\", \"dataset_identifier\": \"456\", \"distribution_identifier\": \"456.1\"}, {\"title\": \"ventas_precios_corrientes\", \"type\": \"number\", \"description\": \"Autoservicios mayoristas. Ventas a precios corrientes\", \"id\": \"456.1_VENTAS_PRETES_0_M_25_91\", \"scrapingIdentifierCell\": \"B141\", \"scrapingDataStartCell\": \"B142\", \"units\": \"Millones de pesos\", \"dataset_identifier\": \"456\", \"distribution_identifier\": \"456.1\"}, {\"title\": \"ventas_precios_constantes\", \"type\": \"number\", \"description\": \"Autoservicios mayoristas. Ventas a precios constantes\", \"id\": \"456.1_VENTAS_PRETES_0_M_25_67\", \"scrapingIdentifierCell\": \"C141\", \"scrapingDataStartCell\": \"C142\", \"units\": \"Millones de pesos\", \"dataset_identifier\": \"456\", \"distribution_identifier\": \"456.1\"}, {\"title\": \"ventas_totales_canal_venta\", \"type\": \"number\", \"description\": \"Autoservicios mayoristas. Ventas totales por canal de venta\", \"id\": \"456.1_VENTAS_TOTNTA_0_M_26_40\", \"scrapingIdentifierCell\": \"E141\", \"scrapingDataStartCell\": \"E142\", \"units\": \"Miles de pesos\", \"dataset_identifier\": \"456\", \"distribution_identifier\": \"456.1\"}, {\"title\": \"salon_de_ventas\", \"type\": \"number\", \"description\": \"Autoservicios mayoristas. Sal\\u00f3n de ventas\", \"id\": \"456.1_SALON_DE_VTAS_0_M_15_17\", \"scrapingIdentifierCell\": \"F141\", \"scrapingDataStartCell\": \"F142\", \"units\": \"Miles de pesos\", \"dataset_identifier\": \"456\", \"distribution_identifier\": \"456.1\"}, {\"title\": \"canales_on_line\", \"type\": \"number\", \"description\": \"Autoservicios mayoristas. Canales On-line\", \"id\": \"456.1_CANALES_ONINE_0_M_15_77\", \"scrapingIdentifierCell\": \"G141\", \"scrapingDataStartCell\": \"G142\", \"units\": \"Miles de pesos\", \"dataset_identifier\": \"456\", \"distribution_identifier\": \"456.1\"}, {\"title\": \"ventas_totales_medio_pago\", \"type\": \"number\", \"description\": \"Autoservicios mayoristas. Ventas totales por medio de pago\", \"id\": \"456.1_VENTAS_TOTAGO_0_M_25_27\", \"scrapingIdentifierCell\": \"I141\", \"scrapingDataStartCell\": \"I142\", \"units\": \"Miles de pesos\", \"dataset_identifier\": \"456\", \"distribution_identifier\": \"456.1\"}, {\"title\": \"efectivo\", \"type\": \"number\", \"description\": \"Autoservicios mayoristas. Efectivo\", \"id\": \"456.1_EFECTIVOIVO_0_M_8_13\", \"scrapingIdentifierCell\": \"J141\", \"scrapingDataStartCell\": \"J142\", \"units\": \"Miles de pesos\", \"dataset_identifier\": \"456\", \"distribution_identifier\": \"456.1\"}, {\"title\": \"tarjetas_debito\", \"type\": \"number\", \"description\": \"Autoservicios mayoristas. Tarjetas de d\\u00e9bito\", \"id\": \"456.1_TARJETAS_DITO_0_M_15_84\", \"scrapingIdentifierCell\": \"K141\", \"scrapingDataStartCell\": \"K142\", \"units\": \"Miles de pesos\", \"dataset_identifier\": \"456\", \"distribution_identifier\": \"456.1\"}, {\"title\": \"tarjetas_credito\", \"type\": \"number\", \"description\": \"Autoservicios mayoristas. Tarjetas de cr\\u00e9dito\", \"id\": \"456.1_TARJETAS_CITO_0_M_16_82\", \"scrapingIdentifierCell\": \"L141\", \"scrapingDataStartCell\": \"L142\", \"units\": \"Miles de pesos\", \"dataset_identifier\": \"456\", \"distribution_identifier\": \"456.1\"}, {\"title\": \"otros_medios\", \"type\": \"number\", \"description\": \"Autoservicios mayoristas. Otros medios\", \"id\": \"456.1_OTROS_MEDIIOS_0_M_12_12\", \"scrapingIdentifierCell\": \"M141\", \"scrapingDataStartCell\": \"M142\", \"units\": \"Miles de pesos\", \"dataset_identifier\": \"456\", \"distribution_identifier\": \"456.1\"}, {\"title\": \"ventas_totales_grupos_articulos\", \"type\": \"number\", \"description\": \"Autoservicios mayoristas. Ventas totales por grupos de art\\u00edculos\", \"id\": \"456.1_VENTAS_TOTLOS_0_M_31_93\", \"scrapingIdentifierCell\": \"O141\", \"scrapingDataStartCell\": \"O142\", \"units\": \"Miles de pesos\", \"dataset_identifier\": \"456\", \"distribution_identifier\": \"456.1\"}, {\"title\": \"subtotal_alimentos_bebidas\", \"type\": \"number\", \"description\": \"Autoservicios mayoristas. Subtotal alimentos y bebidas\", \"id\": \"456.1_SUBTOTAL_ADAS_0_M_26_25\", \"scrapingIdentifierCell\": \"P141\", \"scrapingDataStartCell\": \"P142\", \"units\": \"Miles de pesos\", \"dataset_identifier\": \"456\", \"distribution_identifier\": \"456.1\"}, {\"title\": \"bebidas\", \"type\": \"number\", \"description\": \"Autoservicios mayoristas. Bebidas\", \"id\": \"456.1_BEBIDASDAS_0_M_7_58\", \"scrapingIdentifierCell\": \"Q141\", \"scrapingDataStartCell\": \"Q142\", \"units\": \"Miles de pesos\", \"dataset_identifier\": \"456\", \"distribution_identifier\": \"456.1\"}, {\"title\": \"almacen\", \"type\": \"number\", \"description\": \"Autoservicios mayoristas. Almac\\u00e9n\", \"id\": \"456.1_ALMACENCEN_0_M_7_96\", \"scrapingIdentifierCell\": \"R141\", \"scrapingDataStartCell\": \"R142\", \"units\": \"Miles de pesos\", \"dataset_identifier\": \"456\", \"distribution_identifier\": \"456.1\"}, {\"title\": \"panaderia\", \"type\": \"number\", \"description\": \"Autoservicios mayoristas. Panader\\u00eda\", \"id\": \"456.1_PANADERIARIA_0_M_9_21\", \"scrapingIdentifierCell\": \"S141\", \"scrapingDataStartCell\": \"S142\", \"units\": \"Miles de pesos\", \"dataset_identifier\": \"456\", \"distribution_identifier\": \"456.1\"}, {\"title\": \"lacteos\", \"type\": \"number\", \"description\": \"Autoservicios mayoristas. L\\u00e1cteos\", \"id\": \"456.1_LACTEOSEOS_0_M_7_26\", \"scrapingIdentifierCell\": \"T141\", \"scrapingDataStartCell\": \"T142\", \"units\": \"Miles de pesos\", \"dataset_identifier\": \"456\", \"distribution_identifier\": \"456.1\"}, {\"title\": \"carnes\", \"type\": \"number\", \"description\": \"Autoservicios mayoristas. Carnes\", \"id\": \"456.1_CARNESNES_0_M_6_86\", \"scrapingIdentifierCell\": \"U141\", \"scrapingDataStartCell\": \"U142\", \"units\": \"Miles de pesos\", \"dataset_identifier\": \"456\", \"distribution_identifier\": \"456.1\"}, {\"title\": \"verduleria_fruteria\", \"type\": \"number\", \"description\": \"Autoservicios mayoristas. Verduler\\u00eda y fruter\\u00eda\", \"id\": \"456.1_VERDULERIARIA_0_M_19_22\", \"scrapingIdentifierCell\": \"V141\", \"scrapingDataStartCell\": \"V142\", \"units\": \"Miles de pesos\", \"dataset_identifier\": \"456\", \"distribution_identifier\": \"456.1\"}, {\"title\": \"articulos_limpieza_perfumeria\", \"type\": \"number\", \"description\": \"Autoservicios mayoristas. Art\\u00edculos  de limpieza y perfumer\\u00eda\", \"id\": \"456.1_ARTICULOS_RIA_0_M_29_2\", \"scrapingIdentifierCell\": \"X141\", \"scrapingDataStartCell\": \"X142\", \"units\": \"Miles de pesos\", \"dataset_identifier\": \"456\", \"distribution_identifier\": \"456.1\"}, {\"title\": \"indumentaria_calzado_textiles_hogar\", \"type\": \"number\", \"description\": \"Autoservicios mayoristas. Indumentaria, calzado  y textiles para el hogar\", \"id\": \"456.1_INDUMENTARGAR_0_M_35_14\", \"scrapingIdentifierCell\": \"Y141\", \"scrapingDataStartCell\": \"Y142\", \"units\": \"Miles de pesos\", \"dataset_identifier\": \"456\", \"distribution_identifier\": \"456.1\"}, {\"title\": \"electronicos_articulos_hogar\", \"type\": \"number\", \"description\": \"Autoservicios mayoristas. Electr\\u00f3nicos y art\\u00edculos para el hogar\", \"id\": \"456.1_ELECTRONICGAR_0_M_28_79\", \"scrapingIdentifierCell\": \"Z141\", \"scrapingDataStartCell\": \"Z142\", \"units\": \"Miles de pesos\", \"dataset_identifier\": \"456\", \"distribution_identifier\": \"456.1\"}, {\"title\": \"otros\", \"type\": \"number\", \"description\": \"Autoservicios mayoristas. Otros\", \"id\": \"456.1_OTROSROS_0_M_5_93\", \"scrapingIdentifierCell\": \"AA141\", \"scrapingDataStartCell\": \"AA142\", \"units\": \"Miles de pesos\", \"dataset_identifier\": \"456\", \"distribution_identifier\": \"456.1\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-07-30T00:00:00",
+      "datastore_active": false,
+      "description": "Ventas totales en autoservicios mayoristas a valores corrientes y constantes y evolución por canal de venta, medio de pago y grupos de artículos",
+      "fileName": "ventas-totales-autoservicios-mayoristas.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "sspm_456.1",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Ventas totales en autoservicios mayoristas a valores corrientes y constantes y evolución por canal de venta, medio de pago y grupos de artículos",
+      "package_id": "sspm_456",
+      "position": 0,
+      "resource_type": null,
+      "revision_id": "43f33f1b-0a12-43da-935a-18ee3d210a0a",
+      "size": null,
+      "state": "active",
+      "url": "https://infra.datos.gob.ar/catalog/sspm/dataset/456/distribution/456.1/download/ventas-totales-autoservicios-mayoristas.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "43f33f1b-0a12-43da-935a-18ee3d210a0a",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "Actividad",
+      "id": "a7695c51-c893-4ece-8ff9-306c197afdd7",
+      "name": "Actividad",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Información Económica al Día",
+      "id": "0d300a9a-0802-46c3-9a40-2f28ddf050ec",
+      "name": "Información Económica al Día",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Ventas en autoservicios mayoristas",
+  "type": "dataset",
+  "url": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/",
+  "version": null
+}

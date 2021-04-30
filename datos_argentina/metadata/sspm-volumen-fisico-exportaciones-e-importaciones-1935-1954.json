@@ -1,0 +1,156 @@
+{
+  "author": "Subsecretaría de Programación Macroeconómica",
+  "author_email": "datoseconomicos@mecon.gov.ar",
+  "creator_user_id": "4720e75a-9e17-4dc3-879d-041917c7f9f9",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P1Y"
+    },
+    {
+      "key": "issued",
+      "value": "2018-02-21"
+    },
+    {
+      "key": "language",
+      "value": "[\"SPA\"]"
+    },
+    {
+      "key": "source",
+      "value": "Secretaría de Asuntos Económicos"
+    },
+    {
+      "key": "spatial",
+      "value": "ARG"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"ECON\"]"
+    },
+    {
+      "key": "temporal",
+      "value": "1935-01-01/1954-01-01"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Economía y finanzas",
+      "display_name": "Economía y finanzas",
+      "id": "60b4b03e-10a1-4d67-b984-08008a249617",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225257.200233economia-finanzas.svg",
+      "name": "econ",
+      "title": "Economía y finanzas"
+    }
+  ],
+  "id": "sspm_385",
+  "isopen": true,
+  "license_id": "CC-BY-4.0",
+  "license_title": "Creative Commons Attribution 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "maintainer": "Subsecretaría de Programación Macroeconómica.",
+  "maintainer_email": "datoseconomicos@mecon.gov.ar",
+  "metadata_created": "2019-11-26T15:03:40.533118",
+  "metadata_modified": "2021-04-29T21:05:27.417287",
+  "name": "sspm-volumen-fisico-exportaciones-e-importaciones-1935-1954",
+  "notes": "Volumen Físico de Exportaciones e Importaciones a precios constantes de 1950",
+  "num_resources": 2,
+  "num_tags": 3,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:09.718132",
+    "description": "",
+    "id": "68f9ee22-5ec3-44cf-a32b-b87d9db46b93",
+    "image_url": "",
+    "is_organization": true,
+    "name": "sspm",
+    "revision_id": "bc058ce0-3540-4204-96cd-9f9ec79045b3",
+    "state": "active",
+    "title": "Subsecretaría de Programación Macroeconómica",
+    "type": "organization"
+  },
+  "owner_org": "68f9ee22-5ec3-44cf-a32b-b87d9db46b93",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/",
+      "attributesDescription": "[{\"title\": \"indice_tiempo\", \"type\": \"date\", \"specialType\": \"time_index\", \"specialTypeDetail\": \"R/P1Y\", \"id\": \"242.1_ICE_TIEMPO_0_0_13\", \"dataset_identifier\": \"385\", \"distribution_identifier\": \"385.1\"}, {\"title\": \"vol_fis_impo_sust_alimenticias\", \"type\": \"number\", \"description\": \"Volumen F\\u00edsico de Importaciones. Sustancias Alimenticias\", \"id\": \"242.1_VFIS_IMIAS_0_0_30\", \"units\": \"\\u00cdndice\", \"dataset_identifier\": \"385\", \"distribution_identifier\": \"385.1\"}, {\"title\": \"vol_fis_impo_tabaco_manufac\", \"type\": \"number\", \"description\": \"Volumen F\\u00edsico de Importaciones. Tabaco y Manufacturas\", \"id\": \"242.1_VFIS_IMFAC_0_0_27\", \"units\": \"\\u00cdndice\", \"dataset_identifier\": \"385\", \"distribution_identifier\": \"385.1\"}, {\"title\": \"vol_fis_impo_textiles_manufac\", \"type\": \"number\", \"description\": \"Volumen F\\u00edsico de Importaciones. Textiles y Manufacturas\", \"id\": \"242.1_VFIS_IMFAC_0_0_29\", \"units\": \"\\u00cdndice\", \"dataset_identifier\": \"385\", \"distribution_identifier\": \"385.1\"}, {\"title\": \"vol_fis_impo_prod_quimicos\", \"type\": \"number\", \"description\": \"Volumen F\\u00edsico de Importaciones. Productos Qu\\u00edmicos\", \"id\": \"242.1_VFIS_IMCOS_0_0_26\", \"units\": \"\\u00cdndice\", \"dataset_identifier\": \"385\", \"distribution_identifier\": \"385.1\"}, {\"title\": \"vol_fis_impo_papel_carton\", \"type\": \"number\", \"description\": \"Volumen F\\u00edsico de Importaciones. Papel Cart\\u00f3n\", \"id\": \"242.1_VFIS_IMTON_0_0_25\", \"units\": \"\\u00cdndice\", \"dataset_identifier\": \"385\", \"distribution_identifier\": \"385.1\"}, {\"title\": \"vol_fis_impo_maderas\", \"type\": \"number\", \"description\": \"Volumen F\\u00edsico de Importaciones. Maderas\", \"id\": \"242.1_VFIS_IMRAS_0_0_20\", \"units\": \"\\u00cdndice\", \"dataset_identifier\": \"385\", \"distribution_identifier\": \"385.1\"}, {\"title\": \"vol_fis_impo_hierros_artefactos\", \"type\": \"number\", \"description\": \"Volumen F\\u00edsico de Importaciones. Hierros y Artefactos\", \"id\": \"242.1_VFIS_IMTOS_0_0_31\", \"units\": \"\\u00cdndice\", \"dataset_identifier\": \"385\", \"distribution_identifier\": \"385.1\"}, {\"title\": \"vol_fis_impo_maquin_vehiculos\", \"type\": \"number\", \"description\": \"Volumen F\\u00edsico de Importaciones. Maquinaria y Veh\\u00edculos\", \"id\": \"242.1_VFIS_IMLOS_0_0_29\", \"units\": \"\\u00cdndice\", \"dataset_identifier\": \"385\", \"distribution_identifier\": \"385.1\"}, {\"title\": \"vol_fis_impo_piedras_tierras\", \"type\": \"number\", \"description\": \"Volumen F\\u00edsico de Importaciones. Piedras y Tierras\", \"id\": \"242.1_VFIS_IMRAS_0_0_28\", \"units\": \"\\u00cdndice\", \"dataset_identifier\": \"385\", \"distribution_identifier\": \"385.1\"}, {\"title\": \"vol_fis_impo_combustibles_lubricantes\", \"type\": \"number\", \"description\": \"Volumen F\\u00edsico de Importaciones. Combustibles y Lubricantes\", \"id\": \"242.1_VFIS_IMTES_0_0_37\", \"units\": \"\\u00cdndice\", \"dataset_identifier\": \"385\", \"distribution_identifier\": \"385.1\"}, {\"title\": \"vol_fis_impo_caucho_manufac\", \"type\": \"number\", \"description\": \"Volumen F\\u00edsico de Importaciones. Caucho y Manufacturas\", \"id\": \"242.1_VFIS_IMFACAU_0_0_27\", \"units\": \"\\u00cdndice\", \"dataset_identifier\": \"385\", \"distribution_identifier\": \"385.1\"}, {\"title\": \"vol_fis_impo_otros\", \"type\": \"number\", \"description\": \"Volumen F\\u00edsico de Importaciones. Otros\", \"id\": \"242.1_VFIS_IMROS_0_0_18\", \"units\": \"\\u00cdndice\", \"dataset_identifier\": \"385\", \"distribution_identifier\": \"385.1\"}, {\"title\": \"vol_fis_impo_total\", \"type\": \"number\", \"description\": \"Volumen F\\u00edsico de Importaciones. Total\", \"id\": \"242.1_VFIS_IMTAL_0_0_18\", \"units\": \"\\u00cdndice\", \"dataset_identifier\": \"385\", \"distribution_identifier\": \"385.1\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2018-02-21T00:00:00",
+      "datastore_active": false,
+      "description": "Volumen Físico de Importaciones a precios constantes de 1950. 1935-1954",
+      "fileName": "volumen-fisico-importaciones-precios-constantes-1950-anual.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "sspm_385.1",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Volumen Físico de importaciones. Precios constantes. Base 1950. Valores anuales",
+      "package_id": "sspm_385",
+      "position": 0,
+      "resource_type": null,
+      "revision_id": "89551875-108a-4c00-ab23-9d0e153bc3a7",
+      "size": null,
+      "state": "active",
+      "url": "https://infra.datos.gob.ar/catalog/sspm/dataset/385/distribution/385.1/download/volumen-fisico-importaciones-precios-constantes-1950-anual.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/",
+      "attributesDescription": "[{\"title\": \"indice_tiempo\", \"type\": \"date\", \"specialType\": \"time_index\", \"specialTypeDetail\": \"R/P1Y\", \"id\": \"243.1_ICE_TIEMPO_0_0_13\", \"dataset_identifier\": \"385\", \"distribution_identifier\": \"385.2\"}, {\"title\": \"vol_fis_expo_prod_agrop_ganad_carnes\", \"type\": \"number\", \"description\": \"Volumen F\\u00edsico de Exportaciones. Productos Agropecuarios y Ganaderos. Carnes\", \"id\": \"243.1_VFIS_EXNES_0_0_36\", \"units\": \"\\u00cdndice\", \"dataset_identifier\": \"385\", \"distribution_identifier\": \"385.2\"}, {\"title\": \"vol_fis_expo_prod_agrop_ganad_cueros\", \"type\": \"number\", \"description\": \"Volumen F\\u00edsico de Exportaciones. Productos Agropecuarios y Ganaderos. Cueros\", \"id\": \"243.1_VFIS_EXROS_0_0_36\", \"units\": \"\\u00cdndice\", \"dataset_identifier\": \"385\", \"distribution_identifier\": \"385.2\"}, {\"title\": \"vol_fis_expo_prod_agrop_ganad_lanas\", \"type\": \"number\", \"description\": \"Volumen F\\u00edsico de Exportaciones. Productos Agropecuarios y Ganaderos. Lanas\", \"id\": \"243.1_VFIS_EXNAS_0_0_35\", \"units\": \"\\u00cdndice\", \"dataset_identifier\": \"385\", \"distribution_identifier\": \"385.2\"}, {\"title\": \"vol_fis_expo_prod_agrop_ganad_prod_lecheros\", \"type\": \"number\", \"description\": \"Volumen F\\u00edsico de Exportaciones. Productos Agropecuarios y Ganaderos. Productos Lecheros\", \"id\": \"243.1_VFIS_EXROS_0_0_43\", \"units\": \"\\u00cdndice\", \"dataset_identifier\": \"385\", \"distribution_identifier\": \"385.2\"}, {\"title\": \"vol_fis_expo_prod_agrop_ganad_subprod_ganaderos\", \"type\": \"number\", \"description\": \"Volumen F\\u00edsico de Exportaciones. Productos Agropecuarios y Ganaderos. Subproductos Ganaderos\", \"id\": \"243.1_VFIS_EXROS_0_0_47\", \"units\": \"\\u00cdndice\", \"dataset_identifier\": \"385\", \"distribution_identifier\": \"385.2\"}, {\"title\": \"vol_fis_expo_prod_agrop_ganad_residuos\", \"type\": \"number\", \"description\": \"Volumen F\\u00edsico de Exportaciones. Productos Agropecuarios y Ganaderos. Residuos\", \"id\": \"243.1_VFIS_EXUOS_0_0_38\", \"units\": \"\\u00cdndice\", \"dataset_identifier\": \"385\", \"distribution_identifier\": \"385.2\"}, {\"title\": \"vol_fis_expo_prod_agrop_ganad_total\", \"type\": \"number\", \"description\": \"Volumen F\\u00edsico de Exportaciones. Productos Agropecuarios y Ganaderos. Total\", \"id\": \"243.1_VFIS_EXTAL_0_0_35\", \"units\": \"\\u00cdndice\", \"dataset_identifier\": \"385\", \"distribution_identifier\": \"385.2\"}, {\"title\": \"vol_fis_expo_agric_cereales_lino\", \"type\": \"number\", \"description\": \"Volumen F\\u00edsico de Exportaciones. Productos Agr\\u00edcolas. Cereales y Lino\", \"id\": \"243.1_VFIS_EXINO_0_0_32\", \"units\": \"\\u00cdndice\", \"dataset_identifier\": \"385\", \"distribution_identifier\": \"385.2\"}, {\"title\": \"vol_fis_expo_agric_frutas_frescas_hortalizas_legumbres\", \"type\": \"number\", \"description\": \"Volumen F\\u00edsico de Exportaciones. Productos Agr\\u00edcolas. Frutas Frescas, Hortalizas y Legumbres\", \"id\": \"243.1_VFIS_EXRES_0_0_54\", \"units\": \"\\u00cdndice\", \"dataset_identifier\": \"385\", \"distribution_identifier\": \"385.2\"}, {\"title\": \"vol_fis_expo_agric_otros_prod\", \"type\": \"number\", \"description\": \"Volumen F\\u00edsico de Exportaciones. Productos Agr\\u00edcolas. Otros Productos\", \"id\": \"243.1_VFIS_EXROD_0_0_29\", \"units\": \"\\u00cdndice\", \"dataset_identifier\": \"385\", \"distribution_identifier\": \"385.2\"}, {\"title\": \"vol_fis_expo_prod_agric_total\", \"type\": \"number\", \"description\": \"Volumen F\\u00edsico de Exportaciones. Productos Agr\\u00edcolas. Total\", \"id\": \"243.1_VFIS_EXTAL_0_0_29\", \"units\": \"\\u00cdndice\", \"dataset_identifier\": \"385\", \"distribution_identifier\": \"385.2\"}, {\"title\": \"vol_fis_expo_prod_agrop_agric_total\", \"type\": \"number\", \"description\": \"Volumen F\\u00edsico de Exportaciones. Productos Agropecuarios. Total\", \"id\": \"243.1_VFIS_EXTALAGR_0_0_35\", \"units\": \"\\u00cdndice\", \"dataset_identifier\": \"385\", \"distribution_identifier\": \"385.2\"}, {\"title\": \"vol_fis_expo_prod_forestales\", \"type\": \"number\", \"description\": \"Volumen F\\u00edsico de Exportaciones. Productos Forestales\", \"id\": \"243.1_VFIS_EXLES_0_0_28\", \"units\": \"\\u00cdndice\", \"dataset_identifier\": \"385\", \"distribution_identifier\": \"385.2\"}, {\"title\": \"vol_fis_expo_diversos_articulos_manufacturados\", \"type\": \"number\", \"description\": \"Volumen F\\u00edsico de Exportaciones. Diversos Art\\u00edculos Manufacturados\", \"id\": \"243.1_VFIS_EXDOS_0_0_46\", \"units\": \"\\u00cdndice\", \"dataset_identifier\": \"385\", \"distribution_identifier\": \"385.2\"}, {\"title\": \"vol_fis_expo_total\", \"type\": \"number\", \"description\": \"Volumen F\\u00edsico de Exportaciones. Total\", \"id\": \"243.1_VFIS_EXTAL_0_0_18\", \"units\": \"\\u00cdndice\", \"dataset_identifier\": \"385\", \"distribution_identifier\": \"385.2\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2018-02-21T00:00:00",
+      "datastore_active": false,
+      "description": "Volumen Físico de Exportaciones a precios constantes de 1950. 1935-1954",
+      "fileName": "volumen-fisico-exportaciones-precios-constantes-1950-anual.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "sspm_385.2",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Volumen Físico de Exportaciones. Precios constantes. Base 1950. Valores anuales",
+      "package_id": "sspm_385",
+      "position": 1,
+      "resource_type": null,
+      "revision_id": "89551875-108a-4c00-ab23-9d0e153bc3a7",
+      "size": null,
+      "state": "active",
+      "url": "https://infra.datos.gob.ar/catalog/sspm/dataset/385/distribution/385.2/download/volumen-fisico-exportaciones-precios-constantes-1950-anual.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "ffea6a63-fc4e-4e4b-825b-8f98f87aaa7a",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "Actividad",
+      "id": "a7695c51-c893-4ece-8ff9-306c197afdd7",
+      "name": "Actividad",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Información Económica Histórica",
+      "id": "3834bbe4-6452-499b-a70e-85765a130da2",
+      "name": "Información Económica Histórica",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Sector Externo",
+      "id": "7161d5c3-be73-43e4-91b8-447209c908f4",
+      "name": "Sector Externo",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Volumen Físico de Exportaciones e Importaciones 1935-1954",
+  "type": "dataset",
+  "url": "https://infra.datos.gob.ar/dataset/sspm-volumen-fisico-exportaciones-e-importaciones-1935-1954",
+  "version": null
+}

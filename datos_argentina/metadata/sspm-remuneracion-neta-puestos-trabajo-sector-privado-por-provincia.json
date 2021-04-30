@@ -1,0 +1,156 @@
+{
+  "author": "Subsecretaría de Programación Macroeconómica",
+  "author_email": "datoseconomicos@mecon.gov.ar",
+  "creator_user_id": "4720e75a-9e17-4dc3-879d-041917c7f9f9",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P3M"
+    },
+    {
+      "key": "issued",
+      "value": "2017-09-28"
+    },
+    {
+      "key": "language",
+      "value": "[\"SPA\"]"
+    },
+    {
+      "key": "source",
+      "value": "Instituto Nacional de Estadística y Censos (INDEC)"
+    },
+    {
+      "key": "spatial",
+      "value": "ARG"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"ECON\"]"
+    },
+    {
+      "key": "temporal",
+      "value": "2006-01-01/2015-06-01"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Economía y finanzas",
+      "display_name": "Economía y finanzas",
+      "id": "60b4b03e-10a1-4d67-b984-08008a249617",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225257.200233economia-finanzas.svg",
+      "name": "econ",
+      "title": "Economía y finanzas"
+    }
+  ],
+  "id": "sspm_72",
+  "isopen": true,
+  "license_id": "CC-BY-4.0",
+  "license_title": "Creative Commons Attribution 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "maintainer": "Subsecretaría de Programación Macroeconómica.",
+  "maintainer_email": "datoseconomicos@mecon.gov.ar",
+  "metadata_created": "2019-11-26T15:04:03.757107",
+  "metadata_modified": "2021-04-29T21:06:08.269560",
+  "name": "sspm-remuneracion-neta-puestos-trabajo-sector-privado-por-provincia",
+  "notes": "Remuneración neta de los puestos de trabajo declarados por provincia. Total del país. En pesos . Datos en valores trimestrales",
+  "num_resources": 2,
+  "num_tags": 3,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:09.718132",
+    "description": "",
+    "id": "68f9ee22-5ec3-44cf-a32b-b87d9db46b93",
+    "image_url": "",
+    "is_organization": true,
+    "name": "sspm",
+    "revision_id": "bc058ce0-3540-4204-96cd-9f9ec79045b3",
+    "state": "active",
+    "title": "Subsecretaría de Programación Macroeconómica",
+    "type": "organization"
+  },
+  "owner_org": "68f9ee22-5ec3-44cf-a32b-b87d9db46b93",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/",
+      "attributesDescription": "[{\"title\": \"indice_tiempo\", \"type\": \"date\", \"specialType\": \"time_index\", \"specialTypeDetail\": \"R/P1Y\", \"id\": \"72.1_IT_E_0_A_13\", \"scrapingIdentifierCell\": \"B12\", \"scrapingDataStartCell\": \"B13\", \"dataset_identifier\": \"72\", \"distribution_identifier\": \"72.1\"}, {\"title\": \"total_sector_privado\", \"type\": \"number\", \"description\": \"Remuneracion neta sector privado. total sector privado\", \"id\": \"72.1_TSP_E_0_A_20\", \"scrapingIdentifierCell\": \"C12\", \"scrapingDataStartCell\": \"C13\", \"units\": \"Pesos\", \"dataset_identifier\": \"72\", \"distribution_identifier\": \"72.1\"}, {\"title\": \"caba\", \"type\": \"number\", \"description\": \"Remuneracion neta sector privado. Capital Federal\", \"id\": \"72.1_C_E_0_A_4\", \"scrapingIdentifierCell\": \"D12\", \"scrapingDataStartCell\": \"D13\", \"units\": \"Pesos\", \"dataset_identifier\": \"72\", \"distribution_identifier\": \"72.1\"}, {\"title\": \"provincia_buenos_aires\", \"type\": \"number\", \"description\": \"Remuneracion neta sector privado. Provincia de Buenos Aires\", \"id\": \"72.1_PBA_E_0_A_22\", \"scrapingIdentifierCell\": \"E12\", \"scrapingDataStartCell\": \"E13\", \"units\": \"Pesos\", \"dataset_identifier\": \"72\", \"distribution_identifier\": \"72.1\"}, {\"title\": \"catamarca\", \"type\": \"number\", \"description\": \"Remuneracion neta sector privado. Catamarca\", \"id\": \"72.1_C_E_0_A_9\", \"scrapingIdentifierCell\": \"F12\", \"scrapingDataStartCell\": \"F13\", \"units\": \"Pesos\", \"dataset_identifier\": \"72\", \"distribution_identifier\": \"72.1\"}, {\"title\": \"cordoba\", \"type\": \"number\", \"description\": \"Remuneracion neta sector privado. Cordoba\", \"id\": \"72.1_C_E_0_A_7\", \"scrapingIdentifierCell\": \"G12\", \"scrapingDataStartCell\": \"G13\", \"units\": \"Pesos\", \"dataset_identifier\": \"72\", \"distribution_identifier\": \"72.1\"}, {\"title\": \"corrientes\", \"type\": \"number\", \"description\": \"Remuneracion neta sector privado. Corrientes\", \"id\": \"72.1_C_E_0_A_10\", \"scrapingIdentifierCell\": \"H12\", \"scrapingDataStartCell\": \"H13\", \"units\": \"Pesos\", \"dataset_identifier\": \"72\", \"distribution_identifier\": \"72.1\"}, {\"title\": \"chaco\", \"type\": \"number\", \"description\": \"Remuneracion neta sector privado. Chaco\", \"id\": \"72.1_C_E_0_A_5\", \"scrapingIdentifierCell\": \"I12\", \"scrapingDataStartCell\": \"I13\", \"units\": \"Pesos\", \"dataset_identifier\": \"72\", \"distribution_identifier\": \"72.1\"}, {\"title\": \"chubut\", \"type\": \"number\", \"description\": \"Remuneracion neta sector privado. Chubut\", \"id\": \"72.1_C_E_0_A_6\", \"scrapingIdentifierCell\": \"J12\", \"scrapingDataStartCell\": \"J13\", \"units\": \"Pesos\", \"dataset_identifier\": \"72\", \"distribution_identifier\": \"72.1\"}, {\"title\": \"entre_rios\", \"type\": \"number\", \"description\": \"Remuneracion neta sector privado. Entre Rios\", \"id\": \"72.1_ER_E_0_A_10\", \"scrapingIdentifierCell\": \"K12\", \"scrapingDataStartCell\": \"K13\", \"units\": \"Pesos\", \"dataset_identifier\": \"72\", \"distribution_identifier\": \"72.1\"}, {\"title\": \"formosa\", \"type\": \"number\", \"description\": \"Remuneracion neta sector privado. Formosa\", \"id\": \"72.1_F_E_0_A_7\", \"scrapingIdentifierCell\": \"L12\", \"scrapingDataStartCell\": \"L13\", \"units\": \"Pesos\", \"dataset_identifier\": \"72\", \"distribution_identifier\": \"72.1\"}, {\"title\": \"jujuy\", \"type\": \"number\", \"description\": \"Remuneracion neta sector privado. Jujuy\", \"id\": \"72.1_J_E_0_A_5\", \"scrapingIdentifierCell\": \"M12\", \"scrapingDataStartCell\": \"M13\", \"units\": \"Pesos\", \"dataset_identifier\": \"72\", \"distribution_identifier\": \"72.1\"}, {\"title\": \"la_pampa\", \"type\": \"number\", \"description\": \"Remuneracion neta sector privado. La Pampa\", \"id\": \"72.1_LP_E_0_A_8\", \"scrapingIdentifierCell\": \"N12\", \"scrapingDataStartCell\": \"N13\", \"units\": \"Pesos\", \"dataset_identifier\": \"72\", \"distribution_identifier\": \"72.1\"}, {\"title\": \"la_rioja\", \"type\": \"number\", \"description\": \"Remuneracion neta sector privado. La Rioja\", \"id\": \"72.1_LR_E_0_A_8\", \"scrapingIdentifierCell\": \"O12\", \"scrapingDataStartCell\": \"O13\", \"units\": \"Pesos\", \"dataset_identifier\": \"72\", \"distribution_identifier\": \"72.1\"}, {\"title\": \"mendoza\", \"type\": \"number\", \"description\": \"Remuneracion neta sector privado. Mendoza\", \"id\": \"72.1_M_E_0_A_7\", \"scrapingIdentifierCell\": \"P12\", \"scrapingDataStartCell\": \"P13\", \"units\": \"Pesos\", \"dataset_identifier\": \"72\", \"distribution_identifier\": \"72.1\"}, {\"title\": \"misiones\", \"type\": \"number\", \"description\": \"Remuneracion neta sector privado. Misiones\", \"id\": \"72.1_M_E_0_A_8\", \"scrapingIdentifierCell\": \"Q12\", \"scrapingDataStartCell\": \"Q13\", \"units\": \"Pesos\", \"dataset_identifier\": \"72\", \"distribution_identifier\": \"72.1\"}, {\"title\": \"neuquen\", \"type\": \"number\", \"description\": \"Remuneracion neta sector privado. Neuquen\", \"id\": \"72.1_N_E_0_A_7\", \"scrapingIdentifierCell\": \"R12\", \"scrapingDataStartCell\": \"R13\", \"units\": \"Pesos\", \"dataset_identifier\": \"72\", \"distribution_identifier\": \"72.1\"}, {\"title\": \"rio_negro\", \"type\": \"number\", \"description\": \"Remuneracion neta sector privado. Rio Negro\", \"id\": \"72.1_RN_E_0_A_9\", \"scrapingIdentifierCell\": \"S12\", \"scrapingDataStartCell\": \"S13\", \"units\": \"Pesos\", \"dataset_identifier\": \"72\", \"distribution_identifier\": \"72.1\"}, {\"title\": \"salta\", \"type\": \"number\", \"description\": \"Remuneracion neta sector privado. Salta\", \"id\": \"72.1_S_E_0_A_5\", \"scrapingIdentifierCell\": \"T12\", \"scrapingDataStartCell\": \"T13\", \"units\": \"Pesos\", \"dataset_identifier\": \"72\", \"distribution_identifier\": \"72.1\"}, {\"title\": \"san_juan\", \"type\": \"number\", \"description\": \"Remuneracion neta sector privado. San Juan\", \"id\": \"72.1_SJ_E_0_A_8\", \"scrapingIdentifierCell\": \"U12\", \"scrapingDataStartCell\": \"U13\", \"units\": \"Pesos\", \"dataset_identifier\": \"72\", \"distribution_identifier\": \"72.1\"}, {\"title\": \"san_luis\", \"type\": \"number\", \"description\": \"Remuneracion neta sector privado. San Luis\", \"id\": \"72.1_SL_E_0_A_8\", \"scrapingIdentifierCell\": \"V12\", \"scrapingDataStartCell\": \"V13\", \"units\": \"Pesos\", \"dataset_identifier\": \"72\", \"distribution_identifier\": \"72.1\"}, {\"title\": \"santa_cruz\", \"type\": \"number\", \"description\": \"Remuneracion neta sector privado. Santa Cruz\", \"id\": \"72.1_SC_E_0_A_10\", \"scrapingIdentifierCell\": \"W12\", \"scrapingDataStartCell\": \"W13\", \"units\": \"Pesos\", \"dataset_identifier\": \"72\", \"distribution_identifier\": \"72.1\"}, {\"title\": \"santa_fe\", \"type\": \"number\", \"description\": \"Remuneracion neta sector privado. San Fe\", \"id\": \"72.1_SF_E_0_A_8\", \"scrapingIdentifierCell\": \"X12\", \"scrapingDataStartCell\": \"X13\", \"units\": \"Pesos\", \"dataset_identifier\": \"72\", \"distribution_identifier\": \"72.1\"}, {\"title\": \"santiago_estero\", \"type\": \"number\", \"description\": \"Remuneracion neta sector privado. Santiago del Estero\", \"id\": \"72.1_SE_E_0_A_15\", \"scrapingIdentifierCell\": \"Y12\", \"scrapingDataStartCell\": \"Y13\", \"units\": \"Pesos\", \"dataset_identifier\": \"72\", \"distribution_identifier\": \"72.1\"}, {\"title\": \"tierra_fuego\", \"type\": \"number\", \"description\": \"Remuneracion neta sector privado. Tierra del Fuego\", \"id\": \"72.1_TF_E_0_A_12\", \"scrapingIdentifierCell\": \"Z12\", \"scrapingDataStartCell\": \"Z13\", \"units\": \"Pesos\", \"dataset_identifier\": \"72\", \"distribution_identifier\": \"72.1\"}, {\"title\": \"tucuman\", \"type\": \"number\", \"description\": \"Remuneracion neta sector privado. Tucuman\", \"id\": \"72.1_T_E_0_A_7\", \"scrapingIdentifierCell\": \"AA12\", \"scrapingDataStartCell\": \"AA13\", \"units\": \"Pesos\", \"dataset_identifier\": \"72\", \"distribution_identifier\": \"72.1\"}, {\"title\": \"sin_clasificar\", \"type\": \"number\", \"description\": \"Remuneracion neta sector privado. Sin clasificar\", \"id\": \"72.1_S_E_0_A_14\", \"scrapingIdentifierCell\": \"AB12\", \"scrapingDataStartCell\": \"AB13\", \"units\": \"Pesos\", \"dataset_identifier\": \"72\", \"distribution_identifier\": \"72.1\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-09-28T00:00:00",
+      "datastore_active": false,
+      "description": "Remuneración neta de los puestos de trabajo declarados por sector de actividad económica. Total país.Datos en valores anuales (en pesos)",
+      "fileName": "remuneracion-neta-puestos-trabajo-por-provincia-anual-pesos.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "sspm_72.1",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Remuneración neta de los puestos de trabajo por provincia. Pesos. Valores anuales.",
+      "package_id": "sspm_72",
+      "position": 0,
+      "resource_type": null,
+      "revision_id": "78dc6df8-1f5b-422b-90f2-22df88f3ef2d",
+      "size": null,
+      "state": "active",
+      "url": "https://infra.datos.gob.ar/catalog/sspm/dataset/72/distribution/72.1/download/remuneracion-neta-puestos-trabajo-por-provincia-anual-pesos.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/",
+      "attributesDescription": "[{\"title\": \"indice_tiempo\", \"type\": \"date\", \"specialType\": \"time_index\", \"specialTypeDetail\": \"R/P3M\", \"id\": \"72.2_IT_E_0_T_13\", \"scrapingIdentifierCell\": \"B28\", \"scrapingDataStartCell\": \"B29\", \"dataset_identifier\": \"72\", \"distribution_identifier\": \"72.2\"}, {\"title\": \"total_sector_privado\", \"type\": \"number\", \"description\": \"Remuneracion neta sector privado. Total sector privado\", \"id\": \"72.2_TSP_E_0_T_20\", \"scrapingIdentifierCell\": \"C28\", \"scrapingDataStartCell\": \"C29\", \"units\": \"Pesos\", \"dataset_identifier\": \"72\", \"distribution_identifier\": \"72.2\"}, {\"title\": \"caba\", \"type\": \"number\", \"description\": \"Remuneracion neta sector privado. Capital Federal\", \"id\": \"72.2_C_E_0_T_4\", \"scrapingIdentifierCell\": \"D28\", \"scrapingDataStartCell\": \"D29\", \"units\": \"Pesos\", \"dataset_identifier\": \"72\", \"distribution_identifier\": \"72.2\"}, {\"title\": \"provincia_buenos_aires\", \"type\": \"number\", \"description\": \"Remuneracion neta sector privado. Provincia de Buenos Aires\", \"id\": \"72.2_PBA_E_0_T_22\", \"scrapingIdentifierCell\": \"E28\", \"scrapingDataStartCell\": \"E29\", \"units\": \"Pesos\", \"dataset_identifier\": \"72\", \"distribution_identifier\": \"72.2\"}, {\"title\": \"catamarca\", \"type\": \"number\", \"description\": \"Remuneracion neta sector privado. Catamarca\", \"id\": \"72.2_C_E_0_T_9\", \"scrapingIdentifierCell\": \"F28\", \"scrapingDataStartCell\": \"F29\", \"units\": \"Pesos\", \"dataset_identifier\": \"72\", \"distribution_identifier\": \"72.2\"}, {\"title\": \"cordoba\", \"type\": \"number\", \"description\": \"Remuneracion neta sector privado. Cordoba\", \"id\": \"72.2_C_E_0_T_7\", \"scrapingIdentifierCell\": \"G28\", \"scrapingDataStartCell\": \"G29\", \"units\": \"Pesos\", \"dataset_identifier\": \"72\", \"distribution_identifier\": \"72.2\"}, {\"title\": \"corrientes\", \"type\": \"number\", \"description\": \"Remuneracion neta sector privado. Corrientes\", \"id\": \"72.2_C_E_0_T_10\", \"scrapingIdentifierCell\": \"H28\", \"scrapingDataStartCell\": \"H29\", \"units\": \"Pesos\", \"dataset_identifier\": \"72\", \"distribution_identifier\": \"72.2\"}, {\"title\": \"chaco\", \"type\": \"number\", \"description\": \"Remuneracion neta sector privado. Chaco\", \"id\": \"72.2_C_E_0_T_5\", \"scrapingIdentifierCell\": \"I28\", \"scrapingDataStartCell\": \"I29\", \"units\": \"Pesos\", \"dataset_identifier\": \"72\", \"distribution_identifier\": \"72.2\"}, {\"title\": \"chubut\", \"type\": \"number\", \"description\": \"Remuneracion neta sector privado. Chubut\", \"id\": \"72.2_C_E_0_T_6\", \"scrapingIdentifierCell\": \"J28\", \"scrapingDataStartCell\": \"J29\", \"units\": \"Pesos\", \"dataset_identifier\": \"72\", \"distribution_identifier\": \"72.2\"}, {\"title\": \"entre_rios\", \"type\": \"number\", \"description\": \"Remuneracion neta sector privado. Entre Rios\", \"id\": \"72.2_ER_E_0_T_10\", \"scrapingIdentifierCell\": \"K28\", \"scrapingDataStartCell\": \"K29\", \"units\": \"Pesos\", \"dataset_identifier\": \"72\", \"distribution_identifier\": \"72.2\"}, {\"title\": \"formosa\", \"type\": \"number\", \"description\": \"Remuneracion neta sector privado. Formosa\", \"id\": \"72.2_F_E_0_T_7\", \"scrapingIdentifierCell\": \"L28\", \"scrapingDataStartCell\": \"L29\", \"units\": \"Pesos\", \"dataset_identifier\": \"72\", \"distribution_identifier\": \"72.2\"}, {\"title\": \"jujuy\", \"type\": \"number\", \"description\": \"Remuneracion neta sector privado. Jujuy\", \"id\": \"72.2_J_E_0_T_5\", \"scrapingIdentifierCell\": \"M28\", \"scrapingDataStartCell\": \"M29\", \"units\": \"Pesos\", \"dataset_identifier\": \"72\", \"distribution_identifier\": \"72.2\"}, {\"title\": \"la_pampa\", \"type\": \"number\", \"description\": \"Remuneracion neta sector privado. La Pampa\", \"id\": \"72.2_LP_E_0_T_8\", \"scrapingIdentifierCell\": \"N28\", \"scrapingDataStartCell\": \"N29\", \"units\": \"Pesos\", \"dataset_identifier\": \"72\", \"distribution_identifier\": \"72.2\"}, {\"title\": \"la_rioja\", \"type\": \"number\", \"description\": \"Remuneracion neta sector privado. La Rioja\", \"id\": \"72.2_LR_E_0_T_8\", \"scrapingIdentifierCell\": \"O28\", \"scrapingDataStartCell\": \"O29\", \"units\": \"Pesos\", \"dataset_identifier\": \"72\", \"distribution_identifier\": \"72.2\"}, {\"title\": \"mendoza\", \"type\": \"number\", \"description\": \"Remuneracion neta sector privado. Mendoza\", \"id\": \"72.2_M_E_0_T_7\", \"scrapingIdentifierCell\": \"P28\", \"scrapingDataStartCell\": \"P29\", \"units\": \"Pesos\", \"dataset_identifier\": \"72\", \"distribution_identifier\": \"72.2\"}, {\"title\": \"misiones\", \"type\": \"number\", \"description\": \"Remuneracion neta sector privado. Misiones\", \"id\": \"72.2_M_E_0_T_8\", \"scrapingIdentifierCell\": \"Q28\", \"scrapingDataStartCell\": \"Q29\", \"units\": \"Pesos\", \"dataset_identifier\": \"72\", \"distribution_identifier\": \"72.2\"}, {\"title\": \"neuquen\", \"type\": \"number\", \"description\": \"Remuneracion neta sector privado. Neuquen\", \"id\": \"72.2_N_E_0_T_7\", \"scrapingIdentifierCell\": \"R28\", \"scrapingDataStartCell\": \"R29\", \"units\": \"Pesos\", \"dataset_identifier\": \"72\", \"distribution_identifier\": \"72.2\"}, {\"title\": \"rio_negro\", \"type\": \"number\", \"description\": \"Remuneracion neta sector privado. Rio Negro\", \"id\": \"72.2_RN_E_0_T_9\", \"scrapingIdentifierCell\": \"S28\", \"scrapingDataStartCell\": \"S29\", \"units\": \"Pesos\", \"dataset_identifier\": \"72\", \"distribution_identifier\": \"72.2\"}, {\"title\": \"salta\", \"type\": \"number\", \"description\": \"Remuneracion neta sector privado. Salta\", \"id\": \"72.2_S_E_0_T_5\", \"scrapingIdentifierCell\": \"T28\", \"scrapingDataStartCell\": \"T29\", \"units\": \"Pesos\", \"dataset_identifier\": \"72\", \"distribution_identifier\": \"72.2\"}, {\"title\": \"san_juan\", \"type\": \"number\", \"description\": \"Remuneracion neta sector privado. San Juan\", \"id\": \"72.2_SJ_E_0_T_8\", \"scrapingIdentifierCell\": \"U28\", \"scrapingDataStartCell\": \"U29\", \"units\": \"Pesos\", \"dataset_identifier\": \"72\", \"distribution_identifier\": \"72.2\"}, {\"title\": \"san_luis\", \"type\": \"number\", \"description\": \"Remuneracion neta sector privado. San Luis\", \"id\": \"72.2_SL_E_0_T_8\", \"scrapingIdentifierCell\": \"V28\", \"scrapingDataStartCell\": \"V29\", \"units\": \"Pesos\", \"dataset_identifier\": \"72\", \"distribution_identifier\": \"72.2\"}, {\"title\": \"santa_cruz\", \"type\": \"number\", \"description\": \"Remuneracion neta sector privado. Santa Cruz\", \"id\": \"72.2_SC_E_0_T_10\", \"scrapingIdentifierCell\": \"W28\", \"scrapingDataStartCell\": \"W29\", \"units\": \"Pesos\", \"dataset_identifier\": \"72\", \"distribution_identifier\": \"72.2\"}, {\"title\": \"santa_fe\", \"type\": \"number\", \"description\": \"Remuneracion neta sector privado. San Fe\", \"id\": \"72.2_SF_E_0_T_8\", \"scrapingIdentifierCell\": \"X28\", \"scrapingDataStartCell\": \"X29\", \"units\": \"Pesos\", \"dataset_identifier\": \"72\", \"distribution_identifier\": \"72.2\"}, {\"title\": \"santiago_estero\", \"type\": \"number\", \"description\": \"Remuneracion neta sector privado. Santiago del Estero\", \"id\": \"72.2_SE_E_0_T_15\", \"scrapingIdentifierCell\": \"Y28\", \"scrapingDataStartCell\": \"Y29\", \"units\": \"Pesos\", \"dataset_identifier\": \"72\", \"distribution_identifier\": \"72.2\"}, {\"title\": \"tierra_fuego\", \"type\": \"number\", \"description\": \"Remuneracion neta sector privado. Tierra del Fuego\", \"id\": \"72.2_TF_E_0_T_12\", \"scrapingIdentifierCell\": \"Z28\", \"scrapingDataStartCell\": \"Z29\", \"units\": \"Pesos\", \"dataset_identifier\": \"72\", \"distribution_identifier\": \"72.2\"}, {\"title\": \"tucuman\", \"type\": \"number\", \"description\": \"Remuneracion neta sector privado. Tucuman\", \"id\": \"72.2_T_E_0_T_7\", \"scrapingIdentifierCell\": \"AA28\", \"scrapingDataStartCell\": \"AA29\", \"units\": \"Pesos\", \"dataset_identifier\": \"72\", \"distribution_identifier\": \"72.2\"}, {\"title\": \"sin_clasificar\", \"type\": \"number\", \"description\": \"Remuneracion neta sector privado. Sin clasificar\", \"id\": \"72.2_S_E_0_T_14\", \"scrapingIdentifierCell\": \"AB28\", \"scrapingDataStartCell\": \"AB29\", \"units\": \"Pesos\", \"dataset_identifier\": \"72\", \"distribution_identifier\": \"72.2\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-09-28T00:00:00",
+      "datastore_active": false,
+      "description": "Remuneración neta de los puestos de trabajo declarados por sector de actividad económica. Total país.Datos en valores trimestrales (en pesos)",
+      "fileName": "remuneracion-neta-puestos-trabajo-por-provincia-trimestral-pesos.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "sspm_72.2",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Remuneración neta de los puestos de trabajo por provincia. Pesos. Valores trimestrales.",
+      "package_id": "sspm_72",
+      "position": 1,
+      "resource_type": null,
+      "revision_id": "78dc6df8-1f5b-422b-90f2-22df88f3ef2d",
+      "size": null,
+      "state": "active",
+      "url": "https://infra.datos.gob.ar/catalog/sspm/dataset/72/distribution/72.2/download/remuneracion-neta-puestos-trabajo-por-provincia-trimestral-pesos.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "78dc6df8-1f5b-422b-90f2-22df88f3ef2d",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "Empleo e Ingresos",
+      "id": "0d41bcfd-c3a4-4ff7-8aa1-dd5c3ac51d0b",
+      "name": "Empleo e Ingresos",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Información Económica al Día",
+      "id": "0d300a9a-0802-46c3-9a40-2f28ddf050ec",
+      "name": "Información Económica al Día",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Precios",
+      "id": "308c2aaf-f177-4728-bda5-fd41662741a2",
+      "name": "Precios",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Remuneración neta de los puestos de trabajo del sector privado, por provincia",
+  "type": "dataset",
+  "url": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/",
+  "version": null
+}

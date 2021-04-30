@@ -1,0 +1,174 @@
+{
+  "author": "Subsecretaría de Programación Macroeconómica",
+  "author_email": "datoseconomicos@mecon.gov.ar",
+  "creator_user_id": "4720e75a-9e17-4dc3-879d-041917c7f9f9",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P1M"
+    },
+    {
+      "key": "issued",
+      "value": "2017-09-28"
+    },
+    {
+      "key": "language",
+      "value": "[\"SPA\"]"
+    },
+    {
+      "key": "source",
+      "value": "Instituto Nacional de Estadística y Censos (INDEC)"
+    },
+    {
+      "key": "spatial",
+      "value": "ARG"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"ECON\"]"
+    },
+    {
+      "key": "temporal",
+      "value": "1994-01-01/2015-09-01"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Economía y finanzas",
+      "display_name": "Economía y finanzas",
+      "id": "60b4b03e-10a1-4d67-b984-08008a249617",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225257.200233economia-finanzas.svg",
+      "name": "econ",
+      "title": "Economía y finanzas"
+    }
+  ],
+  "id": "sspm_12",
+  "isopen": true,
+  "license_id": "CC-BY-4.0",
+  "license_title": "Creative Commons Attribution 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "maintainer": "Subsecretaría de Programación Macroeconómica.",
+  "maintainer_email": "datoseconomicos@mecon.gov.ar",
+  "metadata_created": "2019-11-26T15:04:02.979436",
+  "metadata_modified": "2021-04-29T21:06:04.983281",
+  "name": "sspm-estimados-mensual-industrial-emi-indice-base-2004",
+  "notes": "Estimado Mensual Industrial. Índice (Base 2004)",
+  "num_resources": 3,
+  "num_tags": 2,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:09.718132",
+    "description": "",
+    "id": "68f9ee22-5ec3-44cf-a32b-b87d9db46b93",
+    "image_url": "",
+    "is_organization": true,
+    "name": "sspm",
+    "revision_id": "bc058ce0-3540-4204-96cd-9f9ec79045b3",
+    "state": "active",
+    "title": "Subsecretaría de Programación Macroeconómica",
+    "type": "organization"
+  },
+  "owner_org": "68f9ee22-5ec3-44cf-a32b-b87d9db46b93",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/",
+      "attributesDescription": "[{\"title\": \"indice_tiempo\", \"type\": \"date\", \"specialType\": \"time_index\", \"specialTypeDetail\": \"R/P1Y\", \"id\": \"12.1_IT_2004_A_13\", \"scrapingIdentifierCell\": \"A9\", \"scrapingDataStartCell\": \"A10\", \"dataset_identifier\": \"12\", \"distribution_identifier\": \"12.1\"}, {\"title\": \"emi\", \"type\": \"number\", \"description\": \"Estimados Mensual Industrial. \\u00cdndice (Base 2004)\", \"id\": \"12.1_E_2004_A_3\", \"scrapingIdentifierCell\": \"B9\", \"scrapingDataStartCell\": \"B10\", \"units\": \"\\u00cdndice 2004=100\", \"dataset_identifier\": \"12\", \"distribution_identifier\": \"12.1\"}, {\"title\": \"emi_desestac\", \"type\": \"number\", \"description\": \"Estimados Mensual Industrial desestacionalizado. \\u00cdndice (Base 2004)\", \"id\": \"12.1_ED_2004_A_12\", \"scrapingIdentifierCell\": \"C9\", \"scrapingDataStartCell\": \"C10\", \"units\": \"\\u00cdndice 2004=100\", \"dataset_identifier\": \"12\", \"distribution_identifier\": \"12.1\"}, {\"title\": \"alimentos_bebidas\", \"type\": \"number\", \"description\": \"EMI. Alimentos y bebidas. \\u00cdndice (Base 2004)\", \"id\": \"12.1_AB_2004_A_17\", \"scrapingIdentifierCell\": \"D9\", \"scrapingDataStartCell\": \"D10\", \"units\": \"\\u00cdndice 2004=100\", \"dataset_identifier\": \"12\", \"distribution_identifier\": \"12.1\"}, {\"title\": \"productos_tabaco\", \"type\": \"number\", \"description\": \"EMI. Tabaco. \\u00cdndice (Base 2004)\", \"id\": \"12.1_PT_2004_A_16\", \"scrapingIdentifierCell\": \"E9\", \"scrapingDataStartCell\": \"E10\", \"units\": \"\\u00cdndice 2004=100\", \"dataset_identifier\": \"12\", \"distribution_identifier\": \"12.1\"}, {\"title\": \"productos_textiles\", \"type\": \"number\", \"description\": \"EMI. Textiles. \\u00cdndice (Base 2004)\", \"id\": \"12.1_PT_2004_A_18\", \"scrapingIdentifierCell\": \"F9\", \"scrapingDataStartCell\": \"F10\", \"units\": \"\\u00cdndice 2004=100\", \"dataset_identifier\": \"12\", \"distribution_identifier\": \"12.1\"}, {\"title\": \"papel_carton\", \"type\": \"number\", \"description\": \"EMI. Cart\\u00f3n. \\u00cdndice (Base 2004)\", \"id\": \"12.1_PC_2004_A_12\", \"scrapingIdentifierCell\": \"G9\", \"scrapingDataStartCell\": \"G10\", \"units\": \"\\u00cdndice 2004=100\", \"dataset_identifier\": \"12\", \"distribution_identifier\": \"12.1\"}, {\"title\": \"edicion_impresion\", \"type\": \"number\", \"description\": \"EMI. Impresi\\u00f3n. \\u00cdndice (Base 2004)\", \"id\": \"12.1_EI_2004_A_17\", \"scrapingIdentifierCell\": \"H9\", \"scrapingDataStartCell\": \"H10\", \"units\": \"\\u00cdndice 2004=100\", \"dataset_identifier\": \"12\", \"distribution_identifier\": \"12.1\"}, {\"title\": \"refinacion_petroleo\", \"type\": \"number\", \"description\": \"EMI. Petr\\u00f3leo. \\u00cdndice (Base 2004)\", \"id\": \"12.1_RP_2004_A_19\", \"scrapingIdentifierCell\": \"I9\", \"scrapingDataStartCell\": \"I10\", \"units\": \"\\u00cdndice 2004=100\", \"dataset_identifier\": \"12\", \"distribution_identifier\": \"12.1\"}, {\"title\": \"sustancias_productos_quimicos\", \"type\": \"number\", \"description\": \"EMI. Sustancias y productos qu\\u00edmicos. . \\u00cdndice (Base 2004)\", \"id\": \"12.1_SPQ_2004_A_29\", \"scrapingIdentifierCell\": \"J9\", \"scrapingDataStartCell\": \"J10\", \"units\": \"\\u00cdndice 2004=100\", \"dataset_identifier\": \"12\", \"distribution_identifier\": \"12.1\"}, {\"title\": \"caucho_plastico\", \"type\": \"number\", \"description\": \"EMI. Caucho y pl\\u00e1sticos. \\u00cdndice (Base 2004)\", \"id\": \"12.1_CP_2004_A_15\", \"scrapingIdentifierCell\": \"K9\", \"scrapingDataStartCell\": \"K10\", \"units\": \"\\u00cdndice 2004=100\", \"dataset_identifier\": \"12\", \"distribution_identifier\": \"12.1\"}, {\"title\": \"minerales_metalicos\", \"type\": \"number\", \"description\": \"EMI. Minerales met\\u00e1licos. \\u00cdndice (Base 2004)\", \"id\": \"12.1_MM_2004_A_19\", \"scrapingIdentifierCell\": \"L9\", \"scrapingDataStartCell\": \"L10\", \"units\": \"\\u00cdndice 2004=100\", \"dataset_identifier\": \"12\", \"distribution_identifier\": \"12.1\"}, {\"title\": \"industria_metalicas_basicas\", \"type\": \"number\", \"description\": \"EMI. Industrias met\\u00e1licas b\\u00e1sicas. \\u00cdndice (Base 2004)\", \"id\": \"12.1_IMB_2004_A_27\", \"scrapingIdentifierCell\": \"M9\", \"scrapingDataStartCell\": \"M10\", \"units\": \"\\u00cdndice 2004=100\", \"dataset_identifier\": \"12\", \"distribution_identifier\": \"12.1\"}, {\"title\": \"automotores\", \"type\": \"number\", \"description\": \"EMI. Automotores. \\u00cdndice (Base 2004)\", \"id\": \"12.1_A_2004_A_11\", \"scrapingIdentifierCell\": \"N9\", \"scrapingDataStartCell\": \"N10\", \"units\": \"\\u00cdndice 2004=100\", \"dataset_identifier\": \"12\", \"distribution_identifier\": \"12.1\"}, {\"title\": \"metalmecanica_exc_automotor\", \"type\": \"number\", \"description\": \"EMI. Metalmec\\u00e1nica (excluyendo automotores). \\u00cdndice (Base 2004)\", \"id\": \"12.1_MEA_2004_A_27\", \"scrapingIdentifierCell\": \"O9\", \"scrapingDataStartCell\": \"O10\", \"units\": \"\\u00cdndice 2004=100\", \"dataset_identifier\": \"12\", \"distribution_identifier\": \"12.1\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-09-28T00:00:00",
+      "datastore_active": false,
+      "description": "Estimado Mensual Industrial. Datos Anuales. Índice (Base 2004)",
+      "fileName": "emi-valores-anuales-indice-base-2004.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "sspm_12.1",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "EMI. Índice Base 2004. Valores anuales.",
+      "package_id": "sspm_12",
+      "position": 0,
+      "resource_type": null,
+      "revision_id": "6a3baf24-41d9-4c68-a57f-3656e67ca139",
+      "size": null,
+      "state": "active",
+      "url": "https://infra.datos.gob.ar/catalog/sspm/dataset/12/distribution/12.1/download/emi-valores-anuales-indice-base-2004.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/",
+      "attributesDescription": "[{\"title\": \"indice_tiempo\", \"type\": \"date\", \"specialType\": \"time_index\", \"specialTypeDetail\": \"R/P3M\", \"id\": \"12.2_IT_2004_T_13\", \"scrapingIdentifierCell\": \"A46\", \"scrapingDataStartCell\": \"A47\", \"dataset_identifier\": \"12\", \"distribution_identifier\": \"12.2\"}, {\"title\": \"emi\", \"type\": \"number\", \"description\": \"Estimados Mensual Industrial. \\u00cdndice (Base 2004)\", \"id\": \"12.2_E_2004_T_3\", \"scrapingIdentifierCell\": \"B46\", \"scrapingDataStartCell\": \"B47\", \"units\": \"\\u00cdndice 2004=100\", \"dataset_identifier\": \"12\", \"distribution_identifier\": \"12.2\"}, {\"title\": \"emi_desestac\", \"type\": \"number\", \"description\": \"Estimados Mensual Industrial desestacionalizado. \\u00cdndice (Base 2004)\", \"id\": \"12.2_ED_2004_T_12\", \"scrapingIdentifierCell\": \"C46\", \"scrapingDataStartCell\": \"C47\", \"units\": \"\\u00cdndice 2004=100\", \"dataset_identifier\": \"12\", \"distribution_identifier\": \"12.2\"}, {\"title\": \"alimentos_bebidas\", \"type\": \"number\", \"description\": \"EMI. Alimentos y bebidas. \\u00cdndice (Base 2004)\", \"id\": \"12.2_AB_2004_T_17\", \"scrapingIdentifierCell\": \"D46\", \"scrapingDataStartCell\": \"D47\", \"units\": \"\\u00cdndice 2004=100\", \"dataset_identifier\": \"12\", \"distribution_identifier\": \"12.2\"}, {\"title\": \"productos_tabaco\", \"type\": \"number\", \"description\": \"EMI. Tabaco. \\u00cdndice (Base 2004)\", \"id\": \"12.2_PT_2004_T_16\", \"scrapingIdentifierCell\": \"E46\", \"scrapingDataStartCell\": \"E47\", \"units\": \"\\u00cdndice 2004=100\", \"dataset_identifier\": \"12\", \"distribution_identifier\": \"12.2\"}, {\"title\": \"productos_textiles\", \"type\": \"number\", \"description\": \"EMI. Textiles. \\u00cdndice (Base 2004)\", \"id\": \"12.2_PT_2004_T_18\", \"scrapingIdentifierCell\": \"F46\", \"scrapingDataStartCell\": \"F47\", \"units\": \"\\u00cdndice 2004=100\", \"dataset_identifier\": \"12\", \"distribution_identifier\": \"12.2\"}, {\"title\": \"papel_carton\", \"type\": \"number\", \"description\": \"EMI. Cart\\u00f3n. \\u00cdndice (Base 2004)\", \"id\": \"12.2_PC_2004_T_12\", \"scrapingIdentifierCell\": \"G46\", \"scrapingDataStartCell\": \"G47\", \"units\": \"\\u00cdndice 2004=100\", \"dataset_identifier\": \"12\", \"distribution_identifier\": \"12.2\"}, {\"title\": \"edicion_impresion\", \"type\": \"number\", \"description\": \"EMI. Impresi\\u00f3n. \\u00cdndice (Base 2004)\", \"id\": \"12.2_EI_2004_T_17\", \"scrapingIdentifierCell\": \"H46\", \"scrapingDataStartCell\": \"H47\", \"units\": \"\\u00cdndice 2004=100\", \"dataset_identifier\": \"12\", \"distribution_identifier\": \"12.2\"}, {\"title\": \"refinacion_petroleo\", \"type\": \"number\", \"description\": \"EMI. Petr\\u00f3leo. \\u00cdndice (Base 2004)\", \"id\": \"12.2_RP_2004_T_19\", \"scrapingIdentifierCell\": \"I46\", \"scrapingDataStartCell\": \"I47\", \"units\": \"\\u00cdndice 2004=100\", \"dataset_identifier\": \"12\", \"distribution_identifier\": \"12.2\"}, {\"title\": \"sustancias_productos_quimicos\", \"type\": \"number\", \"description\": \"EMI. Sustancias y productos qu\\u00edmicos. . \\u00cdndice (Base 2004)\", \"id\": \"12.2_SPQ_2004_T_29\", \"scrapingIdentifierCell\": \"J46\", \"scrapingDataStartCell\": \"J47\", \"units\": \"\\u00cdndice 2004=100\", \"dataset_identifier\": \"12\", \"distribution_identifier\": \"12.2\"}, {\"title\": \"caucho_plastico\", \"type\": \"number\", \"description\": \"EMI. Caucho y pl\\u00e1sticos. \\u00cdndice (Base 2004)\", \"id\": \"12.2_CP_2004_T_15\", \"scrapingIdentifierCell\": \"K46\", \"scrapingDataStartCell\": \"K47\", \"units\": \"\\u00cdndice 2004=100\", \"dataset_identifier\": \"12\", \"distribution_identifier\": \"12.2\"}, {\"title\": \"minerales_metalicos\", \"type\": \"number\", \"description\": \"EMI. Minerales met\\u00e1licos. \\u00cdndice (Base 2004)\", \"id\": \"12.2_MM_2004_T_19\", \"scrapingIdentifierCell\": \"L46\", \"scrapingDataStartCell\": \"L47\", \"units\": \"\\u00cdndice 2004=100\", \"dataset_identifier\": \"12\", \"distribution_identifier\": \"12.2\"}, {\"title\": \"industria_metalicas_basicas\", \"type\": \"number\", \"description\": \"EMI. Industrias met\\u00e1licas b\\u00e1sicas. \\u00cdndice (Base 2004)\", \"id\": \"12.2_IMB_2004_T_27\", \"scrapingIdentifierCell\": \"M46\", \"scrapingDataStartCell\": \"M47\", \"units\": \"\\u00cdndice 2004=100\", \"dataset_identifier\": \"12\", \"distribution_identifier\": \"12.2\"}, {\"title\": \"automotores\", \"type\": \"number\", \"description\": \"EMI. Automotores. \\u00cdndice (Base 2004)\", \"id\": \"12.2_A_2004_T_11\", \"scrapingIdentifierCell\": \"N46\", \"scrapingDataStartCell\": \"N47\", \"units\": \"\\u00cdndice 2004=100\", \"dataset_identifier\": \"12\", \"distribution_identifier\": \"12.2\"}, {\"title\": \"metalmecanica_exc_automotor\", \"type\": \"number\", \"description\": \"EMI. Metalmec\\u00e1nica (excluyendo automotores). \\u00cdndice (Base 2004)\", \"id\": \"12.2_MEA_2004_T_27\", \"scrapingIdentifierCell\": \"O46\", \"scrapingDataStartCell\": \"O47\", \"units\": \"\\u00cdndice 2004=100\", \"dataset_identifier\": \"12\", \"distribution_identifier\": \"12.2\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-09-28T00:00:00",
+      "datastore_active": false,
+      "description": "Estimado Mensual Industrial. Datos Anuales. Índice (Base 2004)",
+      "fileName": "emi-valores-trimestrales-indice-base-2004.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "sspm_12.2",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "EMI. Índice Base 2004. Valores trimestrales.",
+      "package_id": "sspm_12",
+      "position": 1,
+      "resource_type": null,
+      "revision_id": "6a3baf24-41d9-4c68-a57f-3656e67ca139",
+      "size": null,
+      "state": "active",
+      "url": "https://infra.datos.gob.ar/catalog/sspm/dataset/12/distribution/12.2/download/emi-valores-trimestrales-indice-base-2004.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/",
+      "attributesDescription": "[{\"title\": \"indice_tiempo\", \"type\": \"date\", \"specialType\": \"time_index\", \"specialTypeDetail\": \"R/P1M\", \"id\": \"12.3_IT_2004_M_13\", \"scrapingIdentifierCell\": \"A135\", \"scrapingDataStartCell\": \"A136\", \"dataset_identifier\": \"12\", \"distribution_identifier\": \"12.3\"}, {\"title\": \"emi\", \"type\": \"number\", \"description\": \"Estimados Mensual Industrial. \\u00cdndice (Base 2004)\", \"id\": \"12.3_E_2004_M_3\", \"scrapingIdentifierCell\": \"B135\", \"scrapingDataStartCell\": \"B136\", \"units\": \"\\u00cdndice 2004=100\", \"dataset_identifier\": \"12\", \"distribution_identifier\": \"12.3\"}, {\"title\": \"emi_desestac\", \"type\": \"number\", \"description\": \"Estimados Mensual Industrial desestacionalizado. \\u00cdndice (Base 2004)\", \"id\": \"12.3_ED_2004_M_12\", \"scrapingIdentifierCell\": \"C135\", \"scrapingDataStartCell\": \"C136\", \"units\": \"\\u00cdndice 2004=100\", \"dataset_identifier\": \"12\", \"distribution_identifier\": \"12.3\"}, {\"title\": \"alimentos_bebidas\", \"type\": \"number\", \"description\": \"EMI. Alimentos y bebidas. \\u00cdndice (Base 2004)\", \"id\": \"12.3_AB_2004_M_17\", \"scrapingIdentifierCell\": \"D135\", \"scrapingDataStartCell\": \"D136\", \"units\": \"\\u00cdndice 2004=100\", \"dataset_identifier\": \"12\", \"distribution_identifier\": \"12.3\"}, {\"title\": \"productos_tabaco\", \"type\": \"number\", \"description\": \"EMI. Tabaco. \\u00cdndice (Base 2004)\", \"id\": \"12.3_PT_2004_M_16\", \"scrapingIdentifierCell\": \"E135\", \"scrapingDataStartCell\": \"E136\", \"units\": \"\\u00cdndice 2004=100\", \"dataset_identifier\": \"12\", \"distribution_identifier\": \"12.3\"}, {\"title\": \"productos_textiles\", \"type\": \"number\", \"description\": \"EMI. Textiles. \\u00cdndice (Base 2004)\", \"id\": \"12.3_PT_2004_M_18\", \"scrapingIdentifierCell\": \"F135\", \"scrapingDataStartCell\": \"F136\", \"units\": \"\\u00cdndice 2004=100\", \"dataset_identifier\": \"12\", \"distribution_identifier\": \"12.3\"}, {\"title\": \"papel_carton\", \"type\": \"number\", \"description\": \"EMI. Cart\\u00f3n. \\u00cdndice (Base 2004)\", \"id\": \"12.3_PC_2004_M_12\", \"scrapingIdentifierCell\": \"G135\", \"scrapingDataStartCell\": \"G136\", \"units\": \"\\u00cdndice 2004=100\", \"dataset_identifier\": \"12\", \"distribution_identifier\": \"12.3\"}, {\"title\": \"edicion_impresion\", \"type\": \"number\", \"description\": \"EMI. Impresi\\u00f3n. \\u00cdndice (Base 2004)\", \"id\": \"12.3_EI_2004_M_17\", \"scrapingIdentifierCell\": \"H135\", \"scrapingDataStartCell\": \"H136\", \"units\": \"\\u00cdndice 2004=100\", \"dataset_identifier\": \"12\", \"distribution_identifier\": \"12.3\"}, {\"title\": \"refinacion_petroleo\", \"type\": \"number\", \"description\": \"EMI. Petr\\u00f3leo. \\u00cdndice (Base 2004)\", \"id\": \"12.3_RP_2004_M_19\", \"scrapingIdentifierCell\": \"I135\", \"scrapingDataStartCell\": \"I136\", \"units\": \"\\u00cdndice 2004=100\", \"dataset_identifier\": \"12\", \"distribution_identifier\": \"12.3\"}, {\"title\": \"sustancias_productos_quimicos\", \"type\": \"number\", \"description\": \"EMI. Sustancias y productos qu\\u00edmicos. . \\u00cdndice (Base 2004)\", \"id\": \"12.3_SPQ_2004_M_29\", \"scrapingIdentifierCell\": \"J135\", \"scrapingDataStartCell\": \"J136\", \"units\": \"\\u00cdndice 2004=100\", \"dataset_identifier\": \"12\", \"distribution_identifier\": \"12.3\"}, {\"title\": \"caucho_plastico\", \"type\": \"number\", \"description\": \"EMI. Caucho y pl\\u00e1sticos. \\u00cdndice (Base 2004)\", \"id\": \"12.3_CP_2004_M_15\", \"scrapingIdentifierCell\": \"K135\", \"scrapingDataStartCell\": \"K136\", \"units\": \"\\u00cdndice 2004=100\", \"dataset_identifier\": \"12\", \"distribution_identifier\": \"12.3\"}, {\"title\": \"minerales_metalicos\", \"type\": \"number\", \"description\": \"EMI. Minerales met\\u00e1licos. \\u00cdndice (Base 2004)\", \"id\": \"12.3_MM_2004_M_19\", \"scrapingIdentifierCell\": \"L135\", \"scrapingDataStartCell\": \"L136\", \"units\": \"\\u00cdndice 2004=100\", \"dataset_identifier\": \"12\", \"distribution_identifier\": \"12.3\"}, {\"title\": \"industria_metalicas_basicas\", \"type\": \"number\", \"description\": \"EMI. Industrias met\\u00e1licas b\\u00e1sicas. \\u00cdndice (Base 2004)\", \"id\": \"12.3_IMB_2004_M_27\", \"scrapingIdentifierCell\": \"M135\", \"scrapingDataStartCell\": \"M136\", \"units\": \"\\u00cdndice 2004=100\", \"dataset_identifier\": \"12\", \"distribution_identifier\": \"12.3\"}, {\"title\": \"automotores\", \"type\": \"number\", \"description\": \"EMI. Automotores. \\u00cdndice (Base 2004)\", \"id\": \"12.3_A_2004_M_11\", \"scrapingIdentifierCell\": \"N135\", \"scrapingDataStartCell\": \"N136\", \"units\": \"\\u00cdndice 2004=100\", \"dataset_identifier\": \"12\", \"distribution_identifier\": \"12.3\"}, {\"title\": \"metalmecanica_exc_automotor\", \"type\": \"number\", \"description\": \"EMI. Metalmec\\u00e1nica (excluyendo automotores). \\u00cdndice (Base 2004)\", \"id\": \"12.3_MEA_2004_M_27\", \"scrapingIdentifierCell\": \"O135\", \"scrapingDataStartCell\": \"O136\", \"units\": \"\\u00cdndice 2004=100\", \"dataset_identifier\": \"12\", \"distribution_identifier\": \"12.3\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-09-28T00:00:00",
+      "datastore_active": false,
+      "description": "Estimado Mensual Industrial. Datos Anuales. Índice (Base 2004)",
+      "fileName": "emi-valores-mensuales-indice-base-2004.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "sspm_12.3",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "EMI. Índice Base 2004. Valores mensuales.",
+      "package_id": "sspm_12",
+      "position": 2,
+      "resource_type": null,
+      "revision_id": "6a3baf24-41d9-4c68-a57f-3656e67ca139",
+      "size": null,
+      "state": "active",
+      "url": "https://infra.datos.gob.ar/catalog/sspm/dataset/12/distribution/12.3/download/emi-valores-mensuales-indice-base-2004.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "6a3baf24-41d9-4c68-a57f-3656e67ca139",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "Actividad",
+      "id": "a7695c51-c893-4ece-8ff9-306c197afdd7",
+      "name": "Actividad",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Información Económica al Día",
+      "id": "0d300a9a-0802-46c3-9a40-2f28ddf050ec",
+      "name": "Información Económica al Día",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Estimados Mensual Industrial (EMI). Índice. Base 2004",
+  "type": "dataset",
+  "url": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/",
+  "version": null
+}

@@ -1,0 +1,201 @@
+{
+  "author": "Ministerio de transporte",
+  "author_email": null,
+  "creator_user_id": "dc157489-51c6-44ce-bd63-3bd983d60778",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "eventual"
+    },
+    {
+      "key": "issued",
+      "value": "2020-11-06T13:36:37.900108"
+    },
+    {
+      "key": "language",
+      "value": "[\"spa\"]"
+    },
+    {
+      "key": "modified",
+      "value": "2020-11-11T15:24:35.683570"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"TRAN\"]"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Transporte",
+      "display_name": "Transporte",
+      "id": "57227cfc-80a6-45d3-9faa-711a98ac8ede",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225933.272993transporte.svg",
+      "name": "tran",
+      "title": "Transporte"
+    }
+  ],
+  "id": "transporte_c96bb33c-3fab-491e-a7da-172ddb1f1121",
+  "isopen": true,
+  "license_id": "CC-BY-4.0",
+  "license_title": "Creative Commons Attribution 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "maintainer": null,
+  "maintainer_email": null,
+  "metadata_created": "2021-01-28T14:47:44.745858",
+  "metadata_modified": "2021-04-29T21:11:19.422246",
+  "name": "transporte-operaciones-sube-por-ano-rmba",
+  "notes": "Detalle de operaciones de viajes por año (por línea, tipo de pasaje, empresa y modo)",
+  "num_resources": 4,
+  "num_tags": 4,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:11.506514",
+    "description": "",
+    "id": "71418928-10c4-4625-aeaf-69a4d73d00ed",
+    "image_url": "",
+    "is_organization": true,
+    "name": "transporte",
+    "revision_id": "dc7b93ef-b174-46ee-90ea-63edf51296f0",
+    "state": "active",
+    "title": " Ministerio de Transporte",
+    "type": "organization"
+  },
+  "owner_org": "71418928-10c4-4625-aeaf-69a4d73d00ed",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "https://datos.transporte.gob.ar/dataset/c96bb33c-3fab-491e-a7da-172ddb1f1121/resource/e0104ec6-677b-4006-9b2d-7c63b26e3e14",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2020-11-06T13:38:48.485427",
+      "datastore_active": false,
+      "description": "Detalle de línea y cantidad de operaciones de viajes por año.",
+      "fileName": "cancelaciones_año_linea.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "transporte_e0104ec6-677b-4006-9b2d-7c63b26e3e14",
+      "last_modified": "2020-11-06T13:38:48.485427",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Cantidad de operaciones de viajes por año (detalle de línea).",
+      "package_id": "transporte_c96bb33c-3fab-491e-a7da-172ddb1f1121",
+      "position": 0,
+      "resource_type": "file.upload",
+      "revision_id": "c704bf2f-4162-4100-ab89-c906e0027e65",
+      "size": null,
+      "state": "active",
+      "url": "https://datos.transporte.gob.ar/dataset/c96bb33c-3fab-491e-a7da-172ddb1f1121/resource/e0104ec6-677b-4006-9b2d-7c63b26e3e14/download/cancelaciones_ano_linea.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://datos.transporte.gob.ar/dataset/c96bb33c-3fab-491e-a7da-172ddb1f1121/resource/bd98653e-2b42-444f-aba4-ec9b9e636c03",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2020-11-06T13:40:12.147738",
+      "datastore_active": false,
+      "description": "Detalle de línea, tipo de pasaje y cantidad de operaciones de viajes por año (NORMAL-ATRIBUTO SOCIAL).",
+      "fileName": "cancelaciones_año_tipo.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "transporte_bd98653e-2b42-444f-aba4-ec9b9e636c03",
+      "last_modified": "2020-11-06T13:40:12.147738",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Cantidad de operaciones de viajes por año (detalle de línea y tipo de pasaje)",
+      "package_id": "transporte_c96bb33c-3fab-491e-a7da-172ddb1f1121",
+      "position": 1,
+      "resource_type": "file.upload",
+      "revision_id": "c704bf2f-4162-4100-ab89-c906e0027e65",
+      "size": null,
+      "state": "active",
+      "url": "https://datos.transporte.gob.ar/dataset/c96bb33c-3fab-491e-a7da-172ddb1f1121/resource/bd98653e-2b42-444f-aba4-ec9b9e636c03/download/cancelaciones_ano_tipo.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://datos.transporte.gob.ar/dataset/c96bb33c-3fab-491e-a7da-172ddb1f1121/resource/a8cf3d4a-f224-4c33-b091-3ad9a692e116",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2020-11-06T13:41:29.921575",
+      "datastore_active": false,
+      "description": "Detalle por empresa y cantidad de operaciones de viajes por año.",
+      "fileName": "cancelaciones_año_empresa.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "transporte_a8cf3d4a-f224-4c33-b091-3ad9a692e116",
+      "last_modified": "2020-11-06T13:41:29.921575",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Cantidad de operaciones de viajes por año (detalle por empresa).",
+      "package_id": "transporte_c96bb33c-3fab-491e-a7da-172ddb1f1121",
+      "position": 2,
+      "resource_type": "file.upload",
+      "revision_id": "c704bf2f-4162-4100-ab89-c906e0027e65",
+      "size": null,
+      "state": "active",
+      "url": "https://datos.transporte.gob.ar/dataset/c96bb33c-3fab-491e-a7da-172ddb1f1121/resource/a8cf3d4a-f224-4c33-b091-3ad9a692e116/download/cancelaciones_ano_empresa.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://datos.transporte.gob.ar/dataset/c96bb33c-3fab-491e-a7da-172ddb1f1121/resource/a83db8d9-07a9-400a-97a6-6df38c7352f0",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2020-11-06T13:42:13.801709",
+      "datastore_active": false,
+      "description": "Detalle por modo y cantidad de operaciones de viajes por año.",
+      "fileName": "cancelaciones_año_modo.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "transporte_a83db8d9-07a9-400a-97a6-6df38c7352f0",
+      "last_modified": "2020-11-06T13:42:13.801709",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Cantidad de operaciones de viajes por año (detalle por modo).",
+      "package_id": "transporte_c96bb33c-3fab-491e-a7da-172ddb1f1121",
+      "position": 3,
+      "resource_type": "file.upload",
+      "revision_id": "c704bf2f-4162-4100-ab89-c906e0027e65",
+      "size": null,
+      "state": "active",
+      "url": "https://datos.transporte.gob.ar/dataset/c96bb33c-3fab-491e-a7da-172ddb1f1121/resource/a83db8d9-07a9-400a-97a6-6df38c7352f0/download/cancelaciones_ano_modo.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "c704bf2f-4162-4100-ab89-c906e0027e65",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "Movilidad Urbana",
+      "id": "14ada287-45c0-4813-9cf9-8e06233c65a2",
+      "name": "Movilidad Urbana",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "RMBA",
+      "id": "0114d7ff-3871-4d02-bcec-1f49ed7f35b9",
+      "name": "RMBA",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "SUBE",
+      "id": "e1510ce2-bc92-48be-b36a-677c6e66525a",
+      "name": "SUBE",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Transporte General",
+      "id": "a302697b-f4b9-4671-bebf-9b4de5a4a452",
+      "name": "Transporte General",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Operaciones de SUBE por año en RMBA",
+  "type": "dataset",
+  "url": "https://datos.transporte.gob.ar/dataset/operaciones-de-sube-por-ano-en-rmba",
+  "version": null
+}

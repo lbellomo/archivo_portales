@@ -1,0 +1,149 @@
+{
+  "author": "Subsecretaría de Programación Macroeconómica",
+  "author_email": "datoseconomicos@mecon.gov.ar",
+  "creator_user_id": "4720e75a-9e17-4dc3-879d-041917c7f9f9",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P3M"
+    },
+    {
+      "key": "issued",
+      "value": "2017-09-28"
+    },
+    {
+      "key": "language",
+      "value": "[\"SPA\"]"
+    },
+    {
+      "key": "source",
+      "value": "Instituto Nacional de Estadística y Censos (INDEC)"
+    },
+    {
+      "key": "spatial",
+      "value": "ARG"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"ECON\"]"
+    },
+    {
+      "key": "temporal",
+      "value": "2006-01-01/2015-06-01"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Economía y finanzas",
+      "display_name": "Economía y finanzas",
+      "id": "60b4b03e-10a1-4d67-b984-08008a249617",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225257.200233economia-finanzas.svg",
+      "name": "econ",
+      "title": "Economía y finanzas"
+    }
+  ],
+  "id": "sspm_70",
+  "isopen": true,
+  "license_id": "CC-BY-4.0",
+  "license_title": "Creative Commons Attribution 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "maintainer": "Subsecretaría de Programación Macroeconómica.",
+  "maintainer_email": "datoseconomicos@mecon.gov.ar",
+  "metadata_created": "2019-11-26T15:06:14.121467",
+  "metadata_modified": "2021-04-29T21:05:27.042769",
+  "name": "sspm-puestos-trabajo-declarados-por-sector-provincia",
+  "notes": "Puestos de trabajo declarados por provincia. Total del país. En miles de puestos. Datos en valores trimestrales",
+  "num_resources": 2,
+  "num_tags": 2,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:09.718132",
+    "description": "",
+    "id": "68f9ee22-5ec3-44cf-a32b-b87d9db46b93",
+    "image_url": "",
+    "is_organization": true,
+    "name": "sspm",
+    "revision_id": "bc058ce0-3540-4204-96cd-9f9ec79045b3",
+    "state": "active",
+    "title": "Subsecretaría de Programación Macroeconómica",
+    "type": "organization"
+  },
+  "owner_org": "68f9ee22-5ec3-44cf-a32b-b87d9db46b93",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/",
+      "attributesDescription": "[{\"title\": \"indice_tiempo\", \"type\": \"date\", \"specialType\": \"time_index\", \"specialTypeDetail\": \"R/P1Y\", \"id\": \"70.1_IT_E_0_A_13\", \"scrapingIdentifierCell\": \"B12\", \"scrapingDataStartCell\": \"B13\", \"dataset_identifier\": \"70\", \"distribution_identifier\": \"70.1\"}, {\"title\": \"total_sector_privado\", \"type\": \"number\", \"description\": \"Miles de puestos de trabajo declarados sector privado. Total sector privado\", \"id\": \"70.1_TSP_E_0_A_20\", \"scrapingIdentifierCell\": \"C12\", \"scrapingDataStartCell\": \"C13\", \"units\": \"Miles de personas\", \"dataset_identifier\": \"70\", \"distribution_identifier\": \"70.1\"}, {\"title\": \"caba\", \"type\": \"number\", \"description\": \"Miles de puestos de trabajo declarados sector privado. Capital Federal\", \"id\": \"70.1_C_E_0_A_4\", \"scrapingIdentifierCell\": \"D12\", \"scrapingDataStartCell\": \"D13\", \"units\": \"Miles de personas\", \"dataset_identifier\": \"70\", \"distribution_identifier\": \"70.1\"}, {\"title\": \"provincia_buenos_aires\", \"type\": \"number\", \"description\": \"Miles de puestos de trabajo declarados sector privado. Provincia de Buenos Aires\", \"id\": \"70.1_PBA_E_0_A_22\", \"scrapingIdentifierCell\": \"E12\", \"scrapingDataStartCell\": \"E13\", \"units\": \"Miles de personas\", \"dataset_identifier\": \"70\", \"distribution_identifier\": \"70.1\"}, {\"title\": \"catamarca\", \"type\": \"number\", \"description\": \"Miles de puestos de trabajo declarados sector privado. Catamarca\", \"id\": \"70.1_C_E_0_A_9\", \"scrapingIdentifierCell\": \"F12\", \"scrapingDataStartCell\": \"F13\", \"units\": \"Miles de personas\", \"dataset_identifier\": \"70\", \"distribution_identifier\": \"70.1\"}, {\"title\": \"cordoba\", \"type\": \"number\", \"description\": \"Miles de puestos de trabajo declarados sector privado. Cordoba\", \"id\": \"70.1_C_E_0_A_7\", \"scrapingIdentifierCell\": \"G12\", \"scrapingDataStartCell\": \"G13\", \"units\": \"Miles de personas\", \"dataset_identifier\": \"70\", \"distribution_identifier\": \"70.1\"}, {\"title\": \"corrientes\", \"type\": \"number\", \"description\": \"Miles de puestos de trabajo declarados sector privado. Corrientes\", \"id\": \"70.1_C_E_0_A_10\", \"scrapingIdentifierCell\": \"H12\", \"scrapingDataStartCell\": \"H13\", \"units\": \"Miles de personas\", \"dataset_identifier\": \"70\", \"distribution_identifier\": \"70.1\"}, {\"title\": \"chaco\", \"type\": \"number\", \"description\": \"Miles de puestos de trabajo declarados sector privado. Chaco\", \"id\": \"70.1_C_E_0_A_5\", \"scrapingIdentifierCell\": \"I12\", \"scrapingDataStartCell\": \"I13\", \"units\": \"Miles de personas\", \"dataset_identifier\": \"70\", \"distribution_identifier\": \"70.1\"}, {\"title\": \"chubut\", \"type\": \"number\", \"description\": \"Miles de puestos de trabajo declarados sector privado. Chubut\", \"id\": \"70.1_C_E_0_A_6\", \"scrapingIdentifierCell\": \"J12\", \"scrapingDataStartCell\": \"J13\", \"units\": \"Miles de personas\", \"dataset_identifier\": \"70\", \"distribution_identifier\": \"70.1\"}, {\"title\": \"entre_rios\", \"type\": \"number\", \"description\": \"Miles de puestos de trabajo declarados sector privado. Entre Rios\", \"id\": \"70.1_ER_E_0_A_10\", \"scrapingIdentifierCell\": \"K12\", \"scrapingDataStartCell\": \"K13\", \"units\": \"Miles de personas\", \"dataset_identifier\": \"70\", \"distribution_identifier\": \"70.1\"}, {\"title\": \"formosa\", \"type\": \"number\", \"description\": \"Miles de puestos de trabajo declarados sector privado. Formosa\", \"id\": \"70.1_F_E_0_A_7\", \"scrapingIdentifierCell\": \"L12\", \"scrapingDataStartCell\": \"L13\", \"units\": \"Miles de personas\", \"dataset_identifier\": \"70\", \"distribution_identifier\": \"70.1\"}, {\"title\": \"jujuy\", \"type\": \"number\", \"description\": \"Miles de puestos de trabajo declarados sector privado. Jujuy\", \"id\": \"70.1_J_E_0_A_5\", \"scrapingIdentifierCell\": \"M12\", \"scrapingDataStartCell\": \"M13\", \"units\": \"Miles de personas\", \"dataset_identifier\": \"70\", \"distribution_identifier\": \"70.1\"}, {\"title\": \"la_pampa\", \"type\": \"number\", \"description\": \"Miles de puestos de trabajo declarados sector privado. La Pampa\", \"id\": \"70.1_LP_E_0_A_8\", \"scrapingIdentifierCell\": \"N12\", \"scrapingDataStartCell\": \"N13\", \"units\": \"Miles de personas\", \"dataset_identifier\": \"70\", \"distribution_identifier\": \"70.1\"}, {\"title\": \"la_rioja\", \"type\": \"number\", \"description\": \"Miles de puestos de trabajo declarados sector privado. La Rioja\", \"id\": \"70.1_LR_E_0_A_8\", \"scrapingIdentifierCell\": \"O12\", \"scrapingDataStartCell\": \"O13\", \"units\": \"Miles de personas\", \"dataset_identifier\": \"70\", \"distribution_identifier\": \"70.1\"}, {\"title\": \"mendoza\", \"type\": \"number\", \"description\": \"Miles de puestos de trabajo declarados sector privado. Mendoza\", \"id\": \"70.1_M_E_0_A_7\", \"scrapingIdentifierCell\": \"P12\", \"scrapingDataStartCell\": \"P13\", \"units\": \"Miles de personas\", \"dataset_identifier\": \"70\", \"distribution_identifier\": \"70.1\"}, {\"title\": \"misiones\", \"type\": \"number\", \"description\": \"Miles de puestos de trabajo declarados sector privado. Misiones\", \"id\": \"70.1_M_E_0_A_8\", \"scrapingIdentifierCell\": \"Q12\", \"scrapingDataStartCell\": \"Q13\", \"units\": \"Miles de personas\", \"dataset_identifier\": \"70\", \"distribution_identifier\": \"70.1\"}, {\"title\": \"neuquen\", \"type\": \"number\", \"description\": \"Miles de puestos de trabajo declarados sector privado. Neuquen\", \"id\": \"70.1_N_E_0_A_7\", \"scrapingIdentifierCell\": \"R12\", \"scrapingDataStartCell\": \"R13\", \"units\": \"Miles de personas\", \"dataset_identifier\": \"70\", \"distribution_identifier\": \"70.1\"}, {\"title\": \"rio_negro\", \"type\": \"number\", \"description\": \"Miles de puestos de trabajo declarados sector privado. Rio Negro\", \"id\": \"70.1_RN_E_0_A_9\", \"scrapingIdentifierCell\": \"S12\", \"scrapingDataStartCell\": \"S13\", \"units\": \"Miles de personas\", \"dataset_identifier\": \"70\", \"distribution_identifier\": \"70.1\"}, {\"title\": \"salta\", \"type\": \"number\", \"description\": \"Miles de puestos de trabajo declarados sector privado. Salta\", \"id\": \"70.1_S_E_0_A_5\", \"scrapingIdentifierCell\": \"T12\", \"scrapingDataStartCell\": \"T13\", \"units\": \"Miles de personas\", \"dataset_identifier\": \"70\", \"distribution_identifier\": \"70.1\"}, {\"title\": \"san_juan\", \"type\": \"number\", \"description\": \"Miles de puestos de trabajo declarados sector privado. San Juan\", \"id\": \"70.1_SJ_E_0_A_8\", \"scrapingIdentifierCell\": \"U12\", \"scrapingDataStartCell\": \"U13\", \"units\": \"Miles de personas\", \"dataset_identifier\": \"70\", \"distribution_identifier\": \"70.1\"}, {\"title\": \"san_luis\", \"type\": \"number\", \"description\": \"Miles de puestos de trabajo declarados sector privado. San Luis\", \"id\": \"70.1_SL_E_0_A_8\", \"scrapingIdentifierCell\": \"V12\", \"scrapingDataStartCell\": \"V13\", \"units\": \"Miles de personas\", \"dataset_identifier\": \"70\", \"distribution_identifier\": \"70.1\"}, {\"title\": \"santa_cruz\", \"type\": \"number\", \"description\": \"Miles de puestos de trabajo declarados sector privado. Santa Cruz\", \"id\": \"70.1_SC_E_0_A_10\", \"scrapingIdentifierCell\": \"W12\", \"scrapingDataStartCell\": \"W13\", \"units\": \"Miles de personas\", \"dataset_identifier\": \"70\", \"distribution_identifier\": \"70.1\"}, {\"title\": \"santa_fe\", \"type\": \"number\", \"description\": \"Miles de puestos de trabajo declarados sector privado. San Fe\", \"id\": \"70.1_SF_E_0_A_8\", \"scrapingIdentifierCell\": \"X12\", \"scrapingDataStartCell\": \"X13\", \"units\": \"Miles de personas\", \"dataset_identifier\": \"70\", \"distribution_identifier\": \"70.1\"}, {\"title\": \"santiago_estero\", \"type\": \"number\", \"description\": \"Miles de puestos de trabajo declarados sector privado. Santiago del Estero\", \"id\": \"70.1_SE_E_0_A_15\", \"scrapingIdentifierCell\": \"Y12\", \"scrapingDataStartCell\": \"Y13\", \"units\": \"Miles de personas\", \"dataset_identifier\": \"70\", \"distribution_identifier\": \"70.1\"}, {\"title\": \"tierra_fuego\", \"type\": \"number\", \"description\": \"Miles de puestos de trabajo declarados sector privado. Tierra del Fuego\", \"id\": \"70.1_TF_E_0_A_12\", \"scrapingIdentifierCell\": \"Z12\", \"scrapingDataStartCell\": \"Z13\", \"units\": \"Miles de personas\", \"dataset_identifier\": \"70\", \"distribution_identifier\": \"70.1\"}, {\"title\": \"tucuman\", \"type\": \"number\", \"description\": \"Miles de puestos de trabajo declarados sector privado. Tucuman\", \"id\": \"70.1_T_E_0_A_7\", \"scrapingIdentifierCell\": \"AA12\", \"scrapingDataStartCell\": \"AA13\", \"units\": \"Miles de personas\", \"dataset_identifier\": \"70\", \"distribution_identifier\": \"70.1\"}, {\"title\": \"sin_clasificar\", \"type\": \"number\", \"description\": \"Miles de puestos de trabajo declarados sector privado. Sin clasificar\", \"id\": \"70.1_S_E_0_A_14\", \"scrapingIdentifierCell\": \"AB12\", \"scrapingDataStartCell\": \"AB13\", \"units\": \"Miles de personas\", \"dataset_identifier\": \"70\", \"distribution_identifier\": \"70.1\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-09-28T00:00:00",
+      "datastore_active": false,
+      "description": "Puestos de trabajo declarados por sector de actividad económica  Total país.Datos en valores anuales (en miles de puestos).",
+      "fileName": "puestos-trabajo-declarados-sector-privado-por-provincia-anual-en-miles.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "sspm_70.1",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Puestos de trabajo declarados del sector privado por provincia. Miles de puestos. Valores anuales",
+      "package_id": "sspm_70",
+      "position": 0,
+      "resource_type": null,
+      "revision_id": "f349cd97-7b22-4142-824c-7e20ffbf5503",
+      "size": null,
+      "state": "active",
+      "url": "https://infra.datos.gob.ar/catalog/sspm/dataset/70/distribution/70.1/download/puestos-trabajo-declarados-sector-privado-por-provincia-anual-en-miles.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/",
+      "attributesDescription": "[{\"title\": \"indice_tiempo\", \"type\": \"date\", \"specialType\": \"time_index\", \"specialTypeDetail\": \"R/P3M\", \"id\": \"70.2_IT_E_0_T_13\", \"scrapingIdentifierCell\": \"B28\", \"scrapingDataStartCell\": \"B29\", \"dataset_identifier\": \"70\", \"distribution_identifier\": \"70.2\"}, {\"title\": \"total_sector_privado\", \"type\": \"number\", \"description\": \"Miles de puestos de trabajo declarados sector privado. Total sector privado\", \"id\": \"70.2_TSP_E_0_T_20\", \"scrapingIdentifierCell\": \"C28\", \"scrapingDataStartCell\": \"C29\", \"units\": \"Miles de personas\", \"dataset_identifier\": \"70\", \"distribution_identifier\": \"70.2\"}, {\"title\": \"caba\", \"type\": \"number\", \"description\": \"Miles de puestos de trabajo declarados sector privado. Capital Federal\", \"id\": \"70.2_C_E_0_T_4\", \"scrapingIdentifierCell\": \"D28\", \"scrapingDataStartCell\": \"D29\", \"units\": \"Miles de personas\", \"dataset_identifier\": \"70\", \"distribution_identifier\": \"70.2\"}, {\"title\": \"provincia_buenos_aires\", \"type\": \"number\", \"description\": \"Miles de puestos de trabajo declarados sector privado. Provincia de Buenos Aires\", \"id\": \"70.2_PBA_E_0_T_22\", \"scrapingIdentifierCell\": \"E28\", \"scrapingDataStartCell\": \"E29\", \"units\": \"Miles de personas\", \"dataset_identifier\": \"70\", \"distribution_identifier\": \"70.2\"}, {\"title\": \"catamarca\", \"type\": \"number\", \"description\": \"Miles de puestos de trabajo declarados sector privado. Catamarca\", \"id\": \"70.2_C_E_0_T_9\", \"scrapingIdentifierCell\": \"F28\", \"scrapingDataStartCell\": \"F29\", \"units\": \"Miles de personas\", \"dataset_identifier\": \"70\", \"distribution_identifier\": \"70.2\"}, {\"title\": \"cordoba\", \"type\": \"number\", \"description\": \"Miles de puestos de trabajo declarados sector privado. Cordoba\", \"id\": \"70.2_C_E_0_T_7\", \"scrapingIdentifierCell\": \"G28\", \"scrapingDataStartCell\": \"G29\", \"units\": \"Miles de personas\", \"dataset_identifier\": \"70\", \"distribution_identifier\": \"70.2\"}, {\"title\": \"corrientes\", \"type\": \"number\", \"description\": \"Miles de puestos de trabajo declarados sector privado. Corrientes\", \"id\": \"70.2_C_E_0_T_10\", \"scrapingIdentifierCell\": \"H28\", \"scrapingDataStartCell\": \"H29\", \"units\": \"Miles de personas\", \"dataset_identifier\": \"70\", \"distribution_identifier\": \"70.2\"}, {\"title\": \"chaco\", \"type\": \"number\", \"description\": \"Miles de puestos de trabajo declarados sector privado. Chaco\", \"id\": \"70.2_C_E_0_T_5\", \"scrapingIdentifierCell\": \"I28\", \"scrapingDataStartCell\": \"I29\", \"units\": \"Miles de personas\", \"dataset_identifier\": \"70\", \"distribution_identifier\": \"70.2\"}, {\"title\": \"chubut\", \"type\": \"number\", \"description\": \"Miles de puestos de trabajo declarados sector privado. Chubut\", \"id\": \"70.2_C_E_0_T_6\", \"scrapingIdentifierCell\": \"J28\", \"scrapingDataStartCell\": \"J29\", \"units\": \"Miles de personas\", \"dataset_identifier\": \"70\", \"distribution_identifier\": \"70.2\"}, {\"title\": \"entre_rios\", \"type\": \"number\", \"description\": \"Miles de puestos de trabajo declarados sector privado. Entre Rios\", \"id\": \"70.2_ER_E_0_T_10\", \"scrapingIdentifierCell\": \"K28\", \"scrapingDataStartCell\": \"K29\", \"units\": \"Miles de personas\", \"dataset_identifier\": \"70\", \"distribution_identifier\": \"70.2\"}, {\"title\": \"formosa\", \"type\": \"number\", \"description\": \"Miles de puestos de trabajo declarados sector privado. Formosa\", \"id\": \"70.2_F_E_0_T_7\", \"scrapingIdentifierCell\": \"L28\", \"scrapingDataStartCell\": \"L29\", \"units\": \"Miles de personas\", \"dataset_identifier\": \"70\", \"distribution_identifier\": \"70.2\"}, {\"title\": \"jujuy\", \"type\": \"number\", \"description\": \"Miles de puestos de trabajo declarados sector privado. Jujuy\", \"id\": \"70.2_J_E_0_T_5\", \"scrapingIdentifierCell\": \"M28\", \"scrapingDataStartCell\": \"M29\", \"units\": \"Miles de personas\", \"dataset_identifier\": \"70\", \"distribution_identifier\": \"70.2\"}, {\"title\": \"la_pampa\", \"type\": \"number\", \"description\": \"Miles de puestos de trabajo declarados sector privado. La Pampa\", \"id\": \"70.2_LP_E_0_T_8\", \"scrapingIdentifierCell\": \"N28\", \"scrapingDataStartCell\": \"N29\", \"units\": \"Miles de personas\", \"dataset_identifier\": \"70\", \"distribution_identifier\": \"70.2\"}, {\"title\": \"la_rioja\", \"type\": \"number\", \"description\": \"Miles de puestos de trabajo declarados sector privado. La Rioja\", \"id\": \"70.2_LR_E_0_T_8\", \"scrapingIdentifierCell\": \"O28\", \"scrapingDataStartCell\": \"O29\", \"units\": \"Miles de personas\", \"dataset_identifier\": \"70\", \"distribution_identifier\": \"70.2\"}, {\"title\": \"mendoza\", \"type\": \"number\", \"description\": \"Miles de puestos de trabajo declarados sector privado. Mendoza\", \"id\": \"70.2_M_E_0_T_7\", \"scrapingIdentifierCell\": \"P28\", \"scrapingDataStartCell\": \"P29\", \"units\": \"Miles de personas\", \"dataset_identifier\": \"70\", \"distribution_identifier\": \"70.2\"}, {\"title\": \"misiones\", \"type\": \"number\", \"description\": \"Miles de puestos de trabajo declarados sector privado. Misiones\", \"id\": \"70.2_M_E_0_T_8\", \"scrapingIdentifierCell\": \"Q28\", \"scrapingDataStartCell\": \"Q29\", \"units\": \"Miles de personas\", \"dataset_identifier\": \"70\", \"distribution_identifier\": \"70.2\"}, {\"title\": \"neuquen\", \"type\": \"number\", \"description\": \"Miles de puestos de trabajo declarados sector privado. Neuquen\", \"id\": \"70.2_N_E_0_T_7\", \"scrapingIdentifierCell\": \"R28\", \"scrapingDataStartCell\": \"R29\", \"units\": \"Miles de personas\", \"dataset_identifier\": \"70\", \"distribution_identifier\": \"70.2\"}, {\"title\": \"rio_negro\", \"type\": \"number\", \"description\": \"Miles de puestos de trabajo declarados sector privado. Rio Negro\", \"id\": \"70.2_RN_E_0_T_9\", \"scrapingIdentifierCell\": \"S28\", \"scrapingDataStartCell\": \"S29\", \"units\": \"Miles de personas\", \"dataset_identifier\": \"70\", \"distribution_identifier\": \"70.2\"}, {\"title\": \"salta\", \"type\": \"number\", \"description\": \"Miles de puestos de trabajo declarados sector privado. Salta\", \"id\": \"70.2_S_E_0_T_5\", \"scrapingIdentifierCell\": \"T28\", \"scrapingDataStartCell\": \"T29\", \"units\": \"Miles de personas\", \"dataset_identifier\": \"70\", \"distribution_identifier\": \"70.2\"}, {\"title\": \"san_juan\", \"type\": \"number\", \"description\": \"Miles de puestos de trabajo declarados sector privado. San Juan\", \"id\": \"70.2_SJ_E_0_T_8\", \"scrapingIdentifierCell\": \"U28\", \"scrapingDataStartCell\": \"U29\", \"units\": \"Miles de personas\", \"dataset_identifier\": \"70\", \"distribution_identifier\": \"70.2\"}, {\"title\": \"san_luis\", \"type\": \"number\", \"description\": \"Miles de puestos de trabajo declarados sector privado. San Luis\", \"id\": \"70.2_SL_E_0_T_8\", \"scrapingIdentifierCell\": \"V28\", \"scrapingDataStartCell\": \"V29\", \"units\": \"Miles de personas\", \"dataset_identifier\": \"70\", \"distribution_identifier\": \"70.2\"}, {\"title\": \"santa_cruz\", \"type\": \"number\", \"description\": \"Miles de puestos de trabajo declarados sector privado. Santa Cruz\", \"id\": \"70.2_SC_E_0_T_10\", \"scrapingIdentifierCell\": \"W28\", \"scrapingDataStartCell\": \"W29\", \"units\": \"Miles de personas\", \"dataset_identifier\": \"70\", \"distribution_identifier\": \"70.2\"}, {\"title\": \"santa_fe\", \"type\": \"number\", \"description\": \"Miles de puestos de trabajo declarados sector privado. San Fe\", \"id\": \"70.2_SF_E_0_T_8\", \"scrapingIdentifierCell\": \"X28\", \"scrapingDataStartCell\": \"X29\", \"units\": \"Miles de personas\", \"dataset_identifier\": \"70\", \"distribution_identifier\": \"70.2\"}, {\"title\": \"santiago_estero\", \"type\": \"number\", \"description\": \"Miles de puestos de trabajo declarados sector privado. Santiago del Estero\", \"id\": \"70.2_SE_E_0_T_15\", \"scrapingIdentifierCell\": \"Y28\", \"scrapingDataStartCell\": \"Y29\", \"units\": \"Miles de personas\", \"dataset_identifier\": \"70\", \"distribution_identifier\": \"70.2\"}, {\"title\": \"tierra_fuego\", \"type\": \"number\", \"description\": \"Miles de puestos de trabajo declarados sector privado. Tierra del Fuego\", \"id\": \"70.2_TF_E_0_T_12\", \"scrapingIdentifierCell\": \"Z28\", \"scrapingDataStartCell\": \"Z29\", \"units\": \"Miles de personas\", \"dataset_identifier\": \"70\", \"distribution_identifier\": \"70.2\"}, {\"title\": \"tucuman\", \"type\": \"number\", \"description\": \"Miles de puestos de trabajo declarados sector privado. Tucuman\", \"id\": \"70.2_T_E_0_T_7\", \"scrapingIdentifierCell\": \"AA28\", \"scrapingDataStartCell\": \"AA29\", \"units\": \"Miles de personas\", \"dataset_identifier\": \"70\", \"distribution_identifier\": \"70.2\"}, {\"title\": \"sin_clasificar\", \"type\": \"number\", \"description\": \"Miles de puestos de trabajo declarados sector privado. Sin clasificar\", \"id\": \"70.2_S_E_0_T_14\", \"scrapingIdentifierCell\": \"AB28\", \"scrapingDataStartCell\": \"AB29\", \"units\": \"Miles de personas\", \"dataset_identifier\": \"70\", \"distribution_identifier\": \"70.2\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-09-28T00:00:00",
+      "datastore_active": false,
+      "description": "Puestos de trabajo declarados por sector de actividad económica. Total país. Datos en valores trimestrales (en miles de puestos).",
+      "fileName": "puestos-trabajo-por-sector-actividad-economica-trimestral-en-miles.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "sspm_70.2",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Puestos de trabajo por provincia.  Miles de puestos. Valores trimestrales",
+      "package_id": "sspm_70",
+      "position": 1,
+      "resource_type": null,
+      "revision_id": "f349cd97-7b22-4142-824c-7e20ffbf5503",
+      "size": null,
+      "state": "active",
+      "url": "https://infra.datos.gob.ar/catalog/sspm/dataset/70/distribution/70.2/download/puestos-trabajo-por-sector-actividad-economica-trimestral-en-miles.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "f349cd97-7b22-4142-824c-7e20ffbf5503",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "Empleo e Ingresos",
+      "id": "0d41bcfd-c3a4-4ff7-8aa1-dd5c3ac51d0b",
+      "name": "Empleo e Ingresos",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Información Económica al Día",
+      "id": "0d300a9a-0802-46c3-9a40-2f28ddf050ec",
+      "name": "Información Económica al Día",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Puestos de trabajo declarados  por sector provincia",
+  "type": "dataset",
+  "url": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/",
+  "version": null
+}

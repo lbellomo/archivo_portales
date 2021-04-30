@@ -1,0 +1,174 @@
+{
+  "author": "Subsecretaría de Programación Macroeconómica",
+  "author_email": "datoseconomicos@mecon.gov.ar",
+  "creator_user_id": "4720e75a-9e17-4dc3-879d-041917c7f9f9",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P1M"
+    },
+    {
+      "key": "issued",
+      "value": "2017-09-28"
+    },
+    {
+      "key": "language",
+      "value": "[\"SPA\"]"
+    },
+    {
+      "key": "source",
+      "value": "Instituto Nacional de Estadística y Censos (INDEC)"
+    },
+    {
+      "key": "spatial",
+      "value": "ARG"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"ECON\"]"
+    },
+    {
+      "key": "temporal",
+      "value": "1980-01-01/2017-07-01"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Economía y finanzas",
+      "display_name": "Economía y finanzas",
+      "id": "60b4b03e-10a1-4d67-b984-08008a249617",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225257.200233economia-finanzas.svg",
+      "name": "econ",
+      "title": "Economía y finanzas"
+    }
+  ],
+  "id": "sspm_40",
+  "isopen": true,
+  "license_id": "CC-BY-4.0",
+  "license_title": "Creative Commons Attribution 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "maintainer": "Subsecretaría de Programación Macroeconómica.",
+  "maintainer_email": "datoseconomicos@mecon.gov.ar",
+  "metadata_created": "2019-11-26T15:05:11.689791",
+  "metadata_modified": "2021-04-29T21:06:08.026363",
+  "name": "sspm-faena-pecuaria",
+  "notes": "Faena pecuaria",
+  "num_resources": 3,
+  "num_tags": 2,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:09.718132",
+    "description": "",
+    "id": "68f9ee22-5ec3-44cf-a32b-b87d9db46b93",
+    "image_url": "",
+    "is_organization": true,
+    "name": "sspm",
+    "revision_id": "bc058ce0-3540-4204-96cd-9f9ec79045b3",
+    "state": "active",
+    "title": "Subsecretaría de Programación Macroeconómica",
+    "type": "organization"
+  },
+  "owner_org": "68f9ee22-5ec3-44cf-a32b-b87d9db46b93",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/",
+      "attributesDescription": "[{\"title\": \"indice_tiempo\", \"type\": \"date\", \"specialType\": \"time_index\", \"specialTypeDetail\": \"R/P1Y\", \"id\": \"40.1_IT_0_A_13\", \"scrapingIdentifierCell\": \"A8\", \"scrapingDataStartCell\": \"A9\", \"dataset_identifier\": \"40\", \"distribution_identifier\": \"40.1\"}, {\"title\": \"vacunos_cabezas\", \"type\": \"number\", \"description\": \"Faena de cabezas vacunas, Anual\", \"id\": \"40.1_VC_0_A_15\", \"scrapingIdentifierCell\": \"B8\", \"scrapingDataStartCell\": \"B9\", \"units\": \"Cabezas\", \"dataset_identifier\": \"40\", \"distribution_identifier\": \"40.1\"}, {\"title\": \"vacunos_toneladas\", \"type\": \"number\", \"description\": \"Faena pecuaria, vacunos, Anual en toneladas\", \"id\": \"40.1_VT_0_A_17\", \"scrapingIdentifierCell\": \"C8\", \"scrapingDataStartCell\": \"C9\", \"units\": \"Toneladas\", \"dataset_identifier\": \"40\", \"distribution_identifier\": \"40.1\"}, {\"title\": \"ovinos_cabezas\", \"type\": \"number\", \"description\": \"Faena de cabezas ovinos, Anual\", \"id\": \"40.1_OC_0_A_14\", \"scrapingIdentifierCell\": \"D8\", \"scrapingDataStartCell\": \"D9\", \"units\": \"Cabezas\", \"dataset_identifier\": \"40\", \"distribution_identifier\": \"40.1\"}, {\"title\": \"porcinos_cabezas\", \"type\": \"number\", \"description\": \"Faena de cabezas porcinas, Anual\", \"id\": \"40.1_PC_0_A_16\", \"scrapingIdentifierCell\": \"E8\", \"scrapingDataStartCell\": \"E9\", \"units\": \"Cabezas\", \"dataset_identifier\": \"40\", \"distribution_identifier\": \"40.1\"}, {\"title\": \"porcinos_toneladas\", \"type\": \"number\", \"description\": \"Faena pecuaria, porcinos, Anual en toneladas\", \"id\": \"40.1_PT_0_A_18\", \"scrapingIdentifierCell\": \"F8\", \"scrapingDataStartCell\": \"F9\", \"units\": \"Toneladas\", \"dataset_identifier\": \"40\", \"distribution_identifier\": \"40.1\"}, {\"title\": \"aves_cabezas\", \"type\": \"number\", \"description\": \"Cantidad de aves procesadas, Anual\", \"id\": \"40.1_AC_0_A_12\", \"scrapingIdentifierCell\": \"G8\", \"scrapingDataStartCell\": \"G9\", \"units\": \"Cabezas\", \"dataset_identifier\": \"40\", \"distribution_identifier\": \"40.1\"}, {\"title\": \"aves_toneladas\", \"type\": \"number\", \"description\": \"Faena pecuaria, aves, Anual en toneladas\", \"id\": \"40.1_AT_0_A_14\", \"scrapingIdentifierCell\": \"H8\", \"scrapingDataStartCell\": \"H9\", \"units\": \"Toneladas\", \"dataset_identifier\": \"40\", \"distribution_identifier\": \"40.1\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-09-28T00:00:00",
+      "datastore_active": false,
+      "description": "Faena pecuaria por especies en cabezas y toneladas. Valores anuales",
+      "fileName": "faena-pecuaria-por-especies-valores-anuales.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "sspm_40.1",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Faena pecuaria por especie. Valores anuales",
+      "package_id": "sspm_40",
+      "position": 0,
+      "resource_type": null,
+      "revision_id": "e43063bb-9190-4f1e-b831-7697a3f51cee",
+      "size": null,
+      "state": "active",
+      "url": "https://infra.datos.gob.ar/catalog/sspm/dataset/40/distribution/40.1/download/faena-pecuaria-por-especies-valores-anuales.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/",
+      "attributesDescription": "[{\"title\": \"indice_tiempo\", \"type\": \"date\", \"specialType\": \"time_index\", \"specialTypeDetail\": \"R/P3M\", \"id\": \"40.2_IT_0_T_13\", \"scrapingIdentifierCell\": \"A57\", \"scrapingDataStartCell\": \"A58\", \"dataset_identifier\": \"40\", \"distribution_identifier\": \"40.2\"}, {\"title\": \"vacunos_cabezas\", \"type\": \"number\", \"description\": \"Faena de cabezas vacunas, Anual\", \"id\": \"40.2_VC_0_T_15\", \"scrapingIdentifierCell\": \"B57\", \"scrapingDataStartCell\": \"B58\", \"units\": \"Cabezas\", \"dataset_identifier\": \"40\", \"distribution_identifier\": \"40.2\"}, {\"title\": \"vacunos_toneladas\", \"type\": \"number\", \"description\": \"Faena pecuaria, vacunos, Trimestral en toneladas\", \"id\": \"40.2_VT_0_T_17\", \"scrapingIdentifierCell\": \"C57\", \"scrapingDataStartCell\": \"C58\", \"units\": \"Toneladas\", \"dataset_identifier\": \"40\", \"distribution_identifier\": \"40.2\"}, {\"title\": \"ovinos_cabezas\", \"type\": \"number\", \"description\": \"Faena de cabezas ovinos, Anual\", \"id\": \"40.2_OC_0_T_14\", \"scrapingIdentifierCell\": \"D57\", \"scrapingDataStartCell\": \"D58\", \"units\": \"Cabezas\", \"dataset_identifier\": \"40\", \"distribution_identifier\": \"40.2\"}, {\"title\": \"porcinos_cabezas\", \"type\": \"number\", \"description\": \"Faena de cabezas porcinas, Anual\", \"id\": \"40.2_PC_0_T_16\", \"scrapingIdentifierCell\": \"E57\", \"scrapingDataStartCell\": \"E58\", \"units\": \"Cabezas\", \"dataset_identifier\": \"40\", \"distribution_identifier\": \"40.2\"}, {\"title\": \"porcinos_toneladas\", \"type\": \"number\", \"description\": \"Faena pecuaria, porcinos, Trimestral en toneladas\", \"id\": \"40.2_PT_0_T_18\", \"scrapingIdentifierCell\": \"F57\", \"scrapingDataStartCell\": \"F58\", \"units\": \"Toneladas\", \"dataset_identifier\": \"40\", \"distribution_identifier\": \"40.2\"}, {\"title\": \"aves_cabezas\", \"type\": \"number\", \"description\": \"Cantidad de aves procesadas, Anual\", \"id\": \"40.2_AC_0_T_12\", \"scrapingIdentifierCell\": \"G57\", \"scrapingDataStartCell\": \"G58\", \"units\": \"Cabezas\", \"dataset_identifier\": \"40\", \"distribution_identifier\": \"40.2\"}, {\"title\": \"aves_toneladas\", \"type\": \"number\", \"description\": \"Faena pecuaria, aves, Trimestral en toneladas\", \"id\": \"40.2_AT_0_T_14\", \"scrapingIdentifierCell\": \"H57\", \"scrapingDataStartCell\": \"H58\", \"units\": \"Toneladas\", \"dataset_identifier\": \"40\", \"distribution_identifier\": \"40.2\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-09-28T00:00:00",
+      "datastore_active": false,
+      "description": "Faena pecuaria por especies en cabezas y toneladas. Valores trimestrales",
+      "fileName": "faena-pecuaria-por-especies-valores-trimestrales.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "sspm_40.2",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Faena pecuaria por especie. Valores trimestrales",
+      "package_id": "sspm_40",
+      "position": 1,
+      "resource_type": null,
+      "revision_id": "e43063bb-9190-4f1e-b831-7697a3f51cee",
+      "size": null,
+      "state": "active",
+      "url": "https://infra.datos.gob.ar/catalog/sspm/dataset/40/distribution/40.2/download/faena-pecuaria-por-especies-valores-trimestrales.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/",
+      "attributesDescription": "[{\"title\": \"indice_tiempo\", \"type\": \"date\", \"specialType\": \"time_index\", \"specialTypeDetail\": \"R/P1M\", \"id\": \"40.3_IT_0_M_13\", \"scrapingIdentifierCell\": \"A229\", \"scrapingDataStartCell\": \"A230\", \"dataset_identifier\": \"40\", \"distribution_identifier\": \"40.3\"}, {\"title\": \"vacunos_cabezas\", \"type\": \"number\", \"description\": \"Faena pecuaria, vacunos, Mensual en cabezas\", \"id\": \"40.3_VC_0_M_15\", \"scrapingIdentifierCell\": \"B229\", \"scrapingDataStartCell\": \"B230\", \"units\": \"Cabezas\", \"dataset_identifier\": \"40\", \"distribution_identifier\": \"40.3\"}, {\"title\": \"vacunos_toneladas\", \"type\": \"number\", \"description\": \"Faena pecuaria, vacunos, Mensual en toneladas\", \"id\": \"40.3_VT_0_M_17\", \"scrapingIdentifierCell\": \"C229\", \"scrapingDataStartCell\": \"C230\", \"units\": \"Toneladas\", \"dataset_identifier\": \"40\", \"distribution_identifier\": \"40.3\"}, {\"title\": \"ovinos_cabezas\", \"type\": \"number\", \"description\": \"Faena de cabezas vacunas, Anual\", \"id\": \"40.3_OC_0_M_14\", \"scrapingIdentifierCell\": \"D229\", \"scrapingDataStartCell\": \"D230\", \"units\": \"Cabezas\", \"dataset_identifier\": \"40\", \"distribution_identifier\": \"40.3\"}, {\"title\": \"porcinos_cabezas\", \"type\": \"number\", \"description\": \"Faena de cabezas porcinas, Anual\", \"id\": \"40.3_PC_0_M_16\", \"scrapingIdentifierCell\": \"E229\", \"scrapingDataStartCell\": \"E230\", \"units\": \"Cabezas\", \"dataset_identifier\": \"40\", \"distribution_identifier\": \"40.3\"}, {\"title\": \"porcinos_toneladas\", \"type\": \"number\", \"description\": \"Faena pecuaria, porcinos, Mensual en toneladas\", \"id\": \"40.3_PT_0_M_18\", \"scrapingIdentifierCell\": \"F229\", \"scrapingDataStartCell\": \"F230\", \"units\": \"Toneladas\", \"dataset_identifier\": \"40\", \"distribution_identifier\": \"40.3\"}, {\"title\": \"aves_cabezas\", \"type\": \"number\", \"description\": \"Cantidad de aves procesadas, Anual\", \"id\": \"40.3_AC_0_M_12\", \"scrapingIdentifierCell\": \"G229\", \"scrapingDataStartCell\": \"G230\", \"units\": \"Cabezas\", \"dataset_identifier\": \"40\", \"distribution_identifier\": \"40.3\"}, {\"title\": \"aves_toneladas\", \"type\": \"number\", \"description\": \"Faena pecuaria, aves, Mensual en toneladas\", \"id\": \"40.3_AT_0_M_14\", \"scrapingIdentifierCell\": \"H229\", \"scrapingDataStartCell\": \"H230\", \"units\": \"Toneladas\", \"dataset_identifier\": \"40\", \"distribution_identifier\": \"40.3\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-09-28T00:00:00",
+      "datastore_active": false,
+      "description": "Faena pecuaria por especies en cabezas y toneladas. Valores trimestrales",
+      "fileName": "faena-pecuaria-por-especies-valores-mensuales.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "sspm_40.3",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Faena pecuaria por especie. Valores mensuales",
+      "package_id": "sspm_40",
+      "position": 2,
+      "resource_type": null,
+      "revision_id": "c3b2f45d-b272-4ba4-b667-422aebd5e8e3",
+      "size": null,
+      "state": "active",
+      "url": "https://infra.datos.gob.ar/catalog/sspm/dataset/40/distribution/40.3/download/faena-pecuaria-por-especies-valores-mensuales.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "e43063bb-9190-4f1e-b831-7697a3f51cee",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "Actividad",
+      "id": "a7695c51-c893-4ece-8ff9-306c197afdd7",
+      "name": "Actividad",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Información Económica al Día",
+      "id": "0d300a9a-0802-46c3-9a40-2f28ddf050ec",
+      "name": "Información Económica al Día",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Faena pecuaria",
+  "type": "dataset",
+  "url": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/",
+  "version": null
+}

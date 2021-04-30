@@ -1,0 +1,149 @@
+{
+  "author": "Subsecretaría de Programación Macroeconómica",
+  "author_email": "datoseconomicos@mecon.gov.ar",
+  "creator_user_id": "4720e75a-9e17-4dc3-879d-041917c7f9f9",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P3M"
+    },
+    {
+      "key": "issued",
+      "value": "2017-09-28"
+    },
+    {
+      "key": "language",
+      "value": "[\"SPA\"]"
+    },
+    {
+      "key": "source",
+      "value": "Instituto Nacional de Estadística y Censos (INDEC)"
+    },
+    {
+      "key": "spatial",
+      "value": "ARG"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"ECON\"]"
+    },
+    {
+      "key": "temporal",
+      "value": "2004-01-01/2016-12-01"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Economía y finanzas",
+      "display_name": "Economía y finanzas",
+      "id": "60b4b03e-10a1-4d67-b984-08008a249617",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225257.200233economia-finanzas.svg",
+      "name": "econ",
+      "title": "Economía y finanzas"
+    }
+  ],
+  "id": "sspm_6",
+  "isopen": true,
+  "license_id": "CC-BY-4.0",
+  "license_title": "Creative Commons Attribution 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "maintainer": "Subsecretaría de Programación Macroeconómica.",
+  "maintainer_email": "datoseconomicos@mecon.gov.ar",
+  "metadata_created": "2019-11-26T15:06:18.165663",
+  "metadata_modified": "2021-04-29T21:05:16.598510",
+  "name": "sspm-producto-interno-bruto-precios-mercado-precios-constantes-base-2004",
+  "notes": "Valor agregado bruto sectorial a precios de productor en pesos constantes de 2004",
+  "num_resources": 2,
+  "num_tags": 2,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:09.718132",
+    "description": "",
+    "id": "68f9ee22-5ec3-44cf-a32b-b87d9db46b93",
+    "image_url": "",
+    "is_organization": true,
+    "name": "sspm",
+    "revision_id": "bc058ce0-3540-4204-96cd-9f9ec79045b3",
+    "state": "active",
+    "title": "Subsecretaría de Programación Macroeconómica",
+    "type": "organization"
+  },
+  "owner_org": "68f9ee22-5ec3-44cf-a32b-b87d9db46b93",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/",
+      "attributesDescription": "[{\"title\": \"indice_tiempo\", \"type\": \"date\", \"specialType\": \"time_index\", \"specialTypeDetail\": \"R/P1Y\", \"id\": \"6.1_IT_2004_A_13\", \"scrapingIdentifierCell\": \"A7\", \"scrapingDataStartCell\": \"A8\", \"dataset_identifier\": \"6\", \"distribution_identifier\": \"6.1\"}, {\"title\": \"agricultura_ganaderia_caza_silvicultura\", \"type\": \"number\", \"description\": \"Valor agregado bruto anual a precios de productor, de agricultura ganaderia caza y silvicultura en pesos de 2004\", \"id\": \"6.1_AGCS_2004_A_39\", \"scrapingIdentifierCell\": \"B7\", \"scrapingDataStartCell\": \"B8\", \"units\": \"Millones de pesos a precios de 2004\", \"dataset_identifier\": \"6\", \"distribution_identifier\": \"6.1\"}, {\"title\": \"pesca\", \"type\": \"number\", \"description\": \"Valor agregado bruto anual a precios de productor de pesca en pesos de 2004\", \"id\": \"6.1_P_2004_A_5\", \"scrapingIdentifierCell\": \"C7\", \"scrapingDataStartCell\": \"C8\", \"units\": \"Millones de pesos a precios de 2004\", \"dataset_identifier\": \"6\", \"distribution_identifier\": \"6.1\"}, {\"title\": \"explotacion_minas_canteras\", \"type\": \"number\", \"description\": \"Valor agregado bruto anual a precios de productor de explotaci\\u00f3n de minas y canteras en pesos de 2004\", \"id\": \"6.1_EMC_2004_A_26\", \"scrapingIdentifierCell\": \"D7\", \"scrapingDataStartCell\": \"D8\", \"units\": \"Millones de pesos a precios de 2004\", \"dataset_identifier\": \"6\", \"distribution_identifier\": \"6.1\"}, {\"title\": \"industria_manufacturera\", \"type\": \"number\", \"description\": \"Valor agregado bruto anual a precios de productor de industria manufacturera en pesos de 2004\", \"id\": \"6.1_IM_2004_A_23\", \"scrapingIdentifierCell\": \"E7\", \"scrapingDataStartCell\": \"E8\", \"units\": \"Millones de pesos a precios de 2004\", \"dataset_identifier\": \"6\", \"distribution_identifier\": \"6.1\"}, {\"title\": \"suministro_electricidad_gas_agua\", \"type\": \"number\", \"description\": \"Valor agregado bruto anual a precios de productor de suministro de electricidad gas y agua en pesos de 2004\", \"id\": \"6.1_SEGA_2004_A_32\", \"scrapingIdentifierCell\": \"F7\", \"scrapingDataStartCell\": \"F8\", \"units\": \"Millones de pesos a precios de 2004\", \"dataset_identifier\": \"6\", \"distribution_identifier\": \"6.1\"}, {\"title\": \"construccion\", \"type\": \"number\", \"description\": \"Valor agregado bruto anual a precios de productor de construcci\\u00f3n en pesos de 2004\", \"id\": \"6.1_C_2004_A_12\", \"scrapingIdentifierCell\": \"G7\", \"scrapingDataStartCell\": \"G8\", \"units\": \"Millones de pesos a precios de 2004\", \"dataset_identifier\": \"6\", \"distribution_identifier\": \"6.1\"}, {\"title\": \"sectores_productores_bienes\", \"type\": \"number\", \"description\": \"Valor agregado bruto anual a precios de productor de sectores productores de bienes en pesos de 2004\", \"id\": \"6.1_SPB_2004_A_27\", \"scrapingIdentifierCell\": \"H7\", \"scrapingDataStartCell\": \"H8\", \"units\": \"Millones de pesos a precios de 2004\", \"dataset_identifier\": \"6\", \"distribution_identifier\": \"6.1\"}, {\"title\": \"comercio_mayorista_minorista_reparaciones\", \"type\": \"number\", \"description\": \"Valor agregado bruto anual a precios de productor de comercio mayorista y minorista y reparaciones en pesos de 2004\", \"id\": \"6.1_CMMR_2004_A_41\", \"scrapingIdentifierCell\": \"I7\", \"scrapingDataStartCell\": \"I8\", \"units\": \"Millones de pesos a precios de 2004\", \"dataset_identifier\": \"6\", \"distribution_identifier\": \"6.1\"}, {\"title\": \"hoteles_restaurantes\", \"type\": \"number\", \"description\": \"Valor agregado bruto anual a precios de productor de hoteles y restaurantes en pesos de 2004\", \"id\": \"6.1_HR_2004_A_20\", \"scrapingIdentifierCell\": \"J7\", \"scrapingDataStartCell\": \"J8\", \"units\": \"Millones de pesos a precios de 2004\", \"dataset_identifier\": \"6\", \"distribution_identifier\": \"6.1\"}, {\"title\": \"transporte_almacenamiento_comunicaciones\", \"type\": \"number\", \"description\": \"Valor agregado bruto anual a precios de productor de transporte almacenamiento y comunicaciones en pesos de 2004\", \"id\": \"6.1_TAC_2004_A_40\", \"scrapingIdentifierCell\": \"K7\", \"scrapingDataStartCell\": \"K8\", \"units\": \"Millones de pesos a precios de 2004\", \"dataset_identifier\": \"6\", \"distribution_identifier\": \"6.1\"}, {\"title\": \"intermediacion_financiera\", \"type\": \"number\", \"description\": \"Valor agregado bruto anual a precios de productor de intermediaci\\u00f3n financiera en pesos de 2004\", \"id\": \"6.1_IF_2004_A_25\", \"scrapingIdentifierCell\": \"L7\", \"scrapingDataStartCell\": \"L8\", \"units\": \"Millones de pesos a precios de 2004\", \"dataset_identifier\": \"6\", \"distribution_identifier\": \"6.1\"}, {\"title\": \"actividades_inmobiliarias_empresariales_alquiler\", \"type\": \"number\", \"description\": \"Valor agregado bruto anual a precios de productor de actividades inmobiliarias empresariales y de alquiler en pesos de 2004\", \"id\": \"6.1_AIEA_2004_A_48\", \"scrapingIdentifierCell\": \"M7\", \"scrapingDataStartCell\": \"M8\", \"units\": \"Millones de pesos a precios de 2004\", \"dataset_identifier\": \"6\", \"distribution_identifier\": \"6.1\"}, {\"title\": \"admin_publica_planes_seguridad_social_afiliacion_obligatoria\", \"type\": \"number\", \"description\": \"Valor agregado bruto anual a precios de productor de administraci\\u00f3n p\\u00fablica y defensa planes de seguridad social de afiliaci\\u00f3n obligatoria en pesos de 2004\", \"id\": \"6.1_APDPSSAO_2004_A_60\", \"scrapingIdentifierCell\": \"N7\", \"scrapingDataStartCell\": \"N8\", \"units\": \"Millones de pesos a precios de 2004\", \"dataset_identifier\": \"6\", \"distribution_identifier\": \"6.1\"}, {\"title\": \"ensenianza\", \"type\": \"number\", \"description\": \"Valor agregado bruto anual a precios de productor de ense\\u00f1anza en pesos de 2004\", \"id\": \"6.1_E_2004_A_10\", \"scrapingIdentifierCell\": \"O7\", \"scrapingDataStartCell\": \"O8\", \"units\": \"Millones de pesos a precios de 2004\", \"dataset_identifier\": \"6\", \"distribution_identifier\": \"6.1\"}, {\"title\": \"servicios_sociales_salud\", \"type\": \"number\", \"description\": \"Valor agregado bruto anual a precios de productor de servicios sociales y de salud en pesos de 2004\", \"id\": \"6.1_SSS_2004_A_24\", \"scrapingIdentifierCell\": \"P7\", \"scrapingDataStartCell\": \"P8\", \"units\": \"Millones de pesos a precios de 2004\", \"dataset_identifier\": \"6\", \"distribution_identifier\": \"6.1\"}, {\"title\": \"otras_actividades_servicios_comunitarias_sociales_personales\", \"type\": \"number\", \"description\": \"Valor agregado bruto anual a precios de productor de otras actividades de servicios comunitarias sociales personales en pesos de 2004\", \"id\": \"6.1_OASCSP_2004_A_60\", \"scrapingIdentifierCell\": \"Q7\", \"scrapingDataStartCell\": \"Q8\", \"units\": \"Millones de pesos a precios de 2004\", \"dataset_identifier\": \"6\", \"distribution_identifier\": \"6.1\"}, {\"title\": \"hogares_privs_servicio_domestico\", \"type\": \"number\", \"description\": \"Valor agregado bruto anual a precios de productor de hogares privados con servicio dom\\u00e9stico en pesos de 2004\", \"id\": \"6.1_HPSD_2004_A_32\", \"scrapingIdentifierCell\": \"R7\", \"scrapingDataStartCell\": \"R8\", \"units\": \"Millones de pesos a precios de 2004\", \"dataset_identifier\": \"6\", \"distribution_identifier\": \"6.1\"}, {\"title\": \"sectores_productores_servicios\", \"type\": \"number\", \"description\": \"Valor agregado bruto anual a precios de productor de sectores productores de servicios en pesos de 2004\", \"id\": \"6.1_SPS_2004_A_30\", \"scrapingIdentifierCell\": \"S7\", \"scrapingDataStartCell\": \"S8\", \"units\": \"Millones de pesos a precios de 2004\", \"dataset_identifier\": \"6\", \"distribution_identifier\": \"6.1\"}, {\"title\": \"valor_agregado_bruto_precios_basicos\", \"type\": \"number\", \"description\": \"Valor agregado bruto anual a precios de productor de valor agregado bruto a precios b\\u00e1sicos en pesos de 2004\", \"id\": \"6.1_VABPB_2004_A_36\", \"scrapingIdentifierCell\": \"T7\", \"scrapingDataStartCell\": \"T8\", \"units\": \"Millones de pesos a precios de 2004\", \"dataset_identifier\": \"6\", \"distribution_identifier\": \"6.1\"}, {\"title\": \"impuesto_valor_agregado\", \"type\": \"number\", \"description\": \"Valor agregado bruto anual a precios de productor de impuesto al valor agregado en pesos de 2004\", \"id\": \"6.1_IVA_2004_A_23\", \"scrapingIdentifierCell\": \"U7\", \"scrapingDataStartCell\": \"U8\", \"units\": \"Millones de pesos a precios de 2004\", \"dataset_identifier\": \"6\", \"distribution_identifier\": \"6.1\"}, {\"title\": \"derechos_importacion\", \"type\": \"number\", \"description\": \"Valor agregado bruto anual a precios de productor de derechos de importaci\\u00f3n en pesos de 2004\", \"id\": \"6.1_DI_2004_A_20\", \"scrapingIdentifierCell\": \"V7\", \"scrapingDataStartCell\": \"V8\", \"units\": \"Millones de pesos a precios de 2004\", \"dataset_identifier\": \"6\", \"distribution_identifier\": \"6.1\"}, {\"title\": \"impuestos_productos_netos_subsidios\", \"type\": \"number\", \"description\": \"Valor agregado bruto anual a precios de productor de impuestos a los productos netos de subsidios en pesos de 2004\", \"id\": \"6.1_IPNS_2004_A_35\", \"scrapingIdentifierCell\": \"W7\", \"scrapingDataStartCell\": \"W8\", \"units\": \"Millones de pesos a precios de 2004\", \"dataset_identifier\": \"6\", \"distribution_identifier\": \"6.1\"}, {\"title\": \"producto_interno_bruto_precios_mercado\", \"type\": \"number\", \"description\": \"Valor agregado bruto anual a precios de productor de producto interno bruto a precios de mercado en pesos de 2004\", \"id\": \"6.1_PIBPM_2004_A_38\", \"scrapingIdentifierCell\": \"X7\", \"scrapingDataStartCell\": \"X8\", \"units\": \"Millones de pesos a precios de 2004\", \"dataset_identifier\": \"6\", \"distribution_identifier\": \"6.1\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-09-28T00:00:00",
+      "datastore_active": false,
+      "description": "Producto Interno Bruto en millones de pesos de 2004: Valores anuales [Base 2004]",
+      "fileName": "producto-interno-bruto-valores-anuales-base-2004.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "sspm_6.1",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Producto Interno Bruto. Precios constantes. Base 2004. Valores anuales.",
+      "package_id": "sspm_6",
+      "position": 0,
+      "resource_type": null,
+      "revision_id": "6dd0c802-92c1-4ab1-9794-b3f0d24a8812",
+      "size": null,
+      "state": "active",
+      "url": "https://infra.datos.gob.ar/catalog/sspm/dataset/6/distribution/6.1/download/producto-interno-bruto-valores-anuales-base-2004.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/",
+      "attributesDescription": "[{\"title\": \"indice_tiempo\", \"type\": \"date\", \"specialType\": \"time_index\", \"specialTypeDetail\": \"R/P3M\", \"id\": \"6.2_IT_2004_T_13\", \"scrapingIdentifierCell\": \"A39\", \"scrapingDataStartCell\": \"A40\", \"dataset_identifier\": \"6\", \"distribution_identifier\": \"6.2\"}, {\"title\": \"agricultura_ganaderia_caza_silvicultura\", \"type\": \"number\", \"description\": \"Valor agregado bruto trimestral a precios de productor, de agricultura ganaderia caza y silvicultura en pesos de 2004\", \"id\": \"6.2_AGCS_2004_T_39\", \"scrapingIdentifierCell\": \"B39\", \"scrapingDataStartCell\": \"B40\", \"units\": \"Millones de pesos a precios de 2004\", \"dataset_identifier\": \"6\", \"distribution_identifier\": \"6.2\"}, {\"title\": \"pesca\", \"type\": \"number\", \"description\": \"Valor agregado bruto trimestral a precios de productor de pesca en pesos de 2004\", \"id\": \"6.2_P_2004_T_5\", \"scrapingIdentifierCell\": \"C39\", \"scrapingDataStartCell\": \"C40\", \"units\": \"Millones de pesos a precios de 2004\", \"dataset_identifier\": \"6\", \"distribution_identifier\": \"6.2\"}, {\"title\": \"explotacion_minas_canteras\", \"type\": \"number\", \"description\": \"Valor agregado bruto trimestral a precios de productor de explotaci\\u00f3n de minas y canteras en pesos de 2004\", \"id\": \"6.2_EMC_2004_T_26\", \"scrapingIdentifierCell\": \"D39\", \"scrapingDataStartCell\": \"D40\", \"units\": \"Millones de pesos a precios de 2004\", \"dataset_identifier\": \"6\", \"distribution_identifier\": \"6.2\"}, {\"title\": \"industria_manufacturera\", \"type\": \"number\", \"description\": \"Valor agregado bruto trimestral a precios de productor de industria manufacturera en pesos de 2004\", \"id\": \"6.2_IM_2004_T_23\", \"scrapingIdentifierCell\": \"E39\", \"scrapingDataStartCell\": \"E40\", \"units\": \"Millones de pesos a precios de 2004\", \"dataset_identifier\": \"6\", \"distribution_identifier\": \"6.2\"}, {\"title\": \"suministro_electricidad_gas_agua\", \"type\": \"number\", \"description\": \"Valor agregado bruto trimestral a precios de productor de suministro de electricidad gas y agua en pesos de 2004\", \"id\": \"6.2_SEGA_2004_T_32\", \"scrapingIdentifierCell\": \"F39\", \"scrapingDataStartCell\": \"F40\", \"units\": \"Millones de pesos a precios de 2004\", \"dataset_identifier\": \"6\", \"distribution_identifier\": \"6.2\"}, {\"title\": \"construccion\", \"type\": \"number\", \"description\": \"Valor agregado bruto trimestral a precios de productor de construcci\\u00f3n en pesos de 2004\", \"id\": \"6.2_C_2004_T_12\", \"scrapingIdentifierCell\": \"G39\", \"scrapingDataStartCell\": \"G40\", \"units\": \"Millones de pesos a precios de 2004\", \"dataset_identifier\": \"6\", \"distribution_identifier\": \"6.2\"}, {\"title\": \"sectores_productores_bienes\", \"type\": \"number\", \"description\": \"Valor agregado bruto trimestral a precios de productor de sectores productores de bienes en pesos de 2004\", \"id\": \"6.2_SPB_2004_T_27\", \"scrapingIdentifierCell\": \"H39\", \"scrapingDataStartCell\": \"H40\", \"units\": \"Millones de pesos a precios de 2004\", \"dataset_identifier\": \"6\", \"distribution_identifier\": \"6.2\"}, {\"title\": \"comercio_mayorista_minorista_reparaciones\", \"type\": \"number\", \"description\": \"Valor agregado bruto trimestral a precios de productor de comercio mayorista y minorista y reparaciones en pesos de 2004\", \"id\": \"6.2_CMMR_2004_T_41\", \"scrapingIdentifierCell\": \"I39\", \"scrapingDataStartCell\": \"I40\", \"units\": \"Millones de pesos a precios de 2004\", \"dataset_identifier\": \"6\", \"distribution_identifier\": \"6.2\"}, {\"title\": \"hoteles_restaurantes\", \"type\": \"number\", \"description\": \"Valor agregado bruto trimestral a precios de productor de hoteles y restaurantes en pesos de 2004\", \"id\": \"6.2_HR_2004_T_20\", \"scrapingIdentifierCell\": \"J39\", \"scrapingDataStartCell\": \"J40\", \"units\": \"Millones de pesos a precios de 2004\", \"dataset_identifier\": \"6\", \"distribution_identifier\": \"6.2\"}, {\"title\": \"transporte_almacenamiento_comunicaciones\", \"type\": \"number\", \"description\": \"Valor agregado bruto trimestral a precios de productor de transporte almacenamiento y comunicaciones en pesos de 2004\", \"id\": \"6.2_TAC_2004_T_40\", \"scrapingIdentifierCell\": \"K39\", \"scrapingDataStartCell\": \"K40\", \"units\": \"Millones de pesos a precios de 2004\", \"dataset_identifier\": \"6\", \"distribution_identifier\": \"6.2\"}, {\"title\": \"intermediacion_financiera\", \"type\": \"number\", \"description\": \"Valor agregado bruto trimestral a precios de productor de intermediaci\\u00f3n financiera en pesos de 2004\", \"id\": \"6.2_IF_2004_T_25\", \"scrapingIdentifierCell\": \"L39\", \"scrapingDataStartCell\": \"L40\", \"units\": \"Millones de pesos a precios de 2004\", \"dataset_identifier\": \"6\", \"distribution_identifier\": \"6.2\"}, {\"title\": \"actividades_inmobiliarias_empresariales_alquiler\", \"type\": \"number\", \"description\": \"Valor agregado bruto trimestral a precios de productor de actividades inmobiliarias empresariales y de alquiler en pesos de 2004\", \"id\": \"6.2_AIEA_2004_T_48\", \"scrapingIdentifierCell\": \"M39\", \"scrapingDataStartCell\": \"M40\", \"units\": \"Millones de pesos a precios de 2004\", \"dataset_identifier\": \"6\", \"distribution_identifier\": \"6.2\"}, {\"title\": \"admin_publica_planes_seguridad_social_afiliacion_obligatoria\", \"type\": \"number\", \"description\": \"Valor agregado bruto trimestral a precios de productor de administraci\\u00f3n p\\u00fablica y defensa planes de seguridad social de afiliaci\\u00f3n obligatoria en pesos de 2004\", \"id\": \"6.2_APDPSSAO_2004_T_60\", \"scrapingIdentifierCell\": \"N39\", \"scrapingDataStartCell\": \"N40\", \"units\": \"Millones de pesos a precios de 2004\", \"dataset_identifier\": \"6\", \"distribution_identifier\": \"6.2\"}, {\"title\": \"ensenianza\", \"type\": \"number\", \"description\": \"Valor agregado bruto trimestral a precios de productor de ense\\u00f1anza en pesos de 2004\", \"id\": \"6.2_E_2004_T_10\", \"scrapingIdentifierCell\": \"O39\", \"scrapingDataStartCell\": \"O40\", \"units\": \"Millones de pesos a precios de 2004\", \"dataset_identifier\": \"6\", \"distribution_identifier\": \"6.2\"}, {\"title\": \"servicios_sociales_salud\", \"type\": \"number\", \"description\": \"Valor agregado bruto trimestral a precios de productor de servicios sociales y de salud en pesos de 2004\", \"id\": \"6.2_SSS_2004_T_24\", \"scrapingIdentifierCell\": \"P39\", \"scrapingDataStartCell\": \"P40\", \"units\": \"Millones de pesos a precios de 2004\", \"dataset_identifier\": \"6\", \"distribution_identifier\": \"6.2\"}, {\"title\": \"otras_actividades_servicios_comunitarias_sociales_personales\", \"type\": \"number\", \"description\": \"Valor agregado bruto trimestral a precios de productor de otras actividades de servicios comunitarias sociales personales en pesos de 2004\", \"id\": \"6.2_OASCSP_2004_T_60\", \"scrapingIdentifierCell\": \"Q39\", \"scrapingDataStartCell\": \"Q40\", \"units\": \"Millones de pesos a precios de 2004\", \"dataset_identifier\": \"6\", \"distribution_identifier\": \"6.2\"}, {\"title\": \"hogares_privs_servicio_domestico\", \"type\": \"number\", \"description\": \"Valor agregado bruto trimestral a precios de productor de hogares privados con servicio dom\\u00e9stico en pesos de 2004\", \"id\": \"6.2_HPSD_2004_T_32\", \"scrapingIdentifierCell\": \"R39\", \"scrapingDataStartCell\": \"R40\", \"units\": \"Millones de pesos a precios de 2004\", \"dataset_identifier\": \"6\", \"distribution_identifier\": \"6.2\"}, {\"title\": \"sectores_productores_servicios\", \"type\": \"number\", \"description\": \"Valor agregado bruto trimestral a precios de productor de sectores productores de servicios en pesos de 2004\", \"id\": \"6.2_SPS_2004_T_30\", \"scrapingIdentifierCell\": \"S39\", \"scrapingDataStartCell\": \"S40\", \"units\": \"Millones de pesos a precios de 2004\", \"dataset_identifier\": \"6\", \"distribution_identifier\": \"6.2\"}, {\"title\": \"valor_agregado_bruto_precios_basicos\", \"type\": \"number\", \"description\": \"Valor agregado bruto trimestral a precios de productor de valor agregado bruto a precios b\\u00e1sicos en pesos de 2004\", \"id\": \"6.2_VABPB_2004_T_36\", \"scrapingIdentifierCell\": \"T39\", \"scrapingDataStartCell\": \"T40\", \"units\": \"Millones de pesos a precios de 2004\", \"dataset_identifier\": \"6\", \"distribution_identifier\": \"6.2\"}, {\"title\": \"impuesto_valor_agregado\", \"type\": \"number\", \"description\": \"Valor agregado bruto trimestral a precios de productor de impuesto al valor agregado en pesos de 2004\", \"id\": \"6.2_IVA_2004_T_23\", \"scrapingIdentifierCell\": \"U39\", \"scrapingDataStartCell\": \"U40\", \"units\": \"Millones de pesos a precios de 2004\", \"dataset_identifier\": \"6\", \"distribution_identifier\": \"6.2\"}, {\"title\": \"derechos_importacion\", \"type\": \"number\", \"description\": \"Valor agregado bruto trimestral a precios de productor de derechos de importaci\\u00f3n en pesos de 2004\", \"id\": \"6.2_DI_2004_T_20\", \"scrapingIdentifierCell\": \"V39\", \"scrapingDataStartCell\": \"V40\", \"units\": \"Millones de pesos a precios de 2004\", \"dataset_identifier\": \"6\", \"distribution_identifier\": \"6.2\"}, {\"title\": \"impuestos_productos_netos_subsidios\", \"type\": \"number\", \"description\": \"Valor agregado bruto trimestral a precios de productor de impuestos a los productos netos de subsidios en pesos de 2004\", \"id\": \"6.2_IPNS_2004_T_35\", \"scrapingIdentifierCell\": \"W39\", \"scrapingDataStartCell\": \"W40\", \"units\": \"Millones de pesos a precios de 2004\", \"dataset_identifier\": \"6\", \"distribution_identifier\": \"6.2\"}, {\"title\": \"producto_interno_bruto_precios_mercado\", \"type\": \"number\", \"description\": \"Valor agregado bruto trimestral a precios de productor de producto interno bruto a precios de mercado en pesos de 2004\", \"id\": \"6.2_PIBPM_2004_T_38\", \"scrapingIdentifierCell\": \"X39\", \"scrapingDataStartCell\": \"X40\", \"units\": \"Millones de pesos a precios de 2004\", \"dataset_identifier\": \"6\", \"distribution_identifier\": \"6.2\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-09-28T00:00:00",
+      "datastore_active": false,
+      "description": "Producto Interno Bruto en millones de pesos de 2004: Valores trimestrales [Base 2004]",
+      "fileName": "producto-interno-bruto-valores-trimestrales-base-2004.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "sspm_6.2",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Producto Interno Bruto. Precios constantes. Base 2004. Valores trimestrales.",
+      "package_id": "sspm_6",
+      "position": 1,
+      "resource_type": null,
+      "revision_id": "6dd0c802-92c1-4ab1-9794-b3f0d24a8812",
+      "size": null,
+      "state": "active",
+      "url": "https://infra.datos.gob.ar/catalog/sspm/dataset/6/distribution/6.2/download/producto-interno-bruto-valores-trimestrales-base-2004.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "6dd0c802-92c1-4ab1-9794-b3f0d24a8812",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "Actividad",
+      "id": "a7695c51-c893-4ece-8ff9-306c197afdd7",
+      "name": "Actividad",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Información Económica al Día",
+      "id": "0d300a9a-0802-46c3-9a40-2f28ddf050ec",
+      "name": "Información Económica al Día",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Producto Interno Bruto a Precios de Mercado. Precios constantes. Base 2004",
+  "type": "dataset",
+  "url": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/",
+  "version": null
+}

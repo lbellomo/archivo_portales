@@ -1,0 +1,149 @@
+{
+  "author": "Subsecretaría de Programación Macroeconómica",
+  "author_email": "datoseconomicos@mecon.gov.ar",
+  "creator_user_id": "4720e75a-9e17-4dc3-879d-041917c7f9f9",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P3M"
+    },
+    {
+      "key": "issued",
+      "value": "2017-12-05"
+    },
+    {
+      "key": "language",
+      "value": "[\"SPA\"]"
+    },
+    {
+      "key": "source",
+      "value": "Instituto Nacional de Estadística y Censos (INDEC)"
+    },
+    {
+      "key": "spatial",
+      "value": "ARG"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"ECON\"]"
+    },
+    {
+      "key": "temporal",
+      "value": "1965-01-01/1966-12-31"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Economía y finanzas",
+      "display_name": "Economía y finanzas",
+      "id": "60b4b03e-10a1-4d67-b984-08008a249617",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225257.200233economia-finanzas.svg",
+      "name": "econ",
+      "title": "Economía y finanzas"
+    }
+  ],
+  "id": "sspm_352",
+  "isopen": true,
+  "license_id": "CC-BY-4.0",
+  "license_title": "Creative Commons Attribution 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "maintainer": "Subsecretaría de Programación Macroeconómica.",
+  "maintainer_email": "datoseconomicos@mecon.gov.ar",
+  "metadata_created": "2019-11-26T15:05:05.181329",
+  "metadata_modified": "2021-04-29T21:05:54.750264",
+  "name": "sspm-indices-salarios-industriales-basicos-convenios-capital-federal",
+  "notes": "Índices de salarios industriales básicos de convenios en la Capital Federal. Variaciones. Base 1965",
+  "num_resources": 2,
+  "num_tags": 2,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:09.718132",
+    "description": "",
+    "id": "68f9ee22-5ec3-44cf-a32b-b87d9db46b93",
+    "image_url": "",
+    "is_organization": true,
+    "name": "sspm",
+    "revision_id": "bc058ce0-3540-4204-96cd-9f9ec79045b3",
+    "state": "active",
+    "title": "Subsecretaría de Programación Macroeconómica",
+    "type": "organization"
+  },
+  "owner_org": "68f9ee22-5ec3-44cf-a32b-b87d9db46b93",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/",
+      "attributesDescription": "[{\"title\": \"indice_tiempo\", \"type\": \"date\", \"specialType\": \"time_index\", \"specialTypeDetail\": \"R/P1Y\", \"id\": \"352.1_INDICE_TIEMPO__13\", \"scrapingIdentifierCell\": \"B12\", \"scrapingDataStartCell\": \"B13\", \"dataset_identifier\": \"352\", \"distribution_identifier\": \"352.1\"}, {\"title\": \"basico_convenio\", \"type\": \"number\", \"description\": \"De b\\u00e1sico de convenio\", \"id\": \"352.1_BASICO_CONNIO__15\", \"scrapingIdentifierCell\": \"C12\", \"scrapingDataStartCell\": \"C13\", \"units\": \"Indice\", \"dataset_identifier\": \"352\", \"distribution_identifier\": \"352.1\"}, {\"title\": \"real_sin_basico_convenio\", \"type\": \"number\", \"description\": \"De real sin el b\\u00e1sico de convenio\", \"id\": \"352.1_REAL_SIN_BNIO__24\", \"scrapingIdentifierCell\": \"D12\", \"scrapingDataStartCell\": \"D13\", \"units\": \"Indice\", \"dataset_identifier\": \"352\", \"distribution_identifier\": \"352.1\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-12-05T00:00:00",
+      "datastore_active": false,
+      "description": "Valores anuales indice de salarios básicos de convenios CABA desde 1965",
+      "fileName": "indices-de-salarios-industriales-basicos-de-convenios-en-la-capital-federal.-variaciones-desde-1965.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "sspm_352.1",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Indice de salarios ind. Basicos de convenios en CABA. Variaciones desde 1965. Valores anuales",
+      "package_id": "sspm_352",
+      "position": 0,
+      "resource_type": null,
+      "revision_id": "4e9ee676-bec2-4ebe-9496-03c9d3bc7329",
+      "size": null,
+      "state": "active",
+      "url": "https://infra.datos.gob.ar/catalog/sspm/dataset/352/distribution/352.1/download/indices-de-salarios-industriales-basicos-de-convenios-en-la-capital-federal.-variaciones-desde-1965.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/",
+      "attributesDescription": "[{\"title\": \"indice_tiempo\", \"type\": \"date\", \"specialType\": \"time_index\", \"specialTypeDetail\": \"R/P3M\", \"id\": \"352.2_INDICE_TIEMPO__13\", \"scrapingIdentifierCell\": \"A18\", \"scrapingDataStartCell\": \"A19\", \"dataset_identifier\": \"352\", \"distribution_identifier\": \"352.2\"}, {\"title\": \"basico_convenio\", \"type\": \"number\", \"description\": \"De b\\u00e1sico de convenio\", \"id\": \"352.2_BASICO_CONNIO__15\", \"scrapingIdentifierCell\": \"C18\", \"scrapingDataStartCell\": \"C19\", \"units\": \"Indice\", \"dataset_identifier\": \"352\", \"distribution_identifier\": \"352.2\"}, {\"title\": \"real_sin_basico_convenio\", \"type\": \"number\", \"description\": \"De real sin el b\\u00e1sico de convenio\", \"id\": \"352.2_REAL_SIN_BNIO__24\", \"scrapingIdentifierCell\": \"D18\", \"scrapingDataStartCell\": \"D19\", \"units\": \"Indice\", \"dataset_identifier\": \"352\", \"distribution_identifier\": \"352.2\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-12-05T00:00:00",
+      "datastore_active": false,
+      "description": "Valores trimestrales indice de salarios básicos de convenios CABA desde 1965",
+      "fileName": "indices-de-salarios-industriales-basicos-de-convenios-en-caba-vari-desde-1965.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "sspm_352.2",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Indice de salarios ind. Basicos de convenios en CABA. Variaciones desde 1965. Valores trimestrales",
+      "package_id": "sspm_352",
+      "position": 1,
+      "resource_type": null,
+      "revision_id": "4e9ee676-bec2-4ebe-9496-03c9d3bc7329",
+      "size": null,
+      "state": "active",
+      "url": "https://infra.datos.gob.ar/catalog/sspm/dataset/352/distribution/352.2/download/indices-de-salarios-industriales-basicos-de-convenios-en-caba-vari-desde-1965.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "4e9ee676-bec2-4ebe-9496-03c9d3bc7329",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "Empleo e Ingresos",
+      "id": "0d41bcfd-c3a4-4ff7-8aa1-dd5c3ac51d0b",
+      "name": "Empleo e Ingresos",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Información Económica Histórica",
+      "id": "3834bbe4-6452-499b-a70e-85765a130da2",
+      "name": "Información Económica Histórica",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Índices de salarios industriales básicos de convenios en la Capital Federal.",
+  "type": "dataset",
+  "url": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/",
+  "version": null
+}

@@ -1,0 +1,163 @@
+{
+  "author": "Subsecretaría de Programación Macroeconómica",
+  "author_email": "datoseconomicos@mecon.gov.ar",
+  "creator_user_id": "4720e75a-9e17-4dc3-879d-041917c7f9f9",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P3M"
+    },
+    {
+      "key": "issued",
+      "value": "2017-09-28"
+    },
+    {
+      "key": "language",
+      "value": "[\"SPA\"]"
+    },
+    {
+      "key": "source",
+      "value": "Instituto Nacional de Estadística y Censos (INDEC)"
+    },
+    {
+      "key": "spatial",
+      "value": "ARG"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"ECON\"]"
+    },
+    {
+      "key": "temporal",
+      "value": "1990-01-01/2014-12-01"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Economía y finanzas",
+      "display_name": "Economía y finanzas",
+      "id": "60b4b03e-10a1-4d67-b984-08008a249617",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225257.200233economia-finanzas.svg",
+      "name": "econ",
+      "title": "Economía y finanzas"
+    }
+  ],
+  "id": "sspm_18",
+  "isopen": true,
+  "license_id": "CC-BY-4.0",
+  "license_title": "Creative Commons Attribution 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "maintainer": "Subsecretaría de Programación Macroeconómica.",
+  "maintainer_email": "datoseconomicos@mecon.gov.ar",
+  "metadata_created": "2019-11-26T15:04:50.396325",
+  "metadata_modified": "2021-04-29T21:05:11.849592",
+  "name": "sspm-indice-salario-por-obrero-iso",
+  "notes": "Índice de Salario por Obrero (ISO) en la industria manufacturera.  Encuesta Industrial Base 1997",
+  "num_resources": 2,
+  "num_tags": 4,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:09.718132",
+    "description": "",
+    "id": "68f9ee22-5ec3-44cf-a32b-b87d9db46b93",
+    "image_url": "",
+    "is_organization": true,
+    "name": "sspm",
+    "revision_id": "bc058ce0-3540-4204-96cd-9f9ec79045b3",
+    "state": "active",
+    "title": "Subsecretaría de Programación Macroeconómica",
+    "type": "organization"
+  },
+  "owner_org": "68f9ee22-5ec3-44cf-a32b-b87d9db46b93",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/",
+      "attributesDescription": "[{\"title\": \"indice_tiempo\", \"type\": \"date\", \"specialType\": \"time_index\", \"specialTypeDetail\": \"R/P1Y\", \"id\": \"18.1_IT_1997_A_13\", \"scrapingIdentifierCell\": \"BX9\", \"scrapingDataStartCell\": \"BX10\", \"dataset_identifier\": \"18\", \"distribution_identifier\": \"18.1\"}, {\"title\": \"nivel_general\", \"type\": \"number\", \"description\": \"\\u00cdndice de Salarios por Obrero (ISO). \\u00cdndice General. Anuales\", \"id\": \"18.1_NG_1997_A_13\", \"scrapingIdentifierCell\": \"BY9\", \"scrapingDataStartCell\": \"BY10\", \"units\": \"\\u00cdndice 1997=100\", \"dataset_identifier\": \"18\", \"distribution_identifier\": \"18.1\"}, {\"title\": \"elaboracion_productos_alimenticios_bebidas\", \"type\": \"number\", \"description\": \"\\u00cdndice de Salarios por Obrero (ISO). Elaboraci\\u00f3n de productos alimenticios y bebidas. Anuales\", \"id\": \"18.1_EPAB_1997_A_42\", \"scrapingIdentifierCell\": \"BZ9\", \"scrapingDataStartCell\": \"BZ10\", \"units\": \"\\u00cdndice 1997=100\", \"dataset_identifier\": \"18\", \"distribution_identifier\": \"18.1\"}, {\"title\": \"elaboracion_productos_tabaco\", \"type\": \"number\", \"description\": \"\\u00cdndice de Salarios por Obrero (ISO). Elaboraci\\u00f3n de productos con tabaco. Anuales\", \"id\": \"18.1_EPT_1997_A_28\", \"scrapingIdentifierCell\": \"CA9\", \"scrapingDataStartCell\": \"CA10\", \"units\": \"\\u00cdndice 1997=100\", \"dataset_identifier\": \"18\", \"distribution_identifier\": \"18.1\"}, {\"title\": \"fabricacion_productos_textiles\", \"type\": \"number\", \"description\": \"\\u00cdndice de Salarios por Obrero (ISO). Fabricaci\\u00f3n de productos textiles. Anuales\", \"id\": \"18.1_FPT_1997_A_30\", \"scrapingIdentifierCell\": \"CB9\", \"scrapingDataStartCell\": \"CB10\", \"units\": \"\\u00cdndice 1997=100\", \"dataset_identifier\": \"18\", \"distribution_identifier\": \"18.1\"}, {\"title\": \"fabricacion_prendas_vestir_terminacion_tenido_pieles\", \"type\": \"number\", \"description\": \"\\u00cdndice de Salarios por Obrero (ISO). Fabricaci\\u00f3n de prendas para vestir, terminaci\\u00f3n y tenido de pieles. Anuales\", \"id\": \"18.1_FPVTTP_1997_A_52\", \"scrapingIdentifierCell\": \"CC9\", \"scrapingDataStartCell\": \"CC10\", \"units\": \"\\u00cdndice 1997=100\", \"dataset_identifier\": \"18\", \"distribution_identifier\": \"18.1\"}, {\"title\": \"curtido_term_cueros_fabricacion_marroq_talaba_calzado\", \"type\": \"number\", \"description\": \"\\u00cdndice de Salarios por Obrero (ISO). Curtido y terminaci\\u00f3n de cueros, fabricaci\\u00f3n de articulos de marroquiner\\u00eda, talabarteria y calzado. Anuales\", \"id\": \"18.1_CTCFAMTCSP_1997_A_53\", \"scrapingIdentifierCell\": \"CD9\", \"scrapingDataStartCell\": \"CD10\", \"units\": \"\\u00cdndice 1997=100\", \"dataset_identifier\": \"18\", \"distribution_identifier\": \"18.1\"}, {\"title\": \"prod_madera_corcho_expto_muebles_art_mat_trenzables\", \"type\": \"number\", \"description\": \"\\u00cdndice de Salarios por Obrero (ISO). Producci\\u00f3n y fabricaci\\u00f3n de productos de madera y corcho expto muebles y articulos de materiales trenzables. Anuales\", \"id\": \"18.1_PMFPMCEMFAPMT_1997_A_51\", \"scrapingIdentifierCell\": \"CE9\", \"scrapingDataStartCell\": \"CE10\", \"units\": \"\\u00cdndice 1997=100\", \"dataset_identifier\": \"18\", \"distribution_identifier\": \"18.1\"}, {\"title\": \"fabricacion_papel_productos_papel\", \"type\": \"number\", \"description\": \"\\u00cdndice de Salarios por Obrero (ISO). Fabricaci\\u00f3n de papel y productos de papel. Anuales\", \"id\": \"18.1_FPPP_1997_A_33\", \"scrapingIdentifierCell\": \"CF9\", \"scrapingDataStartCell\": \"CF10\", \"units\": \"\\u00cdndice 1997=100\", \"dataset_identifier\": \"18\", \"distribution_identifier\": \"18.1\"}, {\"title\": \"edicion_impresion_reproduccion_grabaciones\", \"type\": \"number\", \"description\": \"\\u00cdndice de Salarios por Obrero (ISO). Edici\\u00f3n e impresi\\u00f3n, reproducci\\u00f3n y gravaciones. Anuales\", \"id\": \"18.1_EIRG_1997_A_42\", \"scrapingIdentifierCell\": \"CG9\", \"scrapingDataStartCell\": \"CG10\", \"units\": \"\\u00cdndice 1997=100\", \"dataset_identifier\": \"18\", \"distribution_identifier\": \"18.1\"}, {\"title\": \"ab_coque_prod_refinacion_petroleo_combustible_nuclear\", \"type\": \"number\", \"description\": \"\\u00cdndice de Salarios por Obrero (ISO). Fabricaci\\u00f3n de coque, productos de la refinaci\\u00f3n del petroleo, combustibles y productos nucleares. Anuales\", \"id\": \"18.1_FCPRPCN_1997_A_53\", \"scrapingIdentifierCell\": \"CH9\", \"scrapingDataStartCell\": \"CH10\", \"units\": \"\\u00cdndice 1997=100\", \"dataset_identifier\": \"18\", \"distribution_identifier\": \"18.1\"}, {\"title\": \"fabricacion_sustancias_productos_quimicos\", \"type\": \"number\", \"description\": \"\\u00cdndice de Salarios por Obrero (ISO). Fabricaci\\u00f3n sustencias y productos qu\\u00edmicos. Anuales\", \"id\": \"18.1_FSPQ_1997_A_41\", \"scrapingIdentifierCell\": \"CI9\", \"scrapingDataStartCell\": \"CI10\", \"units\": \"\\u00cdndice 1997=100\", \"dataset_identifier\": \"18\", \"distribution_identifier\": \"18.1\"}, {\"title\": \"fabricacion_productos_caucho_plastico\", \"type\": \"number\", \"description\": \"\\u00cdndice de Salarios por Obrero (ISO). Fabricaci\\u00f3n de productos de caucho. Anuales\", \"id\": \"18.1_FPCP_1997_A_37\", \"scrapingIdentifierCell\": \"CJ9\", \"scrapingDataStartCell\": \"CJ10\", \"units\": \"\\u00cdndice 1997=100\", \"dataset_identifier\": \"18\", \"distribution_identifier\": \"18.1\"}, {\"title\": \"fabricacion_productos_minerales_no_metalicos\", \"type\": \"number\", \"description\": \"\\u00cdndice de Salarios por Obrero (ISO). Fabricaci\\u00f3n de productos minerales no met\\u00e1licos. Anuales\", \"id\": \"18.1_FPMNM_1997_A_44\", \"scrapingIdentifierCell\": \"CK9\", \"scrapingDataStartCell\": \"CK10\", \"units\": \"\\u00cdndice 1997=100\", \"dataset_identifier\": \"18\", \"distribution_identifier\": \"18.1\"}, {\"title\": \"fabricacion_metales_comunes\", \"type\": \"number\", \"description\": \"\\u00cdndice de Salarios por Obrero (ISO). Fabricaci\\u00f3n de metales comunes. Anuales\", \"id\": \"18.1_FMC_1997_A_27\", \"scrapingIdentifierCell\": \"CL9\", \"scrapingDataStartCell\": \"CL10\", \"units\": \"\\u00cdndice 1997=100\", \"dataset_identifier\": \"18\", \"distribution_identifier\": \"18.1\"}, {\"title\": \"fabricacion_productos_elaborados_metal_excepto_maquinaria\", \"type\": \"number\", \"description\": \"\\u00cdndice de Salarios por Obrero (ISO). Fabricaci\\u00f3n productos elaborados de metal expto maquinaria y equipos. Anuales\", \"id\": \"18.1_FPEMEME_1997_A_57\", \"scrapingIdentifierCell\": \"CM9\", \"scrapingDataStartCell\": \"CM10\", \"units\": \"\\u00cdndice 1997=100\", \"dataset_identifier\": \"18\", \"distribution_identifier\": \"18.1\"}, {\"title\": \"fabricacion_maquinaria_equipos\", \"type\": \"number\", \"description\": \"\\u00cdndice de Salarios por Obrero (ISO). Fabricaci\\u00f3n maquinaria y equipos. Anuales\", \"id\": \"18.1_FME_1997_A_30\", \"scrapingIdentifierCell\": \"CN9\", \"scrapingDataStartCell\": \"CN10\", \"units\": \"\\u00cdndice 1997=100\", \"dataset_identifier\": \"18\", \"distribution_identifier\": \"18.1\"}, {\"title\": \"fabricacion_maquinaria_oficina_contabilidad_informatica\", \"type\": \"number\", \"description\": \"\\u00cdndice de Salarios por Obrero (ISO). Fabricaci\\u00f3n maquinaria y equipos de oficina. Anuales\", \"id\": \"18.1_FMOCI_1997_A_55\", \"scrapingIdentifierCell\": \"CO9\", \"scrapingDataStartCell\": \"CO10\", \"units\": \"\\u00cdndice 1997=100\", \"dataset_identifier\": \"18\", \"distribution_identifier\": \"18.1\"}, {\"title\": \"fabricacion_maquinaria_aparatos_electronicos\", \"type\": \"number\", \"description\": \"\\u00cdndice de Salarios por Obrero (ISO). Fabricaci\\u00f3n maquinaria y aparatos electronicos. Anuales\", \"id\": \"18.1_FMAE_1997_A_44\", \"scrapingIdentifierCell\": \"CP9\", \"scrapingDataStartCell\": \"CP10\", \"units\": \"\\u00cdndice 1997=100\", \"dataset_identifier\": \"18\", \"distribution_identifier\": \"18.1\"}, {\"title\": \"fabricacion_aparatos_radio_television_comunicaciones\", \"type\": \"number\", \"description\": \"\\u00cdndice de Salarios por Obrero (ISO). Fabricaci\\u00f3n equipos y aparatos (radios, televisi\\u00f3n y equipos de comunicaci\\u00f3n). Anuales\", \"id\": \"18.1_FEARTC_1997_A_52\", \"scrapingIdentifierCell\": \"CQ9\", \"scrapingDataStartCell\": \"CQ10\", \"units\": \"\\u00cdndice 1997=100\", \"dataset_identifier\": \"18\", \"distribution_identifier\": \"18.1\"}, {\"title\": \"fabricacion_instrumentos_medicos_opticos_precision_relojes\", \"type\": \"number\", \"description\": \"\\u00cdndice de Salarios por Obrero (ISO). Fabricaci\\u00f3n instrumentos m\\u00e9dicos, opticos, de presici\\u00f3n y relojes. Anuales\", \"id\": \"18.1_FIMOPR_1997_A_58\", \"scrapingIdentifierCell\": \"CR9\", \"scrapingDataStartCell\": \"CR10\", \"units\": \"\\u00cdndice 1997=100\", \"dataset_identifier\": \"18\", \"distribution_identifier\": \"18.1\"}, {\"title\": \"fabricacion_vehiculos_automotores_remolques_semirremolques\", \"type\": \"number\", \"description\": \"\\u00cdndice de Salarios por Obrero (ISO). Fabricaci\\u00f3n veh\\u00edculos automotores, remolques y semirremolques. Anuales\", \"id\": \"18.1_FVARS_1997_A_58\", \"scrapingIdentifierCell\": \"CS9\", \"scrapingDataStartCell\": \"CS10\", \"units\": \"\\u00cdndice 1997=100\", \"dataset_identifier\": \"18\", \"distribution_identifier\": \"18.1\"}, {\"title\": \"fabricacion_equipo_transporte\", \"type\": \"number\", \"description\": \"\\u00cdndice de Salarios por Obrero (ISO). Fabricaci\\u00f3n de equipos de transporte. Anuales\", \"id\": \"18.1_FET_1997_A_29\", \"scrapingIdentifierCell\": \"CT9\", \"scrapingDataStartCell\": \"CT10\", \"units\": \"\\u00cdndice 1997=100\", \"dataset_identifier\": \"18\", \"distribution_identifier\": \"18.1\"}, {\"title\": \"fabricacion_muebles_colchones_industrias_manufactureras\", \"type\": \"number\", \"description\": \"\\u00cdndice de Salarios por Obrero (ISO). Fabricaci\\u00f3n de muebles, colchones (industria manufacturera). Anuales\", \"id\": \"18.1_FMCIM_1997_A_55\", \"scrapingIdentifierCell\": \"CU9\", \"scrapingDataStartCell\": \"CU10\", \"units\": \"\\u00cdndice 1997=100\", \"dataset_identifier\": \"18\", \"distribution_identifier\": \"18.1\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-09-28T00:00:00",
+      "datastore_active": false,
+      "description": "Índice de Salario por Obrero (ISO). Valores anuales.. Encuesta Industrial Base 1997.",
+      "fileName": "encuesta-industrial-indices-salario-por-obrero-valores-anuales-base-1997.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "sspm_18.1",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Índice de Salario por Obrero (ISO). Valores anuales.",
+      "package_id": "sspm_18",
+      "position": 0,
+      "resource_type": null,
+      "revision_id": "f760c8e0-9742-4335-8067-5d1ee5e8075f",
+      "size": null,
+      "state": "active",
+      "url": "https://infra.datos.gob.ar/catalog/sspm/dataset/18/distribution/18.1/download/encuesta-industrial-indices-salario-por-obrero-valores-anuales-base-1997.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/",
+      "attributesDescription": "[{\"title\": \"indice_tiempo\", \"type\": \"date\", \"specialType\": \"time_index\", \"specialTypeDetail\": \"R/P3M\", \"id\": \"18.2_IT_1997_T_13\", \"scrapingIdentifierCell\": \"BX47\", \"scrapingDataStartCell\": \"BX48\", \"dataset_identifier\": \"18\", \"distribution_identifier\": \"18.2\"}, {\"title\": \"nivel_general\", \"type\": \"number\", \"description\": \"\\u00cdndice de Salarios por Obrero (ISO). \\u00cdndice General. Trimestrales\", \"id\": \"18.2_NG_1997_T_13\", \"scrapingIdentifierCell\": \"BY47\", \"scrapingDataStartCell\": \"BY48\", \"units\": \"\\u00cdndice 1997=100\", \"dataset_identifier\": \"18\", \"distribution_identifier\": \"18.2\"}, {\"title\": \"elaboracion_productos_alimenticios_bebidas\", \"type\": \"number\", \"description\": \"\\u00cdndice de Salarios por Obrero (ISO). Elaboraci\\u00f3n de productos alimenticios y bebidas. Trimestrales\", \"id\": \"18.2_EPAB_1997_T_42\", \"scrapingIdentifierCell\": \"BZ47\", \"scrapingDataStartCell\": \"BZ48\", \"units\": \"\\u00cdndice 1997=100\", \"dataset_identifier\": \"18\", \"distribution_identifier\": \"18.2\"}, {\"title\": \"elaboracion_productos_tabaco\", \"type\": \"number\", \"description\": \"\\u00cdndice de Salarios por Obrero (ISO). Elaboraci\\u00f3n de productos con tabaco. Trimestrales\", \"id\": \"18.2_EPT_1997_T_28\", \"scrapingIdentifierCell\": \"CA47\", \"scrapingDataStartCell\": \"CA48\", \"units\": \"\\u00cdndice 1997=100\", \"dataset_identifier\": \"18\", \"distribution_identifier\": \"18.2\"}, {\"title\": \"fabricacion_productos_textiles\", \"type\": \"number\", \"description\": \"\\u00cdndice de Salarios por Obrero (ISO). Fabricaci\\u00f3n de productos textiles. Trimestrales\", \"id\": \"18.2_FPT_1997_T_30\", \"scrapingIdentifierCell\": \"CB47\", \"scrapingDataStartCell\": \"CB48\", \"units\": \"\\u00cdndice 1997=100\", \"dataset_identifier\": \"18\", \"distribution_identifier\": \"18.2\"}, {\"title\": \"fabricacion_prendas_vestir_terminacion_tenido_pieles\", \"type\": \"number\", \"description\": \"\\u00cdndice de Salarios por Obrero (ISO). Fabricaci\\u00f3n de prendas para vestir, terminaci\\u00f3n y tenido de pieles. Trimestrales\", \"id\": \"18.2_FPVTTP_1997_T_52\", \"scrapingIdentifierCell\": \"CC47\", \"scrapingDataStartCell\": \"CC48\", \"units\": \"\\u00cdndice 1997=100\", \"dataset_identifier\": \"18\", \"distribution_identifier\": \"18.2\"}, {\"title\": \"curtido_term_cueros_fabricacion_marroq_talaba_calzado\", \"type\": \"number\", \"description\": \"\\u00cdndice de Salarios por Obrero (ISO). Curtido y terminaci\\u00f3n de cueros, fabricaci\\u00f3n de articulos de marroquiner\\u00eda, talabarteria y calzado. Trimestrales\", \"id\": \"18.2_CTCFAMTCSP_1997_T_53\", \"scrapingIdentifierCell\": \"CD47\", \"scrapingDataStartCell\": \"CD48\", \"units\": \"\\u00cdndice 1997=100\", \"dataset_identifier\": \"18\", \"distribution_identifier\": \"18.2\"}, {\"title\": \"fabricacion_prod_madera_corcho_no_muebles_art_trenzables\", \"type\": \"number\", \"description\": \"\\u00cdndice de Salarios por Obrero (ISO). Producci\\u00f3n y fabricaci\\u00f3n de productos de madera y corcho expto muebles y articulos de materiales trenzables. Trimestrales\", \"id\": \"18.2_PMFPMCEMFAPMT_1997_T_56\", \"scrapingIdentifierCell\": \"CE47\", \"scrapingDataStartCell\": \"CE48\", \"units\": \"\\u00cdndice 1997=100\", \"dataset_identifier\": \"18\", \"distribution_identifier\": \"18.2\"}, {\"title\": \"fabricacion_papel_productos_papel\", \"type\": \"number\", \"description\": \"\\u00cdndice de Salarios por Obrero (ISO). Fabricaci\\u00f3n de papel y productos de papel. Trimestrales\", \"id\": \"18.2_FPPP_1997_T_33\", \"scrapingIdentifierCell\": \"CF47\", \"scrapingDataStartCell\": \"CF48\", \"units\": \"\\u00cdndice 1997=100\", \"dataset_identifier\": \"18\", \"distribution_identifier\": \"18.2\"}, {\"title\": \"edicion_impresion_reproduccion_grabaciones\", \"type\": \"number\", \"description\": \"\\u00cdndice de Salarios por Obrero (ISO). Edici\\u00f3n e impresi\\u00f3n, reproducci\\u00f3n y gravaciones. Trimestrales\", \"id\": \"18.2_EIRG_1997_T_42\", \"scrapingIdentifierCell\": \"CG47\", \"scrapingDataStartCell\": \"CG48\", \"units\": \"\\u00cdndice 1997=100\", \"dataset_identifier\": \"18\", \"distribution_identifier\": \"18.2\"}, {\"title\": \"ab_coque_prod_refinacion_petroleo_combustible_nuclear\", \"type\": \"number\", \"description\": \"\\u00cdndice de Salarios por Obrero (ISO). Fabricaci\\u00f3n de coque, productos de la refinaci\\u00f3n del petroleo, combustibles y productos nucleares. Trimestrales\", \"id\": \"18.2_FCPRPCN_1997_T_53\", \"scrapingIdentifierCell\": \"CH47\", \"scrapingDataStartCell\": \"CH48\", \"units\": \"\\u00cdndice 1997=100\", \"dataset_identifier\": \"18\", \"distribution_identifier\": \"18.2\"}, {\"title\": \"fabricacion_sustancias_productos_quimicos\", \"type\": \"number\", \"description\": \"\\u00cdndice de Salarios por Obrero (ISO). Fabricaci\\u00f3n sustencias y productos qu\\u00edmicos. Trimestrales\", \"id\": \"18.2_FSPQ_1997_T_41\", \"scrapingIdentifierCell\": \"CI47\", \"scrapingDataStartCell\": \"CI48\", \"units\": \"\\u00cdndice 1997=100\", \"dataset_identifier\": \"18\", \"distribution_identifier\": \"18.2\"}, {\"title\": \"fabricacion_productos_caucho_plastico\", \"type\": \"number\", \"description\": \"\\u00cdndice de Salarios por Obrero (ISO). Fabricaci\\u00f3n de productos de caucho. Trimestrales\", \"id\": \"18.2_FPCP_1997_T_37\", \"scrapingIdentifierCell\": \"CJ47\", \"scrapingDataStartCell\": \"CJ48\", \"units\": \"\\u00cdndice 1997=100\", \"dataset_identifier\": \"18\", \"distribution_identifier\": \"18.2\"}, {\"title\": \"fabricacion_productos_minerales_no_metalicos\", \"type\": \"number\", \"description\": \"\\u00cdndice de Salarios por Obrero (ISO). Fabricaci\\u00f3n de productos minerales no met\\u00e1licos. Trimestrales\", \"id\": \"18.2_FPMNM_1997_T_44\", \"scrapingIdentifierCell\": \"CK47\", \"scrapingDataStartCell\": \"CK48\", \"units\": \"\\u00cdndice 1997=100\", \"dataset_identifier\": \"18\", \"distribution_identifier\": \"18.2\"}, {\"title\": \"fabricacion_metales_comunes\", \"type\": \"number\", \"description\": \"\\u00cdndice de Salarios por Obrero (ISO). Fabricaci\\u00f3n de metales comunes. Trimestrales\", \"id\": \"18.2_FMC_1997_T_27\", \"scrapingIdentifierCell\": \"CL47\", \"scrapingDataStartCell\": \"CL48\", \"units\": \"\\u00cdndice 1997=100\", \"dataset_identifier\": \"18\", \"distribution_identifier\": \"18.2\"}, {\"title\": \"fabricacion_productos_elaborados_metal_excepto_maquinaria\", \"type\": \"number\", \"description\": \"\\u00cdndice de Salarios por Obrero (ISO). Fabricaci\\u00f3n productos elaborados de metal expto maquinaria y equipos. Trimestrales\", \"id\": \"18.2_FPEMEME_1997_T_57\", \"scrapingIdentifierCell\": \"CM47\", \"scrapingDataStartCell\": \"CM48\", \"units\": \"\\u00cdndice 1997=100\", \"dataset_identifier\": \"18\", \"distribution_identifier\": \"18.2\"}, {\"title\": \"fabricacion_maquinaria_equipos\", \"type\": \"number\", \"description\": \"\\u00cdndice de Salarios por Obrero (ISO). Fabricaci\\u00f3n maquinaria y equipos. Trimestrales\", \"id\": \"18.2_FME_1997_T_30\", \"scrapingIdentifierCell\": \"CN47\", \"scrapingDataStartCell\": \"CN48\", \"units\": \"\\u00cdndice 1997=100\", \"dataset_identifier\": \"18\", \"distribution_identifier\": \"18.2\"}, {\"title\": \"fabricacion_maquinaria_oficina_contabilidad_informatica\", \"type\": \"number\", \"description\": \"\\u00cdndice de Salarios por Obrero (ISO). Fabricaci\\u00f3n maquinaria y equipos de oficina. Trimestrales\", \"id\": \"18.2_FMOCI_1997_T_55\", \"scrapingIdentifierCell\": \"CO47\", \"scrapingDataStartCell\": \"CO48\", \"units\": \"\\u00cdndice 1997=100\", \"dataset_identifier\": \"18\", \"distribution_identifier\": \"18.2\"}, {\"title\": \"fabricacion_maquinaria_aparatos_electronicos\", \"type\": \"number\", \"description\": \"\\u00cdndice de Salarios por Obrero (ISO). Fabricaci\\u00f3n maquinaria y aparatos electronicos. Trimestrales\", \"id\": \"18.2_FMAE_1997_T_44\", \"scrapingIdentifierCell\": \"CP47\", \"scrapingDataStartCell\": \"CP48\", \"units\": \"\\u00cdndice 1997=100\", \"dataset_identifier\": \"18\", \"distribution_identifier\": \"18.2\"}, {\"title\": \"fabricacion_aparatos_radio_television_comunicaciones\", \"type\": \"number\", \"description\": \"\\u00cdndice de Salarios por Obrero (ISO). Fabricaci\\u00f3n equipos y aparatos (radios, televisi\\u00f3n y equipos de comunicaci\\u00f3n). Trimestrales\", \"id\": \"18.2_FEARTC_1997_T_52\", \"scrapingIdentifierCell\": \"CQ47\", \"scrapingDataStartCell\": \"CQ48\", \"units\": \"\\u00cdndice 1997=100\", \"dataset_identifier\": \"18\", \"distribution_identifier\": \"18.2\"}, {\"title\": \"fabricacion_instrumentos_medicos_opticos_precision_relojes\", \"type\": \"number\", \"description\": \"\\u00cdndice de Salarios por Obrero (ISO). Fabricaci\\u00f3n instrumentos m\\u00e9dicos, opticos, de presici\\u00f3n y relojes. Trimestrales\", \"id\": \"18.2_FIMOPR_1997_T_58\", \"scrapingIdentifierCell\": \"CR47\", \"scrapingDataStartCell\": \"CR48\", \"units\": \"\\u00cdndice 1997=100\", \"dataset_identifier\": \"18\", \"distribution_identifier\": \"18.2\"}, {\"title\": \"fabricacion_vehiculos_automotores_remolques_semirremolques\", \"type\": \"number\", \"description\": \"\\u00cdndice de Salarios por Obrero (ISO). Fabricaci\\u00f3n veh\\u00edculos automotores, remolques y semirremolques. Trimestrales\", \"id\": \"18.2_FVARS_1997_T_58\", \"scrapingIdentifierCell\": \"CS47\", \"scrapingDataStartCell\": \"CS48\", \"units\": \"\\u00cdndice 1997=100\", \"dataset_identifier\": \"18\", \"distribution_identifier\": \"18.2\"}, {\"title\": \"fabricacion_equipo_transporte\", \"type\": \"number\", \"description\": \"\\u00cdndice de Salarios por Obrero (ISO). Fabricaci\\u00f3n de equipos de transporte. Trimestrales\", \"id\": \"18.2_FET_1997_T_29\", \"scrapingIdentifierCell\": \"CT47\", \"scrapingDataStartCell\": \"CT48\", \"units\": \"\\u00cdndice 1997=100\", \"dataset_identifier\": \"18\", \"distribution_identifier\": \"18.2\"}, {\"title\": \"fabricacion_muebles_colchones_industrias_manufactureras\", \"type\": \"number\", \"description\": \"\\u00cdndice de Salarios por Obrero (ISO). Fabricaci\\u00f3n de muebles, colchones (industria manufacturera). Trimestrales\", \"id\": \"18.2_FMCIM_1997_T_55\", \"scrapingIdentifierCell\": \"CU47\", \"scrapingDataStartCell\": \"CU48\", \"units\": \"\\u00cdndice 1997=100\", \"dataset_identifier\": \"18\", \"distribution_identifier\": \"18.2\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-09-28T00:00:00",
+      "datastore_active": false,
+      "description": "Índice de Salario por Obrero (ISO). Valores trimestrales.. Encuesta Industrial Base 1997.",
+      "fileName": "encuesta-industrial-indices-salario-por-obrero-valores-trimestrales-base-1997.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "sspm_18.2",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Índice de Salario por Obrero (ISO). Valores trimestrales.",
+      "package_id": "sspm_18",
+      "position": 1,
+      "resource_type": null,
+      "revision_id": "f760c8e0-9742-4335-8067-5d1ee5e8075f",
+      "size": null,
+      "state": "active",
+      "url": "https://infra.datos.gob.ar/catalog/sspm/dataset/18/distribution/18.2/download/encuesta-industrial-indices-salario-por-obrero-valores-trimestrales-base-1997.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "f760c8e0-9742-4335-8067-5d1ee5e8075f",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "Actividad",
+      "id": "a7695c51-c893-4ece-8ff9-306c197afdd7",
+      "name": "Actividad",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Empleo e Ingresos",
+      "id": "0d41bcfd-c3a4-4ff7-8aa1-dd5c3ac51d0b",
+      "name": "Empleo e Ingresos",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Información Económica al Día",
+      "id": "0d300a9a-0802-46c3-9a40-2f28ddf050ec",
+      "name": "Información Económica al Día",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Precios",
+      "id": "308c2aaf-f177-4728-bda5-fd41662741a2",
+      "name": "Precios",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Índice de Salario por Obrero (ISO)",
+  "type": "dataset",
+  "url": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/",
+  "version": null
+}

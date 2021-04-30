@@ -1,0 +1,149 @@
+{
+  "author": "Subsecretaría de Programación Macroeconómica",
+  "author_email": "datoseconomicos@mecon.gov.ar",
+  "creator_user_id": "4720e75a-9e17-4dc3-879d-041917c7f9f9",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P3M"
+    },
+    {
+      "key": "issued",
+      "value": "2017-09-28"
+    },
+    {
+      "key": "language",
+      "value": "[\"SPA\"]"
+    },
+    {
+      "key": "source",
+      "value": "Instituto Nacional de Estadística y Censos (INDEC)"
+    },
+    {
+      "key": "spatial",
+      "value": "ARG"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"ECON\"]"
+    },
+    {
+      "key": "temporal",
+      "value": "1991-05-01/2014-03-01"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Economía y finanzas",
+      "display_name": "Economía y finanzas",
+      "id": "60b4b03e-10a1-4d67-b984-08008a249617",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225257.200233economia-finanzas.svg",
+      "name": "econ",
+      "title": "Economía y finanzas"
+    }
+  ],
+  "id": "sspm_49",
+  "isopen": true,
+  "license_id": "CC-BY-4.0",
+  "license_title": "Creative Commons Attribution 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "maintainer": "Subsecretaría de Programación Macroeconómica.",
+  "maintainer_email": "datoseconomicos@mecon.gov.ar",
+  "metadata_created": "2019-11-26T15:04:31.851379",
+  "metadata_modified": "2021-04-29T21:06:05.488163",
+  "name": "sspm-poblacion-urbana-poblacion-economicamente-activa-ocupados-desocupados-subocupados",
+  "notes": "Estimaciones de población urbana, activa, empleada, subempleada y desempleada para el total urbano y el total de aglomerados de la Encuesta Permanente de Hogares",
+  "num_resources": 2,
+  "num_tags": 2,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:09.718132",
+    "description": "",
+    "id": "68f9ee22-5ec3-44cf-a32b-b87d9db46b93",
+    "image_url": "",
+    "is_organization": true,
+    "name": "sspm",
+    "revision_id": "bc058ce0-3540-4204-96cd-9f9ec79045b3",
+    "state": "active",
+    "title": "Subsecretaría de Programación Macroeconómica",
+    "type": "organization"
+  },
+  "owner_org": "68f9ee22-5ec3-44cf-a32b-b87d9db46b93",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/",
+      "attributesDescription": "[{\"title\": \"indice_tiempo\", \"type\": \"date\", \"specialType\": \"time_index\", \"specialTypeDetail\": \"R/P6M\", \"id\": \"49.1_IT_0_0_13\", \"scrapingIdentifierCell\": \"B12\", \"scrapingDataStartCell\": \"B13\", \"dataset_identifier\": \"49\", \"distribution_identifier\": \"49.1\"}, {\"title\": \"poblacion_total_total_urbano\", \"type\": \"number\", \"description\": \"Poblaci\\u00f3n total del total urbano, en miles de personas\", \"id\": \"49.1_PTTU_0_0_28\", \"scrapingIdentifierCell\": \"C12\", \"scrapingDataStartCell\": \"C13\", \"units\": \"Miles de personas\", \"dataset_identifier\": \"49\", \"distribution_identifier\": \"49.1\"}, {\"title\": \"pea_total_urbano\", \"type\": \"number\", \"description\": \"Poblaci\\u00f3n econ\\u00f3micamente activa del total urbano, en miles de personas\", \"id\": \"49.1_PTU_0_0_16\", \"scrapingIdentifierCell\": \"D12\", \"scrapingDataStartCell\": \"D13\", \"units\": \"Miles de personas\", \"dataset_identifier\": \"49\", \"distribution_identifier\": \"49.1\"}, {\"title\": \"ocupados_total_urbano\", \"type\": \"number\", \"description\": \"Poblaci\\u00f3n ocupada del total urbano, en miles de personas\", \"id\": \"49.1_OTU_0_0_21\", \"scrapingIdentifierCell\": \"E12\", \"scrapingDataStartCell\": \"E13\", \"units\": \"Miles de personas\", \"dataset_identifier\": \"49\", \"distribution_identifier\": \"49.1\"}, {\"title\": \"desocupados_total_urbano\", \"type\": \"number\", \"description\": \"Poblaci\\u00f3n desocupada del total urbano, en miles de personas\", \"id\": \"49.1_DTU_0_0_24\", \"scrapingIdentifierCell\": \"F12\", \"scrapingDataStartCell\": \"F13\", \"units\": \"Miles de personas\", \"dataset_identifier\": \"49\", \"distribution_identifier\": \"49.1\"}, {\"title\": \"subocupados_total_urbano\", \"type\": \"number\", \"description\": \"Poblaci\\u00f3n subocupada del total urbano, en miles de personas\", \"id\": \"49.1_STU_0_0_24\", \"scrapingIdentifierCell\": \"G12\", \"scrapingDataStartCell\": \"G13\", \"units\": \"Miles de personas\", \"dataset_identifier\": \"49\", \"distribution_identifier\": \"49.1\"}, {\"title\": \"subocupados_demandantes_total_urbano\", \"type\": \"number\", \"description\": \"Poblaci\\u00f3n subocupada demandante de empleo del total urbano, en miles de personas\", \"id\": \"49.1_SDTU_0_0_36\", \"scrapingIdentifierCell\": \"H12\", \"scrapingDataStartCell\": \"H13\", \"units\": \"Miles de personas\", \"dataset_identifier\": \"49\", \"distribution_identifier\": \"49.1\"}, {\"title\": \"subocupados_no_demandantes_total_urbano\", \"type\": \"number\", \"description\": \"Poblaci\\u00f3n subocupada no demandante de empleo del total urbano, en miles de personas\", \"id\": \"49.1_SNDTU_0_0_39\", \"scrapingIdentifierCell\": \"I12\", \"scrapingDataStartCell\": \"I13\", \"units\": \"Miles de personas\", \"dataset_identifier\": \"49\", \"distribution_identifier\": \"49.1\"}, {\"title\": \"total_aglomerados_eph_poblacion_total\", \"type\": \"number\", \"description\": \"Poblaci\\u00f3n total del total de los aglomerados de la EPH, en miles de personas\", \"id\": \"49.1_TAEP_0_0_37\", \"scrapingIdentifierCell\": \"K12\", \"scrapingDataStartCell\": \"K13\", \"units\": \"Miles de personas\", \"dataset_identifier\": \"49\", \"distribution_identifier\": \"49.1\"}, {\"title\": \"total_aglomerados_eph_pea\", \"type\": \"number\", \"description\": \"Poblaci\\u00f3n activa del total de los aglomerados de la EPH, en miles de personas\", \"id\": \"49.1_TAEP_0_0_25\", \"scrapingIdentifierCell\": \"L12\", \"scrapingDataStartCell\": \"L13\", \"units\": \"Miles de personas\", \"dataset_identifier\": \"49\", \"distribution_identifier\": \"49.1\"}, {\"title\": \"total_aglomerados_eph_ocupados\", \"type\": \"number\", \"description\": \"Poblaci\\u00f3n ocupada del total de los aglomerados de la EPH, en miles de personas\", \"id\": \"49.1_TAEO_0_0_30\", \"scrapingIdentifierCell\": \"M12\", \"scrapingDataStartCell\": \"M13\", \"units\": \"Miles de personas\", \"dataset_identifier\": \"49\", \"distribution_identifier\": \"49.1\"}, {\"title\": \"total_aglomerados_eph_desocupados\", \"type\": \"number\", \"description\": \"Poblaci\\u00f3n desocupada del total de los aglomerados de la EPH, en miles de personas\", \"id\": \"49.1_TAED_0_0_33\", \"scrapingIdentifierCell\": \"N12\", \"scrapingDataStartCell\": \"N13\", \"units\": \"Miles de personas\", \"dataset_identifier\": \"49\", \"distribution_identifier\": \"49.1\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-09-28T00:00:00",
+      "datastore_active": false,
+      "description": "Estimación Cantidad de Habitantes población urbana, activam epleada, subempleada y desempleada total urbano. Datos Semestrales",
+      "fileName": "poblacion-urbana-activa-para-total-urbano-total-aglomerados-eph-semestral.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "sspm_49.1",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Población urbana, activa, empleada, subempleada y desempleada para el total urbano y total aglomerados EPH. Valores semestrales.",
+      "package_id": "sspm_49",
+      "position": 0,
+      "resource_type": null,
+      "revision_id": "2f731843-71fc-497f-8b38-8079c3d3bbcd",
+      "size": null,
+      "state": "active",
+      "url": "https://infra.datos.gob.ar/catalog/sspm/dataset/49/distribution/49.1/download/poblacion-urbana-activa-para-total-urbano-total-aglomerados-eph-semestral.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/",
+      "attributesDescription": "[{\"title\": \"indice_tiempo\", \"type\": \"date\", \"specialType\": \"time_index\", \"specialTypeDetail\": \"R/P3M\", \"id\": \"49.2_IT_0_0_13\", \"scrapingIdentifierCell\": \"B37\", \"scrapingDataStartCell\": \"B38\", \"dataset_identifier\": \"49\", \"distribution_identifier\": \"49.2\"}, {\"title\": \"poblacion_total_total_urbano\", \"type\": \"number\", \"description\": \"Poblaci\\u00f3n total del total urbano, en miles de personas\", \"id\": \"49.2_PTTU_0_0_28\", \"scrapingIdentifierCell\": \"C37\", \"scrapingDataStartCell\": \"C38\", \"units\": \"Miles de personas\", \"dataset_identifier\": \"49\", \"distribution_identifier\": \"49.2\"}, {\"title\": \"pea_total_urbano\", \"type\": \"number\", \"description\": \"Poblaci\\u00f3n econ\\u00f3micamente activa del total urbano, en miles de personas\", \"id\": \"49.2_PTU_0_0_16\", \"scrapingIdentifierCell\": \"D37\", \"scrapingDataStartCell\": \"D38\", \"units\": \"Miles de personas\", \"dataset_identifier\": \"49\", \"distribution_identifier\": \"49.2\"}, {\"title\": \"ocupados_total_urbano\", \"type\": \"number\", \"description\": \"Poblaci\\u00f3n ocupada del total urbano, en miles de personas\", \"id\": \"49.2_OTU_0_0_21\", \"scrapingIdentifierCell\": \"E37\", \"scrapingDataStartCell\": \"E38\", \"units\": \"Miles de personas\", \"dataset_identifier\": \"49\", \"distribution_identifier\": \"49.2\"}, {\"title\": \"desocupados_total_urbano\", \"type\": \"number\", \"description\": \"Poblaci\\u00f3n desocupada del total urbano, en miles de personas\", \"id\": \"49.2_DTU_0_0_24\", \"scrapingIdentifierCell\": \"F37\", \"scrapingDataStartCell\": \"F38\", \"units\": \"Miles de personas\", \"dataset_identifier\": \"49\", \"distribution_identifier\": \"49.2\"}, {\"title\": \"subocupados_total_urbano\", \"type\": \"number\", \"description\": \"Poblaci\\u00f3n subocupada del total urbano, en miles de personas\", \"id\": \"49.2_STU_0_0_24\", \"scrapingIdentifierCell\": \"G37\", \"scrapingDataStartCell\": \"G38\", \"units\": \"Miles de personas\", \"dataset_identifier\": \"49\", \"distribution_identifier\": \"49.2\"}, {\"title\": \"subocupados_demandantes_total_urbano\", \"type\": \"number\", \"description\": \"Poblaci\\u00f3n subocupada demandante de empleo del total urbano, en miles de personas\", \"id\": \"49.2_SDTU_0_0_36\", \"scrapingIdentifierCell\": \"H37\", \"scrapingDataStartCell\": \"H38\", \"units\": \"Miles de personas\", \"dataset_identifier\": \"49\", \"distribution_identifier\": \"49.2\"}, {\"title\": \"subocupados_no_demandantes_total_urbano\", \"type\": \"number\", \"description\": \"Poblaci\\u00f3n subocupada no demandante de empleo del total urbano, en miles de personas\", \"id\": \"49.2_SNDTU_0_0_39\", \"scrapingIdentifierCell\": \"I37\", \"scrapingDataStartCell\": \"I38\", \"units\": \"Miles de personas\", \"dataset_identifier\": \"49\", \"distribution_identifier\": \"49.2\"}, {\"title\": \"total_aglomerados_eph_poblacion_total\", \"type\": \"number\", \"description\": \"Poblaci\\u00f3n total del total de los aglomerados de la EPH, en miles de personas\", \"id\": \"49.2_TAEP_0_0_37\", \"scrapingIdentifierCell\": \"K37\", \"scrapingDataStartCell\": \"K38\", \"units\": \"Miles de personas\", \"dataset_identifier\": \"49\", \"distribution_identifier\": \"49.2\"}, {\"title\": \"total_aglomerados_eph_pea\", \"type\": \"number\", \"description\": \"Poblaci\\u00f3n activa del total de los aglomerados de la EPH, en miles de personas\", \"id\": \"49.2_TAEP_0_0_25\", \"scrapingIdentifierCell\": \"L37\", \"scrapingDataStartCell\": \"L38\", \"units\": \"Miles de personas\", \"dataset_identifier\": \"49\", \"distribution_identifier\": \"49.2\"}, {\"title\": \"total_aglomerados_eph_ocupados\", \"type\": \"number\", \"description\": \"Poblaci\\u00f3n ocupada del total de los aglomerados de la EPH, en miles de personas\", \"id\": \"49.2_TAEO_0_0_30\", \"scrapingIdentifierCell\": \"M37\", \"scrapingDataStartCell\": \"M38\", \"units\": \"Miles de personas\", \"dataset_identifier\": \"49\", \"distribution_identifier\": \"49.2\"}, {\"title\": \"total_aglomerados_eph_desocupados\", \"type\": \"number\", \"description\": \"Poblaci\\u00f3n desocupada del total de los aglomerados de la EPH, en miles de personas\", \"id\": \"49.2_TAED_0_0_33\", \"scrapingIdentifierCell\": \"N37\", \"scrapingDataStartCell\": \"N38\", \"units\": \"Miles de personas\", \"dataset_identifier\": \"49\", \"distribution_identifier\": \"49.2\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-09-28T00:00:00",
+      "datastore_active": false,
+      "description": "Estimación Cantidad de Habitantes población urbana, activam epleada, subempleada y desempleada población EPH. Datos Trimestrales",
+      "fileName": "poblacion-urbana-activa-para-total-urbano-total-aglomerados-eph-trimestral.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "sspm_49.2",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Población urbana, activa, empleada, subempleada y desempleada para el total urbano y total aglomerados EPH. Valores trimestrales.",
+      "package_id": "sspm_49",
+      "position": 1,
+      "resource_type": null,
+      "revision_id": "2f731843-71fc-497f-8b38-8079c3d3bbcd",
+      "size": null,
+      "state": "active",
+      "url": "https://infra.datos.gob.ar/catalog/sspm/dataset/49/distribution/49.2/download/poblacion-urbana-activa-para-total-urbano-total-aglomerados-eph-trimestral.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "2f731843-71fc-497f-8b38-8079c3d3bbcd",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "Empleo e Ingresos",
+      "id": "0d41bcfd-c3a4-4ff7-8aa1-dd5c3ac51d0b",
+      "name": "Empleo e Ingresos",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Información Económica al Día",
+      "id": "0d300a9a-0802-46c3-9a40-2f28ddf050ec",
+      "name": "Información Económica al Día",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Población Urbana, Población Económicamente Activa, ocupados, desocupados y subocupados",
+  "type": "dataset",
+  "url": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/",
+  "version": null
+}

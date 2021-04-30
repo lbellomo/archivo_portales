@@ -1,0 +1,174 @@
+{
+  "author": "Subsecretaría de Programación Macroeconómica",
+  "author_email": "datoseconomicos@mecon.gov.ar",
+  "creator_user_id": "4720e75a-9e17-4dc3-879d-041917c7f9f9",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P1M"
+    },
+    {
+      "key": "issued",
+      "value": "2017-09-28"
+    },
+    {
+      "key": "language",
+      "value": "[\"SPA\"]"
+    },
+    {
+      "key": "source",
+      "value": "Instituto Nacional de Estadística y Censos (INDEC)"
+    },
+    {
+      "key": "spatial",
+      "value": "ARG"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"ECON\"]"
+    },
+    {
+      "key": "temporal",
+      "value": "2004-01-01/2016-12-01"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Economía y finanzas",
+      "display_name": "Economía y finanzas",
+      "id": "60b4b03e-10a1-4d67-b984-08008a249617",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225257.200233economia-finanzas.svg",
+      "name": "econ",
+      "title": "Economía y finanzas"
+    }
+  ],
+  "id": "sspm_11",
+  "isopen": true,
+  "license_id": "CC-BY-4.0",
+  "license_title": "Creative Commons Attribution 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "maintainer": "Subsecretaría de Programación Macroeconómica.",
+  "maintainer_email": "datoseconomicos@mecon.gov.ar",
+  "metadata_created": "2019-11-26T15:05:14.559491",
+  "metadata_modified": "2021-04-29T21:04:45.213603",
+  "name": "sspm-estimador-mensual-actividad-economica-emae-apertura-sectorial-base-2004",
+  "notes": "Estimador Mensual de Actividad Económica. Apertura Sectorial. Índice (Base 2004)",
+  "num_resources": 3,
+  "num_tags": 2,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:09.718132",
+    "description": "",
+    "id": "68f9ee22-5ec3-44cf-a32b-b87d9db46b93",
+    "image_url": "",
+    "is_organization": true,
+    "name": "sspm",
+    "revision_id": "bc058ce0-3540-4204-96cd-9f9ec79045b3",
+    "state": "active",
+    "title": "Subsecretaría de Programación Macroeconómica",
+    "type": "organization"
+  },
+  "owner_org": "68f9ee22-5ec3-44cf-a32b-b87d9db46b93",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/",
+      "attributesDescription": "[{\"title\": \"indice_tiempo\", \"type\": \"date\", \"specialType\": \"time_index\", \"specialTypeDetail\": \"R/P1Y\", \"id\": \"11.1_IT_2004_A_13\", \"scrapingIdentifierCell\": \"A6\", \"scrapingDataStartCell\": \"A7\", \"dataset_identifier\": \"11\", \"distribution_identifier\": \"11.1\"}, {\"title\": \"agricultura_ganaderia_caza_silvicultura\", \"type\": \"number\", \"description\": \"EMAE. Agricultura, ganader\\u00eda, caza y silvicultura\", \"id\": \"11.1_ISOA_2004_A_39\", \"scrapingIdentifierCell\": \"B6\", \"scrapingDataStartCell\": \"B7\", \"units\": \"\\u00cdndice 2004=100\", \"dataset_identifier\": \"11\", \"distribution_identifier\": \"11.1\"}, {\"title\": \"pesca\", \"type\": \"number\", \"description\": \"EMAE. Pesca\", \"id\": \"11.1_VIPAA_2004_A_5\", \"scrapingIdentifierCell\": \"C6\", \"scrapingDataStartCell\": \"C7\", \"units\": \"\\u00cdndice 2004=100\", \"dataset_identifier\": \"11\", \"distribution_identifier\": \"11.1\"}, {\"title\": \"explotacion_minas_canteras\", \"type\": \"number\", \"description\": \"EMAE. Explotaci\\u00f3n de minas y canteras\", \"id\": \"11.1_ISD_2004_A_26\", \"scrapingIdentifierCell\": \"D6\", \"scrapingDataStartCell\": \"D7\", \"units\": \"\\u00cdndice 2004=100\", \"dataset_identifier\": \"11\", \"distribution_identifier\": \"11.1\"}, {\"title\": \"industria_manufacturera\", \"type\": \"number\", \"description\": \"EMAE. Industria Manufacturera\", \"id\": \"11.1_VMASD_2004_A_23\", \"scrapingIdentifierCell\": \"E6\", \"scrapingDataStartCell\": \"E7\", \"units\": \"\\u00cdndice 2004=100\", \"dataset_identifier\": \"11\", \"distribution_identifier\": \"11.1\"}, {\"title\": \"electricidad_gas_agua\", \"type\": \"number\", \"description\": \"EMAE. Electricidad, gas y agua\", \"id\": \"11.1_ITC_2004_A_21\", \"scrapingIdentifierCell\": \"F6\", \"scrapingDataStartCell\": \"F7\", \"units\": \"\\u00cdndice 2004=100\", \"dataset_identifier\": \"11\", \"distribution_identifier\": \"11.1\"}, {\"title\": \"construccion\", \"type\": \"number\", \"description\": \"EMAE. Construcci\\u00f3n\", \"id\": \"11.1_VMATC_2004_A_12\", \"scrapingIdentifierCell\": \"G6\", \"scrapingDataStartCell\": \"G7\", \"units\": \"\\u00cdndice 2004=100\", \"dataset_identifier\": \"11\", \"distribution_identifier\": \"11.1\"}, {\"title\": \"comercio_mayorista_minorista_reparaciones\", \"type\": \"number\", \"description\": \"EMAE. Comercio mayorista y minorista y reparaciones\", \"id\": \"11.1_AGCS_2004_A_41\", \"scrapingIdentifierCell\": \"H6\", \"scrapingDataStartCell\": \"H7\", \"units\": \"\\u00cdndice 2004=100\", \"dataset_identifier\": \"11\", \"distribution_identifier\": \"11.1\"}, {\"title\": \"hoteles_restaurantes\", \"type\": \"number\", \"description\": \"EMAE. Hoteles y restaurantes\", \"id\": \"11.1_P_2004_A_20\", \"scrapingIdentifierCell\": \"I6\", \"scrapingDataStartCell\": \"I7\", \"units\": \"\\u00cdndice 2004=100\", \"dataset_identifier\": \"11\", \"distribution_identifier\": \"11.1\"}, {\"title\": \"transporte_comunicaciones\", \"type\": \"number\", \"description\": \"EMAE. Transporte, almacenamiento y comunicaciones\", \"id\": \"11.1_EMC_2004_A_25\", \"scrapingIdentifierCell\": \"J6\", \"scrapingDataStartCell\": \"J7\", \"units\": \"\\u00cdndice 2004=100\", \"dataset_identifier\": \"11\", \"distribution_identifier\": \"11.1\"}, {\"title\": \"intermediacion_financiera\", \"type\": \"number\", \"description\": \"EMAE. Intermediaci\\u00f3n financiera\", \"id\": \"11.1_IM_2004_A_25\", \"scrapingIdentifierCell\": \"K6\", \"scrapingDataStartCell\": \"K7\", \"units\": \"\\u00cdndice 2004=100\", \"dataset_identifier\": \"11\", \"distribution_identifier\": \"11.1\"}, {\"title\": \"actividades_inmobiliarias_empresariales_alquiler\", \"type\": \"number\", \"description\": \"EMAE. Inmobiliarias, empresariales y alquiler\", \"id\": \"11.1_SEGA_2004_A_48\", \"scrapingIdentifierCell\": \"L6\", \"scrapingDataStartCell\": \"L7\", \"units\": \"\\u00cdndice 2004=100\", \"dataset_identifier\": \"11\", \"distribution_identifier\": \"11.1\"}, {\"title\": \"admin_publica_planes_seguridad_social_afiliacion_obligatoria\", \"type\": \"number\", \"description\": \"EMAE. Administraci\\u00f3n p\\u00fablica, defensa y seguridad social\", \"id\": \"11.1_C_2004_A_60\", \"scrapingIdentifierCell\": \"M6\", \"scrapingDataStartCell\": \"M7\", \"units\": \"\\u00cdndice 2004=100\", \"dataset_identifier\": \"11\", \"distribution_identifier\": \"11.1\"}, {\"title\": \"ensenianza\", \"type\": \"number\", \"description\": \"EMAE. Ense\\u00f1anza\", \"id\": \"11.1_CMMR_2004_A_10\", \"scrapingIdentifierCell\": \"N6\", \"scrapingDataStartCell\": \"N7\", \"units\": \"\\u00cdndice 2004=100\", \"dataset_identifier\": \"11\", \"distribution_identifier\": \"11.1\"}, {\"title\": \"servicios_sociales_salud\", \"type\": \"number\", \"description\": \"EMAE. Servicios sociales (salud)\", \"id\": \"11.1_HR_2004_A_24\", \"scrapingIdentifierCell\": \"O6\", \"scrapingDataStartCell\": \"O7\", \"units\": \"\\u00cdndice 2004=100\", \"dataset_identifier\": \"11\", \"distribution_identifier\": \"11.1\"}, {\"title\": \"otras_actividades_servicios_comunitarias_sociales_personales\", \"type\": \"number\", \"description\": \"EMAE. Servicios comunitarios\", \"id\": \"11.1_TAC_2004_A_60\", \"scrapingIdentifierCell\": \"P6\", \"scrapingDataStartCell\": \"P7\", \"units\": \"\\u00cdndice 2004=100\", \"dataset_identifier\": \"11\", \"distribution_identifier\": \"11.1\"}, {\"title\": \"impuestos_netos_subsidios\", \"type\": \"number\", \"description\": \"EMAE. Subsidios netos\", \"id\": \"11.1_IF_2004_A_25\", \"scrapingIdentifierCell\": \"Q6\", \"scrapingDataStartCell\": \"Q7\", \"units\": \"\\u00cdndice 2004=100\", \"dataset_identifier\": \"11\", \"distribution_identifier\": \"11.1\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-09-28T00:00:00",
+      "datastore_active": false,
+      "description": "Estimador Mensual de Actividad Económica. Datos Anuales. Índice (Base 2004)",
+      "fileName": "emae-apertura-por-sectores-valores-anuales-indice-base-2004.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "sspm_11.1",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "EMAE apertura por sectores. Índice Base 2004. Valores anuales.",
+      "package_id": "sspm_11",
+      "position": 0,
+      "resource_type": null,
+      "revision_id": "e61e95bf-fe03-483d-be3d-b841e8272912",
+      "size": null,
+      "state": "active",
+      "url": "https://infra.datos.gob.ar/catalog/sspm/dataset/11/distribution/11.1/download/emae-apertura-por-sectores-valores-anuales-indice-base-2004.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/",
+      "attributesDescription": "[{\"title\": \"indice_tiempo\", \"type\": \"date\", \"specialType\": \"time_index\", \"specialTypeDetail\": \"R/P3M\", \"id\": \"11.2_IT_2004_T_13\", \"scrapingIdentifierCell\": \"A30\", \"scrapingDataStartCell\": \"A31\", \"dataset_identifier\": \"11\", \"distribution_identifier\": \"11.2\"}, {\"title\": \"agricultura_ganaderia_caza_silvicultura\", \"type\": \"number\", \"description\": \"EMAE. Agricultura, ganader\\u00eda, caza y silvicultura\", \"id\": \"11.2_ISOT_2004_T_39\", \"scrapingIdentifierCell\": \"B30\", \"scrapingDataStartCell\": \"B31\", \"units\": \"\\u00cdndice 2004=100\", \"dataset_identifier\": \"11\", \"distribution_identifier\": \"11.2\"}, {\"title\": \"pesca\", \"type\": \"number\", \"description\": \"EMAE. Pesca\", \"id\": \"11.2_VIPAA_2004_T_5\", \"scrapingIdentifierCell\": \"C30\", \"scrapingDataStartCell\": \"C31\", \"units\": \"\\u00cdndice 2004=100\", \"dataset_identifier\": \"11\", \"distribution_identifier\": \"11.2\"}, {\"title\": \"explotacion_minas_canteras\", \"type\": \"number\", \"description\": \"EMAE. Explotaci\\u00f3n de minas y canteras\", \"id\": \"11.2_ISD_2004_T_26\", \"scrapingIdentifierCell\": \"D30\", \"scrapingDataStartCell\": \"D31\", \"units\": \"\\u00cdndice 2004=100\", \"dataset_identifier\": \"11\", \"distribution_identifier\": \"11.2\"}, {\"title\": \"industria_manufacturera\", \"type\": \"number\", \"description\": \"EMAE. Industria Manufacturera\", \"id\": \"11.2_VMASD_2004_T_23\", \"scrapingIdentifierCell\": \"E30\", \"scrapingDataStartCell\": \"E31\", \"units\": \"\\u00cdndice 2004=100\", \"dataset_identifier\": \"11\", \"distribution_identifier\": \"11.2\"}, {\"title\": \"electricidad_gas_agua\", \"type\": \"number\", \"description\": \"EMAE. Electricidad, gas y agua\", \"id\": \"11.2_ITC_2004_T_21\", \"scrapingIdentifierCell\": \"F30\", \"scrapingDataStartCell\": \"F31\", \"units\": \"\\u00cdndice 2004=100\", \"dataset_identifier\": \"11\", \"distribution_identifier\": \"11.2\"}, {\"title\": \"construccion\", \"type\": \"number\", \"description\": \"EMAE. Construcci\\u00f3n\", \"id\": \"11.2_VMATC_2004_T_12\", \"scrapingIdentifierCell\": \"G30\", \"scrapingDataStartCell\": \"G31\", \"units\": \"\\u00cdndice 2004=100\", \"dataset_identifier\": \"11\", \"distribution_identifier\": \"11.2\"}, {\"title\": \"comercio_mayorista_minorista_reparaciones\", \"type\": \"number\", \"description\": \"EMAE. Comercio mayorista y minorista y reparaciones\", \"id\": \"11.2_AGCS_2004_T_41\", \"scrapingIdentifierCell\": \"H30\", \"scrapingDataStartCell\": \"H31\", \"units\": \"\\u00cdndice 2004=100\", \"dataset_identifier\": \"11\", \"distribution_identifier\": \"11.2\"}, {\"title\": \"hoteles_restaurantes\", \"type\": \"number\", \"description\": \"EMAE. Hoteles y restaurantes\", \"id\": \"11.2_P_2004_T_20\", \"scrapingIdentifierCell\": \"I30\", \"scrapingDataStartCell\": \"I31\", \"units\": \"\\u00cdndice 2004=100\", \"dataset_identifier\": \"11\", \"distribution_identifier\": \"11.2\"}, {\"title\": \"transporte_comunicaciones\", \"type\": \"number\", \"description\": \"EMAE. Transporte, almacenamiento y comunicaciones\", \"id\": \"11.2_EMC_2004_T_25\", \"scrapingIdentifierCell\": \"J30\", \"scrapingDataStartCell\": \"J31\", \"units\": \"\\u00cdndice 2004=100\", \"dataset_identifier\": \"11\", \"distribution_identifier\": \"11.2\"}, {\"title\": \"intermediacion_financiera\", \"type\": \"number\", \"description\": \"EMAE. Intermediaci\\u00f3n financiera\", \"id\": \"11.2_IM_2004_T_25\", \"scrapingIdentifierCell\": \"K30\", \"scrapingDataStartCell\": \"K31\", \"units\": \"\\u00cdndice 2004=100\", \"dataset_identifier\": \"11\", \"distribution_identifier\": \"11.2\"}, {\"title\": \"actividades_inmobiliarias_empresariales_alquiler\", \"type\": \"number\", \"description\": \"EMAE. Inmobiliarias, empresariales y alquiler\", \"id\": \"11.2_SEGA_2004_T_48\", \"scrapingIdentifierCell\": \"L30\", \"scrapingDataStartCell\": \"L31\", \"units\": \"\\u00cdndice 2004=100\", \"dataset_identifier\": \"11\", \"distribution_identifier\": \"11.2\"}, {\"title\": \"admin_publica_planes_seguridad_social_afiliacion_obligatoria\", \"type\": \"number\", \"description\": \"EMAE. Administraci\\u00f3n p\\u00fablica, defensa y seguridad social\", \"id\": \"11.2_C_2004_T_60\", \"scrapingIdentifierCell\": \"M30\", \"scrapingDataStartCell\": \"M31\", \"units\": \"\\u00cdndice 2004=100\", \"dataset_identifier\": \"11\", \"distribution_identifier\": \"11.2\"}, {\"title\": \"ensenianza\", \"type\": \"number\", \"description\": \"EMAE. Ense\\u00f1anza\", \"id\": \"11.2_CMMR_2004_T_10\", \"scrapingIdentifierCell\": \"N30\", \"scrapingDataStartCell\": \"N31\", \"units\": \"\\u00cdndice 2004=100\", \"dataset_identifier\": \"11\", \"distribution_identifier\": \"11.2\"}, {\"title\": \"servicios_sociales_salud\", \"type\": \"number\", \"description\": \"EMAE. Servicios sociales (salud)\", \"id\": \"11.2_HR_2004_T_24\", \"scrapingIdentifierCell\": \"O30\", \"scrapingDataStartCell\": \"O31\", \"units\": \"\\u00cdndice 2004=100\", \"dataset_identifier\": \"11\", \"distribution_identifier\": \"11.2\"}, {\"title\": \"otras_actividades_servicios_comunitarias_sociales_personales\", \"type\": \"number\", \"description\": \"EMAE. Servicios comunitarios\", \"id\": \"11.2_TAC_2004_T_60\", \"scrapingIdentifierCell\": \"P30\", \"scrapingDataStartCell\": \"P31\", \"units\": \"\\u00cdndice 2004=100\", \"dataset_identifier\": \"11\", \"distribution_identifier\": \"11.2\"}, {\"title\": \"impuestos_netos_subsidios\", \"type\": \"number\", \"description\": \"EMAE. Subsidios netos\", \"id\": \"11.2_IF_2004_T_25\", \"scrapingIdentifierCell\": \"Q30\", \"scrapingDataStartCell\": \"Q31\", \"units\": \"\\u00cdndice 2004=100\", \"dataset_identifier\": \"11\", \"distribution_identifier\": \"11.2\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-09-28T00:00:00",
+      "datastore_active": false,
+      "description": "Estimador Mensual de Actividad Económica. Datos Trimestrales. Índice (Base 2004)",
+      "fileName": "emae-apertura-por-sectores-valores-trimestrales-indice-base-2004.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "sspm_11.2",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "EMAE apertura por sectores. Índice Base 2004. Valores trimestrale.",
+      "package_id": "sspm_11",
+      "position": 1,
+      "resource_type": null,
+      "revision_id": "e61e95bf-fe03-483d-be3d-b841e8272912",
+      "size": null,
+      "state": "active",
+      "url": "https://infra.datos.gob.ar/catalog/sspm/dataset/11/distribution/11.2/download/emae-apertura-por-sectores-valores-trimestrales-indice-base-2004.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/",
+      "attributesDescription": "[{\"title\": \"indice_tiempo\", \"type\": \"date\", \"specialType\": \"time_index\", \"specialTypeDetail\": \"R/P1M\", \"id\": \"11.3_IT_2004_M_13\", \"scrapingIdentifierCell\": \"A104\", \"scrapingDataStartCell\": \"A105\", \"dataset_identifier\": \"11\", \"distribution_identifier\": \"11.3\"}, {\"title\": \"agricultura_ganaderia_caza_silvicultura\", \"type\": \"number\", \"description\": \"EMAE. Agricultura, ganader\\u00eda, caza y silvicultura\", \"id\": \"11.3_ISOM_2004_M_39\", \"scrapingIdentifierCell\": \"B104\", \"scrapingDataStartCell\": \"B105\", \"units\": \"\\u00cdndice 2004=100\", \"dataset_identifier\": \"11\", \"distribution_identifier\": \"11.3\"}, {\"title\": \"pesca\", \"type\": \"number\", \"description\": \"EMAE. Pesca\", \"id\": \"11.3_VIPAA_2004_M_5\", \"scrapingIdentifierCell\": \"C104\", \"scrapingDataStartCell\": \"C105\", \"units\": \"\\u00cdndice 2004=100\", \"dataset_identifier\": \"11\", \"distribution_identifier\": \"11.3\"}, {\"title\": \"explotacion_minas_canteras\", \"type\": \"number\", \"description\": \"EMAE. Explotaci\\u00f3n de minas y canteras\", \"id\": \"11.3_ISD_2004_M_26\", \"scrapingIdentifierCell\": \"D104\", \"scrapingDataStartCell\": \"D105\", \"units\": \"\\u00cdndice 2004=100\", \"dataset_identifier\": \"11\", \"distribution_identifier\": \"11.3\"}, {\"title\": \"industria_manufacturera\", \"type\": \"number\", \"description\": \"EMAE. Industria Manufacturera\", \"id\": \"11.3_VMASD_2004_M_23\", \"scrapingIdentifierCell\": \"E104\", \"scrapingDataStartCell\": \"E105\", \"units\": \"\\u00cdndice 2004=100\", \"dataset_identifier\": \"11\", \"distribution_identifier\": \"11.3\"}, {\"title\": \"electricidad_gas_agua\", \"type\": \"number\", \"description\": \"EMAE. Electricidad, gas y agua\", \"id\": \"11.3_ITC_2004_M_21\", \"scrapingIdentifierCell\": \"F104\", \"scrapingDataStartCell\": \"F105\", \"units\": \"\\u00cdndice 2004=100\", \"dataset_identifier\": \"11\", \"distribution_identifier\": \"11.3\"}, {\"title\": \"construccion\", \"type\": \"number\", \"description\": \"EMAE. Construcci\\u00f3n\", \"id\": \"11.3_VMATC_2004_M_12\", \"scrapingIdentifierCell\": \"G104\", \"scrapingDataStartCell\": \"G105\", \"units\": \"\\u00cdndice 2004=100\", \"dataset_identifier\": \"11\", \"distribution_identifier\": \"11.3\"}, {\"title\": \"comercio_mayorista_minorista_reparaciones\", \"type\": \"number\", \"description\": \"EMAE. Comercio mayorista y minorista y reparaciones\", \"id\": \"11.3_AGCS_2004_M_41\", \"scrapingIdentifierCell\": \"H104\", \"scrapingDataStartCell\": \"H105\", \"units\": \"\\u00cdndice 2004=100\", \"dataset_identifier\": \"11\", \"distribution_identifier\": \"11.3\"}, {\"title\": \"hoteles_restaurantes\", \"type\": \"number\", \"description\": \"EMAE. Hoteles y restaurantes\", \"id\": \"11.3_P_2004_M_20\", \"scrapingIdentifierCell\": \"I104\", \"scrapingDataStartCell\": \"I105\", \"units\": \"\\u00cdndice 2004=100\", \"dataset_identifier\": \"11\", \"distribution_identifier\": \"11.3\"}, {\"title\": \"transporte_comunicaciones\", \"type\": \"number\", \"description\": \"EMAE. Transporte, almacenamiento y comunicaciones\", \"id\": \"11.3_EMC_2004_M_25\", \"scrapingIdentifierCell\": \"J104\", \"scrapingDataStartCell\": \"J105\", \"units\": \"\\u00cdndice 2004=100\", \"dataset_identifier\": \"11\", \"distribution_identifier\": \"11.3\"}, {\"title\": \"intermediacion_financiera\", \"type\": \"number\", \"description\": \"EMAE. Intermediaci\\u00f3n financiera\", \"id\": \"11.3_IM_2004_M_25\", \"scrapingIdentifierCell\": \"K104\", \"scrapingDataStartCell\": \"K105\", \"units\": \"\\u00cdndice 2004=100\", \"dataset_identifier\": \"11\", \"distribution_identifier\": \"11.3\"}, {\"title\": \"actividades_inmobiliarias_empresariales_alquiler\", \"type\": \"number\", \"description\": \"EMAE. Inmobiliarias, empresariales y alquiler\", \"id\": \"11.3_SEGA_2004_M_48\", \"scrapingIdentifierCell\": \"L104\", \"scrapingDataStartCell\": \"L105\", \"units\": \"\\u00cdndice 2004=100\", \"dataset_identifier\": \"11\", \"distribution_identifier\": \"11.3\"}, {\"title\": \"admin_publica_planes_seguridad_social_afiliacion_obligatoria\", \"type\": \"number\", \"description\": \"EMAE. Administraci\\u00f3n p\\u00fablica, defensa y seguridad social\", \"id\": \"11.3_C_2004_M_60\", \"scrapingIdentifierCell\": \"M104\", \"scrapingDataStartCell\": \"M105\", \"units\": \"\\u00cdndice 2004=100\", \"dataset_identifier\": \"11\", \"distribution_identifier\": \"11.3\"}, {\"title\": \"ensenianza\", \"type\": \"number\", \"description\": \"EMAE. Ense\\u00f1anza\", \"id\": \"11.3_CMMR_2004_M_10\", \"scrapingIdentifierCell\": \"N104\", \"scrapingDataStartCell\": \"N105\", \"units\": \"\\u00cdndice 2004=100\", \"dataset_identifier\": \"11\", \"distribution_identifier\": \"11.3\"}, {\"title\": \"servicios_sociales_salud\", \"type\": \"number\", \"description\": \"EMAE. Servicios sociales (salud)\", \"id\": \"11.3_HR_2004_M_24\", \"scrapingIdentifierCell\": \"O104\", \"scrapingDataStartCell\": \"O105\", \"units\": \"\\u00cdndice 2004=100\", \"dataset_identifier\": \"11\", \"distribution_identifier\": \"11.3\"}, {\"title\": \"otras_actividades_servicios_comunitarias_sociales_personales\", \"type\": \"number\", \"description\": \"EMAE. Servicios comunitarios\", \"id\": \"11.3_TAC_2004_M_60\", \"scrapingIdentifierCell\": \"P104\", \"scrapingDataStartCell\": \"P105\", \"units\": \"\\u00cdndice 2004=100\", \"dataset_identifier\": \"11\", \"distribution_identifier\": \"11.3\"}, {\"title\": \"impuestos_netos_subsidios\", \"type\": \"number\", \"description\": \"EMAE. Subsidios netos\", \"id\": \"11.3_IF_2004_M_25\", \"scrapingIdentifierCell\": \"Q104\", \"scrapingDataStartCell\": \"Q105\", \"units\": \"\\u00cdndice 2004=100\", \"dataset_identifier\": \"11\", \"distribution_identifier\": \"11.3\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-09-28T00:00:00",
+      "datastore_active": false,
+      "description": "Estimador Mensual de Actividad Económica. Datos Mensuales. Índice (Base 2004)",
+      "fileName": "emae-apertura-por-sectores-valores-mensuales-indice-base-2004.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "sspm_11.3",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "EMAE apertura por sectores. Índice Base 2004. Valores mensuales.",
+      "package_id": "sspm_11",
+      "position": 2,
+      "resource_type": null,
+      "revision_id": "e61e95bf-fe03-483d-be3d-b841e8272912",
+      "size": null,
+      "state": "active",
+      "url": "https://infra.datos.gob.ar/catalog/sspm/dataset/11/distribution/11.3/download/emae-apertura-por-sectores-valores-mensuales-indice-base-2004.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "e61e95bf-fe03-483d-be3d-b841e8272912",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "Actividad",
+      "id": "a7695c51-c893-4ece-8ff9-306c197afdd7",
+      "name": "Actividad",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Información Económica al Día",
+      "id": "0d300a9a-0802-46c3-9a40-2f28ddf050ec",
+      "name": "Información Económica al Día",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Estimador Mensual de Actividad Económica (EMAE). Apertura Sectorial. Base 2004",
+  "type": "dataset",
+  "url": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/",
+  "version": null
+}

@@ -1,0 +1,171 @@
+{
+  "author": "Ministerio de transporte",
+  "author_email": null,
+  "creator_user_id": "dc157489-51c6-44ce-bd63-3bd983d60778",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "eventual"
+    },
+    {
+      "key": "issued",
+      "value": "2020-11-06T13:48:33.131920"
+    },
+    {
+      "key": "language",
+      "value": "[\"spa\"]"
+    },
+    {
+      "key": "modified",
+      "value": "2020-11-11T15:25:54.858593"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"SOCI\", \"TRAN\"]"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Población y sociedad",
+      "display_name": "Población y sociedad",
+      "id": "eb5df7fa-064a-4b51-89f6-af323ee1bf85",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225728.341804poblacion-sociedad.svg",
+      "name": "soci",
+      "title": "Población y sociedad"
+    },
+    {
+      "description": "Transporte",
+      "display_name": "Transporte",
+      "id": "57227cfc-80a6-45d3-9faa-711a98ac8ede",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225933.272993transporte.svg",
+      "name": "tran",
+      "title": "Transporte"
+    }
+  ],
+  "id": "transporte_f15669fe-0a59-47c8-b765-0d9e882e5e25",
+  "isopen": true,
+  "license_id": "CC-BY-4.0",
+  "license_title": "Creative Commons Attribution 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "maintainer": null,
+  "maintainer_email": null,
+  "metadata_created": "2021-01-28T14:47:01.207977",
+  "metadata_modified": "2021-04-29T21:11:18.633507",
+  "name": "transporte-empresas-transporte-rmba",
+  "notes": "Detalle de compañías (colectivos, premetro, subte y trenes) que operan por jurisdicción Nacional, Provincial y Municipal",
+  "num_resources": 3,
+  "num_tags": 2,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:11.506514",
+    "description": "",
+    "id": "71418928-10c4-4625-aeaf-69a4d73d00ed",
+    "image_url": "",
+    "is_organization": true,
+    "name": "transporte",
+    "revision_id": "dc7b93ef-b174-46ee-90ea-63edf51296f0",
+    "state": "active",
+    "title": " Ministerio de Transporte",
+    "type": "organization"
+  },
+  "owner_org": "71418928-10c4-4625-aeaf-69a4d73d00ed",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "https://datos.transporte.gob.ar/dataset/f15669fe-0a59-47c8-b765-0d9e882e5e25/resource/65a22226-2c25-4b30-bf27-12be7659e011",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2020-11-06T13:49:28.696103",
+      "datastore_active": false,
+      "description": "Detalle de empresas de transporte que operan Jurisdicción Municipal",
+      "fileName": "empresas_municipal.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "transporte_65a22226-2c25-4b30-bf27-12be7659e011",
+      "last_modified": "2020-11-06T13:49:28.696103",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Empresas de transporte que operan Jurisdicción Municipal",
+      "package_id": "transporte_f15669fe-0a59-47c8-b765-0d9e882e5e25",
+      "position": 0,
+      "resource_type": "file.upload",
+      "revision_id": "56933f24-e85c-4b25-9928-29c1962f3255",
+      "size": null,
+      "state": "active",
+      "url": "https://datos.transporte.gob.ar/dataset/f15669fe-0a59-47c8-b765-0d9e882e5e25/resource/65a22226-2c25-4b30-bf27-12be7659e011/download/empresas_municipal.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://datos.transporte.gob.ar/dataset/f15669fe-0a59-47c8-b765-0d9e882e5e25/resource/799d9365-9554-4556-a6d0-c1f8adc8e7d1",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2020-11-06T13:50:28.345159",
+      "datastore_active": false,
+      "description": "Detalle de empresas de transporte que operan Jurisdicción Nacional",
+      "fileName": "empresas_nacional.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "transporte_799d9365-9554-4556-a6d0-c1f8adc8e7d1",
+      "last_modified": "2020-11-06T13:50:28.345159",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Empresas de transporte que operan Jurisdicción Nacional",
+      "package_id": "transporte_f15669fe-0a59-47c8-b765-0d9e882e5e25",
+      "position": 1,
+      "resource_type": "file.upload",
+      "revision_id": "56933f24-e85c-4b25-9928-29c1962f3255",
+      "size": null,
+      "state": "active",
+      "url": "https://datos.transporte.gob.ar/dataset/f15669fe-0a59-47c8-b765-0d9e882e5e25/resource/799d9365-9554-4556-a6d0-c1f8adc8e7d1/download/empresas_nacional.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://datos.transporte.gob.ar/dataset/f15669fe-0a59-47c8-b765-0d9e882e5e25/resource/56085e78-8cf4-41da-a204-0e64a27f47ad",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2020-11-06T13:51:05.005297",
+      "datastore_active": false,
+      "description": "Detalle de empresas de transporte que operan Jurisdicción Provincial",
+      "fileName": "empresas_provincial.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "transporte_56085e78-8cf4-41da-a204-0e64a27f47ad",
+      "last_modified": "2020-11-06T13:51:05.005297",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Empresas de transporte que operan Jurisdicción Provincial",
+      "package_id": "transporte_f15669fe-0a59-47c8-b765-0d9e882e5e25",
+      "position": 2,
+      "resource_type": "file.upload",
+      "revision_id": "56933f24-e85c-4b25-9928-29c1962f3255",
+      "size": null,
+      "state": "active",
+      "url": "https://datos.transporte.gob.ar/dataset/f15669fe-0a59-47c8-b765-0d9e882e5e25/resource/56085e78-8cf4-41da-a204-0e64a27f47ad/download/empresas_provincial.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "56933f24-e85c-4b25-9928-29c1962f3255",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "RMBA",
+      "id": "0114d7ff-3871-4d02-bcec-1f49ed7f35b9",
+      "name": "RMBA",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Transporte General",
+      "id": "a302697b-f4b9-4671-bebf-9b4de5a4a452",
+      "name": "Transporte General",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Empresas de transporte de RMBA",
+  "type": "dataset",
+  "url": "https://datos.transporte.gob.ar/dataset/empresas-de-transporte-de-rmba",
+  "version": null
+}

@@ -1,0 +1,124 @@
+{
+  "author": "Subsecretaría de Programación Macroeconómica",
+  "author_email": "datoseconomicos@mecon.gov.ar",
+  "creator_user_id": "4720e75a-9e17-4dc3-879d-041917c7f9f9",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P1M"
+    },
+    {
+      "key": "issued",
+      "value": "2017-09-28"
+    },
+    {
+      "key": "language",
+      "value": "[\"SPA\"]"
+    },
+    {
+      "key": "source",
+      "value": "Banco Central de la República Argentina (BCRA)"
+    },
+    {
+      "key": "spatial",
+      "value": "ARG"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"ECON\"]"
+    },
+    {
+      "key": "temporal",
+      "value": "2003-01-01/2017-04-30"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Economía y finanzas",
+      "display_name": "Economía y finanzas",
+      "id": "60b4b03e-10a1-4d67-b984-08008a249617",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225257.200233economia-finanzas.svg",
+      "name": "econ",
+      "title": "Economía y finanzas"
+    }
+  ],
+  "id": "sspm_91",
+  "isopen": true,
+  "license_id": "CC-BY-4.0",
+  "license_title": "Creative Commons Attribution 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "maintainer": "Subsecretaría de Programación Macroeconómica.",
+  "maintainer_email": "datoseconomicos@mecon.gov.ar",
+  "metadata_created": "2019-11-26T15:06:01.927540",
+  "metadata_modified": "2021-04-29T21:04:23.258155",
+  "name": "sspm-prestamos-entidades-financieras",
+  "notes": "Préstamos a las entidades financieras. Datos mensuales a fin de cada período. En millones de pesos",
+  "num_resources": 1,
+  "num_tags": 2,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:09.718132",
+    "description": "",
+    "id": "68f9ee22-5ec3-44cf-a32b-b87d9db46b93",
+    "image_url": "",
+    "is_organization": true,
+    "name": "sspm",
+    "revision_id": "bc058ce0-3540-4204-96cd-9f9ec79045b3",
+    "state": "active",
+    "title": "Subsecretaría de Programación Macroeconómica",
+    "type": "organization"
+  },
+  "owner_org": "68f9ee22-5ec3-44cf-a32b-b87d9db46b93",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/",
+      "attributesDescription": "[{\"title\": \"indice_tiempo\", \"type\": \"date\", \"specialType\": \"time_index\", \"specialTypeDetail\": \"R/P1M\", \"id\": \"91.1_IT_0_0_13\", \"scrapingIdentifierCell\": \"A9\", \"scrapingDataStartCell\": \"A10\", \"dataset_identifier\": \"91\", \"distribution_identifier\": \"91.1\"}, {\"title\": \"prestamos_sect_priv_pesos_y_dolares\", \"type\": \"number\", \"description\": \"Pr\\u00e9stamos al sector privado en pesos y d\\u00f3lares\", \"id\": \"91.1_PEFPC_0_0_35\", \"scrapingIdentifierCell\": \"B9\", \"scrapingDataStartCell\": \"B10\", \"units\": \"Millones de pesos\", \"dataset_identifier\": \"91\", \"distribution_identifier\": \"91.1\"}, {\"title\": \"prestamos_sect_priv_pesos_dolares_consumo\", \"type\": \"number\", \"description\": \"Pr\\u00e9stamos al sector privado en pesos y d\\u00f3lares: consumo\", \"id\": \"91.1_PEFPC_0_0_41\", \"scrapingIdentifierCell\": \"C9\", \"scrapingDataStartCell\": \"C10\", \"units\": \"Millones de pesos\", \"dataset_identifier\": \"91\", \"distribution_identifier\": \"91.1\"}, {\"title\": \"detalle_prestamos_sect_priv_pesos_dolares_consumo_personales\", \"type\": \"number\", \"description\": \"Detalle pr\\u00e9stamos al sector privado en pesos y d\\u00f3lares: consumo personales\", \"id\": \"91.1_PEFPGR_0_0_60\", \"scrapingIdentifierCell\": \"D9\", \"scrapingDataStartCell\": \"D10\", \"units\": \"Millones de pesos\", \"dataset_identifier\": \"91\", \"distribution_identifier\": \"91.1\"}, {\"title\": \"detalle_prestamos_sector_priv_pesos_dolares_consumo_tarjetas\", \"type\": \"number\", \"description\": \"Detalle pr\\u00e9stamos al sector privado en pesos y d\\u00f3lares: consumo tarjetas\", \"id\": \"91.1_PEFPT_0_0_60\", \"scrapingIdentifierCell\": \"E9\", \"scrapingDataStartCell\": \"E10\", \"units\": \"Millones de pesos\", \"dataset_identifier\": \"91\", \"distribution_identifier\": \"91.1\"}, {\"title\": \"prestamos_sect_priv_pesos_dolares_comerciales\", \"type\": \"number\", \"description\": \"Pr\\u00e9stamos al sector privado en pesos y d\\u00f3lares: Comerciales\", \"id\": \"91.1_PEFPD_0_0_45\", \"scrapingIdentifierCell\": \"F9\", \"scrapingDataStartCell\": \"F10\", \"units\": \"Millones de d\\u00f3lares\", \"dataset_identifier\": \"91\", \"distribution_identifier\": \"91.1\"}, {\"title\": \"detalle_prestamos_sect_priv_pesos_dolares_comerc_adelantos\", \"type\": \"number\", \"description\": \"Detalle Pr\\u00e9stamos al sector privado es pesos y d\\u00f3lares: comerciales adelantos\", \"id\": \"91.1_TPEF_0_0_58\", \"scrapingIdentifierCell\": \"G9\", \"scrapingDataStartCell\": \"G10\", \"units\": \"Millones de pesos\", \"dataset_identifier\": \"91\", \"distribution_identifier\": \"91.1\"}, {\"title\": \"detalle_prestamos_sect_priv_pesos_dolares_comer_doc\", \"type\": \"number\", \"description\": \"Detalle pr\\u00e9stamos al sector privado en pesos y d\\u00f3lares: comerciales documentos\", \"id\": \"91.1_PRESTAMOS_LES_0_0_51\", \"scrapingIdentifierCell\": \"H9\", \"scrapingDataStartCell\": \"H10\", \"units\": \"Millones de d\\u00f3lares\", \"dataset_identifier\": \"91\", \"distribution_identifier\": \"91.1\"}, {\"title\": \"detalle_prestamos_sect_priv_pesos_dolares_comerciales_otros\", \"type\": \"number\", \"description\": \"Detalle pr\\u00e9stamos al sector privado en pesos y d\\u00f3lares: comerciales otros\", \"id\": \"91.1_DETALLE_PRTOS_0_0_59\", \"scrapingIdentifierCell\": \"I9\", \"scrapingDataStartCell\": \"I10\", \"units\": \"Millones de d\\u00f3lares\", \"dataset_identifier\": \"91\", \"distribution_identifier\": \"91.1\"}, {\"title\": \"prestamos_sect_priv_pesos_dolares_garantia_real\", \"type\": \"number\", \"description\": \"Pr\\u00e9stamos al sector privado en pesos y d\\u00f3lares: garant\\u00eda real\", \"id\": \"91.1_DETALLE_PRDOC_0_0_47\", \"scrapingIdentifierCell\": \"J9\", \"scrapingDataStartCell\": \"J10\", \"units\": \"Millones de d\\u00f3lares\", \"dataset_identifier\": \"91\", \"distribution_identifier\": \"91.1\"}, {\"title\": \"detalle_prest_sect_priv_pesos_dolares_garantia_real_hip\", \"type\": \"number\", \"description\": \"Detalle pr\\u00e9stamos al sector privado en pesos y d\\u00f3lares: garant\\u00eda real hipotecarios\", \"id\": \"91.1_DETALLE_PRROS_0_0_61\", \"scrapingIdentifierCell\": \"K9\", \"scrapingDataStartCell\": \"K10\", \"units\": \"Millones de d\\u00f3lares\", \"dataset_identifier\": \"91\", \"distribution_identifier\": \"91.1\"}, {\"title\": \"detalle_prest_sect_priv_pesos_dolares_garantia_real_prend\", \"type\": \"number\", \"description\": \"Detalle pr\\u00e9stamos al sector privado en pesos y d\\u00f3lares: garant\\u00eda real prendarios\", \"id\": \"91.1_PRESTAMOS_EAL_0_0_61\", \"scrapingIdentifierCell\": \"L9\", \"scrapingDataStartCell\": \"L10\", \"units\": \"Millones de pesos\", \"dataset_identifier\": \"91\", \"distribution_identifier\": \"91.1\"}, {\"title\": \"prestamos_sect_priv_pesos\", \"type\": \"number\", \"description\": \"Pr\\u00e9stamos al sector privado en pesos\", \"id\": \"91.1_DETALLE_PRPOT_0_0_25\", \"scrapingIdentifierCell\": \"N9\", \"scrapingDataStartCell\": \"N10\", \"units\": \"Millones de pesos\", \"dataset_identifier\": \"91\", \"distribution_identifier\": \"91.1\"}, {\"title\": \"prestamos_sect_priv_pesos_consumo\", \"type\": \"number\", \"description\": \"Pr\\u00e9stamos al sector privado en pesos: consumo\", \"id\": \"91.1_DETALLE_PREND_0_0_33\", \"scrapingIdentifierCell\": \"O9\", \"scrapingDataStartCell\": \"O10\", \"units\": \"Millones de pesos\", \"dataset_identifier\": \"91\", \"distribution_identifier\": \"91.1\"}, {\"title\": \"detalle_prestamos_sect_priv_pesos_consumo_personales\", \"type\": \"number\", \"description\": \"Detalle pr\\u00e9stamos al sector privado en pesos: consumo personales\", \"id\": \"91.1_DETALLE_PRLES_0_0_52\", \"scrapingIdentifierCell\": \"P9\", \"scrapingDataStartCell\": \"P10\", \"units\": \"Millones de pesos\", \"dataset_identifier\": \"91\", \"distribution_identifier\": \"91.1\"}, {\"title\": \"detalle_prestamos_sector_priv_pesos_privado_consumo_tarjetas\", \"type\": \"number\", \"description\": \"Detalle pr\\u00e9stamos al sector privado en pesos: consumo tarjetas\", \"id\": \"91.1_DETALLE_PRTAS_0_0_60\", \"scrapingIdentifierCell\": \"Q9\", \"scrapingDataStartCell\": \"Q10\", \"units\": \"Millones de pesos\", \"dataset_identifier\": \"91\", \"distribution_identifier\": \"91.1\"}, {\"title\": \"prestamos_sect_priv_pesos_comerciales\", \"type\": \"number\", \"description\": \"Pr\\u00e9stamos al sector privado en pesos: Comerciales\", \"id\": \"91.1_PRESTAMOS_LES_0_0_37\", \"scrapingIdentifierCell\": \"R9\", \"scrapingDataStartCell\": \"R10\", \"units\": \"Millones de pesos\", \"dataset_identifier\": \"91\", \"distribution_identifier\": \"91.1\"}, {\"title\": \"detalle_prestamos_sect_priv_pesos_comerciales_adelantos\", \"type\": \"number\", \"description\": \"Detalle Pr\\u00e9stamos al sector privado es pesos: comerciales adelantos\", \"id\": \"91.1_DETALLE_PRTOS_0_0_55\", \"scrapingIdentifierCell\": \"S9\", \"scrapingDataStartCell\": \"S10\", \"units\": \"Millones de pesos\", \"dataset_identifier\": \"91\", \"distribution_identifier\": \"91.1\"}, {\"title\": \"detalle_prestamos_sect_priv_pesos_comerciales_documentos\", \"type\": \"number\", \"description\": \"Detalle pr\\u00e9stamos al sector privado en pesos: comerciales documentos\", \"id\": \"91.1_DETALLE_PRTOS_0_0_56\", \"scrapingIdentifierCell\": \"T9\", \"scrapingDataStartCell\": \"T10\", \"units\": \"Millones de pesos\", \"dataset_identifier\": \"91\", \"distribution_identifier\": \"91.1\"}, {\"title\": \"detalle_prestamos_sect_priv_pesos_comerciales_otros\", \"type\": \"number\", \"description\": \"Detalle pr\\u00e9stamos al sector privado en pesos: comerciales otros\", \"id\": \"91.1_DETALLE_PRROS_0_0_51\", \"scrapingIdentifierCell\": \"U9\", \"scrapingDataStartCell\": \"U10\", \"units\": \"Millones de pesos\", \"dataset_identifier\": \"91\", \"distribution_identifier\": \"91.1\"}, {\"title\": \"prestamos_sect_priv_pesos_garantia_real\", \"type\": \"number\", \"description\": \"Pr\\u00e9stamos al sector privado en pesos: garant\\u00eda real\", \"id\": \"91.1_PRESTAMOS_EAL_0_0_39\", \"scrapingIdentifierCell\": \"V9\", \"scrapingDataStartCell\": \"V10\", \"units\": \"Millones de pesos\", \"dataset_identifier\": \"91\", \"distribution_identifier\": \"91.1\"}, {\"title\": \"detalle_prestamos_sect_priv_pesos_garantia_real_hipot\", \"type\": \"number\", \"description\": \"Detalle pr\\u00e9stamos al sector privado en pesos: garant\\u00eda real hipotecarios\", \"id\": \"91.1_DETALLE_PRPOT_0_0_53\", \"scrapingIdentifierCell\": \"W9\", \"scrapingDataStartCell\": \"W10\", \"units\": \"Millones de pesos\", \"dataset_identifier\": \"91\", \"distribution_identifier\": \"91.1\"}, {\"title\": \"detalle_prestamos_sect_priv_pesos_garantia_real_prend\", \"type\": \"number\", \"description\": \"Detalle pr\\u00e9stamos al sector privado en pesos: garant\\u00eda real prendarios\", \"id\": \"91.1_DETALLE_PREND_0_0_53\", \"scrapingIdentifierCell\": \"X9\", \"scrapingDataStartCell\": \"X10\", \"units\": \"Millones de pesos\", \"dataset_identifier\": \"91\", \"distribution_identifier\": \"91.1\"}, {\"title\": \"prestamos_sect_priv_dolares\", \"type\": \"number\", \"description\": \"Pr\\u00e9stamos al sector privado en dolares\", \"id\": \"91.1_PRESTAMOS_RES_0_0_27\", \"scrapingIdentifierCell\": \"Z9\", \"scrapingDataStartCell\": \"Z10\", \"units\": \"Millones de d\\u00f3lares\", \"dataset_identifier\": \"91\", \"distribution_identifier\": \"91.1\"}, {\"title\": \"prestamos_sect_priv_dolares_consumo\", \"type\": \"number\", \"description\": \"Pr\\u00e9stamos al sector privado en dolares: consumo\", \"id\": \"91.1_PRESTAMOS_UMO_0_0_35\", \"scrapingIdentifierCell\": \"AA9\", \"scrapingDataStartCell\": \"AA10\", \"units\": \"Millones de d\\u00f3lares\", \"dataset_identifier\": \"91\", \"distribution_identifier\": \"91.1\"}, {\"title\": \"detalle_prestamos_sect_priv_dolares_consumo_personales\", \"type\": \"number\", \"description\": \"Detalle pr\\u00e9stamos al sector privado en dolares: consumo personales\", \"id\": \"91.1_DETALLE_PRLES_0_0_54\", \"scrapingIdentifierCell\": \"AB9\", \"scrapingDataStartCell\": \"AB10\", \"units\": \"Millones de d\\u00f3lares\", \"dataset_identifier\": \"91\", \"distribution_identifier\": \"91.1\"}, {\"title\": \"detalle_prestamos_sector_priv_dolares_consumo_tarjetas\", \"type\": \"number\", \"description\": \"Detalle pr\\u00e9stamos al sector privado en dolares: consumo tarjetas\", \"id\": \"91.1_DETALLE_PRTAS_0_0_54\", \"scrapingIdentifierCell\": \"AC9\", \"scrapingDataStartCell\": \"AC10\", \"units\": \"Millones de d\\u00f3lares\", \"dataset_identifier\": \"91\", \"distribution_identifier\": \"91.1\"}, {\"title\": \"prestamos_sect_priv_dolares_comerciales\", \"type\": \"number\", \"description\": \"Pr\\u00e9stamos al sector privado en dolares: Comerciales\", \"id\": \"91.1_PRESTAMOS_LES_0_0_39\", \"scrapingIdentifierCell\": \"AD9\", \"scrapingDataStartCell\": \"AD10\", \"units\": \"Millones de d\\u00f3lares\", \"dataset_identifier\": \"91\", \"distribution_identifier\": \"91.1\"}, {\"title\": \"detalle_prestamos_sect_priv_dolares_comerciales_adelantos\", \"type\": \"number\", \"description\": \"Detalle Pr\\u00e9stamos al sector privado es dolares: comerciales adelantos\", \"id\": \"91.1_DETALLE_PRTOS_0_0_57\", \"scrapingIdentifierCell\": \"AE9\", \"scrapingDataStartCell\": \"AE10\", \"units\": \"Millones de d\\u00f3lares\", \"dataset_identifier\": \"91\", \"distribution_identifier\": \"91.1\"}, {\"title\": \"detalle_prestamos_sect_priv_dolares_comerciales_documentos\", \"type\": \"number\", \"description\": \"Detalle pr\\u00e9stamos al sector privado en dolares: comerciales documentos\", \"id\": \"91.1_DETALLE_PRTOS_0_0_58\", \"scrapingIdentifierCell\": \"AF9\", \"scrapingDataStartCell\": \"AF10\", \"units\": \"Millones de d\\u00f3lares\", \"dataset_identifier\": \"91\", \"distribution_identifier\": \"91.1\"}, {\"title\": \"detalle_prestamos_sect_priv_dolares_comerciales_otros\", \"type\": \"number\", \"description\": \"Detalle pr\\u00e9stamos al sector privado en dolares: comerciales otros\", \"id\": \"91.1_DETALLE_PRROS_0_0_53\", \"scrapingIdentifierCell\": \"AG9\", \"scrapingDataStartCell\": \"AG10\", \"units\": \"Millones de d\\u00f3lares\", \"dataset_identifier\": \"91\", \"distribution_identifier\": \"91.1\"}, {\"title\": \"prestamos_sect_priv_dolares_garantia_real\", \"type\": \"number\", \"description\": \"Pr\\u00e9stamos al sector privado en dolares: garant\\u00eda real\", \"id\": \"91.1_PRESTAMOS_EAL_0_0_41\", \"scrapingIdentifierCell\": \"AH9\", \"scrapingDataStartCell\": \"AH10\", \"units\": \"Millones de d\\u00f3lares\", \"dataset_identifier\": \"91\", \"distribution_identifier\": \"91.1\"}, {\"title\": \"detalle_prestamos_sect_priv_dolares_garantia_real_hipot\", \"type\": \"number\", \"description\": \"Detalle pr\\u00e9stamos al sector privado en dolares: garant\\u00eda real hipotecarios\", \"id\": \"91.1_DETALLE_PRPOT_0_0_55\", \"scrapingIdentifierCell\": \"AI9\", \"scrapingDataStartCell\": \"AI10\", \"units\": \"Millones de d\\u00f3lares\", \"dataset_identifier\": \"91\", \"distribution_identifier\": \"91.1\"}, {\"title\": \"detalle_prestamos_sect_priv_dolares_garantia_real_prend\", \"type\": \"number\", \"description\": \"Detalle pr\\u00e9stamos al sector privado en dolares: garant\\u00eda real prendarios\", \"id\": \"91.1_DETALLE_PREND_0_0_55\", \"scrapingIdentifierCell\": \"AJ9\", \"scrapingDataStartCell\": \"AJ10\", \"units\": \"Millones de d\\u00f3lares\", \"dataset_identifier\": \"91\", \"distribution_identifier\": \"91.1\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-09-28T00:00:00",
+      "datastore_active": false,
+      "description": "Préstamos a las entidades financieras. Datos mensuales a fin de cada período. En millones de pesos",
+      "fileName": "prestamos-entidades-financieras-sector-privado.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "sspm_91.1",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Préstamos a las entidades financieras sector privado",
+      "package_id": "sspm_91",
+      "position": 0,
+      "resource_type": null,
+      "revision_id": "3007c247-6a90-41a4-9e83-8278d3491bec",
+      "size": null,
+      "state": "active",
+      "url": "https://infra.datos.gob.ar/catalog/sspm/dataset/91/distribution/91.1/download/prestamos-entidades-financieras-sector-privado.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "3007c247-6a90-41a4-9e83-8278d3491bec",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "Dinero y Bancos",
+      "id": "a6e04960-0d58-4c4e-a59c-a2e2ef9ac579",
+      "name": "Dinero y Bancos",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Información económica al día",
+      "id": "a277ffeb-6252-446e-a364-14710b257b35",
+      "name": "Información económica al día",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Préstamos a las entidades financieras",
+  "type": "dataset",
+  "url": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/",
+  "version": null
+}

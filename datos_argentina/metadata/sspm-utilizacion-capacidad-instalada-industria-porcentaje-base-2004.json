@@ -1,0 +1,149 @@
+{
+  "author": "Subsecretaría de Programación Macroeconómica",
+  "author_email": "datoseconomicos@mecon.gov.ar",
+  "creator_user_id": "4720e75a-9e17-4dc3-879d-041917c7f9f9",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P1M"
+    },
+    {
+      "key": "issued",
+      "value": "2017-09-28"
+    },
+    {
+      "key": "language",
+      "value": "[\"SPA\"]"
+    },
+    {
+      "key": "source",
+      "value": "Instituto Nacional de Estadística y Censos (INDEC)"
+    },
+    {
+      "key": "spatial",
+      "value": "ARG"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"ECON\"]"
+    },
+    {
+      "key": "temporal",
+      "value": "1997-01-01/2017-03-01"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Economía y finanzas",
+      "display_name": "Economía y finanzas",
+      "id": "60b4b03e-10a1-4d67-b984-08008a249617",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225257.200233economia-finanzas.svg",
+      "name": "econ",
+      "title": "Economía y finanzas"
+    }
+  ],
+  "id": "sspm_31",
+  "isopen": true,
+  "license_id": "CC-BY-4.0",
+  "license_title": "Creative Commons Attribution 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "maintainer": "Subsecretaría de Programación Macroeconómica.",
+  "maintainer_email": "datoseconomicos@mecon.gov.ar",
+  "metadata_created": "2019-11-26T15:04:09.623757",
+  "metadata_modified": "2021-04-29T21:06:07.335795",
+  "name": "sspm-utilizacion-capacidad-instalada-industria-porcentaje-base-2004",
+  "notes": "Utilización de la capacidad instalada en la industria por bloques sectoriales (en %)",
+  "num_resources": 2,
+  "num_tags": 2,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:09.718132",
+    "description": "",
+    "id": "68f9ee22-5ec3-44cf-a32b-b87d9db46b93",
+    "image_url": "",
+    "is_organization": true,
+    "name": "sspm",
+    "revision_id": "bc058ce0-3540-4204-96cd-9f9ec79045b3",
+    "state": "active",
+    "title": "Subsecretaría de Programación Macroeconómica",
+    "type": "organization"
+  },
+  "owner_org": "68f9ee22-5ec3-44cf-a32b-b87d9db46b93",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/",
+      "attributesDescription": "[{\"title\": \"indice_tiempo\", \"type\": \"date\", \"specialType\": \"time_index\", \"specialTypeDetail\": \"R/P3M\", \"id\": \"31.2_IT_2004_T_13\", \"scrapingIdentifierCell\": \"A39\", \"scrapingDataStartCell\": \"A40\", \"dataset_identifier\": \"31\", \"distribution_identifier\": \"31.2\"}, {\"title\": \"ucii_nivel_general\", \"type\": \"number\", \"description\": \"Utilizaci\\u00f3n de la capacidad instalada en la industria como porcentaje del total\", \"id\": \"31.2_UNG_2004_T_18\", \"scrapingIdentifierCell\": \"B39\", \"scrapingDataStartCell\": \"B40\", \"units\": \"Porcentaje\", \"dataset_identifier\": \"31\", \"distribution_identifier\": \"31.2\"}, {\"title\": \"ucii_productos_alimenticios_bebidas\", \"type\": \"number\", \"description\": \"Utilizaci\\u00f3n de la capacidad instalada en la industria de Productos alimenticios y bebidas como porcentaje del total de la capacidad del sector\", \"id\": \"31.2_UPAB_2004_T_35\", \"scrapingIdentifierCell\": \"C39\", \"scrapingDataStartCell\": \"C40\", \"units\": \"Porcentaje\", \"dataset_identifier\": \"31\", \"distribution_identifier\": \"31.2\"}, {\"title\": \"ucii_productos_tabaco\", \"type\": \"number\", \"description\": \"Utilizaci\\u00f3n de la capacidad instalada en la industria de Productos del tabaco como porcentaje del total de la capacidad del sector\", \"id\": \"31.2_UPT_2004_T_21\", \"scrapingIdentifierCell\": \"D39\", \"scrapingDataStartCell\": \"D40\", \"units\": \"Porcentaje\", \"dataset_identifier\": \"31\", \"distribution_identifier\": \"31.2\"}, {\"title\": \"ucii_productos_textiles\", \"type\": \"number\", \"description\": \"Utilizaci\\u00f3n de la capacidad instalada en la industria de Productos textiles como porcentaje del total de la capacidad del sector\", \"id\": \"31.2_UPT_2004_T_23\", \"scrapingIdentifierCell\": \"E39\", \"scrapingDataStartCell\": \"E40\", \"units\": \"Porcentaje\", \"dataset_identifier\": \"31\", \"distribution_identifier\": \"31.2\"}, {\"title\": \"ucii_papel_carton\", \"type\": \"number\", \"description\": \"Utilizaci\\u00f3n de la capacidad instalada en la industria de Productos de papel y cart\\u00f3n como porcentaje del total de la capacidad del sector\", \"id\": \"31.2_UPC_2004_T_17\", \"scrapingIdentifierCell\": \"F39\", \"scrapingDataStartCell\": \"F40\", \"units\": \"Porcentaje\", \"dataset_identifier\": \"31\", \"distribution_identifier\": \"31.2\"}, {\"title\": \"ucii_edicion_impresion\", \"type\": \"number\", \"description\": \"Utilizaci\\u00f3n de la capacidad instalada en la industria de Edici\\u00f3n e impresi\\u00f3n como porcentaje del total de la capacidad del sector\", \"id\": \"31.2_UEI_2004_T_22\", \"scrapingIdentifierCell\": \"G39\", \"scrapingDataStartCell\": \"G40\", \"units\": \"Porcentaje\", \"dataset_identifier\": \"31\", \"distribution_identifier\": \"31.2\"}, {\"title\": \"ucii_refinacion_petroleo\", \"type\": \"number\", \"description\": \"Utilizaci\\u00f3n de la capacidad instalada en la industria de Refinaci\\u00f3n de petr\\u00f3leo como porcentaje del total de la capacidad del sector\", \"id\": \"31.2_URP_2004_T_24\", \"scrapingIdentifierCell\": \"H39\", \"scrapingDataStartCell\": \"H40\", \"units\": \"Porcentaje\", \"dataset_identifier\": \"31\", \"distribution_identifier\": \"31.2\"}, {\"title\": \"ucii_sustancias_productos_quimicos\", \"type\": \"number\", \"description\": \"Utilizaci\\u00f3n de la capacidad instalada en la industria de Productos qu\\u00edmicos como porcentaje del total de la capacidad del sector\", \"id\": \"31.2_USPQ_2004_T_34\", \"scrapingIdentifierCell\": \"I39\", \"scrapingDataStartCell\": \"I40\", \"units\": \"Porcentaje\", \"dataset_identifier\": \"31\", \"distribution_identifier\": \"31.2\"}, {\"title\": \"ucii_caucho_plastico\", \"type\": \"number\", \"description\": \"Utilizaci\\u00f3n de la capacidad instalada en la industria de Productos de caucho y pl\\u00e1stico como porcentaje del total de la capacidad del sector\", \"id\": \"31.2_UCP_2004_T_20\", \"scrapingIdentifierCell\": \"J39\", \"scrapingDataStartCell\": \"J40\", \"units\": \"Porcentaje\", \"dataset_identifier\": \"31\", \"distribution_identifier\": \"31.2\"}, {\"title\": \"ucii_minerales_no_metalicos\", \"type\": \"number\", \"description\": \"Utilizaci\\u00f3n de la capacidad instalada en la industria de Productos minerales no met\\u00e1licos como porcentaje del total de la capacidad del sector\", \"id\": \"31.2_UMNM_2004_T_27\", \"scrapingIdentifierCell\": \"K39\", \"scrapingDataStartCell\": \"K40\", \"units\": \"Porcentaje\", \"dataset_identifier\": \"31\", \"distribution_identifier\": \"31.2\"}, {\"title\": \"ucii_industrias_metalicas_basicas\", \"type\": \"number\", \"description\": \"Utilizaci\\u00f3n de la capacidad instalada en la industria de metales b\\u00e1sicos como porcentaje del total de la capacidad del sector\", \"id\": \"31.2_UIMB_2004_T_33\", \"scrapingIdentifierCell\": \"L39\", \"scrapingDataStartCell\": \"L40\", \"units\": \"Porcentaje\", \"dataset_identifier\": \"31\", \"distribution_identifier\": \"31.2\"}, {\"title\": \"ucii_vehiculosautomotores\", \"type\": \"number\", \"description\": \"Utilizaci\\u00f3n de la capacidad instalada en la industria de Veh\\u00edculos automotores como porcentaje del total de la capacidad del sector\", \"id\": \"31.2_UV_2004_T_25\", \"scrapingIdentifierCell\": \"M39\", \"scrapingDataStartCell\": \"M40\", \"units\": \"Porcentaje\", \"dataset_identifier\": \"31\", \"distribution_identifier\": \"31.2\"}, {\"title\": \"ucii_metalmecanica_no_industria_automotriz\", \"type\": \"number\", \"description\": \"Utilizaci\\u00f3n de la capacidad instalada en la industria Metalmec\\u00e1nica exluidos los automotores como porcentaje del total de la capacidad del sector\", \"id\": \"31.2_UMNIA_2004_T_42\", \"scrapingIdentifierCell\": \"N39\", \"scrapingDataStartCell\": \"N40\", \"units\": \"Porcentaje\", \"dataset_identifier\": \"31\", \"distribution_identifier\": \"31.2\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-09-28T00:00:00",
+      "datastore_active": false,
+      "description": "Utilización de la capacidad instalada en la industria como porcentaje de la capacidad total. Valores trimestrales (Base 2004)",
+      "fileName": "utilizacion-capacidad-instalada-industria-valores-trimestrales-base-2004.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "sspm_31.2",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Utilización de la capacidad instalada en la industria. Base 2004. Valores trimestrales.",
+      "package_id": "sspm_31",
+      "position": 0,
+      "resource_type": null,
+      "revision_id": "36befcd8-3080-493c-af5c-c1a2f533a393",
+      "size": null,
+      "state": "active",
+      "url": "https://infra.datos.gob.ar/catalog/sspm/dataset/31/distribution/31.2/download/utilizacion-capacidad-instalada-industria-valores-trimestrales-base-2004.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/",
+      "attributesDescription": "[{\"title\": \"indice_tiempo\", \"type\": \"date\", \"specialType\": \"time_index\", \"specialTypeDetail\": \"R/P1M\", \"id\": \"31.3_IT_2004_M_13\", \"scrapingIdentifierCell\": \"A112\", \"scrapingDataStartCell\": \"A113\", \"dataset_identifier\": \"31\", \"distribution_identifier\": \"31.3\"}, {\"title\": \"ucii_nivel_general\", \"type\": \"number\", \"description\": \"Utilizaci\\u00f3n de la capacidad instalada en la industria como porcentaje del total\", \"id\": \"31.3_UNG_2004_M_18\", \"scrapingIdentifierCell\": \"B112\", \"scrapingDataStartCell\": \"B113\", \"units\": \"Porcentaje\", \"dataset_identifier\": \"31\", \"distribution_identifier\": \"31.3\"}, {\"title\": \"ucii_productos_alimenticios_bebidas\", \"type\": \"number\", \"description\": \"Utilizaci\\u00f3n de la capacidad instalada en la industria de Productos alimenticios y bebidas como porcentaje del total de la capacidad del sector\", \"id\": \"31.3_UPAB_2004_M_35\", \"scrapingIdentifierCell\": \"C112\", \"scrapingDataStartCell\": \"C113\", \"units\": \"Porcentaje\", \"dataset_identifier\": \"31\", \"distribution_identifier\": \"31.3\"}, {\"title\": \"ucii_productos_tabaco\", \"type\": \"number\", \"description\": \"Utilizaci\\u00f3n de la capacidad instalada en la industria de Productos del tabaco como porcentaje del total de la capacidad del sector\", \"id\": \"31.3_UPT_2004_M_21\", \"scrapingIdentifierCell\": \"D112\", \"scrapingDataStartCell\": \"D113\", \"units\": \"Porcentaje\", \"dataset_identifier\": \"31\", \"distribution_identifier\": \"31.3\"}, {\"title\": \"ucii_productos_textiles\", \"type\": \"number\", \"description\": \"Utilizaci\\u00f3n de la capacidad instalada en la industria de Productos textiles como porcentaje del total de la capacidad del sector\", \"id\": \"31.3_UPT_2004_M_23\", \"scrapingIdentifierCell\": \"E112\", \"scrapingDataStartCell\": \"E113\", \"units\": \"Porcentaje\", \"dataset_identifier\": \"31\", \"distribution_identifier\": \"31.3\"}, {\"title\": \"ucii_papel_carton\", \"type\": \"number\", \"description\": \"Utilizaci\\u00f3n de la capacidad instalada en la industria de Productos de papel y cart\\u00f3n como porcentaje del total de la capacidad del sector\", \"id\": \"31.3_UPC_2004_M_17\", \"scrapingIdentifierCell\": \"F112\", \"scrapingDataStartCell\": \"F113\", \"units\": \"Porcentaje\", \"dataset_identifier\": \"31\", \"distribution_identifier\": \"31.3\"}, {\"title\": \"ucii_edicion_impresion\", \"type\": \"number\", \"description\": \"Utilizaci\\u00f3n de la capacidad instalada en la industria de Edici\\u00f3n e impresi\\u00f3n como porcentaje del total de la capacidad del sector\", \"id\": \"31.3_UEI_2004_M_22\", \"scrapingIdentifierCell\": \"G112\", \"scrapingDataStartCell\": \"G113\", \"units\": \"Porcentaje\", \"dataset_identifier\": \"31\", \"distribution_identifier\": \"31.3\"}, {\"title\": \"ucii_refinacion_petroleo\", \"type\": \"number\", \"description\": \"Utilizaci\\u00f3n de la capacidad instalada en la industria de Refinaci\\u00f3n de petr\\u00f3leo como porcentaje del total de la capacidad del sector\", \"id\": \"31.3_URP_2004_M_24\", \"scrapingIdentifierCell\": \"H112\", \"scrapingDataStartCell\": \"H113\", \"units\": \"Porcentaje\", \"dataset_identifier\": \"31\", \"distribution_identifier\": \"31.3\"}, {\"title\": \"ucii_sustancias_productos_quimicos\", \"type\": \"number\", \"description\": \"Utilizaci\\u00f3n de la capacidad instalada en la industria de Productos qu\\u00edmicos como porcentaje del total de la capacidad del sector\", \"id\": \"31.3_USPQ_2004_M_34\", \"scrapingIdentifierCell\": \"I112\", \"scrapingDataStartCell\": \"I113\", \"units\": \"Porcentaje\", \"dataset_identifier\": \"31\", \"distribution_identifier\": \"31.3\"}, {\"title\": \"ucii_caucho_plastico\", \"type\": \"number\", \"description\": \"Utilizaci\\u00f3n de la capacidad instalada en la industria de Productos de caucho y pl\\u00e1stico como porcentaje del total de la capacidad del sector\", \"id\": \"31.3_UCP_2004_M_20\", \"scrapingIdentifierCell\": \"J112\", \"scrapingDataStartCell\": \"J113\", \"units\": \"Porcentaje\", \"dataset_identifier\": \"31\", \"distribution_identifier\": \"31.3\"}, {\"title\": \"ucii_minerales_no_metalicos\", \"type\": \"number\", \"description\": \"Utilizaci\\u00f3n de la capacidad instalada en la industria de Productos minerales no met\\u00e1licos como porcentaje del total de la capacidad del sector\", \"id\": \"31.3_UMNM_2004_M_27\", \"scrapingIdentifierCell\": \"K112\", \"scrapingDataStartCell\": \"K113\", \"units\": \"Porcentaje\", \"dataset_identifier\": \"31\", \"distribution_identifier\": \"31.3\"}, {\"title\": \"ucii_industrias_metalicas_basicas\", \"type\": \"number\", \"description\": \"Utilizaci\\u00f3n de la capacidad instalada en la industria de metales b\\u00e1sicos como porcentaje del total de la capacidad del sector\", \"id\": \"31.3_UIMB_2004_M_33\", \"scrapingIdentifierCell\": \"L112\", \"scrapingDataStartCell\": \"L113\", \"units\": \"Porcentaje\", \"dataset_identifier\": \"31\", \"distribution_identifier\": \"31.3\"}, {\"title\": \"ucii_vehiculosautomotores\", \"type\": \"number\", \"description\": \"Utilizaci\\u00f3n de la capacidad instalada en la industria de Veh\\u00edculos automotores como porcentaje del total de la capacidad del sector\", \"id\": \"31.3_UV_2004_M_25\", \"scrapingIdentifierCell\": \"M112\", \"scrapingDataStartCell\": \"M113\", \"units\": \"Porcentaje\", \"dataset_identifier\": \"31\", \"distribution_identifier\": \"31.3\"}, {\"title\": \"ucii_metalmecanica_no_industria_automotriz\", \"type\": \"number\", \"description\": \"Utilizaci\\u00f3n de la capacidad instalada en la industria Metalmec\\u00e1nica exluidos los automotores como porcentaje del total de la capacidad del sector\", \"id\": \"31.3_UMNIA_2004_M_42\", \"scrapingIdentifierCell\": \"N112\", \"scrapingDataStartCell\": \"N113\", \"units\": \"Porcentaje\", \"dataset_identifier\": \"31\", \"distribution_identifier\": \"31.3\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-09-28T00:00:00",
+      "datastore_active": false,
+      "description": "Utilización de la capacidad instalada en la industria como porcentaje de la capacidad total. Valores mensuales (Base 2004)",
+      "fileName": "utilizacion-capacidad-instalada-industria-valores-mensuales-base-2004.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "sspm_31.3",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Utilización de la capacidad instalada en la industria. Base 2004. Valores mensuales",
+      "package_id": "sspm_31",
+      "position": 1,
+      "resource_type": null,
+      "revision_id": "36befcd8-3080-493c-af5c-c1a2f533a393",
+      "size": null,
+      "state": "active",
+      "url": "https://infra.datos.gob.ar/catalog/sspm/dataset/31/distribution/31.3/download/utilizacion-capacidad-instalada-industria-valores-mensuales-base-2004.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "36befcd8-3080-493c-af5c-c1a2f533a393",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "Actividad",
+      "id": "a7695c51-c893-4ece-8ff9-306c197afdd7",
+      "name": "Actividad",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Información Económica al Día",
+      "id": "0d300a9a-0802-46c3-9a40-2f28ddf050ec",
+      "name": "Información Económica al Día",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Utilización de la capacidad instalada en la industria. En porcentaje. Base 2004",
+  "type": "dataset",
+  "url": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/",
+  "version": null
+}

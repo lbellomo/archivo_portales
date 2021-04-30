@@ -1,0 +1,131 @@
+{
+  "author": "Subsecretaría de Programación Macroeconómica",
+  "author_email": "datoseconomicos@mecon.gov.ar",
+  "creator_user_id": "4720e75a-9e17-4dc3-879d-041917c7f9f9",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P1D"
+    },
+    {
+      "key": "issued",
+      "value": "2017-10-17"
+    },
+    {
+      "key": "language",
+      "value": "[\"SPA\"]"
+    },
+    {
+      "key": "source",
+      "value": "Mercado Abierto Electronico (MAE)"
+    },
+    {
+      "key": "spatial",
+      "value": "ARG"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"ECON\"]"
+    },
+    {
+      "key": "temporal",
+      "value": "2017-01-02/2017-10-29"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Economía y finanzas",
+      "display_name": "Economía y finanzas",
+      "id": "60b4b03e-10a1-4d67-b984-08008a249617",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225257.200233economia-finanzas.svg",
+      "name": "econ",
+      "title": "Economía y finanzas"
+    }
+  ],
+  "id": "sspm_304",
+  "isopen": true,
+  "license_id": "CC-BY-4.0",
+  "license_title": "Creative Commons Attribution 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "maintainer": "Subsecretaría de Programación Macroeconómica.",
+  "maintainer_email": "datoseconomicos@mecon.gov.ar",
+  "metadata_created": "2019-11-26T15:05:34.876796",
+  "metadata_modified": "2021-04-29T21:06:07.208896",
+  "name": "sspm-lebac-mercado-secundario",
+  "notes": "Evolucion % de Lebac mercado secundario",
+  "num_resources": 1,
+  "num_tags": 3,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:09.718132",
+    "description": "",
+    "id": "68f9ee22-5ec3-44cf-a32b-b87d9db46b93",
+    "image_url": "",
+    "is_organization": true,
+    "name": "sspm",
+    "revision_id": "bc058ce0-3540-4204-96cd-9f9ec79045b3",
+    "state": "active",
+    "title": "Subsecretaría de Programación Macroeconómica",
+    "type": "organization"
+  },
+  "owner_org": "68f9ee22-5ec3-44cf-a32b-b87d9db46b93",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/",
+      "attributesDescription": "[{\"title\": \"indice_tiempo\", \"type\": \"date\", \"specialType\": \"time_index\", \"specialTypeDetail\": \"R/P1D\", \"id\": \"304.1_INDICE_TIEMPO_0_0_13\", \"scrapingIdentifierCell\": \"A8\", \"scrapingDataStartCell\": \"A9\", \"dataset_identifier\": \"304\", \"distribution_identifier\": \"304.1\"}, {\"title\": \"lebac_interna_pesos_2017_1_4\", \"type\": \"number\", \"description\": \"Tasa de interes interna de lebac seg\\u00fan fecha de corte 2017-01-04\", \"id\": \"304.1_LEBAQ_INTE1_4_0_0_28\", \"scrapingIdentifierCell\": \"B8\", \"scrapingDataStartCell\": \"B9\", \"units\": \"Porcentaje\", \"dataset_identifier\": \"304\", \"distribution_identifier\": \"304.1\"}, {\"title\": \"lebac_interna_pesos_2017_1_11\", \"type\": \"number\", \"description\": \"Tasa de interes interna de lebac seg\\u00fan fecha de corte 2017-01-11\", \"id\": \"304.1_LEBAQ_INTE_11_0_0_29\", \"scrapingIdentifierCell\": \"C8\", \"scrapingDataStartCell\": \"C9\", \"units\": \"Porcentaje\", \"dataset_identifier\": \"304\", \"distribution_identifier\": \"304.1\"}, {\"title\": \"lebac_interna_pesos_2017_1_18\", \"type\": \"number\", \"description\": \"Tasa de interes interna de lebac seg\\u00fan fecha de corte 2017-01-18\", \"id\": \"304.1_LEBAQ_INTE_18_0_0_29\", \"scrapingIdentifierCell\": \"D8\", \"scrapingDataStartCell\": \"D9\", \"units\": \"Porcentaje\", \"dataset_identifier\": \"304\", \"distribution_identifier\": \"304.1\"}, {\"title\": \"lebac_interna_pesos_2017_1_25\", \"type\": \"number\", \"description\": \"Tasa de interes interna de lebac seg\\u00fan fecha de corte 2017-01-25\", \"id\": \"304.1_LEBAQ_INTE_25_0_0_29\", \"scrapingIdentifierCell\": \"E8\", \"scrapingDataStartCell\": \"E9\", \"units\": \"Porcentaje\", \"dataset_identifier\": \"304\", \"distribution_identifier\": \"304.1\"}, {\"title\": \"lebac_interna_pesos_2017_2_1\", \"type\": \"number\", \"description\": \"Tasa de interes interna de lebac seg\\u00fan fecha de corte 2017-02-01\", \"id\": \"304.1_LEBAQ_INTE2_1_0_0_28\", \"scrapingIdentifierCell\": \"F8\", \"scrapingDataStartCell\": \"F9\", \"units\": \"Porcentaje\", \"dataset_identifier\": \"304\", \"distribution_identifier\": \"304.1\"}, {\"title\": \"lebac_interna_pesos_2017_2_8\", \"type\": \"number\", \"description\": \"Tasa de interes interna de lebac seg\\u00fan fecha de corte 2017-02-08\", \"id\": \"304.1_LEBAQ_INTE2_8_0_0_28\", \"scrapingIdentifierCell\": \"G8\", \"scrapingDataStartCell\": \"G9\", \"units\": \"Porcentaje\", \"dataset_identifier\": \"304\", \"distribution_identifier\": \"304.1\"}, {\"title\": \"lebac_interna_pesos_2017_2_15\", \"type\": \"number\", \"description\": \"Tasa de interes interna de lebac seg\\u00fan fecha de corte 2017-02-15\", \"id\": \"304.1_LEBAQ_INTE_15_0_0_29\", \"scrapingIdentifierCell\": \"H8\", \"scrapingDataStartCell\": \"H9\", \"units\": \"Porcentaje\", \"dataset_identifier\": \"304\", \"distribution_identifier\": \"304.1\"}, {\"title\": \"lebac_interna_pesos_2017_2_22\", \"type\": \"number\", \"description\": \"Tasa de interes interna de lebac seg\\u00fan fecha de corte 2017-02-22\", \"id\": \"304.1_LEBAQ_INTE_22_0_0_29\", \"scrapingIdentifierCell\": \"I8\", \"scrapingDataStartCell\": \"I9\", \"units\": \"Porcentaje\", \"dataset_identifier\": \"304\", \"distribution_identifier\": \"304.1\"}, {\"title\": \"lebac_interna_pesos_2017_3_1\", \"type\": \"number\", \"description\": \"Tasa de interes interna de lebac seg\\u00fan fecha de corte 2017-03-01\", \"id\": \"304.1_LEBAQ_INTE3_1_0_0_28\", \"scrapingIdentifierCell\": \"J8\", \"scrapingDataStartCell\": \"J9\", \"units\": \"Porcentaje\", \"dataset_identifier\": \"304\", \"distribution_identifier\": \"304.1\"}, {\"title\": \"lebac_interna_pesos_2017_3_8\", \"type\": \"number\", \"description\": \"Tasa de interes interna de lebac seg\\u00fan fecha de corte 2017-03-08\", \"id\": \"304.1_LEBAQ_INTE3_8_0_0_28\", \"scrapingIdentifierCell\": \"K8\", \"scrapingDataStartCell\": \"K9\", \"units\": \"Porcentaje\", \"dataset_identifier\": \"304\", \"distribution_identifier\": \"304.1\"}, {\"title\": \"lebac_interna_pesos_2017_3_15\", \"type\": \"number\", \"description\": \"Tasa de interes interna de lebac seg\\u00fan fecha de corte 2017-03-15\", \"id\": \"304.1_LEBAQ_INTE_15_II_0_0_29\", \"scrapingIdentifierCell\": \"L8\", \"scrapingDataStartCell\": \"L9\", \"units\": \"Porcentaje\", \"dataset_identifier\": \"304\", \"distribution_identifier\": \"304.1\"}, {\"title\": \"lebac_interna_pesos_2017_3_22\", \"type\": \"number\", \"description\": \"Tasa de interes interna de lebac seg\\u00fan fecha de corte 2017-03-22\", \"id\": \"304.1_LEBAQ_INTE_22_II_0_0_29\", \"scrapingIdentifierCell\": \"M8\", \"scrapingDataStartCell\": \"M9\", \"units\": \"Porcentaje\", \"dataset_identifier\": \"304\", \"distribution_identifier\": \"304.1\"}, {\"title\": \"lebac_interna_pesos_2017_3_29\", \"type\": \"number\", \"description\": \"Tasa de interes interna de lebac seg\\u00fan fecha de corte 2017-03-29\", \"id\": \"304.1_LEBAQ_INTE_29_0_0_29\", \"scrapingIdentifierCell\": \"N8\", \"scrapingDataStartCell\": \"N9\", \"units\": \"Porcentaje\", \"dataset_identifier\": \"304\", \"distribution_identifier\": \"304.1\"}, {\"title\": \"lebac_interna_pesos_2017_4_5\", \"type\": \"number\", \"description\": \"Tasa de interes interna de lebac seg\\u00fan fecha de corte 2017-04-05\", \"id\": \"304.1_LEBAQ_INTE4_5_0_0_28\", \"scrapingIdentifierCell\": \"O8\", \"scrapingDataStartCell\": \"O9\", \"units\": \"Porcentaje\", \"dataset_identifier\": \"304\", \"distribution_identifier\": \"304.1\"}, {\"title\": \"lebac_interna_pesos_2017_4_12\", \"type\": \"number\", \"description\": \"Tasa de interes interna de lebac seg\\u00fan fecha de corte 2017-04-12\", \"id\": \"304.1_LEBAQ_INTE_12_0_0_29\", \"scrapingIdentifierCell\": \"P8\", \"scrapingDataStartCell\": \"P9\", \"units\": \"Porcentaje\", \"dataset_identifier\": \"304\", \"distribution_identifier\": \"304.1\"}, {\"title\": \"lebac_interna_pesos_2017_4_19\", \"type\": \"number\", \"description\": \"Tasa de interes interna de lebac seg\\u00fan fecha de corte 2017-04-19\", \"id\": \"304.1_LEBAQ_INTE_19_0_0_29\", \"scrapingIdentifierCell\": \"Q8\", \"scrapingDataStartCell\": \"Q9\", \"units\": \"Porcentaje\", \"dataset_identifier\": \"304\", \"distribution_identifier\": \"304.1\"}, {\"title\": \"lebac_interna_pesos_2017_4_26\", \"type\": \"number\", \"description\": \"Tasa de interes interna de lebac seg\\u00fan fecha de corte 2017-04-26\", \"id\": \"304.1_LEBAQ_INTE_26_0_0_29\", \"scrapingIdentifierCell\": \"R8\", \"scrapingDataStartCell\": \"R9\", \"units\": \"Porcentaje\", \"dataset_identifier\": \"304\", \"distribution_identifier\": \"304.1\"}, {\"title\": \"lebac_interna_pesos_2017_5_3\", \"type\": \"number\", \"description\": \"Tasa de interes interna de lebac seg\\u00fan fecha de corte 2017-05-03\", \"id\": \"304.1_LEBAQ_INTE5_3_0_0_28\", \"scrapingIdentifierCell\": \"S8\", \"scrapingDataStartCell\": \"S9\", \"units\": \"Porcentaje\", \"dataset_identifier\": \"304\", \"distribution_identifier\": \"304.1\"}, {\"title\": \"lebac_interna_pesos_2017_5_10\", \"type\": \"number\", \"description\": \"Tasa de interes interna de lebac seg\\u00fan fecha de corte 2017-05-10\", \"id\": \"304.1_LEBAQ_INTE_10_0_0_29\", \"scrapingIdentifierCell\": \"T8\", \"scrapingDataStartCell\": \"T9\", \"units\": \"Porcentaje\", \"dataset_identifier\": \"304\", \"distribution_identifier\": \"304.1\"}, {\"title\": \"lebac_interna_pesos_2017_5_17\", \"type\": \"number\", \"description\": \"Tasa de interes interna de lebac seg\\u00fan fecha de corte 2017-05-17\", \"id\": \"304.1_LEBAQ_INTE_17_0_0_29\", \"scrapingIdentifierCell\": \"U8\", \"scrapingDataStartCell\": \"U9\", \"units\": \"Porcentaje\", \"dataset_identifier\": \"304\", \"distribution_identifier\": \"304.1\"}, {\"title\": \"lebac_interna_pesos_2017_5_24\", \"type\": \"number\", \"description\": \"Tasa de interes interna de lebac seg\\u00fan fecha de corte 2017-05-24\", \"id\": \"304.1_LEBAQ_INTE_24_0_0_29\", \"scrapingIdentifierCell\": \"V8\", \"scrapingDataStartCell\": \"V9\", \"units\": \"Porcentaje\", \"dataset_identifier\": \"304\", \"distribution_identifier\": \"304.1\"}, {\"title\": \"lebac_interna_pesos_2017_5_31\", \"type\": \"number\", \"description\": \"Tasa de interes interna de lebac seg\\u00fan fecha de corte 2017-05-31\", \"id\": \"304.1_LEBAQ_INTE_31_0_0_29\", \"scrapingIdentifierCell\": \"W8\", \"scrapingDataStartCell\": \"W9\", \"units\": \"Porcentaje\", \"dataset_identifier\": \"304\", \"distribution_identifier\": \"304.1\"}, {\"title\": \"lebac_interna_pesos_2017_6_7\", \"type\": \"number\", \"description\": \"Tasa de interes interna de lebac seg\\u00fan fecha de corte 2017-06-07\", \"id\": \"304.1_LEBAQ_INTE6_7_0_0_28\", \"scrapingIdentifierCell\": \"X8\", \"scrapingDataStartCell\": \"X9\", \"units\": \"Porcentaje\", \"dataset_identifier\": \"304\", \"distribution_identifier\": \"304.1\"}, {\"title\": \"lebac_interna_pesos_2017_6_21\", \"type\": \"number\", \"description\": \"Tasa de interes interna de lebac seg\\u00fan fecha de corte 2017-06-21\", \"id\": \"304.1_LEBAQ_INTE_21_0_0_29\", \"scrapingIdentifierCell\": \"Y8\", \"scrapingDataStartCell\": \"Y9\", \"units\": \"Porcentaje\", \"dataset_identifier\": \"304\", \"distribution_identifier\": \"304.1\"}, {\"title\": \"lebac_interna_pesos_2017_7_19\", \"type\": \"number\", \"description\": \"Tasa de interes interna de lebac seg\\u00fan fecha de corte 2017-06-19\", \"id\": \"304.1_LEBAQ_INTE_19_II_0_0_29\", \"scrapingIdentifierCell\": \"Z8\", \"scrapingDataStartCell\": \"Z9\", \"units\": \"Porcentaje\", \"dataset_identifier\": \"304\", \"distribution_identifier\": \"304.1\"}, {\"title\": \"lebac_interna_pesos_2017_8_16\", \"type\": \"number\", \"description\": \"Tasa de interes interna de lebac seg\\u00fan fecha de corte 2017-08-16\", \"id\": \"304.1_LEBAQ_INTE_16_0_0_29\", \"scrapingIdentifierCell\": \"AA8\", \"scrapingDataStartCell\": \"AA9\", \"units\": \"Porcentaje\", \"dataset_identifier\": \"304\", \"distribution_identifier\": \"304.1\"}, {\"title\": \"lebac_interna_pesos_2017_9_20\", \"type\": \"number\", \"description\": \"Tasa de interes interna de lebac seg\\u00fan fecha de corte 2017-09-20\", \"id\": \"304.1_LEBAQ_INTE_20_0_0_29\", \"scrapingIdentifierCell\": \"AB8\", \"scrapingDataStartCell\": \"AB9\", \"units\": \"Porcentaje\", \"dataset_identifier\": \"304\", \"distribution_identifier\": \"304.1\"}, {\"title\": \"lebac_interna_pesos_2017_10_18\", \"type\": \"number\", \"description\": \"Tasa de interes interna de lebac seg\\u00fan fecha de corte 2017-10-18\", \"id\": \"304.1_LEBAQ_INTE_18_0_0_30\", \"scrapingIdentifierCell\": \"AC8\", \"scrapingDataStartCell\": \"AC9\", \"units\": \"Porcentaje\", \"dataset_identifier\": \"304\", \"distribution_identifier\": \"304.1\"}, {\"title\": \"lebac_interna_pesos_2017_11_15\", \"type\": \"number\", \"description\": \"Tasa de interes interna de lebac seg\\u00fan fecha de corte 2017-12-15\", \"id\": \"304.1_LEBAQ_INTE_15_0_0_30\", \"scrapingIdentifierCell\": \"AD8\", \"scrapingDataStartCell\": \"AD9\", \"units\": \"Porcentaje\", \"dataset_identifier\": \"304\", \"distribution_identifier\": \"304.1\"}, {\"title\": \"lebac_interna_pesos_2017_12_20\", \"type\": \"number\", \"description\": \"Tasa de interes interna de lebac seg\\u00fan fecha de corte 2017-12-20\", \"id\": \"304.1_LEBAQ_INTE_20_0_0_30\", \"scrapingIdentifierCell\": \"AE8\", \"scrapingDataStartCell\": \"AE9\", \"units\": \"Porcentaje\", \"dataset_identifier\": \"304\", \"distribution_identifier\": \"304.1\"}, {\"title\": \"lebac_interna_pesos_2018_1_17\", \"type\": \"number\", \"description\": \"Tasa de interes interna de lebac seg\\u00fan fecha de corte 2018-01-17\", \"id\": \"304.1_LEBAQ_INTE_17_II_0_0_29\", \"scrapingIdentifierCell\": \"AF8\", \"scrapingDataStartCell\": \"AF9\", \"units\": \"Porcentaje\", \"dataset_identifier\": \"304\", \"distribution_identifier\": \"304.1\"}, {\"title\": \"lebac_interna_pesos_2018_2_21\", \"type\": \"number\", \"description\": \"Tasa de interes interna de lebac seg\\u00fan fecha de corte 2018-01-21\", \"id\": \"304.1_LEBAQ_INTE_21_II_0_0_29\", \"scrapingIdentifierCell\": \"AG8\", \"scrapingDataStartCell\": \"AG9\", \"units\": \"Porcentaje\", \"dataset_identifier\": \"304\", \"distribution_identifier\": \"304.1\"}, {\"title\": \"lebac_interna_pesos_2018_3_21\", \"type\": \"number\", \"description\": \"Tasa de interes interna de lebac seg\\u00fan fecha de corte 2018-03-21\", \"id\": \"304.1_LEBAQ_INTE_21_III_0_0_29\", \"scrapingIdentifierCell\": \"AH8\", \"scrapingDataStartCell\": \"AH9\", \"units\": \"Porcentaje\", \"dataset_identifier\": \"304\", \"distribution_identifier\": \"304.1\"}, {\"title\": \"lebac_interna_pesos_2018_4_18\", \"type\": \"number\", \"description\": \"Tasa de interes interna de lebac seg\\u00fan fecha de corte 2018-04-18\", \"id\": \"304.1_LEBAQ_INTE_18_II_0_0_29\", \"scrapingIdentifierCell\": \"AI8\", \"scrapingDataStartCell\": \"AI9\", \"units\": \"Porcentaje\", \"dataset_identifier\": \"304\", \"distribution_identifier\": \"304.1\"}, {\"title\": \"lebac_interna_pesos_2018_5_15\", \"type\": \"number\", \"description\": \"Tasa de interes interna de lebac seg\\u00fan fecha de corte 2018-05-15\", \"id\": \"304.1_LEBAQ_INTE_15_III_0_0_29\", \"scrapingIdentifierCell\": \"AJ8\", \"scrapingDataStartCell\": \"AJ9\", \"units\": \"Porcentaje\", \"dataset_identifier\": \"304\", \"distribution_identifier\": \"304.1\"}, {\"title\": \"lebac_interna_pesos_2018_6_21\", \"type\": \"number\", \"description\": \"Tasa de interes interna de lebac seg\\u00fan fecha de corte 2018-06-21\", \"id\": \"304.1_LEBAQ_INTE_21_IIII_0_0_29\", \"scrapingIdentifierCell\": \"AK8\", \"scrapingDataStartCell\": \"AK9\", \"units\": \"Porcentaje\", \"dataset_identifier\": \"304\", \"distribution_identifier\": \"304.1\"}, {\"title\": \"lebac_interna_pesos_2018_7_18\", \"type\": \"number\", \"description\": \"Tasa de interes interna de lebac seg\\u00fan fecha de corte 2018-07-18\", \"id\": \"304.1_LEBAQ_INTE_21_IIII_0_0_29_23\", \"scrapingIdentifierCell\": \"AL8\", \"scrapingDataStartCell\": \"AL9\", \"units\": \"Porcentaje\", \"dataset_identifier\": \"304\", \"distribution_identifier\": \"304.1\"}, {\"title\": \"lebac_interna_pesos_2018_8_15\", \"type\": \"number\", \"description\": \"Tasa de interes interna de lebac seg\\u00fan fecha de corte 2018-08-15\", \"id\": \"304.1_LEBAQ_INTE_21_IIII_0_0_29_74\", \"scrapingIdentifierCell\": \"AM8\", \"scrapingDataStartCell\": \"AM9\", \"units\": \"Porcentaje\", \"dataset_identifier\": \"304\", \"distribution_identifier\": \"304.1\"}, {\"title\": \"lebac_interna_pesos_2018_9_21\", \"type\": \"number\", \"description\": \"Tasa de interes interna de lebac seg\\u00fan fecha de corte 2018-09-21\", \"id\": \"304.1_LEBAQ_INTE_21_IIII_0_0_29_95\", \"scrapingIdentifierCell\": \"AN8\", \"scrapingDataStartCell\": \"AN9\", \"units\": \"Porcentaje\", \"dataset_identifier\": \"304\", \"distribution_identifier\": \"304.1\"}, {\"title\": \"lebac_interna_pesos_2018_10_17\", \"type\": \"number\", \"description\": \"Tasa de interes interna de lebac seg\\u00fan fecha de corte 2018-10-17\", \"id\": \"304.1_LEBAQ_INTE_21_IIII_0_0_30_29\", \"scrapingIdentifierCell\": \"AO8\", \"scrapingDataStartCell\": \"AO9\", \"units\": \"Porcentaje\", \"dataset_identifier\": \"304\", \"distribution_identifier\": \"304.1\"}, {\"title\": \"lebac_interna_pesos_2018_10_21\", \"type\": \"number\", \"description\": \"Tasa de interes interna de lebac seg\\u00fan fecha de corte 2018-10-21\", \"id\": \"304.1_LEBAQ_INTE_21_IIII_0_0_30_12\", \"scrapingIdentifierCell\": \"AP8\", \"scrapingDataStartCell\": \"AP9\", \"units\": \"Porcentaje\", \"dataset_identifier\": \"304\", \"distribution_identifier\": \"304.1\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-10-17T00:00:00",
+      "datastore_active": false,
+      "description": "Datos de tasas de interes de lebaq interna en pesos según fecha de corte",
+      "fileName": "lebaq-tasas-interes.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "sspm_304.1",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Lebac mercado secundario. Tasa de interés en % n.a.",
+      "package_id": "sspm_304",
+      "position": 0,
+      "resource_type": null,
+      "revision_id": "b066dcd4-9b9a-4c83-ae70-5d5853541c7f",
+      "size": null,
+      "state": "active",
+      "url": "https://infra.datos.gob.ar/catalog/sspm/dataset/304/distribution/304.1/download/lebaq-tasas-interes.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "b066dcd4-9b9a-4c83-ae70-5d5853541c7f",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "Dinero y Bancos",
+      "id": "a6e04960-0d58-4c4e-a59c-a2e2ef9ac579",
+      "name": "Dinero y Bancos",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Finanzas",
+      "id": "5deaadee-1aa5-47c7-94f2-e1f79a948ba6",
+      "name": "Finanzas",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Información económica al día",
+      "id": "a277ffeb-6252-446e-a364-14710b257b35",
+      "name": "Información económica al día",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Lebac mercado secundario",
+  "type": "dataset",
+  "url": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/",
+  "version": null
+}

@@ -1,0 +1,131 @@
+{
+  "author": "Subsecretaría de Programación Macroeconómica",
+  "author_email": "datoseconomicos@mecon.gov.ar",
+  "creator_user_id": "4720e75a-9e17-4dc3-879d-041917c7f9f9",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P1M"
+    },
+    {
+      "key": "issued",
+      "value": "2017-09-28"
+    },
+    {
+      "key": "language",
+      "value": "[\"SPA\"]"
+    },
+    {
+      "key": "source",
+      "value": "Instituto Argentino de Mercado de Capitales (IAMC)"
+    },
+    {
+      "key": "spatial",
+      "value": "ARG"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"ECON\"]"
+    },
+    {
+      "key": "temporal",
+      "value": "2007-01-01/2017-07-01"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Economía y finanzas",
+      "display_name": "Economía y finanzas",
+      "id": "60b4b03e-10a1-4d67-b984-08008a249617",
+      "image_display_url": "http://datos.gob.ar/uploads/group/2019-12-04-225257.200233economia-finanzas.svg",
+      "name": "econ",
+      "title": "Economía y finanzas"
+    }
+  ],
+  "id": "sspm_170",
+  "isopen": true,
+  "license_id": "CC-BY-4.0",
+  "license_title": "Creative Commons Attribution 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "maintainer": "Subsecretaría de Programación Macroeconómica.",
+  "maintainer_email": "datoseconomicos@mecon.gov.ar",
+  "metadata_created": "2019-11-26T15:05:48.973049",
+  "metadata_modified": "2020-08-14T13:05:57.860971",
+  "name": "sspm-financiamiento-privado-mercado-capitales",
+  "notes": "Financiamiento Privado en Mercado de Capitales, en dólares.",
+  "num_resources": 1,
+  "num_tags": 3,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:09.718132",
+    "description": "",
+    "id": "68f9ee22-5ec3-44cf-a32b-b87d9db46b93",
+    "image_url": "",
+    "is_organization": true,
+    "name": "sspm",
+    "revision_id": "bc058ce0-3540-4204-96cd-9f9ec79045b3",
+    "state": "active",
+    "title": "Subsecretaría de Programación Macroeconómica",
+    "type": "organization"
+  },
+  "owner_org": "68f9ee22-5ec3-44cf-a32b-b87d9db46b93",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/",
+      "attributesDescription": "[{\"title\": \"indice_tiempo\", \"type\": \"date\", \"specialType\": \"time_index\", \"specialTypeDetail\": \"R/P1M\", \"id\": \"170.1_ICE_TIEMPO_0_0_13\", \"scrapingIdentifierCell\": \"A10\", \"scrapingDataStartCell\": \"A11\", \"dataset_identifier\": \"170\", \"distribution_identifier\": \"170.1\"}, {\"title\": \"financiamiento_mercado_capitales_ge_on_vcp\", \"type\": \"number\", \"description\": \"Monto emitido por grandes empresas de Obligaciones Negociables y Valores de Corto Plazo (ON/VCP). Mensual.\", \"id\": \"170.1_FNCIAMIVCP_0_0_42\", \"scrapingIdentifierCell\": \"B10\", \"scrapingDataStartCell\": \"B11\", \"units\": \"D\\u00f3lares\", \"dataset_identifier\": \"170\", \"distribution_identifier\": \"170.1\"}, {\"title\": \"financiamiento_mercado_capitales_ge_ff\", \"type\": \"number\", \"description\": \"Monto emitido por grandes empresas de Fideicomisos Financieros (FF). Mensual.\", \"id\": \"170.1_FNCIAMI_FF_0_0_38\", \"scrapingIdentifierCell\": \"C10\", \"scrapingDataStartCell\": \"C11\", \"units\": \"D\\u00f3lares\", \"dataset_identifier\": \"170\", \"distribution_identifier\": \"170.1\"}, {\"title\": \"financiamiento_mercado_capitales_ge_acciones\", \"type\": \"number\", \"description\": \"Monto emitido por grandes empresas de Acciones. Mensual.\", \"id\": \"170.1_FNCIAMINES_0_0_44\", \"scrapingIdentifierCell\": \"D10\", \"scrapingDataStartCell\": \"D11\", \"units\": \"D\\u00f3lares\", \"dataset_identifier\": \"170\", \"distribution_identifier\": \"170.1\"}, {\"title\": \"financiamiento_mercado_capitales_ge_cdcp\", \"type\": \"number\", \"description\": \"Monto emitido por grandes empresas de Cheques de Pago Diferido (CPDP). Mensual.\", \"id\": \"170.1_FNCIAMIDCP_0_0_40\", \"scrapingIdentifierCell\": \"E10\", \"scrapingDataStartCell\": \"E11\", \"units\": \"D\\u00f3lares\", \"dataset_identifier\": \"170\", \"distribution_identifier\": \"170.1\"}, {\"title\": \"financiamiento_mercado_capitales_ge_total\", \"type\": \"number\", \"description\": \"Monto total emitido por grandes empresas. Mensual.\", \"id\": \"170.1_FNCIAMITAL_0_0_41\", \"scrapingIdentifierCell\": \"G10\", \"scrapingDataStartCell\": \"G11\", \"units\": \"D\\u00f3lares\", \"dataset_identifier\": \"170\", \"distribution_identifier\": \"170.1\"}, {\"title\": \"financiamiento_mercado_capitales_pymes_on_vcp\", \"type\": \"number\", \"description\": \"Monto emitido por PyMEs de Obligaciones Negociables y Valores a Corto Plazo (ON/VCP). Mensual.\", \"id\": \"170.1_FNCIAMIVCP_0_0_45\", \"scrapingIdentifierCell\": \"H10\", \"scrapingDataStartCell\": \"H11\", \"units\": \"D\\u00f3lares\", \"dataset_identifier\": \"170\", \"distribution_identifier\": \"170.1\"}, {\"title\": \"financiamiento_mercado_capitales_pymes_ff\", \"type\": \"number\", \"description\": \"Monto emitido por PyMEs de Fideicomisos Financieros (FF). Mensual.\", \"id\": \"170.1_FNCIAMI_FF_0_0_41\", \"scrapingIdentifierCell\": \"I10\", \"scrapingDataStartCell\": \"I11\", \"units\": \"D\\u00f3lares\", \"dataset_identifier\": \"170\", \"distribution_identifier\": \"170.1\"}, {\"title\": \"financiamiento_mercado_capitales_pymes_cdcp\", \"type\": \"number\", \"description\": \"Monto emitido por PyMEs de Cheques de Pago Diferido (CPDA). Mensual.\", \"id\": \"170.1_FNCIAMIDCP_0_0_43\", \"scrapingIdentifierCell\": \"K10\", \"scrapingDataStartCell\": \"K11\", \"units\": \"D\\u00f3lares\", \"dataset_identifier\": \"170\", \"distribution_identifier\": \"170.1\"}, {\"title\": \"financiamiento_mercado_capitales_pymes_pagares\", \"type\": \"number\", \"description\": \"Monto emitido por PyMEs de Cheques de Pagar\\u00e9s. Mensual.\", \"id\": \"170.1_FNCIAMIRES_0_0_46\", \"scrapingIdentifierCell\": \"L10\", \"scrapingDataStartCell\": \"L11\", \"units\": \"D\\u00f3lares\", \"dataset_identifier\": \"170\", \"distribution_identifier\": \"170.1\"}, {\"title\": \"financiamiento_mercado_capitales_pymes_total\", \"type\": \"number\", \"description\": \"Monto total emitido por PyMEs. Mensual.\", \"id\": \"170.1_FNCIAMITAL_0_0_44\", \"scrapingIdentifierCell\": \"M10\", \"scrapingDataStartCell\": \"M11\", \"units\": \"D\\u00f3lares\", \"dataset_identifier\": \"170\", \"distribution_identifier\": \"170.1\"}, {\"title\": \"financiamiento_mercado_capitales_total_general\", \"type\": \"number\", \"description\": \"Monto total general emitido. Mensual.\", \"id\": \"170.1_FNCIAMIRAL_0_0_46\", \"scrapingIdentifierCell\": \"N10\", \"scrapingDataStartCell\": \"N11\", \"units\": \"D\\u00f3lares\", \"dataset_identifier\": \"170\", \"distribution_identifier\": \"170.1\"}, {\"title\": \"tasa_interes_vdf_senior\", \"type\": \"number\", \"description\": \"Tasa de inter\\u00e9s nominal anual de Valores Representativos de Deuda Fiduciaria\", \"id\": \"170.1_T_INTERIOR_0_0_23\", \"scrapingIdentifierCell\": \"O10\", \"scrapingDataStartCell\": \"O11\", \"units\": \"Porcentaje\", \"dataset_identifier\": \"170\", \"distribution_identifier\": \"170.1\"}, {\"title\": \"tasa_interes_cpdp\", \"type\": \"number\", \"description\": \"Tasa de inter\\u00e9s nominal anual de Cheques de Pago Diferido Patrocinados (CPDP)\", \"id\": \"170.1_T_INTERPDP_0_0_17\", \"scrapingIdentifierCell\": \"P10\", \"scrapingDataStartCell\": \"P11\", \"units\": \"Porcentaje\", \"dataset_identifier\": \"170\", \"distribution_identifier\": \"170.1\"}, {\"title\": \"tasa_interes_cpda\", \"type\": \"number\", \"description\": \"Tasa de inter\\u00e9s nominal anual de Cheques de Pago Diferido Avalados (CPDA)\", \"id\": \"170.1_T_INTERPDA_0_0_17\", \"scrapingIdentifierCell\": \"Q10\", \"scrapingDataStartCell\": \"Q11\", \"units\": \"Porcentaje\", \"dataset_identifier\": \"170\", \"distribution_identifier\": \"170.1\"}, {\"title\": \"emisiones_ge_on\", \"type\": \"number\", \"description\": \"Cantidad de emisiones de grandes empresas de Obligaciones Negociables y Valores a Corto Plazo (ON/VCP). Cantidades mensuales.\", \"id\": \"170.1_EIONES_ON_0_0_15\", \"scrapingIdentifierCell\": \"R10\", \"scrapingDataStartCell\": \"R11\", \"units\": \"Unidades\", \"dataset_identifier\": \"170\", \"distribution_identifier\": \"170.1\"}, {\"title\": \"emisiones_ge_ff\", \"type\": \"number\", \"description\": \"Cantidad de emisiones de grandes empresas de Fideicomisos Financieros (FF). Cantidades mensuales.\", \"id\": \"170.1_EIONES_FF_0_0_15\", \"scrapingIdentifierCell\": \"S10\", \"scrapingDataStartCell\": \"S11\", \"units\": \"Unidades\", \"dataset_identifier\": \"170\", \"distribution_identifier\": \"170.1\"}, {\"title\": \"emisiones_ge_acc\", \"type\": \"number\", \"description\": \"Cantidad de emisiones de grandes empresas de acciones. Cantidades mensuales.\", \"id\": \"170.1_EIONES_ACC_0_0_16\", \"scrapingIdentifierCell\": \"T10\", \"scrapingDataStartCell\": \"T11\", \"units\": \"Unidades\", \"dataset_identifier\": \"170\", \"distribution_identifier\": \"170.1\"}, {\"title\": \"emisiones_ge_cpd\", \"type\": \"number\", \"description\": \"Cantidad de emisiones de grandes empresas de Cheques de Pago Diferido. Cantidades mensuales.\", \"id\": \"170.1_EIONES_CPD_0_0_16\", \"scrapingIdentifierCell\": \"U10\", \"scrapingDataStartCell\": \"U11\", \"units\": \"Unidades\", \"dataset_identifier\": \"170\", \"distribution_identifier\": \"170.1\"}, {\"title\": \"emisiones_ge_total\", \"type\": \"number\", \"description\": \"Cantidad total de emisiones de grandes empresas. Mensual\", \"id\": \"170.1_EIONES_TAL_0_0_18\", \"scrapingIdentifierCell\": \"W10\", \"scrapingDataStartCell\": \"W11\", \"units\": \"Unidades\", \"dataset_identifier\": \"170\", \"distribution_identifier\": \"170.1\"}, {\"title\": \"emisiones_pymes_on\", \"type\": \"number\", \"description\": \"Cantidad de emisiones de PyMEs de Obligaciones Negociables y Valores a Corto Plazo (ON/VCP). Cantidades mensuales.\", \"id\": \"170.1_EIONES_ON_0_0_18\", \"scrapingIdentifierCell\": \"X10\", \"scrapingDataStartCell\": \"X11\", \"units\": \"Unidades\", \"dataset_identifier\": \"170\", \"distribution_identifier\": \"170.1\"}, {\"title\": \"emisiones_pymes_ff\", \"type\": \"number\", \"description\": \"Cantidad de emisiones de PyMEs de Fideicomisos Financieros (FF). Cantidades mensuales.\", \"id\": \"170.1_EIONES_FF_0_0_18\", \"scrapingIdentifierCell\": \"Y10\", \"scrapingDataStartCell\": \"Y11\", \"units\": \"Unidades\", \"dataset_identifier\": \"170\", \"distribution_identifier\": \"170.1\"}, {\"title\": \"emisiones_pymes_acc\", \"type\": \"number\", \"description\": \"Cantidad de emisiones de PyMEs de acciones. Cantidades mensuales.\", \"id\": \"170.1_EIONES_ACC_0_0_19\", \"scrapingIdentifierCell\": \"Z10\", \"scrapingDataStartCell\": \"Z11\", \"units\": \"Unidades\", \"dataset_identifier\": \"170\", \"distribution_identifier\": \"170.1\"}, {\"title\": \"emisiones_pymes_cpd\", \"type\": \"number\", \"description\": \"Cantidad de emisiones de PyMEs de Cheques de Pago Diferido. Cantidades mensuales.\", \"id\": \"170.1_EIONES_CPD_0_0_19\", \"scrapingIdentifierCell\": \"AA10\", \"scrapingDataStartCell\": \"AA11\", \"units\": \"Unidades\", \"dataset_identifier\": \"170\", \"distribution_identifier\": \"170.1\"}, {\"title\": \"emisiones_pymes_pag\", \"type\": \"number\", \"description\": \"Cantidad de emisiones de PyMEs de pagar\\u00e9s. Cantidades mensuales.\", \"id\": \"170.1_EIONES_PAG_0_0_19\", \"scrapingIdentifierCell\": \"AB10\", \"scrapingDataStartCell\": \"AB11\", \"units\": \"Unidades\", \"dataset_identifier\": \"170\", \"distribution_identifier\": \"170.1\"}, {\"title\": \"emisiones_pymes_total\", \"type\": \"number\", \"description\": \"Cantidad total de emisiones de PyMEs. Cantidades mensuales\", \"id\": \"170.1_EIONES_TAL_0_0_21\", \"scrapingIdentifierCell\": \"AC10\", \"scrapingDataStartCell\": \"AC11\", \"units\": \"Unidades\", \"dataset_identifier\": \"170\", \"distribution_identifier\": \"170.1\"}, {\"title\": \"emisiones_totales_ge_pymes\", \"type\": \"number\", \"description\": \"Cantidad total de emisiones. Cantidades mensuales\", \"id\": \"170.1_EIONES_MES_0_0_26\", \"scrapingIdentifierCell\": \"AD10\", \"scrapingDataStartCell\": \"AD11\", \"units\": \"Unidades\", \"dataset_identifier\": \"170\", \"distribution_identifier\": \"170.1\"}, {\"title\": \"eff_agropecuarios\", \"type\": \"number\", \"description\": \"Emisi\\u00f3n de Fideicomisos Financieros Agropecuarios como % del total.\", \"id\": \"170.1_EAGROPEIOS_0_0_17\", \"scrapingIdentifierCell\": \"AE10\", \"scrapingDataStartCell\": \"AE11\", \"units\": \"Porcentaje\", \"dataset_identifier\": \"170\", \"distribution_identifier\": \"170.1\"}, {\"title\": \"eff_estructurados\", \"type\": \"number\", \"description\": \"Emisi\\u00f3n de Fideicomisos Estructurados como % del total.\", \"id\": \"170.1_EESTRUCDOS_0_0_17\", \"scrapingIdentifierCell\": \"AF10\", \"scrapingDataStartCell\": \"AF11\", \"units\": \"Porcentaje\", \"dataset_identifier\": \"170\", \"distribution_identifier\": \"170.1\"}, {\"title\": \"eff_creditos_comerciales\", \"type\": \"number\", \"description\": \"Emisi\\u00f3n de Fideicomisos por Cr\\u00e9ditos Comerciales como % del total.\", \"id\": \"170.1_ECREDITLES_0_0_24\", \"scrapingIdentifierCell\": \"AG10\", \"scrapingDataStartCell\": \"AG11\", \"units\": \"Porcentaje\", \"dataset_identifier\": \"170\", \"distribution_identifier\": \"170.1\"}, {\"title\": \"eff_flujos_futuros\", \"type\": \"number\", \"description\": \"Emisi\\u00f3n de Fideicomisos por Flujos Futuros como % del total.\", \"id\": \"170.1_EFLUJOSROS_0_0_18\", \"scrapingIdentifierCell\": \"AH10\", \"scrapingDataStartCell\": \"AH11\", \"units\": \"Porcentaje\", \"dataset_identifier\": \"170\", \"distribution_identifier\": \"170.1\"}, {\"title\": \"eff_inmobiliario_hipotecario\", \"type\": \"number\", \"description\": \"Emisi\\u00f3n de Fideicomisos Inmobiliarios Hipotecarios como % del total.\", \"id\": \"170.1_EINMOBIRIO_0_0_28\", \"scrapingIdentifierCell\": \"AI10\", \"scrapingDataStartCell\": \"AI11\", \"units\": \"Porcentaje\", \"dataset_identifier\": \"170\", \"distribution_identifier\": \"170.1\"}, {\"title\": \"eff_leasing\", \"type\": \"number\", \"description\": \"Emisi\\u00f3n de Fideicomisos Financieros por Leasing como % del total.\", \"id\": \"170.1_ELEASINING_0_0_11\", \"scrapingIdentifierCell\": \"AJ10\", \"scrapingDataStartCell\": \"AJ11\", \"units\": \"Porcentaje\", \"dataset_identifier\": \"170\", \"distribution_identifier\": \"170.1\"}, {\"title\": \"eff_prendarios\", \"type\": \"number\", \"description\": \"Emisi\\u00f3n de Fideicomisos Financieros Prendarios como % del total.\", \"id\": \"170.1_EPRENDAIOS_0_0_14\", \"scrapingIdentifierCell\": \"AK10\", \"scrapingDataStartCell\": \"AK11\", \"units\": \"Porcentaje\", \"dataset_identifier\": \"170\", \"distribution_identifier\": \"170.1\"}, {\"title\": \"eff_obras_publicas\", \"type\": \"number\", \"description\": \"Emisi\\u00f3n de Fideicomisos Financieros por Obras P\\u00fablicas como % del total.\", \"id\": \"170.1_EOBRAS_CAS_0_0_18\", \"scrapingIdentifierCell\": \"AL10\", \"scrapingDataStartCell\": \"AL11\", \"units\": \"Porcentaje\", \"dataset_identifier\": \"170\", \"distribution_identifier\": \"170.1\"}, {\"title\": \"eff_prestamos_personales_consumo\", \"type\": \"number\", \"description\": \"Emisi\\u00f3n de Fideicomisos Financieros por Pr\\u00e9stamos Personales y de Consumo como % del total.\", \"id\": \"170.1_EPRESTAUMO_0_0_32\", \"scrapingIdentifierCell\": \"AM10\", \"scrapingDataStartCell\": \"AM11\", \"units\": \"Porcentaje\", \"dataset_identifier\": \"170\", \"distribution_identifier\": \"170.1\"}, {\"title\": \"eff_tarjetas_credito\", \"type\": \"number\", \"description\": \"Emisi\\u00f3n de Fideicomisos Financieros por Tarjetas de Cr\\u00e9dito como % del total.\", \"id\": \"170.1_ETARJETITO_0_0_20\", \"scrapingIdentifierCell\": \"AN10\", \"scrapingDataStartCell\": \"AN11\", \"units\": \"Porcentaje\", \"dataset_identifier\": \"170\", \"distribution_identifier\": \"170.1\"}, {\"title\": \"eff_financiacion_exportaciones\", \"type\": \"number\", \"description\": \"Emisi\\u00f3n de Fideicomisos Financieros por Financiaci\\u00f3n de Exportaciones como % del total.\", \"id\": \"170.1_EFINANCNES_0_0_30\", \"scrapingIdentifierCell\": \"AO10\", \"scrapingDataStartCell\": \"AO11\", \"units\": \"Porcentaje\", \"dataset_identifier\": \"170\", \"distribution_identifier\": \"170.1\"}, {\"title\": \"act_financieras_seguros\", \"type\": \"number\", \"description\": \"Emisi\\u00f3n de obligaciones negociables de act financieras seguros\", \"id\": \"170.1_AFINANCOS_0_0_24\", \"scrapingIdentifierCell\": \"AP10\", \"scrapingDataStartCell\": \"AP11\", \"units\": \"Porcentaje\", \"dataset_identifier\": \"170\", \"distribution_identifier\": \"170.1\"}, {\"title\": \"actividades_inmobiliarias\", \"type\": \"number\", \"description\": \"Emisi\\u00f3n de obligaciones negociables de actividades\\n inmobiliarias\", \"id\": \"170.1_AVIDADEIAS_0_0_26\", \"scrapingIdentifierCell\": \"AQ10\", \"scrapingDataStartCell\": \"AQ11\", \"units\": \"Porcentaje\", \"dataset_identifier\": \"170\", \"distribution_identifier\": \"170.1\"}, {\"title\": \"agricultura_ganaderia\", \"type\": \"number\", \"description\": \"Emisi\\u00f3n de obligaciones negociables de agricultura ganaderia\", \"id\": \"170.1_ACULTURRIA_0_0_21\", \"scrapingIdentifierCell\": \"AR10\", \"scrapingDataStartCell\": \"AR11\", \"units\": \"Porcentaje\", \"dataset_identifier\": \"170\", \"distribution_identifier\": \"170.1\"}, {\"title\": \"alimentos_bebidas\", \"type\": \"number\", \"description\": \"Emisi\\u00f3n de obligaciones negociables de alimentos \\n bebidas\", \"id\": \"170.1_AENTOS_DAS_0_0_19\", \"scrapingIdentifierCell\": \"AS10\", \"scrapingDataStartCell\": \"AS11\", \"units\": \"Porcentaje\", \"dataset_identifier\": \"170\", \"distribution_identifier\": \"170.1\"}, {\"title\": \"bancos\", \"type\": \"number\", \"description\": \"Emisi\\u00f3n de obligaciones negociables de bancos\", \"id\": \"170.1_BOSCOS_0_0_6\", \"scrapingIdentifierCell\": \"AT10\", \"scrapingDataStartCell\": \"AT11\", \"units\": \"Porcentaje\", \"dataset_identifier\": \"170\", \"distribution_identifier\": \"170.1\"}, {\"title\": \"calzado_indumentaria\", \"type\": \"number\", \"description\": \"Emisi\\u00f3n de obligaciones negociables de calzado \\nindumentaria\", \"id\": \"170.1_CADO_IRIA_0_0_21\", \"scrapingIdentifierCell\": \"AU10\", \"scrapingDataStartCell\": \"AU11\", \"units\": \"Porcentaje\", \"dataset_identifier\": \"170\", \"distribution_identifier\": \"170.1\"}, {\"title\": \"comercio\", \"type\": \"number\", \"description\": \"Emisi\\u00f3n de obligaciones negociables de comercio\", \"id\": \"170.1_CRCIOCIO_0_0_8\", \"scrapingIdentifierCell\": \"AV10\", \"scrapingDataStartCell\": \"AV11\", \"units\": \"Porcentaje\", \"dataset_identifier\": \"170\", \"distribution_identifier\": \"170.1\"}, {\"title\": \"construccion\", \"type\": \"number\", \"description\": \"Emisi\\u00f3n de obligaciones negociables de construccion\", \"id\": \"170.1_CTRUCCIION_0_0_12\", \"scrapingIdentifierCell\": \"AW10\", \"scrapingDataStartCell\": \"AW11\", \"units\": \"Porcentaje\", \"dataset_identifier\": \"170\", \"distribution_identifier\": \"170.1\"}, {\"title\": \"distribucion_energia_electrica\", \"type\": \"number\", \"description\": \"Emisi\\u00f3n de obligaciones negociables de distribucion \\nenergia el\\u00e9ctrica\", \"id\": \"170.1_DRIBUCIICA_0_0_31\", \"scrapingIdentifierCell\": \"AX10\", \"scrapingDataStartCell\": \"AX11\", \"units\": \"Porcentaje\", \"dataset_identifier\": \"170\", \"distribution_identifier\": \"170.1\"}, {\"title\": \"distribucion_de_gas\", \"type\": \"number\", \"description\": \"Emisi\\u00f3n de obligaciones negociables de distribucion \\nde gas\", \"id\": \"170.1_DRIBUCIGAS_0_0_20\", \"scrapingIdentifierCell\": \"AY10\", \"scrapingDataStartCell\": \"AY11\", \"units\": \"Porcentaje\", \"dataset_identifier\": \"170\", \"distribution_identifier\": \"170.1\"}, {\"title\": \"editoriales_imprentas\", \"type\": \"number\", \"description\": \"Emisi\\u00f3n de obligaciones negociables de editoriales imprentas\", \"id\": \"170.1_EORIALETAS_0_0_21\", \"scrapingIdentifierCell\": \"AZ10\", \"scrapingDataStartCell\": \"AZ11\", \"units\": \"Porcentaje\", \"dataset_identifier\": \"170\", \"distribution_identifier\": \"170.1\"}, {\"title\": \"equipamiento_hogar\", \"type\": \"number\", \"description\": \"Emisi\\u00f3n de obligaciones negociables de equipamiento \\nhogar\", \"id\": \"170.1_EPAMIENGAR_0_0_19\", \"scrapingIdentifierCell\": \"BA10\", \"scrapingDataStartCell\": \"BA11\", \"units\": \"Porcentaje\", \"dataset_identifier\": \"170\", \"distribution_identifier\": \"170.1\"}, {\"title\": \"generacion_energia_electrica\", \"type\": \"number\", \"description\": \"Emisi\\u00f3n de obligaciones negociables de generacion \\nenergia el\\u00e9ctrica\", \"id\": \"170.1_GRACIONICA_0_0_29\", \"scrapingIdentifierCell\": \"BB10\", \"scrapingDataStartCell\": \"BB11\", \"units\": \"Porcentaje\", \"dataset_identifier\": \"170\", \"distribution_identifier\": \"170.1\"}, {\"title\": \"grupos_concesionarios\", \"type\": \"number\", \"description\": \"Emisi\\u00f3n de obligaciones negociables de grupos \\nconcesionarios\", \"id\": \"170.1_GOS_COIOS_0_0_22\", \"scrapingIdentifierCell\": \"BC10\", \"scrapingDataStartCell\": \"BC11\", \"units\": \"Porcentaje\", \"dataset_identifier\": \"170\", \"distribution_identifier\": \"170.1\"}, {\"title\": \"holdings\", \"type\": \"number\", \"description\": \"Emisi\\u00f3n de obligaciones negociables de holdings\", \"id\": \"170.1_HINGSNGS_0_0_8\", \"scrapingIdentifierCell\": \"BD10\", \"scrapingDataStartCell\": \"BD11\", \"units\": \"Porcentaje\", \"dataset_identifier\": \"170\", \"distribution_identifier\": \"170.1\"}, {\"title\": \"industria_automotriz\", \"type\": \"number\", \"description\": \"Emisi\\u00f3n de obligaciones negociables de industria \\nautomotriz\", \"id\": \"170.1_ISTRIA_RIZ_0_0_21\", \"scrapingIdentifierCell\": \"BE10\", \"scrapingDataStartCell\": \"BE11\", \"units\": \"Porcentaje\", \"dataset_identifier\": \"170\", \"distribution_identifier\": \"170.1\"}, {\"title\": \"industria_petroleo_gas\", \"type\": \"number\", \"description\": \"Emisi\\u00f3n de obligaciones negociables de industria \\npetroleo gas\", \"id\": \"170.1_ISTRIA_GAS_0_0_23\", \"scrapingIdentifierCell\": \"BF10\", \"scrapingDataStartCell\": \"BF11\", \"units\": \"Porcentaje\", \"dataset_identifier\": \"170\", \"distribution_identifier\": \"170.1\"}, {\"title\": \"industria_farmaceutica\", \"type\": \"number\", \"description\": \"Emisi\\u00f3n de obligaciones negociables de industria \\nfarmac\\u00e9utica\", \"id\": \"170.1_ISTRIA_ICA_0_0_23\", \"scrapingIdentifierCell\": \"BG10\", \"scrapingDataStartCell\": \"BG11\", \"units\": \"Porcentaje\", \"dataset_identifier\": \"170\", \"distribution_identifier\": \"170.1\"}, {\"title\": \"industria_quimica_petroquimica\", \"type\": \"number\", \"description\": \"Emisi\\u00f3n de obligaciones negociables de industria quimica\\n petroquimica\", \"id\": \"170.1_ISTRIA_ICA_0_0_31\", \"scrapingIdentifierCell\": \"BI10\", \"scrapingDataStartCell\": \"BI11\", \"units\": \"Porcentaje\", \"dataset_identifier\": \"170\", \"distribution_identifier\": \"170.1\"}, {\"title\": \"manufacturas_origen_agropecuario\", \"type\": \"number\", \"description\": \"Emisi\\u00f3n de obligaciones negociables de manufacturas origen agropecuario\", \"id\": \"170.1_MFACTURRIO_0_0_32\", \"scrapingIdentifierCell\": \"BJ10\", \"scrapingDataStartCell\": \"BJ11\", \"units\": \"Porcentaje\", \"dataset_identifier\": \"170\", \"distribution_identifier\": \"170.1\"}, {\"title\": \"manufacturas_origen_industrial\", \"type\": \"number\", \"description\": \"Emisi\\u00f3n de obligaciones negociables de manufacturas origen industrial\", \"id\": \"170.1_MFACTURIAL_0_0_30\", \"scrapingIdentifierCell\": \"BK10\", \"scrapingDataStartCell\": \"BK11\", \"units\": \"Porcentaje\", \"dataset_identifier\": \"170\", \"distribution_identifier\": \"170.1\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-09-28T00:00:00",
+      "datastore_active": false,
+      "description": "Financiamiento Privado en Mercado de Capitales por tamaño de empresa e instrumento, monto en dólares.",
+      "fileName": "financiamiento-privado-mercado-capitales-dolares.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "sspm_170.1",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Financiamiento Privado en Mercado de Capitales. Dólares.",
+      "package_id": "sspm_170",
+      "position": 0,
+      "resource_type": null,
+      "revision_id": "e8809e27-0715-4650-87ab-c6c5993dc53b",
+      "size": null,
+      "state": "active",
+      "url": "https://infra.datos.gob.ar/catalog/sspm/dataset/170/distribution/170.1/download/financiamiento-privado-mercado-capitales-dolares.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "e8809e27-0715-4650-87ab-c6c5993dc53b",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "Finanzas",
+      "id": "5deaadee-1aa5-47c7-94f2-e1f79a948ba6",
+      "name": "Finanzas",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Información Económica al Día",
+      "id": "0d300a9a-0802-46c3-9a40-2f28ddf050ec",
+      "name": "Información Económica al Día",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Mercados Financieros",
+      "id": "5841238a-38da-4d14-b0cd-0ad1c886c28e",
+      "name": "Mercados Financieros",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Financiamiento privado en mercado de capitales",
+  "type": "dataset",
+  "url": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/",
+  "version": null
+}

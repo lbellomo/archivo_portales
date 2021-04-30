@@ -1,0 +1,181 @@
+{
+  "author": "Subsecretaría de Programación Macroeconómica",
+  "author_email": "datoseconomicos@mecon.gov.ar",
+  "creator_user_id": "4720e75a-9e17-4dc3-879d-041917c7f9f9",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P1M"
+    },
+    {
+      "key": "issued",
+      "value": "2017-09-28"
+    },
+    {
+      "key": "language",
+      "value": "[\"SPA\"]"
+    },
+    {
+      "key": "source",
+      "value": "Banco Central de la República Argentina (BCRA)"
+    },
+    {
+      "key": "spatial",
+      "value": "ARG"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"ECON\"]"
+    },
+    {
+      "key": "temporal",
+      "value": "1991-01-01/2015-12-01"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Economía y finanzas",
+      "display_name": "Economía y finanzas",
+      "id": "60b4b03e-10a1-4d67-b984-08008a249617",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225257.200233economia-finanzas.svg",
+      "name": "econ",
+      "title": "Economía y finanzas"
+    }
+  ],
+  "id": "sspm_115",
+  "isopen": true,
+  "license_id": "CC-BY-4.0",
+  "license_title": "Creative Commons Attribution 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "maintainer": "Subsecretaría de Programación Macroeconómica.",
+  "maintainer_email": "datoseconomicos@mecon.gov.ar",
+  "metadata_created": "2019-11-26T15:06:09.613612",
+  "metadata_modified": "2021-04-29T21:05:52.623297",
+  "name": "sspm-indice-tipo-cambio-real-multilateral-base-diciembre-2001-100-serie-discontinuada",
+  "notes": "Índice de Tipo de Cambio Real Multilateral Base Diciembre de 2001 = 100  (SERIE DISCONTINUADA)",
+  "num_resources": 3,
+  "num_tags": 3,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:09.718132",
+    "description": "",
+    "id": "68f9ee22-5ec3-44cf-a32b-b87d9db46b93",
+    "image_url": "",
+    "is_organization": true,
+    "name": "sspm",
+    "revision_id": "bc058ce0-3540-4204-96cd-9f9ec79045b3",
+    "state": "active",
+    "title": "Subsecretaría de Programación Macroeconómica",
+    "type": "organization"
+  },
+  "owner_org": "68f9ee22-5ec3-44cf-a32b-b87d9db46b93",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/",
+      "attributesDescription": "[{\"title\": \"indice_tiempo\", \"type\": \"date\", \"specialType\": \"time_index\", \"specialTypeDetail\": \"R/P1Y\", \"id\": \"115.1_IT_0_A_13\", \"scrapingIdentifierCell\": \"A8\", \"scrapingDataStartCell\": \"A9\", \"dataset_identifier\": \"115\", \"distribution_identifier\": \"115.1\"}, {\"title\": \"tipo_cambio_real_multilateral\", \"type\": \"number\", \"description\": \"\\u00cdndice de Tipo de Cambio Real Multilateral: Anual \\u00cdndice Diciembre 2001=100\", \"id\": \"115.1_TCRM_0_A_29\", \"scrapingIdentifierCell\": \"B8\", \"scrapingDataStartCell\": \"B9\", \"units\": \"\\u00cdndice Dic-2001=100\", \"dataset_identifier\": \"115\", \"distribution_identifier\": \"115.1\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-09-28T00:00:00",
+      "datastore_active": false,
+      "description": "Índice de Tipo de Cambio Real Multilateral (SERIE DISCONTINUADA). Valores anuales.",
+      "fileName": "indice-tipo-cambio-real-multilateral-anual-base-2001.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "sspm_115.1",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Índice de Tipo de Cambio Real Multilateral (SERIE DISCONTINUADA). Valores anuales.",
+      "package_id": "sspm_115",
+      "position": 0,
+      "resource_type": null,
+      "revision_id": "4a0a4041-196e-469b-bf5b-2f12ef1ebc32",
+      "size": null,
+      "state": "active",
+      "url": "https://infra.datos.gob.ar/catalog/sspm/dataset/115/distribution/115.1/download/indice-tipo-cambio-real-multilateral-anual-base-2001.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/",
+      "attributesDescription": "[{\"title\": \"indice_tiempo\", \"type\": \"date\", \"specialType\": \"time_index\", \"specialTypeDetail\": \"R/P3M\", \"id\": \"115.2_IT_0_T_13\", \"scrapingIdentifierCell\": \"A44\", \"scrapingDataStartCell\": \"A45\", \"dataset_identifier\": \"115\", \"distribution_identifier\": \"115.2\"}, {\"title\": \"tipo_cambio_real_multilateral\", \"type\": \"number\", \"description\": \"\\u00cdndice de Tipo de Cambio Real Multilateral: Trimestral \\u00cdndice Diciembre 2001=100\", \"id\": \"115.2_TCRM_0_T_29\", \"scrapingIdentifierCell\": \"B44\", \"scrapingDataStartCell\": \"B45\", \"units\": \"\\u00cdndice Dic-2001=100\", \"dataset_identifier\": \"115\", \"distribution_identifier\": \"115.2\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-09-28T00:00:00",
+      "datastore_active": false,
+      "description": "Índice de Tipo de Cambio Real Multilateral (SERIE DISCONTINUADA). Valores trimestrales.",
+      "fileName": "indice-tipo-cambio-real-multilateral-trimestral-base-2001.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "sspm_115.2",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Índice de Tipo de Cambio Real Multilateral (SERIE DISCONTINUADA). Valores trimestrales.",
+      "package_id": "sspm_115",
+      "position": 1,
+      "resource_type": null,
+      "revision_id": "4a0a4041-196e-469b-bf5b-2f12ef1ebc32",
+      "size": null,
+      "state": "active",
+      "url": "https://infra.datos.gob.ar/catalog/sspm/dataset/115/distribution/115.2/download/indice-tipo-cambio-real-multilateral-trimestral-base-2001.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/",
+      "attributesDescription": "[{\"title\": \"indice_tiempo\", \"type\": \"date\", \"specialType\": \"time_index\", \"specialTypeDetail\": \"R/P1M\", \"id\": \"115.3_IT_0_M_13\", \"scrapingIdentifierCell\": \"A145\", \"scrapingDataStartCell\": \"A146\", \"dataset_identifier\": \"115\", \"distribution_identifier\": \"115.3\"}, {\"title\": \"tipo_cambio_real_multilateral\", \"type\": \"number\", \"description\": \"\\u00cdndice de Tipo de Cambio Real Multilateral: Mensual \\u00cdndice Diciembre 2001=100\", \"id\": \"115.3_TCRM_0_M_29\", \"scrapingIdentifierCell\": \"B145\", \"scrapingDataStartCell\": \"B146\", \"units\": \"\\u00cdndice Dic-2001=100\", \"dataset_identifier\": \"115\", \"distribution_identifier\": \"115.3\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-09-28T00:00:00",
+      "datastore_active": false,
+      "description": "Índice de Tipo de Cambio Real Multilateral (SERIE DISCONTINUADA). Valores mensuales.",
+      "fileName": "indice-tipo-cambio-real-multilateral-mensual-base-2001.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "sspm_115.3",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Índice de Tipo de Cambio Real Multilateral (SERIE DISCONTINUADA). Valores mensuales.",
+      "package_id": "sspm_115",
+      "position": 2,
+      "resource_type": null,
+      "revision_id": "4a0a4041-196e-469b-bf5b-2f12ef1ebc32",
+      "size": null,
+      "state": "active",
+      "url": "https://infra.datos.gob.ar/catalog/sspm/dataset/115/distribution/115.3/download/indice-tipo-cambio-real-multilateral-mensual-base-2001.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "4a0a4041-196e-469b-bf5b-2f12ef1ebc32",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "Dinero y Bancos",
+      "id": "a6e04960-0d58-4c4e-a59c-a2e2ef9ac579",
+      "name": "Dinero y Bancos",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Información económica al día",
+      "id": "a277ffeb-6252-446e-a364-14710b257b35",
+      "name": "Información económica al día",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Sector Externo",
+      "id": "7161d5c3-be73-43e4-91b8-447209c908f4",
+      "name": "Sector Externo",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Índice de Tipo de Cambio Real Multilateral Base Diciembre de 2001 = 100 (SERIE DISCONTINUADA)",
+  "type": "dataset",
+  "url": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/",
+  "version": null
+}

@@ -1,0 +1,108 @@
+{
+  "author": "Ministerio de transporte",
+  "author_email": null,
+  "creator_user_id": "dc157489-51c6-44ce-bd63-3bd983d60778",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "eventual"
+    },
+    {
+      "key": "issued",
+      "value": "2020-11-06T15:32:11.776621"
+    },
+    {
+      "key": "language",
+      "value": "[\"spa\"]"
+    },
+    {
+      "key": "modified",
+      "value": "2020-11-11T15:32:14.506835"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"TRAN\"]"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Transporte",
+      "display_name": "Transporte",
+      "id": "57227cfc-80a6-45d3-9faa-711a98ac8ede",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225933.272993transporte.svg",
+      "name": "tran",
+      "title": "Transporte"
+    }
+  ],
+  "id": "transporte_8d8625bb-ff59-4f41-bbc0-2ad670e79b51",
+  "isopen": true,
+  "license_id": "CC-BY-4.0",
+  "license_title": "Creative Commons Attribution 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "maintainer": null,
+  "maintainer_email": null,
+  "metadata_created": "2021-01-28T14:47:48.377122",
+  "metadata_modified": "2021-04-29T21:11:19.539992",
+  "name": "transporte-trenes---transporte-pasajeros",
+  "notes": "Detalle de movimientos totales por línea y estación",
+  "num_resources": 1,
+  "num_tags": 1,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:11.506514",
+    "description": "",
+    "id": "71418928-10c4-4625-aeaf-69a4d73d00ed",
+    "image_url": "",
+    "is_organization": true,
+    "name": "transporte",
+    "revision_id": "dc7b93ef-b174-46ee-90ea-63edf51296f0",
+    "state": "active",
+    "title": " Ministerio de Transporte",
+    "type": "organization"
+  },
+  "owner_org": "71418928-10c4-4625-aeaf-69a4d73d00ed",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "https://datos.transporte.gob.ar/dataset/8d8625bb-ff59-4f41-bbc0-2ad670e79b51/resource/3cc4d55c-a3ab-4c65-8fe9-b524365b582c",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2020-11-06T15:33:10.291541",
+      "datastore_active": false,
+      "description": "Detalle de pasajeros por línea",
+      "fileName": "trenes_pasajeros.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "transporte_3cc4d55c-a3ab-4c65-8fe9-b524365b582c",
+      "last_modified": "2020-11-06T15:33:10.291541",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Pasajeros por línea",
+      "package_id": "transporte_8d8625bb-ff59-4f41-bbc0-2ad670e79b51",
+      "position": 0,
+      "resource_type": "file.upload",
+      "revision_id": "9dd44faf-e9ba-4df5-8d13-c6f8e3c94b01",
+      "size": null,
+      "state": "active",
+      "url": "https://datos.transporte.gob.ar/dataset/8d8625bb-ff59-4f41-bbc0-2ad670e79b51/resource/3cc4d55c-a3ab-4c65-8fe9-b524365b582c/download/trenes_pasajeros.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "9dd44faf-e9ba-4df5-8d13-c6f8e3c94b01",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "Transporte Ferroviario",
+      "id": "f4e53926-9367-4bc2-aed7-f8c4fb21fcb1",
+      "name": "Transporte Ferroviario",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Trenes - transporte de pasajeros",
+  "type": "dataset",
+  "url": "https://datos.transporte.gob.ar/dataset/trenes-transporte-de-pasajeros",
+  "version": null
+}

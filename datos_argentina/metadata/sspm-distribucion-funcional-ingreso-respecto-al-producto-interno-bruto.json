@@ -1,0 +1,124 @@
+{
+  "author": "Subsecretaría de Programación Macroeconómica",
+  "author_email": "datoseconomicos@mecon.gov.ar",
+  "creator_user_id": "4720e75a-9e17-4dc3-879d-041917c7f9f9",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P3M"
+    },
+    {
+      "key": "issued",
+      "value": "2017-09-28"
+    },
+    {
+      "key": "language",
+      "value": "[\"SPA\"]"
+    },
+    {
+      "key": "source",
+      "value": "Instituto Nacional de Estadística y Censos (INDEC)"
+    },
+    {
+      "key": "spatial",
+      "value": "ARG"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"ECON\"]"
+    },
+    {
+      "key": "temporal",
+      "value": "2016-01-01/2017-04-01"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Economía y finanzas",
+      "display_name": "Economía y finanzas",
+      "id": "60b4b03e-10a1-4d67-b984-08008a249617",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225257.200233economia-finanzas.svg",
+      "name": "econ",
+      "title": "Economía y finanzas"
+    }
+  ],
+  "id": "sspm_53",
+  "isopen": true,
+  "license_id": "CC-BY-4.0",
+  "license_title": "Creative Commons Attribution 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "maintainer": "Subsecretaría de Programación Macroeconómica.",
+  "maintainer_email": "datoseconomicos@mecon.gov.ar",
+  "metadata_created": "2019-11-26T15:04:29.426578",
+  "metadata_modified": "2021-04-29T21:05:15.526489",
+  "name": "sspm-distribucion-funcional-ingreso-respecto-al-producto-interno-bruto",
+  "notes": "Distribución funcional del ingreso en el total de la economía y en el sector privado respecto al PIB a costo de factores",
+  "num_resources": 1,
+  "num_tags": 2,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:09.718132",
+    "description": "",
+    "id": "68f9ee22-5ec3-44cf-a32b-b87d9db46b93",
+    "image_url": "",
+    "is_organization": true,
+    "name": "sspm",
+    "revision_id": "bc058ce0-3540-4204-96cd-9f9ec79045b3",
+    "state": "active",
+    "title": "Subsecretaría de Programación Macroeconómica",
+    "type": "organization"
+  },
+  "owner_org": "68f9ee22-5ec3-44cf-a32b-b87d9db46b93",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/",
+      "attributesDescription": "[{\"title\": \"indice_tiempo\", \"type\": \"date\", \"specialType\": \"time_index\", \"specialTypeDetail\": \"R/P3M\", \"id\": \"53.1_IT_0_0_13\", \"scrapingIdentifierCell\": \"A16\", \"scrapingDataStartCell\": \"A17\", \"dataset_identifier\": \"53\", \"distribution_identifier\": \"53.1\"}, {\"title\": \"total_pib_cf\", \"type\": \"number\", \"description\": \"PIB a costo de factores\", \"id\": \"53.1_TPC_0_0_12\", \"scrapingIdentifierCell\": \"B16\", \"scrapingDataStartCell\": \"B17\", \"units\": \"Porcentaje\", \"dataset_identifier\": \"53\", \"distribution_identifier\": \"53.1\"}, {\"title\": \"total_remuneracion_trabajo_asalariado\", \"type\": \"number\", \"description\": \"Remuneraci\\u00f3n del trabajo asalariado del total de la econom\\u00eda\", \"id\": \"53.1_TRTA_0_0_37\", \"scrapingIdentifierCell\": \"C16\", \"scrapingDataStartCell\": \"C17\", \"units\": \"Porcentaje\", \"dataset_identifier\": \"53\", \"distribution_identifier\": \"53.1\"}, {\"title\": \"total_ingreso_mixto_bruto\", \"type\": \"number\", \"description\": \"Ingreso mixto bruto del total de la econom\\u00eda\", \"id\": \"53.1_TIMB_0_0_25\", \"scrapingIdentifierCell\": \"D16\", \"scrapingDataStartCell\": \"D17\", \"units\": \"Porcentaje\", \"dataset_identifier\": \"53\", \"distribution_identifier\": \"53.1\"}, {\"title\": \"excedente_bruto_explotacion\", \"type\": \"number\", \"description\": \"Excedente bruto de explotaci\\u00f3n del total de la econom\\u00eda\", \"id\": \"53.1_EBE_0_0_27\", \"scrapingIdentifierCell\": \"E16\", \"scrapingDataStartCell\": \"E17\", \"units\": \"Porcentaje\", \"dataset_identifier\": \"53\", \"distribution_identifier\": \"53.1\"}, {\"title\": \"total_impuestos_netos_subsidios_actividad\", \"type\": \"number\", \"description\": \"Impuestos netos de subsidios a la actividad\", \"id\": \"53.1_TINSA_0_0_41\", \"scrapingIdentifierCell\": \"F16\", \"scrapingDataStartCell\": \"F17\", \"units\": \"Porcentaje\", \"dataset_identifier\": \"53\", \"distribution_identifier\": \"53.1\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-09-28T00:00:00",
+      "datastore_active": false,
+      "description": "Estimaciónes de la distribución funcional del ingreso. Dato trimestral",
+      "fileName": "distribucion-funcional-ingreso-sector-privado-pib-costo-factores-anual.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "sspm_53.1",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Distribución funcional del ingreso en el total de la economía y en el sector privado. Como porcentaje del Producto Interno Bruto a costo de factores. Valores trimestrales",
+      "package_id": "sspm_53",
+      "position": 0,
+      "resource_type": null,
+      "revision_id": "af750570-7a3e-4f72-8abf-0c95e68aa73e",
+      "size": null,
+      "state": "active",
+      "url": "https://infra.datos.gob.ar/catalog/sspm/dataset/53/distribution/53.1/download/distribucion-funcional-ingreso-sector-privado-pib-costo-factores-anual.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "af750570-7a3e-4f72-8abf-0c95e68aa73e",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "Empleo e Ingresos",
+      "id": "0d41bcfd-c3a4-4ff7-8aa1-dd5c3ac51d0b",
+      "name": "Empleo e Ingresos",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Información Económica al Día",
+      "id": "0d300a9a-0802-46c3-9a40-2f28ddf050ec",
+      "name": "Información Económica al Día",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Distribución funcional del ingreso respecto al Producto Interno Bruto",
+  "type": "dataset",
+  "url": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/",
+  "version": null
+}

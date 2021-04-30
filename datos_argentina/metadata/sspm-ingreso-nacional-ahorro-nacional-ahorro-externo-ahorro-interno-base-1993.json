@@ -1,0 +1,124 @@
+{
+  "author": "Subsecretaría de Programación Macroeconómica",
+  "author_email": "datoseconomicos@mecon.gov.ar",
+  "creator_user_id": "4720e75a-9e17-4dc3-879d-041917c7f9f9",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P3M"
+    },
+    {
+      "key": "issued",
+      "value": "2017-09-28"
+    },
+    {
+      "key": "language",
+      "value": "[\"SPA\"]"
+    },
+    {
+      "key": "source",
+      "value": "Instituto Nacional de Estadística y Censos (INDEC)"
+    },
+    {
+      "key": "spatial",
+      "value": "ARG"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"ECON\"]"
+    },
+    {
+      "key": "temporal",
+      "value": "1993-01-01/2013-09-30"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Economía y finanzas",
+      "display_name": "Economía y finanzas",
+      "id": "60b4b03e-10a1-4d67-b984-08008a249617",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225257.200233economia-finanzas.svg",
+      "name": "econ",
+      "title": "Economía y finanzas"
+    }
+  ],
+  "id": "sspm_28",
+  "isopen": true,
+  "license_id": "CC-BY-4.0",
+  "license_title": "Creative Commons Attribution 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "maintainer": "Subsecretaría de Programación Macroeconómica.",
+  "maintainer_email": "datoseconomicos@mecon.gov.ar",
+  "metadata_created": "2019-11-26T15:06:04.540110",
+  "metadata_modified": "2021-04-29T21:05:21.612699",
+  "name": "sspm-ingreso-nacional-ahorro-nacional-ahorro-externo-ahorro-interno-base-1993",
+  "notes": "Ahorro e Ingreso, externos e internos en pesos constantes de 1993",
+  "num_resources": 1,
+  "num_tags": 2,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:09.718132",
+    "description": "",
+    "id": "68f9ee22-5ec3-44cf-a32b-b87d9db46b93",
+    "image_url": "",
+    "is_organization": true,
+    "name": "sspm",
+    "revision_id": "bc058ce0-3540-4204-96cd-9f9ec79045b3",
+    "state": "active",
+    "title": "Subsecretaría de Programación Macroeconómica",
+    "type": "organization"
+  },
+  "owner_org": "68f9ee22-5ec3-44cf-a32b-b87d9db46b93",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/",
+      "attributesDescription": "[{\"title\": \"indice_tiempo\", \"type\": \"date\", \"specialType\": \"time_index\", \"specialTypeDetail\": \"R/P1Y\", \"id\": \"28.1_IT_0_A_13\", \"scrapingIdentifierCell\": \"A10\", \"scrapingDataStartCell\": \"A11\", \"dataset_identifier\": \"28\", \"distribution_identifier\": \"28.1\"}, {\"title\": \"i_producto_interno_bruto_precios_constantes\", \"type\": \"number\", \"description\": \"Producto interno bruto: Anual a precios constantes\", \"id\": \"28.1_IPIBPC_0_A_43\", \"scrapingIdentifierCell\": \"B10\", \"scrapingDataStartCell\": \"B11\", \"units\": \"Millones de pesos\", \"dataset_identifier\": \"28\", \"distribution_identifier\": \"28.1\"}, {\"title\": \"i_ganancia_perdida_real_del_intercambio\", \"type\": \"number\", \"description\": \"Ganancia o p\\u00e9rdida real del intercambio (Ingreso): Anual a precios constantes\", \"id\": \"28.1_IGPRDI_0_A_39\", \"scrapingIdentifierCell\": \"C10\", \"scrapingDataStartCell\": \"C11\", \"units\": \"Millones de pesos\", \"dataset_identifier\": \"28\", \"distribution_identifier\": \"28.1\"}, {\"title\": \"i_ingreso_interno_bruto_real\", \"type\": \"number\", \"description\": \"Ingreso interno bruto real: Anual a precios constantes\", \"id\": \"28.1_IIIBR_0_A_28\", \"scrapingIdentifierCell\": \"D10\", \"scrapingDataStartCell\": \"D11\", \"units\": \"Millones de pesos\", \"dataset_identifier\": \"28\", \"distribution_identifier\": \"28.1\"}, {\"title\": \"i_emuneracion_real_neta_factores_del_exterior\", \"type\": \"number\", \"description\": \"Remuneraci\\u00f3n real neta a factores del exterior: Anual a precios constantes\", \"id\": \"28.1_IERNFDE_0_A_45\", \"scrapingIdentifierCell\": \"E10\", \"scrapingDataStartCell\": \"E11\", \"units\": \"Millones de pesos\", \"dataset_identifier\": \"28\", \"distribution_identifier\": \"28.1\"}, {\"title\": \"i_ingreso_nacional_bruto_real\", \"type\": \"number\", \"description\": \"Ingreso nacional bruto real: Anual a precios constantes\", \"id\": \"28.1_IINBR_0_A_29\", \"scrapingIdentifierCell\": \"F10\", \"scrapingDataStartCell\": \"F11\", \"units\": \"Millones de pesos\", \"dataset_identifier\": \"28\", \"distribution_identifier\": \"28.1\"}, {\"title\": \"i_transferencias_corrientes_reales_netas\", \"type\": \"number\", \"description\": \"Transferencias corrientes reales netas (Ingreso): Anual a precios constantes\", \"id\": \"28.1_ITCRN_0_A_40\", \"scrapingIdentifierCell\": \"G10\", \"scrapingDataStartCell\": \"G11\", \"units\": \"Millones de pesos\", \"dataset_identifier\": \"28\", \"distribution_identifier\": \"28.1\"}, {\"title\": \"i_ingreso_nacional_disponible_bruto_real\", \"type\": \"number\", \"description\": \"Ingreso nacional disponible bruto real: Anual a precios constantes\", \"id\": \"28.1_IINDBR_0_A_40\", \"scrapingIdentifierCell\": \"H10\", \"scrapingDataStartCell\": \"H11\", \"units\": \"Millones de pesos\", \"dataset_identifier\": \"28\", \"distribution_identifier\": \"28.1\"}, {\"title\": \"i_consumo_total_real_priv_publico\", \"type\": \"number\", \"description\": \"Consumo total real (privado y p\\u00fablico): Anual a precios constantes\", \"id\": \"28.1_ICTRPP_0_A_33\", \"scrapingIdentifierCell\": \"I10\", \"scrapingDataStartCell\": \"I11\", \"units\": \"Millones de pesos\", \"dataset_identifier\": \"28\", \"distribution_identifier\": \"28.1\"}, {\"title\": \"i_ahorro_nacional_bruto_real\", \"type\": \"number\", \"description\": \"Ahorro nacional bruto real (ingreso): Anual a precios constantes\", \"id\": \"28.1_IANBR_0_A_28\", \"scrapingIdentifierCell\": \"J10\", \"scrapingDataStartCell\": \"J11\", \"units\": \"Millones de pesos\", \"dataset_identifier\": \"28\", \"distribution_identifier\": \"28.1\"}, {\"title\": \"a_importaciones_bienes_servicios_reales\", \"type\": \"number\", \"description\": \"Importaciones de bienes y servicios reales: Anual a precios constantes\", \"id\": \"28.1_AIBSR_0_A_39\", \"scrapingIdentifierCell\": \"L10\", \"scrapingDataStartCell\": \"L11\", \"units\": \"Millones de pesos\", \"dataset_identifier\": \"28\", \"distribution_identifier\": \"28.1\"}, {\"title\": \"a_exportaciones_bienes_servicios_reales\", \"type\": \"number\", \"description\": \"Exportaciones de bienes y servicios reales: Anual a precios constantes\", \"id\": \"28.1_AEBSR_0_A_39\", \"scrapingIdentifierCell\": \"M10\", \"scrapingDataStartCell\": \"M11\", \"units\": \"Millones de pesos\", \"dataset_identifier\": \"28\", \"distribution_identifier\": \"28.1\"}, {\"title\": \"a_remuneracion_real_neta_factores_exterior\", \"type\": \"number\", \"description\": \"Remuneracion real neta a factores del exterior: Anual a precios constantes\", \"id\": \"28.1_ARRNFE_0_A_42\", \"scrapingIdentifierCell\": \"N10\", \"scrapingDataStartCell\": \"N11\", \"units\": \"Millones de pesos\", \"dataset_identifier\": \"28\", \"distribution_identifier\": \"28.1\"}, {\"title\": \"a_transferencias_corrientes_reales_netas\", \"type\": \"number\", \"description\": \"Transferencias corrientes reales netas (Ahorro) : Anual a precios constantes\", \"id\": \"28.1_ATCRN_0_A_40\", \"scrapingIdentifierCell\": \"O10\", \"scrapingDataStartCell\": \"O11\", \"units\": \"Millones de pesos\", \"dataset_identifier\": \"28\", \"distribution_identifier\": \"28.1\"}, {\"title\": \"a_ganancia_perdida_real_intercambio\", \"type\": \"number\", \"description\": \"Ganancia o p\\u00e9rdida real del intercambio (Ganancia): Anual a precios constantes\", \"id\": \"28.1_AGPRI_0_A_35\", \"scrapingIdentifierCell\": \"P10\", \"scrapingDataStartCell\": \"P11\", \"units\": \"Millones de pesos\", \"dataset_identifier\": \"28\", \"distribution_identifier\": \"28.1\"}, {\"title\": \"a_bienes\", \"type\": \"number\", \"description\": \"Bienes: Anual a precios constantes\", \"id\": \"28.1_AB_0_A_8\", \"scrapingIdentifierCell\": \"Q10\", \"scrapingDataStartCell\": \"Q11\", \"units\": \"Millones de pesos\", \"dataset_identifier\": \"28\", \"distribution_identifier\": \"28.1\"}, {\"title\": \"a_servicios\", \"type\": \"number\", \"description\": \"Servicios: Anual a precios constantes\", \"id\": \"28.1_AS_0_A_11\", \"scrapingIdentifierCell\": \"R10\", \"scrapingDataStartCell\": \"R11\", \"units\": \"Millones de pesos\", \"dataset_identifier\": \"28\", \"distribution_identifier\": \"28.1\"}, {\"title\": \"a_ahorro_real_resto_mundo\", \"type\": \"number\", \"description\": \"Ahorro real del resto del mundo: Anual a precios constantes\", \"id\": \"28.1_AARRM_0_A_25\", \"scrapingIdentifierCell\": \"S10\", \"scrapingDataStartCell\": \"S11\", \"units\": \"Millones de pesos\", \"dataset_identifier\": \"28\", \"distribution_identifier\": \"28.1\"}, {\"title\": \"a_ahorro_nacional_bruto_real\", \"type\": \"number\", \"description\": \"Ahorro nacional bruto real: Anual a precios constantes\", \"id\": \"28.1_AANBR_0_A_28\", \"scrapingIdentifierCell\": \"T10\", \"scrapingDataStartCell\": \"T11\", \"units\": \"Millones de pesos\", \"dataset_identifier\": \"28\", \"distribution_identifier\": \"28.1\"}, {\"title\": \"a_ahorro_interno_bruto_real\", \"type\": \"number\", \"description\": \"Ahorro interno bruto real: Anual a precios constantes\", \"id\": \"28.1_AAIBR_0_A_27\", \"scrapingIdentifierCell\": \"U10\", \"scrapingDataStartCell\": \"U11\", \"units\": \"Millones de pesos\", \"dataset_identifier\": \"28\", \"distribution_identifier\": \"28.1\"}, {\"title\": \"a_inversion_interna_bruta_real_fija\", \"type\": \"number\", \"description\": \"Inversion interna bruta real fija: Anual a precios constantes\", \"id\": \"28.1_AIIBRF_0_A_35\", \"scrapingIdentifierCell\": \"V10\", \"scrapingDataStartCell\": \"V11\", \"units\": \"Millones de pesos\", \"dataset_identifier\": \"28\", \"distribution_identifier\": \"28.1\"}, {\"title\": \"a_discrepancia_estadistica_variacion_real_existencias\", \"type\": \"number\", \"description\": \"Discrepancia estad\\u00edstica y variaci\\u00f3n real de existencias: Anual a precios constantes\", \"id\": \"28.1_ADEVRE_0_A_53\", \"scrapingIdentifierCell\": \"W10\", \"scrapingDataStartCell\": \"W11\", \"units\": \"Millones de pesos\", \"dataset_identifier\": \"28\", \"distribution_identifier\": \"28.1\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-09-28T00:00:00",
+      "datastore_active": false,
+      "description": "Valores anuales del Ingreso nacional, Ahorro nacional, Ahorro externo y Ahorro interno (Base 1993)",
+      "fileName": "ingreso-nacional-ahorro-nacional-ahorro-externo-ahorro-interno-precios-constantes-valores-anuales.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "sspm_28.1",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Ingreso nacional, ahorro nacional, ahorro externo y ahorro interno a precios constantes. Valores anuales",
+      "package_id": "sspm_28",
+      "position": 0,
+      "resource_type": null,
+      "revision_id": "4aef10cb-b37b-447b-b7cc-77118ac86d9d",
+      "size": null,
+      "state": "active",
+      "url": "https://infra.datos.gob.ar/catalog/sspm/dataset/28/distribution/28.1/download/ingreso-nacional-ahorro-nacional-ahorro-externo-ahorro-interno-precios-constantes-valores-anuales.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "4aef10cb-b37b-447b-b7cc-77118ac86d9d",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "Actividad",
+      "id": "a7695c51-c893-4ece-8ff9-306c197afdd7",
+      "name": "Actividad",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Información Económica al Día",
+      "id": "0d300a9a-0802-46c3-9a40-2f28ddf050ec",
+      "name": "Información Económica al Día",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Ingreso nacional, Ahorro nacional, Ahorro externo y Ahorro interno. Base 1993",
+  "type": "dataset",
+  "url": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/",
+  "version": null
+}

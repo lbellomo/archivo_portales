@@ -1,0 +1,149 @@
+{
+  "author": "Subsecretaría de Programación Macroeconómica",
+  "author_email": "datoseconomicos@mecon.gov.ar",
+  "creator_user_id": "4720e75a-9e17-4dc3-879d-041917c7f9f9",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P3M"
+    },
+    {
+      "key": "issued",
+      "value": "2017-09-28"
+    },
+    {
+      "key": "language",
+      "value": "[\"SPA\"]"
+    },
+    {
+      "key": "source",
+      "value": "Instituto Nacional de Estadística y Censos (INDEC)"
+    },
+    {
+      "key": "spatial",
+      "value": "ARG"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"ECON\"]"
+    },
+    {
+      "key": "temporal",
+      "value": "1990-01-01/2014-12-01"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Economía y finanzas",
+      "display_name": "Economía y finanzas",
+      "id": "60b4b03e-10a1-4d67-b984-08008a249617",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225257.200233economia-finanzas.svg",
+      "name": "econ",
+      "title": "Economía y finanzas"
+    }
+  ],
+  "id": "sspm_15",
+  "isopen": true,
+  "license_id": "CC-BY-4.0",
+  "license_title": "Creative Commons Attribution 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "maintainer": "Subsecretaría de Programación Macroeconómica.",
+  "maintainer_email": "datoseconomicos@mecon.gov.ar",
+  "metadata_created": "2019-11-26T15:05:46.741837",
+  "metadata_modified": "2021-04-29T21:05:38.604498",
+  "name": "sspm-indice-volumen-fisico-ivf",
+  "notes": "Índice de Volumen Físico (IVF) en la industria manufacturera.  Encuesta Industrial Base 1997",
+  "num_resources": 2,
+  "num_tags": 2,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:09.718132",
+    "description": "",
+    "id": "68f9ee22-5ec3-44cf-a32b-b87d9db46b93",
+    "image_url": "",
+    "is_organization": true,
+    "name": "sspm",
+    "revision_id": "bc058ce0-3540-4204-96cd-9f9ec79045b3",
+    "state": "active",
+    "title": "Subsecretaría de Programación Macroeconómica",
+    "type": "organization"
+  },
+  "owner_org": "68f9ee22-5ec3-44cf-a32b-b87d9db46b93",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/",
+      "attributesDescription": "[{\"title\": \"indice_tiempo\", \"type\": \"date\", \"specialType\": \"time_index\", \"specialTypeDetail\": \"R/P1Y\", \"id\": \"15.1_IT_1997_A_13\", \"scrapingIdentifierCell\": \"A9\", \"scrapingDataStartCell\": \"A10\", \"dataset_identifier\": \"15\", \"distribution_identifier\": \"15.1\"}, {\"title\": \"nivel_general\", \"type\": \"number\", \"description\": \"\\u00cdndice de Volumen F\\u00edsico (IVF). \\u00cdndice General. Anuales\", \"id\": \"15.1_NG_1997_A_13\", \"scrapingIdentifierCell\": \"B9\", \"scrapingDataStartCell\": \"B10\", \"units\": \"\\u00cdndice 1997=100\", \"dataset_identifier\": \"15\", \"distribution_identifier\": \"15.1\"}, {\"title\": \"elaboracion_productos_alimenticios_bebidas\", \"type\": \"number\", \"description\": \"\\u00cdndice de Volumen F\\u00edsico (IVF). Elaboraci\\u00f3n de productos alimenticios y bebidas. Anuales\", \"id\": \"15.1_EPAB_1997_A_42\", \"scrapingIdentifierCell\": \"C9\", \"scrapingDataStartCell\": \"C10\", \"units\": \"\\u00cdndice 1997=100\", \"dataset_identifier\": \"15\", \"distribution_identifier\": \"15.1\"}, {\"title\": \"elaboracion_productos_tabaco\", \"type\": \"number\", \"description\": \"\\u00cdndice de Volumen F\\u00edsico (IVF). Elaboraci\\u00f3n de productos con tabaco. Anuales\", \"id\": \"15.1_EPT_1997_A_28\", \"scrapingIdentifierCell\": \"D9\", \"scrapingDataStartCell\": \"D10\", \"units\": \"\\u00cdndice 1997=100\", \"dataset_identifier\": \"15\", \"distribution_identifier\": \"15.1\"}, {\"title\": \"fabricacion_productos_textiles\", \"type\": \"number\", \"description\": \"\\u00cdndice de Volumen F\\u00edsico (IVF). Fabricaci\\u00f3n de productos textiles. Anuales\", \"id\": \"15.1_FPT_1997_A_30\", \"scrapingIdentifierCell\": \"E9\", \"scrapingDataStartCell\": \"E10\", \"units\": \"\\u00cdndice 1997=100\", \"dataset_identifier\": \"15\", \"distribution_identifier\": \"15.1\"}, {\"title\": \"fabricacion_prendas_vestir_terminacion_tenido_pieles\", \"type\": \"number\", \"description\": \"\\u00cdndice de Volumen F\\u00edsico (IVF). Fabricaci\\u00f3n de prendas para vestir, terminaci\\u00f3n y tenido de pieles. Anuales\", \"id\": \"15.1_FPVTTP_1997_A_52\", \"scrapingIdentifierCell\": \"F9\", \"scrapingDataStartCell\": \"F10\", \"units\": \"\\u00cdndice 1997=100\", \"dataset_identifier\": \"15\", \"distribution_identifier\": \"15.1\"}, {\"title\": \"curtido_terminacion_cueros_fabricacion_marroq_talaba_calzado\", \"type\": \"number\", \"description\": \"\\u00cdndice de Volumen F\\u00edsico (IVF). Curtido y terminaci\\u00f3n de cueros, fabricaci\\u00f3n de articulos de marroquiner\\u00eda, talabarteria y calzado. Anuales\", \"id\": \"15.1_CTCFAMTCSP_1997_A_60\", \"scrapingIdentifierCell\": \"G9\", \"scrapingDataStartCell\": \"G10\", \"units\": \"\\u00cdndice 1997=100\", \"dataset_identifier\": \"15\", \"distribution_identifier\": \"15.1\"}, {\"title\": \"prod_madera_corcho_excepto_muebles_paja_trenzables\", \"type\": \"number\", \"description\": \"\\u00cdndice de Volumen F\\u00edsico (IVF). Producci\\u00f3n y fabricaci\\u00f3n de productos d emadera y corcho expto muebles y articulos de materiales trenzables. Anuales\", \"id\": \"15.1_PMFPMCEMFAPMT_1997_A_50\", \"scrapingIdentifierCell\": \"H9\", \"scrapingDataStartCell\": \"H10\", \"units\": \"\\u00cdndice 1997=100\", \"dataset_identifier\": \"15\", \"distribution_identifier\": \"15.1\"}, {\"title\": \"fabricacion_papel_productos_papel\", \"type\": \"number\", \"description\": \"\\u00cdndice de Volumen F\\u00edsico (IVF). Fabricaci\\u00f3n de papel y productos de papel. Anuales\", \"id\": \"15.1_FPPP_1997_A_33\", \"scrapingIdentifierCell\": \"I9\", \"scrapingDataStartCell\": \"I10\", \"units\": \"\\u00cdndice 1997=100\", \"dataset_identifier\": \"15\", \"distribution_identifier\": \"15.1\"}, {\"title\": \"edicion_impresion_reproduccion_grabaciones\", \"type\": \"number\", \"description\": \"\\u00cdndice de Volumen F\\u00edsico (IVF). Edici\\u00f3n e impresi\\u00f3n, reproducci\\u00f3n y gravaciones. Anuales\", \"id\": \"15.1_EIRG_1997_A_42\", \"scrapingIdentifierCell\": \"J9\", \"scrapingDataStartCell\": \"J10\", \"units\": \"\\u00cdndice 1997=100\", \"dataset_identifier\": \"15\", \"distribution_identifier\": \"15.1\"}, {\"title\": \"fab_coque_prod_refinacion_petroleo_combustible_nuclear\", \"type\": \"number\", \"description\": \"\\u00cdndice de Volumen F\\u00edsico (IVF). Fabricaci\\u00f3n de coque, productos de la refinaci\\u00f3n del petroleo, combustibles y productos nucleares. Anuales\", \"id\": \"15.1_FCPRPCN_1997_A_54\", \"scrapingIdentifierCell\": \"K9\", \"scrapingDataStartCell\": \"K10\", \"units\": \"\\u00cdndice 1997=100\", \"dataset_identifier\": \"15\", \"distribution_identifier\": \"15.1\"}, {\"title\": \"fabricacion_sustancias_productos_quimicos\", \"type\": \"number\", \"description\": \"\\u00cdndice de Volumen F\\u00edsico (IVF). Fabricaci\\u00f3n sustencias y productos qu\\u00edmicos. Anuales\", \"id\": \"15.1_FSPQ_1997_A_41\", \"scrapingIdentifierCell\": \"L9\", \"scrapingDataStartCell\": \"L10\", \"units\": \"\\u00cdndice 1997=100\", \"dataset_identifier\": \"15\", \"distribution_identifier\": \"15.1\"}, {\"title\": \"fabricacion_productos_caucho_plastico\", \"type\": \"number\", \"description\": \"\\u00cdndice de Volumen F\\u00edsico (IVF). Fabricaci\\u00f3n de productos de caucho. Anuales\", \"id\": \"15.1_FPCP_1997_A_37\", \"scrapingIdentifierCell\": \"M9\", \"scrapingDataStartCell\": \"M10\", \"units\": \"\\u00cdndice 1997=100\", \"dataset_identifier\": \"15\", \"distribution_identifier\": \"15.1\"}, {\"title\": \"fabricacion_productos_minerales_no_metalicos\", \"type\": \"number\", \"description\": \"\\u00cdndice de Volumen F\\u00edsico (IVF). Fabricaci\\u00f3n de productos minerales no met\\u00e1licos. Anuales\", \"id\": \"15.1_FPMNM_1997_A_44\", \"scrapingIdentifierCell\": \"N9\", \"scrapingDataStartCell\": \"N10\", \"units\": \"\\u00cdndice 1997=100\", \"dataset_identifier\": \"15\", \"distribution_identifier\": \"15.1\"}, {\"title\": \"fabricacion_metales_comunes\", \"type\": \"number\", \"description\": \"\\u00cdndice de Volumen F\\u00edsico (IVF). Fabricaci\\u00f3n de metales comunes. Anuales\", \"id\": \"15.1_FMC_1997_A_27\", \"scrapingIdentifierCell\": \"O9\", \"scrapingDataStartCell\": \"O10\", \"units\": \"\\u00cdndice 1997=100\", \"dataset_identifier\": \"15\", \"distribution_identifier\": \"15.1\"}, {\"title\": \"fab_productos_elaborados_metal_excepto_maquinaria_equipo\", \"type\": \"number\", \"description\": \"\\u00cdndice de Volumen F\\u00edsico (IVF). Fabricaci\\u00f3n productos elaborados de metal expto maquinaria y equipos. Anuales\", \"id\": \"15.1_FPEMEME_1997_A_56\", \"scrapingIdentifierCell\": \"P9\", \"scrapingDataStartCell\": \"P10\", \"units\": \"\\u00cdndice 1997=100\", \"dataset_identifier\": \"15\", \"distribution_identifier\": \"15.1\"}, {\"title\": \"fabricacion_maquinaria_equipos\", \"type\": \"number\", \"description\": \"\\u00cdndice de Volumen F\\u00edsico (IVF). Fabricaci\\u00f3n maquinaria y equipos. Anuales\", \"id\": \"15.1_FME_1997_A_30\", \"scrapingIdentifierCell\": \"Q9\", \"scrapingDataStartCell\": \"Q10\", \"units\": \"\\u00cdndice 1997=100\", \"dataset_identifier\": \"15\", \"distribution_identifier\": \"15.1\"}, {\"title\": \"fabricacion_maquinaria_oficina_contabilidad_informatica\", \"type\": \"number\", \"description\": \"\\u00cdndice de Volumen F\\u00edsico (IVF). Fabricaci\\u00f3n maquinaria y equipos de oficina. Anuales\", \"id\": \"15.1_FMOCI_1997_A_55\", \"scrapingIdentifierCell\": \"R9\", \"scrapingDataStartCell\": \"R10\", \"units\": \"\\u00cdndice 1997=100\", \"dataset_identifier\": \"15\", \"distribution_identifier\": \"15.1\"}, {\"title\": \"fabricacion_maquinaria_aparatos_electronicos\", \"type\": \"number\", \"description\": \"\\u00cdndice de Volumen F\\u00edsico (IVF). Fabricaci\\u00f3n maquinaria y aparatos electronicos. Anuales\", \"id\": \"15.1_FMAE_1997_A_44\", \"scrapingIdentifierCell\": \"S9\", \"scrapingDataStartCell\": \"S10\", \"units\": \"\\u00cdndice 1997=100\", \"dataset_identifier\": \"15\", \"distribution_identifier\": \"15.1\"}, {\"title\": \"fabricacion_equipos_aparatos_radio_television_comunicaciones\", \"type\": \"number\", \"description\": \"\\u00cdndice de Volumen F\\u00edsico (IVF). Fabricaci\\u00f3n equipos y aparatos (radios, televisi\\u00f3n y equipos de comunicaci\\u00f3n). Anuales\", \"id\": \"15.1_FEARTC_1997_A_60\", \"scrapingIdentifierCell\": \"T9\", \"scrapingDataStartCell\": \"T10\", \"units\": \"\\u00cdndice 1997=100\", \"dataset_identifier\": \"15\", \"distribution_identifier\": \"15.1\"}, {\"title\": \"fabricacion_instrumentos_medicos_opticos_precision_relojes\", \"type\": \"number\", \"description\": \"\\u00cdndice de Volumen F\\u00edsico (IVF). Fabricaci\\u00f3n instrumentos m\\u00e9dicos, opticos, de presici\\u00f3n y relojes. Anuales\", \"id\": \"15.1_FIMOPR_1997_A_58\", \"scrapingIdentifierCell\": \"U9\", \"scrapingDataStartCell\": \"U10\", \"units\": \"\\u00cdndice 1997=100\", \"dataset_identifier\": \"15\", \"distribution_identifier\": \"15.1\"}, {\"title\": \"fabricacion_vehiculos_automotores_remolques_semirremolques\", \"type\": \"number\", \"description\": \"\\u00cdndice de Volumen F\\u00edsico (IVF). Fabricaci\\u00f3n veh\\u00edculos automotores, remolques y semirremolques. Anuales\", \"id\": \"15.1_FVARS_1997_A_58\", \"scrapingIdentifierCell\": \"V9\", \"scrapingDataStartCell\": \"V10\", \"units\": \"\\u00cdndice 1997=100\", \"dataset_identifier\": \"15\", \"distribution_identifier\": \"15.1\"}, {\"title\": \"fabricacion_equipo_transporte\", \"type\": \"number\", \"description\": \"\\u00cdndice de Volumen F\\u00edsico (IVF). Fabricaci\\u00f3n de equipos de transporte. Anuales\", \"id\": \"15.1_FET_1997_A_29\", \"scrapingIdentifierCell\": \"W9\", \"scrapingDataStartCell\": \"W10\", \"units\": \"\\u00cdndice 1997=100\", \"dataset_identifier\": \"15\", \"distribution_identifier\": \"15.1\"}, {\"title\": \"fabricacion_muebles_colchones_industrias_manufactureras\", \"type\": \"number\", \"description\": \"\\u00cdndice de Volumen F\\u00edsico (IVF). Fabricaci\\u00f3n de muebles, colchones (industria manufacturera). Anuales\", \"id\": \"15.1_FMCIM_1997_A_55\", \"scrapingIdentifierCell\": \"X9\", \"scrapingDataStartCell\": \"X10\", \"units\": \"\\u00cdndice 1997=100\", \"dataset_identifier\": \"15\", \"distribution_identifier\": \"15.1\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-09-28T00:00:00",
+      "datastore_active": false,
+      "description": "Índice de Volumen Físico (IVF). Valores anuales.. Encuesta Industrial Base 1997.",
+      "fileName": "encuesta-industrial-indice-volumen-fisico-valores-anuales-base-1997.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "sspm_15.1",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Índice de Volumen Físico (IVF). Valores anuales.",
+      "package_id": "sspm_15",
+      "position": 0,
+      "resource_type": null,
+      "revision_id": "21c62d15-ceb0-4e9d-bc7a-e5bd20d76b16",
+      "size": null,
+      "state": "active",
+      "url": "https://infra.datos.gob.ar/catalog/sspm/dataset/15/distribution/15.1/download/encuesta-industrial-indice-volumen-fisico-valores-anuales-base-1997.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/",
+      "attributesDescription": "[{\"title\": \"indice_tiempo\", \"type\": \"date\", \"specialType\": \"time_index\", \"specialTypeDetail\": \"R/P3M\", \"id\": \"15.2_IT_1997_T_13\", \"scrapingIdentifierCell\": \"A47\", \"scrapingDataStartCell\": \"A48\", \"dataset_identifier\": \"15\", \"distribution_identifier\": \"15.2\"}, {\"title\": \"nivel_general\", \"type\": \"number\", \"description\": \"\\u00cdndice de Volumen F\\u00edsico (IVF). \\u00cdndice General. Anuales\", \"id\": \"15.2_NG_1997_T_13\", \"scrapingIdentifierCell\": \"B47\", \"scrapingDataStartCell\": \"B48\", \"units\": \"\\u00cdndice 1997=100\", \"dataset_identifier\": \"15\", \"distribution_identifier\": \"15.2\"}, {\"title\": \"elaboracion_productos_alimenticios_bebidas\", \"type\": \"number\", \"description\": \"\\u00cdndice de Volumen F\\u00edsico (IVF). Elaboraci\\u00f3n de productos alimenticios y bebidas. Anuales\", \"id\": \"15.2_EPAB_1997_T_42\", \"scrapingIdentifierCell\": \"C47\", \"scrapingDataStartCell\": \"C48\", \"units\": \"\\u00cdndice 1997=100\", \"dataset_identifier\": \"15\", \"distribution_identifier\": \"15.2\"}, {\"title\": \"elaboracion_productos_tabaco\", \"type\": \"number\", \"description\": \"\\u00cdndice de Volumen F\\u00edsico (IVF). Elaboraci\\u00f3n de productos con tabaco. Anuales\", \"id\": \"15.2_EPT_1997_T_28\", \"scrapingIdentifierCell\": \"D47\", \"scrapingDataStartCell\": \"D48\", \"units\": \"\\u00cdndice 1997=100\", \"dataset_identifier\": \"15\", \"distribution_identifier\": \"15.2\"}, {\"title\": \"fabricacion_productos_textiles\", \"type\": \"number\", \"description\": \"\\u00cdndice de Volumen F\\u00edsico (IVF). Fabricaci\\u00f3n de productos textiles. Anuales\", \"id\": \"15.2_FPT_1997_T_30\", \"scrapingIdentifierCell\": \"E47\", \"scrapingDataStartCell\": \"E48\", \"units\": \"\\u00cdndice 1997=100\", \"dataset_identifier\": \"15\", \"distribution_identifier\": \"15.2\"}, {\"title\": \"fabricacion_prendas_vestir_terminacion_tenido_pieles\", \"type\": \"number\", \"description\": \"\\u00cdndice de Volumen F\\u00edsico (IVF). Fabricaci\\u00f3n de prendas para vestir, terminaci\\u00f3n y tenido de pieles. Anuales\", \"id\": \"15.2_FPVTTP_1997_T_52\", \"scrapingIdentifierCell\": \"F47\", \"scrapingDataStartCell\": \"F48\", \"units\": \"\\u00cdndice 1997=100\", \"dataset_identifier\": \"15\", \"distribution_identifier\": \"15.2\"}, {\"title\": \"curtido_terminacion_cueros_fabricacion_marroq_talaba_calzado\", \"type\": \"number\", \"description\": \"\\u00cdndice de Volumen F\\u00edsico (IVF). Curtido y terminaci\\u00f3n de cueros, fabricaci\\u00f3n de articulos de marroquiner\\u00eda, talabarteria y calzado. Anuales\", \"id\": \"15.2_CTCFAMTCSP_1997_T_60\", \"scrapingIdentifierCell\": \"G47\", \"scrapingDataStartCell\": \"G48\", \"units\": \"\\u00cdndice 1997=100\", \"dataset_identifier\": \"15\", \"distribution_identifier\": \"15.2\"}, {\"title\": \"prod_madera_fab_corcho_excepto_muebles_art_paja_trenzables\", \"type\": \"number\", \"description\": \"\\u00cdndice de Volumen F\\u00edsico (IVF). Producci\\u00f3n y fabricaci\\u00f3n de productos d emadera y corcho expto muebles y articulos de materiales trenzables. Anuales\", \"id\": \"15.2_PMFPMCEMFAPMT_1997_T_58\", \"scrapingIdentifierCell\": \"H47\", \"scrapingDataStartCell\": \"H48\", \"units\": \"\\u00cdndice 1997=100\", \"dataset_identifier\": \"15\", \"distribution_identifier\": \"15.2\"}, {\"title\": \"fabricacion_papel_productos_papel\", \"type\": \"number\", \"description\": \"\\u00cdndice de Volumen F\\u00edsico (IVF). Fabricaci\\u00f3n de papel y productos de papel. Anuales\", \"id\": \"15.2_FPPP_1997_T_33\", \"scrapingIdentifierCell\": \"I47\", \"scrapingDataStartCell\": \"I48\", \"units\": \"\\u00cdndice 1997=100\", \"dataset_identifier\": \"15\", \"distribution_identifier\": \"15.2\"}, {\"title\": \"edicion_impresion_reproduccion_grabaciones\", \"type\": \"number\", \"description\": \"\\u00cdndice de Volumen F\\u00edsico (IVF). Edici\\u00f3n e impresi\\u00f3n, reproducci\\u00f3n y gravaciones. Anuales\", \"id\": \"15.2_EIRG_1997_T_42\", \"scrapingIdentifierCell\": \"J47\", \"scrapingDataStartCell\": \"J48\", \"units\": \"\\u00cdndice 1997=100\", \"dataset_identifier\": \"15\", \"distribution_identifier\": \"15.2\"}, {\"title\": \"fab_coque_prod_refinacion_petroleo_combustible_nuclear\", \"type\": \"number\", \"description\": \"\\u00cdndice de Volumen F\\u00edsico (IVF). Fabricaci\\u00f3n de coque, productos de la refinaci\\u00f3n del petroleo, combustibles y productos nucleares. Anuales\", \"id\": \"15.2_FCPRPCN_1997_T_54\", \"scrapingIdentifierCell\": \"K47\", \"scrapingDataStartCell\": \"K48\", \"units\": \"\\u00cdndice 1997=100\", \"dataset_identifier\": \"15\", \"distribution_identifier\": \"15.2\"}, {\"title\": \"fabricacion_sustancias_productos_quimicos\", \"type\": \"number\", \"description\": \"\\u00cdndice de Volumen F\\u00edsico (IVF). Fabricaci\\u00f3n sustencias y productos qu\\u00edmicos. Anuales\", \"id\": \"15.2_FSPQ_1997_T_41\", \"scrapingIdentifierCell\": \"L47\", \"scrapingDataStartCell\": \"L48\", \"units\": \"\\u00cdndice 1997=100\", \"dataset_identifier\": \"15\", \"distribution_identifier\": \"15.2\"}, {\"title\": \"fabricacion_productos_caucho_plastico\", \"type\": \"number\", \"description\": \"\\u00cdndice de Volumen F\\u00edsico (IVF). Fabricaci\\u00f3n de productos de caucho. Anuales\", \"id\": \"15.2_FPCP_1997_T_37\", \"scrapingIdentifierCell\": \"M47\", \"scrapingDataStartCell\": \"M48\", \"units\": \"\\u00cdndice 1997=100\", \"dataset_identifier\": \"15\", \"distribution_identifier\": \"15.2\"}, {\"title\": \"fabricacion_productos_minerales_no_metalicos\", \"type\": \"number\", \"description\": \"\\u00cdndice de Volumen F\\u00edsico (IVF). Fabricaci\\u00f3n de productos minerales no met\\u00e1licos. Anuales\", \"id\": \"15.2_FPMNM_1997_T_44\", \"scrapingIdentifierCell\": \"N47\", \"scrapingDataStartCell\": \"N48\", \"units\": \"\\u00cdndice 1997=100\", \"dataset_identifier\": \"15\", \"distribution_identifier\": \"15.2\"}, {\"title\": \"fabricacion_metales_comunes\", \"type\": \"number\", \"description\": \"\\u00cdndice de Volumen F\\u00edsico (IVF). Fabricaci\\u00f3n de metales comunes. Anuales\", \"id\": \"15.2_FMC_1997_T_27\", \"scrapingIdentifierCell\": \"O47\", \"scrapingDataStartCell\": \"O48\", \"units\": \"\\u00cdndice 1997=100\", \"dataset_identifier\": \"15\", \"distribution_identifier\": \"15.2\"}, {\"title\": \"fabricacion_productos_elaborados_metal_excepto_maquinaria\", \"type\": \"number\", \"description\": \"\\u00cdndice de Volumen F\\u00edsico (IVF). Fabricaci\\u00f3n productos elaborados de metal expto maquinaria y equipos. Anuales\", \"id\": \"15.2_FPEMEME_1997_T_57\", \"scrapingIdentifierCell\": \"P47\", \"scrapingDataStartCell\": \"P48\", \"units\": \"\\u00cdndice 1997=100\", \"dataset_identifier\": \"15\", \"distribution_identifier\": \"15.2\"}, {\"title\": \"fabricacion_maquinaria_equipos\", \"type\": \"number\", \"description\": \"\\u00cdndice de Volumen F\\u00edsico (IVF). Fabricaci\\u00f3n maquinaria y equipos. Anuales\", \"id\": \"15.2_FME_1997_T_30\", \"scrapingIdentifierCell\": \"Q47\", \"scrapingDataStartCell\": \"Q48\", \"units\": \"\\u00cdndice 1997=100\", \"dataset_identifier\": \"15\", \"distribution_identifier\": \"15.2\"}, {\"title\": \"fabricacion_maquinaria_oficina_contabilidad_informatica\", \"type\": \"number\", \"description\": \"\\u00cdndice de Volumen F\\u00edsico (IVF). Fabricaci\\u00f3n maquinaria y equipos de oficina. Anuales\", \"id\": \"15.2_FMOCI_1997_T_55\", \"scrapingIdentifierCell\": \"R47\", \"scrapingDataStartCell\": \"R48\", \"units\": \"\\u00cdndice 1997=100\", \"dataset_identifier\": \"15\", \"distribution_identifier\": \"15.2\"}, {\"title\": \"fabricacion_maquinaria_aparatos_electronicos\", \"type\": \"number\", \"description\": \"\\u00cdndice de Volumen F\\u00edsico (IVF). Fabricaci\\u00f3n maquinaria y aparatos electronicos. Anuales\", \"id\": \"15.2_FMAE_1997_T_44\", \"scrapingIdentifierCell\": \"S47\", \"scrapingDataStartCell\": \"S48\", \"units\": \"\\u00cdndice 1997=100\", \"dataset_identifier\": \"15\", \"distribution_identifier\": \"15.2\"}, {\"title\": \"fabricacion_equipos_aparatos_radio_television_comunicaciones\", \"type\": \"number\", \"description\": \"\\u00cdndice de Volumen F\\u00edsico (IVF). Fabricaci\\u00f3n equipos y aparatos (radios, televisi\\u00f3n y equipos de comunicaci\\u00f3n). Anuales\", \"id\": \"15.2_FEARTC_1997_T_60\", \"scrapingIdentifierCell\": \"T47\", \"scrapingDataStartCell\": \"T48\", \"units\": \"\\u00cdndice 1997=100\", \"dataset_identifier\": \"15\", \"distribution_identifier\": \"15.2\"}, {\"title\": \"fabricacion_instrumentos_medicos_opticos_precision_relojes\", \"type\": \"number\", \"description\": \"\\u00cdndice de Volumen F\\u00edsico (IVF). Fabricaci\\u00f3n instrumentos m\\u00e9dicos, opticos, de presici\\u00f3n y relojes. Anuales\", \"id\": \"15.2_FIMOPR_1997_T_58\", \"scrapingIdentifierCell\": \"U47\", \"scrapingDataStartCell\": \"U48\", \"units\": \"\\u00cdndice 1997=100\", \"dataset_identifier\": \"15\", \"distribution_identifier\": \"15.2\"}, {\"title\": \"fabricacion_vehiculos_automotores_remolques_semirremolques\", \"type\": \"number\", \"description\": \"\\u00cdndice de Volumen F\\u00edsico (IVF). Fabricaci\\u00f3n veh\\u00edculos automotores, remolques y semirremolques. Anuales\", \"id\": \"15.2_FVARS_1997_T_58\", \"scrapingIdentifierCell\": \"V47\", \"scrapingDataStartCell\": \"V48\", \"units\": \"\\u00cdndice 1997=100\", \"dataset_identifier\": \"15\", \"distribution_identifier\": \"15.2\"}, {\"title\": \"fabricacion_equipo_transporte\", \"type\": \"number\", \"description\": \"\\u00cdndice de Volumen F\\u00edsico (IVF). Fabricaci\\u00f3n de equipos de transporte. Anuales\", \"id\": \"15.2_FET_1997_T_29\", \"scrapingIdentifierCell\": \"W47\", \"scrapingDataStartCell\": \"W48\", \"units\": \"\\u00cdndice 1997=100\", \"dataset_identifier\": \"15\", \"distribution_identifier\": \"15.2\"}, {\"title\": \"fabricacion_muebles_colchones_industrias_manufactureras\", \"type\": \"number\", \"description\": \"\\u00cdndice de Volumen F\\u00edsico (IVF). Fabricaci\\u00f3n de muebles, colchones (industria manufacturera). Anuales\", \"id\": \"15.2_FMCIM_1997_T_55\", \"scrapingIdentifierCell\": \"X47\", \"scrapingDataStartCell\": \"X48\", \"units\": \"\\u00cdndice 1997=100\", \"dataset_identifier\": \"15\", \"distribution_identifier\": \"15.2\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-09-28T00:00:00",
+      "datastore_active": false,
+      "description": "Índice de Volumen Físico (IVF). Valores trimestrales.. Encuesta Industrial Base 1997.",
+      "fileName": "encuesta-industrial-indice-volumen-fisico-valores-trimestrales-base-1997.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "sspm_15.2",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Índice de Volumen Físico (IVF). Valores trimestrales.",
+      "package_id": "sspm_15",
+      "position": 1,
+      "resource_type": null,
+      "revision_id": "21c62d15-ceb0-4e9d-bc7a-e5bd20d76b16",
+      "size": null,
+      "state": "active",
+      "url": "https://infra.datos.gob.ar/catalog/sspm/dataset/15/distribution/15.2/download/encuesta-industrial-indice-volumen-fisico-valores-trimestrales-base-1997.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "21c62d15-ceb0-4e9d-bc7a-e5bd20d76b16",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "Actividad",
+      "id": "a7695c51-c893-4ece-8ff9-306c197afdd7",
+      "name": "Actividad",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Información Económica al Día",
+      "id": "0d300a9a-0802-46c3-9a40-2f28ddf050ec",
+      "name": "Información Económica al Día",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Índice de Volumen Físico (IVF)",
+  "type": "dataset",
+  "url": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/",
+  "version": null
+}

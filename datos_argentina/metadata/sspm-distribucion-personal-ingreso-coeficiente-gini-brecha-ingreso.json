@@ -1,0 +1,124 @@
+{
+  "author": "Subsecretaría de Programación Macroeconómica",
+  "author_email": "datoseconomicos@mecon.gov.ar",
+  "creator_user_id": "4720e75a-9e17-4dc3-879d-041917c7f9f9",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P3M"
+    },
+    {
+      "key": "issued",
+      "value": "2017-09-28"
+    },
+    {
+      "key": "language",
+      "value": "[\"SPA\"]"
+    },
+    {
+      "key": "source",
+      "value": "Instituto Nacional de Estadística y Censos (INDEC)"
+    },
+    {
+      "key": "spatial",
+      "value": "ARG"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"ECON\"]"
+    },
+    {
+      "key": "temporal",
+      "value": "2003-07-01/2015-09-01"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Economía y finanzas",
+      "display_name": "Economía y finanzas",
+      "id": "60b4b03e-10a1-4d67-b984-08008a249617",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225257.200233economia-finanzas.svg",
+      "name": "econ",
+      "title": "Economía y finanzas"
+    }
+  ],
+  "id": "sspm_65",
+  "isopen": true,
+  "license_id": "CC-BY-4.0",
+  "license_title": "Creative Commons Attribution 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "maintainer": "Subsecretaría de Programación Macroeconómica.",
+  "maintainer_email": "datoseconomicos@mecon.gov.ar",
+  "metadata_created": "2019-11-26T15:06:31.742828",
+  "metadata_modified": "2021-04-29T21:06:02.555200",
+  "name": "sspm-distribucion-personal-ingreso-coeficiente-gini-brecha-ingreso",
+  "notes": "Distribución Personal del Ingreso. Coeficiente de Gini y Brecha de Ingresos (Ratio Percentil 90/ Percentil 10)  para el Ingreso de la Ocupación Principal e Ingreso per cápita Familiar para el total de aglomerados urbanos EPH continua",
+  "num_resources": 1,
+  "num_tags": 2,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:09.718132",
+    "description": "",
+    "id": "68f9ee22-5ec3-44cf-a32b-b87d9db46b93",
+    "image_url": "",
+    "is_organization": true,
+    "name": "sspm",
+    "revision_id": "bc058ce0-3540-4204-96cd-9f9ec79045b3",
+    "state": "active",
+    "title": "Subsecretaría de Programación Macroeconómica",
+    "type": "organization"
+  },
+  "owner_org": "68f9ee22-5ec3-44cf-a32b-b87d9db46b93",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/",
+      "attributesDescription": "[{\"title\": \"indice_tiempo\", \"type\": \"date\", \"specialType\": \"time_index\", \"specialTypeDetail\": \"R/P3M\", \"id\": \"65.1_IT_0_0_13\", \"scrapingIdentifierCell\": \"B12\", \"scrapingDataStartCell\": \"B13\", \"dataset_identifier\": \"65\", \"distribution_identifier\": \"65.1\"}, {\"title\": \"coeficiente_gini_iop\", \"type\": \"number\", \"description\": \"Coeficiente de Gini del Ingreso de la ocupaci\\u00f3n principal\", \"id\": \"65.1_CGI_0_0_20\", \"scrapingIdentifierCell\": \"C12\", \"scrapingDataStartCell\": \"C13\", \"units\": \"Coeficiente de Gini\", \"dataset_identifier\": \"65\", \"distribution_identifier\": \"65.1\"}, {\"title\": \"coeficiente_gini_ipcf\", \"type\": \"number\", \"description\": \"Coeficiente de Gini del Ingreso per c\\u00e1pita familiar\", \"id\": \"65.1_CGI_0_0_21\", \"scrapingIdentifierCell\": \"D12\", \"scrapingDataStartCell\": \"D13\", \"units\": \"Coeficiente de Gini\", \"dataset_identifier\": \"65\", \"distribution_identifier\": \"65.1\"}, {\"title\": \"brecha_ingresos_iop\", \"type\": \"number\", \"description\": \"Brecha del Ingreso de la ocupaci\\u00f3n principal (Ratio Percentil 90/ Percentil 10)\", \"id\": \"65.1_BII_0_0_19\", \"scrapingIdentifierCell\": \"E12\", \"scrapingDataStartCell\": \"E13\", \"units\": \"Brecha de ingresos\", \"dataset_identifier\": \"65\", \"distribution_identifier\": \"65.1\"}, {\"title\": \"brecha_ingresos_ipcf\", \"type\": \"number\", \"description\": \"Brecha del Ingreso per c\\u00e1pita familiar (Ratio Percentil 90/ Percentil 10)\", \"id\": \"65.1_BII_0_0_20\", \"scrapingIdentifierCell\": \"F12\", \"scrapingDataStartCell\": \"F13\", \"units\": \"Brecha de ingresos\", \"dataset_identifier\": \"65\", \"distribution_identifier\": \"65.1\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-09-28T00:00:00",
+      "datastore_active": false,
+      "description": "Distribución Personal del Ingreso. Coeficiente de Gini y Brecha de Ingresos (Ratio Percentil 90/ Percentil 10)  para el Ingreso de la Ocupación Principal e Ingreso per cápita Familiar para el total de aglomerados urbanos EPH continua",
+      "fileName": "indicadores-distribucion-ingreso-ocupacion-principal-e-ingreso-per-capita-familiar.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "sspm_65.1",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Distribución Personal del Ingreso. Coeficiente de Gini y Brecha de Ingresos para el Ingreso de la Ocupación Principal e Ingreso per cápita Familiar. Percentil 90 / Percentil 10",
+      "package_id": "sspm_65",
+      "position": 0,
+      "resource_type": null,
+      "revision_id": "f138e469-91cc-4b67-8734-c0f56ffc3182",
+      "size": null,
+      "state": "active",
+      "url": "https://infra.datos.gob.ar/catalog/sspm/dataset/65/distribution/65.1/download/indicadores-distribucion-ingreso-ocupacion-principal-e-ingreso-per-capita-familiar.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "f138e469-91cc-4b67-8734-c0f56ffc3182",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "Empleo e Ingresos",
+      "id": "0d41bcfd-c3a4-4ff7-8aa1-dd5c3ac51d0b",
+      "name": "Empleo e Ingresos",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Información Económica al Día",
+      "id": "0d300a9a-0802-46c3-9a40-2f28ddf050ec",
+      "name": "Información Económica al Día",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Distribución Personal del Ingreso. Coeficiente de Gini y Brecha de Ingreso.",
+  "type": "dataset",
+  "url": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/",
+  "version": null
+}

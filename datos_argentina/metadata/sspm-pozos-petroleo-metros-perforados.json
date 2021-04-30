@@ -1,0 +1,174 @@
+{
+  "author": "Subsecretaría de Programación Macroeconómica",
+  "author_email": "datoseconomicos@mecon.gov.ar",
+  "creator_user_id": "4720e75a-9e17-4dc3-879d-041917c7f9f9",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P1M"
+    },
+    {
+      "key": "issued",
+      "value": "2017-12-21"
+    },
+    {
+      "key": "language",
+      "value": "[\"SPA\"]"
+    },
+    {
+      "key": "source",
+      "value": "Ministerio de Energía y Minería"
+    },
+    {
+      "key": "spatial",
+      "value": "ARG"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"ECON\"]"
+    },
+    {
+      "key": "temporal",
+      "value": "2004-01-01/2017-10-01"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Economía y finanzas",
+      "display_name": "Economía y finanzas",
+      "id": "60b4b03e-10a1-4d67-b984-08008a249617",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225257.200233economia-finanzas.svg",
+      "name": "econ",
+      "title": "Economía y finanzas"
+    }
+  ],
+  "id": "sspm_366",
+  "isopen": true,
+  "license_id": "CC-BY-4.0",
+  "license_title": "Creative Commons Attribution 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "maintainer": "Subsecretaría de Programación Macroeconómica.",
+  "maintainer_email": "datoseconomicos@mecon.gov.ar",
+  "metadata_created": "2019-11-26T15:05:30.481105",
+  "metadata_modified": "2021-04-29T21:05:56.033267",
+  "name": "sspm-pozos-petroleo-metros-perforados",
+  "notes": "Datos pozos y metros perforados",
+  "num_resources": 3,
+  "num_tags": 2,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:09.718132",
+    "description": "",
+    "id": "68f9ee22-5ec3-44cf-a32b-b87d9db46b93",
+    "image_url": "",
+    "is_organization": true,
+    "name": "sspm",
+    "revision_id": "bc058ce0-3540-4204-96cd-9f9ec79045b3",
+    "state": "active",
+    "title": "Subsecretaría de Programación Macroeconómica",
+    "type": "organization"
+  },
+  "owner_org": "68f9ee22-5ec3-44cf-a32b-b87d9db46b93",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/",
+      "attributesDescription": "[{\"title\": \"indice_tiempo\", \"type\": \"date\", \"specialType\": \"time_index\", \"specialTypeDetail\": \"R/P1Y\", \"id\": \"366.1_INDICE_TIEMPO__13\", \"scrapingIdentifierCell\": \"A7\", \"scrapingDataStartCell\": \"A8\", \"dataset_identifier\": \"366\", \"distribution_identifier\": \"366.1\"}, {\"title\": \"pozos_terminados_avanzada\", \"type\": \"number\", \"description\": \"Pozos termnados Avanzada\", \"id\": \"366.1_POZOS_TERMADA__25\", \"scrapingIdentifierCell\": \"B7\", \"scrapingDataStartCell\": \"B8\", \"units\": \"Cantidad de pozos\", \"dataset_identifier\": \"366\", \"distribution_identifier\": \"366.1\"}, {\"title\": \"pozos_terminados_exploracion\", \"type\": \"number\", \"description\": \"Pozos termnados Exploraci\\u00f3n\", \"id\": \"366.1_POZOS_TERMION__28\", \"scrapingIdentifierCell\": \"C7\", \"scrapingDataStartCell\": \"C8\", \"units\": \"Cantidad de pozos\", \"dataset_identifier\": \"366\", \"distribution_identifier\": \"366.1\"}, {\"title\": \"pozos_terminados_explotacion\", \"type\": \"number\", \"description\": \"Pozos termnados Explotaci\\u00f3n\", \"id\": \"366.1_POZOS_TERMION_I__28\", \"scrapingIdentifierCell\": \"D7\", \"scrapingDataStartCell\": \"D8\", \"units\": \"Cantidad de pozos\", \"dataset_identifier\": \"366\", \"distribution_identifier\": \"366.1\"}, {\"title\": \"pozos_terminados_servicio\", \"type\": \"number\", \"description\": \"Pozos termnados Servicio\", \"id\": \"366.1_POZOS_TERMCIO__25\", \"scrapingIdentifierCell\": \"E7\", \"scrapingDataStartCell\": \"E8\", \"units\": \"Cantidad de pozos\", \"dataset_identifier\": \"366\", \"distribution_identifier\": \"366.1\"}, {\"title\": \"pozos_terminados_total_general\", \"type\": \"number\", \"description\": \"Pozos termnados Total general\", \"id\": \"366.1_POZOS_TERMRAL__30\", \"scrapingIdentifierCell\": \"F7\", \"scrapingDataStartCell\": \"F8\", \"units\": \"Cantidad de pozos\", \"dataset_identifier\": \"366\", \"distribution_identifier\": \"366.1\"}, {\"title\": \"metros_perforados_avanzada\", \"type\": \"number\", \"description\": \"Metros perforados Avanzada\", \"id\": \"366.1_METROS_PERADA__26\", \"scrapingIdentifierCell\": \"H7\", \"scrapingDataStartCell\": \"H8\", \"units\": \"Metros\", \"dataset_identifier\": \"366\", \"distribution_identifier\": \"366.1\"}, {\"title\": \"metros_perforados_exploracion\", \"type\": \"number\", \"description\": \"Metros perforados Exploraci\\u00f3n\", \"id\": \"366.1_METROS_PERION__29\", \"scrapingIdentifierCell\": \"I7\", \"scrapingDataStartCell\": \"I8\", \"units\": \"Metros\", \"dataset_identifier\": \"366\", \"distribution_identifier\": \"366.1\"}, {\"title\": \"metros_perforados_explotacion\", \"type\": \"number\", \"description\": \"Metros perforados Explotaci\\u00f3n\", \"id\": \"366.1_METROS_PERION_II__29\", \"scrapingIdentifierCell\": \"J7\", \"scrapingDataStartCell\": \"J8\", \"units\": \"Metros\", \"dataset_identifier\": \"366\", \"distribution_identifier\": \"366.1\"}, {\"title\": \"metros_perforados_servicio\", \"type\": \"number\", \"description\": \"Metros perforados Servicio\", \"id\": \"366.1_METROS_PERCIO__26\", \"scrapingIdentifierCell\": \"K7\", \"scrapingDataStartCell\": \"K8\", \"units\": \"Metros\", \"dataset_identifier\": \"366\", \"distribution_identifier\": \"366.1\"}, {\"title\": \"metros_perforados_total_general\", \"type\": \"number\", \"description\": \"Metros perforados Total general\", \"id\": \"366.1_METROS_PERRAL__31\", \"scrapingIdentifierCell\": \"L7\", \"scrapingDataStartCell\": \"L8\", \"units\": \"Metros\", \"dataset_identifier\": \"366\", \"distribution_identifier\": \"366.1\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-12-21T00:00:00",
+      "datastore_active": false,
+      "description": "Exportaciones por sector de actividad, saldo comercial y rangos de exportación de la empresa exportadora. Datos anuales",
+      "fileName": "exportaciones-actividad-saldo-comercial-empresa-exportadora-anual.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "sspm_366.1",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Exportaciones por sector de actividad, saldo comercial y rangos de exportación de la empresa exportadora. Datos anuales",
+      "package_id": "sspm_366",
+      "position": 0,
+      "resource_type": null,
+      "revision_id": "fb10d23c-867e-4dfd-a66a-191d5372c580",
+      "size": null,
+      "state": "active",
+      "url": "https://infra.datos.gob.ar/catalog/sspm/dataset/366/distribution/366.1/download/exportaciones-actividad-saldo-comercial-empresa-exportadora-anual.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/",
+      "attributesDescription": "[{\"title\": \"indice_tiempo\", \"type\": \"date\", \"specialType\": \"time_index\", \"specialTypeDetail\": \"R/P3M\", \"id\": \"366.2_INDICE_TIEMPO__13\", \"scrapingIdentifierCell\": \"A39\", \"scrapingDataStartCell\": \"A40\", \"dataset_identifier\": \"366\", \"distribution_identifier\": \"366.2\"}, {\"title\": \"pozos_terminados_avanzada\", \"type\": \"number\", \"description\": \"Pozos termnados Avanzada\", \"id\": \"366.2_POZOS_TERMADA__25\", \"scrapingIdentifierCell\": \"B39\", \"scrapingDataStartCell\": \"B40\", \"units\": \"Cantidad de pozos\", \"dataset_identifier\": \"366\", \"distribution_identifier\": \"366.2\"}, {\"title\": \"pozos_terminados_exploracion\", \"type\": \"number\", \"description\": \"Pozos termnados Exploraci\\u00f3n\", \"id\": \"366.2_POZOS_TERMION__28\", \"scrapingIdentifierCell\": \"C39\", \"scrapingDataStartCell\": \"C40\", \"units\": \"Cantidad de pozos\", \"dataset_identifier\": \"366\", \"distribution_identifier\": \"366.2\"}, {\"title\": \"pozos_terminados_explotacion\", \"type\": \"number\", \"description\": \"Pozos termnados Explotaci\\u00f3n\", \"id\": \"366.2_POZOS_TERMION_I__28\", \"scrapingIdentifierCell\": \"D39\", \"scrapingDataStartCell\": \"D40\", \"units\": \"Cantidad de pozos\", \"dataset_identifier\": \"366\", \"distribution_identifier\": \"366.2\"}, {\"title\": \"pozos_terminados_servicio\", \"type\": \"number\", \"description\": \"Pozos termnados Servicio\", \"id\": \"366.2_POZOS_TERMCIO__25\", \"scrapingIdentifierCell\": \"E39\", \"scrapingDataStartCell\": \"E40\", \"units\": \"Cantidad de pozos\", \"dataset_identifier\": \"366\", \"distribution_identifier\": \"366.2\"}, {\"title\": \"pozos_terminados_total_general\", \"type\": \"number\", \"description\": \"Pozos termnados Total general\", \"id\": \"366.2_POZOS_TERMRAL__30\", \"scrapingIdentifierCell\": \"F39\", \"scrapingDataStartCell\": \"F40\", \"units\": \"Cantidad de pozos\", \"dataset_identifier\": \"366\", \"distribution_identifier\": \"366.2\"}, {\"title\": \"metros_perforados_avanzada\", \"type\": \"number\", \"description\": \"Metros perforados Avanzada\", \"id\": \"366.2_METROS_PERADA__26\", \"scrapingIdentifierCell\": \"H39\", \"scrapingDataStartCell\": \"H40\", \"units\": \"Metros\", \"dataset_identifier\": \"366\", \"distribution_identifier\": \"366.2\"}, {\"title\": \"metros_perforados_exploracion\", \"type\": \"number\", \"description\": \"Metros perforados Exploraci\\u00f3n\", \"id\": \"366.2_METROS_PERION__29\", \"scrapingIdentifierCell\": \"I39\", \"scrapingDataStartCell\": \"I40\", \"units\": \"Metros\", \"dataset_identifier\": \"366\", \"distribution_identifier\": \"366.2\"}, {\"title\": \"metros_perforados_explotacion\", \"type\": \"number\", \"description\": \"Metros perforados Explotaci\\u00f3n\", \"id\": \"366.2_METROS_PERION_II__29\", \"scrapingIdentifierCell\": \"J39\", \"scrapingDataStartCell\": \"J40\", \"units\": \"Metros\", \"dataset_identifier\": \"366\", \"distribution_identifier\": \"366.2\"}, {\"title\": \"metros_perforados_servicio\", \"type\": \"number\", \"description\": \"Metros perforados Servicio\", \"id\": \"366.2_METROS_PERCIO__26\", \"scrapingIdentifierCell\": \"K39\", \"scrapingDataStartCell\": \"K40\", \"units\": \"Metros\", \"dataset_identifier\": \"366\", \"distribution_identifier\": \"366.2\"}, {\"title\": \"metros_perforados_total_general\", \"type\": \"number\", \"description\": \"Metros perforados Total general\", \"id\": \"366.2_METROS_PERRAL__31\", \"scrapingIdentifierCell\": \"L39\", \"scrapingDataStartCell\": \"L40\", \"units\": \"Metros\", \"dataset_identifier\": \"366\", \"distribution_identifier\": \"366.2\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-12-21T00:00:00",
+      "datastore_active": false,
+      "description": "Exportaciones por sector de actividad, saldo comercial y rangos de exportación de la empresa exportadora. Datos trimestrales",
+      "fileName": "exportaciones-actividad-saldo-comercial-empresa-exportadora-trimestral.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "sspm_366.2",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Exportaciones por sector de actividad, saldo comercial y rangos de exportación de la empresa exportadora. Datos trimestrales",
+      "package_id": "sspm_366",
+      "position": 1,
+      "resource_type": null,
+      "revision_id": "fb10d23c-867e-4dfd-a66a-191d5372c580",
+      "size": null,
+      "state": "active",
+      "url": "https://infra.datos.gob.ar/catalog/sspm/dataset/366/distribution/366.2/download/exportaciones-actividad-saldo-comercial-empresa-exportadora-trimestral.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/",
+      "attributesDescription": "[{\"title\": \"indice_tiempo\", \"type\": \"date\", \"specialType\": \"time_index\", \"specialTypeDetail\": \"R/P1M\", \"id\": \"366.3_INDICE_TIEMPO__13\", \"scrapingIdentifierCell\": \"A141\", \"scrapingDataStartCell\": \"A142\", \"dataset_identifier\": \"366\", \"distribution_identifier\": \"366.3\"}, {\"title\": \"pozos_terminados_avanzada\", \"type\": \"number\", \"description\": \"Pozos termnados Avanzada\", \"id\": \"366.3_POZOS_TERMADA__25\", \"scrapingIdentifierCell\": \"B141\", \"scrapingDataStartCell\": \"B142\", \"units\": \"Cantidad de pozos\", \"dataset_identifier\": \"366\", \"distribution_identifier\": \"366.3\"}, {\"title\": \"pozos_terminados_exploracion\", \"type\": \"number\", \"description\": \"Pozos termnados Exploraci\\u00f3n\", \"id\": \"366.3_POZOS_TERMION__28\", \"scrapingIdentifierCell\": \"C141\", \"scrapingDataStartCell\": \"C142\", \"units\": \"Cantidad de pozos\", \"dataset_identifier\": \"366\", \"distribution_identifier\": \"366.3\"}, {\"title\": \"pozos_terminados_explotacion\", \"type\": \"number\", \"description\": \"Pozos termnados Explotaci\\u00f3n\", \"id\": \"366.3_POZOS_TERMION_I__28\", \"scrapingIdentifierCell\": \"D141\", \"scrapingDataStartCell\": \"D142\", \"units\": \"Cantidad de pozos\", \"dataset_identifier\": \"366\", \"distribution_identifier\": \"366.3\"}, {\"title\": \"pozos_terminados_servicio\", \"type\": \"number\", \"description\": \"Pozos termnados Servicio\", \"id\": \"366.3_POZOS_TERMCIO__25\", \"scrapingIdentifierCell\": \"E141\", \"scrapingDataStartCell\": \"E142\", \"units\": \"Cantidad de pozos\", \"dataset_identifier\": \"366\", \"distribution_identifier\": \"366.3\"}, {\"title\": \"pozos_terminados_total_general\", \"type\": \"number\", \"description\": \"Pozos termnados Total general\", \"id\": \"366.3_POZOS_TERMRAL__30\", \"scrapingIdentifierCell\": \"F141\", \"scrapingDataStartCell\": \"F142\", \"units\": \"Cantidad de pozos\", \"dataset_identifier\": \"366\", \"distribution_identifier\": \"366.3\"}, {\"title\": \"metros_perforados_avanzada\", \"type\": \"number\", \"description\": \"Metros perforados Avanzada\", \"id\": \"366.3_METROS_PERADA__26\", \"scrapingIdentifierCell\": \"H141\", \"scrapingDataStartCell\": \"H142\", \"units\": \"Metros\", \"dataset_identifier\": \"366\", \"distribution_identifier\": \"366.3\"}, {\"title\": \"metros_perforados_exploracion\", \"type\": \"number\", \"description\": \"Metros perforados Exploraci\\u00f3n\", \"id\": \"366.3_METROS_PERION__29\", \"scrapingIdentifierCell\": \"I141\", \"scrapingDataStartCell\": \"I142\", \"units\": \"Metros\", \"dataset_identifier\": \"366\", \"distribution_identifier\": \"366.3\"}, {\"title\": \"metros_perforados_explotacion\", \"type\": \"number\", \"description\": \"Metros perforados Explotaci\\u00f3n\", \"id\": \"366.3_METROS_PERION_II__29\", \"scrapingIdentifierCell\": \"J141\", \"scrapingDataStartCell\": \"J142\", \"units\": \"Metros\", \"dataset_identifier\": \"366\", \"distribution_identifier\": \"366.3\"}, {\"title\": \"metros_perforados_servicio\", \"type\": \"number\", \"description\": \"Metros perforados Servicio\", \"id\": \"366.3_METROS_PERCIO__26\", \"scrapingIdentifierCell\": \"K141\", \"scrapingDataStartCell\": \"K142\", \"units\": \"Metros\", \"dataset_identifier\": \"366\", \"distribution_identifier\": \"366.3\"}, {\"title\": \"metros_perforados_total_general\", \"type\": \"number\", \"description\": \"Metros perforados Total general\", \"id\": \"366.3_METROS_PERRAL__31\", \"scrapingIdentifierCell\": \"L141\", \"scrapingDataStartCell\": \"L142\", \"units\": \"Metros\", \"dataset_identifier\": \"366\", \"distribution_identifier\": \"366.3\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-12-21T00:00:00",
+      "datastore_active": false,
+      "description": "Exportaciones por sector de actividad, saldo comercial y rangos de exportación de la empresa exportadora. Datos mensuales",
+      "fileName": "exportaciones-actividad-saldo-comercial-empresa-exportadora-mensul.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "sspm_366.3",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Exportaciones por sector de actividad, saldo comercial y rangos de exportación de la empresa exportadora. Datos mensuales",
+      "package_id": "sspm_366",
+      "position": 2,
+      "resource_type": null,
+      "revision_id": "fb10d23c-867e-4dfd-a66a-191d5372c580",
+      "size": null,
+      "state": "active",
+      "url": "https://infra.datos.gob.ar/catalog/sspm/dataset/366/distribution/366.3/download/exportaciones-actividad-saldo-comercial-empresa-exportadora-mensul.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "fb10d23c-867e-4dfd-a66a-191d5372c580",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "Actividad",
+      "id": "a7695c51-c893-4ece-8ff9-306c197afdd7",
+      "name": "Actividad",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Información Económica al Día",
+      "id": "0d300a9a-0802-46c3-9a40-2f28ddf050ec",
+      "name": "Información Económica al Día",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Pozos de petróleo y metros perforados",
+  "type": "dataset",
+  "url": "http://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/",
+  "version": null
+}

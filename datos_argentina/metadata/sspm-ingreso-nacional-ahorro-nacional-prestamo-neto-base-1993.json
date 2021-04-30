@@ -1,0 +1,149 @@
+{
+  "author": "Subsecretaría de Programación Macroeconómica",
+  "author_email": "datoseconomicos@mecon.gov.ar",
+  "creator_user_id": "4720e75a-9e17-4dc3-879d-041917c7f9f9",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P3M"
+    },
+    {
+      "key": "issued",
+      "value": "2017-09-28"
+    },
+    {
+      "key": "language",
+      "value": "[\"SPA\"]"
+    },
+    {
+      "key": "source",
+      "value": "Instituto Nacional de Estadística y Censos (INDEC)"
+    },
+    {
+      "key": "spatial",
+      "value": "ARG"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"ECON\"]"
+    },
+    {
+      "key": "temporal",
+      "value": "1993-01-01/2013-09-30"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Economía y finanzas",
+      "display_name": "Economía y finanzas",
+      "id": "60b4b03e-10a1-4d67-b984-08008a249617",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225257.200233economia-finanzas.svg",
+      "name": "econ",
+      "title": "Economía y finanzas"
+    }
+  ],
+  "id": "sspm_26",
+  "isopen": true,
+  "license_id": "CC-BY-4.0",
+  "license_title": "Creative Commons Attribution 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "maintainer": "Subsecretaría de Programación Macroeconómica.",
+  "maintainer_email": "datoseconomicos@mecon.gov.ar",
+  "metadata_created": "2019-11-26T15:06:39.786893",
+  "metadata_modified": "2021-04-29T21:05:23.905085",
+  "name": "sspm-ingreso-nacional-ahorro-nacional-prestamo-neto-base-1993",
+  "notes": "Ingreso y Ahorro Nacional y Prestamos netos en pesos constantes de 1993",
+  "num_resources": 2,
+  "num_tags": 2,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:09.718132",
+    "description": "",
+    "id": "68f9ee22-5ec3-44cf-a32b-b87d9db46b93",
+    "image_url": "",
+    "is_organization": true,
+    "name": "sspm",
+    "revision_id": "bc058ce0-3540-4204-96cd-9f9ec79045b3",
+    "state": "active",
+    "title": "Subsecretaría de Programación Macroeconómica",
+    "type": "organization"
+  },
+  "owner_org": "68f9ee22-5ec3-44cf-a32b-b87d9db46b93",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/",
+      "attributesDescription": "[{\"title\": \"indice_tiempo\", \"type\": \"date\", \"specialType\": \"time_index\", \"specialTypeDetail\": \"R/P1Y\", \"id\": \"26.1_IT_0_A_13\", \"scrapingIdentifierCell\": \"A8\", \"scrapingDataStartCell\": \"A9\", \"dataset_identifier\": \"26\", \"distribution_identifier\": \"26.1\"}, {\"title\": \"producto_interno_bruto_precios_mercado\", \"type\": \"number\", \"description\": \"Producto Interno Bruto a precios de mercado en pesos corrientes\", \"id\": \"26.1_PIBPM_0_A_38\", \"scrapingIdentifierCell\": \"B8\", \"scrapingDataStartCell\": \"B9\", \"units\": \"Millones de pesos\", \"dataset_identifier\": \"26\", \"distribution_identifier\": \"26.1\"}, {\"title\": \"remuneracion_neta_factores_del_exterior\", \"type\": \"number\", \"description\": \"Remuneraci\\u00f3n neta a factores del exterior en pesos corrientes\", \"id\": \"26.1_RNFDE_0_A_39\", \"scrapingIdentifierCell\": \"C8\", \"scrapingDataStartCell\": \"C9\", \"units\": \"Millones de pesos\", \"dataset_identifier\": \"26\", \"distribution_identifier\": \"26.1\"}, {\"title\": \"ingreso_nacional_bruto_precios_mercado\", \"type\": \"number\", \"description\": \"Ingreso Nacional Bruto a precios de mercado en pesos corrientes\", \"id\": \"26.1_INBPM_0_A_38\", \"scrapingIdentifierCell\": \"D8\", \"scrapingDataStartCell\": \"D9\", \"units\": \"Millones de pesos\", \"dataset_identifier\": \"26\", \"distribution_identifier\": \"26.1\"}, {\"title\": \"transferencias_corrientes_netas\", \"type\": \"number\", \"description\": \"Transferencias corrientes netas en pesos corrientes\", \"id\": \"26.1_TCN_0_A_31\", \"scrapingIdentifierCell\": \"E8\", \"scrapingDataStartCell\": \"E9\", \"units\": \"Millones de pesos\", \"dataset_identifier\": \"26\", \"distribution_identifier\": \"26.1\"}, {\"title\": \"ingreso_nacional_bruto_disponible\", \"type\": \"number\", \"description\": \"Ingreso Nacional Bruto Disponible en pesos corrientes\", \"id\": \"26.1_INBD_0_A_33\", \"scrapingIdentifierCell\": \"F8\", \"scrapingDataStartCell\": \"F9\", \"units\": \"Millones de pesos\", \"dataset_identifier\": \"26\", \"distribution_identifier\": \"26.1\"}, {\"title\": \"consumo_nacional\", \"type\": \"number\", \"description\": \"Consumo Nacional en pesos corrientes\", \"id\": \"26.1_CN_0_A_16\", \"scrapingIdentifierCell\": \"G8\", \"scrapingDataStartCell\": \"G9\", \"units\": \"Millones de pesos\", \"dataset_identifier\": \"26\", \"distribution_identifier\": \"26.1\"}, {\"title\": \"ahorro_nacional_bruto\", \"type\": \"number\", \"description\": \"Ahorro Nacional Bruto en pesos corrientes\", \"id\": \"26.1_ANB_0_A_21\", \"scrapingIdentifierCell\": \"H8\", \"scrapingDataStartCell\": \"H9\", \"units\": \"Millones de pesos\", \"dataset_identifier\": \"26\", \"distribution_identifier\": \"26.1\"}, {\"title\": \"formacion_bruta_capital_fijo\", \"type\": \"number\", \"description\": \"Formaci\\u00f3n Bruta de Capital Fijo en pesos corrientes\", \"id\": \"26.1_FBCF_0_A_28\", \"scrapingIdentifierCell\": \"I8\", \"scrapingDataStartCell\": \"I9\", \"units\": \"Millones de pesos\", \"dataset_identifier\": \"26\", \"distribution_identifier\": \"26.1\"}, {\"title\": \"variacion_existencias_discrepancia_estadistica\", \"type\": \"number\", \"description\": \"Variaci\\u00f3n de existencias y discrepancia estad\\u00edstica en pesos corrientes\", \"id\": \"26.1_VEDE_0_A_46\", \"scrapingIdentifierCell\": \"J8\", \"scrapingDataStartCell\": \"J9\", \"units\": \"Millones de pesos\", \"dataset_identifier\": \"26\", \"distribution_identifier\": \"26.1\"}, {\"title\": \"cuenta_capital_balanza_pagos\", \"type\": \"number\", \"description\": \"Cuenta Capital de la Balanza de Pagos en pesos corrientes\", \"id\": \"26.1_CCBP_0_A_28\", \"scrapingIdentifierCell\": \"K8\", \"scrapingDataStartCell\": \"K9\", \"units\": \"Millones de pesos\", \"dataset_identifier\": \"26\", \"distribution_identifier\": \"26.1\"}, {\"title\": \"prestamo_endeudamiento_neto\", \"type\": \"number\", \"description\": \"Pr\\u00e9stamo o Endeudamiento neto en pesos corrientes\", \"id\": \"26.1_POEN_0_A_27\", \"scrapingIdentifierCell\": \"L8\", \"scrapingDataStartCell\": \"L9\", \"units\": \"Millones de pesos\", \"dataset_identifier\": \"26\", \"distribution_identifier\": \"26.1\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-09-28T00:00:00",
+      "datastore_active": false,
+      "description": "Valores anuales del Ingreso Nacional, Ahorro Nacional y Préstamo Neto (Base 1993)",
+      "fileName": "ingreso-nacional-ahorro-nacional-prestamo-neto-valores-anuales-precios-corrientes.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "sspm_26.1",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Ingreso Nacional, Ahorro Nacional y Préstamo neto. Valores anuales",
+      "package_id": "sspm_26",
+      "position": 0,
+      "resource_type": null,
+      "revision_id": "2ef7aa16-630b-4f0f-92b1-1d1544e2c50d",
+      "size": null,
+      "state": "active",
+      "url": "https://infra.datos.gob.ar/catalog/sspm/dataset/26/distribution/26.1/download/ingreso-nacional-ahorro-nacional-prestamo-neto-valores-anuales-precios-corrientes.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/",
+      "attributesDescription": "[{\"title\": \"indice_tiempo\", \"type\": \"date\", \"specialType\": \"time_index\", \"specialTypeDetail\": \"R/P3M\", \"id\": \"26.2_IT_0_T_13\", \"scrapingIdentifierCell\": \"A57\", \"scrapingDataStartCell\": \"A58\", \"dataset_identifier\": \"26\", \"distribution_identifier\": \"26.2\"}, {\"title\": \"producto_interno_bruto_precios_mercado\", \"type\": \"number\", \"description\": \"Producto Interno Bruto a precios de mercado en pesos corrientes\", \"id\": \"26.2_PIBPM_0_T_38\", \"scrapingIdentifierCell\": \"B57\", \"scrapingDataStartCell\": \"B58\", \"units\": \"Millones de pesos\", \"dataset_identifier\": \"26\", \"distribution_identifier\": \"26.2\"}, {\"title\": \"remuneracion_neta_factores_del_exterior\", \"type\": \"number\", \"description\": \"Remuneraci\\u00f3n neta a factores del exterior en pesos corrientes\", \"id\": \"26.2_RNFDE_0_T_39\", \"scrapingIdentifierCell\": \"C57\", \"scrapingDataStartCell\": \"C58\", \"units\": \"Millones de pesos\", \"dataset_identifier\": \"26\", \"distribution_identifier\": \"26.2\"}, {\"title\": \"ingreso_nacional_bruto_precios_mercado\", \"type\": \"number\", \"description\": \"Ingreso Nacional Bruto a precios de mercado en pesos corrientes\", \"id\": \"26.2_INBPM_0_T_38\", \"scrapingIdentifierCell\": \"D57\", \"scrapingDataStartCell\": \"D58\", \"units\": \"Millones de pesos\", \"dataset_identifier\": \"26\", \"distribution_identifier\": \"26.2\"}, {\"title\": \"transferencias_corrientes_netas\", \"type\": \"number\", \"description\": \"Transferencias corrientes netas en pesos corrientes\", \"id\": \"26.2_TCN_0_T_31\", \"scrapingIdentifierCell\": \"E57\", \"scrapingDataStartCell\": \"E58\", \"units\": \"Millones de pesos\", \"dataset_identifier\": \"26\", \"distribution_identifier\": \"26.2\"}, {\"title\": \"ingreso_nacional_bruto_disponible\", \"type\": \"number\", \"description\": \"Ingreso Nacional Bruto Disponible en pesos corrientes\", \"id\": \"26.2_INBD_0_T_33\", \"scrapingIdentifierCell\": \"F57\", \"scrapingDataStartCell\": \"F58\", \"units\": \"Millones de pesos\", \"dataset_identifier\": \"26\", \"distribution_identifier\": \"26.2\"}, {\"title\": \"consumo_nacional\", \"type\": \"number\", \"description\": \"Consumo Nacional en pesos corrientes\", \"id\": \"26.2_CN_0_T_16\", \"scrapingIdentifierCell\": \"G57\", \"scrapingDataStartCell\": \"G58\", \"units\": \"Millones de pesos\", \"dataset_identifier\": \"26\", \"distribution_identifier\": \"26.2\"}, {\"title\": \"ahorro_nacional_bruto\", \"type\": \"number\", \"description\": \"Ahorro Nacional Bruto en pesos corrientes\", \"id\": \"26.2_ANB_0_T_21\", \"scrapingIdentifierCell\": \"H57\", \"scrapingDataStartCell\": \"H58\", \"units\": \"Millones de pesos\", \"dataset_identifier\": \"26\", \"distribution_identifier\": \"26.2\"}, {\"title\": \"formacion_bruta_capital_fijo\", \"type\": \"number\", \"description\": \"Formaci\\u00f3n Bruta de Capital Fijo en pesos corrientes\", \"id\": \"26.2_FBCF_0_T_28\", \"scrapingIdentifierCell\": \"I57\", \"scrapingDataStartCell\": \"I58\", \"units\": \"Millones de pesos\", \"dataset_identifier\": \"26\", \"distribution_identifier\": \"26.2\"}, {\"title\": \"variacion_existencias_discrepancia_estadistica\", \"type\": \"number\", \"description\": \"Variaci\\u00f3n de existencias y discrepancia estad\\u00edstica en pesos corrientes\", \"id\": \"26.2_VEDE_0_T_46\", \"scrapingIdentifierCell\": \"J57\", \"scrapingDataStartCell\": \"J58\", \"units\": \"Millones de pesos\", \"dataset_identifier\": \"26\", \"distribution_identifier\": \"26.2\"}, {\"title\": \"cuenta_capital_balanza_pagos\", \"type\": \"number\", \"description\": \"Cuenta Capital de la Balanza de Pagos en pesos corrientes\", \"id\": \"26.2_CCBP_0_T_28\", \"scrapingIdentifierCell\": \"K57\", \"scrapingDataStartCell\": \"K58\", \"units\": \"Millones de pesos\", \"dataset_identifier\": \"26\", \"distribution_identifier\": \"26.2\"}, {\"title\": \"prestamo_endeudamiento_neto\", \"type\": \"number\", \"description\": \"Pr\\u00e9stamo o Endeudamiento neto en pesos corrientes\", \"id\": \"26.2_POEN_0_T_27\", \"scrapingIdentifierCell\": \"L57\", \"scrapingDataStartCell\": \"L58\", \"units\": \"Millones de pesos\", \"dataset_identifier\": \"26\", \"distribution_identifier\": \"26.2\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-09-28T00:00:00",
+      "datastore_active": false,
+      "description": "Valores trimestrales del Ingreso Nacional, Ahorro Nacional y Préstamo Neto (Base 1993)",
+      "fileName": "ingreso-nacional-ahorro-nacional-prestamo-neto-valores-trimestrales-precios-corrientes.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "sspm_26.2",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Ingreso Nacional, Ahorro Nacional y Préstamo neto. Valores trimestrales",
+      "package_id": "sspm_26",
+      "position": 1,
+      "resource_type": null,
+      "revision_id": "2ef7aa16-630b-4f0f-92b1-1d1544e2c50d",
+      "size": null,
+      "state": "active",
+      "url": "https://infra.datos.gob.ar/catalog/sspm/dataset/26/distribution/26.2/download/ingreso-nacional-ahorro-nacional-prestamo-neto-valores-trimestrales-precios-corrientes.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "2ef7aa16-630b-4f0f-92b1-1d1544e2c50d",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "Actividad",
+      "id": "a7695c51-c893-4ece-8ff9-306c197afdd7",
+      "name": "Actividad",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Información Económica al Día",
+      "id": "0d300a9a-0802-46c3-9a40-2f28ddf050ec",
+      "name": "Información Económica al Día",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Ingreso Nacional, Ahorro Nacional y Préstamo Neto. Base 1993",
+  "type": "dataset",
+  "url": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/",
+  "version": null
+}

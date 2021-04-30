@@ -1,0 +1,149 @@
+{
+  "author": "Subsecretaría de Programación Macroeconómica",
+  "author_email": "datoseconomicos@mecon.gov.ar",
+  "creator_user_id": "4720e75a-9e17-4dc3-879d-041917c7f9f9",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P3M"
+    },
+    {
+      "key": "issued",
+      "value": "2017-09-28"
+    },
+    {
+      "key": "language",
+      "value": "[\"SPA\"]"
+    },
+    {
+      "key": "source",
+      "value": "Instituto Nacional de Estadística y Censos (INDEC)"
+    },
+    {
+      "key": "spatial",
+      "value": "ARG"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"ECON\"]"
+    },
+    {
+      "key": "temporal",
+      "value": "2003-04-01/2017-04-01"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Economía y finanzas",
+      "display_name": "Economía y finanzas",
+      "id": "60b4b03e-10a1-4d67-b984-08008a249617",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225257.200233economia-finanzas.svg",
+      "name": "econ",
+      "title": "Economía y finanzas"
+    }
+  ],
+  "id": "sspm_52",
+  "isopen": true,
+  "license_id": "CC-BY-4.0",
+  "license_title": "Creative Commons Attribution 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "maintainer": "Subsecretaría de Programación Macroeconómica.",
+  "maintainer_email": "datoseconomicos@mecon.gov.ar",
+  "metadata_created": "2019-11-26T15:06:25.650012",
+  "metadata_modified": "2021-04-29T21:04:13.710015",
+  "name": "sspm-tasa-asalarizacion-asalariados-sin-descuento-jubilatorio",
+  "notes": "Evolución de la tasa de asalarización y de asalariados sin descuento jubilatorio",
+  "num_resources": 2,
+  "num_tags": 2,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:09.718132",
+    "description": "",
+    "id": "68f9ee22-5ec3-44cf-a32b-b87d9db46b93",
+    "image_url": "",
+    "is_organization": true,
+    "name": "sspm",
+    "revision_id": "bc058ce0-3540-4204-96cd-9f9ec79045b3",
+    "state": "active",
+    "title": "Subsecretaría de Programación Macroeconómica",
+    "type": "organization"
+  },
+  "owner_org": "68f9ee22-5ec3-44cf-a32b-b87d9db46b93",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/",
+      "attributesDescription": "[{\"title\": \"indice_tiempo\", \"type\": \"date\", \"specialType\": \"time_index\", \"specialTypeDetail\": \"R/P1Y\", \"id\": \"52.1_ICE_TIEMPO_0_A_13\", \"scrapingIdentifierCell\": \"B12\", \"scrapingDataStartCell\": \"B13\", \"dataset_identifier\": \"52\", \"distribution_identifier\": \"52.1\"}, {\"title\": \"tasa_asalarizacion\", \"type\": \"number\", \"description\": \"Tasa de asalariados de la Encuesta Permanente de Hogares\", \"id\": \"52.1_TA_0_0_18\", \"scrapingIdentifierCell\": \"C12\", \"scrapingDataStartCell\": \"C13\", \"units\": \"Porcentaje\", \"dataset_identifier\": \"52\", \"distribution_identifier\": \"52.1\"}, {\"title\": \"asalariados_sin_descuento_jubilatorio\", \"type\": \"number\", \"description\": \"Tasa de asalariados sin descuento jubilatorio de la Encuesta Permanente de Hogares\", \"id\": \"52.1_ASDJ_0_0_37\", \"scrapingIdentifierCell\": \"D12\", \"scrapingDataStartCell\": \"D13\", \"units\": \"Porcentaje\", \"dataset_identifier\": \"52\", \"distribution_identifier\": \"52.1\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-09-28T00:00:00",
+      "datastore_active": false,
+      "description": "Estimaciónes tasa de asalariado y asalarios sin descuento jubilatorio. Datos anuales",
+      "fileName": "tasas-asalariados-asalariados-sin-descuento-jubilatorio-eph-anual.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "sspm_52.1",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Tasa de asalariados y asalariados sin descuento jubilatorio de la EPH. Valores anuales.",
+      "package_id": "sspm_52",
+      "position": 0,
+      "resource_type": null,
+      "revision_id": "8bfa3ad3-db8b-4ea5-94e9-1f7d7aa9f8bb",
+      "size": null,
+      "state": "active",
+      "url": "https://infra.datos.gob.ar/catalog/sspm/dataset/52/distribution/52.1/download/tasas-asalariados-asalariados-sin-descuento-jubilatorio-eph-anual.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/",
+      "attributesDescription": "[{\"title\": \"indice_tiempo\", \"type\": \"date\", \"specialType\": \"time_index\", \"specialTypeDetail\": \"R/P3M\", \"id\": \"52.2_IT_0_0_13\", \"scrapingIdentifierCell\": \"B45\", \"scrapingDataStartCell\": \"B46\", \"dataset_identifier\": \"52\", \"distribution_identifier\": \"52.2\"}, {\"title\": \"tasa_asalarizacion\", \"type\": \"number\", \"description\": \"Tasa de asalariados de la Encuesta Permanente de Hogares\", \"id\": \"52.2_TA_0_0_18\", \"scrapingIdentifierCell\": \"C45\", \"scrapingDataStartCell\": \"C46\", \"units\": \"Porcentaje\", \"dataset_identifier\": \"52\", \"distribution_identifier\": \"52.2\"}, {\"title\": \"asalariados_sin_descuento_jubilatorio\", \"type\": \"number\", \"description\": \"Tasa de asalariados sin descuento jubilatorio de la Encuesta Permanente de Hogares\", \"id\": \"52.2_ASDJ_0_0_37\", \"scrapingIdentifierCell\": \"D45\", \"scrapingDataStartCell\": \"D46\", \"units\": \"Porcentaje\", \"dataset_identifier\": \"52\", \"distribution_identifier\": \"52.2\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-09-28T00:00:00",
+      "datastore_active": false,
+      "description": "Estimaciónes tasa de asalariado y asalarios sin descuento jubilatorio. Datos trimestrales",
+      "fileName": "tasas-asalariados-asalariados-sin-descuento-jubilatorio-eph-trimestral.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "sspm_52.2",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Tasa de asalariados y asalariados sin descuento jubilatorio de la EPH. Valores semestrales",
+      "package_id": "sspm_52",
+      "position": 1,
+      "resource_type": null,
+      "revision_id": "8bfa3ad3-db8b-4ea5-94e9-1f7d7aa9f8bb",
+      "size": null,
+      "state": "active",
+      "url": "https://infra.datos.gob.ar/catalog/sspm/dataset/52/distribution/52.2/download/tasas-asalariados-asalariados-sin-descuento-jubilatorio-eph-trimestral.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "8bfa3ad3-db8b-4ea5-94e9-1f7d7aa9f8bb",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "Empleo e Ingresos",
+      "id": "0d41bcfd-c3a4-4ff7-8aa1-dd5c3ac51d0b",
+      "name": "Empleo e Ingresos",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Información Económica al Día",
+      "id": "0d300a9a-0802-46c3-9a40-2f28ddf050ec",
+      "name": "Información Económica al Día",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Tasa de asalarización y de asalariados sin descuento jubilatorio",
+  "type": "dataset",
+  "url": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/",
+  "version": null
+}

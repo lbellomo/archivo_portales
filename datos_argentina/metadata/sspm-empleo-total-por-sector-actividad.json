@@ -1,0 +1,174 @@
+{
+  "author": "Subsecretaría de Programación Macroeconómica",
+  "author_email": "datoseconomicos@mecon.gov.ar",
+  "creator_user_id": "4720e75a-9e17-4dc3-879d-041917c7f9f9",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P3M"
+    },
+    {
+      "key": "issued",
+      "value": "2017-09-28"
+    },
+    {
+      "key": "language",
+      "value": "[\"SPA\"]"
+    },
+    {
+      "key": "source",
+      "value": "Instituto Nacional de Estadística y Censos (INDEC)"
+    },
+    {
+      "key": "spatial",
+      "value": "ARG"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"ECON\"]"
+    },
+    {
+      "key": "temporal",
+      "value": "2001-08-01/2016-09-30"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Economía y finanzas",
+      "display_name": "Economía y finanzas",
+      "id": "60b4b03e-10a1-4d67-b984-08008a249617",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225257.200233economia-finanzas.svg",
+      "name": "econ",
+      "title": "Economía y finanzas"
+    }
+  ],
+  "id": "sspm_50",
+  "isopen": true,
+  "license_id": "CC-BY-4.0",
+  "license_title": "Creative Commons Attribution 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "maintainer": "Subsecretaría de Programación Macroeconómica.",
+  "maintainer_email": "datoseconomicos@mecon.gov.ar",
+  "metadata_created": "2019-11-26T15:04:33.716189",
+  "metadata_modified": "2021-04-29T21:04:13.141369",
+  "name": "sspm-empleo-total-por-sector-actividad",
+  "notes": "Estimaciones anuales de población empleada total y por sector de actividad de la Encuesta de Indicadores Laborales",
+  "num_resources": 3,
+  "num_tags": 2,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:09.718132",
+    "description": "",
+    "id": "68f9ee22-5ec3-44cf-a32b-b87d9db46b93",
+    "image_url": "",
+    "is_organization": true,
+    "name": "sspm",
+    "revision_id": "bc058ce0-3540-4204-96cd-9f9ec79045b3",
+    "state": "active",
+    "title": "Subsecretaría de Programación Macroeconómica",
+    "type": "organization"
+  },
+  "owner_org": "68f9ee22-5ec3-44cf-a32b-b87d9db46b93",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/",
+      "attributesDescription": "[{\"title\": \"indice_tiempo\", \"type\": \"date\", \"specialType\": \"time_index\", \"specialTypeDetail\": \"R/P1Y\", \"id\": \"50.1_IT_0_0_13\", \"scrapingIdentifierCell\": \"B12\", \"scrapingDataStartCell\": \"B13\", \"dataset_identifier\": \"50\", \"distribution_identifier\": \"50.1\"}, {\"title\": \"indice_total\", \"type\": \"number\", \"description\": \"\\u00cdndice del Empleo total de la Encuesta de Indicadores Laborales\", \"id\": \"50.1_IT_0_0_12\", \"scrapingIdentifierCell\": \"C12\", \"scrapingDataStartCell\": \"C13\", \"units\": \"\\u00cdndice\", \"dataset_identifier\": \"50\", \"distribution_identifier\": \"50.1\"}, {\"title\": \"indice_industria\", \"type\": \"number\", \"description\": \"\\u00cdndice del Empleo en la Industria de la Encuesta de Indicadores Laborales\", \"id\": \"50.1_II_0_0_16\", \"scrapingIdentifierCell\": \"D12\", \"scrapingDataStartCell\": \"D13\", \"units\": \"\\u00cdndice\", \"dataset_identifier\": \"50\", \"distribution_identifier\": \"50.1\"}, {\"title\": \"indice_construccion\", \"type\": \"number\", \"description\": \"\\u00cdndice del Empleo en la Construcci\\u00f3n de la Encuesta de Indicadores Laborales\", \"id\": \"50.1_IC_0_0_19\", \"scrapingIdentifierCell\": \"E12\", \"scrapingDataStartCell\": \"E13\", \"units\": \"\\u00cdndice\", \"dataset_identifier\": \"50\", \"distribution_identifier\": \"50.1\"}, {\"title\": \"indice_comercio_servicios\", \"type\": \"number\", \"description\": \"\\u00cdndice del Empleo en el Comercio y Servicios de la Encuesta de Indicadores Laborales\", \"id\": \"50.1_ICS_0_0_25\", \"scrapingIdentifierCell\": \"F12\", \"scrapingDataStartCell\": \"F13\", \"units\": \"\\u00cdndice\", \"dataset_identifier\": \"50\", \"distribution_identifier\": \"50.1\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-09-28T00:00:00",
+      "datastore_active": false,
+      "description": "Estimación Cantidad de Habitantes de población empleada total y por sector de actividad de la Encuesta de Indicadores Laborales. Datos Anuales",
+      "fileName": "poblacion-empleada-total-por-sector-actividad-encuesta-indicadores-laborales-anual.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "sspm_50.1",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Población empleada total y por sector de actividad de la Encuesta de Indicadores Laborales. Valores anuales.",
+      "package_id": "sspm_50",
+      "position": 0,
+      "resource_type": null,
+      "revision_id": "19edf2bf-d6d7-49e9-a087-f9fb7d08245b",
+      "size": null,
+      "state": "active",
+      "url": "https://infra.datos.gob.ar/catalog/sspm/dataset/50/distribution/50.1/download/poblacion-empleada-total-por-sector-actividad-encuesta-indicadores-laborales-anual.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/",
+      "attributesDescription": "[{\"title\": \"indice_tiempo\", \"type\": \"date\", \"specialType\": \"time_index\", \"specialTypeDetail\": \"R/P3M\", \"id\": \"50.2_IT_0_0_13\", \"scrapingIdentifierCell\": \"B35\", \"scrapingDataStartCell\": \"B36\", \"dataset_identifier\": \"50\", \"distribution_identifier\": \"50.2\"}, {\"title\": \"indice_total\", \"type\": \"number\", \"description\": \"\\u00cdndice del Empleo total de la Encuesta de Indicadores Laborales\", \"id\": \"50.2_IT_0_0_12\", \"scrapingIdentifierCell\": \"C35\", \"scrapingDataStartCell\": \"C36\", \"units\": \"\\u00cdndice\", \"dataset_identifier\": \"50\", \"distribution_identifier\": \"50.2\"}, {\"title\": \"indice_industria\", \"type\": \"number\", \"description\": \"\\u00cdndice del Empleo en la Industria de la Encuesta de Indicadores Laborales\", \"id\": \"50.2_II_0_0_16\", \"scrapingIdentifierCell\": \"D35\", \"scrapingDataStartCell\": \"D36\", \"units\": \"\\u00cdndice\", \"dataset_identifier\": \"50\", \"distribution_identifier\": \"50.2\"}, {\"title\": \"indice_construccion\", \"type\": \"number\", \"description\": \"\\u00cdndice del Empleo en la Construcci\\u00f3n de la Encuesta de Indicadores Laborales\", \"id\": \"50.2_IC_0_0_19\", \"scrapingIdentifierCell\": \"E35\", \"scrapingDataStartCell\": \"E36\", \"units\": \"\\u00cdndice\", \"dataset_identifier\": \"50\", \"distribution_identifier\": \"50.2\"}, {\"title\": \"indice_comercio_servicios\", \"type\": \"number\", \"description\": \"\\u00cdndice del Empleo en el Comercio y Servicios de la Encuesta de Indicadores Laborales\", \"id\": \"50.2_ICS_0_0_25\", \"scrapingIdentifierCell\": \"F35\", \"scrapingDataStartCell\": \"F36\", \"units\": \"\\u00cdndice\", \"dataset_identifier\": \"50\", \"distribution_identifier\": \"50.2\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-09-28T00:00:00",
+      "datastore_active": false,
+      "description": "Estimación Cantidad de Habitantes de población empleada total y por sector de actividad de la Encuesta de Indicadores Laborales. Datos Trimestrales",
+      "fileName": "poblacion-empleada-total-por-sector-actividad-encuesta-indicadores-laborales-trimestral.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "sspm_50.2",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Población empleada total y por sector de actividad de la Encuesta de Indicadores Laborales. Valores trimestrales.",
+      "package_id": "sspm_50",
+      "position": 1,
+      "resource_type": null,
+      "revision_id": "19edf2bf-d6d7-49e9-a087-f9fb7d08245b",
+      "size": null,
+      "state": "active",
+      "url": "https://infra.datos.gob.ar/catalog/sspm/dataset/50/distribution/50.2/download/poblacion-empleada-total-por-sector-actividad-encuesta-indicadores-laborales-trimestral.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/",
+      "attributesDescription": "[{\"title\": \"indice_tiempo\", \"type\": \"date\", \"specialType\": \"time_index\", \"specialTypeDetail\": \"R/P1M\", \"id\": \"50.3_ICS_0_M_13\", \"scrapingIdentifierCell\": \"B130\", \"scrapingDataStartCell\": \"B131\", \"dataset_identifier\": \"50\", \"distribution_identifier\": \"50.3\"}, {\"title\": \"indice_total\", \"type\": \"number\", \"description\": \"\\u00cdndice del Empleo total de la Encuesta de Indicadores Laborales\", \"id\": \"50.3_ICS_0_M_12\", \"scrapingIdentifierCell\": \"C130\", \"scrapingDataStartCell\": \"C131\", \"units\": \"\\u00cdndice\", \"dataset_identifier\": \"50\", \"distribution_identifier\": \"50.3\"}, {\"title\": \"indice_industria\", \"type\": \"number\", \"description\": \"\\u00cdndice del Empleo en la Industria de la Encuesta de Indicadores Laborales\", \"id\": \"50.3_ICS_0_M_16\", \"scrapingIdentifierCell\": \"D130\", \"scrapingDataStartCell\": \"D131\", \"units\": \"\\u00cdndice\", \"dataset_identifier\": \"50\", \"distribution_identifier\": \"50.3\"}, {\"title\": \"indice_construccion\", \"type\": \"number\", \"description\": \"\\u00cdndice del Empleo en la Construcci\\u00f3n de la Encuesta de Indicadores Laborales\", \"id\": \"50.3_ICS_0_M_19\", \"scrapingIdentifierCell\": \"E130\", \"scrapingDataStartCell\": \"E131\", \"units\": \"\\u00cdndice\", \"dataset_identifier\": \"50\", \"distribution_identifier\": \"50.3\"}, {\"title\": \"indice_comercio_servicios\", \"type\": \"number\", \"description\": \"\\u00cdndice del Empleo en el Comercio y Servicios de la Encuesta de Indicadores Laborales\", \"id\": \"50.3_ICS_0_M_25\", \"scrapingIdentifierCell\": \"F130\", \"scrapingDataStartCell\": \"F131\", \"units\": \"\\u00cdndice\", \"dataset_identifier\": \"50\", \"distribution_identifier\": \"50.3\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-09-28T00:00:00",
+      "datastore_active": false,
+      "description": "Estimación Cantidad de Habitantes de población empleada total y por sector de actividad de la Encuesta de Indicadores Laborales. Datos Trimestrales",
+      "fileName": "poblacion-empleada-total-por-sector-actividad-encuesta-indicadores-laborales-trimestral.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "sspm_50.3",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Población empleada total y por sector de actividad de la Encuesta de Indicadores Laborales. Valores mensuales.",
+      "package_id": "sspm_50",
+      "position": 2,
+      "resource_type": null,
+      "revision_id": "19edf2bf-d6d7-49e9-a087-f9fb7d08245b",
+      "size": null,
+      "state": "active",
+      "url": "https://infra.datos.gob.ar/catalog/sspm/dataset/50/distribution/50.3/download/poblacion-empleada-total-por-sector-actividad-encuesta-indicadores-laborales-trimestral.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "19edf2bf-d6d7-49e9-a087-f9fb7d08245b",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "Empleo e Ingresos",
+      "id": "0d41bcfd-c3a4-4ff7-8aa1-dd5c3ac51d0b",
+      "name": "Empleo e Ingresos",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Información Económica al Día",
+      "id": "0d300a9a-0802-46c3-9a40-2f28ddf050ec",
+      "name": "Información Económica al Día",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Empleo total y por sector de actividad",
+  "type": "dataset",
+  "url": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/",
+  "version": null
+}

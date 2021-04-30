@@ -1,0 +1,124 @@
+{
+  "author": "Subsecretaría de Programación Macroeconómica",
+  "author_email": "datoseconomicos@mecon.gov.ar",
+  "creator_user_id": "4720e75a-9e17-4dc3-879d-041917c7f9f9",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P1Y"
+    },
+    {
+      "key": "issued",
+      "value": "2017-10-03"
+    },
+    {
+      "key": "language",
+      "value": "[\"SPA\"]"
+    },
+    {
+      "key": "source",
+      "value": "Ministerio de Hacienda"
+    },
+    {
+      "key": "spatial",
+      "value": "ARG"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"ECON\"]"
+    },
+    {
+      "key": "temporal",
+      "value": "2002-01-01/2017-08-01"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Economía y finanzas",
+      "display_name": "Economía y finanzas",
+      "id": "60b4b03e-10a1-4d67-b984-08008a249617",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225257.200233economia-finanzas.svg",
+      "name": "econ",
+      "title": "Economía y finanzas"
+    }
+  ],
+  "id": "sspm_190",
+  "isopen": true,
+  "license_id": "CC-BY-4.0",
+  "license_title": "Creative Commons Attribution 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "maintainer": "Subsecretaría de Programación Macroeconómica.",
+  "maintainer_email": "datoseconomicos@mecon.gov.ar",
+  "metadata_created": "2019-11-26T15:05:35.344053",
+  "metadata_modified": "2021-04-29T21:06:01.752894",
+  "name": "sspm-prestaciones-seguridad-social-cuenta-inversion",
+  "notes": "Ejecución anual definitiva de metas físicas de programas presupuestarios sociales nacionales seleccionados: BECAS y Prestaciones previsionales de otros regímenes nacionales no SIPA. Datos de ejecución promedio anual. Desde 2002",
+  "num_resources": 1,
+  "num_tags": 2,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:09.718132",
+    "description": "",
+    "id": "68f9ee22-5ec3-44cf-a32b-b87d9db46b93",
+    "image_url": "",
+    "is_organization": true,
+    "name": "sspm",
+    "revision_id": "bc058ce0-3540-4204-96cd-9f9ec79045b3",
+    "state": "active",
+    "title": "Subsecretaría de Programación Macroeconómica",
+    "type": "organization"
+  },
+  "owner_org": "68f9ee22-5ec3-44cf-a32b-b87d9db46b93",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/",
+      "attributesDescription": "[{\"title\": \"indice_tiempo\", \"type\": \"date\", \"specialType\": \"time_index\", \"specialTypeDetail\": \"R/P1Y\", \"id\": \"190.1_INDICE_TIEMPO_0_0_13\", \"scrapingIdentifierCell\": \"A10\", \"scrapingDataStartCell\": \"A11\", \"dataset_identifier\": \"190\", \"distribution_identifier\": \"190.1\"}, {\"title\": \"becas_estudiantiles\", \"type\": \"number\", \"description\": \"Becas Estudiantiles. Anuales\", \"id\": \"190.1_BECAS_ESTULES_0_0_19\", \"scrapingIdentifierCell\": \"B10\", \"scrapingDataStartCell\": \"B11\", \"units\": \"Becas\", \"dataset_identifier\": \"190\", \"distribution_identifier\": \"190.1\"}, {\"title\": \"jubilaciones_pensiones_retiros_otros_regimenes_nacionales\", \"type\": \"number\", \"description\": \"Prestaciones previsionales de otros reg\\u00edmenes nacionales no integrados a SIPA. Anuales\", \"id\": \"190.1_JUBILACIONLES_0_0_57\", \"scrapingIdentifierCell\": \"C10\", \"scrapingDataStartCell\": \"C11\", \"units\": \"Prestaciones\", \"dataset_identifier\": \"190\", \"distribution_identifier\": \"190.1\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-10-03T00:00:00",
+      "datastore_active": false,
+      "description": "Ejecución anual definitiva de metas físicas de programas presupuestarios sociales nacionales seleccionados: BECAS y Prestaciones previsionales de otros regímenes nacionales no SIPA. Datos de ejecución promedio anual. Desde 2002",
+      "fileName": "ejecucion-anual-de-metas-fisicas-programas.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "sspm_190.1",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Política de Ingresos.  Prestaciones de la seguridad social y otros programas de transferencia de ingresos. Cuenta de Inversión. Secretaría de Hacienda.",
+      "package_id": "sspm_190",
+      "position": 0,
+      "resource_type": null,
+      "revision_id": "104b322b-d732-486b-8d0f-f1c241a32fb3",
+      "size": null,
+      "state": "active",
+      "url": "https://infra.datos.gob.ar/catalog/sspm/dataset/190/distribution/190.1/download/ejecucion-anual-de-metas-fisicas-programas.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "104b322b-d732-486b-8d0f-f1c241a32fb3",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "Finanzas Públicas",
+      "id": "e26a31cd-920a-4bea-8a0a-d690d5fdf16f",
+      "name": "Finanzas Públicas",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Información Económica al Día",
+      "id": "0d300a9a-0802-46c3-9a40-2f28ddf050ec",
+      "name": "Información Económica al Día",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Prestaciones de la seguridad social. Cuenta de Inversión.",
+  "type": "dataset",
+  "url": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/",
+  "version": null
+}

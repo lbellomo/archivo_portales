@@ -1,0 +1,174 @@
+{
+  "author": "Subsecretaría de Programación Macroeconómica",
+  "author_email": "datoseconomicos@mecon.gov.ar",
+  "creator_user_id": "4720e75a-9e17-4dc3-879d-041917c7f9f9",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P1M"
+    },
+    {
+      "key": "issued",
+      "value": "2017-09-28"
+    },
+    {
+      "key": "language",
+      "value": "[\"SPA\"]"
+    },
+    {
+      "key": "source",
+      "value": "Instituto Nacional de Estadística y Censos (INDEC)"
+    },
+    {
+      "key": "spatial",
+      "value": "ARG"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"ECON\"]"
+    },
+    {
+      "key": "temporal",
+      "value": "1997-01-01/2019-08-01"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Economía y finanzas",
+      "display_name": "Economía y finanzas",
+      "id": "60b4b03e-10a1-4d67-b984-08008a249617",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225257.200233economia-finanzas.svg",
+      "name": "econ",
+      "title": "Economía y finanzas"
+    }
+  ],
+  "id": "sspm_37",
+  "isopen": true,
+  "license_id": "CC-BY-4.0",
+  "license_title": "Creative Commons Attribution 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "maintainer": "Subsecretaría de Programación Macroeconómica.",
+  "maintainer_email": "datoseconomicos@mecon.gov.ar",
+  "metadata_created": "2019-11-26T15:06:03.896868",
+  "metadata_modified": "2021-04-29T21:05:55.257066",
+  "name": "sspm-ventas-centros-compras-discontinuado",
+  "notes": "Ventas totales en Centros de Compras o Shopping Centers en millones de pesos y evolución por grupos de artículos, según la base 2008",
+  "num_resources": 3,
+  "num_tags": 2,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:09.718132",
+    "description": "",
+    "id": "68f9ee22-5ec3-44cf-a32b-b87d9db46b93",
+    "image_url": "",
+    "is_organization": true,
+    "name": "sspm",
+    "revision_id": "bc058ce0-3540-4204-96cd-9f9ec79045b3",
+    "state": "active",
+    "title": "Subsecretaría de Programación Macroeconómica",
+    "type": "organization"
+  },
+  "owner_org": "68f9ee22-5ec3-44cf-a32b-b87d9db46b93",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/",
+      "attributesDescription": "[{\"title\": \"indice_tiempo\", \"type\": \"date\", \"specialType\": \"time_index\", \"specialTypeDetail\": \"R/P1Y\", \"id\": \"37.1_IT_2008_A_13\", \"scrapingIdentifierCell\": \"A9\", \"scrapingDataStartCell\": \"A10\", \"dataset_identifier\": \"37\", \"distribution_identifier\": \"37.1\"}, {\"title\": \"evolucion_mensual_ventas_mdp_total\", \"type\": \"number\", \"description\": \"Total de las ventas en centros de compras\", \"id\": \"37.1_EMVMT_2008_A_34\", \"scrapingIdentifierCell\": \"F9\", \"scrapingDataStartCell\": \"F10\", \"units\": \"Miles de pesos\", \"dataset_identifier\": \"37\", \"distribution_identifier\": \"37.1\"}, {\"title\": \"evol_mensual_ventas_mdp_indumentaria_calzado_marroquineria\", \"type\": \"number\", \"description\": \"Ventas por grupos de art\\u00edculos de indumentaria, calzado y marroquiner\\u00eda\", \"id\": \"37.1_EMVMICM_2008_A_58\", \"scrapingIdentifierCell\": \"G9\", \"scrapingDataStartCell\": \"G10\", \"units\": \"Miles de pesos\", \"dataset_identifier\": \"37\", \"distribution_identifier\": \"37.1\"}, {\"title\": \"evolucion_mensual_ventas_mdp_ropa_accesorios_deportivos\", \"type\": \"number\", \"description\": \"Ventas por grupos de art\\u00edculos de ropa y accesorios deportivos\", \"id\": \"37.1_EMVMRAD_2008_A_55\", \"scrapingIdentifierCell\": \"H9\", \"scrapingDataStartCell\": \"H10\", \"units\": \"Miles de pesos\", \"dataset_identifier\": \"37\", \"distribution_identifier\": \"37.1\"}, {\"title\": \"evol_mensual_ventas_mdp_amoblamientos_decoracion_textiles\", \"type\": \"number\", \"description\": \"Ventas por grupos de art\\u00edculos de amoblamientos, decoraci\\u00f3n y textiles para el hogar\", \"id\": \"37.1_EMVMADTH_2008_A_57\", \"scrapingIdentifierCell\": \"I9\", \"scrapingDataStartCell\": \"I10\", \"units\": \"Miles de pesos\", \"dataset_identifier\": \"37\", \"distribution_identifier\": \"37.1\"}, {\"title\": \"evolucion_mensual_ventas_mdp_patio_comidas_alimentos_kioscos\", \"type\": \"number\", \"description\": \"Ventas por grupos de art\\u00edculos de patio de comidas, alimentos y kioskos\", \"id\": \"37.1_EMVMPCAK_2008_A_60\", \"scrapingIdentifierCell\": \"J9\", \"scrapingDataStartCell\": \"J10\", \"units\": \"Miles de pesos\", \"dataset_identifier\": \"37\", \"distribution_identifier\": \"37.1\"}, {\"title\": \"evol_mensual_ventas_mdp_electronicos_cd_elect_computacion\", \"type\": \"number\", \"description\": \"Ventas por grupos de art\\u00edculos de art\\u00edculos electr\\u00f3nicos, cd, electrodomesticos y computacion\", \"id\": \"37.1_EMVMECEC_2008_A_57\", \"scrapingIdentifierCell\": \"K9\", \"scrapingDataStartCell\": \"K10\", \"units\": \"Miles de pesos\", \"dataset_identifier\": \"37\", \"distribution_identifier\": \"37.1\"}, {\"title\": \"evolucion_mensual_ventas_mdp_jugueteria\", \"type\": \"number\", \"description\": \"Ventas por grupos de art\\u00edculos de jugueter\\u00eda\", \"id\": \"37.1_EMVMJ_2008_A_39\", \"scrapingIdentifierCell\": \"L9\", \"scrapingDataStartCell\": \"L10\", \"units\": \"Miles de pesos\", \"dataset_identifier\": \"37\", \"distribution_identifier\": \"37.1\"}, {\"title\": \"evolucion_mensual_ventas_mdp_libreria_papeleria\", \"type\": \"number\", \"description\": \"Ventas por grupos de art\\u00edculos de librer\\u00eda y papeler\\u00eda\", \"id\": \"37.1_EMVMLP_2008_A_47\", \"scrapingIdentifierCell\": \"M9\", \"scrapingDataStartCell\": \"M10\", \"units\": \"Miles de pesos\", \"dataset_identifier\": \"37\", \"distribution_identifier\": \"37.1\"}, {\"title\": \"evolucion_mensual_ventas_mdp_diversion_esparcimiento\", \"type\": \"number\", \"description\": \"Ventas por grupos de art\\u00edculos de diversi\\u00f3n y esparcimiento\", \"id\": \"37.1_EMVMDE_2008_A_52\", \"scrapingIdentifierCell\": \"N9\", \"scrapingDataStartCell\": \"N10\", \"units\": \"Miles de pesos\", \"dataset_identifier\": \"37\", \"distribution_identifier\": \"37.1\"}, {\"title\": \"evolucion_mensual_ventas_mdp_perfumeria_farmacia\", \"type\": \"number\", \"description\": \"Ventas por grupos de art\\u00edculos de perfumer\\u00eda y farmacia\", \"id\": \"37.1_EMVMPF_2008_A_48\", \"scrapingIdentifierCell\": \"O9\", \"scrapingDataStartCell\": \"O10\", \"units\": \"Miles de pesos\", \"dataset_identifier\": \"37\", \"distribution_identifier\": \"37.1\"}, {\"title\": \"evolucion_mensual_ventas_mdp_otros\", \"type\": \"number\", \"description\": \"Ventas por grupos de art\\u00edculos de otros art\\u00edculos\", \"id\": \"37.1_EMVMO_2008_A_34\", \"scrapingIdentifierCell\": \"P9\", \"scrapingDataStartCell\": \"P10\", \"units\": \"Miles de pesos\", \"dataset_identifier\": \"37\", \"distribution_identifier\": \"37.1\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-09-28T00:00:00",
+      "datastore_active": false,
+      "description": "Encuestas de Centros de Compras. Valores anuales",
+      "fileName": "centros-compras-base-2008-valores-anuales.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "sspm_37.1",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Centros de Compras. Valores anuales",
+      "package_id": "sspm_37",
+      "position": 0,
+      "resource_type": null,
+      "revision_id": "32c3320f-031b-4de6-8fdd-5b400f2f6adb",
+      "size": null,
+      "state": "active",
+      "url": "https://infra.datos.gob.ar/catalog/sspm/dataset/37/distribution/37.1/download/centros-compras-base-2008-valores-anuales.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/",
+      "attributesDescription": "[{\"title\": \"indice_tiempo\", \"type\": \"date\", \"specialType\": \"time_index\", \"specialTypeDetail\": \"R/P3M\", \"id\": \"37.2_IT_2008_T_13\", \"scrapingIdentifierCell\": \"A45\", \"scrapingDataStartCell\": \"A46\", \"dataset_identifier\": \"37\", \"distribution_identifier\": \"37.2\"}, {\"title\": \"evolucion_mensual_ventas_total\", \"type\": \"number\", \"description\": \"Total de las ventas en centros de compras\", \"id\": \"37.2_EMVMT_2008_T_30\", \"scrapingIdentifierCell\": \"F45\", \"scrapingDataStartCell\": \"F46\", \"units\": \"Miles de pesos\", \"dataset_identifier\": \"37\", \"distribution_identifier\": \"37.2\"}, {\"title\": \"evolucion_mensual_ventas_indumentaria_calzado_marroquineria\", \"type\": \"number\", \"description\": \"Ventas por grupos de art\\u00edculos de indumentaria, calzado y marroquiner\\u00eda\", \"id\": \"37.2_EMVMICM_2008_T_59\", \"scrapingIdentifierCell\": \"G45\", \"scrapingDataStartCell\": \"G46\", \"units\": \"Miles de pesos\", \"dataset_identifier\": \"37\", \"distribution_identifier\": \"37.2\"}, {\"title\": \"evolucion_mensual_ventas_ropa_accesorios_deportivos\", \"type\": \"number\", \"description\": \"Ventas por grupos de art\\u00edculos de ropa y accesorios deportivos\", \"id\": \"37.2_EMVMRAD_2008_T_51\", \"scrapingIdentifierCell\": \"H45\", \"scrapingDataStartCell\": \"H46\", \"units\": \"Miles de pesos\", \"dataset_identifier\": \"37\", \"distribution_identifier\": \"37.2\"}, {\"title\": \"evol_mensual_ventas_amoblamientos_decoracion_textiles_hogar\", \"type\": \"number\", \"description\": \"Ventas por grupos de art\\u00edculos de amoblamientos, decoraci\\u00f3n y textiles para el hogar\", \"id\": \"37.2_EMVMADTH_2008_T_59\", \"scrapingIdentifierCell\": \"I45\", \"scrapingDataStartCell\": \"I46\", \"units\": \"Miles de pesos\", \"dataset_identifier\": \"37\", \"distribution_identifier\": \"37.2\"}, {\"title\": \"evolucion_mensual_ventas_patio_comidas_alimentos_kioscos\", \"type\": \"number\", \"description\": \"Ventas por grupos de art\\u00edculos de patio de comidas, alimentos y kioskos\", \"id\": \"37.2_EMVMPCAK_2008_T_56\", \"scrapingIdentifierCell\": \"J45\", \"scrapingDataStartCell\": \"J46\", \"units\": \"Miles de pesos\", \"dataset_identifier\": \"37\", \"distribution_identifier\": \"37.2\"}, {\"title\": \"evol_mensual_ventas_electronicos_cd_elect_computacion\", \"type\": \"number\", \"description\": \"Ventas por grupos de art\\u00edculos de art\\u00edculos electr\\u00f3nicos, cd, electrodomesticos y computacion\", \"id\": \"37.2_EMVMECEC_2008_T_53\", \"scrapingIdentifierCell\": \"K45\", \"scrapingDataStartCell\": \"K46\", \"units\": \"Miles de pesos\", \"dataset_identifier\": \"37\", \"distribution_identifier\": \"37.2\"}, {\"title\": \"evolucion_mensual_ventas_jugueteria\", \"type\": \"number\", \"description\": \"Ventas por grupos de art\\u00edculos de jugueter\\u00eda\", \"id\": \"37.2_EMVMJ_2008_T_35\", \"scrapingIdentifierCell\": \"L45\", \"scrapingDataStartCell\": \"L46\", \"units\": \"Miles de pesos\", \"dataset_identifier\": \"37\", \"distribution_identifier\": \"37.2\"}, {\"title\": \"evolucion_mensual_ventas_libreria_papeleria\", \"type\": \"number\", \"description\": \"Ventas por grupos de art\\u00edculos de librer\\u00eda y papeler\\u00eda\", \"id\": \"37.2_EMVMLP_2008_T_43\", \"scrapingIdentifierCell\": \"M45\", \"scrapingDataStartCell\": \"M46\", \"units\": \"Miles de pesos\", \"dataset_identifier\": \"37\", \"distribution_identifier\": \"37.2\"}, {\"title\": \"evolucion_mensual_ventas_diversion_esparcimiento\", \"type\": \"number\", \"description\": \"Ventas por grupos de art\\u00edculos de diversi\\u00f3n y esparcimiento\", \"id\": \"37.2_EMVMDE_2008_T_48\", \"scrapingIdentifierCell\": \"N45\", \"scrapingDataStartCell\": \"N46\", \"units\": \"Miles de pesos\", \"dataset_identifier\": \"37\", \"distribution_identifier\": \"37.2\"}, {\"title\": \"evolucion_mensual_ventas_perfumeria_farmacia\", \"type\": \"number\", \"description\": \"Ventas por grupos de art\\u00edculos de perfumer\\u00eda y farmacia\", \"id\": \"37.2_EMVMPF_2008_T_44\", \"scrapingIdentifierCell\": \"O45\", \"scrapingDataStartCell\": \"O46\", \"units\": \"Miles de pesos\", \"dataset_identifier\": \"37\", \"distribution_identifier\": \"37.2\"}, {\"title\": \"evolucion_mensual_ventas_otros\", \"type\": \"number\", \"description\": \"Ventas por grupos de art\\u00edculos de otros art\\u00edculos\", \"id\": \"37.2_EMVMO_2008_T_30\", \"scrapingIdentifierCell\": \"P45\", \"scrapingDataStartCell\": \"P46\", \"units\": \"Miles de pesos\", \"dataset_identifier\": \"37\", \"distribution_identifier\": \"37.2\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-09-28T00:00:00",
+      "datastore_active": false,
+      "description": "Encuestas de Centros de Compras. Valores trimestrales",
+      "fileName": "centros-compras-base-2008-valores-trimestrales.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "sspm_37.2",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Centros de Compras. Valores trimestrales",
+      "package_id": "sspm_37",
+      "position": 1,
+      "resource_type": null,
+      "revision_id": "32c3320f-031b-4de6-8fdd-5b400f2f6adb",
+      "size": null,
+      "state": "active",
+      "url": "https://infra.datos.gob.ar/catalog/sspm/dataset/37/distribution/37.2/download/centros-compras-base-2008-valores-trimestrales.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/",
+      "attributesDescription": "[{\"title\": \"indice_tiempo\", \"type\": \"date\", \"specialType\": \"time_index\", \"specialTypeDetail\": \"R/P1M\", \"id\": \"37.3_IT_2008_M_13\", \"scrapingIdentifierCell\": \"A145\", \"scrapingDataStartCell\": \"A146\", \"dataset_identifier\": \"37\", \"distribution_identifier\": \"37.3\"}, {\"title\": \"evolucion_mensual_ventas_mdp_total\", \"type\": \"number\", \"description\": \"Total de las ventas en centros de compras\", \"id\": \"37.3_EMVMT_2008_M_34\", \"scrapingIdentifierCell\": \"F145\", \"scrapingDataStartCell\": \"F146\", \"units\": \"Miles de pesos\", \"dataset_identifier\": \"37\", \"distribution_identifier\": \"37.3\"}, {\"title\": \"evol_mensual_ventas_mdp_indumentaria_calzado_marroquineria\", \"type\": \"number\", \"description\": \"Ventas por grupos de art\\u00edculos de indumentaria, calzado y marroquiner\\u00eda\", \"id\": \"37.3_EMVMICM_2008_M_58\", \"scrapingIdentifierCell\": \"G145\", \"scrapingDataStartCell\": \"G146\", \"units\": \"Miles de pesos\", \"dataset_identifier\": \"37\", \"distribution_identifier\": \"37.3\"}, {\"title\": \"evolucion_mensual_ventas_mdp_ropa_accesorios_deportivos\", \"type\": \"number\", \"description\": \"Ventas por grupos de art\\u00edculos de ropa y accesorios deportivos\", \"id\": \"37.3_EMVMRAD_2008_M_55\", \"scrapingIdentifierCell\": \"H145\", \"scrapingDataStartCell\": \"H146\", \"units\": \"Miles de pesos\", \"dataset_identifier\": \"37\", \"distribution_identifier\": \"37.3\"}, {\"title\": \"evol_mensual_ventas_mdp_amoblamientos_decoracion_textiles\", \"type\": \"number\", \"description\": \"Ventas por grupos de art\\u00edculos de amoblamientos, decoraci\\u00f3n y textiles para el hogar\", \"id\": \"37.3_EMVMADTH_2008_M_57\", \"scrapingIdentifierCell\": \"I145\", \"scrapingDataStartCell\": \"I146\", \"units\": \"Miles de pesos\", \"dataset_identifier\": \"37\", \"distribution_identifier\": \"37.3\"}, {\"title\": \"evolucion_mensual_ventas_mdp_patio_comidas_alimentos_kioscos\", \"type\": \"number\", \"description\": \"Ventas por grupos de art\\u00edculos de patio de comidas, alimentos y kioskos\", \"id\": \"37.3_EMVMPCAK_2008_M_60\", \"scrapingIdentifierCell\": \"J145\", \"scrapingDataStartCell\": \"J146\", \"units\": \"Miles de pesos\", \"dataset_identifier\": \"37\", \"distribution_identifier\": \"37.3\"}, {\"title\": \"evol_mensual_ventas_mdp_electronicos_cd_elect_computacion\", \"type\": \"number\", \"description\": \"Ventas por grupos de art\\u00edculos de art\\u00edculos electr\\u00f3nicos, cd, electrodomesticos y computacion\", \"id\": \"37.3_EMVMECEC_2008_M_57\", \"scrapingIdentifierCell\": \"K145\", \"scrapingDataStartCell\": \"K146\", \"units\": \"Miles de pesos\", \"dataset_identifier\": \"37\", \"distribution_identifier\": \"37.3\"}, {\"title\": \"evolucion_mensual_ventas_mdp_jugueteria\", \"type\": \"number\", \"description\": \"Ventas por grupos de art\\u00edculos de jugueter\\u00eda\", \"id\": \"37.3_EMVMJ_2008_M_39\", \"scrapingIdentifierCell\": \"L145\", \"scrapingDataStartCell\": \"L146\", \"units\": \"Miles de pesos\", \"dataset_identifier\": \"37\", \"distribution_identifier\": \"37.3\"}, {\"title\": \"evolucion_mensual_ventas_mdp_libreria_papeleria\", \"type\": \"number\", \"description\": \"Ventas por grupos de art\\u00edculos de librer\\u00eda y papeler\\u00eda\", \"id\": \"37.3_EMVMLP_2008_M_47\", \"scrapingIdentifierCell\": \"M145\", \"scrapingDataStartCell\": \"M146\", \"units\": \"Miles de pesos\", \"dataset_identifier\": \"37\", \"distribution_identifier\": \"37.3\"}, {\"title\": \"evolucion_mensual_ventas_mdp_diversion_esparcimiento\", \"type\": \"number\", \"description\": \"Ventas por grupos de art\\u00edculos de diversi\\u00f3n y esparcimiento\", \"id\": \"37.3_EMVMDE_2008_M_52\", \"scrapingIdentifierCell\": \"N145\", \"scrapingDataStartCell\": \"N146\", \"units\": \"Miles de pesos\", \"dataset_identifier\": \"37\", \"distribution_identifier\": \"37.3\"}, {\"title\": \"evolucion_mensual_ventas_mdp_perfumeria_farmacia\", \"type\": \"number\", \"description\": \"Ventas por grupos de art\\u00edculos de perfumer\\u00eda y farmacia\", \"id\": \"37.3_EMVMPF_2008_M_48\", \"scrapingIdentifierCell\": \"O145\", \"scrapingDataStartCell\": \"O146\", \"units\": \"Miles de pesos\", \"dataset_identifier\": \"37\", \"distribution_identifier\": \"37.3\"}, {\"title\": \"evolucion_mensual_ventas_mdp_otros\", \"type\": \"number\", \"description\": \"Ventas por grupos de art\\u00edculos de otros art\\u00edculos\", \"id\": \"37.3_EMVMO_2008_M_34\", \"scrapingIdentifierCell\": \"P145\", \"scrapingDataStartCell\": \"P146\", \"units\": \"Miles de pesos\", \"dataset_identifier\": \"37\", \"distribution_identifier\": \"37.3\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-09-28T00:00:00",
+      "datastore_active": false,
+      "description": "Encuestas de Centros de Compras. Valores mensuales",
+      "fileName": "centros-compras-base-2008-valores-mensuales.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "sspm_37.3",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Centros de Compras. Valores mensuales",
+      "package_id": "sspm_37",
+      "position": 2,
+      "resource_type": null,
+      "revision_id": "32c3320f-031b-4de6-8fdd-5b400f2f6adb",
+      "size": null,
+      "state": "active",
+      "url": "https://infra.datos.gob.ar/catalog/sspm/dataset/37/distribution/37.3/download/centros-compras-base-2008-valores-mensuales.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "e967fe11-e624-4d2b-bd6f-246147d1041d",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "Actividad",
+      "id": "a7695c51-c893-4ece-8ff9-306c197afdd7",
+      "name": "Actividad",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Información Económica al Día",
+      "id": "0d300a9a-0802-46c3-9a40-2f28ddf050ec",
+      "name": "Información Económica al Día",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Ventas en centros de compras (DISCONTINUADO)",
+  "type": "dataset",
+  "url": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/",
+  "version": null
+}

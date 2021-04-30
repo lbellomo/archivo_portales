@@ -1,0 +1,174 @@
+{
+  "author": "Subsecretaría de Programación Macroeconómica",
+  "author_email": "datoseconomicos@mecon.gov.ar",
+  "creator_user_id": "4720e75a-9e17-4dc3-879d-041917c7f9f9",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P1M"
+    },
+    {
+      "key": "issued",
+      "value": "2017-10-03"
+    },
+    {
+      "key": "language",
+      "value": "[\"SPA\"]"
+    },
+    {
+      "key": "source",
+      "value": "Ministerio de Hacienda"
+    },
+    {
+      "key": "spatial",
+      "value": "ARG"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"ECON\"]"
+    },
+    {
+      "key": "temporal",
+      "value": "2004-01-01/2017-12-31"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Economía y finanzas",
+      "display_name": "Economía y finanzas",
+      "id": "60b4b03e-10a1-4d67-b984-08008a249617",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225257.200233economia-finanzas.svg",
+      "name": "econ",
+      "title": "Economía y finanzas"
+    }
+  ],
+  "id": "sspm_186",
+  "isopen": true,
+  "license_id": "CC-BY-4.0",
+  "license_title": "Creative Commons Attribution 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "maintainer": "Subsecretaría de Programación Macroeconómica.",
+  "maintainer_email": "datoseconomicos@mecon.gov.ar",
+  "metadata_created": "2019-11-26T15:04:26.782258",
+  "metadata_modified": "2021-04-29T21:04:25.341411",
+  "name": "sspm-gasto-publico-gobierno-nacional-politica-ingresos",
+  "notes": "Gasto Público en programas nacionales de seguridad social y de transferencias de ingresos dirigidos a población vulnerable, por programa. Devengado Mensual. En pesos corrientes.",
+  "num_resources": 3,
+  "num_tags": 2,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:09.718132",
+    "description": "",
+    "id": "68f9ee22-5ec3-44cf-a32b-b87d9db46b93",
+    "image_url": "",
+    "is_organization": true,
+    "name": "sspm",
+    "revision_id": "bc058ce0-3540-4204-96cd-9f9ec79045b3",
+    "state": "active",
+    "title": "Subsecretaría de Programación Macroeconómica",
+    "type": "organization"
+  },
+  "owner_org": "68f9ee22-5ec3-44cf-a32b-b87d9db46b93",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/",
+      "attributesDescription": "[{\"title\": \"indice_tiempo\", \"type\": \"date\", \"specialType\": \"time_index\", \"specialTypeDetail\": \"R/P1Y\", \"id\": \"186.1_INDICE_TIEMPO_0_0_13\", \"scrapingIdentifierCell\": \"A11\", \"scrapingDataStartCell\": \"A12\", \"dataset_identifier\": \"186\", \"distribution_identifier\": \"186.1\"}, {\"title\": \"asignaciones_familiares\", \"type\": \"number\", \"description\": \"GPN en Asignaciones Familiares. Devengado mensual\", \"id\": \"186.1_ASIGNACIONRES_0_0_23\", \"scrapingIdentifierCell\": \"B11\", \"scrapingDataStartCell\": \"B12\", \"units\": \"Millones de pesos\", \"dataset_identifier\": \"186\", \"distribution_identifier\": \"186.1\"}, {\"title\": \"argentina_trabaja\", \"type\": \"number\", \"description\": \"GPN en Argentina Trabaja. Devengado mensual .\", \"id\": \"186.1_ARGENTINA_AJA_0_0_17\", \"scrapingIdentifierCell\": \"C11\", \"scrapingDataStartCell\": \"C12\", \"units\": \"Millones de pesos\", \"dataset_identifier\": \"186\", \"distribution_identifier\": \"186.1\"}, {\"title\": \"asignacion_universal_hijo_proteccion_social\", \"type\": \"number\", \"description\": \"GPN en Asignaci\\u00f3n Universal por Hijo para Protecci\\u00f3n Social. Devengado mensual .\", \"id\": \"186.1_ASIGNACIONIAL_0_0_43\", \"scrapingIdentifierCell\": \"D11\", \"scrapingDataStartCell\": \"D12\", \"units\": \"Millones de pesos\", \"dataset_identifier\": \"186\", \"distribution_identifier\": \"186.1\"}, {\"title\": \"becas\", \"type\": \"number\", \"description\": \"GPN en Becas (otorgadas por condici\\u00f3n de vulnerabilidad). Devengado mensual.\", \"id\": \"186.1_BECASCAS_0_0_5\", \"scrapingIdentifierCell\": \"E11\", \"scrapingDataStartCell\": \"E12\", \"units\": \"Millones de pesos\", \"dataset_identifier\": \"186\", \"distribution_identifier\": \"186.1\"}, {\"title\": \"jovenes_mas_mejor_trabajo\", \"type\": \"number\", \"description\": \"GPN en Programa J\\u00f3venes con M\\u00e1s y Mejor Trabajo. Devengado mensual .\", \"id\": \"186.1_JOVENES_MAAJO_0_0_25\", \"scrapingIdentifierCell\": \"F11\", \"scrapingDataStartCell\": \"F12\", \"units\": \"Millones de pesos\", \"dataset_identifier\": \"186\", \"distribution_identifier\": \"186.1\"}, {\"title\": \"jubilaciones_pensiones_sist_int_previsional_argentino\", \"type\": \"number\", \"description\": \"GPN en Jubilaciones y Pensiones del SIPA. Devengado mensual .\", \"id\": \"186.1_JUBILACIONINO_0_0_53\", \"scrapingIdentifierCell\": \"G11\", \"scrapingDataStartCell\": \"G12\", \"units\": \"Millones de pesos\", \"dataset_identifier\": \"186\", \"distribution_identifier\": \"186.1\"}, {\"title\": \"jubilaciones_pensiones_otros_regimenes_nacionales\", \"type\": \"number\", \"description\": \"GPN en Jubilaciones y Pensiones de otros reg\\u00edmenes nacionales. Devengado mensual .\", \"id\": \"186.1_JUBILACIONLES_0_0_49\", \"scrapingIdentifierCell\": \"H11\", \"scrapingDataStartCell\": \"H12\", \"units\": \"Millones de pesos\", \"dataset_identifier\": \"186\", \"distribution_identifier\": \"186.1\"}, {\"title\": \"otras_politicas_empleo_minist_trabajo_empleo_seg_soc\", \"type\": \"number\", \"description\": \"GPN en otras Pol\\u00edticas de Empleo del Ministerio de Trabajo, Empleo y Seguridad Social (MTESS). Devengado mensual .\", \"id\": \"186.1_OTRAS_POLISOC_0_0_52\", \"scrapingIdentifierCell\": \"I11\", \"scrapingDataStartCell\": \"I12\", \"units\": \"Millones de pesos\", \"dataset_identifier\": \"186\", \"distribution_identifier\": \"186.1\"}, {\"title\": \"pensiones_no_contributivas\", \"type\": \"number\", \"description\": \"GPN en Pensiones no Contributivas otorgadas por Ministerio de Desarrollo Social y ANSES. Devengado mensual .\", \"id\": \"186.1_PENSIONES_VAS_0_0_26\", \"scrapingIdentifierCell\": \"J11\", \"scrapingDataStartCell\": \"J12\", \"units\": \"Millones de pesos\", \"dataset_identifier\": \"186\", \"distribution_identifier\": \"186.1\"}, {\"title\": \"programa_jefas_jefes_hogar_desocupados\", \"type\": \"number\", \"description\": \"GPN en Programa Jefas y Jefes de Hogar Desocupados. Devengado mensual .\", \"id\": \"186.1_PROGRAMA_JDOS_0_0_38\", \"scrapingIdentifierCell\": \"K11\", \"scrapingDataStartCell\": \"K12\", \"units\": \"Millones de pesos\", \"dataset_identifier\": \"186\", \"distribution_identifier\": \"186.1\"}, {\"title\": \"plan_familias_inclusion_social\", \"type\": \"number\", \"description\": \"GPN en Plan Familias por la Inclusi\\u00f3n Social. Devengado mensual .\", \"id\": \"186.1_PLAN_FAMILIAL_0_0_30\", \"scrapingIdentifierCell\": \"L11\", \"scrapingDataStartCell\": \"L12\", \"units\": \"Millones de pesos\", \"dataset_identifier\": \"186\", \"distribution_identifier\": \"186.1\"}, {\"title\": \"programa_respaldo_estudiantes_argentina\", \"type\": \"number\", \"description\": \"GPN en PROG.R.ES.AR. Devengado mensual .\", \"id\": \"186.1_PROGRAMA_RINA_0_0_39\", \"scrapingIdentifierCell\": \"M11\", \"scrapingDataStartCell\": \"M12\", \"units\": \"Millones de pesos\", \"dataset_identifier\": \"186\", \"distribution_identifier\": \"186.1\"}, {\"title\": \"pension_universal_adulto_mayor\", \"type\": \"number\", \"description\": \"GPN en Pensi\\u00f3n Universal para el Adulto Mayor (PUAM). Devengado mensual .\", \"id\": \"186.1_PENSION_UNYOR_0_0_30\", \"scrapingIdentifierCell\": \"N11\", \"scrapingDataStartCell\": \"N12\", \"units\": \"Millones de pesos\", \"dataset_identifier\": \"186\", \"distribution_identifier\": \"186.1\"}, {\"title\": \"seguro_capacitacion_empleo\", \"type\": \"number\", \"description\": \"GPN en Seguro de Capacitaci\\u00f3n y Empleo. Devengado mensual .\", \"id\": \"186.1_SEGURO_CAPLEO_0_0_26\", \"scrapingIdentifierCell\": \"O11\", \"scrapingDataStartCell\": \"O12\", \"units\": \"Millones de pesos\", \"dataset_identifier\": \"186\", \"distribution_identifier\": \"186.1\"}, {\"title\": \"seguro_desempleo\", \"type\": \"number\", \"description\": \"GPN en Seguro por Desempleo. Devengado mensual .\", \"id\": \"186.1_SEGURO_DESLEO_0_0_16\", \"scrapingIdentifierCell\": \"P11\", \"scrapingDataStartCell\": \"P12\", \"units\": \"Millones de pesos\", \"dataset_identifier\": \"186\", \"distribution_identifier\": \"186.1\"}, {\"title\": \"seguro_desempleo_renatre\", \"type\": \"number\", \"description\": \"GPN en Seguro por Desempleo-RENATRE. Devengado mensual .\", \"id\": \"186.1_SEGURO_DESTRE_0_0_24\", \"scrapingIdentifierCell\": \"Q11\", \"scrapingDataStartCell\": \"Q12\", \"units\": \"Millones de pesos\", \"dataset_identifier\": \"186\", \"distribution_identifier\": \"186.1\"}, {\"title\": \"proyectos_productivos_comunitarios\", \"type\": \"number\", \"description\": \"GPN en Proyectos Productivos Comunitarios. Devengado mensual .\", \"id\": \"186.1_PROYECTOS_IOS_0_0_34\", \"scrapingIdentifierCell\": \"R11\", \"scrapingDataStartCell\": \"R12\", \"units\": \"Millones de pesos\", \"dataset_identifier\": \"186\", \"distribution_identifier\": \"186.1\"}, {\"title\": \"total_politica_ingresos\", \"type\": \"number\", \"description\": \"GPN en Pol\\u00edtica de Ingreso. Total. Devengado mensual .\", \"id\": \"186.1_TOTAL_POLISOS_0_0_23\", \"scrapingIdentifierCell\": \"S11\", \"scrapingDataStartCell\": \"S12\", \"units\": \"Millones de pesos\", \"dataset_identifier\": \"186\", \"distribution_identifier\": \"186.1\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-10-03T00:00:00",
+      "datastore_active": false,
+      "description": "Gasto Público en programas nacionales de seguridad social y de transferencias de ingresos dirigidos a población vulnerable, por programa. Devengado Anual. En pesos corrientes.",
+      "fileName": "gasto-publico-programas-segurida-anual.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "sspm_186.1",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Gasto Público del Gobierno Nacional en Política de Ingresos, por programa. Devengado anual en pesos corrientes",
+      "package_id": "sspm_186",
+      "position": 0,
+      "resource_type": null,
+      "revision_id": "6afeb8bc-b025-4030-95c1-93d6769a8f58",
+      "size": null,
+      "state": "active",
+      "url": "https://infra.datos.gob.ar/catalog/sspm/dataset/186/distribution/186.1/download/gasto-publico-programas-segurida-anual.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/",
+      "attributesDescription": "[{\"title\": \"indice_tiempo\", \"type\": \"date\", \"specialType\": \"time_index\", \"specialTypeDetail\": \"R/P3M\", \"id\": \"186.2_INDICE_TIEMPO_0_0_13\", \"scrapingIdentifierCell\": \"A36\", \"scrapingDataStartCell\": \"A37\", \"dataset_identifier\": \"186\", \"distribution_identifier\": \"186.2\"}, {\"title\": \"asignaciones_familiares\", \"type\": \"number\", \"description\": \"GPN en Asignaciones Familiares. Devengado mensual\", \"id\": \"186.2_ASIGNACIONRES_0_0_23\", \"scrapingIdentifierCell\": \"B36\", \"scrapingDataStartCell\": \"B37\", \"units\": \"Millones de pesos\", \"dataset_identifier\": \"186\", \"distribution_identifier\": \"186.2\"}, {\"title\": \"argentina_trabaja\", \"type\": \"number\", \"description\": \"GPN en Argentina Trabaja. Devengado mensual .\", \"id\": \"186.2_ARGENTINA_AJA_0_0_17\", \"scrapingIdentifierCell\": \"C36\", \"scrapingDataStartCell\": \"C37\", \"units\": \"Millones de pesos\", \"dataset_identifier\": \"186\", \"distribution_identifier\": \"186.2\"}, {\"title\": \"asignacion_universal_hijo_proteccion_social\", \"type\": \"number\", \"description\": \"GPN en Asignaci\\u00f3n Universal por Hijo para Protecci\\u00f3n Social. Devengado mensual .\", \"id\": \"186.2_ASIGNACIONIAL_0_0_43\", \"scrapingIdentifierCell\": \"D36\", \"scrapingDataStartCell\": \"D37\", \"units\": \"Millones de pesos\", \"dataset_identifier\": \"186\", \"distribution_identifier\": \"186.2\"}, {\"title\": \"becas\", \"type\": \"number\", \"description\": \"GPN en Becas (otorgadas por condici\\u00f3n de vulnerabilidad). Devengado mensual.\", \"id\": \"186.2_BECASCAS_0_0_5\", \"scrapingIdentifierCell\": \"E36\", \"scrapingDataStartCell\": \"E37\", \"units\": \"Millones de pesos\", \"dataset_identifier\": \"186\", \"distribution_identifier\": \"186.2\"}, {\"title\": \"jovenes_mas_mejor_trabajo\", \"type\": \"number\", \"description\": \"GPN en Programa J\\u00f3venes con M\\u00e1s y Mejor Trabajo. Devengado mensual .\", \"id\": \"186.2_JOVENES_MAAJO_0_0_25\", \"scrapingIdentifierCell\": \"F36\", \"scrapingDataStartCell\": \"F37\", \"units\": \"Millones de pesos\", \"dataset_identifier\": \"186\", \"distribution_identifier\": \"186.2\"}, {\"title\": \"jubilaciones_pensiones_sist_int_previsional_argentino\", \"type\": \"number\", \"description\": \"GPN en Jubilaciones y Pensiones del SIPA. Devengado mensual .\", \"id\": \"186.2_JUBILACIONINO_0_0_53\", \"scrapingIdentifierCell\": \"G36\", \"scrapingDataStartCell\": \"G37\", \"units\": \"Millones de pesos\", \"dataset_identifier\": \"186\", \"distribution_identifier\": \"186.2\"}, {\"title\": \"jubilaciones_pensiones_otros_regimenes_nacionales\", \"type\": \"number\", \"description\": \"GPN en Jubilaciones y Pensiones de otros reg\\u00edmenes nacionales. Devengado mensual .\", \"id\": \"186.2_JUBILACIONLES_0_0_49\", \"scrapingIdentifierCell\": \"H36\", \"scrapingDataStartCell\": \"H37\", \"units\": \"Millones de pesos\", \"dataset_identifier\": \"186\", \"distribution_identifier\": \"186.2\"}, {\"title\": \"otras_politicas_empleo_minist_trabajo_empleo_seg_soc\", \"type\": \"number\", \"description\": \"GPN en otras Pol\\u00edticas de Empleo del Ministerio de Trabajo, Empleo y Seguridad Social (MTESS). Devengado mensual .\", \"id\": \"186.2_OTRAS_POLISOC_0_0_52\", \"scrapingIdentifierCell\": \"I36\", \"scrapingDataStartCell\": \"I37\", \"units\": \"Millones de pesos\", \"dataset_identifier\": \"186\", \"distribution_identifier\": \"186.2\"}, {\"title\": \"pensiones_no_contributivas\", \"type\": \"number\", \"description\": \"GPN en Pensiones no Contributivas otorgadas por Ministerio de Desarrollo Social y ANSES. Devengado mensual .\", \"id\": \"186.2_PENSIONES_VAS_0_0_26\", \"scrapingIdentifierCell\": \"J36\", \"scrapingDataStartCell\": \"J37\", \"units\": \"Millones de pesos\", \"dataset_identifier\": \"186\", \"distribution_identifier\": \"186.2\"}, {\"title\": \"programa_jefas_jefes_hogar_desocupados\", \"type\": \"number\", \"description\": \"GPN en Programa Jefas y Jefes de Hogar Desocupados. Devengado mensual .\", \"id\": \"186.2_PROGRAMA_JDOS_0_0_38\", \"scrapingIdentifierCell\": \"K36\", \"scrapingDataStartCell\": \"K37\", \"units\": \"Millones de pesos\", \"dataset_identifier\": \"186\", \"distribution_identifier\": \"186.2\"}, {\"title\": \"plan_familias_inclusion_social\", \"type\": \"number\", \"description\": \"GPN en Plan Familias por la Inclusi\\u00f3n Social. Devengado mensual .\", \"id\": \"186.2_PLAN_FAMILIAL_0_0_30\", \"scrapingIdentifierCell\": \"L36\", \"scrapingDataStartCell\": \"L37\", \"units\": \"Millones de pesos\", \"dataset_identifier\": \"186\", \"distribution_identifier\": \"186.2\"}, {\"title\": \"programa_respaldo_estudiantes_argentina\", \"type\": \"number\", \"description\": \"GPN en PROG.R.ES.AR. Devengado mensual .\", \"id\": \"186.2_PROGRAMA_RINA_0_0_39\", \"scrapingIdentifierCell\": \"M36\", \"scrapingDataStartCell\": \"M37\", \"units\": \"Millones de pesos\", \"dataset_identifier\": \"186\", \"distribution_identifier\": \"186.2\"}, {\"title\": \"pension_universal_adulto_mayor\", \"type\": \"number\", \"description\": \"GPN en Pensi\\u00f3n Universal para el Adulto Mayor (PUAM). Devengado mensual .\", \"id\": \"186.2_PENSION_UNYOR_0_0_30\", \"scrapingIdentifierCell\": \"N36\", \"scrapingDataStartCell\": \"N37\", \"units\": \"Millones de pesos\", \"dataset_identifier\": \"186\", \"distribution_identifier\": \"186.2\"}, {\"title\": \"seguro_capacitacion_empleo\", \"type\": \"number\", \"description\": \"GPN en Seguro de Capacitaci\\u00f3n y Empleo. Devengado mensual .\", \"id\": \"186.2_SEGURO_CAPLEO_0_0_26\", \"scrapingIdentifierCell\": \"O36\", \"scrapingDataStartCell\": \"O37\", \"units\": \"Millones de pesos\", \"dataset_identifier\": \"186\", \"distribution_identifier\": \"186.2\"}, {\"title\": \"seguro_desempleo\", \"type\": \"number\", \"description\": \"GPN en Seguro por Desempleo. Devengado mensual .\", \"id\": \"186.2_SEGURO_DESLEO_0_0_16\", \"scrapingIdentifierCell\": \"P36\", \"scrapingDataStartCell\": \"P37\", \"units\": \"Millones de pesos\", \"dataset_identifier\": \"186\", \"distribution_identifier\": \"186.2\"}, {\"title\": \"seguro_desempleo_renatre\", \"type\": \"number\", \"description\": \"GPN en Seguro por Desempleo-RENATRE. Devengado mensual .\", \"id\": \"186.2_SEGURO_DESTRE_0_0_24\", \"scrapingIdentifierCell\": \"Q36\", \"scrapingDataStartCell\": \"Q37\", \"units\": \"Millones de pesos\", \"dataset_identifier\": \"186\", \"distribution_identifier\": \"186.2\"}, {\"title\": \"proyectos_productivos_comunitarios\", \"type\": \"number\", \"description\": \"GPN en Proyectos Productivos Comunitarios. Devengado mensual .\", \"id\": \"186.2_PROYECTOS_IOS_0_0_34\", \"scrapingIdentifierCell\": \"R36\", \"scrapingDataStartCell\": \"R37\", \"units\": \"Millones de pesos\", \"dataset_identifier\": \"186\", \"distribution_identifier\": \"186.2\"}, {\"title\": \"total_politica_ingresos\", \"type\": \"number\", \"description\": \"GPN en Pol\\u00edtica de Ingreso. Total. Devengado mensual .\", \"id\": \"186.2_TOTAL_POLISOS_0_0_23\", \"scrapingIdentifierCell\": \"S36\", \"scrapingDataStartCell\": \"S37\", \"units\": \"Millones de pesos\", \"dataset_identifier\": \"186\", \"distribution_identifier\": \"186.2\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-10-03T00:00:00",
+      "datastore_active": false,
+      "description": "Gasto Público en programas nacionales de seguridad social y de transferencias de ingresos dirigidos a población vulnerable, por programa. Devengado trimestral. En pesos corrientes.",
+      "fileName": "gasto-publico-programas-segurida-trimestral.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "sspm_186.2",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Gasto Público del Gobierno Nacional en Política de Ingresos, por programa. Devengado trimestral en pesos corrientes",
+      "package_id": "sspm_186",
+      "position": 1,
+      "resource_type": null,
+      "revision_id": "26ae96f2-99f8-42dd-930e-4f24b0217876",
+      "size": null,
+      "state": "active",
+      "url": "https://infra.datos.gob.ar/catalog/sspm/dataset/186/distribution/186.2/download/gasto-publico-programas-segurida-trimestral.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/",
+      "attributesDescription": "[{\"title\": \"indice_tiempo\", \"type\": \"date\", \"specialType\": \"time_index\", \"specialTypeDetail\": \"R/P1M\", \"id\": \"186.3_INDICE_TIEMPO_0_0_13\", \"scrapingIdentifierCell\": \"A113\", \"scrapingDataStartCell\": \"A114\", \"dataset_identifier\": \"186\", \"distribution_identifier\": \"186.3\"}, {\"title\": \"asignaciones_familiares\", \"type\": \"number\", \"description\": \"GPN en Asignaciones Familiares. Devengado mensual\", \"id\": \"186.3_ASIGNACIONRES_0_0_23\", \"scrapingIdentifierCell\": \"B113\", \"scrapingDataStartCell\": \"B114\", \"units\": \"Millones de pesos\", \"dataset_identifier\": \"186\", \"distribution_identifier\": \"186.3\"}, {\"title\": \"argentina_trabaja\", \"type\": \"number\", \"description\": \"GPN en Argentina Trabaja. Devengado mensual .\", \"id\": \"186.3_ARGENTINA_AJA_0_0_17\", \"scrapingIdentifierCell\": \"C113\", \"scrapingDataStartCell\": \"C114\", \"units\": \"Millones de pesos\", \"dataset_identifier\": \"186\", \"distribution_identifier\": \"186.3\"}, {\"title\": \"asignacion_universal_hijo_proteccion_social\", \"type\": \"number\", \"description\": \"GPN en Asignaci\\u00f3n Universal por Hijo para Protecci\\u00f3n Social. Devengado mensual .\", \"id\": \"186.3_ASIGNACIONIAL_0_0_43\", \"scrapingIdentifierCell\": \"D113\", \"scrapingDataStartCell\": \"D114\", \"units\": \"Millones de pesos\", \"dataset_identifier\": \"186\", \"distribution_identifier\": \"186.3\"}, {\"title\": \"becas\", \"type\": \"number\", \"description\": \"GPN en Becas (otorgadas por condici\\u00f3n de vulnerabilidad). Devengado mensual.\", \"id\": \"186.3_BECASCAS_0_0_5\", \"scrapingIdentifierCell\": \"E113\", \"scrapingDataStartCell\": \"E114\", \"units\": \"Millones de pesos\", \"dataset_identifier\": \"186\", \"distribution_identifier\": \"186.3\"}, {\"title\": \"jovenes_mas_mejor_trabajo\", \"type\": \"number\", \"description\": \"GPN en Programa J\\u00f3venes con M\\u00e1s y Mejor Trabajo. Devengado mensual .\", \"id\": \"186.3_JOVENES_MAAJO_0_0_25\", \"scrapingIdentifierCell\": \"F113\", \"scrapingDataStartCell\": \"F114\", \"units\": \"Millones de pesos\", \"dataset_identifier\": \"186\", \"distribution_identifier\": \"186.3\"}, {\"title\": \"jubilaciones_pensiones_sist_int_previsional_argentino\", \"type\": \"number\", \"description\": \"GPN en Jubilaciones y Pensiones del SIPA. Devengado mensual .\", \"id\": \"186.3_JUBILACIONINO_0_0_53\", \"scrapingIdentifierCell\": \"G113\", \"scrapingDataStartCell\": \"G114\", \"units\": \"Millones de pesos\", \"dataset_identifier\": \"186\", \"distribution_identifier\": \"186.3\"}, {\"title\": \"jubilaciones_pensiones_otros_regimenes_nacionales\", \"type\": \"number\", \"description\": \"GPN en Jubilaciones y Pensiones de otros reg\\u00edmenes nacionales. Devengado mensual .\", \"id\": \"186.3_JUBILACIONLES_0_0_49\", \"scrapingIdentifierCell\": \"H113\", \"scrapingDataStartCell\": \"H114\", \"units\": \"Millones de pesos\", \"dataset_identifier\": \"186\", \"distribution_identifier\": \"186.3\"}, {\"title\": \"otras_politicas_empleo_minist_trabajo_empleo_seg_soc\", \"type\": \"number\", \"description\": \"GPN en otras Pol\\u00edticas de Empleo del Ministerio de Trabajo, Empleo y Seguridad Social (MTESS). Devengado mensual .\", \"id\": \"186.3_OTRAS_POLISOC_0_0_52\", \"scrapingIdentifierCell\": \"I113\", \"scrapingDataStartCell\": \"I114\", \"units\": \"Millones de pesos\", \"dataset_identifier\": \"186\", \"distribution_identifier\": \"186.3\"}, {\"title\": \"pensiones_no_contributivas\", \"type\": \"number\", \"description\": \"GPN en Pensiones no Contributivas otorgadas por Ministerio de Desarrollo Social y ANSES. Devengado mensual .\", \"id\": \"186.3_PENSIONES_VAS_0_0_26\", \"scrapingIdentifierCell\": \"J113\", \"scrapingDataStartCell\": \"J114\", \"units\": \"Millones de pesos\", \"dataset_identifier\": \"186\", \"distribution_identifier\": \"186.3\"}, {\"title\": \"programa_jefas_jefes_hogar_desocupados\", \"type\": \"number\", \"description\": \"GPN en Programa Jefas y Jefes de Hogar Desocupados. Devengado mensual .\", \"id\": \"186.3_PROGRAMA_JDOS_0_0_38\", \"scrapingIdentifierCell\": \"K113\", \"scrapingDataStartCell\": \"K114\", \"units\": \"Millones de pesos\", \"dataset_identifier\": \"186\", \"distribution_identifier\": \"186.3\"}, {\"title\": \"plan_familias_inclusion_social\", \"type\": \"number\", \"description\": \"GPN en Plan Familias por la Inclusi\\u00f3n Social. Devengado mensual .\", \"id\": \"186.3_PLAN_FAMILIAL_0_0_30\", \"scrapingIdentifierCell\": \"L113\", \"scrapingDataStartCell\": \"L114\", \"units\": \"Millones de pesos\", \"dataset_identifier\": \"186\", \"distribution_identifier\": \"186.3\"}, {\"title\": \"programa_respaldo_estudiantes_argentina\", \"type\": \"number\", \"description\": \"GPN en PROG.R.ES.AR. Devengado mensual .\", \"id\": \"186.3_PROGRAMA_RINA_0_0_39\", \"scrapingIdentifierCell\": \"M113\", \"scrapingDataStartCell\": \"M114\", \"units\": \"Millones de pesos\", \"dataset_identifier\": \"186\", \"distribution_identifier\": \"186.3\"}, {\"title\": \"pension_universal_adulto_mayor\", \"type\": \"number\", \"description\": \"GPN en Pensi\\u00f3n Universal para el Adulto Mayor (PUAM). Devengado mensual .\", \"id\": \"186.3_PENSION_UNYOR_0_0_30\", \"scrapingIdentifierCell\": \"N113\", \"scrapingDataStartCell\": \"N114\", \"units\": \"Millones de pesos\", \"dataset_identifier\": \"186\", \"distribution_identifier\": \"186.3\"}, {\"title\": \"seguro_capacitacion_empleo\", \"type\": \"number\", \"description\": \"GPN en Seguro de Capacitaci\\u00f3n y Empleo. Devengado mensual .\", \"id\": \"186.3_SEGURO_CAPLEO_0_0_26\", \"scrapingIdentifierCell\": \"O113\", \"scrapingDataStartCell\": \"O114\", \"units\": \"Millones de pesos\", \"dataset_identifier\": \"186\", \"distribution_identifier\": \"186.3\"}, {\"title\": \"seguro_desempleo\", \"type\": \"number\", \"description\": \"GPN en Seguro por Desempleo. Devengado mensual .\", \"id\": \"186.3_SEGURO_DESLEO_0_0_16\", \"scrapingIdentifierCell\": \"P113\", \"scrapingDataStartCell\": \"P114\", \"units\": \"Millones de pesos\", \"dataset_identifier\": \"186\", \"distribution_identifier\": \"186.3\"}, {\"title\": \"seguro_desempleo_renatre\", \"type\": \"number\", \"description\": \"GPN en Seguro por Desempleo-RENATRE. Devengado mensual .\", \"id\": \"186.3_SEGURO_DESTRE_0_0_24\", \"scrapingIdentifierCell\": \"Q113\", \"scrapingDataStartCell\": \"Q114\", \"units\": \"Millones de pesos\", \"dataset_identifier\": \"186\", \"distribution_identifier\": \"186.3\"}, {\"title\": \"proyectos_productivos_comunitarios\", \"type\": \"number\", \"description\": \"GPN en Proyectos Productivos Comunitarios. Devengado mensual .\", \"id\": \"186.3_PROYECTOS_IOS_0_0_34\", \"scrapingIdentifierCell\": \"R113\", \"scrapingDataStartCell\": \"R114\", \"units\": \"Millones de pesos\", \"dataset_identifier\": \"186\", \"distribution_identifier\": \"186.3\"}, {\"title\": \"total_politica_ingresos\", \"type\": \"number\", \"description\": \"GPN en Pol\\u00edtica de Ingreso. Total. Devengado mensual .\", \"id\": \"186.3_TOTAL_POLISOS_0_0_23\", \"scrapingIdentifierCell\": \"S113\", \"scrapingDataStartCell\": \"S114\", \"units\": \"Millones de pesos\", \"dataset_identifier\": \"186\", \"distribution_identifier\": \"186.3\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-10-03T00:00:00",
+      "datastore_active": false,
+      "description": "Gasto Público en programas nacionales de seguridad social y de transferencias de ingresos dirigidos a población vulnerable, por programa. Devengado mensual. En pesos corrientes.",
+      "fileName": "gasto-publico-programas-segurida-mensual.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "sspm_186.3",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Gasto Público del Gobierno Nacional en Política de Ingresos, por programa. Devengado mensual en pesos corrientes",
+      "package_id": "sspm_186",
+      "position": 2,
+      "resource_type": null,
+      "revision_id": "26ae96f2-99f8-42dd-930e-4f24b0217876",
+      "size": null,
+      "state": "active",
+      "url": "https://infra.datos.gob.ar/catalog/sspm/dataset/186/distribution/186.3/download/gasto-publico-programas-segurida-mensual.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "6afeb8bc-b025-4030-95c1-93d6769a8f58",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "Finanzas Públicas",
+      "id": "e26a31cd-920a-4bea-8a0a-d690d5fdf16f",
+      "name": "Finanzas Públicas",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Información Económica al Día",
+      "id": "0d300a9a-0802-46c3-9a40-2f28ddf050ec",
+      "name": "Información Económica al Día",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Gasto Público del Gobierno Nacional en Política de Ingresos",
+  "type": "dataset",
+  "url": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/",
+  "version": null
+}

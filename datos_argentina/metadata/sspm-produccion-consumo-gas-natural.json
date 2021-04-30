@@ -1,0 +1,174 @@
+{
+  "author": "Subsecretaría de Programación Macroeconómica",
+  "author_email": "datoseconomicos@mecon.gov.ar",
+  "creator_user_id": "4720e75a-9e17-4dc3-879d-041917c7f9f9",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P1M"
+    },
+    {
+      "key": "issued",
+      "value": "2017-12-20"
+    },
+    {
+      "key": "language",
+      "value": "[\"SPA\"]"
+    },
+    {
+      "key": "source",
+      "value": "Ministerio de Energía y Minería"
+    },
+    {
+      "key": "spatial",
+      "value": "ARG"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"ECON\"]"
+    },
+    {
+      "key": "temporal",
+      "value": "1996-01-01/2017-10-01"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Economía y finanzas",
+      "display_name": "Economía y finanzas",
+      "id": "60b4b03e-10a1-4d67-b984-08008a249617",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225257.200233economia-finanzas.svg",
+      "name": "econ",
+      "title": "Economía y finanzas"
+    }
+  ],
+  "id": "sspm_364",
+  "isopen": true,
+  "license_id": "CC-BY-4.0",
+  "license_title": "Creative Commons Attribution 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "maintainer": "Subsecretaría de Programación Macroeconómica.",
+  "maintainer_email": "datoseconomicos@mecon.gov.ar",
+  "metadata_created": "2019-11-26T15:03:52.537661",
+  "metadata_modified": "2021-04-29T21:05:07.258406",
+  "name": "sspm-produccion-consumo-gas-natural",
+  "notes": "Datos producción y  Consumo de Gas Natural",
+  "num_resources": 3,
+  "num_tags": 2,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:09.718132",
+    "description": "",
+    "id": "68f9ee22-5ec3-44cf-a32b-b87d9db46b93",
+    "image_url": "",
+    "is_organization": true,
+    "name": "sspm",
+    "revision_id": "bc058ce0-3540-4204-96cd-9f9ec79045b3",
+    "state": "active",
+    "title": "Subsecretaría de Programación Macroeconómica",
+    "type": "organization"
+  },
+  "owner_org": "68f9ee22-5ec3-44cf-a32b-b87d9db46b93",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/",
+      "attributesDescription": "[{\"title\": \"indice_tiempo\", \"type\": \"date\", \"specialType\": \"time_index\", \"specialTypeDetail\": \"R/P1Y\", \"id\": \"364.1_INDICE_TIEMPO__13\", \"scrapingIdentifierCell\": \"A7\", \"scrapingDataStartCell\": \"A8\", \"dataset_identifier\": \"364\", \"distribution_identifier\": \"364.1\"}, {\"title\": \"produccion_de_gas_natural\", \"type\": \"number\", \"description\": \"Producci\\u00f3n de Gas Natural\", \"id\": \"364.1_PRODUCCIONRAL__25\", \"scrapingIdentifierCell\": \"B7\", \"scrapingDataStartCell\": \"B8\", \"units\": \"En millones de metros c\\u00fabicos\", \"dataset_identifier\": \"364\", \"distribution_identifier\": \"364.1\"}, {\"title\": \"total\", \"type\": \"number\", \"description\": \"Total\", \"id\": \"364.1_TOTALTAL__5\", \"scrapingIdentifierCell\": \"D7\", \"scrapingDataStartCell\": \"D8\", \"units\": \"En millones de metros c\\u00fabicos\", \"dataset_identifier\": \"364\", \"distribution_identifier\": \"364.1\"}, {\"title\": \"residencial\", \"type\": \"number\", \"description\": \"Residencial\", \"id\": \"364.1_RESIDENCIAIAL__11\", \"scrapingIdentifierCell\": \"E7\", \"scrapingDataStartCell\": \"E8\", \"units\": \"En millones de metros c\\u00fabicos\", \"dataset_identifier\": \"364\", \"distribution_identifier\": \"364.1\"}, {\"title\": \"comercial\", \"type\": \"number\", \"description\": \"Comercial\", \"id\": \"364.1_COMERCIALIAL__9\", \"scrapingIdentifierCell\": \"F7\", \"scrapingDataStartCell\": \"F8\", \"units\": \"En millones de metros c\\u00fabicos\", \"dataset_identifier\": \"364\", \"distribution_identifier\": \"364.1\"}, {\"title\": \"entes_oficiales\", \"type\": \"number\", \"description\": \"Entes Oficiales\", \"id\": \"364.1_ENTES_OFICLES__15\", \"scrapingIdentifierCell\": \"G7\", \"scrapingDataStartCell\": \"G8\", \"units\": \"En millones de metros c\\u00fabicos\", \"dataset_identifier\": \"364\", \"distribution_identifier\": \"364.1\"}, {\"title\": \"industria\", \"type\": \"number\", \"description\": \"Industria\", \"id\": \"364.1_INDUSTRIARIA__9\", \"scrapingIdentifierCell\": \"H7\", \"scrapingDataStartCell\": \"H8\", \"units\": \"En millones de metros c\\u00fabicos\", \"dataset_identifier\": \"364\", \"distribution_identifier\": \"364.1\"}, {\"title\": \"centrales_electricas\", \"type\": \"number\", \"description\": \"Centrales El\\u00e9ctricas\", \"id\": \"364.1_CENTRALES_CAS__20\", \"scrapingIdentifierCell\": \"I7\", \"scrapingDataStartCell\": \"I8\", \"units\": \"En millones de metros c\\u00fabicos\", \"dataset_identifier\": \"364\", \"distribution_identifier\": \"364.1\"}, {\"title\": \"sdb\", \"type\": \"number\", \"description\": \"SDB\", \"id\": \"364.1_SDBSDB__3\", \"scrapingIdentifierCell\": \"J7\", \"scrapingDataStartCell\": \"J8\", \"units\": \"En millones de metros c\\u00fabicos\", \"dataset_identifier\": \"364\", \"distribution_identifier\": \"364.1\"}, {\"title\": \"gnc\", \"type\": \"number\", \"description\": \"GNC\", \"id\": \"364.1_GNCGNC__3\", \"scrapingIdentifierCell\": \"K7\", \"scrapingDataStartCell\": \"K8\", \"units\": \"En millones de metros c\\u00fabicos\", \"dataset_identifier\": \"364\", \"distribution_identifier\": \"364.1\"}, {\"title\": \"metrogas\", \"type\": \"number\", \"description\": \"Metrogas\", \"id\": \"364.1_METROGASGAS__8\", \"scrapingIdentifierCell\": \"M7\", \"scrapingDataStartCell\": \"M8\", \"units\": \"En millones de metros c\\u00fabicos\", \"dataset_identifier\": \"364\", \"distribution_identifier\": \"364.1\"}, {\"title\": \"gas_natural_fenosa\", \"type\": \"number\", \"description\": \"Gas Natural Fenosa\", \"id\": \"364.1_GAS_NATURAOSA__18\", \"scrapingIdentifierCell\": \"N7\", \"scrapingDataStartCell\": \"N8\", \"units\": \"En millones de metros c\\u00fabicos\", \"dataset_identifier\": \"364\", \"distribution_identifier\": \"364.1\"}, {\"title\": \"distrib_gas_del_centro_ecogas\", \"type\": \"number\", \"description\": \"Distrib. Gas del Centro ECOGAS\", \"id\": \"364.1_DISTRIB._GGAS__30\", \"scrapingIdentifierCell\": \"O7\", \"scrapingDataStartCell\": \"O8\", \"units\": \"En millones de metros c\\u00fabicos\", \"dataset_identifier\": \"364\", \"distribution_identifier\": \"364.1\"}, {\"title\": \"distrib_gas_cuyana_ecogas\", \"type\": \"number\", \"description\": \"Distrib. Gas Cuyana ECOGAS\", \"id\": \"364.1_DISTRIB._GGAS__26\", \"scrapingIdentifierCell\": \"P7\", \"scrapingDataStartCell\": \"P8\", \"units\": \"En millones de metros c\\u00fabicos\", \"dataset_identifier\": \"364\", \"distribution_identifier\": \"364.1\"}, {\"title\": \"litoral_gas\", \"type\": \"number\", \"description\": \"Litoral Gas\", \"id\": \"364.1_LITORAL_GAGAS__11\", \"scrapingIdentifierCell\": \"Q7\", \"scrapingDataStartCell\": \"Q8\", \"units\": \"En millones de metros c\\u00fabicos\", \"dataset_identifier\": \"364\", \"distribution_identifier\": \"364.1\"}, {\"title\": \"gasnea\", \"type\": \"number\", \"description\": \"Gasnea\", \"id\": \"364.1_GASNEANEA__6\", \"scrapingIdentifierCell\": \"R7\", \"scrapingDataStartCell\": \"R8\", \"units\": \"En millones de metros c\\u00fabicos\", \"dataset_identifier\": \"364\", \"distribution_identifier\": \"364.1\"}, {\"title\": \"redengas\", \"type\": \"number\", \"description\": \"Redengas\", \"id\": \"364.1_REDENGASGAS__8\", \"scrapingIdentifierCell\": \"S7\", \"scrapingDataStartCell\": \"S8\", \"units\": \"En millones de metros c\\u00fabicos\", \"dataset_identifier\": \"364\", \"distribution_identifier\": \"364.1\"}, {\"title\": \"gasnor\", \"type\": \"number\", \"description\": \"Gasnor\", \"id\": \"364.1_GASNORNOR__6\", \"scrapingIdentifierCell\": \"T7\", \"scrapingDataStartCell\": \"T8\", \"units\": \"En millones de metros c\\u00fabicos\", \"dataset_identifier\": \"364\", \"distribution_identifier\": \"364.1\"}, {\"title\": \"camuzzi_gas_pampeana\", \"type\": \"number\", \"description\": \"Camuzzi Gas Pampeana\", \"id\": \"364.1_CAMUZZI_GAANA__20\", \"scrapingIdentifierCell\": \"U7\", \"scrapingDataStartCell\": \"U8\", \"units\": \"En millones de metros c\\u00fabicos\", \"dataset_identifier\": \"364\", \"distribution_identifier\": \"364.1\"}, {\"title\": \"camuzzi_gas_del_sur\", \"type\": \"number\", \"description\": \"Camuzzi Gas del Sur\", \"id\": \"364.1_CAMUZZI_GASUR__19\", \"scrapingIdentifierCell\": \"V7\", \"scrapingDataStartCell\": \"V8\", \"units\": \"En millones de metros c\\u00fabicos\", \"dataset_identifier\": \"364\", \"distribution_identifier\": \"364.1\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-12-20T00:00:00",
+      "datastore_active": false,
+      "description": "Información sobre exportaciones por sector de actividad, saldo comercial y rangos de exportación de la empresa exportadora. Datos anuales",
+      "fileName": "exportaciones-actividad-saldocomercial-rangos-exportacion-empresa-exportadora-anual.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "sspm_364.1",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Exportaciones por sector de actividad, saldo comercial y rangos de exportación de la empresa exportadora. Datos anuales",
+      "package_id": "sspm_364",
+      "position": 0,
+      "resource_type": null,
+      "revision_id": "165f7b3d-a2f3-414e-a396-8d52ae7cc2a4",
+      "size": null,
+      "state": "active",
+      "url": "https://infra.datos.gob.ar/catalog/sspm/dataset/364/distribution/364.1/download/exportaciones-actividad-saldocomercial-rangos-exportacion-empresa-exportadora-anual.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/",
+      "attributesDescription": "[{\"title\": \"indice_tiempo\", \"type\": \"date\", \"specialType\": \"time_index\", \"specialTypeDetail\": \"R/P3M\", \"id\": \"364.2_INDICE_TIEMPO__13\", \"scrapingIdentifierCell\": \"A45\", \"scrapingDataStartCell\": \"A46\", \"dataset_identifier\": \"364\", \"distribution_identifier\": \"364.2\"}, {\"title\": \"produccion_gas_natural\", \"type\": \"number\", \"description\": \"Producci\\u00f3n de Gas Natural\", \"id\": \"364.2_PRODUCCIoNRAL__25\", \"scrapingIdentifierCell\": \"B45\", \"scrapingDataStartCell\": \"B46\", \"units\": \"En millones de metros c\\u00fabicos\", \"dataset_identifier\": \"364\", \"distribution_identifier\": \"364.2\"}, {\"title\": \"total\", \"type\": \"number\", \"description\": \"Total\", \"id\": \"364.2_TOTALTAL__5\", \"scrapingIdentifierCell\": \"D45\", \"scrapingDataStartCell\": \"D46\", \"units\": \"En millones de metros c\\u00fabicos\", \"dataset_identifier\": \"364\", \"distribution_identifier\": \"364.2\"}, {\"title\": \"residencial\", \"type\": \"number\", \"description\": \"Residencial\", \"id\": \"364.2_RESIDENCIAIAL__11\", \"scrapingIdentifierCell\": \"E45\", \"scrapingDataStartCell\": \"E46\", \"units\": \"En millones de metros c\\u00fabicos\", \"dataset_identifier\": \"364\", \"distribution_identifier\": \"364.2\"}, {\"title\": \"comercial\", \"type\": \"number\", \"description\": \"Comercial\", \"id\": \"364.2_COMERCIALIAL__9\", \"scrapingIdentifierCell\": \"F45\", \"scrapingDataStartCell\": \"F46\", \"units\": \"En millones de metros c\\u00fabicos\", \"dataset_identifier\": \"364\", \"distribution_identifier\": \"364.2\"}, {\"title\": \"entes_oficiales\", \"type\": \"number\", \"description\": \"Entes Oficiales\", \"id\": \"364.2_ENTES_OFICLES__15\", \"scrapingIdentifierCell\": \"G45\", \"scrapingDataStartCell\": \"G46\", \"units\": \"En millones de metros c\\u00fabicos\", \"dataset_identifier\": \"364\", \"distribution_identifier\": \"364.2\"}, {\"title\": \"industria\", \"type\": \"number\", \"description\": \"Industria\", \"id\": \"364.2_INDUSTRIARIA__9\", \"scrapingIdentifierCell\": \"H45\", \"scrapingDataStartCell\": \"H46\", \"units\": \"En millones de metros c\\u00fabicos\", \"dataset_identifier\": \"364\", \"distribution_identifier\": \"364.2\"}, {\"title\": \"centrales_electricas\", \"type\": \"number\", \"description\": \"Centrales El\\u00e9ctricas\", \"id\": \"364.2_CENTRALES_CAS__20\", \"scrapingIdentifierCell\": \"I45\", \"scrapingDataStartCell\": \"I46\", \"units\": \"En millones de metros c\\u00fabicos\", \"dataset_identifier\": \"364\", \"distribution_identifier\": \"364.2\"}, {\"title\": \"sdb\", \"type\": \"number\", \"description\": \"SDB\", \"id\": \"364.2_SDBSDB__3\", \"scrapingIdentifierCell\": \"J45\", \"scrapingDataStartCell\": \"J46\", \"units\": \"En millones de metros c\\u00fabicos\", \"dataset_identifier\": \"364\", \"distribution_identifier\": \"364.2\"}, {\"title\": \"gnc\", \"type\": \"number\", \"description\": \"GNC\", \"id\": \"364.2_GNCGNC__3\", \"scrapingIdentifierCell\": \"K45\", \"scrapingDataStartCell\": \"K46\", \"units\": \"En millones de metros c\\u00fabicos\", \"dataset_identifier\": \"364\", \"distribution_identifier\": \"364.2\"}, {\"title\": \"metrogas\", \"type\": \"number\", \"description\": \"Metrogas\", \"id\": \"364.2_METROGASGAS__8\", \"scrapingIdentifierCell\": \"M45\", \"scrapingDataStartCell\": \"M46\", \"units\": \"En millones de metros c\\u00fabicos\", \"dataset_identifier\": \"364\", \"distribution_identifier\": \"364.2\"}, {\"title\": \"gas_natural_fenosa\", \"type\": \"number\", \"description\": \"Gas Natural Fenosa\", \"id\": \"364.2_GAS_NATURAOSA__18\", \"scrapingIdentifierCell\": \"N45\", \"scrapingDataStartCell\": \"N46\", \"units\": \"En millones de metros c\\u00fabicos\", \"dataset_identifier\": \"364\", \"distribution_identifier\": \"364.2\"}, {\"title\": \"distrib_gas_del_centro_ecogas\", \"type\": \"number\", \"description\": \"Distrib. Gas del Centro ECOGAS\", \"id\": \"364.2_DISTRIB_GGAS__30\", \"scrapingIdentifierCell\": \"O45\", \"scrapingDataStartCell\": \"O46\", \"units\": \"En millones de metros c\\u00fabicos\", \"dataset_identifier\": \"364\", \"distribution_identifier\": \"364.2\"}, {\"title\": \"distrib_gas_cuyana_ecogas\", \"type\": \"number\", \"description\": \"Distrib. Gas Cuyana ECOGAS\", \"id\": \"364.2_DISTRIB_GGAS__26\", \"scrapingIdentifierCell\": \"P45\", \"scrapingDataStartCell\": \"P46\", \"units\": \"En millones de metros c\\u00fabicos\", \"dataset_identifier\": \"364\", \"distribution_identifier\": \"364.2\"}, {\"title\": \"litoral_gas\", \"type\": \"number\", \"description\": \"Litoral Gas\", \"id\": \"364.2_LITORAL_GAGAS__11\", \"scrapingIdentifierCell\": \"Q45\", \"scrapingDataStartCell\": \"Q46\", \"units\": \"En millones de metros c\\u00fabicos\", \"dataset_identifier\": \"364\", \"distribution_identifier\": \"364.2\"}, {\"title\": \"gasnea\", \"type\": \"number\", \"description\": \"Gasnea\", \"id\": \"364.2_GASNEANEA__6\", \"scrapingIdentifierCell\": \"R45\", \"scrapingDataStartCell\": \"R46\", \"units\": \"En millones de metros c\\u00fabicos\", \"dataset_identifier\": \"364\", \"distribution_identifier\": \"364.2\"}, {\"title\": \"redengas\", \"type\": \"number\", \"description\": \"Redengas\", \"id\": \"364.2_REDENGASGAS__8\", \"scrapingIdentifierCell\": \"S45\", \"scrapingDataStartCell\": \"S46\", \"units\": \"En millones de metros c\\u00fabicos\", \"dataset_identifier\": \"364\", \"distribution_identifier\": \"364.2\"}, {\"title\": \"gasnor\", \"type\": \"number\", \"description\": \"Gasnor\", \"id\": \"364.2_GASNORNOR__6\", \"scrapingIdentifierCell\": \"T45\", \"scrapingDataStartCell\": \"T46\", \"units\": \"En millones de metros c\\u00fabicos\", \"dataset_identifier\": \"364\", \"distribution_identifier\": \"364.2\"}, {\"title\": \"camuzzi_gas_pampeana\", \"type\": \"number\", \"description\": \"Camuzzi Gas Pampeana\", \"id\": \"364.2_CAMUZZI_GAANA__20\", \"scrapingIdentifierCell\": \"U45\", \"scrapingDataStartCell\": \"U46\", \"units\": \"En millones de metros c\\u00fabicos\", \"dataset_identifier\": \"364\", \"distribution_identifier\": \"364.2\"}, {\"title\": \"camuzzi_gas_del_sur\", \"type\": \"number\", \"description\": \"Camuzzi Gas del Sur\", \"id\": \"364.2_CAMUZZI_GASUR__19\", \"scrapingIdentifierCell\": \"V45\", \"scrapingDataStartCell\": \"V46\", \"units\": \"En millones de metros c\\u00fabicos\", \"dataset_identifier\": \"364\", \"distribution_identifier\": \"364.2\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-12-20T00:00:00",
+      "datastore_active": false,
+      "description": "Información sobre exportaciones por sector de actividad, saldo comercial y rangos de exportación de la empresa exportadora. Datos trimestrales",
+      "fileName": "exportaciones-actividad-saldocomercial-rangos-exportacion-empresa-exportadora-trimestral.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "sspm_364.2",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Exportaciones por sector de actividad, saldo comercial y rangos de exportación de la empresa exportadora. Datos trimestrales",
+      "package_id": "sspm_364",
+      "position": 1,
+      "resource_type": null,
+      "revision_id": "165f7b3d-a2f3-414e-a396-8d52ae7cc2a4",
+      "size": null,
+      "state": "active",
+      "url": "https://infra.datos.gob.ar/catalog/sspm/dataset/364/distribution/364.2/download/exportaciones-actividad-saldocomercial-rangos-exportacion-empresa-exportadora-trimestral.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/",
+      "attributesDescription": "[{\"title\": \"indice_tiempo\", \"type\": \"date\", \"specialType\": \"time_index\", \"specialTypeDetail\": \"R/P1M\", \"id\": \"364.3_INDICE_TIEMPO__13\", \"scrapingIdentifierCell\": \"A195\", \"scrapingDataStartCell\": \"A196\", \"dataset_identifier\": \"364\", \"distribution_identifier\": \"364.3\"}, {\"title\": \"produccion_gas_natural\", \"type\": \"number\", \"description\": \"Producci\\u00f3n de Gas Natural\", \"id\": \"364.3_PRODUCCIoNRAL__25\", \"scrapingIdentifierCell\": \"B195\", \"scrapingDataStartCell\": \"B196\", \"units\": \"En millones de metros c\\u00fabicos\", \"dataset_identifier\": \"364\", \"distribution_identifier\": \"364.3\"}, {\"title\": \"total\", \"type\": \"number\", \"description\": \"Total\", \"id\": \"364.3_TOTALTAL__5\", \"scrapingIdentifierCell\": \"D195\", \"scrapingDataStartCell\": \"D196\", \"units\": \"En millones de metros c\\u00fabicos\", \"dataset_identifier\": \"364\", \"distribution_identifier\": \"364.3\"}, {\"title\": \"residencial\", \"type\": \"number\", \"description\": \"Residencial\", \"id\": \"364.3_RESIDENCIAIAL__11\", \"scrapingIdentifierCell\": \"E195\", \"scrapingDataStartCell\": \"E196\", \"units\": \"En millones de metros c\\u00fabicos\", \"dataset_identifier\": \"364\", \"distribution_identifier\": \"364.3\"}, {\"title\": \"comercial\", \"type\": \"number\", \"description\": \"Comercial\", \"id\": \"364.3_COMERCIALIAL__9\", \"scrapingIdentifierCell\": \"F195\", \"scrapingDataStartCell\": \"F196\", \"units\": \"En millones de metros c\\u00fabicos\", \"dataset_identifier\": \"364\", \"distribution_identifier\": \"364.3\"}, {\"title\": \"entes_oficiales\", \"type\": \"number\", \"description\": \"Entes Oficiales\", \"id\": \"364.3_ENTES_OFICLES__15\", \"scrapingIdentifierCell\": \"G195\", \"scrapingDataStartCell\": \"G196\", \"units\": \"En millones de metros c\\u00fabicos\", \"dataset_identifier\": \"364\", \"distribution_identifier\": \"364.3\"}, {\"title\": \"industria\", \"type\": \"number\", \"description\": \"Industria\", \"id\": \"364.3_INDUSTRIARIA__9\", \"scrapingIdentifierCell\": \"H195\", \"scrapingDataStartCell\": \"H196\", \"units\": \"En millones de metros c\\u00fabicos\", \"dataset_identifier\": \"364\", \"distribution_identifier\": \"364.3\"}, {\"title\": \"centrales_electricas\", \"type\": \"number\", \"description\": \"Centrales El\\u00e9ctricas\", \"id\": \"364.3_CENTRALES_CAS__20\", \"scrapingIdentifierCell\": \"I195\", \"scrapingDataStartCell\": \"I196\", \"units\": \"En millones de metros c\\u00fabicos\", \"dataset_identifier\": \"364\", \"distribution_identifier\": \"364.3\"}, {\"title\": \"sdb\", \"type\": \"number\", \"description\": \"SDB\", \"id\": \"364.3_SDBSDB__3\", \"scrapingIdentifierCell\": \"J195\", \"scrapingDataStartCell\": \"J196\", \"units\": \"En millones de metros c\\u00fabicos\", \"dataset_identifier\": \"364\", \"distribution_identifier\": \"364.3\"}, {\"title\": \"gnc\", \"type\": \"number\", \"description\": \"GNC\", \"id\": \"364.3_GNCGNC__3\", \"scrapingIdentifierCell\": \"K195\", \"scrapingDataStartCell\": \"K196\", \"units\": \"En millones de metros c\\u00fabicos\", \"dataset_identifier\": \"364\", \"distribution_identifier\": \"364.3\"}, {\"title\": \"metrogas\", \"type\": \"number\", \"description\": \"Metrogas\", \"id\": \"364.3_METROGASGAS__8\", \"scrapingIdentifierCell\": \"M195\", \"scrapingDataStartCell\": \"M196\", \"units\": \"En millones de metros c\\u00fabicos\", \"dataset_identifier\": \"364\", \"distribution_identifier\": \"364.3\"}, {\"title\": \"gas_natural_fenosa\", \"type\": \"number\", \"description\": \"Gas Natural Fenosa\", \"id\": \"364.3_GAS_NATURAOSA__18\", \"scrapingIdentifierCell\": \"N195\", \"scrapingDataStartCell\": \"N196\", \"units\": \"En millones de metros c\\u00fabicos\", \"dataset_identifier\": \"364\", \"distribution_identifier\": \"364.3\"}, {\"title\": \"distrib_gas_del_centro_ecogas\", \"type\": \"number\", \"description\": \"Distrib. Gas del Centro ECOGAS\", \"id\": \"364.3_DISTRIB._GGAS__30\", \"scrapingIdentifierCell\": \"O195\", \"scrapingDataStartCell\": \"O196\", \"units\": \"En millones de metros c\\u00fabicos\", \"dataset_identifier\": \"364\", \"distribution_identifier\": \"364.3\"}, {\"title\": \"distrib_gas_cuyana_ecogas\", \"type\": \"number\", \"description\": \"Distrib. Gas Cuyana ECOGAS\", \"id\": \"364.3_DISTRIB._GGAS__26\", \"scrapingIdentifierCell\": \"P195\", \"scrapingDataStartCell\": \"P196\", \"units\": \"En millones de metros c\\u00fabicos\", \"dataset_identifier\": \"364\", \"distribution_identifier\": \"364.3\"}, {\"title\": \"litoral_gas\", \"type\": \"number\", \"description\": \"Litoral Gas\", \"id\": \"364.3_LITORAL_GAGAS__11\", \"scrapingIdentifierCell\": \"Q195\", \"scrapingDataStartCell\": \"Q196\", \"units\": \"En millones de metros c\\u00fabicos\", \"dataset_identifier\": \"364\", \"distribution_identifier\": \"364.3\"}, {\"title\": \"gasnea\", \"type\": \"number\", \"description\": \"Gasnea\", \"id\": \"364.3_GASNEANEA__6\", \"scrapingIdentifierCell\": \"R195\", \"scrapingDataStartCell\": \"R196\", \"units\": \"En millones de metros c\\u00fabicos\", \"dataset_identifier\": \"364\", \"distribution_identifier\": \"364.3\"}, {\"title\": \"redengas\", \"type\": \"number\", \"description\": \"Redengas\", \"id\": \"364.3_REDENGASGAS__8\", \"scrapingIdentifierCell\": \"S195\", \"scrapingDataStartCell\": \"S196\", \"units\": \"En millones de metros c\\u00fabicos\", \"dataset_identifier\": \"364\", \"distribution_identifier\": \"364.3\"}, {\"title\": \"gasnor\", \"type\": \"number\", \"description\": \"Gasnor\", \"id\": \"364.3_GASNORNOR__6\", \"scrapingIdentifierCell\": \"T195\", \"scrapingDataStartCell\": \"T196\", \"units\": \"En millones de metros c\\u00fabicos\", \"dataset_identifier\": \"364\", \"distribution_identifier\": \"364.3\"}, {\"title\": \"camuzzi_gas_pampeana\", \"type\": \"number\", \"description\": \"Camuzzi Gas Pampeana\", \"id\": \"364.3_CAMUZZI_GAANA__20\", \"scrapingIdentifierCell\": \"U195\", \"scrapingDataStartCell\": \"U196\", \"units\": \"En millones de metros c\\u00fabicos\", \"dataset_identifier\": \"364\", \"distribution_identifier\": \"364.3\"}, {\"title\": \"camuzzi_gas_del_sur\", \"type\": \"number\", \"description\": \"Camuzzi Gas del Sur\", \"id\": \"364.3_CAMUZZI_GASUR__19\", \"scrapingIdentifierCell\": \"V195\", \"scrapingDataStartCell\": \"V196\", \"units\": \"En millones de metros c\\u00fabicos\", \"dataset_identifier\": \"364\", \"distribution_identifier\": \"364.3\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-12-20T00:00:00",
+      "datastore_active": false,
+      "description": "Información sobre exportaciones por sector de actividad, saldo comercial y rangos de exportación de la empresa exportadora. Datos mensuales",
+      "fileName": "exportaciones-actividad-saldocomercial-rangos-exportacion-empresa-exportadora-mensual.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "sspm_364.3",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Exportaciones por sector de actividad, saldo comercial y rangos de exportación de la empresa exportadora. Datos mensuales",
+      "package_id": "sspm_364",
+      "position": 2,
+      "resource_type": null,
+      "revision_id": "165f7b3d-a2f3-414e-a396-8d52ae7cc2a4",
+      "size": null,
+      "state": "active",
+      "url": "https://infra.datos.gob.ar/catalog/sspm/dataset/364/distribution/364.3/download/exportaciones-actividad-saldocomercial-rangos-exportacion-empresa-exportadora-mensual.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "165f7b3d-a2f3-414e-a396-8d52ae7cc2a4",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "Actividad",
+      "id": "a7695c51-c893-4ece-8ff9-306c197afdd7",
+      "name": "Actividad",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Información Económica al Día",
+      "id": "0d300a9a-0802-46c3-9a40-2f28ddf050ec",
+      "name": "Información Económica al Día",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Producción y consumo de gas natural",
+  "type": "dataset",
+  "url": "http://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/",
+  "version": null
+}

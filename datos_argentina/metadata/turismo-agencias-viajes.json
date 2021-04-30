@@ -1,0 +1,115 @@
+{
+  "author": "Dirección Nacional de Agencias de Viajes",
+  "author_email": null,
+  "creator_user_id": "4720e75a-9e17-4dc3-879d-041917c7f9f9",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "eventual"
+    },
+    {
+      "key": "issued",
+      "value": "2018-10-18T14:02:16.133129"
+    },
+    {
+      "key": "language",
+      "value": "[\"spa\"]"
+    },
+    {
+      "key": "modified",
+      "value": "2021-04-23T15:47:13.424859"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"GOVE\"]"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Gobierno y sector público",
+      "display_name": "Gobierno y sector público",
+      "id": "e6f07c77-3987-4e71-98a6-731b1aaf74f4",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225353.395233gobierno-sector-publico.svg",
+      "name": "gove",
+      "title": "Gobierno y sector público"
+    }
+  ],
+  "id": "turismo_def5c3a8-8854-4d5c-85a3-81b17ca70b3e",
+  "isopen": false,
+  "license_id": "notspecified",
+  "license_title": "No se especificó la licencia",
+  "maintainer": null,
+  "maintainer_email": null,
+  "metadata_created": "2019-11-26T15:02:01.007975",
+  "metadata_modified": "2021-04-29T21:04:13.981511",
+  "name": "turismo-agencias-viajes",
+  "notes": "Datos correspondientes a las agencias de viajes",
+  "num_resources": 1,
+  "num_tags": 2,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:07.685134",
+    "description": "",
+    "id": "3a751de6-128e-4f9a-a479-4672ef79a0e8",
+    "image_url": "",
+    "is_organization": true,
+    "name": "turismo",
+    "revision_id": "082d6431-73c3-4ce5-a589-b9cda65a2231",
+    "state": "active",
+    "title": "Ministerio de Turismo y Deportes",
+    "type": "organization"
+  },
+  "owner_org": "3a751de6-128e-4f9a-a479-4672ef79a0e8",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "http://datos.yvera.gob.ar/dataset/def5c3a8-8854-4d5c-85a3-81b17ca70b3e/resource/77dcd7db-4163-4389-bf23-2c1bfca4d058",
+      "attributesDescription": "[{\"type\": \"integer\", \"description\": \"N\\u00famero de legajo\", \"title\": \"legajo\"}, {\"type\": \"string\", \"description\": \"Tipo de agencia de viajes\", \"title\": \"tipo\"}, {\"type\": \"string\", \"description\": \"Nombre de la agencia\", \"title\": \"agencia\"}, {\"type\": \"string\", \"description\": \"Raz\\u00f3n social de la agencia de viajes\", \"title\": \"razon_social\"}, {\"type\": \"string\", \"description\": \"CUIT de la agencia de viajes\", \"title\": \"cuit\"}, {\"type\": \"string\", \"description\": \"Domicilio de la agencia de viajes\", \"title\": \"domicilio\"}, {\"type\": \"string\", \"description\": \"Localidad de la agencia de viajes\", \"title\": \"localidad_desc\"}, {\"type\": \"string\", \"description\": \"Provincia de la agencia de viajes\", \"title\": \"provincia_desc\"}, {\"type\": \"integer\", \"description\": \"C\\u00f3digo postal\", \"title\": \"codigo_postal\"}, {\"type\": \"integer\", \"description\": \"Caracter\\u00edstica telef\\u00f3nica interurbana\", \"title\": \"telefono_prefijo\"}, {\"type\": \"string\", \"description\": \"N\\u00famero de tel\\u00e9fono\", \"title\": \"telefono_numero\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2018-10-18T14:22:40.222914",
+      "datastore_active": false,
+      "description": "Detalle de las agencias de viajes autorizadas al 12/10/2018",
+      "fileName": "agencias-viajes-20181012.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "turismo_77dcd7db-4163-4389-bf23-2c1bfca4d058",
+      "last_modified": "2018-10-18T14:22:40.222914",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Agencias de viajes autorizadas al 12/10/2018",
+      "package_id": "turismo_def5c3a8-8854-4d5c-85a3-81b17ca70b3e",
+      "position": 0,
+      "resource_type": "file.upload",
+      "revision_id": "0e674266-3442-4f62-baf8-e714791c2de2",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.yvera.gob.ar/dataset/def5c3a8-8854-4d5c-85a3-81b17ca70b3e/resource/77dcd7db-4163-4389-bf23-2c1bfca4d058/download/agencias-viajes-20181012.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "a12ccf83-7de1-43c3-96a0-3e6a159e5bfa",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "AGENCIAS DE VIAJE",
+      "id": "0d01fb20-f450-4d69-9864-d76eb38ebbd8",
+      "name": "AGENCIAS DE VIAJE",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "agencias",
+      "id": "f129e588-3fde-4b8d-91c6-ef40f7b4af61",
+      "name": "agencias",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Agencias de viajes",
+  "type": "dataset",
+  "url": "http://datos.yvera.gob.ar/dataset/agencias-de-viajes",
+  "version": null
+}

@@ -1,0 +1,147 @@
+{
+  "author": "Ministerio de transporte",
+  "author_email": null,
+  "creator_user_id": "dc157489-51c6-44ce-bd63-3bd983d60778",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "eventual"
+    },
+    {
+      "key": "issued",
+      "value": "2020-11-06T15:03:44.143425"
+    },
+    {
+      "key": "language",
+      "value": "[\"spa\"]"
+    },
+    {
+      "key": "modified",
+      "value": "2020-11-11T15:29:42.561433"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"SOCI\", \"TRAN\"]"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Población y sociedad",
+      "display_name": "Población y sociedad",
+      "id": "eb5df7fa-064a-4b51-89f6-af323ee1bf85",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225728.341804poblacion-sociedad.svg",
+      "name": "soci",
+      "title": "Población y sociedad"
+    },
+    {
+      "description": "Transporte",
+      "display_name": "Transporte",
+      "id": "57227cfc-80a6-45d3-9faa-711a98ac8ede",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225933.272993transporte.svg",
+      "name": "tran",
+      "title": "Transporte"
+    }
+  ],
+  "id": "transporte_3dc556b2-5272-40d6-9fb7-184886fe6999",
+  "isopen": true,
+  "license_id": "CC-BY-4.0",
+  "license_title": "Creative Commons Attribution 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "maintainer": null,
+  "maintainer_email": null,
+  "metadata_created": "2021-01-28T14:47:23.220957",
+  "metadata_modified": "2021-04-29T21:11:10.759324",
+  "name": "transporte-red-carga-rmba",
+  "notes": "Detalle de puntos de venta y recarga a nivel nacional, categorizados según función",
+  "num_resources": 2,
+  "num_tags": 2,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:11.506514",
+    "description": "",
+    "id": "71418928-10c4-4625-aeaf-69a4d73d00ed",
+    "image_url": "",
+    "is_organization": true,
+    "name": "transporte",
+    "revision_id": "dc7b93ef-b174-46ee-90ea-63edf51296f0",
+    "state": "active",
+    "title": " Ministerio de Transporte",
+    "type": "organization"
+  },
+  "owner_org": "71418928-10c4-4625-aeaf-69a4d73d00ed",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "https://datos.transporte.gob.ar/dataset/3dc556b2-5272-40d6-9fb7-184886fe6999/resource/95d3eee9-cedd-44b4-a9cb-4ebff4974e37",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2020-11-06T15:05:59.893649",
+      "datastore_active": false,
+      "description": "Detalle de puntos de recarga, ubicación geográfica",
+      "fileName": "red_recarga.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "transporte_95d3eee9-cedd-44b4-a9cb-4ebff4974e37",
+      "last_modified": "2020-11-06T15:05:59.893649",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Ubicación geográfica de los puntos de recarga",
+      "package_id": "transporte_3dc556b2-5272-40d6-9fb7-184886fe6999",
+      "position": 0,
+      "resource_type": "file.upload",
+      "revision_id": "d7005fa5-048e-4af5-8fb4-16d632296887",
+      "size": null,
+      "state": "active",
+      "url": "https://datos.transporte.gob.ar/dataset/3dc556b2-5272-40d6-9fb7-184886fe6999/resource/95d3eee9-cedd-44b4-a9cb-4ebff4974e37/download/red_recarga.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://datos.transporte.gob.ar/dataset/3dc556b2-5272-40d6-9fb7-184886fe6999/resource/654f8f1c-e639-42e3-9137-c88ebf2cb542",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2020-11-06T15:06:39.849312",
+      "datastore_active": false,
+      "description": "Detalle de puntos de venta, ubicación geográfica",
+      "fileName": "red_venta.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "transporte_654f8f1c-e639-42e3-9137-c88ebf2cb542",
+      "last_modified": "2020-11-06T15:06:39.849312",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Ubicación geográfica de los puntos de venta",
+      "package_id": "transporte_3dc556b2-5272-40d6-9fb7-184886fe6999",
+      "position": 1,
+      "resource_type": "file.upload",
+      "revision_id": "d7005fa5-048e-4af5-8fb4-16d632296887",
+      "size": null,
+      "state": "active",
+      "url": "https://datos.transporte.gob.ar/dataset/3dc556b2-5272-40d6-9fb7-184886fe6999/resource/654f8f1c-e639-42e3-9137-c88ebf2cb542/download/red_venta.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "d7005fa5-048e-4af5-8fb4-16d632296887",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "RMBA",
+      "id": "0114d7ff-3871-4d02-bcec-1f49ed7f35b9",
+      "name": "RMBA",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Transporte General",
+      "id": "a302697b-f4b9-4671-bebf-9b4de5a4a452",
+      "name": "Transporte General",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Red de carga de RMBA",
+  "type": "dataset",
+  "url": "https://datos.transporte.gob.ar/dataset/red-de-carga-de-rmba",
+  "version": null
+}

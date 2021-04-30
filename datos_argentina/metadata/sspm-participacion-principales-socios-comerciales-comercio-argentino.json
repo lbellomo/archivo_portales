@@ -1,0 +1,138 @@
+{
+  "author": "Subsecretaría de Programación Macroeconómica",
+  "author_email": "datoseconomicos@mecon.gov.ar",
+  "creator_user_id": "4720e75a-9e17-4dc3-879d-041917c7f9f9",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P1M"
+    },
+    {
+      "key": "issued",
+      "value": "2017-09-28"
+    },
+    {
+      "key": "language",
+      "value": "[\"SPA\"]"
+    },
+    {
+      "key": "source",
+      "value": "Banco Central de la República Argentina (BCRA)"
+    },
+    {
+      "key": "spatial",
+      "value": "ARG"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"ECON\"]"
+    },
+    {
+      "key": "temporal",
+      "value": "1997-01-01/2017-03-01"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Economía y finanzas",
+      "display_name": "Economía y finanzas",
+      "id": "60b4b03e-10a1-4d67-b984-08008a249617",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225257.200233economia-finanzas.svg",
+      "name": "econ",
+      "title": "Economía y finanzas"
+    }
+  ],
+  "id": "sspm_140",
+  "isopen": true,
+  "license_id": "CC-BY-4.0",
+  "license_title": "Creative Commons Attribution 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "maintainer": "Subsecretaría de Programación Macroeconómica.",
+  "maintainer_email": "datoseconomicos@mecon.gov.ar",
+  "metadata_created": "2019-11-26T15:04:31.439404",
+  "metadata_modified": "2021-04-29T21:05:20.747347",
+  "name": "sspm-participacion-principales-socios-comerciales-comercio-argentino",
+  "notes": "Participación de los principales socios comerciales en el comercio argentino excluye bienes básicos",
+  "num_resources": 1,
+  "num_tags": 4,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:09.718132",
+    "description": "",
+    "id": "68f9ee22-5ec3-44cf-a32b-b87d9db46b93",
+    "image_url": "",
+    "is_organization": true,
+    "name": "sspm",
+    "revision_id": "bc058ce0-3540-4204-96cd-9f9ec79045b3",
+    "state": "active",
+    "title": "Subsecretaría de Programación Macroeconómica",
+    "type": "organization"
+  },
+  "owner_org": "68f9ee22-5ec3-44cf-a32b-b87d9db46b93",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/",
+      "attributesDescription": "[{\"title\": \"indice_tiempo\", \"type\": \"date\", \"specialType\": \"time_index\", \"specialTypeDetail\": \"R/P1M\", \"id\": \"140.1_IT_0_M_13\", \"scrapingIdentifierCell\": \"A8\", \"scrapingDataStartCell\": \"A9\", \"dataset_identifier\": \"140\", \"distribution_identifier\": \"140.1\"}, {\"title\": \"comercio_pct_brasil\", \"type\": \"number\", \"description\": \"Participaci\\u00f3n de Brasil en el total del comercio de Argentina\", \"id\": \"140.1_A_0_M_9\", \"scrapingIdentifierCell\": \"B8\", \"scrapingDataStartCell\": \"B9\", \"units\": \"Porcentaje (0-100)\", \"dataset_identifier\": \"140\", \"distribution_identifier\": \"140.1\"}, {\"title\": \"comercio_pct_canada\", \"type\": \"number\", \"description\": \"Participaci\\u00f3n de Canad\\u00e1 en el total del comercio de Argentina\", \"id\": \"140.1_EU_0_M_14\", \"scrapingIdentifierCell\": \"C8\", \"scrapingDataStartCell\": \"C9\", \"units\": \"Porcentaje (0-100)\", \"dataset_identifier\": \"140\", \"distribution_identifier\": \"140.1\"}, {\"title\": \"comercio_pct_chile\", \"type\": \"number\", \"description\": \"Participaci\\u00f3n de Chile en el total del comercio de Argentina\", \"id\": \"140.1_B_0_M_6\", \"scrapingIdentifierCell\": \"D8\", \"scrapingDataStartCell\": \"D9\", \"units\": \"Porcentaje (0-100)\", \"dataset_identifier\": \"140\", \"distribution_identifier\": \"140.1\"}, {\"title\": \"comercio_pct_estados_unidos\", \"type\": \"number\", \"description\": \"Participaci\\u00f3n de EE.UU en el total del comercio de Argentina\", \"id\": \"140.1_E_0_M_8\", \"scrapingIdentifierCell\": \"E8\", \"scrapingDataStartCell\": \"E9\", \"units\": \"Porcentaje (0-100)\", \"dataset_identifier\": \"140\", \"distribution_identifier\": \"140.1\"}, {\"title\": \"comercio_pct_mexico\", \"type\": \"number\", \"description\": \"Participaci\\u00f3n de Mexico en el total del comercio de Argentina\", \"id\": \"140.1_A_0_M_8\", \"scrapingIdentifierCell\": \"F8\", \"scrapingDataStartCell\": \"F9\", \"units\": \"Porcentaje (0-100)\", \"dataset_identifier\": \"140\", \"distribution_identifier\": \"140.1\"}, {\"title\": \"comercio_pct_uruguay\", \"type\": \"number\", \"description\": \"Participaci\\u00f3n de Uruguay en el total del comercio de Argentina\", \"id\": \"140.1_F_0_M_7\", \"scrapingIdentifierCell\": \"G8\", \"scrapingDataStartCell\": \"G9\", \"units\": \"Porcentaje (0-100)\", \"dataset_identifier\": \"140\", \"distribution_identifier\": \"140.1\"}, {\"title\": \"comercio_pct_china\", \"type\": \"number\", \"description\": \"Participaci\\u00f3n de China en el total del comercio de Argentina\", \"id\": \"140.1_P_0_M_8\", \"scrapingIdentifierCell\": \"H8\", \"scrapingDataStartCell\": \"H9\", \"units\": \"Porcentaje (0-100)\", \"dataset_identifier\": \"140\", \"distribution_identifier\": \"140.1\"}, {\"title\": \"comercio_pct_india\", \"type\": \"number\", \"description\": \"Participaci\\u00f3n de India en el total del comercio de Argentina\", \"id\": \"140.1_E_0_M_7\", \"scrapingIdentifierCell\": \"I8\", \"scrapingDataStartCell\": \"I9\", \"units\": \"Porcentaje (0-100)\", \"dataset_identifier\": \"140\", \"distribution_identifier\": \"140.1\"}, {\"title\": \"comercio_pct_japon\", \"type\": \"number\", \"description\": \"Participaci\\u00f3n de Jap\\u00f3n en el total del comercio de Argentina\", \"id\": \"140.1_I_0_M_6\", \"scrapingIdentifierCell\": \"J8\", \"scrapingDataStartCell\": \"J9\", \"units\": \"Porcentaje (0-100)\", \"dataset_identifier\": \"140\", \"distribution_identifier\": \"140.1\"}, {\"title\": \"comercio_pct_reino_unido\", \"type\": \"number\", \"description\": \"Participaci\\u00f3n de Reino Unido en el total del comercio de Argentina\", \"id\": \"140.1_G_0_M_6\", \"scrapingIdentifierCell\": \"K8\", \"scrapingDataStartCell\": \"K9\", \"units\": \"Porcentaje (0-100)\", \"dataset_identifier\": \"140\", \"distribution_identifier\": \"140.1\"}, {\"title\": \"comercio_pct_suiza\", \"type\": \"number\", \"description\": \"Participaci\\u00f3n de Suiza en el total del comercio de Argentina\", \"id\": \"140.1_I_0_M_7\", \"scrapingIdentifierCell\": \"L8\", \"scrapingDataStartCell\": \"L9\", \"units\": \"Porcentaje (0-100)\", \"dataset_identifier\": \"140\", \"distribution_identifier\": \"140.1\"}, {\"title\": \"comercio_pct_zona_euro\", \"type\": \"number\", \"description\": \"Participaci\\u00f3n de Zona Euro en el total del comercio de Argentina\", \"id\": \"140.1_C_0_M_5\", \"scrapingIdentifierCell\": \"M8\", \"scrapingDataStartCell\": \"M9\", \"units\": \"Porcentaje (0-100)\", \"dataset_identifier\": \"140\", \"distribution_identifier\": \"140.1\"}, {\"title\": \"comercio_pct_vietnam\", \"type\": \"number\", \"description\": \"Participaci\\u00f3n de Vietnam en el total del comercio de Argentina\", \"id\": \"140.1_C_0_M_7\", \"scrapingIdentifierCell\": \"N8\", \"scrapingDataStartCell\": \"N9\", \"units\": \"Porcentaje (0-100)\", \"dataset_identifier\": \"140\", \"distribution_identifier\": \"140.1\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-09-28T00:00:00",
+      "datastore_active": false,
+      "description": "Participación de los principales socios comerciales en el comercio argentino: Valores mensuales",
+      "fileName": "participacion-principales-socios-comerciales-comercio-argentino-mensual.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "sspm_140.1",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Participación de los principales socios en el comercio. Valores mensuales",
+      "package_id": "sspm_140",
+      "position": 0,
+      "resource_type": null,
+      "revision_id": "ac6fb5e0-773f-4c67-bedc-d0c8492a53db",
+      "size": null,
+      "state": "active",
+      "url": "https://infra.datos.gob.ar/catalog/sspm/dataset/140/distribution/140.1/download/participacion-principales-socios-comerciales-comercio-argentino-mensual.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "ac6fb5e0-773f-4c67-bedc-d0c8492a53db",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "Economía Internacional",
+      "id": "260fd24c-9abc-4b59-b810-6c7f9ccd538d",
+      "name": "Economía Internacional",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Información Económica al Día",
+      "id": "0d300a9a-0802-46c3-9a40-2f28ddf050ec",
+      "name": "Información Económica al Día",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Internacional",
+      "id": "380bd819-36c2-40ab-917e-a0ac0fb1e76f",
+      "name": "Internacional",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Sector Externo",
+      "id": "7161d5c3-be73-43e4-91b8-447209c908f4",
+      "name": "Sector Externo",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Participación de los principales socios comerciales en el comercio argentino",
+  "type": "dataset",
+  "url": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/",
+  "version": null
+}

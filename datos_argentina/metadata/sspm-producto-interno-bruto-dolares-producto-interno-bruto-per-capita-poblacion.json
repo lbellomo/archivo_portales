@@ -1,0 +1,149 @@
+{
+  "author": "Subsecretaría de Programación Macroeconómica",
+  "author_email": "datoseconomicos@mecon.gov.ar",
+  "creator_user_id": "4720e75a-9e17-4dc3-879d-041917c7f9f9",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P3M"
+    },
+    {
+      "key": "issued",
+      "value": "2017-09-28"
+    },
+    {
+      "key": "language",
+      "value": "[\"SPA\"]"
+    },
+    {
+      "key": "source",
+      "value": "Instituto Nacional de Estadística y Censos (INDEC)"
+    },
+    {
+      "key": "spatial",
+      "value": "ARG"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"ECON\"]"
+    },
+    {
+      "key": "temporal",
+      "value": "2004-01-01/2016-12-01"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Economía y finanzas",
+      "display_name": "Economía y finanzas",
+      "id": "60b4b03e-10a1-4d67-b984-08008a249617",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225257.200233economia-finanzas.svg",
+      "name": "econ",
+      "title": "Economía y finanzas"
+    }
+  ],
+  "id": "sspm_9",
+  "isopen": true,
+  "license_id": "CC-BY-4.0",
+  "license_title": "Creative Commons Attribution 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "maintainer": "Subsecretaría de Programación Macroeconómica.",
+  "maintainer_email": "datoseconomicos@mecon.gov.ar",
+  "metadata_created": "2019-11-26T15:05:57.515713",
+  "metadata_modified": "2021-04-29T21:05:39.288047",
+  "name": "sspm-producto-interno-bruto-dolares-producto-interno-bruto-per-capita-poblacion",
+  "notes": "PBI y PBI percápita medido en dólares estadunidenses y Población",
+  "num_resources": 2,
+  "num_tags": 2,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:09.718132",
+    "description": "",
+    "id": "68f9ee22-5ec3-44cf-a32b-b87d9db46b93",
+    "image_url": "",
+    "is_organization": true,
+    "name": "sspm",
+    "revision_id": "bc058ce0-3540-4204-96cd-9f9ec79045b3",
+    "state": "active",
+    "title": "Subsecretaría de Programación Macroeconómica",
+    "type": "organization"
+  },
+  "owner_org": "68f9ee22-5ec3-44cf-a32b-b87d9db46b93",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/",
+      "attributesDescription": "[{\"title\": \"indice_tiempo\", \"type\": \"date\", \"specialType\": \"time_index\", \"specialTypeDetail\": \"R/P1Y\", \"id\": \"9.1_IT_2004_A_13\", \"scrapingIdentifierCell\": \"A8\", \"scrapingDataStartCell\": \"A9\", \"dataset_identifier\": \"9\", \"distribution_identifier\": \"9.1\"}, {\"title\": \"pib_precios_corrientes\", \"type\": \"number\", \"description\": \"PIB a precios corrientes en millones de pesos.\", \"id\": \"9.1_PPC_2004_A_22\", \"scrapingIdentifierCell\": \"B8\", \"scrapingDataStartCell\": \"B9\", \"units\": \"Millones de pesos corrientes\", \"dataset_identifier\": \"9\", \"distribution_identifier\": \"9.1\"}, {\"title\": \"pib_precios_2004\", \"type\": \"number\", \"description\": \"PIB a precios constantes 2004 en millones de pesos\", \"id\": \"9.1_PP2_2004_A_16\", \"scrapingIdentifierCell\": \"C8\", \"scrapingDataStartCell\": \"C9\", \"units\": \"Millones de pesos corrientes\", \"dataset_identifier\": \"9\", \"distribution_identifier\": \"9.1\"}, {\"title\": \"tcn_pesos_dolares\", \"type\": \"number\", \"description\": \"Tipo de cambio nominal entre el peso y el d\\u00f3lar\", \"id\": \"9.1_TU_2004_A_17\", \"scrapingIdentifierCell\": \"D8\", \"scrapingDataStartCell\": \"D9\", \"units\": \"Pesos argentinos por d\\u00f3lar\", \"dataset_identifier\": \"9\", \"distribution_identifier\": \"9.1\"}, {\"title\": \"pib_dolares_precios_corrientes\", \"type\": \"number\", \"description\": \"PIB en millones de d\\u00f3lares corrientes\", \"id\": \"9.1_PDPC_2004_A_30\", \"scrapingIdentifierCell\": \"E8\", \"scrapingDataStartCell\": \"E9\", \"units\": \"Millones de d\\u00f3lares\", \"dataset_identifier\": \"9\", \"distribution_identifier\": \"9.1\"}, {\"title\": \"poblacion\", \"type\": \"number\", \"description\": \"Poblaci\\u00f3n de Argentina\", \"id\": \"9.1_POB_2004_A_9\", \"scrapingIdentifierCell\": \"F8\", \"scrapingDataStartCell\": \"F9\", \"units\": \"Habitantes\", \"dataset_identifier\": \"9\", \"distribution_identifier\": \"9.1\"}, {\"title\": \"pib_per_capita_pesos_corrientes\", \"type\": \"number\", \"description\": \"PIB per c\\u00e1pita en pesos corrientes\", \"id\": \"9.1_PPCPC_2004_A_31\", \"scrapingIdentifierCell\": \"G8\", \"scrapingDataStartCell\": \"G9\", \"units\": \"Pesos corrientes\", \"dataset_identifier\": \"9\", \"distribution_identifier\": \"9.1\"}, {\"title\": \"pib_per_capita_dolares_corrientes\", \"type\": \"number\", \"description\": \"PIB per c\\u00e1pita en d\\u00f3lares corrientes\", \"id\": \"9.1_PPCDC_2004_A_33\", \"scrapingIdentifierCell\": \"H8\", \"scrapingDataStartCell\": \"H9\", \"units\": \"D\\u00f3lares corrientes\", \"dataset_identifier\": \"9\", \"distribution_identifier\": \"9.1\"}, {\"title\": \"indice_precios_constantes\", \"type\": \"number\", \"description\": \"\\u00cdndice de PIB per c\\u00e1pita en d\\u00f3lares constantes\", \"id\": \"9.1_IPC_2004_A_25\", \"scrapingIdentifierCell\": \"I8\", \"scrapingDataStartCell\": \"I9\", \"units\": \"\\u00cdndice 2004=100\", \"dataset_identifier\": \"9\", \"distribution_identifier\": \"9.1\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-09-28T00:00:00",
+      "datastore_active": false,
+      "description": "Producto Interno Bruto en millones de dólares estadonidenses: Valores anuales [Base 1993]",
+      "fileName": "producto-interno-bruto-precios-corrientes-valores-anuales-base-2004.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "sspm_9.1",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Producto Interno Bruto. Precios corrientes. Base 1993. Valores anuales.",
+      "package_id": "sspm_9",
+      "position": 0,
+      "resource_type": null,
+      "revision_id": "194348b7-1200-460d-b311-a7e06b99969e",
+      "size": null,
+      "state": "active",
+      "url": "https://infra.datos.gob.ar/catalog/sspm/dataset/9/distribution/9.1/download/producto-interno-bruto-precios-corrientes-valores-anuales-base-2004.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/",
+      "attributesDescription": "[{\"title\": \"indice_tiempo\", \"type\": \"date\", \"specialType\": \"time_index\", \"specialTypeDetail\": \"R/P3M\", \"id\": \"9.2_IT_2004_T_13\", \"scrapingIdentifierCell\": \"A50\", \"scrapingDataStartCell\": \"A51\", \"dataset_identifier\": \"9\", \"distribution_identifier\": \"9.2\"}, {\"title\": \"pib_precios_corrientes\", \"type\": \"number\", \"description\": \"PIB a precios corrientes en millones de pesos.\", \"id\": \"9.2_PPC_2004_T_22\", \"scrapingIdentifierCell\": \"B50\", \"scrapingDataStartCell\": \"B51\", \"units\": \"Millones de pesos corrientes\", \"dataset_identifier\": \"9\", \"distribution_identifier\": \"9.2\"}, {\"title\": \"pib_precios_2004\", \"type\": \"number\", \"description\": \"PIB a precios constantes 2004 en millones de pesos\", \"id\": \"9.2_PP2_2004_T_16\", \"scrapingIdentifierCell\": \"C50\", \"scrapingDataStartCell\": \"C51\", \"units\": \"Millones de pesos corrientes\", \"dataset_identifier\": \"9\", \"distribution_identifier\": \"9.2\"}, {\"title\": \"tcn_pesos_dolares\", \"type\": \"number\", \"description\": \"Tipo de cambio nominal entre el peso y el d\\u00f3lar\", \"id\": \"9.2_TU_2004_T_17\", \"scrapingIdentifierCell\": \"D50\", \"scrapingDataStartCell\": \"D51\", \"units\": \"Pesos argentinos por d\\u00f3lar\", \"dataset_identifier\": \"9\", \"distribution_identifier\": \"9.2\"}, {\"title\": \"pib_dolares_precios_corrientes\", \"type\": \"number\", \"description\": \"PIB en millones de d\\u00f3lares corrientes\", \"id\": \"9.2_PDPC_2004_T_30\", \"scrapingIdentifierCell\": \"E50\", \"scrapingDataStartCell\": \"E51\", \"units\": \"Millones de d\\u00f3lares\", \"dataset_identifier\": \"9\", \"distribution_identifier\": \"9.2\"}, {\"title\": \"poblacion\", \"type\": \"number\", \"description\": \"Poblaci\\u00f3n de Argentina\", \"id\": \"9.2_P_2004_T_9\", \"scrapingIdentifierCell\": \"F50\", \"scrapingDataStartCell\": \"F51\", \"units\": \"Habitantes\", \"dataset_identifier\": \"9\", \"distribution_identifier\": \"9.2\"}, {\"title\": \"pib_per_capita_pesos_corrientes\", \"type\": \"number\", \"description\": \"PIB per c\\u00e1pita en pesos corrientes\", \"id\": \"9.2_PPCPC_2004_T_31\", \"scrapingIdentifierCell\": \"G50\", \"scrapingDataStartCell\": \"G51\", \"units\": \"Pesos corrientes\", \"dataset_identifier\": \"9\", \"distribution_identifier\": \"9.2\"}, {\"title\": \"pib_per_capita_dolares_corrientes\", \"type\": \"number\", \"description\": \"PIB per c\\u00e1pita en d\\u00f3lares corrientes\", \"id\": \"9.2_PPCDC_2004_T_33\", \"scrapingIdentifierCell\": \"H50\", \"scrapingDataStartCell\": \"H51\", \"units\": \"D\\u00f3lares corrientes\", \"dataset_identifier\": \"9\", \"distribution_identifier\": \"9.2\"}, {\"title\": \"indice_precios_constantes\", \"type\": \"number\", \"description\": \"\\u00cdndice de PIB per c\\u00e1pita en d\\u00f3lares constantes\", \"id\": \"9.2_IPC_2004_T_25\", \"scrapingIdentifierCell\": \"I50\", \"scrapingDataStartCell\": \"I51\", \"units\": \"\\u00cdndice 2004=100\", \"dataset_identifier\": \"9\", \"distribution_identifier\": \"9.2\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-09-28T00:00:00",
+      "datastore_active": false,
+      "description": "Producto Interno Bruto en millones de dólares estadonidenses: Valores trimestrales [Base 1993]",
+      "fileName": "producto-interno-bruto-precios-corrientes-valores-trimestrales-base-2004.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "sspm_9.2",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Producto Interno Bruto. Precios corrientes. Base 1993. Valores trimestrales.",
+      "package_id": "sspm_9",
+      "position": 1,
+      "resource_type": null,
+      "revision_id": "194348b7-1200-460d-b311-a7e06b99969e",
+      "size": null,
+      "state": "active",
+      "url": "https://infra.datos.gob.ar/catalog/sspm/dataset/9/distribution/9.2/download/producto-interno-bruto-precios-corrientes-valores-trimestrales-base-2004.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "3f2a7d14-35ed-4bbf-a108-ce31bfa79fd7",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "Actividad",
+      "id": "a7695c51-c893-4ece-8ff9-306c197afdd7",
+      "name": "Actividad",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Información Económica al Día",
+      "id": "0d300a9a-0802-46c3-9a40-2f28ddf050ec",
+      "name": "Información Económica al Día",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Producto Interno Bruto en dólares, Producto Interno Bruto per cápita y población",
+  "type": "dataset",
+  "url": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/",
+  "version": null
+}

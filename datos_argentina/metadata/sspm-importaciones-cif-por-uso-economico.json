@@ -1,0 +1,174 @@
+{
+  "author": "Subsecretaría de Programación Macroeconómica",
+  "author_email": "datoseconomicos@mecon.gov.ar",
+  "creator_user_id": "4720e75a-9e17-4dc3-879d-041917c7f9f9",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P1M"
+    },
+    {
+      "key": "issued",
+      "value": "2017-09-28"
+    },
+    {
+      "key": "language",
+      "value": "[\"SPA\"]"
+    },
+    {
+      "key": "source",
+      "value": "Instituto Nacional de Estadística y Censos (INDEC)"
+    },
+    {
+      "key": "spatial",
+      "value": "ARG"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"ECON\"]"
+    },
+    {
+      "key": "temporal",
+      "value": "1992-01-01/2017-05-01"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Economía y finanzas",
+      "display_name": "Economía y finanzas",
+      "id": "60b4b03e-10a1-4d67-b984-08008a249617",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225257.200233economia-finanzas.svg",
+      "name": "econ",
+      "title": "Economía y finanzas"
+    }
+  ],
+  "id": "sspm_76",
+  "isopen": true,
+  "license_id": "CC-BY-4.0",
+  "license_title": "Creative Commons Attribution 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "maintainer": "Subsecretaría de Programación Macroeconómica.",
+  "maintainer_email": "datoseconomicos@mecon.gov.ar",
+  "metadata_created": "2019-11-26T15:04:15.752400",
+  "metadata_modified": "2021-03-22T13:09:00.882283",
+  "name": "sspm-importaciones-cif-por-uso-economico",
+  "notes": "Intercambio Comercial Argentino en millones de dólares",
+  "num_resources": 3,
+  "num_tags": 2,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:09.718132",
+    "description": "",
+    "id": "68f9ee22-5ec3-44cf-a32b-b87d9db46b93",
+    "image_url": "",
+    "is_organization": true,
+    "name": "sspm",
+    "revision_id": "bc058ce0-3540-4204-96cd-9f9ec79045b3",
+    "state": "active",
+    "title": "Subsecretaría de Programación Macroeconómica",
+    "type": "organization"
+  },
+  "owner_org": "68f9ee22-5ec3-44cf-a32b-b87d9db46b93",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/",
+      "attributesDescription": "[{\"title\": \"indice_tiempo\", \"type\": \"date\", \"specialType\": \"time_index\", \"specialTypeDetail\": \"R/P1Y\", \"id\": \"76.1_IT_0_A_13\", \"scrapingIdentifierCell\": \"A8\", \"scrapingDataStartCell\": \"A9\", \"dataset_identifier\": \"76\", \"distribution_identifier\": \"76.1\"}, {\"title\": \"ica_total_general\", \"type\": \"number\", \"description\": \"Importaciones total general. En millones de d\\u00f3lares CIF\", \"id\": \"76.1_ITG_0_A_17\", \"scrapingIdentifierCell\": \"B8\", \"scrapingDataStartCell\": \"B9\", \"units\": \"Millones de d\\u00f3lares\", \"dataset_identifier\": \"76\", \"distribution_identifier\": \"76.1\"}, {\"title\": \"ica_bienes_capital\", \"type\": \"number\", \"description\": \"Importaciones de bienes de capital. En millones de d\\u00f3lares CIF\", \"id\": \"76.1_IBCA_0_A_18\", \"scrapingIdentifierCell\": \"C8\", \"scrapingDataStartCell\": \"C9\", \"units\": \"Millones de d\\u00f3lares\", \"dataset_identifier\": \"76\", \"distribution_identifier\": \"76.1\"}, {\"title\": \"ica_bienes_intermedios\", \"type\": \"number\", \"description\": \"Importaciones de bienes intermedios. En millones de d\\u00f3lares CIF\", \"id\": \"76.1_IBI_0_A_22\", \"scrapingIdentifierCell\": \"D8\", \"scrapingDataStartCell\": \"D9\", \"units\": \"Millones de d\\u00f3lares\", \"dataset_identifier\": \"76\", \"distribution_identifier\": \"76.1\"}, {\"title\": \"ica_combustible\", \"type\": \"number\", \"description\": \"Importaciones de combustibles. En millones de d\\u00f3lares CIF\", \"id\": \"76.1_IC_0_A_15\", \"scrapingIdentifierCell\": \"E8\", \"scrapingDataStartCell\": \"E9\", \"units\": \"Millones de d\\u00f3lares\", \"dataset_identifier\": \"76\", \"distribution_identifier\": \"76.1\"}, {\"title\": \"ica_piezas_accesorios_bienes_capital\", \"type\": \"number\", \"description\": \"Importaciones de piezas y accesorios para bienes de capital. En millones de d\\u00f3lares CIF\", \"id\": \"76.1_IPABC_0_A_36\", \"scrapingIdentifierCell\": \"F8\", \"scrapingDataStartCell\": \"F9\", \"units\": \"Millones de d\\u00f3lares\", \"dataset_identifier\": \"76\", \"distribution_identifier\": \"76.1\"}, {\"title\": \"ica_bienes_consumo\", \"type\": \"number\", \"description\": \"Importaciones de bienes de consumo. En millones de d\\u00f3lares CIF\", \"id\": \"76.1_IBC_0_A_18\", \"scrapingIdentifierCell\": \"G8\", \"scrapingDataStartCell\": \"G9\", \"units\": \"Millones de d\\u00f3lares\", \"dataset_identifier\": \"76\", \"distribution_identifier\": \"76.1\"}, {\"title\": \"ica_vehiculos_automotores_pasajeros\", \"type\": \"number\", \"description\": \"Importaciones de veh\\u00edculos automotores de pasajeros. En millones de d\\u00f3lares CIF\", \"id\": \"76.1_IVAP_0_A_35\", \"scrapingIdentifierCell\": \"H8\", \"scrapingDataStartCell\": \"H9\", \"units\": \"Millones de d\\u00f3lares\", \"dataset_identifier\": \"76\", \"distribution_identifier\": \"76.1\"}, {\"title\": \"ica_resto\", \"type\": \"number\", \"description\": \"Resto de importaciones. En millones de d\\u00f3lares CIF\", \"id\": \"76.1_IR_0_A_9\", \"scrapingIdentifierCell\": \"I8\", \"scrapingDataStartCell\": \"I9\", \"units\": \"Millones de d\\u00f3lares\", \"dataset_identifier\": \"76\", \"distribution_identifier\": \"76.1\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-09-28T00:00:00",
+      "datastore_active": false,
+      "description": "Importaciones CIF. En millones de dólares.",
+      "fileName": "importaciones-anual.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "sspm_76.1",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Importaciones. Valores anuales",
+      "package_id": "sspm_76",
+      "position": 0,
+      "resource_type": null,
+      "revision_id": "6bc029a8-9829-47b9-b303-f279e6dbfd0e",
+      "size": null,
+      "state": "active",
+      "url": "https://infra.datos.gob.ar/catalog/sspm/dataset/76/distribution/76.1/download/importaciones-anual.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/",
+      "attributesDescription": "[{\"title\": \"indice_tiempo\", \"type\": \"date\", \"specialType\": \"time_index\", \"specialTypeDetail\": \"R/P3M\", \"id\": \"76.2_IT_0_T_13\", \"scrapingIdentifierCell\": \"A46\", \"scrapingDataStartCell\": \"A47\", \"dataset_identifier\": \"76\", \"distribution_identifier\": \"76.2\"}, {\"title\": \"ica_total_general\", \"type\": \"number\", \"description\": \"Importaciones total general. En millones de d\\u00f3lares CIF\", \"id\": \"76.2_ITG_0_T_17\", \"scrapingIdentifierCell\": \"B46\", \"scrapingDataStartCell\": \"B47\", \"units\": \"Millones de d\\u00f3lares\", \"dataset_identifier\": \"76\", \"distribution_identifier\": \"76.2\"}, {\"title\": \"ica_bienes_capital\", \"type\": \"number\", \"description\": \"Importaciones de bienes de capital. En millones de d\\u00f3lares CIF\", \"id\": \"76.2_IBCA_0_T_18\", \"scrapingIdentifierCell\": \"C46\", \"scrapingDataStartCell\": \"C47\", \"units\": \"Millones de d\\u00f3lares\", \"dataset_identifier\": \"76\", \"distribution_identifier\": \"76.2\"}, {\"title\": \"ica_bienes_intermedios\", \"type\": \"number\", \"description\": \"Importaciones de bienes intermedios. En millones de d\\u00f3lares CIF\", \"id\": \"76.2_IBI_0_T_22\", \"scrapingIdentifierCell\": \"D46\", \"scrapingDataStartCell\": \"D47\", \"units\": \"Millones de d\\u00f3lares\", \"dataset_identifier\": \"76\", \"distribution_identifier\": \"76.2\"}, {\"title\": \"ica_combustible\", \"type\": \"number\", \"description\": \"Importaciones de combustibles. En millones de d\\u00f3lares CIF\", \"id\": \"76.2_IC_0_T_15\", \"scrapingIdentifierCell\": \"E46\", \"scrapingDataStartCell\": \"E47\", \"units\": \"Millones de d\\u00f3lares\", \"dataset_identifier\": \"76\", \"distribution_identifier\": \"76.2\"}, {\"title\": \"ica_piezas_accesorios_bienes_capital\", \"type\": \"number\", \"description\": \"Importaciones de piezas y accesorios para bienes de capital. En millones de d\\u00f3lares CIF\", \"id\": \"76.2_IPABC_0_T_36\", \"scrapingIdentifierCell\": \"F46\", \"scrapingDataStartCell\": \"F47\", \"units\": \"Millones de d\\u00f3lares\", \"dataset_identifier\": \"76\", \"distribution_identifier\": \"76.2\"}, {\"title\": \"ica_bienes_consumo\", \"type\": \"number\", \"description\": \"Importaciones de bienes de consumo. En millones de d\\u00f3lares CIF\", \"id\": \"76.2_IBC_0_T_18\", \"scrapingIdentifierCell\": \"G46\", \"scrapingDataStartCell\": \"G47\", \"units\": \"Millones de d\\u00f3lares\", \"dataset_identifier\": \"76\", \"distribution_identifier\": \"76.2\"}, {\"title\": \"ica_vehiculos_automotores_pasajeros\", \"type\": \"number\", \"description\": \"Importaciones de veh\\u00edculos automotores de pasajeros. En millones de d\\u00f3lares CIF\", \"id\": \"76.2_IVAP_0_T_35\", \"scrapingIdentifierCell\": \"H46\", \"scrapingDataStartCell\": \"H47\", \"units\": \"Millones de d\\u00f3lares\", \"dataset_identifier\": \"76\", \"distribution_identifier\": \"76.2\"}, {\"title\": \"ica_resto\", \"type\": \"number\", \"description\": \"Resto de importaciones. En millones de d\\u00f3lares CIF\", \"id\": \"76.2_IR_0_T_9\", \"scrapingIdentifierCell\": \"I46\", \"scrapingDataStartCell\": \"I47\", \"units\": \"Millones de d\\u00f3lares\", \"dataset_identifier\": \"76\", \"distribution_identifier\": \"76.2\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-09-28T00:00:00",
+      "datastore_active": false,
+      "description": "Importaciones CIF. En millones de dólares.",
+      "fileName": "importaciones-trimestral.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "sspm_76.2",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Importaciones. Valores trimestrales",
+      "package_id": "sspm_76",
+      "position": 1,
+      "resource_type": null,
+      "revision_id": "6bc029a8-9829-47b9-b303-f279e6dbfd0e",
+      "size": null,
+      "state": "active",
+      "url": "https://infra.datos.gob.ar/catalog/sspm/dataset/76/distribution/76.2/download/importaciones-trimestral.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/",
+      "attributesDescription": "[{\"title\": \"indice_tiempo\", \"type\": \"date\", \"specialType\": \"time_index\", \"specialTypeDetail\": \"R/P1M\", \"id\": \"76.3_IT_0_M_13\", \"scrapingIdentifierCell\": \"A171\", \"scrapingDataStartCell\": \"A172\", \"dataset_identifier\": \"76\", \"distribution_identifier\": \"76.3\"}, {\"title\": \"ica_total_general\", \"type\": \"number\", \"description\": \"Importaciones total general. En millones de d\\u00f3lares CIF\", \"id\": \"76.3_ITG_0_M_17\", \"scrapingIdentifierCell\": \"B171\", \"scrapingDataStartCell\": \"B172\", \"units\": \"Millones de d\\u00f3lares\", \"dataset_identifier\": \"76\", \"distribution_identifier\": \"76.3\"}, {\"title\": \"ica_bienes_capital\", \"type\": \"number\", \"description\": \"Importaciones de bienes de capital. En millones de d\\u00f3lares CIF\", \"id\": \"76.3_IBCA_0_M_18\", \"scrapingIdentifierCell\": \"C171\", \"scrapingDataStartCell\": \"C172\", \"units\": \"Millones de d\\u00f3lares\", \"dataset_identifier\": \"76\", \"distribution_identifier\": \"76.3\"}, {\"title\": \"ica_bienes_intermedios\", \"type\": \"number\", \"description\": \"Importaciones de bienes intermedios. En millones de d\\u00f3lares CIF\", \"id\": \"76.3_IBI_0_M_22\", \"scrapingIdentifierCell\": \"D171\", \"scrapingDataStartCell\": \"D172\", \"units\": \"Millones de d\\u00f3lares\", \"dataset_identifier\": \"76\", \"distribution_identifier\": \"76.3\"}, {\"title\": \"ica_combustible\", \"type\": \"number\", \"description\": \"Importaciones de combustibles. En millones de d\\u00f3lares CIF\", \"id\": \"76.3_IC_0_M_15\", \"scrapingIdentifierCell\": \"E171\", \"scrapingDataStartCell\": \"E172\", \"units\": \"Millones de d\\u00f3lares\", \"dataset_identifier\": \"76\", \"distribution_identifier\": \"76.3\"}, {\"title\": \"ica_piezas_accesorios_bienes_capital\", \"type\": \"number\", \"description\": \"Importaciones de piezas y accesorios para bienes de capital. En millones de d\\u00f3lares CIF\", \"id\": \"76.3_IPABC_0_M_36\", \"scrapingIdentifierCell\": \"F171\", \"scrapingDataStartCell\": \"F172\", \"units\": \"Millones de d\\u00f3lares\", \"dataset_identifier\": \"76\", \"distribution_identifier\": \"76.3\"}, {\"title\": \"ica_bienes_consumo\", \"type\": \"number\", \"description\": \"Importaciones de bienes de consumo. En millones de d\\u00f3lares CIF\", \"id\": \"76.3_IBC_0_M_18\", \"scrapingIdentifierCell\": \"G171\", \"scrapingDataStartCell\": \"G172\", \"units\": \"Millones de d\\u00f3lares\", \"dataset_identifier\": \"76\", \"distribution_identifier\": \"76.3\"}, {\"title\": \"ica_vehiculos_automotores_pasajeros\", \"type\": \"number\", \"description\": \"Importaciones de veh\\u00edculos automotores de pasajeros. En millones de d\\u00f3lares CIF\", \"id\": \"76.3_IVAP_0_M_35\", \"scrapingIdentifierCell\": \"H171\", \"scrapingDataStartCell\": \"H172\", \"units\": \"Millones de d\\u00f3lares\", \"dataset_identifier\": \"76\", \"distribution_identifier\": \"76.3\"}, {\"title\": \"ica_resto\", \"type\": \"number\", \"description\": \"Resto de importaciones. En millones de d\\u00f3lares CIF\", \"id\": \"76.3_IR_0_M_9\", \"scrapingIdentifierCell\": \"I171\", \"scrapingDataStartCell\": \"I172\", \"units\": \"Millones de d\\u00f3lares\", \"dataset_identifier\": \"76\", \"distribution_identifier\": \"76.3\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-09-28T00:00:00",
+      "datastore_active": false,
+      "description": "Importaciones CIF. En millones de dólares.",
+      "fileName": "importaciones-mensual.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "sspm_76.3",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Importaciones. Valores mensuales",
+      "package_id": "sspm_76",
+      "position": 2,
+      "resource_type": null,
+      "revision_id": "6bc029a8-9829-47b9-b303-f279e6dbfd0e",
+      "size": null,
+      "state": "active",
+      "url": "https://infra.datos.gob.ar/catalog/sspm/dataset/76/distribution/76.3/download/importaciones-mensual.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "6bc029a8-9829-47b9-b303-f279e6dbfd0e",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "Información Económica al Día",
+      "id": "0d300a9a-0802-46c3-9a40-2f28ddf050ec",
+      "name": "Información Económica al Día",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Sector Externo",
+      "id": "7161d5c3-be73-43e4-91b8-447209c908f4",
+      "name": "Sector Externo",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Importaciones CIF por Uso Económico",
+  "type": "dataset",
+  "url": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/",
+  "version": null
+}

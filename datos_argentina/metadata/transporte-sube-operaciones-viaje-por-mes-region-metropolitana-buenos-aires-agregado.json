@@ -1,0 +1,196 @@
+{
+  "author": "Dirección de Observatorio, Estudio y Sistemas – Ministerio de Transporte",
+  "author_email": "observatorio@transporte.gob.ar",
+  "creator_user_id": "dc157489-51c6-44ce-bd63-3bd983d60778",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P1M"
+    },
+    {
+      "key": "issued",
+      "value": "2019-04-09T12:11:57.068260"
+    },
+    {
+      "key": "modified",
+      "value": "2019-07-17T08:20:25.924474"
+    },
+    {
+      "key": "spatial",
+      "value": "[\"ARG\"]"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"TRAN\"]"
+    },
+    {
+      "key": "temporal",
+      "value": "2013-01-01T03:00:00.000Z/2019-06-30T03:00:00.000Z"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Transporte",
+      "display_name": "Transporte",
+      "id": "57227cfc-80a6-45d3-9faa-711a98ac8ede",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225933.272993transporte.svg",
+      "name": "tran",
+      "title": "Transporte"
+    }
+  ],
+  "id": "transporte_a615d532-f4bc-4148-815c-aa0d96d22197",
+  "isopen": false,
+  "license_id": "notspecified",
+  "license_title": "No se especificó la licencia",
+  "maintainer": "Dirección de Observatorio, Estudio y Sistemas – Ministerio de Transporte",
+  "maintainer_email": "observatorio@transporte.gob.ar",
+  "metadata_created": "2021-01-28T14:47:50.726807",
+  "metadata_modified": "2021-04-29T21:11:09.569893",
+  "name": "transporte-sube-operaciones-viaje-por-mes-region-metropolitana-buenos-aires-agregado",
+  "notes": "Detalle por Periodo-Modo-Jurisdicción-Grupo Tarifario-Empresa-Línea. Datos de operaciones de viajes del sistema único de boleto electrónico(SUBE) para el periodo registrado desde 01/01/2013 hasta 30/06/2019 para líneas de transporte urbano de pasajeros de RMBA incluyendo trenes, subterráneos, pre metro y colectivos. Tipos de operación: uso (con y sin integración tarifaría), venta de pasaje, check in (con y sin integración tarifaría), check out sin check in.\r\n",
+  "num_resources": 3,
+  "num_tags": 6,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:11.506514",
+    "description": "",
+    "id": "71418928-10c4-4625-aeaf-69a4d73d00ed",
+    "image_url": "",
+    "is_organization": true,
+    "name": "transporte",
+    "revision_id": "dc7b93ef-b174-46ee-90ea-63edf51296f0",
+    "state": "active",
+    "title": " Ministerio de Transporte",
+    "type": "organization"
+  },
+  "owner_org": "71418928-10c4-4625-aeaf-69a4d73d00ed",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "https://datos.transporte.gob.ar/dataset/a615d532-f4bc-4148-815c-aa0d96d22197/resource/3ca165b6-79c2-41e0-9c1c-357d587c5d86",
+      "attributesDescription": "[{\"type\": \"integer\", \"description\": \"a\\u00f1o-mes (YYYYMM) del dato\", \"title\": \"PERIODO\"}, {\"type\": \"string\", \"description\": \"modo de transporte\", \"title\": \"MODO\"}, {\"type\": \"string\", \"description\": \"jurisdiccion seg\\u00fan normativa\", \"title\": \"JURISDICCION\"}, {\"type\": \"string\", \"description\": \"grupo tarifario seg\\u00fan normativa\", \"title\": \"GRUPO TARIFARIO\"}, {\"type\": \"string\", \"description\": \"empresa prestadora del servicio de transporte\", \"title\": \"EMPRESA\"}, {\"type\": \"string\", \"description\": \"l\\u00ednea de transporte\", \"title\": \"LINEA\"}, {\"type\": \"integer\", \"description\": \"cantidad de registros de operaciones de validacion de tarjeta SUBE\", \"title\": \"CANTIDAD DE OPERACIONES\"}, {\"type\": \"integer\", \"description\": \"a\\u00f1o-mes (YYYYMM) del periodo en que se realizo la actualizaci\\u00f3n del registro\", \"title\": \"ACTUALIZACION\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-04-09T09:12:49.391531",
+      "datastore_active": false,
+      "description": "Operaciones para trenes, subterráneos, pre metro y colectivos Operaciones: uso (c/s integración tarifaría), venta de pasaje, check in (c/s integración tarifaría), checkout sin checkin",
+      "fileName": "Operaciones de viaje por Periodo - Modo - Jurisdicción - Grupo Tarifario - Empresa - Línea.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "transporte_3ca165b6-79c2-41e0-9c1c-357d587c5d86",
+      "last_modified": "2019-11-25T10:38:13.866321",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Operaciones de viaje por Periodo - Modo - Jurisdicción - Grupo Tarifario - Empresa - Línea",
+      "package_id": "transporte_a615d532-f4bc-4148-815c-aa0d96d22197",
+      "position": 0,
+      "resource_type": "file.upload",
+      "revision_id": "177438dc-b337-47fe-9c05-e52ac9215d10",
+      "size": null,
+      "state": "active",
+      "url": "https://datos.transporte.gob.ar/dataset/a615d532-f4bc-4148-815c-aa0d96d22197/resource/3ca165b6-79c2-41e0-9c1c-357d587c5d86/download/operaciones-de-viaje-por-periodo-modo-jurisdiccion-grupo-tarifario-empresa-linea.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://datos.transporte.gob.ar/dataset/a615d532-f4bc-4148-815c-aa0d96d22197/resource/6b80c666-fcb3-4f42-a8a3-fd01588f4391",
+      "attributesDescription": "[{\"type\": \"integer\", \"description\": \"a\\u00f1o-mes (YYYYMM) del dato\", \"title\": \"PERIODO\"}, {\"type\": \"string\", \"description\": \"modo de transporte\", \"title\": \"MODO\"}, {\"type\": \"string\", \"description\": \"jurisdiccion seg\\u00fan normativa\", \"title\": \"JURISDICCION\"}, {\"type\": \"string\", \"description\": \"grupo tarifario seg\\u00fan normativa\", \"title\": \"GRUPO TARIFARIO\"}, {\"type\": \"string\", \"description\": \"empresa prestadora del servicio de transporte\", \"title\": \"EMPRESA\"}, {\"type\": \"string\", \"description\": \"l\\u00ednea de transporte\", \"title\": \"LINEA\"}, {\"type\": \"integer\", \"description\": \"cantidad de registros de operaciones de validacion de tarjeta SUBE\", \"title\": \"CANTIDAD DE OPERACIONES\"}, {\"type\": \"integer\", \"description\": \"a\\u00f1o-mes (YYYYMM) del periodo en que se realizo la actualizaci\\u00f3n del registro\", \"title\": \"ACTUALIZACION\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-04-09T09:55:52.415634",
+      "datastore_active": false,
+      "description": "Operaciones para trenes, subterráneos, pre metro y colectivos Operaciones: uso (c/s integración tarifaría), venta de pasaje, check in (c/s integración tarifaría), check out sin check in",
+      "fileName": "Operaciones de viaje por Periodo - Modo - Jurisdicción - Grupo Tarifario - Empresa - Línea.xlsx",
+      "format": "XLSX",
+      "hash": "",
+      "id": "transporte_6b80c666-fcb3-4f42-a8a3-fd01588f4391",
+      "last_modified": "2019-11-25T10:37:16.586070",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Operaciones de viaje por Periodo - Modo - Jurisdicción - Grupo Tarifario - Empresa - Línea",
+      "package_id": "transporte_a615d532-f4bc-4148-815c-aa0d96d22197",
+      "position": 1,
+      "resource_type": "file.upload",
+      "revision_id": "177438dc-b337-47fe-9c05-e52ac9215d10",
+      "size": null,
+      "state": "active",
+      "url": "https://datos.transporte.gob.ar/dataset/a615d532-f4bc-4148-815c-aa0d96d22197/resource/6b80c666-fcb3-4f42-a8a3-fd01588f4391/download/operaciones-de-viaje-por-periodo-modo-jurisdiccion-grupo-tarifario-empresa-linea.xlsx",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://datos.transporte.gob.ar/dataset/a615d532-f4bc-4148-815c-aa0d96d22197/resource/43a79b1d-4ab7-4cef-bc72-45de44e23b08",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-04-11T11:00:45.488490",
+      "datastore_active": false,
+      "description": "Descripción de los campos de este dataset",
+      "fileName": "sube-rmba-operaciones-_-periodo-modo-jurisdiccion-grupo-tarifario-empresa-linea-cantidad-diccio.xlsx",
+      "format": "XLSX",
+      "hash": "",
+      "id": "transporte_43a79b1d-4ab7-4cef-bc72-45de44e23b08",
+      "last_modified": "2019-04-23T18:37:17.988082",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Diccionario de datos",
+      "package_id": "transporte_a615d532-f4bc-4148-815c-aa0d96d22197",
+      "position": 2,
+      "resource_type": "file.upload",
+      "revision_id": "177438dc-b337-47fe-9c05-e52ac9215d10",
+      "size": null,
+      "state": "active",
+      "url": "https://datos.transporte.gob.ar/dataset/a615d532-f4bc-4148-815c-aa0d96d22197/resource/43a79b1d-4ab7-4cef-bc72-45de44e23b08/download/sube-rmba-operaciones-_-periodo-modo-jurisdiccion-grupo-tarifario-empresa-linea-cantidad-diccio.xlsx",
+      "url_type": null
+    }
+  ],
+  "revision_id": "177438dc-b337-47fe-9c05-e52ac9215d10",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "Movilidad Urbana",
+      "id": "14ada287-45c0-4813-9cf9-8e06233c65a2",
+      "name": "Movilidad Urbana",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "SUBE",
+      "id": "e1510ce2-bc92-48be-b36a-677c6e66525a",
+      "name": "SUBE",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "TRANSPORTE",
+      "id": "861a321a-d1ba-4103-a4d6-357b4b59cc2d",
+      "name": "TRANSPORTE",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Transporte Automotor",
+      "id": "faf48ddb-07da-41d1-a0c8-86d00b563968",
+      "name": "Transporte Automotor",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Transporte Ferroviario",
+      "id": "f4e53926-9367-4bc2-aed7-f8c4fb21fcb1",
+      "name": "Transporte Ferroviario",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Transporte General",
+      "id": "a302697b-f4b9-4671-bebf-9b4de5a4a452",
+      "name": "Transporte General",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "SUBE Operaciones de viaje por mes de Región Metropolitana de Buenos Aires, agregado",
+  "type": "dataset",
+  "url": "https://datos.transporte.gob.ar/dataset/operaciones-por-periodo-modo-jurisdiccion-grupo-tarifario-empresa-linea",
+  "version": null
+}

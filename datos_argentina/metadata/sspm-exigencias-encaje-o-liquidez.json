@@ -1,0 +1,124 @@
+{
+  "author": "Subsecretaría de Programación Macroeconómica",
+  "author_email": "datoseconomicos@mecon.gov.ar",
+  "creator_user_id": "4720e75a-9e17-4dc3-879d-041917c7f9f9",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P1M"
+    },
+    {
+      "key": "issued",
+      "value": "2017-09-28"
+    },
+    {
+      "key": "language",
+      "value": "[\"SPA\"]"
+    },
+    {
+      "key": "source",
+      "value": "Banco Central de la República Argentina (BCRA)"
+    },
+    {
+      "key": "spatial",
+      "value": "ARG"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"ECON\"]"
+    },
+    {
+      "key": "temporal",
+      "value": "1992-01-01/2017-03-01"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Economía y finanzas",
+      "display_name": "Economía y finanzas",
+      "id": "60b4b03e-10a1-4d67-b984-08008a249617",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225257.200233economia-finanzas.svg",
+      "name": "econ",
+      "title": "Economía y finanzas"
+    }
+  ],
+  "id": "sspm_93",
+  "isopen": true,
+  "license_id": "CC-BY-4.0",
+  "license_title": "Creative Commons Attribution 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "maintainer": "Subsecretaría de Programación Macroeconómica.",
+  "maintainer_email": "datoseconomicos@mecon.gov.ar",
+  "metadata_created": "2019-11-26T15:04:38.106551",
+  "metadata_modified": "2021-04-29T21:06:08.148033",
+  "name": "sspm-exigencias-encaje-o-liquidez",
+  "notes": "Exigencias de encaje o liquidez para depósitos. Porcentajes aplicables al promedio mensual de datos diarios en pesos",
+  "num_resources": 1,
+  "num_tags": 2,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:09.718132",
+    "description": "",
+    "id": "68f9ee22-5ec3-44cf-a32b-b87d9db46b93",
+    "image_url": "",
+    "is_organization": true,
+    "name": "sspm",
+    "revision_id": "bc058ce0-3540-4204-96cd-9f9ec79045b3",
+    "state": "active",
+    "title": "Subsecretaría de Programación Macroeconómica",
+    "type": "organization"
+  },
+  "owner_org": "68f9ee22-5ec3-44cf-a32b-b87d9db46b93",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/",
+      "attributesDescription": "[{\"title\": \"indice_tiempo\", \"type\": \"date\", \"specialType\": \"time_index\", \"specialTypeDetail\": \"R/P1M\", \"id\": \"93.1_IT_0_0_13\", \"scrapingIdentifierCell\": \"A10\", \"scrapingDataStartCell\": \"A11\", \"dataset_identifier\": \"93\", \"distribution_identifier\": \"93.1\"}, {\"title\": \"cuenta_corriente_pesos\", \"type\": \"number\", \"description\": \"Cuenta corriente, en millones de pesos\", \"id\": \"93.1_CCP_0_0_22\", \"scrapingIdentifierCell\": \"B10\", \"scrapingDataStartCell\": \"B11\", \"units\": \"Millones de pesos\", \"dataset_identifier\": \"93\", \"distribution_identifier\": \"93.1\"}, {\"title\": \"cuentas_corrientes_cuentas_vista_cat_i\", \"type\": \"number\", \"description\": \"Cuentas corrientes y cuentas a la vista abiertas en las cajas de cr\\u00e9dito cooperativas. Categor\\u00eda I. En millones de pesos\", \"id\": \"93.1_CCCVCI_0_0_38\", \"scrapingIdentifierCell\": \"C10\", \"scrapingDataStartCell\": \"C11\", \"units\": \"Millones de pesos\", \"dataset_identifier\": \"93\", \"distribution_identifier\": \"93.1\"}, {\"title\": \"cuentas_corrientes_cuentas_vista_cat_ii_vi\", \"type\": \"number\", \"description\": \"Cuentas corrientes y cuentas a la vista abiertas en las cajas de cr\\u00e9dito cooperativas. Categor\\u00eda II-VI. En millones de pesos\", \"id\": \"93.1_CCCVCIV_0_0_42\", \"scrapingIdentifierCell\": \"D10\", \"scrapingDataStartCell\": \"D11\", \"units\": \"Millones de pesos\", \"dataset_identifier\": \"93\", \"distribution_identifier\": \"93.1\"}, {\"title\": \"caja_ahorro\", \"type\": \"number\", \"description\": \"Cajas de ahorro en millones de pesos\", \"id\": \"93.1_CA_0_0_11\", \"scrapingIdentifierCell\": \"E10\", \"scrapingDataStartCell\": \"E11\", \"units\": \"Millones de pesos\", \"dataset_identifier\": \"93\", \"distribution_identifier\": \"93.1\"}, {\"title\": \"caja_ahorros_cuenta_basica_cuenta_gratuita_cat_i\", \"type\": \"number\", \"description\": \"Cajja de ahorros, cuenta b\\u00e1sica y cuenta gratuita universal. Categor\\u00eda I. En millones de pesos\", \"id\": \"93.1_CACBCGCI_0_0_48\", \"scrapingIdentifierCell\": \"F10\", \"scrapingDataStartCell\": \"F11\", \"units\": \"Millones de pesos\", \"dataset_identifier\": \"93\", \"distribution_identifier\": \"93.1\"}, {\"title\": \"caja_ahorros_cuenta_basica_cuenta_gratuita_cat_ii_vi\", \"type\": \"number\", \"description\": \"Cajja de ahorros, cuenta b\\u00e1sica y cuenta gratuita universal. Categor\\u00edas II-VI. En millones de pesos\", \"id\": \"93.1_CACBCGCIV_0_0_52\", \"scrapingIdentifierCell\": \"G10\", \"scrapingDataStartCell\": \"G11\", \"units\": \"Millones de pesos\", \"dataset_identifier\": \"93\", \"distribution_identifier\": \"93.1\"}, {\"title\": \"pf_7_13_dias\", \"type\": \"number\", \"description\": \"Plazo fijo entre 7-13 d\\u00edas en millones de pesos\", \"id\": \"93.1_P71D_0_0_12\", \"scrapingIdentifierCell\": \"H10\", \"scrapingDataStartCell\": \"H11\", \"units\": \"Millones de pesos\", \"dataset_identifier\": \"93\", \"distribution_identifier\": \"93.1\"}, {\"title\": \"pf_14_29_dias\", \"type\": \"number\", \"description\": \"Plazo fijo entre 14-29 d\\u00edas en millones de pesos\", \"id\": \"93.1_P12D_0_0_13\", \"scrapingIdentifierCell\": \"I10\", \"scrapingDataStartCell\": \"I11\", \"units\": \"Millones de pesos\", \"dataset_identifier\": \"93\", \"distribution_identifier\": \"93.1\"}, {\"title\": \"pf_hasta_29\", \"type\": \"number\", \"description\": \"Plazo fijo hasta 29 d\\u00edas en millones de pesos\", \"id\": \"93.1_PFH29_0_0_11\", \"scrapingIdentifierCell\": \"J10\", \"scrapingDataStartCell\": \"J11\", \"units\": \"Millones de pesos\", \"dataset_identifier\": \"93\", \"distribution_identifier\": \"93.1\"}, {\"title\": \"pf_30_59_dias\", \"type\": \"number\", \"description\": \"Plazo fijo entre 30-59 d\\u00edas en millones de pesos\", \"id\": \"93.1_P35D_0_0_13\", \"scrapingIdentifierCell\": \"K10\", \"scrapingDataStartCell\": \"K11\", \"units\": \"Millones de pesos\", \"dataset_identifier\": \"93\", \"distribution_identifier\": \"93.1\"}, {\"title\": \"pf_60_89_dias\", \"type\": \"number\", \"description\": \"Plazo fijo entre 60-89 d\\u00edas en millones de pesos\", \"id\": \"93.1_P68D_0_0_13\", \"scrapingIdentifierCell\": \"L10\", \"scrapingDataStartCell\": \"L11\", \"units\": \"Millones de pesos\", \"dataset_identifier\": \"93\", \"distribution_identifier\": \"93.1\"}, {\"title\": \"pf_90_179_dias\", \"type\": \"number\", \"description\": \"Plazo fijo entre 90-179 d\\u00edas en millones de pesos\", \"id\": \"93.1_P91D_0_0_14\", \"scrapingIdentifierCell\": \"M10\", \"scrapingDataStartCell\": \"M11\", \"units\": \"Millones de pesos\", \"dataset_identifier\": \"93\", \"distribution_identifier\": \"93.1\"}, {\"title\": \"pf_180_365_dias\", \"type\": \"number\", \"description\": \"Plazo fijo entre 180-365 d\\u00edas en millones de pesos\", \"id\": \"93.1_P13D_0_0_15\", \"scrapingIdentifierCell\": \"N10\", \"scrapingDataStartCell\": \"N11\", \"units\": \"Millones de pesos\", \"dataset_identifier\": \"93\", \"distribution_identifier\": \"93.1\"}, {\"title\": \"pf_mas_360_dias\", \"type\": \"number\", \"description\": \"Plazo fijo a m\\u00e1s de 365 d\\u00edas en millones de pesos\", \"id\": \"93.1_PM3D_0_0_15\", \"scrapingIdentifierCell\": \"O10\", \"scrapingDataStartCell\": \"O11\", \"units\": \"Millones de pesos\", \"dataset_identifier\": \"93\", \"distribution_identifier\": \"93.1\"}, {\"title\": \"pf_14_29_dias_cat_i\", \"type\": \"number\", \"description\": \"Plazo fijo entre 14-29 d\\u00edas en millones de pesos. Categor\\u00eda I\", \"id\": \"93.1_P12DCI_0_0_19\", \"scrapingIdentifierCell\": \"P10\", \"scrapingDataStartCell\": \"P11\", \"units\": \"Millones de pesos\", \"dataset_identifier\": \"93\", \"distribution_identifier\": \"93.1\"}, {\"title\": \"pf_14_29_dias_cat_ii_vi\", \"type\": \"number\", \"description\": \"Plazo fijo entre 14-29 d\\u00edas en millones de pesos. Categor\\u00eda II-VI\", \"id\": \"93.1_P12DCIV_0_0_23\", \"scrapingIdentifierCell\": \"Q10\", \"scrapingDataStartCell\": \"Q11\", \"units\": \"Millones de pesos\", \"dataset_identifier\": \"93\", \"distribution_identifier\": \"93.1\"}, {\"title\": \"pf_30_59_dias_cat_i\", \"type\": \"number\", \"description\": \"Plazo fijo entre 30-59 d\\u00edas en millones de pesos. Categor\\u00eda I\", \"id\": \"93.1_P35DCI_0_0_19\", \"scrapingIdentifierCell\": \"R10\", \"scrapingDataStartCell\": \"R11\", \"units\": \"Millones de pesos\", \"dataset_identifier\": \"93\", \"distribution_identifier\": \"93.1\"}, {\"title\": \"pf_30_59_dias_cat_ii_vi\", \"type\": \"number\", \"description\": \"Plazo fijo entre 30-59 d\\u00edas en millones de pesos. Categor\\u00eda II-VI\", \"id\": \"93.1_P35DCIV_0_0_23\", \"scrapingIdentifierCell\": \"S10\", \"scrapingDataStartCell\": \"S11\", \"units\": \"Millones de pesos\", \"dataset_identifier\": \"93\", \"distribution_identifier\": \"93.1\"}, {\"title\": \"pf_60_89_dias_cat_i\", \"type\": \"number\", \"description\": \"Plazo fijo entre 60-89 d\\u00edas en millones de pesos. Categor\\u00eda I\", \"id\": \"93.1_P68DCI_0_0_19\", \"scrapingIdentifierCell\": \"T10\", \"scrapingDataStartCell\": \"T11\", \"units\": \"Millones de pesos\", \"dataset_identifier\": \"93\", \"distribution_identifier\": \"93.1\"}, {\"title\": \"pf_60_89_dias_cat_ii_vi\", \"type\": \"number\", \"description\": \"Plazo fijo entre 60-89 d\\u00edas en millones de pesos. Categor\\u00eda II-VI\", \"id\": \"93.1_P68DCIV_0_0_23\", \"scrapingIdentifierCell\": \"U10\", \"scrapingDataStartCell\": \"U11\", \"units\": \"Millones de pesos\", \"dataset_identifier\": \"93\", \"distribution_identifier\": \"93.1\"}, {\"title\": \"pf_90_179_dias_cat_i\", \"type\": \"number\", \"description\": \"Plazo fijo entre 90-179 d\\u00edas en millones de pesos. Categor\\u00eda I\", \"id\": \"93.1_P91DCI_0_0_20\", \"scrapingIdentifierCell\": \"V10\", \"scrapingDataStartCell\": \"V11\", \"units\": \"Millones de pesos\", \"dataset_identifier\": \"93\", \"distribution_identifier\": \"93.1\"}, {\"title\": \"pf_90_179_dias_cat_ii_vi\", \"type\": \"number\", \"description\": \"Plazo fijo entre 90-179 d\\u00edas en millones de pesos. Categor\\u00eda II-VI\", \"id\": \"93.1_P91DCIV_0_0_24\", \"scrapingIdentifierCell\": \"W10\", \"scrapingDataStartCell\": \"W11\", \"units\": \"Millones de pesos\", \"dataset_identifier\": \"93\", \"distribution_identifier\": \"93.1\"}, {\"title\": \"pf_mas_180_dias_cat_i\", \"type\": \"number\", \"description\": \"Plazo fijo a m\\u00e1s de 180 d\\u00edas. Categor\\u00eda I\", \"id\": \"93.1_PM1DCI_0_0_21\", \"scrapingIdentifierCell\": \"X10\", \"scrapingDataStartCell\": \"X11\", \"units\": \"Millones de pesos\", \"dataset_identifier\": \"93\", \"distribution_identifier\": \"93.1\"}, {\"title\": \"pf_mas_180_dias_cat_ii_vi\", \"type\": \"number\", \"description\": \"Plazo fijo a m\\u00e1s de 180 d\\u00edas. Categor\\u00eda II-VI\", \"id\": \"93.1_PM1DCIV_0_0_25\", \"scrapingIdentifierCell\": \"Y10\", \"scrapingDataStartCell\": \"Y11\", \"units\": \"Millones de pesos\", \"dataset_identifier\": \"93\", \"distribution_identifier\": \"93.1\"}, {\"title\": \"pf_hasta_29_dias_cat_i\", \"type\": \"number\", \"description\": \"Plazo fijo hasta 29 d\\u00edas. Categor\\u00eda I. En millones de pesos\", \"id\": \"93.1_PH2DCI_0_0_22\", \"scrapingIdentifierCell\": \"Z10\", \"scrapingDataStartCell\": \"Z11\", \"units\": \"Millones de pesos\", \"dataset_identifier\": \"93\", \"distribution_identifier\": \"93.1\"}, {\"title\": \"pf_hasta_29_dias_cat_ii_vi\", \"type\": \"number\", \"description\": \"Plazo fijo hasta 29 d\\u00edas. Categor\\u00eda II-VI. En millones de pesos\", \"id\": \"93.1_PH2DCIV_0_0_26\", \"scrapingIdentifierCell\": \"AA10\", \"scrapingDataStartCell\": \"AA11\", \"units\": \"Millones de pesos\", \"dataset_identifier\": \"93\", \"distribution_identifier\": \"93.1\"}, {\"title\": \"uva_uvis_30_59_dias_cat_i\", \"type\": \"number\", \"description\": \"UVA y UVIs en millones de pesos 30-59 d\\u00edas. Categor\\u00eda I\", \"id\": \"93.1_UU35DCI_0_0_25\", \"scrapingIdentifierCell\": \"AB10\", \"scrapingDataStartCell\": \"AB11\", \"units\": \"Millones de pesos\", \"dataset_identifier\": \"93\", \"distribution_identifier\": \"93.1\"}, {\"title\": \"uva_uvis_30_59_dias_cat_ii_vi\", \"type\": \"number\", \"description\": \"UVA y UVIs en millones de pesos 30-59 d\\u00edas. Categor\\u00eda II-VI\", \"id\": \"93.1_UU35DCIV_0_0_29\", \"scrapingIdentifierCell\": \"AC10\", \"scrapingDataStartCell\": \"AC11\", \"units\": \"Millones de pesos\", \"dataset_identifier\": \"93\", \"distribution_identifier\": \"93.1\"}, {\"title\": \"uva_uvis_60_89_dias_cat_i\", \"type\": \"number\", \"description\": \"UVA y UVIs en millones de pesos 60-89 d\\u00edas. Categor\\u00eda I\", \"id\": \"93.1_UU68DCI_0_0_25\", \"scrapingIdentifierCell\": \"AD10\", \"scrapingDataStartCell\": \"AD11\", \"units\": \"Millones de pesos\", \"dataset_identifier\": \"93\", \"distribution_identifier\": \"93.1\"}, {\"title\": \"uva_uvis_60_89_dias_cat_ii_vi\", \"type\": \"number\", \"description\": \"UVA y UVIs en millones de pesos 60-89 d\\u00edas. Categor\\u00eda II-VI\", \"id\": \"93.1_UU68DCIV_0_0_29\", \"scrapingIdentifierCell\": \"AE10\", \"scrapingDataStartCell\": \"AE11\", \"units\": \"Millones de pesos\", \"dataset_identifier\": \"93\", \"distribution_identifier\": \"93.1\"}, {\"title\": \"uva_uvis_mas_90_dias_cat_i\", \"type\": \"number\", \"description\": \"UVA y UVIs en millones de pesos a m\\u00e1s de 90 d\\u00edas. Categor\\u00eda I\", \"id\": \"93.1_UUM9DCI_0_0_26\", \"scrapingIdentifierCell\": \"AF10\", \"scrapingDataStartCell\": \"AF11\", \"units\": \"Millones de pesos\", \"dataset_identifier\": \"93\", \"distribution_identifier\": \"93.1\"}, {\"title\": \"uva_uvis_mas_90_dias_cat_ii_vi\", \"type\": \"number\", \"description\": \"UVA y UVIs en millones de pesos a m\\u00e1s de 90 d\\u00edas. Categor\\u00eda II-VI\", \"id\": \"93.1_UUM9DCIV_0_0_30\", \"scrapingIdentifierCell\": \"AG10\", \"scrapingDataStartCell\": \"AG11\", \"units\": \"Millones de pesos\", \"dataset_identifier\": \"93\", \"distribution_identifier\": \"93.1\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-09-28T00:00:00",
+      "datastore_active": false,
+      "description": "Exigencias de encaje o liquidez para depósitos. Porcentajes aplicables al promedio mensual de datos diarios en pesos",
+      "fileName": "exigencias-encaje-o-liquidez.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "sspm_93.1",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Exigencias de encaje o liquidez",
+      "package_id": "sspm_93",
+      "position": 0,
+      "resource_type": null,
+      "revision_id": "4fa6866f-3456-4d20-ae36-4c909aa06c87",
+      "size": null,
+      "state": "active",
+      "url": "https://infra.datos.gob.ar/catalog/sspm/dataset/93/distribution/93.1/download/exigencias-encaje-o-liquidez.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "4fa6866f-3456-4d20-ae36-4c909aa06c87",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "Dinero y Bancos",
+      "id": "a6e04960-0d58-4c4e-a59c-a2e2ef9ac579",
+      "name": "Dinero y Bancos",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Información económica al día",
+      "id": "a277ffeb-6252-446e-a364-14710b257b35",
+      "name": "Información económica al día",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Exigencias de encaje o liquidez",
+  "type": "dataset",
+  "url": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/",
+  "version": null
+}

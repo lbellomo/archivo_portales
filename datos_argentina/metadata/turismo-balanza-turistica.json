@@ -1,0 +1,202 @@
+{
+  "author": "Ministerio de Turismo y Deportes. Subsecretaría de Desarrollo Estratégico. Dirección Nacional de Mercados y Estadística",
+  "author_email": "estadistica@turismo.gob.ar",
+  "creator_user_id": "dc157489-51c6-44ce-bd63-3bd983d60778",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P1M"
+    },
+    {
+      "key": "issued",
+      "value": "2020-12-28T16:05:30.461366"
+    },
+    {
+      "key": "language",
+      "value": "[\"spa\"]"
+    },
+    {
+      "key": "modified",
+      "value": "2021-04-23T15:56:10.416708"
+    },
+    {
+      "key": "source",
+      "value": "Ministerio de Turismo y Deportes. Subsecretaría de Desarrollo Estratégico. Dirección Nacional de Mercados y Estadística"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"GOVE\", \"SOCI\"]"
+    },
+    {
+      "key": "temporal",
+      "value": "2016-01-01T03:00:00.000Z/2021-02-01T03:00:00.000Z"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Gobierno y sector público",
+      "display_name": "Gobierno y sector público",
+      "id": "e6f07c77-3987-4e71-98a6-731b1aaf74f4",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225353.395233gobierno-sector-publico.svg",
+      "name": "gove",
+      "title": "Gobierno y sector público"
+    },
+    {
+      "description": "Población y sociedad",
+      "display_name": "Población y sociedad",
+      "id": "eb5df7fa-064a-4b51-89f6-af323ee1bf85",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225728.341804poblacion-sociedad.svg",
+      "name": "soci",
+      "title": "Población y sociedad"
+    }
+  ],
+  "id": "turismo_38b19977-60aa-456d-9a3c-f89c85c02f09",
+  "isopen": true,
+  "license_id": "CC-BY-4.0",
+  "license_title": "Creative Commons Attribution 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "maintainer": "Ministerio de Turismo y Deportes. Subsecretaría de Desarrollo Estratégico. Dirección Nacional de Mercados y Estadística",
+  "maintainer_email": "estadistica@turismo.gob.ar",
+  "metadata_created": "2020-12-29T16:17:01.677155",
+  "metadata_modified": "2021-04-29T21:04:15.069165",
+  "name": "turismo-balanza-turistica",
+  "notes": "Estadísticas de turismo internacional referidas al saldo de turistas por país o agrupamiento de países en base a la información de la Dirección Nacional de Migraciones y de la Encuesta de Turismo Internacional (INDEC-Ministerio de Turismo y Deporte). Es el resultado de la diferencia entre el volumen de turistas no residentes que visitan Argentina (turismo receptivo) y los turistas residentes que viajan al exterior (turismo emisivo).",
+  "num_resources": 3,
+  "num_tags": 5,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:07.685134",
+    "description": "",
+    "id": "3a751de6-128e-4f9a-a479-4672ef79a0e8",
+    "image_url": "",
+    "is_organization": true,
+    "name": "turismo",
+    "revision_id": "082d6431-73c3-4ce5-a589-b9cda65a2231",
+    "state": "active",
+    "title": "Ministerio de Turismo y Deportes",
+    "type": "organization"
+  },
+  "owner_org": "3a751de6-128e-4f9a-a479-4672ef79a0e8",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "http://datos.yvera.gob.ar/dataset/38b19977-60aa-456d-9a3c-f89c85c02f09/resource/d4d72dfc-59fa-486c-8df4-590113cc5da4",
+      "attributesDescription": "[{\"specialType\": \"time_index\", \"specialTypeDetail\": \"R/P1M\", \"type\": \"date\", \"description\": \"Indice de tiempo mensual\", \"title\": \"indice_tiempo\"}, {\"type\": \"string\", \"description\": \"Tipo de transporte utilizado por los turistas residentes y no residentes. Incluye todos los medios a\\u00e9reos, terrestres y mar\\u00edtimos/fluviales\", \"title\": \"medio_de_transporte\"}, {\"type\": \"string\", \"description\": \"Pa\\u00eds o agrupamiento de pa\\u00edses. Incluye las siguientes categor\\u00edas:  Bolivia, Brasil, Chile, Paraguay, Uruguay, EE.UU. y Canad\\u00e1, Resto de Am\\u00e9rica, Europa y Resto del mundo.\", \"title\": \"pais\"}, {\"units\": \"turistas\", \"type\": \"number\", \"description\": \"Saldo de turistas (turismo receptivo menos turismo emisivo)\", \"title\": \"balanza\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2020-12-28T16:08:59.995084",
+      "datastore_active": false,
+      "description": "Saldo de turistas por país o agrupamiento de países según medio de transporte utilizado (aéreo, terrestre, fluvial/marítimo) en formato de serie de tiempo. Corresponde al total país",
+      "fileName": "saldo-turistas-serie (4).csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "turismo_d4d72dfc-59fa-486c-8df4-590113cc5da4",
+      "last_modified": "2021-04-20T09:41:19.407003",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Balanza de turistas por país o agrupamiento de países y medio de transporte utilizado",
+      "package_id": "turismo_38b19977-60aa-456d-9a3c-f89c85c02f09",
+      "position": 0,
+      "resource_type": "file.upload",
+      "revision_id": "6ceb4580-1490-4a74-90cc-a381bc6d6235",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.yvera.gob.ar/dataset/38b19977-60aa-456d-9a3c-f89c85c02f09/resource/d4d72dfc-59fa-486c-8df4-590113cc5da4/download/saldo-turistas-serie-4.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos.yvera.gob.ar/dataset/38b19977-60aa-456d-9a3c-f89c85c02f09/resource/06b7c0da-7844-45f1-b20f-4e0cfb9f5bf2",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2021-01-07T12:15:54.762331",
+      "datastore_active": false,
+      "description": "Aspectos conceptuales y metodológicos de la fuente de datos",
+      "fileName": "2021.01.05_tur_internacional.pdf",
+      "format": "PDF",
+      "hash": "",
+      "id": "turismo_06b7c0da-7844-45f1-b20f-4e0cfb9f5bf2",
+      "last_modified": "2021-01-12T18:59:25.135284",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Ficha Técnica: Turismo Internacional",
+      "package_id": "turismo_38b19977-60aa-456d-9a3c-f89c85c02f09",
+      "position": 1,
+      "resource_type": "documentation",
+      "revision_id": "26a53b6e-1e93-4117-98e1-ce215380ef2d",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.yvera.gob.ar/dataset/38b19977-60aa-456d-9a3c-f89c85c02f09/resource/06b7c0da-7844-45f1-b20f-4e0cfb9f5bf2/download/2021.01.05_tur_internacional.pdf",
+      "url_type": null
+    },
+    {
+      "accessURL": "http://datos.yvera.gob.ar/dataset/38b19977-60aa-456d-9a3c-f89c85c02f09/resource/a56502ba-7024-4902-bca4-b8f49833c223",
+      "attributesDescription": "[{\"specialType\": \"time_index\", \"specialTypeDetail\": \"R/P1M\", \"type\": \"date\", \"description\": \"Indice de tiempo mensual\", \"title\": \"indice_tiempo\"}, {\"id\": \"bt_turistas_1\", \"units\": \"Turistas\", \"type\": \"number\", \"description\": \"Saldo de turistas (turismo receptivo menos turismo emisivo) en Bolivia por v\\u00eda a\\u00e9rea\", \"title\": \"aerea_bolivia\"}, {\"id\": \"bt_turistas_2\", \"units\": \"Turistas\", \"type\": \"number\", \"description\": \"Saldo de turistas (turismo receptivo menos turismo emisivo) en Europa por v\\u00eda a\\u00e9rea\", \"title\": \"aerea_europa\"}, {\"id\": \"bt_turistas_3\", \"units\": \"Turistas\", \"type\": \"number\", \"description\": \"Saldo de turistas (turismo receptivo menos turismo emisivo) en Chile por v\\u00eda a\\u00e9rea\", \"title\": \"aerea_chile\"}, {\"id\": \"bt_turistas_4\", \"units\": \"Turistas\", \"type\": \"number\", \"description\": \"Saldo de turistas (turismo receptivo menos turismo emisivo) en Paraguay por v\\u00eda a\\u00e9rea\", \"title\": \"aerea_paraguay\"}, {\"id\": \"bt_turistas_5\", \"units\": \"Turistas\", \"type\": \"number\", \"description\": \"Saldo de turistas (turismo receptivo menos turismo emisivo) en Brasil por v\\u00eda a\\u00e9rea\", \"title\": \"aerea_brasil\"}, {\"id\": \"bt_turistas_6\", \"units\": \"Turistas\", \"type\": \"number\", \"description\": \"Saldo de turistas (turismo receptivo menos turismo emisivo) en Estados Unidos y Canad\\u00e1 por v\\u00eda a\\u00e9rea\", \"title\": \"aerea_ee_uu_y_canada\"}, {\"id\": \"bt_turistas_7\", \"units\": \"Turistas\", \"type\": \"number\", \"description\": \"Saldo de turistas (turismo receptivo menos turismo emisivo) en el Resto de Am\\u00e9rica por v\\u00eda a\\u00e9rea\", \"title\": \"aerea_resto_de_america\"}, {\"id\": \"bt_turistas_8\", \"units\": \"Turistas\", \"type\": \"number\", \"description\": \"Saldo de turistas (turismo receptivo menos turismo emisivo) en el Resto del mundo por v\\u00eda a\\u00e9rea\", \"title\": \"aerea_resto_del_mundo\"}, {\"id\": \"bt_turistas_9\", \"units\": \"Turistas\", \"type\": \"number\", \"description\": \"Saldo de turistas (turismo receptivo menos turismo emisivo) en Uruguay por v\\u00eda a\\u00e9rea\", \"title\": \"aerea_uruguay\"}, {\"id\": \"bt_turistas_10\", \"units\": \"Turistas\", \"type\": \"number\", \"description\": \"Saldo de turistas (turismo receptivo menos turismo emisivo) en Bolivia por v\\u00eda terrestre\", \"title\": \"terrestre_bolivia\"}, {\"id\": \"bt_turistas_11\", \"units\": \"Turistas\", \"type\": \"number\", \"description\": \"Saldo de turistas (turismo receptivo menos turismo emisivo) en Europa por v\\u00eda terrestre\", \"title\": \"terrestre_europa\"}, {\"id\": \"bt_turistas_12\", \"units\": \"Turistas\", \"type\": \"number\", \"description\": \"Saldo de turistas (turismo receptivo menos turismo emisivo) en Chile por v\\u00eda terrestre\", \"title\": \"terrestre_chile\"}, {\"id\": \"bt_turistas_13\", \"units\": \"Turistas\", \"type\": \"number\", \"description\": \"Saldo de turistas (turismo receptivo menos turismo emisivo) en Paraguay por v\\u00eda terrestre\", \"title\": \"terrestre_paraguay\"}, {\"id\": \"bt_turistas_14\", \"units\": \"Turistas\", \"type\": \"number\", \"description\": \"Saldo de turistas (turismo receptivo menos turismo emisivo) en Brasil por v\\u00eda terrestre\", \"title\": \"terrestre_brasil\"}, {\"id\": \"bt_turistas_15\", \"units\": \"Turistas\", \"type\": \"number\", \"description\": \"Saldo de turistas (turismo receptivo menos turismo emisivo) en Estados Unidos y Canad\\u00e1 por v\\u00eda terrestre\", \"title\": \"terrestre_ee_uu_y_canada\"}, {\"id\": \"bt_turistas_16\", \"units\": \"Turistas\", \"type\": \"number\", \"description\": \"Saldo de turistas (turismo receptivo menos turismo emisivo) en el Resto de Am\\u00e9rica por v\\u00eda terrestre\", \"title\": \"terrestre_resto_de_america\"}, {\"id\": \"bt_turistas_17\", \"units\": \"Turistas\", \"type\": \"number\", \"description\": \"Saldo de turistas (turismo receptivo menos turismo emisivo) en el Resto del mundo por v\\u00eda terrestre\", \"title\": \"terrestre_resto_del_mundo\"}, {\"id\": \"bt_turistas_18\", \"units\": \"Turistas\", \"type\": \"number\", \"description\": \"Saldo de turistas (turismo receptivo menos turismo emisivo) en Uruguay por v\\u00eda terrestre\", \"title\": \"terrestre_uruguay\"}, {\"id\": \"bt_turistas_19\", \"units\": \"Turistas\", \"type\": \"number\", \"description\": \"Saldo de turistas (turismo receptivo menos turismo emisivo) en Bolivia por v\\u00eda mar\\u00edtima/fluvial\", \"title\": \"fluvial_maritima_bolivia\"}, {\"id\": \"bt_turistas_20\", \"units\": \"Turistas\", \"type\": \"number\", \"description\": \"Saldo de turistas (turismo receptivo menos turismo emisivo) en Europa por v\\u00eda mar\\u00edtima/fluvial\", \"title\": \"fluvial_maritima_europa\"}, {\"id\": \"bt_turistas_21\", \"units\": \"Turistas\", \"type\": \"number\", \"description\": \"Saldo de turistas (turismo receptivo menos turismo emisivo) en Chile por v\\u00eda mar\\u00edtima/fluvial\", \"title\": \"fluvial_maritima_chile\"}, {\"id\": \"bt_turistas_22\", \"units\": \"Turistas\", \"type\": \"number\", \"description\": \"Saldo de turistas (turismo receptivo menos turismo emisivo) en Paraguay por v\\u00eda mar\\u00edtima/fluvial\", \"title\": \"fluvial_maritima_paraguay\"}, {\"id\": \"bt_turistas_23\", \"units\": \"Turistas\", \"type\": \"number\", \"description\": \"Saldo de turistas (turismo receptivo menos turismo emisivo) en Brasil por v\\u00eda mar\\u00edtima/fluvial\", \"title\": \"fluvial_maritima_brasil\"}, {\"id\": \"bt_turistas_24\", \"units\": \"Turistas\", \"type\": \"number\", \"description\": \"Saldo de turistas (turismo receptivo menos turismo emisivo) en Estados Unidos y Canad\\u00e1 por v\\u00eda mar\\u00edtima/fluvial\", \"title\": \"fluvial_maritima_ee_uu_y_canada\"}, {\"id\": \"bt_turistas_25\", \"units\": \"Turistas\", \"type\": \"number\", \"description\": \"Saldo de turistas (turismo receptivo menos turismo emisivo) en el Resto de Am\\u00e9rica por v\\u00eda mar\\u00edtima/fluvial\", \"title\": \"fluvial_maritima_resto_de_america\"}, {\"id\": \"bt_turistas_26\", \"units\": \"Turistas\", \"type\": \"number\", \"description\": \"Saldo de turistas (turismo receptivo menos turismo emisivo) en el Resto del mundo por v\\u00eda mar\\u00edtima/fluvial\", \"title\": \"fluvial_maritima_resto_del_mundo\"}, {\"id\": \"bt_turistas_27\", \"units\": \"Turistas\", \"type\": \"number\", \"description\": \"Saldo de turistas (turismo receptivo menos turismo emisivo) en Uruguay por v\\u00eda mar\\u00edtima/fluvial\", \"title\": \"fluvial_maritima_uruguay\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2021-02-02T16:21:36.105654",
+      "datastore_active": false,
+      "description": "Evolcuión del Saldo de turistas por país o agrupamiento de países y medio de transporte utilizado (aéreo, terrestre, fluvial/marítimo), desde el año 2016 a la última actualización.",
+      "fileName": "serie-tiempo-saldo-turistas.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "turismo_a56502ba-7024-4902-bca4-b8f49833c223",
+      "last_modified": "2021-02-02T16:27:44.189972",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Serie de tiempo",
+      "package_id": "turismo_38b19977-60aa-456d-9a3c-f89c85c02f09",
+      "position": 2,
+      "resource_type": "file.upload",
+      "revision_id": "5da28e05-90cf-44e3-b951-d099b55b827e",
+      "size": null,
+      "state": "active",
+      "url": "http://datos.yvera.gob.ar/dataset/38b19977-60aa-456d-9a3c-f89c85c02f09/resource/a56502ba-7024-4902-bca4-b8f49833c223/download/serie-tiempo-saldo-turistas.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "8b1a33fa-8b5d-48d8-aca0-ee81655e98c6",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "TURISMO INTERNACIONAL",
+      "id": "d55adc5e-c96c-4a96-a217-9a5c797a0935",
+      "name": "TURISMO INTERNACIONAL",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "balanza de turistas",
+      "id": "991a1aa1-c39f-4ecd-9baa-3e3ea085e191",
+      "name": "balanza de turistas",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "saldo de turistas",
+      "id": "117e8bca-e0f1-43c9-9987-cd7ff2087e07",
+      "name": "saldo de turistas",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "turismo",
+      "id": "72bd70a3-e979-4b54-b6fc-4832f9423ffc",
+      "name": "turismo",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "turismo internacional",
+      "id": "36a11dab-c318-4268-b6fb-5161e0d7b326",
+      "name": "turismo internacional",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Balanza turística",
+  "type": "dataset",
+  "url": "http://datos.yvera.gob.ar/dataset/balanza-turistica",
+  "version": null
+}

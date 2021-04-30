@@ -1,0 +1,174 @@
+{
+  "author": "Subsecretaría de Programación Macroeconómica",
+  "author_email": "datoseconomicos@mecon.gov.ar",
+  "creator_user_id": "4720e75a-9e17-4dc3-879d-041917c7f9f9",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P1M"
+    },
+    {
+      "key": "issued",
+      "value": "2018-01-05"
+    },
+    {
+      "key": "language",
+      "value": "[\"SPA\"]"
+    },
+    {
+      "key": "source",
+      "value": "Ministerio de Agroindustria"
+    },
+    {
+      "key": "spatial",
+      "value": "ARG"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"ECON\"]"
+    },
+    {
+      "key": "temporal",
+      "value": "2002-08-01/2016-09-01"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Economía y finanzas",
+      "display_name": "Economía y finanzas",
+      "id": "60b4b03e-10a1-4d67-b984-08008a249617",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225257.200233economia-finanzas.svg",
+      "name": "econ",
+      "title": "Economía y finanzas"
+    }
+  ],
+  "id": "sspm_369",
+  "isopen": true,
+  "license_id": "CC-BY-4.0",
+  "license_title": "Creative Commons Attribution 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "maintainer": "Subsecretaría de Programación Macroeconómica.",
+  "maintainer_email": "datoseconomicos@mecon.gov.ar",
+  "metadata_created": "2019-11-26T15:04:18.583301",
+  "metadata_modified": "2021-03-22T13:08:53.737041",
+  "name": "sspm-embarques-oleaginosas-cereales",
+  "notes": "Embarques de Oleaginosas y Cereales",
+  "num_resources": 3,
+  "num_tags": 2,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:09.718132",
+    "description": "",
+    "id": "68f9ee22-5ec3-44cf-a32b-b87d9db46b93",
+    "image_url": "",
+    "is_organization": true,
+    "name": "sspm",
+    "revision_id": "bc058ce0-3540-4204-96cd-9f9ec79045b3",
+    "state": "active",
+    "title": "Subsecretaría de Programación Macroeconómica",
+    "type": "organization"
+  },
+  "owner_org": "68f9ee22-5ec3-44cf-a32b-b87d9db46b93",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/",
+      "attributesDescription": "[{\"title\": \"indice_tiempo\", \"type\": \"date\", \"specialType\": \"time_index\", \"specialTypeDetail\": \"R/P1Y\", \"id\": \"369.1_INDICE_TIEMPO__13\", \"scrapingIdentifierCell\": \"A10\", \"scrapingDataStartCell\": \"A11\", \"dataset_identifier\": \"369\", \"distribution_identifier\": \"369.1\"}, {\"title\": \"trigo\", \"type\": \"number\", \"description\": \"Embarques de Trigo\", \"id\": \"369.1_TRIGOIGO__5\", \"scrapingIdentifierCell\": \"B10\", \"scrapingDataStartCell\": \"B11\", \"units\": \"Millones de Toneladas\", \"dataset_identifier\": \"369\", \"distribution_identifier\": \"369.1\"}, {\"title\": \"maiz\", \"type\": \"number\", \"description\": \"Embarques de Ma\\u00edz\", \"id\": \"369.1_MAIZAIZ__4\", \"scrapingIdentifierCell\": \"C10\", \"scrapingDataStartCell\": \"C11\", \"units\": \"Millones de Toneladas\", \"dataset_identifier\": \"369\", \"distribution_identifier\": \"369.1\"}, {\"title\": \"poroto_soja\", \"type\": \"number\", \"description\": \"Embarques de Poroto de Soja\", \"id\": \"369.1_POROTO_SOJOJA__11\", \"scrapingIdentifierCell\": \"D10\", \"scrapingDataStartCell\": \"D11\", \"units\": \"Millones de Toneladas\", \"dataset_identifier\": \"369\", \"distribution_identifier\": \"369.1\"}, {\"title\": \"resto\", \"type\": \"number\", \"description\": \"Embarques de Resto\", \"id\": \"369.1_RESTOSTO__5\", \"scrapingIdentifierCell\": \"E10\", \"scrapingDataStartCell\": \"E11\", \"units\": \"Millones de Toneladas\", \"dataset_identifier\": \"369\", \"distribution_identifier\": \"369.1\"}, {\"title\": \"subproductos\", \"type\": \"number\", \"description\": \"Embarques de Subproductos\", \"id\": \"369.1_SUBPRODUCTTOS__12\", \"scrapingIdentifierCell\": \"F10\", \"scrapingDataStartCell\": \"F11\", \"units\": \"Millones de Toneladas\", \"dataset_identifier\": \"369\", \"distribution_identifier\": \"369.1\"}, {\"title\": \"total\", \"type\": \"number\", \"description\": \"Embarques de Total\", \"id\": \"369.1_TOTALTAL__5\", \"scrapingIdentifierCell\": \"G10\", \"scrapingDataStartCell\": \"G11\", \"units\": \"Millones de Toneladas\", \"dataset_identifier\": \"369\", \"distribution_identifier\": \"369.1\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2018-01-05T00:00:00",
+      "datastore_active": false,
+      "description": "Información sobre cantidad de embarques de Oleaginosas y Cereales. Datos anuales",
+      "fileName": "embarques-de-oleaginosas-y-cereales-anuales.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "sspm_369.1",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Embarques de Oleaginosas y Cereales. Datos anuales",
+      "package_id": "sspm_369",
+      "position": 0,
+      "resource_type": null,
+      "revision_id": "7f46b29a-6116-4062-be8d-c7ad3208af1d",
+      "size": null,
+      "state": "active",
+      "url": "https://infra.datos.gob.ar/catalog/sspm/dataset/369/distribution/369.1/download/embarques-de-oleaginosas-y-cereales-anuales.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/",
+      "attributesDescription": "[{\"title\": \"indice_tiempo\", \"type\": \"date\", \"specialType\": \"time_index\", \"specialTypeDetail\": \"R/P3M\", \"id\": \"369.2_INDICE_TIEMPO__13\", \"scrapingIdentifierCell\": \"A29\", \"scrapingDataStartCell\": \"A30\", \"dataset_identifier\": \"369\", \"distribution_identifier\": \"369.2\"}, {\"title\": \"trigo\", \"type\": \"number\", \"description\": \"Embarques de Trigo\", \"id\": \"369.2_TRIGOIGO__5\", \"scrapingIdentifierCell\": \"B29\", \"scrapingDataStartCell\": \"B30\", \"units\": \"Millones de Toneladas\", \"dataset_identifier\": \"369\", \"distribution_identifier\": \"369.2\"}, {\"title\": \"maiz\", \"type\": \"number\", \"description\": \"Embarques de Ma\\u00edz\", \"id\": \"369.2_MAIZAIZ__4\", \"scrapingIdentifierCell\": \"C29\", \"scrapingDataStartCell\": \"C30\", \"units\": \"Millones de Toneladas\", \"dataset_identifier\": \"369\", \"distribution_identifier\": \"369.2\"}, {\"title\": \"poroto_soja\", \"type\": \"number\", \"description\": \"Embarques de Poroto de Soja\", \"id\": \"369.2_POROTO_SOJOJA__11\", \"scrapingIdentifierCell\": \"D29\", \"scrapingDataStartCell\": \"D30\", \"units\": \"Millones de Toneladas\", \"dataset_identifier\": \"369\", \"distribution_identifier\": \"369.2\"}, {\"title\": \"resto\", \"type\": \"number\", \"description\": \"Embarques de Resto\", \"id\": \"369.2_RESTOSTO__5\", \"scrapingIdentifierCell\": \"E29\", \"scrapingDataStartCell\": \"E30\", \"units\": \"Millones de Toneladas\", \"dataset_identifier\": \"369\", \"distribution_identifier\": \"369.2\"}, {\"title\": \"subproductos\", \"type\": \"number\", \"description\": \"Embarques de Subproductos\", \"id\": \"369.2_SUBPRODUCTTOS__12\", \"scrapingIdentifierCell\": \"F29\", \"scrapingDataStartCell\": \"F30\", \"units\": \"Millones de Toneladas\", \"dataset_identifier\": \"369\", \"distribution_identifier\": \"369.2\"}, {\"title\": \"total\", \"type\": \"number\", \"description\": \"Embarques de Total\", \"id\": \"369.2_TOTALTAL__5\", \"scrapingIdentifierCell\": \"G29\", \"scrapingDataStartCell\": \"G30\", \"units\": \"Millones de Toneladas\", \"dataset_identifier\": \"369\", \"distribution_identifier\": \"369.2\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2018-01-05T00:00:00",
+      "datastore_active": false,
+      "description": "Información sobre cantidad de embarques de Oleaginosas y Cereales. Datos trimestral",
+      "fileName": "embarques-de-oleaginosas-y-cereales-trimestral.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "sspm_369.2",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Embarques de Oleaginosas y Cereales. Datos trimestral",
+      "package_id": "sspm_369",
+      "position": 1,
+      "resource_type": null,
+      "revision_id": "7f46b29a-6116-4062-be8d-c7ad3208af1d",
+      "size": null,
+      "state": "active",
+      "url": "https://infra.datos.gob.ar/catalog/sspm/dataset/369/distribution/369.2/download/embarques-de-oleaginosas-y-cereales-trimestral.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/",
+      "attributesDescription": "[{\"title\": \"indice_tiempo\", \"type\": \"date\", \"specialType\": \"time_index\", \"specialTypeDetail\": \"R/P1M\", \"id\": \"369.3_INDICE_TIEMPO__13\", \"scrapingIdentifierCell\": \"A99\", \"scrapingDataStartCell\": \"A100\", \"dataset_identifier\": \"369\", \"distribution_identifier\": \"369.3\"}, {\"title\": \"trigo\", \"type\": \"number\", \"description\": \"Embarques de Trigo\", \"id\": \"369.3_TRIGOIGO__5\", \"scrapingIdentifierCell\": \"B100\", \"scrapingDataStartCell\": \"B101\", \"units\": \"Millones de Toneladas\", \"dataset_identifier\": \"369\", \"distribution_identifier\": \"369.3\"}, {\"title\": \"maiz\", \"type\": \"number\", \"description\": \"Embarques de Ma\\u00edz\", \"id\": \"369.3_MAIZAIZ__4\", \"scrapingIdentifierCell\": \"C100\", \"scrapingDataStartCell\": \"C101\", \"units\": \"Millones de Toneladas\", \"dataset_identifier\": \"369\", \"distribution_identifier\": \"369.3\"}, {\"title\": \"poroto_soja\", \"type\": \"number\", \"description\": \"Embarques de Poroto de Soja\", \"id\": \"369.3_POROTO_SOJOJA__11\", \"scrapingIdentifierCell\": \"D100\", \"scrapingDataStartCell\": \"D101\", \"units\": \"Millones de Toneladas\", \"dataset_identifier\": \"369\", \"distribution_identifier\": \"369.3\"}, {\"title\": \"resto\", \"type\": \"number\", \"description\": \"Embarques de Resto\", \"id\": \"369.3_RESTOSTO__5\", \"scrapingIdentifierCell\": \"E100\", \"scrapingDataStartCell\": \"E101\", \"units\": \"Millones de Toneladas\", \"dataset_identifier\": \"369\", \"distribution_identifier\": \"369.3\"}, {\"title\": \"subproductos\", \"type\": \"number\", \"description\": \"Embarques de Subproductos\", \"id\": \"369.3_SUBPRODUCTTOS__12\", \"scrapingIdentifierCell\": \"F100\", \"scrapingDataStartCell\": \"F101\", \"units\": \"Millones de Toneladas\", \"dataset_identifier\": \"369\", \"distribution_identifier\": \"369.3\"}, {\"title\": \"total\", \"type\": \"number\", \"description\": \"Embarques de Total\", \"id\": \"369.3_TOTALTAL__5\", \"scrapingIdentifierCell\": \"G100\", \"scrapingDataStartCell\": \"G101\", \"units\": \"Millones de Toneladas\", \"dataset_identifier\": \"369\", \"distribution_identifier\": \"369.3\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2018-01-05T00:00:00",
+      "datastore_active": false,
+      "description": "Información sobre cantidad de embarques de Oleaginosas y Cereales. Datos mensual",
+      "fileName": "embarques-de-oleaginosas-y-cereales-mensual.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "sspm_369.3",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Embarques de Oleaginosas y Cereales. Datos mensual",
+      "package_id": "sspm_369",
+      "position": 2,
+      "resource_type": null,
+      "revision_id": "dc3c3592-50dc-46b5-8022-42642c8f3e15",
+      "size": null,
+      "state": "active",
+      "url": "https://infra.datos.gob.ar/catalog/sspm/dataset/369/distribution/369.3/download/embarques-de-oleaginosas-y-cereales-mensual.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "7f46b29a-6116-4062-be8d-c7ad3208af1d",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "Actividad",
+      "id": "a7695c51-c893-4ece-8ff9-306c197afdd7",
+      "name": "Actividad",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Información Económica al Día",
+      "id": "0d300a9a-0802-46c3-9a40-2f28ddf050ec",
+      "name": "Información Económica al Día",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Embarques de Oleaginosas y Cereales",
+  "type": "dataset",
+  "url": "http://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/",
+  "version": null
+}

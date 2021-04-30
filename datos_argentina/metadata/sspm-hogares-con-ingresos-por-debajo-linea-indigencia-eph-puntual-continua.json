@@ -1,0 +1,124 @@
+{
+  "author": "Subsecretaría de Programación Macroeconómica",
+  "author_email": "datoseconomicos@mecon.gov.ar",
+  "creator_user_id": "4720e75a-9e17-4dc3-879d-041917c7f9f9",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P6M"
+    },
+    {
+      "key": "issued",
+      "value": "2017-09-28"
+    },
+    {
+      "key": "language",
+      "value": "[\"SPA\"]"
+    },
+    {
+      "key": "source",
+      "value": "Instituto Nacional de Estadística y Censos (INDEC)"
+    },
+    {
+      "key": "spatial",
+      "value": "ARG"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"ECON\"]"
+    },
+    {
+      "key": "temporal",
+      "value": "2001-05-01/2016-12-31"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Economía y finanzas",
+      "display_name": "Economía y finanzas",
+      "id": "60b4b03e-10a1-4d67-b984-08008a249617",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225257.200233economia-finanzas.svg",
+      "name": "econ",
+      "title": "Economía y finanzas"
+    }
+  ],
+  "id": "sspm_61",
+  "isopen": true,
+  "license_id": "CC-BY-4.0",
+  "license_title": "Creative Commons Attribution 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "maintainer": "Subsecretaría de Programación Macroeconómica.",
+  "maintainer_email": "datoseconomicos@mecon.gov.ar",
+  "metadata_created": "2019-11-26T15:05:09.226327",
+  "metadata_modified": "2021-04-29T21:04:25.014145",
+  "name": "sspm-hogares-con-ingresos-por-debajo-linea-indigencia-eph-puntual-continua",
+  "notes": "Evolución de los hogares con ingresos por debajo de la línea de indigencia en porcentaje del total de hogares por regiones y aglomerados",
+  "num_resources": 1,
+  "num_tags": 2,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:09.718132",
+    "description": "",
+    "id": "68f9ee22-5ec3-44cf-a32b-b87d9db46b93",
+    "image_url": "",
+    "is_organization": true,
+    "name": "sspm",
+    "revision_id": "bc058ce0-3540-4204-96cd-9f9ec79045b3",
+    "state": "active",
+    "title": "Subsecretaría de Programación Macroeconómica",
+    "type": "organization"
+  },
+  "owner_org": "68f9ee22-5ec3-44cf-a32b-b87d9db46b93",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/",
+      "attributesDescription": "[{\"title\": \"indice_tiempo\", \"type\": \"date\", \"specialType\": \"time_index\", \"specialTypeDetail\": \"R/P6M\", \"id\": \"61.1_IT_0_0_13\", \"scrapingIdentifierCell\": \"B12\", \"scrapingDataStartCell\": \"B13\", \"dataset_identifier\": \"61\", \"distribution_identifier\": \"61.1\"}, {\"title\": \"hogares_indigentes_pct_total\", \"type\": \"number\", \"description\": \"Hogares con ingresos debajo de l\\u00ednea de indigencia (%) de 2001 a 2003. TOTAL\", \"id\": \"61.1_T_0_0_5\", \"scrapingIdentifierCell\": \"C12\", \"scrapingDataStartCell\": \"C13\", \"units\": \"Porcentaje de hogares\", \"dataset_identifier\": \"61\", \"distribution_identifier\": \"61.1\"}, {\"title\": \"hogares_indigentes_pct_gba\", \"type\": \"number\", \"description\": \"Hogares con ingresos debajo de l\\u00ednea de indigencia (%) de 2001 a 2003. GBA\", \"id\": \"61.1_G_0_0_3\", \"scrapingIdentifierCell\": \"D12\", \"scrapingDataStartCell\": \"D13\", \"units\": \"Porcentaje de hogares\", \"dataset_identifier\": \"61\", \"distribution_identifier\": \"61.1\"}, {\"title\": \"hogares_indigentes_pct_aglomerados_interior_pais\", \"type\": \"number\", \"description\": \"Hogares con ingresos debajo de l\\u00ednea de indigencia (%) de 2001 a 2003. Aglomerados del Interior del Pa\\u00eds\", \"id\": \"61.1_AIP_0_0_25\", \"scrapingIdentifierCell\": \"E12\", \"scrapingDataStartCell\": \"E13\", \"units\": \"Porcentaje de hogares\", \"dataset_identifier\": \"61\", \"distribution_identifier\": \"61.1\"}, {\"title\": \"hogares_indigentes_pct_region_nordeste\", \"type\": \"number\", \"description\": \"Hogares con ingresos debajo de l\\u00ednea de indigencia (%) de 2001 a 2003. Regi\\u00f3n Nordeste\", \"id\": \"61.1_RNE_0_0_15\", \"scrapingIdentifierCell\": \"F12\", \"scrapingDataStartCell\": \"F13\", \"units\": \"Porcentaje de hogares\", \"dataset_identifier\": \"61\", \"distribution_identifier\": \"61.1\"}, {\"title\": \"hogares_indigentes_pct_region_noroeste\", \"type\": \"number\", \"description\": \"Hogares con ingresos debajo de l\\u00ednea de indigencia (%) de 2001 a 2003. Regi\\u00f3n Noroeste\", \"id\": \"61.1_RNO_0_0_15\", \"scrapingIdentifierCell\": \"G12\", \"scrapingDataStartCell\": \"G13\", \"units\": \"Porcentaje de hogares\", \"dataset_identifier\": \"61\", \"distribution_identifier\": \"61.1\"}, {\"title\": \"hogares_indigentes_pct_region_pampeana\", \"type\": \"number\", \"description\": \"Hogares con ingresos debajo de l\\u00ednea de indigencia (%) de 2001 a 2003. Regi\\u00f3n Pampeana\", \"id\": \"61.1_RP_0_0_15\", \"scrapingIdentifierCell\": \"H12\", \"scrapingDataStartCell\": \"H13\", \"units\": \"Porcentaje de hogares\", \"dataset_identifier\": \"61\", \"distribution_identifier\": \"61.1\"}, {\"title\": \"hogares_indigentes_pct_region_patagonia\", \"type\": \"number\", \"description\": \"Hogares con ingresos debajo de l\\u00ednea de indigencia (%) de 2001 a 2003. Regi\\u00f3n Patagonia\", \"id\": \"61.1_RP_0_0_16\", \"scrapingIdentifierCell\": \"I12\", \"scrapingDataStartCell\": \"I13\", \"units\": \"Porcentaje de hogares\", \"dataset_identifier\": \"61\", \"distribution_identifier\": \"61.1\"}, {\"title\": \"hogares_indigentes_pct_caba\", \"type\": \"number\", \"description\": \"Hogares con ingresos debajo de l\\u00ednea de indigencia (%) de 2001 a 2003. Ciudad de Buenos Aires\", \"id\": \"61.1_C_0_0_4\", \"scrapingIdentifierCell\": \"M12\", \"scrapingDataStartCell\": \"M13\", \"units\": \"Porcentaje de hogares\", \"dataset_identifier\": \"61\", \"distribution_identifier\": \"61.1\"}, {\"title\": \"hogares_indigentes_pct_partidos_gran_buenos_aires\", \"type\": \"number\", \"description\": \"Hogares con ingresos debajo de l\\u00ednea de indigencia (%) de 2001 a 2003. Partidos del Gran Buenos Aires\", \"id\": \"61.1_PGBA_0_0_26\", \"scrapingIdentifierCell\": \"N12\", \"scrapingDataStartCell\": \"N13\", \"units\": \"Porcentaje de hogares\", \"dataset_identifier\": \"61\", \"distribution_identifier\": \"61.1\"}, {\"title\": \"hogares_indigentes_pct_gran_mendoza\", \"type\": \"number\", \"description\": \"Hogares con ingresos debajo de l\\u00ednea de indigencia (%) de 2001 a 2003. Gran Mendoza\", \"id\": \"61.1_GM_0_0_12\", \"scrapingIdentifierCell\": \"O12\", \"scrapingDataStartCell\": \"O13\", \"units\": \"Porcentaje de hogares\", \"dataset_identifier\": \"61\", \"distribution_identifier\": \"61.1\"}, {\"title\": \"hogares_indigentes_pct_gran_san_juan\", \"type\": \"number\", \"description\": \"Hogares con ingresos debajo de l\\u00ednea de indigencia (%) de 2001 a 2003. Gran San Juan\", \"id\": \"61.1_GSJ_0_0_13\", \"scrapingIdentifierCell\": \"P12\", \"scrapingDataStartCell\": \"P13\", \"units\": \"Porcentaje de hogares\", \"dataset_identifier\": \"61\", \"distribution_identifier\": \"61.1\"}, {\"title\": \"hogares_indigentes_pct_san_luis_el_chorrillo\", \"type\": \"number\", \"description\": \"Hogares con ingresos debajo de l\\u00ednea de indigencia (%) de 2001 a 2003. San Luis - El Chorrillo\", \"id\": \"61.1_SLEC_0_0_21\", \"scrapingIdentifierCell\": \"Q12\", \"scrapingDataStartCell\": \"Q13\", \"units\": \"Porcentaje de hogares\", \"dataset_identifier\": \"61\", \"distribution_identifier\": \"61.1\"}, {\"title\": \"hogares_indigentes_pct_corrientes\", \"type\": \"number\", \"description\": \"Hogares con ingresos debajo de l\\u00ednea de indigencia (%) de 2001 a 2003. Corrientes\", \"id\": \"61.1_C_0_0_10\", \"scrapingIdentifierCell\": \"R12\", \"scrapingDataStartCell\": \"R13\", \"units\": \"Porcentaje de hogares\", \"dataset_identifier\": \"61\", \"distribution_identifier\": \"61.1\"}, {\"title\": \"hogares_indigentes_pct_formosa\", \"type\": \"number\", \"description\": \"Hogares con ingresos debajo de l\\u00ednea de indigencia (%) de 2001 a 2003. Formosa\", \"id\": \"61.1_F_0_0_7\", \"scrapingIdentifierCell\": \"S12\", \"scrapingDataStartCell\": \"S13\", \"units\": \"Porcentaje de hogares\", \"dataset_identifier\": \"61\", \"distribution_identifier\": \"61.1\"}, {\"title\": \"hogares_indigentes_pct_gran_resistencia\", \"type\": \"number\", \"description\": \"Hogares con ingresos debajo de l\\u00ednea de indigencia (%) de 2001 a 2003. Gran Resistencia\", \"id\": \"61.1_GR_0_0_16\", \"scrapingIdentifierCell\": \"T12\", \"scrapingDataStartCell\": \"T13\", \"units\": \"Porcentaje de hogares\", \"dataset_identifier\": \"61\", \"distribution_identifier\": \"61.1\"}, {\"title\": \"hogares_indigentes_pct_posadas\", \"type\": \"number\", \"description\": \"Hogares con ingresos debajo de l\\u00ednea de indigencia (%) de 2001 a 2003. Posadas\", \"id\": \"61.1_P_0_0_7\", \"scrapingIdentifierCell\": \"U12\", \"scrapingDataStartCell\": \"U13\", \"units\": \"Porcentaje de hogares\", \"dataset_identifier\": \"61\", \"distribution_identifier\": \"61.1\"}, {\"title\": \"hogares_indigentes_pct_gran_tucuman_tafi_viejo\", \"type\": \"number\", \"description\": \"Hogares con ingresos debajo de l\\u00ednea de indigencia (%) de 2001 a 2003. Gran Tucum\\u00e1n - Taf\\u00ed Viejo\", \"id\": \"61.1_GTTV_0_0_23\", \"scrapingIdentifierCell\": \"V12\", \"scrapingDataStartCell\": \"V13\", \"units\": \"Porcentaje de hogares\", \"dataset_identifier\": \"61\", \"distribution_identifier\": \"61.1\"}, {\"title\": \"hogares_indigentes_pct_gran_catamarca\", \"type\": \"number\", \"description\": \"Hogares con ingresos debajo de l\\u00ednea de indigencia (%) de 2001 a 2003. Gran Catamarca\", \"id\": \"61.1_GC_0_0_14\", \"scrapingIdentifierCell\": \"W12\", \"scrapingDataStartCell\": \"W13\", \"units\": \"Porcentaje de hogares\", \"dataset_identifier\": \"61\", \"distribution_identifier\": \"61.1\"}, {\"title\": \"hogares_indigentes_pct_jujuy_palpala\", \"type\": \"number\", \"description\": \"Hogares con ingresos debajo de l\\u00ednea de indigencia (%) de 2001 a 2003. Jujuy - Palpal\\u00e1\", \"id\": \"61.1_JP_0_0_13\", \"scrapingIdentifierCell\": \"X12\", \"scrapingDataStartCell\": \"X13\", \"units\": \"Porcentaje de hogares\", \"dataset_identifier\": \"61\", \"distribution_identifier\": \"61.1\"}, {\"title\": \"hogares_indigentes_pct_la_rioja\", \"type\": \"number\", \"description\": \"Hogares con ingresos debajo de l\\u00ednea de indigencia (%) de 2001 a 2003. La Rioja\", \"id\": \"61.1_LR_0_0_8\", \"scrapingIdentifierCell\": \"Y12\", \"scrapingDataStartCell\": \"Y13\", \"units\": \"Porcentaje de hogares\", \"dataset_identifier\": \"61\", \"distribution_identifier\": \"61.1\"}, {\"title\": \"hogares_indigentes_pct_salta\", \"type\": \"number\", \"description\": \"Hogares con ingresos debajo de l\\u00ednea de indigencia (%) de 2001 a 2003. Salta\", \"id\": \"61.1_S_0_0_5\", \"scrapingIdentifierCell\": \"Z12\", \"scrapingDataStartCell\": \"Z13\", \"units\": \"Porcentaje de hogares\", \"dataset_identifier\": \"61\", \"distribution_identifier\": \"61.1\"}, {\"title\": \"hogares_indigentes_pct_santiago_estero_la_banda\", \"type\": \"number\", \"description\": \"Hogares con ingresos debajo de l\\u00ednea de indigencia (%) de 2001 a 2003. Santiago del Estero - La Banda\", \"id\": \"61.1_SELB_0_0_24\", \"scrapingIdentifierCell\": \"AA12\", \"scrapingDataStartCell\": \"AA13\", \"units\": \"Porcentaje de hogares\", \"dataset_identifier\": \"61\", \"distribution_identifier\": \"61.1\"}, {\"title\": \"hogares_indigentes_pct_gran_cordoba\", \"type\": \"number\", \"description\": \"Hogares con ingresos debajo de l\\u00ednea de indigencia (%) de 2001 a 2003. Gran C\\u00f3rdoba\", \"id\": \"61.1_GC_0_0_12\", \"scrapingIdentifierCell\": \"AB12\", \"scrapingDataStartCell\": \"AB13\", \"units\": \"Porcentaje de hogares\", \"dataset_identifier\": \"61\", \"distribution_identifier\": \"61.1\"}, {\"title\": \"hogares_indigentes_pct_gran_la_plata\", \"type\": \"number\", \"description\": \"Hogares con ingresos debajo de l\\u00ednea de indigencia (%) de 2001 a 2003. Gran La Plata\", \"id\": \"61.1_GLP_0_0_13\", \"scrapingIdentifierCell\": \"AC12\", \"scrapingDataStartCell\": \"AC13\", \"units\": \"Porcentaje de hogares\", \"dataset_identifier\": \"61\", \"distribution_identifier\": \"61.1\"}, {\"title\": \"hogares_indigentes_pct_gran_rosario\", \"type\": \"number\", \"description\": \"Hogares con ingresos debajo de l\\u00ednea de indigencia (%) de 2001 a 2003. Gran Rosario\", \"id\": \"61.1_GR_0_0_12\", \"scrapingIdentifierCell\": \"AD12\", \"scrapingDataStartCell\": \"AD13\", \"units\": \"Porcentaje de hogares\", \"dataset_identifier\": \"61\", \"distribution_identifier\": \"61.1\"}, {\"title\": \"hogares_indigentes_pct_mar_plata_batan\", \"type\": \"number\", \"description\": \"Hogares con ingresos debajo de l\\u00ednea de indigencia (%) de 2001 a 2003. Mar del Plata - Bat\\u00e1n\", \"id\": \"61.1_MPB_0_0_15\", \"scrapingIdentifierCell\": \"AE12\", \"scrapingDataStartCell\": \"AE13\", \"units\": \"Porcentaje de hogares\", \"dataset_identifier\": \"61\", \"distribution_identifier\": \"61.1\"}, {\"title\": \"hogares_indigentes_pct_concordia\", \"type\": \"number\", \"description\": \"Hogares con ingresos debajo de l\\u00ednea de indigencia (%) de 2001 a 2003. Concordia\", \"id\": \"61.1_C_0_0_9\", \"scrapingIdentifierCell\": \"AF12\", \"scrapingDataStartCell\": \"AF13\", \"units\": \"Porcentaje de hogares\", \"dataset_identifier\": \"61\", \"distribution_identifier\": \"61.1\"}, {\"title\": \"hogares_indigentes_pct_bahia_blanca_cerri\", \"type\": \"number\", \"description\": \"Hogares con ingresos debajo de l\\u00ednea de indigencia (%) de 2001 a 2003. Bah\\u00eda Blanca - Cerri\", \"id\": \"61.1_BBC_0_0_18\", \"scrapingIdentifierCell\": \"AG12\", \"scrapingDataStartCell\": \"AG13\", \"units\": \"Porcentaje de hogares\", \"dataset_identifier\": \"61\", \"distribution_identifier\": \"61.1\"}, {\"title\": \"hogares_indigentes_pct_gran_parana\", \"type\": \"number\", \"description\": \"Hogares con ingresos debajo de l\\u00ednea de indigencia (%) de 2001 a 2003. Gran Paran\\u00e1\", \"id\": \"61.1_GP_0_0_11\", \"scrapingIdentifierCell\": \"AH12\", \"scrapingDataStartCell\": \"AH13\", \"units\": \"Porcentaje de hogares\", \"dataset_identifier\": \"61\", \"distribution_identifier\": \"61.1\"}, {\"title\": \"hogares_indigentes_pct_gran_santa_fe\", \"type\": \"number\", \"description\": \"Hogares con ingresos debajo de l\\u00ednea de indigencia (%) de 2001 a 2003. Gran Santa Fe\", \"id\": \"61.1_GSF_0_0_13\", \"scrapingIdentifierCell\": \"AI12\", \"scrapingDataStartCell\": \"AI13\", \"units\": \"Porcentaje de hogares\", \"dataset_identifier\": \"61\", \"distribution_identifier\": \"61.1\"}, {\"title\": \"hogares_indigentes_pct_rio_cuarto\", \"type\": \"number\", \"description\": \"Hogares con ingresos debajo de l\\u00ednea de indigencia (%) de 2001 a 2003. R\\u00edo Cuarto\", \"id\": \"61.1_RC_0_0_10\", \"scrapingIdentifierCell\": \"AJ12\", \"scrapingDataStartCell\": \"AJ13\", \"units\": \"Porcentaje de hogares\", \"dataset_identifier\": \"61\", \"distribution_identifier\": \"61.1\"}, {\"title\": \"hogares_indigentes_pct_santa_rosa_toay\", \"type\": \"number\", \"description\": \"Hogares con ingresos debajo de l\\u00ednea de indigencia (%) de 2001 a 2003. Santa Rosa - Toay\", \"id\": \"61.1_SRT_0_0_15\", \"scrapingIdentifierCell\": \"AK12\", \"scrapingDataStartCell\": \"AK13\", \"units\": \"Porcentaje de hogares\", \"dataset_identifier\": \"61\", \"distribution_identifier\": \"61.1\"}, {\"title\": \"hogares_indigentes_pct_san_nicolas_villa_constitucion\", \"type\": \"number\", \"description\": \"Hogares con ingresos debajo de l\\u00ednea de indigencia (%) de 2001 a 2003. San Nicol\\u00e1s - Villa Constituci\\u00f3n\", \"id\": \"61.1_SNVC_0_0_30\", \"scrapingIdentifierCell\": \"AL12\", \"scrapingDataStartCell\": \"AL13\", \"units\": \"Porcentaje de hogares\", \"dataset_identifier\": \"61\", \"distribution_identifier\": \"61.1\"}, {\"title\": \"hogares_indigentes_pct_comodoro_rivadavia_rada_tilly\", \"type\": \"number\", \"description\": \"Hogares con ingresos debajo de l\\u00ednea de indigencia (%) de 2001 a 2003. Comodoro Rivadavia - Rada Tilly\", \"id\": \"61.1_CRRT_0_0_29\", \"scrapingIdentifierCell\": \"AM12\", \"scrapingDataStartCell\": \"AM13\", \"units\": \"Porcentaje de hogares\", \"dataset_identifier\": \"61\", \"distribution_identifier\": \"61.1\"}, {\"title\": \"hogares_indigentes_pct_neuquen_plottier\", \"type\": \"number\", \"description\": \"Hogares con ingresos debajo de l\\u00ednea de indigencia (%) de 2001 a 2003. Neuqu\\u00e9n - Plottier\", \"id\": \"61.1_NP_0_0_16\", \"scrapingIdentifierCell\": \"AN12\", \"scrapingDataStartCell\": \"AN13\", \"units\": \"Porcentaje de hogares\", \"dataset_identifier\": \"61\", \"distribution_identifier\": \"61.1\"}, {\"title\": \"hogares_indigentes_pct_rio_gallegos\", \"type\": \"number\", \"description\": \"Hogares con ingresos debajo de l\\u00ednea de indigencia (%) de 2001 a 2003. R\\u00edo Gallegos\", \"id\": \"61.1_RG_0_0_12\", \"scrapingIdentifierCell\": \"AO12\", \"scrapingDataStartCell\": \"AO13\", \"units\": \"Porcentaje de hogares\", \"dataset_identifier\": \"61\", \"distribution_identifier\": \"61.1\"}, {\"title\": \"hogares_indigentes_pct_ushuaia_rio_grande\", \"type\": \"number\", \"description\": \"Hogares con ingresos debajo de l\\u00ednea de indigencia (%) de 2001 a 2003. Ushuaia - R\\u00edo Grande\", \"id\": \"61.1_URG_0_0_18\", \"scrapingIdentifierCell\": \"AP12\", \"scrapingDataStartCell\": \"AP13\", \"units\": \"Porcentaje de hogares\", \"dataset_identifier\": \"61\", \"distribution_identifier\": \"61.1\"}, {\"title\": \"hogares_indigentes_pct_rawson_trelew\", \"type\": \"number\", \"description\": \"Hogares con ingresos debajo de l\\u00ednea de indigencia (%) de 2001 a 2003. Rawson - Trelew\", \"id\": \"61.1_RT_0_0_13\", \"scrapingIdentifierCell\": \"AQ12\", \"scrapingDataStartCell\": \"AQ13\", \"units\": \"Porcentaje de hogares\", \"dataset_identifier\": \"61\", \"distribution_identifier\": \"61.1\"}, {\"title\": \"hogares_indigentes_pct_viedma_carmen_patagones\", \"type\": \"number\", \"description\": \"Hogares con ingresos debajo de l\\u00ednea de indigencia (%) de 2001 a 2003. Viedma - Carmen de Patagones\", \"id\": \"61.1_VCP_0_0_23\", \"scrapingIdentifierCell\": \"AR12\", \"scrapingDataStartCell\": \"AR13\", \"units\": \"Porcentaje de hogares\", \"dataset_identifier\": \"61\", \"distribution_identifier\": \"61.1\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-09-28T00:00:00",
+      "datastore_active": false,
+      "description": "Evolución de los hogares con ingresos por debajo de la línea de indigencia en porcentaje del total de hogares por regiones y aglomerados",
+      "fileName": "hogares-con-ingresos-por-debajo-linea-indigencia-eph-puntual-continua.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "sspm_61.1",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Hogares con ingresos por debajo de la línea de indigencia  EPH puntual y continua",
+      "package_id": "sspm_61",
+      "position": 0,
+      "resource_type": null,
+      "revision_id": "e1f2ffa8-5556-4d4e-a9bf-4ac38fa8d964",
+      "size": null,
+      "state": "active",
+      "url": "https://infra.datos.gob.ar/catalog/sspm/dataset/61/distribution/61.1/download/hogares-con-ingresos-por-debajo-linea-indigencia-eph-puntual-continua.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "e1f2ffa8-5556-4d4e-a9bf-4ac38fa8d964",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "Empleo e Ingresos",
+      "id": "0d41bcfd-c3a4-4ff7-8aa1-dd5c3ac51d0b",
+      "name": "Empleo e Ingresos",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Información Económica al Día",
+      "id": "0d300a9a-0802-46c3-9a40-2f28ddf050ec",
+      "name": "Información Económica al Día",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Hogares con ingresos por debajo de la línea de indigencia EPH puntual y continua",
+  "type": "dataset",
+  "url": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/",
+  "version": null
+}

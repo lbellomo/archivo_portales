@@ -1,0 +1,131 @@
+{
+  "author": "Subsecretaría de Programación Macroeconómica",
+  "author_email": "datoseconomicos@mecon.gov.ar",
+  "creator_user_id": "4720e75a-9e17-4dc3-879d-041917c7f9f9",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P1M"
+    },
+    {
+      "key": "issued",
+      "value": "2017-10-03"
+    },
+    {
+      "key": "language",
+      "value": "[\"SPA\"]"
+    },
+    {
+      "key": "source",
+      "value": "Ministerio de Hacienda"
+    },
+    {
+      "key": "spatial",
+      "value": "ARG"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"ECON\"]"
+    },
+    {
+      "key": "temporal",
+      "value": "2004-01-01/2017-01-01"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Economía y finanzas",
+      "display_name": "Economía y finanzas",
+      "id": "60b4b03e-10a1-4d67-b984-08008a249617",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225257.200233economia-finanzas.svg",
+      "name": "econ",
+      "title": "Economía y finanzas"
+    }
+  ],
+  "id": "sspm_189",
+  "isopen": true,
+  "license_id": "CC-BY-4.0",
+  "license_title": "Creative Commons Attribution 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "maintainer": "Subsecretaría de Programación Macroeconómica.",
+  "maintainer_email": "datoseconomicos@mecon.gov.ar",
+  "metadata_created": "2019-11-26T15:06:31.253600",
+  "metadata_modified": "2021-04-29T21:06:01.989931",
+  "name": "sspm-politica-ingresos-prestaciones-seguridad-social-anses",
+  "notes": "Prestaciones Previsionales de SIPA, por tipo. PUAM. AAFF por hijo e hijo discapacitado. Titulares de derecho de AUH-AUE. Titulares de derecho del PROG.R.ES.AR.. Prestaciones del Seguro por Desempleo. Datos de beneficios mensuales liquidados. Desde enero de 2009",
+  "num_resources": 1,
+  "num_tags": 3,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:09.718132",
+    "description": "",
+    "id": "68f9ee22-5ec3-44cf-a32b-b87d9db46b93",
+    "image_url": "",
+    "is_organization": true,
+    "name": "sspm",
+    "revision_id": "bc058ce0-3540-4204-96cd-9f9ec79045b3",
+    "state": "active",
+    "title": "Subsecretaría de Programación Macroeconómica",
+    "type": "organization"
+  },
+  "owner_org": "68f9ee22-5ec3-44cf-a32b-b87d9db46b93",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/",
+      "attributesDescription": "[{\"title\": \"indice_tiempo\", \"type\": \"date\", \"specialType\": \"time_index\", \"specialTypeDetail\": \"R/P1M\", \"id\": \"189.1_INDICE_TIEMPO_0_0_13\", \"scrapingIdentifierCell\": \"A10\", \"scrapingDataStartCell\": \"A11\", \"dataset_identifier\": \"189\", \"distribution_identifier\": \"189.1\"}, {\"title\": \"jubilaciones_sipa_transparencia\", \"type\": \"number\", \"description\": \"Jubilaciones de SIPA. ANSES-Transparencia. Mensuales\", \"id\": \"189.1_JUBILACIONINO_0_0_53\", \"scrapingIdentifierCell\": \"B10\", \"scrapingDataStartCell\": \"B11\", \"units\": \"Prestaciones\", \"dataset_identifier\": \"189\", \"distribution_identifier\": \"189.1\"}, {\"title\": \"pensiones_sipa_transparencia\", \"type\": \"number\", \"description\": \"Pensiones de SIPA. ANSES-Transparencia. Mensuales\", \"id\": \"189.1_PENSIONES_INO_0_0_49\", \"scrapingIdentifierCell\": \"C10\", \"scrapingDataStartCell\": \"C11\", \"units\": \"Prestaciones\", \"dataset_identifier\": \"189\", \"distribution_identifier\": \"189.1\"}, {\"title\": \"jubilaciones_pensiones_sipa\", \"type\": \"number\", \"description\": \"Total de Jubilaciones y Pensiones de SIPA. ANSES-Transparencia. Mensuales\", \"id\": \"189.1_TOTAL_JUBIINO_0_0_58\", \"scrapingIdentifierCell\": \"D10\", \"scrapingDataStartCell\": \"D11\", \"units\": \"Prestaciones\", \"dataset_identifier\": \"189\", \"distribution_identifier\": \"189.1\"}, {\"title\": \"asignacion_familiar_hijo_hijo_discapacitado\", \"type\": \"number\", \"description\": \"Asignaciones Familiares por Hijo o Hijo Discapacitado (AAFF). ANSES-Transparencia. Mensuales\", \"id\": \"189.1_ASIGNACIONADO_0_0_43\", \"scrapingIdentifierCell\": \"E10\", \"scrapingDataStartCell\": \"E11\", \"units\": \"Prestaciones\", \"dataset_identifier\": \"189\", \"distribution_identifier\": \"189.1\"}, {\"title\": \"asignacion_familiar_prenatal\", \"type\": \"number\", \"description\": \"Asignaciones Familiares por prenatal (AAFF). ANSES-Transparencia. Mensuales\", \"id\": \"189.1_ASIGNACIONTAL_0_0_28\", \"scrapingIdentifierCell\": \"F10\", \"scrapingDataStartCell\": \"F11\", \"units\": \"Prestaciones\", \"dataset_identifier\": \"189\", \"distribution_identifier\": \"189.1\"}, {\"title\": \"asignacion_universal_hijo_hijo_discapacitado_trasparencia\", \"type\": \"number\", \"description\": \"Asignaci\\u00f3n Universal por Hijo o Hijo Discapacitado (AUH). ANSES-Transparencia. Mensuales\", \"id\": \"189.1_ASIGNACIONADO_0_0_44\", \"scrapingIdentifierCell\": \"G10\", \"scrapingDataStartCell\": \"G11\", \"units\": \"Prestaciones\", \"dataset_identifier\": \"189\", \"distribution_identifier\": \"189.1\"}, {\"title\": \"asignacion_universal_por_embarazo\", \"type\": \"number\", \"description\": \"Asignaci\\u00f3n Universal por Embarazo (AUE). ANSES-Transparencia. Mensuales\", \"id\": \"189.1_ASIGNACIONAZO_0_0_33\", \"scrapingIdentifierCell\": \"H10\", \"scrapingDataStartCell\": \"H11\", \"units\": \"Prestaciones\", \"dataset_identifier\": \"189\", \"distribution_identifier\": \"189.1\"}, {\"title\": \"titulares_progresar\", \"type\": \"number\", \"description\": \"Titulares de PROG.R.ES.AR. ANSES-Transparencia. Mensuales\", \"id\": \"189.1_TITULARES_SAR_0_0_19\", \"scrapingIdentifierCell\": \"I10\", \"scrapingDataStartCell\": \"I11\", \"units\": \"Prestaciones\", \"dataset_identifier\": \"189\", \"distribution_identifier\": \"189.1\"}, {\"title\": \"jubilaciones_sipa_datos_abiertos\", \"type\": \"number\", \"description\": \"Jubilaciones de SIPA. ANSES-Abiertos. Mensuales\", \"id\": \"189.1_JUBILACIONINO_2_0_0_53\", \"scrapingIdentifierCell\": \"J10\", \"scrapingDataStartCell\": \"J11\", \"units\": \"Prestaciones\", \"dataset_identifier\": \"189\", \"distribution_identifier\": \"189.1\"}, {\"title\": \"pensiones_sipa_datos_abiertos\", \"type\": \"number\", \"description\": \"Pensiones de SIPA. ANSES-Abiertos. Mensuales\", \"id\": \"189.1_PENSIONES_INO_INT_0_0_49\", \"scrapingIdentifierCell\": \"K10\", \"scrapingDataStartCell\": \"K11\", \"units\": \"Prestaciones\", \"dataset_identifier\": \"189\", \"distribution_identifier\": \"189.1\"}, {\"title\": \"total_jubilaciones_pensiones_sipa_datos_abiertos\", \"type\": \"number\", \"description\": \"Total de Jubilaciones y Pensiones de SIPA. ANSES-Abiertos. Mensuales\", \"id\": \"189.1_TOTAL_JUBIINO_2_0_0_58\", \"scrapingIdentifierCell\": \"L10\", \"scrapingDataStartCell\": \"L11\", \"units\": \"Prestaciones\", \"dataset_identifier\": \"189\", \"distribution_identifier\": \"189.1\"}, {\"title\": \"pension_universal_adulto_mayor\", \"type\": \"number\", \"description\": \"Pensi\\u00f3n Universal para el Adulto Mayor (PUAM). ANSES-Abiertos. Mensuales\", \"id\": \"189.1_PENSION_UNYOR_0_0_30\", \"scrapingIdentifierCell\": \"M10\", \"scrapingDataStartCell\": \"M11\", \"units\": \"Prestaciones\", \"dataset_identifier\": \"189\", \"distribution_identifier\": \"189.1\"}, {\"title\": \"asignacion_familiar_hijo_discapacitado\", \"type\": \"number\", \"description\": \"Asignaciones Familiares por Hijo o Hijo Discapacitado (AAFF). ANSES-Abiertos. Mensuales\", \"id\": \"189.1_ASIGNACIONADO_II_0_0_43\", \"scrapingIdentifierCell\": \"N10\", \"scrapingDataStartCell\": \"N11\", \"units\": \"Prestaciones\", \"dataset_identifier\": \"189\", \"distribution_identifier\": \"189.1\"}, {\"title\": \"asignacion_familiar_prenatal_datos_abiertos\", \"type\": \"number\", \"description\": \"Asignaciones Familiares por prenatal (AAFF). ANSES-Abiertos. Mensuales\", \"id\": \"189.1_ASIGNACIONTAL_II_0_0_28\", \"scrapingIdentifierCell\": \"O10\", \"scrapingDataStartCell\": \"O11\", \"units\": \"Prestaciones\", \"dataset_identifier\": \"189\", \"distribution_identifier\": \"189.1\"}, {\"title\": \"asignacion_universal_hijo_hijo_discapacitado_datos_abiertos\", \"type\": \"number\", \"description\": \"Asignaci\\u00f3n Universal por Hijo o Hijo Discapacitado (AUH). ANSES-Abiertos. Mensuales\", \"id\": \"189.1_ASIGNACIONADO_II_0_0_44\", \"scrapingIdentifierCell\": \"P10\", \"scrapingDataStartCell\": \"P11\", \"units\": \"Prestaciones\", \"dataset_identifier\": \"189\", \"distribution_identifier\": \"189.1\"}, {\"title\": \"asignacion_universal_embarazo\", \"type\": \"number\", \"description\": \"Asignaci\\u00f3n Universal por Embarazo (AUE). ANSES-Abiertos. Mensuales\", \"id\": \"189.1_ASIGNACIONAZO_0_0_29\", \"scrapingIdentifierCell\": \"Q10\", \"scrapingDataStartCell\": \"Q11\", \"units\": \"Prestaciones\", \"dataset_identifier\": \"189\", \"distribution_identifier\": \"189.1\"}, {\"title\": \"prestaciones_seguro_desempleo\", \"type\": \"number\", \"description\": \"Prestaciones del Seguro por Desempleo. ANSES-Abiertos. Mensuales\", \"id\": \"189.1_PRESTACIONLEO_0_0_29\", \"scrapingIdentifierCell\": \"R10\", \"scrapingDataStartCell\": \"R11\", \"units\": \"Prestaciones\", \"dataset_identifier\": \"189\", \"distribution_identifier\": \"189.1\"}, {\"title\": \"ninios_adp\", \"type\": \"number\", \"description\": \"Poblaci\\u00f3n total menor de 18 a\\u00f1os en el Administrador de De Personas (ADP). ANSES-Bolet\\u00edn mensual de AUH. Mensuales\", \"id\": \"189.1_NINIOS_ADPADP_0_0_10\", \"scrapingIdentifierCell\": \"S10\", \"scrapingDataStartCell\": \"S11\", \"units\": \"Prestaciones\", \"dataset_identifier\": \"189\", \"distribution_identifier\": \"189.1\"}, {\"title\": \"total_aaff_auh\", \"type\": \"number\", \"description\": \"Total asignaciones familiares y universales por hijo o hijo discapacitado. ANSES-Bolet\\u00edn mensual de AUH. Mensuales\", \"id\": \"189.1_TOTAL_AAFFAUH_0_0_14\", \"scrapingIdentifierCell\": \"T10\", \"scrapingDataStartCell\": \"T11\", \"units\": \"Prestaciones\", \"dataset_identifier\": \"189\", \"distribution_identifier\": \"189.1\"}, {\"title\": \"asignacion_universal_hijo_monotributo_social\", \"type\": \"number\", \"description\": \"Asignaci\\u00f3n Universal por Hijo o Hijo Discapacitado seg\\u00fan condici\\u00f3n del adulto asociado. Monotributo Social. ANSES-Bolet\\u00edn Mensual de AUH. Mensuales\", \"id\": \"189.1_ASIGNACIONIAL_0_0_44\", \"scrapingIdentifierCell\": \"U10\", \"scrapingDataStartCell\": \"U11\", \"units\": \"Prestaciones\", \"dataset_identifier\": \"189\", \"distribution_identifier\": \"189.1\"}, {\"title\": \"asignacion_universal_hijo_servicio_domestico\", \"type\": \"number\", \"description\": \"Asignaci\\u00f3n Universal por Hijo o Hijo Discapacitado seg\\u00fan condici\\u00f3n del adulto asociado. Servicio Dom\\u00e9stico. ANSES-Bolet\\u00edn Mensual de AUH. Mensuales\", \"id\": \"189.1_ASIGNACIONICO_0_0_44\", \"scrapingIdentifierCell\": \"V10\", \"scrapingDataStartCell\": \"V11\", \"units\": \"Prestaciones\", \"dataset_identifier\": \"189\", \"distribution_identifier\": \"189.1\"}, {\"title\": \"asignacion_universal_hijo_monotributo_soc_servicio_domestico\", \"type\": \"number\", \"description\": \"Asignaci\\u00f3n Universal por Hijo o Hijo Discapacitado seg\\u00fan condici\\u00f3n del adulto asociado. Monotributo Social o Servicio Dom\\u00e9stico. ANSES-Bolet\\u00edn Mensual de AUH. Mensuales\", \"id\": \"189.1_ASIGNACIONICO_0_0_60\", \"scrapingIdentifierCell\": \"W10\", \"scrapingDataStartCell\": \"W11\", \"units\": \"Prestaciones\", \"dataset_identifier\": \"189\", \"distribution_identifier\": \"189.1\"}, {\"title\": \"asignacion_universal_hijo_otra_condicion\", \"type\": \"number\", \"description\": \"Asignaci\\u00f3n Universal por Hijo o Hijo Discapacitado seg\\u00fan condici\\u00f3n del adulto asociado. Otras condiciones. ANSES-Bolet\\u00edn Mensual de AUH. Mensuales\", \"id\": \"189.1_ASIGNACIONION_0_0_40\", \"scrapingIdentifierCell\": \"X10\", \"scrapingDataStartCell\": \"X11\", \"units\": \"Prestaciones\", \"dataset_identifier\": \"189\", \"distribution_identifier\": \"189.1\"}, {\"title\": \"total_auh\", \"type\": \"number\", \"description\": \"Total Asignaci\\u00f3n Universal por Hijo o Hijo Discapacitado. Otras condiciones. ANSES-Bolet\\u00edn Mensual de AUH. Mensuales\", \"id\": \"189.1_TOTAL_AUHAUH_0_0_9\", \"scrapingIdentifierCell\": \"Y10\", \"scrapingDataStartCell\": \"Y11\", \"units\": \"Prestaciones\", \"dataset_identifier\": \"189\", \"distribution_identifier\": \"189.1\"}, {\"title\": \"asignaciones_familiares_suaf_relacion_dependencia\", \"type\": \"number\", \"description\": \"AAFF por Hijo o Hijo Discapacitado seg\\u00fan condici\\u00f3n del adulto asociado. SUAF-Relaci\\u00f3n de dependencia. ANSES-Bolet\\u00edn Mensual de AUH. Mensuales\", \"id\": \"189.1_ASIGNACIONCIA_0_0_49\", \"scrapingIdentifierCell\": \"Z10\", \"scrapingDataStartCell\": \"Z11\", \"units\": \"Prestaciones\", \"dataset_identifier\": \"189\", \"distribution_identifier\": \"189.1\"}, {\"title\": \"asignaciones_familiares_suaf_monotributo\", \"type\": \"number\", \"description\": \"AAFF por Hijo o Hijo Discapacitado seg\\u00fan condici\\u00f3n del adulto asociado. SUAF-Monotributo. ANSES-Bolet\\u00edn Mensual de AUH. Mensuales\", \"id\": \"189.1_ASIGNACIONUTO_0_0_40\", \"scrapingIdentifierCell\": \"AA10\", \"scrapingDataStartCell\": \"AA11\", \"units\": \"Prestaciones\", \"dataset_identifier\": \"189\", \"distribution_identifier\": \"189.1\"}, {\"title\": \"asignaciones_familiares_desempleo\", \"type\": \"number\", \"description\": \"AAFF por Hijo o Hijo Discapacitado seg\\u00fan condici\\u00f3n del adulto asociado. Desempleo. ANSES-Bolet\\u00edn Mensual de AUH. Mensuales\", \"id\": \"189.1_ASIGNACIONLEO_0_0_33\", \"scrapingIdentifierCell\": \"AB10\", \"scrapingDataStartCell\": \"AB11\", \"units\": \"Prestaciones\", \"dataset_identifier\": \"189\", \"distribution_identifier\": \"189.1\"}, {\"title\": \"asignaciones_familiares_pasivos_sipa\", \"type\": \"number\", \"description\": \"AAFF por Hijo o Hijo Discapacitado seg\\u00fan condici\\u00f3n del adulto asociado. Pasivos-SIPA. ANSES-Bolet\\u00edn Mensual de AUH. Mensuales\", \"id\": \"189.1_ASIGNACIONIPA_0_0_36\", \"scrapingIdentifierCell\": \"AC10\", \"scrapingDataStartCell\": \"AC11\", \"units\": \"Prestaciones\", \"dataset_identifier\": \"189\", \"distribution_identifier\": \"189.1\"}, {\"title\": \"asignaciones_familiares_pasivos_ex_combatientes\", \"type\": \"number\", \"description\": \"AAFF por Hijo o Hijo Discapacitado seg\\u00fan condici\\u00f3n del adulto asociado. Pasivos-Ex combatientes. ANSES-Bolet\\u00edn Mensual de AUH. Mensuales\", \"id\": \"189.1_ASIGNACIONTES_0_0_47\", \"scrapingIdentifierCell\": \"AD10\", \"scrapingDataStartCell\": \"AD11\", \"units\": \"Prestaciones\", \"dataset_identifier\": \"189\", \"distribution_identifier\": \"189.1\"}, {\"title\": \"asignaciones_familiares_pasivos_pension_no_contributiva\", \"type\": \"number\", \"description\": \"AAFF por Hijo o Hijo Discapacitado seg\\u00fan condici\\u00f3n del adulto asociado. Pasivos-PNC. ANSES-Bolet\\u00edn Mensual de AUH. Mensuales\", \"id\": \"189.1_ASIGNACIONIVA_0_0_55\", \"scrapingIdentifierCell\": \"AE10\", \"scrapingDataStartCell\": \"AE11\", \"units\": \"Prestaciones\", \"dataset_identifier\": \"189\", \"distribution_identifier\": \"189.1\"}, {\"title\": \"total_aaff\", \"type\": \"number\", \"description\": \"Total AAFF por Hijo o Hijo Discapacitado. ANSES-Bolet\\u00edn Mensual de AUH. Mensuales\", \"id\": \"189.1_TOTAL_AAFFAFF_0_0_10\", \"scrapingIdentifierCell\": \"AF10\", \"scrapingDataStartCell\": \"AF11\", \"units\": \"Prestaciones\", \"dataset_identifier\": \"189\", \"distribution_identifier\": \"189.1\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-10-03T00:00:00",
+      "datastore_active": false,
+      "description": "Prestaciones Previsionales de SIPA, por tipo. PUAM. AAFF por hijo e hijo discapacitado. Titulares de derecho de AUH-AUE. Titulares de derecho del PROG.R.ES.AR.. Prestaciones del Seguro por Desempleo. Datos de beneficios mensuales liquidados. Desde enero de 2009",
+      "fileName": "prestaciones-previsionales-sipa-por-tipo.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "sspm_189.1",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Política de Ingresos. Prestaciones de la seguridad social. ANSES",
+      "package_id": "sspm_189",
+      "position": 0,
+      "resource_type": null,
+      "revision_id": "ba445b7e-c1fa-4436-b49e-bbfc1b6de67f",
+      "size": null,
+      "state": "active",
+      "url": "https://infra.datos.gob.ar/catalog/sspm/dataset/189/distribution/189.1/download/prestaciones-previsionales-sipa-por-tipo.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "ba445b7e-c1fa-4436-b49e-bbfc1b6de67f",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "Empleo e Ingresos",
+      "id": "0d41bcfd-c3a4-4ff7-8aa1-dd5c3ac51d0b",
+      "name": "Empleo e Ingresos",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Finanzas Públicas",
+      "id": "e26a31cd-920a-4bea-8a0a-d690d5fdf16f",
+      "name": "Finanzas Públicas",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Información Económica al Día",
+      "id": "0d300a9a-0802-46c3-9a40-2f28ddf050ec",
+      "name": "Información Económica al Día",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Política de Ingresos. Prestaciones de la seguridad social. ANSES",
+  "type": "dataset",
+  "url": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/",
+  "version": null
+}

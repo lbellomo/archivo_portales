@@ -1,0 +1,156 @@
+{
+  "author": "Subsecretaría de Programación Macroeconómica",
+  "author_email": "datoseconomicos@mecon.gov.ar",
+  "creator_user_id": "4720e75a-9e17-4dc3-879d-041917c7f9f9",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P3M"
+    },
+    {
+      "key": "issued",
+      "value": "2017-09-28"
+    },
+    {
+      "key": "language",
+      "value": "[\"SPA\"]"
+    },
+    {
+      "key": "source",
+      "value": "Instituto Nacional de Estadística y Censos (INDEC)"
+    },
+    {
+      "key": "spatial",
+      "value": "ARG"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"ECON\"]"
+    },
+    {
+      "key": "temporal",
+      "value": "1993-01-01/2013-07-01"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Economía y finanzas",
+      "display_name": "Economía y finanzas",
+      "id": "60b4b03e-10a1-4d67-b984-08008a249617",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225257.200233economia-finanzas.svg",
+      "name": "econ",
+      "title": "Economía y finanzas"
+    }
+  ],
+  "id": "sspm_166",
+  "isopen": true,
+  "license_id": "CC-BY-4.0",
+  "license_title": "Creative Commons Attribution 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "maintainer": "Subsecretaría de Programación Macroeconómica.",
+  "maintainer_email": "datoseconomicos@mecon.gov.ar",
+  "metadata_created": "2019-11-26T15:05:13.965365",
+  "metadata_modified": "2021-04-29T21:06:00.060191",
+  "name": "sspm-ingreso-nacional-ahorro-nacional-prestamo-neto",
+  "notes": "Ingreso nacional, Ahorro nacional y Préstamo neto. Millones de pesos a precios corrientes. Trimestral",
+  "num_resources": 2,
+  "num_tags": 3,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:09.718132",
+    "description": "",
+    "id": "68f9ee22-5ec3-44cf-a32b-b87d9db46b93",
+    "image_url": "",
+    "is_organization": true,
+    "name": "sspm",
+    "revision_id": "bc058ce0-3540-4204-96cd-9f9ec79045b3",
+    "state": "active",
+    "title": "Subsecretaría de Programación Macroeconómica",
+    "type": "organization"
+  },
+  "owner_org": "68f9ee22-5ec3-44cf-a32b-b87d9db46b93",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/",
+      "attributesDescription": "[{\"title\": \"indice_tiempo\", \"type\": \"date\", \"specialType\": \"time_index\", \"specialTypeDetail\": \"R/P1Y\", \"id\": \"166.1_ICE_TIEMPO_0_0_13\", \"scrapingIdentifierCell\": \"A8\", \"scrapingDataStartCell\": \"A9\", \"dataset_identifier\": \"166\", \"distribution_identifier\": \"166.1\"}, {\"title\": \"cons_nac_priv\", \"type\": \"number\", \"description\": \"Consumo nacional privado\", \"id\": \"166.1_C_NAC_PRIV_0_0_13\", \"scrapingIdentifierCell\": \"B8\", \"scrapingDataStartCell\": \"B9\", \"units\": \"Millones de Pesos\", \"dataset_identifier\": \"166\", \"distribution_identifier\": \"166.1\"}, {\"title\": \"cons_pub\", \"type\": \"number\", \"description\": \"Consumo p\\u00fablico\", \"id\": \"166.1_C_PUBPUB_0_0_8\", \"scrapingIdentifierCell\": \"C8\", \"scrapingDataStartCell\": \"C9\", \"units\": \"Millones de Pesos\", \"dataset_identifier\": \"166\", \"distribution_identifier\": \"166.1\"}, {\"title\": \"form_bruta_cap_fijo\", \"type\": \"number\", \"description\": \"Formaci\\u00f3n bruta de capital fijo\", \"id\": \"166.1_F_BRUTAIJO_0_0_19\", \"scrapingIdentifierCell\": \"D8\", \"scrapingDataStartCell\": \"D9\", \"units\": \"Millones de Pesos\", \"dataset_identifier\": \"166\", \"distribution_identifier\": \"166.1\"}, {\"title\": \"var_existencias\", \"type\": \"number\", \"description\": \"Variaci\\u00f3n de existencias\", \"id\": \"166.1_VEXISTEIAS_0_0_15\", \"scrapingIdentifierCell\": \"E8\", \"scrapingDataStartCell\": \"E9\", \"units\": \"Millones de Pesos\", \"dataset_identifier\": \"166\", \"distribution_identifier\": \"166.1\"}, {\"title\": \"objetos_valiosos\", \"type\": \"number\", \"description\": \"Objetos valiosos\", \"id\": \"166.1_OBJETOS_VASOS_A_0_0_16_13\", \"scrapingIdentifierCell\": \"F8\", \"scrapingDataStartCell\": \"F9\", \"units\": \"Millones de Pesos\", \"dataset_identifier\": \"166\", \"distribution_identifier\": \"166.1\"}, {\"title\": \"disc_estadistica\", \"type\": \"number\", \"description\": \"Discrepancia estad\\u00edstica\", \"id\": \"166.1_DISC_ESTADICA_A_0_0_16_46\", \"scrapingIdentifierCell\": \"G8\", \"scrapingDataStartCell\": \"G9\", \"units\": \"Millones de Pesos\", \"dataset_identifier\": \"166\", \"distribution_identifier\": \"166.1\"}, {\"title\": \"expo_bienes_serv\", \"type\": \"number\", \"description\": \"Exportaciones de bienes y servicios\", \"id\": \"166.1_E_BIENEERV_0_0_16\", \"scrapingIdentifierCell\": \"H8\", \"scrapingDataStartCell\": \"H9\", \"units\": \"Millones de Pesos\", \"dataset_identifier\": \"166\", \"distribution_identifier\": \"166.1\"}, {\"title\": \"impo_bienes_serv\", \"type\": \"number\", \"description\": \"Importaciones de bienes y servicios\", \"id\": \"166.1_I_BIENEERV_0_0_16\", \"scrapingIdentifierCell\": \"I8\", \"scrapingDataStartCell\": \"I9\", \"units\": \"Millones de Pesos\", \"dataset_identifier\": \"166\", \"distribution_identifier\": \"166.1\"}, {\"title\": \"pib\", \"type\": \"number\", \"description\": \"Producto interno bruto\", \"id\": \"166.1_PPIB_0_0_3\", \"scrapingIdentifierCell\": \"J8\", \"scrapingDataStartCell\": \"J9\", \"units\": \"Millones de Pesos\", \"dataset_identifier\": \"166\", \"distribution_identifier\": \"166.1\"}, {\"title\": \"rentas_netas_factores_ext\", \"type\": \"number\", \"description\": \"Rentas netas de factores del exterior\", \"id\": \"166.1_RAS_NETEXT_0_0_25\", \"scrapingIdentifierCell\": \"K8\", \"scrapingDataStartCell\": \"K9\", \"units\": \"Millones de Pesos\", \"dataset_identifier\": \"166\", \"distribution_identifier\": \"166.1\"}, {\"title\": \"rentas_inv_cobrar\", \"type\": \"number\", \"description\": \"Rentas de la inversi\\u00f3n por cobrar\", \"id\": \"166.1_RAS_INVRAR_0_0_17\", \"scrapingIdentifierCell\": \"L8\", \"scrapingDataStartCell\": \"L9\", \"units\": \"Millones de Pesos\", \"dataset_identifier\": \"166\", \"distribution_identifier\": \"166.1\"}, {\"title\": \"rentas_inv_pagar\", \"type\": \"number\", \"description\": \"Rentas de la inversi\\u00f3n por pagar\", \"id\": \"166.1_RAS_INVGAR_0_0_16\", \"scrapingIdentifierCell\": \"M8\", \"scrapingDataStartCell\": \"M9\", \"units\": \"Millones de Pesos\", \"dataset_identifier\": \"166\", \"distribution_identifier\": \"166.1\"}, {\"title\": \"otras_rentas\", \"type\": \"number\", \"description\": \"Otras rentas\", \"id\": \"166.1_OS_RENTTAS_0_0_12\", \"scrapingIdentifierCell\": \"N8\", \"scrapingDataStartCell\": \"N9\", \"units\": \"Millones de Pesos\", \"dataset_identifier\": \"166\", \"distribution_identifier\": \"166.1\"}, {\"title\": \"ing_nac_bruto_precios_mercado\", \"type\": \"number\", \"description\": \"Ingreso nacional bruto a precios de mercado\", \"id\": \"166.1_INAC_BRADO_0_0_29\", \"scrapingIdentifierCell\": \"O8\", \"scrapingDataStartCell\": \"O9\", \"units\": \"Millones de Pesos\", \"dataset_identifier\": \"166\", \"distribution_identifier\": \"166.1\"}, {\"title\": \"transf_corr_netas_ext\", \"type\": \"number\", \"description\": \"Transferencias corrientes netas del exterior\", \"id\": \"166.1_TSF_COREXT_0_0_21\", \"scrapingIdentifierCell\": \"P8\", \"scrapingDataStartCell\": \"P9\", \"units\": \"Millones de Pesos\", \"dataset_identifier\": \"166\", \"distribution_identifier\": \"166.1\"}, {\"title\": \"ing_nac_bruto_disp_pm\", \"type\": \"number\", \"description\": \"Ingreso nacional bruto disponible a precios de mercado\", \"id\": \"166.1_INAC_BR_PM_0_0_21\", \"scrapingIdentifierCell\": \"Q8\", \"scrapingDataStartCell\": \"Q9\", \"units\": \"Millones de Pesos\", \"dataset_identifier\": \"166\", \"distribution_identifier\": \"166.1\"}, {\"title\": \"cons_efectivo_total_priv_pub\", \"type\": \"number\", \"description\": \"Consumo efectivo total privado y publico\", \"id\": \"166.1_C_EFECTPUB_0_0_28\", \"scrapingIdentifierCell\": \"R8\", \"scrapingDataStartCell\": \"R9\", \"units\": \"Millones de Pesos\", \"dataset_identifier\": \"166\", \"distribution_identifier\": \"166.1\"}, {\"title\": \"ahorro_nac_bruto\", \"type\": \"number\", \"description\": \"Ahorro nacional bruto\", \"id\": \"166.1_ARO_NACUTO_0_0_16\", \"scrapingIdentifierCell\": \"S8\", \"scrapingDataStartCell\": \"S9\", \"units\": \"Millones de Pesos\", \"dataset_identifier\": \"166\", \"distribution_identifier\": \"166.1\"}, {\"title\": \"transf_cap_netas\", \"type\": \"number\", \"description\": \"Transferencias de capital netas\", \"id\": \"166.1_TSF_CAPTAS_0_0_16\", \"scrapingIdentifierCell\": \"T8\", \"scrapingDataStartCell\": \"T9\", \"units\": \"Millones de Pesos\", \"dataset_identifier\": \"166\", \"distribution_identifier\": \"166.1\"}, {\"title\": \"var_patri_neto_debidas_ahorro_transf_cap\", \"type\": \"number\", \"description\": \"Variaciones del patrimonio neto debidas al ahorro y a las transferencias de capital\", \"id\": \"166.1_VPATRI_CAP_0_0_40\", \"scrapingIdentifierCell\": \"U8\", \"scrapingDataStartCell\": \"U9\", \"units\": \"Millones de Pesos\", \"dataset_identifier\": \"166\", \"distribution_identifier\": \"166.1\"}, {\"title\": \"form_bruta_cap_fbc_fijo_var_exist_obj_val\", \"type\": \"number\", \"description\": \"Formacion bruta de capital fijo m\\u00e1s variaciones de existencias m\\u00e1s objetos valiosos\", \"id\": \"166.1_F_BRUTAIST_0_0_33\", \"scrapingIdentifierCell\": \"V8\", \"scrapingDataStartCell\": \"V9\", \"units\": \"Millones de Pesos\", \"dataset_identifier\": \"166\", \"distribution_identifier\": \"166.1\"}, {\"title\": \"adqui_menos_dispo_activos_no_finan_no_producidos\", \"type\": \"number\", \"description\": \"Adquisiciones menos disposiciones de activos no financieros no producidos\", \"id\": \"166.1_AI_MENODOS_0_0_48\", \"scrapingIdentifierCell\": \"X8\", \"scrapingDataStartCell\": \"X9\", \"units\": \"Millones de Pesos\", \"dataset_identifier\": \"166\", \"distribution_identifier\": \"166.1\"}, {\"title\": \"prest_endeudamiento_neto\", \"type\": \"number\", \"description\": \"Pr\\u00e9stamo / Endeudamiento Neto\", \"id\": \"166.1_PT_ENDEETO_0_0_24\", \"scrapingIdentifierCell\": \"Y8\", \"scrapingDataStartCell\": \"Y9\", \"units\": \"Millones de Pesos\", \"dataset_identifier\": \"166\", \"distribution_identifier\": \"166.1\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-09-28T00:00:00",
+      "datastore_active": false,
+      "description": "Ingreso nacional, Ahorro nacional y Préstamo neto en millones de pesos a precios corrientes. Anual",
+      "fileName": "ingreso-ahorro-nacional-prestamo-neto-millones-pesos-precios-corrientes.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "sspm_166.1",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Ingreso nacional, Ahorro nacional y Préstamo neto. Millones de pesos.  Precios corrientes. Datos anuales",
+      "package_id": "sspm_166",
+      "position": 0,
+      "resource_type": null,
+      "revision_id": "63d97b34-ee5c-4034-8574-49b38f9fa777",
+      "size": null,
+      "state": "active",
+      "url": "https://infra.datos.gob.ar/catalog/sspm/dataset/166/distribution/166.1/download/ingreso-ahorro-nacional-prestamo-neto-millones-pesos-precios-corrientes.csv",
+      "url_type": null
+    },
+    {
+      "accessURL": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/",
+      "attributesDescription": "[{\"title\": \"indice_tiempo\", \"type\": \"date\", \"specialType\": \"time_index\", \"specialTypeDetail\": \"R/P3M\", \"id\": \"166.2_ICE_TIEMPO_0_0_13\", \"scrapingIdentifierCell\": \"A49\", \"scrapingDataStartCell\": \"A50\", \"dataset_identifier\": \"166\", \"distribution_identifier\": \"166.2\"}, {\"title\": \"cons_nac_priv\", \"type\": \"number\", \"description\": \"Consumo nacional privado\", \"id\": \"166.2_C_NAC_PRIV_0_0_13\", \"scrapingIdentifierCell\": \"B49\", \"scrapingDataStartCell\": \"B50\", \"units\": \"Millones de Pesos\", \"dataset_identifier\": \"166\", \"distribution_identifier\": \"166.2\"}, {\"title\": \"cons_pub\", \"type\": \"number\", \"description\": \"Consumo p\\u00fablico\", \"id\": \"166.2_C_PUBPUB_0_0_8\", \"scrapingIdentifierCell\": \"C49\", \"scrapingDataStartCell\": \"C50\", \"units\": \"Millones de Pesos\", \"dataset_identifier\": \"166\", \"distribution_identifier\": \"166.2\"}, {\"title\": \"form_bruta_cap_fijo\", \"type\": \"number\", \"description\": \"Formaci\\u00f3n bruta de capital fijo\", \"id\": \"166.2_F_BRUTAIJO_0_0_19\", \"scrapingIdentifierCell\": \"D49\", \"scrapingDataStartCell\": \"D50\", \"units\": \"Millones de Pesos\", \"dataset_identifier\": \"166\", \"distribution_identifier\": \"166.2\"}, {\"title\": \"var_existencias\", \"type\": \"number\", \"description\": \"Variaci\\u00f3n de existencias\", \"id\": \"166.2_VEXISTEIAS_0_0_15\", \"scrapingIdentifierCell\": \"E49\", \"scrapingDataStartCell\": \"E50\", \"units\": \"Millones de Pesos\", \"dataset_identifier\": \"166\", \"distribution_identifier\": \"166.2\"}, {\"title\": \"objetos_valiosos\", \"type\": \"number\", \"description\": \"Objetos valiosos\", \"id\": \"166.2_OBJETOS_VASOS_T_0_0_16_70\", \"scrapingIdentifierCell\": \"F49\", \"scrapingDataStartCell\": \"F50\", \"units\": \"Millones de Pesos\", \"dataset_identifier\": \"166\", \"distribution_identifier\": \"166.2\"}, {\"title\": \"disc_estadistica\", \"type\": \"number\", \"description\": \"Discrepancia estad\\u00edstica\", \"id\": \"166.2_DISC_ESTADICA_T_0_0_16_59\", \"scrapingIdentifierCell\": \"G49\", \"scrapingDataStartCell\": \"G50\", \"units\": \"Millones de Pesos\", \"dataset_identifier\": \"166\", \"distribution_identifier\": \"166.2\"}, {\"title\": \"expo_bienes_serv\", \"type\": \"number\", \"description\": \"Exportaciones de bienes y servicios\", \"id\": \"166.2_E_BIENEERV_0_0_16\", \"scrapingIdentifierCell\": \"H49\", \"scrapingDataStartCell\": \"H50\", \"units\": \"Millones de Pesos\", \"dataset_identifier\": \"166\", \"distribution_identifier\": \"166.2\"}, {\"title\": \"impo_bienes_serv\", \"type\": \"number\", \"description\": \"Importaciones de bienes y servicios\", \"id\": \"166.2_I_BIENEERV_0_0_16\", \"scrapingIdentifierCell\": \"I49\", \"scrapingDataStartCell\": \"I50\", \"units\": \"Millones de Pesos\", \"dataset_identifier\": \"166\", \"distribution_identifier\": \"166.2\"}, {\"title\": \"pib\", \"type\": \"number\", \"description\": \"Producto interno bruto\", \"id\": \"166.2_PPIB_0_0_3\", \"scrapingIdentifierCell\": \"J49\", \"scrapingDataStartCell\": \"J50\", \"units\": \"Millones de Pesos\", \"dataset_identifier\": \"166\", \"distribution_identifier\": \"166.2\"}, {\"title\": \"rentas_netas_factores_ext\", \"type\": \"number\", \"description\": \"Rentas netas de factores del exterior\", \"id\": \"166.2_RAS_NETEXT_0_0_25\", \"scrapingIdentifierCell\": \"K49\", \"scrapingDataStartCell\": \"K50\", \"units\": \"Millones de Pesos\", \"dataset_identifier\": \"166\", \"distribution_identifier\": \"166.2\"}, {\"title\": \"rentas_inv_cobrar\", \"type\": \"number\", \"description\": \"Rentas de la inversi\\u00f3n por cobrar\", \"id\": \"166.2_RAS_INVRAR_0_0_17\", \"scrapingIdentifierCell\": \"L49\", \"scrapingDataStartCell\": \"L50\", \"units\": \"Millones de Pesos\", \"dataset_identifier\": \"166\", \"distribution_identifier\": \"166.2\"}, {\"title\": \"rentas_inv_pagar\", \"type\": \"number\", \"description\": \"Rentas de la inversi\\u00f3n por pagar\", \"id\": \"166.2_RAS_INVGAR_0_0_16\", \"scrapingIdentifierCell\": \"M49\", \"scrapingDataStartCell\": \"M50\", \"units\": \"Millones de Pesos\", \"dataset_identifier\": \"166\", \"distribution_identifier\": \"166.2\"}, {\"title\": \"otras_rentas\", \"type\": \"number\", \"description\": \"Otras rentas\", \"id\": \"166.2_OS_RENTTAS_0_0_12\", \"scrapingIdentifierCell\": \"N49\", \"scrapingDataStartCell\": \"N50\", \"units\": \"Millones de Pesos\", \"dataset_identifier\": \"166\", \"distribution_identifier\": \"166.2\"}, {\"title\": \"ing_nac_bruto_precios_mercado\", \"type\": \"number\", \"description\": \"Ingreso nacional bruto a precios de mercado\", \"id\": \"166.2_INAC_BRADO_0_0_29\", \"scrapingIdentifierCell\": \"O49\", \"scrapingDataStartCell\": \"O50\", \"units\": \"Millones de Pesos\", \"dataset_identifier\": \"166\", \"distribution_identifier\": \"166.2\"}, {\"title\": \"transf_corr_netas_ext\", \"type\": \"number\", \"description\": \"Transferencias corrientes netas del exterior\", \"id\": \"166.2_TSF_COREXT_0_0_21\", \"scrapingIdentifierCell\": \"P49\", \"scrapingDataStartCell\": \"P50\", \"units\": \"Millones de Pesos\", \"dataset_identifier\": \"166\", \"distribution_identifier\": \"166.2\"}, {\"title\": \"ing_nac_bruto_disp_pm\", \"type\": \"number\", \"description\": \"Ingreso nacional bruto disponible a precios de mercado\", \"id\": \"166.2_INAC_BR_PM_0_0_21\", \"scrapingIdentifierCell\": \"Q49\", \"scrapingDataStartCell\": \"Q50\", \"units\": \"Millones de Pesos\", \"dataset_identifier\": \"166\", \"distribution_identifier\": \"166.2\"}, {\"title\": \"cons_efectivo_total_priv_pub\", \"type\": \"number\", \"description\": \"Consumo efectivo total privado y publico\", \"id\": \"166.2_C_EFECTPUB_0_0_28\", \"scrapingIdentifierCell\": \"R49\", \"scrapingDataStartCell\": \"R50\", \"units\": \"Millones de Pesos\", \"dataset_identifier\": \"166\", \"distribution_identifier\": \"166.2\"}, {\"title\": \"ahorro_nac_bruto_anb\", \"type\": \"number\", \"description\": \"Ahorro nacional bruto\", \"id\": \"166.2_ARO_NACANB_0_0_20\", \"scrapingIdentifierCell\": \"S49\", \"scrapingDataStartCell\": \"S50\", \"units\": \"Millones de Pesos\", \"dataset_identifier\": \"166\", \"distribution_identifier\": \"166.2\"}, {\"title\": \"transf_cap_netas\", \"type\": \"number\", \"description\": \"Transferencias de capital netas\", \"id\": \"166.2_TSF_CAPTAS_0_0_16\", \"scrapingIdentifierCell\": \"T49\", \"scrapingDataStartCell\": \"T50\", \"units\": \"Millones de Pesos\", \"dataset_identifier\": \"166\", \"distribution_identifier\": \"166.2\"}, {\"title\": \"var_patri_neto_debidas_ahorro_transf_cap\", \"type\": \"number\", \"description\": \"Variaciones del patrimonio neto debidas al ahorro y a las transferencias de capital\", \"id\": \"166.2_VPATRI_CAP_0_0_40\", \"scrapingIdentifierCell\": \"U49\", \"scrapingDataStartCell\": \"U50\", \"units\": \"Millones de Pesos\", \"dataset_identifier\": \"166\", \"distribution_identifier\": \"166.2\"}, {\"title\": \"form_bruta_cap_fbc_fijo_var_exist_obj_val\", \"type\": \"number\", \"description\": \"Formaci\\u00f3n bruta de capital fijo m\\u00e1s variaciones de existencias m\\u00e1s objetos valiosos\", \"id\": \"166.2_F_BRUTAIST_0_0_33\", \"scrapingIdentifierCell\": \"V49\", \"scrapingDataStartCell\": \"V50\", \"units\": \"Millones de Pesos\", \"dataset_identifier\": \"166\", \"distribution_identifier\": \"166.2\"}, {\"title\": \"adqui_menos_dispo_activos_no_finan_no_producidos\", \"type\": \"number\", \"description\": \"Adquisiciones menos disposiciones de activos no financieros no producidos\", \"id\": \"166.2_AI_MENODOS_0_0_48\", \"scrapingIdentifierCell\": \"X49\", \"scrapingDataStartCell\": \"X50\", \"units\": \"Millones de Pesos\", \"dataset_identifier\": \"166\", \"distribution_identifier\": \"166.2\"}, {\"title\": \"prest_endeudamiento_neto\", \"type\": \"number\", \"description\": \"Pr\\u00e9stamo / Endeudamiento Neto\", \"id\": \"166.2_PT_ENDEETO_0_0_24\", \"scrapingIdentifierCell\": \"Y49\", \"scrapingDataStartCell\": \"Y50\", \"units\": \"Millones de Pesos\", \"dataset_identifier\": \"166\", \"distribution_identifier\": \"166.2\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-09-28T00:00:00",
+      "datastore_active": false,
+      "description": "Ingreso nacional, Ahorro nacional y Préstamo neto en millones de pesos a precios corrientes. Trimestral",
+      "fileName": "ingreso-ahorro-nacional-prestamo-neto-millones-pesos-precios-corrientes.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "sspm_166.2",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Ingreso nacional, Ahorro nacional y Préstamo neto. Millones de pesos.  Precios corrientes. Datos trimestrales",
+      "package_id": "sspm_166",
+      "position": 1,
+      "resource_type": null,
+      "revision_id": "63d97b34-ee5c-4034-8574-49b38f9fa777",
+      "size": null,
+      "state": "active",
+      "url": "https://infra.datos.gob.ar/catalog/sspm/dataset/166/distribution/166.2/download/ingreso-ahorro-nacional-prestamo-neto-millones-pesos-precios-corrientes.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "6bac8cfc-1506-4eaa-8f24-3d1e56457214",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "Actividad",
+      "id": "a7695c51-c893-4ece-8ff9-306c197afdd7",
+      "name": "Actividad",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Información Económica al Día",
+      "id": "0d300a9a-0802-46c3-9a40-2f28ddf050ec",
+      "name": "Información Económica al Día",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Sector Externo",
+      "id": "7161d5c3-be73-43e4-91b8-447209c908f4",
+      "name": "Sector Externo",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Ingreso nacional, Ahorro nacional y Préstamo neto",
+  "type": "dataset",
+  "url": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/",
+  "version": null
+}

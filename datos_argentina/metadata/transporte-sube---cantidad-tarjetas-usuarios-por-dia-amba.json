@@ -1,0 +1,133 @@
+{
+  "author": "Dirección Nacional de Desarrollo Tecnológico - Ministerio de Transporte.",
+  "author_email": null,
+  "creator_user_id": "dc157489-51c6-44ce-bd63-3bd983d60778",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P1D"
+    },
+    {
+      "key": "issued",
+      "value": "2021-02-03T11:59:30.838220"
+    },
+    {
+      "key": "modified",
+      "value": "2021-04-05T11:40:55.047942"
+    },
+    {
+      "key": "source",
+      "value": "Nación Servicios S.A."
+    },
+    {
+      "key": "spatial",
+      "value": "[\"ARG\"]"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"TRAN\"]"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Transporte",
+      "display_name": "Transporte",
+      "id": "57227cfc-80a6-45d3-9faa-711a98ac8ede",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225933.272993transporte.svg",
+      "name": "tran",
+      "title": "Transporte"
+    }
+  ],
+  "id": "transporte_066c2e82-687a-4dd6-9956-9a2f76349ae0",
+  "isopen": true,
+  "license_id": "CC-BY-4.0",
+  "license_title": "Creative Commons Attribution 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "maintainer": null,
+  "maintainer_email": null,
+  "metadata_created": "2021-03-19T17:06:21.759502",
+  "metadata_modified": "2021-04-29T21:11:07.027792",
+  "name": "transporte-sube---cantidad-tarjetas-usuarios-por-dia-amba",
+  "notes": "Cantidad de usuarios que utilizaron la tarjeta SUBE por día en el Área Metropolitana de Buenos Aires desagregado por modo de transporte",
+  "num_resources": 1,
+  "num_tags": 4,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:11.506514",
+    "description": "",
+    "id": "71418928-10c4-4625-aeaf-69a4d73d00ed",
+    "image_url": "",
+    "is_organization": true,
+    "name": "transporte",
+    "revision_id": "dc7b93ef-b174-46ee-90ea-63edf51296f0",
+    "state": "active",
+    "title": " Ministerio de Transporte",
+    "type": "organization"
+  },
+  "owner_org": "71418928-10c4-4625-aeaf-69a4d73d00ed",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "https://datos.transporte.gob.ar/dataset/066c2e82-687a-4dd6-9956-9a2f76349ae0/resource/6ac3cc43-34e3-48dd-a8cb-bbddbaac5d19",
+      "attributesDescription": "[{\"specialType\": \"time_index\", \"specialTypeDetail\": \"R/P1D\", \"type\": \"date\", \"description\": \"D\\u00eda analizado.\", \"title\": \"indice_tiempo\"}, {\"units\": \"Personas\", \"id\": \"transporte_sidyzitc\", \"type\": \"integer\", \"description\": \"Cantidad de tarjetas que registraron transacciones SUBE en AMBA.\", \"title\": \"total_amba\"}, {\"units\": \"Personas\", \"id\": \"transporte_fnf08oj2\", \"type\": \"integer\", \"description\": \"Cantidad de tarjetas que registraron transacciones SUBE en colectivo en AMBA.\", \"title\": \"colectivo_amba\"}, {\"units\": \"Personas\", \"id\": \"transporte_snipiic0\", \"type\": \"integer\", \"description\": \"Cantidad de tarjetas que registraron transacciones SUBE en lancha en AMBA.\", \"title\": \"lancha_amba\"}, {\"units\": \"Personas\", \"id\": \"transporte_r1c7i5n8\", \"type\": \"integer\", \"description\": \"Cantidad de tarjetas que registraron transacciones SUBE en subte en AMBA.\", \"title\": \"subte_amba\"}, {\"units\": \"Personas\", \"id\": \"transporte_lvg3li69\", \"type\": \"integer\", \"description\": \"Cantidad de tarjetas que registraron transacciones SUBE en tren en AMBA.\", \"title\": \"tren_amba\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2021-02-03T12:03:15.923518",
+      "datastore_active": false,
+      "description": "Cantidad de usuarios que utilizaron la tarjeta SUBE en el día indicado en el Área Metropolitana de Buenos Aires desagregado por modo de transporte.",
+      "format": "CSV",
+      "hash": "",
+      "id": "transporte_6ac3cc43-34e3-48dd-a8cb-bbddbaac5d19",
+      "last_modified": "2021-02-23T10:35:37.120420",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "SUBE - Cantidad de tarjetas (usuarios) por día en AMBA.",
+      "package_id": "transporte_066c2e82-687a-4dd6-9956-9a2f76349ae0",
+      "position": 0,
+      "resource_type": "file",
+      "revision_id": "2fcd1939-951e-4e35-9f4a-ca4b95a1e243",
+      "size": null,
+      "state": "active",
+      "url": "https://archivos-datos.transporte.gob.ar/upload/Sube/total-usuarios-por-dia-AMBA.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "ff1cd4bc-45be-472c-954c-569cd20e144d",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "Movilidad Urbana",
+      "id": "14ada287-45c0-4813-9cf9-8e06233c65a2",
+      "name": "Movilidad Urbana",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Transporte Automotor",
+      "id": "faf48ddb-07da-41d1-a0c8-86d00b563968",
+      "name": "Transporte Automotor",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Transporte Ferroviario",
+      "id": "f4e53926-9367-4bc2-aed7-f8c4fb21fcb1",
+      "name": "Transporte Ferroviario",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Transporte Fluvial",
+      "id": "cc931ff8-9f1f-45c6-af7f-5da71980611e",
+      "name": "Transporte Fluvial",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "SUBE - Cantidad de tarjetas (usuarios) por día en AMBA.",
+  "type": "dataset",
+  "url": "https://datos.transporte.gob.ar/dataset/sube-cantidad-de-tarjetas-usuarios-por-dia-en-amba",
+  "version": null
+}

@@ -1,0 +1,131 @@
+{
+  "author": "Subsecretaría de Programación Macroeconómica",
+  "author_email": "datoseconomicos@mecon.gov.ar",
+  "creator_user_id": "4720e75a-9e17-4dc3-879d-041917c7f9f9",
+  "extras": [
+    {
+      "key": "accrualPeriodicity",
+      "value": "R/P1M"
+    },
+    {
+      "key": "issued",
+      "value": "2017-09-28"
+    },
+    {
+      "key": "language",
+      "value": "[\"SPA\"]"
+    },
+    {
+      "key": "source",
+      "value": "Ministerio de Hacienda"
+    },
+    {
+      "key": "spatial",
+      "value": "ARG"
+    },
+    {
+      "key": "superTheme",
+      "value": "[\"ECON\"]"
+    },
+    {
+      "key": "temporal",
+      "value": "1940-01-01/2017-08-01"
+    }
+  ],
+  "groups": [
+    {
+      "description": "Economía y finanzas",
+      "display_name": "Economía y finanzas",
+      "id": "60b4b03e-10a1-4d67-b984-08008a249617",
+      "image_display_url": "https://datos.gob.ar/uploads/group/2019-12-04-225257.200233economia-finanzas.svg",
+      "name": "econ",
+      "title": "Economía y finanzas"
+    }
+  ],
+  "id": "sspm_174",
+  "isopen": true,
+  "license_id": "CC-BY-4.0",
+  "license_title": "Creative Commons Attribution 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "maintainer": "Subsecretaría de Programación Macroeconómica.",
+  "maintainer_email": "datoseconomicos@mecon.gov.ar",
+  "metadata_created": "2019-11-26T15:03:53.779163",
+  "metadata_modified": "2021-04-29T21:06:02.672748",
+  "name": "sspm-series-historicas-estadisticas-monetarias",
+  "notes": "Series históricas de estadísticas monetarias de Argentina",
+  "num_resources": 1,
+  "num_tags": 3,
+  "organization": {
+    "approval_status": "approved",
+    "created": "2019-10-01T18:27:09.718132",
+    "description": "",
+    "id": "68f9ee22-5ec3-44cf-a32b-b87d9db46b93",
+    "image_url": "",
+    "is_organization": true,
+    "name": "sspm",
+    "revision_id": "bc058ce0-3540-4204-96cd-9f9ec79045b3",
+    "state": "active",
+    "title": "Subsecretaría de Programación Macroeconómica",
+    "type": "organization"
+  },
+  "owner_org": "68f9ee22-5ec3-44cf-a32b-b87d9db46b93",
+  "private": false,
+  "relationships_as_object": [],
+  "relationships_as_subject": [],
+  "resources": [
+    {
+      "accessURL": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/",
+      "attributesDescription": "[{\"title\": \"indice_tiempo\", \"type\": \"date\", \"specialType\": \"time_index\", \"specialTypeDetail\": \"R/P1M\", \"id\": \"174.1_ICE_TIEMPO_0_0_13\", \"scrapingIdentifierCell\": \"A9\", \"scrapingDataStartCell\": \"A10\", \"dataset_identifier\": \"174\", \"distribution_identifier\": \"174.1\"}, {\"title\": \"reservas_internacionales_bcra_saldos\", \"type\": \"number\", \"description\": \"Reservas Internacionales BCRA Saldos\", \"id\": \"174.1_RRVAS_IDOS_0_0_36\", \"scrapingIdentifierCell\": \"B9\", \"scrapingDataStartCell\": \"B10\", \"units\": \"Millones de d\\u00f3lares\", \"dataset_identifier\": \"174\", \"distribution_identifier\": \"174.1\"}, {\"title\": \"reservas_internacionales_bcra_prom_mensual_de_saldos_diarios\", \"type\": \"number\", \"description\": \"Reservas Internacionales BCRA Promedio mensual de saldos diarios\", \"id\": \"174.1_RRVAS_IIOS_0_0_60\", \"scrapingIdentifierCell\": \"C9\", \"scrapingDataStartCell\": \"C10\", \"units\": \"Millones de d\\u00f3lares\", \"dataset_identifier\": \"174\", \"distribution_identifier\": \"174.1\"}, {\"title\": \"tipo_de_cambio_moneda_de_cada_momento\", \"type\": \"number\", \"description\": \"Tipo de Cambio Moneda de cada momento\", \"id\": \"174.1_T_DE_CANTO_0_0_37\", \"scrapingIdentifierCell\": \"D9\", \"scrapingDataStartCell\": \"D10\", \"units\": \"Pesos\", \"dataset_identifier\": \"174\", \"distribution_identifier\": \"174.1\"}, {\"title\": \"tipo_de_cambio_en_pesos_equivalentes\", \"type\": \"number\", \"description\": \"Tipo de Cambio En $ equivalentes\", \"id\": \"174.1_T_DE_CATES_0_0_32\", \"scrapingIdentifierCell\": \"E9\", \"scrapingDataStartCell\": \"E10\", \"units\": \"Pesos\", \"dataset_identifier\": \"174\", \"distribution_identifier\": \"174.1\"}, {\"title\": \"agregados_monetarios_en_pesos_bym_totales\", \"type\": \"number\", \"description\": \"Agregados Monetarios en $ ByM Totales\", \"id\": \"174.1_AGADOS_LES_0_0_37\", \"scrapingIdentifierCell\": \"F9\", \"scrapingDataStartCell\": \"F10\", \"units\": \"Millones de pesos\", \"dataset_identifier\": \"174\", \"distribution_identifier\": \"174.1\"}, {\"title\": \"agregados_monetarios_en_pesos_bym_en_circulacion\", \"type\": \"number\", \"description\": \"Agregados Monetarios en $ ByM en circulaci\\u00f3n\", \"id\": \"174.1_AGADOS_ION_0_0_44\", \"scrapingIdentifierCell\": \"G9\", \"scrapingDataStartCell\": \"G10\", \"units\": \"Millones de pesos\", \"dataset_identifier\": \"174\", \"distribution_identifier\": \"174.1\"}, {\"title\": \"agregados_monetarios_en_pesos_bym_en_entidades\", \"type\": \"number\", \"description\": \"Agregados Monetarios en $ ByM en entidades\", \"id\": \"174.1_AGADOS_DES_0_0_42\", \"scrapingIdentifierCell\": \"H9\", \"scrapingDataStartCell\": \"H10\", \"units\": \"Millones de pesos\", \"dataset_identifier\": \"174\", \"distribution_identifier\": \"174.1\"}, {\"title\": \"agregados_monetarios_en_pesos_bm\", \"type\": \"number\", \"description\": \"Agregados Monetarios en $ BM\", \"id\": \"174.1_AGADOS_BM_0_0_28\", \"scrapingIdentifierCell\": \"I9\", \"scrapingDataStartCell\": \"I10\", \"units\": \"Millones de pesos\", \"dataset_identifier\": \"174\", \"distribution_identifier\": \"174.1\"}, {\"title\": \"agregados_monetarios_en_pesos_m1\", \"type\": \"number\", \"description\": \"Agregados Monetarios en $ M1\", \"id\": \"174.1_AGADOS_M1_0_0_28\", \"scrapingIdentifierCell\": \"J9\", \"scrapingDataStartCell\": \"J10\", \"units\": \"Millones de pesos\", \"dataset_identifier\": \"174\", \"distribution_identifier\": \"174.1\"}, {\"title\": \"agregados_monetarios_en_pesos_m2\", \"type\": \"number\", \"description\": \"Agregados Monetarios en $ M2\", \"id\": \"174.1_AGADOS_M2_0_0_28\", \"scrapingIdentifierCell\": \"K9\", \"scrapingDataStartCell\": \"K10\", \"units\": \"Millones de pesos\", \"dataset_identifier\": \"174\", \"distribution_identifier\": \"174.1\"}, {\"title\": \"agregados_monetarios_en_pesos_m3\", \"type\": \"number\", \"description\": \"Agregados Monetarios en $ M3\", \"id\": \"174.1_AGADOS_M3_0_0_28\", \"scrapingIdentifierCell\": \"L9\", \"scrapingDataStartCell\": \"L10\", \"units\": \"Millones de pesos\", \"dataset_identifier\": \"174\", \"distribution_identifier\": \"174.1\"}, {\"title\": \"agregados_usd_m1\", \"type\": \"number\", \"description\": \"Agregados USD M1\", \"id\": \"174.1_AGADOS_M1_0_0_16\", \"scrapingIdentifierCell\": \"M9\", \"scrapingDataStartCell\": \"M10\", \"units\": \"Millones de d\\u00f3lares\", \"dataset_identifier\": \"174\", \"distribution_identifier\": \"174.1\"}, {\"title\": \"agregados_usd_m2\", \"type\": \"number\", \"description\": \"Agregados USD M2\", \"id\": \"174.1_AGADOS_M2_0_0_16\", \"scrapingIdentifierCell\": \"N9\", \"scrapingDataStartCell\": \"N10\", \"units\": \"Millones de d\\u00f3lares\", \"dataset_identifier\": \"174\", \"distribution_identifier\": \"174.1\"}, {\"title\": \"agregados_usd_m3\", \"type\": \"number\", \"description\": \"Agregados USD M3\", \"id\": \"174.1_AGADOS_M3_0_0_16\", \"scrapingIdentifierCell\": \"O9\", \"scrapingDataStartCell\": \"O10\", \"units\": \"Millones de d\\u00f3lares\", \"dataset_identifier\": \"174\", \"distribution_identifier\": \"174.1\"}, {\"title\": \"prestamos_totales_total\", \"type\": \"number\", \"description\": \"Pr\\u00e9stamos totales Total\", \"id\": \"174.1_PTAMOS_TAL_0_0_23\", \"scrapingIdentifierCell\": \"P9\", \"scrapingDataStartCell\": \"P10\", \"units\": \"Millones de pesos\", \"dataset_identifier\": \"174\", \"distribution_identifier\": \"174.1\"}, {\"title\": \"prestamos_totales_pesos\", \"type\": \"number\", \"description\": \"Pr\\u00e9stamos totales $\", \"id\": \"174.1_PTAMOS_S_0_0_19\", \"scrapingIdentifierCell\": \"Q9\", \"scrapingDataStartCell\": \"Q10\", \"units\": \"Millones de pesos\", \"dataset_identifier\": \"174\", \"distribution_identifier\": \"174.1\"}, {\"title\": \"prestamos_totales_usd\", \"type\": \"number\", \"description\": \"Pr\\u00e9stamos totales USD\", \"id\": \"174.1_PTAMOS_USD_0_0_21\", \"scrapingIdentifierCell\": \"R9\", \"scrapingDataStartCell\": \"R10\", \"units\": \"Millones de pesos\", \"dataset_identifier\": \"174\", \"distribution_identifier\": \"174.1\"}, {\"title\": \"prestamos_al_sector_privado_total\", \"type\": \"number\", \"description\": \"Pr\\u00e9stamos al sector privado Total\", \"id\": \"174.1_PTAMOS_TAL_0_0_33\", \"scrapingIdentifierCell\": \"S9\", \"scrapingDataStartCell\": \"S10\", \"units\": \"Millones de pesos\", \"dataset_identifier\": \"174\", \"distribution_identifier\": \"174.1\"}, {\"title\": \"prestamos_al_sector_privado_pesos\", \"type\": \"number\", \"description\": \"Pr\\u00e9stamos al sector privado $\", \"id\": \"174.1_PTAMOS_O_0_0_29\", \"scrapingIdentifierCell\": \"T9\", \"scrapingDataStartCell\": \"T10\", \"units\": \"Millones de pesos\", \"dataset_identifier\": \"174\", \"distribution_identifier\": \"174.1\"}, {\"title\": \"prestamos_al_sector_privado_usd\", \"type\": \"number\", \"description\": \"Pr\\u00e9stamos al sector privado USD\", \"id\": \"174.1_PTAMOS_USD_0_0_31\", \"scrapingIdentifierCell\": \"U9\", \"scrapingDataStartCell\": \"U10\", \"units\": \"Millones de pesos\", \"dataset_identifier\": \"174\", \"distribution_identifier\": \"174.1\"}, {\"title\": \"prestamos_al_sector_publico_total\", \"type\": \"number\", \"description\": \"Pr\\u00e9stamos al sector p\\u00fablico Total\", \"id\": \"174.1_PTAMOS_TAL_O_0_0_33\", \"scrapingIdentifierCell\": \"V9\", \"scrapingDataStartCell\": \"V10\", \"units\": \"Millones de pesos\", \"dataset_identifier\": \"174\", \"distribution_identifier\": \"174.1\"}, {\"title\": \"prestamos_al_sector_publico_pesos\", \"type\": \"number\", \"description\": \"Pr\\u00e9stamos al sector p\\u00fablico $\", \"id\": \"174.1_PTAMOS_O_O_0_0_29\", \"scrapingIdentifierCell\": \"W9\", \"scrapingDataStartCell\": \"W10\", \"units\": \"Millones de pesos\", \"dataset_identifier\": \"174\", \"distribution_identifier\": \"174.1\"}, {\"title\": \"prestamos_al_sector_publico_usd\", \"type\": \"number\", \"description\": \"Pr\\u00e9stamos al sector p\\u00fablico USD\", \"id\": \"174.1_PTAMOS_USD_O_0_0_31\", \"scrapingIdentifierCell\": \"X9\", \"scrapingDataStartCell\": \"X10\", \"units\": \"Millones de pesos\", \"dataset_identifier\": \"174\", \"distribution_identifier\": \"174.1\"}, {\"title\": \"depositos_totales_total\", \"type\": \"number\", \"description\": \"Dep\\u00f3sitos totales Total\", \"id\": \"174.1_DSITOS_TAL_0_0_23\", \"scrapingIdentifierCell\": \"Y9\", \"scrapingDataStartCell\": \"Y10\", \"units\": \"Millones de pesos\", \"dataset_identifier\": \"174\", \"distribution_identifier\": \"174.1\"}, {\"title\": \"depositos_totales_pesos\", \"type\": \"number\", \"description\": \"Dep\\u00f3sitos totales $\", \"id\": \"174.1_DSITOS_S_0_0_19\", \"scrapingIdentifierCell\": \"Z9\", \"scrapingDataStartCell\": \"Z10\", \"units\": \"Millones de pesos\", \"dataset_identifier\": \"174\", \"distribution_identifier\": \"174.1\"}, {\"title\": \"depositos_totales_usd\", \"type\": \"number\", \"description\": \"Dep\\u00f3sitos totales USD\", \"id\": \"174.1_DSITOS_USD_0_0_21\", \"scrapingIdentifierCell\": \"AA9\", \"scrapingDataStartCell\": \"AA10\", \"units\": \"Millones de pesos\", \"dataset_identifier\": \"174\", \"distribution_identifier\": \"174.1\"}, {\"title\": \"depositos_al_sector_privado_total\", \"type\": \"number\", \"description\": \"Dep\\u00f3sitos al sector privado Total\", \"id\": \"174.1_DSITOS_TAL_0_0_33\", \"scrapingIdentifierCell\": \"AB9\", \"scrapingDataStartCell\": \"AB10\", \"units\": \"Millones de pesos\", \"dataset_identifier\": \"174\", \"distribution_identifier\": \"174.1\"}, {\"title\": \"depositos_al_sector_privado_pesos\", \"type\": \"number\", \"description\": \"Dep\\u00f3sitos al sector privado $\", \"id\": \"174.1_DSITOS_O_0_0_29\", \"scrapingIdentifierCell\": \"AC9\", \"scrapingDataStartCell\": \"AC10\", \"units\": \"Millones de pesos\", \"dataset_identifier\": \"174\", \"distribution_identifier\": \"174.1\"}, {\"title\": \"depositos_al_sector_privado_usd\", \"type\": \"number\", \"description\": \"Dep\\u00f3sitos al sector privado USD\", \"id\": \"174.1_DSITOS_USD_0_0_31\", \"scrapingIdentifierCell\": \"AD9\", \"scrapingDataStartCell\": \"AD10\", \"units\": \"Millones de pesos\", \"dataset_identifier\": \"174\", \"distribution_identifier\": \"174.1\"}, {\"title\": \"depositos_al_sector_publico_total\", \"type\": \"number\", \"description\": \"Dep\\u00f3sitos al sector p\\u00fablico Total\", \"id\": \"174.1_DSITOS_TAL_I_0_0_33\", \"scrapingIdentifierCell\": \"AE9\", \"scrapingDataStartCell\": \"AE10\", \"units\": \"Millones de pesos\", \"dataset_identifier\": \"174\", \"distribution_identifier\": \"174.1\"}, {\"title\": \"depositos_al_sector_publico_pesos\", \"type\": \"number\", \"description\": \"Dep\\u00f3sitos al sector p\\u00fablico $\", \"id\": \"174.1_DSITOS_O_I_0_0_29\", \"scrapingIdentifierCell\": \"AF9\", \"scrapingDataStartCell\": \"AF10\", \"units\": \"Millones de pesos\", \"dataset_identifier\": \"174\", \"distribution_identifier\": \"174.1\"}, {\"title\": \"depositos_al_sector_publico_usd\", \"type\": \"number\", \"description\": \"Dep\\u00f3sitos al sector p\\u00fablico USD\", \"id\": \"174.1_DSITOS_USD_I_0_0_31\", \"scrapingIdentifierCell\": \"AG9\", \"scrapingDataStartCell\": \"AG10\", \"units\": \"Millones de pesos\", \"dataset_identifier\": \"174\", \"distribution_identifier\": \"174.1\"}, {\"title\": \"tasa_interes_deposito_caja_de_ahorro_pesos\", \"type\": \"number\", \"description\": \"Tasa de inter\\u00e9s Por dep\\u00f3sitos en caja de ahorro De moneda nacional\", \"id\": \"174.1_T_INTERO_0_0_38\", \"scrapingIdentifierCell\": \"AH9\", \"scrapingDataStartCell\": \"AH10\", \"units\": \"Porcentaje\", \"dataset_identifier\": \"174\", \"distribution_identifier\": \"174.1\"}, {\"title\": \"tasa_interes_deposito_caja_de_ahorro_usd\", \"type\": \"number\", \"description\": \"Tasa de inter\\u00e9s Por dep\\u00f3sitos en caja de ahorro De moneda extranjera\", \"id\": \"174.1_T_INTERUS_0_0_40\", \"scrapingIdentifierCell\": \"AI9\", \"scrapingDataStartCell\": \"AI10\", \"units\": \"Porcentaje\", \"dataset_identifier\": \"174\", \"distribution_identifier\": \"174.1\"}, {\"title\": \"tasa_interes_deposito_plazo_fijo_30_59d_pesos\", \"type\": \"number\", \"description\": \"Tasa de inter\\u00e9s Por dep\\u00f3sitos a plazo fijo de 30 a 59 d\\u00edas De moneda nacional\", \"id\": \"174.1_T_INTERD_0_0_41\", \"scrapingIdentifierCell\": \"AJ9\", \"scrapingDataStartCell\": \"AJ10\", \"units\": \"Porcentaje\", \"dataset_identifier\": \"174\", \"distribution_identifier\": \"174.1\"}, {\"title\": \"tasa_interes_deposito_plazo_fijo_30_59d_usd\", \"type\": \"number\", \"description\": \"Tasa de inter\\u00e9s Por dep\\u00f3sitos a plazo fijo de 30 a 59 d\\u00edas De moneda extranjera\", \"id\": \"174.1_T_INTERUS_0_0_43\", \"scrapingIdentifierCell\": \"AK9\", \"scrapingDataStartCell\": \"AK10\", \"units\": \"Porcentaje\", \"dataset_identifier\": \"174\", \"distribution_identifier\": \"174.1\"}, {\"title\": \"tasa_interes_obligaciones_entidades_financieras_exterior\", \"type\": \"number\", \"description\": \"Tasa de inter\\u00e9s Por obligaciones con entidades financieras del exterior\", \"id\": \"174.1_T_INTEROR_0_0_57\", \"scrapingIdentifierCell\": \"AL9\", \"scrapingDataStartCell\": \"AL10\", \"units\": \"Porcentaje\", \"dataset_identifier\": \"174\", \"distribution_identifier\": \"174.1\"}, {\"title\": \"tasa_interes_prestamos_interfinancieros_hasta_15d_pesos\", \"type\": \"number\", \"description\": \"Tasa de inter\\u00e9s Por pr\\u00e9stamos interfinancieros hasta 15 d\\u00edas de plazo De moneda nacional\", \"id\": \"174.1_T_INTERO_0_0_57\", \"scrapingIdentifierCell\": \"AM9\", \"scrapingDataStartCell\": \"AM10\", \"units\": \"Porcentaje\", \"dataset_identifier\": \"174\", \"distribution_identifier\": \"174.1\"}, {\"title\": \"tasa_interes_prestamos_interfinancieros_hasta_15d_plazo_usd\", \"type\": \"number\", \"description\": \"Tasa de inter\\u00e9s Por pr\\u00e9stamos interfinancieros hasta 15 d\\u00edas de plazo De moneda extranjera\", \"id\": \"174.1_T_INTERUS_0_0_59\", \"scrapingIdentifierCell\": \"AN9\", \"scrapingDataStartCell\": \"AN10\", \"units\": \"Porcentaje\", \"dataset_identifier\": \"174\", \"distribution_identifier\": \"174.1\"}, {\"title\": \"tasa_interes_prestamos_empresas_primera_linea_30d_pesos\", \"type\": \"number\", \"description\": \"Tasa de inter\\u00e9s Por pr\\u00e9stamos a empresas de primera l\\u00ednea a 30 d\\u00edas de plazo De moneda nacional\", \"id\": \"174.1_T_INTERO_I_0_0_57\", \"scrapingIdentifierCell\": \"AO9\", \"scrapingDataStartCell\": \"AO10\", \"units\": \"Porcentaje\", \"dataset_identifier\": \"174\", \"distribution_identifier\": \"174.1\"}, {\"title\": \"tasa_interes_prestamos_empresas_primera_linea_30d_plazo_usd\", \"type\": \"number\", \"description\": \"Tasa de inter\\u00e9s Por pr\\u00e9stamos a empresas de primera l\\u00ednea a 30 d\\u00edas de plazo De moneda extranjera\", \"id\": \"174.1_T_INTERUS_I_0_0_59\", \"scrapingIdentifierCell\": \"AP9\", \"scrapingDataStartCell\": \"AP10\", \"units\": \"Porcentaje\", \"dataset_identifier\": \"174\", \"distribution_identifier\": \"174.1\"}, {\"title\": \"tasa_interes_adelantos_en_cc_sect_priv_no_financiero_pesos\", \"type\": \"number\", \"description\": \"Tasa de inter\\u00e9s Por adelantos en cuenta corriente al sector privadono financiero De moneda nacional\", \"id\": \"174.1_T_INTERO_II_0_0_57\", \"scrapingIdentifierCell\": \"AQ9\", \"scrapingDataStartCell\": \"AQ10\", \"units\": \"Porcentaje\", \"dataset_identifier\": \"174\", \"distribution_identifier\": \"174.1\"}, {\"title\": \"tasa_interes_adelantos_en_cc_al_sect_priv_no_financiero_usd\", \"type\": \"number\", \"description\": \"Tasa de inter\\u00e9s Por adelantos en cuenta corriente al sector privadono financiero De moneda extranjera\", \"id\": \"174.1_T_INTERUS_II_0_0_59\", \"scrapingIdentifierCell\": \"AR9\", \"scrapingDataStartCell\": \"AR10\", \"units\": \"Porcentaje\", \"dataset_identifier\": \"174\", \"distribution_identifier\": \"174.1\"}, {\"title\": \"tasa_interes_prestamos_hipot_sect_priv_5_10_anios_pesos\", \"type\": \"number\", \"description\": \"Tasa de inter\\u00e9s Por pr\\u00e9stamos hipotecarios al sector privado (entre 5 y 10 a\\u00f1os) De moneda nacional\", \"id\": \"174.1_T_INTERS_0_0_56\", \"scrapingIdentifierCell\": \"AS9\", \"scrapingDataStartCell\": \"AS10\", \"units\": \"Porcentaje\", \"dataset_identifier\": \"174\", \"distribution_identifier\": \"174.1\"}, {\"title\": \"tasa_interes_prestamos_hipotecarios_sect_priv_5_10_anios_usd\", \"type\": \"number\", \"description\": \"Tasa de inter\\u00e9s Por pr\\u00e9stamos hipotecarios al sector privado (entre 5 y 10 a\\u00f1os) De moneda extranjera\", \"id\": \"174.1_T_INTERUS_0_0_58\", \"scrapingIdentifierCell\": \"AT9\", \"scrapingDataStartCell\": \"AT10\", \"units\": \"Porcentaje\", \"dataset_identifier\": \"174\", \"distribution_identifier\": \"174.1\"}]",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-09-28T00:00:00",
+      "datastore_active": false,
+      "description": "Series históricas de estadísticas monetarias Argentina. Valores mensuales",
+      "fileName": "series-historicas-monetarias.csv",
+      "format": "CSV",
+      "hash": "",
+      "id": "sspm_174.1",
+      "last_modified": null,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Series históricas de estadísticas monetarias de Argentina",
+      "package_id": "sspm_174",
+      "position": 0,
+      "resource_type": null,
+      "revision_id": "2d0fe43c-a394-4fd0-b971-a6fa7d5125bc",
+      "size": null,
+      "state": "active",
+      "url": "https://infra.datos.gob.ar/catalog/sspm/dataset/174/distribution/174.1/download/series-historicas-monetarias.csv",
+      "url_type": null
+    }
+  ],
+  "revision_id": "2d0fe43c-a394-4fd0-b971-a6fa7d5125bc",
+  "state": "active",
+  "tags": [
+    {
+      "display_name": "Dinero y Bancos",
+      "id": "a6e04960-0d58-4c4e-a59c-a2e2ef9ac579",
+      "name": "Dinero y Bancos",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Información Económica Histórica",
+      "id": "3834bbe4-6452-499b-a70e-85765a130da2",
+      "name": "Información Económica Histórica",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Información económica al día",
+      "id": "a277ffeb-6252-446e-a364-14710b257b35",
+      "name": "Información económica al día",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "title": "Series históricas de estadísticas monetarias",
+  "type": "dataset",
+  "url": "https://www.minhacienda.gob.ar/secretarias/politica-economica/programacion-macroeconomica/",
+  "version": null
+}
