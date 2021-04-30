@@ -1767,6 +1767,18 @@ Distribución porcentual de los hogares por hacinamiento de hogares en vivienda 
 
 [Internet Archive url](https://archive.org/details/buenos_aires_data_bed77332-3a15-40b5-83f2-fd2fb3b36956) - [Original url](http://data.buenosaires.gob.ar/dataset/3b4124a6-a8fd-4fdb-b0f2-0afe596349e0/resource/bed77332-3a15-40b5-83f2-fd2fb3b36956)
 
+## Colonias de Verano (colonias-de-verano)
+
+
+[Original url](https://data.buenosaires.gob.ar/dataset/colonias-de-verano)
+
+
+### Colonias de Verano
+
+Localización de establecimientos en donde se desarrollan las colonias de verano para niños de la Ciudad de Buenos Aires.
+
+[Internet Archive url](https://archive.org/details/buenos_aires_data_7e97ece1-3ec4-43df-9829-ae103694c0a2) - [Original url]()
+
 ## BAFICI (bafici)
 
 
@@ -4306,6 +4318,18 @@ Listado de contribuyentes que se encuentran bajo proceso de inspección fiscal p
 Listado histórico de puntos de recambio de lámparas led en la Ciudad Autónoma de Buenos Aires, con información sobre el ahorro energético y las emisiones GEI evitadas
 
 [Internet Archive url](https://archive.org/details/buenos_aires_data_c3cf0c76-5428-4e21-b65f-d13b821c85f0) - [Original url]()
+
+## Hogares Permanentes (hogares-permanentes)
+
+
+[Original url](https://data.buenosaires.gob.ar/dataset/hogares-permanentes)
+
+
+### Hogares Permanentes
+
+Contiene la localización de los Hogares permanentes para personas mayores.
+
+[Internet Archive url](https://archive.org/details/buenos_aires_data_b0b3268e-3dc2-4739-aec1-d72f4d82fbfe) - [Original url]()
 
 ## Hogares en situación de vulnerabilidad (hogares-situacion-vulnerabilidad)
 
